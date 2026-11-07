@@ -1,5 +1,5 @@
 {
- "tg_offset": 0,
+ "tg_offset": 495892639,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -106,6 +106,107 @@
    "status": "pending",
    "tg_message_id": 11,
    "tg_file_id": "AgACAgUAAxkDAAMLau9Ttt3-ldnq-Ra-HtTxM-lc5LsAArAVaxv8lnlXkIylteYy54MBAAMCAAN3AAM9BA"
+  },
+  "f8b3a7b0e4": {
+   "id": "f8b3a7b0e4",
+   "headline": "Russian airstrikes hit Kyiv ahead of planned talks",
+   "summary": "Russia launched a massive overnight missile and drone attack targeting Kyiv and surrounding areas, damaging energy infrastructure and causing power and water outages. The strikes occurred as delegations prepare for upcoming talks involving Ukraine, Russia, and the United States.",
+   "label": "CONFLICT",
+   "hashtags": [
+    "#Ukraine",
+    "#Russia",
+    "#WorldNews"
+   ],
+   "sources": [
+    "ABC News",
+    "BBC",
+    "DW",
+    "France 24",
+    "The Guardian"
+   ],
+   "link": "https://abcnews.com/International/wireStory/missiles-target-kyiv-injure-5-ukraine-prepares-talks-137937211",
+   "links": [
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/missiles-target-kyiv-injure-5-ukraine-prepares-talks-137937211"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid"
+    ],
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/video/20261107-russia-launches-massive-strike-on-kyiv-1"
+    ]
+   ],
+   "bg": {
+    "type": "brand",
+    "photos": []
+   },
+   "created_at": "2026-11-07T16:50:41.452465+00:00",
+   "news_time": "2026-11-07T08:08:44+00:00",
+   "news_latest": "2026-11-07T15:46:14+00:00",
+   "caption": "Russian airstrikes hit Kyiv ahead of planned talks\n\nRussia launched a massive overnight missile and drone attack targeting Kyiv and surrounding areas, damaging energy infrastructure and causing power and water outages. The strikes occurred as delegations prepare for upcoming talks involving Ukraine, Russia, and the United States.\n\n📰 Sources: ABC News, BBC, DW, France 24\n🔗 Read more: https://abcnews.com/International/wireStory/missiles-target-kyiv-injure-5-ukraine-prepares-talks-137937211\n\n#Ukraine #Russia #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 14,
+   "tg_file_id": "AgACAgUAAxkDAAMOau9W7WAIMRogLTyqdLSWjgY9yvEAArIVaxv8lnlX-RYdG66Z6QUBAAMCAAN3AAM9BA"
+  },
+  "bf565a693b": {
+   "id": "bf565a693b",
+   "headline": "Pope Leo starts South America tour in Uruguay",
+   "summary": "Pope Leo XIV has begun a three-nation tour of South America, stopping in Uruguay just weeks after undergoing lung cancer surgery. During his visit, he addressed thousands of people and urged them to build bridges of faith and fraternity.",
+   "label": "WORLD",
+   "hashtags": [
+    "#PopeLeo",
+    "#Uruguay",
+    "#WorldNews"
+   ],
+   "sources": [
+    "ABC News",
+    "BBC",
+    "CBS News",
+    "France 24"
+   ],
+   "link": "https://abcnews.com/International/wireStory/thousands-pour-park-uruguay-pope-leos-mass-south-137938096",
+   "links": [
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/thousands-pour-park-uruguay-pope-leos-mass-south-137938096"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/video/pope-leo-travels-to-latin-america-just-weeks-after-lung-cancer-surgery/"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/pope-leo-calls-on-uruguay-catholics-bridge-builders"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/pope-urges-healthcare-for-all-in-uruguay"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Vista_del_monumento_a_Rivera_desde_atr%C3%A1s.JPG/1920px-Vista_del_monumento_a_Rivera_desde_atr%C3%A1s.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Lamonpe / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "created_at": "2026-11-07T16:50:55.483195+00:00",
+   "news_time": "2026-11-07T06:59:48+00:00",
+   "news_latest": "2026-11-07T15:54:14+00:00",
+   "caption": "Pope Leo starts South America tour in Uruguay\n\nPope Leo XIV has begun a three-nation tour of South America, stopping in Uruguay just weeks after undergoing lung cancer surgery. During his visit, he addressed thousands of people and urged them to build bridges of faith and fraternity.\n\n📰 Sources: ABC News, BBC, CBS News, France 24\n🔗 Read more: https://abcnews.com/International/wireStory/thousands-pour-park-uruguay-pope-leos-mass-south-137938096\n📷 Photo: Lamonpe / Wikimedia Commons (CC BY-SA 3.0)\n\n#PopeLeo #Uruguay #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 15,
+   "tg_file_id": "AgACAgUAAxkDAAMPau9W81A36Yot5ooMDPDZixKQvlgAArMVaxv8lnlXZ4bYkuzEKy4BAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -123,7 +224,18 @@
   "https://www.cbsnews.com/news/trump-60-minutes-midterm-election-firings-susie-wiles/",
   "https://www.cbsnews.com/news/stephen-miller-chief-of-staff-trump-immigration-policies/",
   "https://www.theguardian.com/us-news/2026/nov/07/trump-stephen-miller-midterms",
-  "https://www.npr.org/2026/11/07/nx-s1-6030908/week-in-politics-trump-taps-miller-for-chief-of-staff-doubles-down-on-trumpism"
+  "https://www.npr.org/2026/11/07/nx-s1-6030908/week-in-politics-trump-taps-miller-for-chief-of-staff-doubles-down-on-trumpism",
+  "https://abcnews.com/International/wireStory/missiles-target-kyiv-injure-5-ukraine-prepares-talks-137937211",
+  "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
+  "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+  "https://www.france24.com/en/video/20261107-russia-launches-massive-strike-on-kyiv-1",
+  "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-world-4025-rdf",
+  "https://www.france24.com/en/europe/20261107-moscow-strikes-kyiv-as-ukraine-prepares-for-talks-with-russia-and-the-us",
+  "https://abcnews.com/International/wireStory/thousands-pour-park-uruguay-pope-leos-mass-south-137938096",
+  "https://www.cbsnews.com/video/pope-leo-travels-to-latin-america-just-weeks-after-lung-cancer-surgery/",
+  "https://www.france24.com/en/pope-leo-calls-on-uruguay-catholics-bridge-builders",
+  "https://www.france24.com/en/pope-urges-healthcare-for-all-in-uruguay",
+  "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss"
  ],
  "recent_topics": [
   [
@@ -211,9 +323,76 @@
     "trumpism",
     "voters"
    ]
+  ],
+  [
+   "2026-11-07T16:50:53.736430+00:00",
+   [
+    "ahead",
+    "airstrikes",
+    "blackouts",
+    "damage",
+    "energy",
+    "grid",
+    "hits",
+    "kyiv",
+    "launches",
+    "massive",
+    "missiles",
+    "network",
+    "nine",
+    "overnight",
+    "power",
+    "prepares",
+    "region",
+    "russia",
+    "russian",
+    "shortages",
+    "strike",
+    "strikes",
+    "surrounding",
+    "talks",
+    "target",
+    "trilateral",
+    "ukraine",
+    "water",
+    "wound"
+   ]
+  ],
+  [
+   "2026-11-07T16:50:59.424414+00:00",
+   [
+    "all",
+    "america",
+    "bridge",
+    "builders",
+    "calls",
+    "cancer",
+    "catholics",
+    "good",
+    "health",
+    "healthcare",
+    "latin",
+    "leo",
+    "lung",
+    "mass",
+    "park",
+    "pope",
+    "pour",
+    "pretty",
+    "south",
+    "starts",
+    "surgery",
+    "thousands",
+    "tour",
+    "travels",
+    "urges",
+    "uruguay",
+    "weeks"
+   ]
   ]
  ],
- "last_draft_at": "2026-11-07T16:36:25.907871+00:00",
+ "last_draft_at": "2026-11-07T16:50:37.981668+00:00",
  "last_slot": null,
- "commands_set": 2
+ "commands_set": 2,
+ "log_channel": -1004367532135
 }
