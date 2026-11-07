@@ -113,6 +113,7 @@ GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "").strip()
 FB_PAGE_ID = os.environ.get("FB_PAGE_ID", "").strip()
 FB_TOKEN = os.environ.get("FB_PAGE_TOKEN", "").strip()
 PEXELS_KEY = os.environ.get("PEXELS_API_KEY", "").strip()   # optional
+PIXABAY_KEY = os.environ.get("PIXABAY_API_KEY", "").strip()  # optional
 FORCE_DRAFT = os.environ.get("FORCE_DRAFT", "").strip().lower() in ("1", "true", "yes")
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -665,13 +666,62 @@ def pexels_photo(query):
         return None
 
 
+def pixabay_photo(query):
+    if not PIXABAY_KEY or not query:
+        return None
+    try:
+        r = HTTP.get("https://pixabay.com/api/", timeout=30, params={
+            "key": PIXABAY_KEY, "q": query[:100], "image_type": "photo",
+            "safesearch": "true", "per_page": 10, "min_width": 1000})
+        hits = r.json().get("hits", [])
+        if not hits:
+            return None
+        p = random.choice(hits[:4])
+        return {"url": p["largeImageURL"],
+                "credit": f"{p.get('user', 'Pixabay')} / Pixabay", "short": "PIXABAY"}
+    except Exception as e:
+        log("Pixabay failed:", e)
+        return None
+
+
+def wiki_search_photo(query):
+    """Free-licensed photo from Wikimedia Commons search. No key needed."""
+    if not query:
+        return None
+    try:
+        r = HTTP.get("https://commons.wikimedia.org/w/api.php", headers=WIKI_HEADERS, timeout=30, params={
+            "action": "query", "generator": "search", "gsrnamespace": 6,
+            "gsrsearch": f"{query} filetype:bitmap", "gsrlimit": 12,
+            "prop": "imageinfo", "iiprop": "url|size|extmetadata|mime",
+            "iiurlwidth": 1600, "format": "json"})
+        pages = sorted(r.json().get("query", {}).get("pages", {}).values(),
+                       key=lambda p: p.get("index", 99))
+        good = []
+        for page in pages:
+            info = (page.get("imageinfo") or [{}])[0]
+            if info.get("mime") not in ("image/jpeg", "image/png") or info.get("width", 0) < 1200:
+                continue
+            meta = info.get("extmetadata", {})
+            lic = clean_html(meta.get("LicenseShortName", {}).get("value", ""))
+            if not lic.lower().startswith(FREE_LICENSES):
+                continue
+            artist = clean_html(meta.get("Artist", {}).get("value", ""))[:60] or "Unknown author"
+            good.append({"url": info.get("thumburl") or info["url"],
+                         "credit": f"{artist} / Wikimedia Commons ({lic})", "short": "WIKIMEDIA COMMONS"})
+        return random.choice(good[:3]) if good else None
+    except Exception as e:
+        log("Wikimedia search failed:", e)
+        return None
+
+
 def choose_background(post):
     """1) photos of the people in the story  2) matching stock photo  3) brand design."""
     people = [p.strip() for p in (post.get("people") or []) if isinstance(p, str) and p.strip()][:2]
     found = [x for x in (wiki_person_photo(p) for p in people) if x]
     if found:
         return {"type": "people", "photos": found}
-    px = pexels_photo(post.get("image_query", ""))
+    q = post.get("image_query", "")
+    px = pexels_photo(q) or pixabay_photo(q) or wiki_search_photo(q)
     if px:
         return {"type": "photo", "photos": [px]}
     return {"type": "brand", "photos": []}

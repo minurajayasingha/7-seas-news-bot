@@ -17,7 +17,7 @@ Every 15 minutes GitHub runs the bot:
 
 **Images** (automatic, in this order):
 1. If the story is about 1–2 named people → their free-licensed photo from Wikimedia Commons (side by side for 2)
-2. Otherwise → a matching stock photo from Pexels (only if you add `PEXELS_API_KEY`)
+2. Otherwise → a matching free photo from Wikimedia Commons (no key needed), or Pixabay if you add `PIXABAY_API_KEY`
 3. Otherwise → the black 7 Seas globe design
 
 **Change a draft before approving:** reply to it in Telegram with
@@ -45,7 +45,7 @@ Repository → **Settings → Secrets and variables → Actions → New reposito
 | `FB_PAGE_ID` | Page `id` from `me/accounts` |
 | `FB_PAGE_TOKEN` | the Page token that "Expires: Never" |
 
-Optional: `PEXELS_API_KEY` (free at pexels.com/api) → uses real stock photos as backgrounds instead of the navy globe design.
+Optional: `PIXABAY_API_KEY` (free at pixabay.com/api/docs) → more stock photo choices.
 
 ### 3. Allow the bot to save its memory
 **Settings → Actions → General → Workflow permissions** → choose **Read and write permissions** → Save.
