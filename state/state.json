@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892648,
+ "tg_offset": 495892649,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -725,6 +725,126 @@
    "status": "pending",
    "tg_message_id": 31,
    "tg_file_id": "AgACAgUAAxkDAAMfau9iCtJzHvS9lixfZ4dnDWDCNMYAAsQVaxv8lnlX8e-6e3K4fXcBAAMCAAN3AAM9BA"
+  },
+  "c58085b689": {
+   "id": "c58085b689",
+   "headline": "Israel President Chooses Opposition Leader Gadi Eisenkot To Form Government",
+   "summary": "Following a deadlocked election, Israeli President Isaac Herzog has selected opposition candidate Gadi Eisenkot to try to form a new government. Eisenkot, a former military chief and rival to Benjamin Netanyahu, stated he is confident of securing the mandate.",
+   "label": "ELECTIONS",
+   "hook": "Can opposition leader Gadi Eisenkot successfully form a new government? Share your thoughts below.",
+   "key_points": [
+    "Knesset has been deadlocked since last month's election.",
+    "President Isaac Herzog announced the decision.",
+    "Benjamin Netanyahu's coalition lost its majority."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Israel",
+    "#GadiEisenkot",
+    "#WorldNews"
+   ],
+   "sources": [
+    "CBS News",
+    "France 24",
+    "The Guardian"
+   ],
+   "link": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+   "links": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/news/israel-election-government-gadi-eisenkot-benjamin-netanyahu/"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/israel-coalition-talks-gain-momentum"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Gadi_Eisenkot_2_%28cropped%29.jpg/1280px-Gadi_Eisenkot_2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "יהב טרודלר (Yahav Trudler - Yahav Studio‬‏) / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Israel President Chooses Opposition Leader Gadi Eisenkot To Form Government",
+    "people": [
+     "Gadi Eisenkot"
+    ],
+    "image_query": "Jerusalem city",
+    "image_style": "person",
+    "location": "Jerusalem, Israel"
+   },
+   "created_at": "2026-11-07T20:00:25.750512+00:00",
+   "news_time": "2026-11-07T12:12:06+00:00",
+   "news_latest": "2026-11-07T19:49:39+00:00",
+   "caption": "Israel President Chooses Opposition Leader Gadi Eisenkot To Form Government\n\nFollowing a deadlocked election, Israeli President Isaac Herzog has selected opposition candidate Gadi Eisenkot to try to form a new government. Eisenkot, a former military chief and rival to Benjamin Netanyahu, stated he is confident of securing the mandate.\n\nCan opposition leader Gadi Eisenkot successfully form a new government? Share your thoughts below.\n\n📖 Read more: https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government\n\n#Israel #GadiEisenkot #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 34,
+   "tg_file_id": "AgACAgUAAxkDAAMiau-DZZ6VG14CjKasuPEZwojGHswAAh8Raxv8loFX_eN9tkUR0MEBAAMCAAN3AAM9BA"
+  },
+  "67e202a19f": {
+   "id": "67e202a19f",
+   "headline": "Bogus bomb threats target commercial flights across Europe",
+   "summary": "Dozens of commercial flights across Europe faced bogus bomb threats this week, resulting in diversions and emergency landings. French prosecutors are currently investigating whether foreign powers might be involved in the incidents.",
+   "label": "WORLD",
+   "hook": "What measures should be taken to secure flights against these threats? Tell us what you think.",
+   "key_points": [
+    "Dozens of European flights targeted",
+    "Incidents caused diversions and emergency landings",
+    "French prosecutors investigating possible foreign involvement"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#WorldNews",
+    "#Europe",
+    "#Aviation"
+   ],
+   "sources": [
+    "ABC News",
+    "France 24"
+   ],
+   "link": "https://www.france24.com/en/france/20261107-france-investigating-if-bogus-bomb-threats-against-airlines-linked-to-foreign-powers",
+   "links": [
+    [
+     "France 24",
+     "https://www.france24.com/en/france/20261107-france-investigating-if-bogus-bomb-threats-against-airlines-linked-to-foreign-powers"
+    ],
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/hoax-bomb-threats-targeted-flights-europe-137937700"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Europe"
+   },
+   "img_post": {
+    "headline": "Bogus bomb threats target commercial flights across Europe",
+    "people": [],
+    "image_query": "commercial airplane in flight",
+    "image_style": "incident",
+    "location": "Europe"
+   },
+   "created_at": "2026-11-07T20:00:44.752695+00:00",
+   "news_time": "2026-11-07T12:38:16+00:00",
+   "news_latest": "2026-11-07T16:33:53+00:00",
+   "caption": "Bogus bomb threats target commercial flights across Europe\n\nDozens of commercial flights across Europe faced bogus bomb threats this week, resulting in diversions and emergency landings. French prosecutors are currently investigating whether foreign powers might be involved in the incidents.\n\nWhat measures should be taken to secure flights against these threats? Tell us what you think.\n\n📖 Read more: https://www.france24.com/en/france/20261107-france-investigating-if-bogus-bomb-threats-against-airlines-linked-to-foreign-powers\n\n#WorldNews #Europe #Aviation #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 35,
+   "tg_file_id": "AgACAgUAAxkDAAMjau-DcHeKhfvZiCVtAWn_PlIPQaIAAiARaxv8loFXcu3zCR6dgH0BAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -776,7 +896,13 @@
   "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
   "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
   "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss",
-  "https://www.france24.com/en/yemen-30-dead-in-strikes-on-taiz-market"
+  "https://www.france24.com/en/yemen-30-dead-in-strikes-on-taiz-market",
+  "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+  "https://www.cbsnews.com/news/israel-election-government-gadi-eisenkot-benjamin-netanyahu/",
+  "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government",
+  "https://www.france24.com/en/israel-coalition-talks-gain-momentum",
+  "https://www.france24.com/en/france/20261107-france-investigating-if-bogus-bomb-threats-against-airlines-linked-to-foreign-powers",
+  "https://abcnews.com/International/wireStory/hoax-bomb-threats-targeted-flights-europe-137937700"
  ],
  "recent_topics": [
   [
@@ -1089,9 +1215,53 @@
     "war",
     "yemen"
    ]
+  ],
+  [
+   "2026-11-07T20:00:38.078131+00:00",
+   [
+    "candidate",
+    "coalition",
+    "eisenkot",
+    "form",
+    "gadi",
+    "gain",
+    "government",
+    "israel",
+    "israeli",
+    "leader",
+    "momentum",
+    "netanyahu",
+    "opposition",
+    "picks",
+    "president",
+    "rival",
+    "talks",
+    "taps",
+    "try",
+    "yashar"
+   ]
+  ],
+  [
+   "2026-11-07T20:00:48.899454+00:00",
+   [
+    "airlines",
+    "bogus",
+    "bomb",
+    "europe",
+    "flights",
+    "foreign",
+    "france",
+    "hoax",
+    "investigating",
+    "know",
+    "linked",
+    "powers",
+    "targeted",
+    "threats"
+   ]
   ]
  ],
- "last_draft_at": "2026-11-07T17:38:19.254510+00:00",
+ "last_draft_at": "2026-11-07T20:00:22.285495+00:00",
  "last_slot": null,
  "commands_set": 3,
  "log_channel": -1004367532135
