@@ -209,10 +209,39 @@ def tg_status(draft, label, cancel=False):
 
 
 def tg_reply(draft, text):
-    """Send a small message as a reply to the draft, so you know which post it is about."""
-    return tg("sendMessage", chat_id=TG_CHAT, text=text, parse_mode="HTML",
-              reply_to_message_id=draft.get("tg_message_id", ""),
-              allow_sending_without_reply="true", disable_web_page_preview="true")
+    """Send a small message as a reply to the draft (deleted later with the draft)."""
+    j = tg("sendMessage", chat_id=TG_CHAT, text=text, parse_mode="HTML",
+           reply_to_message_id=draft.get("tg_message_id", ""),
+           allow_sending_without_reply="true", disable_web_page_preview="true")
+    if j.get("ok"):
+        draft.setdefault("extra_msgs", []).append(j["result"]["message_id"])
+    return j
+
+
+def tg_clear(draft):
+    """Remove a finished draft (and its little reply messages) from the bot chat."""
+    for mid in [draft.get("tg_message_id")] + draft.get("extra_msgs", []):
+        if mid:
+            tg("deleteMessage", chat_id=TG_CHAT, message_id=mid)
+    draft["extra_msgs"] = []
+    draft["cleared"] = True
+
+
+def log_to_channel(state, d, fb_link):
+    """Copy a published post to your 'published posts' channel (if linked)."""
+    ch = state.get("log_channel")
+    now = now_utc()
+    text = (f"✅ <b>Published</b> · {lk_time(now)} Sri Lanka · {ny_time(now)} New York · "
+            f"{now.astimezone(ZoneInfo('Asia/Colombo')):%b %d}\n\n"
+            f"<b>{html.escape(d['headline'])}</b>\n"
+            f"<i>{html.escape(', '.join(d['sources']))}</i>"
+            + (f"\n\n🔗 <a href=\"{fb_link}\">Open on Facebook</a>" if fb_link else ""))
+    if ch:
+        j = tg("sendPhoto", chat_id=ch, photo=d["tg_file_id"], caption=text, parse_mode="HTML")
+        if j.get("ok"):
+            return True
+    tg_text(text)   # no channel linked (or it failed): tell you in the bot chat
+    return False
 
 
 def lk_time(t):
@@ -232,14 +261,15 @@ def when_text(t):
 
 
 def set_commands_once(state):
-    if state.get("commands_set"):
+    if state.get("commands_set") == 2:
         return
     tg("setMyCommands", commands=[
         {"command": "queue", "description": "What's queued and when it posts"},
         {"command": "status", "description": "Bot summary"},
+        {"command": "channel", "description": "Link the published-posts channel"},
         {"command": "help", "description": "How to use the bot"},
     ])
-    state["commands_set"] = True
+    state["commands_set"] = 2
 
 
 def tg_download(file_id):
@@ -283,7 +313,8 @@ def handle_reply(state, msg, d):
     new["created_at"] = now_utc().isoformat()
     if send_draft(state, new):
         d["status"] = "replaced"
-        tg_status(d, f"🔄 Replaced (new {what} below)")
+        d.setdefault("extra_msgs", []).append(msg["message_id"])  # your reply message too
+        tg_clear(d)
         log("Draft updated with new", what)
 
 
@@ -318,7 +349,7 @@ def process_telegram(state):
                 continue
             if action == "skip":
                 d["status"] = "skipped"
-                tg_status(d, "❌ Skipped")
+                tg_clear(d)
                 log("Skipped", pid)
             elif action == "now":
                 d["status"] = "queued"
@@ -343,6 +374,20 @@ def process_telegram(state):
         if not msg or str(msg.get("chat", {}).get("id")) != TG_CHAT:
             continue
 
+        fwd = msg.get("forward_from_chat") or (msg.get("forward_origin") or {}).get("chat")
+        if fwd and fwd.get("type") == "channel":
+            state["log_channel"] = fwd["id"]
+            t = tg("sendMessage", chat_id=fwd["id"],
+                   text="✅ 7 Seas News bot connected. Published posts will appear here.")
+            if t.get("ok"):
+                tg_text(f"✅ Channel <b>{html.escape(fwd.get('title', ''))}</b> linked. "
+                        "Every published post will be logged there.")
+            else:
+                state.pop("log_channel", None)
+                tg_text("⚠️ I can't post in that channel yet. Add me to the channel as an "
+                        "<b>admin</b> (with 'Post messages'), then forward a message again.")
+            continue
+
         rep = msg.get("reply_to_message")
         if rep:
             d = find_draft_by_message(state, rep.get("message_id"))
@@ -365,6 +410,12 @@ def process_telegram(state):
                         for n, (d, t) in enumerate(plan, 1)]
                 tg_text("🗓 <b>Queue</b>\n\n" + "\n\n".join(rows) +
                         "\n\nTo cancel one, tap ↩️ Cancel under that post.")
+        elif text.startswith("/channel"):
+            tg_text("📢 <b>Published-posts channel</b>\n"
+                    "1. Create a Telegram channel (e.g. '7 Seas – Published')\n"
+                    "2. Channel info → Administrators → Add admin → add this bot\n"
+                    "3. Post any message in the channel and <b>forward it to me</b>\n\n"
+                    + ("Currently linked ✅" if state.get("log_channel") else "Not linked yet."))
         elif text.startswith("/status"):
             q = [d for d in state["drafts"].values() if d["status"] == "queued"]
             p = [d for d in state["drafts"].values() if d["status"] == "pending"]
@@ -382,6 +433,7 @@ def process_telegram(state):
                     "• <b>text</b> → new headline\n"
                     "I send back the new version to approve.\n\n"
                     "/queue – what's queued and when it posts\n"
+                    "/channel – link a channel that logs every published post\n"
                     "/status – bot summary")
 
 
@@ -463,7 +515,7 @@ def publish_due(state):
     for d in queued:
         if now - datetime.fromisoformat(d["queued_at"]) > timedelta(hours=QUEUE_EXPIRE_HOURS):
             d["status"] = "expired"
-            tg_status(d, "⌛ Expired (too old)")
+            tg_clear(d)
     queued = [d for d in queued if d["status"] == "queued"]
 
     to_post = [d for d in queued if d.get("post_now")]
@@ -481,12 +533,9 @@ def publish_due(state):
             d["status"] = "posted"
             d["fb_post_id"] = post_id
             d["posted_at"] = now.isoformat()
-            tg_status(d, f"✅ Posted · {lk_time(now)} SL")
             link = f"https://www.facebook.com/{post_id}" if post_id else ""
-            left = len([x for x in state["drafts"].values() if x["status"] == "queued"])
-            tg_reply(d, f"✅ <b>Posted on Facebook</b> at {lk_time(now)} Sri Lanka ({ny_time(now)} New York)"
-                        + (f"\n🔗 <a href=\"{link}\">Open the post</a>" if link else "")
-                        + (f"\n🗓 {left} more in the queue — /queue" if left else ""))
+            log_to_channel(state, d, link)
+            tg_clear(d)
             log("Posted", d["id"], post_id)
         except Exception as e:
             d["attempts"] = d.get("attempts", 0) + 1
@@ -641,7 +690,7 @@ Return ONLY JSON with these keys:
 "label": exactly one of "US POLITICS", "WORLD", "CONFLICT", "DIPLOMACY", "ELECTIONS", "ECONOMY".
 "hashtags": a list of 3 relevant hashtags, e.g. ["#USPolitics", "#WorldNews", "#Congress"].
 "image_query": 2 to 4 generic words for a stock photo of a place or object (never a real person), e.g. "US Capitol building".
-"people": a list of 0 to 2 real, named people who are at the centre of the story, full names exactly as written in the reports, e.g. ["Donald Trump", "Vladimir Putin"]. Use [] if no single person is central.
+"people": a list of 0 to 3 real people who are the MAIN subject of the story AND are named in your headline, full names exactly as written in the reports, e.g. ["Donald Trump", "Vladimir Putin"]. People who are only mentioned in the background must NOT be listed. Use [] if the headline names no person (for example a story about a country, party, vote or attack).
 "skip": true if this is about South Asia, is not hard news (opinion, sport, entertainment, live blog), or the reports describe different events. Otherwise false.
 """
 
@@ -822,8 +871,15 @@ def wiki_search_photo(query):
 
 def choose_background(post):
     """1) photos of the people in the story  2) matching stock photo  3) brand design."""
-    people = [p.strip() for p in (post.get("people") or []) if isinstance(p, str) and p.strip()][:2]
-    found = [x for x in (wiki_person_photo(p) for p in people) if x]
+    headline = str(post.get("headline", "")).lower()
+    people = []
+    for p in post.get("people") or []:
+        if not isinstance(p, str) or not p.strip():
+            continue
+        last = p.strip().split()[-1].lower()
+        if last in headline or p.strip().lower() in headline:   # only people named in the headline
+            people.append(p.strip())
+    found = [x for x in (wiki_person_photo(p) for p in people[:3]) if x]
     if found:
         return {"type": "people", "photos": found}
     q = post.get("image_query", "")
@@ -928,6 +984,30 @@ def vertical_fade(alpha_top, alpha_bottom, y0, y1):
     return col.resize((W, H))
 
 
+def people_strips(imgs):
+    """2 or 3 portraits side by side, blended softly into each other (no lines)."""
+    n = len(imgs)
+    ph = int(H * 0.8)
+    feather = 70
+    step = W / n
+    base = Image.new("RGB", (W, H), BLACK)
+    for i, im in enumerate(imgs):
+        x0 = int(round(i * step)) - (feather // 2 if i > 0 else 0)
+        x1 = int(round((i + 1) * step)) + (feather // 2 if i < n - 1 else 0)
+        sw = x1 - x0
+        strip = cover(im, sw, ph, 0.06)
+        mask = Image.new("L", (sw, 1), 255)
+        for x in range(sw):
+            a = 255
+            if i > 0 and x < feather:
+                a = int(255 * x / feather)
+            if i < n - 1 and x > sw - feather:
+                a = min(a, int(255 * (sw - x) / feather))
+            mask.putpixel((x, 0), a)
+        base.paste(strip, (x0, 0), mask.resize((sw, ph)))
+    return base
+
+
 def render_image(headline, label, sources, bg):
     imgs = []
     for p in bg.get("photos", []):
@@ -938,10 +1018,7 @@ def render_image(headline, label, sources, bg):
 
     black = Image.new("RGB", (W, H), BLACK)
     if bg.get("type") == "people" and len(imgs) >= 2:
-        half = W // 2
-        base = Image.new("RGB", (W, H), BLACK)
-        base.paste(cover(imgs[0], half - 3, int(H * 0.8), 0.08), (0, 0))
-        base.paste(cover(imgs[1], half - 3, int(H * 0.8), 0.08), (half + 3, 0))
+        base = people_strips(imgs[:3])
     elif imgs:
         anchor = 0.08 if bg.get("type") == "people" else 0.45
         base = cover(imgs[0], W, int(H * 0.8) if bg.get("type") == "people" else H, anchor)
@@ -954,18 +1031,16 @@ def render_image(headline, label, sources, bg):
 
     if imgs:
         base = Image.blend(base, black, 0.10)
-        # darken top a little for the logo
+        # darken the top so the logo is always readable
         top = Image.new("L", (1, H), 0)
-        for y in range(260):
-            top.putpixel((0, y), int(150 * (1 - y / 260)))
+        for y in range(300):
+            top.putpixel((0, y), int(200 * (1 - y / 300) ** 1.3))
         base.paste(black, (0, 0), top.resize((W, H)))
 
     # dark fade at the bottom for the text
     base.paste(black, (0, 0), vertical_fade(0, 250, int(H * 0.40), int(H * 0.78)))
 
     d = ImageDraw.Draw(base)
-    if bg.get("type") == "people" and len(imgs) >= 2:
-        d.rectangle([W // 2 - 3, 0, W // 2 + 3, int(H * 0.55)], fill=RED)
 
     M = 64
     max_w = W - 2 * M
@@ -1107,7 +1182,7 @@ def expire_pending(state):
         if d["status"] == "pending" and \
                 now - datetime.fromisoformat(d["created_at"]) > timedelta(hours=PENDING_EXPIRE_HOURS):
             d["status"] = "expired"
-            tg_status(d, "⌛ Expired (not answered)")
+            tg_clear(d)
 
 
 # =============================================================================
