@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892640,
+ "tg_offset": 495892642,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -475,9 +475,15 @@
    "news_time": "2026-11-07T15:00:14+00:00",
    "news_latest": "2026-11-07T15:59:29+00:00",
    "caption": "🚨 BREAKING: Democratic Socialist Nithya Raman Wins Los Angeles Mayoral Election\n\nDemocratic socialist Nithya Raman defeated incumbent Karen Bass to become the next mayor of Los Angeles. The victory marks a significant shift as progressives secure key offices across the city.\n\nWhat we know so far:\n• Nithya Raman won the Los Angeles mayorship.\n• Democratic socialists secured key offices in the city.\n• Raman previously served on the Los Angeles city council.\n\nHow will new leadership impact the future of Los Angeles? Share your thoughts below.\n\n📰 Source: ABC News, The Guardian\n🔗 https://abcnews.com/Politics/wireStory/nithya-raman-charge-la-amid-homeless-crisis-political-137940423\n\n#LosAngeles #USPolitics #Elections #7SeasNews",
-   "status": "pending",
+   "status": "posted",
    "tg_message_id": 20,
-   "tg_file_id": "AgACAgUAAxkDAAMUau9c5gLp8f65KU4qmDNOLoyFLK8AAr0Vaxv8lnlX-ImYIn54oQwBAAMCAAN3AAM9BA"
+   "tg_file_id": "AgACAgUAAxkDAAMUau9c5gLp8f65KU4qmDNOLoyFLK8AAr0Vaxv8lnlX-ImYIn54oQwBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-07T17:19:26.096263+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122095403565548584",
+   "posted_at": "2026-11-07T17:19:26.473432+00:00",
+   "extra_msgs": [],
+   "cleared": true
   },
   "6627ae0c02": {
    "id": "6627ae0c02",
@@ -528,6 +534,145 @@
    "status": "pending",
    "tg_message_id": 21,
    "tg_file_id": "AgACAgUAAxkDAAMVau9c6RyziXpxDZNCCINs17_y2HEAAr4Vaxv8lnlXAS0CzVXkpLUBAAMCAAN3AAM9BA"
+  },
+  "e3f9084a78": {
+   "id": "e3f9084a78",
+   "created_at": "2026-11-07T17:19:06.789027+00:00",
+   "manual": true,
+   "label": "DIPLOMACY",
+   "hashtags": [
+    "#G20",
+    "#UKNews",
+    "#WorldNews"
+   ],
+   "hook": "Should the UK bar world leaders under sanctions from attending international summits?",
+   "key_points": [
+    "UK hosting G20 summit in Manchester in November 2027",
+    "Sanctions prevent Vladimir Putin from attending",
+    "US President Donald Trump invited Putin to Miami G20"
+   ],
+   "breaking": true,
+   "sources": [
+    "BBC News"
+   ],
+   "link": "https://www.bbc.co.uk/news/articles/cmqjnkn8951qo?at_link_origin=BBC_Manchester&at_format=image&at_campaign=Social_Flow&at_ptr_name=facebook_page&at_link_id=459B82DE-D9CD-11F1-9AB7-8E45918B8777&at_campaign_type=owned&at_medium=social&at_link_type=web_link&at_bbc_team=editorial&fbclid=IwY2xjawVcPJVleHRuA2FlbQIxMABwZG9mAWJyaWQRMWxQZXpqTDltQTVmNjVnUHpzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfkfPuIq_cxQB6f2ek6_lIgCspKj4poZ10yqF670KczzZI5kyZ0aZh2Tu0hpA_aem_w2wNQwIm53erXQV_YVVQfg",
+   "links": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cmqjnkn8951qo?at_link_origin=BBC_Manchester&at_format=image&at_campaign=Social_Flow&at_ptr_name=facebook_page&at_link_id=459B82DE-D9CD-11F1-9AB7-8E45918B8777&at_campaign_type=owned&at_medium=social&at_link_type=web_link&at_bbc_team=editorial&fbclid=IwY2xjawVcPJVleHRuA2FlbQIxMABwZG9mAWJyaWQRMWxQZXpqTDltQTVmNjVnUHpzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfkfPuIq_cxQB6f2ek6_lIgCspKj4poZ10yqF670KczzZI5kyZ0aZh2Tu0hpA_aem_w2wNQwIm53erXQV_YVVQfg"
+    ]
+   ],
+   "headline": "Manchester G20: Prime Minister Andy Burnham blocks Vladimir Putin",
+   "summary": "Prime Minister Andy Burnham stated that Russian President Vladimir Putin will not receive an invitation to the G20 summit in Manchester in November 2027. Burnham cited existing sanctions against the Kremlin as the reason for the exclusion.",
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Manchester_skyline_-_geograph.org.uk_-_8219663.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Gerald England / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ],
+    "inset": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Vladimir_Putin_%282026_02_23%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "credit": "Kremlin.ru / Wikimedia Commons (CC BY 4.0)",
+     "short": "WIKIMEDIA COMMONS"
+    }
+   },
+   "caption": "🚨 BREAKING: Manchester G20: Prime Minister Andy Burnham blocks Vladimir Putin\n\nPrime Minister Andy Burnham stated that Russian President Vladimir Putin will not receive an invitation to the G20 summit in Manchester in November 2027. Burnham cited existing sanctions against the Kremlin as the reason for the exclusion.\n\nWhat we know so far:\n• UK hosting G20 summit in Manchester in November 2027\n• Sanctions prevent Vladimir Putin from attending\n• US President Donald Trump invited Putin to Miami G20\n\nShould the UK bar world leaders under sanctions from attending international summits?\n\n📰 Source: BBC News\n🔗 https://www.bbc.co.uk/news/articles/cmqjnkn8951qo?at_link_origin=BBC_Manchester&at_format=image&at_campaign=Social_Flow&at_ptr_name=facebook_page&at_link_id=459B82DE-D9CD-11F1-9AB7-8E45918B8777&at_campaign_type=owned&at_medium=social&at_link_type=web_link&at_bbc_team=editorial&fbclid=IwY2xjawVcPJVleHRuA2FlbQIxMABwZG9mAWJyaWQRMWxQZXpqTDltQTVmNjVnUHpzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfkfPuIq_cxQB6f2ek6_lIgCspKj4poZ10yqF670KczzZI5kyZ0aZh2Tu0hpA_aem_w2wNQwIm53erXQV_YVVQfg\n📷 Gerald England / Wikimedia Commons (CC BY-SA 2.0); Kremlin.ru / Wikimedia Commons (CC BY 4.0)\n\n#G20 #UKNews #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 23,
+   "tg_file_id": "AgACAgUAAxkDAAMXau9dnP8lZZZjlEuUvEkxy9VFKGAAAr8Vaxv8lnlXJXEVdAiIIfUBAAMCAAN3AAM9BA"
+  },
+  "65a817c2e3": {
+   "id": "65a817c2e3",
+   "headline": "Three arrested after teenagers injured in Gloucester sword attack",
+   "summary": "Three teenagers are in custody following a reported sword attack near a school in Gloucester. Armed police responded to the scene, causing two nearby schools to go into lockdown.",
+   "label": "WORLD",
+   "hook": "What measures should be taken to improve security near schools? Share your thoughts below.",
+   "key_points": [
+    "Three teenagers arrested after 17-year-old injured",
+    "Incident occurred on Chalford Road in Gloucester",
+    "Two nearby schools went into lockdown"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Gloucester",
+    "#WorldNews",
+    "#BreakingNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "The Guardian"
+   ],
+   "link": "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
+   "links": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Gloucester, United Kingdom"
+   },
+   "created_at": "2026-11-07T17:19:36.608791+00:00",
+   "news_time": "2026-11-07T16:15:18+00:00",
+   "news_latest": "2026-11-07T16:41:07+00:00",
+   "caption": "🚨 BREAKING: Three arrested after teenagers injured in Gloucester sword attack\n\nThree teenagers are in custody following a reported sword attack near a school in Gloucester. Armed police responded to the scene, causing two nearby schools to go into lockdown.\n\nWhat we know so far:\n• Three teenagers arrested after 17-year-old injured\n• Incident occurred on Chalford Road in Gloucester\n• Two nearby schools went into lockdown\n\nWhat measures should be taken to improve security near schools? Share your thoughts below.\n\n📰 Source: Al Jazeera, The Guardian\n🔗 https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured\n\n#Gloucester #WorldNews #BreakingNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 24,
+   "tg_file_id": "AgACAgUAAxkDAAMYau9dqk7Aj2a4zcyuxyRTPp3jxHwAAsAVaxv8lnlXzGx7Xw5gOKcBAAMCAAN3AAM9BA"
+  },
+  "10e7c1452b": {
+   "id": "10e7c1452b",
+   "headline": "Thirty killed in Taiz market strikes amid Yemen conflict",
+   "summary": "At least 30 people died in an attack on a market in Yemen's Taiz province. Government forces have reclaimed key territories in Taiz and Lahij while facing Houthi resistance.",
+   "label": "CONFLICT",
+   "hook": "How can the escalating humanitarian situation in Yemen be addressed? Tell us what you think",
+   "key_points": [
+    "Thirty people killed in Taiz market attack",
+    "Government forces reclaim key territories in Taiz and Lahij",
+    "Half of 300,000 displaced people reside in Taiz"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Yemen",
+    "#Taiz",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "France 24"
+   ],
+   "link": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/yemen-30-dead-in-strikes-on-taiz-market"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Taiz, Yemen"
+   },
+   "created_at": "2026-11-07T17:19:40.345556+00:00",
+   "news_time": "2026-11-07T09:37:16+00:00",
+   "news_latest": "2026-11-07T11:59:26+00:00",
+   "caption": "Thirty killed in Taiz market strikes amid Yemen conflict\n\nAt least 30 people died in an attack on a market in Yemen's Taiz province. Government forces have reclaimed key territories in Taiz and Lahij while facing Houthi resistance.\n\nHow can the escalating humanitarian situation in Yemen be addressed? Tell us what you think\n\n📰 Source: Al Jazeera, France 24\n🔗 https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss\n\n#Yemen #Taiz #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 25,
+   "tg_file_id": "AgACAgUAAxkDAAMZau9dryd8iJLc3J0ssPI2XxoaLq4AAsEVaxv8lnlXW4JqgmAk3z4BAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -575,7 +720,11 @@
   "https://abcnews.com/Politics/wireStory/nithya-raman-charge-la-amid-homeless-crisis-political-137940423",
   "https://www.theguardian.com/us-news/2026/nov/07/los-angeles-mayor-nithya-raman-progressives-dsa",
   "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-  "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
+  "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
+  "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
+  "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
+  "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss",
+  "https://www.france24.com/en/yemen-30-dead-in-strikes-on-taiz-market"
  ],
  "recent_topics": [
   [
@@ -853,9 +1002,44 @@
     "winner",
     "zealand"
    ]
+  ],
+  [
+   "2026-11-07T17:19:38.856589+00:00",
+   [
+    "armed",
+    "arrested",
+    "attack",
+    "gloucester",
+    "guatemalan",
+    "injured",
+    "killed",
+    "lawmaker",
+    "officers",
+    "police",
+    "sword",
+    "teenagers",
+    "year-old"
+   ]
+  ],
+  [
+   "2026-11-07T17:19:43.738806+00:00",
+   [
+    "crisis",
+    "dead",
+    "dozens",
+    "humanitarian",
+    "killed",
+    "market",
+    "mounts",
+    "next",
+    "strikes",
+    "taiz",
+    "war",
+    "yemen"
+   ]
   ]
  ],
- "last_draft_at": "2026-11-07T17:15:53.463039+00:00",
+ "last_draft_at": "2026-11-07T17:19:33.054364+00:00",
  "last_slot": null,
  "commands_set": 3,
  "log_channel": -1004367532135
