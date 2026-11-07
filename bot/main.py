@@ -235,6 +235,7 @@ def log_to_channel(state, d, fb_link):
             f"{now.astimezone(ZoneInfo('Asia/Colombo')):%b %d}\n\n"
             f"<b>{html.escape(d['headline'])}</b>\n"
             f"<i>{html.escape(', '.join(d['sources']))}</i>"
+            + (f"\n{news_time_text(d)}" if d.get("news_time") else "")
             + (f"\n\n🔗 <a href=\"{fb_link}\">Open on Facebook</a>" if fb_link else ""))
     if ch:
         j = tg("sendPhoto", chat_id=ch, photo=d["tg_file_id"], caption=text, parse_mode="HTML")
@@ -250,6 +251,29 @@ def lk_time(t):
 
 def ny_time(t):
     return t.astimezone(ZoneInfo(SLOT_TIMEZONE)).strftime("%I:%M %p").lstrip("0")
+
+
+def ago_text(t):
+    mins = int((now_utc() - t).total_seconds() // 60)
+    if mins < 1:
+        return "just now"
+    if mins < 60:
+        return f"{mins} min ago"
+    h, m = divmod(mins, 60)
+    return f"{h}h {m}m ago" if m else f"{h}h ago"
+
+
+def news_time_text(d):
+    """When the outlets first reported the story, in Sri Lanka time."""
+    if not d.get("news_time"):
+        return ""
+    first = datetime.fromisoformat(d["news_time"])
+    txt = f"🕐 <b>News time:</b> {lk_time(first)} Sri Lanka ({ago_text(first)})"
+    if d.get("news_latest"):
+        last = datetime.fromisoformat(d["news_latest"])
+        if (last - first) >= timedelta(minutes=20):
+            txt += f"\n🔄 Latest update: {lk_time(last)} Sri Lanka ({ago_text(last)})"
+    return txt
 
 
 def when_text(t):
@@ -406,7 +430,9 @@ def process_telegram(state):
             if not plan:
                 tg_text("📭 Nothing is queued right now.")
             else:
-                rows = [f"{n}. <b>{html.escape(d['headline'])}</b>\n    🕒 {when_text(t)}"
+                rows = [f"{n}. <b>{html.escape(d['headline'])}</b>\n    🕒 Posts: {when_text(t)}"
+                        + (f"\n    🕐 News: {lk_time(datetime.fromisoformat(d['news_time']))} SL "
+                           f"({ago_text(datetime.fromisoformat(d['news_time']))})" if d.get("news_time") else "")
                         for n, (d, t) in enumerate(plan, 1)]
                 tg_text("🗓 <b>Queue</b>\n\n" + "\n\n".join(rows) +
                         "\n\nTo cancel one, tap ↩️ Cancel under that post.")
@@ -1120,7 +1146,9 @@ def send_draft(state, d):
     img = render_image(d["headline"], d["label"], d["sources"], d["bg"])
     d["caption"] = build_caption(d)
     links = "\n".join(f'• <a href="{html.escape(u)}">{html.escape(s)}</a>' for s, u in d["links"][:4])
-    preview = (f"<b>{html.escape(d['headline'])}</b>\n\n"
+    nt = news_time_text(d)
+    preview = (f"<b>{html.escape(d['headline'])}</b>\n"
+               + (f"{nt}\n" if nt else "") + "\n"
                f"{html.escape(d['summary'])}\n\n"
                f"<i>Confirmed by: {html.escape(', '.join(d['sources']))}</i>\n{links}\n\n"
                "✏️ <i>Reply with a photo to change the image, or with text to change the headline.</i>")
@@ -1167,6 +1195,8 @@ def draft_new_posts(state):
             "links": [[i["source"], i["link"]] for i in c["items"][:4]],
             "bg": choose_background(post),
             "created_at": now_utc().isoformat(),
+            "news_time": min(i["published"] for i in c["items"]).isoformat(),
+            "news_latest": max(i["published"] for i in c["items"]).isoformat(),
         }
         if send_draft(state, d):
             state["recent_topics"].append([now_utc().isoformat(), sorted(c["title_kw"])])
