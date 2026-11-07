@@ -126,7 +126,8 @@ def draft_buttons(pid):
     return {"inline_keyboard": [
         [{"text": "🚀 Post now", "callback_data": f"now:{pid}"},
          {"text": "🕒 Queue", "callback_data": f"queue:{pid}"}],
-        [{"text": "❌ Skip", "callback_data": f"skip:{pid}"}],
+        [{"text": "🔄 Other photo", "callback_data": f"photo:{pid}"},
+         {"text": "❌ Skip", "callback_data": f"skip:{pid}"}],
     ]}
 
 
@@ -250,10 +251,32 @@ def find_draft_by_message(state, message_id):
     return None
 
 
+def other_photo(state, d):
+    """🔄 Other photo: rebuild the post with a different picture."""
+    if not d.get("img_post"):
+        tg_reply(d, "I can't find another photo for this one. Reply to the post with your own photo 📷")
+        return
+    used = set(d.get("used_urls", [])) | set(bg_urls(d.get("bg", {})))
+    new_bg = choose_background(dict(d["img_post"], headline=d["headline"]), exclude=used, prefer_scene=True)
+    if new_bg.get("type") == d.get("bg", {}).get("type") and not (set(bg_urls(new_bg)) - used):
+        tg_reply(d, "No better photo found 🙁 — reply to the post with your own photo 📷")
+        return
+    new = {k: v for k, v in d.items()
+           if k not in ("tg_message_id", "tg_file_id", "status", "queued_at", "post_now", "attempts", "extra_msgs")}
+    new["bg"] = new_bg
+    new["used_urls"] = sorted(used | set(bg_urls(new_bg)))
+    new["id"] = hashlib.sha1(f"{d['id']}{time.time()}".encode()).hexdigest()[:10]
+    new["created_at"] = now_utc().isoformat()
+    if send_draft(state, new):
+        d["status"] = "replaced"
+        tg_clear(d)
+        log("Other photo for", d["headline"])
+
+
 def handle_reply(state, msg, d):
     """You replied to a draft with a photo (new image) or text (new headline)."""
     new = {k: v for k, v in d.items()
-           if k not in ("tg_message_id", "tg_file_id", "status", "queued_at", "post_now", "attempts")}
+           if k not in ("tg_message_id", "tg_file_id", "status", "queued_at", "post_now", "attempts", "extra_msgs")}
     photo_id = None
     if msg.get("photo"):
         photo_id = msg["photo"][-1]["file_id"]
@@ -348,6 +371,8 @@ def handle_manual(state, msg):
             return
         d.update({"headline": my_headline, "summary": my_text})
         bg_post = None
+    if bg_post:
+        d["img_post"] = {k: bg_post.get(k) for k in ("headline", "people", "image_query", "image_style", "location")}
     if photo_id:
         d["bg"] = {"type": "photo", "photos": [{"tg_file_id": photo_id, "credit": ""}]}
     elif bg_post:
@@ -387,6 +412,9 @@ def process_telegram(state):
                 tg_reply(d, "↩️ Cancelled. It's back to waiting for your choice.")
                 continue
             if d["status"] != "pending":
+                continue
+            if action == "photo":
+                other_photo(state, d)
                 continue
             if action == "skip":
                 d["status"] = "skipped"
@@ -495,6 +523,7 @@ def process_telegram(state):
             tg_text("👋 I send you news posts to approve.\n\n"
                     "🚀 <b>Post now</b> – publishes within ~15 min\n"
                     "🕒 <b>Queue</b> – publishes at the next US time slot\n"
+                    "🔄 <b>Other photo</b> – tries a different picture\n"
                     "❌ <b>Skip</b> – drops it\n\n"
                     "✏️ <b>Change a post:</b> reply to it with\n"
                     "• a <b>photo</b> → new background image\n"
@@ -913,17 +942,17 @@ def pexels_photo(query):
         return None
 
 
-def pixabay_photo(query):
+def pixabay_photo(query, exclude=()):
     if not PIXABAY_KEY or not query:
         return None
     try:
         r = HTTP.get("https://pixabay.com/api/", timeout=30, params={
-            "key": PIXABAY_KEY, "q": query[:100], "image_type": "photo",
-            "safesearch": "true", "per_page": 10, "min_width": 1000})
-        hits = r.json().get("hits", [])
+            "key": PIXABAY_KEY, "q": query[:100], "image_type": "photo", "order": "popular",
+            "safesearch": "true", "per_page": 20, "min_width": 1600})
+        hits = [h for h in r.json().get("hits", []) if h["largeImageURL"] not in exclude]
         if not hits:
             return None
-        p = random.choice(hits[:4])
+        p = max(hits[:10], key=lambda h: h.get("likes", 0) + h.get("downloads", 0) / 100)
         return {"url": p["largeImageURL"],
                 "credit": f"{p.get('user', 'Pixabay')} / Pixabay", "short": "PIXABAY"}
     except Exception as e:
@@ -931,21 +960,53 @@ def pixabay_photo(query):
         return None
 
 
-def wiki_search_photo(query):
-    """Free-licensed photo from Wikimedia Commons search. No key needed."""
+def _small(url, w=400):
+    """Small version of a Wikimedia thumbnail URL (for a quick quality check)."""
+    return re.sub(r"/\d+px-", f"/{w}px-", url) if "/thumb/" in url else url
+
+
+def photo_quality(url):
+    """Score how good a photo looks: colourful, not too dark/bright, not black & white or sepia."""
+    try:
+        r = HTTP.get(_small(url), headers=WIKI_HEADERS, timeout=20)
+        im = Image.open(io.BytesIO(r.content)).convert("RGB")
+        im.thumbnail((240, 240))
+        h, sat, val = im.convert("HSV").split()
+        from PIL import ImageStat
+        s_mean = ImageStat.Stat(sat).mean[0]
+        v_mean = ImageStat.Stat(val).mean[0]
+        h_std = ImageStat.Stat(h).stddev[0]
+        if s_mean < 28 or h_std < 14:           # black & white / sepia / washed out
+            return -1
+        light = 1 - abs(v_mean - 135) / 135     # best around medium brightness
+        return s_mean * 0.6 + h_std * 0.5 + light * 40
+    except Exception:
+        return 0
+
+
+def wiki_search_photo(query, exclude=()):
+    """Best free-licensed photo from Wikimedia Commons. No key needed.
+    Looks at 'Quality images' first, skips old/black-and-white pictures, checks colour and sharpness."""
     if not query:
         return None
-    try:
-        r = HTTP.get("https://commons.wikimedia.org/w/api.php", headers=WIKI_HEADERS, timeout=30, params={
-            "action": "query", "generator": "search", "gsrnamespace": 6,
-            "gsrsearch": f"{query} filetype:bitmap", "gsrlimit": 12,
-            "prop": "imageinfo", "iiprop": "url|size|extmetadata|mime",
-            "iiurlwidth": 1600, "format": "json"})
-        pages = sorted(r.json().get("query", {}).get("pages", {}).values(),
-                       key=lambda p: p.get("index", 99))
-        good = []
-        for page in pages:
+    cands, seen = [], set()
+    for bonus, q in ((25, f"{query} incategory:Quality_images"), (0, query)):
+        try:
+            r = HTTP.get("https://commons.wikimedia.org/w/api.php", headers=WIKI_HEADERS, timeout=30, params={
+                "action": "query", "generator": "search", "gsrnamespace": 6,
+                "gsrsearch": f"{q} filetype:bitmap filew:>1500", "gsrlimit": 15,
+                "prop": "imageinfo", "iiprop": "url|size|extmetadata|mime",
+                "iiurlwidth": 1600, "format": "json"})
+            pages = sorted(r.json().get("query", {}).get("pages", {}).values(),
+                           key=lambda p: p.get("index", 99))
+        except Exception as e:
+            log("Wikimedia search failed:", e)
+            continue
+        for rank, page in enumerate(pages):
             info = (page.get("imageinfo") or [{}])[0]
+            url = info.get("thumburl") or info.get("url")
+            if not url or url in exclude or url in seen:
+                continue
             if info.get("mime") not in ("image/jpeg", "image/png") or info.get("width", 0) < 1200:
                 continue
             meta = info.get("extmetadata", {})
@@ -954,23 +1015,30 @@ def wiki_search_photo(query):
                 continue
             title = page.get("title", "").lower()
             if re.search(r"(?<!\d)(1[0-8]\d\d|19[0-8]\d)(?!\d)", title) or any(
-                    w in title for w in ("old ", "historic", "postcard", "vintage", "engraving",
-                                         "painting", "drawing", "map", "lithograph", "sepia")):
-                continue  # skip old / historic pictures
-            yr = re.search(r"(1[89]\d\d|20\d\d)", clean_html(meta.get("DateTimeOriginal", {}).get("value", "")))
-            if yr and int(yr.group(1)) < 2000:
+                    w in title for w in ("old ", "historic", "postcard", "vintage", "engraving", "painting",
+                                         "drawing", "map", "lithograph", "sepia", "diagram", "logo", "flag of")):
                 continue
+            yr = re.search(r"(1[89]\d\d|20\d\d)", clean_html(meta.get("DateTimeOriginal", {}).get("value", "")))
+            year = int(yr.group(1)) if yr else 0
+            if year and year < 2000:
+                continue
+            seen.add(url)
             artist = clean_html(meta.get("Artist", {}).get("value", ""))[:60] or "Unknown author"
-            good.append({"url": info.get("thumburl") or info["url"],
-                         "credit": f"{artist} / Wikimedia Commons ({lic})", "short": "WIKIMEDIA COMMONS"})
-        return random.choice(good[:3]) if good else None
-    except Exception as e:
-        log("Wikimedia search failed:", e)
-        return None
+            score = bonus + (10 if year >= 2015 else 0) + max(0, 12 - rank) \
+                + min(10, info.get("width", 0) / 600)
+            cands.append((score, {"url": url, "credit": f"{artist} / Wikimedia Commons ({lic})",
+                                  "short": "WIKIMEDIA COMMONS"}))
+    best, best_score = None, -1
+    for score, c in sorted(cands, key=lambda x: -x[0])[:6]:   # check the top 6 by eye
+        q = photo_quality(c["url"])
+        if q < 0:
+            continue
+        if score + q > best_score:
+            best, best_score = c, score + q
+    return best
 
 
-def choose_background(post):
-    """1) photos of the people in the story  2) matching stock photo  3) brand design."""
+def person_names_in_headline(post):
     headline = re.sub(r"[^a-z0-9 ]", " ", str(post.get("headline", "")).lower())
     words = set(headline.split())
     skip = {"the", "of", "and", "de", "von", "van", "bin", "al", "ii", "iii", "iv", "xiv", "jr", "sr",
@@ -982,24 +1050,41 @@ def choose_background(post):
         tokens = [t for t in re.sub(r"[^a-z0-9 ]", " ", p.lower()).split() if len(t) > 2 and t not in skip]
         if any(t in words for t in tokens):            # only people named in the headline
             people.append(p.strip())
-    found = [x for x in (wiki_person_photo(p) for p in people[:3]) if x]
+    return people[:3]
 
-    if post.get("image_style") == "incident" and not found:
+
+def choose_background(post, exclude=(), prefer_scene=False):
+    """1) photos of the people in the story  2) best matching photo  3) brand design.
+    prefer_scene=True is used by the 🔄 Other photo button."""
+    found = [x for x in (wiki_person_photo(p) for p in person_names_in_headline(post)) if x]
+
+    if post.get("image_style") == "incident" and not found and not prefer_scene:
         # no random photos for shootings/bombings: strong news design with a location tag
         return {"type": "incident", "photos": [], "location": str(post.get("location") or "")[:40]}
 
-    q = post.get("image_query", "")
-    scene_wanted = post.get("image_style") == "scene" or not found
-    scene = (pexels_photo(q) or pixabay_photo(q) or wiki_search_photo(q)) if scene_wanted else None
+    scene = None
+    if prefer_scene or post.get("image_style") == "scene" or not found:
+        for q in [post.get("image_query", ""), post.get("location", "")]:
+            q = str(q or "").strip()
+            if q:
+                scene = pexels_photo(q) or pixabay_photo(q, exclude) or wiki_search_photo(q, exclude)
+            if scene:
+                break
 
     if found and scene and len(found) == 1:
         # place photo in the background + the main person in a small circle
         return {"type": "photo", "photos": [scene], "inset": found[0]}
-    if found:
+    if found and not (prefer_scene and scene):
         return {"type": "people", "photos": found}
     if scene:
         return {"type": "photo", "photos": [scene]}
+    if post.get("image_style") == "incident":
+        return {"type": "incident", "photos": [], "location": str(post.get("location") or "")[:40]}
     return {"type": "brand", "photos": []}
+
+
+def bg_urls(bg):
+    return [p["url"] for p in bg.get("photos", []) + ([bg["inset"]] if bg.get("inset") else []) if p.get("url")]
 
 
 def load_photo(p):
@@ -1168,13 +1253,6 @@ def render_image(headline, label, sources, bg):
         d.text((M, 60), "7 Seas", font=font("Poppins-SemiBold.ttf", 56), fill=WHITE)
         d.text((M + 200, 60), "News", font=font("Poppins-SemiBold.ttf", 56), fill=RED)
 
-    # --- photo credit (small, top right) ---
-    shorts = sorted({p.get("short") for p in bg.get("photos", []) + ([bg["inset"]] if bg.get("inset") else [])
-                     if p.get("short")})
-    if imgs and shorts:
-        cf = font("Poppins-Medium.ttf", 17)
-        d.text((W - M, 78), "PHOTO: " + " · ".join(shorts), font=cf, fill=(230, 230, 230), anchor="ra")
-
     # --- headline (auto size) ---
     size = 80
     while size > 46:
@@ -1237,8 +1315,19 @@ def render_image(headline, label, sources, bg):
     src = ("SOURCES: " + " · ".join(s.upper() for s in sources[:3])) if sources else ""
     while d.textlength(src, font=sf) > max_w - 230 and " · " in src:
         src = src.rsplit(" · ", 1)[0]
-    d.text((M, footer_top + 30), src, font=sf, fill=SOFT)
-    d.text((W - M, footer_top + 30), now_utc().strftime("%b %d, %Y").upper(), font=sf, fill=SOFT, anchor="ra")
+    has_credit = imgs and any(needs_credit(p) for p in bg.get("photos", []) +
+                              ([bg["inset"]] if bg.get("inset") else []))
+    ty = footer_top + (20 if has_credit else 30)
+    d.text((M, ty), src, font=sf, fill=SOFT)
+    d.text((W - M, ty), now_utc().strftime("%b %d, %Y").upper(), font=sf, fill=SOFT, anchor="ra")
+    if has_credit:
+        cf = font("Poppins-Medium.ttf", 17)
+        credit = "PHOTO: " + " · ".join(re.sub(r"\s*/\s*Wikimedia Commons", " / WIKIMEDIA", p["credit"]).upper()
+                                       for p in bg.get("photos", []) + ([bg["inset"]] if bg.get("inset") else [])
+                                       if needs_credit(p))
+        while d.textlength(credit, font=cf) > max_w and len(credit) > 20:
+            credit = credit[:-4] + "…"
+        d.text((M, ty + 36), credit, font=cf, fill=(150, 150, 156))
 
     out = io.BytesIO()
     base.save(out, "JPEG", quality=92, optimize=True)
@@ -1264,15 +1353,9 @@ def build_caption(d):
         lines += ["", "What we know so far:"] + [f"• {k}" for k in d["key_points"][:3]]
     if d.get("hook"):
         lines += ["", d["hook"]]
-    if d.get("sources"):
-        lines += ["", f"📰 Source: {', '.join(d['sources'][:3])}"]
+    # sources + photo credit are printed small on the image itself
     if SHOW_READ_MORE_LINK and d.get("link"):
-        lines.append(f"🔗 {d['link']}")
-    bg = d.get("bg", {})
-    credits = [p["credit"] for p in bg.get("photos", []) + ([bg["inset"]] if bg.get("inset") else [])
-               if needs_credit(p)]
-    if credits:
-        lines.append("📷 " + "; ".join(credits))
+        lines += ["", f"📖 Read more: {d['link']}"]
     lines += ["", f"{tags} {BRAND_HASHTAG}".strip()]
     return "\n".join(lines)
 
@@ -1344,6 +1427,7 @@ def draft_new_posts(state):
             "link": c["items"][0]["link"],
             "links": [[i["source"], i["link"]] for i in c["items"][:4]],
             "bg": choose_background(post),
+            "img_post": {k: post.get(k) for k in ("headline", "people", "image_query", "image_style", "location")},
             "created_at": now_utc().isoformat(),
             "news_time": min(i["published"] for i in c["items"]).isoformat(),
             "news_latest": max(i["published"] for i in c["items"]).isoformat(),
