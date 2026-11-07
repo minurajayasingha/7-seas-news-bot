@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892647,
+ "tg_offset": 495892648,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -679,6 +679,52 @@
    "status": "pending",
    "tg_message_id": 25,
    "tg_file_id": "AgACAgUAAxkDAAMZau9dryd8iJLc3J0ssPI2XxoaLq4AAsEVaxv8lnlXW4JqgmAk3z4BAAMCAAN3AAM9BA"
+  },
+  "3c591150ed": {
+   "id": "3c591150ed",
+   "created_at": "2026-11-07T17:38:04.397633+00:00",
+   "manual": true,
+   "label": "CONFLICT",
+   "hashtags": [
+    "#Krakow",
+    "#Poland",
+    "#WorldNews"
+   ],
+   "hook": "What measures can improve public safety in crowded urban areas? Tell us what you think.",
+   "key_points": [
+    "Six people killed in Krakow shooting",
+    "Two police officers among the injured",
+    "Suspect shot and taken to hospital"
+   ],
+   "breaking": true,
+   "sources": [
+    "BBC News"
+   ],
+   "link": "https://www.bbc.com/news/live/cq3dj1xv02vyt",
+   "links": [
+    [
+     "BBC News",
+     "https://www.bbc.com/news/live/cq3dj1xv02vyt"
+    ]
+   ],
+   "headline": "Six killed and a dozen injured in Krakow shooting",
+   "summary": "At least six people died and about a dozen others sustained injuries during a shooting in Krakow's Main Market Square. Police stated the suspect wore military-style attire and has been hospitalized after being shot by officers.",
+   "img_post": {
+    "headline": "Six killed and a dozen injured in Krakow shooting",
+    "people": [],
+    "image_query": "Krakow Main Market Square",
+    "image_style": "incident",
+    "location": "Krakow, Poland"
+   },
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Krakow, Poland"
+   },
+   "caption": "🚨 BREAKING: Six killed and a dozen injured in Krakow shooting\n\nAt least six people died and about a dozen others sustained injuries during a shooting in Krakow's Main Market Square. Police stated the suspect wore military-style attire and has been hospitalized after being shot by officers.\n\nWhat we know so far:\n• Six people killed in Krakow shooting\n• Two police officers among the injured\n• Suspect shot and taken to hospital\n\nWhat measures can improve public safety in crowded urban areas? Tell us what you think.\n\n📖 Read more: https://www.bbc.com/news/live/cq3dj1xv02vyt\n\n#Krakow #Poland #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 31,
+   "tg_file_id": "AgACAgUAAxkDAAMfau9iCtJzHvS9lixfZ4dnDWDCNMYAAsQVaxv8lnlX8e-6e3K4fXcBAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -1045,7 +1091,7 @@
    ]
   ]
  ],
- "last_draft_at": "2026-11-07T17:35:56.566161+00:00",
+ "last_draft_at": "2026-11-07T17:38:19.254510+00:00",
  "last_slot": null,
  "commands_set": 3,
  "log_channel": -1004367532135
