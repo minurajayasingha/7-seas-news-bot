@@ -17,13 +17,21 @@ Every 15 minutes GitHub runs the bot:
    it to your Telegram.
 
 **Images** (automatic, in this order):
-1. Story about 1–3 people **named in the headline** → their free-licensed photos from Wikimedia Commons, blended side by side
+1. Story about 1–3 people **named in the headline** → their free-licensed photos, blended side by side
+   (place story with one main person → place photo + the person in a circle)
+   Shootings, bombings, disasters → news design with a 📍 location tag (no random photos)
 2. Otherwise → a matching free photo (Wikimedia Commons search, or Pixabay if you add `PIXABAY_API_KEY`)
 3. Otherwise → the black 7 Seas globe design
 
 **Change a draft before approving:** reply to it in Telegram with
 - a **photo** → the bot rebuilds the post with your image
 - **text** → the bot uses your text as the new headline
+
+## Make your own post (in Telegram)
+- Send a **news link** → the bot reads the article and writes the post (add a line above the link to use your own headline).
+- Send a **photo with a caption** → first line = headline, next lines = text.
+- Start with **BREAKING:** to make it breaking news.
+It comes back with the normal buttons to approve.
 
 ## Keeping the chat clean
 - When a post is **published**, **skipped**, **replaced** or **expired**, it is deleted from the bot chat.
@@ -63,14 +71,17 @@ Repository → **Settings → Secrets and variables → Actions → New reposito
 ## Telegram commands
 - `/queue` – everything queued, with the exact posting time
 - `/status` – summary
+- `/new` – how to make your own post
+- `/pause` · `/resume` – stop/start automatic news
 - `/channel` – how to link the published-posts channel
 - `/help` – button guide
 
 ## Logo
 `assets/logo.png`. To change it, upload a new transparent PNG with the same name.
 
-## Settings
-Everything is in the **CONFIG** section at the top of `bot/main.py`.
+## Settings (easy maintenance)
+Everything you might want to change is in **`bot/settings.py`**: colors, how many posts, posting times,
+focus topics (US / war words), excluded topics and news sources. You never need to touch `main.py`.
 
 ## If something breaks
 - Errors are sent to your Telegram.

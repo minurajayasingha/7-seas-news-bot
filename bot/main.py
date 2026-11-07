@@ -28,79 +28,11 @@ from zoneinfo import ZoneInfo
 
 import feedparser
 import requests
+from urllib.parse import urlparse
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
-# =============================================================================
-# CONFIG
-# =============================================================================
-
-BRAND_NAME = "7 Seas News"
-BRAND_HASHTAG = "#7SeasNews"
-
-# Trusted news sources (RSS). A story is only used when 2+ DIFFERENT sources report it.
-FEEDS = {
-    "BBC": [
-        "https://feeds.bbci.co.uk/news/world/rss.xml",
-        "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-    ],
-    "NPR": [
-        "https://feeds.npr.org/1014/rss.xml",   # Politics
-        "https://feeds.npr.org/1004/rss.xml",   # World
-    ],
-    "Al Jazeera": ["https://www.aljazeera.com/xml/rss/all.xml"],
-    "The Guardian": [
-        "https://www.theguardian.com/us-news/us-politics/rss",
-        "https://www.theguardian.com/world/rss",
-    ],
-    "Politico": ["https://rss.politico.com/politics-news.xml"],
-    "CBS News": [
-        "https://www.cbsnews.com/latest/rss/politics",
-        "https://www.cbsnews.com/latest/rss/world",
-    ],
-    "ABC News": [
-        "https://feeds.abcnews.com/abcnews/politicsheadlines",
-        "https://feeds.abcnews.com/abcnews/internationalheadlines",
-    ],
-    "DW": ["https://rss.dw.com/rdf/rss-en-world"],
-    "France 24": ["https://www.france24.com/en/rss"],
-    "The Hill": ["https://thehill.com/homenews/feed/"],
-}
-
-MIN_SOURCES = 2              # how many different outlets must report a story
-MAX_AGE_HOURS = 12           # ignore articles older than this
-DRAFTS_PER_RUN = 2           # how many new posts to send to Telegram each drafting run
-DRAFT_EVERY_MINUTES = 120    # how often to look for new stories
-PENDING_EXPIRE_HOURS = 24    # unanswered drafts are dropped after this
-QUEUE_EXPIRE_HOURS = 24      # queued posts not published by then are dropped (news gets old)
-
-# Posting times for the "Queue" button (US East Coast time).
-SLOT_TIMEZONE = "America/New_York"
-POST_SLOTS = ["07:00", "09:30", "12:00", "15:00", "18:00", "20:30"]
-
-# Topics to skip (South Asia). Matched against the headline + summary.
-EXCLUDE_WORDS = [
-    "india", "indian", "pakistan", "pakistani", "sri lanka", "sri lankan",
-    "bangladesh", "nepal", "bhutan", "maldives", "modi", "new delhi", "delhi",
-    "mumbai", "karachi", "lahore", "islamabad", "colombo", "dhaka", "kathmandu",
-]
-# Skip non-news items
-SKIP_TITLE_WORDS = [
-    "live:", "live updates", "as it happened", "quiz", "opinion", "podcast",
-    "watch:", "video:", "in pictures", "newsletter", "crossword", "review:",
-]
-# Small priority boost for US-related stories (US audience first)
-US_WORDS = [
-    "us ", "u.s.", "united states", "america", "american", "washington",
-    "white house", "congress", "senate", "house speaker", "pentagon",
-    "supreme court", "republican", "democrat", "trump", "vance", "governor",
-]
-
-# Brand colors (from the 7 Seas News logo)
-BLACK = (8, 8, 9)
-CHARCOAL = (26, 26, 29)
-RED = (188, 39, 26)       # #BC271A
-WHITE = (255, 255, 255)
-SOFT = (205, 205, 210)
+# All settings (colors, sources, times, topics) are in bot/settings.py
+from settings import *  # noqa: E402,F401,F403
 
 # =============================================================================
 # SECRETS (set in GitHub > Settings > Secrets and variables > Actions)
@@ -285,15 +217,18 @@ def when_text(t):
 
 
 def set_commands_once(state):
-    if state.get("commands_set") == 2:
+    if state.get("commands_set") == 3:
         return
     tg("setMyCommands", commands=[
         {"command": "queue", "description": "What's queued and when it posts"},
         {"command": "status", "description": "Bot summary"},
+        {"command": "new", "description": "Make your own post"},
+        {"command": "pause", "description": "Stop automatic news"},
+        {"command": "resume", "description": "Start automatic news again"},
         {"command": "channel", "description": "Link the published-posts channel"},
         {"command": "help", "description": "How to use the bot"},
     ])
-    state["commands_set"] = 2
+    state["commands_set"] = 3
 
 
 def tg_download(file_id):
@@ -340,6 +275,88 @@ def handle_reply(state, msg, d):
         d.setdefault("extra_msgs", []).append(msg["message_id"])  # your reply message too
         tg_clear(d)
         log("Draft updated with new", what)
+
+
+URL_RE = re.compile(r"https?://\S+")
+
+
+def fetch_article(url):
+    """Title, description and text of a news article you sent."""
+    r = HTTP.get(url, timeout=25)
+    r.raise_for_status()
+    page = r.text
+
+    def meta(name):
+        for pat in (rf'<meta[^>]+(?:property|name)=["\']{re.escape(name)}["\'][^>]*content=["\']([^"\']*)',
+                    rf'<meta[^>]+content=["\']([^"\']*)["\'][^>]*(?:property|name)=["\']{re.escape(name)}["\']'):
+            m_ = re.search(pat, page, re.I)
+            if m_:
+                return html.unescape(m_.group(1)).strip()
+        return ""
+
+    t = re.search(r"<title[^>]*>(.*?)</title>", page, re.I | re.S)
+    title = meta("og:title") or (clean_html(t.group(1)) if t else "")
+    paras = [clean_html(p) for p in re.findall(r"<p[^>]*>(.*?)</p>", page, re.I | re.S)]
+    text = " ".join(p for p in paras if len(p) > 60)[:3000]
+    site = meta("og:site_name") or urlparse(url).netloc.replace("www.", "")
+    return {"title": title, "desc": meta("og:description") or meta("description"), "text": text, "site": site}
+
+
+def handle_manual(state, msg):
+    """You sent a link and/or a photo with a headline → make a post from it."""
+    raw = (msg.get("text") or msg.get("caption") or "").strip()
+    photo_id = None
+    if msg.get("photo"):
+        photo_id = msg["photo"][-1]["file_id"]
+    elif str(msg.get("document", {}).get("mime_type", "")).startswith("image/"):
+        photo_id = msg["document"]["file_id"]
+    urls = URL_RE.findall(raw)
+    lines = [ln.strip() for ln in URL_RE.sub("", raw).splitlines() if ln.strip()]
+    breaking = False
+    if lines and re.match(r"^breaking\b", lines[0], re.I):
+        breaking = True
+        lines[0] = re.sub(r"^breaking\s*[:\-–]?\s*", "", lines[0], flags=re.I)
+        lines = [ln for ln in lines if ln]
+    my_headline = lines[0].rstrip(".") if lines else ""
+    my_text = " ".join(lines[1:])
+
+    d = {"id": hashlib.sha1(f"{raw}{time.time()}".encode()).hexdigest()[:10],
+         "created_at": now_utc().isoformat(), "manual": True, "label": "WORLD", "hashtags": [],
+         "hook": "", "key_points": [], "breaking": breaking, "sources": [], "link": "", "links": []}
+    if urls:
+        url = urls[0].rstrip(").,")
+        art = fetch_article(url)
+        c = {"items": [{"source": art["site"], "title": art["title"],
+                        "summary": f"{art['desc']} {art['text']}"[:2800]}]}
+        post = gemini_write(c)
+        d.update({
+            "headline": my_headline or str(post["headline"]).strip().rstrip("."),
+            "summary": my_text or str(post["summary"]).strip(),
+            "label": str(post.get("label") or "WORLD").upper()[:18],
+            "hashtags": [str(t) for t in (post.get("hashtags") or [])][:3],
+            "hook": str(post.get("hook") or "").strip(),
+            "key_points": [str(k).strip() for k in (post.get("key_points") or []) if str(k).strip()][:3],
+            "breaking": breaking or bool(post.get("breaking")),
+            "sources": [art["site"]], "link": url, "links": [[art["site"], url]],
+        })
+        bg_post = dict(post, headline=d["headline"])
+    else:
+        if not my_headline:
+            tg_text("To make a post, send me:\n• a <b>news link</b> (I write the post), or\n"
+                    "• a <b>photo</b> with a caption: first line = headline, next lines = text.\n"
+                    "Start with <b>BREAKING:</b> for breaking news.")
+            return
+        d.update({"headline": my_headline, "summary": my_text})
+        bg_post = None
+    if photo_id:
+        d["bg"] = {"type": "photo", "photos": [{"tg_file_id": photo_id, "credit": ""}]}
+    elif bg_post:
+        d["bg"] = choose_background(bg_post)
+    else:
+        d["bg"] = {"type": "brand", "photos": []}
+    if send_draft(state, d):
+        tg("deleteMessage", chat_id=TG_CHAT, message_id=msg["message_id"])
+        log("Manual draft made:", d["headline"])
 
 
 def process_telegram(state):
@@ -424,8 +441,32 @@ def process_telegram(state):
                 tg_text("That post can't be changed anymore (already posted, skipped or replaced).")
             continue
 
-        text = (msg.get("text") or "").strip().lower()
-        if text.startswith("/queue"):
+        raw = (msg.get("text") or msg.get("caption") or "").strip()
+        has_photo = bool(msg.get("photo")) or str(msg.get("document", {}).get("mime_type", "")).startswith("image/")
+        if has_photo or (raw and not raw.startswith("/")):
+            try:
+                handle_manual(state, msg)
+            except Exception as e:
+                tg_text(f"⚠️ Could not make that post: <code>{html.escape(str(e))[:300]}</code>")
+            continue
+
+        text = raw.lower()
+        if text.startswith("/pause"):
+            state["paused"] = True
+            tg_text("⏸ Paused. I won't look for new news until you send /resume.\n"
+                    "(Queued posts still publish, and you can still send your own posts.)")
+        elif text.startswith("/resume"):
+            state["paused"] = False
+            tg_text("▶️ Resumed. I'll send new news again.")
+        elif text.startswith("/new"):
+            tg_text("✍️ <b>Make your own post</b>\n\n"
+                    "<b>Option 1 — a link:</b> paste a news article link. I read it and write the post.\n"
+                    "Add a line of text above the link to use your own headline.\n\n"
+                    "<b>Option 2 — a photo:</b> send a photo with a caption:\n"
+                    "first line = headline, next lines = text.\n\n"
+                    "Start with <b>BREAKING:</b> for breaking news.\n"
+                    "I'll send it back with the buttons to approve.")
+        elif text.startswith("/queue"):
             plan = queue_schedule(state)
             if not plan:
                 tg_text("📭 Nothing is queued right now.")
@@ -448,7 +489,8 @@ def process_telegram(state):
             tg_text(f"📊 <b>{BRAND_NAME} bot</b>\n"
                     f"Waiting for your approval: {len(p)}\n"
                     f"Queued to post: {len(q)}\n"
-                    f"Next time slot: {next_slot_text()}")
+                    f"Next time slot: {next_slot_text()}\n"
+                    f"Automatic news: {'⏸ paused' if state.get('paused') else '▶️ on'}")
         elif text.startswith("/start") or text.startswith("/help"):
             tg_text("👋 I send you news posts to approve.\n\n"
                     "🚀 <b>Post now</b> – publishes within ~15 min\n"
@@ -458,7 +500,9 @@ def process_telegram(state):
                     "• a <b>photo</b> → new background image\n"
                     "• <b>text</b> → new headline\n"
                     "I send back the new version to approve.\n\n"
+                    "✍️ <b>Your own post:</b> send a news link, or a photo with a headline (/new)\n\n"
                     "/queue – what's queued and when it posts\n"
+                    "/pause · /resume – stop/start automatic news\n"
                     "/channel – link a channel that logs every published post\n"
                     "/status – bot summary")
 
@@ -585,6 +629,19 @@ not no new more amid up out off just also new news latest report reports amid du
 while under against between first two three one year years day week top us""".split())
 
 
+_WORD_RE_CACHE = {}
+
+
+def has_any(text, words):
+    key = tuple(words)
+    if key not in _WORD_RE_CACHE:
+        alts = "|".join(re.escape(w.strip().lower()) for w in words if w.strip())
+        # allows simple endings: strike→strikes, russia→russian, iran→iranian, bomb→bombing
+        _WORD_RE_CACHE[key] = re.compile(
+            rf"(?<![a-z0-9])(?:{alts})(?:s|es|ed|ing|n|ns|ian|ians|i|is)?(?![a-z0-9])")
+    return bool(_WORD_RE_CACHE[key].search(text.lower()))
+
+
 def clean_html(text):
     text = re.sub(r"<[^>]+>", " ", text or "")
     return re.sub(r"\s+", " ", html.unescape(text)).strip()
@@ -626,7 +683,7 @@ def fetch_articles():
                     continue
                 summary = clean_html(e.get("summary", ""))[:700]
                 text = f"{title} {summary}".lower()
-                if any(w in text for w in EXCLUDE_WORDS):
+                if has_any(text, EXCLUDE_WORDS):
                     continue
                 if any(w in title.lower() for w in SKIP_TITLE_WORDS):
                     continue
@@ -684,9 +741,11 @@ def pick_stories(state, items):
             continue  # same topic posted recently
         newest = max(i["published"] for i in c["items"])
         hours_old = (now - newest).total_seconds() / 3600
-        text = " ".join(i["title"].lower() + " " for i in c["items"])
-        us_bonus = 3 if any(w in text for w in US_WORDS) else 0
-        c["score"] = len(sources) * 10 + us_bonus - hours_old
+        text = " ".join(f"{i['title']} {i['summary']}" for i in c["items"])
+        is_us, is_war = has_any(text, US_WORDS), has_any(text, WAR_WORDS)
+        if FOCUS_ONLY and not (is_us or is_war) and len(sources) < OTHER_NEWS_MIN_SOURCES:
+            continue  # not our focus and not huge news
+        c["score"] = len(sources) * 10 + (8 if is_us else 0) + (6 if is_war else 0) - hours_old
         c["sources"] = sorted(sources)
         good.append(c)
     good.sort(key=lambda c: c["score"], reverse=True)
@@ -709,13 +768,20 @@ Write a Facebook news post about this story. Strict rules:
 - Be strictly neutral: no opinions, no loaded or emotional words, no taking sides. Attribute claims ("officials said", "according to ...").
 - Write in your own words. Do not copy sentences from the reports.
 - Simple, clear English for a global audience.
+- Make people want to read it: lead with the most important or surprising FACT, use strong active verbs
+  and concrete names, numbers and places from the reports. Catchy, but never exaggerated, misleading or invented.
 
 Return ONLY JSON with these keys:
-"headline": 5 to 10 words, plain and factual, for the image. No clickbait, no all-caps, no emojis, no ending period.
+"headline": 6 to 12 words. Catchy and 100% factual: the most striking fact first, strong verb, names/numbers from the reports. A colon is allowed for impact (e.g. "Pope Leo lands in Uruguay: first stop of South America tour"). No question headlines, no "you won't believe", no ALL-CAPS words (except abbreviations like US, UN), no emojis, no ending period.
 "summary": 2 or 3 short sentences (max 60 words) saying what happened and why it matters.
+"hook": ONE short, neutral question that invites readers to share their view in the comments, without taking any side (e.g. "Will these talks bring a ceasefire closer? Tell us what you think 👇").
+"breaking": true ONLY if this is a sudden, major event that has just happened or just been announced (attack, disaster, death or resignation of a leader, coup, declaration of war, final election result, major surprise announcement). Otherwise false.
+"key_points": a list of 2 or 3 very short facts from the reports (max 12 words each) that add context. Used for breaking news.
+"image_style": "incident" if the story is about violence or a disaster (shooting, bombing, explosion, attack, airstrike, crash, fire, earthquake, flood); otherwise "person" if it is mainly about what a person said or did; otherwise "scene" (a visit, tour, summit, protest, vote, policy).
+"location": where it happened, "City, Country" (or just "Country"/"US State"), e.g. "Krakow, Poland". Empty string if unclear.
 "label": exactly one of "US POLITICS", "WORLD", "CONFLICT", "DIPLOMACY", "ELECTIONS", "ECONOMY".
 "hashtags": a list of 3 relevant hashtags, e.g. ["#USPolitics", "#WorldNews", "#Congress"].
-"image_query": 2 to 4 generic words for a stock photo of a place or object (never a real person), e.g. "US Capitol building".
+"image_query": 2 to 4 words for a photo of the most relevant PLACE or landmark (never a person), as specific as possible, e.g. "Montevideo skyline", "US Capitol building", "Kyiv city", "United Nations Security Council".
 "people": a list of 0 to 3 real people who are the MAIN subject of the story AND are named in your headline, full names exactly as written in the reports, e.g. ["Donald Trump", "Vladimir Putin"]. People who are only mentioned in the background must NOT be listed. Use [] if the headline names no person (for example a story about a country, party, vote or attack).
 "skip": true if this is about South Asia, is not hard news (opinion, sport, entertainment, live blog), or the reports describe different events. Otherwise false.
 """
@@ -886,6 +952,14 @@ def wiki_search_photo(query):
             lic = clean_html(meta.get("LicenseShortName", {}).get("value", ""))
             if not lic.lower().startswith(FREE_LICENSES):
                 continue
+            title = page.get("title", "").lower()
+            if re.search(r"(?<!\d)(1[0-8]\d\d|19[0-8]\d)(?!\d)", title) or any(
+                    w in title for w in ("old ", "historic", "postcard", "vintage", "engraving",
+                                         "painting", "drawing", "map", "lithograph", "sepia")):
+                continue  # skip old / historic pictures
+            yr = re.search(r"(1[89]\d\d|20\d\d)", clean_html(meta.get("DateTimeOriginal", {}).get("value", "")))
+            if yr and int(yr.group(1)) < 2000:
+                continue
             artist = clean_html(meta.get("Artist", {}).get("value", ""))[:60] or "Unknown author"
             good.append({"url": info.get("thumburl") or info["url"],
                          "credit": f"{artist} / Wikimedia Commons ({lic})", "short": "WIKIMEDIA COMMONS"})
@@ -897,21 +971,34 @@ def wiki_search_photo(query):
 
 def choose_background(post):
     """1) photos of the people in the story  2) matching stock photo  3) brand design."""
-    headline = str(post.get("headline", "")).lower()
+    headline = re.sub(r"[^a-z0-9 ]", " ", str(post.get("headline", "")).lower())
+    words = set(headline.split())
+    skip = {"the", "of", "and", "de", "von", "van", "bin", "al", "ii", "iii", "iv", "xiv", "jr", "sr",
+            "pope", "king", "queen", "prince", "president", "minister", "prime", "general"}
     people = []
     for p in post.get("people") or []:
         if not isinstance(p, str) or not p.strip():
             continue
-        last = p.strip().split()[-1].lower()
-        if last in headline or p.strip().lower() in headline:   # only people named in the headline
+        tokens = [t for t in re.sub(r"[^a-z0-9 ]", " ", p.lower()).split() if len(t) > 2 and t not in skip]
+        if any(t in words for t in tokens):            # only people named in the headline
             people.append(p.strip())
     found = [x for x in (wiki_person_photo(p) for p in people[:3]) if x]
+
+    if post.get("image_style") == "incident" and not found:
+        # no random photos for shootings/bombings: strong news design with a location tag
+        return {"type": "incident", "photos": [], "location": str(post.get("location") or "")[:40]}
+
+    q = post.get("image_query", "")
+    scene_wanted = post.get("image_style") == "scene" or not found
+    scene = (pexels_photo(q) or pixabay_photo(q) or wiki_search_photo(q)) if scene_wanted else None
+
+    if found and scene and len(found) == 1:
+        # place photo in the background + the main person in a small circle
+        return {"type": "photo", "photos": [scene], "inset": found[0]}
     if found:
         return {"type": "people", "photos": found}
-    q = post.get("image_query", "")
-    px = pexels_photo(q) or pixabay_photo(q) or wiki_search_photo(q)
-    if px:
-        return {"type": "photo", "photos": [px]}
+    if scene:
+        return {"type": "photo", "photos": [scene]}
     return {"type": "brand", "photos": []}
 
 
@@ -1082,7 +1169,8 @@ def render_image(headline, label, sources, bg):
         d.text((M + 200, 60), "News", font=font("Poppins-SemiBold.ttf", 56), fill=RED)
 
     # --- photo credit (small, top right) ---
-    shorts = sorted({p.get("short") for p in bg.get("photos", []) if p.get("short")})
+    shorts = sorted({p.get("short") for p in bg.get("photos", []) + ([bg["inset"]] if bg.get("inset") else [])
+                     if p.get("short")})
     if imgs and shorts:
         cf = font("Poppins-Medium.ttf", 17)
         d.text((W - M, 78), "PHOTO: " + " · ".join(shorts), font=cf, fill=(230, 230, 230), anchor="ra")
@@ -1099,6 +1187,39 @@ def render_image(headline, label, sources, bg):
     footer_top = H - 112
     y = footer_top - 40 - line_h * len(lines)
 
+    # --- incident: pin on the globe + location tag ---
+    if bg.get("type") == "incident":
+        px, py = W // 2 + 160 - 120, 520 - 60
+        for rr, a in ((150, 40), (105, 70), (62, 110)):
+            ring = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+            ImageDraw.Draw(ring).ellipse([px - rr, py - rr, px + rr, py + rr], outline=RED + (a,), width=5)
+            base.paste(ring, (0, 0), ring)
+        d.ellipse([px - 24, py - 24, px + 24, py + 24], fill=RED)
+        d.ellipse([px - 9, py - 9, px + 9, py + 9], fill=WHITE)
+        loc = (bg.get("location") or "").upper()
+        if loc:
+            tf = font("Poppins-SemiBold.ttf", 30)
+            ty = y - 70 - 62
+            d.ellipse([M, ty + 6, M + 26, ty + 32], fill=RED)
+            d.polygon([(M + 3, ty + 24), (M + 23, ty + 24), (M + 13, ty + 44)], fill=RED)
+            d.ellipse([M + 8, ty + 14, M + 18, ty + 24], fill=WHITE)
+            spaced(d, (M + 40, ty), loc, tf, WHITE, 2)
+
+    # --- main person in a circle (scene photos) ---
+    if bg.get("inset"):
+        try:
+            face = cover(load_photo(bg["inset"]), 300, 300, 0.12)
+            r = 300
+            mask = Image.new("L", (r * 4, r * 4), 0)
+            ImageDraw.Draw(mask).ellipse([0, 0, r * 4 - 1, r * 4 - 1], fill=255)
+            mask = mask.resize((r, r), Image.LANCZOS)
+            cx, cy = W - M - r, y - 70 - 30 - r
+            d.ellipse([cx - 14, cy - 14, cx + r + 14, cy + r + 14], fill=RED)
+            d.ellipse([cx - 6, cy - 6, cx + r + 6, cy + r + 6], fill=WHITE)
+            base.paste(face, (cx, cy), mask)
+        except Exception as e:
+            log("Inset photo failed:", e)
+
     # --- label ---
     lf = font("Poppins-SemiBold.ttf", 24)
     lwid = spaced_width(d, label, lf, 3)
@@ -1113,7 +1234,7 @@ def render_image(headline, label, sources, bg):
     # --- footer ---
     d.rectangle([M, footer_top, W - M, footer_top + 3], fill=RED)
     sf = font("Poppins-Medium.ttf", 22)
-    src = "SOURCES: " + " · ".join(s.upper() for s in sources[:3])
+    src = ("SOURCES: " + " · ".join(s.upper() for s in sources[:3])) if sources else ""
     while d.textlength(src, font=sf) > max_w - 230 and " · " in src:
         src = src.rsplit(" · ", 1)[0]
     d.text((M, footer_top + 30), src, font=sf, fill=SOFT)
@@ -1128,29 +1249,54 @@ def render_image(headline, label, sources, bg):
 # 6) DRAFT → TELEGRAM
 # =============================================================================
 
+def needs_credit(p):
+    """Creative Commons 'BY' licences require naming the photographer; public domain/CC0 don't."""
+    c = (p.get("credit") or "").lower()
+    return "cc by" in c or "cc-by" in c
+
+
 def build_caption(d):
     tags = " ".join("#" + re.sub(r"[^A-Za-z0-9_]", "", t) for t in d.get("hashtags", [])[:3]
                     if re.sub(r"[^A-Za-z0-9_]", "", t))
-    lines = [d["headline"], "", d["summary"], "",
-             f"📰 Sources: {', '.join(d['sources'][:4])}",
-             f"🔗 Read more: {d['link']}"]
-    credits = [p["credit"] for p in d.get("bg", {}).get("photos", []) if p.get("credit")]
+    head = f"🚨 BREAKING: {d['headline']}" if d.get("breaking") else d["headline"]
+    lines = [head] + (["", d["summary"]] if d.get("summary") else [])
+    if d.get("breaking") and d.get("key_points"):
+        lines += ["", "What we know so far:"] + [f"• {k}" for k in d["key_points"][:3]]
+    if d.get("hook"):
+        lines += ["", d["hook"]]
+    if d.get("sources"):
+        lines += ["", f"📰 Source: {', '.join(d['sources'][:3])}"]
+    if SHOW_READ_MORE_LINK and d.get("link"):
+        lines.append(f"🔗 {d['link']}")
+    bg = d.get("bg", {})
+    credits = [p["credit"] for p in bg.get("photos", []) + ([bg["inset"]] if bg.get("inset") else [])
+               if needs_credit(p)]
     if credits:
-        lines.append("📷 Photo: " + "; ".join(credits))
+        lines.append("📷 " + "; ".join(credits))
     lines += ["", f"{tags} {BRAND_HASHTAG}".strip()]
     return "\n".join(lines)
 
 
 def send_draft(state, d):
     """Make the image, send it to Telegram with buttons, remember it."""
-    img = render_image(d["headline"], d["label"], d["sources"], d["bg"])
+    img = render_image(d["headline"], "BREAKING NEWS" if d.get("breaking") else d["label"],
+                       d["sources"], d["bg"])
     d["caption"] = build_caption(d)
     links = "\n".join(f'• <a href="{html.escape(u)}">{html.escape(s)}</a>' for s, u in d["links"][:4])
     nt = news_time_text(d)
+    if d.get("breaking"):
+        nt = "🚨 <b>BREAKING</b>" + (f"\n{nt}" if nt else "")
     preview = (f"<b>{html.escape(d['headline'])}</b>\n"
                + (f"{nt}\n" if nt else "") + "\n"
-               f"{html.escape(d['summary'])}\n\n"
-               f"<i>Confirmed by: {html.escape(', '.join(d['sources']))}</i>\n{links}\n\n"
+               f"{html.escape(d['summary'])}\n"
+               + ("".join(f"• {html.escape(k)}\n" for k in d.get("key_points", [])) if d.get("breaking") else "")
+               + (f"💬 {html.escape(d['hook'])}\n" if d.get("hook") else "")
+               + "\n"
+               + ("✍️ <i>Your post" + (f" · from {html.escape(', '.join(d['sources']))} (single source, please double-check)"
+                                       if d.get("sources") else "") + "</i>\n\n"
+                  if d.get("manual") else
+                  f"<i>Confirmed by: {html.escape(', '.join(d['sources']))}</i>\n{links}\n\n")
+               +
                "✏️ <i>Reply with a photo to change the image, or with text to change the headline.</i>")
     j = tg("sendPhoto", chat_id=TG_CHAT, caption=preview, parse_mode="HTML",
            files={"photo": ("post.jpg", img, "image/jpeg")},
@@ -1189,6 +1335,10 @@ def draft_new_posts(state):
             "headline": str(post["headline"]).strip().rstrip("."),
             "summary": str(post["summary"]).strip(),
             "label": str(post.get("label") or "WORLD").upper()[:18],
+            "hook": str(post.get("hook") or "").strip(),
+            "key_points": [str(k).strip() for k in (post.get("key_points") or []) if str(k).strip()][:3],
+            "breaking": bool(post.get("breaking")) and
+                        (now_utc() - min(i["published"] for i in c["items"])) <= timedelta(hours=BREAKING_MAX_HOURS),
             "hashtags": [str(t) for t in (post.get("hashtags") or [])][:3],
             "sources": c["sources"],
             "link": c["items"][0]["link"],
@@ -1235,8 +1385,8 @@ def main():
         expire_pending(state)
 
         last = state.get("last_draft_at")
-        due = FORCE_DRAFT or not last or \
-            now_utc() - datetime.fromisoformat(last) >= timedelta(minutes=DRAFT_EVERY_MINUTES - 5)
+        due = FORCE_DRAFT or (not state.get("paused") and (
+            not last or now_utc() - datetime.fromisoformat(last) >= timedelta(minutes=DRAFT_EVERY_MINUTES - 5)))
         if due:
             state["last_draft_at"] = now_utc().isoformat()
             draft_new_posts(state)
