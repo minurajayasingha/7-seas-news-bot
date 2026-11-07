@@ -190,11 +190,56 @@ def tg_text(text):
               parse_mode="HTML", disable_web_page_preview="true")
 
 
-def tg_status(draft, label):
-    """Replace the buttons under a draft with a status label."""
+def draft_buttons(pid):
+    return {"inline_keyboard": [
+        [{"text": "🚀 Post now", "callback_data": f"now:{pid}"},
+         {"text": "🕒 Queue", "callback_data": f"queue:{pid}"}],
+        [{"text": "❌ Skip", "callback_data": f"skip:{pid}"}],
+    ]}
+
+
+def tg_status(draft, label, cancel=False):
+    """Replace the buttons under a draft with a status label (and optional Cancel)."""
     if draft.get("tg_message_id"):
+        rows = [[{"text": label, "callback_data": "noop"}]]
+        if cancel:
+            rows.append([{"text": "↩️ Cancel", "callback_data": f"cancel:{draft['id']}"}])
         tg("editMessageReplyMarkup", chat_id=TG_CHAT, message_id=draft["tg_message_id"],
-           reply_markup={"inline_keyboard": [[{"text": label, "callback_data": "noop"}]]})
+           reply_markup={"inline_keyboard": rows})
+
+
+def tg_reply(draft, text):
+    """Send a small message as a reply to the draft, so you know which post it is about."""
+    return tg("sendMessage", chat_id=TG_CHAT, text=text, parse_mode="HTML",
+              reply_to_message_id=draft.get("tg_message_id", ""),
+              allow_sending_without_reply="true", disable_web_page_preview="true")
+
+
+def lk_time(t):
+    return t.astimezone(ZoneInfo("Asia/Colombo")).strftime("%I:%M %p").lstrip("0")
+
+
+def ny_time(t):
+    return t.astimezone(ZoneInfo(SLOT_TIMEZONE)).strftime("%I:%M %p").lstrip("0")
+
+
+def when_text(t):
+    now = now_utc()
+    day = t.astimezone(ZoneInfo("Asia/Colombo")).date()
+    today = now.astimezone(ZoneInfo("Asia/Colombo")).date()
+    d = "today" if day == today else ("tomorrow" if day == today + timedelta(days=1) else f"{day:%b %d}")
+    return f"{lk_time(t)} Sri Lanka {d}  ({ny_time(t)} New York)"
+
+
+def set_commands_once(state):
+    if state.get("commands_set"):
+        return
+    tg("setMyCommands", commands=[
+        {"command": "queue", "description": "What's queued and when it posts"},
+        {"command": "status", "description": "Bot summary"},
+        {"command": "help", "description": "How to use the bot"},
+    ])
+    state["commands_set"] = True
 
 
 def tg_download(file_id):
@@ -259,18 +304,39 @@ def process_telegram(state):
                 continue
             action, pid = data.split(":", 1)
             d = state["drafts"].get(pid)
-            if not d or d["status"] != "pending":
+            if not d:
+                continue
+            if action == "cancel" and d["status"] == "queued":
+                d["status"] = "pending"
+                d.pop("queued_at", None)
+                d.pop("post_now", None)
+                tg("editMessageReplyMarkup", chat_id=TG_CHAT, message_id=d["tg_message_id"],
+                   reply_markup=draft_buttons(pid))
+                tg_reply(d, "↩️ Cancelled. It's back to waiting for your choice.")
+                continue
+            if d["status"] != "pending":
                 continue
             if action == "skip":
                 d["status"] = "skipped"
                 tg_status(d, "❌ Skipped")
                 log("Skipped", pid)
-            elif action in ("now", "queue"):
+            elif action == "now":
                 d["status"] = "queued"
                 d["queued_at"] = now_utc().isoformat()
-                d["post_now"] = action == "now"
-                tg_status(d, "🚀 Posting now…" if action == "now" else "🕒 Queued for next time slot")
-                log("Approved", pid, action)
+                d["post_now"] = True
+                tg_status(d, "🚀 Posting now…", cancel=False)
+                log("Approved", pid, "now")
+            elif action == "queue":
+                d["status"] = "queued"
+                d["queued_at"] = now_utc().isoformat()
+                d["post_now"] = False
+                plan = dict((x["id"], t) for x, t in queue_schedule(state))
+                t = plan.get(pid)
+                pos = list(plan).index(pid) + 1 if pid in plan else "?"
+                tg_status(d, f"🕒 Queued · {lk_time(t)} SL" if t else "🕒 Queued", cancel=True)
+                tg_reply(d, f"🕒 <b>Queued</b> (#{pos} in line)\nWill post at <b>{when_text(t)}</b>"
+                         if t else "🕒 Queued")
+                log("Approved", pid, "queue")
             continue
 
         msg = u.get("message")
@@ -290,7 +356,16 @@ def process_telegram(state):
             continue
 
         text = (msg.get("text") or "").strip().lower()
-        if text.startswith("/status"):
+        if text.startswith("/queue"):
+            plan = queue_schedule(state)
+            if not plan:
+                tg_text("📭 Nothing is queued right now.")
+            else:
+                rows = [f"{n}. <b>{html.escape(d['headline'])}</b>\n    🕒 {when_text(t)}"
+                        for n, (d, t) in enumerate(plan, 1)]
+                tg_text("🗓 <b>Queue</b>\n\n" + "\n\n".join(rows) +
+                        "\n\nTo cancel one, tap ↩️ Cancel under that post.")
+        elif text.startswith("/status"):
             q = [d for d in state["drafts"].values() if d["status"] == "queued"]
             p = [d for d in state["drafts"].values() if d["status"] == "pending"]
             tg_text(f"📊 <b>{BRAND_NAME} bot</b>\n"
@@ -306,7 +381,8 @@ def process_telegram(state):
                     "• a <b>photo</b> → new background image\n"
                     "• <b>text</b> → new headline\n"
                     "I send back the new version to approve.\n\n"
-                    "/status – see what's waiting")
+                    "/queue – what's queued and when it posts\n"
+                    "/status – bot summary")
 
 
 # =============================================================================
@@ -353,6 +429,31 @@ def facebook_post_photo(image_bytes, caption):
     return j.get("post_id") or j.get("id")
 
 
+def queue_schedule(state, now=None):
+    """Planned posting time for each queued post (Post-now items first, then slots in order)."""
+    now = now or now_utc()
+    queued = sorted([d for d in state["drafts"].values() if d["status"] == "queued"],
+                    key=lambda d: d["queued_at"])
+    plan = [(d, now) for d in queued if d.get("post_now")]
+    waiting = [d for d in queued if not d.get("post_now")]
+    slots = []
+    cur = current_slot(now)
+    if cur and state.get("last_slot") != cur.isoformat():
+        slots.append(now)
+    tz = ZoneInfo(SLOT_TIMEZONE)
+    day = 0
+    while len(slots) < len(waiting):
+        base = (now.astimezone(tz) + timedelta(days=day)).date()
+        for s_ in POST_SLOTS:
+            hh, mm = map(int, s_.split(":"))
+            t = datetime(base.year, base.month, base.day, hh, mm, tzinfo=tz)
+            if t > now and len(slots) < len(waiting):
+                slots.append(t)
+        day += 1
+    plan += list(zip(waiting, slots))
+    return plan
+
+
 def publish_due(state):
     now = now_utc()
     queued = sorted([d for d in state["drafts"].values() if d["status"] == "queued"],
@@ -380,7 +481,12 @@ def publish_due(state):
             d["status"] = "posted"
             d["fb_post_id"] = post_id
             d["posted_at"] = now.isoformat()
-            tg_status(d, "✅ Posted on Facebook")
+            tg_status(d, f"✅ Posted · {lk_time(now)} SL")
+            link = f"https://www.facebook.com/{post_id}" if post_id else ""
+            left = len([x for x in state["drafts"].values() if x["status"] == "queued"])
+            tg_reply(d, f"✅ <b>Posted on Facebook</b> at {lk_time(now)} Sri Lanka ({ny_time(now)} New York)"
+                        + (f"\n🔗 <a href=\"{link}\">Open the post</a>" if link else "")
+                        + (f"\n🗓 {left} more in the queue — /queue" if left else ""))
             log("Posted", d["id"], post_id)
         except Exception as e:
             d["attempts"] = d.get("attempts", 0) + 1
@@ -945,11 +1051,7 @@ def send_draft(state, d):
                "✏️ <i>Reply with a photo to change the image, or with text to change the headline.</i>")
     j = tg("sendPhoto", chat_id=TG_CHAT, caption=preview, parse_mode="HTML",
            files={"photo": ("post.jpg", img, "image/jpeg")},
-           reply_markup={"inline_keyboard": [
-               [{"text": "🚀 Post now", "callback_data": f"now:{d['id']}"},
-                {"text": "🕒 Queue", "callback_data": f"queue:{d['id']}"}],
-               [{"text": "❌ Skip", "callback_data": f"skip:{d['id']}"}],
-           ]})
+           reply_markup=draft_buttons(d["id"]))
     if not j.get("ok"):
         return False
     res = j["result"]
@@ -1022,6 +1124,7 @@ def main():
 
     state = load_state()
     try:
+        set_commands_once(state)
         process_telegram(state)
         publish_due(state)
         expire_pending(state)
