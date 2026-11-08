@@ -70,6 +70,10 @@ TIKTOK_HASHTAGS = "#news #worldnews #fyp"   # added to the caption sent to your 
 #   "never"     = no questions
 ASK_QUESTION = "sometimes"
 
+# ---------- Post stats (likes, comments, shares) ----------
+STATS_EVERY_MINUTES = 60     # how often the numbers under published posts are refreshed
+STATS_DAYS = 3               # keep updating a post's numbers for this many days after publishing
+
 # ---------- Expiry ----------
 PENDING_EXPIRE_HOURS = 8     # unanswered posts are removed after this
 QUEUE_EXPIRE_HOURS = 12      # queued posts not published by then are removed

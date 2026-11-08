@@ -170,12 +170,120 @@ def log_to_channel(state, d, fb_link):
             f"<i>{html.escape(', '.join(d['sources']))}</i>"
             + (f"\n{news_time_text(d)}" if d.get("news_time") else "")
             + (f"\n\n🔗 <a href=\"{fb_link}\">Open on Facebook</a>" if fb_link else ""))
+    d["log_text"] = text   # kept so the stats line can be added under it later
     if ch:
         j = tg("sendPhoto", chat_id=ch, photo=d["tg_file_id"], caption=text, parse_mode="HTML")
         if j.get("ok"):
+            d.update(log_chat=ch, log_msg_id=j["result"]["message_id"], log_photo=True)
             return True
-    tg_text(text)   # no channel linked (or it failed): tell you in the bot chat
+    j = tg_text(text)   # no channel linked (or it failed): tell you in the bot chat
+    if j.get("ok"):
+        d.update(log_chat=TG_CHAT, log_msg_id=j["result"]["message_id"], log_photo=False)
     return False
+
+
+# ---------- Post stats (likes / comments / shares / reach) ----------
+
+def short_num(n):
+    if n >= 1_000_000:
+        return f"{n / 1_000_000:.1f}M".replace(".0M", "M")
+    if n >= 1000:
+        return f"{n / 1000:.1f}K".replace(".0K", "K")
+    return str(n)
+
+
+def fb_get(path, **params):
+    r = HTTP.get(f"https://graph.facebook.com/{path}", params=dict(params, access_token=FB_TOKEN), timeout=30)
+    j = r.json()
+    if "error" in j:
+        raise RuntimeError(j["error"].get("message", str(j["error"])))
+    return j
+
+
+REACH_METRICS = ["post_total_media_view_unique", "post_impressions_unique"]
+
+
+def fb_post_stats(state, post_id):
+    """Reactions, comments, shares (+ reach if Facebook allows it) for one published post."""
+    j = fb_get(post_id, fields="reactions.summary(total_count).limit(0),"
+                               "comments.summary(total_count).limit(0),shares")
+    s = {"likes": j.get("reactions", {}).get("summary", {}).get("total_count", 0),
+         "comments": j.get("comments", {}).get("summary", {}).get("total_count", 0),
+         "shares": j.get("shares", {}).get("count", 0)}
+    if not state.get("reach_off"):
+        metrics = [state["reach_metric"]] if state.get("reach_metric") else REACH_METRICS
+        refused = 0
+        for metric in metrics:
+            try:
+                data = fb_get(f"{post_id}/insights", metric=metric).get("data") or []
+                if data:
+                    s["reach"] = data[0]["values"][0]["value"]
+                    state["reach_metric"] = metric
+                    break
+            except Exception as e:
+                refused += 1
+                log("Reach not available with", metric, ":", e)
+        if refused == len(metrics) and not state.get("reach_metric"):
+            state["reach_off"] = True   # Facebook refuses reach for this Page token: stop asking
+    return s
+
+
+def stats_line(s):
+    line = (f"📊 👍 {short_num(s['likes'])} · 💬 {short_num(s['comments'])} · "
+            f"🔁 {short_num(s['shares'])}")
+    if s.get("reach") is not None:
+        line += f" · 👀 {short_num(s['reach'])} reached"
+    return line
+
+
+def update_post_stats(state, force=False):
+    """Refresh the numbers of recent published posts and show them under each post in the channel."""
+    now = now_utc()
+    last = state.get("last_stats_at")
+    if not force and last and now - datetime.fromisoformat(last) < timedelta(minutes=STATS_EVERY_MINUTES - 5):
+        return
+    state["last_stats_at"] = now.isoformat()
+    for d in state["drafts"].values():
+        if d.get("status") != "posted" or not d.get("fb_post_id") or not d.get("posted_at"):
+            continue
+        if now - datetime.fromisoformat(d["posted_at"]) > timedelta(days=STATS_DAYS):
+            continue
+        try:
+            s = fb_post_stats(state, d["fb_post_id"])
+        except Exception as e:
+            log("Stats error:", d["id"], e)
+            continue
+        changed = s != d.get("stats")
+        d["stats"] = s
+        d["stats_at"] = now.isoformat()
+        if changed and d.get("log_msg_id") and d.get("log_text"):
+            text = f"{d['log_text']}\n\n{stats_line(s)}\n<i>Updated {lk_time(now)} Sri Lanka</i>"
+            if d.get("log_photo"):
+                tg("editMessageCaption", chat_id=d["log_chat"], message_id=d["log_msg_id"],
+                   caption=text[:1024], parse_mode="HTML")
+            else:
+                tg("editMessageText", chat_id=d["log_chat"], message_id=d["log_msg_id"],
+                   text=text[:4000], parse_mode="HTML", disable_web_page_preview="true")
+
+
+def stats_report(state):
+    now = now_utc()
+    posts = [d for d in state["drafts"].values() if d.get("status") == "posted" and d.get("posted_at")
+             and now - datetime.fromisoformat(d["posted_at"]) <= timedelta(hours=24)]
+    if not posts:
+        return "📊 No posts published in the last 24 hours."
+    score = lambda d: sum((d.get("stats") or {}).get(k, 0) for k in ("likes", "comments", "shares"))
+    posts.sort(key=score, reverse=True)
+    tot = {k: sum((d.get("stats") or {}).get(k, 0) for d in posts) for k in ("likes", "comments", "shares")}
+    rows = []
+    for n, d in enumerate(posts[:10], 1):
+        link = f"https://www.facebook.com/{d['fb_post_id']}" if d.get("fb_post_id") else ""
+        title = html.escape(d["headline"][:70])
+        rows.append(f"{n}. " + (f'<a href="{link}">{title}</a>' if link else title) + "\n    "
+                    + (stats_line(d["stats"]) if d.get("stats") else "📊 no numbers yet"))
+    return (f"📊 <b>Last 24 hours</b> · {len(posts)} posts\n"
+            f"Total: 👍 {short_num(tot['likes'])} · 💬 {short_num(tot['comments'])} · "
+            f"🔁 {short_num(tot['shares'])}\n\n" + "\n\n".join(rows))
 
 
 def tiktok_caption(d):
@@ -240,11 +348,12 @@ def when_text(t):
 
 
 def set_commands_once(state):
-    if state.get("commands_set") == 4:
+    if state.get("commands_set") == 5:
         return
     tg("setMyCommands", commands=[
         {"command": "queue", "description": "What's queued and when it posts"},
         {"command": "status", "description": "Bot summary"},
+        {"command": "stats", "description": "Likes, comments, shares (last 24h)"},
         {"command": "new", "description": "Make your own post"},
         {"command": "pause", "description": "Stop automatic news"},
         {"command": "resume", "description": "Start automatic news again"},
@@ -252,7 +361,7 @@ def set_commands_once(state):
         {"command": "tiktok", "description": "Link the TikTok files channel"},
         {"command": "help", "description": "How to use the bot"},
     ])
-    state["commands_set"] = 4
+    state["commands_set"] = 5
 
 
 def tg_download(file_id):
@@ -553,6 +662,12 @@ def process_telegram(state):
                         "3. Post any message in the channel and <b>forward it to me</b> now\n\n"
                         + ("Currently linked ✅ (send /tiktok off to unlink)"
                            if state.get("tiktok_channel") else "Not linked yet."))
+        elif text.startswith("/stats"):
+            try:
+                update_post_stats(state, force=True)
+            except Exception as e:
+                log("Stats error:", e)
+            tg_text(stats_report(state))
         elif text.startswith("/status"):
             q = [d for d in state["drafts"].values() if d["status"] == "queued"]
             p = [d for d in state["drafts"].values() if d["status"] == "pending"]
@@ -576,6 +691,7 @@ def process_telegram(state):
                     "/pause · /resume – stop/start automatic news\n"
                     "/channel – link a channel that logs every published post\n"
                     "/tiktok – link a channel that gets every post as a TikTok-size file\n"
+                    "/stats – likes, comments and shares of the last 24 hours\n"
                     "/status – bot summary")
 
 
@@ -1588,6 +1704,10 @@ def main():
         process_telegram(state)
         publish_due(state)
         expire_pending(state)
+        try:
+            update_post_stats(state)
+        except Exception as e:  # numbers are a bonus: never stop the bot because of them
+            log("Stats error:", e)
 
         last = state.get("last_draft_at")
         due = FORCE_DRAFT or (not state.get("paused") and (
