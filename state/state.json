@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892692,
+ "tg_offset": 495892693,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -1104,14 +1104,20 @@
    "news_time": "2026-11-07T23:05:06+00:00",
    "news_latest": "2026-11-08T00:58:51+00:00",
    "caption": "ICE detains and releases Wisconsin state trooper Carel Aaron Van Der Merwe\n\nCarel Aaron Van Der Merwe, a 21-year-old Wisconsin state trooper from South Africa, was released after being detained by ICE agents. Federal immigration agents approached him at an airport as he waited to board a domestic flight.\n\nWhat are your thoughts on this detention? Let us know in the comments.\n\n📖 Read more: https://thehill.com/homenews/state-watch/6206341-wisconsin-trooper-ice-arrest/\n\n#Wisconsin #ICE #USNews #7SeasNews",
-   "status": "queued",
+   "status": "posted",
    "tg_message_id": 39,
    "tg_file_id": "AgACAgUAAxkDAAMnau_iBslzAw5W4vk5CnyPxthaBh0AAmsRaxv8loFX37p9i-pyc2gBAAMCAAN3AAM9BA",
    "queued_at": "2026-11-08T07:50:03.790761+00:00",
    "post_now": false,
-   "extra_msgs": [
-    56
-   ]
+   "extra_msgs": [],
+   "fb_post_id": "1413030521900096_122095921233548584",
+   "posted_at": "2026-11-08T12:00:30.625809+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 08 · 7:00 AM New York · 5:30 PM Sri Lanka\n\n<b>ICE detains and releases Wisconsin state trooper Carel Aaron Van Der Merwe</b>\n<i>The Guardian, The Hill</i>\n🔴 <b>Latest:</b> 6:28 AM Sri Lanka (11h 1m ago) · first reported 4:35 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122095921233548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 20,
+   "log_photo": true,
+   "cleared": true,
+   "fb_story_id": "1863976145017412"
   },
   "02a329785f": {
    "id": "02a329785f",
@@ -3147,7 +3153,7 @@
   ]
  ],
  "last_draft_at": "2026-11-08T11:51:39.916531+00:00",
- "last_slot": null,
+ "last_slot": "2026-11-08T07:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
@@ -3184,7 +3190,11 @@
   "11-08 11:45:20 run start",
   "11-08 11:45:31 listening 11 min",
   "11-08 11:56:51 listening done",
-  "11-08 11:56:51 run end after 691 s"
+  "11-08 11:56:51 run end after 691 s",
+  "11-08 12:00:30 run start",
+  "11-08 12:00:49 listening 11 min",
+  "11-08 12:12:03 listening done",
+  "11-08 12:12:03 run end after 693 s"
  ],
  "day_pack_done": "2026-11-07"
 }
