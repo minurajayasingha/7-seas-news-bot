@@ -16,7 +16,7 @@ SOFT = (205, 205, 210)     # small grey text
 
 # ---------- How many posts ----------
 DRAFTS_PER_RUN = 3           # new posts sent to Telegram each time it looks for news
-DRAFT_EVERY_MINUTES = 60     # how often it looks for news (60 = every hour)
+DRAFT_EVERY_MINUTES = 30     # how often it looks for news (30 = every half hour)
 
 # Posting times for the 🕒 Queue button (New York time). One queued post per slot.
 SLOT_TIMEZONE = "America/New_York"
@@ -105,4 +105,35 @@ FEEDS = {
     "DW": ["https://rss.dw.com/rdf/rss-en-world"],
     "France 24": ["https://www.france24.com/en/rss"],
     "The Hill": ["https://thehill.com/homenews/feed/"],
+    # 24/7 outlets, so news keeps coming while America sleeps (Sri Lanka daytime)
+    "Sky News": [
+        "https://feeds.skynews.com/feeds/rss/world.xml",
+        "https://feeds.skynews.com/feeds/rss/us.xml",
+    ],
+    "NBC News": [
+        "https://feeds.nbcnews.com/nbcnews/public/news",
+        "https://feeds.nbcnews.com/nbcnews/public/politics",
+    ],
+    "Fox News": [
+        "https://moxie.foxnews.com/google-publisher/politics.xml",
+        "https://moxie.foxnews.com/google-publisher/world.xml",
+    ],
+    "New York Times": [
+        "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+    ],
+    "Washington Post": [
+        "https://feeds.washingtonpost.com/rss/world",
+        "https://feeds.washingtonpost.com/rss/politics",
+    ],
+    "The Independent": [
+        "https://www.independent.co.uk/news/world/rss",
+        "https://www.independent.co.uk/news/world/americas/us-politics/rss",
+    ],
+    "Euronews": ["https://www.euronews.com/rss?level=theme&name=news"],
+    "Times of Israel": ["https://www.timesofisrael.com/feed/"],
+    "Kyiv Independent": ["https://kyivindependent.com/news-archive/rss/"],
+    "Newsweek": ["https://www.newsweek.com/rss"],
+    "Washington Examiner": ["https://www.washingtonexaminer.com/feed/"],
+    "UPI": ["https://rss.upi.com/news/top_news.rss"],
 }

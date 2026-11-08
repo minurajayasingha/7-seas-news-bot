@@ -5,7 +5,9 @@ Trump, elections, Congress, plus wars/attacks — then worldwide). Owner: Minura
 Never South Asia news. Real, verified news only: a story needs 2+ different outlets.
 
 ## How it runs
-- GitHub Actions, `.github/workflows/bot.yml`, every 15 min (+ manual "Run workflow").
+- GitHub Actions, `.github/workflows/bot.yml`. GitHub's own schedule is unreliable (runs hours late), so
+  cron-job.org triggers workflow_dispatch every 15 min with force_draft=false; manual "Run workflow" forces a news search.
+- News reading: all feeds fetched in parallel with a 45 s hard limit; story matching uses simple word roots (stem()).
 - `bot/main.py` does everything in one run:
   1. reads Telegram button taps/replies (getUpdates, no webhook)
   2. publishes approved posts to the Facebook Page (Graph API `/{page_id}/photos`)

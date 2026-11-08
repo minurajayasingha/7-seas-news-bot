@@ -23,6 +23,7 @@ import time
 import hashlib
 import html
 import traceback
+import threading
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
 
@@ -884,51 +885,110 @@ def clean_html(text):
     return re.sub(r"\s+", " ", html.unescape(text)).strip()
 
 
+COMPOUNDS = [(r"\bair[\s-]+strikes?\b", "airstrike"), (r"\bcease[\s-]+fire\b", "ceasefire"),
+             (r"\bgun[\s-]+man\b", "gunman"), (r"\bu\.?s\.?\b", "us")]
+
+
+def stem(w):
+    """Very simple word root, so 'killed'/'kills'/'kill' and 'strikes'/'strike' match."""
+    if w.endswith("ies") and len(w) > 4:
+        w = w[:-3] + "y"
+    elif w.endswith("s") and not w.endswith("ss") and len(w) > 3:
+        w = w[:-1]
+    for suf in ("ing", "ed"):
+        if w.endswith(suf) and len(w) - len(suf) >= 3:
+            w = w[:-len(suf)]
+            break
+    return w[:-1] if w.endswith("e") and len(w) > 3 else w
+
+
+STOP_STEMS = {stem(w) for w in STOP}
+
+
 def keywords(title, summary=""):
     words = set()
-    for w in re.findall(r"[A-Za-z][A-Za-z'\-]+", title.lower()):
+    t = title.lower()
+    for pat, rep in COMPOUNDS:
+        t = re.sub(pat, rep, t)
+    for w in re.findall(r"[a-z][a-z'\-]+", t):
         w = w.strip("'-")
-        if len(w) > 2 and w not in STOP:
-            words.add(w[:-2] if w.endswith("'s") else w)
+        w = w[:-2] if w.endswith("'s") else w
+        if len(w) > 2 and w not in STOP and stem(w) not in STOP_STEMS:
+            words.add(stem(w))
+    # numbers ("33 killed") help match the same story; years don't
+    for n in re.findall(r"\b\d[\d,]*\b", title + " " + summary):
+        n = n.replace(",", "")
+        if len(n) >= 2 and not re.fullmatch(r"(19|20)\d\d", n):
+            words.add(n)
     # proper nouns from the summary help match the same story
     for w in re.findall(r"\b[A-Z][a-z]{2,}\b", summary):
         lw = w.lower()
-        if lw not in STOP:
-            words.add(lw)
+        if lw not in STOP and stem(lw) not in STOP_STEMS:
+            words.add(stem(lw))
     return words
+
+
+def read_feed(url):
+    """Download one RSS feed; gives up after ~15 s so one slow site can't hold up the run."""
+    r = HTTP.get(url, timeout=(5, 10), stream=True)
+    body, start = b"", time.time()
+    for chunk in r.iter_content(65536):
+        body += chunk
+        if time.time() - start > 15 or len(body) > 5_000_000:
+            raise RuntimeError("too slow")
+    return feedparser.parse(body)
 
 
 def fetch_articles():
     now = now_utc()
     items = []
-    for source, urls in FEEDS.items():
-        for url in urls:
-            try:
-                r = HTTP.get(url, timeout=25)
-                feed = feedparser.parse(r.content)
-            except Exception as e:
-                log("Feed failed:", source, url, e)
+    jobs = [(source, url) for source, urls in FEEDS.items() for url in urls]
+    results = {}
+
+    def worker(n, url):
+        try:
+            results[n] = read_feed(url)
+        except Exception as e:
+            results[n] = e
+
+    # Read all feeds at the same time. A site that hasn't answered within 45 s is skipped
+    # this run (some sites sometimes hang for minutes and would block everything).
+    threads = [threading.Thread(target=worker, args=(n, url), daemon=True) for n, (_, url) in enumerate(jobs)]
+    for t in threads:
+        t.start()
+    deadline = time.time() + 45
+    for t in threads:
+        t.join(max(0, deadline - time.time()))
+    feeds = []
+    for n, (source, url) in enumerate(jobs):
+        res = results.get(n)
+        if res is None:
+            log("Feed too slow, skipped this time:", source, url)
+        elif isinstance(res, Exception):
+            log("Feed failed:", source, url, res)
+        else:
+            feeds.append((source, url, res))
+    for source, url, feed in feeds:
+        for e in feed.entries[:40]:
+            title = clean_html(e.get("title", ""))
+            link = e.get("link", "")
+            if not title or not link:
                 continue
-            for e in feed.entries[:40]:
-                title = clean_html(e.get("title", ""))
-                link = e.get("link", "")
-                if not title or not link:
-                    continue
-                t = e.get("published_parsed") or e.get("updated_parsed")
-                published = datetime(*t[:6], tzinfo=timezone.utc) if t else now
-                if now - published > timedelta(hours=MAX_AGE_HOURS):
-                    continue
-                summary = clean_html(e.get("summary", ""))[:700]
-                text = f"{title} {summary}".lower()
-                if has_any(text, EXCLUDE_WORDS):
-                    continue
-                if any(w in title.lower() for w in SKIP_TITLE_WORDS):
-                    continue
-                items.append({
-                    "source": source, "title": title, "summary": summary, "link": link,
-                    "published": published, "kw": keywords(title, summary),
-                    "title_kw": keywords(title),
-                })
+            t = e.get("published_parsed") or e.get("updated_parsed")
+            published = datetime(*t[:6], tzinfo=timezone.utc) if t else now
+            if now - published > timedelta(hours=MAX_AGE_HOURS):
+                continue
+            summary = clean_html(e.get("summary", ""))[:700]
+            text = f"{title} {summary}".lower()
+            if has_any(text, EXCLUDE_WORDS):
+                continue
+            if any(w in title.lower() for w in SKIP_TITLE_WORDS):
+                continue
+            items.append({
+                "source": source, "title": title, "summary": summary, "link": link,
+                "published": published, "kw": keywords(title, summary),
+                "title_kw": keywords(title),
+            })
     # de-duplicate same link from two feeds of one outlet
     seen, uniq = set(), []
     for it in items:
@@ -966,7 +1026,7 @@ def cluster(items):
 def pick_stories(state, items):
     now = now_utc()
     seen = set(state["seen_links"])
-    recent = [set(t[1]) for t in state["recent_topics"]]
+    recent = [{stem(w) for w in t[1]} for t in state["recent_topics"]]
     good = []
     for c in cluster(items):
         sources = {i["source"] for i in c["items"]}
@@ -974,7 +1034,8 @@ def pick_stories(state, items):
             continue
         if any(i["link"] in seen for i in c["items"]):
             continue
-        if any(len(c["title_kw"] & r) >= 4 for r in recent):
+        title_roots = {stem(w) for w in c["title_kw"]}
+        if any(len(title_roots & r) >= 4 for r in recent):
             continue  # same topic posted recently
         newest = max(i["published"] for i in c["items"])
         first = min(i["published"] for i in c["items"])

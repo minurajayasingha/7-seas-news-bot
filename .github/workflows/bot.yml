@@ -2,7 +2,9 @@ name: 7 Seas News Bot
 
 on:
   schedule:
-    - cron: "*/15 * * * *"     # every 15 minutes (GitHub may run it a bit late)
+    - cron: "*/15 * * * *"     # backup only: GitHub often runs this hours late
+  # Main timer: cron-job.org starts this workflow every 15 min through the GitHub API
+  # (workflow_dispatch with inputs {"force_draft": "false"}), so it runs on time.
   workflow_dispatch:
     inputs:
       force_draft:
