@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892684,
+ "tg_offset": 495892686,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -1961,6 +1961,145 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_story_id": "1761006344998968"
+  },
+  "b5166bdbac": {
+   "id": "b5166bdbac",
+   "headline": "Melania Trump diplomacy raises prospect of Nobel Peace Prize",
+   "summary": "Melania Trump's diplomatic efforts regarding Ukraine are generating results and raising the possibility of a Nobel Peace Prize. Meanwhile, a former top prosecutor alleges that Ukraine's anti-corruption agencies are undermining peace efforts.",
+   "label": "DIPLOMACY",
+   "hook": "Are anti-corruption agencies interfering with peace efforts in Ukraine?",
+   "key_points": [
+    "Melania Trump's Ukraine diplomacy yields results.",
+    "Ruslan Kravchenko alleges agencies are weaponized.",
+    "Former prosecutor resigned in September 2026."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#MelaniaTrump",
+    "#Ukraine",
+    "#Diplomacy"
+   ],
+   "sources": [
+    "Newsweek",
+    "Washington Examiner"
+   ],
+   "link": "https://www.newsweek.com/melania-trump-nobel-peace-prize-ukraine-diplomacy-12679234",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/melania-trump-nobel-peace-prize-ukraine-diplomacy-12679234"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/policy/foreign-policy/4795394/ukraine-anti-corruption-agencies-undermining-trump-peace-efforts-kravchenko/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Melania_Trump_at_Fort_Bragg%2C_Friday%2C_February_13%2C_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "The White House / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Melania Trump diplomacy raises prospect of Nobel Peace Prize",
+    "people": [
+     "Melania Trump"
+    ],
+    "image_query": "Kyiv cityscape",
+    "image_style": "person",
+    "location": "Ukraine"
+   },
+   "created_at": "2026-11-08T10:30:33.825671+00:00",
+   "news_time": "2026-11-08T10:00:00+00:00",
+   "news_latest": "2026-11-08T10:00:00+00:00",
+   "caption": "Melania Trump diplomacy raises prospect of Nobel Peace Prize\n\nMelania Trump's diplomatic efforts regarding Ukraine are generating results and raising the possibility of a Nobel Peace Prize. Meanwhile, a former top prosecutor alleges that Ukraine's anti-corruption agencies are undermining peace efforts.\n\n💬 Are anti-corruption agencies interfering with peace efforts in Ukraine?\n\n📖 Read more: https://www.newsweek.com/melania-trump-nobel-peace-prize-ukraine-diplomacy-12679234\n\n#MelaniaTrump #Ukraine #Diplomacy #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 86,
+   "tg_file_id": "AgACAgUAAxkDAANWavBPTGrg42J3rY1dXiKRjALhco4AArsUaxv_D4FXBYafzVaLjqABAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-08T10:31:28.694673+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122095880361548584",
+   "posted_at": "2026-11-08T10:31:29.006853+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 08 · 5:31 AM New York · 4:01 PM Sri Lanka\n\n<b>Melania Trump diplomacy raises prospect of Nobel Peace Prize</b>\n<i>Newsweek, Washington Examiner</i>\n🟢 <b>Latest:</b> 3:30 PM Sri Lanka (31 min ago)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122095880361548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 17,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "1027618037019748"
+  },
+  "be01d5b894": {
+   "id": "be01d5b894",
+   "headline": "Donald Trump faces midterm voters amid debate over US history",
+   "summary": "Voters rejected narratives from Donald Trump during US midterm elections. Media discussions also explored alternate history regarding his 2016 election outcomes.",
+   "label": "US POLITICS",
+   "hook": "Did midterm voters make the right call regarding the president's economic and political narrative?",
+   "key_points": [
+    "Voters rejected the president's looking-glass narrative during midterms.",
+    "Donald Trump claimed the US entered a golden age."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Midterms",
+    "#DonaldTrump"
+   ],
+   "sources": [
+    "Newsweek",
+    "The Guardian"
+   ],
+   "link": "https://www.newsweek.com/what-if-trump-had-lost-in-2016-10-years-of-alternate-history-12672662",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/what-if-trump-had-lost-in-2016-10-years-of-alternate-history-12672662"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/ng-interactive/2026/nov/08/trump-midterms-voters-mirror-world"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Daniel Torok / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Donald Trump faces midterm voters amid debate over US history",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "US Capitol building",
+    "image_style": "person",
+    "location": "US"
+   },
+   "created_at": "2026-11-08T10:30:37.441450+00:00",
+   "news_time": "2026-11-08T07:00:34+00:00",
+   "news_latest": "2026-11-08T10:00:00+00:00",
+   "caption": "Donald Trump faces midterm voters amid debate over US history\n\nVoters rejected narratives from Donald Trump during US midterm elections. Media discussions also explored alternate history regarding his 2016 election outcomes.\n\n💬 Did midterm voters make the right call regarding the president's economic and political narrative?\n\n📖 Read more: https://www.newsweek.com/what-if-trump-had-lost-in-2016-10-years-of-alternate-history-12672662\n\n#USPolitics #Midterms #DonaldTrump #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 87,
+   "tg_file_id": "AgACAgUAAxkDAANXavBPT4NzPlc5VWAVCiOi-ylNCyAAArwUaxv_D4FXrf47M4h4rL4BAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-08T10:31:11.145923+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122095880127548584",
+   "posted_at": "2026-11-08T10:31:11.460898+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 08 · 5:31 AM New York · 4:01 PM Sri Lanka\n\n<b>Donald Trump faces midterm voters amid debate over US history</b>\n<i>Newsweek, The Guardian</i>\n🟢 <b>Latest:</b> 3:30 PM Sri Lanka (31 min ago) · first reported 12:30 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122095880127548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 16,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "28797876633217621"
   }
  },
  "seen_links": [
@@ -2050,7 +2189,11 @@
   "https://www.independent.co.uk/news/world/middle-east/saudi-airstrikes-sanaa-yemen-deaths-houthis-b3081138.html",
   "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
   "https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents",
-  "https://www.aljazeera.com/gallery/2026/11/8/photos-heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza?traffic_source=rss"
+  "https://www.aljazeera.com/gallery/2026/11/8/photos-heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza?traffic_source=rss",
+  "https://www.newsweek.com/melania-trump-nobel-peace-prize-ukraine-diplomacy-12679234",
+  "https://www.washingtonexaminer.com/policy/foreign-policy/4795394/ukraine-anti-corruption-agencies-undermining-trump-peace-efforts-kravchenko/",
+  "https://www.newsweek.com/what-if-trump-had-lost-in-2016-10-years-of-alternate-history-12672662",
+  "https://www.theguardian.com/us-news/ng-interactive/2026/nov/08/trump-midterms-voters-mirror-world"
  ],
  "recent_topics": [
   [
@@ -2637,9 +2780,49 @@
     "without"
    ],
    "f7216b033c"
+  ],
+  [
+   "2026-11-08T10:30:36.341195+00:00",
+   [
+    "agency",
+    "alleg",
+    "anti-corruption",
+    "effort",
+    "former",
+    "los",
+    "melania",
+    "nobel",
+    "peac",
+    "priz",
+    "prosecutor",
+    "trump",
+    "ukrain",
+    "undermin"
+   ],
+   "b5166bdbac"
+  ],
+  [
+   "2026-11-08T10:30:39.447748+00:00",
+   [
+    "10",
+    "alternat",
+    "american",
+    "history",
+    "lost",
+    "mirror",
+    "president",
+    "reality",
+    "reject",
+    "roundly",
+    "shatter",
+    "trump",
+    "voter",
+    "world"
+   ],
+   "be01d5b894"
   ]
  ],
- "last_draft_at": "2026-11-08T10:15:17.854237+00:00",
+ "last_draft_at": "2026-11-08T10:30:23.893530+00:00",
  "last_slot": null,
  "commands_set": 7,
  "log_channel": -1004367532135,
@@ -2653,7 +2836,11 @@
   "11-08 10:15:17 run start",
   "11-08 10:15:28 listening 11 min",
   "11-08 10:26:45 listening done",
-  "11-08 10:26:45 run end after 688 s"
+  "11-08 10:26:45 run end after 688 s",
+  "11-08 10:30:23 run start",
+  "11-08 10:30:39 listening 11 min",
+  "11-08 10:42:10 listening done",
+  "11-08 10:42:10 run end after 707 s"
  ],
  "day_pack_done": "2026-11-07"
 }
