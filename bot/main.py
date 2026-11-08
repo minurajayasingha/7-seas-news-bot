@@ -553,6 +553,9 @@ def process_telegram(state):
                 d["status"] = "skipped"
                 tg_clear(d)
                 log("Skipped", pid)
+            elif action in ("now", "queue") and duplicate_blocked(
+                    state, d, "🚀 Post now" if action == "now" else "🕒 Queue"):
+                continue
             elif action == "now":
                 d["status"] = "queued"
                 d["queued_at"] = now_utc().isoformat()
@@ -783,6 +786,42 @@ def news_age_limit(d):
     Your own posts have no report time, so the time you made them counts."""
     t = d.get("news_latest") or d.get("news_time") or d.get("created_at")
     return datetime.fromisoformat(t) + timedelta(hours=QUEUE_EXPIRE_HOURS)
+
+
+def find_duplicate(state, d):
+    """A queued or published post (last 3 days) about the same story as d, or None."""
+    mine = keywords(d.get("headline", ""))
+    links = {u for _, u in d.get("links", [])} | ({d["link"]} if d.get("link") else set())
+    cutoff = now_utc() - timedelta(days=3)
+    for o in state["drafts"].values():
+        if o is d or o.get("status") not in ("queued", "posted"):
+            continue
+        if datetime.fromisoformat(o.get("posted_at") or o.get("queued_at") or o["created_at"]) < cutoff:
+            continue
+        other_links = {u for _, u in o.get("links", [])} | ({o["link"]} if o.get("link") else set())
+        theirs = keywords(o.get("headline", ""))
+        shared = mine & theirs
+        same_words = len(shared) >= 3 and len(shared) >= 0.5 * min(len(mine), len(theirs))
+        if (links & other_links) or same_words:
+            return o
+    return None
+
+
+def duplicate_blocked(state, d, button):
+    """Stop the first tap if the same story is already queued/posted; a second tap goes ahead."""
+    o = find_duplicate(state, d)
+    if not o or d.get("dup_ok"):
+        return False
+    d["dup_ok"] = True   # next tap = "yes, I'm sure"
+    if o["status"] == "posted":
+        when = f"was already <b>published</b> at {when_text(datetime.fromisoformat(o['posted_at']))}"
+    else:
+        plan = dict((x["id"], t) for x, t in queue_schedule(state))
+        t = plan.get(o["id"])
+        when = "is already <b>queued</b>" + (f" for {when_text(t)}" if t else "")
+    tg_reply(d, f"✋ <b>Looks like the same story</b>\n\n“{html.escape(o['headline'])}”\n{when}.\n\n"
+                f"Tap ❌ Skip to drop this one, or tap {button} again if it's different news.")
+    return True
 
 
 def queue_schedule(state, now=None):
