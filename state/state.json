@@ -3582,6 +3582,74 @@
    "status": "pending",
    "tg_message_id": 129,
    "tg_file_id": "AgACAgUAAxkDAAOBavDKVlOxLltOO3QQG7z4mrTIe6EAAj0Vaxv_D4lXm4-jQ65CB08BAAMCAAN3AAM9BA"
+  },
+  "bbb2d9a46d": {
+   "id": "bbb2d9a46d",
+   "headline": "Midterm Elections Conclude Across United States",
+   "summary": "Following the recent midterm elections, voters weighed in on various state measures and the nation's political future. Four states addressed abortion measures, resulting in a victory in Idaho and losses in Nevada, Virginia, and Missouri.",
+   "label": "ELECTIONS",
+   "hook": "How will the results of these state abortion measures shape future legislative debates?",
+   "key_points": [
+    "Idaho, Nevada, Virginia, and Missouri voted on abortion measures.",
+    "Idaho saw a victory for the pro-life measure.",
+    "Nevada, Virginia, and Missouri saw losses for the measures."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Midterms",
+    "#USPolitics",
+    "#Elections"
+   ],
+   "sources": [
+    "CBS News",
+    "New York Times",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/restoring-america/fairness-justice/4795802/pro-life-messaging-change-minds-abortion/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/restoring-america/fairness-justice/4795802/pro-life-messaging-change-minds-abortion/"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/news/jon-meacham-on-the-midterms-and-americas-better-angels/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/US_Capitol_dome_Jan_2006.jpg/1920px-US_Capitol_dome_Jan_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Diliff / Wikimedia Commons (CC BY 2.5)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Midterm Elections Conclude Across United States",
+    "people": [],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "voting booth",
+     "state capitol building"
+    ],
+    "image_style": "scene",
+    "location": "United States"
+   },
+   "created_at": "2026-11-08T19:30:41.461910+00:00",
+   "news_time": "2026-11-08T15:15:33+00:00",
+   "news_latest": "2026-11-08T19:00:00+00:00",
+   "caption": "Midterm Elections Conclude Across United States\n\nFollowing the recent midterm elections, voters weighed in on various state measures and the nation's political future. Four states addressed abortion measures, resulting in a victory in Idaho and losses in Nevada, Virginia, and Missouri.\n\n💬 How will the results of these state abortion measures shape future legislative debates?\n\n📖 Read more: https://www.washingtonexaminer.com/restoring-america/fairness-justice/4795802/pro-life-messaging-change-minds-abortion/\n\n#Midterms #USPolitics #Elections #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 130,
+   "tg_file_id": "AgACAgUAAxkDAAOCavDN49dywGUu1iiRAgcEzNOGJOYAAlMVaxv_D4lXG9tolysHxXYBAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -3719,7 +3787,10 @@
   "https://www.independent.co.uk/news/world/americas/syria-yemen-houthis-saudi-arabia-damascus-b3081286.html",
   "https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss",
   "https://www.washingtonexaminer.com/in_focus/4795983/republican-winners-from-the-2026-midterms-tennessee-ron-desantis-florida/",
-  "https://www.nytimes.com/2026/11/08/us/politics/republican-blame-trump-midterms.html"
+  "https://www.nytimes.com/2026/11/08/us/politics/republican-blame-trump-midterms.html",
+  "https://www.washingtonexaminer.com/restoring-america/fairness-justice/4795802/pro-life-messaging-change-minds-abortion/",
+  "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html",
+  "https://www.cbsnews.com/news/jon-meacham-on-the-midterms-and-americas-better-angels/"
  ],
  "recent_topics": [
   [
@@ -4710,19 +4781,37 @@
     "winner"
    ],
    "51839f17eb"
+  ],
+  [
+   "2026-11-08T19:30:44.082776+00:00",
+   [
+    "america",
+    "american",
+    "angel",
+    "better",
+    "clear",
+    "consequential",
+    "election",
+    "far",
+    "futur",
+    "jon",
+    "meacham",
+    "midterm",
+    "murky",
+    "pro-lif",
+    "trump",
+    "verdict"
+   ],
+   "bbb2d9a46d"
   ]
  ],
- "last_draft_at": "2026-11-08T19:15:19.682864+00:00",
+ "last_draft_at": "2026-11-08T19:30:29.700462+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-08T18:30:25.333428+00:00",
+ "last_stats_at": "2026-11-08T19:30:26.049475+00:00",
  "run_log": [
-  "11-08 17:00:29 run start",
-  "11-08 17:00:39 listening 11 min",
-  "11-08 17:11:59 listening done",
-  "11-08 17:11:59 run end after 690 s",
   "11-08 17:15:21 run start",
   "11-08 17:15:32 listening 11 min",
   "11-08 17:26:52 listening done",
@@ -4758,7 +4847,11 @@
   "11-08 19:15:19 run start",
   "11-08 19:15:34 listening 11 min",
   "11-08 19:26:53 listening done",
-  "11-08 19:26:53 run end after 693 s"
+  "11-08 19:26:53 run end after 693 s",
+  "11-08 19:30:25 run start",
+  "11-08 19:30:44 listening 11 min",
+  "11-08 19:42:03 listening done",
+  "11-08 19:42:03 run end after 697 s"
  ],
  "day_pack_done": "2026-11-07",
  "photo_memory": {
@@ -4774,7 +4867,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Sonia_Sotomayor_%2831650961624%29.jpg/1280px-Sonia_Sotomayor_%2831650961624%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Damage_in_Gaza_Strip_during_the_October_2023_-_29.jpg/1920px-Damage_in_Gaza_Strip_during_the_October_2023_-_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Damascus%2C_Syria%2C_The_streets_of_central_Damascus.jpg/1920px-Damascus%2C_Syria%2C_The_streets_of_central_Damascus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Door_to_Senate_Chamber_MN_State_Capitol.jpg/1920px-Door_to_Senate_Chamber_MN_State_Capitol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Door_to_Senate_Chamber_MN_State_Capitol.jpg/1920px-Door_to_Senate_Chamber_MN_State_Capitol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/US_Capitol_dome_Jan_2006.jpg/1920px-US_Capitol_dome_Jan_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -5231,7 +5325,8 @@
   "recent_ideas": [
    "gaza strip",
    "damascus streets",
-   "senate chamber, united states capitol"
+   "senate chamber, united states capitol",
+   "us capitol dome"
   ]
  }
 }
