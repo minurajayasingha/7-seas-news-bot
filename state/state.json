@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892704,
+ "tg_offset": 495892705,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -2705,6 +2705,82 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_story_id": "1673896664251994"
+  },
+  "a72ab4f487": {
+   "id": "a72ab4f487",
+   "headline": "Giorgia Meloni blames pro-Russian hackers for data leak",
+   "summary": "Italian Prime Minister Giorgia Meloni stated that pro-Russian hackers leaked her foreign minister's personal data to the dark web. Foreign minister Antonio Tajani reported being targeted due to the country's support for Ukraine.",
+   "label": "WORLD",
+   "hook": "Can measures by Italy prevent further cyberattacks targeting government officials?",
+   "key_points": [
+    "Personal data leaked to the dark web",
+    "Foreign minister targeted over Ukraine support",
+    "Prime Minister Meloni blamed pro-Russian hackers"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Italy",
+    "#CyberSecurity",
+    "#WorldNews"
+   ],
+   "sources": [
+    "CBS News",
+    "The Hill"
+   ],
+   "link": "https://thehill.com/policy/international/6206505-meloni-blames-russian-hackers-tajani/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/policy/international/6206505-meloni-blames-russian-hackers-tajani/"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/news/italy-giorgia-meloni-ukraine-russia-hack-data-leak/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/21.06.2023_-_Reuni%C3%A3o_com_a_Primeira-Ministra_da_Rep%C3%BAblica_Italiana%2C_Giorgia_Meloni_%2852992890032%29.jpg/1280px-21.06.2023_-_Reuni%C3%A3o_com_a_Primeira-Ministra_da_Rep%C3%BAblica_Italiana%2C_Giorgia_Meloni_%2852992890032%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Palácio do Planalto from Brasilia, Brasil / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Giorgia Meloni blames pro-Russian hackers for data leak",
+    "people": [
+     "Giorgia Meloni"
+    ],
+    "image_query": "Rome cityscape",
+    "image_queries": [
+     "Italian parliament building",
+     "Rome government palace",
+     "European Union flag",
+     "Cyber security data center"
+    ],
+    "image_style": "person",
+    "location": "Italy"
+   },
+   "created_at": "2026-11-08T15:00:44.430358+00:00",
+   "news_time": "2026-11-08T09:26:43+00:00",
+   "news_latest": "2026-11-08T14:27:07+00:00",
+   "caption": "Giorgia Meloni blames pro-Russian hackers for data leak\n\nItalian Prime Minister Giorgia Meloni stated that pro-Russian hackers leaked her foreign minister's personal data to the dark web. Foreign minister Antonio Tajani reported being targeted due to the country's support for Ukraine.\n\n💬 Can measures by Italy prevent further cyberattacks targeting government officials?\n\n📖 Read more: https://thehill.com/policy/international/6206505-meloni-blames-russian-hackers-tajani/\n\n#Italy #CyberSecurity #WorldNews #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 113,
+   "tg_file_id": "AgACAgUAAxkDAANxavCOoDKQDEZmbB6wQuziaOhedfYAAksVaxv_D4FXDN1-R1DnT8oBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-08T15:02:44.926948+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122095999917548584",
+   "posted_at": "2026-11-08T15:02:45.340859+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 08 · 10:02 AM New York · 8:32 PM Sri Lanka\n\n<b>Giorgia Meloni blames pro-Russian hackers for data leak</b>\n<i>CBS News, The Hill</i>\n🟢 <b>Latest:</b> 7:57 PM Sri Lanka (35 min ago) · first reported 2:56 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122095999917548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 27,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "1117442591048823"
   }
  },
  "seen_links": [
@@ -2815,7 +2891,9 @@
   "https://abcnews.com/Politics/wireStory/voters-demanded-economic-relief-trump-democrats-face-tough-137952337",
   "https://www.npr.org/2026/11/08/nx-s1-6032829/gen-z-voters-midterm-elections",
   "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says",
-  "https://kyivindependent.com/europeans-will-participate-in-abu-dhabi-peace-talks-french-foreign-minister-says/"
+  "https://kyivindependent.com/europeans-will-participate-in-abu-dhabi-peace-talks-french-foreign-minister-says/",
+  "https://thehill.com/policy/international/6206505-meloni-blames-russian-hackers-tajani/",
+  "https://www.cbsnews.com/news/italy-giorgia-meloni-ukraine-russia-hack-data-leak/"
  ],
  "recent_topics": [
   [
@@ -3602,19 +3680,35 @@
     "us-mediat"
    ],
    "b818c4e584"
+  ],
+  [
+   "2026-11-08T15:00:48.477675+00:00",
+   [
+    "blam",
+    "dark",
+    "data",
+    "foreign",
+    "giorgia",
+    "hacker",
+    "italy",
+    "leader",
+    "leak",
+    "meloni",
+    "minister",
+    "personal",
+    "pro-russian",
+    "web"
+   ],
+   "a72ab4f487"
   ]
  ],
- "last_draft_at": "2026-11-08T14:45:19.668336+00:00",
+ "last_draft_at": "2026-11-08T15:00:30.135267+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-08T14:15:18.979026+00:00",
  "run_log": [
-  "11-08 12:15:18 run start",
-  "11-08 12:16:34 listening 10 min",
-  "11-08 12:27:08 listening done",
-  "11-08 12:27:08 run end after 709 s",
   "11-08 12:30:25 run start",
   "11-08 12:30:34 listening 11 min",
   "11-08 12:41:53 listening done",
@@ -3650,14 +3744,19 @@
   "11-08 14:45:19 run start",
   "11-08 14:45:29 listening 11 min",
   "11-08 14:56:47 listening done",
-  "11-08 14:56:47 run end after 688 s"
+  "11-08 14:56:47 run end after 688 s",
+  "11-08 15:00:29 run start",
+  "11-08 15:00:48 listening 11 min",
+  "11-08 15:12:16 listening done",
+  "11-08 15:12:16 run end after 706 s"
  ],
  "day_pack_done": "2026-11-07",
  "photo_memory": {
   "recent": [
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Capitol_Washington_October_2016-3.jpg/1920px-Capitol_Washington_October_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Abu_Dhabi_Skyline_from_a_boat_tour.jpg/1920px-Abu_Dhabi_Skyline_from_a_boat_tour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Abu_Dhabi_Skyline_from_a_boat_tour.jpg/1920px-Abu_Dhabi_Skyline_from_a_boat_tour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/21.06.2023_-_Reuni%C3%A3o_com_a_Primeira-Ministra_da_Rep%C3%BAblica_Italiana%2C_Giorgia_Meloni_%2852992890032%29.jpg/1280px-21.06.2023_-_Reuni%C3%A3o_com_a_Primeira-Ministra_da_Rep%C3%BAblica_Italiana%2C_Giorgia_Meloni_%2852992890032%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -3733,6 +3832,82 @@
       "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 3.0)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": true
+     }
+    ]
+   },
+   "giorgia meloni": {
+    "t": "2026-11-08T15:00:44.430278+00:00",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Giorgia_Meloni_Official_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Governo Italiano / Wikimedia Commons (CC BY 3.0 it)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/21.06.2023_-_Reuni%C3%A3o_com_a_Primeira-Ministra_da_Rep%C3%BAblica_Italiana%2C_Giorgia_Meloni_%2852993492481%29.jpg/1280px-21.06.2023_-_Reuni%C3%A3o_com_a_Primeira-Ministra_da_Rep%C3%BAblica_Italiana%2C_Giorgia_Meloni_%2852993492481%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Palácio do Planalto from Brasilia, Brasil / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/21.06.2023_-_Reuni%C3%A3o_com_a_Primeira-Ministra_da_Rep%C3%BAblica_Italiana%2C_Giorgia_Meloni_%2852993492406%29.jpg/1280px-21.06.2023_-_Reuni%C3%A3o_com_a_Primeira-Ministra_da_Rep%C3%BAblica_Italiana%2C_Giorgia_Meloni_%2852993492406%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Palácio do Planalto from Brasilia, Brasil / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/15.06.2024_-_Encontro_com_a_Presidente_do_Conselho_de_Ministros_da_Rep%C3%BAblica_Italiana%2C_Giorgia_Meloni_%2853791516997%29.jpg/1280px-15.06.2024_-_Encontro_com_a_Presidente_do_Conselho_de_Ministros_da_Rep%C3%BAblica_Italiana%2C_Giorgia_Meloni_%2853791516997%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Lula Oficial / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Giorgia_Meloni_Official_2023_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Governo italiano / Wikimedia Commons (CC BY 3.0 it)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/21.06.2023_-_Reuni%C3%A3o_com_a_Primeira-Ministra_da_Rep%C3%BAblica_Italiana%2C_Giorgia_Meloni_%2852992890032%29.jpg/1280px-21.06.2023_-_Reuni%C3%A3o_com_a_Primeira-Ministra_da_Rep%C3%BAblica_Italiana%2C_Giorgia_Meloni_%2852992890032%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Palácio do Planalto from Brasilia, Brasil / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Giovanni_Toti%2C_Giorgia_Meloni%2C_Matteo_Salvini_-_levels.jpg/1280px-Giovanni_Toti%2C_Giorgia_Meloni%2C_Matteo_Salvini_-_levels.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Photo2021 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Giorgia_Meloni_visits_Brussels_-_2024_%28P065060-151328%29.jpg/1280px-Giorgia_Meloni_visits_Brussels_-_2024_%28P065060-151328%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Christophe Licoppe / European Union / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/21.06.2023_-_Reuni%C3%A3o_com_a_Primeira-Ministra_da_Rep%C3%BAblica_Italiana%2C_Giorgia_Meloni_%2852993634024%29_%28cropped%29.jpg/1280px-21.06.2023_-_Reuni%C3%A3o_com_a_Primeira-Ministra_da_Rep%C3%BAblica_Italiana%2C_Giorgia_Meloni_%2852993634024%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Palácio do Planalto from Brasilia, Brasil / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Giorgia_Meloni_a_palazzo_chigi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Palazzo Chigi / Wikimedia Commons (CC BY 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Giorgia_Meloni_celebrates_birthday_in_Tokyo_03.jpg/1280px-Giorgia_Meloni_celebrates_birthday_in_Tokyo_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "内閣広報室 / Cabinet Public Affairs Office / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/21.06.2023_-_Reuni%C3%A3o_com_a_Primeira-Ministra_da_Rep%C3%BAblica_Italiana%2C_Giorgia_Meloni_%2852992889807%29.jpg/1280px-21.06.2023_-_Reuni%C3%A3o_com_a_Primeira-Ministra_da_Rep%C3%BAblica_Italiana%2C_Giorgia_Meloni_%2852992889807%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Palácio do Planalto from Brasilia, Brasil / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
      }
     ]
    }
