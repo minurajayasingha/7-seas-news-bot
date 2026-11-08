@@ -1354,6 +1354,82 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_story_id": "2088479398702700"
+  },
+  "80edfb8820": {
+   "id": "80edfb8820",
+   "headline": "Trump offers UFC boss Dana White press secretary role",
+   "summary": "Donald Trump asked Ultimate Fighting Championship CEO Dana White to take the position of White House press secretary. White stated he will meet with the US president on Monday to discuss the offer.",
+   "label": "US POLITICS",
+   "hook": "",
+   "key_points": [
+    "Trump publicly asked UFC chief Dana White to take the job.",
+    "White said he will meet with the US president on Monday.",
+    "The press secretary role has been largely vacant since August."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#DonaldTrump",
+    "#DanaWhite"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "CBS News",
+    "Euronews",
+    "Sky News",
+    "Washington Examiner"
+   ],
+   "link": "https://www.euronews.com/2026/11/08/trump-offers-ufc-boss-press-secretary-role-dana-please-take-the-job",
+   "links": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/08/trump-offers-ufc-boss-press-secretary-role-dana-please-take-the-job"
+    ],
+    [
+     "Sky News",
+     "https://news.sky.com/story/trump-asks-ufc-boss-dana-white-to-become-white-house-press-secretary-13609613"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/white-house/4796653/dana-white-responds-question-trump-white-house-press-secretary-request/"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Daniel Torok / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Ilham_Aliyev_received_Dana_White%2C_June_2025_%283x4_cropped_and_rotated_on_White%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Press Service of the President of the Republic of Azerbaijan / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Trump offers UFC boss Dana White press secretary role",
+    "people": [
+     "Donald Trump",
+     "Dana White"
+    ],
+    "image_query": "White House building",
+    "image_style": "person",
+    "location": "Washington, D.C., US"
+   },
+   "created_at": "2026-11-08T07:22:40.886999+00:00",
+   "news_time": "2026-11-08T02:09:00+00:00",
+   "news_latest": "2026-11-08T07:04:37+00:00",
+   "caption": "Trump offers UFC boss Dana White press secretary role\n\nDonald Trump asked Ultimate Fighting Championship CEO Dana White to take the position of White House press secretary. White stated he will meet with the US president on Monday to discuss the offer.\n\n📖 Read more: https://www.euronews.com/2026/11/08/trump-offers-ufc-boss-press-secretary-role-dana-please-take-the-job\n\n#USPolitics #DonaldTrump #DanaWhite #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 55,
+   "tg_file_id": "AgACAgUAAxkDAAM3avAjQ4kKtnSjJEozz3k4EktdxUYAAmgUaxv_D4FX3ncv_SvWJqUBAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -1422,7 +1498,12 @@
   "https://thehill.com/homenews/state-watch/6206341-wisconsin-trooper-ice-arrest/",
   "https://www.theguardian.com/us-news/2026/nov/07/wisconsin-state-trooper-ice-released",
   "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss",
-  "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+  "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+  "https://www.euronews.com/2026/11/08/trump-offers-ufc-boss-press-secretary-role-dana-please-take-the-job",
+  "https://news.sky.com/story/trump-asks-ufc-boss-dana-white-to-become-white-house-press-secretary-13609613",
+  "https://www.washingtonexaminer.com/news/white-house/4796653/dana-white-responds-question-trump-white-house-press-secretary-request/",
+  "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss",
+  "https://www.cbsnews.com/news/trump-offers-white-house-press-secretary-role-dana-white/"
  ],
  "recent_topics": [
   [
@@ -1867,12 +1948,35 @@
     "task",
     "transport"
    ]
+  ],
+  [
+   "2026-11-08T07:22:43.690932+00:00",
+   [
+    "ask",
+    "boss",
+    "chief",
+    "dana",
+    "hous",
+    "job",
+    "offer",
+    "pleas",
+    "press",
+    "question",
+    "request",
+    "respond",
+    "rol",
+    "secretary",
+    "tak",
+    "trump",
+    "ufc",
+    "whit"
+   ]
   ]
  ],
- "last_draft_at": "2026-11-08T06:21:41.534550+00:00",
+ "last_draft_at": "2026-11-08T07:22:28.819769+00:00",
  "last_slot": null,
  "commands_set": 5,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-08T06:21:40.603888+00:00"
+ "last_stats_at": "2026-11-08T07:22:28.120868+00:00"
 }
