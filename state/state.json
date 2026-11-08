@@ -3650,6 +3650,78 @@
    "status": "pending",
    "tg_message_id": 130,
    "tg_file_id": "AgACAgUAAxkDAAOCavDN49dywGUu1iiRAgcEzNOGJOYAAlMVaxv_D4lXG9tolysHxXYBAAMCAAN3AAM9BA"
+  },
+  "3b44a15813": {
+   "id": "3b44a15813",
+   "headline": "Bernie Sanders and Joe Concha react to Stephen Miller White House promotion",
+   "summary": "Senator Bernie Sanders gave President Donald Trump a backhanded compliment regarding Stephen Miller's promotion to White House Chief of Staff. Meanwhile, Washington Examiner columnist Joe Concha stated that Miller will excel at pushing back against hostile media members.",
+   "label": "US POLITICS",
+   "hook": "How will Stephen Miller handle media relations as White House Chief of Staff?",
+   "key_points": [
+    "Stephen Miller received a promotion to White House Chief of Staff.",
+    "Senator Bernie Sanders offered a backhanded compliment on the appointment.",
+    "Columnist Joe Concha predicted Miller will thrive against media scrutiny."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#WhiteHouse",
+    "#DonaldTrump"
+   ],
+   "sources": [
+    "The Independent",
+    "Washington Examiner"
+   ],
+   "link": "https://www.independent.co.uk/news/world/americas/us-politics/bernie-sanders-trump-stephen-miller-midterms-b3081279.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/us-politics/bernie-sanders-trump-stephen-miller-midterms-b3081279.html"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/white-house/4796807/stephen-miller-thrive-hostile-media-joe-concha/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Stephen_Miller_%2854361578860%29.jpg/1280px-Stephen_Miller_%2854361578860%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Senator_of_Vermont_Bernie_Sanders_Campaign_Field_Office_In_Nashua_NH_11.jpg/1280px-Senator_of_Vermont_Bernie_Sanders_Campaign_Field_Office_In_Nashua_NH_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Michael Vadon / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Bernie Sanders and Joe Concha react to Stephen Miller White House promotion",
+    "people": [
+     "Stephen Miller",
+     "Bernie Sanders",
+     "Donald Trump"
+    ],
+    "image_query": "White House",
+    "image_queries": [
+     "US Capitol dome",
+     "West Wing exterior",
+     "Oval Office",
+     "Washington DC skyline"
+    ],
+    "image_style": "person",
+    "location": "US"
+   },
+   "created_at": "2026-11-08T19:45:31.895445+00:00",
+   "news_time": "2026-11-08T18:20:42+00:00",
+   "news_latest": "2026-11-08T18:51:51+00:00",
+   "caption": "Bernie Sanders and Joe Concha react to Stephen Miller White House promotion\n\nSenator Bernie Sanders gave President Donald Trump a backhanded compliment regarding Stephen Miller's promotion to White House Chief of Staff. Meanwhile, Washington Examiner columnist Joe Concha stated that Miller will excel at pushing back against hostile media members.\n\n💬 How will Stephen Miller handle media relations as White House Chief of Staff?\n\n📖 Read more: https://www.independent.co.uk/news/world/americas/us-politics/bernie-sanders-trump-stephen-miller-midterms-b3081279.html\n\n#USPolitics #WhiteHouse #DonaldTrump #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 131,
+   "tg_file_id": "AgACAgUAAxkDAAODavDRX_tdtHInHgHgJYvImo03y5sAAlQVaxv_D4lXyWUiIH-uRC0BAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -3790,7 +3862,9 @@
   "https://www.nytimes.com/2026/11/08/us/politics/republican-blame-trump-midterms.html",
   "https://www.washingtonexaminer.com/restoring-america/fairness-justice/4795802/pro-life-messaging-change-minds-abortion/",
   "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html",
-  "https://www.cbsnews.com/news/jon-meacham-on-the-midterms-and-americas-better-angels/"
+  "https://www.cbsnews.com/news/jon-meacham-on-the-midterms-and-americas-better-angels/",
+  "https://www.independent.co.uk/news/world/americas/us-politics/bernie-sanders-trump-stephen-miller-midterms-b3081279.html",
+  "https://www.washingtonexaminer.com/news/white-house/4796807/stephen-miller-thrive-hostile-media-joe-concha/"
  ],
  "recent_topics": [
   [
@@ -4803,19 +4877,37 @@
     "verdict"
    ],
    "bbb2d9a46d"
+  ],
+  [
+   "2026-11-08T19:45:35.813741+00:00",
+   [
+    "backhand",
+    "berni",
+    "chief",
+    "compliment",
+    "concha",
+    "get",
+    "hostil",
+    "joe",
+    "media",
+    "miller",
+    "sander",
+    "staff",
+    "stephen",
+    "thriv",
+    "trump",
+    "viciou"
+   ],
+   "3b44a15813"
   ]
  ],
- "last_draft_at": "2026-11-08T19:30:29.700462+00:00",
+ "last_draft_at": "2026-11-08T19:45:18.481286+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-08T19:30:26.049475+00:00",
  "run_log": [
-  "11-08 17:15:21 run start",
-  "11-08 17:15:32 listening 11 min",
-  "11-08 17:26:52 listening done",
-  "11-08 17:26:52 run end after 690 s",
   "11-08 17:30:24 run start",
   "11-08 17:30:38 listening 11 min",
   "11-08 17:41:58 listening done",
@@ -4851,7 +4943,11 @@
   "11-08 19:30:25 run start",
   "11-08 19:30:44 listening 11 min",
   "11-08 19:42:03 listening done",
-  "11-08 19:42:03 run end after 697 s"
+  "11-08 19:42:03 run end after 697 s",
+  "11-08 19:45:18 run start",
+  "11-08 19:45:35 listening 11 min",
+  "11-08 19:56:54 listening done",
+  "11-08 19:56:54 run end after 696 s"
  ],
  "day_pack_done": "2026-11-07",
  "photo_memory": {
@@ -4868,7 +4964,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Damage_in_Gaza_Strip_during_the_October_2023_-_29.jpg/1920px-Damage_in_Gaza_Strip_during_the_October_2023_-_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Damascus%2C_Syria%2C_The_streets_of_central_Damascus.jpg/1920px-Damascus%2C_Syria%2C_The_streets_of_central_Damascus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Door_to_Senate_Chamber_MN_State_Capitol.jpg/1920px-Door_to_Senate_Chamber_MN_State_Capitol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/US_Capitol_dome_Jan_2006.jpg/1920px-US_Capitol_dome_Jan_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/US_Capitol_dome_Jan_2006.jpg/1920px-US_Capitol_dome_Jan_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Stephen_Miller_%2854361578860%29.jpg/1280px-Stephen_Miller_%2854361578860%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Senator_of_Vermont_Bernie_Sanders_Campaign_Field_Office_In_Nashua_NH_11.jpg/1280px-Senator_of_Vermont_Bernie_Sanders_Campaign_Field_Office_In_Nashua_NH_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -5316,6 +5414,82 @@
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Sonia_Sotomayor_%2832372778021%29.jpg/1280px-Sonia_Sotomayor_%2832372778021%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     }
+    ]
+   },
+   "bernie sanders": {
+    "t": "2026-11-08T19:45:31.895367+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Bernie_Sanders_February_2026_%28cropped%29.jpg/1280px-Bernie_Sanders_February_2026_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Anderseidesvik / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Bernie_Sanders_at_the_2016_Memorial_Day_Ceremony%2C_Presidio_of_San_Francisco.jpg/1280px-Bernie_Sanders_at_the_2016_Memorial_Day_Ceremony%2C_Presidio_of_San_Francisco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Frank Schulenburg / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Bernie_Sanders_NYC_fundraiser_%2821634962836%29.jpg/1280px-Bernie_Sanders_NYC_fundraiser_%2821634962836%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Michael Vadon / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Sanders_presidential_campaign_kickoff%2C_May_2015_Bernie_Sanders_%2824317403194%29.jpg/1280px-Sanders_presidential_campaign_kickoff%2C_May_2015_Bernie_Sanders_%2824317403194%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Jake Bucci / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Senator_of_Vermont_Bernie_Sanders_Campaign_Field_Office_In_Nashua_NH_11.jpg/1280px-Senator_of_Vermont_Bernie_Sanders_Campaign_Field_Office_In_Nashua_NH_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Michael Vadon / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Bernie_Sanders_%2825757972473%29.jpg/1280px-Bernie_Sanders_%2825757972473%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Marcela from Bronx, NY, USA / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Bernie_Sanders_by_Lorie_Shaull_19.jpg/1280px-Bernie_Sanders_by_Lorie_Shaull_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Lorie Shaull / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Bernie_Sanders_%2825973827305%29.jpg/1280px-Bernie_Sanders_%2825973827305%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Senator_of_Vermont_Bernie_Sanders_at_Derry_Town_Hall%2C_Pinkerton_Academy_NH_October_30th%2C_2015_by_Michael_Vadon_a_10.jpg/1280px-Senator_of_Vermont_Bernie_Sanders_at_Derry_Town_Hall%2C_Pinkerton_Academy_NH_October_30th%2C_2015_by_Michael_Vadon_a_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Michael Vadon / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Senator_of_Vermont_Bernie_Sanders_at_Derry_Town_Hall%2C_Pinkerton_Academy_NH_October_30th%2C_2015_b_by_Michael_Vadon_02.jpg/1280px-Senator_of_Vermont_Bernie_Sanders_at_Derry_Town_Hall%2C_Pinkerton_Academy_NH_October_30th%2C_2015_b_by_Michael_Vadon_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Michael Vadon / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bernie_Sanders_speaks_1%2C_Bernie_Sanders_Rally%2C_LA_Convention_Center%2C_Los_Angeles%2C_California%2C_USA_%2849608571108%29.jpg/1280px-Bernie_Sanders_speaks_1%2C_Bernie_Sanders_Rally%2C_LA_Convention_Center%2C_Los_Angeles%2C_California%2C_USA_%2849608571108%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Cory Doctorow from Beautiful Downtown Burbank, USA / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Senator_of_Vermont_Bernie_Sanders_at_Derry_Town_Hall%2C_Pinkerton_Academy_NH_October_30th%2C_2015_by_Michael_Vadon_a_16.jpg/1280px-Senator_of_Vermont_Bernie_Sanders_at_Derry_Town_Hall%2C_Pinkerton_Academy_NH_October_30th%2C_2015_by_Michael_Vadon_a_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Michael Vadon / Wikimedia Commons (CC BY-SA 4.0)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": false
      }
