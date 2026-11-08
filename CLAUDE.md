@@ -24,7 +24,9 @@ optional PIXABAY_API_KEY / PEXELS_API_KEY. Never print or commit secrets.
 - Send a link (bot reads article + Gemini) or a photo with caption (line 1 = headline) → manual post. "BREAKING:" prefix.
 - Published/skipped/replaced posts are deleted from the bot chat; published ones are logged to a linked channel
   (linked by forwarding a channel message to the bot).
-- Commands: /queue /status /new /pause /resume /channel /help.
+- Commands: /queue /status /new /pause /resume /channel /tiktok /help.
+- Every published post is also shared to the Page Story (SHARE_TO_STORY) and, if linked via /tiktok,
+  sent to a TikTok channel as a 1080×1920 file + caption (no link) for easy download.
 
 ## Design rules (image 1080×1350)
 - Brand: black background, white text, red **#CE0000**, Poppins font, logo `assets/logo.png` top-left.

@@ -62,6 +62,7 @@ SKIP_TITLE_WORDS = [
 # ---------- Caption ----------
 SHOW_READ_MORE_LINK = True   # include the original article link in the Facebook caption
 SHARE_TO_STORY = True        # also share every published post to the Page's Facebook Story (True / False)
+TIKTOK_HASHTAGS = "#news #worldnews #fyp"   # added to the caption sent to your TikTok channel (/tiktok)
 
 # Question at the end of the post (to get comments):
 #   "always"    = every post

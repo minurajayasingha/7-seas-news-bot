@@ -178,6 +178,27 @@ def log_to_channel(state, d, fb_link):
     return False
 
 
+def tiktok_caption(d):
+    """Short caption for TikTok: headline, summary, hashtags (TikTok captions can't have links)."""
+    tags = " ".join("#" + re.sub(r"[^A-Za-z0-9_]", "", t) for t in d.get("hashtags", [])[:3]
+                    if re.sub(r"[^A-Za-z0-9_]", "", t))
+    head = f"🚨 BREAKING: {d['headline']}" if d.get("breaking") else d["headline"]
+    text = "\n\n".join(x for x in [head, d.get("summary", ""),
+                                     f"{tags} {BRAND_HASHTAG} {TIKTOK_HASHTAGS}".strip()] if x)
+    return text[:1000]
+
+
+def send_to_tiktok_channel(state, d, image_bytes):
+    """Send the post as a full-quality 1080x1920 file + caption to your TikTok channel (if linked)."""
+    ch = state.get("tiktok_channel")
+    if not ch:
+        return False
+    stamp = now_utc().astimezone(ZoneInfo("Asia/Colombo")).strftime("%Y-%m-%d_%H%M")
+    j = tg("sendDocument", chat_id=ch, caption=tiktok_caption(d),
+           files={"document": (f"7seas_{stamp}_{d['id']}.jpg", story_image(image_bytes), "image/jpeg")})
+    return bool(j.get("ok"))
+
+
 def lk_time(t):
     return t.astimezone(ZoneInfo("Asia/Colombo")).strftime("%I:%M %p").lstrip("0")
 
@@ -219,7 +240,7 @@ def when_text(t):
 
 
 def set_commands_once(state):
-    if state.get("commands_set") == 3:
+    if state.get("commands_set") == 4:
         return
     tg("setMyCommands", commands=[
         {"command": "queue", "description": "What's queued and when it posts"},
@@ -228,9 +249,10 @@ def set_commands_once(state):
         {"command": "pause", "description": "Stop automatic news"},
         {"command": "resume", "description": "Start automatic news again"},
         {"command": "channel", "description": "Link the published-posts channel"},
+        {"command": "tiktok", "description": "Link the TikTok files channel"},
         {"command": "help", "description": "How to use the bot"},
     ])
-    state["commands_set"] = 3
+    state["commands_set"] = 4
 
 
 def tg_download(file_id):
@@ -446,14 +468,17 @@ def process_telegram(state):
 
         fwd = msg.get("forward_from_chat") or (msg.get("forward_origin") or {}).get("chat")
         if fwd and fwd.get("type") == "channel":
-            state["log_channel"] = fwd["id"]
+            kind = "tiktok_channel" if state.pop("linking", None) == "tiktok" else "log_channel"
+            state[kind] = fwd["id"]
+            what = ("TikTok files (9:16) + captions" if kind == "tiktok_channel" else "Published posts")
             t = tg("sendMessage", chat_id=fwd["id"],
-                   text="✅ 7 Seas News bot connected. Published posts will appear here.")
+                   text=f"✅ 7 Seas News bot connected. {what} will appear here.")
             if t.get("ok"):
                 tg_text(f"✅ Channel <b>{html.escape(fwd.get('title', ''))}</b> linked. "
-                        "Every published post will be logged there.")
+                        + ("Every published post will be sent there as a TikTok-size file with its caption."
+                           if kind == "tiktok_channel" else "Every published post will be logged there."))
             else:
-                state.pop("log_channel", None)
+                state.pop(kind, None)
                 tg_text("⚠️ I can't post in that channel yet. Add me to the channel as an "
                         "<b>admin</b> (with 'Post messages'), then forward a message again.")
             continue
@@ -507,11 +532,27 @@ def process_telegram(state):
                 tg_text("🗓 <b>Queue</b>\n\n" + "\n\n".join(rows) +
                         "\n\nTo cancel one, tap ↩️ Cancel under that post.")
         elif text.startswith("/channel"):
+            state.pop("linking", None)  # next forwarded channel = published-posts channel
             tg_text("📢 <b>Published-posts channel</b>\n"
                     "1. Create a Telegram channel (e.g. '7 Seas – Published')\n"
                     "2. Channel info → Administrators → Add admin → add this bot\n"
                     "3. Post any message in the channel and <b>forward it to me</b>\n\n"
                     + ("Currently linked ✅" if state.get("log_channel") else "Not linked yet."))
+        elif text.startswith("/tiktok"):
+            if "off" in text.lower():
+                state.pop("tiktok_channel", None)
+                state.pop("linking", None)
+                tg_text("🎵 TikTok channel unlinked. Posts won't be sent there any more.")
+            else:
+                state["linking"] = "tiktok"
+                tg_text("🎵 <b>TikTok channel</b>\n"
+                        "Every published post is sent there as a full-quality 1080×1920 image file "
+                        "+ a caption to copy, so you can download them to your phone.\n\n"
+                        "1. Create a Telegram channel (e.g. '7 Seas – TikTok')\n"
+                        "2. Channel info → Administrators → Add admin → add this bot\n"
+                        "3. Post any message in the channel and <b>forward it to me</b> now\n\n"
+                        + ("Currently linked ✅ (send /tiktok off to unlink)"
+                           if state.get("tiktok_channel") else "Not linked yet."))
         elif text.startswith("/status"):
             q = [d for d in state["drafts"].values() if d["status"] == "queued"]
             p = [d for d in state["drafts"].values() if d["status"] == "pending"]
@@ -534,6 +575,7 @@ def process_telegram(state):
                     "/queue – what's queued and when it posts\n"
                     "/pause · /resume – stop/start automatic news\n"
                     "/channel – link a channel that logs every published post\n"
+                    "/tiktok – link a channel that gets every post as a TikTok-size file\n"
                     "/status – bot summary")
 
 
@@ -681,6 +723,11 @@ def publish_due(state):
                         tg_text("⚠️ The post is live, but sharing it to the Facebook Story failed:\n"
                                 f"<code>{html.escape(str(e))[:400]}</code>\n\n"
                                 "Set SHARE_TO_STORY = False in settings.py to turn Stories off.")
+            try:
+                if send_to_tiktok_channel(state, d, img):
+                    log("Sent to TikTok channel", d["id"])
+            except Exception as e:  # never block publishing because of this
+                log("TikTok channel error:", e)
         except Exception as e:
             d["attempts"] = d.get("attempts", 0) + 1
             log("Facebook error:", e)
