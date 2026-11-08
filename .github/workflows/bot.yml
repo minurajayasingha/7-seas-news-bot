@@ -24,7 +24,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20       # the bot stays online ~12 min (LISTEN_MINUTES) to answer Telegram fast
     steps:
+      # Always load the NEWEST memory (not the version from when this run was started),
+      # so a run that waited in line behind another one doesn't send the same news again.
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - uses: actions/setup-python@v5
         with:
