@@ -167,8 +167,7 @@ def log_to_channel(state, d, fb_link):
     """Copy a published post to your 'published posts' channel (if linked)."""
     ch = state.get("log_channel")
     now = now_utc()
-    text = (f"✅ <b>Published</b> · {lk_time(now)} Sri Lanka · {ny_time(now)} New York · "
-            f"{now.astimezone(ZoneInfo('Asia/Colombo')):%b %d}\n\n"
+    text = (f"✅ <b>Published</b> · {ny_now():%b %d} · {ny_time(now)} New York · {lk_time(now)} Sri Lanka\n\n"
             f"<b>{html.escape(d['headline'])}</b>\n"
             f"<i>{html.escape(', '.join(d['sources']))}</i>"
             + (f"\n{news_time_text(d)}" if d.get("news_time") else "")
@@ -304,10 +303,70 @@ def send_to_tiktok_channel(state, d, image_bytes):
     ch = state.get("tiktok_channel")
     if not ch:
         return False
-    stamp = now_utc().astimezone(ZoneInfo("Asia/Colombo")).strftime("%Y-%m-%d_%H%M")
+    stamp = ny_now().strftime("%Y-%m-%d_%H%M") + "NY"
     j = tg("sendDocument", chat_id=ch, caption=tiktok_caption(d),
            files={"document": (f"7seas_{stamp}_{d['id']}.jpg", story_image(image_bytes), "image/jpeg")})
     return bool(j.get("ok"))
+
+
+def ny_now():
+    """Current time in New York (the page's home time zone)."""
+    return now_utc().astimezone(ZoneInfo(SLOT_TIMEZONE))
+
+
+def ny_day(iso):
+    return datetime.fromisoformat(iso).astimezone(ZoneInfo(SLOT_TIMEZONE)).date()
+
+
+def send_day_pack(state, day, so_far=False):
+    """All posts published on one New York day, sent as one pack (for TikTok):
+    start line + headlines, the 9:16 image files in order, a ready caption, end line."""
+    ch = state.get("tiktok_channel") or TG_CHAT
+    posts = sorted([d for d in state["drafts"].values()
+                    if d.get("status") == "posted" and d.get("posted_at") and ny_day(d["posted_at"]) == day],
+                   key=lambda d: d["posted_at"])
+    title = f"{day:%A, %b} {day.day}, {day.year}"
+    if not posts:
+        tg("sendMessage", chat_id=ch, parse_mode="HTML",
+           text=f"📅 <b>{title}</b> (New York): no posts" + (" yet." if so_far else "."))
+        return
+    heads = [f"{n}. {d['headline']}" for n, d in enumerate(posts, 1)]
+    tg("sendMessage", chat_id=ch, parse_mode="HTML", disable_web_page_preview="true",
+       text=(f"📅 <b>{title}</b> (New York) · {len(posts)} post{'s' if len(posts) != 1 else ''}"
+             + (" so far" if so_far else "") + "\n\n" + html.escape("\n".join(heads)))[:4000])
+    files = []
+    for n, d in enumerate(posts, 1):
+        try:
+            files.append((f"7seas_{day:%Y-%m-%d}_{n:02d}.jpg", story_image(tg_download(d["tg_file_id"]))))
+        except Exception as e:
+            log("Day pack image failed:", d["id"], e)
+    for i in range(0, len(files), 10):           # Telegram albums hold up to 10 files
+        group = files[i:i + 10]
+        if len(group) == 1:
+            tg("sendDocument", chat_id=ch, files={"document": (group[0][0], group[0][1], "image/jpeg")})
+        else:
+            tg("sendMediaGroup", chat_id=ch,
+               media=[{"type": "document", "media": f"attach://f{k}"} for k in range(len(group))],
+               files={f"f{k}": (name, data, "image/jpeg") for k, (name, data) in enumerate(group)})
+    caption = (f"Today's top news · {day:%b} {day.day}, {day.year} 🌍\n\n" + "\n".join(heads)
+               + f"\n\n{BRAND_HASHTAG} {TIKTOK_HASHTAGS}")
+    tg("sendMessage", chat_id=ch, text="🎵 TikTok caption (copy):\n\n" + caption[:3900])
+    if not so_far:
+        tg("sendMessage", chat_id=ch, parse_mode="HTML", text=f"✅ <b>End of {day:%b} {day.day}</b> (New York)")
+
+
+def day_packs_due(state):
+    """After midnight in New York, send the pack of the day that just ended (once)."""
+    yesterday = ny_now().date() - timedelta(days=1)
+    done = state.get("day_pack_done")
+    if not done:   # first time: start with yesterday
+        done = (yesterday - timedelta(days=1)).isoformat()
+    day = datetime.fromisoformat(done).date() + timedelta(days=1)
+    while day <= yesterday:
+        if day >= yesterday - timedelta(days=2):   # posts older than that are no longer in memory
+            send_day_pack(state, day)
+        state["day_pack_done"] = day.isoformat()
+        day += timedelta(days=1)
 
 
 def lk_time(t):
@@ -351,10 +410,11 @@ def when_text(t):
 
 
 def set_commands_once(state):
-    if state.get("commands_set") == 6:
+    if state.get("commands_set") == 7:
         return
     tg("setMyCommands", commands=[
         {"command": "news", "description": "Look for fresh news right now"},
+        {"command": "day", "description": "Today's posts as one TikTok pack"},
         {"command": "queue", "description": "What's queued and when it posts"},
         {"command": "status", "description": "Bot summary"},
         {"command": "stats", "description": "Likes, comments, shares (last 24h)"},
@@ -365,7 +425,7 @@ def set_commands_once(state):
         {"command": "tiktok", "description": "Link the TikTok files channel"},
         {"command": "help", "description": "How to use the bot"},
     ])
-    state["commands_set"] = 6
+    state["commands_set"] = 7
 
 
 def tg_download(file_id):
@@ -685,6 +745,9 @@ def process_telegram(state, wait=0):
                         "3. Post any message in the channel and <b>forward it to me</b> now\n\n"
                         + ("Currently linked ✅ (send /tiktok off to unlink)"
                            if state.get("tiktok_channel") else "Not linked yet."))
+        elif text.startswith("/day"):
+            tg_text("📦 Sending today's pack so far" + (" to your TikTok channel…" if state.get("tiktok_channel") else "…"))
+            send_day_pack(state, ny_now().date(), so_far=True)
         elif text.startswith("/news"):
             state["news_now"] = True
             tg_text("🔎 Looking for fresh news now…")
@@ -714,6 +777,7 @@ def process_telegram(state, wait=0):
                     "I send back the new version to approve.\n\n"
                     "✍️ <b>Your own post:</b> send a news link, or a photo with a headline (/new)\n\n"
                     "/news – look for fresh news right now\n"
+                    "/day – today's posts (New York day) as one pack for TikTok\n"
                     "/queue – what's queued and when it posts\n"
                     "/pause · /resume – stop/start automatic news\n"
                     "/channel – link a channel that logs every published post\n"
@@ -1691,7 +1755,7 @@ def render_image(headline, label, sources, bg):
                               ([bg["inset"]] if bg.get("inset") else []))
     ty = footer_top + (20 if has_credit else 30)
     d.text((M, ty), src, font=sf, fill=SOFT)
-    d.text((W - M, ty), now_utc().strftime("%b %d, %Y").upper(), font=sf, fill=SOFT, anchor="ra")
+    d.text((W - M, ty), ny_now().strftime("%b %d, %Y").upper(), font=sf, fill=SOFT, anchor="ra")  # US date
     if has_credit:
         cf = font("Poppins-Medium.ttf", 17)
         credit = "PHOTO: " + " · ".join(re.sub(r"\s*/\s*Wikimedia Commons", " / WIKIMEDIA", p["credit"]).upper()
@@ -1866,6 +1930,7 @@ def listen(state, until):
             process_telegram(state, wait=25)   # returns as soon as you tap or send something
             publish_due(state)                 # 🚀 Post now / queue times
             expire_pending(state)
+            day_packs_due(state)               # New York midnight → daily pack
             if state.pop("news_now", None):    # /news command
                 state["last_draft_at"] = now_utc().isoformat()
                 draft_new_posts(state)
@@ -1895,6 +1960,10 @@ def main():
         process_telegram(state)
         publish_due(state)
         expire_pending(state)
+        try:
+            day_packs_due(state)
+        except Exception as e:
+            log("Day pack error:", e)
         try:
             update_post_stats(state)
         except Exception as e:  # numbers are a bonus: never stop the bot because of them

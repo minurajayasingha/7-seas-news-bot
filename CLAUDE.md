@@ -28,11 +28,14 @@ optional PIXABAY_API_KEY / PEXELS_API_KEY. Never print or commit secrets.
 - Send a link (bot reads article + Gemini) or a photo with caption (line 1 = headline) → manual post. "BREAKING:" prefix.
 - Published/skipped/replaced posts are deleted from the bot chat; published ones are logged to a linked channel
   (linked by forwarding a channel message to the bot).
-- Commands: /news /queue /status /stats /new /pause /resume /channel /tiktok /help.
+- Commands: /day /news /queue /status /stats /new /pause /resume /channel /tiktok /help.
 - Post stats: every STATS_EVERY_MINUTES the bot reads reactions/comments/shares (+ reach if the token allows)
   for posts of the last STATS_DAYS and edits the matching log-channel message; /stats = last 24 h ranking.
 - Every published post is also shared to the Page Story (SHARE_TO_STORY) and, if linked via /tiktok,
   sent to a TikTok channel as a 1080×1920 file + caption (no link) for easy download.
+
+- Dates for the audience use New York time (image date, published log, TikTok file names). After NY midnight the bot
+  sends a daily pack (headlines, 9:16 files in order, TikTok caption, "End of <day>") to the TikTok channel (or bot chat).
 
 ## Design rules (image 1080×1350)
 - Brand: black background, white text, red **#CE0000**, Poppins font, logo `assets/logo.png` top-left.
