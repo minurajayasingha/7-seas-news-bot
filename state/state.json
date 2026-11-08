@@ -3914,6 +3914,76 @@
    "status": "pending",
    "tg_message_id": 134,
    "tg_file_id": "AgACAgUAAxkDAAOGavDqAAHhEbaTTGSRkVcPmxGOyNrHAAJdFWsb_w-JVzkkX3PJqX98AQADAgADdwADPQQ"
+  },
+  "ed4a2a326f": {
+   "id": "ed4a2a326f",
+   "headline": "Bernie Sanders warns Democrats against focusing entirely on Donald Trump",
+   "summary": "Senator Bernie Sanders urged congressional Democrats not to spend all their time investigating President Donald Trump. Meanwhile, Trump and the Department of Justice adopted a combative stance toward upcoming investigations, and the Justice Department considered naming the New York Times as a conspirator in a leak case.",
+   "label": "US POLITICS",
+   "hook": "Should congressional Democrats balance investigations into Donald Trump with other legislative priorities?",
+   "key_points": [
+    "Sanders warned Democrats against focusing solely on Trump investigations.",
+    "Trump and the Justice Department reacted with a combative stance.",
+    "The Justice Department considered naming the New York Times in a leak case."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#BernieSanders",
+    "#DonaldTrump"
+   ],
+   "sources": [
+    "ABC News",
+    "New York Times",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/news/senate/4796849/bernie-sanders-trump-investigations-congress/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/senate/4796849/bernie-sanders-trump-investigations-congress/"
+    ],
+    [
+     "ABC News",
+     "https://abcnews.com/Politics/wireStory/trump-justice-department-stand-defiant-democrats-ready-investigative-137958810"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/08/us/politics/justice-dept-new-york-times-comey-leak.html"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Bernie_Sanders_%2825973827305%29.jpg/1280px-Bernie_Sanders_%2825973827305%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Bernie Sanders warns Democrats against focusing entirely on Donald Trump",
+    "people": [
+     "Bernie Sanders"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "Department of Justice building",
+     "White House"
+    ],
+    "image_style": "person",
+    "location": "US"
+   },
+   "created_at": "2026-11-08T22:00:44.923782+00:00",
+   "news_time": "2026-11-08T16:10:07+00:00",
+   "news_latest": "2026-11-08T20:59:02+00:00",
+   "caption": "Bernie Sanders warns Democrats against focusing entirely on Donald Trump\n\nSenator Bernie Sanders urged congressional Democrats not to spend all their time investigating President Donald Trump. Meanwhile, Trump and the Department of Justice adopted a combative stance toward upcoming investigations, and the Justice Department considered naming the New York Times as a conspirator in a leak case.\n\n💬 Should congressional Democrats balance investigations into Donald Trump with other legislative priorities?\n\n📖 Read more: https://www.washingtonexaminer.com/news/senate/4796849/bernie-sanders-trump-investigations-congress/\n\n#USPolitics #BernieSanders #DonaldTrump #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 135,
+   "tg_file_id": "AgACAgUAAxkDAAOHavDxFs4R_HElid3bwQMRGNpmDVYAAl8Vaxv_D4lXOwU5PaFGkdkBAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -4063,7 +4133,10 @@
   "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
   "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
   "https://www.upi.com/Top_News/US/2026/11/08/iran-middle-east/1921794172211/",
-  "https://thehill.com/homenews/administration/6206935-trump-unlikely-attack-iran/"
+  "https://thehill.com/homenews/administration/6206935-trump-unlikely-attack-iran/",
+  "https://www.washingtonexaminer.com/news/senate/4796849/bernie-sanders-trump-investigations-congress/",
+  "https://abcnews.com/Politics/wireStory/trump-justice-department-stand-defiant-democrats-ready-investigative-137958810",
+  "https://www.nytimes.com/2026/11/08/us/politics/justice-dept-new-york-times-comey-leak.html"
  ],
  "recent_topics": [
   [
@@ -5156,19 +5229,44 @@
     "unlikely"
    ],
    "ad016f743b"
+  ],
+  [
+   "2026-11-08T22:00:55.269976+00:00",
+   [
+    "all",
+    "blitz",
+    "cannot",
+    "cas",
+    "comey",
+    "conspirator",
+    "defiant",
+    "democrat",
+    "department",
+    "dept",
+    "investigation",
+    "investigativ",
+    "justic",
+    "leak",
+    "mull",
+    "nam",
+    "ready",
+    "sander",
+    "spend",
+    "stand",
+    "tim",
+    "trump",
+    "warn"
+   ],
+   "ed4a2a326f"
   ]
  ],
- "last_draft_at": "2026-11-08T21:45:21.157643+00:00",
+ "last_draft_at": "2026-11-08T22:00:33.365104+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-08T21:30:24.328826+00:00",
  "run_log": [
-  "11-08 19:45:18 run start",
-  "11-08 19:45:35 listening 11 min",
-  "11-08 19:56:54 listening done",
-  "11-08 19:56:54 run end after 696 s",
   "11-08 20:00:30 run start",
   "11-08 20:00:39 listening 11 min",
   "11-08 20:11:59 listening done",
@@ -5204,7 +5302,11 @@
   "11-08 21:45:20 run start",
   "11-08 21:45:30 listening 11 min",
   "11-08 21:56:50 listening done",
-  "11-08 21:56:50 run end after 689 s"
+  "11-08 21:56:50 run end after 689 s",
+  "11-08 22:00:32 run start",
+  "11-08 22:00:55 listening 11 min",
+  "11-08 22:12:15 listening done",
+  "11-08 22:12:15 run end after 702 s"
  ],
  "day_pack_done": "2026-11-07",
  "photo_memory": {
@@ -5225,7 +5327,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Stephen_Miller_%2854361578860%29.jpg/1280px-Stephen_Miller_%2854361578860%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Senator_of_Vermont_Bernie_Sanders_Campaign_Field_Office_In_Nashua_NH_11.jpg/1280px-Senator_of_Vermont_Bernie_Sanders_Campaign_Field_Office_In_Nashua_NH_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Jensen_Huang_-_RTX_5070_Laptop_-_Nvidia_Keynote_-_CES_2025_Las_Vegas.jpg/1280px-Jensen_Huang_-_RTX_5070_Laptop_-_Nvidia_Keynote_-_CES_2025_Las_Vegas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_12.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_12.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Bernie_Sanders_%2825973827305%29.jpg/1280px-Bernie_Sanders_%2825973827305%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
