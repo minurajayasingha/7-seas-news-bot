@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892657,
+ "tg_offset": 495892659,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -1219,9 +1219,11 @@
    "news_time": "2026-11-08T02:29:42+00:00",
    "news_latest": "2026-11-08T02:34:04+00:00",
    "caption": "🚨 BREAKING: US launches task force to disrupt Iranian ground transport routes\n\nThe United States has launched a new task force aimed at disrupting Iranian land-based supply routes. The operation intends to prevent the transport of weapons and other materials, according to US reports.\n\nWhat we know so far:\n• US launches task force to disrupt land-based supply routes\n• Operation aims to prevent transport of weapons and materials\n• Naval blockade expanded to include ground transport task force\n\n📖 Read more: https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss\n\n#USNews #Iran #WorldNews #7SeasNews",
-   "status": "pending",
+   "status": "replaced",
    "tg_message_id": 48,
-   "tg_file_id": "AgACAgUAAxkDAAMwau_8xKFJdUdCWCXkjPgKvywqjTYAAi0Uaxv_D4FX-cajKTKZnI8BAAMCAAN3AAM9BA"
+   "tg_file_id": "AgACAgUAAxkDAAMwau_8xKFJdUdCWCXkjPgKvywqjTYAAi0Uaxv_D4FX-cajKTKZnI8BAAMCAAN3AAM9BA",
+   "extra_msgs": [],
+   "cleared": true
   },
   "fa3ab86e26": {
    "id": "fa3ab86e26",
@@ -1279,9 +1281,72 @@
    "news_time": "2026-11-07T13:29:28+00:00",
    "news_latest": "2026-11-07T21:24:10+00:00",
    "caption": "France: Over 140,000 Rally Against Rising Living Costs\n\nMore than 140,000 people turned out across France for demonstrations regarding the cost of living. Police deployed tear gas and clashed with protesters in Paris and Lyon as authorities enforced a rally ban.\n\n💬 What is your perspective on these ongoing demonstrations across France? Tell us what you think below.\n\n📖 Read more: https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss\n\n#France #YellowVests #WorldNews #7SeasNews",
-   "status": "pending",
+   "status": "posted",
    "tg_message_id": 49,
-   "tg_file_id": "AgACAgUAAxkDAAMxau_8x4XnXvDFn150uG6cPG7LJ74AAi4Uaxv_D4FXxdBPkbndQ7EBAAMCAAN3AAM9BA"
+   "tg_file_id": "AgACAgUAAxkDAAMxau_8x4XnXvDFn150uG6cPG7LJ74AAi4Uaxv_D4FXxdBPkbndQ7EBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-08T04:40:53.790987+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122095729893548584",
+   "posted_at": "2026-11-08T04:40:57.646304+00:00",
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "1151886727531373"
+  },
+  "a4aa1d8b3d": {
+   "id": "a4aa1d8b3d",
+   "headline": "US launches task force to disrupt Iranian ground transport routes",
+   "summary": "The United States has launched a new task force aimed at disrupting Iranian land-based supply routes. The operation intends to prevent the transport of weapons and other materials, according to US reports.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "US launches task force to disrupt land-based supply routes",
+    "Operation aims to prevent transport of weapons and materials",
+    "Naval blockade expanded to include ground transport task force"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#USNews",
+    "#Iran",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "CBS News"
+   ],
+   "link": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "tg_file_id": "AgACAgUAAxkBAAMvau_8qUz6lANCFRFCMz2_0cfHOOkAAiwUaxv_D4FX3TZgMwSRhXsBAAMCAAN5AAM9BA",
+      "credit": ""
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "US launches task force to disrupt Iranian ground transport routes",
+    "people": [],
+    "image_query": "US military map",
+    "image_style": "scene",
+    "location": "US"
+   },
+   "created_at": "2026-11-08T04:40:54.125474+00:00",
+   "news_time": "2026-11-08T02:29:42+00:00",
+   "news_latest": "2026-11-08T02:34:04+00:00",
+   "caption": "🚨 BREAKING: US launches task force to disrupt Iranian ground transport routes\n\nThe United States has launched a new task force aimed at disrupting Iranian land-based supply routes. The operation intends to prevent the transport of weapons and other materials, according to US reports.\n\nWhat we know so far:\n• US launches task force to disrupt land-based supply routes\n• Operation aims to prevent transport of weapons and materials\n• Naval blockade expanded to include ground transport task force\n\n📖 Read more: https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss\n\n#USNews #Iran #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 52,
+   "tg_file_id": "AgACAgUAAxkDAAM0au_9WCMuqWYNPyjxZrh-WvE8fWgAAi8Uaxv_D4FXPRs6I1hHWQwBAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -1797,7 +1862,7 @@
    ]
   ]
  ],
- "last_draft_at": "2026-11-08T04:38:32.160242+00:00",
+ "last_draft_at": "2026-11-08T04:41:12.803089+00:00",
  "last_slot": null,
  "commands_set": 4,
  "log_channel": -1004367532135,
