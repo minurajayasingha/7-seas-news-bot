@@ -3102,7 +3102,9 @@
   "https://www.upi.com/Top_News/World-News/2026/11/08/saudi-arabia-aramco-building-attack/1881794149790/",
   "https://abcnews.com/International/wireStory/saudi-arabia-intercepts-missiles-aramco-building-riyadh-damaged-137951443",
   "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
-  "https://www.independent.co.uk/news/world/middle-east/saudi-armaco-building-damage-attack-b3081179.html"
+  "https://www.independent.co.uk/news/world/middle-east/saudi-armaco-building-damage-attack-b3081179.html",
+  "https://abcnews.com/International/wireStory/south-africas-anc-humbled-worst-election-results-continues-137955443",
+  "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -3951,17 +3953,13 @@
    "a8f9297a4b"
   ]
  ],
- "last_draft_at": "2026-11-08T16:00:27.790773+00:00",
+ "last_draft_at": "2026-11-08T16:22:18.938748+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-08T15:15:18.482142+00:00",
+ "last_stats_at": "2026-11-08T16:22:16.065154+00:00",
  "run_log": [
-  "11-08 13:50:35 run end after 689 s",
-  "11-08 14:02:27 run start",
-  "11-08 14:02:39 listening 11 min",
-  "11-08 14:13:55 listening done",
   "11-08 14:13:55 run end after 687 s",
   "11-08 14:15:18 run start",
   "11-08 14:15:29 listening 11 min",
@@ -3997,7 +3995,11 @@
   "11-08 16:11:56 run end after 688 s",
   "11-08 16:15:20 run start",
   "11-08 16:15:22 run error: ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
-  "11-08 16:15:22 run end after 2 s"
+  "11-08 16:15:22 run end after 2 s",
+  "11-08 16:22:15 run start",
+  "11-08 16:24:00 listening 10 min",
+  "11-08 16:34:04 listening done",
+  "11-08 16:34:04 run end after 709 s"
  ],
  "day_pack_done": "2026-11-07",
  "photo_memory": {
