@@ -16,7 +16,7 @@ SOFT = (205, 205, 210)     # small grey text
 
 # ---------- How many posts ----------
 DRAFTS_PER_RUN = 3           # new posts sent to Telegram each time it looks for news
-DRAFT_EVERY_MINUTES = 30     # how often it looks for news (30 = every half hour)
+DRAFT_EVERY_MINUTES = 15     # how often it looks for news (15 = every run of the bot)
 
 # Posting times for the 🕒 Queue button (New York time). One queued post per slot.
 SLOT_TIMEZONE = "America/New_York"
