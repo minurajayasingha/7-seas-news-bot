@@ -567,7 +567,12 @@ def process_telegram(state):
                 t = plan.get(pid)
                 pos = list(plan).index(pid) + 1 if pid in plan else "?"
                 tg_status(d, f"🕒 Queued · {lk_time(t)} SL" if t else "🕒 Queued", cancel=True)
-                tg_reply(d, f"🕒 <b>Queued</b> (#{pos} in line)\nWill post at <b>{when_text(t)}</b>"
+                warn = ""
+                if t and t > news_age_limit(d):
+                    warn = ("\n\n⚠️ The news will be more than "
+                            f"{QUEUE_EXPIRE_HOURS} hours old by then, so it will probably be removed "
+                            "before its turn. Tap ↩️ Cancel and use 🚀 Post now if you want it out.")
+                tg_reply(d, f"🕒 <b>Queued</b> (#{pos} in line)\nWill post at <b>{when_text(t)}</b>{warn}"
                          if t else "🕒 Queued")
                 log("Approved", pid, "queue")
             continue
@@ -773,6 +778,13 @@ def facebook_post_story(image_bytes):
     return j.get("post_id") or j.get("id")
 
 
+def news_age_limit(d):
+    """The moment this post's news becomes too old to publish (QUEUE_EXPIRE_HOURS after the latest report).
+    Your own posts have no report time, so the time you made them counts."""
+    t = d.get("news_latest") or d.get("news_time") or d.get("created_at")
+    return datetime.fromisoformat(t) + timedelta(hours=QUEUE_EXPIRE_HOURS)
+
+
 def queue_schedule(state, now=None):
     """Planned posting time for each queued post (Post-now items first, then slots in order)."""
     now = now or now_utc()
@@ -803,11 +815,13 @@ def publish_due(state):
     queued = sorted([d for d in state["drafts"].values() if d["status"] == "queued"],
                     key=lambda d: d["queued_at"])
 
-    # drop stale queue items
+    # drop queued posts whose news has become too old (waiting in line alone never removes a post)
     for d in queued:
-        if now - datetime.fromisoformat(d["queued_at"]) > timedelta(hours=QUEUE_EXPIRE_HOURS):
+        if now > news_age_limit(d):
             d["status"] = "expired"
             tg_clear(d)
+            tg_text(f"🗑 Removed from the queue: <b>{html.escape(d['headline'])}</b>\n"
+                    f"The news is now more than {QUEUE_EXPIRE_HOURS} hours old, so it wasn't posted.")
     queued = [d for d in queued if d["status"] == "queued"]
 
     to_post = [d for d in queued if d.get("post_now")]

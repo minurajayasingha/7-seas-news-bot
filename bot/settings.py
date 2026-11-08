@@ -76,7 +76,8 @@ STATS_DAYS = 3               # keep updating a post's numbers for this many days
 
 # ---------- Expiry ----------
 PENDING_EXPIRE_HOURS = 8     # unanswered posts are removed after this
-QUEUE_EXPIRE_HOURS = 12      # queued posts not published by then are removed
+QUEUE_EXPIRE_HOURS = 12      # a queued post is removed (and you are told) when its NEWS is older than this.
+                             # Waiting in line alone never removes a post.
 
 # ---------- News sources (RSS) ----------
 FEEDS = {
