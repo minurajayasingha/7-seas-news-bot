@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892668,
+ "tg_offset": 495892669,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -1553,9 +1553,20 @@
    "news_time": "2026-11-08T07:11:32+00:00",
    "news_latest": "2026-11-08T08:37:31+00:00",
    "caption": "🚨 BREAKING: Kraków shooting suspect remains critical following central square attack\n\nA 25-year-old Polish man with far-right views drove into a busy central square in Kraków, Poland. The incident killed six people and injured others before a shootout with police left the suspect in critical condition.\n\nWhat we know so far:\n• Suspect is a 25-year-old Polish man with far-right views\n• Six people were killed during the attack in Kraków\n• Suspect remains in very critical condition after police shootout\n\n📖 Read more: https://www.newsweek.com/krakow-shooting-suspect-what-we-know-as-more-victims-discovered-12683092\n\n#Krakow #Poland #WorldNews #7SeasNews",
-   "status": "pending",
+   "status": "posted",
    "tg_message_id": 59,
-   "tg_file_id": "AgACAgUAAxkDAAM7avA6FBWORY-ocdnI4h4WX3Z7Df0AApAUaxv_D4FXZMQqbtAuKX0BAAMCAAN3AAM9BA"
+   "tg_file_id": "AgACAgUAAxkDAAM7avA6FBWORY-ocdnI4h4WX3Z7Df0AApAUaxv_D4FXZMQqbtAuKX0BAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-08T09:01:23.936007+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122095844709548584",
+   "posted_at": "2026-11-08T09:01:24.240275+00:00",
+   "log_text": "✅ <b>Published</b> · 2:31 PM Sri Lanka · 4:01 AM New York · Nov 08\n\n<b>Kraków shooting suspect remains critical following central square attack</b>\n<i>Newsweek, The Independent</i>\n🟢 <b>Latest:</b> 2:07 PM Sri Lanka (24 min ago) · first reported 12:41 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122095844709548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 11,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "3387199334814429"
   }
  },
  "seen_links": [
@@ -2115,7 +2126,7 @@
    ]
   ]
  ],
- "last_draft_at": "2026-11-08T09:00:05.552180+00:00",
+ "last_draft_at": "2026-11-08T09:01:45.417246+00:00",
  "last_slot": null,
  "commands_set": 5,
  "log_channel": -1004367532135,
