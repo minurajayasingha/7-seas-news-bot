@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892707,
+ "tg_offset": 495892708,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -2984,6 +2984,87 @@
    "status": "pending",
    "tg_message_id": 117,
    "tg_file_id": "AgACAgUAAxkDAAN1avCZHLb727rNh3Q2i0PWddS3j4IAAhsVaxv_D4lXlp2DBqWfldQBAAMCAAN3AAM9BA"
+  },
+  "14e0aa2339": {
+   "id": "14e0aa2339",
+   "headline": "Hakeem Jeffries backs Pete Hegseth impeachment resolution",
+   "summary": "House Minority Leader Hakeem Jeffries stated he supports an expected impeachment resolution against War Secretary Pete Hegseth. Jeffries plans to discuss the matter with other Democratic lawmakers.",
+   "label": "US POLITICS",
+   "hook": "Will House Democrats unite behind the impeachment resolution against Pete Hegseth?",
+   "key_points": [
+    "Hakeem Jeffries backed the expected impeachment resolution.",
+    "Rep. Thomas Massie is expected to introduce the resolution."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Congress",
+    "#PeteHegseth"
+   ],
+   "sources": [
+    "Washington Examiner",
+    "Washington Post"
+   ],
+   "link": "https://www.washingtonexaminer.com/news/house/4796743/hakeem-jeffries-hard-yes-pete-hegseth-impeachment/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/house/4796743/hakeem-jeffries-hard-yes-pete-hegseth-impeachment/"
+    ],
+    [
+     "Washington Post",
+     "https://www.washingtonpost.com/politics/2026/11/08/pete-hegseth-impeachment-would-be-hard-yes-hakeem-jeffries/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Hakeem_Jeffries_%2854105690876%29.jpg/1280px-Hakeem_Jeffries_%2854105690876%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/250718-A-KH072-1044_SecDef_Pete_Hegseth_Hosts_Israeli_Defense_Minister_Israel_Katz_at_The_Pentagon.jpg/1280px-250718-A-KH072-1044_SecDef_Pete_Hegseth_Hosts_Israeli_Defense_Minister_Israel_Katz_at_The_Pentagon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Secretary of Defense / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Hakeem Jeffries backs Pete Hegseth impeachment resolution",
+    "people": [
+     "Hakeem Jeffries",
+     "Pete Hegseth"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "House of Representatives chamber",
+     "Capitol Hill",
+     "Senate chamber",
+     "Pentagon building"
+    ],
+    "image_style": "person",
+    "location": "Washington, US"
+   },
+   "created_at": "2026-11-08T16:34:33.119735+00:00",
+   "news_time": "2026-11-08T15:51:52+00:00",
+   "news_latest": "2026-11-08T16:28:22+00:00",
+   "caption": "Hakeem Jeffries backs Pete Hegseth impeachment resolution\n\nHouse Minority Leader Hakeem Jeffries stated he supports an expected impeachment resolution against War Secretary Pete Hegseth. Jeffries plans to discuss the matter with other Democratic lawmakers.\n\n💬 Will House Democrats unite behind the impeachment resolution against Pete Hegseth?\n\n📖 Read more: https://www.washingtonexaminer.com/news/house/4796743/hakeem-jeffries-hard-yes-pete-hegseth-impeachment/\n\n#USPolitics #Congress #PeteHegseth #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 119,
+   "tg_file_id": "AgACAgUAAxkDAAN3avCknt5e_2z7ThVmpzQyHFBcnvYAAiUVaxv_D4lXqH610xrh8hoBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-08T16:35:06.634765+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122096073159548584",
+   "posted_at": "2026-11-08T16:35:07.106465+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 08 · 11:35 AM New York · 10:05 PM Sri Lanka\n\n<b>Hakeem Jeffries backs Pete Hegseth impeachment resolution</b>\n<i>Washington Examiner, Washington Post</i>\n🟢 <b>Latest:</b> 9:58 PM Sri Lanka (6 min ago) · first reported 9:21 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096073159548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 29,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "1833179221200896"
   }
  },
  "seen_links": [
@@ -3104,7 +3185,9 @@
   "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
   "https://www.independent.co.uk/news/world/middle-east/saudi-armaco-building-damage-attack-b3081179.html",
   "https://abcnews.com/International/wireStory/south-africas-anc-humbled-worst-election-results-continues-137955443",
-  "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss"
+  "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss",
+  "https://www.washingtonexaminer.com/news/house/4796743/hakeem-jeffries-hard-yes-pete-hegseth-impeachment/",
+  "https://www.washingtonpost.com/politics/2026/11/08/pete-hegseth-impeachment-would-be-hard-yes-hakeem-jeffries/"
  ],
  "recent_topics": [
   [
@@ -3951,19 +4034,34 @@
     "yemen"
    ],
    "a8f9297a4b"
+  ],
+  [
+   "2026-11-08T16:34:38.739934+00:00",
+   [
+    "ahead",
+    "democrat",
+    "expect",
+    "hard",
+    "hegseth",
+    "hes",
+    "hous",
+    "impeachment",
+    "jeffry",
+    "massi",
+    "pet",
+    "resolution",
+    "yes"
+   ],
+   "14e0aa2339"
   ]
  ],
- "last_draft_at": "2026-11-08T16:22:18.938748+00:00",
+ "last_draft_at": "2026-11-08T16:34:19.013843+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-08T16:22:16.065154+00:00",
  "run_log": [
-  "11-08 14:13:55 run end after 687 s",
-  "11-08 14:15:18 run start",
-  "11-08 14:15:29 listening 11 min",
-  "11-08 14:26:47 listening done",
   "11-08 14:26:47 run end after 689 s",
   "11-08 14:30:23 run start",
   "11-08 14:30:57 listening 11 min",
@@ -3999,7 +4097,11 @@
   "11-08 16:22:15 run start",
   "11-08 16:24:00 listening 10 min",
   "11-08 16:34:04 listening done",
-  "11-08 16:34:04 run end after 709 s"
+  "11-08 16:34:04 run end after 709 s",
+  "11-08 16:34:18 run start",
+  "11-08 16:34:38 listening 11 min",
+  "11-08 16:45:47 listening done",
+  "11-08 16:45:47 run end after 688 s"
  ],
  "day_pack_done": "2026-11-07",
  "photo_memory": {
@@ -4007,7 +4109,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Capitol_Washington_October_2016-3.jpg/1920px-Capitol_Washington_October_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Abu_Dhabi_Skyline_from_a_boat_tour.jpg/1920px-Abu_Dhabi_Skyline_from_a_boat_tour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/21.06.2023_-_Reuni%C3%A3o_com_a_Primeira-Ministra_da_Rep%C3%BAblica_Italiana%2C_Giorgia_Meloni_%2852992890032%29.jpg/1280px-21.06.2023_-_Reuni%C3%A3o_com_a_Primeira-Ministra_da_Rep%C3%BAblica_Italiana%2C_Giorgia_Meloni_%2852992890032%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/21.06.2023_-_Reuni%C3%A3o_com_a_Primeira-Ministra_da_Rep%C3%BAblica_Italiana%2C_Giorgia_Meloni_%2852992890032%29.jpg/1280px-21.06.2023_-_Reuni%C3%A3o_com_a_Primeira-Ministra_da_Rep%C3%BAblica_Italiana%2C_Giorgia_Meloni_%2852992890032%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Hakeem_Jeffries_%2854105690876%29.jpg/1280px-Hakeem_Jeffries_%2854105690876%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/250718-A-KH072-1044_SecDef_Pete_Hegseth_Hosts_Israeli_Defense_Minister_Israel_Katz_at_The_Pentagon.jpg/1280px-250718-A-KH072-1044_SecDef_Pete_Hegseth_Hosts_Israeli_Defense_Minister_Israel_Katz_at_The_Pentagon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -4157,6 +4261,158 @@
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/21.06.2023_-_Reuni%C3%A3o_com_a_Primeira-Ministra_da_Rep%C3%BAblica_Italiana%2C_Giorgia_Meloni_%2852992889807%29.jpg/1280px-21.06.2023_-_Reuni%C3%A3o_com_a_Primeira-Ministra_da_Rep%C3%BAblica_Italiana%2C_Giorgia_Meloni_%2852992889807%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Palácio do Planalto from Brasilia, Brasil / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     }
+    ]
+   },
+   "hakeem jeffries": {
+    "t": "2026-11-08T16:34:31.369664+00:00",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Rep-Hakeem-Jeffries-Official-Portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Office of Representative Hakeem Jeffries / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Hakeem_Jeffries_%2854105951898%29.jpg/1280px-Hakeem_Jeffries_%2854105951898%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Hakeem_Jeffries_official_portrait_%28cropped%29.jpg/1280px-Hakeem_Jeffries_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Congress / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Rep-Hakeem-Jeffries-Official-Portrait.jpg/1280px-Rep-Hakeem-Jeffries-Official-Portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Office of Representative Hakeem Jeffries / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Hakeem_Jeffries_%2854105691671%29.jpg/1280px-Hakeem_Jeffries_%2854105691671%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Hakeem_Jeffries_%2854106146715%29.jpg/1280px-Hakeem_Jeffries_%2854106146715%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Hakeem_Jeffries_%2854105690876%29.jpg/1280px-Hakeem_Jeffries_%2854105690876%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Rep-Hakeem-Jeffries-Official-Portrait-1638x2048_%28cropped%29.jpg/1280px-Rep-Hakeem-Jeffries-Official-Portrait-1638x2048_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Office of Representative Hakeem Jeffries / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Hakeem_Jeffries_%2854106144640%29.jpg/1280px-Hakeem_Jeffries_%2854106144640%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Hakeem_Jeffries_%2854106030079%29.jpg/1280px-Hakeem_Jeffries_%2854106030079%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Hakeem_Jeffries_%2854105949193%29.jpg/1280px-Hakeem_Jeffries_%2854105949193%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Hakeem_Jeffries_%2854105688481%29.jpg/1280px-Hakeem_Jeffries_%2854105688481%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     }
+    ]
+   },
+   "pete hegseth": {
+    "t": "2026-11-08T16:34:33.119660+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Pete_Hegseth_Official_Portrait.jpg/1280px-Pete_Hegseth_Official_Portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Department of Defense / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Pete_Hegseth_%282025%29_%28cropped%29.jpg/1280px-Pete_Hegseth_%282025%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Secretary of Defense / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Pete_Hegseth_%2852941918363%29.jpg/1280px-Pete_Hegseth_%2852941918363%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Pete_Hegseth_%2852941843030%29.jpg/1280px-Pete_Hegseth_%2852941843030%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/250718-A-KH072-1044_SecDef_Pete_Hegseth_Hosts_Israeli_Defense_Minister_Israel_Katz_at_The_Pentagon.jpg/1280px-250718-A-KH072-1044_SecDef_Pete_Hegseth_Hosts_Israeli_Defense_Minister_Israel_Katz_at_The_Pentagon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Secretary of Defense / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Secretary_of_Defense_Pete_Hegseth_official_portrait_%28cropped%29.jpg/1280px-Secretary_of_Defense_Pete_Hegseth_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Chad McNeeley / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Pete_Hegseth_%2852941454126%29_%28cropped%29.jpg/1280px-Pete_Hegseth_%2852941454126%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/250718-A-KH072-1020_SecDef_Pete_Hegseth_Hosts_Israeli_Defense_Minister_Israel_Katz_at_The_Pentagon.jpg/1280px-250718-A-KH072-1020_SecDef_Pete_Hegseth_Hosts_Israeli_Defense_Minister_Israel_Katz_at_The_Pentagon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Secretary of Defense / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Pete_Hegseth_%2851772585499%29.jpg/1280px-Pete_Hegseth_%2851772585499%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Pete_Hegseth_%2851772824725%29.jpg/1280px-Pete_Hegseth_%2851772824725%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Pete_Hegseth_%2852940857382%29.jpg/1280px-Pete_Hegseth_%2852940857382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Pete_Hegseth_%2852251945456%29.jpg/1280px-Pete_Hegseth_%2852251945456%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": false
      }
