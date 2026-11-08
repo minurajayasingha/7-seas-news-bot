@@ -1567,6 +1567,189 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_story_id": "3387199334814429"
+  },
+  "f50d287e94": {
+   "id": "f50d287e94",
+   "headline": "Krakow market square shooting leaves six dead including Briton",
+   "summary": "A 25-year-old Polish citizen opened fire in Krakow's main square, killing six people and injuring 16. Authorities stated the suspect held far-right views, and three additional bodies were later found at his home.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Six people killed in Krakow market square shooting",
+    "A British national among the victims",
+    "Suspect held ultra-nationalistic views, minister says"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Krakow",
+    "#Poland",
+    "#WorldNews"
+   ],
+   "sources": [
+    "BBC",
+    "Newsweek",
+    "The Guardian",
+    "The Independent"
+   ],
+   "link": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+   "links": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/europe/krakow-shooting-poland-live-updates-main-square-b3081004.html"
+    ],
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/europe/krakow-shooting-poland-gunman-news-b3081022.html"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Krakow, Poland"
+   },
+   "img_post": {
+    "headline": "Krakow market square shooting leaves six dead including Briton",
+    "people": [],
+    "image_query": "Krakow market square",
+    "image_style": "incident",
+    "location": "Krakow, Poland"
+   },
+   "created_at": "2026-11-08T09:15:29.565969+00:00",
+   "news_time": "2026-11-08T07:11:32+00:00",
+   "news_latest": "2026-11-08T09:09:35+00:00",
+   "caption": "🚨 BREAKING: Krakow market square shooting leaves six dead including Briton\n\nA 25-year-old Polish citizen opened fire in Krakow's main square, killing six people and injuring 16. Authorities stated the suspect held far-right views, and three additional bodies were later found at his home.\n\nWhat we know so far:\n• Six people killed in Krakow market square shooting\n• A British national among the victims\n• Suspect held ultra-nationalistic views, minister says\n\n📖 Read more: https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman\n\n#Krakow #Poland #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 60,
+   "tg_file_id": "AgACAgUAAxkDAAM8avA9s-SeXDQ8xSDDe5UoWe9WwVoAApUUaxv_D4FXoYaFkBtWGGQBAAMCAAN3AAM9BA"
+  },
+  "b73ea00dd8": {
+   "id": "b73ea00dd8",
+   "headline": "Israel president picks Gadi Eisenkot to form new government",
+   "summary": "Following a deadlocked election, Israel's president has picked Benjamin Netanyahu's rival, Gadi Eisenkot, to form a government. A candidate tasked with this job has 28 days, which can be extended by a maximum of 14 days.",
+   "label": "ELECTIONS",
+   "hook": "",
+   "key_points": [
+    "President picks Gadi Eisenkot to form government",
+    "Candidate has 28 days to carry out the job",
+    "Extension of up to 14 days is possible"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Israel",
+    "#GadiEisenkot",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "Euronews",
+    "The Independent"
+   ],
+   "link": "https://www.euronews.com/2026/11/08/netanyahu-rival-eisenkot-to-be-tasked-with-forming-new-government-following-israeli-electi",
+   "links": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/08/netanyahu-rival-eisenkot-to-be-tasked-with-forming-new-government-following-israeli-electi"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/8/the-anti-netanyahu-can-gadi-eisenkot-give-the-world-a-different-israel?traffic_source=rss"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/middle-east/israel-election-gadi-eisenkot-netanyahu-b3081156.html"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Gadi_Eizenkot._I.jpg/1280px-Gadi_Eizenkot._I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "IDF Spokesperson's Unit photographer / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Israel president picks Gadi Eisenkot to form new government",
+    "people": [
+     "Gadi Eisenkot"
+    ],
+    "image_query": "Israeli government building",
+    "image_style": "person",
+    "location": "Israel"
+   },
+   "created_at": "2026-11-08T09:15:33.274492+00:00",
+   "news_time": "2026-11-08T08:47:03+00:00",
+   "news_latest": "2026-11-08T08:51:38+00:00",
+   "caption": "🚨 BREAKING: Israel president picks Gadi Eisenkot to form new government\n\nFollowing a deadlocked election, Israel's president has picked Benjamin Netanyahu's rival, Gadi Eisenkot, to form a government. A candidate tasked with this job has 28 days, which can be extended by a maximum of 14 days.\n\nWhat we know so far:\n• President picks Gadi Eisenkot to form government\n• Candidate has 28 days to carry out the job\n• Extension of up to 14 days is possible\n\n📖 Read more: https://www.euronews.com/2026/11/08/netanyahu-rival-eisenkot-to-be-tasked-with-forming-new-government-following-israeli-electi\n\n#Israel #GadiEisenkot #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 61,
+   "tg_file_id": "AgACAgUAAxkDAAM9avA9t-dUf-MMFp7vP1Md86Ay-pEAApYUaxv_D4FXEN7_3R1z9CwBAAMCAAN3AAM9BA"
+  },
+  "00485656fa": {
+   "id": "00485656fa",
+   "headline": "Thirty-three killed in Saudi air strike near Sanaa",
+   "summary": "Thirty-three people were reported killed in a coalition air attack on a village near Sanaa. Meanwhile, Saudi Arabia intercepted Houthi missiles targeting Riyadh and the Eastern province.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Saudi air strike kills 33 people near Sanaa",
+    "Missiles targeting Riyadh and Eastern province intercepted",
+    "Coalition leads fighting against the Houthis in Yemen"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Yemen",
+    "#SaudiArabia",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "BBC",
+    "The Independent"
+   ],
+   "link": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/middle-east/saudi-airstrikes-sanaa-yemen-deaths-houthis-b3081138.html"
+    ],
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Sanaa, Yemen"
+   },
+   "img_post": {
+    "headline": "Thirty-three killed in Saudi air strike near Sanaa",
+    "people": [],
+    "image_query": "Sanaa cityscape",
+    "image_style": "incident",
+    "location": "Sanaa, Yemen"
+   },
+   "created_at": "2026-11-08T09:15:36.967672+00:00",
+   "news_time": "2026-11-08T04:03:12+00:00",
+   "news_latest": "2026-11-08T07:40:07+00:00",
+   "caption": "Thirty-three killed in Saudi air strike near Sanaa\n\nThirty-three people were reported killed in a coalition air attack on a village near Sanaa. Meanwhile, Saudi Arabia intercepted Houthi missiles targeting Riyadh and the Eastern province.\n\n📖 Read more: https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss\n\n#Yemen #SaudiArabia #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 62,
+   "tg_file_id": "AgACAgUAAxkDAAM-avA9vEuXHiuaUdRkp4Mxk43IbgwAApcUaxv_D4FXNJ1or8WuAAEIAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -1642,7 +1825,19 @@
   "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss",
   "https://www.cbsnews.com/news/trump-offers-white-house-press-secretary-role-dana-white/",
   "https://www.newsweek.com/krakow-shooting-suspect-what-we-know-as-more-victims-discovered-12683092",
-  "https://www.independent.co.uk/news/world/europe/krakow-shooting-poland-suspect-new-identity-b3081096.html"
+  "https://www.independent.co.uk/news/world/europe/krakow-shooting-poland-suspect-new-identity-b3081096.html",
+  "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+  "https://www.independent.co.uk/news/world/europe/krakow-shooting-poland-live-updates-main-square-b3081004.html",
+  "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+  "https://www.independent.co.uk/news/world/europe/krakow-shooting-poland-gunman-news-b3081022.html",
+  "https://www.newsweek.com/krakow-shooting-suspect-what-we-know-as-more-victims-discovered-12683092",
+  "https://www.independent.co.uk/news/world/europe/krakow-shooting-poland-suspect-new-identity-b3081096.html",
+  "https://www.euronews.com/2026/11/08/netanyahu-rival-eisenkot-to-be-tasked-with-forming-new-government-following-israeli-electi",
+  "https://www.aljazeera.com/news/2026/11/8/the-anti-netanyahu-can-gadi-eisenkot-give-the-world-a-different-israel?traffic_source=rss",
+  "https://www.independent.co.uk/news/world/middle-east/israel-election-gadi-eisenkot-netanyahu-b3081156.html",
+  "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
+  "https://www.independent.co.uk/news/world/middle-east/saudi-airstrikes-sanaa-yemen-deaths-houthis-b3081138.html",
+  "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
  ],
  "recent_topics": [
   [
@@ -2124,9 +2319,97 @@
     "suspect",
     "victim"
    ]
+  ],
+  [
+   "2026-11-08T09:15:31.844111+00:00",
+   [
+    "act",
+    "among",
+    "attack",
+    "british",
+    "briton",
+    "continu",
+    "dead",
+    "discover",
+    "far",
+    "far-right",
+    "fir",
+    "gun",
+    "gunman",
+    "horrific",
+    "ideology",
+    "influenc",
+    "investigation",
+    "kill",
+    "know",
+    "krak",
+    "krakow",
+    "market",
+    "mass",
+    "national",
+    "open",
+    "polish",
+    "shoot",
+    "six",
+    "spot",
+    "squar",
+    "suspect",
+    "terror",
+    "tourist",
+    "victim"
+   ],
+   "f50d287e94"
+  ],
+  [
+   "2026-11-08T09:15:35.860760+00:00",
+   [
+    "anti-netanyahu",
+    "can",
+    "different",
+    "eisenkot",
+    "election",
+    "follow",
+    "form",
+    "gadi",
+    "giv",
+    "government",
+    "israel",
+    "israeli",
+    "netanyahu",
+    "pick",
+    "president",
+    "rival",
+    "task",
+    "world"
+   ],
+   "b73ea00dd8"
+  ],
+  [
+   "2026-11-08T09:15:40.700139+00:00",
+   [
+    "33",
+    "airstrik",
+    "arabia",
+    "capital",
+    "eastern",
+    "hom",
+    "houthi",
+    "intercept",
+    "kill",
+    "least",
+    "missil",
+    "near",
+    "peopl",
+    "provinc",
+    "riyadh",
+    "saudi",
+    "target",
+    "yemen"
+   ],
+   "00485656fa"
   ]
  ],
- "last_draft_at": "2026-11-08T09:01:45.417246+00:00",
+ "last_draft_at": "2026-11-08T09:15:20.393246+00:00",
  "last_slot": null,
  "commands_set": 5,
  "log_channel": -1004367532135,
