@@ -15,8 +15,8 @@ WHITE = (255, 255, 255)
 SOFT = (205, 205, 210)     # small grey text
 
 # ---------- How many posts ----------
-DRAFTS_PER_RUN = 4           # new posts sent to Telegram each time it looks for news
-DRAFT_EVERY_MINUTES = 120    # how often it looks for news (120 = every 2 hours)
+DRAFTS_PER_RUN = 3           # new posts sent to Telegram each time it looks for news
+DRAFT_EVERY_MINUTES = 60     # how often it looks for news (60 = every hour)
 
 # Posting times for the 🕒 Queue button (New York time). One queued post per slot.
 SLOT_TIMEZONE = "America/New_York"
@@ -24,7 +24,8 @@ POST_SLOTS = ["07:00", "09:30", "12:00", "15:00", "18:00", "20:30"]
 
 # ---------- What news to pick ----------
 MIN_SOURCES = 2              # a story must be reported by at least this many different outlets
-MAX_AGE_HOURS = 12           # ignore articles older than this
+MAX_AGE_HOURS = 6            # ignore articles older than this
+FRESH_HOURS = 3              # the newest report of a story must be within this many hours
 BREAKING_MAX_HOURS = 3       # "BREAKING" only if first reported within this time
 
 # Main focus: stories containing any of these words get priority.
@@ -61,9 +62,15 @@ SKIP_TITLE_WORDS = [
 # ---------- Caption ----------
 SHOW_READ_MORE_LINK = True   # include the original article link in the Facebook caption
 
+# Question at the end of the post (to get comments):
+#   "always"    = every post
+#   "sometimes" = only when the story is a real debate, never on deaths/attacks/tragedies (recommended)
+#   "never"     = no questions
+ASK_QUESTION = "sometimes"
+
 # ---------- Expiry ----------
-PENDING_EXPIRE_HOURS = 24    # unanswered posts are removed after this
-QUEUE_EXPIRE_HOURS = 24      # queued posts not published by then are removed
+PENDING_EXPIRE_HOURS = 8     # unanswered posts are removed after this
+QUEUE_EXPIRE_HOURS = 12      # queued posts not published by then are removed
 
 # ---------- News sources (RSS) ----------
 FEEDS = {

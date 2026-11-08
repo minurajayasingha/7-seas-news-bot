@@ -201,11 +201,12 @@ def news_time_text(d):
     if not d.get("news_time"):
         return ""
     first = datetime.fromisoformat(d["news_time"])
-    txt = f"🕐 <b>News time:</b> {lk_time(first)} Sri Lanka ({ago_text(first)})"
-    if d.get("news_latest"):
-        last = datetime.fromisoformat(d["news_latest"])
-        if (last - first) >= timedelta(minutes=20):
-            txt += f"\n🔄 Latest update: {lk_time(last)} Sri Lanka ({ago_text(last)})"
+    last = datetime.fromisoformat(d["news_latest"]) if d.get("news_latest") else first
+    hours = (now_utc() - last).total_seconds() / 3600
+    dot = "🟢" if hours < 1 else ("🟡" if hours <= 3 else "🔴")
+    txt = f"{dot} <b>Latest:</b> {lk_time(last)} Sri Lanka ({ago_text(last)})"
+    if lk_time(first) != lk_time(last):
+        txt += f" · first reported {lk_time(first)}"
     return txt
 
 
@@ -357,7 +358,7 @@ def handle_manual(state, msg):
             "summary": my_text or str(post["summary"]).strip(),
             "label": str(post.get("label") or "WORLD").upper()[:18],
             "hashtags": [str(t) for t in (post.get("hashtags") or [])][:3],
-            "hook": str(post.get("hook") or "").strip(),
+            "hook": clean_hook(dict(post, breaking=breaking or post.get("breaking"))),
             "key_points": [str(k).strip() for k in (post.get("key_points") or []) if str(k).strip()][:3],
             "breaking": breaking or bool(post.get("breaking")),
             "sources": [art["site"]], "link": url, "links": [[art["site"], url]],
@@ -769,12 +770,18 @@ def pick_stories(state, items):
         if any(len(c["title_kw"] & r) >= 4 for r in recent):
             continue  # same topic posted recently
         newest = max(i["published"] for i in c["items"])
-        hours_old = (now - newest).total_seconds() / 3600
+        first = min(i["published"] for i in c["items"])
+        hours_since_newest = (now - newest).total_seconds() / 3600
+        if hours_since_newest > FRESH_HOURS:
+            continue  # nobody has reported on it recently: old news
         text = " ".join(f"{i['title']} {i['summary']}" for i in c["items"])
         is_us, is_war = has_any(text, US_WORDS), has_any(text, WAR_WORDS)
         if FOCUS_ONLY and not (is_us or is_war) and len(sources) < OTHER_NEWS_MIN_SOURCES:
             continue  # not our focus and not huge news
-        c["score"] = len(sources) * 10 + (8 if is_us else 0) + (6 if is_war else 0) - hours_old
+        # Fresh news wins: a new 2-source story beats an old 5-source one.
+        c["score"] = (min(len(sources), 5) * 6 + (8 if is_us else 0) + (6 if is_war else 0)
+                      - 8 * hours_since_newest + (15 if hours_since_newest < 1 else 0))
+        c["first"], c["newest"] = first, newest
         c["sources"] = sorted(sources)
         good.append(c)
     good.sort(key=lambda c: c["score"], reverse=True)
@@ -803,7 +810,10 @@ Write a Facebook news post about this story. Strict rules:
 Return ONLY JSON with these keys:
 "headline": 6 to 12 words. Catchy and 100% factual: the most striking fact first, strong verb, names/numbers from the reports. A colon is allowed for impact (e.g. "Pope Leo lands in Uruguay: first stop of South America tour"). No question headlines, no "you won't believe", no ALL-CAPS words (except abbreviations like US, UN), no emojis, no ending period.
 "summary": 2 or 3 short sentences (max 60 words) saying what happened and why it matters.
-"hook": ONE short, neutral question that invites readers to share their view in the comments, without taking any side (e.g. "Will these talks bring a ceasefire closer? Tell us what you think 👇").
+"hook": ONE short, specific question about THIS story that people would genuinely want to answer, without taking any side. Mention the actual decision, person or place, not generic.
+  Good: "Should Congress be able to block tariffs like these?", "Can these talks in Abu Dhabi end the fighting?"
+  Bad (never use): "What are your thoughts?", "Let us know in the comments", "Comment below", "Share this", "Tag a friend", "Like if you agree".
+  Return "" if the story involves deaths, victims, injuries, an attack, a disaster or a tragedy, or if there is no real question people would debate.
 "breaking": true ONLY if this is a sudden, major event that has just happened or just been announced (attack, disaster, death or resignation of a leader, coup, declaration of war, final election result, major surprise announcement). Otherwise false.
 "key_points": a list of 2 or 3 very short facts from the reports (max 12 words each) that add context. Used for breaking news.
 "image_style": "incident" if the story is about violence or a disaster (shooting, bombing, explosion, attack, airstrike, crash, fire, earthquake, flood); otherwise "person" if it is mainly about what a person said or did; otherwise "scene" (a visit, tour, summit, protest, vote, policy).
@@ -1344,6 +1354,22 @@ def needs_credit(p):
     return "cc by" in c or "cc-by" in c
 
 
+GENERIC_HOOK_WORDS = ["thoughts", "let us know", "comment below", "in the comments", "share this",
+                      "tag a friend", "like if", "share if", "what do you think"]
+
+
+def clean_hook(post):
+    """The comment question, or "" when we should not ask one (see ASK_QUESTION in settings)."""
+    hook = str(post.get("hook") or "").replace("👇", "").replace("💬", "").strip()
+    if ASK_QUESTION == "never" or not hook:
+        return ""
+    if ASK_QUESTION == "sometimes" and (
+            post.get("image_style") == "incident" or post.get("breaking")
+            or any(w in hook.lower() for w in GENERIC_HOOK_WORDS)):
+        return ""
+    return hook
+
+
 def build_caption(d):
     tags = " ".join("#" + re.sub(r"[^A-Za-z0-9_]", "", t) for t in d.get("hashtags", [])[:3]
                     if re.sub(r"[^A-Za-z0-9_]", "", t))
@@ -1351,8 +1377,8 @@ def build_caption(d):
     lines = [head] + (["", d["summary"]] if d.get("summary") else [])
     if d.get("breaking") and d.get("key_points"):
         lines += ["", "What we know so far:"] + [f"• {k}" for k in d["key_points"][:3]]
-    if d.get("hook"):
-        lines += ["", d["hook"]]
+    if d.get("hook") and ASK_QUESTION != "never":
+        lines += ["", "💬 " + d["hook"]]
     # sources + photo credit are printed small on the image itself
     if SHOW_READ_MORE_LINK and d.get("link"):
         lines += ["", f"📖 Read more: {d['link']}"]
@@ -1418,7 +1444,7 @@ def draft_new_posts(state):
             "headline": str(post["headline"]).strip().rstrip("."),
             "summary": str(post["summary"]).strip(),
             "label": str(post.get("label") or "WORLD").upper()[:18],
-            "hook": str(post.get("hook") or "").strip(),
+            "hook": clean_hook(post),
             "key_points": [str(k).strip() for k in (post.get("key_points") or []) if str(k).strip()][:3],
             "breaking": bool(post.get("breaking")) and
                         (now_utc() - min(i["published"] for i in c["items"])) <= timedelta(hours=BREAKING_MAX_HOURS),
@@ -1443,8 +1469,12 @@ def draft_new_posts(state):
 def expire_pending(state):
     now = now_utc()
     for d in state["drafts"].values():
-        if d["status"] == "pending" and \
-                now - datetime.fromisoformat(d["created_at"]) > timedelta(hours=PENDING_EXPIRE_HOURS):
+        if d["status"] != "pending":
+            continue
+        news_t = d.get("news_latest") or d.get("news_time")
+        too_old = now - datetime.fromisoformat(d["created_at"]) > timedelta(hours=PENDING_EXPIRE_HOURS)
+        news_old = bool(news_t) and now - datetime.fromisoformat(news_t) > timedelta(hours=PENDING_EXPIRE_HOURS)
+        if too_old or news_old:
             d["status"] = "expired"
             tg_clear(d)
 
