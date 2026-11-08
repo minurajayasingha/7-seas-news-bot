@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892694,
+ "tg_offset": 495892696,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -3247,17 +3247,13 @@
    "fcef0533ef"
   ]
  ],
- "last_draft_at": "2026-11-08T12:30:25.690069+00:00",
+ "last_draft_at": "2026-11-08T12:47:26.341207+00:00",
  "last_slot": "2026-11-08T07:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-08T12:15:18.536739+00:00",
  "run_log": [
-  "11-08 10:15:17 run start",
-  "11-08 10:15:28 listening 11 min",
-  "11-08 10:26:45 listening done",
-  "11-08 10:26:45 run end after 688 s",
   "11-08 10:30:23 run start",
   "11-08 10:30:39 listening 11 min",
   "11-08 10:42:10 listening done",
@@ -3293,7 +3289,11 @@
   "11-08 12:30:25 run start",
   "11-08 12:30:34 listening 11 min",
   "11-08 12:41:53 listening done",
-  "11-08 12:41:53 run end after 688 s"
+  "11-08 12:41:53 run end after 688 s",
+  "11-08 12:45:21 run start",
+  "11-08 12:45:31 listening 11 min",
+  "11-08 12:57:02 listening done",
+  "11-08 12:57:02 run end after 700 s"
  ],
  "day_pack_done": "2026-11-07"
 }
