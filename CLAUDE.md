@@ -45,6 +45,8 @@ optional PIXABAY_API_KEY / PEXELS_API_KEY. Never print or commit secrets.
 - Shootings/bombings/disasters ("incident") → brand globe + red pin + 📍 location tag, no random photos.
 - Photo variety: each person gets a pool of ~12 free Commons photos (state["photo_memory"]["pools"], refreshed weekly);
   the last NO_REPEAT_PHOTOS used photos are avoided everywhere; PHOTO_SEARCH_FIX fixes bad place searches (White House).
+- Scene photos rotate through TOPIC_PHOTO_IDEAS (settings) + Gemini "image_queries"; ideas used lately go last.
+  "Wall Street, New York" = file name must contain "Wall Street", "New York" only helps the search. JPEG photos only.
 - Never use photos from news sites (copyright). Wikimedia Commons / Pixabay / user's own photos only.
 - Caption: headline, summary, (breaking: "What we know so far"), neutral question hook, 📖 Read more link, hashtags.
 

@@ -578,7 +578,7 @@ def handle_manual(state, msg):
         d.update({"headline": my_headline, "summary": my_text})
         bg_post = None
     if bg_post:
-        d["img_post"] = {k: bg_post.get(k) for k in ("headline", "people", "image_query", "image_style", "location")}
+        d["img_post"] = {k: bg_post.get(k) for k in ("headline", "people", "image_query", "image_queries", "image_style", "location")}
     if photo_id:
         d["bg"] = {"type": "photo", "photos": [{"tg_file_id": photo_id, "credit": ""}]}
     elif bg_post:
@@ -1247,6 +1247,7 @@ Return ONLY JSON with these keys:
 "label": exactly one of "US POLITICS", "WORLD", "CONFLICT", "DIPLOMACY", "ELECTIONS", "ECONOMY".
 "hashtags": a list of 3 relevant hashtags, e.g. ["#USPolitics", "#WorldNews", "#Congress"].
 "image_query": 2 to 4 words for a photo of the most relevant PLACE or landmark (never a person), as specific as possible, e.g. "Montevideo skyline", "US Capitol building", "Kyiv city", "United Nations Security Council". Pick the place that fits THIS story: Congress/party stories → "US Capitol dome", "Senate chamber", "House of Representatives chamber" or the state capitol/city involved; courts → "Supreme Court building"; military → "Pentagon building". Use "White House" only when the story really happens at the White House.
+"image_queries": a list of 4 OTHER, different photo ideas for this story (2 to 4 words each, places or things, never a person), e.g. for a story about Democrats in Congress: ["Senate chamber", "Capitol Hill", "Democratic National Convention", "voting booth"].
 "people": a list of 0 to 3 real people who are the MAIN subject of the story AND are named in your headline, full names exactly as written in the reports, e.g. ["Donald Trump", "Vladimir Putin"]. People who are only mentioned in the background must NOT be listed. Use [] if the headline names no person (for example a story about a country, party, vote or attack).
 "skip": true if this is about South Asia, is not hard news (opinion, sport, entertainment, live blog), or the reports describe different events. Otherwise false.
 """
@@ -1304,7 +1305,28 @@ FONT_URLS = {
     "Poppins-Medium.ttf": "https://raw.githubusercontent.com/google/fonts/main/ofl/poppins/Poppins-Medium.ttf",
 }
 
-WIKI_HEADERS = {"User-Agent": "7SeasNewsBot/1.0 (news page image bot; runs on GitHub Actions)"}
+WIKI_HEADERS = {"User-Agent": "7SeasNewsBot/1.1 (https://github.com/minurajayasingha/7-seas-news-bot) python-requests"}
+
+
+def commons_api(params, timeout=30):
+    """Ask Wikimedia Commons. If it says 'slow down' (not JSON / 429), wait and try again."""
+    for wait in (0, 4, 10):
+        time.sleep(wait)
+        try:
+            r = HTTP.get("https://commons.wikimedia.org/w/api.php", headers=WIKI_HEADERS,
+                         timeout=timeout, params=dict(params, format="json", maxlag=5))
+            if r.status_code == 200 and r.text.lstrip().startswith("{"):
+                return r.json()
+            log("Wikimedia busy:", r.status_code)
+        except Exception as e:
+            log("Wikimedia error:", e)
+    return {}
+
+
+def has_words(text, phrase):
+    """True if all words of phrase are in text as whole words ('pentagon' is not 'pentagonal')."""
+    words = [w for w in phrase.split() if len(w) > 1]
+    return bool(words) and all(re.search(r"(?<![a-z0-9])" + re.escape(w) + r"(?![a-z0-9])", text) for w in words)
 FREE_LICENSES = ("public domain", "pd", "cc0", "cc by", "cc-by")
 
 
@@ -1339,10 +1361,10 @@ def wiki_main_photo(name):
         fname = page.get("pageimage")
         if not fname:
             return None
-        r = HTTP.get("https://commons.wikimedia.org/w/api.php", headers=WIKI_HEADERS, timeout=20, params={
+        data = commons_api({
             "action": "query", "titles": "File:" + fname, "prop": "imageinfo",
-            "iiprop": "url|extmetadata", "iiurlwidth": 1200, "format": "json"})
-        page = next(iter(r.json()["query"]["pages"].values()))
+            "iiprop": "url|extmetadata", "iiurlwidth": 1200}, timeout=20)
+        page = next(iter(data["query"]["pages"].values()))
         if "imageinfo" not in page:
             return None  # not on Commons = not a free image
         info = page["imageinfo"][0]
@@ -1379,16 +1401,11 @@ def remember_photos(urls):
 
 def commons_person_photos(name, limit):
     """More free photos of a person from Wikimedia Commons (file name must contain the name)."""
-    try:
-        r = HTTP.get("https://commons.wikimedia.org/w/api.php", headers=WIKI_HEADERS, timeout=30, params={
-            "action": "query", "generator": "search", "gsrnamespace": 6,
-            "gsrsearch": f'intitle:"{name}" filetype:bitmap', "gsrlimit": 40,
-            "prop": "imageinfo", "iiprop": "url|size|extmetadata|mime",
-            "iiurlwidth": 1200, "format": "json"})
-        pages = sorted(r.json().get("query", {}).get("pages", {}).values(), key=lambda p: p.get("index", 99))
-    except Exception as e:
-        log("Commons person search failed:", name, e)
-        return []
+    data = commons_api({
+        "action": "query", "generator": "search", "gsrnamespace": 6,
+        "gsrsearch": f'intitle:"{name}" filetype:bitmap', "gsrlimit": 40,
+        "prop": "imageinfo", "iiprop": "url|size|extmetadata|mime", "iiurlwidth": 1200})
+    pages = sorted(data.get("query", {}).get("pages", {}).values(), key=lambda p: p.get("index", 99))
     cands = []
     last = name.lower().split()[-1]
     for page in pages:
@@ -1536,30 +1553,27 @@ def wiki_search_photo(query, exclude=()):
     if not query:
         return None
     cands, seen = [], set()
-    search, banned, must = query, [], plain(query).lower()
-    for k, (better, bad) in PHOTO_SEARCH_FIX.items():
-        if k in plain(query).lower():
-            search, banned, must = better, bad, k
-            break
+    # "Wall Street, New York": the photo name must have "Wall Street"; "New York" only helps the search
+    must = re.sub(r"[^a-z0-9]+", " ", plain(query.split(",")[0]).lower()).strip()
+    search, banned = query.replace(",", " "), []
+    core = re.sub(r"^(the|us|u s) |\b(building|washington|dc)\b", " ", must)
+    core = re.sub(r"\s+", " ", re.sub(r"^(the|us|u s) ", "", core.strip())).strip()
+    if core in PHOTO_SEARCH_FIX:                        # only for exactly "White House" / "US Capitol (building)"
+        search, banned = PHOTO_SEARCH_FIX[core]
+        must = core
     rec = recent_photos()
     for bonus, q in ((25, f"{search} incategory:Quality_images"), (0, search)):
-        try:
-            r = HTTP.get("https://commons.wikimedia.org/w/api.php", headers=WIKI_HEADERS, timeout=30, params={
-                "action": "query", "generator": "search", "gsrnamespace": 6,
-                "gsrsearch": f"{q} filetype:bitmap filew:>1500", "gsrlimit": 15,
-                "prop": "imageinfo", "iiprop": "url|size|extmetadata|mime",
-                "iiurlwidth": 1600, "format": "json"})
-            pages = sorted(r.json().get("query", {}).get("pages", {}).values(),
-                           key=lambda p: p.get("index", 99))
-        except Exception as e:
-            log("Wikimedia search failed:", e)
-            continue
+        data = commons_api({
+            "action": "query", "generator": "search", "gsrnamespace": 6,
+            "gsrsearch": f"{q} filetype:bitmap filew:>1500", "gsrlimit": 15,
+            "prop": "imageinfo", "iiprop": "url|size|extmetadata|mime", "iiurlwidth": 1600})
+        pages = sorted(data.get("query", {}).get("pages", {}).values(), key=lambda p: p.get("index", 99))
         for rank, page in enumerate(pages):
             info = (page.get("imageinfo") or [{}])[0]
             url = info.get("thumburl") or info.get("url")
             if not url or url in exclude or url in seen:
                 continue
-            if info.get("mime") not in ("image/jpeg", "image/png") or info.get("width", 0) < 1200:
+            if info.get("mime") != "image/jpeg" or info.get("width", 0) < 1200:   # real photos only (PNG = maps/graphics)
                 continue
             meta = info.get("extmetadata", {})
             lic = clean_html(meta.get("LicenseShortName", {}).get("value", ""))
@@ -1568,7 +1582,9 @@ def wiki_search_photo(query, exclude=()):
             title = page.get("title", "").lower()
             if re.search(r"(?<!\d)(1[0-8]\d\d|19[0-8]\d)(?!\d)", title) or any(
                     w in title for w in ("old ", "historic", "postcard", "vintage", "engraving", "painting",
-                                         "drawing", "map", "lithograph", "sepia", "diagram", "logo", "flag of")):
+                                         "drawing", "map", "lithograph", "sepia", "diagram", "logo", "flag of",
+                                         " sign", "sign.", "closure", "chart", "graph", "screenshot", "poster",
+                                         "obama", "biden", "bush", "clinton", "reagan", "speech by", "meeting with")):
                 continue
             yr = re.search(r"(1[89]\d\d|20\d\d)", clean_html(meta.get("DateTimeOriginal", {}).get("value", "")))
             year = int(yr.group(1)) if yr else 0
@@ -1576,9 +1592,8 @@ def wiki_search_photo(query, exclude=()):
                 continue
             seen.add(url)
             artist = clean_html(meta.get("Artist", {}).get("value", ""))[:60] or "Unknown author"
-            words = [w for w in must.split() if len(w) > 2]
-            t = plain(title).replace("_", " ")
-            hit = 30 if must in t or plain(search).lower() in t else (10 if all(w in t for w in words) else 0)
+            t = " " + re.sub(r"[^a-z0-9]+", " ", plain(title).lower()) + " "
+            hit = 30 if f" {must} " in t else (10 if has_words(t, must) else 0)
             if not hit or any(b in t for b in banned):
                 continue                                # the place must be in the file name
             score = bonus + hit + (10 if year >= 2015 else 0) + max(0, 12 - rank) - (60 if url in rec else 0) \
@@ -1619,6 +1634,20 @@ def choose_background(post, exclude=(), prefer_scene=False):
     return bg
 
 
+def photo_ideas(post):
+    """Different photo ideas for this story, in a fresh random order (ideas used lately go last)."""
+    text = " " + plain(" ".join(str(post.get(k) or "") for k in ("headline", "image_query", "label"))).lower() + " "
+    ideas = [str(q).strip() for q in (post.get("image_queries") or []) if str(q).strip()]
+    for words, extra in TOPIC_PHOTO_IDEAS.items():
+        if any(re.search(r"(?<![a-z])" + re.escape(w), text) for w in words):
+            ideas += extra
+    first = str(post.get("image_query") or "").strip()
+    ideas = list(dict.fromkeys([first] + ideas if first else ideas))   # no doubles
+    random.shuffle(ideas)
+    recent = PHOTO_MEM.get("recent_ideas", [])
+    return sorted(ideas, key=lambda q: q.lower() in recent)   # fresh ideas first
+
+
 def _choose_background(post, exclude=(), prefer_scene=False):
     """1) photos of the people in the story  2) best matching photo  3) brand design.
     prefer_scene=True is used by the 🔄 Other photo button."""
@@ -1630,11 +1659,13 @@ def _choose_background(post, exclude=(), prefer_scene=False):
 
     scene = None
     if prefer_scene or post.get("image_style") == "scene" or not found:
-        for q in [post.get("image_query", ""), post.get("location", "")]:
-            q = str(q or "").strip()
+        tries = photo_ideas(post)[:4]
+        tries += [str(post.get(k) or "").strip() for k in ("image_query", "location")]
+        for q in dict.fromkeys(tries):
             if q:
                 scene = pexels_photo(q, exclude) or pixabay_photo(q, exclude) or wiki_search_photo(q, exclude)
             if scene:
+                PHOTO_MEM["recent_ideas"] = (PHOTO_MEM.get("recent_ideas", []) + [q.lower()])[-12:]
                 break
 
     if found and scene and len(found) == 1:
@@ -2013,7 +2044,7 @@ def draft_new_posts(state):
             "link": c["items"][0]["link"],
             "links": [[i["source"], i["link"]] for i in c["items"][:4]],
             "bg": choose_background(post),
-            "img_post": {k: post.get(k) for k in ("headline", "people", "image_query", "image_style", "location")},
+            "img_post": {k: post.get(k) for k in ("headline", "people", "image_query", "image_queries", "image_style", "location")},
             "created_at": now_utc().isoformat(),
             "news_time": min(i["published"] for i in c["items"]).isoformat(),
             "news_latest": max(i["published"] for i in c["items"]).isoformat(),

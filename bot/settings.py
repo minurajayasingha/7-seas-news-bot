@@ -87,6 +87,59 @@ PHOTO_SEARCH_FIX = {
     "capitol": ("United States Capitol", ["state capitol", "texas", "havana"]),
 }
 
+# Photo ideas per topic. If a headline has one of the words on the left, the bot rotates through
+# these photo ideas (plus the AI's own ideas), so stories about the same topic look different.
+# Add or change ideas freely: 2-4 words each, a place or a thing (never a person).
+TOPIC_PHOTO_IDEAS = {
+    ("democrat", "dnc", "schumer", "jeffries"): [
+        "Democratic National Convention", "US Capitol dome", "Senate chamber, United States Capitol",
+        "House chamber, United States Capitol", "Capitol Hill", "United States Capitol rotunda",
+        "Capitol at night", "National Mall, Washington", "voting booth, United States", "Library of Congress",
+        "campaign rally, United States"],
+    ("republican", "gop", "rnc", "maga"): [
+        "Republican National Convention", "US Capitol dome", "Senate chamber, United States Capitol",
+        "House chamber, United States Capitol", "Capitol Hill", "United States Capitol rotunda",
+        "Capitol at night", "National Mall, Washington", "voting booth, United States", "Library of Congress",
+        "campaign rally, United States"],
+    ("congress", "senate", "senator", "lawmaker", "shutdown", "speaker"): [
+        "US Capitol dome", "Senate chamber, United States Capitol", "House chamber, United States Capitol",
+        "Capitol Hill", "United States Capitol rotunda", "Capitol at night", "Russell Senate Office Building",
+        "Library of Congress", "US Capitol west front", "Capitol Reflecting Pool"],
+    ("election", "voter", "ballot", "midterm", "primaries"): [
+        "voting booth, United States", "ballot box, United States", "polling place, United States",
+        "early voting, United States", "I voted sticker", "vote counting, United States",
+        "campaign rally, United States", "US Capitol dome", "absentee ballot"],
+    ("supreme court", "judge", "justices", "ruling", "lawsuit", "indicted", "indictment"): [
+        "Supreme Court of the United States", "Supreme Court building, Washington", "Robert F. Kennedy Department of Justice Building",
+        "E. Barrett Prettyman United States Courthouse", "federal courthouse, United States",
+        "Supreme Court, Washington DC", "Thurgood Marshall Federal Judiciary Building"],
+    ("tariff", "trade war", "economy", "inflation", "stock market", "wall street", "federal reserve", "prices"): [
+        "Port of Long Beach", "Port of Los Angeles", "container ship", "shipping containers, port",
+        "New York Stock Exchange", "Wall Street, New York", "Marriner S. Eccles Federal Reserve Board Building",
+        "Treasury Building, Washington", "factory assembly line", "Port of Savannah"],
+    ("immigra", "migrant", "border", "deport", "asylum"): [
+        "Mexico-United States border", "border wall, Mexico United States", "San Ysidro Port of Entry",
+        "Statue of Liberty", "Ellis Island", "Rio Grande, Texas", "border patrol, Texas", "US Customs and Border Protection"],
+    ("pentagon", "military", "troops", "hegseth", "air strike", "airstrike", "navy"): [
+        "Pentagon, Arlington", "aircraft carrier, United States Navy", "destroyer, United States Navy",
+        "Arlington National Cemetery", "F-35 Lightning", "USS Gerald R. Ford", "US Army soldiers", "Fort Bragg"],
+    ("white house", "oval office", "executive order"): [
+        "White House, Washington", "Oval Office", "Air Force One", "Marine One",
+        "Eisenhower Executive Office Building", "White House south lawn", "White House north portico",
+        "Lafayette Square, Washington", "Pennsylvania Avenue, Washington"],
+    ("ukrain", "kyiv", "zelensk", "putin", "kremlin", "moscow"): [
+        "Kyiv", "Moscow Kremlin", "Red Square, Moscow", "Maidan Nezalezhnosti", "Saint Sophia Cathedral, Kyiv",
+        "Verkhovna Rada", "Kharkiv", "Saint Basil's Cathedral", "Mother Ukraine", "Odesa"],
+    ("israel", "gaza", "hamas", "netanyahu", "jerusalem", "west bank", "hezbollah"): [
+        "Jerusalem", "Tel Aviv skyline", "Knesset", "Gaza City", "Western Wall", "Dome of the Rock",
+        "Gaza Strip", "Haifa", "Old City, Jerusalem", "Tower of David"],
+    ("iran", "tehran", "khamenei"): [
+        "Tehran", "Azadi Tower", "Milad Tower", "Tehran skyline", "Isfahan", "Naqsh-e Jahan Square"],
+    ("united nations", "nato", "g7", "g20", "security council"): [
+        "United Nations Headquarters, New York", "United Nations Security Council",
+        "United Nations General Assembly Hall", "NATO headquarters, Brussels", "Palais des Nations, Geneva"],
+}
+
 # ---------- Expiry ----------
 PENDING_EXPIRE_HOURS = 8     # unanswered posts are removed after this
 QUEUE_EXPIRE_HOURS = 12      # a queued post is removed (and you are told) when its NEWS is older than this.
