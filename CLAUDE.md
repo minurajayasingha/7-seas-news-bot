@@ -43,6 +43,8 @@ optional PIXABAY_API_KEY / PEXELS_API_KEY. Never print or commit secrets.
 - People photos only for people named in the headline (Wikipedia page image, free licence only), up to 3,
   blended side by side (no divider lines). One person + place story → place photo + person in a circle.
 - Shootings/bombings/disasters ("incident") → brand globe + red pin + 📍 location tag, no random photos.
+- Photo variety: each person gets a pool of ~12 free Commons photos (state["photo_memory"]["pools"], refreshed weekly);
+  the last NO_REPEAT_PHOTOS used photos are avoided everywhere; PHOTO_SEARCH_FIX fixes bad place searches (White House).
 - Never use photos from news sites (copyright). Wikimedia Commons / Pixabay / user's own photos only.
 - Caption: headline, summary, (breaking: "What we know so far"), neutral question hook, 📖 Read more link, hashtags.
 

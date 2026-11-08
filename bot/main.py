@@ -1246,7 +1246,7 @@ Return ONLY JSON with these keys:
 "location": where it happened, "City, Country" (or just "Country"/"US State"), e.g. "Krakow, Poland". Empty string if unclear.
 "label": exactly one of "US POLITICS", "WORLD", "CONFLICT", "DIPLOMACY", "ELECTIONS", "ECONOMY".
 "hashtags": a list of 3 relevant hashtags, e.g. ["#USPolitics", "#WorldNews", "#Congress"].
-"image_query": 2 to 4 words for a photo of the most relevant PLACE or landmark (never a person), as specific as possible, e.g. "Montevideo skyline", "US Capitol building", "Kyiv city", "United Nations Security Council".
+"image_query": 2 to 4 words for a photo of the most relevant PLACE or landmark (never a person), as specific as possible, e.g. "Montevideo skyline", "US Capitol building", "Kyiv city", "United Nations Security Council". Pick the place that fits THIS story: Congress/party stories → "US Capitol dome", "Senate chamber", "House of Representatives chamber" or the state capitol/city involved; courts → "Supreme Court building"; military → "Pentagon building". Use "White House" only when the story really happens at the White House.
 "people": a list of 0 to 3 real people who are the MAIN subject of the story AND are named in your headline, full names exactly as written in the reports, e.g. ["Donald Trump", "Vladimir Putin"]. People who are only mentioned in the background must NOT be listed. Use [] if the headline names no person (for example a story about a country, party, vote or attack).
 "skip": true if this is about South Asia, is not hard news (opinion, sport, entertainment, live blog), or the reports describe different events. Otherwise false.
 """
@@ -1329,7 +1329,7 @@ def font(name, size):
 
 # ---------- where background photos come from ----------
 
-def wiki_person_photo(name):
+def wiki_main_photo(name):
     """Main photo of a person's Wikipedia article, only if it is free to use."""
     try:
         r = HTTP.get("https://en.wikipedia.org/w/api.php", headers=WIKI_HEADERS, timeout=20, params={
@@ -1360,17 +1360,125 @@ def wiki_person_photo(name):
         return None
 
 
-def pexels_photo(query):
+# Memory of photos (pools per person + recently used photos). Points into state["photo_memory"].
+PHOTO_MEM = {}
+
+BAD_PERSON_TITLE = (" and ", " with ", " meets ", " meeting", "&", " signing", "signature", "logo", "caricature",
+                    "cartoon", "mural", "statue", "wax", "painting", "drawing", "poster", "flag", "coin", "stamp",
+                    "mask", "graffiti", "sign ", "crowd", "protest", "supporters", "tweet", "screenshot")
+
+
+def recent_photos():
+    return set(PHOTO_MEM.get("recent", []))
+
+
+def remember_photos(urls):
+    rec = [u for u in PHOTO_MEM.get("recent", []) if u not in urls] + list(urls)
+    PHOTO_MEM["recent"] = rec[-NO_REPEAT_PHOTOS:]
+
+
+def commons_person_photos(name, limit):
+    """More free photos of a person from Wikimedia Commons (file name must contain the name)."""
+    try:
+        r = HTTP.get("https://commons.wikimedia.org/w/api.php", headers=WIKI_HEADERS, timeout=30, params={
+            "action": "query", "generator": "search", "gsrnamespace": 6,
+            "gsrsearch": f'intitle:"{name}" filetype:bitmap', "gsrlimit": 40,
+            "prop": "imageinfo", "iiprop": "url|size|extmetadata|mime",
+            "iiurlwidth": 1200, "format": "json"})
+        pages = sorted(r.json().get("query", {}).get("pages", {}).values(), key=lambda p: p.get("index", 99))
+    except Exception as e:
+        log("Commons person search failed:", name, e)
+        return []
+    cands = []
+    last = name.lower().split()[-1]
+    for page in pages:
+        info = (page.get("imageinfo") or [{}])[0]
+        url = info.get("thumburl") or info.get("url")
+        title = " " + page.get("title", "").lower().replace("_", " ") + " "
+        if not url or last not in title or any(w in title for w in BAD_PERSON_TITLE):
+            continue
+        before = title.split(name.lower().split()[0])[0].strip().split()
+        if before and before[-1] in ("to", "for", "by", "from", "greets", "welcomes", "toasts", "thanks"):
+            continue                                    # someone else is the main subject
+        if info.get("mime") not in ("image/jpeg", "image/png"):
+            continue
+        w, h = info.get("width", 0), info.get("height", 0)
+        if w < 800 or h < 800 or w > h * 1.6:          # big enough, not a wide group/panorama shot
+            continue
+        meta = info.get("extmetadata", {})
+        lic = clean_html(meta.get("LicenseShortName", {}).get("value", ""))
+        if not lic.lower().startswith(FREE_LICENSES):
+            continue
+        if str(meta.get("NonFree", {}).get("value", "")).lower() == "true":
+            continue
+        yr = re.search(r"(19\d\d|20\d\d)", clean_html(meta.get("DateTimeOriginal", {}).get("value", "")) + title)
+        if yr and int(yr.group(1)) < 2012:             # recent looks only
+            continue
+        artist = clean_html(meta.get("Artist", {}).get("value", ""))[:60] or "Unknown author"
+        cands.append({"url": url, "credit": f"{artist} / Wikimedia Commons ({lic})", "short": "WIKIMEDIA COMMONS",
+                      "portrait": h >= w})
+    good = []
+    for c in cands[:limit * 2]:                         # check colours/quality, keep the good ones
+        if photo_quality(c["url"]) >= 0:
+            good.append(c)
+        if len(good) >= limit:
+            break
+    return good
+
+
+def person_photo_pool(name):
+    """A collection of ~PHOTOS_PER_PERSON free photos of a person, kept for PHOTO_POOL_DAYS."""
+    pools = PHOTO_MEM.setdefault("pools", {})
+    key = name.lower().strip()
+    p = pools.get(key)
+    if p and p.get("photos") and now_utc() - datetime.fromisoformat(p["t"]) < timedelta(days=PHOTO_POOL_DAYS):
+        return p["photos"]
+    photos = []
+    main_photo = wiki_main_photo(name)
+    if main_photo:
+        photos.append(main_photo)
+    for c in commons_person_photos(name, PHOTOS_PER_PERSON):
+        if c["url"] not in {x["url"] for x in photos}:
+            photos.append(c)
+        if len(photos) >= PHOTOS_PER_PERSON:
+            break
+    if photos:
+        pools[key] = {"t": now_utc().isoformat(), "photos": photos}
+        if len(pools) > 60:                             # forget the oldest people
+            for k in sorted(pools, key=lambda k: pools[k]["t"])[:len(pools) - 60]:
+                pools.pop(k)
+    log(f"Photo pool for {name}: {len(photos)} photos")
+    return photos
+
+
+def wiki_person_photo(name, exclude=()):
+    """A free photo of a person, different from the ones used lately."""
+    photos = person_photo_pool(name)
+    if not photos:
+        return None
+    fresh = [p for p in photos if p["url"] not in exclude and p["url"] not in recent_photos()]
+    if not fresh:                                       # all used lately: take the one used longest ago
+        rec = PHOTO_MEM.get("recent", [])
+        fresh = sorted([p for p in photos if p["url"] not in exclude],
+                       key=lambda p: rec.index(p["url"]) if p["url"] in rec else -1)[:1]
+    if not fresh:
+        return None
+    pick = random.choice(fresh)
+    return {k: v for k, v in pick.items() if k != "portrait"}
+
+
+def pexels_photo(query, exclude=()):
     if not PEXELS_KEY or not query:
         return None
     try:
         r = HTTP.get("https://api.pexels.com/v1/search", timeout=30,
-                     params={"query": query, "orientation": "portrait", "per_page": 6},
+                     params={"query": query, "orientation": "portrait", "per_page": 15},
                      headers={"Authorization": PEXELS_KEY})
-        photos = r.json().get("photos", [])
+        allp = [p for p in r.json().get("photos", []) if p["src"]["large2x"] not in exclude]
+        photos = [p for p in allp if p["src"]["large2x"] not in recent_photos()] or allp
         if not photos:
             return None
-        p = random.choice(photos[:4])
+        p = random.choice(photos[:5])
         return {"url": p["src"]["large2x"],
                 "credit": f"{p.get('photographer', 'Pexels')} / Pexels", "short": "PEXELS"}
     except Exception as e:
@@ -1385,10 +1493,12 @@ def pixabay_photo(query, exclude=()):
         r = HTTP.get("https://pixabay.com/api/", timeout=30, params={
             "key": PIXABAY_KEY, "q": query[:100], "image_type": "photo", "order": "popular",
             "safesearch": "true", "per_page": 20, "min_width": 1600})
-        hits = [h for h in r.json().get("hits", []) if h["largeImageURL"] not in exclude]
+        allh = [h for h in r.json().get("hits", []) if h["largeImageURL"] not in exclude]
+        hits = [h for h in allh if h["largeImageURL"] not in recent_photos()] or allh
         if not hits:
             return None
-        p = max(hits[:10], key=lambda h: h.get("likes", 0) + h.get("downloads", 0) / 100)
+        top = sorted(hits, key=lambda h: -(h.get("likes", 0) + h.get("downloads", 0) / 100))[:8]
+        p = random.choice(top)
         return {"url": p["largeImageURL"],
                 "credit": f"{p.get('user', 'Pixabay')} / Pixabay", "short": "PIXABAY"}
     except Exception as e:
@@ -1426,7 +1536,13 @@ def wiki_search_photo(query, exclude=()):
     if not query:
         return None
     cands, seen = [], set()
-    for bonus, q in ((25, f"{query} incategory:Quality_images"), (0, query)):
+    search, banned, must = query, [], plain(query).lower()
+    for k, (better, bad) in PHOTO_SEARCH_FIX.items():
+        if k in plain(query).lower():
+            search, banned, must = better, bad, k
+            break
+    rec = recent_photos()
+    for bonus, q in ((25, f"{search} incategory:Quality_images"), (0, search)):
         try:
             r = HTTP.get("https://commons.wikimedia.org/w/api.php", headers=WIKI_HEADERS, timeout=30, params={
                 "action": "query", "generator": "search", "gsrnamespace": 6,
@@ -1460,18 +1576,25 @@ def wiki_search_photo(query, exclude=()):
                 continue
             seen.add(url)
             artist = clean_html(meta.get("Artist", {}).get("value", ""))[:60] or "Unknown author"
-            score = bonus + (10 if year >= 2015 else 0) + max(0, 12 - rank) \
+            words = [w for w in must.split() if len(w) > 2]
+            t = plain(title).replace("_", " ")
+            hit = 30 if must in t or plain(search).lower() in t else (10 if all(w in t for w in words) else 0)
+            if not hit or any(b in t for b in banned):
+                continue                                # the place must be in the file name
+            score = bonus + hit + (10 if year >= 2015 else 0) + max(0, 12 - rank) - (60 if url in rec else 0) \
                 + min(10, info.get("width", 0) / 600)
             cands.append((score, {"url": url, "credit": f"{artist} / Wikimedia Commons ({lic})",
                                   "short": "WIKIMEDIA COMMONS"}))
-    best, best_score = None, -1
-    for score, c in sorted(cands, key=lambda x: -x[0])[:6]:   # check the top 6 by eye
+    good = []
+    for score, c in sorted(cands, key=lambda x: -x[0])[:8]:   # check the top 8 by eye (used lately = last)
         q = photo_quality(c["url"])
-        if q < 0:
-            continue
-        if score + q > best_score:
-            best, best_score = c, score + q
-    return best
+        if q >= 0:
+            good.append((score + q, c))
+    if not good:
+        return None
+    good.sort(key=lambda x: -x[0])
+    close = [c for sc, c in good[:4] if sc >= good[0][0] - 20]      # one of the best few = variety
+    return random.choice(close)
 
 
 def person_names_in_headline(post):
@@ -1490,9 +1613,16 @@ def person_names_in_headline(post):
 
 
 def choose_background(post, exclude=(), prefer_scene=False):
+    """Pick a background and remember its photos so the next posts use different ones."""
+    bg = _choose_background(post, exclude, prefer_scene)
+    remember_photos(bg_urls(bg))
+    return bg
+
+
+def _choose_background(post, exclude=(), prefer_scene=False):
     """1) photos of the people in the story  2) best matching photo  3) brand design.
     prefer_scene=True is used by the 🔄 Other photo button."""
-    found = [x for x in (wiki_person_photo(p) for p in person_names_in_headline(post)) if x]
+    found = [x for x in (wiki_person_photo(p, exclude) for p in person_names_in_headline(post)) if x]
 
     if post.get("image_style") == "incident" and not found and not prefer_scene:
         # no random photos for shootings/bombings: strong news design with a location tag
@@ -1503,7 +1633,7 @@ def choose_background(post, exclude=(), prefer_scene=False):
         for q in [post.get("image_query", ""), post.get("location", "")]:
             q = str(q or "").strip()
             if q:
-                scene = pexels_photo(q) or pixabay_photo(q, exclude) or wiki_search_photo(q, exclude)
+                scene = pexels_photo(q, exclude) or pixabay_photo(q, exclude) or wiki_search_photo(q, exclude)
             if scene:
                 break
 
@@ -1954,6 +2084,8 @@ def main():
     signal.signal(signal.SIGTERM, lambda *a: sys.exit(143))
     started = time.time()
     state = load_state()
+    global PHOTO_MEM
+    PHOTO_MEM = state.setdefault("photo_memory", {})
     note(state, "run start" + (" (forced news search)" if FORCE_DRAFT else ""))
     try:
         set_commands_once(state)

@@ -77,6 +77,16 @@ ASK_QUESTION = "sometimes"
 STATS_EVERY_MINUTES = 60     # how often the numbers under published posts are refreshed
 STATS_DAYS = 3               # keep updating a post's numbers for this many days after publishing
 
+# ---------- Photo variety ----------
+PHOTOS_PER_PERSON = 12       # how many different free photos the bot collects per person (e.g. Trump)
+NO_REPEAT_PHOTOS = 40        # a photo is not used again until this many other photos were used
+PHOTO_POOL_DAYS = 7          # refresh each person's photo collection after this many days
+# Better photo searches for some places: "what Gemini asks": ("what to search", [words the photo name must NOT have])
+PHOTO_SEARCH_FIX = {
+    "white house": ("White House Washington", ["moscow", "russia", "russian", "minsk", "canyon", "ruin", "arizona"]),
+    "capitol": ("United States Capitol", ["state capitol", "texas", "havana"]),
+}
+
 # ---------- Expiry ----------
 PENDING_EXPIRE_HOURS = 8     # unanswered posts are removed after this
 QUEUE_EXPIRE_HOURS = 12      # a queued post is removed (and you are told) when its NEWS is older than this.
