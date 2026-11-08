@@ -2,7 +2,7 @@
 """
 7 Seas News bot
 ---------------
-Runs on GitHub Actions every ~15 minutes:
+Runs on GitHub Actions every ~15 minutes (and stays online LISTEN_MINUTES to answer Telegram fast):
   1. Reads your Telegram button taps (Post now / Queue / Skip)
   2. Publishes approved posts to the Facebook Page (now, or at the next time slot)
   3. Every 2 hours: collects news from trusted RSS feeds, keeps only stories
@@ -350,9 +350,10 @@ def when_text(t):
 
 
 def set_commands_once(state):
-    if state.get("commands_set") == 5:
+    if state.get("commands_set") == 6:
         return
     tg("setMyCommands", commands=[
+        {"command": "news", "description": "Look for fresh news right now"},
         {"command": "queue", "description": "What's queued and when it posts"},
         {"command": "status", "description": "Bot summary"},
         {"command": "stats", "description": "Likes, comments, shares (last 24h)"},
@@ -363,7 +364,7 @@ def set_commands_once(state):
         {"command": "tiktok", "description": "Link the TikTok files channel"},
         {"command": "help", "description": "How to use the bot"},
     ])
-    state["commands_set"] = 5
+    state["commands_set"] = 6
 
 
 def tg_download(file_id):
@@ -518,8 +519,9 @@ def handle_manual(state, msg):
         log("Manual draft made:", d["headline"])
 
 
-def process_telegram(state):
-    j = tg("getUpdates", offset=state["tg_offset"], timeout=0,
+def process_telegram(state, wait=0):
+    """Handle new button taps and messages. wait = seconds to wait for new ones (long polling)."""
+    j = tg("getUpdates", offset=state["tg_offset"], timeout=wait,
            allowed_updates=["callback_query", "message"])
     for u in j.get("result", []):
         state["tg_offset"] = u["update_id"] + 1
@@ -631,7 +633,7 @@ def process_telegram(state):
         elif text.startswith("/resume"):
             state["paused"] = False
             tg_text("▶️ Resumed. I'll send new news again.")
-        elif text.startswith("/new"):
+        elif text.startswith("/new") and not text.startswith("/news"):
             tg_text("✍️ <b>Make your own post</b>\n\n"
                     "<b>Option 1 — a link:</b> paste a news article link. I read it and write the post.\n"
                     "Add a line of text above the link to use your own headline.\n\n"
@@ -672,6 +674,9 @@ def process_telegram(state):
                         "3. Post any message in the channel and <b>forward it to me</b> now\n\n"
                         + ("Currently linked ✅ (send /tiktok off to unlink)"
                            if state.get("tiktok_channel") else "Not linked yet."))
+        elif text.startswith("/news"):
+            state["news_now"] = True
+            tg_text("🔎 Looking for fresh news now…")
         elif text.startswith("/stats"):
             try:
                 update_post_stats(state, force=True)
@@ -688,7 +693,7 @@ def process_telegram(state):
                     f"Automatic news: {'⏸ paused' if state.get('paused') else '▶️ on'}")
         elif text.startswith("/start") or text.startswith("/help"):
             tg_text("👋 I send you news posts to approve.\n\n"
-                    "🚀 <b>Post now</b> – publishes within ~15 min\n"
+                    "🚀 <b>Post now</b> – publishes within a minute\n"
                     "🕒 <b>Queue</b> – publishes at the next US time slot\n"
                     "🔄 <b>Other photo</b> – tries a different picture\n"
                     "❌ <b>Skip</b> – drops it\n\n"
@@ -697,6 +702,7 @@ def process_telegram(state):
                     "• <b>text</b> → new headline\n"
                     "I send back the new version to approve.\n\n"
                     "✍️ <b>Your own post:</b> send a news link, or a photo with a headline (/new)\n\n"
+                    "/news – look for fresh news right now\n"
                     "/queue – what's queued and when it posts\n"
                     "/pause · /resume – stop/start automatic news\n"
                     "/channel – link a channel that logs every published post\n"
@@ -1832,6 +1838,25 @@ def expire_pending(state):
 # MAIN
 # =============================================================================
 
+def listen(state, until):
+    """Stay online until `until`, so taps and replies are handled within seconds."""
+    if until - time.time() < 40:
+        return
+    log(f"Listening to Telegram for {int((until - time.time()) / 60)} min")
+    while until - time.time() > 35:
+        try:
+            process_telegram(state, wait=25)   # returns as soon as you tap or send something
+            publish_due(state)                 # 🚀 Post now / queue times
+            expire_pending(state)
+            if state.pop("news_now", None):    # /news command
+                state["last_draft_at"] = now_utc().isoformat()
+                draft_new_posts(state)
+            save_state(state)
+        except Exception as e:
+            log("Listen error:", e)
+            time.sleep(10)
+
+
 def main():
     missing = [n for n, v in [("TELEGRAM_BOT_TOKEN", TG_TOKEN), ("TELEGRAM_CHAT_ID", TG_CHAT),
                               ("GEMINI_API_KEY", GEMINI_KEY), ("FB_PAGE_ID", FB_PAGE_ID),
@@ -1840,6 +1865,7 @@ def main():
         print("Missing secrets:", ", ".join(missing))
         sys.exit(1)
 
+    started = time.time()
     state = load_state()
     try:
         set_commands_once(state)
@@ -1854,9 +1880,11 @@ def main():
         last = state.get("last_draft_at")
         due = FORCE_DRAFT or (not state.get("paused") and (
             not last or now_utc() - datetime.fromisoformat(last) >= timedelta(minutes=DRAFT_EVERY_MINUTES - 5)))
-        if due:
+        if due or state.pop("news_now", None):
             state["last_draft_at"] = now_utc().isoformat()
             draft_new_posts(state)
+        save_state(state)
+        listen(state, started + LISTEN_MINUTES * 60)
     except Exception as e:
         traceback.print_exc()
         try:

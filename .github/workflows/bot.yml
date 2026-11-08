@@ -22,7 +22,7 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20       # the bot stays online ~12 min (LISTEN_MINUTES) to answer Telegram fast
     steps:
       - uses: actions/checkout@v4
 

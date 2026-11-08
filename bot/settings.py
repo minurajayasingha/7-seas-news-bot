@@ -18,6 +18,9 @@ SOFT = (205, 205, 210)     # small grey text
 DRAFTS_PER_RUN = 3           # new posts sent to Telegram each time it looks for news
 DRAFT_EVERY_MINUTES = 15     # how often it looks for news (15 = every run of the bot)
 
+LISTEN_MINUTES = 12          # after its work, each run stays online this long so button taps and replies
+                             # are handled within seconds (keep below 14 because a new run starts every 15 min; 0 = off)
+
 # Posting times for the 🕒 Queue button (New York time). One queued post per slot.
 SLOT_TIMEZONE = "America/New_York"
 POST_SLOTS = ["07:00", "09:30", "12:00", "15:00", "18:00", "20:30"]

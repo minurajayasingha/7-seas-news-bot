@@ -7,6 +7,8 @@ Never South Asia news. Real, verified news only: a story needs 2+ different outl
 ## How it runs
 - GitHub Actions, `.github/workflows/bot.yml`. GitHub's own schedule is unreliable (runs hours late), so
   cron-job.org triggers workflow_dispatch every 15 min with force_draft=false; manual "Run workflow" forces a news search.
+- After its work each run stays online LISTEN_MINUTES (12) long-polling Telegram, so taps/replies/Post now are
+  handled within seconds; job timeout 20 min. /news searches news immediately.
 - News reading: all feeds fetched in parallel with a 45 s hard limit; story matching uses simple word roots (stem()).
 - `bot/main.py` does everything in one run:
   1. reads Telegram button taps/replies (getUpdates, no webhook)
@@ -26,7 +28,7 @@ optional PIXABAY_API_KEY / PEXELS_API_KEY. Never print or commit secrets.
 - Send a link (bot reads article + Gemini) or a photo with caption (line 1 = headline) → manual post. "BREAKING:" prefix.
 - Published/skipped/replaced posts are deleted from the bot chat; published ones are logged to a linked channel
   (linked by forwarding a channel message to the bot).
-- Commands: /queue /status /stats /new /pause /resume /channel /tiktok /help.
+- Commands: /news /queue /status /stats /new /pause /resume /channel /tiktok /help.
 - Post stats: every STATS_EVERY_MINUTES the bot reads reactions/comments/shares (+ reach if the token allows)
   for posts of the last STATS_DAYS and edits the matching log-channel message; /stats = last 24 h ranking.
 - Every published post is also shared to the Page Story (SHARE_TO_STORY) and, if linked via /tiktok,
