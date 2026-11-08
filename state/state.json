@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892663,
+ "tg_offset": 495892667,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -1104,9 +1104,14 @@
    "news_time": "2026-11-07T23:05:06+00:00",
    "news_latest": "2026-11-08T00:58:51+00:00",
    "caption": "ICE detains and releases Wisconsin state trooper Carel Aaron Van Der Merwe\n\nCarel Aaron Van Der Merwe, a 21-year-old Wisconsin state trooper from South Africa, was released after being detained by ICE agents. Federal immigration agents approached him at an airport as he waited to board a domestic flight.\n\nWhat are your thoughts on this detention? Let us know in the comments.\n\n📖 Read more: https://thehill.com/homenews/state-watch/6206341-wisconsin-trooper-ice-arrest/\n\n#Wisconsin #ICE #USNews #7SeasNews",
-   "status": "pending",
+   "status": "queued",
    "tg_message_id": 39,
-   "tg_file_id": "AgACAgUAAxkDAAMnau_iBslzAw5W4vk5CnyPxthaBh0AAmsRaxv8loFX37p9i-pyc2gBAAMCAAN3AAM9BA"
+   "tg_file_id": "AgACAgUAAxkDAAMnau_iBslzAw5W4vk5CnyPxthaBh0AAmsRaxv8loFX37p9i-pyc2gBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-08T07:50:03.790761+00:00",
+   "post_now": false,
+   "extra_msgs": [
+    56
+   ]
   },
   "02a329785f": {
    "id": "02a329785f",
@@ -1427,9 +1432,20 @@
    "news_time": "2026-11-08T02:09:00+00:00",
    "news_latest": "2026-11-08T07:04:37+00:00",
    "caption": "Trump offers UFC boss Dana White press secretary role\n\nDonald Trump asked Ultimate Fighting Championship CEO Dana White to take the position of White House press secretary. White stated he will meet with the US president on Monday to discuss the offer.\n\n📖 Read more: https://www.euronews.com/2026/11/08/trump-offers-ufc-boss-press-secretary-role-dana-please-take-the-job\n\n#USPolitics #DonaldTrump #DanaWhite #7SeasNews",
-   "status": "pending",
+   "status": "posted",
    "tg_message_id": 55,
-   "tg_file_id": "AgACAgUAAxkDAAM3avAjQ4kKtnSjJEozz3k4EktdxUYAAmgUaxv_D4FX3ncv_SvWJqUBAAMCAAN3AAM9BA"
+   "tg_file_id": "AgACAgUAAxkDAAM3avAjQ4kKtnSjJEozz3k4EktdxUYAAmgUaxv_D4FX3ncv_SvWJqUBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-08T07:50:03.214814+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122095814103548584",
+   "posted_at": "2026-11-08T07:50:04.397000+00:00",
+   "log_text": "✅ <b>Published</b> · 1:20 PM Sri Lanka · 2:50 AM New York · Nov 08\n\n<b>Trump offers UFC boss Dana White press secretary role</b>\n<i>Al Jazeera, CBS News, Euronews, Sky News, Washington Examiner</i>\n🟢 <b>Latest:</b> 12:34 PM Sri Lanka (45 min ago) · first reported 7:39 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122095814103548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 10,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "2301584060697951"
   }
  },
  "seen_links": [
@@ -1973,7 +1989,7 @@
    ]
   ]
  ],
- "last_draft_at": "2026-11-08T07:22:28.819769+00:00",
+ "last_draft_at": "2026-11-08T07:50:20.300316+00:00",
  "last_slot": null,
  "commands_set": 5,
  "log_channel": -1004367532135,
