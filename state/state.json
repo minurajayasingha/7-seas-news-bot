@@ -3984,6 +3984,75 @@
    "status": "pending",
    "tg_message_id": 135,
    "tg_file_id": "AgACAgUAAxkDAAOHavDxFs4R_HElid3bwQMRGNpmDVYAAl8Vaxv_D4lXOwU5PaFGkdkBAAMCAAN3AAM9BA"
+  },
+  "9f3d3eb8fc": {
+   "id": "9f3d3eb8fc",
+   "headline": "Iran warns US of escalation as Trump reports forces ready",
+   "summary": "Iran threatens severe escalation if the US increases tensions in the ongoing conflict. Meanwhile, President Donald Trump states that US forces remain prepared to strike if necessary.",
+   "label": "CONFLICT",
+   "hook": "Will US forces need to strike if the situation escalates further?",
+   "key_points": [
+    "Iran threatens severe escalation regarding the US war.",
+    "President Trump states US forces are ready to strike."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Iran",
+    "#US",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "Washington Post"
+   ],
+   "link": "https://www.washingtonpost.com/politics/2026/11/08/democrats-will-take-aim-medicaid-cuts-iran-war-tariffs-jeffries-says/",
+   "links": [
+    [
+     "Washington Post",
+     "https://www.washingtonpost.com/politics/2026/11/08/democrats-will-take-aim-medicaid-cuts-iran-war-tariffs-jeffries-says/"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Naqsh-e_Jahan_Square_from_the_gheisariye_Vault.jpg/1920px-Naqsh-e_Jahan_Square_from_the_gheisariye_Vault.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Amir Pashaei / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ],
+    "inset": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credit": "Daniel Torok / Wikimedia Commons (Public domain)",
+     "short": "WIKIMEDIA COMMONS"
+    }
+   },
+   "img_post": {
+    "headline": "Iran warns US of escalation as Trump reports forces ready",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "Pentagon building",
+    "image_queries": [
+     "White House",
+     "US Capitol building",
+     "military base",
+     "conflict zone"
+    ],
+    "image_style": "scene",
+    "location": "US"
+   },
+   "created_at": "2026-11-08T23:00:43.822066+00:00",
+   "news_time": "2026-11-08T20:13:39+00:00",
+   "news_latest": "2026-11-08T22:00:00+00:00",
+   "caption": "Iran warns US of escalation as Trump reports forces ready\n\nIran threatens severe escalation if the US increases tensions in the ongoing conflict. Meanwhile, President Donald Trump states that US forces remain prepared to strike if necessary.\n\n💬 Will US forces need to strike if the situation escalates further?\n\n📖 Read more: https://www.washingtonpost.com/politics/2026/11/08/democrats-will-take-aim-medicaid-cuts-iran-war-tariffs-jeffries-says/\n\n#Iran #US #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 136,
+   "tg_file_id": "AgACAgUAAxkDAAOIavD_HhFu6wABn5HNiEtNe_2N2sM6AAJlFWsb_w-JV0LaZO0bz-rDAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -4136,7 +4205,9 @@
   "https://thehill.com/homenews/administration/6206935-trump-unlikely-attack-iran/",
   "https://www.washingtonexaminer.com/news/senate/4796849/bernie-sanders-trump-investigations-congress/",
   "https://abcnews.com/Politics/wireStory/trump-justice-department-stand-defiant-democrats-ready-investigative-137958810",
-  "https://www.nytimes.com/2026/11/08/us/politics/justice-dept-new-york-times-comey-leak.html"
+  "https://www.nytimes.com/2026/11/08/us/politics/justice-dept-new-york-times-comey-leak.html",
+  "https://www.washingtonpost.com/politics/2026/11/08/democrats-will-take-aim-medicaid-cuts-iran-war-tariffs-jeffries-says/",
+  "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -5258,19 +5329,35 @@
     "warn"
    ],
    "ed4a2a326f"
+  ],
+  [
+   "2026-11-08T23:00:46.883122+00:00",
+   [
+    "aim",
+    "cut",
+    "democrat",
+    "down",
+    "escalat",
+    "hell",
+    "iran",
+    "jeffry",
+    "medicaid",
+    "rain",
+    "tak",
+    "tariff",
+    "threaten",
+    "war"
+   ],
+   "9f3d3eb8fc"
   ]
  ],
- "last_draft_at": "2026-11-08T22:45:20.954801+00:00",
+ "last_draft_at": "2026-11-08T23:00:32.315873+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-08T22:30:23.761260+00:00",
  "run_log": [
-  "11-08 20:42:11 run start",
-  "11-08 20:42:30 listening 11 min",
-  "11-08 20:53:48 listening done",
-  "11-08 20:53:48 run end after 696 s",
   "11-08 20:54:02 run start",
   "11-08 20:54:13 listening 11 min",
   "11-08 21:05:34 listening done",
@@ -5306,7 +5393,11 @@
   "11-08 22:45:20 run start",
   "11-08 22:45:30 listening 11 min",
   "11-08 22:56:48 listening done",
-  "11-08 22:56:48 run end after 688 s"
+  "11-08 22:56:48 run end after 688 s",
+  "11-08 23:00:31 run start",
+  "11-08 23:00:46 listening 11 min",
+  "11-08 23:12:06 listening done",
+  "11-08 23:12:06 run end after 694 s"
  ],
  "day_pack_done": "2026-11-07",
  "photo_memory": {
@@ -5328,7 +5419,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Senator_of_Vermont_Bernie_Sanders_Campaign_Field_Office_In_Nashua_NH_11.jpg/1280px-Senator_of_Vermont_Bernie_Sanders_Campaign_Field_Office_In_Nashua_NH_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Jensen_Huang_-_RTX_5070_Laptop_-_Nvidia_Keynote_-_CES_2025_Las_Vegas.jpg/1280px-Jensen_Huang_-_RTX_5070_Laptop_-_Nvidia_Keynote_-_CES_2025_Las_Vegas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_12.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Bernie_Sanders_%2825973827305%29.jpg/1280px-Bernie_Sanders_%2825973827305%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Bernie_Sanders_%2825973827305%29.jpg/1280px-Bernie_Sanders_%2825973827305%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Naqsh-e_Jahan_Square_from_the_gheisariye_Vault.jpg/1920px-Naqsh-e_Jahan_Square_from_the_gheisariye_Vault.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -5938,7 +6031,8 @@
    "gaza strip",
    "damascus streets",
    "senate chamber, united states capitol",
-   "us capitol dome"
+   "us capitol dome",
+   "naqsh-e jahan square"
   ]
  }
 }
