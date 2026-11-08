@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892705,
+ "tg_offset": 495892707,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -2781,6 +2781,139 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_story_id": "1117442591048823"
+  },
+  "63cb666207": {
+   "id": "63cb666207",
+   "headline": "Four dead and 88 injured in train crash near Cairo",
+   "summary": "Four people died and 88 others sustained injuries following a train collision south of Cairo. The impact caused carriages to derail when a train crashed into the back of another.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Four people died in the collision",
+    "Eighty-eight individuals sustained injuries",
+    "Carriages derailed after one train hit another"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Egypt",
+    "#WorldNews",
+    "#TrainCrash"
+   ],
+   "sources": [
+    "Sky News",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/africa/train-collision-egypt-giza-death-toll-injured-b3081246.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/africa/train-collision-egypt-giza-death-toll-injured-b3081246.html"
+    ],
+    [
+     "Sky News",
+     "https://news.sky.com/story/four-dead-and-88-injured-in-train-crash-near-cairo-13609748"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Cairo, Egypt"
+   },
+   "img_post": {
+    "headline": "Four dead and 88 injured in train crash near Cairo",
+    "people": [],
+    "image_query": "Cairo railway tracks",
+    "image_queries": [
+     "railway station Cairo",
+     "damaged train carriages",
+     "emergency services Egypt",
+     "train tracks Egypt"
+    ],
+    "image_style": "incident",
+    "location": "Cairo, Egypt"
+   },
+   "created_at": "2026-11-08T15:15:33.413488+00:00",
+   "news_time": "2026-11-08T14:55:00+00:00",
+   "news_latest": "2026-11-08T15:11:05+00:00",
+   "caption": "🚨 BREAKING: Four dead and 88 injured in train crash near Cairo\n\nFour people died and 88 others sustained injuries following a train collision south of Cairo. The impact caused carriages to derail when a train crashed into the back of another.\n\nWhat we know so far:\n• Four people died in the collision\n• Eighty-eight individuals sustained injuries\n• Carriages derailed after one train hit another\n\n📖 Read more: https://www.independent.co.uk/news/world/africa/train-collision-egypt-giza-death-toll-injured-b3081246.html\n\n#Egypt #WorldNews #TrainCrash #7SeasNews",
+   "status": "replaced",
+   "tg_message_id": 114,
+   "tg_file_id": "AgACAgUAAxkDAANyavCSF-gHc6QVFqZamj8i3Q89-v0AAk8Vaxv_D4FX6AdYqZEUatgBAAMCAAN3AAM9BA",
+   "extra_msgs": [],
+   "cleared": true
+  },
+  "8d339496f7": {
+   "id": "8d339496f7",
+   "headline": "Four dead and 88 injured in train crash near Cairo",
+   "summary": "Four people died and 88 others sustained injuries following a train collision south of Cairo. The impact caused carriages to derail when a train crashed into the back of another.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Four people died in the collision",
+    "Eighty-eight individuals sustained injuries",
+    "Carriages derailed after one train hit another"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Egypt",
+    "#WorldNews",
+    "#TrainCrash"
+   ],
+   "sources": [
+    "Sky News",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/africa/train-collision-egypt-giza-death-toll-injured-b3081246.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/africa/train-collision-egypt-giza-death-toll-injured-b3081246.html"
+    ],
+    [
+     "Sky News",
+     "https://news.sky.com/story/four-dead-and-88-injured-in-train-crash-near-cairo-13609748"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "tg_file_id": "AgACAgUAAxkBAANzavCUU6xTITA1x1W0WcSSXDhaz9EAAhAVaxv_D4lXn6NwY3E5XHABAAMCAAN5AAM9BA",
+      "credit": ""
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Four dead and 88 injured in train crash near Cairo",
+    "people": [],
+    "image_query": "Cairo railway tracks",
+    "image_queries": [
+     "railway station Cairo",
+     "damaged train carriages",
+     "emergency services Egypt",
+     "train tracks Egypt"
+    ],
+    "image_style": "incident",
+    "location": "Cairo, Egypt"
+   },
+   "created_at": "2026-11-08T15:25:07.585236+00:00",
+   "news_time": "2026-11-08T14:55:00+00:00",
+   "news_latest": "2026-11-08T15:11:05+00:00",
+   "caption": "🚨 BREAKING: Four dead and 88 injured in train crash near Cairo\n\nFour people died and 88 others sustained injuries following a train collision south of Cairo. The impact caused carriages to derail when a train crashed into the back of another.\n\nWhat we know so far:\n• Four people died in the collision\n• Eighty-eight individuals sustained injuries\n• Carriages derailed after one train hit another\n\n📖 Read more: https://www.independent.co.uk/news/world/africa/train-collision-egypt-giza-death-toll-injured-b3081246.html\n\n#Egypt #WorldNews #TrainCrash #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 116,
+   "tg_file_id": "AgACAgUAAxkDAAN0avCUVhSpSDoP4EC7r4JiAjv34AcAAhEVaxv_D4lXLvYnQBIKp2EBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-08T15:25:21.680267+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122096010183548584",
+   "posted_at": "2026-11-08T15:25:21.966753+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 08 · 10:25 AM New York · 8:55 PM Sri Lanka\n\n<b>Four dead and 88 injured in train crash near Cairo</b>\n<i>Sky News, The Independent</i>\n🟢 <b>Latest:</b> 8:41 PM Sri Lanka (14 min ago) · first reported 8:25 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096010183548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 28,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "1102275389284861"
   }
  },
  "seen_links": [
@@ -2893,7 +3026,9 @@
   "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says",
   "https://kyivindependent.com/europeans-will-participate-in-abu-dhabi-peace-talks-french-foreign-minister-says/",
   "https://thehill.com/policy/international/6206505-meloni-blames-russian-hackers-tajani/",
-  "https://www.cbsnews.com/news/italy-giorgia-meloni-ukraine-russia-hack-data-leak/"
+  "https://www.cbsnews.com/news/italy-giorgia-meloni-ukraine-russia-hack-data-leak/",
+  "https://www.independent.co.uk/news/world/africa/train-collision-egypt-giza-death-toll-injured-b3081246.html",
+  "https://news.sky.com/story/four-dead-and-88-injured-in-train-crash-near-cairo-13609748"
  ],
  "recent_topics": [
   [
@@ -3700,19 +3835,32 @@
     "web"
    ],
    "a72ab4f487"
+  ],
+  [
+   "2026-11-08T15:15:35.549064+00:00",
+   [
+    "88",
+    "cairo",
+    "collid",
+    "crash",
+    "dead",
+    "egypt",
+    "four",
+    "injur",
+    "least",
+    "near",
+    "train"
+   ],
+   "63cb666207"
   ]
  ],
- "last_draft_at": "2026-11-08T15:00:30.135267+00:00",
+ "last_draft_at": "2026-11-08T15:15:21.457553+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-08T14:15:18.979026+00:00",
+ "last_stats_at": "2026-11-08T15:15:18.482142+00:00",
  "run_log": [
-  "11-08 12:30:25 run start",
-  "11-08 12:30:34 listening 11 min",
-  "11-08 12:41:53 listening done",
-  "11-08 12:41:53 run end after 688 s",
   "11-08 12:45:21 run start",
   "11-08 12:45:31 listening 11 min",
   "11-08 12:57:02 listening done",
@@ -3748,7 +3896,11 @@
   "11-08 15:00:29 run start",
   "11-08 15:00:48 listening 11 min",
   "11-08 15:12:16 listening done",
-  "11-08 15:12:16 run end after 706 s"
+  "11-08 15:12:16 run end after 706 s",
+  "11-08 15:15:18 run start",
+  "11-08 15:15:35 listening 11 min",
+  "11-08 15:26:55 listening done",
+  "11-08 15:26:55 run end after 697 s"
  ],
  "day_pack_done": "2026-11-07",
  "photo_memory": {
