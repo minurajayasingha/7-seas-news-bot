@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892677,
+ "tg_offset": 495892684,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -1626,9 +1626,11 @@
    "news_time": "2026-11-08T07:11:32+00:00",
    "news_latest": "2026-11-08T09:09:35+00:00",
    "caption": "🚨 BREAKING: Krakow market square shooting leaves six dead including Briton\n\nA 25-year-old Polish citizen opened fire in Krakow's main square, killing six people and injuring 16. Authorities stated the suspect held far-right views, and three additional bodies were later found at his home.\n\nWhat we know so far:\n• Six people killed in Krakow market square shooting\n• A British national among the victims\n• Suspect held ultra-nationalistic views, minister says\n\n📖 Read more: https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman\n\n#Krakow #Poland #WorldNews #7SeasNews",
-   "status": "pending",
+   "status": "replaced",
    "tg_message_id": 60,
-   "tg_file_id": "AgACAgUAAxkDAAM8avA9s-SeXDQ8xSDDe5UoWe9WwVoAApUUaxv_D4FXoYaFkBtWGGQBAAMCAAN3AAM9BA"
+   "tg_file_id": "AgACAgUAAxkDAAM8avA9s-SeXDQ8xSDDe5UoWe9WwVoAApUUaxv_D4FXoYaFkBtWGGQBAAMCAAN3AAM9BA",
+   "extra_msgs": [],
+   "cleared": true
   },
   "b73ea00dd8": {
    "id": "b73ea00dd8",
@@ -1761,6 +1763,204 @@
    "status": "pending",
    "tg_message_id": 62,
    "tg_file_id": "AgACAgUAAxkDAAM-avA9vEuXHiuaUdRkp4Mxk43IbgwAApcUaxv_D4FXNJ1or8WuAAEIAQADAgADdwADPQQ"
+  },
+  "f7216b033c": {
+   "id": "f7216b033c",
+   "headline": "Gaza flood: Heavy rain inundates thousands of displaced tents",
+   "summary": "Heavy rainfall floods thousands of tents sheltering displaced Palestinians across the Gaza Strip, including Deir al-Balah. Overflowing sewage mixes with floodwater while Israeli restrictions on aid hamper the response.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Heavy rain floods tents sheltering displaced Palestinians in Gaza.",
+    "Overflowing sewage mixes with floodwater in Deir al-Balah.",
+    "Israeli restrictions on aid hamper the response."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Gaza",
+    "#WorldNews",
+    "#Weather"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "France 24"
+   ],
+   "link": "https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents",
+   "links": [
+    [
+     "France 24",
+     "https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/gallery/2026/11/8/photos-heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Gaza"
+   },
+   "img_post": {
+    "headline": "Gaza flood: Heavy rain inundates thousands of displaced tents",
+    "people": [],
+    "image_query": "Gaza Strip tents",
+    "image_style": "incident",
+    "location": "Gaza"
+   },
+   "created_at": "2026-11-08T10:01:00.851039+00:00",
+   "news_time": "2026-11-08T06:55:24+00:00",
+   "news_latest": "2026-11-08T09:42:03+00:00",
+   "caption": "Gaza flood: Heavy rain inundates thousands of displaced tents\n\nHeavy rainfall floods thousands of tents sheltering displaced Palestinians across the Gaza Strip, including Deir al-Balah. Overflowing sewage mixes with floodwater while Israeli restrictions on aid hamper the response.\n\n📖 Read more: https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents\n\n#Gaza #WorldNews #Weather #7SeasNews",
+   "status": "replaced",
+   "tg_message_id": 75,
+   "tg_file_id": "AgACAgUAAxkDAANLavBIX3Ie7rx2Et8CDrKISAQ3BgIAAqwUaxv_D4FXe9zXKdyWZmUBAAMCAAN3AAM9BA",
+   "extra_msgs": [],
+   "cleared": true
+  },
+  "8d7105dd99": {
+   "id": "8d7105dd99",
+   "headline": "Krakow market square shooting leaves six dead including Briton",
+   "summary": "A 25-year-old Polish citizen opened fire in Krakow's main square, killing six people and injuring 16. Authorities stated the suspect held far-right views, and three additional bodies were later found at his home.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Six people killed in Krakow market square shooting",
+    "A British national among the victims",
+    "Suspect held ultra-nationalistic views, minister says"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Krakow",
+    "#Poland",
+    "#WorldNews"
+   ],
+   "sources": [
+    "BBC",
+    "Newsweek",
+    "The Guardian",
+    "The Independent"
+   ],
+   "link": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+   "links": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/europe/krakow-shooting-poland-live-updates-main-square-b3081004.html"
+    ],
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/europe/krakow-shooting-poland-gunman-news-b3081022.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "tg_file_id": "AgACAgUAAxkBAANMavBIoTClHFoK7esiCFTIzLsVlUEAAq4Uaxv_D4FXnMvPOFykRNIBAAMCAAN5AAM9BA",
+      "credit": ""
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Krakow market square shooting leaves six dead including Briton",
+    "people": [],
+    "image_query": "Krakow market square",
+    "image_style": "incident",
+    "location": "Krakow, Poland"
+   },
+   "created_at": "2026-11-08T10:02:10.117215+00:00",
+   "news_time": "2026-11-08T07:11:32+00:00",
+   "news_latest": "2026-11-08T09:09:35+00:00",
+   "caption": "🚨 BREAKING: Krakow market square shooting leaves six dead including Briton\n\nA 25-year-old Polish citizen opened fire in Krakow's main square, killing six people and injuring 16. Authorities stated the suspect held far-right views, and three additional bodies were later found at his home.\n\nWhat we know so far:\n• Six people killed in Krakow market square shooting\n• A British national among the victims\n• Suspect held ultra-nationalistic views, minister says\n\n📖 Read more: https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman\n\n#Krakow #Poland #WorldNews #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 77,
+   "tg_file_id": "AgACAgUAAxkDAANNavBIppFhdBkQnJycVt6T9gmwuNAAAq8Uaxv_D4FXKk8OCLKv_dcBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-08T10:02:24.862919+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122095869897548584",
+   "posted_at": "2026-11-08T10:02:25.162459+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 08 · 5:02 AM New York · 3:32 PM Sri Lanka\n\n<b>Krakow market square shooting leaves six dead including Briton</b>\n<i>BBC, Newsweek, The Guardian, The Independent</i>\n🟢 <b>Latest:</b> 2:39 PM Sri Lanka (52 min ago) · first reported 12:41 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122095869897548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 14,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "29098337433153793"
+  },
+  "14132bedd1": {
+   "id": "14132bedd1",
+   "headline": "Gaza flood: Heavy rain inundates thousands of displaced tents",
+   "summary": "Heavy rainfall floods thousands of tents sheltering displaced Palestinians across the Gaza Strip, including Deir al-Balah. Overflowing sewage mixes with floodwater while Israeli restrictions on aid hamper the response.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Heavy rain floods tents sheltering displaced Palestinians in Gaza.",
+    "Overflowing sewage mixes with floodwater in Deir al-Balah.",
+    "Israeli restrictions on aid hamper the response."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Gaza",
+    "#WorldNews",
+    "#Weather"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "France 24"
+   ],
+   "link": "https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents",
+   "links": [
+    [
+     "France 24",
+     "https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/gallery/2026/11/8/photos-heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "tg_file_id": "AgACAgUAAxkBAANOavBIyuUYJmkHPez1JBmNnkaaZboAArAUaxv_D4FXJeFcMYg6w9wBAAMCAAN5AAM9BA",
+      "credit": ""
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Gaza flood: Heavy rain inundates thousands of displaced tents",
+    "people": [],
+    "image_query": "Gaza Strip tents",
+    "image_style": "incident",
+    "location": "Gaza"
+   },
+   "created_at": "2026-11-08T10:02:50.575665+00:00",
+   "news_time": "2026-11-08T06:55:24+00:00",
+   "news_latest": "2026-11-08T09:42:03+00:00",
+   "caption": "Gaza flood: Heavy rain inundates thousands of displaced tents\n\nHeavy rainfall floods thousands of tents sheltering displaced Palestinians across the Gaza Strip, including Deir al-Balah. Overflowing sewage mixes with floodwater while Israeli restrictions on aid hamper the response.\n\n📖 Read more: https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents\n\n#Gaza #WorldNews #Weather #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 79,
+   "tg_file_id": "AgACAgUAAxkDAANPavBIzNg7RoUhMDhbKp-66ymXvXkAArEUaxv_D4FXG0jqYq8aUqgBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-08T10:02:57.301494+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122095870233548584",
+   "posted_at": "2026-11-08T10:02:57.601335+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 08 · 5:03 AM New York · 3:33 PM Sri Lanka\n\n<b>Gaza flood: Heavy rain inundates thousands of displaced tents</b>\n<i>Al Jazeera, France 24</i>\n🟢 <b>Latest:</b> 3:12 PM Sri Lanka (20 min ago) · first reported 12:25 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122095870233548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 15,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "1761006344998968"
   }
  },
  "seen_links": [
@@ -1848,7 +2048,9 @@
   "https://www.independent.co.uk/news/world/middle-east/israel-election-gadi-eisenkot-netanyahu-b3081156.html",
   "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
   "https://www.independent.co.uk/news/world/middle-east/saudi-airstrikes-sanaa-yemen-deaths-houthis-b3081138.html",
-  "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+  "https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents",
+  "https://www.aljazeera.com/gallery/2026/11/8/photos-heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -2418,12 +2620,36 @@
     "yemen"
    ],
    "00485656fa"
+  ],
+  [
+   "2026-11-08T10:01:03.319454+00:00",
+   [
+    "gaza",
+    "heavy",
+    "inundat",
+    "leav",
+    "photo",
+    "rain",
+    "shelter",
+    "ten",
+    "tent",
+    "thousand",
+    "without"
+   ],
+   "f7216b033c"
   ]
  ],
- "last_draft_at": "2026-11-08T09:46:55.448716+00:00",
+ "last_draft_at": "2026-11-08T10:00:51.655747+00:00",
  "last_slot": null,
- "commands_set": 6,
+ "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-08T09:46:54.525989+00:00"
+ "last_stats_at": "2026-11-08T10:05:33.099440+00:00",
+ "run_log": [
+  "11-08 10:00:30 run start",
+  "11-08 10:01:03 listening 11 min",
+  "11-08 10:12:16 listening done",
+  "11-08 10:12:16 run end after 705 s"
+ ],
+ "day_pack_done": "2026-11-07"
 }
