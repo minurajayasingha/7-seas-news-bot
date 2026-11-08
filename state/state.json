@@ -1016,6 +1016,65 @@
    "status": "pending",
    "tg_message_id": 38,
    "tg_file_id": "AgACAgUAAxkDAAMmau-2spoBLb3GXOTIYusq30-qtmcAAiwRaxv8loFXfG-f0SHIp20BAAMCAAN3AAM9BA"
+  },
+  "c19b0a9d71": {
+   "id": "c19b0a9d71",
+   "headline": "ICE detains and releases Wisconsin state trooper Carel Aaron Van Der Merwe",
+   "summary": "Carel Aaron Van Der Merwe, a 21-year-old Wisconsin state trooper from South Africa, was released after being detained by ICE agents. Federal immigration agents approached him at an airport as he waited to board a domestic flight.",
+   "label": "US POLITICS",
+   "hook": "What are your thoughts on this detention? Let us know in the comments.",
+   "key_points": [
+    "Carel Aaron Van Der Merwe is a 21-year-old Wisconsin state trooper.",
+    "He was detained by ICE agents at an airport.",
+    "He was released from custody a day after being detained."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Wisconsin",
+    "#ICE",
+    "#USNews"
+   ],
+   "sources": [
+    "The Guardian",
+    "The Hill"
+   ],
+   "link": "https://thehill.com/homenews/state-watch/6206341-wisconsin-trooper-ice-arrest/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/homenews/state-watch/6206341-wisconsin-trooper-ice-arrest/"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/2026/nov/07/wisconsin-state-trooper-ice-released"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Duisburg%2C_WSP_5%2C_2019-12_CN-01.jpg/1920px-Duisburg%2C_WSP_5%2C_2019-12_CN-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Steffen Schmitz ( more photos ) / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "ICE detains and releases Wisconsin state trooper Carel Aaron Van Der Merwe",
+    "people": [
+     "Carel Aaron Van Der Merwe"
+    ],
+    "image_query": "Wisconsin state patrol",
+    "image_style": "person",
+    "location": "Wisconsin, US"
+   },
+   "created_at": "2026-11-08T02:44:17.781993+00:00",
+   "news_time": "2026-11-07T23:05:06+00:00",
+   "news_latest": "2026-11-08T00:58:51+00:00",
+   "caption": "ICE detains and releases Wisconsin state trooper Carel Aaron Van Der Merwe\n\nCarel Aaron Van Der Merwe, a 21-year-old Wisconsin state trooper from South Africa, was released after being detained by ICE agents. Federal immigration agents approached him at an airport as he waited to board a domestic flight.\n\nWhat are your thoughts on this detention? Let us know in the comments.\n\n📖 Read more: https://thehill.com/homenews/state-watch/6206341-wisconsin-trooper-ice-arrest/\n\n#Wisconsin #ICE #USNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 39,
+   "tg_file_id": "AgACAgUAAxkDAAMnau_iBslzAw5W4vk5CnyPxthaBh0AAmsRaxv8loFX37p9i-pyc2gBAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -1080,7 +1139,9 @@
   "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss",
   "https://www.france24.com/en/france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience",
   "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
-  "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+  "https://thehill.com/homenews/state-watch/6206341-wisconsin-trooper-ice-arrest/",
+  "https://www.theguardian.com/us-news/2026/nov/07/wisconsin-state-trooper-ice-released"
  ],
  "recent_topics": [
   [
@@ -1490,9 +1551,24 @@
     "strikes",
     "yemen"
    ]
+  ],
+  [
+   "2026-11-08T02:44:22.348659+00:00",
+   [
+    "arrest",
+    "custody",
+    "detained",
+    "dramatic",
+    "ice",
+    "patrol",
+    "released",
+    "state",
+    "trooper",
+    "wisconsin"
+   ]
   ]
  ],
- "last_draft_at": "2026-11-07T23:39:12.276935+00:00",
+ "last_draft_at": "2026-11-08T02:44:12.288448+00:00",
  "last_slot": null,
  "commands_set": 3,
  "log_channel": -1004367532135
