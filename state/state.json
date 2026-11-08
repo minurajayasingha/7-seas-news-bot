@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892667,
+ "tg_offset": 495892668,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -1495,9 +1495,67 @@
    "news_time": "2026-11-08T07:11:32+00:00",
    "news_latest": "2026-11-08T08:37:31+00:00",
    "caption": "🚨 BREAKING: Kraków shooting suspect remains critical following central square attack\n\nA 25-year-old Polish man with far-right views drove into a busy central square in Kraków, Poland. The incident killed six people and injured others before a shootout with police left the suspect in critical condition.\n\nWhat we know so far:\n• Suspect is a 25-year-old Polish man with far-right views\n• Six people were killed during the attack in Kraków\n• Suspect remains in very critical condition after police shootout\n\n📖 Read more: https://www.newsweek.com/krakow-shooting-suspect-what-we-know-as-more-victims-discovered-12683092\n\n#Krakow #Poland #WorldNews #7SeasNews",
-   "status": "pending",
+   "status": "replaced",
    "tg_message_id": 57,
-   "tg_file_id": "AgACAgUAAxkDAAM5avA4wmVFMyrugv7BuDKOW5FecjsAAowUaxv_D4FXrNDoDpZgeEQBAAMCAAN3AAM9BA"
+   "tg_file_id": "AgACAgUAAxkDAAM5avA4wmVFMyrugv7BuDKOW5FecjsAAowUaxv_D4FXrNDoDpZgeEQBAAMCAAN3AAM9BA",
+   "extra_msgs": [],
+   "cleared": true
+  },
+  "80264ac114": {
+   "id": "80264ac114",
+   "headline": "Kraków shooting suspect remains critical following central square attack",
+   "summary": "A 25-year-old Polish man with far-right views drove into a busy central square in Kraków, Poland. The incident killed six people and injured others before a shootout with police left the suspect in critical condition.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Suspect is a 25-year-old Polish man with far-right views",
+    "Six people were killed during the attack in Kraków",
+    "Suspect remains in very critical condition after police shootout"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Krakow",
+    "#Poland",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Newsweek",
+    "The Independent"
+   ],
+   "link": "https://www.newsweek.com/krakow-shooting-suspect-what-we-know-as-more-victims-discovered-12683092",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/krakow-shooting-suspect-what-we-know-as-more-victims-discovered-12683092"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/europe/krakow-shooting-poland-suspect-new-identity-b3081096.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "tg_file_id": "AgACAgUAAxkBAAM6avA5syYvKPe3MFUa0A-R0oYOjycAAo4Uaxv_D4FXEJ28hYz4Nv8BAAMCAAN5AAM9BA",
+      "credit": ""
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Kraków shooting suspect remains critical following central square attack",
+    "people": [],
+    "image_query": "Krakow central square",
+    "image_style": "incident",
+    "location": "Krakow, Poland"
+   },
+   "created_at": "2026-11-08T08:59:59.615290+00:00",
+   "news_time": "2026-11-08T07:11:32+00:00",
+   "news_latest": "2026-11-08T08:37:31+00:00",
+   "caption": "🚨 BREAKING: Kraków shooting suspect remains critical following central square attack\n\nA 25-year-old Polish man with far-right views drove into a busy central square in Kraków, Poland. The incident killed six people and injured others before a shootout with police left the suspect in critical condition.\n\nWhat we know so far:\n• Suspect is a 25-year-old Polish man with far-right views\n• Six people were killed during the attack in Kraków\n• Suspect remains in very critical condition after police shootout\n\n📖 Read more: https://www.newsweek.com/krakow-shooting-suspect-what-we-know-as-more-victims-discovered-12683092\n\n#Krakow #Poland #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 59,
+   "tg_file_id": "AgACAgUAAxkDAAM7avA6FBWORY-ocdnI4h4WX3Z7Df0AApAUaxv_D4FXZMQqbtAuKX0BAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -2057,7 +2115,7 @@
    ]
   ]
  ],
- "last_draft_at": "2026-11-08T08:54:13.643738+00:00",
+ "last_draft_at": "2026-11-08T09:00:05.552180+00:00",
  "last_slot": null,
  "commands_set": 5,
  "log_channel": -1004367532135,
