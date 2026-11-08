@@ -23,6 +23,7 @@ import time
 import hashlib
 import html
 import traceback
+import unicodedata
 import threading
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
@@ -788,8 +789,9 @@ def news_age_limit(d):
     return datetime.fromisoformat(t) + timedelta(hours=QUEUE_EXPIRE_HOURS)
 
 
-def find_duplicate(state, d):
-    """A queued or published post (last 3 days) about the same story as d, or None."""
+def find_duplicate(state, d, loose=False):
+    """A queued or published post (last 3 days) about the same story as d, or None.
+    loose=True also matches looser look-alikes (used only for a warning on new drafts)."""
     mine = keywords(d.get("headline", ""))
     links = {u for _, u in d.get("links", [])} | ({d["link"]} if d.get("link") else set())
     cutoff = now_utc() - timedelta(days=3)
@@ -801,7 +803,7 @@ def find_duplicate(state, d):
         other_links = {u for _, u in o.get("links", [])} | ({o["link"]} if o.get("link") else set())
         theirs = keywords(o.get("headline", ""))
         shared = mine & theirs
-        same_words = len(shared) >= 3 and len(shared) >= 0.5 * min(len(mine), len(theirs))
+        same_words = len(shared) >= 3 and (loose or len(shared) >= 0.5 * min(len(mine), len(theirs)))
         if (links & other_links) or same_words:
             return o
     return None
@@ -958,8 +960,14 @@ def stem(w):
 STOP_STEMS = {stem(w) for w in STOP}
 
 
+def plain(text):
+    """Kraków → Krakow, so accents don't make the same word look different."""
+    return unicodedata.normalize("NFKD", text or "").encode("ascii", "ignore").decode()
+
+
 def keywords(title, summary=""):
     words = set()
+    title, summary = plain(title), plain(summary)
     t = title.lower()
     for pat, rep in COMPOUNDS:
         t = re.sub(pat, rep, t)
@@ -1064,7 +1072,8 @@ def cluster(items):
     for it in sorted(items, key=lambda x: x["published"], reverse=True):
         best = None
         for c in clusters:
-            if similar(it["kw"], c["kw"]) and len(it["title_kw"] & c["title_kw"]) >= 1:
+            # same story = similar words overall AND at least 2 shared headline words
+            if similar(it["kw"], c["kw"]) and len(it["title_kw"] & c["title_kw"]) >= 2:
                 best = c
                 break
         if best:
@@ -1097,16 +1106,14 @@ def pick_stories(state, items):
               if topic_status(state, t) != "expired"]
     good = []
     for c in cluster(items):
-        sources = {i["source"] for i in c["items"]}
+        new_items = [i for i in c["items"] if i["link"] not in seen]   # articles not used before
+        sources = {i["source"] for i in new_items}
         if len(sources) < MIN_SOURCES:
-            continue
-        new_items = [i for i in c["items"] if i["link"] not in seen]
-        if not new_items:
-            continue  # every article here was already used
+            continue  # needs 2+ outlets among the NEW articles
         title_roots = {stem(w) for i in new_items for w in i["title_kw"]}   # judge only the new articles
         if any(len(title_roots & r) >= 4 for r in recent):
             continue  # same topic handled recently
-        c["items"] = new_items + [i for i in c["items"] if i["link"] in seen]  # newest new article first
+        c["items"] = new_items   # Gemini only sees the new reports
         newest = max(i["published"] for i in new_items)
         first = min(i["published"] for i in c["items"])
         hours_since_newest = (now - newest).total_seconds() / 3600
@@ -1733,6 +1740,10 @@ def send_draft(state, d):
     nt = news_time_text(d)
     if d.get("breaking"):
         nt = "🚨 <b>BREAKING</b>" + (f"\n{nt}" if nt else "")
+    dup = find_duplicate(state, d, loose=True)
+    if dup:
+        nt = (f"⚠️ <b>Similar to a post you already {'published' if dup['status'] == 'posted' else 'queued'}:</b> "
+              f"“{html.escape(dup['headline'])}”" + (f"\n{nt}" if nt else ""))
     preview = (f"<b>{html.escape(d['headline'])}</b>\n"
                + (f"{nt}\n" if nt else "") + "\n"
                f"{html.escape(d['summary'])}\n"
