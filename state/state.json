@@ -2100,6 +2100,58 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_story_id": "28797876633217621"
+  },
+  "ae001d5774": {
+   "id": "ae001d5774",
+   "headline": "Russian strikes hit emergency workers and multiple settlements in Ukraine",
+   "summary": "Russian attacks across Ukraine resulted in casualties, including a drone strike targeting rescue workers in the south. Governor Ivan Fedorov reported hundreds of strikes in Zaporizhzhia Oblast alone over the past day.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Russian attacks killed 7 and injured 16 people over the past day.",
+    "A drone struck emergency workers in southern Ukraine.",
+    "Zaporizhzhia Oblast experienced 725 strikes across 53 settlements."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Ukraine",
+    "#WorldNews",
+    "#Conflict"
+   ],
+   "sources": [
+    "ABC News",
+    "Kyiv Independent"
+   ],
+   "link": "https://abcnews.com/International/wireStory/russia-targets-emergency-crews-site-deadly-strike-southern-137951536",
+   "links": [
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/russia-targets-emergency-crews-site-deadly-strike-southern-137951536"
+    ],
+    [
+     "Kyiv Independent",
+     "https://kyivindependent.com/russian-attacks-kill-5-injure-10-in-ukraine-over-the-past-day-striking-zaporizhzhia-oblast-over-700-times/"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Zaporizhzhia, Ukraine"
+   },
+   "img_post": {
+    "headline": "Russian strikes hit emergency workers and multiple settlements in Ukraine",
+    "people": [],
+    "image_query": "Zaporizhzhia region Ukraine",
+    "image_style": "incident",
+    "location": "Zaporizhzhia, Ukraine"
+   },
+   "created_at": "2026-11-08T11:00:41.270313+00:00",
+   "news_time": "2026-11-08T08:59:28+00:00",
+   "news_latest": "2026-11-08T10:43:45+00:00",
+   "caption": "🚨 BREAKING: Russian strikes hit emergency workers and multiple settlements in Ukraine\n\nRussian attacks across Ukraine resulted in casualties, including a drone strike targeting rescue workers in the south. Governor Ivan Fedorov reported hundreds of strikes in Zaporizhzhia Oblast alone over the past day.\n\nWhat we know so far:\n• Russian attacks killed 7 and injured 16 people over the past day.\n• A drone struck emergency workers in southern Ukraine.\n• Zaporizhzhia Oblast experienced 725 strikes across 53 settlements.\n\n📖 Read more: https://abcnews.com/International/wireStory/russia-targets-emergency-crews-site-deadly-strike-southern-137951536\n\n#Ukraine #WorldNews #Conflict #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 88,
+   "tg_file_id": "AgACAgUAAxkDAANYavBWW7psB2SZeeSAeLscOBaL6XgAAusUaxv_D4FXD2GYRYuNzZcBAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -2193,7 +2245,9 @@
   "https://www.newsweek.com/melania-trump-nobel-peace-prize-ukraine-diplomacy-12679234",
   "https://www.washingtonexaminer.com/policy/foreign-policy/4795394/ukraine-anti-corruption-agencies-undermining-trump-peace-efforts-kravchenko/",
   "https://www.newsweek.com/what-if-trump-had-lost-in-2016-10-years-of-alternate-history-12672662",
-  "https://www.theguardian.com/us-news/ng-interactive/2026/nov/08/trump-midterms-voters-mirror-world"
+  "https://www.theguardian.com/us-news/ng-interactive/2026/nov/08/trump-midterms-voters-mirror-world",
+  "https://abcnews.com/International/wireStory/russia-targets-emergency-crews-site-deadly-strike-southern-137951536",
+  "https://kyivindependent.com/russian-attacks-kill-5-injure-10-in-ukraine-over-the-past-day-striking-zaporizhzhia-oblast-over-700-times/"
  ],
  "recent_topics": [
   [
@@ -2820,9 +2874,34 @@
     "world"
    ],
    "be01d5b894"
+  ],
+  [
+   "2026-11-08T11:00:44.011389+00:00",
+   [
+    "16",
+    "700",
+    "attack",
+    "crew",
+    "deadly",
+    "emergency",
+    "injur",
+    "kill",
+    "oblast",
+    "past",
+    "russia",
+    "russian",
+    "sit",
+    "southern",
+    "strik",
+    "target",
+    "tim",
+    "ukrain",
+    "zaporizhzhia"
+   ],
+   "ae001d5774"
   ]
  ],
- "last_draft_at": "2026-11-08T10:45:24.249784+00:00",
+ "last_draft_at": "2026-11-08T11:00:29.473086+00:00",
  "last_slot": null,
  "commands_set": 7,
  "log_channel": -1004367532135,
@@ -2844,7 +2923,11 @@
   "11-08 10:45:23 run start",
   "11-08 10:45:34 listening 11 min",
   "11-08 10:56:54 listening done",
-  "11-08 10:56:54 run end after 690 s"
+  "11-08 10:56:54 run end after 690 s",
+  "11-08 11:00:29 run start",
+  "11-08 11:00:44 listening 11 min",
+  "11-08 11:12:03 listening done",
+  "11-08 11:12:03 run end after 694 s"
  ],
  "day_pack_done": "2026-11-07"
 }
