@@ -3780,6 +3780,75 @@
    "status": "pending",
    "tg_message_id": 132,
    "tg_file_id": "AgACAgUAAxkDAAOEavDb8vDoVMhq_EjDuFjUGGdUkHYAAlkVaxv_D4lXAS5JwZg4rkQBAAMCAAN3AAM9BA"
+  },
+  "ddbd24fcc0": {
+   "id": "ddbd24fcc0",
+   "headline": "Nvidia probes CEO Jensen Huang following Chinese intelligence reports",
+   "summary": "Nvidia's board launched an independent investigation after reports that CEO Jensen Huang was targeted by Chinese intelligence. Huang acknowledged an intimacy with a business executive linked to Beijing's intelligence.",
+   "label": "ECONOMY",
+   "hook": "",
+   "key_points": [
+    "Nvidia board launched an independent investigation",
+    "CEO acknowledged intimacy with a business executive",
+    "US officials warned about Chinese intelligence ties"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Nvidia",
+    "#JensenHuang",
+    "#BusinessNews"
+   ],
+   "sources": [
+    "NBC News",
+    "New York Times"
+   ],
+   "link": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-investigation-rcna608148",
+   "links": [
+    [
+     "NBC News",
+     "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-investigation-rcna608148"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Jensen_Huang_-_RTX_5070_Laptop_-_Nvidia_Keynote_-_CES_2025_Las_Vegas.jpg/1280px-Jensen_Huang_-_RTX_5070_Laptop_-_Nvidia_Keynote_-_CES_2025_Las_Vegas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Pronoia / Wikimedia Commons (CC0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Nvidia probes CEO Jensen Huang following Chinese intelligence reports",
+    "people": [
+     "Jensen Huang"
+    ],
+    "image_query": "Nvidia headquarters building",
+    "image_queries": [
+     "Silicon Valley tech campus",
+     "corporate headquarters exterior",
+     "business office building",
+     "financial district skyline"
+    ],
+    "image_style": "person",
+    "location": "US"
+   },
+   "created_at": "2026-11-08T20:42:24.937401+00:00",
+   "news_time": "2026-11-08T20:18:39+00:00",
+   "news_latest": "2026-11-08T20:33:31+00:00",
+   "caption": "🚨 BREAKING: Nvidia probes CEO Jensen Huang following Chinese intelligence reports\n\nNvidia's board launched an independent investigation after reports that CEO Jensen Huang was targeted by Chinese intelligence. Huang acknowledged an intimacy with a business executive linked to Beijing's intelligence.\n\nWhat we know so far:\n• Nvidia board launched an independent investigation\n• CEO acknowledged intimacy with a business executive\n• US officials warned about Chinese intelligence ties\n\n📖 Read more: https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-investigation-rcna608148\n\n#Nvidia #JensenHuang #BusinessNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 133,
+   "tg_file_id": "AgACAgUAAxkDAAOFavDetVL3GQmvUy6_3kFtU0YmOJgAAloVaxv_D4lXzEsW5CxwWR8BAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -3924,7 +3993,10 @@
   "https://www.independent.co.uk/news/world/americas/us-politics/bernie-sanders-trump-stephen-miller-midterms-b3081279.html",
   "https://www.washingtonexaminer.com/news/white-house/4796807/stephen-miller-thrive-hostile-media-joe-concha/",
   "https://www.independent.co.uk/news/world/americas/winston-salem-state-shooting-arrest-ziyaire-spinks-north-carolina-b3081331.html",
-  "https://www.nbcnews.com/news/us-news/shootings-winston-salem-state-university-campus-rcna608082"
+  "https://www.nbcnews.com/news/us-news/shootings-winston-salem-state-university-campus-rcna608082",
+  "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-investigation-rcna608148",
+  "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
+  "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html"
  ],
  "recent_topics": [
   [
@@ -4980,19 +5052,37 @@
     "winston-salem"
    ],
    "501abc30b3"
+  ],
+  [
+   "2026-11-08T20:42:30.267410+00:00",
+   [
+    "ceo",
+    "chief",
+    "chines",
+    "entanglement",
+    "huang",
+    "intelligenc",
+    "investigation",
+    "jensen",
+    "nvidia",
+    "official",
+    "open",
+    "relationship",
+    "rubio",
+    "spy",
+    "target",
+    "warn"
+   ],
+   "ddbd24fcc0"
   ]
  ],
- "last_draft_at": "2026-11-08T20:30:28.863937+00:00",
+ "last_draft_at": "2026-11-08T20:42:12.265684+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-08T20:30:25.144150+00:00",
  "run_log": [
-  "11-08 18:15:20 run start",
-  "11-08 18:15:31 listening 11 min",
-  "11-08 18:26:50 listening done",
-  "11-08 18:26:50 run end after 689 s",
   "11-08 18:30:24 run start",
   "11-08 18:30:38 listening 11 min",
   "11-08 18:41:58 listening done",
@@ -5028,7 +5118,11 @@
   "11-08 20:30:24 run start",
   "11-08 20:30:42 listening 11 min",
   "11-08 20:42:00 listening done",
-  "11-08 20:42:00 run end after 695 s"
+  "11-08 20:42:00 run end after 695 s",
+  "11-08 20:42:11 run start",
+  "11-08 20:42:30 listening 11 min",
+  "11-08 20:53:48 listening done",
+  "11-08 20:53:48 run end after 696 s"
  ],
  "day_pack_done": "2026-11-07",
  "photo_memory": {
@@ -5047,7 +5141,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Door_to_Senate_Chamber_MN_State_Capitol.jpg/1920px-Door_to_Senate_Chamber_MN_State_Capitol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/US_Capitol_dome_Jan_2006.jpg/1920px-US_Capitol_dome_Jan_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Stephen_Miller_%2854361578860%29.jpg/1280px-Stephen_Miller_%2854361578860%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Senator_of_Vermont_Bernie_Sanders_Campaign_Field_Office_In_Nashua_NH_11.jpg/1280px-Senator_of_Vermont_Bernie_Sanders_Campaign_Field_Office_In_Nashua_NH_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Senator_of_Vermont_Bernie_Sanders_Campaign_Field_Office_In_Nashua_NH_11.jpg/1280px-Senator_of_Vermont_Bernie_Sanders_Campaign_Field_Office_In_Nashua_NH_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Jensen_Huang_-_RTX_5070_Laptop_-_Nvidia_Keynote_-_CES_2025_Las_Vegas.jpg/1280px-Jensen_Huang_-_RTX_5070_Laptop_-_Nvidia_Keynote_-_CES_2025_Las_Vegas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -5571,6 +5666,82 @@
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Senator_of_Vermont_Bernie_Sanders_at_Derry_Town_Hall%2C_Pinkerton_Academy_NH_October_30th%2C_2015_by_Michael_Vadon_a_16.jpg/1280px-Senator_of_Vermont_Bernie_Sanders_at_Derry_Town_Hall%2C_Pinkerton_Academy_NH_October_30th%2C_2015_by_Michael_Vadon_a_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Michael Vadon / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     }
+    ]
+   },
+   "jensen huang": {
+    "t": "2026-11-08T20:42:24.937298+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/1280px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Anderseidesvik / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Jensen_Huang_-_RTX_5070_Laptop_-_Nvidia_Keynote_-_CES_2025_Las_Vegas.jpg/1280px-Jensen_Huang_-_RTX_5070_Laptop_-_Nvidia_Keynote_-_CES_2025_Las_Vegas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Pronoia / Wikimedia Commons (CC0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Jensen_Huang_20231109_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "總統府 / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Jensen_Huang_20231109.jpg/1280px-Jensen_Huang_20231109.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "總統府 / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Jensen_huang_stanford_2026-04-30_010.jpg/1280px-Jensen_huang_stanford_2026-04-30_010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Anderseidesvik / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Jensen_huang_stanford_2026-04-30_023.jpg/1280px-Jensen_huang_stanford_2026-04-30_023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Anderseidesvik / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Jensen_huang_stanford_2026-04-30_004.jpg/1280px-Jensen_huang_stanford_2026-04-30_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Anderseidesvik / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Jensen_Huang_-_RTX_Blackwell_-_Nvidia_Keynote_-_CES_2025_Las_Vegas_%282%29.jpg/1280px-Jensen_Huang_-_RTX_Blackwell_-_Nvidia_Keynote_-_CES_2025_Las_Vegas_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Pronoia / Wikimedia Commons (CC0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Jensen_Huang_-_Nvidia_Keynote_-_CES_2025_Las_Vegas_%281%29.jpg/1280px-Jensen_Huang_-_Nvidia_Keynote_-_CES_2025_Las_Vegas_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Pronoia / Wikimedia Commons (CC0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Jensen_huang_stanford_2026-04-30_031.jpg/1280px-Jensen_huang_stanford_2026-04-30_031.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Anderseidesvik / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Jensen_Huang_%28cropped%29_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Photographer: Peter Dasilva / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Jensen_huang_stanford_2026-04-30_003.jpg/1280px-Jensen_huang_stanford_2026-04-30_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Anderseidesvik / Wikimedia Commons (CC BY-SA 4.0)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": false
      }
