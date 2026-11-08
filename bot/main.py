@@ -81,7 +81,7 @@ def load_state():
     s.setdefault("tg_offset", 0)
     s.setdefault("drafts", {})
     s.setdefault("seen_links", [])
-    s.setdefault("recent_topics", [])   # [[iso_time, [keywords]]]
+    s.setdefault("recent_topics", [])   # [[iso_time, [keywords], draft_id]]
     s.setdefault("last_draft_at", None)
     s.setdefault("last_slot", None)
     return s
@@ -1076,21 +1076,38 @@ def cluster(items):
     return clusters
 
 
+def topic_status(state, t):
+    """Status of the draft a saved topic came from. Older topics have no draft id:
+    find the draft sent at that moment whose headline shares words with the topic."""
+    if len(t) >= 3:
+        return state["drafts"].get(t[2], {}).get("status")
+    when, roots = datetime.fromisoformat(t[0]), {stem(w) for w in t[1]}
+    for d in state["drafts"].values():
+        if abs((datetime.fromisoformat(d["created_at"]) - when).total_seconds()) < 300 and \
+                len({stem(w) for w in keywords(d.get("headline", ""))} & roots) >= 2:
+            return d.get("status")
+    return None
+
+
 def pick_stories(state, items):
     now = now_utc()
     seen = set(state["seen_links"])
-    recent = [{stem(w) for w in t[1]} for t in state["recent_topics"]]
+    # Topics already handled. A draft that expired without your choice doesn't block its topic.
+    recent = [{stem(w) for w in t[1]} for t in state["recent_topics"]
+              if topic_status(state, t) != "expired"]
     good = []
     for c in cluster(items):
         sources = {i["source"] for i in c["items"]}
         if len(sources) < MIN_SOURCES:
             continue
-        if any(i["link"] in seen for i in c["items"]):
-            continue
-        title_roots = {stem(w) for w in c["title_kw"]}
+        new_items = [i for i in c["items"] if i["link"] not in seen]
+        if not new_items:
+            continue  # every article here was already used
+        title_roots = {stem(w) for i in new_items for w in i["title_kw"]}   # judge only the new articles
         if any(len(title_roots & r) >= 4 for r in recent):
-            continue  # same topic posted recently
-        newest = max(i["published"] for i in c["items"])
+            continue  # same topic handled recently
+        c["items"] = new_items + [i for i in c["items"] if i["link"] in seen]  # newest new article first
+        newest = max(i["published"] for i in new_items)
         first = min(i["published"] for i in c["items"])
         hours_since_newest = (now - newest).total_seconds() / 3600
         if hours_since_newest > FRESH_HOURS:
@@ -1780,7 +1797,7 @@ def draft_new_posts(state):
             "news_latest": max(i["published"] for i in c["items"]).isoformat(),
         }
         if send_draft(state, d):
-            state["recent_topics"].append([now_utc().isoformat(), sorted(c["title_kw"])])
+            state["recent_topics"].append([now_utc().isoformat(), sorted(c["title_kw"]), d["id"]])
             made += 1
             log("Draft sent:", d["headline"], "| image:", d["bg"]["type"])
     if made == 0:
