@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892702,
+ "tg_offset": 495892704,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -2286,14 +2286,20 @@
    "news_time": "2026-11-08T10:01:50+00:00",
    "news_latest": "2026-11-08T11:00:38+00:00",
    "caption": "Over 190 Countries Gather in Turkey for COP31 UN Climate Talks\n\nDelegates from more than 190 countries are gathering in Antalya, Turkey, for two weeks of United Nations climate talks. The United States is absent from the summit, while Australia heads the negotiations following a hosting dispute with Turkey.\n\n💬 Can negotiators at COP31 achieve significant progress without the United States present?\n\n📖 Read more: https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve\n\n#COP31 #ClimateSummit #Antalya #7SeasNews",
-   "status": "queued",
+   "status": "posted",
    "tg_message_id": 90,
    "tg_file_id": "AgACAgUAAxkDAANaavBaNH823cdKzNAJ0-LwrH5DPkgAAvMUaxv_D4FXE7PzidHpeNsBAAMCAAN3AAM9BA",
    "queued_at": "2026-11-08T11:24:01.612503+00:00",
    "post_now": false,
-   "extra_msgs": [
-    91
-   ]
+   "extra_msgs": [],
+   "fb_post_id": "1413030521900096_122095986309548584",
+   "posted_at": "2026-11-08T14:30:23.564661+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 08 · 9:30 AM New York · 8:00 PM Sri Lanka\n\n<b>Over 190 Countries Gather in Turkey for COP31 UN Climate Talks</b>\n<i>New York Times, The Guardian</i>\n🔴 <b>Latest:</b> 4:30 PM Sri Lanka (3h 29m ago) · first reported 3:31 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122095986309548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 24,
+   "log_photo": true,
+   "cleared": true,
+   "fb_story_id": "2526607331082535"
   },
   "cba11577cc": {
    "id": "cba11577cc",
@@ -2556,6 +2562,149 @@
    "tg_file_id": "AgACAgUAAxkDAANuavCA_xOSHM1kYvW10PQpoS0oDycAAjIVaxv_D4FXB_0Efh5qMTABAAMCAAN3AAM9BA",
    "extra_msgs": [],
    "cleared": true
+  },
+  "65c0bffd33": {
+   "id": "65c0bffd33",
+   "headline": "Midterm Voters and Gen Z Push Back Against President Trump",
+   "summary": "Voters and young Americans under 30 delivered a strong message to President Donald Trump and the new Democratic congressional majority. Americans demanded economic relief for a U.S. economy damaged by inflation and voted decisively for Democrats.",
+   "label": "US POLITICS",
+   "hook": "How can President Trump and the Democratic congressional majority best address the economic relief demanded by voters?",
+   "key_points": [
+    "Voters demanded economic relief for the inflation-damaged U.S. economy.",
+    "Americans under 30 voted decisively for Democrats in the midterms.",
+    "Republicans previously made gains with young voters in 2024."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Economy",
+    "#Midterms"
+   ],
+   "sources": [
+    "ABC News",
+    "NPR"
+   ],
+   "link": "https://abcnews.com/Politics/wireStory/voters-demanded-economic-relief-trump-democrats-face-tough-137952337",
+   "links": [
+    [
+     "ABC News",
+     "https://abcnews.com/Politics/wireStory/voters-demanded-economic-relief-trump-democrats-face-tough-137952337"
+    ],
+    [
+     "NPR",
+     "https://www.npr.org/2026/11/08/nx-s1-6032829/gen-z-voters-midterm-elections"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Capitol_Washington_October_2016-3.jpg/1920px-Capitol_Washington_October_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Alvesgaspar / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ],
+    "inset": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credit": "Michael Vadon / Wikimedia Commons (CC BY-SA 4.0)",
+     "short": "WIKIMEDIA COMMONS"
+    }
+   },
+   "img_post": {
+    "headline": "Midterm Voters and Gen Z Push Back Against President Trump",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "US Capitol building",
+    "image_style": "scene",
+    "location": "US"
+   },
+   "created_at": "2026-11-08T14:30:51.936909+00:00",
+   "news_time": "2026-11-08T10:00:00+00:00",
+   "news_latest": "2026-11-08T14:16:52+00:00",
+   "caption": "Midterm Voters and Gen Z Push Back Against President Trump\n\nVoters and young Americans under 30 delivered a strong message to President Donald Trump and the new Democratic congressional majority. Americans demanded economic relief for a U.S. economy damaged by inflation and voted decisively for Democrats.\n\n💬 How can President Trump and the Democratic congressional majority best address the economic relief demanded by voters?\n\n📖 Read more: https://abcnews.com/Politics/wireStory/voters-demanded-economic-relief-trump-democrats-face-tough-137952337\n\n#USPolitics #Economy #Midterms #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 111,
+   "tg_file_id": "AgACAgUAAxkDAANvavCHntFniwnU_20tlBd55l2QQ0oAAjQVaxv_D4FXBoIwhSbVVpMBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-08T14:31:21.313734+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122095986783548584",
+   "posted_at": "2026-11-08T14:31:21.636501+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 08 · 9:31 AM New York · 8:01 PM Sri Lanka\n\n<b>Midterm Voters and Gen Z Push Back Against President Trump</b>\n<i>ABC News, NPR</i>\n🟢 <b>Latest:</b> 7:46 PM Sri Lanka (14 min ago) · first reported 3:30 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122095986783548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 25,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "965712019592699"
+  },
+  "b818c4e584": {
+   "id": "b818c4e584",
+   "headline": "Abu Dhabi Peace Talks: France Confirms European Participation",
+   "summary": "France will join upcoming peace talks in Abu Dhabi aimed at ending the war in Ukraine. French Foreign Minister Jean-Noël Barrot announced that European representatives will attend the US-mediated summit scheduled for Tuesday and Wednesday.",
+   "label": "DIPLOMACY",
+   "hook": "",
+   "key_points": [
+    "France will participate in peace talks in Abu Dhabi.",
+    "The discussions are mediated by the United States.",
+    "The summit takes place on Tuesday and Wednesday."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#UkraineWar",
+    "#AbuDhabi",
+    "#Diplomacy"
+   ],
+   "sources": [
+    "France 24",
+    "Kyiv Independent"
+   ],
+   "link": "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says",
+   "links": [
+    [
+     "France 24",
+     "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says"
+    ],
+    [
+     "Kyiv Independent",
+     "https://kyivindependent.com/europeans-will-participate-in-abu-dhabi-peace-talks-french-foreign-minister-says/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Abu_Dhabi_Skyline_from_a_boat_tour.jpg/1920px-Abu_Dhabi_Skyline_from_a_boat_tour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "AdnanDekedek / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Abu Dhabi Peace Talks: France Confirms European Participation",
+    "people": [],
+    "image_query": "Abu Dhabi skyline",
+    "image_style": "scene",
+    "location": "Abu Dhabi, United Arab Emirates"
+   },
+   "created_at": "2026-11-08T14:30:56.328433+00:00",
+   "news_time": "2026-11-08T14:15:47+00:00",
+   "news_latest": "2026-11-08T14:16:31+00:00",
+   "caption": "🚨 BREAKING: Abu Dhabi Peace Talks: France Confirms European Participation\n\nFrance will join upcoming peace talks in Abu Dhabi aimed at ending the war in Ukraine. French Foreign Minister Jean-Noël Barrot announced that European representatives will attend the US-mediated summit scheduled for Tuesday and Wednesday.\n\nWhat we know so far:\n• France will participate in peace talks in Abu Dhabi.\n• The discussions are mediated by the United States.\n• The summit takes place on Tuesday and Wednesday.\n\n📖 Read more: https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says\n\n#UkraineWar #AbuDhabi #Diplomacy #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 112,
+   "tg_file_id": "AgACAgUAAxkDAANwavCHoWWaAZC3EVhCCkegMOaWrjEAAjUVaxv_D4FXJwKTw4kRgOEBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-08T14:31:32.494983+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122095986963548584",
+   "posted_at": "2026-11-08T14:31:32.791849+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 08 · 9:31 AM New York · 8:01 PM Sri Lanka\n\n<b>Abu Dhabi Peace Talks: France Confirms European Participation</b>\n<i>France 24, Kyiv Independent</i>\n🟢 <b>Latest:</b> 7:46 PM Sri Lanka (15 min ago) · first reported 7:45 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122095986963548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 26,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "1673896664251994"
   }
  },
  "seen_links": [
@@ -2662,7 +2811,11 @@
   "https://www.foxnews.com/politics/democrats-midterm-sweep-opens-path-bypassing-electoral-college-2028",
   "https://www.nytimes.com/2026/11/08/upshot/democrats-electoral-college.html",
   "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss",
-  "https://www.euronews.com/2026/11/08/at-least-21-dead-after-migrant-boat-capsizes-off-senegal-authorities-say"
+  "https://www.euronews.com/2026/11/08/at-least-21-dead-after-migrant-boat-capsizes-off-senegal-authorities-say",
+  "https://abcnews.com/Politics/wireStory/voters-demanded-economic-relief-trump-democrats-face-tough-137952337",
+  "https://www.npr.org/2026/11/08/nx-s1-6032829/gen-z-voters-midterm-elections",
+  "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says",
+  "https://kyivindependent.com/europeans-will-participate-in-abu-dhabi-peace-talks-french-foreign-minister-says/"
  ],
  "recent_topics": [
   [
@@ -3403,19 +3556,61 @@
     "small"
    ],
    "dbae0af08f"
+  ],
+  [
+   "2026-11-08T14:30:54.585978+00:00",
+   [
+    "actually",
+    "blu",
+    "can",
+    "choic",
+    "congress",
+    "deliver",
+    "demand",
+    "democrat",
+    "economic",
+    "fac",
+    "fuel",
+    "gen",
+    "help",
+    "relief",
+    "stop",
+    "tariff",
+    "tough",
+    "trump",
+    "voter",
+    "wav",
+    "won"
+   ],
+   "65c0bffd33"
+  ],
+  [
+   "2026-11-08T14:30:57.610802+00:00",
+   [
+    "abu",
+    "dhabi",
+    "europ",
+    "foreign",
+    "french",
+    "minister",
+    "part",
+    "participat",
+    "peac",
+    "tak",
+    "talk",
+    "ukrain",
+    "us-mediat"
+   ],
+   "b818c4e584"
   ]
  ],
- "last_draft_at": "2026-11-08T14:15:20.487653+00:00",
- "last_slot": "2026-11-08T07:00:00-05:00",
+ "last_draft_at": "2026-11-08T14:30:38.770183+00:00",
+ "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-08T14:15:18.979026+00:00",
  "run_log": [
-  "11-08 11:45:20 run start",
-  "11-08 11:45:31 listening 11 min",
-  "11-08 11:56:51 listening done",
-  "11-08 11:56:51 run end after 691 s",
   "11-08 12:00:30 run start",
   "11-08 12:00:49 listening 11 min",
   "11-08 12:12:03 listening done",
@@ -3451,10 +3646,96 @@
   "11-08 14:15:18 run start",
   "11-08 14:15:29 listening 11 min",
   "11-08 14:26:47 listening done",
-  "11-08 14:26:47 run end after 689 s"
+  "11-08 14:26:47 run end after 689 s",
+  "11-08 14:30:23 run start",
+  "11-08 14:30:57 listening 11 min",
+  "11-08 14:42:12 listening done",
+  "11-08 14:42:12 run end after 709 s"
  ],
  "day_pack_done": "2026-11-07",
  "photo_memory": {
-  "recent": []
+  "recent": [
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Capitol_Washington_October_2016-3.jpg/1920px-Capitol_Washington_October_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Abu_Dhabi_Skyline_from_a_boat_tour.jpg/1920px-Abu_Dhabi_Skyline_from_a_boat_tour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  ],
+  "pools": {
+   "donald trump": {
+    "t": "2026-11-08T14:30:50.676290+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Daniel Torok / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Shealeah Craighead / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Shealeah Craighead / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Master Sgt. Michel Sauret / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg/1280px-Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "The White House from Washington, DC / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Donald_Trump_takes_the_oath_of_office_%282025%29.jpg/1280px-Donald_Trump_takes_the_oath_of_office_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Joint Congressional Committee on Inaugural Ceremonies / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_12.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Michael Vadon / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Michael Vadon / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Michael Vadon / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Donald_Trump_official_portrait_2020_election.jpg/1280px-Donald_Trump_official_portrait_2020_election.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Shealeah Craighead / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Donald_Trump_RNC_July_2016.jpg/1280px-Donald_Trump_RNC_July_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Ali Shaker/VOA / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Donald_Trump_by_Gage_Skidmore_4_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     }
+    ]
+   }
+  }
  }
 }
