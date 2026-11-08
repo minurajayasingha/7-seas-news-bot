@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892698,
+ "tg_offset": 495892699,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -2438,19 +2438,20 @@
   },
   "4bf9049c5b": {
    "id": "4bf9049c5b",
-   "headline": "Midterm victories open path for Democrats to sidestep Electoral College",
-   "summary": "Recent midterm victories in key swing states have given Democrats a potential path to bypass the Electoral College. Legal challenges are expected as states consider the national popular vote.",
+   "headline": "Midterm victories open possible path to bypassing Electoral College",
+   "summary": "Recent midterm victories give Democrats an opportunity to push the National Popular Vote Interstate Compact past the threshold needed to activate it. However, legal challenges and other obstacles would potentially loom over the effort.",
    "label": "ELECTIONS",
-   "hook": "Would legal challenges stop this effort to change how Americans select the presidency?",
+   "hook": "Would legal challenges successfully block efforts to bypass the Electoral College?",
    "key_points": [
-    "Democrat trifectas in swing states could push the compact past 270 votes",
-    "Legal challenges loom over the national popular vote effort"
+    "Democratic trifectas in swing states could advance the compact.",
+    "The plan requires 270 electoral votes to activate.",
+    "The change could alter how the US presidency is selected."
    ],
    "breaking": false,
    "hashtags": [
+    "#ElectoralCollege",
     "#USPolitics",
-    "#Elections",
-    "#Democracy"
+    "#Midterms"
    ],
    "sources": [
     "Fox News",
@@ -2478,30 +2479,21 @@
     ]
    },
    "img_post": {
-    "headline": "Midterm victories open path for Democrats to sidestep Electoral College",
+    "headline": "Midterm victories open possible path to bypassing Electoral College",
     "people": [],
     "image_query": "US Capitol building",
     "image_style": "scene",
     "location": "US"
    },
-   "created_at": "2026-11-08T13:19:21.258850+00:00",
+   "created_at": "2026-11-08T13:27:33.107388+00:00",
    "news_time": "2026-11-08T10:14:43+00:00",
    "news_latest": "2026-11-08T13:00:09+00:00",
-   "caption": "Midterm victories open path for Democrats to sidestep Electoral College\n\nRecent midterm victories in key swing states have given Democrats a potential path to bypass the Electoral College. Legal challenges are expected as states consider the national popular vote.\n\n💬 Would legal challenges stop this effort to change how Americans select the presidency?\n\n📖 Read more: https://www.foxnews.com/politics/democrats-midterm-sweep-opens-path-bypassing-electoral-college-2028\n\n#USPolitics #Elections #Democracy #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 105,
-   "tg_file_id": "AgACAgUAAxkDAANpavB23B1v28SnPBjcEmOD8qpGuKYAAhwVaxv_D4FXaQfoCyxlXcUBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-08T13:20:04.270018+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122095954011548584",
-   "posted_at": "2026-11-08T13:20:04.605367+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 08 · 8:20 AM New York · 6:50 PM Sri Lanka\n\n<b>Midterm victories open path for Democrats to sidestep Electoral College</b>\n<i>Fox News, New York Times</i>\n🟢 <b>Latest:</b> 6:30 PM Sri Lanka (20 min ago) · first reported 3:44 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122095954011548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 22,
-   "log_photo": true,
+   "caption": "Midterm victories open possible path to bypassing Electoral College\n\nRecent midterm victories give Democrats an opportunity to push the National Popular Vote Interstate Compact past the threshold needed to activate it. However, legal challenges and other obstacles would potentially loom over the effort.\n\n💬 Would legal challenges successfully block efforts to bypass the Electoral College?\n\n📖 Read more: https://www.foxnews.com/politics/democrats-midterm-sweep-opens-path-bypassing-electoral-college-2028\n\n#ElectoralCollege #USPolitics #Midterms #7SeasNews",
+   "status": "skipped",
+   "tg_message_id": 106,
+   "tg_file_id": "AgACAgUAAxkDAANqavB4yYJVFBZtrQia51rAEg4f5LsAAh0Vaxv_D4FXgmBxER6oMh8BAAMCAAN3AAM9BA",
    "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "1500802689778026"
+   "cleared": true
   }
  },
  "seen_links": [
@@ -3316,7 +3308,7 @@
    "fcef0533ef"
   ],
   [
-   "2026-11-08T13:19:24.977966+00:00",
+   "2026-11-08T13:27:38.021300+00:00",
    [
     "bypass",
     "colleg",
@@ -3333,12 +3325,12 @@
    "4bf9049c5b"
   ]
  ],
- "last_draft_at": "2026-11-08T13:19:09.089001+00:00",
+ "last_draft_at": "2026-11-08T13:27:20.980918+00:00",
  "last_slot": "2026-11-08T07:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-08T13:15:21.804753+00:00",
+ "last_stats_at": "2026-11-08T13:27:18.951330+00:00",
  "run_log": [
   "11-08 11:00:29 run start",
   "11-08 11:00:44 listening 11 min",
@@ -3376,10 +3368,10 @@
   "11-08 13:00:38 listening 11 min",
   "11-08 13:11:58 listening done",
   "11-08 13:11:58 run end after 689 s",
-  "11-08 13:15:21 run start",
-  "11-08 13:15:32 listening 11 min",
-  "11-08 13:27:03 listening done",
-  "11-08 13:27:03 run end after 701 s"
+  "11-08 13:27:18 run start (forced news search)",
+  "11-08 13:27:38 listening 11 min",
+  "11-08 13:38:53 listening done",
+  "11-08 13:38:53 run end after 694 s"
  ],
  "day_pack_done": "2026-11-07"
 }
