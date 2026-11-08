@@ -2916,6 +2916,74 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_story_id": "1102275389284861"
+  },
+  "a8f9297a4b": {
+   "id": "a8f9297a4b",
+   "headline": "Riyadh Aramco building damaged in Houthi attack",
+   "summary": "An Aramco energy company building in Riyadh sustained damage during an attack. Saudi authorities stated that missiles were intercepted and falling shrapnel hit the structure.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Aramco building damaged in Riyadh",
+    "Missiles intercepted over Saudi Arabia",
+    "No injuries reported by authorities"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#WorldNews",
+    "#SaudiArabia",
+    "#Riyadh"
+   ],
+   "sources": [
+    "ABC News",
+    "New York Times",
+    "The Independent",
+    "UPI"
+   ],
+   "link": "https://www.upi.com/Top_News/World-News/2026/11/08/saudi-arabia-aramco-building-attack/1881794149790/",
+   "links": [
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/World-News/2026/11/08/saudi-arabia-aramco-building-attack/1881794149790/"
+    ],
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/saudi-arabia-intercepts-missiles-aramco-building-riyadh-damaged-137951443"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/middle-east/saudi-armaco-building-damage-attack-b3081179.html"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Riyadh, Saudi Arabia"
+   },
+   "img_post": {
+    "headline": "Riyadh Aramco building damaged in Houthi attack",
+    "people": [],
+    "image_query": "Riyadh skyline",
+    "image_queries": [
+     "Saudi Aramco building",
+     "Riyadh financial district",
+     "Saudi Arabia capital",
+     "Riyadh city"
+    ],
+    "image_style": "incident",
+    "location": "Riyadh, Saudi Arabia"
+   },
+   "created_at": "2026-11-08T15:45:30.427514+00:00",
+   "news_time": "2026-11-08T11:18:23+00:00",
+   "news_latest": "2026-11-08T15:23:41+00:00",
+   "caption": "Riyadh Aramco building damaged in Houthi attack\n\nAn Aramco energy company building in Riyadh sustained damage during an attack. Saudi authorities stated that missiles were intercepted and falling shrapnel hit the structure.\n\n📖 Read more: https://www.upi.com/Top_News/World-News/2026/11/08/saudi-arabia-aramco-building-attack/1881794149790/\n\n#WorldNews #SaudiArabia #Riyadh #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 117,
+   "tg_file_id": "AgACAgUAAxkDAAN1avCZHLb727rNh3Q2i0PWddS3j4IAAhsVaxv_D4lXlp2DBqWfldQBAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -3030,7 +3098,11 @@
   "https://thehill.com/policy/international/6206505-meloni-blames-russian-hackers-tajani/",
   "https://www.cbsnews.com/news/italy-giorgia-meloni-ukraine-russia-hack-data-leak/",
   "https://www.independent.co.uk/news/world/africa/train-collision-egypt-giza-death-toll-injured-b3081246.html",
-  "https://news.sky.com/story/four-dead-and-88-injured-in-train-crash-near-cairo-13609748"
+  "https://news.sky.com/story/four-dead-and-88-injured-in-train-crash-near-cairo-13609748",
+  "https://www.upi.com/Top_News/World-News/2026/11/08/saudi-arabia-aramco-building-attack/1881794149790/",
+  "https://abcnews.com/International/wireStory/saudi-arabia-intercepts-missiles-aramco-building-riyadh-damaged-137951443",
+  "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
+  "https://www.independent.co.uk/news/world/middle-east/saudi-armaco-building-damage-attack-b3081179.html"
  ],
  "recent_topics": [
   [
@@ -3854,19 +3926,38 @@
     "train"
    ],
    "63cb666207"
+  ],
+  [
+   "2026-11-08T15:45:33.017889+00:00",
+   [
+    "arabia",
+    "aramco",
+    "attack",
+    "build",
+    "damag",
+    "district",
+    "financial",
+    "houthi",
+    "intercept",
+    "mideast",
+    "missil",
+    "other",
+    "riyadh",
+    "saudi",
+    "suspect",
+    "tower",
+    "yemen"
+   ],
+   "a8f9297a4b"
   ]
  ],
- "last_draft_at": "2026-11-08T15:30:27.952962+00:00",
+ "last_draft_at": "2026-11-08T15:45:20.754418+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-08T15:15:18.482142+00:00",
  "run_log": [
-  "11-08 13:00:28 run start",
-  "11-08 13:00:38 listening 11 min",
-  "11-08 13:11:58 listening done",
-  "11-08 13:11:58 run end after 689 s",
   "11-08 13:15:21 run start",
   "11-08 13:15:32 listening 11 min",
   "11-08 13:27:03 listening done",
@@ -3902,7 +3993,11 @@
   "11-08 15:30:27 run start",
   "11-08 15:30:38 listening 11 min",
   "11-08 15:41:57 listening done",
-  "11-08 15:41:57 run end after 690 s"
+  "11-08 15:41:57 run end after 690 s",
+  "11-08 15:45:20 run start",
+  "11-08 15:45:33 listening 11 min",
+  "11-08 15:56:51 listening done",
+  "11-08 15:56:51 run end after 691 s"
  ],
  "day_pack_done": "2026-11-07",
  "photo_memory": {
