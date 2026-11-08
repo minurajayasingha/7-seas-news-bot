@@ -3722,6 +3722,64 @@
    "status": "pending",
    "tg_message_id": 131,
    "tg_file_id": "AgACAgUAAxkDAAODavDRX_tdtHInHgHgJYvImo03y5sAAlQVaxv_D4lXyWUiIH-uRC0BAAMCAAN3AAM9BA"
+  },
+  "501abc30b3": {
+   "id": "501abc30b3",
+   "headline": "Arrest made after homecoming weekend shootings at Winston-Salem State University",
+   "summary": "Authorities arrested a suspect following two separate campus shootings during homecoming weekend. The violence left one person dead and three others wounded.",
+   "label": "US POLITICS",
+   "hook": "",
+   "key_points": [
+    "Two separate shootings occurred on campus on Saturday night.",
+    "One person was killed and three others were injured.",
+    "Police made an arrest following the incident."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#WinstonSalemState",
+    "#CampusSafety",
+    "#BreakingNews"
+   ],
+   "sources": [
+    "NBC News",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/americas/winston-salem-state-shooting-arrest-ziyaire-spinks-north-carolina-b3081331.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/winston-salem-state-shooting-arrest-ziyaire-spinks-north-carolina-b3081331.html"
+    ],
+    [
+     "NBC News",
+     "https://www.nbcnews.com/news/us-news/shootings-winston-salem-state-university-campus-rcna608082"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "North Carolina, US"
+   },
+   "img_post": {
+    "headline": "Arrest made after homecoming weekend shootings at Winston-Salem State University",
+    "people": [],
+    "image_query": "Winston-Salem State University campus",
+    "image_queries": [
+     "university campus entrance",
+     "police tape at university",
+     "campus administration building",
+     "university quad"
+    ],
+    "image_style": "incident",
+    "location": "North Carolina, US"
+   },
+   "created_at": "2026-11-08T20:30:40.403929+00:00",
+   "news_time": "2026-11-08T15:09:18+00:00",
+   "news_latest": "2026-11-08T20:23:08+00:00",
+   "caption": "Arrest made after homecoming weekend shootings at Winston-Salem State University\n\nAuthorities arrested a suspect following two separate campus shootings during homecoming weekend. The violence left one person dead and three others wounded.\n\n📖 Read more: https://www.independent.co.uk/news/world/americas/winston-salem-state-shooting-arrest-ziyaire-spinks-north-carolina-b3081331.html\n\n#WinstonSalemState #CampusSafety #BreakingNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 132,
+   "tg_file_id": "AgACAgUAAxkDAAOEavDb8vDoVMhq_EjDuFjUGGdUkHYAAlkVaxv_D4lXAS5JwZg4rkQBAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -3864,7 +3922,9 @@
   "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html",
   "https://www.cbsnews.com/news/jon-meacham-on-the-midterms-and-americas-better-angels/",
   "https://www.independent.co.uk/news/world/americas/us-politics/bernie-sanders-trump-stephen-miller-midterms-b3081279.html",
-  "https://www.washingtonexaminer.com/news/white-house/4796807/stephen-miller-thrive-hostile-media-joe-concha/"
+  "https://www.washingtonexaminer.com/news/white-house/4796807/stephen-miller-thrive-hostile-media-joe-concha/",
+  "https://www.independent.co.uk/news/world/americas/winston-salem-state-shooting-arrest-ziyaire-spinks-north-carolina-b3081331.html",
+  "https://www.nbcnews.com/news/us-news/shootings-winston-salem-state-university-campus-rcna608082"
  ],
  "recent_topics": [
   [
@@ -4899,19 +4959,36 @@
     "viciou"
    ],
    "3b44a15813"
+  ],
+  [
+   "2026-11-08T20:30:42.575563+00:00",
+   [
+    "arrest",
+    "campu",
+    "deadly",
+    "follow",
+    "homecom",
+    "injur",
+    "kill",
+    "mad",
+    "man",
+    "other",
+    "shoot",
+    "stat",
+    "university",
+    "weekend",
+    "winston-salem"
+   ],
+   "501abc30b3"
   ]
  ],
- "last_draft_at": "2026-11-08T20:15:18.104117+00:00",
+ "last_draft_at": "2026-11-08T20:30:28.863937+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-08T19:30:26.049475+00:00",
+ "last_stats_at": "2026-11-08T20:30:25.144150+00:00",
  "run_log": [
-  "11-08 18:00:27 run start",
-  "11-08 18:00:53 listening 11 min",
-  "11-08 18:12:02 listening done",
-  "11-08 18:12:02 run end after 695 s",
   "11-08 18:15:20 run start",
   "11-08 18:15:31 listening 11 min",
   "11-08 18:26:50 listening done",
@@ -4947,7 +5024,11 @@
   "11-08 20:15:17 run start",
   "11-08 20:15:28 listening 11 min",
   "11-08 20:26:46 listening done",
-  "11-08 20:26:46 run end after 688 s"
+  "11-08 20:26:46 run end after 688 s",
+  "11-08 20:30:24 run start",
+  "11-08 20:30:42 listening 11 min",
+  "11-08 20:42:00 listening done",
+  "11-08 20:42:00 run end after 695 s"
  ],
  "day_pack_done": "2026-11-07",
  "photo_memory": {
