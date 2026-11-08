@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892686,
+ "tg_offset": 495892691,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -2149,9 +2149,212 @@
    "news_time": "2026-11-08T08:59:28+00:00",
    "news_latest": "2026-11-08T10:43:45+00:00",
    "caption": "🚨 BREAKING: Russian strikes hit emergency workers and multiple settlements in Ukraine\n\nRussian attacks across Ukraine resulted in casualties, including a drone strike targeting rescue workers in the south. Governor Ivan Fedorov reported hundreds of strikes in Zaporizhzhia Oblast alone over the past day.\n\nWhat we know so far:\n• Russian attacks killed 7 and injured 16 people over the past day.\n• A drone struck emergency workers in southern Ukraine.\n• Zaporizhzhia Oblast experienced 725 strikes across 53 settlements.\n\n📖 Read more: https://abcnews.com/International/wireStory/russia-targets-emergency-crews-site-deadly-strike-southern-137951536\n\n#Ukraine #WorldNews #Conflict #7SeasNews",
-   "status": "pending",
+   "status": "replaced",
    "tg_message_id": 88,
-   "tg_file_id": "AgACAgUAAxkDAANYavBWW7psB2SZeeSAeLscOBaL6XgAAusUaxv_D4FXD2GYRYuNzZcBAAMCAAN3AAM9BA"
+   "tg_file_id": "AgACAgUAAxkDAANYavBWW7psB2SZeeSAeLscOBaL6XgAAusUaxv_D4FXD2GYRYuNzZcBAAMCAAN3AAM9BA",
+   "extra_msgs": [],
+   "cleared": true
+  },
+  "f7696860de": {
+   "id": "f7696860de",
+   "headline": "Democrats sweep elections: Justice Department braces for congressional scrutiny",
+   "summary": "Following a sweep in the elections, Democrats have pledged to probe actions taken by the Justice Department during Trump's second term. Meanwhile, Ukraine hopes for increased US support amid uncertainty over military aid and peace efforts.",
+   "label": "US POLITICS",
+   "hook": "Will the congressional win by Democrats lead to stronger support for Ukraine?",
+   "key_points": [
+    "Democrats swept the elections and pledged to probe the Justice Department.",
+    "Trump has ordered the agency to investigate Democrats.",
+    "Ukraine faces uncertainty regarding US military aid and peace efforts."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Democrats",
+    "#JusticeDepartment"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "Washington Post"
+   ],
+   "link": "https://www.washingtonpost.com/national-security/2026/11/08/after-midterms-justice-dept-braces-barrage-congressional-scrutiny/",
+   "links": [
+    [
+     "Washington Post",
+     "https://www.washingtonpost.com/national-security/2026/11/08/after-midterms-justice-dept-braces-barrage-congressional-scrutiny/"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Capitol_Washington_October_2016-1.jpg/1920px-Capitol_Washington_October_2016-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Alvesgaspar / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Democrats sweep elections: Justice Department braces for congressional scrutiny",
+    "people": [],
+    "image_query": "US Capitol building",
+    "image_style": "scene",
+    "location": "US"
+   },
+   "created_at": "2026-11-08T11:15:35.186436+00:00",
+   "news_time": "2026-11-08T09:30:17+00:00",
+   "news_latest": "2026-11-08T11:00:00+00:00",
+   "caption": "Democrats sweep elections: Justice Department braces for congressional scrutiny\n\nFollowing a sweep in the elections, Democrats have pledged to probe actions taken by the Justice Department during Trump's second term. Meanwhile, Ukraine hopes for increased US support amid uncertainty over military aid and peace efforts.\n\n💬 Will the congressional win by Democrats lead to stronger support for Ukraine?\n\n📖 Read more: https://www.washingtonpost.com/national-security/2026/11/08/after-midterms-justice-dept-braces-barrage-congressional-scrutiny/\n\n#USPolitics #Democrats #JusticeDepartment #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 89,
+   "tg_file_id": "AgACAgUAAxkDAANZavBZ2dMil-gRsDc8Xjko5vabVnsAAvAUaxv_D4FXNJ8EmZAG3d4BAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-08T11:23:47.636668+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122095896405548584",
+   "posted_at": "2026-11-08T11:23:47.977591+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 08 · 6:23 AM New York · 4:53 PM Sri Lanka\n\n<b>Democrats sweep elections: Justice Department braces for congressional scrutiny</b>\n<i>Al Jazeera, Washington Post</i>\n🟢 <b>Latest:</b> 4:30 PM Sri Lanka (23 min ago) · first reported 3:00 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122095896405548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 18,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "1155680217141875"
+  },
+  "16a7ddba9c": {
+   "id": "16a7ddba9c",
+   "headline": "Over 190 Countries Gather in Turkey for COP31 UN Climate Talks",
+   "summary": "Delegates from more than 190 countries are gathering in Antalya, Turkey, for two weeks of United Nations climate talks. The United States is absent from the summit, while Australia heads the negotiations following a hosting dispute with Turkey.",
+   "label": "DIPLOMACY",
+   "hook": "Can negotiators at COP31 achieve significant progress without the United States present?",
+   "key_points": [
+    "More than 190 countries are gathering in Antalya for COP31",
+    "The United States will be absent from the two-week talks",
+    "Australia leads negotiations after a hosting dispute with Turkey"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#COP31",
+    "#ClimateSummit",
+    "#Antalya"
+   ],
+   "sources": [
+    "New York Times",
+    "The Guardian"
+   ],
+   "link": "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve",
+   "links": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Ant_on_golden_club_%2824749%29.jpg/1920px-Ant_on_golden_club_%2824749%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Rhododendrites / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Over 190 Countries Gather in Turkey for COP31 UN Climate Talks",
+    "people": [],
+    "image_query": "Antalya Turkey city",
+    "image_style": "scene",
+    "location": "Antalya, Turkey"
+   },
+   "created_at": "2026-11-08T11:17:06.226898+00:00",
+   "news_time": "2026-11-08T10:01:50+00:00",
+   "news_latest": "2026-11-08T11:00:38+00:00",
+   "caption": "Over 190 Countries Gather in Turkey for COP31 UN Climate Talks\n\nDelegates from more than 190 countries are gathering in Antalya, Turkey, for two weeks of United Nations climate talks. The United States is absent from the summit, while Australia heads the negotiations following a hosting dispute with Turkey.\n\n💬 Can negotiators at COP31 achieve significant progress without the United States present?\n\n📖 Read more: https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve\n\n#COP31 #ClimateSummit #Antalya #7SeasNews",
+   "status": "queued",
+   "tg_message_id": 90,
+   "tg_file_id": "AgACAgUAAxkDAANaavBaNH823cdKzNAJ0-LwrH5DPkgAAvMUaxv_D4FXE7PzidHpeNsBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-08T11:24:01.612503+00:00",
+   "post_now": false,
+   "extra_msgs": [
+    91
+   ]
+  },
+  "cba11577cc": {
+   "id": "cba11577cc",
+   "headline": "Russian strikes hit emergency workers and multiple settlements in Ukraine",
+   "summary": "Russian attacks across Ukraine resulted in casualties, including a drone strike targeting rescue workers in the south. Governor Ivan Fedorov reported hundreds of strikes in Zaporizhzhia Oblast alone over the past day.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Russian attacks killed 7 and injured 16 people over the past day.",
+    "A drone struck emergency workers in southern Ukraine.",
+    "Zaporizhzhia Oblast experienced 725 strikes across 53 settlements."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Ukraine",
+    "#WorldNews",
+    "#Conflict"
+   ],
+   "sources": [
+    "ABC News",
+    "Kyiv Independent"
+   ],
+   "link": "https://abcnews.com/International/wireStory/russia-targets-emergency-crews-site-deadly-strike-southern-137951536",
+   "links": [
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/russia-targets-emergency-crews-site-deadly-strike-southern-137951536"
+    ],
+    [
+     "Kyiv Independent",
+     "https://kyivindependent.com/russian-attacks-kill-5-injure-10-in-ukraine-over-the-past-day-striking-zaporizhzhia-oblast-over-700-times/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "tg_file_id": "AgACAgUAAxkBAANcavBb99N4jBZc6v2f-LcKb4Y3QtMAAvoUaxv_D4FXhrx-fWQaDOUBAAMCAAN5AAM9BA",
+      "credit": ""
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Russian strikes hit emergency workers and multiple settlements in Ukraine",
+    "people": [],
+    "image_query": "Zaporizhzhia region Ukraine",
+    "image_style": "incident",
+    "location": "Zaporizhzhia, Ukraine"
+   },
+   "created_at": "2026-11-08T11:24:39.993663+00:00",
+   "news_time": "2026-11-08T08:59:28+00:00",
+   "news_latest": "2026-11-08T10:43:45+00:00",
+   "caption": "🚨 BREAKING: Russian strikes hit emergency workers and multiple settlements in Ukraine\n\nRussian attacks across Ukraine resulted in casualties, including a drone strike targeting rescue workers in the south. Governor Ivan Fedorov reported hundreds of strikes in Zaporizhzhia Oblast alone over the past day.\n\nWhat we know so far:\n• Russian attacks killed 7 and injured 16 people over the past day.\n• A drone struck emergency workers in southern Ukraine.\n• Zaporizhzhia Oblast experienced 725 strikes across 53 settlements.\n\n📖 Read more: https://abcnews.com/International/wireStory/russia-targets-emergency-crews-site-deadly-strike-southern-137951536\n\n#Ukraine #WorldNews #Conflict #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 93,
+   "tg_file_id": "AgACAgUAAxkDAANdavBcAYEZXqlpOg2WeNDwQmVXR_UAAvsUaxv_D4FXu7OuwXPzgdUBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-08T11:25:06.899827+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122095897389548584",
+   "posted_at": "2026-11-08T11:25:07.231821+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 08 · 6:25 AM New York · 4:55 PM Sri Lanka\n\n<b>Russian strikes hit emergency workers and multiple settlements in Ukraine</b>\n<i>ABC News, Kyiv Independent</i>\n🟢 <b>Latest:</b> 4:13 PM Sri Lanka (41 min ago) · first reported 2:29 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122095897389548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 19,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "1362222395851657"
   }
  },
  "seen_links": [
@@ -2247,7 +2450,12 @@
   "https://www.newsweek.com/what-if-trump-had-lost-in-2016-10-years-of-alternate-history-12672662",
   "https://www.theguardian.com/us-news/ng-interactive/2026/nov/08/trump-midterms-voters-mirror-world",
   "https://abcnews.com/International/wireStory/russia-targets-emergency-crews-site-deadly-strike-southern-137951536",
-  "https://kyivindependent.com/russian-attacks-kill-5-injure-10-in-ukraine-over-the-past-day-striking-zaporizhzhia-oblast-over-700-times/"
+  "https://kyivindependent.com/russian-attacks-kill-5-injure-10-in-ukraine-over-the-past-day-striking-zaporizhzhia-oblast-over-700-times/",
+  "https://www.washingtonpost.com/national-security/2026/11/08/after-midterms-justice-dept-braces-barrage-congressional-scrutiny/",
+  "https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss",
+  "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve",
+  "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks",
+  "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html"
  ],
  "recent_topics": [
   [
@@ -2899,14 +3107,51 @@
     "zaporizhzhia"
    ],
    "ae001d5774"
+  ],
+  [
+   "2026-11-08T11:15:37.777667+00:00",
+   [
+    "brac",
+    "congressional",
+    "democrat",
+    "department",
+    "election",
+    "hand",
+    "justic",
+    "russia",
+    "scrutiny",
+    "strengthen",
+    "sweep",
+    "ukrain",
+    "win"
+   ],
+   "f7696860de"
+  ],
+  [
+   "2026-11-08T11:17:08.430379+00:00",
+   [
+    "achiev",
+    "antalya",
+    "can",
+    "climat",
+    "cop",
+    "guid",
+    "key",
+    "player",
+    "stak",
+    "summit",
+    "talk",
+    "turkey"
+   ],
+   "16a7ddba9c"
   ]
  ],
- "last_draft_at": "2026-11-08T11:00:29.473086+00:00",
+ "last_draft_at": "2026-11-08T11:15:24.521324+00:00",
  "last_slot": null,
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-08T10:05:33.099440+00:00",
+ "last_stats_at": "2026-11-08T11:15:21.598385+00:00",
  "run_log": [
   "11-08 10:00:30 run start",
   "11-08 10:01:03 listening 11 min",
@@ -2927,7 +3172,11 @@
   "11-08 11:00:29 run start",
   "11-08 11:00:44 listening 11 min",
   "11-08 11:12:03 listening done",
-  "11-08 11:12:03 run end after 694 s"
+  "11-08 11:12:03 run end after 694 s",
+  "11-08 11:15:21 run start",
+  "11-08 11:17:08 listening 10 min",
+  "11-08 11:27:03 listening done",
+  "11-08 11:27:03 run end after 702 s"
  ],
  "day_pack_done": "2026-11-07"
 }
