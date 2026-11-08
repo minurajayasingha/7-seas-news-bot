@@ -23,6 +23,7 @@ import time
 import hashlib
 import html
 import traceback
+import signal
 import unicodedata
 import threading
 from datetime import datetime, timedelta, timezone
@@ -379,9 +380,19 @@ def tg_download(file_id):
 # 1) READ BUTTON TAPS FROM TELEGRAM
 # =============================================================================
 
-def find_draft_by_message(state, message_id):
+def find_draft_by_message(state, message_id, caption=""):
+    """The draft you replied to: by its message number, or else by its headline (first line)."""
     for d in state["drafts"].values():
         if d.get("tg_message_id") == message_id and d["status"] in ("pending", "queued"):
+            return d
+    headline = (caption or "").strip().split("\n")[0].strip()
+    if headline:
+        same = [d for d in state["drafts"].values()
+                if d["status"] in ("pending", "queued") and d.get("headline", "").strip() == headline]
+        if same:
+            d = max(same, key=lambda x: x["created_at"])
+            if message_id and message_id not in d.get("extra_msgs", []):
+                d.setdefault("extra_msgs", []).append(message_id)   # delete that copy later too
             return d
     return None
 
@@ -606,7 +617,7 @@ def process_telegram(state, wait=0):
 
         rep = msg.get("reply_to_message")
         if rep:
-            d = find_draft_by_message(state, rep.get("message_id"))
+            d = find_draft_by_message(state, rep.get("message_id"), rep.get("caption") or rep.get("text") or "")
             if d:
                 try:
                     handle_reply(state, msg, d)
@@ -1838,11 +1849,18 @@ def expire_pending(state):
 # MAIN
 # =============================================================================
 
+def note(state, text):
+    """Short run diary kept in state.json (last 40 lines), to see what each run did."""
+    state.setdefault("run_log", []).append(f"{now_utc():%m-%d %H:%M:%S} {text}")
+    state["run_log"] = state["run_log"][-40:]
+
+
 def listen(state, until):
     """Stay online until `until`, so taps and replies are handled within seconds."""
     if until - time.time() < 40:
         return
     log(f"Listening to Telegram for {int((until - time.time()) / 60)} min")
+    note(state, f"listening {int((until - time.time()) / 60)} min")
     while until - time.time() > 35:
         try:
             process_telegram(state, wait=25)   # returns as soon as you tap or send something
@@ -1854,7 +1872,9 @@ def listen(state, until):
             save_state(state)
         except Exception as e:
             log("Listen error:", e)
+            note(state, f"listen error: {str(e)[:150]}")
             time.sleep(10)
+    note(state, "listening done")
 
 
 def main():
@@ -1865,8 +1885,11 @@ def main():
         print("Missing secrets:", ", ".join(missing))
         sys.exit(1)
 
+    # If GitHub stops the run, turn that into a normal exit so the memory is still saved.
+    signal.signal(signal.SIGTERM, lambda *a: sys.exit(143))
     started = time.time()
     state = load_state()
+    note(state, "run start" + (" (forced news search)" if FORCE_DRAFT else ""))
     try:
         set_commands_once(state)
         process_telegram(state)
@@ -1885,13 +1908,15 @@ def main():
             draft_new_posts(state)
         save_state(state)
         listen(state, started + LISTEN_MINUTES * 60)
-    except Exception as e:
+    except BaseException as e:   # also catches stops like KeyboardInterrupt/SystemExit, so memory is saved
         traceback.print_exc()
+        note(state, f"run error: {type(e).__name__}: {str(e)[:150]}")
         try:
             tg_text(f"⚠️ Bot error:\n<code>{html.escape(str(e))[:800]}</code>")
         except Exception:
             pass
     finally:
+        note(state, f"run end after {int(time.time() - started)} s")
         save_state(state)
 
 
