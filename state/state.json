@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892659,
+ "tg_offset": 495892663,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -1344,9 +1344,16 @@
    "news_time": "2026-11-08T02:29:42+00:00",
    "news_latest": "2026-11-08T02:34:04+00:00",
    "caption": "🚨 BREAKING: US launches task force to disrupt Iranian ground transport routes\n\nThe United States has launched a new task force aimed at disrupting Iranian land-based supply routes. The operation intends to prevent the transport of weapons and other materials, according to US reports.\n\nWhat we know so far:\n• US launches task force to disrupt land-based supply routes\n• Operation aims to prevent transport of weapons and materials\n• Naval blockade expanded to include ground transport task force\n\n📖 Read more: https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss\n\n#USNews #Iran #WorldNews #7SeasNews",
-   "status": "pending",
+   "status": "posted",
    "tg_message_id": 52,
-   "tg_file_id": "AgACAgUAAxkDAAM0au_9WCMuqWYNPyjxZrh-WvE8fWgAAi8Uaxv_D4FXPRs6I1hHWQwBAAMCAAN3AAM9BA"
+   "tg_file_id": "AgACAgUAAxkDAAM0au_9WCMuqWYNPyjxZrh-WvE8fWgAAi8Uaxv_D4FXPRs6I1hHWQwBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-08T05:17:02.273123+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122095746837548584",
+   "posted_at": "2026-11-08T05:17:02.581222+00:00",
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "2088479398702700"
   }
  },
  "seen_links": [
@@ -1862,7 +1869,7 @@
    ]
   ]
  ],
- "last_draft_at": "2026-11-08T05:16:12.860233+00:00",
+ "last_draft_at": "2026-11-08T05:17:15.347581+00:00",
  "last_slot": null,
  "commands_set": 4,
  "log_channel": -1004367532135,
