@@ -1766,9 +1766,11 @@
    "news_time": "2026-11-08T04:03:12+00:00",
    "news_latest": "2026-11-08T07:40:07+00:00",
    "caption": "Thirty-three killed in Saudi air strike near Sanaa\n\nThirty-three people were reported killed in a coalition air attack on a village near Sanaa. Meanwhile, Saudi Arabia intercepted Houthi missiles targeting Riyadh and the Eastern province.\n\n📖 Read more: https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss\n\n#Yemen #SaudiArabia #WorldNews #7SeasNews",
-   "status": "pending",
+   "status": "expired",
    "tg_message_id": 62,
-   "tg_file_id": "AgACAgUAAxkDAAM-avA9vEuXHiuaUdRkp4Mxk43IbgwAApcUaxv_D4FXNJ1or8WuAAEIAQADAgADdwADPQQ"
+   "tg_file_id": "AgACAgUAAxkDAAM-avA9vEuXHiuaUdRkp4Mxk43IbgwAApcUaxv_D4FXNJ1or8WuAAEIAQADAgADdwADPQQ",
+   "extra_msgs": [],
+   "cleared": true
   },
   "f7216b033c": {
    "id": "f7216b033c",
@@ -3854,17 +3856,13 @@
    "63cb666207"
   ]
  ],
- "last_draft_at": "2026-11-08T15:15:21.457553+00:00",
+ "last_draft_at": "2026-11-08T15:30:27.952962+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-08T15:15:18.482142+00:00",
  "run_log": [
-  "11-08 12:45:21 run start",
-  "11-08 12:45:31 listening 11 min",
-  "11-08 12:57:02 listening done",
-  "11-08 12:57:02 run end after 700 s",
   "11-08 13:00:28 run start",
   "11-08 13:00:38 listening 11 min",
   "11-08 13:11:58 listening done",
@@ -3900,7 +3898,11 @@
   "11-08 15:15:18 run start",
   "11-08 15:15:35 listening 11 min",
   "11-08 15:26:55 listening done",
-  "11-08 15:26:55 run end after 697 s"
+  "11-08 15:26:55 run end after 697 s",
+  "11-08 15:30:27 run start",
+  "11-08 15:30:38 listening 11 min",
+  "11-08 15:41:57 listening done",
+  "11-08 15:41:57 run end after 690 s"
  ],
  "day_pack_done": "2026-11-07",
  "photo_memory": {
