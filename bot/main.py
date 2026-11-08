@@ -581,6 +581,39 @@ def facebook_post_photo(image_bytes, caption):
     return j.get("post_id") or j.get("id")
 
 
+def story_image(image_bytes):
+    """Put the 1080x1350 post image in the middle of a 1080x1920 black Story canvas."""
+    post = Image.open(io.BytesIO(image_bytes)).convert("RGB")
+    post = post.resize((1080, round(post.height * 1080 / post.width)))
+    canvas = Image.new("RGB", (1080, 1920), BLACK)
+    canvas.paste(post, (0, (1920 - post.height) // 2))
+    out = io.BytesIO()
+    canvas.save(out, "JPEG", quality=92)
+    return out.getvalue()
+
+
+def facebook_post_story(image_bytes):
+    """Share an image to the Page's Facebook Story (upload unpublished photo, then publish it as a Story)."""
+    r = HTTP.post(
+        f"https://graph.facebook.com/{FB_PAGE_ID}/photos",
+        data={"access_token": FB_TOKEN, "published": "false"},
+        files={"source": ("story.jpg", story_image(image_bytes), "image/jpeg")},
+        timeout=120,
+    )
+    j = r.json()
+    if "error" in j:
+        raise RuntimeError(j["error"].get("message", str(j["error"])))
+    r = HTTP.post(
+        f"https://graph.facebook.com/{FB_PAGE_ID}/photo_stories",
+        data={"photo_id": j["id"], "access_token": FB_TOKEN},
+        timeout=120,
+    )
+    j = r.json()
+    if "error" in j:
+        raise RuntimeError(j["error"].get("message", str(j["error"])))
+    return j.get("post_id") or j.get("id")
+
+
 def queue_schedule(state, now=None):
     """Planned posting time for each queued post (Post-now items first, then slots in order)."""
     now = now or now_utc()
@@ -637,6 +670,17 @@ def publish_due(state):
             log_to_channel(state, d, link)
             tg_clear(d)
             log("Posted", d["id"], post_id)
+            if SHARE_TO_STORY:
+                try:
+                    d["fb_story_id"] = facebook_post_story(img)
+                    log("Shared to Story", d["id"])
+                except Exception as e:  # the post itself is already live, so just report it
+                    log("Story error:", e)
+                    if not state.get("story_error_told"):
+                        state["story_error_told"] = True
+                        tg_text("⚠️ The post is live, but sharing it to the Facebook Story failed:\n"
+                                f"<code>{html.escape(str(e))[:400]}</code>\n\n"
+                                "Set SHARE_TO_STORY = False in settings.py to turn Stories off.")
         except Exception as e:
             d["attempts"] = d.get("attempts", 0) + 1
             log("Facebook error:", e)

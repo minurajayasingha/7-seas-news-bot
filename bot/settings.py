@@ -61,6 +61,7 @@ SKIP_TITLE_WORDS = [
 
 # ---------- Caption ----------
 SHOW_READ_MORE_LINK = True   # include the original article link in the Facebook caption
+SHARE_TO_STORY = True        # also share every published post to the Page's Facebook Story (True / False)
 
 # Question at the end of the post (to get comments):
 #   "always"    = every post
