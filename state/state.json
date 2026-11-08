@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892693,
+ "tg_offset": 495892694,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -2361,6 +2361,80 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_story_id": "1362222395851657"
+  },
+  "fcef0533ef": {
+   "id": "fcef0533ef",
+   "headline": "Democrats prepare to challenge Donald Trump following midterm elections",
+   "summary": "Following midterm election victories, Democrats are planning their legislative priorities and investigations. Lawmakers intend to focus on healthcare and challenge presidential tariffs to address the cost of living.",
+   "label": "US POLITICS",
+   "hook": "Can Democrats successfully challenge Donald Trump and his tariffs in Congress?",
+   "key_points": [
+    "Democrats won control of Congress in the midterms.",
+    "The party plans to target tariffs and healthcare costs."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Democrats",
+    "#Congress"
+   ],
+   "sources": [
+    "The Guardian",
+    "The Hill"
+   ],
+   "link": "https://www.theguardian.com/us-news/2026/nov/08/democrats-congress-trump-midterms",
+   "links": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/2026/nov/08/democrats-congress-trump-midterms"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/business/6205219-democrats-target-trump-tariffs/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Capitol_Washington_October_2016-1.jpg/1920px-Capitol_Washington_October_2016-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Alvesgaspar / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ],
+    "inset": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credit": "Daniel Torok / Wikimedia Commons (Public domain)",
+     "short": "WIKIMEDIA COMMONS"
+    }
+   },
+   "img_post": {
+    "headline": "Democrats prepare to challenge Donald Trump following midterm elections",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "US Capitol building",
+    "image_style": "scene",
+    "location": "US"
+   },
+   "created_at": "2026-11-08T12:16:32.660400+00:00",
+   "news_time": "2026-11-08T11:00:00+00:00",
+   "news_latest": "2026-11-08T12:00:40+00:00",
+   "caption": "Democrats prepare to challenge Donald Trump following midterm elections\n\nFollowing midterm election victories, Democrats are planning their legislative priorities and investigations. Lawmakers intend to focus on healthcare and challenge presidential tariffs to address the cost of living.\n\n💬 Can Democrats successfully challenge Donald Trump and his tariffs in Congress?\n\n📖 Read more: https://www.theguardian.com/us-news/2026/nov/08/democrats-congress-trump-midterms\n\n#USPolitics #Democrats #Congress #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 100,
+   "tg_file_id": "AgACAgUAAxkDAANkavBoIqDq7NUop3qQAWz529OEwikAAgcVaxv_D4FXkTFXjVjWibMBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-08T12:18:02.141368+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122095926837548584",
+   "posted_at": "2026-11-08T12:18:02.437265+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 08 · 7:18 AM New York · 5:48 PM Sri Lanka\n\n<b>Democrats prepare to challenge Donald Trump following midterm elections</b>\n<i>The Guardian, The Hill</i>\n🟢 <b>Latest:</b> 5:30 PM Sri Lanka (17 min ago) · first reported 4:30 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122095926837548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 21,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "1671328317671042"
   }
  },
  "seen_links": [
@@ -2461,7 +2535,9 @@
   "https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss",
   "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve",
   "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks",
-  "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html"
+  "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
+  "https://www.theguardian.com/us-news/2026/nov/08/democrats-congress-trump-midterms",
+  "https://thehill.com/business/6205219-democrats-target-trump-tariffs/"
  ],
  "recent_topics": [
   [
@@ -3150,14 +3226,33 @@
     "turkey"
    ],
    "16a7ddba9c"
+  ],
+  [
+   "2026-11-08T12:16:34.993621+00:00",
+   [
+    "actually",
+    "can",
+    "chart",
+    "congress",
+    "democrat",
+    "healthcar",
+    "impeachment",
+    "next",
+    "power",
+    "stop",
+    "tariff",
+    "trump",
+    "won"
+   ],
+   "fcef0533ef"
   ]
  ],
- "last_draft_at": "2026-11-08T11:51:39.916531+00:00",
+ "last_draft_at": "2026-11-08T12:15:20.422893+00:00",
  "last_slot": "2026-11-08T07:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-08T11:15:21.598385+00:00",
+ "last_stats_at": "2026-11-08T12:15:18.536739+00:00",
  "run_log": [
   "11-08 10:00:30 run start",
   "11-08 10:01:03 listening 11 min",
@@ -3194,7 +3289,11 @@
   "11-08 12:00:30 run start",
   "11-08 12:00:49 listening 11 min",
   "11-08 12:12:03 listening done",
-  "11-08 12:12:03 run end after 693 s"
+  "11-08 12:12:03 run end after 693 s",
+  "11-08 12:15:18 run start",
+  "11-08 12:16:34 listening 10 min",
+  "11-08 12:27:08 listening done",
+  "11-08 12:27:08 run end after 709 s"
  ],
  "day_pack_done": "2026-11-07"
 }
