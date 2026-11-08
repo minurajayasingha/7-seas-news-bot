@@ -1446,6 +1446,58 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_story_id": "2301584060697951"
+  },
+  "327e6b6267": {
+   "id": "327e6b6267",
+   "headline": "Kraków shooting suspect remains critical following central square attack",
+   "summary": "A 25-year-old Polish man with far-right views drove into a busy central square in Kraków, Poland. The incident killed six people and injured others before a shootout with police left the suspect in critical condition.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Suspect is a 25-year-old Polish man with far-right views",
+    "Six people were killed during the attack in Kraków",
+    "Suspect remains in very critical condition after police shootout"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Krakow",
+    "#Poland",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Newsweek",
+    "The Independent"
+   ],
+   "link": "https://www.newsweek.com/krakow-shooting-suspect-what-we-know-as-more-victims-discovered-12683092",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/krakow-shooting-suspect-what-we-know-as-more-victims-discovered-12683092"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/europe/krakow-shooting-poland-suspect-new-identity-b3081096.html"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Krakow, Poland"
+   },
+   "img_post": {
+    "headline": "Kraków shooting suspect remains critical following central square attack",
+    "people": [],
+    "image_query": "Krakow central square",
+    "image_style": "incident",
+    "location": "Krakow, Poland"
+   },
+   "created_at": "2026-11-08T08:54:24.096061+00:00",
+   "news_time": "2026-11-08T07:11:32+00:00",
+   "news_latest": "2026-11-08T08:37:31+00:00",
+   "caption": "🚨 BREAKING: Kraków shooting suspect remains critical following central square attack\n\nA 25-year-old Polish man with far-right views drove into a busy central square in Kraków, Poland. The incident killed six people and injured others before a shootout with police left the suspect in critical condition.\n\nWhat we know so far:\n• Suspect is a 25-year-old Polish man with far-right views\n• Six people were killed during the attack in Kraków\n• Suspect remains in very critical condition after police shootout\n\n📖 Read more: https://www.newsweek.com/krakow-shooting-suspect-what-we-know-as-more-victims-discovered-12683092\n\n#Krakow #Poland #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 57,
+   "tg_file_id": "AgACAgUAAxkDAAM5avA4wmVFMyrugv7BuDKOW5FecjsAAowUaxv_D4FXrNDoDpZgeEQBAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -1519,7 +1571,9 @@
   "https://news.sky.com/story/trump-asks-ufc-boss-dana-white-to-become-white-house-press-secretary-13609613",
   "https://www.washingtonexaminer.com/news/white-house/4796653/dana-white-responds-question-trump-white-house-press-secretary-request/",
   "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss",
-  "https://www.cbsnews.com/news/trump-offers-white-house-press-secretary-role-dana-white/"
+  "https://www.cbsnews.com/news/trump-offers-white-house-press-secretary-role-dana-white/",
+  "https://www.newsweek.com/krakow-shooting-suspect-what-we-know-as-more-victims-discovered-12683092",
+  "https://www.independent.co.uk/news/world/europe/krakow-shooting-poland-suspect-new-identity-b3081096.html"
  ],
  "recent_topics": [
   [
@@ -1987,9 +2041,23 @@
     "ufc",
     "whit"
    ]
+  ],
+  [
+   "2026-11-08T08:54:26.440240+00:00",
+   [
+    "discover",
+    "far-right",
+    "ideology",
+    "influenc",
+    "know",
+    "krakow",
+    "shoot",
+    "suspect",
+    "victim"
+   ]
   ]
  ],
- "last_draft_at": "2026-11-08T08:31:26.298642+00:00",
+ "last_draft_at": "2026-11-08T08:54:13.643738+00:00",
  "last_slot": null,
  "commands_set": 5,
  "log_channel": -1004367532135,
