@@ -3514,6 +3514,74 @@
    "status": "pending",
    "tg_message_id": 128,
    "tg_file_id": "AgACAgUAAxkDAAOAavDG2hqLv4odjIEqvIQCeFukel0AAjwVaxv_D4lX2hXGo7HvmxkBAAMCAAN3AAM9BA"
+  },
+  "51839f17eb": {
+   "id": "51839f17eb",
+   "headline": "Republican Party faces uncertainty after midterm losses with Trump in office",
+   "summary": "The Republican Party faces an uncertain future following midterm losses. While some members call for moderation and internal changes, President Trump remains in the White House.",
+   "label": "ELECTIONS",
+   "hook": "Can the Republican Party successfully reorganize while President Trump remains in the White House?",
+   "key_points": [
+    "The GOP experienced losses in the midterm elections.",
+    "Some Republicans called for moderation and cleaning house.",
+    "President Trump remains in the White House."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Midterms",
+    "#RepublicanParty"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "New York Times",
+    "Washington Examiner"
+   ],
+   "link": "https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/in_focus/4795983/republican-winners-from-the-2026-midterms-tennessee-ron-desantis-florida/"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/08/us/politics/republican-blame-trump-midterms.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Door_to_Senate_Chamber_MN_State_Capitol.jpg/1920px-Door_to_Senate_Chamber_MN_State_Capitol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Myotus / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Republican Party faces uncertainty after midterm losses with Trump in office",
+    "people": [],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "White House",
+     "Senate chamber",
+     "House of Representatives chamber",
+     "Capitol Hill"
+    ],
+    "image_style": "person",
+    "location": "US"
+   },
+   "created_at": "2026-11-08T19:15:32.511160+00:00",
+   "news_time": "2026-11-08T16:04:04+00:00",
+   "news_latest": "2026-11-08T19:09:18+00:00",
+   "caption": "Republican Party faces uncertainty after midterm losses with Trump in office\n\nThe Republican Party faces an uncertain future following midterm losses. While some members call for moderation and internal changes, President Trump remains in the White House.\n\n💬 Can the Republican Party successfully reorganize while President Trump remains in the White House?\n\n📖 Read more: https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss\n\n#USPolitics #Midterms #RepublicanParty #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 129,
+   "tg_file_id": "AgACAgUAAxkDAAOBavDKVlOxLltOO3QQG7z4mrTIe6EAAj0Vaxv_D4lXm4-jQ65CB08BAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -3648,7 +3716,10 @@
   "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
   "https://abcnews.com/International/wireStory/tens-thousands-march-amsterdam-pressing-dutch-government-gaza-137954786",
   "https://abcnews.com/International/wireStory/saudi-arabia-turns-syria-fighting-houthis-escalates-137956922",
-  "https://www.independent.co.uk/news/world/americas/syria-yemen-houthis-saudi-arabia-damascus-b3081286.html"
+  "https://www.independent.co.uk/news/world/americas/syria-yemen-houthis-saudi-arabia-damascus-b3081286.html",
+  "https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss",
+  "https://www.washingtonexaminer.com/in_focus/4795983/republican-winners-from-the-2026-midterms-tennessee-ron-desantis-florida/",
+  "https://www.nytimes.com/2026/11/08/us/politics/republican-blame-trump-midterms.html"
  ],
  "recent_topics": [
   [
@@ -4621,19 +4692,33 @@
     "yemen"
    ],
    "6df01a1e5a"
+  ],
+  [
+   "2026-11-08T19:15:34.773946+00:00",
+   [
+    "appear",
+    "doe",
+    "election",
+    "finger",
+    "listen",
+    "midterm",
+    "party",
+    "point",
+    "republican",
+    "stand",
+    "trump",
+    "winner"
+   ],
+   "51839f17eb"
   ]
  ],
- "last_draft_at": "2026-11-08T19:00:28.157559+00:00",
+ "last_draft_at": "2026-11-08T19:15:19.682864+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-08T18:30:25.333428+00:00",
  "run_log": [
-  "11-08 16:46:00 run start",
-  "11-08 16:46:10 listening 11 min",
-  "11-08 16:57:31 listening done",
-  "11-08 16:57:31 run end after 690 s",
   "11-08 17:00:29 run start",
   "11-08 17:00:39 listening 11 min",
   "11-08 17:11:59 listening done",
@@ -4669,7 +4754,11 @@
   "11-08 19:00:27 run start",
   "11-08 19:00:42 listening 11 min",
   "11-08 19:12:03 listening done",
-  "11-08 19:12:03 run end after 695 s"
+  "11-08 19:12:03 run end after 695 s",
+  "11-08 19:15:19 run start",
+  "11-08 19:15:34 listening 11 min",
+  "11-08 19:26:53 listening done",
+  "11-08 19:26:53 run end after 693 s"
  ],
  "day_pack_done": "2026-11-07",
  "photo_memory": {
@@ -4684,7 +4773,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Sonia_Sotomayor_%2831650961624%29.jpg/1280px-Sonia_Sotomayor_%2831650961624%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Damage_in_Gaza_Strip_during_the_October_2023_-_29.jpg/1920px-Damage_in_Gaza_Strip_during_the_October_2023_-_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Damascus%2C_Syria%2C_The_streets_of_central_Damascus.jpg/1920px-Damascus%2C_Syria%2C_The_streets_of_central_Damascus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Damascus%2C_Syria%2C_The_streets_of_central_Damascus.jpg/1920px-Damascus%2C_Syria%2C_The_streets_of_central_Damascus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Door_to_Senate_Chamber_MN_State_Capitol.jpg/1920px-Door_to_Senate_Chamber_MN_State_Capitol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -5140,7 +5230,8 @@
   },
   "recent_ideas": [
    "gaza strip",
-   "damascus streets"
+   "damascus streets",
+   "senate chamber, united states capitol"
   ]
  }
 }
