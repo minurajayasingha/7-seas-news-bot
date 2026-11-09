@@ -4207,7 +4207,9 @@
   "https://abcnews.com/Politics/wireStory/trump-justice-department-stand-defiant-democrats-ready-investigative-137958810",
   "https://www.nytimes.com/2026/11/08/us/politics/justice-dept-new-york-times-comey-leak.html",
   "https://www.washingtonpost.com/politics/2026/11/08/democrats-will-take-aim-medicaid-cuts-iran-war-tariffs-jeffries-says/",
-  "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss"
+  "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
+  "https://www.foxnews.com/politics/joe-biden-says-cancer-slowed-him-down-limiting-memoir-promotion-tour",
+  "https://www.washingtonpost.com/politics/2026/11/08/biden-says-cancer-fight-means-he-will-scale-back-book-promotion-tour/"
  ],
  "recent_topics": [
   [
@@ -5351,17 +5353,13 @@
    "9f3d3eb8fc"
   ]
  ],
- "last_draft_at": "2026-11-09T00:47:11.159704+00:00",
+ "last_draft_at": "2026-11-09T01:00:26.836467+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T00:35:26.587920+00:00",
  "run_log": [
-  "11-08 22:45:20 run start",
-  "11-08 22:45:30 listening 11 min",
-  "11-08 22:56:48 listening done",
-  "11-08 22:56:48 run end after 688 s",
   "11-08 23:00:31 run start",
   "11-08 23:00:46 listening 11 min",
   "11-08 23:12:06 listening done",
@@ -5397,7 +5395,11 @@
   "11-09 00:47:10 run start",
   "11-09 00:47:21 listening 11 min",
   "11-09 00:58:40 listening done",
-  "11-09 00:58:40 run end after 689 s"
+  "11-09 00:58:40 run end after 689 s",
+  "11-09 01:00:26 run start",
+  "11-09 01:02:09 listening 10 min",
+  "11-09 01:12:11 listening done",
+  "11-09 01:12:11 run end after 705 s"
  ],
  "day_pack_done": "2026-11-07",
  "photo_memory": {
