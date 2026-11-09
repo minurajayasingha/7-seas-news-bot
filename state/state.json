@@ -9145,6 +9145,80 @@
    "status": "pending",
    "tg_message_id": 231,
    "tg_file_id": "AgACAgUAAxkDAAPnavJJkhr_bgZRGR3Y_VnzX1T5PJ4AAi0WaxuLT5BX-z3_L6bSefIBAAMCAAN3AAM9BA"
+  },
+  "6bc19982ba": {
+   "id": "6bc19982ba",
+   "headline": "Pope Leo XIV draws 2.5 million to mass in Argentina",
+   "summary": "Pope Leo XIV attracted millions of people to his first mass in Argentina during his South American tour. He also met with clergy abuse survivors and visited a care home.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Pope Leo XIV drew 2.5 million people to his first mass.",
+    "The pontiff met with clergy abuse survivors in Argentina."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#PopeLeoXIV",
+    "#Argentina",
+    "#WorldNews"
+   ],
+   "sources": [
+    "ABC News",
+    "Al Jazeera",
+    "Euronews",
+    "UPI"
+   ],
+   "link": "https://www.aljazeera.com/news/2026/11/9/pope-meets-with-clergy-abuse-survivors-in-argentina?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/9/pope-meets-with-clergy-abuse-survivors-in-argentina?traffic_source=rss"
+    ],
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/pope-meets-survivors-clergy-abuse-argentina-reckons-legacy-137988212"
+    ],
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/pope-visits-struggling-argentine-home-people-disabilities-press-137970019"
+    ],
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/World-News/2026/11/09/latam-argentina-pope-mass/8271794244018/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Pope_Leo_XIV_3_%283x4_cropped%29.png/1280px-Pope_Leo_XIV_3_%283x4_cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Edgar Beltrán , The Pillar / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Pope Leo XIV draws 2.5 million to mass in Argentina",
+    "people": [
+     "Pope Leo XIV"
+    ],
+    "image_query": "Buenos Aires boulevard",
+    "image_queries": [
+     "Don Orione care home",
+     "Claypole Argentina",
+     "Buenos Aires cityscape",
+     "Argentine church"
+    ],
+    "image_style": "person",
+    "location": "Argentina"
+   },
+   "created_at": "2026-11-09T22:45:45.453276+00:00",
+   "news_time": "2026-11-09T17:03:33+00:00",
+   "news_latest": "2026-11-09T22:14:37+00:00",
+   "caption": "Pope Leo XIV draws 2.5 million to mass in Argentina\n\nPope Leo XIV attracted millions of people to his first mass in Argentina during his South American tour. He also met with clergy abuse survivors and visited a care home.\n\n📖 Read more: https://www.aljazeera.com/news/2026/11/9/pope-meets-with-clergy-abuse-survivors-in-argentina?traffic_source=rss\n\n#PopeLeoXIV #Argentina #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 232,
+   "tg_file_id": "AgACAgUAAxkDAAPoavJNGxerH7uxthE0UjV6tqbPWXAAAi4WaxuLT5BX7lKcN0RqL8cBAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -9454,7 +9528,12 @@
   "https://www.independent.co.uk/news/world/americas/crime/cruise-ship-death-fbi-texas-b3082045.html",
   "https://www.nbcnews.com/news/us-news/fbi-investigating-possible-homicide-cruise-ship-left-texas-rcna608423",
   "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
-  "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
+  "https://www.aljazeera.com/news/2026/11/9/pope-meets-with-clergy-abuse-survivors-in-argentina?traffic_source=rss",
+  "https://abcnews.com/International/wireStory/pope-meets-survivors-clergy-abuse-argentina-reckons-legacy-137988212",
+  "https://abcnews.com/International/wireStory/pope-visits-struggling-argentine-home-people-disabilities-press-137970019",
+  "https://www.upi.com/Top_News/World-News/2026/11/09/latam-argentina-pope-mass/8271794244018/",
+  "https://www.euronews.com/video/2026/11/09/argentina-pope-leo-xiv-receives-warm-welcome-in-claypole"
  ],
  "recent_topics": [
   [
@@ -11868,19 +11947,44 @@
     "zoe"
    ],
    "3770cba8ab"
+  ],
+  [
+   "2026-11-09T22:45:48.189819+00:00",
+   [
+    "abus",
+    "argentina",
+    "attend",
+    "bless",
+    "cas",
+    "claypol",
+    "clergy",
+    "disability",
+    "draw",
+    "legacy",
+    "leo",
+    "mass",
+    "meet",
+    "million",
+    "ongo",
+    "peopl",
+    "pop",
+    "receiv",
+    "reckon",
+    "survivor",
+    "warm",
+    "welcom",
+    "xiv"
+   ],
+   "6bc19982ba"
   ]
  ],
- "last_draft_at": "2026-11-09T22:30:27.713954+00:00",
+ "last_draft_at": "2026-11-09T22:45:34.091185+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-09T21:45:21.274261+00:00",
+ "last_stats_at": "2026-11-09T22:45:22.310435+00:00",
  "run_log": [
-  "11-09 20:15:19 run start",
-  "11-09 20:15:35 listening 11 min",
-  "11-09 20:26:53 listening done",
-  "11-09 20:26:53 run end after 693 s",
   "11-09 20:30:24 run start",
   "11-09 20:30:41 listening 11 min",
   "11-09 20:41:59 listening done",
@@ -11916,12 +12020,15 @@
   "11-09 22:30:27 run start",
   "11-09 22:30:42 listening 11 min",
   "11-09 22:42:02 listening done",
-  "11-09 22:42:02 run end after 695 s"
+  "11-09 22:42:02 run end after 695 s",
+  "11-09 22:45:21 run start",
+  "11-09 22:45:48 listening 11 min",
+  "11-09 22:57:07 listening done",
+  "11-09 22:57:07 run end after 705 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/5/59/Jensen_Huang_%28cropped%29_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Vote_Here_-_Election_Polling_Place_%2850565230221%29.jpg/1920px-Vote_Here_-_Election_Polling_Place_%2850565230221%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Plaque_Rue_Teddy_Riner_-_Asni%C3%A8res-sur-Seine_%28FR92%29_-_2024-04-01_-_2.jpg/1280px-Plaque_Rue_Teddy_Riner_-_Asni%C3%A8res-sur-Seine_%28FR92%29_-_2024-04-01_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Joe_Biden_%2848010705803%29.jpg/1280px-Joe_Biden_%2848010705803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -11960,7 +12067,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/United_States_Treasury_building_2023.jpg/1920px-United_States_Treasury_building_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Senator_Dan_Sullivan_official_%28cropped%29.jpg/1280px-Senator_Dan_Sullivan_official_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Rep._Mary_Peltola_headshot_%28cropped%29.jpg/1280px-Rep._Mary_Peltola_headshot_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/1280px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/1280px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Pope_Leo_XIV_3_%283x4_cropped%29.png/1280px-Pope_Leo_XIV_3_%283x4_cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
