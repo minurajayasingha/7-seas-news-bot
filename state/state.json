@@ -8292,6 +8292,81 @@
    "status": "pending",
    "tg_message_id": 220,
    "tg_file_id": "AgACAgUAAxkDAAPcavIi9D5-1xnkON4dx_Dy0SlsPRgAAhMWaxuLT5BXstnIIGRLe_wBAAMCAAN3AAM9BA"
+  },
+  "fba2f3fceb": {
+   "id": "fba2f3fceb",
+   "headline": "Supreme Court Allows Trump Border Wall Construction in Texas",
+   "summary": "The Supreme Court lifted a district court order that temporarily stopped construction of a border wall. The decision allows President Donald Trump to move forward with building a wall in the Big Bend region of southwest Texas.",
+   "label": "US POLITICS",
+   "hook": "Should construction of the border wall be allowed to proceed in this region?",
+   "key_points": [
+    "Supreme Court lifted a lower court order stopping construction",
+    "Project includes areas within a national park",
+    "Action permits building in the Big Bend sector"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#SupremeCourt",
+    "#BorderWall",
+    "#Texas"
+   ],
+   "sources": [
+    "CBS News",
+    "NBC News",
+    "New York Times"
+   ],
+   "link": "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-border-wall-trump.html",
+   "links": [
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-border-wall-trump.html"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/news/supreme-court-trump-border-wall-big-bend/"
+    ],
+    [
+     "NBC News",
+     "https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-border-wall-big-bend-texas-rcna604916"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Ron Cogswell from Arlington, Virginia, USA / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ],
+    "inset": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg/1280px-Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credit": "The White House from Washington, DC / Wikimedia Commons (Public domain)",
+     "short": "WIKIMEDIA COMMONS"
+    }
+   },
+   "img_post": {
+    "headline": "Supreme Court Allows Trump Border Wall Construction in Texas",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "Supreme Court building",
+    "image_queries": [
+     "US border wall",
+     "Big Bend region",
+     "Texas landscape",
+     "federal courthouse"
+    ],
+    "image_style": "scene",
+    "location": "Texas, US"
+   },
+   "created_at": "2026-11-09T20:15:33.265678+00:00",
+   "news_time": "2026-11-09T19:54:13+00:00",
+   "news_latest": "2026-11-09T20:12:14+00:00",
+   "caption": "Supreme Court Allows Trump Border Wall Construction in Texas\n\nThe Supreme Court lifted a district court order that temporarily stopped construction of a border wall. The decision allows President Donald Trump to move forward with building a wall in the Big Bend region of southwest Texas.\n\n💬 Should construction of the border wall be allowed to proceed in this region?\n\n📖 Read more: https://www.nytimes.com/2026/11/09/us/politics/supreme-court-border-wall-trump.html\n\n#SupremeCourt #BorderWall #Texas #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 221,
+   "tg_file_id": "AgACAgUAAxkDAAPdavIp56QR7QKBey57_xbtib1hwloAAhQWaxuLT5BXbfbtVx0j5xoBAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -8576,7 +8651,10 @@
   "https://thehill.com/the-120/6208712-murkowski-seeks-senate-appropriations-ranking/",
   "https://www.washingtonexaminer.com/news/senate/4797478/lisa-murkowski-seeks-senate-appropriations-committee-ranking-member/",
   "https://www.foxnews.com/politics/schumers-grip-power-slips-dems-begin-revolt-against-him-eye-new-leadership",
-  "https://thehill.com/opinion/robbys-radar/6208613-hakeem-jeffries-house-speaker-struggle/"
+  "https://thehill.com/opinion/robbys-radar/6208613-hakeem-jeffries-house-speaker-struggle/",
+  "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-border-wall-trump.html",
+  "https://www.cbsnews.com/news/supreme-court-trump-border-wall-big-bend/",
+  "https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-border-wall-big-bend-texas-rcna604916"
  ],
  "recent_topics": [
   [
@@ -10762,19 +10840,37 @@
     "takeover"
    ],
    "2b15e694bd"
+  ],
+  [
+   "2026-11-09T20:15:35.537566+00:00",
+   [
+    "allow",
+    "area",
+    "bend",
+    "big",
+    "border",
+    "build",
+    "construction",
+    "court",
+    "pav",
+    "region",
+    "section",
+    "suprem",
+    "texa",
+    "trump",
+    "wall",
+    "way"
+   ],
+   "fba2f3fceb"
   ]
  ],
- "last_draft_at": "2026-11-09T20:00:30.315592+00:00",
+ "last_draft_at": "2026-11-09T20:15:20.107783+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T19:45:20.240348+00:00",
  "run_log": [
-  "11-09 17:32:39 run start",
-  "11-09 17:32:49 listening 11 min",
-  "11-09 17:44:05 listening done",
-  "11-09 17:44:05 run end after 685 s",
   "11-09 17:45:26 run start",
   "11-09 17:45:58 listening 11 min",
   "11-09 17:56:56 listening done",
@@ -10810,13 +10906,15 @@
   "11-09 20:00:29 run start",
   "11-09 20:00:40 listening 11 min",
   "11-09 20:11:59 listening done",
-  "11-09 20:11:59 run end after 689 s"
+  "11-09 20:11:59 run end after 689 s",
+  "11-09 20:15:19 run start",
+  "11-09 20:15:35 listening 11 min",
+  "11-09 20:26:53 listening done",
+  "11-09 20:26:53 run end after 693 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg/1920px-High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Library_of_Congress_%2897917%29.jpg/1920px-Library_of_Congress_%2897917%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Stephen_Miller_%2854360305622%29_%28cropped%29%28c%29.jpg/1280px-Stephen_Miller_%2854360305622%29_%28cropped%29%28c%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/5/5c/Iowa_City%2C_IA_-_Early_Voting_Automobile_Queue_October_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -10854,7 +10952,9 @@
    "https://upload.wikimedia.org/wikipedia/commons/e/e5/Early_Voting_0873_%2831735035288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ballot_box_in_Sonoma%2C_California_-_November_2022_-_Sarah_Stierch_01.jpg/1920px-Ballot_box_in_Sonoma%2C_California_-_November_2022_-_Sarah_Stierch_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Lisa_Murkowski_speaking_in_Rhode_Island_-_2019_01.jpg/1280px-Lisa_Murkowski_speaking_in_Rhode_Island_-_2019_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Utah_State_Capitol_at_Night_by_Don_Ramey_Logan.jpg/1920px-Utah_State_Capitol_at_Night_by_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Utah_State_Capitol_at_Night_by_Don_Ramey_Logan.jpg/1920px-Utah_State_Capitol_at_Night_by_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg/1280px-Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -12207,7 +12307,6 @@
    }
   },
   "recent_ideas": [
-   "i voted sticker",
    "senate chamber",
    "house of representatives chamber",
    "pentagon building",
@@ -12218,7 +12317,8 @@
    "courthouse building",
    "early voting, united states",
    "ballot box, united states",
-   "capitol at night"
+   "capitol at night",
+   "thurgood marshall federal judiciary building"
   ]
  }
 }
