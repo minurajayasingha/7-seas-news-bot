@@ -6491,6 +6491,71 @@
    "log_photo": true,
    "cleared": true,
    "fb_story_id": "2157126175681218"
+  },
+  "d50feabe4b": {
+   "id": "d50feabe4b",
+   "headline": "Progressives launch Ready for AOC group for 2028 election",
+   "summary": "A new political organization aims to encourage Representative Alexandria Ocasio-Cortez to run for president in 2028. The group launched to demonstrate support and show an organizing apparatus awaiting the legislator.",
+   "label": "ELECTIONS",
+   "hook": "Will Representative Alexandria Ocasio-Cortez run for president in 2028?",
+   "key_points": [
+    "Ready for AOC launched Monday",
+    "Group aims to encourage a 2028 presidential run",
+    "Supporters are asked to sign a pledge"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#AOC",
+    "#2028Elections",
+    "#USPolitics"
+   ],
+   "sources": [
+    "New York Times",
+    "The Hill"
+   ],
+   "link": "https://thehill.com/homenews/campaign/6207958-ready-for-aoc-launches-2028-white-house/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/homenews/campaign/6207958-ready-for-aoc-launches-2028-white-house/"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/09/us/politics/alexandria-ocasio-cortez-aoc-2028-president-group.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Vote_Here_-_Election_Polling_Place_%2850565230221%29.jpg/1920px-Vote_Here_-_Election_Polling_Place_%2850565230221%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Tony Webster from Minneapolis, Minnesota, United States / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Progressives launch Ready for AOC group for 2028 election",
+    "people": [
+     "Alexandria Ocasio-Cortez"
+    ],
+    "image_query": "US Capitol dome",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "voting booth",
+     "Democratic National Committee"
+    ],
+    "image_style": "scene",
+    "location": "New York, US"
+   },
+   "created_at": "2026-11-09T16:00:45.852184+00:00",
+   "news_time": "2026-11-09T15:33:03+00:00",
+   "news_latest": "2026-11-09T15:49:02+00:00",
+   "caption": "Progressives launch Ready for AOC group for 2028 election\n\nA new political organization aims to encourage Representative Alexandria Ocasio-Cortez to run for president in 2028. The group launched to demonstrate support and show an organizing apparatus awaiting the legislator.\n\n💬 Will Representative Alexandria Ocasio-Cortez run for president in 2028?\n\n📖 Read more: https://thehill.com/homenews/campaign/6207958-ready-for-aoc-launches-2028-white-house/\n\n#AOC #2028Elections #USPolitics #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 189,
+   "tg_file_id": "AgACAgUAAxkDAAO9avHuMYLjFifLNdVl5FZIa4_x9V8AAvUWaxv_D5FXW8TSOUoWQY8BAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -6717,7 +6782,9 @@
   "https://www.newsweek.com/trump-middle-east-pay-iran-war-debt-12685563",
   "https://www.npr.org/2026/11/09/nx-s1-6030858/midterm-results-could-complicate-jd-vances-political-future",
   "https://thehill.com/policy/technology/6207787-jensen-huang-affair-nvidia-stock-falls/",
-  "https://www.newsweek.com/nvidia-spy-drama-sparks-stock-market-shock-12686252"
+  "https://www.newsweek.com/nvidia-spy-drama-sparks-stock-market-shock-12686252",
+  "https://thehill.com/homenews/campaign/6207958-ready-for-aoc-launches-2028-white-house/",
+  "https://www.nytimes.com/2026/11/09/us/politics/alexandria-ocasio-cortez-aoc-2028-president-group.html"
  ],
  "recent_topics": [
   [
@@ -8435,19 +8502,31 @@
     "stock"
    ],
    "fa0755faec"
+  ],
+  [
+   "2026-11-09T16:00:49.605563+00:00",
+   [
+    "activist",
+    "ahead",
+    "aoc",
+    "election",
+    "eye",
+    "launch",
+    "presidential",
+    "progressiv",
+    "ready",
+    "toward"
+   ],
+   "d50feabe4b"
   ]
  ],
- "last_draft_at": "2026-11-09T15:45:28.330825+00:00",
+ "last_draft_at": "2026-11-09T16:00:33.065420+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T15:45:21.723927+00:00",
  "run_log": [
-  "11-09 13:30:24 run start",
-  "11-09 13:30:42 listening 11 min",
-  "11-09 13:42:13 listening done",
-  "11-09 13:42:13 run end after 709 s",
   "11-09 13:45:20 run start",
   "11-09 13:45:53 listening 11 min",
   "11-09 13:56:58 listening done",
@@ -8483,12 +8562,15 @@
   "11-09 15:45:21 run start",
   "11-09 15:45:41 listening 11 min",
   "11-09 15:56:48 listening done",
-  "11-09 15:56:48 run end after 686 s"
+  "11-09 15:56:48 run end after 686 s",
+  "11-09 16:00:32 run start",
+  "11-09 16:00:49 listening 11 min",
+  "11-09 16:12:08 listening done",
+  "11-09 16:12:08 run end after 695 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Damascus%2C_Syria%2C_The_streets_of_central_Damascus.jpg/1920px-Damascus%2C_Syria%2C_The_streets_of_central_Damascus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Door_to_Senate_Chamber_MN_State_Capitol.jpg/1920px-Door_to_Senate_Chamber_MN_State_Capitol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/US_Capitol_dome_Jan_2006.jpg/1920px-US_Capitol_dome_Jan_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Stephen_Miller_%2854361578860%29.jpg/1280px-Stephen_Miller_%2854361578860%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -8527,7 +8609,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Paris_cityscape_May_2009.jpg/1920px-Paris_cityscape_May_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Marco_Rubio_visits_Israel_from_February_15_to_17%2C_2025_-_18.jpg/1280px-Marco_Rubio_visits_Israel_from_February_15_to_17%2C_2025_-_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/5/59/Jensen_Huang_%28cropped%29_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/5/59/Jensen_Huang_%28cropped%29_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Vote_Here_-_Election_Polling_Place_%2850565230221%29.jpg/1920px-Vote_Here_-_Election_Polling_Place_%2850565230221%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -9658,7 +9741,6 @@
    }
   },
   "recent_ideas": [
-   "naqsh-e jahan square",
    "power lines",
    "buenos aires skyline",
    "isfahan",
@@ -9669,7 +9751,8 @@
    "capitol at night",
    "saint sophia cathedral, kyiv",
    "united states capitol rotunda",
-   "paris cityscape"
+   "paris cityscape",
+   "polling place, united states"
   ]
  }
 }
