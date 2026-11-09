@@ -4637,6 +4637,71 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_story_id": "1446869867598749"
+  },
+  "507d3ba926": {
+   "id": "507d3ba926",
+   "headline": "Marco Rubio defends Iran war while contradicting JD Vance",
+   "summary": "US Secretary of State Marco Rubio defended the war on Iran as a necessary move to stop nuclear threats. He publicly contradicted JD Vance by stating that the unpopular war strategy and its economic impacts helped Democrats win.",
+   "label": "CONFLICT",
+   "hook": "Is the war on Iran necessary to stop nuclear threats?",
+   "key_points": [
+    "Rubio called Iran negotiation demands outrageous and unrealistic.",
+    "The war impacted gasoline prices and the economy.",
+    "Democrats achieved victory following the conflict."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#MarcoRubio",
+    "#IranWar",
+    "#USPolitics"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/americas/us-politics/marco-rubio-jd-vance-iran-2028-b3081494.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/us-politics/marco-rubio-jd-vance-iran-2028-b3081494.html"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Official_portrait_of_Secretary_Marco_Rubio_%28cropped%29%282%29.jpg/1280px-Official_portrait_of_Secretary_Marco_Rubio_%28cropped%29%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Department of State / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Marco Rubio defends Iran war while contradicting JD Vance",
+    "people": [
+     "Marco Rubio"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "White House",
+     "Pentagon building"
+    ],
+    "image_style": "person",
+    "location": "US"
+   },
+   "created_at": "2026-11-09T09:00:41.108995+00:00",
+   "news_time": "2026-11-09T04:02:18+00:00",
+   "news_latest": "2026-11-09T08:47:03+00:00",
+   "caption": "Marco Rubio defends Iran war while contradicting JD Vance\n\nUS Secretary of State Marco Rubio defended the war on Iran as a necessary move to stop nuclear threats. He publicly contradicted JD Vance by stating that the unpopular war strategy and its economic impacts helped Democrats win.\n\n💬 Is the war on Iran necessary to stop nuclear threats?\n\n📖 Read more: https://www.independent.co.uk/news/world/americas/us-politics/marco-rubio-jd-vance-iran-2028-b3081494.html\n\n#MarcoRubio #IranWar #USPolitics #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 150,
+   "tg_file_id": "AgACAgUAAxkDAAOWavGLur93CmcUc-5pJdjzc8gknsUAAnMWaxv_D4lXTpFM9Scro3QBAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -4810,7 +4875,9 @@
   "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-uk-peace-talks-b3081417.html",
   "https://kyivindependent.com/ukraine-will-likely-end-up-with-a-little-bit-different-shape-after-war-trump-tells-60-minutes/",
   "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
-  "https://www.washingtonexaminer.com/news/white-house/4796920/trump-reaffirms-support-vance-iran-comments-people-didnt-like/"
+  "https://www.washingtonexaminer.com/news/white-house/4796920/trump-reaffirms-support-vance-iran-comments-people-didnt-like/",
+  "https://www.independent.co.uk/news/world/americas/us-politics/marco-rubio-jd-vance-iran-2028-b3081494.html",
+  "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -6099,19 +6166,37 @@
     "war"
    ],
    "f36e76f9c3"
+  ],
+  [
+   "2026-11-09T09:00:43.055472+00:00",
+   [
+    "blam",
+    "contradict",
+    "defend",
+    "election",
+    "iran",
+    "marco",
+    "necessary",
+    "nuclear",
+    "publicly",
+    "rubio",
+    "stop",
+    "strategy",
+    "threat",
+    "unpopular",
+    "vanc",
+    "war"
+   ],
+   "507d3ba926"
   ]
  ],
- "last_draft_at": "2026-11-09T08:45:26.457039+00:00",
+ "last_draft_at": "2026-11-09T09:00:29.847696+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T08:45:21.462091+00:00",
  "run_log": [
-  "11-09 06:42:08 run start",
-  "11-09 06:42:23 listening 11 min",
-  "11-09 06:53:42 listening done",
-  "11-09 06:53:42 run end after 694 s",
   "11-09 06:53:53 run start",
   "11-09 06:54:09 listening 11 min",
   "11-09 07:05:32 listening done",
@@ -6147,7 +6232,11 @@
   "11-09 08:45:21 run start",
   "11-09 08:45:50 listening 11 min",
   "11-09 08:56:52 listening done",
-  "11-09 08:56:52 run end after 690 s"
+  "11-09 08:56:52 run end after 690 s",
+  "11-09 09:00:29 run start",
+  "11-09 09:00:43 listening 11 min",
+  "11-09 09:12:00 listening done",
+  "11-09 09:12:00 run end after 691 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
@@ -6182,7 +6271,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_06.jpg/1280px-Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Donald_Trump_official_portrait_2020_election.jpg/1280px-Donald_Trump_official_portrait_2020_election.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance_%28cropped1%29.jpg/1280px-March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance_%28cropped1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance_%28cropped1%29.jpg/1280px-March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance_%28cropped1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Official_portrait_of_Secretary_Marco_Rubio_%28cropped%29%282%29.jpg/1280px-Official_portrait_of_Secretary_Marco_Rubio_%28cropped%29%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -7080,6 +7170,82 @@
       "credit": "Office of Vice President of the United States / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": false
+     }
+    ]
+   },
+   "marco rubio": {
+    "t": "2026-11-09T09:00:41.108833+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Official_portrait_of_Secretary_Marco_Rubio_%28cropped%29%282%29.jpg/1280px-Official_portrait_of_Secretary_Marco_Rubio_%28cropped%29%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Department of State / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Visita_Oficial_del_Secretario_de_los_Estados_Unidos_de_Am%C3%A9rica_Marco_Rubio_4_feb_2025_11.jpg/1280px-Visita_Oficial_del_Secretario_de_los_Estados_Unidos_de_Am%C3%A9rica_Marco_Rubio_4_feb_2025_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Priscilla Corrales/Presidencia de la República de Costa Rica / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Marco_Rubio_visits_Israel_from_February_15_to_17%2C_2025_-_18.jpg/1280px-Marco_Rubio_visits_Israel_from_February_15_to_17%2C_2025_-_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Embassy Jerusalem / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Official_portrait_of_the_United_States_Secretary_of_State_Marco_Rubio%2C_January_2025_%28cropped%29.jpg/1280px-Official_portrait_of_the_United_States_Secretary_of_State_Marco_Rubio%2C_January_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Department of State / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Canadian_Foreign_Minister_M%C3%A9lanie_Joly_met_United_States_Secretary_of_State_Marco_Rubio_at_the_Department_of_State_in_Washington%2C_D.C.%2C_January_29%2C_2025.jpg/1280px-Canadian_Foreign_Minister_M%C3%A9lanie_Joly_met_United_States_Secretary_of_State_Marco_Rubio_at_the_Department_of_State_in_Washington%2C_D.C.%2C_January_29%2C_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Department of State / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Marco_Rubio_town_hall_Belknap_Mill_25_Beacon_Street_East_Laconia_NH_February_2016.jpg/1280px-Marco_Rubio_town_hall_Belknap_Mill_25_Beacon_Street_East_Laconia_NH_February_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Artaxerxes / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Senator_of_Florida_Marco_Rubio_at_Marco_Rubio_at_the_Derry-Salem_Elks_Lodge_in_Salem_NH_by_Michael_Vadon_15.jpg/1280px-Senator_of_Florida_Marco_Rubio_at_Marco_Rubio_at_the_Derry-Salem_Elks_Lodge_in_Salem_NH_by_Michael_Vadon_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Michael Vadon / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Official_portrait_of_Secretary_Marco_Rubio.jpg/1280px-Official_portrait_of_Secretary_Marco_Rubio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Department of State / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/2020_Encontro_com_o_Senador_Marco_Rubio_%2849639648052%29.jpg/1280px-2020_Encontro_com_o_Senador_Marco_Rubio_%2849639648052%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Palácio do Planalto / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Marco_Rubio_%2824556513751%29.jpg/1280px-Marco_Rubio_%2824556513751%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Visita_Oficial_del_Secretario_de_los_Estados_Unidos_de_Am%C3%A9rica_Marco_Rubio_4_feb_2025_06.jpg/1280px-Visita_Oficial_del_Secretario_de_los_Estados_Unidos_de_Am%C3%A9rica_Marco_Rubio_4_feb_2025_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Priscilla Corrales/Presidencia de la República de Costa Rica / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Senator_of_Florida_Marco_Rubio_at_Marco_Rubio_at_the_Derry-Salem_Elks_Lodge_in_Salem_NH_by_Michael_Vadon_07.jpg/1280px-Senator_of_Florida_Marco_Rubio_at_Marco_Rubio_at_the_Derry-Salem_Elks_Lodge_in_Salem_NH_by_Michael_Vadon_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Michael Vadon / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
      }
     ]
    }
