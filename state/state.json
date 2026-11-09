@@ -6556,6 +6556,151 @@
    "status": "pending",
    "tg_message_id": 189,
    "tg_file_id": "AgACAgUAAxkDAAO9avHuMYLjFifLNdVl5FZIa4_x9V8AAvUWaxv_D5FXW8TSOUoWQY8BAAMCAAN3AAM9BA"
+  },
+  "322552a6c6": {
+   "id": "322552a6c6",
+   "headline": "Teddy Riner announces run for French presidency",
+   "summary": "Olympic champion Teddy Riner has announced plans to run in France's upcoming presidential election. The contender stated he is neither leftwing nor rightwing and aims to bring people together.",
+   "label": "ELECTIONS",
+   "hook": "",
+   "key_points": [
+    "Teddy Riner is an Olympic champion.",
+    "The presidential election is next year."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#TeddyRiner",
+    "#FranceElections",
+    "#WorldNews"
+   ],
+   "sources": [
+    "ABC News",
+    "The Guardian",
+    "The Independent"
+   ],
+   "link": "https://www.theguardian.com/world/2026/nov/09/judo-star-teddy-riner-plan-france-presidential-election",
+   "links": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/09/judo-star-teddy-riner-plan-france-presidential-election"
+    ],
+    [
+     "ABC News",
+     "https://abcnews.com/Politics/wireStory/judo-star-teddy-riner-announces-run-french-president-137968816"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/sport/olympics/teddy-riner-french-presidency-emmanuel-macron-b3081659.html"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Plaque_Rue_Teddy_Riner_-_Asni%C3%A8res-sur-Seine_%28FR92%29_-_2024-04-01_-_2.jpg/1280px-Plaque_Rue_Teddy_Riner_-_Asni%C3%A8res-sur-Seine_%28FR92%29_-_2024-04-01_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Chabe01 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Teddy Riner announces run for French presidency",
+    "people": [
+     "Teddy Riner"
+    ],
+    "image_query": "Paris street view",
+    "image_queries": [
+     "Eiffel Tower Paris",
+     "French flag",
+     "Paris cityscape",
+     "Parisian street"
+    ],
+    "image_style": "person",
+    "location": "France"
+   },
+   "created_at": "2026-11-09T16:30:40.625749+00:00",
+   "news_time": "2026-11-09T11:56:18+00:00",
+   "news_latest": "2026-11-09T16:24:50+00:00",
+   "caption": "Teddy Riner announces run for French presidency\n\nOlympic champion Teddy Riner has announced plans to run in France's upcoming presidential election. The contender stated he is neither leftwing nor rightwing and aims to bring people together.\n\n📖 Read more: https://www.theguardian.com/world/2026/nov/09/judo-star-teddy-riner-plan-france-presidential-election\n\n#TeddyRiner #FranceElections #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 190,
+   "tg_file_id": "AgACAgUAAxkDAAO-avH1OluL05-8uVru2A6Wz3202WMAAvwWaxv_D5FXEi98UuEuMNEBAAMCAAN3AAM9BA"
+  },
+  "910430659d": {
+   "id": "910430659d",
+   "headline": "Joe Biden details White House transition meeting with Donald Trump",
+   "summary": "Former President Joe Biden revealed in his new book that President Donald Trump told him they would be good friends if not for politics. Biden also criticized Trump regarding his actions on January 6.",
+   "label": "US POLITICS",
+   "hook": "Did Donald Trump and Joe Biden have a friendly transition meeting?",
+   "key_points": [
+    "Biden released an excerpt of his new book.",
+    "Trump hosted Biden at the White House.",
+    "Biden criticized Trump's actions on Jan. 6."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#JoeBiden",
+    "#DonaldTrump",
+    "#USPolitics"
+   ],
+   "sources": [
+    "NBC News",
+    "The Independent",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/news/white-house/4797041/biden-stunned-trump-good-friends/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/white-house/4797041/biden-stunned-trump-good-friends/"
+    ],
+    [
+     "NBC News",
+     "https://www.nbcnews.com/politics/joe-biden/memoir-trump-jan-6-2021-riot-follow-him-to-grave-2024-election-rcna608275"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/us-politics/biden-memoir-trump-2024-white-house-meeting-b3081741.html"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Joe_Biden_%2848010705803%29.jpg/1280px-Joe_Biden_%2848010705803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Marc Nozell from Merrimack, New Hampshire, USA / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Donald_Trump_takes_the_oath_of_office_%282025%29.jpg/1280px-Donald_Trump_takes_the_oath_of_office_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Joint Congressional Committee on Inaugural Ceremonies / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Joe Biden details White House transition meeting with Donald Trump",
+    "people": [
+     "Joe Biden",
+     "Donald Trump"
+    ],
+    "image_query": "White House",
+    "image_queries": [
+     "US Capitol building",
+     "West Wing exterior",
+     "Oval Office",
+     "Washington DC skyline"
+    ],
+    "image_style": "scene",
+    "location": "Washington, US"
+   },
+   "created_at": "2026-11-09T16:30:54.628227+00:00",
+   "news_time": "2026-11-09T13:52:23+00:00",
+   "news_latest": "2026-11-09T15:46:05+00:00",
+   "caption": "Joe Biden details White House transition meeting with Donald Trump\n\nFormer President Joe Biden revealed in his new book that President Donald Trump told him they would be good friends if not for politics. Biden also criticized Trump regarding his actions on January 6.\n\n💬 Did Donald Trump and Joe Biden have a friendly transition meeting?\n\n📖 Read more: https://www.washingtonexaminer.com/news/white-house/4797041/biden-stunned-trump-good-friends/\n\n#JoeBiden #DonaldTrump #USPolitics #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 191,
+   "tg_file_id": "AgACAgUAAxkDAAO_avH1QaLUPOyrhia7qiZUwzlwdBQAAv0Waxv_D5FXo40v8sJaK6QBAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -6784,7 +6929,13 @@
   "https://thehill.com/policy/technology/6207787-jensen-huang-affair-nvidia-stock-falls/",
   "https://www.newsweek.com/nvidia-spy-drama-sparks-stock-market-shock-12686252",
   "https://thehill.com/homenews/campaign/6207958-ready-for-aoc-launches-2028-white-house/",
-  "https://www.nytimes.com/2026/11/09/us/politics/alexandria-ocasio-cortez-aoc-2028-president-group.html"
+  "https://www.nytimes.com/2026/11/09/us/politics/alexandria-ocasio-cortez-aoc-2028-president-group.html",
+  "https://www.theguardian.com/world/2026/nov/09/judo-star-teddy-riner-plan-france-presidential-election",
+  "https://abcnews.com/Politics/wireStory/judo-star-teddy-riner-announces-run-french-president-137968816",
+  "https://www.independent.co.uk/sport/olympics/teddy-riner-french-presidency-emmanuel-macron-b3081659.html",
+  "https://www.washingtonexaminer.com/news/white-house/4797041/biden-stunned-trump-good-friends/",
+  "https://www.nbcnews.com/politics/joe-biden/memoir-trump-jan-6-2021-riot-follow-him-to-grave-2024-election-rcna608275",
+  "https://www.independent.co.uk/news/world/americas/us-politics/biden-memoir-trump-2024-white-house-meeting-b3081741.html"
  ],
  "recent_topics": [
   [
@@ -8518,19 +8669,63 @@
     "toward"
    ],
    "d50feabe4b"
+  ],
+  [
+   "2026-11-09T16:30:51.109897+00:00",
+   [
+    "announc",
+    "bid",
+    "bring",
+    "champion",
+    "election",
+    "franc",
+    "french",
+    "judo",
+    "olympic",
+    "peopl",
+    "plan",
+    "pledg",
+    "presidency",
+    "president",
+    "presidential",
+    "riner",
+    "run",
+    "star",
+    "teddy",
+    "three-tim",
+    "together"
+   ],
+   "322552a6c6"
+  ],
+  [
+   "2026-11-09T16:30:57.592924+00:00",
+   [
+    "action",
+    "biden",
+    "ex-president",
+    "follow",
+    "friend",
+    "good",
+    "grav",
+    "him",
+    "jan",
+    "politic",
+    "reveal",
+    "stunn",
+    "theyd",
+    "told",
+    "trump"
+   ],
+   "910430659d"
   ]
  ],
- "last_draft_at": "2026-11-09T16:15:19.767778+00:00",
+ "last_draft_at": "2026-11-09T16:30:29.200726+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T15:45:21.723927+00:00",
  "run_log": [
-  "11-09 14:00:31 run start",
-  "11-09 14:00:41 listening 11 min",
-  "11-09 14:12:00 listening done",
-  "11-09 14:12:00 run end after 689 s",
   "11-09 14:15:19 run start",
   "11-09 14:15:40 listening 11 min",
   "11-09 14:26:58 listening done",
@@ -8566,14 +8761,15 @@
   "11-09 16:15:19 run start",
   "11-09 16:15:30 listening 11 min",
   "11-09 16:26:48 listening done",
-  "11-09 16:26:48 run end after 688 s"
+  "11-09 16:26:48 run end after 688 s",
+  "11-09 16:30:28 run start",
+  "11-09 16:30:57 listening 11 min",
+  "11-09 16:42:16 listening done",
+  "11-09 16:42:16 run end after 708 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Door_to_Senate_Chamber_MN_State_Capitol.jpg/1920px-Door_to_Senate_Chamber_MN_State_Capitol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/US_Capitol_dome_Jan_2006.jpg/1920px-US_Capitol_dome_Jan_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Stephen_Miller_%2854361578860%29.jpg/1280px-Stephen_Miller_%2854361578860%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Senator_of_Vermont_Bernie_Sanders_Campaign_Field_Office_In_Nashua_NH_11.jpg/1280px-Senator_of_Vermont_Bernie_Sanders_Campaign_Field_Office_In_Nashua_NH_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Jensen_Huang_-_RTX_5070_Laptop_-_Nvidia_Keynote_-_CES_2025_Las_Vegas.jpg/1280px-Jensen_Huang_-_RTX_5070_Laptop_-_Nvidia_Keynote_-_CES_2025_Las_Vegas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_12.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -8610,7 +8806,10 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Marco_Rubio_visits_Israel_from_February_15_to_17%2C_2025_-_18.jpg/1280px-Marco_Rubio_visits_Israel_from_February_15_to_17%2C_2025_-_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/5/59/Jensen_Huang_%28cropped%29_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Vote_Here_-_Election_Polling_Place_%2850565230221%29.jpg/1920px-Vote_Here_-_Election_Polling_Place_%2850565230221%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Vote_Here_-_Election_Polling_Place_%2850565230221%29.jpg/1920px-Vote_Here_-_Election_Polling_Place_%2850565230221%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Plaque_Rue_Teddy_Riner_-_Asni%C3%A8res-sur-Seine_%28FR92%29_-_2024-04-01_-_2.jpg/1280px-Plaque_Rue_Teddy_Riner_-_Asni%C3%A8res-sur-Seine_%28FR92%29_-_2024-04-01_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Joe_Biden_%2848010705803%29.jpg/1280px-Joe_Biden_%2848010705803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Donald_Trump_takes_the_oath_of_office_%282025%29.jpg/1280px-Donald_Trump_takes_the_oath_of_office_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -9738,10 +9937,85 @@
       "portrait": false
      }
     ]
+   },
+   "teddy riner": {
+    "t": "2026-11-09T16:30:40.625639+00:00",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Teddy_Riner_Cannes_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Georges Biard / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037184-rj_mg_4515.jpg/1280px-Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037184-rj_mg_4515.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Fernando Frazão/Agência Brasil / Wikimedia Commons (CC BY 3.0 br)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037178-rj_mg_4384.jpg/1280px-Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037178-rj_mg_4384.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Fernando Frazão/Agência Brasil / Wikimedia Commons (CC BY 3.0 br)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037181-rj_mg_4465.jpg/1280px-Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037181-rj_mg_4465.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Fernando Frazão/Agência Brasil / Wikimedia Commons (CC BY 3.0 br)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037176-rj_mg_4343.jpg/1280px-Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037176-rj_mg_4343.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Fernando Frazão/Agência Brasil / Wikimedia Commons (CC BY 3.0 br)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Rue_Teddy_Riner_-_Asni%C3%A8res-sur-Seine_%28FR92%29_-_2024-04-01_-_1.jpg/1280px-Rue_Teddy_Riner_-_Asni%C3%A8res-sur-Seine_%28FR92%29_-_2024-04-01_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Chabe01 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037180-rj_mg_4441.jpg/1280px-Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037180-rj_mg_4441.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Fernando Frazão/Agência Brasil / Wikimedia Commons (CC BY 3.0 br)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/P%C3%B4le_sportif_Teddy_Riner.jpg/1280px-P%C3%B4le_sportif_Teddy_Riner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Paul Vaurie / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037175-rj_mg_4339.jpg/1280px-Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037175-rj_mg_4339.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Fernando Frazão/Agência Brasil / Wikimedia Commons (CC BY 3.0 br)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Plaque_Rue_Teddy_Riner_-_Asni%C3%A8res-sur-Seine_%28FR92%29_-_2024-04-01_-_2.jpg/1280px-Plaque_Rue_Teddy_Riner_-_Asni%C3%A8res-sur-Seine_%28FR92%29_-_2024-04-01_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Chabe01 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037183-rj_mg_4489.jpg/1280px-Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037183-rj_mg_4489.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Fernando Frazão/Agência Brasil / Wikimedia Commons (CC BY 3.0 br)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037177-rj_mg_4370.jpg/1280px-Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037177-rj_mg_4370.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Fernando Frazão/Agência Brasil / Wikimedia Commons (CC BY 3.0 br)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     }
+    ]
    }
   },
   "recent_ideas": [
-   "power lines",
    "buenos aires skyline",
    "isfahan",
    "capitol hill",
@@ -9752,7 +10026,8 @@
    "saint sophia cathedral, kyiv",
    "united states capitol rotunda",
    "paris cityscape",
-   "polling place, united states"
+   "polling place, united states",
+   "us capitol building"
   ]
  }
 }
