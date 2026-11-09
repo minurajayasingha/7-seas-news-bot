@@ -8165,6 +8165,133 @@
    "log_photo": true,
    "cleared": true,
    "fb_story_id": "1059075090483408"
+  },
+  "70a51e6974": {
+   "id": "70a51e6974",
+   "headline": "Lisa Murkowski seeks top Republican spot on Senate panel",
+   "summary": "Sen. Lisa Murkowski plans to lead Republicans on the Senate Appropriations Committee. Her office confirmed the decision following the election defeat of Sen. Susan Collins.",
+   "label": "US POLITICS",
+   "hook": "Will Lisa Murkowski succeed Susan Collins as the top Republican on the Senate Appropriations Committee?",
+   "key_points": [
+    "Sen. Lisa Murkowski aims to lead Senate Appropriations Republicans.",
+    "Sen. Susan Collins lost her reelection bid."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Senate",
+    "#Congress"
+   ],
+   "sources": [
+    "The Hill",
+    "Washington Examiner"
+   ],
+   "link": "https://thehill.com/the-120/6208712-murkowski-seeks-senate-appropriations-ranking/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/the-120/6208712-murkowski-seeks-senate-appropriations-ranking/"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/senate/4797478/lisa-murkowski-seeks-senate-appropriations-committee-ranking-member/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Lisa_Murkowski_speaking_in_Rhode_Island_-_2019_01.jpg/1280px-Lisa_Murkowski_speaking_in_Rhode_Island_-_2019_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Senate - Office of Lisa Murkowski / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Lisa Murkowski seeks top Republican spot on Senate panel",
+    "people": [
+     "Lisa Murkowski"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "voting booth",
+     "US Senate"
+    ],
+    "image_style": "person",
+    "location": "US"
+   },
+   "created_at": "2026-11-09T19:45:40.903094+00:00",
+   "news_time": "2026-11-09T19:22:50+00:00",
+   "news_latest": "2026-11-09T19:33:38+00:00",
+   "caption": "Lisa Murkowski seeks top Republican spot on Senate panel\n\nSen. Lisa Murkowski plans to lead Republicans on the Senate Appropriations Committee. Her office confirmed the decision following the election defeat of Sen. Susan Collins.\n\n💬 Will Lisa Murkowski succeed Susan Collins as the top Republican on the Senate Appropriations Committee?\n\n📖 Read more: https://thehill.com/the-120/6208712-murkowski-seeks-senate-appropriations-ranking/\n\n#USPolitics #Senate #Congress #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 219,
+   "tg_file_id": "AgACAgUAAxkDAAPbavIi8PHtva4ZTOR43gHP8VRLhmgAAhIWaxuLT5BXlLu6HYSlnn4BAAMCAAN3AAM9BA"
+  },
+  "2b15e694bd": {
+   "id": "2b15e694bd",
+   "headline": "Democratic leadership faces challenges as party members eye alternatives",
+   "summary": "According to reports, Senate Democratic leader Chuck Schumer expects no challenge for his position. However, some newcomers and Chris Van Hollen are reportedly considering alternatives.",
+   "label": "US POLITICS",
+   "hook": "Will Democratic lawmakers successfully replace current leadership?",
+   "key_points": [
+    "Chuck Schumer expects no challenge for Senate Democratic leader.",
+    "Chris Van Hollen and newcomers are reportedly mulling alternatives.",
+    "Reports indicate Democratic leadership is facing internal pressure."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Congress",
+    "#Democrats"
+   ],
+   "sources": [
+    "Fox News",
+    "The Hill"
+   ],
+   "link": "https://www.foxnews.com/politics/schumers-grip-power-slips-dems-begin-revolt-against-him-eye-new-leadership",
+   "links": [
+    [
+     "Fox News",
+     "https://www.foxnews.com/politics/schumers-grip-power-slips-dems-begin-revolt-against-him-eye-new-leadership"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/opinion/robbys-radar/6208613-hakeem-jeffries-house-speaker-struggle/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Utah_State_Capitol_at_Night_by_Don_Ramey_Logan.jpg/1920px-Utah_State_Capitol_at_Night_by_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Don Ramey Logan / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Democratic leadership faces challenges as party members eye alternatives",
+    "people": [],
+    "image_query": "US Capitol dome",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "voting booth",
+     "Democratic National Committee"
+    ],
+    "image_style": "scene",
+    "location": "US"
+   },
+   "created_at": "2026-11-09T19:45:54.469006+00:00",
+   "news_time": "2026-11-09T18:40:40+00:00",
+   "news_latest": "2026-11-09T19:08:31+00:00",
+   "caption": "Democratic leadership faces challenges as party members eye alternatives\n\nAccording to reports, Senate Democratic leader Chuck Schumer expects no challenge for his position. However, some newcomers and Chris Van Hollen are reportedly considering alternatives.\n\n💬 Will Democratic lawmakers successfully replace current leadership?\n\n📖 Read more: https://www.foxnews.com/politics/schumers-grip-power-slips-dems-begin-revolt-against-him-eye-new-leadership\n\n#USPolitics #Congress #Democrats #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 220,
+   "tg_file_id": "AgACAgUAAxkDAAPcavIi9D5-1xnkON4dx_Dy0SlsPRgAAhMWaxuLT5BXstnIIGRLe_wBAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -8445,7 +8572,11 @@
   "https://www.washingtonpost.com/politics/2026/11/04/what-norc-voter-poll-shows-about-who-voted-whom-midterms/",
   "https://www.foxnews.com/politics/senate-gop-rebels-move-delay-leadership-vote-demand-reckoning-after-midterm-disaster",
   "https://www.washingtonpost.com/politics/2026/11/09/2028-winners-losers-midterms/",
-  "https://www.cbsnews.com/news/2026-midterm-election-house-senate-projections-toss-up/"
+  "https://www.cbsnews.com/news/2026-midterm-election-house-senate-projections-toss-up/",
+  "https://thehill.com/the-120/6208712-murkowski-seeks-senate-appropriations-ranking/",
+  "https://www.washingtonexaminer.com/news/senate/4797478/lisa-murkowski-seeks-senate-appropriations-committee-ranking-member/",
+  "https://www.foxnews.com/politics/schumers-grip-power-slips-dems-begin-revolt-against-him-eye-new-leadership",
+  "https://thehill.com/opinion/robbys-radar/6208613-hakeem-jeffries-house-speaker-struggle/"
  ],
  "recent_topics": [
   [
@@ -10590,19 +10721,56 @@
     "yet"
    ],
    "a3808c8708"
+  ],
+  [
+   "2026-11-09T19:45:52.548771+00:00",
+   [
+    "appropriation",
+    "collin",
+    "committe",
+    "gop",
+    "lisa",
+    "murkowski",
+    "plan",
+    "replac",
+    "republican",
+    "seek",
+    "senat",
+    "spot",
+    "susan"
+   ],
+   "70a51e6974"
+  ],
+  [
+   "2026-11-09T19:45:56.297438+00:00",
+   [
+    "begin",
+    "celebrat",
+    "congress",
+    "dem",
+    "eye",
+    "grip",
+    "him",
+    "leadership",
+    "mamdani",
+    "panick",
+    "power",
+    "revolt",
+    "schumer",
+    "slip",
+    "socialist",
+    "takeover"
+   ],
+   "2b15e694bd"
   ]
  ],
- "last_draft_at": "2026-11-09T19:30:27.730834+00:00",
+ "last_draft_at": "2026-11-09T19:45:28.380273+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-09T18:45:23.920654+00:00",
+ "last_stats_at": "2026-11-09T19:45:20.240348+00:00",
  "run_log": [
-  "11-09 17:09:01 run start",
-  "11-09 17:09:18 listening 11 min",
-  "11-09 17:20:48 listening done",
-  "11-09 17:20:48 run end after 707 s",
   "11-09 17:21:00 run start",
   "11-09 17:21:14 listening 11 min",
   "11-09 17:32:29 listening done",
@@ -10638,13 +10806,15 @@
   "11-09 19:30:27 run start",
   "11-09 19:32:30 listening 9 min",
   "11-09 19:42:03 listening done",
-  "11-09 19:42:03 run end after 695 s"
+  "11-09 19:42:03 run end after 695 s",
+  "11-09 19:45:19 run start",
+  "11-09 19:45:56 listening 11 min",
+  "11-09 19:56:49 listening done",
+  "11-09 19:56:49 run end after 689 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Sheikh_Lotfollah_Mosque%2C_Isfahan%2CIran.jpg/1920px-Sheikh_Lotfollah_Mosque%2C_Isfahan%2CIran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Donald_Trump_RNC_July_2016.jpg/1280px-Donald_Trump_RNC_July_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg/1920px-High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Library_of_Congress_%2897917%29.jpg/1920px-Library_of_Congress_%2897917%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Stephen_Miller_%2854360305622%29_%28cropped%29%28c%29.jpg/1280px-Stephen_Miller_%2854360305622%29_%28cropped%29%28c%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -10682,7 +10852,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Secretary_of_Defense_Pete_Hegseth_official_portrait_%28cropped%29.jpg/1280px-Secretary_of_Defense_Pete_Hegseth_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Sacramento_Courthouse_Building_2024-02-25.jpg/1920px-Sacramento_Courthouse_Building_2024-02-25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/e/e5/Early_Voting_0873_%2831735035288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ballot_box_in_Sonoma%2C_California_-_November_2022_-_Sarah_Stierch_01.jpg/1920px-Ballot_box_in_Sonoma%2C_California_-_November_2022_-_Sarah_Stierch_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ballot_box_in_Sonoma%2C_California_-_November_2022_-_Sarah_Stierch_01.jpg/1920px-Ballot_box_in_Sonoma%2C_California_-_November_2022_-_Sarah_Stierch_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Lisa_Murkowski_speaking_in_Rhode_Island_-_2019_01.jpg/1280px-Lisa_Murkowski_speaking_in_Rhode_Island_-_2019_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Utah_State_Capitol_at_Night_by_Don_Ramey_Logan.jpg/1920px-Utah_State_Capitol_at_Night_by_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -11962,10 +12134,79 @@
       "portrait": false
      }
     ]
+   },
+   "lisa murkowski": {
+    "t": "2026-11-09T19:45:40.902989+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Lisa_Murkowski_official_photo.jpg/1280px-Lisa_Murkowski_official_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Senate Photo Office / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Lisa_Murkowski_images_of_inauguration_of_Joe_Biden_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Lisa Murkowski / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/United_States_Sen._Lisa_Murkowski%2C_R-Alaska%2C_visits_Joint_Base_Elmendorf-Richardson_150630-F-YH552-164_%28cropped%29.jpg/1280px-United_States_Sen._Lisa_Murkowski%2C_R-Alaska%2C_visits_Joint_Base_Elmendorf-Richardson_150630-F-YH552-164_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Alejandro Pena / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/United_States_Sen._Lisa_Murkowski%2C_R-Alaska%2C_visits_Joint_Base_Elmendorf-Richardson_150630-F-YH552-098.jpg/1280px-United_States_Sen._Lisa_Murkowski%2C_R-Alaska%2C_visits_Joint_Base_Elmendorf-Richardson_150630-F-YH552-098.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Alejandro Pena / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Lisa_Murkowski_%28cropped%292.jpg/1280px-Lisa_Murkowski_%28cropped%292.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Senate Photo Office / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Lisa_Murkowski_1_%28cropped%29.jpg/1280px-Lisa_Murkowski_1_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Unknown author / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Lisa_Murkowski_1.jpg/1280px-Lisa_Murkowski_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Unknown author / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/United_States_Sen._Lisa_Murkowski%2C_R-Alaska%2C_visits_Joint_Base_Elmendorf-Richardson_150630-F-YH552-135.jpg/1280px-United_States_Sen._Lisa_Murkowski%2C_R-Alaska%2C_visits_Joint_Base_Elmendorf-Richardson_150630-F-YH552-135.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Alejandro Pena / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Lisa_Murkowski_visits_2019_Alaska_State_Fair_05.jpg/1280px-Lisa_Murkowski_visits_2019_Alaska_State_Fair_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Senate - Office of Lisa Murkowski / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Lisa_Murkowski_visits_Faroe_Islands_-_2019_10.jpg/1280px-Lisa_Murkowski_visits_Faroe_Islands_-_2019_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Senate - Office of Lisa Murkowski / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Lisa_Murkowski_speaking_in_Rhode_Island_-_2019_01.jpg/1280px-Lisa_Murkowski_speaking_in_Rhode_Island_-_2019_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Senate - Office of Lisa Murkowski / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     }
+    ]
    }
   },
   "recent_ideas": [
-   "us capitol building",
    "i voted sticker",
    "senate chamber",
    "house of representatives chamber",
@@ -11976,7 +12217,8 @@
    "national mall, washington",
    "courthouse building",
    "early voting, united states",
-   "ballot box, united states"
+   "ballot box, united states",
+   "capitol at night"
   ]
  }
 }
