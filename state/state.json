@@ -9219,6 +9219,141 @@
    "status": "pending",
    "tg_message_id": 232,
    "tg_file_id": "AgACAgUAAxkDAAPoavJNGxerH7uxthE0UjV6tqbPWXAAAi4WaxuLT5BX7lKcN0RqL8cBAAMCAAN3AAM9BA"
+  },
+  "1f358cbd82": {
+   "id": "1f358cbd82",
+   "headline": "Scott Colom criticizes election forecasters over Mississippi Senate ratings",
+   "summary": "Mississippi Senate candidate Scott Colom criticized election forecasters for their ratings of his campaign against Sen. Cindy Hyde-Smith. Colom argued that the grim predictions created challenges for fundraising and competing in the South.",
+   "label": "ELECTIONS",
+   "hook": "Did election forecasters underestimate Scott Colom's chances in Mississippi?",
+   "key_points": [
+    "Scott Colom criticized election forecasters for race ratings.",
+    "Colom said grim predictions harmed fundraising.",
+    "Colom maintained a narrow lead over Hyde-Smith."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#MississippiSenate",
+    "#ScottColom",
+    "#USPolitics"
+   ],
+   "sources": [
+    "The Hill",
+    "Washington Post"
+   ],
+   "link": "https://thehill.com/homenews/campaign/6209217-colom-blasts-election-forecasters/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/homenews/campaign/6209217-colom-blasts-election-forecasters/"
+    ],
+    [
+     "Washington Post",
+     "https://www.washingtonpost.com/elections/2026/11/09/democrat-scott-colom-attacks-cook-reports-accuracy/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Scott_Colom_2_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "The Contrarian / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Scott Colom criticizes election forecasters over Mississippi Senate ratings",
+    "people": [
+     "Scott Colom"
+    ],
+    "image_query": "Mississippi State Capitol",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "voting booth",
+     "election map"
+    ],
+    "image_style": "person",
+    "location": "Mississippi, US"
+   },
+   "created_at": "2026-11-09T23:00:39.654845+00:00",
+   "news_time": "2026-11-09T22:18:00+00:00",
+   "news_latest": "2026-11-09T22:27:41+00:00",
+   "caption": "Scott Colom criticizes election forecasters over Mississippi Senate ratings\n\nMississippi Senate candidate Scott Colom criticized election forecasters for their ratings of his campaign against Sen. Cindy Hyde-Smith. Colom argued that the grim predictions created challenges for fundraising and competing in the South.\n\n💬 Did election forecasters underestimate Scott Colom's chances in Mississippi?\n\n📖 Read more: https://thehill.com/homenews/campaign/6209217-colom-blasts-election-forecasters/\n\n#MississippiSenate #ScottColom #USPolitics #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 233,
+   "tg_file_id": "AgACAgUAAxkDAAPpavJQmXIX2e7mjfEKtqt_cLGE7ogAAjAWaxuLT5BXjfo0yHleYE8BAAMCAAN3AAM9BA"
+  },
+  "365b690e77": {
+   "id": "365b690e77",
+   "headline": "Paul LePage heads to Washington ahead of election count",
+   "summary": "Former Republican Gov. Paul LePage travels to Washington as Maine's ranked choice voting process continues. Meanwhile, lawmakers return to Capitol Hill for the first time following the midterm elections.",
+   "label": "US POLITICS",
+   "hook": "How will the ranked choice voting process impact the final election outcome in Maine?",
+   "key_points": [
+    "Lawmakers return to Washington following midterm elections.",
+    "Former GOP governor Paul LePage travels to Washington.",
+    "Maine's ranked choice voting process continues."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#CapitolHill",
+    "#MaineElections"
+   ],
+   "sources": [
+    "Fox News",
+    "NBC News"
+   ],
+   "link": "https://www.nbcnews.com/politics/politics-news/capitol-hill-vibe-shift-politics-desk-rcna608437",
+   "links": [
+    [
+     "NBC News",
+     "https://www.nbcnews.com/politics/politics-news/capitol-hill-vibe-shift-politics-desk-rcna608437"
+    ],
+    [
+     "Fox News",
+     "https://www.foxnews.com/politics/former-gop-governor-heads-capitol-hill-before-election-count-complete-already-work"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Ceiling%2C_Maine_State_House%2C_State_Street_and_Capitol_Street%2C_Augusta%2C_ME.jpg/1920px-Ceiling%2C_Maine_State_House%2C_State_Street_and_Capitol_Street%2C_Augusta%2C_ME.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "w_lemay / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ],
+    "inset": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Paul_LePage_%2832997040712%29.jpg/1280px-Paul_LePage_%2832997040712%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+     "short": "WIKIMEDIA COMMONS"
+    }
+   },
+   "img_post": {
+    "headline": "Paul LePage heads to Washington ahead of election count",
+    "people": [
+     "Paul LePage"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "Maine State House",
+     "voting booth"
+    ],
+    "image_style": "scene",
+    "location": "Washington, US"
+   },
+   "created_at": "2026-11-09T23:00:44.758676+00:00",
+   "news_time": "2026-11-09T17:15:10+00:00",
+   "news_latest": "2026-11-09T22:39:52+00:00",
+   "caption": "Paul LePage heads to Washington ahead of election count\n\nFormer Republican Gov. Paul LePage travels to Washington as Maine's ranked choice voting process continues. Meanwhile, lawmakers return to Capitol Hill for the first time following the midterm elections.\n\n💬 How will the ranked choice voting process impact the final election outcome in Maine?\n\n📖 Read more: https://www.nbcnews.com/politics/politics-news/capitol-hill-vibe-shift-politics-desk-rcna608437\n\n#USPolitics #CapitolHill #MaineElections #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 234,
+   "tg_file_id": "AgACAgUAAxkDAAPqavJQngY6LW1UhWM8oLgmxB95JKEAAjEWaxuLT5BXdv4xHLtF4EUBAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -9533,7 +9668,11 @@
   "https://abcnews.com/International/wireStory/pope-meets-survivors-clergy-abuse-argentina-reckons-legacy-137988212",
   "https://abcnews.com/International/wireStory/pope-visits-struggling-argentine-home-people-disabilities-press-137970019",
   "https://www.upi.com/Top_News/World-News/2026/11/09/latam-argentina-pope-mass/8271794244018/",
-  "https://www.euronews.com/video/2026/11/09/argentina-pope-leo-xiv-receives-warm-welcome-in-claypole"
+  "https://www.euronews.com/video/2026/11/09/argentina-pope-leo-xiv-receives-warm-welcome-in-claypole",
+  "https://thehill.com/homenews/campaign/6209217-colom-blasts-election-forecasters/",
+  "https://www.washingtonpost.com/elections/2026/11/09/democrat-scott-colom-attacks-cook-reports-accuracy/",
+  "https://www.nbcnews.com/politics/politics-news/capitol-hill-vibe-shift-politics-desk-rcna608437",
+  "https://www.foxnews.com/politics/former-gop-governor-heads-capitol-hill-before-election-count-complete-already-work"
  ],
  "recent_topics": [
   [
@@ -11976,19 +12115,63 @@
     "xiv"
    ],
    "6bc19982ba"
+  ],
+  [
+   "2026-11-09T23:00:42.105091+00:00",
+   [
+    "accuracy",
+    "attack",
+    "call",
+    "campaign",
+    "candidat",
+    "colom",
+    "cook",
+    "democrat",
+    "election",
+    "hold",
+    "lead",
+    "mississippi",
+    "political",
+    "rac",
+    "rater",
+    "scott",
+    "senat",
+    "slim",
+    "still",
+    "toss-up",
+    "writ"
+   ],
+   "1f358cbd82"
+  ],
+  [
+   "2026-11-09T23:00:46.625567+00:00",
+   [
+    "already",
+    "capitol",
+    "complet",
+    "count",
+    "desk",
+    "election",
+    "former",
+    "gop",
+    "governor",
+    "head",
+    "hill",
+    "politic",
+    "shift",
+    "vib",
+    "work"
+   ],
+   "365b690e77"
   ]
  ],
- "last_draft_at": "2026-11-09T22:45:34.091185+00:00",
+ "last_draft_at": "2026-11-09T23:00:29.816000+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T22:45:22.310435+00:00",
  "run_log": [
-  "11-09 20:30:24 run start",
-  "11-09 20:30:41 listening 11 min",
-  "11-09 20:41:59 listening done",
-  "11-09 20:41:59 run end after 695 s",
   "11-09 20:45:21 run start",
   "11-09 20:47:21 listening 10 min",
   "11-09 20:56:59 listening done",
@@ -12024,14 +12207,15 @@
   "11-09 22:45:21 run start",
   "11-09 22:45:48 listening 11 min",
   "11-09 22:57:07 listening done",
-  "11-09 22:57:07 run end after 705 s"
+  "11-09 22:57:07 run end after 705 s",
+  "11-09 23:00:29 run start",
+  "11-09 23:00:46 listening 11 min",
+  "11-09 23:12:04 listening done",
+  "11-09 23:12:04 run end after 695 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Vote_Here_-_Election_Polling_Place_%2850565230221%29.jpg/1920px-Vote_Here_-_Election_Polling_Place_%2850565230221%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Plaque_Rue_Teddy_Riner_-_Asni%C3%A8res-sur-Seine_%28FR92%29_-_2024-04-01_-_2.jpg/1280px-Plaque_Rue_Teddy_Riner_-_Asni%C3%A8res-sur-Seine_%28FR92%29_-_2024-04-01_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Joe_Biden_%2848010705803%29.jpg/1280px-Joe_Biden_%2848010705803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Donald_Trump_takes_the_oath_of_office_%282025%29.jpg/1280px-Donald_Trump_takes_the_oath_of_office_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/2018_I_Voted_sticker_%28Cook_County%29.jpg/1920px-2018_I_Voted_sticker_%28Cook_County%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Iowa_Senate_chamber_05.jpg/1920px-Iowa_Senate_chamber_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -12068,7 +12252,10 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Senator_Dan_Sullivan_official_%28cropped%29.jpg/1280px-Senator_Dan_Sullivan_official_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Rep._Mary_Peltola_headshot_%28cropped%29.jpg/1280px-Rep._Mary_Peltola_headshot_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/1280px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Pope_Leo_XIV_3_%283x4_cropped%29.png/1280px-Pope_Leo_XIV_3_%283x4_cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Pope_Leo_XIV_3_%283x4_cropped%29.png/1280px-Pope_Leo_XIV_3_%283x4_cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/f/f2/Scott_Colom_2_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Ceiling%2C_Maine_State_House%2C_State_Street_and_Capitol_Street%2C_Augusta%2C_ME.jpg/1920px-Ceiling%2C_Maine_State_House%2C_State_Street_and_Capitol_Street%2C_Augusta%2C_ME.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Paul_LePage_%2832997040712%29.jpg/1280px-Paul_LePage_%2832997040712%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -13761,10 +13948,47 @@
       "portrait": true
      }
     ]
+   },
+   "scott colom": {
+    "t": "2026-11-09T23:00:39.654735+00:00",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Scott_Colom_2_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "The Contrarian / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "paul lepage": {
+    "t": "2026-11-09T23:00:43.803589+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Paul_LePage_by_Gage_Skidmore.jpg/1280px-Paul_LePage_by_Gage_Skidmore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Paul_LePage_%2832997040712%29.jpg/1280px-Paul_LePage_%2832997040712%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Paul_LePage_%2832997047882%29.jpg/1280px-Paul_LePage_%2832997047882%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Paul_LePage_%2832770544230%29.jpg/1280px-Paul_LePage_%2832770544230%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     }
+    ]
    }
   },
   "recent_ideas": [
-   "national mall, washington",
    "courthouse building",
    "early voting, united states",
    "ballot box, united states",
@@ -13775,7 +13999,8 @@
    "provo courthouse",
    "capitol hill",
    "treasury building, washington",
-   "robert f. kennedy department of justice building"
+   "robert f. kennedy department of justice building",
+   "maine state house"
   ]
  }
 }
