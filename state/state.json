@@ -8367,6 +8367,83 @@
    "status": "pending",
    "tg_message_id": 221,
    "tg_file_id": "AgACAgUAAxkDAAPdavIp56QR7QKBey57_xbtib1hwloAAhQWaxuLT5BXbfbtVx0j5xoBAAMCAAN3AAM9BA"
+  },
+  "2a77dcace3": {
+   "id": "2a77dcace3",
+   "headline": "Calley Means accuses Susie Wiles of shifting blame onto Donald Trump",
+   "summary": "A former top adviser to Health Secretary Robert F. Kennedy Jr. accused Susie Wiles of attempting to pin controversial health policies on President Trump. The official also claimed that staff prioritized sugar industry funding over the Make America Healthy Again agenda before midterms.",
+   "label": "US POLITICS",
+   "hook": "Did prioritizing fundraising over the health agenda lead to the recent midterm losses?",
+   "key_points": [
+    "Calley Means resigned from his advisory role.",
+    "Susie Wiles was recently removed as White House chief of staff.",
+    "Republicans ultimately lost the midterms."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#RobertFKennedyJr",
+    "#DonaldTrump"
+   ],
+   "sources": [
+    "The Guardian",
+    "The Hill"
+   ],
+   "link": "https://thehill.com/homenews/administration/6208834-calley-means-susie-wiles-accusations/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/homenews/administration/6208834-calley-means-susie-wiles-accusations/"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/2026/nov/09/rfk-jr-trump-midterms-maha"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Calley_Means_%2854234762230%29.jpg/1280px-Calley_Means_%2854234762230%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Susie_Wiles_%28crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "The White House / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Donald_Trump_by_Gage_Skidmore_4_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Calley Means accuses Susie Wiles of shifting blame onto Donald Trump",
+    "people": [
+     "Calley Means",
+     "Susie Wiles",
+     "Donald Trump"
+    ],
+    "image_query": "White House building",
+    "image_queries": [
+     "US Capitol dome",
+     "Senate chamber",
+     "West Wing exterior",
+     "Washington DC streets"
+    ],
+    "image_style": "person",
+    "location": "US"
+   },
+   "created_at": "2026-11-09T20:30:38.923601+00:00",
+   "news_time": "2026-11-09T18:57:51+00:00",
+   "news_latest": "2026-11-09T20:12:39+00:00",
+   "caption": "Calley Means accuses Susie Wiles of shifting blame onto Donald Trump\n\nA former top adviser to Health Secretary Robert F. Kennedy Jr. accused Susie Wiles of attempting to pin controversial health policies on President Trump. The official also claimed that staff prioritized sugar industry funding over the Make America Healthy Again agenda before midterms.\n\n💬 Did prioritizing fundraising over the health agenda lead to the recent midterm losses?\n\n📖 Read more: https://thehill.com/homenews/administration/6208834-calley-means-susie-wiles-accusations/\n\n#USPolitics #RobertFKennedyJr #DonaldTrump #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 222,
+   "tg_file_id": "AgACAgUAAxkDAAPeavItcR4G337RsN1xOjxT-zojZGoAAhcWaxuLT5BXbtJpAj0Fb_IBAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -8654,7 +8731,9 @@
   "https://thehill.com/opinion/robbys-radar/6208613-hakeem-jeffries-house-speaker-struggle/",
   "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-border-wall-trump.html",
   "https://www.cbsnews.com/news/supreme-court-trump-border-wall-big-bend/",
-  "https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-border-wall-big-bend-texas-rcna604916"
+  "https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-border-wall-big-bend-texas-rcna604916",
+  "https://thehill.com/homenews/administration/6208834-calley-means-susie-wiles-accusations/",
+  "https://www.theguardian.com/us-news/2026/nov/09/rfk-jr-trump-midterms-maha"
  ],
  "recent_topics": [
   [
@@ -10862,19 +10941,36 @@
     "way"
    ],
    "fba2f3fceb"
+  ],
+  [
+   "2026-11-09T20:30:41.528194+00:00",
+   [
+    "accus",
+    "adviser",
+    "bus",
+    "ex-rfk",
+    "former",
+    "group",
+    "interest",
+    "official",
+    "prioritiz",
+    "rfk",
+    "special",
+    "throw",
+    "trump",
+    "voter",
+    "wil"
+   ],
+   "2a77dcace3"
   ]
  ],
- "last_draft_at": "2026-11-09T20:15:20.107783+00:00",
+ "last_draft_at": "2026-11-09T20:30:25.124471+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T19:45:20.240348+00:00",
  "run_log": [
-  "11-09 17:45:26 run start",
-  "11-09 17:45:58 listening 11 min",
-  "11-09 17:56:56 listening done",
-  "11-09 17:56:56 run end after 689 s",
   "11-09 18:00:33 run start",
   "11-09 18:00:43 listening 11 min",
   "11-09 18:12:04 listening done",
@@ -10910,14 +11006,15 @@
   "11-09 20:15:19 run start",
   "11-09 20:15:35 listening 11 min",
   "11-09 20:26:53 listening done",
-  "11-09 20:26:53 run end after 693 s"
+  "11-09 20:26:53 run end after 693 s",
+  "11-09 20:30:24 run start",
+  "11-09 20:30:41 listening 11 min",
+  "11-09 20:41:59 listening done",
+  "11-09 20:41:59 run end after 695 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Stephen_Miller_%2854360305622%29_%28cropped%29%28c%29.jpg/1280px-Stephen_Miller_%2854360305622%29_%28cropped%29%28c%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/5/5c/Iowa_City%2C_IA_-_Early_Voting_Automobile_Queue_October_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Capitol_Reflecting_Pool_%28September_2023%29_03.jpg/1920px-Capitol_Reflecting_Pool_%28September_2023%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Dave_McCormick_%2855510560606%29.jpg/1280px-Dave_McCormick_%2855510560606%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/The_capitol_at_night.jpg/1920px-The_capitol_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -10954,7 +11051,10 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Lisa_Murkowski_speaking_in_Rhode_Island_-_2019_01.jpg/1280px-Lisa_Murkowski_speaking_in_Rhode_Island_-_2019_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Utah_State_Capitol_at_Night_by_Don_Ramey_Logan.jpg/1920px-Utah_State_Capitol_at_Night_by_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg/1280px-Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg/1280px-Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Calley_Means_%2854234762230%29.jpg/1280px-Calley_Means_%2854234762230%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/8/86/Susie_Wiles_%28crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://upload.wikimedia.org/wikipedia/commons/5/55/Donald_Trump_by_Gage_Skidmore_4_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   ],
   "pools": {
    "donald trump": {
@@ -12302,6 +12402,128 @@
       "credit": "United States Senate - Office of Lisa Murkowski / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": false
+     }
+    ]
+   },
+   "calley means": {
+    "t": "2026-11-09T20:30:37.831293+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Calley_Means_%2854234583448%29_%28cropped%29.jpg/1280px-Calley_Means_%2854234583448%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Calley_Means_%2854233447422%29.jpg/1280px-Calley_Means_%2854233447422%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Calley_Means_%2854234583968%29.jpg/1280px-Calley_Means_%2854234583968%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Calley_Means_%2854234762230%29.jpg/1280px-Calley_Means_%2854234762230%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Calley_Means_%2854234762140%29.jpg/1280px-Calley_Means_%2854234762140%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Calley_Means_%2854234592994%29.jpg/1280px-Calley_Means_%2854234592994%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Calley_Means_%2854234353861%29.jpg/1280px-Calley_Means_%2854234353861%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Calley_Means_on_Ron_Johnson_Roundtable_Discussion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Staff of US Senate and/or Senator Ron Johnson / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Calley_Means_%2854234353711%29.jpg/1280px-Calley_Means_%2854234353711%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Calley_Means_%2854234593229%29.jpg/1280px-Calley_Means_%2854234593229%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Calley_Means_%2854234583448%29.jpg/1280px-Calley_Means_%2854234583448%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Calley_Means_%2854234762005%29.jpg/1280px-Calley_Means_%2854234762005%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     }
+    ]
+   },
+   "susie wiles": {
+    "t": "2026-11-09T20:30:38.923476+00:00",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Susie_Wiles_July_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "The White House / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Susie_Wiles_%28crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "The White House / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Susie_Wiles_%28crop%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "The White House / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Susie_Wiles_listens_as_President_Donald_J._Trump_oversees_Operation_Epic_Fury_at_Mar-a-Lago_%2855125422178%29.jpg/1280px-Susie_Wiles_listens_as_President_Donald_J._Trump_oversees_Operation_Epic_Fury_at_Mar-a-Lago_%2855125422178%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "The White House / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Susie_Wiles_in_2025.jpg/1280px-Susie_Wiles_in_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/President_Donald_Trump_speaks_to_Chief_of_Staff_Susie_Wiles_during_the_80th_session_of_the_United_Nations_General_Assembly_%2854823840724%29.jpg/1280px-President_Donald_Trump_speaks_to_Chief_of_Staff_Susie_Wiles_during_the_80th_session_of_the_United_Nations_General_Assembly_%2854823840724%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "The White House / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Susie_Wiles_2025_%28edited_crop%29.jpg/1280px-Susie_Wiles_2025_%28edited_crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "The White House / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
      }
     ]
    }
