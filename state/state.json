@@ -9481,6 +9481,69 @@
    "status": "pending",
    "tg_message_id": 236,
    "tg_file_id": "AgACAgUAAxkDAAPsavJUHAAB8CH9k__3U7HdYySFyURKAAIzFmsbi0-QV2_DcBJgynY_AQADAgADdwADPQQ"
+  },
+  "e6f09dd6f7": {
+   "id": "e6f09dd6f7",
+   "headline": "Democrats secure midterm wins and target GOP Senate seats",
+   "summary": "According to reports from Newsweek and The Guardian, Democrats achieved midterm victories in Senate, House, and down-ballot races. Newsweek notes that three Republican Senate seats face the highest risk of flipping in 2028.",
+   "label": "ELECTIONS",
+   "hook": "Which party will maintain the advantage in upcoming Senate elections?",
+   "key_points": [
+    "Democrats won multiple Senate and House midterm races.",
+    "The blue wave extended to down-ballot races.",
+    "Three GOP Senate seats are at risk in 2028."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Senate",
+    "#Elections"
+   ],
+   "sources": [
+    "Newsweek",
+    "The Guardian"
+   ],
+   "link": "https://www.newsweek.com/gop-senate-seats-most-at-risk-in-2028-after-democrats-blue-wave-12690986",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/gop-senate-seats-most-at-risk-in-2028-after-democrats-blue-wave-12690986"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/video/2026/nov/09/democrats-big-blue-wave-wins-you-may-have-not-heard-about-video"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Polling_place_%2851099128254%29.jpg/1920px-Polling_place_%2851099128254%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "WORT News / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Democrats secure midterm wins and target GOP Senate seats",
+    "people": [],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "voting booth",
+     "House of Representatives chamber"
+    ],
+    "image_style": "scene",
+    "location": "US"
+   },
+   "created_at": "2026-11-09T23:30:39.814531+00:00",
+   "news_time": "2026-11-09T22:59:19+00:00",
+   "news_latest": "2026-11-09T23:14:54+00:00",
+   "caption": "Democrats secure midterm wins and target GOP Senate seats\n\nAccording to reports from Newsweek and The Guardian, Democrats achieved midterm victories in Senate, House, and down-ballot races. Newsweek notes that three Republican Senate seats face the highest risk of flipping in 2028.\n\n💬 Which party will maintain the advantage in upcoming Senate elections?\n\n📖 Read more: https://www.newsweek.com/gop-senate-seats-most-at-risk-in-2028-after-democrats-blue-wave-12690986\n\n#USPolitics #Senate #Elections #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 237,
+   "tg_file_id": "AgACAgUAAxkDAAPtavJXoqVtMazH0RzWWElGgmc5wKoAAjsWaxuLT5BXNKhcBwIzuBYBAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -9803,7 +9866,9 @@
   "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war",
   "https://thehill.com/homenews/administration/6209247-trump-downplays-iran-military-action/",
   "https://www.nbcnews.com/business/economy/october-cpi-inflation-report-gas-prices-rcna608386",
-  "https://www.theguardian.com/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31"
+  "https://www.theguardian.com/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31",
+  "https://www.newsweek.com/gop-senate-seats-most-at-risk-in-2028-after-democrats-blue-wave-12690986",
+  "https://www.theguardian.com/us-news/video/2026/nov/09/democrats-big-blue-wave-wins-you-may-have-not-heard-about-video"
  ],
  "recent_topics": [
   [
@@ -12343,19 +12408,33 @@
     "took"
    ],
    "4de79c625c"
+  ],
+  [
+   "2026-11-09T23:30:42.478906+00:00",
+   [
+    "big",
+    "blu",
+    "democrat",
+    "gop",
+    "heard",
+    "most",
+    "risk",
+    "seat",
+    "senat",
+    "video",
+    "wav",
+    "win"
+   ],
+   "e6f09dd6f7"
   ]
  ],
- "last_draft_at": "2026-11-09T23:15:23.585558+00:00",
+ "last_draft_at": "2026-11-09T23:30:26.194381+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T22:45:22.310435+00:00",
  "run_log": [
-  "11-09 21:00:31 run start",
-  "11-09 21:01:58 listening 10 min",
-  "11-09 21:12:02 listening done",
-  "11-09 21:12:02 run end after 690 s",
   "11-09 21:15:20 run start",
   "11-09 21:15:39 listening 11 min",
   "11-09 21:26:57 listening done",
@@ -12391,12 +12470,15 @@
   "11-09 23:15:22 run start",
   "11-09 23:15:41 listening 11 min",
   "11-09 23:27:01 listening done",
-  "11-09 23:27:01 run end after 698 s"
+  "11-09 23:27:01 run end after 698 s",
+  "11-09 23:30:25 run start",
+  "11-09 23:30:42 listening 11 min",
+  "11-09 23:42:01 listening done",
+  "11-09 23:42:01 run end after 695 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Iowa_Senate_chamber_05.jpg/1920px-Iowa_Senate_chamber_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/House_of_Representatives_Chamber%2C_Idaho_State_Capitol.jpg/1920px-House_of_Representatives_Chamber%2C_Idaho_State_Capitol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -12435,7 +12517,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Ceiling%2C_Maine_State_House%2C_State_Street_and_Capitol_Street%2C_Augusta%2C_ME.jpg/1920px-Ceiling%2C_Maine_State_House%2C_State_Street_and_Capitol_Street%2C_Augusta%2C_ME.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Paul_LePage_%2832997040712%29.jpg/1280px-Paul_LePage_%2832997040712%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Baltra_Island_-_Wind_Turbines.jpg/1920px-Baltra_Island_-_Wind_Turbines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Baltra_Island_-_Wind_Turbines.jpg/1920px-Baltra_Island_-_Wind_Turbines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Polling_place_%2851099128254%29.jpg/1920px-Polling_place_%2851099128254%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -14169,7 +14252,6 @@
    }
   },
   "recent_ideas": [
-   "early voting, united states",
    "ballot box, united states",
    "capitol at night",
    "thurgood marshall federal judiciary building",
@@ -14180,7 +14262,8 @@
    "treasury building, washington",
    "robert f. kennedy department of justice building",
    "maine state house",
-   "wind turbines"
+   "wind turbines",
+   "polling place, united states"
   ]
  }
 }
