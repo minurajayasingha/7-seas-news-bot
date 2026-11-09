@@ -8613,6 +8613,77 @@
    "status": "pending",
    "tg_message_id": 224,
    "tg_file_id": "AgACAgUAAxkDAAPgavI0xj4tfscqybVaCKFIHJI_5zwAAhkWaxuLT5BXNb7VEuxeBlABAAMCAAN3AAM9BA"
+  },
+  "21dfd4648c": {
+   "id": "21dfd4648c",
+   "headline": "Tyler Robinson to face trial in 2028 for Charlie Kirk murder",
+   "summary": "A Utah judge has scheduled the murder trial for Tyler Robinson to begin in 2028. Jury selection will take place in June regarding the September 2025 killing of Charlie Kirk.",
+   "label": "US POLITICS",
+   "hook": "",
+   "key_points": [
+    "Judge Tony Graf set the trial date in Provo, Utah.",
+    "Jury selection is scheduled for June 2028.",
+    "The case involves the September 2025 killing of Charlie Kirk."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Utah",
+    "#CourtNews",
+    "#CharlieKirk"
+   ],
+   "sources": [
+    "Newsweek",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/news/justice/4777878/tyler-robinson-trial-2028-charlie-kirk-murder-case/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/justice/4777878/tyler-robinson-trial-2028-charlie-kirk-murder-case/"
+    ],
+    [
+     "Newsweek",
+     "https://www.newsweek.com/charlie-kirk-update-judge-sets-murder-trial-start-date-for-tyler-robinson-12689645"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Log_8_of_Tyler_Robinson_Confessing_to_Lance_Twiggs_of_Assassinating_Charlie_Kirk.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Tyler Robinson and Lance Twiggs / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Charlie_Kirk_by_Gage_Skidmore.jpg/1280px-Charlie_Kirk_by_Gage_Skidmore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Tyler Robinson to face trial in 2028 for Charlie Kirk murder",
+    "people": [
+     "Tyler Robinson",
+     "Charlie Kirk"
+    ],
+    "image_query": "Utah courtroom",
+    "image_queries": [
+     "Provo courthouse",
+     "Utah state courthouse",
+     "courtroom interior",
+     "judge bench"
+    ],
+    "image_style": "scene",
+    "location": "Provo, Utah"
+   },
+   "created_at": "2026-11-09T21:15:34.890047+00:00",
+   "news_time": "2026-11-09T20:48:58+00:00",
+   "news_latest": "2026-11-09T21:09:44+00:00",
+   "caption": "Tyler Robinson to face trial in 2028 for Charlie Kirk murder\n\nA Utah judge has scheduled the murder trial for Tyler Robinson to begin in 2028. Jury selection will take place in June regarding the September 2025 killing of Charlie Kirk.\n\n📖 Read more: https://www.washingtonexaminer.com/news/justice/4777878/tyler-robinson-trial-2028-charlie-kirk-murder-case/\n\n#Utah #CourtNews #CharlieKirk #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 225,
+   "tg_file_id": "AgACAgUAAxkDAAPhavI3-3d6s3uvqvcNy2CTzW7hKM0AAhoWaxuLT5BXZy96k24_aboBAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -8908,7 +8979,9 @@
   "https://www.newsweek.com/trump-administration-expands-federal-effort-to-combat-drone-threats-12688838",
   "https://www.aljazeera.com/news/2026/11/9/us-agencies-unite-to-combat-rogue-drone-threats-nationwide?traffic_source=rss",
   "https://thehill.com/regulation/court-battles/6208870-supreme-court-bivens-lawsuit/",
-  "https://www.nbcnews.com/politics/supreme-court/supreme-court-set-limit-federal-inmatess-ability-sue-officials-rcna608292"
+  "https://www.nbcnews.com/politics/supreme-court/supreme-court-set-limit-federal-inmatess-ability-sue-officials-rcna608292",
+  "https://www.washingtonexaminer.com/news/justice/4777878/tyler-robinson-trial-2028-charlie-kirk-murder-case/",
+  "https://www.newsweek.com/charlie-kirk-update-judge-sets-murder-trial-start-date-for-tyler-robinson-12689645"
  ],
  "recent_topics": [
   [
@@ -11190,19 +11263,33 @@
     "wary"
    ],
    "4e837cdb83"
+  ],
+  [
+   "2026-11-09T21:15:39.468413+00:00",
+   [
+    "cas",
+    "charli",
+    "dat",
+    "judg",
+    "kirk",
+    "murder",
+    "robinson",
+    "set",
+    "start",
+    "trial",
+    "tyler",
+    "updat"
+   ],
+   "21dfd4648c"
   ]
  ],
- "last_draft_at": "2026-11-09T21:01:41.277022+00:00",
+ "last_draft_at": "2026-11-09T21:15:20.930296+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T20:45:22.400250+00:00",
  "run_log": [
-  "11-09 18:45:23 run start",
-  "11-09 18:46:13 listening 11 min",
-  "11-09 18:57:04 listening done",
-  "11-09 18:57:04 run end after 701 s",
   "11-09 19:00:32 run start",
   "11-09 19:02:19 listening 10 min",
   "11-09 19:12:00 listening done",
@@ -11238,13 +11325,15 @@
   "11-09 21:00:31 run start",
   "11-09 21:01:58 listening 10 min",
   "11-09 21:12:02 listening done",
-  "11-09 21:12:02 run end after 690 s"
+  "11-09 21:12:02 run end after 690 s",
+  "11-09 21:15:20 run start",
+  "11-09 21:15:39 listening 11 min",
+  "11-09 21:26:57 listening done",
+  "11-09 21:26:57 run end after 697 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/The_capitol_at_night.jpg/1920px-The_capitol_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Saint_Sophia_Cathedral_Kiev.jpg/1920px-Saint_Sophia_Cathedral_Kiev.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/United_States_Capitol_rotunda.jpg/1920px-United_States_Capitol_rotunda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Russell_Brand_%2855018040347%29.jpg/1280px-Russell_Brand_%2855018040347%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Hakeem_Jeffries_%2854106030079%29.jpg/1280px-Hakeem_Jeffries_%2854106030079%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -11282,7 +11371,9 @@
    "https://upload.wikimedia.org/wikipedia/commons/8/86/Susie_Wiles_%28crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://upload.wikimedia.org/wikipedia/commons/5/55/Donald_Trump_by_Gage_Skidmore_4_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Library_of_Congress_%2897970%29.jpg/1920px-Library_of_Congress_%2897970%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/US_Supreme_Court.JPG/1920px-US_Supreme_Court.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/US_Supreme_Court.JPG/1920px-US_Supreme_Court.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/a/ab/Log_8_of_Tyler_Robinson_Confessing_to_Lance_Twiggs_of_Assassinating_Charlie_Kirk.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Charlie_Kirk_by_Gage_Skidmore.jpg/1280px-Charlie_Kirk_by_Gage_Skidmore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -12754,10 +12845,114 @@
       "portrait": true
      }
     ]
+   },
+   "tyler robinson": {
+    "t": "2026-11-09T21:15:33.485183+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Log_1_of_Tyler_Robinson_Confessing_to_Lance_Twiggs_of_Assassinating_Charlie_Kirk.jpg/1280px-Log_1_of_Tyler_Robinson_Confessing_to_Lance_Twiggs_of_Assassinating_Charlie_Kirk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Tyler Robinson, Lance Twiggs / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Log_2_of_Tyler_Robinson_Confessing_to_Lance_Twiggs_of_Assassinating_Charlie_Kirk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Tyler Robinson, Lance Twiggs / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Log_6_of_Tyler_Robinson_Confessing_to_Lance_Twiggs_of_Assassinating_Charlie_Kirk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Tyler Robinson and Lance Twiggs / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Log_8_of_Tyler_Robinson_Confessing_to_Lance_Twiggs_of_Assassinating_Charlie_Kirk.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Tyler Robinson and Lance Twiggs / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     }
+    ]
+   },
+   "charlie kirk": {
+    "t": "2026-11-09T21:15:34.301176+00:00",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Charlie_Kirk_%2853952923573%29_%28headshot_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Charlie_Kirk_in_Tampa_July_2025_%28cropped%29.jpg/1280px-Charlie_Kirk_in_Tampa_July_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Charlie_Kirk_in_Tampa_July_2025.jpg/1280px-Charlie_Kirk_in_Tampa_July_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Charlie_Kirk_by_Gage_Skidmore.jpg/1280px-Charlie_Kirk_by_Gage_Skidmore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Charlie_Kirk_memorial_at_UVU_September_10%2C_2026.jpg/1280px-Charlie_Kirk_memorial_at_UVU_September_10%2C_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Carnival of Lights / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Charlie_Kirk_shooting_scene_aerial_view_close_up.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "KSL News Utah / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Charlie_Kirk_%2854670287991%29_%28cropped%29.jpg/1280px-Charlie_Kirk_%2854670287991%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Charlie_Kirk_%2850765085577%29_%28cropped%29.jpg/1280px-Charlie_Kirk_%2850765085577%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Charlie_Kirk_%2851247186682%29_%28cropped%29.jpg/1280px-Charlie_Kirk_%2851247186682%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Charlie_Kirk_%2849286179811%29_%28cropped%29.jpg/1280px-Charlie_Kirk_%2849286179811%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Charlie_Kirk_%2855295906069%29_%28cropped%29.jpg/1280px-Charlie_Kirk_%2855295906069%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Charlie_Kirk_%2854507148290%29_%28cropped%29.jpg/1280px-Charlie_Kirk_%2854507148290%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     }
+    ]
    }
   },
   "recent_ideas": [
-   "pentagon building",
    "election ballot box",
    "saint basil's cathedral",
    "college football stadium",
@@ -12768,7 +12963,8 @@
    "capitol at night",
    "thurgood marshall federal judiciary building",
    "library of congress",
-   "supreme court, washington dc"
+   "supreme court, washington dc",
+   "provo courthouse"
   ]
  }
 }
