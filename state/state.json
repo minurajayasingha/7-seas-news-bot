@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892727,
+ "tg_offset": 495892728,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -4222,6 +4222,82 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_story_id": "3022661561411457"
+  },
+  "f7d93440dd": {
+   "id": "f7d93440dd",
+   "headline": "Joe Biden limits memoir promotion due to cancer fight",
+   "summary": "Former President Joseph R. Biden Jr. stated that his prostate cancer slows him down. Consequently, he announced he will not complete as many promotional conversations for his forthcoming memoir as planned.",
+   "label": "US POLITICS",
+   "hook": "Will these health limitations significantly impact the release of the former president's memoir?",
+   "key_points": [
+    "Former President Joe Biden has prostate cancer.",
+    "The cancer slows him down.",
+    "He will do fewer book promotion conversations."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#JoeBiden",
+    "#USPolitics",
+    "#HealthNews"
+   ],
+   "sources": [
+    "New York Times",
+    "UPI"
+   ],
+   "link": "https://www.nytimes.com/2026/11/08/us/politics/biden-cancer-health-memoir.html",
+   "links": [
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/08/us/politics/biden-cancer-health-memoir.html"
+    ],
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/US/2026/11/08/biden-book/2491794188487/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Vice_President_Joe_Biden_visit_to_Israel_March_2016_%2825621190876%29.jpg/1280px-Vice_President_Joe_Biden_visit_to_Israel_March_2016_%2825621190876%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Embassy Tel Aviv / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Joe Biden limits memoir promotion due to cancer fight",
+    "people": [
+     "Joe Biden"
+    ],
+    "image_query": "US Capitol dome",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "White House",
+     "Supreme Court building"
+    ],
+    "image_style": "person",
+    "location": "US"
+   },
+   "created_at": "2026-11-09T02:30:39.727753+00:00",
+   "news_time": "2026-11-09T02:00:45+00:00",
+   "news_latest": "2026-11-09T02:14:35+00:00",
+   "caption": "Joe Biden limits memoir promotion due to cancer fight\n\nFormer President Joseph R. Biden Jr. stated that his prostate cancer slows him down. Consequently, he announced he will not complete as many promotional conversations for his forthcoming memoir as planned.\n\n💬 Will these health limitations significantly impact the release of the former president's memoir?\n\n📖 Read more: https://www.nytimes.com/2026/11/08/us/politics/biden-cancer-health-memoir.html\n\n#JoeBiden #USPolitics #HealthNews #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 140,
+   "tg_file_id": "AgACAgUAAxkDAAOMavEwUiYFWUMPJV5EW0PLfl8NeNIAAosVaxv_D4lX6SVWF2Y0BTwBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-09T02:32:01.591496+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122096355897548584",
+   "posted_at": "2026-11-09T02:32:02.136177+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 08 · 9:32 PM New York · 8:02 AM Sri Lanka\n\n<b>Joe Biden limits memoir promotion due to cancer fight</b>\n<i>New York Times, UPI</i>\n🟢 <b>Latest:</b> 7:44 AM Sri Lanka (17 min ago) · first reported 7:30 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096355897548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 44,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "2581741285667923"
   }
  },
  "seen_links": [
@@ -4383,7 +4459,9 @@
   "https://thehill.com/policy/international/6206805-ukraine-nuclear-safety-threatened/",
   "https://www.bbc.co.uk/news/articles/cmg476w7wnl2o?at_medium=RSS&at_campaign=rss",
   "https://www.newsweek.com/trump-mass-deportation-policy-too-tough-hurt-midterm-result-12685010",
-  "https://thehill.com/homenews/6207170-trump-immigration-policy-midterm-losses/"
+  "https://thehill.com/homenews/6207170-trump-immigration-policy-midterm-losses/",
+  "https://www.nytimes.com/2026/11/08/us/politics/biden-cancer-health-memoir.html",
+  "https://www.upi.com/Top_News/US/2026/11/08/biden-book/2491794188487/"
  ],
  "recent_topics": [
   [
@@ -5544,19 +5622,38 @@
     "trump"
    ],
    "34d920aa62"
+  ],
+  [
+   "2026-11-09T02:30:42.908496+00:00",
+   [
+    "back",
+    "biden",
+    "book",
+    "cancer",
+    "down",
+    "due",
+    "fight",
+    "health",
+    "him",
+    "joe",
+    "limit",
+    "mean",
+    "memoir",
+    "promotion",
+    "scal",
+    "slow",
+    "tour"
+   ],
+   "f7d93440dd"
   ]
  ],
- "last_draft_at": "2026-11-09T02:15:21.240788+00:00",
+ "last_draft_at": "2026-11-09T02:30:27.039160+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T01:45:20.110329+00:00",
  "run_log": [
-  "11-09 00:11:57 run end after 689 s",
-  "11-09 00:12:09 run start",
-  "11-09 00:12:17 listening 11 min",
-  "11-09 00:23:36 listening done",
   "11-09 00:23:36 run end after 686 s",
   "11-09 00:23:46 run start",
   "11-09 00:23:56 listening 11 min",
@@ -5592,7 +5689,11 @@
   "11-09 02:15:20 run start",
   "11-09 02:15:31 listening 11 min",
   "11-09 02:26:51 listening done",
-  "11-09 02:26:51 run end after 690 s"
+  "11-09 02:26:51 run end after 690 s",
+  "11-09 02:30:26 run start",
+  "11-09 02:30:42 listening 11 min",
+  "11-09 02:42:05 listening done",
+  "11-09 02:42:05 run end after 698 s"
  ],
  "day_pack_done": "2026-11-07",
  "photo_memory": {
@@ -5618,7 +5719,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Naqsh-e_Jahan_Square_from_the_gheisariye_Vault.jpg/1920px-Naqsh-e_Jahan_Square_from_the_gheisariye_Vault.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Power_lines_during_Blue_Hour_BW.jpg/1920px-Power_lines_during_Blue_Hour_BW.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg/1280px-Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg/1280px-Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Vice_President_Joe_Biden_visit_to_Israel_March_2016_%2825621190876%29.jpg/1280px-Vice_President_Joe_Biden_visit_to_Israel_March_2016_%2825621190876%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -6218,6 +6320,58 @@
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Jensen_huang_stanford_2026-04-30_003.jpg/1280px-Jensen_huang_stanford_2026-04-30_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Anderseidesvik / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     }
+    ]
+   },
+   "joe biden": {
+    "t": "2026-11-09T02:30:39.727656+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/1280px-Joe_Biden_presidential_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Adam Schultz / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Vice_President_Joe_Biden_gets_sworn_in_on_Inauguration_Day%2C_January_21%2C_2013.jpg/1280px-Vice_President_Joe_Biden_gets_sworn_in_on_Inauguration_Day%2C_January_21%2C_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Voice of America / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Joe_Biden_visit_to_Panama%2C_March_2013_09.jpg/1280px-Joe_Biden_visit_to_Panama%2C_March_2013_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "The White House / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Joe_Biden_official_portrait_2013_%28cropped%29_2.jpg/1280px-Joe_Biden_official_portrait_2013_%28cropped%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "The White House from Washington, DC / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Attendees_applaud_as_President_Barack_Obama_acknowledges_Vice_President_Joe_Biden%2C_2014.jpg/1280px-Attendees_applaud_as_President_Barack_Obama_acknowledges_Vice_President_Joe_Biden%2C_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "The White House from Washington, DC / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Vice_President_Joe_Biden_visit_to_Israel_March_2016_%2825621190876%29.jpg/1280px-Vice_President_Joe_Biden_visit_to_Israel_March_2016_%2825621190876%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Embassy Tel Aviv / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Joe_Biden_%2848010705803%29.jpg/1280px-Joe_Biden_%2848010705803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Marc Nozell from Merrimack, New Hampshire, USA / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Joe_Biden_visit_to_South_Korea%2C_December_2013_02.jpg/1280px-Joe_Biden_visit_to_South_Korea%2C_December_2013_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "David Lienemann / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": false
      }
