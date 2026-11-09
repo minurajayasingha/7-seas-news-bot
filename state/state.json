@@ -3821,9 +3821,11 @@
    "news_time": "2026-11-08T15:09:18+00:00",
    "news_latest": "2026-11-08T20:23:08+00:00",
    "caption": "Arrest made after homecoming weekend shootings at Winston-Salem State University\n\nAuthorities arrested a suspect following two separate campus shootings during homecoming weekend. The violence left one person dead and three others wounded.\n\n📖 Read more: https://www.independent.co.uk/news/world/americas/winston-salem-state-shooting-arrest-ziyaire-spinks-north-carolina-b3081331.html\n\n#WinstonSalemState #CampusSafety #BreakingNews #7SeasNews",
-   "status": "pending",
+   "status": "expired",
    "tg_message_id": 132,
-   "tg_file_id": "AgACAgUAAxkDAAOEavDb8vDoVMhq_EjDuFjUGGdUkHYAAlkVaxv_D4lXAS5JwZg4rkQBAAMCAAN3AAM9BA"
+   "tg_file_id": "AgACAgUAAxkDAAOEavDb8vDoVMhq_EjDuFjUGGdUkHYAAlkVaxv_D4lXAS5JwZg4rkQBAAMCAAN3AAM9BA",
+   "extra_msgs": [],
+   "cleared": true
   },
   "ddbd24fcc0": {
    "id": "ddbd24fcc0",
@@ -5769,10 +5771,6 @@
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T03:45:20.072833+00:00",
  "run_log": [
-  "11-09 01:45:19 run start",
-  "11-09 01:45:35 listening 11 min",
-  "11-09 01:56:55 listening done",
-  "11-09 01:56:55 run end after 695 s",
   "11-09 02:00:28 run start",
   "11-09 02:00:52 listening 11 min",
   "11-09 02:12:06 listening done",
@@ -5808,7 +5806,11 @@
   "11-09 04:00:28 run start",
   "11-09 04:00:37 listening 11 min",
   "11-09 04:11:56 listening done",
-  "11-09 04:11:56 run end after 687 s"
+  "11-09 04:11:56 run end after 687 s",
+  "11-09 04:15:19 run start",
+  "11-09 04:15:20 listening 11 min",
+  "11-09 04:27:03 listening done",
+  "11-09 04:27:03 run end after 703 s"
  ],
  "day_pack_done": "2026-11-07",
  "photo_memory": {
