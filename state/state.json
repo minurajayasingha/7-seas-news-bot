@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892798,
+ "tg_offset": 495892799,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -7773,6 +7773,82 @@
    "log_photo": true,
    "cleared": true,
    "fb_story_id": "1175053541725464"
+  },
+  "3c9e10c016": {
+   "id": "3c9e10c016",
+   "headline": "Vice President JD Vance jokes about devastating loss",
+   "summary": "Vice President JD Vance spoke at an event in Washington, addressing veterans. He made a joke about a devastating loss, which referred to football rather than political losses.",
+   "label": "US POLITICS",
+   "hook": "Did the joke about the football loss help clear up political tensions?",
+   "key_points": [
+    "JD Vance spoke at a National Veterans Small Business Week event.",
+    "The remarks addressed a loss last week.",
+    "The comment was actually about football."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#JDVance",
+    "#USPolitics",
+    "#Washington"
+   ],
+   "sources": [
+    "The Hill",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/news/white-house/4797454/vance-jokes-about-devastating-loss-ohio-state/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/white-house/4797454/vance-jokes-about-devastating-loss-ohio-state/"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/homenews/administration/6208643-vance-joked-buckeyes-loss/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Senator_JD_Vance_thanking_first_responders_in_East_Palestine.jpg/1280px-Senator_JD_Vance_thanking_first_responders_in_East_Palestine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Senator Vance's Press Office / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Vice President JD Vance jokes about devastating loss",
+    "people": [
+     "JD Vance"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Senate chamber",
+     "White House",
+     "Capitol Hill",
+     "Veterans Affairs building"
+    ],
+    "image_style": "person",
+    "location": "Washington, US"
+   },
+   "created_at": "2026-11-09T19:00:45.218976+00:00",
+   "news_time": "2026-11-09T18:49:45+00:00",
+   "news_latest": "2026-11-09T18:58:42+00:00",
+   "caption": "Vice President JD Vance jokes about devastating loss\n\nVice President JD Vance spoke at an event in Washington, addressing veterans. He made a joke about a devastating loss, which referred to football rather than political losses.\n\n💬 Did the joke about the football loss help clear up political tensions?\n\n📖 Read more: https://www.washingtonexaminer.com/news/white-house/4797454/vance-jokes-about-devastating-loss-ohio-state/\n\n#JDVance #USPolitics #Washington #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 212,
+   "tg_file_id": "AgACAgUAAxkDAAPUavIYX1fKe8DS2SSaDplNx-h5EmsAAgIWaxuLT5BX13GtYI0wTZUBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-09T19:02:19.644233+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122096927859548584",
+   "posted_at": "2026-11-09T19:02:19.969244+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 09 · 2:02 PM New York · 12:32 AM Sri Lanka\n\n<b>Vice President JD Vance jokes about devastating loss</b>\n<i>The Hill, Washington Examiner</i>\n🟢 <b>Latest:</b> 12:28 AM Sri Lanka (3 min ago) · first reported 12:19 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096927859548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 84,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "2115495445740345"
   }
  },
  "seen_links": [
@@ -8035,7 +8111,11 @@
   "https://www.newsweek.com/sports/ncaa/paul-finebaum-reveals-surprising-reaction-to-24-team-college-football-playoff-12689081",
   "https://www.nbcnews.com/sports/college-football/college-football-playoff-expanding-24-teams-2027-rcna608336",
   "https://www.newsweek.com/bernie-sanders-medicare-for-all-update-12689174",
-  "https://www.foxnews.com/politics/republican-house-members-ousted-congress"
+  "https://www.foxnews.com/politics/republican-house-members-ousted-congress",
+  "https://www.washingtonexaminer.com/news/white-house/4797454/vance-jokes-about-devastating-loss-ohio-state/",
+  "https://thehill.com/homenews/administration/6208643-vance-joked-buckeyes-loss/",
+  "https://www.aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown?traffic_source=rss",
+  "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss"
  ],
  "recent_topics": [
   [
@@ -10076,19 +10156,29 @@
     "which"
    ],
    "ee592edc18"
+  ],
+  [
+   "2026-11-09T19:00:48.044894+00:00",
+   [
+    "devastat",
+    "jok",
+    "last",
+    "loss",
+    "ohio",
+    "referr",
+    "stat",
+    "vanc"
+   ],
+   "3c9e10c016"
   ]
  ],
- "last_draft_at": "2026-11-09T18:45:31.220305+00:00",
+ "last_draft_at": "2026-11-09T19:00:33.444891+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T18:45:23.920654+00:00",
  "run_log": [
-  "11-09 16:30:28 run start",
-  "11-09 16:30:57 listening 11 min",
-  "11-09 16:42:16 listening done",
-  "11-09 16:42:16 run end after 708 s",
   "11-09 16:45:24 run start",
   "11-09 16:46:36 listening 10 min",
   "11-09 16:56:58 listening done",
@@ -10124,12 +10214,15 @@
   "11-09 18:45:23 run start",
   "11-09 18:46:13 listening 11 min",
   "11-09 18:57:04 listening done",
-  "11-09 18:57:04 run end after 701 s"
+  "11-09 18:57:04 run end after 701 s",
+  "11-09 19:00:32 run start",
+  "11-09 19:02:19 listening 10 min",
+  "11-09 19:12:00 listening done",
+  "11-09 19:12:00 run end after 687 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Buenos_Aires_Skyline_in_Color.jpg/1920px-Buenos_Aires_Skyline_in_Color.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_06.jpg/1280px-Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Donald_Trump_official_portrait_2020_election.jpg/1280px-Donald_Trump_official_portrait_2020_election.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -10168,7 +10261,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Moscow_-_Saint_Basil%27s_Cathedral_-_worm-eye_perspective_-_2025-8-17.jpg/1920px-Moscow_-_Saint_Basil%27s_Cathedral_-_worm-eye_perspective_-_2025-8-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/TCF_Bank_College_Football_Stadium_Minnesota_Golden_Gophers_Sunset_Panorama_-_panoramio.jpg/1920px-TCF_Bank_College_Football_Stadium_Minnesota_Golden_Gophers_Sunset_Panorama_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/National_Mall%2C_Washington%2C_D.C._%2820100325-DSC01346%29.jpg/1920px-National_Mall%2C_Washington%2C_D.C._%2820100325-DSC01346%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Bernie_Sanders_%2825973827305%29.jpg/1280px-Bernie_Sanders_%2825973827305%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Bernie_Sanders_%2825973827305%29.jpg/1280px-Bernie_Sanders_%2825973827305%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Senator_JD_Vance_thanking_first_responders_in_East_Palestine.jpg/1280px-Senator_JD_Vance_thanking_first_responders_in_East_Palestine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
