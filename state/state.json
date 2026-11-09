@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892764,
+ "tg_offset": 495892766,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -5719,9 +5719,20 @@
    "news_time": "2026-11-09T12:00:00+00:00",
    "news_latest": "2026-11-09T13:31:39+00:00",
    "caption": "Sen. Dave McCormick calls for delayed Senate leadership elections\n\nSen. Dave McCormick is endorsing a call by conservative Senate GOP colleagues to delay party leadership elections. Republicans in the US House and Senate are holding elections on Tuesday.\n\n💬 Should the Senate delay its upcoming leadership elections?\n\n📖 Read more: https://thehill.com/homenews/senate/6207507-dave-mccormick-senate-gop-leadership-elections-delay/\n\n#USPolitics #Senate #Republicans #7SeasNews",
-   "status": "pending",
+   "status": "posted",
    "tg_message_id": 175,
-   "tg_file_id": "AgACAgUAAxkDAAOvavHOiFgzuGbUoDVwzlWdXaCnrG8AAq8Waxv_D5FX01FJv39a1aIBAAMCAAN3AAM9BA"
+   "tg_file_id": "AgACAgUAAxkDAAOvavHOiFgzuGbUoDVwzlWdXaCnrG8AAq8Waxv_D5FX01FJv39a1aIBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-09T14:15:20.452180+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122096734593548584",
+   "posted_at": "2026-11-09T14:15:20.865672+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 09 · 9:15 AM New York · 7:45 PM Sri Lanka\n\n<b>Sen. Dave McCormick calls for delayed Senate leadership elections</b>\n<i>Al Jazeera, The Hill, Washington Examiner</i>\n🟢 <b>Latest:</b> 7:01 PM Sri Lanka (43 min ago) · first reported 5:30 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096734593548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 62,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "1808562397122608"
   },
   "bf844b4a79": {
    "id": "bf844b4a79",
@@ -7645,17 +7656,13 @@
    "bdb5f529b8"
   ]
  ],
- "last_draft_at": "2026-11-09T14:00:31.404468+00:00",
+ "last_draft_at": "2026-11-09T14:15:31.365634+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T13:45:20.976166+00:00",
  "run_log": [
-  "11-09 11:45:38 listening 11 min",
-  "11-09 11:56:58 listening done",
-  "11-09 11:56:58 run end after 697 s",
-  "11-09 12:00:30 run start",
   "11-09 12:00:40 listening 11 min",
   "11-09 12:12:00 listening done",
   "11-09 12:12:00 run end after 690 s",
@@ -7691,7 +7698,11 @@
   "11-09 14:00:31 run start",
   "11-09 14:00:41 listening 11 min",
   "11-09 14:12:00 listening done",
-  "11-09 14:12:00 run end after 689 s"
+  "11-09 14:12:00 run end after 689 s",
+  "11-09 14:15:19 run start",
+  "11-09 14:15:40 listening 11 min",
+  "11-09 14:26:58 listening done",
+  "11-09 14:26:58 run end after 699 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
