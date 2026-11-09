@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892743,
+ "tg_offset": 495892747,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -4923,9 +4923,20 @@
    "news_time": "2026-11-09T10:00:00+00:00",
    "news_latest": "2026-11-09T10:03:55+00:00",
    "caption": "Congress returns to Washington following recent US elections\n\nLawmakers return to Washington for a post-election session. The agenda includes an impeachment vote on the defense secretary, a spending deal, and several major bills.\n\n💬 Can lawmakers pass their agenda before Democrats take control?\n\n📖 Read more: https://www.nytimes.com/2026/11/09/us/politics/congress-republicans-agenda-lame-duck-session.html\n\n#Congress #USPolitics #Washington #7SeasNews",
-   "status": "pending",
+   "status": "posted",
    "tg_message_id": 155,
-   "tg_file_id": "AgACAgUAAxkDAAObavGdSwLvfwzkLPwUZqQBFhjhKWUAAhAWaxv_D5FXFrLvqEFzyOgBAAMCAAN3AAM9BA"
+   "tg_file_id": "AgACAgUAAxkDAAObavGdSwLvfwzkLPwUZqQBFhjhKWUAAhAWaxv_D5FXFrLvqEFzyOgBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-09T12:23:47.922117+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122096661477548584",
+   "posted_at": "2026-11-09T12:23:48.275080+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 09 · 7:24 AM New York · 5:54 PM Sri Lanka\n\n<b>Congress returns to Washington following recent US elections</b>\n<i>New York Times, Washington Post</i>\n🟡 <b>Latest:</b> 3:33 PM Sri Lanka (2h 20m ago) · first reported 3:30 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096661477548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 52,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "976248731765408"
   },
   "408a5794c8": {
    "id": "408a5794c8",
@@ -5048,9 +5059,21 @@
    "news_time": "2026-11-09T11:00:00+00:00",
    "news_latest": "2026-11-09T11:01:41+00:00",
    "caption": "Senate Republicans blame Donald Trump following big congressional election losses\n\nSenate Republicans returning to the Capitol are angry with President Trump over major losses in House and Senate races. Meanwhile, House Republicans return with limited time left in power before Democrats take control.\n\n💬 Will Senate Republicans pivot away from President Trump ahead of the 2028 presidential election?\n\n📖 Read more: https://thehill.com/homenews/senate/6206790-senate-gop-blames-trump-losses/\n\n#USPolitics #Congress #Elections #7SeasNews",
-   "status": "pending",
+   "status": "posted",
    "tg_message_id": 157,
-   "tg_file_id": "AgACAgUAAxkDAAOdavGu3hrLEnZlZ929hEbY-Kni1IYAAj0Waxv_D5FXvV8DKECIOjgBAAMCAAN3AAM9BA"
+   "tg_file_id": "AgACAgUAAxkDAAOdavGu3hrLEnZlZ929hEbY-Kni1IYAAj0Waxv_D5FXvV8DKECIOjgBAAMCAAN3AAM9BA",
+   "dup_ok": true,
+   "extra_msgs": [],
+   "queued_at": "2026-11-09T12:24:38.816923+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122096662101548584",
+   "posted_at": "2026-11-09T12:24:39.533491+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 09 · 7:24 AM New York · 5:54 PM Sri Lanka\n\n<b>Senate Republicans blame Donald Trump following big congressional election losses</b>\n<i>The Hill, Washington Examiner</i>\n🟡 <b>Latest:</b> 4:31 PM Sri Lanka (1h 23m ago) · first reported 4:30 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096662101548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 53,
+   "log_photo": true,
+   "cleared": true,
+   "fb_story_id": "1668952901267194"
   }
  },
  "seen_links": [
@@ -6650,17 +6673,13 @@
    "c28eab1894"
   ]
  ],
- "last_draft_at": "2026-11-09T12:00:30.769274+00:00",
+ "last_draft_at": "2026-11-09T12:15:24.832999+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T11:45:21.237596+00:00",
  "run_log": [
-  "11-09 09:45:18 run start",
-  "11-09 09:45:37 listening 11 min",
-  "11-09 09:57:05 listening done",
-  "11-09 09:57:05 run end after 706 s",
   "11-09 10:00:28 run start",
   "11-09 10:00:48 listening 11 min",
   "11-09 10:12:07 listening done",
@@ -6696,7 +6715,11 @@
   "11-09 12:00:30 run start",
   "11-09 12:00:40 listening 11 min",
   "11-09 12:12:00 listening done",
-  "11-09 12:12:00 run end after 690 s"
+  "11-09 12:12:00 run end after 690 s",
+  "11-09 12:15:24 run start",
+  "11-09 12:15:35 listening 11 min",
+  "11-09 12:27:03 listening done",
+  "11-09 12:27:03 run end after 699 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
