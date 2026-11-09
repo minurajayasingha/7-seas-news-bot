@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892767,
+ "tg_offset": 495892768,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -5955,6 +5955,93 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_story_id": "1439908861676697"
+  },
+  "75d587144c": {
+   "id": "75d587144c",
+   "headline": "Russell Brand sentenced to over 10 years for rape and sexual assault",
+   "summary": "A British court sentenced comedian and actor Russell Brand to 10 years and six months in prison. He was found guilty on one count of rape and three counts of sexual assault following a trial at Southwark crown court.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Sentenced to 10 years and six months in prison",
+    "Found guilty of one count of rape and three counts of sexual assault",
+    "Trial took place at Southwark crown court"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#RussellBrand",
+    "#WorldNews",
+    "#UKCourts"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "CBS News",
+    "NBC News",
+    "NPR",
+    "The Guardian"
+   ],
+   "link": "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates",
+   "links": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/9/uk-court-hands-comedian-russel-brand-10-5-years-for-rape-sexual-assault?traffic_source=rss"
+    ],
+    [
+     "NPR",
+     "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/news/russell-brand-sentenced-prison-rape-sexual-assault/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Russell_Brand_%2855018040347%29.jpg/1280px-Russell_Brand_%2855018040347%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Russell Brand sentenced to over 10 years for rape and sexual assault",
+    "people": [
+     "Russell Brand"
+    ],
+    "image_query": "Southwark crown court building",
+    "image_queries": [
+     "London courthouse",
+     "courtroom exterior",
+     "British court building",
+     "Southwark London"
+    ],
+    "image_style": "person",
+    "location": "London, United Kingdom"
+   },
+   "created_at": "2026-11-09T14:45:45.256552+00:00",
+   "news_time": "2026-11-09T12:30:04+00:00",
+   "news_latest": "2026-11-09T14:42:52+00:00",
+   "caption": "🚨 BREAKING: Russell Brand sentenced to over 10 years for rape and sexual assault\n\nA British court sentenced comedian and actor Russell Brand to 10 years and six months in prison. He was found guilty on one count of rape and three counts of sexual assault following a trial at Southwark crown court.\n\nWhat we know so far:\n• Sentenced to 10 years and six months in prison\n• Found guilty of one count of rape and three counts of sexual assault\n• Trial took place at Southwark crown court\n\n📖 Read more: https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates\n\n#RussellBrand #WorldNews #UKCourts #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 179,
+   "tg_file_id": "AgACAgUAAxkDAAOzavHcnmq4IbnpHhJSmGeSDIWqGIMAAskWaxv_D5FXwyhLRFqzVsoBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-09T14:54:35.166392+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122096758983548584",
+   "posted_at": "2026-11-09T14:54:35.492585+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 09 · 9:54 AM New York · 8:24 PM Sri Lanka\n\n<b>Russell Brand sentenced to over 10 years for rape and sexual assault</b>\n<i>Al Jazeera, CBS News, NBC News, NPR, The Guardian</i>\n🟢 <b>Latest:</b> 8:12 PM Sri Lanka (11 min ago) · first reported 6:00 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096758983548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 64,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "3755242524656554"
   }
  },
  "seen_links": [
@@ -6163,7 +6250,14 @@
   "https://abcnews.com/International/wireStory/russias-top-independent-newspaper-closes-office-after-decades-137972997",
   "https://www.france24.com/en/video/20261109-novaya-gazeta-an-independent-russian-newspaper-critical-of-putin-closes",
   "https://www.cbsnews.com/news/midterm-elections-congress-returns-lame-duck/",
-  "https://www.foxnews.com/politics/congress-returns-brutal-lame-duck-stretch-shutdown-deadline-leadership-races-closet-full-s"
+  "https://www.foxnews.com/politics/congress-returns-brutal-lame-duck-stretch-shutdown-deadline-leadership-races-closet-full-s",
+  "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates",
+  "https://www.aljazeera.com/news/2026/11/9/uk-court-hands-comedian-russel-brand-10-5-years-for-rape-sexual-assault?traffic_source=rss",
+  "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced",
+  "https://www.cbsnews.com/news/russell-brand-sentenced-prison-rape-sexual-assault/",
+  "https://www.theguardian.com/news/2026/nov/09/russell-brand-sentenced-rape-sexual-assault",
+  "https://www.cbsnews.com/video/russell-brand-set-to-be-sentenced-for-rape-sexual-assault-convictions/",
+  "https://www.nbcnews.com/world/united-kingdom/russell-brand-sentenced-years-british-jail-rcna607799"
  ],
  "recent_topics": [
   [
@@ -7757,19 +7851,39 @@
     "washington"
    ],
    "99f4b08e1a"
+  ],
+  [
+   "2026-11-09T14:45:51.336983+00:00",
+   [
+    "10",
+    "assault",
+    "brand",
+    "british",
+    "comedian",
+    "conviction",
+    "court",
+    "hand",
+    "month",
+    "offenc",
+    "prison",
+    "rap",
+    "russel",
+    "russell",
+    "sentenc",
+    "set",
+    "sexual",
+    "updat"
+   ],
+   "75d587144c"
   ]
  ],
- "last_draft_at": "2026-11-09T14:30:29.867399+00:00",
+ "last_draft_at": "2026-11-09T14:45:32.349653+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-09T13:45:20.976166+00:00",
+ "last_stats_at": "2026-11-09T14:45:24.081514+00:00",
  "run_log": [
-  "11-09 12:15:35 listening 11 min",
-  "11-09 12:27:03 listening done",
-  "11-09 12:27:03 run end after 699 s",
-  "11-09 12:30:24 run start",
   "11-09 12:30:50 listening 11 min",
   "11-09 12:42:09 listening done",
   "11-09 12:42:09 run end after 705 s",
@@ -7805,12 +7919,15 @@
   "11-09 14:30:29 run start",
   "11-09 14:32:16 listening 10 min",
   "11-09 14:42:04 listening done",
-  "11-09 14:42:04 run end after 694 s"
+  "11-09 14:42:04 run end after 694 s",
+  "11-09 14:45:23 run start",
+  "11-09 14:45:51 listening 11 min",
+  "11-09 14:57:03 listening done",
+  "11-09 14:57:03 run end after 700 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Hakeem_Jeffries_%2854105690876%29.jpg/1280px-Hakeem_Jeffries_%2854105690876%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/250718-A-KH072-1044_SecDef_Pete_Hegseth_Hosts_Israeli_Defense_Minister_Israel_Katz_at_The_Pentagon.jpg/1280px-250718-A-KH072-1044_SecDef_Pete_Hegseth_Hosts_Israeli_Defense_Minister_Israel_Katz_at_The_Pentagon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Stephen_Miller_%2854360305622%29_%28cropped%29%28b%29.jpg/1280px-Stephen_Miller_%2854360305622%29_%28cropped%29%28b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -7849,7 +7966,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Dave_McCormick_%2855510560606%29.jpg/1280px-Dave_McCormick_%2855510560606%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/The_capitol_at_night.jpg/1920px-The_capitol_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Saint_Sophia_Cathedral_Kiev.jpg/1920px-Saint_Sophia_Cathedral_Kiev.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/United_States_Capitol_rotunda.jpg/1920px-United_States_Capitol_rotunda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/United_States_Capitol_rotunda.jpg/1920px-United_States_Capitol_rotunda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Russell_Brand_%2855018040347%29.jpg/1280px-Russell_Brand_%2855018040347%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -8897,6 +9015,82 @@
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Dave_McCormick_%2855510669633%29.jpg/1280px-Dave_McCormick_%2855510669633%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     }
+    ]
+   },
+   "russell brand": {
+    "t": "2026-11-09T14:45:45.256418+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Russell_Brand_%2854670634113%29_%28cropped%29.jpg/1280px-Russell_Brand_%2854670634113%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/AmericaFest_2025_-_Russell_Brand_05.jpg/1280px-AmericaFest_2025_-_Russell_Brand_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Xuthoria / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Russell_Brand_%2854670409096%29.jpg/1280px-Russell_Brand_%2854670409096%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Russell_Brand_%2854669574552%29.jpg/1280px-Russell_Brand_%2854669574552%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Russell_Brand_%2854670409046%29.jpg/1280px-Russell_Brand_%2854670409046%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Russell_Brand_%2854670409781%29.jpg/1280px-Russell_Brand_%2854670409781%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Russell_Brand_%2855018040347%29.jpg/1280px-Russell_Brand_%2855018040347%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Russell_Brand_%2854669574677%29.jpg/1280px-Russell_Brand_%2854669574677%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Russell_Brand_%2854670735850%29.jpg/1280px-Russell_Brand_%2854670735850%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Russell_Brand_%2855019234610%29.jpg/1280px-Russell_Brand_%2855019234610%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/AmericaFest_2025_-_Russell_Brand_02.jpg/1280px-AmericaFest_2025_-_Russell_Brand_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Xuthoria / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Russell_Brand_%2854670634078%29.jpg/1280px-Russell_Brand_%2854670634078%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 4.0)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": false
      }
