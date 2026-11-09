@@ -9354,6 +9354,133 @@
    "status": "pending",
    "tg_message_id": 234,
    "tg_file_id": "AgACAgUAAxkDAAPqavJQngY6LW1UhWM8oLgmxB95JKEAAjEWaxuLT5BXdv4xHLtF4EUBAAMCAAN3AAM9BA"
+  },
+  "146fa5ff5a": {
+   "id": "146fa5ff5a",
+   "headline": "Trump declares US war in Iran effectively over after meeting Qatari PM",
+   "summary": "President Donald Trump stated that the US military campaign against Tehran is effectively over following talks with the Qatari Prime Minister. He downplayed escalation concerns and noted that regional allies are protected.",
+   "label": "DIPLOMACY",
+   "hook": "Will these talks with Qatar truly prevent further military escalation in the region?",
+   "key_points": [
+    "Trump spoke during a White House press conference.",
+    "He stated Israel and Gulf allies are well protected."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Trump",
+    "#Iran",
+    "#USPolitics"
+   ],
+   "sources": [
+    "The Guardian",
+    "The Hill"
+   ],
+   "link": "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war",
+   "links": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/homenews/administration/6209247-trump-downplays-iran-military-action/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Michael Vadon / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Trump declares US war in Iran effectively over after meeting Qatari PM",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "White House building",
+    "image_queries": [
+     "White House exterior",
+     "Oval Office desk",
+     "Washington DC skyline",
+     "US Capitol building"
+    ],
+    "image_style": "person",
+    "location": "Washington, DC, US"
+   },
+   "created_at": "2026-11-09T23:15:33.247041+00:00",
+   "news_time": "2026-11-09T22:31:34+00:00",
+   "news_latest": "2026-11-09T22:58:31+00:00",
+   "caption": "Trump declares US war in Iran effectively over after meeting Qatari PM\n\nPresident Donald Trump stated that the US military campaign against Tehran is effectively over following talks with the Qatari Prime Minister. He downplayed escalation concerns and noted that regional allies are protected.\n\n💬 Will these talks with Qatar truly prevent further military escalation in the region?\n\n📖 Read more: https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war\n\n#Trump #Iran #USPolitics #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 235,
+   "tg_file_id": "AgACAgUAAxkDAAPravJUF-k0uNsa20_k0knZJZ-8tKcAAjIWaxuLT5BXr5u6nQz1_jABAAMCAAN3AAM9BA"
+  },
+  "4de79c625c": {
+   "id": "4de79c625c",
+   "headline": "Fuel prices ease inflation as UN climate talks open in Turkey",
+   "summary": "Recent declines in gas, diesel, and jet fuel prices likely brought inflation relief to Americans. Meanwhile, the UN climate chief stated at a summit in Turkey that high fossil fuel prices spread inflation globally.",
+   "label": "ECONOMY",
+   "hook": "Can a shift to electrification and renewable energy solve the global fossil fuel price crisis?",
+   "key_points": [
+    "Gas, diesel, and jet fuel prices eased last month.",
+    "Simon Stiell spoke at the Cop31 summit in Turkey.",
+    "Talks are underway on shifting to electrification."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Inflation",
+    "#FuelPrices",
+    "#ClimateSummit"
+   ],
+   "sources": [
+    "NBC News",
+    "The Guardian"
+   ],
+   "link": "https://www.nbcnews.com/business/economy/october-cpi-inflation-report-gas-prices-rcna608386",
+   "links": [
+    [
+     "NBC News",
+     "https://www.nbcnews.com/business/economy/october-cpi-inflation-report-gas-prices-rcna608386"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Baltra_Island_-_Wind_Turbines.jpg/1920px-Baltra_Island_-_Wind_Turbines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Victor Gleim / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Fuel prices ease inflation as UN climate talks open in Turkey",
+    "people": [],
+    "image_query": "Turkey landscape",
+    "image_queries": [
+     "fuel station",
+     "renewable energy",
+     "solar panels",
+     "wind turbines"
+    ],
+    "image_style": "scene",
+    "location": "Turkey"
+   },
+   "created_at": "2026-11-09T23:15:38.887703+00:00",
+   "news_time": "2026-11-09T17:47:04+00:00",
+   "news_latest": "2026-11-09T23:00:00+00:00",
+   "caption": "Fuel prices ease inflation as UN climate talks open in Turkey\n\nRecent declines in gas, diesel, and jet fuel prices likely brought inflation relief to Americans. Meanwhile, the UN climate chief stated at a summit in Turkey that high fossil fuel prices spread inflation globally.\n\n💬 Can a shift to electrification and renewable energy solve the global fossil fuel price crisis?\n\n📖 Read more: https://www.nbcnews.com/business/economy/october-cpi-inflation-report-gas-prices-rcna608386\n\n#Inflation #FuelPrices #ClimateSummit #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 236,
+   "tg_file_id": "AgACAgUAAxkDAAPsavJUHAAB8CH9k__3U7HdYySFyURKAAIzFmsbi0-QV2_DcBJgynY_AQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -9672,7 +9799,11 @@
   "https://thehill.com/homenews/campaign/6209217-colom-blasts-election-forecasters/",
   "https://www.washingtonpost.com/elections/2026/11/09/democrat-scott-colom-attacks-cook-reports-accuracy/",
   "https://www.nbcnews.com/politics/politics-news/capitol-hill-vibe-shift-politics-desk-rcna608437",
-  "https://www.foxnews.com/politics/former-gop-governor-heads-capitol-hill-before-election-count-complete-already-work"
+  "https://www.foxnews.com/politics/former-gop-governor-heads-capitol-hill-before-election-count-complete-already-work",
+  "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war",
+  "https://thehill.com/homenews/administration/6209247-trump-downplays-iran-military-action/",
+  "https://www.nbcnews.com/business/economy/october-cpi-inflation-report-gas-prices-rcna608386",
+  "https://www.theguardian.com/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31"
  ],
  "recent_topics": [
   [
@@ -12163,19 +12294,64 @@
     "work"
    ],
    "365b690e77"
+  ],
+  [
+   "2026-11-09T23:15:36.190957+00:00",
+   [
+    "com",
+    "concern",
+    "down",
+    "effectively",
+    "escalation",
+    "iran",
+    "leader",
+    "load",
+    "lock",
+    "meet",
+    "play",
+    "qatari",
+    "quo",
+    "signal",
+    "statu",
+    "strik",
+    "trump",
+    "war",
+    "warn"
+   ],
+   "146fa5ff5a"
+  ],
+  [
+   "2026-11-09T23:15:40.999857+00:00",
+   [
+    "breather",
+    "cancer",
+    "chief",
+    "climat",
+    "cop",
+    "fell",
+    "fossil",
+    "fuel",
+    "high",
+    "inflation",
+    "last",
+    "lik",
+    "likely",
+    "month",
+    "pric",
+    "spread",
+    "tell",
+    "took"
+   ],
+   "4de79c625c"
   ]
  ],
- "last_draft_at": "2026-11-09T23:00:29.816000+00:00",
+ "last_draft_at": "2026-11-09T23:15:23.585558+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T22:45:22.310435+00:00",
  "run_log": [
-  "11-09 20:45:21 run start",
-  "11-09 20:47:21 listening 10 min",
-  "11-09 20:56:59 listening done",
-  "11-09 20:56:59 run end after 697 s",
   "11-09 21:00:31 run start",
   "11-09 21:01:58 listening 10 min",
   "11-09 21:12:02 listening done",
@@ -12211,13 +12387,15 @@
   "11-09 23:00:29 run start",
   "11-09 23:00:46 listening 11 min",
   "11-09 23:12:04 listening done",
-  "11-09 23:12:04 run end after 695 s"
+  "11-09 23:12:04 run end after 695 s",
+  "11-09 23:15:22 run start",
+  "11-09 23:15:41 listening 11 min",
+  "11-09 23:27:01 listening done",
+  "11-09 23:27:01 run end after 698 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Donald_Trump_takes_the_oath_of_office_%282025%29.jpg/1280px-Donald_Trump_takes_the_oath_of_office_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/2018_I_Voted_sticker_%28Cook_County%29.jpg/1920px-2018_I_Voted_sticker_%28Cook_County%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Iowa_Senate_chamber_05.jpg/1920px-Iowa_Senate_chamber_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -12255,7 +12433,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Pope_Leo_XIV_3_%283x4_cropped%29.png/1280px-Pope_Leo_XIV_3_%283x4_cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/f/f2/Scott_Colom_2_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Ceiling%2C_Maine_State_House%2C_State_Street_and_Capitol_Street%2C_Augusta%2C_ME.jpg/1920px-Ceiling%2C_Maine_State_House%2C_State_Street_and_Capitol_Street%2C_Augusta%2C_ME.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Paul_LePage_%2832997040712%29.jpg/1280px-Paul_LePage_%2832997040712%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Paul_LePage_%2832997040712%29.jpg/1280px-Paul_LePage_%2832997040712%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Baltra_Island_-_Wind_Turbines.jpg/1920px-Baltra_Island_-_Wind_Turbines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -13989,7 +14169,6 @@
    }
   },
   "recent_ideas": [
-   "courthouse building",
    "early voting, united states",
    "ballot box, united states",
    "capitol at night",
@@ -14000,7 +14179,8 @@
    "capitol hill",
    "treasury building, washington",
    "robert f. kennedy department of justice building",
-   "maine state house"
+   "maine state house",
+   "wind turbines"
   ]
  }
 }
