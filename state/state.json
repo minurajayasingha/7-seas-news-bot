@@ -8792,6 +8792,132 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_story_id": "1480786688452171"
+  },
+  "72875fc37f": {
+   "id": "72875fc37f",
+   "headline": "Congress faces permitting bill test for data center expansion",
+   "summary": "A new permitting bill has emerged in Congress as lawmakers debate rules for hyper-scale data centers and gas power plants. President Trump has endorsed the legislation and urged the Senate to pass it.",
+   "label": "US POLITICS",
+   "hook": "Will the Senate pass this new permitting bill for data centers?",
+   "key_points": [
+    "President Trump endorsed the permitting bill.",
+    "The legislation fast-tracks data centers and gas power plants.",
+    "Critics argue the bill limits community opposition."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Congress",
+    "#DataCenters"
+   ],
+   "sources": [
+    "The Hill",
+    "The Independent"
+   ],
+   "link": "https://thehill.com/opinion/energy-environment/6209002-ai-boom-infrastructure-risk/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/opinion/energy-environment/6209002-ai-boom-infrastructure-risk/"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/us-politics/data-center-bill-senate-trump-energy-b3081849.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Capitol_Hill_as_seen_from_9th_and_Pine_looking_east_towards_Bellevue%2C_WA.jpg/1920px-Capitol_Hill_as_seen_from_9th_and_Pine_looking_east_towards_Bellevue%2C_WA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Dllu / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Congress faces permitting bill test for data center expansion",
+    "people": [],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "voting booth",
+     "white house"
+    ],
+    "image_style": "scene",
+    "location": "US"
+   },
+   "created_at": "2026-11-09T21:45:41.366694+00:00",
+   "news_time": "2026-11-09T15:54:44+00:00",
+   "news_latest": "2026-11-09T21:30:00+00:00",
+   "caption": "Congress faces permitting bill test for data center expansion\n\nA new permitting bill has emerged in Congress as lawmakers debate rules for hyper-scale data centers and gas power plants. President Trump has endorsed the legislation and urged the Senate to pass it.\n\n💬 Will the Senate pass this new permitting bill for data centers?\n\n📖 Read more: https://thehill.com/opinion/energy-environment/6209002-ai-boom-infrastructure-risk/\n\n#USPolitics #Congress #DataCenters #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 227,
+   "tg_file_id": "AgACAgUAAxkDAAPjavI_D2i27yHloLgiUqDDdZ_SsWoAAh8WaxuLT5BXIFdrGb5CkhEBAAMCAAN3AAM9BA"
+  },
+  "9dd1f8d4b0": {
+   "id": "9dd1f8d4b0",
+   "headline": "FDA requires new warnings for GLP-1 drugs over eye stroke risk",
+   "summary": "The Food and Drug Administration ordered pharmaceutical companies to add warning labels about a rare eye condition linked to GLP-1 drugs. Non-arteritic anterior ischemic optic neuropathy can cause sudden blindness in patients using the medication for weight loss and diabetes.",
+   "label": "ECONOMY",
+   "hook": "",
+   "key_points": [
+    "FDA required new warnings on GLP-1 drugs",
+    "Drugs are used for weight loss and diabetes",
+    "Risk involves rare eye condition and sudden blindness"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#FDA",
+    "#HealthNews",
+    "#GLP1"
+   ],
+   "sources": [
+    "NBC News",
+    "The Hill"
+   ],
+   "link": "https://thehill.com/policy/healthcare/6209047-fda-glp1-drug-nainon-risk/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/policy/healthcare/6209047-fda-glp1-drug-nainon-risk/"
+    ],
+    [
+     "NBC News",
+     "https://www.nbcnews.com/health/health-care/fda-orders-new-warning-glp-1s-rare-eye-condition-linked-sudden-blindne-rcna608309"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/United_States_Treasury_building_2023.jpg/1920px-United_States_Treasury_building_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Wisneyykarin / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "FDA requires new warnings for GLP-1 drugs over eye stroke risk",
+    "people": [],
+    "image_query": "US Food and Drug Administration building",
+    "image_queries": [
+     "FDA headquarters",
+     "prescription medication bottles",
+     "pharmaceutical research laboratory",
+     "medical warning label"
+    ],
+    "image_style": "scene",
+    "location": "US"
+   },
+   "created_at": "2026-11-09T21:45:54.204237+00:00",
+   "news_time": "2026-11-09T18:14:12+00:00",
+   "news_latest": "2026-11-09T21:33:48+00:00",
+   "caption": "FDA requires new warnings for GLP-1 drugs over eye stroke risk\n\nThe Food and Drug Administration ordered pharmaceutical companies to add warning labels about a rare eye condition linked to GLP-1 drugs. Non-arteritic anterior ischemic optic neuropathy can cause sudden blindness in patients using the medication for weight loss and diabetes.\n\n📖 Read more: https://thehill.com/policy/healthcare/6209047-fda-glp1-drug-nainon-risk/\n\n#FDA #HealthNews #GLP1 #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 228,
+   "tg_file_id": "AgACAgUAAxkDAAPkavI_E4sWGt9XWmVojDdxsxqCofsAAiAWaxuLT5BXMSHHXWRskPcBAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -9091,7 +9217,11 @@
   "https://www.washingtonexaminer.com/news/justice/4777878/tyler-robinson-trial-2028-charlie-kirk-murder-case/",
   "https://www.newsweek.com/charlie-kirk-update-judge-sets-murder-trial-start-date-for-tyler-robinson-12689645",
   "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
-  "https://news.sky.com/story/lindsay-clancy-loses-bid-to-dismiss-murder-charges-over-deaths-of-her-three-children-paving-way-for-retrial-13610325"
+  "https://news.sky.com/story/lindsay-clancy-loses-bid-to-dismiss-murder-charges-over-deaths-of-her-three-children-paving-way-for-retrial-13610325",
+  "https://thehill.com/opinion/energy-environment/6209002-ai-boom-infrastructure-risk/",
+  "https://www.independent.co.uk/news/world/americas/us-politics/data-center-bill-senate-trump-energy-b3081849.html",
+  "https://thehill.com/policy/healthcare/6209047-fda-glp1-drug-nainon-risk/",
+  "https://www.nbcnews.com/health/health-care/fda-orders-new-warning-glp-1s-rare-eye-condition-linked-sudden-blindne-rcna608309"
  ],
  "recent_topics": [
   [
@@ -11409,19 +11539,55 @@
     "murder"
    ],
    "6885954489"
+  ],
+  [
+   "2026-11-09T21:45:51.960151+00:00",
+   [
+    "bill",
+    "ced",
+    "center",
+    "congress",
+    "data",
+    "democrat",
+    "emerg",
+    "fast-track",
+    "fury",
+    "must",
+    "permitt",
+    "power",
+    "tackl",
+    "test",
+    "via"
+   ],
+   "72875fc37f"
+  ],
+  [
+   "2026-11-09T21:45:55.892898+00:00",
+   [
+    "blindness",
+    "condition",
+    "drug",
+    "eye",
+    "fda",
+    "glp",
+    "link",
+    "order",
+    "rar",
+    "risk",
+    "strok",
+    "sudden",
+    "warn"
+   ],
+   "9dd1f8d4b0"
   ]
  ],
- "last_draft_at": "2026-11-09T21:30:26.910868+00:00",
+ "last_draft_at": "2026-11-09T21:45:28.844688+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-09T20:45:22.400250+00:00",
+ "last_stats_at": "2026-11-09T21:45:21.274261+00:00",
  "run_log": [
-  "11-09 19:15:21 run start",
-  "11-09 19:17:09 listening 10 min",
-  "11-09 19:27:02 listening done",
-  "11-09 19:27:02 run end after 700 s",
   "11-09 19:30:27 run start",
   "11-09 19:32:30 listening 9 min",
   "11-09 19:42:03 listening done",
@@ -11457,13 +11623,15 @@
   "11-09 21:30:26 run start",
   "11-09 21:30:39 listening 11 min",
   "11-09 21:42:08 listening done",
-  "11-09 21:42:08 run end after 701 s"
+  "11-09 21:42:08 run end after 701 s",
+  "11-09 21:45:20 run start",
+  "11-09 21:45:55 listening 11 min",
+  "11-09 21:56:48 listening done",
+  "11-09 21:56:48 run end after 687 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Russell_Brand_%2855018040347%29.jpg/1280px-Russell_Brand_%2855018040347%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Hakeem_Jeffries_%2854106030079%29.jpg/1280px-Hakeem_Jeffries_%2854106030079%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Paris_cityscape_May_2009.jpg/1920px-Paris_cityscape_May_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Marco_Rubio_visits_Israel_from_February_15_to_17%2C_2025_-_18.jpg/1280px-Marco_Rubio_visits_Israel_from_February_15_to_17%2C_2025_-_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -11501,7 +11669,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/US_Supreme_Court.JPG/1920px-US_Supreme_Court.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/a/ab/Log_8_of_Tyler_Robinson_Confessing_to_Lance_Twiggs_of_Assassinating_Charlie_Kirk.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Charlie_Kirk_by_Gage_Skidmore.jpg/1280px-Charlie_Kirk_by_Gage_Skidmore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Lindsay_Clancy_appeared_via_Zoom_from_Tewksbury_Hospital_for_a_hearing_in_Plymouth_Superior_Court.jpg/1280px-Lindsay_Clancy_appeared_via_Zoom_from_Tewksbury_Hospital_for_a_hearing_in_Plymouth_Superior_Court.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Lindsay_Clancy_appeared_via_Zoom_from_Tewksbury_Hospital_for_a_hearing_in_Plymouth_Superior_Court.jpg/1280px-Lindsay_Clancy_appeared_via_Zoom_from_Tewksbury_Hospital_for_a_hearing_in_Plymouth_Superior_Court.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Capitol_Hill_as_seen_from_9th_and_Pine_looking_east_towards_Bellevue%2C_WA.jpg/1920px-Capitol_Hill_as_seen_from_9th_and_Pine_looking_east_towards_Bellevue%2C_WA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/United_States_Treasury_building_2023.jpg/1920px-United_States_Treasury_building_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -13092,8 +13262,6 @@
    }
   },
   "recent_ideas": [
-   "election ballot box",
-   "saint basil's cathedral",
    "college football stadium",
    "national mall, washington",
    "courthouse building",
@@ -13103,7 +13271,9 @@
    "thurgood marshall federal judiciary building",
    "library of congress",
    "supreme court, washington dc",
-   "provo courthouse"
+   "provo courthouse",
+   "capitol hill",
+   "treasury building, washington"
   ]
  }
 }
