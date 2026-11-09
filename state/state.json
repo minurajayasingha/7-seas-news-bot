@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892761,
+ "tg_offset": 495892764,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -5652,6 +5652,224 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_story_id": "2046270492701262"
+  },
+  "1af6a2e317": {
+   "id": "1af6a2e317",
+   "headline": "Sen. Dave McCormick calls for delayed Senate leadership elections",
+   "summary": "Sen. Dave McCormick is endorsing a call by conservative Senate GOP colleagues to delay party leadership elections. Republicans in the US House and Senate are holding elections on Tuesday.",
+   "label": "US POLITICS",
+   "hook": "Should the Senate delay its upcoming leadership elections?",
+   "key_points": [
+    "Sen. Dave McCormick endorsed delaying leadership elections.",
+    "Elections are scheduled for Tuesday.",
+    "Republicans will select leadership after losing majorities."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Senate",
+    "#Republicans"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "The Hill",
+    "Washington Examiner"
+   ],
+   "link": "https://thehill.com/homenews/senate/6207507-dave-mccormick-senate-gop-leadership-elections-delay/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/homenews/senate/6207507-dave-mccormick-senate-gop-leadership-elections-delay/"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/9/which-republicans-are-running-for-minority-leadership-roles-in-congress?traffic_source=rss"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/op-eds/4795834/election-denialism-wont-end-republican-losses/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Dave_McCormick_%2855510560606%29.jpg/1280px-Dave_McCormick_%2855510560606%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Sen. Dave McCormick calls for delayed Senate leadership elections",
+    "people": [
+     "Dave McCormick"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "voting booth",
+     "US Senate room"
+    ],
+    "image_style": "person",
+    "location": "Pennsylvania, US"
+   },
+   "created_at": "2026-11-09T13:45:42.177616+00:00",
+   "news_time": "2026-11-09T12:00:00+00:00",
+   "news_latest": "2026-11-09T13:31:39+00:00",
+   "caption": "Sen. Dave McCormick calls for delayed Senate leadership elections\n\nSen. Dave McCormick is endorsing a call by conservative Senate GOP colleagues to delay party leadership elections. Republicans in the US House and Senate are holding elections on Tuesday.\n\n💬 Should the Senate delay its upcoming leadership elections?\n\n📖 Read more: https://thehill.com/homenews/senate/6207507-dave-mccormick-senate-gop-leadership-elections-delay/\n\n#USPolitics #Senate #Republicans #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 175,
+   "tg_file_id": "AgACAgUAAxkDAAOvavHOiFgzuGbUoDVwzlWdXaCnrG8AAq8Waxv_D5FX01FJv39a1aIBAAMCAAN3AAM9BA"
+  },
+  "bf844b4a79": {
+   "id": "bf844b4a79",
+   "headline": "US midterms bring major wins for Democrats and public health candidates",
+   "summary": "Democratic candidates swept into office in the US midterm elections. Reports indicate the results reflect public frustration with Donald Trump and Republicans, alongside strong support for candidates prioritizing healthcare.",
+   "label": "ELECTIONS",
+   "hook": "Were these election results driven more by public health concerns or frustration with national leadership?",
+   "key_points": [
+    "Democrats won big in the US midterm elections.",
+    "Candidates running on healthcare platforms swept into office.",
+    "The outcome signals public frustration with Republicans and Donald Trump."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USElections",
+    "#Midterms",
+    "#USPolitics"
+   ],
+   "sources": [
+    "The Guardian",
+    "The Hill"
+   ],
+   "link": "https://thehill.com/opinion/campaign/6205285-voters-reject-gop-collapse/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/opinion/campaign/6205285-voters-reject-gop-collapse/"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/2026/nov/09/public-health-midterm-elections-changes"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/The_capitol_at_night.jpg/1920px-The_capitol_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "wort3 / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "US midterms bring major wins for Democrats and public health candidates",
+    "people": [],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "voting booth",
+     "Capitol Hill",
+     "Senate chamber",
+     "House of Representatives chamber"
+    ],
+    "image_style": "scene",
+    "location": "US"
+   },
+   "created_at": "2026-11-09T13:45:47.433606+00:00",
+   "news_time": "2026-11-09T12:00:08+00:00",
+   "news_latest": "2026-11-09T13:30:00+00:00",
+   "caption": "US midterms bring major wins for Democrats and public health candidates\n\nDemocratic candidates swept into office in the US midterm elections. Reports indicate the results reflect public frustration with Donald Trump and Republicans, alongside strong support for candidates prioritizing healthcare.\n\n💬 Were these election results driven more by public health concerns or frustration with national leadership?\n\n📖 Read more: https://thehill.com/opinion/campaign/6205285-voters-reject-gop-collapse/\n\n#USElections #Midterms #USPolitics #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 176,
+   "tg_file_id": "AgACAgUAAxkDAAOwavHOjVhOkPTeZRwM1-FibnXlpDoAArAWaxv_D5FXqO5RJUoorwcBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-09T13:47:08.390690+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122096714457548584",
+   "posted_at": "2026-11-09T13:47:08.711755+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 09 · 8:47 AM New York · 7:17 PM Sri Lanka\n\n<b>US midterms bring major wins for Democrats and public health candidates</b>\n<i>The Guardian, The Hill</i>\n🟢 <b>Latest:</b> 7:00 PM Sri Lanka (17 min ago) · first reported 5:30 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096714457548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 61,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "1640734274359071"
+  },
+  "bdb5f529b8": {
+   "id": "bdb5f529b8",
+   "headline": "South African police arrest nine foreign nationals linked to Ukraine",
+   "summary": "South African police arrested nine foreign nationals suspected of trying to travel to Russia to fight in Ukraine. Police declined to disclose their nationalities and stated none of them lived in South Africa.",
+   "label": "CONFLICT",
+   "hook": "Should foreign nationals traveling from other countries face arrest in South Africa under these circumstances?",
+   "key_points": [
+    "Nine foreign nationals arrested by police",
+    "Suspected of trying to travel to Russia to fight",
+    "None of the suspects lived in South Africa"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#SouthAfrica",
+    "#Ukraine",
+    "#Russia"
+   ],
+   "sources": [
+    "ABC News",
+    "BBC"
+   ],
+   "link": "https://abcnews.com/International/wireStory/south-african-police-arrest-9-foreign-nationals-suspected-137970412",
+   "links": [
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/south-african-police-arrest-9-foreign-nationals-suspected-137970412"
+    ],
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Saint_Sophia_Cathedral_Kiev.jpg/1920px-Saint_Sophia_Cathedral_Kiev.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Daniel Kraft / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "South African police arrest nine foreign nationals linked to Ukraine",
+    "people": [],
+    "image_query": "South Africa police building",
+    "image_queries": [
+     "police station South Africa",
+     "South African police vehicle",
+     "court building South Africa",
+     "Johannesburg street"
+    ],
+    "image_style": "scene",
+    "location": "South Africa"
+   },
+   "created_at": "2026-11-09T13:45:51.854116+00:00",
+   "news_time": "2026-11-09T12:33:24+00:00",
+   "news_latest": "2026-11-09T13:19:10+00:00",
+   "caption": "South African police arrest nine foreign nationals linked to Ukraine\n\nSouth African police arrested nine foreign nationals suspected of trying to travel to Russia to fight in Ukraine. Police declined to disclose their nationalities and stated none of them lived in South Africa.\n\n💬 Should foreign nationals traveling from other countries face arrest in South Africa under these circumstances?\n\n📖 Read more: https://abcnews.com/International/wireStory/south-african-police-arrest-9-foreign-nationals-suspected-137970412\n\n#SouthAfrica #Ukraine #Russia #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 177,
+   "tg_file_id": "AgACAgUAAxkDAAOxavHOkf_s5KaObM01VgABZ9hv43zUAAKxFmsb_w-RV-6JiZJmWiaAAQADAgADdwADPQQ",
+   "queued_at": "2026-11-09T13:46:05.282055+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122096713623548584",
+   "posted_at": "2026-11-09T13:46:05.643353+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 09 · 8:46 AM New York · 7:16 PM Sri Lanka\n\n<b>South African police arrest nine foreign nationals linked to Ukraine</b>\n<i>ABC News, BBC</i>\n🟢 <b>Latest:</b> 6:49 PM Sri Lanka (27 min ago) · first reported 6:03 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096713623548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 60,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "2353481438805947"
   }
  },
  "seen_links": [
@@ -5849,7 +6067,14 @@
   "https://www.theguardian.com/commentisfree/2026/nov/09/democrats-trump-congress",
   "https://www.theguardian.com/commentisfree/2026/nov/08/time-to-fight-back",
   "https://thehill.com/policy/international/6204945-democrats-foreign-policy-priorities/",
-  "https://www.npr.org/2026/11/09/nx-s1-6030633/congress-is-coming-back-to-washington-heres-what-to-expect"
+  "https://www.npr.org/2026/11/09/nx-s1-6030633/congress-is-coming-back-to-washington-heres-what-to-expect",
+  "https://thehill.com/homenews/senate/6207507-dave-mccormick-senate-gop-leadership-elections-delay/",
+  "https://www.aljazeera.com/news/2026/11/9/which-republicans-are-running-for-minority-leadership-roles-in-congress?traffic_source=rss",
+  "https://www.washingtonexaminer.com/op-eds/4795834/election-denialism-wont-end-republican-losses/",
+  "https://thehill.com/opinion/campaign/6205285-voters-reject-gop-collapse/",
+  "https://www.theguardian.com/us-news/2026/nov/09/public-health-midterm-elections-changes",
+  "https://abcnews.com/International/wireStory/south-african-police-arrest-9-foreign-nationals-suspected-137970412",
+  "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss"
  ],
  "recent_topics": [
   [
@@ -7353,19 +7578,80 @@
     "washington"
    ],
    "9ad6291870"
+  ],
+  [
+   "2026-11-09T13:45:44.789596+00:00",
+   [
+    "call",
+    "confront",
+    "congress",
+    "delay",
+    "denier",
+    "election",
+    "leadership",
+    "minority",
+    "must",
+    "our",
+    "own",
+    "party",
+    "republican",
+    "rol",
+    "runn",
+    "senat",
+    "which"
+   ],
+   "1af6a2e317"
+  ],
+  [
+   "2026-11-09T13:45:49.386322+00:00",
+   [
+    "big",
+    "com",
+    "complet",
+    "democrat",
+    "election",
+    "health",
+    "matter",
+    "midterm",
+    "next",
+    "public",
+    "repudiation",
+    "won"
+   ],
+   "bf844b4a79"
+  ],
+  [
+   "2026-11-09T13:45:53.899107+00:00",
+   [
+    "africa",
+    "african",
+    "allegedly",
+    "arrest",
+    "caught",
+    "fight",
+    "foreign",
+    "foreigner",
+    "leav",
+    "national",
+    "nin",
+    "polic",
+    "russia",
+    "south",
+    "suspect",
+    "travel",
+    "try",
+    "ukrain"
+   ],
+   "bdb5f529b8"
   ]
  ],
- "last_draft_at": "2026-11-09T13:30:24.598440+00:00",
+ "last_draft_at": "2026-11-09T13:45:29.168262+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-09T12:45:22.780978+00:00",
+ "last_stats_at": "2026-11-09T13:45:20.976166+00:00",
  "run_log": [
-  "11-09 11:15:31 listening 11 min",
-  "11-09 11:26:50 listening done",
-  "11-09 11:26:50 run end after 689 s",
-  "11-09 11:30:23 run start",
   "11-09 11:30:39 listening 11 min",
   "11-09 11:41:57 listening done",
   "11-09 11:41:57 run end after 693 s",
@@ -7401,14 +7687,15 @@
   "11-09 13:30:24 run start",
   "11-09 13:30:42 listening 11 min",
   "11-09 13:42:13 listening done",
-  "11-09 13:42:13 run end after 709 s"
+  "11-09 13:42:13 run end after 709 s",
+  "11-09 13:45:20 run start",
+  "11-09 13:45:53 listening 11 min",
+  "11-09 13:56:58 listening done",
+  "11-09 13:56:58 run end after 697 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Capitol_Washington_October_2016-3.jpg/1920px-Capitol_Washington_October_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Abu_Dhabi_Skyline_from_a_boat_tour.jpg/1920px-Abu_Dhabi_Skyline_from_a_boat_tour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/21.06.2023_-_Reuni%C3%A3o_com_a_Primeira-Ministra_da_Rep%C3%BAblica_Italiana%2C_Giorgia_Meloni_%2852992890032%29.jpg/1280px-21.06.2023_-_Reuni%C3%A3o_com_a_Primeira-Ministra_da_Rep%C3%BAblica_Italiana%2C_Giorgia_Meloni_%2852992890032%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Hakeem_Jeffries_%2854105690876%29.jpg/1280px-Hakeem_Jeffries_%2854105690876%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/250718-A-KH072-1044_SecDef_Pete_Hegseth_Hosts_Israeli_Defense_Minister_Israel_Katz_at_The_Pentagon.jpg/1280px-250718-A-KH072-1044_SecDef_Pete_Hegseth_Hosts_Israeli_Defense_Minister_Israel_Katz_at_The_Pentagon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -7445,7 +7732,10 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Stephen_Miller_%2854360305622%29_%28cropped%29%28c%29.jpg/1280px-Stephen_Miller_%2854360305622%29_%28cropped%29%28c%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/5/5c/Iowa_City%2C_IA_-_Early_Voting_Automobile_Queue_October_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Capitol_Reflecting_Pool_%28September_2023%29_03.jpg/1920px-Capitol_Reflecting_Pool_%28September_2023%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Capitol_Reflecting_Pool_%28September_2023%29_03.jpg/1920px-Capitol_Reflecting_Pool_%28September_2023%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Dave_McCormick_%2855510560606%29.jpg/1280px-Dave_McCormick_%2855510560606%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/The_capitol_at_night.jpg/1920px-The_capitol_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Saint_Sophia_Cathedral_Kiev.jpg/1920px-Saint_Sophia_Cathedral_Kiev.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -8421,11 +8711,85 @@
       "portrait": true
      }
     ]
+   },
+   "dave mccormick": {
+    "t": "2026-11-09T13:45:42.177503+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Senator_McCormick_%28R-PA%29_Official_Portrait.jpg/1280px-Senator_McCormick_%28R-PA%29_Official_Portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Senate Photography Service / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Dave_McCormick_outdoor_portrait%2C_2025.png/1280px-Dave_McCormick_outdoor_portrait%2C_2025.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Office of Senator David McCormick / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Dave_McCormick_%2855510712894%29.jpg/1280px-Dave_McCormick_%2855510712894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Dave_McCormick_%2855510713004%29.jpg/1280px-Dave_McCormick_%2855510713004%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Dave_McCormick_%2855510713409%29.jpg/1280px-Dave_McCormick_%2855510713409%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Dave_McCormick_%2855510713109%29.jpg/1280px-Dave_McCormick_%2855510713109%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Dave_McCormick_%2855510712699%29.jpg/1280px-Dave_McCormick_%2855510712699%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Dave_McCormick_%2855510933785%29.jpg/1280px-Dave_McCormick_%2855510933785%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Dave_McCormick_%2855510560726%29.jpg/1280px-Dave_McCormick_%2855510560726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Dave_McCormick_%2855510560606%29.jpg/1280px-Dave_McCormick_%2855510560606%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Dave_McCormick_%2855509553692%29.jpg/1280px-Dave_McCormick_%2855509553692%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Dave_McCormick_%2855510669633%29.jpg/1280px-Dave_McCormick_%2855510669633%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     }
+    ]
    }
   },
   "recent_ideas": [
-   "gaza strip",
-   "damascus streets",
    "senate chamber, united states capitol",
    "us capitol dome",
    "naqsh-e jahan square",
@@ -8435,7 +8799,9 @@
    "capitol hill",
    "library of congress",
    "early voting, united states",
-   "capitol reflecting pool"
+   "capitol reflecting pool",
+   "capitol at night",
+   "saint sophia cathedral, kyiv"
   ]
  }
 }
