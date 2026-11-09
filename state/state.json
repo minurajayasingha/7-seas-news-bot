@@ -8918,6 +8918,135 @@
    "status": "pending",
    "tg_message_id": 228,
    "tg_file_id": "AgACAgUAAxkDAAPkavI_E4sWGt9XWmVojDdxsxqCofsAAiAWaxuLT5BXMSHHXWRskPcBAAMCAAN3AAM9BA"
+  },
+  "f7ef8991b5": {
+   "id": "f7ef8991b5",
+   "headline": "Dan Sullivan campaign intervenes in Mary Peltola ballot lawsuit",
+   "summary": "Senator Dan Sullivan's campaign filed a motion against Mary Peltola's campaign in Alaska. Peltola's campaign previously sued the Alaska Division of Elections to access records for rejected absentee ballots.",
+   "label": "ELECTIONS",
+   "hook": "Should absentee ballot records be released in this tight race?",
+   "key_points": [
+    "Sullivan campaign filed a motion against Peltola",
+    "Peltola campaign sued Alaska Division of Elections",
+    "Lawsuit involves rejected absentee ballots"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#AlaskaElections",
+    "#USPolitics",
+    "#ElectionLaw"
+   ],
+   "sources": [
+    "Fox News",
+    "The Hill"
+   ],
+   "link": "https://thehill.com/regulation/court-battles/6209007-sullivan-campaign-intervenes-peltola-lawsuit/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/regulation/court-battles/6209007-sullivan-campaign-intervenes-peltola-lawsuit/"
+    ],
+    [
+     "Fox News",
+     "https://www.foxnews.com/politics/alaska-senate-fight-heats-sullivan-moves-block-peltola-lawsuit-rejected-absentee-ballot-records"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Senator_Dan_Sullivan_official_%28cropped%29.jpg/1280px-Senator_Dan_Sullivan_official_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Senate / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Rep._Mary_Peltola_headshot_%28cropped%29.jpg/1280px-Rep._Mary_Peltola_headshot_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Rep. Mary Peltola / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Dan Sullivan campaign intervenes in Mary Peltola ballot lawsuit",
+    "people": [
+     "Dan Sullivan",
+     "Mary Peltola"
+    ],
+    "image_query": "Alaska State Capitol building",
+    "image_queries": [
+     "voting booth",
+     "election ballots",
+     "Alaska Division of Elections",
+     "courtroom gavel"
+    ],
+    "image_style": "scene",
+    "location": "Alaska, US"
+   },
+   "created_at": "2026-11-09T22:00:43.702401+00:00",
+   "news_time": "2026-11-09T19:19:30+00:00",
+   "news_latest": "2026-11-09T21:56:43+00:00",
+   "caption": "Dan Sullivan campaign intervenes in Mary Peltola ballot lawsuit\n\nSenator Dan Sullivan's campaign filed a motion against Mary Peltola's campaign in Alaska. Peltola's campaign previously sued the Alaska Division of Elections to access records for rejected absentee ballots.\n\n💬 Should absentee ballot records be released in this tight race?\n\n📖 Read more: https://thehill.com/regulation/court-battles/6209007-sullivan-campaign-intervenes-peltola-lawsuit/\n\n#AlaskaElections #USPolitics #ElectionLaw #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 229,
+   "tg_file_id": "AgACAgUAAxkDAAPlavJClbmi1VxuHjrvDRrDhE814okAAiIWaxuLT5BXz9QiEKBIGjgBAAMCAAN3AAM9BA"
+  },
+  "5bb6a3928e": {
+   "id": "5bb6a3928e",
+   "headline": "FBI investigates possible homicide on MSC cruise ship in Texas",
+   "summary": "Federal authorities are investigating a suspected homicide on a cruise ship. The vessel returned to a port in Texas following a guest incident.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "FBI launched an investigation into a possible homicide.",
+    "The MSC cruise boat docked in Texas.",
+    "Authorities instructed the vessel to return to port."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#FBI",
+    "#CruiseShip",
+    "#Texas"
+   ],
+   "sources": [
+    "NBC News",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/americas/crime/cruise-ship-death-fbi-texas-b3082045.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/crime/cruise-ship-death-fbi-texas-b3082045.html"
+    ],
+    [
+     "NBC News",
+     "https://www.nbcnews.com/news/us-news/fbi-investigating-possible-homicide-cruise-ship-left-texas-rcna608423"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Texas, US"
+   },
+   "img_post": {
+    "headline": "FBI investigates possible homicide on MSC cruise ship in Texas",
+    "people": [],
+    "image_query": "Galveston port Texas",
+    "image_queries": [
+     "cruise ship docked",
+     "Galveston harbor",
+     "cruise terminal",
+     "Texas coastline"
+    ],
+    "image_style": "incident",
+    "location": "Texas, US"
+   },
+   "created_at": "2026-11-09T22:00:54.557966+00:00",
+   "news_time": "2026-11-09T21:40:36+00:00",
+   "news_latest": "2026-11-09T21:50:37+00:00",
+   "caption": "FBI investigates possible homicide on MSC cruise ship in Texas\n\nFederal authorities are investigating a suspected homicide on a cruise ship. The vessel returned to a port in Texas following a guest incident.\n\n📖 Read more: https://www.independent.co.uk/news/world/americas/crime/cruise-ship-death-fbi-texas-b3082045.html\n\n#FBI #CruiseShip #Texas #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 230,
+   "tg_file_id": "AgACAgUAAxkDAAPmavJCl8R8Ww1wt_DWAlBVtjcvQhQAAiMWaxuLT5BXQ4VGhZEk3E4BAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -9221,7 +9350,11 @@
   "https://thehill.com/opinion/energy-environment/6209002-ai-boom-infrastructure-risk/",
   "https://www.independent.co.uk/news/world/americas/us-politics/data-center-bill-senate-trump-energy-b3081849.html",
   "https://thehill.com/policy/healthcare/6209047-fda-glp1-drug-nainon-risk/",
-  "https://www.nbcnews.com/health/health-care/fda-orders-new-warning-glp-1s-rare-eye-condition-linked-sudden-blindne-rcna608309"
+  "https://www.nbcnews.com/health/health-care/fda-orders-new-warning-glp-1s-rare-eye-condition-linked-sudden-blindne-rcna608309",
+  "https://thehill.com/regulation/court-battles/6209007-sullivan-campaign-intervenes-peltola-lawsuit/",
+  "https://www.foxnews.com/politics/alaska-senate-fight-heats-sullivan-moves-block-peltola-lawsuit-rejected-absentee-ballot-records",
+  "https://www.independent.co.uk/news/world/americas/crime/cruise-ship-death-fbi-texas-b3082045.html",
+  "https://www.nbcnews.com/news/us-news/fbi-investigating-possible-homicide-cruise-ship-left-texas-rcna608423"
  ],
  "recent_topics": [
   [
@@ -11579,19 +11712,56 @@
     "warn"
    ],
    "9dd1f8d4b0"
+  ],
+  [
+   "2026-11-09T22:00:53.400166+00:00",
+   [
+    "absente",
+    "alaska",
+    "ballot",
+    "block",
+    "campaign",
+    "fight",
+    "fil",
+    "heat",
+    "lawsuit",
+    "motion",
+    "mov",
+    "peltola",
+    "record",
+    "reject",
+    "senat",
+    "sullivan"
+   ],
+   "f7ef8991b5"
+  ],
+  [
+   "2026-11-09T22:00:55.864035+00:00",
+   [
+    "boat",
+    "cruis",
+    "dock",
+    "fbi",
+    "homicid",
+    "investigat",
+    "investigation",
+    "launch",
+    "left",
+    "msc",
+    "possibl",
+    "ship",
+    "texa"
+   ],
+   "5bb6a3928e"
   ]
  ],
- "last_draft_at": "2026-11-09T21:45:28.844688+00:00",
+ "last_draft_at": "2026-11-09T22:00:29.804149+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T21:45:21.274261+00:00",
  "run_log": [
-  "11-09 19:30:27 run start",
-  "11-09 19:32:30 listening 9 min",
-  "11-09 19:42:03 listening done",
-  "11-09 19:42:03 run end after 695 s",
   "11-09 19:45:19 run start",
   "11-09 19:45:56 listening 11 min",
   "11-09 19:56:49 listening done",
@@ -11627,13 +11797,15 @@
   "11-09 21:45:20 run start",
   "11-09 21:45:55 listening 11 min",
   "11-09 21:56:48 listening done",
-  "11-09 21:56:48 run end after 687 s"
+  "11-09 21:56:48 run end after 687 s",
+  "11-09 22:00:29 run start",
+  "11-09 22:00:55 listening 11 min",
+  "11-09 22:12:14 listening done",
+  "11-09 22:12:14 run end after 704 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Paris_cityscape_May_2009.jpg/1920px-Paris_cityscape_May_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Marco_Rubio_visits_Israel_from_February_15_to_17%2C_2025_-_18.jpg/1280px-Marco_Rubio_visits_Israel_from_February_15_to_17%2C_2025_-_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/5/59/Jensen_Huang_%28cropped%29_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Vote_Here_-_Election_Polling_Place_%2850565230221%29.jpg/1920px-Vote_Here_-_Election_Polling_Place_%2850565230221%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -11671,7 +11843,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Charlie_Kirk_by_Gage_Skidmore.jpg/1280px-Charlie_Kirk_by_Gage_Skidmore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Lindsay_Clancy_appeared_via_Zoom_from_Tewksbury_Hospital_for_a_hearing_in_Plymouth_Superior_Court.jpg/1280px-Lindsay_Clancy_appeared_via_Zoom_from_Tewksbury_Hospital_for_a_hearing_in_Plymouth_Superior_Court.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Capitol_Hill_as_seen_from_9th_and_Pine_looking_east_towards_Bellevue%2C_WA.jpg/1920px-Capitol_Hill_as_seen_from_9th_and_Pine_looking_east_towards_Bellevue%2C_WA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/United_States_Treasury_building_2023.jpg/1920px-United_States_Treasury_building_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/United_States_Treasury_building_2023.jpg/1920px-United_States_Treasury_building_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Senator_Dan_Sullivan_official_%28cropped%29.jpg/1280px-Senator_Dan_Sullivan_official_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Rep._Mary_Peltola_headshot_%28cropped%29.jpg/1280px-Rep._Mary_Peltola_headshot_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -13259,10 +13433,114 @@
       "portrait": false
      }
     ]
+   },
+   "dan sullivan": {
+    "t": "2026-11-09T22:00:41.907473+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Senator_Dan_Sullivan_official.jpg/1280px-Senator_Dan_Sullivan_official.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Senate / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Dan_Sullivan_in_2021.jpg/1280px-Dan_Sullivan_in_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "The White House / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Dan_Sullivan_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Office of Senator Dan Sullivan / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Dan_Sullivan_2025_%28cropped_3x4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Office of Senator Dan Sullivan / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Dan_Sullivan_in_2021_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "The White House / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Dan_Sullivan_-_May_26_2019_01.jpg/1280px-Dan_Sullivan_-_May_26_2019_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Senate - Office of Dan Sullivan / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Senator_Dan_Sullivan_official_%28cropped%29.jpg/1280px-Senator_Dan_Sullivan_official_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Senate / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Dan_Sullivan_speaking_in_2022_%28cropped%29.jpg/1280px-Dan_Sullivan_speaking_in_2022_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Arctic Warrior / Wikimedia Commons (CC0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Dan_Sullivan_at_John_McCain%27s_grave.jpg/1280px-Dan_Sullivan_at_John_McCain%27s_grave.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Senate - Office of Dan Sullivan / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Dan_Sullivan_2025.jpg/1280px-Dan_Sullivan_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Office of Senator Dan Sullivan / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Dan_Sullivan_speaking_in_2022.jpg/1280px-Dan_Sullivan_speaking_in_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Arctic Warrior / Wikimedia Commons (CC0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     }
+    ]
+   },
+   "mary peltola": {
+    "t": "2026-11-09T22:00:42.699190+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Mary_Peltola_Congressional_Member_Portrait_%282%29.jpeg/1280px-Mary_Peltola_Congressional_Member_Portrait_%282%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Leah Herman, House Creative Services / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Mary_Peltola_Congressional_Member_Portrait_%282%29_%28cropped%29.jpeg/1280px-Mary_Peltola_Congressional_Member_Portrait_%282%29_%28cropped%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Leah Herman, House Creative Services / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Mary_Peltola_Town_Hall_2024.jpg/1280px-Mary_Peltola_Town_Hall_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Mary Peltola's Congressional Office / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Rep._Mary_Peltola_headshot_%28cropped%29.jpg/1280px-Rep._Mary_Peltola_headshot_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Rep. Mary Peltola / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Rep._Mary_Peltola_headshot_%28cropped%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "U.S. Rep. Mary Peltola / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     }
+    ]
    }
   },
   "recent_ideas": [
-   "college football stadium",
    "national mall, washington",
    "courthouse building",
    "early voting, united states",
@@ -13273,7 +13551,8 @@
    "supreme court, washington dc",
    "provo courthouse",
    "capitol hill",
-   "treasury building, washington"
+   "treasury building, washington",
+   "robert f. kennedy department of justice building"
   ]
  }
 }
