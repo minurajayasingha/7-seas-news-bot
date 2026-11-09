@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892728,
+ "tg_offset": 495892729,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -4298,6 +4298,93 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_story_id": "2581741285667923"
+  },
+  "7d9f30acc2": {
+   "id": "7d9f30acc2",
+   "headline": "Trump Cites Personal Hatred Between Zelensky and Putin in War",
+   "summary": "President Trump stated during a television appearance that the hatred between Volodymyr Zelensky and Vladimir Putin creates a primary obstacle to ending the conflict. The comments came while discussing efforts to resolve the war.",
+   "label": "WORLD",
+   "hook": "Can personal relations between leaders be overcome to resolve these conflicts?",
+   "key_points": [
+    "Trump discussed obstacles to ending the war on television",
+    "Hatred between Zelensky and Putin cited as a main barrier"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Trump",
+    "#Zelensky",
+    "#Putin"
+   ],
+   "sources": [
+    "New York Times",
+    "The Hill"
+   ],
+   "link": "https://thehill.com/homenews/6207193-trump-blames-zelensky-putin-hatred/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/homenews/6207193-trump-blames-zelensky-putin-hatred/"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/08/us/politics/trump-iran-options.html"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Donald_Trump_by_Gage_Skidmore_4_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Volodymyr_Zelensky_in_a_working_visit_to_the_State_of_Israel%2C_January_2020._IX.jpg/1280px-Volodymyr_Zelensky_in_a_working_visit_to_the_State_of_Israel%2C_January_2020._IX.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Кабінет Міністрів України / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Vladimir_Putin_on_gala_match_%282014-05-10%29.jpg/1280px-Vladimir_Putin_on_gala_match_%282014-05-10%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Пресс-служба Президента России / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Trump Cites Personal Hatred Between Zelensky and Putin in War",
+    "people": [
+     "Donald Trump",
+     "Volodymyr Zelensky",
+     "Vladimir Putin"
+    ],
+    "image_query": "White House exterior",
+    "image_queries": [
+     "US Capitol building",
+     "Kremlin Moscow",
+     "Kyiv cityscape",
+     "television studio stage"
+    ],
+    "image_style": "person",
+    "location": "US"
+   },
+   "created_at": "2026-11-09T03:00:56.825308+00:00",
+   "news_time": "2026-11-08T23:49:53+00:00",
+   "news_latest": "2026-11-09T02:41:43+00:00",
+   "caption": "Trump Cites Personal Hatred Between Zelensky and Putin in War\n\nPresident Trump stated during a television appearance that the hatred between Volodymyr Zelensky and Vladimir Putin creates a primary obstacle to ending the conflict. The comments came while discussing efforts to resolve the war.\n\n💬 Can personal relations between leaders be overcome to resolve these conflicts?\n\n📖 Read more: https://thehill.com/homenews/6207193-trump-blames-zelensky-putin-hatred/\n\n#Trump #Zelensky #Putin #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 141,
+   "tg_file_id": "AgACAgUAAxkDAAONavE3bmHkVEyrg-fkKeX5-hhxlSoAApYVaxv_D4lXPXAJ7Rxq9xMBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-09T03:09:43.590311+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122096370873548584",
+   "posted_at": "2026-11-09T03:09:43.989223+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 08 · 10:09 PM New York · 8:39 AM Sri Lanka\n\n<b>Trump Cites Personal Hatred Between Zelensky and Putin in War</b>\n<i>New York Times, The Hill</i>\n🟢 <b>Latest:</b> 8:11 AM Sri Lanka (28 min ago) · first reported 5:19 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096370873548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 45,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "1715697523893717"
   }
  },
  "seen_links": [
@@ -4461,7 +4548,9 @@
   "https://www.newsweek.com/trump-mass-deportation-policy-too-tough-hurt-midterm-result-12685010",
   "https://thehill.com/homenews/6207170-trump-immigration-policy-midterm-losses/",
   "https://www.nytimes.com/2026/11/08/us/politics/biden-cancer-health-memoir.html",
-  "https://www.upi.com/Top_News/US/2026/11/08/biden-book/2491794188487/"
+  "https://www.upi.com/Top_News/US/2026/11/08/biden-book/2491794188487/",
+  "https://thehill.com/homenews/6207193-trump-blames-zelensky-putin-hatred/",
+  "https://www.nytimes.com/2026/11/08/us/politics/trump-iran-options.html"
  ],
  "recent_topics": [
   [
@@ -5645,19 +5734,41 @@
     "tour"
    ],
    "f7d93440dd"
+  ],
+  [
+   "2026-11-09T03:01:03.215541+00:00",
+   [
+    "attack",
+    "difficult",
+    "end",
+    "hatr",
+    "highly",
+    "iran",
+    "main",
+    "obstacl",
+    "option",
+    "progress",
+    "putin",
+    "renew",
+    "resolv",
+    "show",
+    "talk",
+    "trump",
+    "unlikely",
+    "war",
+    "weigh",
+    "zelensky"
+   ],
+   "7d9f30acc2"
   ]
  ],
- "last_draft_at": "2026-11-09T02:45:23.116421+00:00",
+ "last_draft_at": "2026-11-09T03:00:32.550759+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T02:45:18.873836+00:00",
  "run_log": [
-  "11-09 00:35:14 run end after 687 s",
-  "11-09 00:35:26 run start",
-  "11-09 00:35:39 listening 11 min",
-  "11-09 00:46:58 listening done",
   "11-09 00:46:58 run end after 692 s",
   "11-09 00:47:10 run start",
   "11-09 00:47:21 listening 11 min",
@@ -5693,7 +5804,11 @@
   "11-09 02:45:18 run start",
   "11-09 02:45:31 listening 11 min",
   "11-09 02:56:49 listening done",
-  "11-09 02:56:49 run end after 690 s"
+  "11-09 02:56:49 run end after 690 s",
+  "11-09 03:00:32 run start",
+  "11-09 03:01:03 listening 11 min",
+  "11-09 03:12:11 listening done",
+  "11-09 03:12:11 run end after 699 s"
  ],
  "day_pack_done": "2026-11-07",
  "photo_memory": {
@@ -5720,7 +5835,10 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Power_lines_during_Blue_Hour_BW.jpg/1920px-Power_lines_during_Blue_Hour_BW.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg/1280px-Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Vice_President_Joe_Biden_visit_to_Israel_March_2016_%2825621190876%29.jpg/1280px-Vice_President_Joe_Biden_visit_to_Israel_March_2016_%2825621190876%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Vice_President_Joe_Biden_visit_to_Israel_March_2016_%2825621190876%29.jpg/1280px-Vice_President_Joe_Biden_visit_to_Israel_March_2016_%2825621190876%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/5/55/Donald_Trump_by_Gage_Skidmore_4_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Volodymyr_Zelensky_in_a_working_visit_to_the_State_of_Israel%2C_January_2020._IX.jpg/1280px-Volodymyr_Zelensky_in_a_working_visit_to_the_State_of_Israel%2C_January_2020._IX.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Vladimir_Putin_on_gala_match_%282014-05-10%29.jpg/1280px-Vladimir_Putin_on_gala_match_%282014-05-10%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -6372,6 +6490,98 @@
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Joe_Biden_visit_to_South_Korea%2C_December_2013_02.jpg/1280px-Joe_Biden_visit_to_South_Korea%2C_December_2013_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "David Lienemann / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     }
+    ]
+   },
+   "volodymyr zelensky": {
+    "t": "2026-11-09T03:00:55.281604+00:00",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/New_Year%27s_Eve_from_President_of_Ukraine_Volodymyr_Zelensky_%2831-12-2025%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Press Service of the President of Ukraine / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Volodymyr_Zelensky_Official_portrait.jpg/1280px-Volodymyr_Zelensky_Official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "http://www.president.gov.ua/ / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Volodymyr_Zelensky_at_the_2021_UN_Climate_Change_Conference_COP_26_%2832%29.jpg/1280px-Volodymyr_Zelensky_at_the_2021_UN_Climate_Change_Conference_COP_26_%2832%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "President of Ukraine / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Visite_de_Volodymyr_Zelensky_au_Conseil_de_l%27Europe_-_41.jpg/1280px-Visite_de_Volodymyr_Zelensky_au_Conseil_de_l%27Europe_-_41.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Le Commissaire / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Volodymyr_Zelensky_2019_presidential_inauguration_22.jpg/1280px-Volodymyr_Zelensky_2019_presidential_inauguration_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Mykola Lazarenko / The Presidential Administration of Ukrain / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Visite_de_Volodymyr_Zelensky_au_Conseil_de_l%27Europe_-_31.jpg/1280px-Visite_de_Volodymyr_Zelensky_au_Conseil_de_l%27Europe_-_31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Le Commissaire / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Visite_de_Volodymyr_Zelensky_au_Conseil_de_l%27Europe_-_09.jpg/1280px-Visite_de_Volodymyr_Zelensky_au_Conseil_de_l%27Europe_-_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Mickaël Schauli / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Volodymyr_Zelensky_Official_portrait_%28cropped%29.jpg/1280px-Volodymyr_Zelensky_Official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "http://www.president.gov.ua/ / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Volodymyr_Zelensky_Illustration.jpg/1280px-Volodymyr_Zelensky_Illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Coreypkolb / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Volodymyr_Zelensky_in_a_working_visit_to_the_State_of_Israel%2C_January_2020._IX.jpg/1280px-Volodymyr_Zelensky_in_a_working_visit_to_the_State_of_Israel%2C_January_2020._IX.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Кабінет Міністрів України / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/24.09.2025_%E2%80%93_Reuni%C3%A3o_Bilateral_com_o_Presidente_da_Ucr%C3%A2nia%2C_Volodymyr_Zelensky_%2854809905909%29.jpg/1280px-24.09.2025_%E2%80%93_Reuni%C3%A3o_Bilateral_com_o_Presidente_da_Ucr%C3%A2nia%2C_Volodymyr_Zelensky_%2854809905909%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Lula Oficial / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Volodymyr_Zelensky_at_the_2021_UN_Climate_Change_Conference_COP_26_%2847%29.jpg/1280px-Volodymyr_Zelensky_at_the_2021_UN_Climate_Change_Conference_COP_26_%2847%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "President of Ukraine / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     }
+    ]
+   },
+   "vladimir putin": {
+    "t": "2026-11-09T03:00:56.825234+00:00",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Vladimir_Putin_%282026_02_23%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Kremlin.ru / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Vladimir_Putin_on_gala_match_%282014-05-10%29.jpg/1280px-Vladimir_Putin_on_gala_match_%282014-05-10%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Пресс-служба Президента России / Wikimedia Commons (CC BY 4.0)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": false
      }
