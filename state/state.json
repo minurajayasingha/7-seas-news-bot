@@ -4480,6 +4480,70 @@
    "log_photo": true,
    "cleared": true,
    "fb_story_id": "1544329551050093"
+  },
+  "fa3c2491f8": {
+   "id": "fa3c2491f8",
+   "headline": "Trump suggests Ukraine will have a different shape after war",
+   "summary": "Donald Trump stated that Ukraine will likely end up with a different shape following peace talks. His comments preceded trilateral negotiations between the US, Ukraine, and Russia.",
+   "label": "DIPLOMACY",
+   "hook": "Can trilateral peace negotiations between the US, Ukraine, and Russia successfully end the war?",
+   "key_points": [
+    "Trump made comments ahead of trilateral peace negotiations.",
+    "Meetings involve the US, Ukraine, and Russia."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#UkraineRussiaWar",
+    "#PeaceTalks",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Kyiv Independent",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-uk-peace-talks-b3081417.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-uk-peace-talks-b3081417.html"
+    ],
+    [
+     "Kyiv Independent",
+     "https://kyivindependent.com/ukraine-will-likely-end-up-with-a-little-bit-different-shape-after-war-trump-tells-60-minutes/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Donald_Trump_official_portrait_2020_election.jpg/1280px-Donald_Trump_official_portrait_2020_election.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Shealeah Craighead / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Trump suggests Ukraine will have a different shape after war",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "Kyiv city",
+    "image_queries": [
+     "Ukrainian cityscape",
+     "peace negotiation table",
+     "government building Kyiv",
+     "White House exterior"
+    ],
+    "image_style": "person",
+    "location": ""
+   },
+   "created_at": "2026-11-09T08:15:32.853674+00:00",
+   "news_time": "2026-11-09T02:56:20+00:00",
+   "news_latest": "2026-11-09T05:35:24+00:00",
+   "caption": "Trump suggests Ukraine will have a different shape after war\n\nDonald Trump stated that Ukraine will likely end up with a different shape following peace talks. His comments preceded trilateral negotiations between the US, Ukraine, and Russia.\n\n💬 Can trilateral peace negotiations between the US, Ukraine, and Russia successfully end the war?\n\n📖 Read more: https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-uk-peace-talks-b3081417.html\n\n#UkraineRussiaWar #PeaceTalks #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 148,
+   "tg_file_id": "AgACAgUAAxkDAAOUavGBJ8BamaQgHyz9flNsdNnOyZIAAmAWaxv_D4lXR_POQYIRCacBAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -4649,7 +4713,9 @@
   "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
   "https://www.aljazeera.com/video/newsfeed/2026/11/9/pope-tells-argentinas-milei-leaders-should-know-limits-of-power?traffic_source=rss",
   "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
-  "https://www.upi.com/Top_News/World-News/2026/11/08/latam-argentina-vatican/6051794185556/"
+  "https://www.upi.com/Top_News/World-News/2026/11/08/latam-argentina-vatican/6051794185556/",
+  "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-uk-peace-talks-b3081417.html",
+  "https://kyivindependent.com/ukraine-will-likely-end-up-with-a-little-bit-different-shape-after-war-trump-tells-60-minutes/"
  ],
  "recent_topics": [
   [
@@ -5886,19 +5952,37 @@
     "visit"
    ],
    "2923ddaee7"
+  ],
+  [
+   "2026-11-09T08:15:35.915036+00:00",
+   [
+    "60",
+    "bit",
+    "deal",
+    "different",
+    "end",
+    "likely",
+    "littl",
+    "minut",
+    "peac",
+    "shap",
+    "suggest",
+    "tell",
+    "trump",
+    "ukrain",
+    "ukraine-russia",
+    "war"
+   ],
+   "fa3c2491f8"
   ]
  ],
- "last_draft_at": "2026-11-09T08:00:31.461952+00:00",
+ "last_draft_at": "2026-11-09T08:15:22.027201+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T07:45:19.095777+00:00",
  "run_log": [
-  "11-09 06:00:28 run start",
-  "11-09 06:00:38 listening 11 min",
-  "11-09 06:11:56 listening done",
-  "11-09 06:11:56 run end after 687 s",
   "11-09 06:15:20 run start",
   "11-09 06:15:30 listening 11 min",
   "11-09 06:26:49 listening done",
@@ -5934,7 +6018,11 @@
   "11-09 08:00:31 run start",
   "11-09 08:00:40 listening 11 min",
   "11-09 08:12:01 listening done",
-  "11-09 08:12:01 run end after 690 s"
+  "11-09 08:12:01 run end after 690 s",
+  "11-09 08:15:21 run start",
+  "11-09 08:15:35 listening 11 min",
+  "11-09 08:26:55 listening done",
+  "11-09 08:26:55 run end after 693 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
@@ -5966,7 +6054,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Volodymyr_Zelensky_in_a_working_visit_to_the_State_of_Israel%2C_January_2020._IX.jpg/1280px-Volodymyr_Zelensky_in_a_working_visit_to_the_State_of_Israel%2C_January_2020._IX.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Vladimir_Putin_on_gala_match_%282014-05-10%29.jpg/1280px-Vladimir_Putin_on_gala_match_%282014-05-10%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Buenos_Aires_Skyline_in_Color.jpg/1920px-Buenos_Aires_Skyline_in_Color.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_06.jpg/1280px-Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_06.jpg/1280px-Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Donald_Trump_official_portrait_2020_election.jpg/1280px-Donald_Trump_official_portrait_2020_election.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
