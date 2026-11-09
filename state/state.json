@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892799,
+ "tg_offset": 495892800,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -7849,6 +7849,97 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_story_id": "2115495445740345"
+  },
+  "aa3c7ea26f": {
+   "id": "aa3c7ea26f",
+   "headline": "Republican Representative Thomas Massie forces impeachment vote on Hegseth",
+   "summary": "Republican Representative Thomas Massie is forcing a House vote to impeach Defense Secretary Pete Hegseth. Hegseth stated that he is not worried about the effort, which is expected to fail.",
+   "label": "US POLITICS",
+   "hook": "Will Representative Thomas Massie succeed in pushing to remove Defense Secretary Pete Hegseth?",
+   "key_points": [
+    "Rep. Thomas Massie leads the impeachment effort.",
+    "Defense Secretary Pete Hegseth is not worried about the push.",
+    "The effort is expected to fail."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#DefenseSecretary",
+    "#Congress"
+   ],
+   "sources": [
+    "BBC",
+    "The Hill",
+    "Washington Post"
+   ],
+   "link": "https://www.washingtonpost.com/politics/2026/11/09/hegseths-team-gives-talking-points-allies-before-expected-impeachment-vote/",
+   "links": [
+    [
+     "Washington Post",
+     "https://www.washingtonpost.com/politics/2026/11/09/hegseths-team-gives-talking-points-allies-before-expected-impeachment-vote/"
+    ],
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/policy/defense/6208537-hegseth-pentagon-press-conference/"
+    ],
+    [
+     "Washington Post",
+     "https://www.washingtonpost.com/politics/2026/11/09/only-two-cabinet-secretaries-have-ever-been-impeached-will-hegseth-be-third/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Massie_Thomas_119th_Congress_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "House Creative Services / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Secretary_of_Defense_Pete_Hegseth_official_portrait_%28cropped%29.jpg/1280px-Secretary_of_Defense_Pete_Hegseth_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Chad McNeeley / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Republican Representative Thomas Massie forces impeachment vote on Hegseth",
+    "people": [
+     "Thomas Massie",
+     "Pete Hegseth"
+    ],
+    "image_query": "Pentagon building",
+    "image_queries": [
+     "US Capitol dome",
+     "House of Representatives chamber",
+     "Capitol Hill",
+     "Department of Defense"
+    ],
+    "image_style": "person",
+    "location": "US"
+   },
+   "created_at": "2026-11-09T19:15:33.725451+00:00",
+   "news_time": "2026-11-09T14:45:00+00:00",
+   "news_latest": "2026-11-09T18:37:08+00:00",
+   "caption": "Republican Representative Thomas Massie forces impeachment vote on Hegseth\n\nRepublican Representative Thomas Massie is forcing a House vote to impeach Defense Secretary Pete Hegseth. Hegseth stated that he is not worried about the effort, which is expected to fail.\n\n💬 Will Representative Thomas Massie succeed in pushing to remove Defense Secretary Pete Hegseth?\n\n📖 Read more: https://www.washingtonpost.com/politics/2026/11/09/hegseths-team-gives-talking-points-allies-before-expected-impeachment-vote/\n\n#USPolitics #DefenseSecretary #Congress #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 213,
+   "tg_file_id": "AgACAgUAAxkDAAPVavIb2R_AdPDuFO5qT3ukEzYdXxsAAgMWaxuLT5BXD-4nYNkIfGYBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-09T19:17:09.766389+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122096933235548584",
+   "posted_at": "2026-11-09T19:17:10.075290+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 09 · 2:17 PM New York · 12:47 AM Sri Lanka\n\n<b>Republican Representative Thomas Massie forces impeachment vote on Hegseth</b>\n<i>BBC, The Hill, Washington Post</i>\n🟢 <b>Latest:</b> 12:07 AM Sri Lanka (40 min ago) · first reported 8:15 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096933235548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 85,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "1437885648552803"
   }
  },
  "seen_links": [
@@ -8115,7 +8206,13 @@
   "https://www.washingtonexaminer.com/news/white-house/4797454/vance-jokes-about-devastating-loss-ohio-state/",
   "https://thehill.com/homenews/administration/6208643-vance-joked-buckeyes-loss/",
   "https://www.aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown?traffic_source=rss",
-  "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
+  "https://www.washingtonpost.com/politics/2026/11/09/hegseths-team-gives-talking-points-allies-before-expected-impeachment-vote/",
+  "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+  "https://thehill.com/policy/defense/6208537-hegseth-pentagon-press-conference/",
+  "https://www.washingtonpost.com/politics/2026/11/09/only-two-cabinet-secretaries-have-ever-been-impeached-will-hegseth-be-third/",
+  "https://www.upi.com/Top_News/US/2026/11/09/brett-shumate-resignation-justice-department/5511794246909/",
+  "https://www.independent.co.uk/news/world/americas/us-politics/brett-shumate-doj-todd-blanche-b3081976.html"
  ],
  "recent_topics": [
   [
@@ -10170,19 +10267,55 @@
     "vanc"
    ],
    "3c9e10c016"
+  ],
+  [
+   "2026-11-09T19:15:37.910988+00:00",
+   [
+    "all",
+    "ally",
+    "cabinet",
+    "chang",
+    "conferenc",
+    "congress",
+    "congressman",
+    "defenc",
+    "ever",
+    "expect",
+    "fac",
+    "forc",
+    "giv",
+    "hegseth",
+    "hous",
+    "impeach",
+    "impeachment",
+    "loom",
+    "member",
+    "only",
+    "oust",
+    "plan",
+    "point",
+    "press",
+    "push",
+    "republican",
+    "return",
+    "secretary",
+    "talk",
+    "team",
+    "third",
+    "vot",
+    "washington",
+    "worri"
+   ],
+   "aa3c7ea26f"
   ]
  ],
- "last_draft_at": "2026-11-09T19:00:33.444891+00:00",
+ "last_draft_at": "2026-11-09T19:15:21.792074+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T18:45:23.920654+00:00",
  "run_log": [
-  "11-09 16:45:24 run start",
-  "11-09 16:46:36 listening 10 min",
-  "11-09 16:56:58 listening done",
-  "11-09 16:56:58 run end after 694 s",
   "11-09 16:57:11 run start",
   "11-09 16:57:28 listening 11 min",
   "11-09 17:08:47 listening done",
@@ -10218,13 +10351,15 @@
   "11-09 19:00:32 run start",
   "11-09 19:02:19 listening 10 min",
   "11-09 19:12:00 listening done",
-  "11-09 19:12:00 run end after 687 s"
+  "11-09 19:12:00 run end after 687 s",
+  "11-09 19:15:21 run start",
+  "11-09 19:17:09 listening 10 min",
+  "11-09 19:27:02 listening done",
+  "11-09 19:27:02 run end after 700 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_06.jpg/1280px-Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Donald_Trump_official_portrait_2020_election.jpg/1280px-Donald_Trump_official_portrait_2020_election.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance_%28cropped1%29.jpg/1280px-March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance_%28cropped1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Official_portrait_of_Secretary_Marco_Rubio_%28cropped%29%282%29.jpg/1280px-Official_portrait_of_Secretary_Marco_Rubio_%28cropped%29%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -10262,7 +10397,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/TCF_Bank_College_Football_Stadium_Minnesota_Golden_Gophers_Sunset_Panorama_-_panoramio.jpg/1920px-TCF_Bank_College_Football_Stadium_Minnesota_Golden_Gophers_Sunset_Panorama_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/National_Mall%2C_Washington%2C_D.C._%2820100325-DSC01346%29.jpg/1920px-National_Mall%2C_Washington%2C_D.C._%2820100325-DSC01346%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Bernie_Sanders_%2825973827305%29.jpg/1280px-Bernie_Sanders_%2825973827305%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Senator_JD_Vance_thanking_first_responders_in_East_Palestine.jpg/1280px-Senator_JD_Vance_thanking_first_responders_in_East_Palestine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Senator_JD_Vance_thanking_first_responders_in_East_Palestine.jpg/1280px-Senator_JD_Vance_thanking_first_responders_in_East_Palestine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/c/cc/Massie_Thomas_119th_Congress_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Secretary_of_Defense_Pete_Hegseth_official_portrait_%28cropped%29.jpg/1280px-Secretary_of_Defense_Pete_Hegseth_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -11462,6 +11599,82 @@
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037177-rj_mg_4370.jpg/1280px-Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037177-rj_mg_4370.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Fernando Frazão/Agência Brasil / Wikimedia Commons (CC BY 3.0 br)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     }
+    ]
+   },
+   "thomas massie": {
+    "t": "2026-11-09T19:15:33.725316+00:00",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Massie_Thomas_119th_Congress_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "House Creative Services / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Thomas_Massie_%2853866040236%29_%28cropped%29_4x5.jpg/1280px-Thomas_Massie_%2853866040236%29_%28cropped%29_4x5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Thomas_Massie_%2824148533714%29.jpg/1280px-Thomas_Massie_%2824148533714%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Thomas_Massie_%2853866451710%29.jpg/1280px-Thomas_Massie_%2853866451710%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Thomas_Massie_%2853866040231%29.jpg/1280px-Thomas_Massie_%2853866040231%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Thomas_Massie_%2853866040236%29.jpg/1280px-Thomas_Massie_%2853866040236%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Thomas_Massie_%288561647254%29.jpg/1280px-Thomas_Massie_%288561647254%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Thomas_Massie_%2815665598450%29.jpg/1280px-Thomas_Massie_%2815665598450%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Thomas_Massie_%2815853816665%29.jpg/1280px-Thomas_Massie_%2815853816665%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Thomas_Massie_%288560522401%29.jpg/1280px-Thomas_Massie_%288560522401%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Thomas_Massie_%2836283899342%29.jpg/1280px-Thomas_Massie_%2836283899342%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Thomas_Massie_%2815850959141%29.jpg/1280px-Thomas_Massie_%2815850959141%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": false
      }
