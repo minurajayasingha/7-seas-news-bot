@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892757,
+ "tg_offset": 495892761,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -4992,9 +4992,11 @@
    "news_time": "2026-11-09T10:27:03+00:00",
    "news_latest": "2026-11-09T10:50:49+00:00",
    "caption": "🚨 BREAKING: Storm collapses sandbank on tents in Gaza: five killed\n\nHeavy rain and a storm caused a sandbank to collapse onto tents in Gaza. Five people were killed in the incident.\n\nWhat we know so far:\n• Heavy rain caused a sandbank to collapse on tents\n• Gaza rescue services and authorities reported five deaths\n• Victims included children and women\n\n📖 Read more: https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss\n\n#Gaza #Weather #WorldNews #7SeasNews",
-   "status": "pending",
+   "status": "replaced",
    "tg_message_id": 156,
-   "tg_file_id": "AgACAgUAAxkDAAOcavGn4liWcAtLRDl_itjwGoz1cBgAAiAWaxv_D5FXm--iuNwgMJ8BAAMCAAN3AAM9BA"
+   "tg_file_id": "AgACAgUAAxkDAAOcavGn4liWcAtLRDl_itjwGoz1cBgAAiAWaxv_D5FXm--iuNwgMJ8BAAMCAAN3AAM9BA",
+   "extra_msgs": [],
+   "cleared": true
   },
   "c28eab1894": {
    "id": "c28eab1894",
@@ -5497,6 +5499,159 @@
    "log_photo": true,
    "cleared": true,
    "fb_story_id": "1601275467976783"
+  },
+  "9ad6291870": {
+   "id": "9ad6291870",
+   "headline": "Congress returns to Washington following midterm elections",
+   "summary": "Lawmakers return to Washington following the midterm elections as Republicans plan to finish work on outstanding issues. Democrats are preparing to take control of Congress in January.",
+   "label": "US POLITICS",
+   "hook": "What priorities should Congress tackle before Democrats take control in January?",
+   "key_points": [
+    "Lawmakers return to Washington after midterms",
+    "Republicans finish work on outstanding issues",
+    "Democrats take control of Congress in January"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Congress",
+    "#Washington"
+   ],
+   "sources": [
+    "NPR",
+    "The Guardian",
+    "The Hill"
+   ],
+   "link": "https://www.theguardian.com/commentisfree/2026/nov/08/time-to-fight-back",
+   "links": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/commentisfree/2026/nov/08/time-to-fight-back"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/policy/international/6204945-democrats-foreign-policy-priorities/"
+    ],
+    [
+     "NPR",
+     "https://www.npr.org/2026/11/09/nx-s1-6030633/congress-is-coming-back-to-washington-heres-what-to-expect"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Capitol_Reflecting_Pool_%28September_2023%29_03.jpg/1920px-Capitol_Reflecting_Pool_%28September_2023%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "DiscoA340 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Congress returns to Washington following midterm elections",
+    "people": [],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "House of Representatives chamber",
+     "voting booth"
+    ],
+    "image_style": "scene",
+    "location": "Washington, US"
+   },
+   "created_at": "2026-11-09T13:30:37.169686+00:00",
+   "news_time": "2026-11-09T10:00:00+00:00",
+   "news_latest": "2026-11-09T13:15:54+00:00",
+   "caption": "Congress returns to Washington following midterm elections\n\nLawmakers return to Washington following the midterm elections as Republicans plan to finish work on outstanding issues. Democrats are preparing to take control of Congress in January.\n\n💬 What priorities should Congress tackle before Democrats take control in January?\n\n📖 Read more: https://www.theguardian.com/commentisfree/2026/nov/08/time-to-fight-back\n\n#USPolitics #Congress #Washington #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 169,
+   "tg_file_id": "AgACAgUAAxkDAAOpavHLArczL90bF8aPer6xdkKr6rMAAqMWaxv_D5FXAAG8a6ehbALpAQADAgADdwADPQQ",
+   "dup_ok": true,
+   "extra_msgs": [],
+   "queued_at": "2026-11-09T13:32:51.922127+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122096706195548584",
+   "posted_at": "2026-11-09T13:32:52.227939+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 09 · 8:32 AM New York · 7:02 PM Sri Lanka\n\n<b>Congress returns to Washington following midterm elections</b>\n<i>NPR, The Guardian, The Hill</i>\n🟢 <b>Latest:</b> 6:45 PM Sri Lanka (17 min ago) · first reported 3:30 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096706195548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 58,
+   "log_photo": true,
+   "cleared": true,
+   "fb_story_id": "2590568714739816"
+  },
+  "7beaafd74b": {
+   "id": "7beaafd74b",
+   "headline": "Storm collapses sandbank on tents in Gaza: five killed",
+   "summary": "Heavy rain and a storm caused a sandbank to collapse onto tents in Gaza. Five people were killed in the incident.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Heavy rain caused a sandbank to collapse on tents",
+    "Gaza rescue services and authorities reported five deaths",
+    "Victims included children and women"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Gaza",
+    "#Weather",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "Euronews"
+   ],
+   "link": "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/09/storm-killed-five-in-gaza-as-sandstone-slab-collapsed-onto-tents"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "tg_file_id": "AgACAgUAAxkBAAOravHL9-aLeQ4Z3NTlwfgax90ROZ0AAqcWaxv_D5FXmYHREy8phAEBAAMCAAN5AAM9BA",
+      "credit": ""
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Storm collapses sandbank on tents in Gaza: five killed",
+    "people": [],
+    "image_query": "Gaza landscape",
+    "image_queries": [
+     "Gaza street scene",
+     "stormy weather tents",
+     "Gaza neighborhood",
+     "heavy rain flooded area"
+    ],
+    "image_style": "incident",
+    "location": "Gaza"
+   },
+   "created_at": "2026-11-09T13:34:47.381997+00:00",
+   "news_time": "2026-11-09T10:27:03+00:00",
+   "news_latest": "2026-11-09T10:50:49+00:00",
+   "caption": "🚨 BREAKING: Storm collapses sandbank on tents in Gaza: five killed\n\nHeavy rain and a storm caused a sandbank to collapse onto tents in Gaza. Five people were killed in the incident.\n\nWhat we know so far:\n• Heavy rain caused a sandbank to collapse on tents\n• Gaza rescue services and authorities reported five deaths\n• Victims included children and women\n\n📖 Read more: https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss\n\n#Gaza #Weather #WorldNews #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 172,
+   "tg_file_id": "AgACAgUAAxkDAAOsavHL-ScEoArGHiq7iywR2yZN-FUAAqgWaxv_D5FX3Ixt60lNsvQBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-09T13:34:52.464313+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122096707839548584",
+   "posted_at": "2026-11-09T13:34:52.764768+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 09 · 8:34 AM New York · 7:04 PM Sri Lanka\n\n<b>Storm collapses sandbank on tents in Gaza: five killed</b>\n<i>Al Jazeera, Euronews</i>\n🟡 <b>Latest:</b> 4:20 PM Sri Lanka (2h 44m ago) · first reported 3:57 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096707839548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 59,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "2046270492701262"
   }
  },
  "seen_links": [
@@ -5691,7 +5846,10 @@
   "https://www.independent.co.uk/news/world/europe/greece-crete-migrant-boat-deaths-b3081480.html",
   "https://www.upi.com/Top_News/World-News/2026/11/09/Greece-migrants-found-dead-aboard-boat/7261794216646/",
   "https://thehill.com/opinion/campaign/6205107-rebuilding-democracy-after-midterms/",
-  "https://www.theguardian.com/commentisfree/2026/nov/09/democrats-trump-congress"
+  "https://www.theguardian.com/commentisfree/2026/nov/09/democrats-trump-congress",
+  "https://www.theguardian.com/commentisfree/2026/nov/08/time-to-fight-back",
+  "https://thehill.com/policy/international/6204945-democrats-foreign-policy-priorities/",
+  "https://www.npr.org/2026/11/09/nx-s1-6030633/congress-is-coming-back-to-washington-heres-what-to-expect"
  ],
  "recent_topics": [
   [
@@ -7173,19 +7331,37 @@
     "trump"
    ],
    "e931fdf8cb"
+  ],
+  [
+   "2026-11-09T13:30:42.484975+00:00",
+   [
+    "back",
+    "com",
+    "congress",
+    "democrat",
+    "expect",
+    "fight",
+    "fiv",
+    "foreign",
+    "lead",
+    "next",
+    "policy",
+    "post-midterm",
+    "priority",
+    "thinker",
+    "tim",
+    "washington"
+   ],
+   "9ad6291870"
   ]
  ],
- "last_draft_at": "2026-11-09T13:16:27.185599+00:00",
+ "last_draft_at": "2026-11-09T13:30:24.598440+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T12:45:22.780978+00:00",
  "run_log": [
-  "11-09 11:00:50 listening 11 min",
-  "11-09 11:12:12 listening done",
-  "11-09 11:12:12 run end after 697 s",
-  "11-09 11:15:21 run start",
   "11-09 11:15:31 listening 11 min",
   "11-09 11:26:50 listening done",
   "11-09 11:26:50 run end after 689 s",
@@ -7221,7 +7397,11 @@
   "11-09 13:15:23 run start",
   "11-09 13:16:42 listening 10 min",
   "11-09 13:26:54 listening done",
-  "11-09 13:26:54 run end after 690 s"
+  "11-09 13:26:54 run end after 690 s",
+  "11-09 13:30:24 run start",
+  "11-09 13:30:42 listening 11 min",
+  "11-09 13:42:13 listening done",
+  "11-09 13:42:13 run end after 709 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
@@ -7264,7 +7444,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Library_of_Congress_%2897917%29.jpg/1920px-Library_of_Congress_%2897917%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Stephen_Miller_%2854360305622%29_%28cropped%29%28c%29.jpg/1280px-Stephen_Miller_%2854360305622%29_%28cropped%29%28c%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/5/5c/Iowa_City%2C_IA_-_Early_Voting_Automobile_Queue_October_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/5/5c/Iowa_City%2C_IA_-_Early_Voting_Automobile_Queue_October_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Capitol_Reflecting_Pool_%28September_2023%29_03.jpg/1920px-Capitol_Reflecting_Pool_%28September_2023%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -8253,7 +8434,8 @@
    "isfahan",
    "capitol hill",
    "library of congress",
-   "early voting, united states"
+   "early voting, united states",
+   "capitol reflecting pool"
   ]
  }
 }
