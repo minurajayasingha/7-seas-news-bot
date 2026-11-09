@@ -4926,6 +4926,64 @@
    "status": "pending",
    "tg_message_id": 155,
    "tg_file_id": "AgACAgUAAxkDAAObavGdSwLvfwzkLPwUZqQBFhjhKWUAAhAWaxv_D5FXFrLvqEFzyOgBAAMCAAN3AAM9BA"
+  },
+  "408a5794c8": {
+   "id": "408a5794c8",
+   "headline": "Storm collapses sandbank on tents in Gaza: five killed",
+   "summary": "Heavy rain and a storm caused a sandbank to collapse onto tents in Gaza. Five people were killed in the incident.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Heavy rain caused a sandbank to collapse on tents",
+    "Gaza rescue services and authorities reported five deaths",
+    "Victims included children and women"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Gaza",
+    "#Weather",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "Euronews"
+   ],
+   "link": "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/09/storm-killed-five-in-gaza-as-sandstone-slab-collapsed-onto-tents"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Gaza"
+   },
+   "img_post": {
+    "headline": "Storm collapses sandbank on tents in Gaza: five killed",
+    "people": [],
+    "image_query": "Gaza landscape",
+    "image_queries": [
+     "Gaza street scene",
+     "stormy weather tents",
+     "Gaza neighborhood",
+     "heavy rain flooded area"
+    ],
+    "image_style": "incident",
+    "location": "Gaza"
+   },
+   "created_at": "2026-11-09T11:00:45.913021+00:00",
+   "news_time": "2026-11-09T10:27:03+00:00",
+   "news_latest": "2026-11-09T10:50:49+00:00",
+   "caption": "🚨 BREAKING: Storm collapses sandbank on tents in Gaza: five killed\n\nHeavy rain and a storm caused a sandbank to collapse onto tents in Gaza. Five people were killed in the incident.\n\nWhat we know so far:\n• Heavy rain caused a sandbank to collapse on tents\n• Gaza rescue services and authorities reported five deaths\n• Victims included children and women\n\n📖 Read more: https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss\n\n#Gaza #Weather #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 156,
+   "tg_file_id": "AgACAgUAAxkDAAOcavGn4liWcAtLRDl_itjwGoz1cBgAAiAWaxv_D5FXm--iuNwgMJ8BAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -5107,7 +5165,9 @@
   "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations?traffic_source=rss",
   "https://www.euronews.com/2026/11/09/donald-trump-plans-to-meet-vladimir-putin-and-xi-jinping-in-china-to-discuss-ending-iran-w",
   "https://www.nytimes.com/2026/11/09/us/politics/congress-republicans-agenda-lame-duck-session.html",
-  "https://www.washingtonpost.com/politics/2026/11/09/republicans-have-one-last-shot-pass-their-agenda-after-losing-congress/"
+  "https://www.washingtonpost.com/politics/2026/11/09/republicans-have-one-last-shot-pass-their-agenda-after-losing-congress/",
+  "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss",
+  "https://www.euronews.com/2026/11/09/storm-killed-five-in-gaza-as-sandstone-slab-collapsed-onto-tents"
  ],
  "recent_topics": [
   [
@@ -6472,19 +6532,36 @@
     "washington"
    ],
    "12d4228b8b"
+  ],
+  [
+   "2026-11-09T11:00:50.729076+00:00",
+   [
+    "authority",
+    "collaps",
+    "fiv",
+    "gaza",
+    "global",
+    "inaction",
+    "kill",
+    "mudslid",
+    "onto",
+    "peopl",
+    "sandston",
+    "slab",
+    "slam",
+    "storm",
+    "tent"
+   ],
+   "408a5794c8"
   ]
  ],
- "last_draft_at": "2026-11-09T10:45:26.195461+00:00",
+ "last_draft_at": "2026-11-09T11:00:35.346638+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T10:45:20.580782+00:00",
  "run_log": [
-  "11-09 08:30:27 run start",
-  "11-09 08:30:37 listening 11 min",
-  "11-09 08:41:57 listening done",
-  "11-09 08:41:57 run end after 690 s",
   "11-09 08:45:21 run start",
   "11-09 08:45:50 listening 11 min",
   "11-09 08:56:52 listening done",
@@ -6520,7 +6597,11 @@
   "11-09 10:45:20 run start",
   "11-09 10:45:35 listening 11 min",
   "11-09 10:56:54 listening done",
-  "11-09 10:56:54 run end after 694 s"
+  "11-09 10:56:54 run end after 694 s",
+  "11-09 11:00:34 run start",
+  "11-09 11:00:50 listening 11 min",
+  "11-09 11:12:12 listening done",
+  "11-09 11:12:12 run end after 697 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
