@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892794,
+ "tg_offset": 495892795,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -7462,6 +7462,79 @@
    "dup_ok": true,
    "extra_msgs": [],
    "cleared": true
+  },
+  "fc55d1f496": {
+   "id": "fc55d1f496",
+   "headline": "South Africa: ANC Loses Dominance Amid Voter Exodus",
+   "summary": "The African National Congress party faces growing voter dissatisfaction and an exodus of supporters. The country is transitioning away from an era of ANC electoral dominance toward a more fragmented political system.",
+   "label": "ELECTIONS",
+   "hook": "Can the ANC regain its political dominance in South Africa?",
+   "key_points": [
+    "Voters deserted the African National Congress party.",
+    "The country faces a more fragmented political system."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#SouthAfrica",
+    "#ANC",
+    "#WorldNews"
+   ],
+   "sources": [
+    "ABC News",
+    "Al Jazeera"
+   ],
+   "link": "https://abcnews.com/International/wireStory/mandelas-anc-lost-south-africa-voters-deserted-137977700",
+   "links": [
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/mandelas-anc-lost-south-africa-voters-deserted-137977700"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/9/what-catastrophic-south-africa-local-election-results-mean-for-anc?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Ballot_box_2024_Swedish_EU_election_at_St%C3%A5ngen%C3%A4sskolan%2C_Brastad.jpg/1920px-Ballot_box_2024_Swedish_EU_election_at_St%C3%A5ngen%C3%A4sskolan%2C_Brastad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "W.carter / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "South Africa: ANC Loses Dominance Amid Voter Exodus",
+    "people": [],
+    "image_query": "South Africa government building",
+    "image_queries": [
+     "South Africa parliament",
+     "voting station South Africa",
+     "Johannesburg cityscape",
+     "election ballot box"
+    ],
+    "image_style": "scene",
+    "location": "South Africa"
+   },
+   "created_at": "2026-11-09T17:45:51.693036+00:00",
+   "news_time": "2026-11-09T14:14:28+00:00",
+   "news_latest": "2026-11-09T17:30:19+00:00",
+   "caption": "South Africa: ANC Loses Dominance Amid Voter Exodus\n\nThe African National Congress party faces growing voter dissatisfaction and an exodus of supporters. The country is transitioning away from an era of ANC electoral dominance toward a more fragmented political system.\n\n💬 Can the ANC regain its political dominance in South Africa?\n\n📖 Read more: https://abcnews.com/International/wireStory/mandelas-anc-lost-south-africa-voters-deserted-137977700\n\n#SouthAfrica #ANC #WorldNews #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 207,
+   "tg_file_id": "AgACAgUAAxkDAAPPavIG1R66jQ3iHJDPQSnG5dxXBnYAAv4VaxuLT5BXECNhOFFgwYIBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-09T17:46:30.025375+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122096871033548584",
+   "posted_at": "2026-11-09T17:46:30.370104+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 09 · 12:46 PM New York · 11:16 PM Sri Lanka\n\n<b>South Africa: ANC Loses Dominance Amid Voter Exodus</b>\n<i>ABC News, Al Jazeera</i>\n🟢 <b>Latest:</b> 11:00 PM Sri Lanka (16 min ago) · first reported 7:44 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096871033548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 80,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "956848567215579"
   }
  },
  "seen_links": [
@@ -7714,7 +7787,9 @@
   "https://www.washingtonexaminer.com/news/house/4797193/freedom-caucus-outlines-eight-priorities-during-lame-duck-session/",
   "https://thehill.com/homenews/house/6208185-gop-urges-legislative-push-before-democrats/",
   "https://www.cbsnews.com/news/pete-hegseth-impeachment-vote-house-thomas-massie/",
-  "https://www.independent.co.uk/news/world/americas/us-politics/pete-hegseth-impeachment-congress-iran-midterms-b3081797.html"
+  "https://www.independent.co.uk/news/world/americas/us-politics/pete-hegseth-impeachment-congress-iran-midterms-b3081797.html",
+  "https://abcnews.com/International/wireStory/mandelas-anc-lost-south-africa-voters-deserted-137977700",
+  "https://www.aljazeera.com/news/2026/11/9/what-catastrophic-south-africa-local-election-results-mean-for-anc?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -9663,19 +9738,34 @@
     "washington"
    ],
    "a539e96508"
+  ],
+  [
+   "2026-11-09T17:45:58.361225+00:00",
+   [
+    "africa",
+    "anc",
+    "catastrophic",
+    "desert",
+    "election",
+    "local",
+    "lost",
+    "mandela",
+    "mean",
+    "result",
+    "south",
+    "voter",
+    "way"
+   ],
+   "fc55d1f496"
   ]
  ],
- "last_draft_at": "2026-11-09T17:32:40.160507+00:00",
+ "last_draft_at": "2026-11-09T17:45:40.141974+00:00",
  "last_slot": "2026-11-09T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-09T16:45:58.231195+00:00",
+ "last_stats_at": "2026-11-09T17:45:27.192635+00:00",
  "run_log": [
-  "11-09 15:30:29 run start",
-  "11-09 15:30:49 listening 11 min",
-  "11-09 15:42:16 listening done",
-  "11-09 15:42:16 run end after 707 s",
   "11-09 15:45:21 run start",
   "11-09 15:45:41 listening 11 min",
   "11-09 15:56:48 listening done",
@@ -9711,12 +9801,15 @@
   "11-09 17:32:39 run start",
   "11-09 17:32:49 listening 11 min",
   "11-09 17:44:05 listening done",
-  "11-09 17:44:05 run end after 685 s"
+  "11-09 17:44:05 run end after 685 s",
+  "11-09 17:45:26 run start",
+  "11-09 17:45:58 listening 11 min",
+  "11-09 17:56:56 listening done",
+  "11-09 17:56:56 run end after 689 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg/1280px-Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Vice_President_Joe_Biden_visit_to_Israel_March_2016_%2825621190876%29.jpg/1280px-Vice_President_Joe_Biden_visit_to_Israel_March_2016_%2825621190876%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/5/55/Donald_Trump_by_Gage_Skidmore_4_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Volodymyr_Zelensky_in_a_working_visit_to_the_State_of_Israel%2C_January_2020._IX.jpg/1280px-Volodymyr_Zelensky_in_a_working_visit_to_the_State_of_Israel%2C_January_2020._IX.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -9755,7 +9848,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/House_of_Representatives_Chamber%2C_Idaho_State_Capitol.jpg/1920px-House_of_Representatives_Chamber%2C_Idaho_State_Capitol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/View_of_the_Pentagon_from_the_Navy_Annex_minutes_after_a_hijacked_jetliner_crashed_into_building_at_approximately_0930_on_September_11%2C_2001_010911-M-CI426-007.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Pete_Hegseth_%2852940857382%29.jpg/1280px-Pete_Hegseth_%2852940857382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Pete_Hegseth_%2852940857382%29.jpg/1280px-Pete_Hegseth_%2852940857382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Ballot_box_2024_Swedish_EU_election_at_St%C3%A5ngen%C3%A4sskolan%2C_Brastad.jpg/1920px-Ballot_box_2024_Swedish_EU_election_at_St%C3%A5ngen%C3%A4sskolan%2C_Brastad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -10962,7 +11056,6 @@
    }
   },
   "recent_ideas": [
-   "early voting, united states",
    "capitol reflecting pool",
    "capitol at night",
    "saint sophia cathedral, kyiv",
@@ -10973,7 +11066,8 @@
    "i voted sticker",
    "senate chamber",
    "house of representatives chamber",
-   "pentagon building"
+   "pentagon building",
+   "election ballot box"
   ]
  }
 }
