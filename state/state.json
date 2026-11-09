@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892740,
+ "tg_offset": 495892743,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -4849,9 +4849,20 @@
    "news_time": "2026-11-09T07:08:26+00:00",
    "news_latest": "2026-11-09T09:27:35+00:00",
    "caption": "Trump plans meetings with Putin and Xi in China\n\nUS President Donald Trump announced plans to meet with Vladimir Putin and Xi Jinping in China next week. They plan to discuss denuclearisation and ending the Iran war, alongside a new Qatari-backed proposal being examined by Washington.\n\n💬 Can these planned discussions in China help end the Iran war?\n\n📖 Read more: https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations?traffic_source=rss\n\n#WorldNews #USChina #Diplomacy #7SeasNews",
-   "status": "pending",
+   "status": "posted",
    "tg_message_id": 154,
-   "tg_file_id": "AgACAgUAAxkDAAOaavGXkTVQzHhd0CeNrk51s6e6FzEAAggWaxv_D5FXwYEau9nTl88BAAMCAAN3AAM9BA"
+   "tg_file_id": "AgACAgUAAxkDAAOaavGXkTVQzHhd0CeNrk51s6e6FzEAAggWaxv_D5FXwYEau9nTl88BAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-09T10:00:29.393240+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122096591841548584",
+   "posted_at": "2026-11-09T10:00:30.300377+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 09 · 5:00 AM New York · 3:30 PM Sri Lanka\n\n<b>Trump plans meetings with Putin and Xi in China</b>\n<i>Al Jazeera, Euronews</i>\n🟢 <b>Latest:</b> 2:57 PM Sri Lanka (32 min ago) · first reported 12:38 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096591841548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 51,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "2286768071891230"
   }
  },
  "seen_links": [
@@ -6388,10 +6399,6 @@
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T09:45:19.113075+00:00",
  "run_log": [
-  "11-09 07:30:24 run start",
-  "11-09 07:30:33 listening 11 min",
-  "11-09 07:41:51 listening done",
-  "11-09 07:41:51 run end after 687 s",
   "11-09 07:45:18 run start",
   "11-09 07:45:33 listening 11 min",
   "11-09 07:56:51 listening done",
@@ -6427,7 +6434,11 @@
   "11-09 09:45:18 run start",
   "11-09 09:45:37 listening 11 min",
   "11-09 09:57:05 listening done",
-  "11-09 09:57:05 run end after 706 s"
+  "11-09 09:57:05 run end after 706 s",
+  "11-09 10:00:28 run start",
+  "11-09 10:00:48 listening 11 min",
+  "11-09 10:12:07 listening done",
+  "11-09 10:12:07 run end after 698 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
