@@ -5074,6 +5074,134 @@
    "log_photo": true,
    "cleared": true,
    "fb_story_id": "1668952901267194"
+  },
+  "bb11b4cdb5": {
+   "id": "bb11b4cdb5",
+   "headline": "Stephen Miller takes over as President Trump's chief of staff",
+   "summary": "Hard-liner Stephen Miller is taking over as President Trump's chief of staff in the White House. Meanwhile, Trump stated that his immigration crackdown was too tough.",
+   "label": "US POLITICS",
+   "hook": "Will the new chief of staff change the direction of immigration policy?",
+   "key_points": [
+    "Stephen Miller becomes chief of staff",
+    "Trump calls immigration crackdown too tough"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#WhiteHouse",
+    "#Immigration"
+   ],
+   "sources": [
+    "Newsweek",
+    "The Hill"
+   ],
+   "link": "https://thehill.com/newsletters/morning-report/6207425-stephen-miller-era-white-house-congress-returns-midterms/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/newsletters/morning-report/6207425-stephen-miller-era-white-house-congress-returns-midterms/"
+    ],
+    [
+     "Newsweek",
+     "https://www.newsweek.com/what-stephen-miller-has-said-about-immigration-trump-admits-mistake-12685726"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Stephen_Miller_%2854360305622%29_%28cropped%29%28c%29.jpg/1280px-Stephen_Miller_%2854360305622%29_%28cropped%29%28c%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Michael Vadon / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Stephen Miller takes over as President Trump's chief of staff",
+    "people": [
+     "Stephen Miller",
+     "Donald Trump"
+    ],
+    "image_query": "White House",
+    "image_queries": [
+     "Oval Office",
+     "US Capitol building",
+     "West Wing exterior",
+     "Washington DC skyline"
+    ],
+    "image_style": "person",
+    "location": "US"
+   },
+   "created_at": "2026-11-09T12:30:35.301205+00:00",
+   "news_time": "2026-11-09T10:57:05+00:00",
+   "news_latest": "2026-11-09T12:15:25+00:00",
+   "caption": "Stephen Miller takes over as President Trump's chief of staff\n\nHard-liner Stephen Miller is taking over as President Trump's chief of staff in the White House. Meanwhile, Trump stated that his immigration crackdown was too tough.\n\n💬 Will the new chief of staff change the direction of immigration policy?\n\n📖 Read more: https://thehill.com/newsletters/morning-report/6207425-stephen-miller-era-white-house-congress-returns-midterms/\n\n#USPolitics #WhiteHouse #Immigration #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 159,
+   "tg_file_id": "AgACAgUAAxkDAAOfavG891AAAcUv49BSiFJh-x4LAWa8AAJoFmsb_w-RV1uqMJ1holSiAQADAgADdwADPQQ"
+  },
+  "4117d50a81": {
+   "id": "4117d50a81",
+   "headline": "Krakow shooting suspect dies in hospital following attacks",
+   "summary": "Police report that the man suspected of killing at least six people in Krakow and three family members has died in the hospital. Six people died in the shooting and three bodies were found at the suspect's home.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Suspect died in hospital after Krakow shootings",
+    "Six people killed in the shooting",
+    "Three family members found dead at home"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Krakow",
+    "#Poland",
+    "#WorldNews"
+   ],
+   "sources": [
+    "BBC",
+    "Washington Post"
+   ],
+   "link": "https://www.washingtonpost.com/world/2026/11/09/krakow-shooting-suspect-dies-hospital-police-say/",
+   "links": [
+    [
+     "Washington Post",
+     "https://www.washingtonpost.com/world/2026/11/09/krakow-shooting-suspect-dies-hospital-police-say/"
+    ],
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Krakow, Poland"
+   },
+   "img_post": {
+    "headline": "Krakow shooting suspect dies in hospital following attacks",
+    "people": [],
+    "image_query": "Krakow city street",
+    "image_queries": [
+     "Krakow police station",
+     "Polish hospital building",
+     "Krakow architecture",
+     "emergency vehicles Poland"
+    ],
+    "image_style": "incident",
+    "location": "Krakow, Poland"
+   },
+   "created_at": "2026-11-09T12:30:49.071212+00:00",
+   "news_time": "2026-11-09T11:56:25+00:00",
+   "news_latest": "2026-11-09T12:15:00+00:00",
+   "caption": "🚨 BREAKING: Krakow shooting suspect dies in hospital following attacks\n\nPolice report that the man suspected of killing at least six people in Krakow and three family members has died in the hospital. Six people died in the shooting and three bodies were found at the suspect's home.\n\nWhat we know so far:\n• Suspect died in hospital after Krakow shootings\n• Six people killed in the shooting\n• Three family members found dead at home\n\n📖 Read more: https://www.washingtonpost.com/world/2026/11/09/krakow-shooting-suspect-dies-hospital-police-say/\n\n#Krakow #Poland #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 160,
+   "tg_file_id": "AgACAgUAAxkDAAOgavG8-u7aeUdMJn3soGSik_2Dg3cAAmkWaxv_D5FXILQWgYssE7kBAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -5260,7 +5388,11 @@
   "https://www.euronews.com/2026/11/09/storm-killed-five-in-gaza-as-sandstone-slab-collapsed-onto-tents",
   "https://thehill.com/homenews/senate/6206790-senate-gop-blames-trump-losses/",
   "https://thehill.com/policy/technology/6205126-texas-election-blue-wave-impact/",
-  "https://www.washingtonexaminer.com/news/house/4795928/house-republicans-return-limited-time-left-in-power/"
+  "https://www.washingtonexaminer.com/news/house/4795928/house-republicans-return-limited-time-left-in-power/",
+  "https://thehill.com/newsletters/morning-report/6207425-stephen-miller-era-white-house-congress-returns-midterms/",
+  "https://www.newsweek.com/what-stephen-miller-has-said-about-immigration-trump-admits-mistake-12685726",
+  "https://www.washingtonpost.com/world/2026/11/09/krakow-shooting-suspect-dies-hospital-police-say/",
+  "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss"
  ],
  "recent_topics": [
   [
@@ -6671,19 +6803,50 @@
     "trump"
    ],
    "c28eab1894"
+  ],
+  [
+   "2026-11-09T12:30:47.969758+00:00",
+   [
+    "admit",
+    "backhand",
+    "begin",
+    "berni",
+    "compliment",
+    "era",
+    "get",
+    "hous",
+    "immigration",
+    "miller",
+    "mistak",
+    "sander",
+    "stephen",
+    "trump",
+    "viciou",
+    "whit"
+   ],
+   "bb11b4cdb5"
+  ],
+  [
+   "2026-11-09T12:30:50.744165+00:00",
+   [
+    "die",
+    "died",
+    "hospital",
+    "krakow",
+    "polic",
+    "shoot",
+    "suspect"
+   ],
+   "4117d50a81"
   ]
  ],
- "last_draft_at": "2026-11-09T12:15:24.832999+00:00",
+ "last_draft_at": "2026-11-09T12:30:24.732141+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T11:45:21.237596+00:00",
  "run_log": [
-  "11-09 10:00:28 run start",
-  "11-09 10:00:48 listening 11 min",
-  "11-09 10:12:07 listening done",
-  "11-09 10:12:07 run end after 698 s",
   "11-09 10:15:21 run start",
   "11-09 10:15:40 listening 11 min",
   "11-09 10:26:58 listening done",
@@ -6719,7 +6882,11 @@
   "11-09 12:15:24 run start",
   "11-09 12:15:35 listening 11 min",
   "11-09 12:27:03 listening done",
-  "11-09 12:27:03 run end after 699 s"
+  "11-09 12:27:03 run end after 699 s",
+  "11-09 12:30:24 run start",
+  "11-09 12:30:50 listening 11 min",
+  "11-09 12:42:09 listening done",
+  "11-09 12:42:09 run end after 705 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
@@ -6759,7 +6926,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Sheikh_Lotfollah_Mosque%2C_Isfahan%2CIran.jpg/1920px-Sheikh_Lotfollah_Mosque%2C_Isfahan%2CIran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Donald_Trump_RNC_July_2016.jpg/1280px-Donald_Trump_RNC_July_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg/1920px-High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Library_of_Congress_%2897917%29.jpg/1920px-Library_of_Congress_%2897917%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Library_of_Congress_%2897917%29.jpg/1920px-Library_of_Congress_%2897917%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Stephen_Miller_%2854360305622%29_%28cropped%29%28c%29.jpg/1280px-Stephen_Miller_%2854360305622%29_%28cropped%29%28c%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
