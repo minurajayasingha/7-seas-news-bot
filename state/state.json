@@ -4209,7 +4209,9 @@
   "https://www.washingtonpost.com/politics/2026/11/08/democrats-will-take-aim-medicaid-cuts-iran-war-tariffs-jeffries-says/",
   "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
   "https://www.foxnews.com/politics/joe-biden-says-cancer-slowed-him-down-limiting-memoir-promotion-tour",
-  "https://www.washingtonpost.com/politics/2026/11/08/biden-says-cancer-fight-means-he-will-scale-back-book-promotion-tour/"
+  "https://www.washingtonpost.com/politics/2026/11/08/biden-says-cancer-fight-means-he-will-scale-back-book-promotion-tour/",
+  "https://kyivindependent.com/power-to-zaporizhzhia-nuclear-power-plant-cut-restored-iaea-says/",
+  "https://thehill.com/policy/international/6206805-ukraine-nuclear-safety-threatened/"
  ],
  "recent_topics": [
   [
@@ -5353,16 +5355,13 @@
    "9f3d3eb8fc"
   ]
  ],
- "last_draft_at": "2026-11-09T01:00:26.836467+00:00",
+ "last_draft_at": "2026-11-09T01:15:19.837254+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T00:35:26.587920+00:00",
  "run_log": [
-  "11-08 23:00:31 run start",
-  "11-08 23:00:46 listening 11 min",
-  "11-08 23:12:06 listening done",
   "11-08 23:12:06 run end after 694 s",
   "11-08 23:15:23 run start",
   "11-08 23:15:33 listening 11 min",
@@ -5399,7 +5398,10 @@
   "11-09 01:00:26 run start",
   "11-09 01:02:09 listening 10 min",
   "11-09 01:12:11 listening done",
-  "11-09 01:12:11 run end after 705 s"
+  "11-09 01:12:11 run end after 705 s",
+  "11-09 01:15:19 run start",
+  "11-09 01:16:33 run error: ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60)",
+  "11-09 01:16:34 run end after 74 s"
  ],
  "day_pack_done": "2026-11-07",
  "photo_memory": {
@@ -5423,7 +5425,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_12.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Bernie_Sanders_%2825973827305%29.jpg/1280px-Bernie_Sanders_%2825973827305%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Naqsh-e_Jahan_Square_from_the_gheisariye_Vault.jpg/1920px-Naqsh-e_Jahan_Square_from_the_gheisariye_Vault.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Power_lines_during_Blue_Hour_BW.jpg/1920px-Power_lines_during_Blue_Hour_BW.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -6034,7 +6037,8 @@
    "damascus streets",
    "senate chamber, united states capitol",
    "us capitol dome",
-   "naqsh-e jahan square"
+   "naqsh-e jahan square",
+   "power lines"
   ]
  }
 }
