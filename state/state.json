@@ -9080,6 +9080,71 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_story_id": "1470024288437291"
+  },
+  "3770cba8ab": {
+   "id": "3770cba8ab",
+   "headline": "Nvidia CEO Jensen Huang investigated over affair with alleged Chinese spy",
+   "summary": "Nvidia CEO Jensen Huang is facing an investigation by his own company regarding an extramarital affair. The situation highlights a broader ecosystem of companies smuggling AI chips into China.",
+   "label": "WORLD",
+   "hook": "Will this investigation impact Nvidia's operations and chip exports?",
+   "key_points": [
+    "Jensen Huang faces a company investigation.",
+    "The woman is alleged to be a Chinese spy.",
+    "The case highlights AI chip smuggling into China."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Nvidia",
+    "#TechNews",
+    "#China"
+   ],
+   "sources": [
+    "BBC",
+    "New York Times"
+   ],
+   "link": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
+   "links": [
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html"
+    ],
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/1280px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Anderseidesvik / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Nvidia CEO Jensen Huang investigated over affair with alleged Chinese spy",
+    "people": [
+     "Jensen Huang"
+    ],
+    "image_query": "Silicon Valley tech headquarters",
+    "image_queries": [
+     "microchip manufacturing plant",
+     "corporate office building",
+     "computer processor chips",
+     "server room facility"
+    ],
+    "image_style": "person",
+    "location": "US"
+   },
+   "created_at": "2026-11-09T22:30:39.052436+00:00",
+   "news_time": "2026-11-09T21:52:28+00:00",
+   "news_latest": "2026-11-09T22:05:19+00:00",
+   "caption": "Nvidia CEO Jensen Huang investigated over affair with alleged Chinese spy\n\nNvidia CEO Jensen Huang is facing an investigation by his own company regarding an extramarital affair. The situation highlights a broader ecosystem of companies smuggling AI chips into China.\n\n💬 Will this investigation impact Nvidia's operations and chip exports?\n\n📖 Read more: https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html\n\n#Nvidia #TechNews #China #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 231,
+   "tg_file_id": "AgACAgUAAxkDAAPnavJJkhr_bgZRGR3Y_VnzX1T5PJ4AAi0WaxuLT5BX-z3_L6bSefIBAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -9387,7 +9452,9 @@
   "https://thehill.com/regulation/court-battles/6209007-sullivan-campaign-intervenes-peltola-lawsuit/",
   "https://www.foxnews.com/politics/alaska-senate-fight-heats-sullivan-moves-block-peltola-lawsuit-rejected-absentee-ballot-records",
   "https://www.independent.co.uk/news/world/americas/crime/cruise-ship-death-fbi-texas-b3082045.html",
-  "https://www.nbcnews.com/news/us-news/fbi-investigating-possible-homicide-cruise-ship-left-texas-rcna608423"
+  "https://www.nbcnews.com/news/us-news/fbi-investigating-possible-homicide-cruise-ship-left-texas-rcna608423",
+  "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
+  "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss"
  ],
  "recent_topics": [
   [
@@ -11786,19 +11853,30 @@
     "texa"
    ],
    "5bb6a3928e"
+  ],
+  [
+   "2026-11-09T22:30:42.463101+00:00",
+   [
+    "across",
+    "affair",
+    "beyond",
+    "caus",
+    "ceo",
+    "kleinman",
+    "nvidia",
+    "rippl",
+    "zoe"
+   ],
+   "3770cba8ab"
   ]
  ],
- "last_draft_at": "2026-11-09T22:15:20.476458+00:00",
+ "last_draft_at": "2026-11-09T22:30:27.713954+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T21:45:21.274261+00:00",
  "run_log": [
-  "11-09 20:00:29 run start",
-  "11-09 20:00:40 listening 11 min",
-  "11-09 20:11:59 listening done",
-  "11-09 20:11:59 run end after 689 s",
   "11-09 20:15:19 run start",
   "11-09 20:15:35 listening 11 min",
   "11-09 20:26:53 listening done",
@@ -11834,12 +11912,15 @@
   "11-09 22:15:20 run start",
   "11-09 22:15:30 listening 11 min",
   "11-09 22:27:04 listening done",
-  "11-09 22:27:04 run end after 704 s"
+  "11-09 22:27:04 run end after 704 s",
+  "11-09 22:30:27 run start",
+  "11-09 22:30:42 listening 11 min",
+  "11-09 22:42:02 listening done",
+  "11-09 22:42:02 run end after 695 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/5/59/Jensen_Huang_%28cropped%29_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Vote_Here_-_Election_Polling_Place_%2850565230221%29.jpg/1920px-Vote_Here_-_Election_Polling_Place_%2850565230221%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Plaque_Rue_Teddy_Riner_-_Asni%C3%A8res-sur-Seine_%28FR92%29_-_2024-04-01_-_2.jpg/1280px-Plaque_Rue_Teddy_Riner_-_Asni%C3%A8res-sur-Seine_%28FR92%29_-_2024-04-01_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -11878,7 +11959,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Capitol_Hill_as_seen_from_9th_and_Pine_looking_east_towards_Bellevue%2C_WA.jpg/1920px-Capitol_Hill_as_seen_from_9th_and_Pine_looking_east_towards_Bellevue%2C_WA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/United_States_Treasury_building_2023.jpg/1920px-United_States_Treasury_building_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Senator_Dan_Sullivan_official_%28cropped%29.jpg/1280px-Senator_Dan_Sullivan_official_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Rep._Mary_Peltola_headshot_%28cropped%29.jpg/1280px-Rep._Mary_Peltola_headshot_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Rep._Mary_Peltola_headshot_%28cropped%29.jpg/1280px-Rep._Mary_Peltola_headshot_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/1280px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
