@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892747,
+ "tg_offset": 495892757,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -5141,9 +5141,20 @@
    "news_time": "2026-11-09T10:57:05+00:00",
    "news_latest": "2026-11-09T12:15:25+00:00",
    "caption": "Stephen Miller takes over as President Trump's chief of staff\n\nHard-liner Stephen Miller is taking over as President Trump's chief of staff in the White House. Meanwhile, Trump stated that his immigration crackdown was too tough.\n\n💬 Will the new chief of staff change the direction of immigration policy?\n\n📖 Read more: https://thehill.com/newsletters/morning-report/6207425-stephen-miller-era-white-house-congress-returns-midterms/\n\n#USPolitics #WhiteHouse #Immigration #7SeasNews",
-   "status": "pending",
+   "status": "posted",
    "tg_message_id": 159,
-   "tg_file_id": "AgACAgUAAxkDAAOfavG891AAAcUv49BSiFJh-x4LAWa8AAJoFmsb_w-RV1uqMJ1holSiAQADAgADdwADPQQ"
+   "tg_file_id": "AgACAgUAAxkDAAOfavG891AAAcUv49BSiFJh-x4LAWa8AAJoFmsb_w-RV1uqMJ1holSiAQADAgADdwADPQQ",
+   "queued_at": "2026-11-09T13:15:24.628237+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122096693127548584",
+   "posted_at": "2026-11-09T13:15:24.977391+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 09 · 8:15 AM New York · 6:45 PM Sri Lanka\n\n<b>Stephen Miller takes over as President Trump&#x27;s chief of staff</b>\n<i>Newsweek, The Hill</i>\n🟡 <b>Latest:</b> 5:45 PM Sri Lanka (1h ago) · first reported 4:27 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096693127548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 54,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "1441629087435959"
   },
   "4117d50a81": {
    "id": "4117d50a81",
@@ -5199,9 +5210,11 @@
    "news_time": "2026-11-09T11:56:25+00:00",
    "news_latest": "2026-11-09T12:15:00+00:00",
    "caption": "🚨 BREAKING: Krakow shooting suspect dies in hospital following attacks\n\nPolice report that the man suspected of killing at least six people in Krakow and three family members has died in the hospital. Six people died in the shooting and three bodies were found at the suspect's home.\n\nWhat we know so far:\n• Suspect died in hospital after Krakow shootings\n• Six people killed in the shooting\n• Three family members found dead at home\n\n📖 Read more: https://www.washingtonpost.com/world/2026/11/09/krakow-shooting-suspect-dies-hospital-police-say/\n\n#Krakow #Poland #WorldNews #7SeasNews",
-   "status": "pending",
+   "status": "replaced",
    "tg_message_id": 160,
-   "tg_file_id": "AgACAgUAAxkDAAOgavG8-u7aeUdMJn3soGSik_2Dg3cAAmkWaxv_D5FXILQWgYssE7kBAAMCAAN3AAM9BA"
+   "tg_file_id": "AgACAgUAAxkDAAOgavG8-u7aeUdMJn3soGSik_2Dg3cAAmkWaxv_D5FXILQWgYssE7kBAAMCAAN3AAM9BA",
+   "extra_msgs": [],
+   "cleared": true
   },
   "9ffb428fa2": {
    "id": "9ffb428fa2",
@@ -5257,9 +5270,233 @@
    "news_time": "2026-11-09T11:29:34+00:00",
    "news_latest": "2026-11-09T11:38:31+00:00",
    "caption": "Migrant boat disaster off Crete: rescue operations underway\n\nMultiple migrants have died following a boat incident off the coast of Crete. The Greek coast guard responded to the vessel in difficulty during a storm.\n\n📖 Read more: https://www.independent.co.uk/news/world/europe/greece-crete-migrant-boat-deaths-b3081480.html\n\n#WorldNews #Crete #Migration #7SeasNews",
-   "status": "pending",
+   "status": "replaced",
    "tg_message_id": 161,
-   "tg_file_id": "AgACAgUAAxkDAAOhavHAf8QwB189Dt6j_LlUH3eMdVYAAm8Waxv_D5FX4U-yu1qs2P0BAAMCAAN3AAM9BA"
+   "tg_file_id": "AgACAgUAAxkDAAOhavHAf8QwB189Dt6j_LlUH3eMdVYAAm8Waxv_D5FX4U-yu1qs2P0BAAMCAAN3AAM9BA",
+   "extra_msgs": [],
+   "cleared": true
+  },
+  "e931fdf8cb": {
+   "id": "e931fdf8cb",
+   "headline": "Democrats debate congressional strategy following the recent election victory",
+   "summary": "Following an election victory, Democrats face internal debate over congressional priorities. Establishment figures push for a focus on kitchen table issues, while others demand investigations into the Trump administration.",
+   "label": "US POLITICS",
+   "hook": "Should the new Congress prioritize daily financial struggles or investigations into the Trump administration?",
+   "key_points": [
+    "Democrats won an overwhelming victory in the recent election.",
+    "Establishment figures demand a focus on kitchen table issues.",
+    "Others insist on holding the Trump administration accountable."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Democrats",
+    "#Congress"
+   ],
+   "sources": [
+    "The Guardian",
+    "The Hill"
+   ],
+   "link": "https://thehill.com/opinion/campaign/6205107-rebuilding-democracy-after-midterms/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/opinion/campaign/6205107-rebuilding-democracy-after-midterms/"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/commentisfree/2026/nov/09/democrats-trump-congress"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Iowa_City%2C_IA_-_Early_Voting_Automobile_Queue_October_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Alan Light / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Democrats debate congressional strategy following the recent election victory",
+    "people": [],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "House of Representatives chamber",
+     "voting booth"
+    ],
+    "image_style": "scene",
+    "location": "US"
+   },
+   "created_at": "2026-11-09T13:16:40.334911+00:00",
+   "news_time": "2026-11-09T11:00:07+00:00",
+   "news_latest": "2026-11-09T13:00:00+00:00",
+   "caption": "Democrats debate congressional strategy following the recent election victory\n\nFollowing an election victory, Democrats face internal debate over congressional priorities. Establishment figures push for a focus on kitchen table issues, while others demand investigations into the Trump administration.\n\n💬 Should the new Congress prioritize daily financial struggles or investigations into the Trump administration?\n\n📖 Read more: https://thehill.com/opinion/campaign/6205107-rebuilding-democracy-after-midterms/\n\n#USPolitics #Democrats #Congress #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 162,
+   "tg_file_id": "AgACAgUAAxkDAAOiavHHuoOqOy8C8M5yGz4LnJau57wAApQWaxv_D5FX1L_o70N30zUBAAMCAAN3AAM9BA",
+   "dup_ok": true,
+   "extra_msgs": [],
+   "queued_at": "2026-11-09T13:21:20.656526+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122096697981548584",
+   "posted_at": "2026-11-09T13:21:20.974201+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 09 · 8:21 AM New York · 6:51 PM Sri Lanka\n\n<b>Democrats debate congressional strategy following the recent election victory</b>\n<i>The Guardian, The Hill</i>\n🟢 <b>Latest:</b> 6:30 PM Sri Lanka (21 min ago) · first reported 4:30 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096697981548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 55,
+   "log_photo": true,
+   "cleared": true,
+   "fb_story_id": "1103075872534458"
+  },
+  "db94abc83c": {
+   "id": "db94abc83c",
+   "headline": "Migrant boat disaster off Crete: rescue operations underway",
+   "summary": "Multiple migrants have died following a boat incident off the coast of Crete. The Greek coast guard responded to the vessel in difficulty during a storm.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Vessel got into difficulty off Crete",
+    "Greek coast guard rescued survivors from the boat",
+    "Several migrants found dead following the incident"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#WorldNews",
+    "#Crete",
+    "#Migration"
+   ],
+   "sources": [
+    "The Independent",
+    "UPI"
+   ],
+   "link": "https://www.independent.co.uk/news/world/europe/greece-crete-migrant-boat-deaths-b3081480.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/europe/greece-crete-migrant-boat-deaths-b3081480.html"
+    ],
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/World-News/2026/11/09/Greece-migrants-found-dead-aboard-boat/7261794216646/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "tg_file_id": "AgACAgUAAxkBAAOkavHJVpEbNr1oPuWiycskD5KzA5sAApcWaxv_D5FXvF6dSTq3T7ABAAMCAAN5AAM9BA",
+      "credit": ""
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Migrant boat disaster off Crete: rescue operations underway",
+    "people": [],
+    "image_query": "Crete coastline",
+    "image_queries": [
+     "Greek coast guard vessel",
+     "Mediterranean sea view",
+     "Island of Crete",
+     "Rescue boat at sea"
+    ],
+    "image_style": "incident",
+    "location": "Crete, Greece"
+   },
+   "created_at": "2026-11-09T13:23:34.792976+00:00",
+   "news_time": "2026-11-09T11:29:34+00:00",
+   "news_latest": "2026-11-09T11:38:31+00:00",
+   "caption": "Migrant boat disaster off Crete: rescue operations underway\n\nMultiple migrants have died following a boat incident off the coast of Crete. The Greek coast guard responded to the vessel in difficulty during a storm.\n\n📖 Read more: https://www.independent.co.uk/news/world/europe/greece-crete-migrant-boat-deaths-b3081480.html\n\n#WorldNews #Crete #Migration #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 165,
+   "tg_file_id": "AgACAgUAAxkDAAOlavHJWipQjVqD5LL6mREZNw7JFU8AApgWaxv_D5FX7RjXpyuNHs0BAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-09T13:23:43.288140+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122096700837548584",
+   "posted_at": "2026-11-09T13:23:43.645225+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 09 · 8:23 AM New York · 6:53 PM Sri Lanka\n\n<b>Migrant boat disaster off Crete: rescue operations underway</b>\n<i>The Independent, UPI</i>\n🟡 <b>Latest:</b> 5:08 PM Sri Lanka (1h 45m ago) · first reported 4:59 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096700837548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 56,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "1134016638986344"
+  },
+  "0948e05c3e": {
+   "id": "0948e05c3e",
+   "headline": "Krakow shooting suspect dies in hospital following attacks",
+   "summary": "Police report that the man suspected of killing at least six people in Krakow and three family members has died in the hospital. Six people died in the shooting and three bodies were found at the suspect's home.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Suspect died in hospital after Krakow shootings",
+    "Six people killed in the shooting",
+    "Three family members found dead at home"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Krakow",
+    "#Poland",
+    "#WorldNews"
+   ],
+   "sources": [
+    "BBC",
+    "Washington Post"
+   ],
+   "link": "https://www.washingtonpost.com/world/2026/11/09/krakow-shooting-suspect-dies-hospital-police-say/",
+   "links": [
+    [
+     "Washington Post",
+     "https://www.washingtonpost.com/world/2026/11/09/krakow-shooting-suspect-dies-hospital-police-say/"
+    ],
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "tg_file_id": "AgACAgUAAxkBAAOmavHJyNCxTz9D7Rd2wyOUZwRqn_sAAp4Waxv_D5FXu1eeeNQlntABAAMCAAN5AAM9BA",
+      "credit": ""
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Krakow shooting suspect dies in hospital following attacks",
+    "people": [],
+    "image_query": "Krakow city street",
+    "image_queries": [
+     "Krakow police station",
+     "Polish hospital building",
+     "Krakow architecture",
+     "emergency vehicles Poland"
+    ],
+    "image_style": "incident",
+    "location": "Krakow, Poland"
+   },
+   "created_at": "2026-11-09T13:25:28.769313+00:00",
+   "news_time": "2026-11-09T11:56:25+00:00",
+   "news_latest": "2026-11-09T12:15:00+00:00",
+   "caption": "🚨 BREAKING: Krakow shooting suspect dies in hospital following attacks\n\nPolice report that the man suspected of killing at least six people in Krakow and three family members has died in the hospital. Six people died in the shooting and three bodies were found at the suspect's home.\n\nWhat we know so far:\n• Suspect died in hospital after Krakow shootings\n• Six people killed in the shooting\n• Three family members found dead at home\n\n📖 Read more: https://www.washingtonpost.com/world/2026/11/09/krakow-shooting-suspect-dies-hospital-police-say/\n\n#Krakow #Poland #WorldNews #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 167,
+   "tg_file_id": "AgACAgUAAxkDAAOnavHJzaOJsglEeLGTgvDo8QhxNZ0AAp8Waxv_D5FXziCTiSW49xIBAAMCAAN3AAM9BA",
+   "dup_ok": true,
+   "extra_msgs": [],
+   "queued_at": "2026-11-09T13:25:39.702245+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122096701959548584",
+   "posted_at": "2026-11-09T13:25:40.021924+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 09 · 8:25 AM New York · 6:55 PM Sri Lanka\n\n<b>Krakow shooting suspect dies in hospital following attacks</b>\n<i>BBC, Washington Post</i>\n🟡 <b>Latest:</b> 5:45 PM Sri Lanka (1h 10m ago) · first reported 5:26 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096701959548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 57,
+   "log_photo": true,
+   "cleared": true,
+   "fb_story_id": "1601275467976783"
   }
  },
  "seen_links": [
@@ -5452,7 +5689,9 @@
   "https://www.washingtonpost.com/world/2026/11/09/krakow-shooting-suspect-dies-hospital-police-say/",
   "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
   "https://www.independent.co.uk/news/world/europe/greece-crete-migrant-boat-deaths-b3081480.html",
-  "https://www.upi.com/Top_News/World-News/2026/11/09/Greece-migrants-found-dead-aboard-boat/7261794216646/"
+  "https://www.upi.com/Top_News/World-News/2026/11/09/Greece-migrants-found-dead-aboard-boat/7261794216646/",
+  "https://thehill.com/opinion/campaign/6205107-rebuilding-democracy-after-midterms/",
+  "https://www.theguardian.com/commentisfree/2026/nov/09/democrats-trump-congress"
  ],
  "recent_topics": [
   [
@@ -6917,19 +7156,32 @@
     "sudanes"
    ],
    "9ffb428fa2"
+  ],
+  [
+   "2026-11-09T13:16:42.921533+00:00",
+   [
+    "accountabl",
+    "cant",
+    "deliver",
+    "democrat",
+    "hold",
+    "investigat",
+    "jan-werner",
+    "mov",
+    "muller",
+    "must",
+    "trump"
+   ],
+   "e931fdf8cb"
   ]
  ],
- "last_draft_at": "2026-11-09T13:00:29.910617+00:00",
+ "last_draft_at": "2026-11-09T13:16:27.185599+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T12:45:22.780978+00:00",
  "run_log": [
-  "11-09 10:45:35 listening 11 min",
-  "11-09 10:56:54 listening done",
-  "11-09 10:56:54 run end after 694 s",
-  "11-09 11:00:34 run start",
   "11-09 11:00:50 listening 11 min",
   "11-09 11:12:12 listening done",
   "11-09 11:12:12 run end after 697 s",
@@ -6965,7 +7217,11 @@
   "11-09 13:00:29 run start",
   "11-09 13:00:40 listening 11 min",
   "11-09 13:11:59 listening done",
-  "11-09 13:11:59 run end after 690 s"
+  "11-09 13:11:59 run end after 690 s",
+  "11-09 13:15:23 run start",
+  "11-09 13:16:42 listening 10 min",
+  "11-09 13:26:54 listening done",
+  "11-09 13:26:54 run end after 690 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
@@ -7007,7 +7263,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg/1920px-High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Library_of_Congress_%2897917%29.jpg/1920px-Library_of_Congress_%2897917%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Stephen_Miller_%2854360305622%29_%28cropped%29%28c%29.jpg/1280px-Stephen_Miller_%2854360305622%29_%28cropped%29%28c%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/5/5c/Iowa_City%2C_IA_-_Early_Voting_Automobile_Queue_October_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   ],
   "pools": {
    "donald trump": {
@@ -7995,7 +8252,8 @@
    "buenos aires skyline",
    "isfahan",
    "capitol hill",
-   "library of congress"
+   "library of congress",
+   "early voting, united states"
   ]
  }
 }
