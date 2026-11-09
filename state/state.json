@@ -4984,6 +4984,73 @@
    "status": "pending",
    "tg_message_id": 156,
    "tg_file_id": "AgACAgUAAxkDAAOcavGn4liWcAtLRDl_itjwGoz1cBgAAiAWaxv_D5FXm--iuNwgMJ8BAAMCAAN3AAM9BA"
+  },
+  "c28eab1894": {
+   "id": "c28eab1894",
+   "headline": "Senate Republicans blame Donald Trump following big congressional election losses",
+   "summary": "Senate Republicans returning to the Capitol are angry with President Trump over major losses in House and Senate races. Meanwhile, House Republicans return with limited time left in power before Democrats take control.",
+   "label": "ELECTIONS",
+   "hook": "Will Senate Republicans pivot away from President Trump ahead of the 2028 presidential election?",
+   "key_points": [
+    "Senate Republicans blame Donald Trump for recent election losses.",
+    "House Republicans return to the Capitol with limited time left.",
+    "Musk spent over $442 million boosting Republicans in the midterms."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Congress",
+    "#Elections"
+   ],
+   "sources": [
+    "The Hill",
+    "Washington Examiner"
+   ],
+   "link": "https://thehill.com/homenews/senate/6206790-senate-gop-blames-trump-losses/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/homenews/senate/6206790-senate-gop-blames-trump-losses/"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/policy/technology/6205126-texas-election-blue-wave-impact/"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/house/4795928/house-republicans-return-limited-time-left-in-power/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Library_of_Congress_%2897917%29.jpg/1920px-Library_of_Congress_%2897917%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Rhododendrites / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Senate Republicans blame Donald Trump following big congressional election losses",
+    "people": [],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "House of Representatives chamber",
+     "US Capitol dome"
+    ],
+    "image_style": "scene",
+    "location": "Washington, US"
+   },
+   "created_at": "2026-11-09T11:30:36.315697+00:00",
+   "news_time": "2026-11-09T11:00:00+00:00",
+   "news_latest": "2026-11-09T11:01:41+00:00",
+   "caption": "Senate Republicans blame Donald Trump following big congressional election losses\n\nSenate Republicans returning to the Capitol are angry with President Trump over major losses in House and Senate races. Meanwhile, House Republicans return with limited time left in power before Democrats take control.\n\n💬 Will Senate Republicans pivot away from President Trump ahead of the 2028 presidential election?\n\n📖 Read more: https://thehill.com/homenews/senate/6206790-senate-gop-blames-trump-losses/\n\n#USPolitics #Congress #Elections #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 157,
+   "tg_file_id": "AgACAgUAAxkDAAOdavGu3hrLEnZlZ929hEbY-Kni1IYAAj0Waxv_D5FXvV8DKECIOjgBAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -5167,7 +5234,10 @@
   "https://www.nytimes.com/2026/11/09/us/politics/congress-republicans-agenda-lame-duck-session.html",
   "https://www.washingtonpost.com/politics/2026/11/09/republicans-have-one-last-shot-pass-their-agenda-after-losing-congress/",
   "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss",
-  "https://www.euronews.com/2026/11/09/storm-killed-five-in-gaza-as-sandstone-slab-collapsed-onto-tents"
+  "https://www.euronews.com/2026/11/09/storm-killed-five-in-gaza-as-sandstone-slab-collapsed-onto-tents",
+  "https://thehill.com/homenews/senate/6206790-senate-gop-blames-trump-losses/",
+  "https://thehill.com/policy/technology/6205126-texas-election-blue-wave-impact/",
+  "https://www.washingtonexaminer.com/news/house/4795928/house-republicans-return-limited-time-left-in-power/"
  ],
  "recent_topics": [
   [
@@ -6553,19 +6623,40 @@
     "tent"
    ],
    "408a5794c8"
+  ],
+  [
+   "2026-11-09T11:30:39.007651+00:00",
+   [
+    "big",
+    "capitol",
+    "furiou",
+    "hill",
+    "hous",
+    "left",
+    "limit",
+    "littl",
+    "loss",
+    "midterm",
+    "musk",
+    "power",
+    "republican",
+    "return",
+    "senat",
+    "show",
+    "spent",
+    "tim",
+    "trump"
+   ],
+   "c28eab1894"
   ]
  ],
- "last_draft_at": "2026-11-09T11:15:21.827283+00:00",
+ "last_draft_at": "2026-11-09T11:30:24.366653+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T10:45:20.580782+00:00",
  "run_log": [
-  "11-09 09:00:29 run start",
-  "11-09 09:00:43 listening 11 min",
-  "11-09 09:12:00 listening done",
-  "11-09 09:12:00 run end after 691 s",
   "11-09 09:15:25 run start",
   "11-09 09:15:48 listening 11 min",
   "11-09 09:27:11 listening done",
@@ -6601,7 +6692,11 @@
   "11-09 11:15:21 run start",
   "11-09 11:15:31 listening 11 min",
   "11-09 11:26:50 listening done",
-  "11-09 11:26:50 run end after 689 s"
+  "11-09 11:26:50 run end after 689 s",
+  "11-09 11:30:23 run start",
+  "11-09 11:30:39 listening 11 min",
+  "11-09 11:41:57 listening done",
+  "11-09 11:41:57 run end after 693 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
@@ -6640,7 +6735,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Official_portrait_of_Secretary_Marco_Rubio_%28cropped%29%282%29.jpg/1280px-Official_portrait_of_Secretary_Marco_Rubio_%28cropped%29%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Sheikh_Lotfollah_Mosque%2C_Isfahan%2CIran.jpg/1920px-Sheikh_Lotfollah_Mosque%2C_Isfahan%2CIran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Donald_Trump_RNC_July_2016.jpg/1280px-Donald_Trump_RNC_July_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg/1920px-High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg/1920px-High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Library_of_Congress_%2897917%29.jpg/1920px-Library_of_Congress_%2897917%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -7627,7 +7723,8 @@
    "power lines",
    "buenos aires skyline",
    "isfahan",
-   "capitol hill"
+   "capitol hill",
+   "library of congress"
   ]
  }
 }
