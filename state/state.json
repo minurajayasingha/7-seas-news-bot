@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892739,
+ "tg_offset": 495892740,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -4787,6 +4787,71 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_story_id": "1114981011173919"
+  },
+  "2c56e4d3cd": {
+   "id": "2c56e4d3cd",
+   "headline": "Trump plans meetings with Putin and Xi in China",
+   "summary": "US President Donald Trump announced plans to meet with Vladimir Putin and Xi Jinping in China next week. They plan to discuss denuclearisation and ending the Iran war, alongside a new Qatari-backed proposal being examined by Washington.",
+   "label": "DIPLOMACY",
+   "hook": "Can these planned discussions in China help end the Iran war?",
+   "key_points": [
+    "Trump plans to meet Putin and Xi in China.",
+    "Topics include denuclearisation and ending the Iran war.",
+    "Washington is examining a two-day proposal from Iran and Qatar."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#WorldNews",
+    "#USChina",
+    "#Diplomacy"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "Euronews"
+   ],
+   "link": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations?traffic_source=rss"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/09/donald-trump-plans-to-meet-vladimir-putin-and-xi-jinping-in-china-to-discuss-ending-iran-w"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Donald_Trump_RNC_July_2016.jpg/1280px-Donald_Trump_RNC_July_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Ali Shaker/VOA / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Trump plans meetings with Putin and Xi in China",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "Beijing cityscape",
+    "image_queries": [
+     "Great Wall of China",
+     "Tiananmen Square",
+     "Chinese capital skyline",
+     "Beijing government building"
+    ],
+    "image_style": "person",
+    "location": "China"
+   },
+   "created_at": "2026-11-09T09:51:07.779867+00:00",
+   "news_time": "2026-11-09T07:08:26+00:00",
+   "news_latest": "2026-11-09T09:27:35+00:00",
+   "caption": "Trump plans meetings with Putin and Xi in China\n\nUS President Donald Trump announced plans to meet with Vladimir Putin and Xi Jinping in China next week. They plan to discuss denuclearisation and ending the Iran war, alongside a new Qatari-backed proposal being examined by Washington.\n\n💬 Can these planned discussions in China help end the Iran war?\n\n📖 Read more: https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations?traffic_source=rss\n\n#WorldNews #USChina #Diplomacy #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 154,
+   "tg_file_id": "AgACAgUAAxkDAAOaavGXkTVQzHhd0CeNrk51s6e6FzEAAggWaxv_D5FXwYEau9nTl88BAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -4964,7 +5029,9 @@
   "https://www.independent.co.uk/news/world/americas/us-politics/marco-rubio-jd-vance-iran-2028-b3081494.html",
   "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss",
   "https://www.independent.co.uk/news/world/americas/trump-deportation-flight-iranian-nationals-b3081508.html",
-  "https://abcnews.com/Politics/wireStory/deportation-flight-iranians-us-scuttled-minute-attorney-137961204"
+  "https://abcnews.com/Politics/wireStory/deportation-flight-iranians-us-scuttled-minute-attorney-137961204",
+  "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations?traffic_source=rss",
+  "https://www.euronews.com/2026/11/09/donald-trump-plans-to-meet-vladimir-putin-and-xi-jinping-in-china-to-discuss-ending-iran-w"
  ],
  "recent_topics": [
   [
@@ -6295,19 +6362,32 @@
     "tarmac"
    ],
    "9f12efc92a"
+  ],
+  [
+   "2026-11-09T09:51:13.790732+00:00",
+   [
+    "china",
+    "donald",
+    "meet",
+    "negotiation",
+    "next",
+    "plan",
+    "president",
+    "putin",
+    "qatar",
+    "trump",
+    "us-iran"
+   ],
+   "2c56e4d3cd"
   ]
  ],
- "last_draft_at": "2026-11-09T09:30:31.725363+00:00",
+ "last_draft_at": "2026-11-09T09:50:56.087543+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-09T08:45:21.462091+00:00",
+ "last_stats_at": "2026-11-09T09:45:19.113075+00:00",
  "run_log": [
-  "11-09 07:17:26 run start",
-  "11-09 07:17:37 listening 11 min",
-  "11-09 07:28:55 listening done",
-  "11-09 07:28:55 run end after 689 s",
   "11-09 07:30:24 run start",
   "11-09 07:30:33 listening 11 min",
   "11-09 07:41:51 listening done",
@@ -6343,7 +6423,11 @@
   "11-09 09:30:31 run start",
   "11-09 09:30:42 listening 11 min",
   "11-09 09:42:02 listening done",
-  "11-09 09:42:02 run end after 691 s"
+  "11-09 09:42:02 run end after 691 s",
+  "11-09 09:45:18 run start",
+  "11-09 09:45:37 listening 11 min",
+  "11-09 09:57:05 listening done",
+  "11-09 09:57:05 run end after 706 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
@@ -6380,7 +6464,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance_%28cropped1%29.jpg/1280px-March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance_%28cropped1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Official_portrait_of_Secretary_Marco_Rubio_%28cropped%29%282%29.jpg/1280px-Official_portrait_of_Secretary_Marco_Rubio_%28cropped%29%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Sheikh_Lotfollah_Mosque%2C_Isfahan%2CIran.jpg/1920px-Sheikh_Lotfollah_Mosque%2C_Isfahan%2CIran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Sheikh_Lotfollah_Mosque%2C_Isfahan%2CIran.jpg/1920px-Sheikh_Lotfollah_Mosque%2C_Isfahan%2CIran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Donald_Trump_RNC_July_2016.jpg/1280px-Donald_Trump_RNC_July_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
