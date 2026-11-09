@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892793,
+ "tg_offset": 495892794,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -7456,13 +7456,12 @@
    "news_time": "2026-11-09T15:24:19+00:00",
    "news_latest": "2026-11-09T16:18:23+00:00",
    "caption": "House faces Pete Hegseth impeachment vote this week\n\nDefense Secretary Pete Hegseth could face an impeachment vote in the House as the chamber returns. Democrats are expected to support the resolution, and some Republicans have indicated they might join them.\n\n💬 Will House Republicans join Democrats to advance the impeachment resolution against Pete Hegseth?\n\n📖 Read more: https://www.cbsnews.com/news/pete-hegseth-impeachment-vote-house-thomas-massie/\n\n#USPolitics #PeteHegseth #Congress #7SeasNews",
-   "status": "pending",
+   "status": "skipped",
    "tg_message_id": 205,
    "tg_file_id": "AgACAgUAAxkDAAPNavIBCtMnaCgsEwjtA8Fcp9v62loAAvMVaxuLT5BXK7lMON3hBwEBAAMCAAN3AAM9BA",
    "dup_ok": true,
-   "extra_msgs": [
-    206
-   ]
+   "extra_msgs": [],
+   "cleared": true
   }
  },
  "seen_links": [
@@ -9666,17 +9665,13 @@
    "a539e96508"
   ]
  ],
- "last_draft_at": "2026-11-09T17:21:00.735414+00:00",
+ "last_draft_at": "2026-11-09T17:32:40.160507+00:00",
  "last_slot": "2026-11-09T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T16:45:58.231195+00:00",
  "run_log": [
-  "11-09 15:15:18 run start",
-  "11-09 15:15:43 listening 11 min",
-  "11-09 15:27:02 listening done",
-  "11-09 15:27:02 run end after 703 s",
   "11-09 15:30:29 run start",
   "11-09 15:30:49 listening 11 min",
   "11-09 15:42:16 listening done",
@@ -9712,7 +9707,11 @@
   "11-09 17:21:00 run start",
   "11-09 17:21:14 listening 11 min",
   "11-09 17:32:29 listening done",
-  "11-09 17:32:29 run end after 688 s"
+  "11-09 17:32:29 run end after 688 s",
+  "11-09 17:32:39 run start",
+  "11-09 17:32:49 listening 11 min",
+  "11-09 17:44:05 listening done",
+  "11-09 17:44:05 run end after 685 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
