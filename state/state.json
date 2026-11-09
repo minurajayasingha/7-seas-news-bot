@@ -5202,6 +5202,64 @@
    "status": "pending",
    "tg_message_id": 160,
    "tg_file_id": "AgACAgUAAxkDAAOgavG8-u7aeUdMJn3soGSik_2Dg3cAAmkWaxv_D5FXILQWgYssE7kBAAMCAAN3AAM9BA"
+  },
+  "9ffb428fa2": {
+   "id": "9ffb428fa2",
+   "headline": "Migrant boat disaster off Crete: rescue operations underway",
+   "summary": "Multiple migrants have died following a boat incident off the coast of Crete. The Greek coast guard responded to the vessel in difficulty during a storm.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Vessel got into difficulty off Crete",
+    "Greek coast guard rescued survivors from the boat",
+    "Several migrants found dead following the incident"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#WorldNews",
+    "#Crete",
+    "#Migration"
+   ],
+   "sources": [
+    "The Independent",
+    "UPI"
+   ],
+   "link": "https://www.independent.co.uk/news/world/europe/greece-crete-migrant-boat-deaths-b3081480.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/europe/greece-crete-migrant-boat-deaths-b3081480.html"
+    ],
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/World-News/2026/11/09/Greece-migrants-found-dead-aboard-boat/7261794216646/"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Crete, Greece"
+   },
+   "img_post": {
+    "headline": "Migrant boat disaster off Crete: rescue operations underway",
+    "people": [],
+    "image_query": "Crete coastline",
+    "image_queries": [
+     "Greek coast guard vessel",
+     "Mediterranean sea view",
+     "Island of Crete",
+     "Rescue boat at sea"
+    ],
+    "image_style": "incident",
+    "location": "Crete, Greece"
+   },
+   "created_at": "2026-11-09T12:45:40.473315+00:00",
+   "news_time": "2026-11-09T11:29:34+00:00",
+   "news_latest": "2026-11-09T11:38:31+00:00",
+   "caption": "Migrant boat disaster off Crete: rescue operations underway\n\nMultiple migrants have died following a boat incident off the coast of Crete. The Greek coast guard responded to the vessel in difficulty during a storm.\n\n📖 Read more: https://www.independent.co.uk/news/world/europe/greece-crete-migrant-boat-deaths-b3081480.html\n\n#WorldNews #Crete #Migration #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 161,
+   "tg_file_id": "AgACAgUAAxkDAAOhavHAf8QwB189Dt6j_LlUH3eMdVYAAm8Waxv_D5FX4U-yu1qs2P0BAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -5392,7 +5450,9 @@
   "https://thehill.com/newsletters/morning-report/6207425-stephen-miller-era-white-house-congress-returns-midterms/",
   "https://www.newsweek.com/what-stephen-miller-has-said-about-immigration-trump-admits-mistake-12685726",
   "https://www.washingtonpost.com/world/2026/11/09/krakow-shooting-suspect-dies-hospital-police-say/",
-  "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+  "https://www.independent.co.uk/news/world/europe/greece-crete-migrant-boat-deaths-b3081480.html",
+  "https://www.upi.com/Top_News/World-News/2026/11/09/Greece-migrants-found-dead-aboard-boat/7261794216646/"
  ],
  "recent_topics": [
   [
@@ -6838,20 +6898,34 @@
     "suspect"
    ],
    "4117d50a81"
+  ],
+  [
+   "2026-11-09T12:45:51.571529+00:00",
+   [
+    "13",
+    "boat",
+    "carry",
+    "cret",
+    "dead",
+    "found",
+    "greek",
+    "island",
+    "migrant",
+    "miss",
+    "near",
+    "peopl",
+    "sudanes"
+   ],
+   "9ffb428fa2"
   ]
  ],
- "last_draft_at": "2026-11-09T12:30:24.732141+00:00",
+ "last_draft_at": "2026-11-09T12:45:28.555591+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-09T11:45:21.237596+00:00",
+ "last_stats_at": "2026-11-09T12:45:22.780978+00:00",
  "run_log": [
-  "11-09 10:15:21 run start",
-  "11-09 10:15:40 listening 11 min",
-  "11-09 10:26:58 listening done",
-  "11-09 10:26:58 run end after 696 s",
-  "11-09 10:30:26 run start",
   "11-09 10:30:37 listening 11 min",
   "11-09 10:41:57 listening done",
   "11-09 10:41:57 run end after 690 s",
@@ -6886,7 +6960,12 @@
   "11-09 12:30:24 run start",
   "11-09 12:30:50 listening 11 min",
   "11-09 12:42:09 listening done",
-  "11-09 12:42:09 run end after 705 s"
+  "11-09 12:42:09 run end after 705 s",
+  "11-09 12:45:22 run start",
+  "11-09 12:45:51 listening 11 min",
+  "11-09 12:56:15 listen error: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60)",
+  "11-09 12:56:50 listening done",
+  "11-09 12:56:50 run end after 688 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
