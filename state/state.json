@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892774,
+ "tg_offset": 495892776,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -6414,6 +6414,83 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_story_id": "1139025785236988"
+  },
+  "fa0755faec": {
+   "id": "fa0755faec",
+   "headline": "Nvidia stock falls after company launches probe into Jensen Huang",
+   "summary": "Shares in Nvidia declined after the company launched an investigation into CEO Jensen Huang regarding a reported affair with a woman believed by US intelligence officials to be a Chinese spy. The stock opened significantly down from the previous close.",
+   "label": "ECONOMY",
+   "hook": "How will this investigation impact Nvidia's market position moving forward?",
+   "key_points": [
+    "Nvidia shares fell following the probe announcement.",
+    "The investigation involves CEO Jensen Huang.",
+    "US intelligence officials believe the woman is a Chinese spy."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Nvidia",
+    "#StockMarket",
+    "#BusinessNews"
+   ],
+   "sources": [
+    "Newsweek",
+    "The Hill"
+   ],
+   "link": "https://thehill.com/policy/technology/6207787-jensen-huang-affair-nvidia-stock-falls/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/policy/technology/6207787-jensen-huang-affair-nvidia-stock-falls/"
+    ],
+    [
+     "Newsweek",
+     "https://www.newsweek.com/nvidia-spy-drama-sparks-stock-market-shock-12686252"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Jensen_Huang_%28cropped%29_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Photographer: Peter Dasilva / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Nvidia stock falls after company launches probe into Jensen Huang",
+    "people": [
+     "Jensen Huang"
+    ],
+    "image_query": "Wall Street stock exchange",
+    "image_queries": [
+     "stock market trading floor",
+     "financial district skyline",
+     "corporate office building",
+     "Nasdaq sign"
+    ],
+    "image_style": "person",
+    "location": "US"
+   },
+   "created_at": "2026-11-09T15:45:39.837689+00:00",
+   "news_time": "2026-11-09T14:41:13+00:00",
+   "news_latest": "2026-11-09T15:21:47+00:00",
+   "caption": "Nvidia stock falls after company launches probe into Jensen Huang\n\nShares in Nvidia declined after the company launched an investigation into CEO Jensen Huang regarding a reported affair with a woman believed by US intelligence officials to be a Chinese spy. The stock opened significantly down from the previous close.\n\n💬 How will this investigation impact Nvidia's market position moving forward?\n\n📖 Read more: https://thehill.com/policy/technology/6207787-jensen-huang-affair-nvidia-stock-falls/\n\n#Nvidia #StockMarket #BusinessNews #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 187,
+   "tg_file_id": "AgACAgUAAxkDAAO7avHqpcZ8QYkTca7lPqONX76VM2IAAu4Waxv_D5FXqY1Qkx_xM9gBAAMCAAN3AAM9BA",
+   "dup_ok": true,
+   "extra_msgs": [],
+   "queued_at": "2026-11-09T15:55:26.079986+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122096793075548584",
+   "posted_at": "2026-11-09T15:55:26.402221+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 09 · 10:55 AM New York · 9:25 PM Sri Lanka\n\n<b>Nvidia stock falls after company launches probe into Jensen Huang</b>\n<i>Newsweek, The Hill</i>\n🟢 <b>Latest:</b> 8:51 PM Sri Lanka (34 min ago) · first reported 8:11 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096793075548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 69,
+   "log_photo": true,
+   "cleared": true,
+   "fb_story_id": "2157126175681218"
   }
  },
  "seen_links": [
@@ -6638,7 +6715,9 @@
   "https://news.sky.com/story/explosion-at-steel-plant-in-turkey-kills-at-least-six-officials-say-13610161",
   "https://www.france24.com/en/iran-sees-golden-opportunity-for-a-sweetheart-deal-after-us-midterms-expert-says",
   "https://www.newsweek.com/trump-middle-east-pay-iran-war-debt-12685563",
-  "https://www.npr.org/2026/11/09/nx-s1-6030858/midterm-results-could-complicate-jd-vances-political-future"
+  "https://www.npr.org/2026/11/09/nx-s1-6030858/midterm-results-could-complicate-jd-vances-political-future",
+  "https://thehill.com/policy/technology/6207787-jensen-huang-affair-nvidia-stock-falls/",
+  "https://www.newsweek.com/nvidia-spy-drama-sparks-stock-market-shock-12686252"
  ],
  "recent_topics": [
   [
@@ -8337,19 +8416,34 @@
     "warhow"
    ],
    "b61202356c"
+  ],
+  [
+   "2026-11-09T15:45:41.852426+00:00",
+   [
+    "company",
+    "drama",
+    "huang",
+    "launch",
+    "market",
+    "nvidia",
+    "prob",
+    "second",
+    "shock",
+    "slid",
+    "spark",
+    "spy",
+    "stock"
+   ],
+   "fa0755faec"
   ]
  ],
- "last_draft_at": "2026-11-09T15:30:29.533101+00:00",
+ "last_draft_at": "2026-11-09T15:45:28.330825+00:00",
  "last_slot": "2026-11-08T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-09T14:45:24.081514+00:00",
+ "last_stats_at": "2026-11-09T15:45:21.723927+00:00",
  "run_log": [
-  "11-09 13:15:23 run start",
-  "11-09 13:16:42 listening 10 min",
-  "11-09 13:26:54 listening done",
-  "11-09 13:26:54 run end after 690 s",
   "11-09 13:30:24 run start",
   "11-09 13:30:42 listening 11 min",
   "11-09 13:42:13 listening done",
@@ -8385,12 +8479,15 @@
   "11-09 15:30:29 run start",
   "11-09 15:30:49 listening 11 min",
   "11-09 15:42:16 listening done",
-  "11-09 15:42:16 run end after 707 s"
+  "11-09 15:42:16 run end after 707 s",
+  "11-09 15:45:21 run start",
+  "11-09 15:45:41 listening 11 min",
+  "11-09 15:56:48 listening done",
+  "11-09 15:56:48 run end after 686 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Damage_in_Gaza_Strip_during_the_October_2023_-_29.jpg/1920px-Damage_in_Gaza_Strip_during_the_October_2023_-_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Damascus%2C_Syria%2C_The_streets_of_central_Damascus.jpg/1920px-Damascus%2C_Syria%2C_The_streets_of_central_Damascus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Door_to_Senate_Chamber_MN_State_Capitol.jpg/1920px-Door_to_Senate_Chamber_MN_State_Capitol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/US_Capitol_dome_Jan_2006.jpg/1920px-US_Capitol_dome_Jan_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -8429,7 +8526,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Hakeem_Jeffries_%2854106030079%29.jpg/1280px-Hakeem_Jeffries_%2854106030079%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Paris_cityscape_May_2009.jpg/1920px-Paris_cityscape_May_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Marco_Rubio_visits_Israel_from_February_15_to_17%2C_2025_-_18.jpg/1280px-Marco_Rubio_visits_Israel_from_February_15_to_17%2C_2025_-_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/5/59/Jensen_Huang_%28cropped%29_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   ],
   "pools": {
    "donald trump": {
