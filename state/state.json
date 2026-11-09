@@ -8444,6 +8444,68 @@
    "status": "pending",
    "tg_message_id": 222,
    "tg_file_id": "AgACAgUAAxkDAAPeavItcR4G337RsN1xOjxT-zojZGoAAhcWaxuLT5BXbtJpAj0Fb_IBAAMCAAN3AAM9BA"
+  },
+  "203585998a": {
+   "id": "203585998a",
+   "headline": "House Democrats push to restore Afghan deportation protections in US",
+   "summary": "Democratic lawmakers plan to bypass Republican leaders and force a vote on Temporary Protected Status for Afghan nationals. Meanwhile, members of Congress outlined priorities for the new term, including affordability, healthcare, and ending the war with Iran.",
+   "label": "US POLITICS",
+   "hook": "Will Congress pass the discharge petition to restore protection for Afghan nationals?",
+   "key_points": [
+    "House Democrats introduced a discharge petition on Temporary Protected Status.",
+    "Lawmakers plan to tackle affordability, healthcare, and Iran policy."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Congress",
+    "#AfghanNationals"
+   ],
+   "sources": [
+    "NBC News",
+    "Newsweek"
+   ],
+   "link": "https://www.newsweek.com/democrats-congress-priorities-after-midterm-wins-12690113",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/democrats-congress-priorities-after-midterm-wins-12690113"
+    ],
+    [
+     "NBC News",
+     "https://www.nbcnews.com/politics/immigration/democrats-afghans-temporary-protected-status-congress-trump-rcna608310"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Library_of_Congress_%2897970%29.jpg/1920px-Library_of_Congress_%2897970%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Rhododendrites / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "House Democrats push to restore Afghan deportation protections in US",
+    "people": [],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "House of Representatives chamber",
+     "Capitol Hill",
+     "Senate chamber",
+     "voting booth"
+    ],
+    "image_style": "scene",
+    "location": "US"
+   },
+   "created_at": "2026-11-09T20:45:46.876095+00:00",
+   "news_time": "2026-11-09T18:30:10+00:00",
+   "news_latest": "2026-11-09T20:43:35+00:00",
+   "caption": "House Democrats push to restore Afghan deportation protections in US\n\nDemocratic lawmakers plan to bypass Republican leaders and force a vote on Temporary Protected Status for Afghan nationals. Meanwhile, members of Congress outlined priorities for the new term, including affordability, healthcare, and ending the war with Iran.\n\n💬 Will Congress pass the discharge petition to restore protection for Afghan nationals?\n\n📖 Read more: https://www.newsweek.com/democrats-congress-priorities-after-midterm-wins-12690113\n\n#USPolitics #Congress #AfghanNationals #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 223,
+   "tg_file_id": "AgACAgUAAxkDAAPfavIw_Q-h7fn3b3VvtU7GZmvan-sAAhgWaxuLT5BXh3fMdAyE5fsBAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -8733,7 +8795,11 @@
   "https://www.cbsnews.com/news/supreme-court-trump-border-wall-big-bend/",
   "https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-border-wall-big-bend-texas-rcna604916",
   "https://thehill.com/homenews/administration/6208834-calley-means-susie-wiles-accusations/",
-  "https://www.theguardian.com/us-news/2026/nov/09/rfk-jr-trump-midterms-maha"
+  "https://www.theguardian.com/us-news/2026/nov/09/rfk-jr-trump-midterms-maha",
+  "https://www.newsweek.com/democrats-congress-priorities-after-midterm-wins-12690113",
+  "https://www.nbcnews.com/politics/immigration/democrats-afghans-temporary-protected-status-congress-trump-rcna608310",
+  "https://www.newsweek.com/trump-administration-expands-federal-effort-to-combat-drone-threats-12688838",
+  "https://www.aljazeera.com/news/2026/11/9/us-agencies-unite-to-combat-rogue-drone-threats-nationwide?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -10962,19 +11028,44 @@
     "wil"
    ],
    "2a77dcace3"
+  ],
+  [
+   "2026-11-09T20:45:49.850100+00:00",
+   [
+    "afghan",
+    "blowout",
+    "chang",
+    "congress",
+    "democratic",
+    "deportation",
+    "gop",
+    "hegseth",
+    "impeachment",
+    "lame-duck",
+    "lawmaker",
+    "loom",
+    "loss",
+    "midterm",
+    "next",
+    "protection",
+    "restor",
+    "return",
+    "seek",
+    "sprint",
+    "teas",
+    "vot",
+    "washington"
+   ],
+   "203585998a"
   ]
  ],
- "last_draft_at": "2026-11-09T20:30:25.124471+00:00",
+ "last_draft_at": "2026-11-09T20:45:34.236692+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-09T19:45:20.240348+00:00",
+ "last_stats_at": "2026-11-09T20:45:22.400250+00:00",
  "run_log": [
-  "11-09 18:00:33 run start",
-  "11-09 18:00:43 listening 11 min",
-  "11-09 18:12:04 listening done",
-  "11-09 18:12:04 run end after 690 s",
   "11-09 18:30:25 run start",
   "11-09 18:30:35 listening 11 min",
   "11-09 18:41:54 listening done",
@@ -11010,12 +11101,15 @@
   "11-09 20:30:24 run start",
   "11-09 20:30:41 listening 11 min",
   "11-09 20:41:59 listening done",
-  "11-09 20:41:59 run end after 695 s"
+  "11-09 20:41:59 run end after 695 s",
+  "11-09 20:45:21 run start",
+  "11-09 20:47:21 listening 10 min",
+  "11-09 20:56:59 listening done",
+  "11-09 20:56:59 run end after 697 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Capitol_Reflecting_Pool_%28September_2023%29_03.jpg/1920px-Capitol_Reflecting_Pool_%28September_2023%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Dave_McCormick_%2855510560606%29.jpg/1280px-Dave_McCormick_%2855510560606%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/The_capitol_at_night.jpg/1920px-The_capitol_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Saint_Sophia_Cathedral_Kiev.jpg/1920px-Saint_Sophia_Cathedral_Kiev.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -11054,7 +11148,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg/1280px-Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Calley_Means_%2854234762230%29.jpg/1280px-Calley_Means_%2854234762230%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/8/86/Susie_Wiles_%28crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://upload.wikimedia.org/wikipedia/commons/5/55/Donald_Trump_by_Gage_Skidmore_4_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/5/55/Donald_Trump_by_Gage_Skidmore_4_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Library_of_Congress_%2897970%29.jpg/1920px-Library_of_Congress_%2897970%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -12529,7 +12624,6 @@
    }
   },
   "recent_ideas": [
-   "senate chamber",
    "house of representatives chamber",
    "pentagon building",
    "election ballot box",
@@ -12540,7 +12634,8 @@
    "early voting, united states",
    "ballot box, united states",
    "capitol at night",
-   "thurgood marshall federal judiciary building"
+   "thurgood marshall federal judiciary building",
+   "library of congress"
   ]
  }
 }
