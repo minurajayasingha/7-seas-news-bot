@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892783,
+ "tg_offset": 495892789,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -6941,9 +6941,237 @@
    "news_time": "2026-11-09T16:42:07+00:00",
    "news_latest": "2026-11-09T16:42:39+00:00",
    "caption": "🚨 BREAKING: France accuses Iran of cyberattack on supermarket fridges\n\nFrench officials stated that Iran's Revolutionary Guards launched a cyber-attack that heated up fridges and freezers across supermarkets in France. The Paris prosecutor's office opened an investigation into an Iranian cyber unit connected to the Guards.\n\nWhat we know so far:\n• Fridges and freezers heated up in hundreds of supermarkets\n• French Foreign Minister accused Iran's Revolutionary Guards\n• Paris prosecutor opened an investigation into the incident\n\n📖 Read more: https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss\n\n#France #Iran #CyberSecurity #7SeasNews",
-   "status": "pending",
+   "status": "replaced",
    "tg_message_id": 194,
-   "tg_file_id": "AgACAgUAAxkDAAPCavH47MSL3Czi9XAVW2BfU0yQYXgAAtQVaxuLT5BXDKa0ZUYe4UgBAAMCAAN3AAM9BA"
+   "tg_file_id": "AgACAgUAAxkDAAPCavH47MSL3Czi9XAVW2BfU0yQYXgAAtQVaxuLT5BXDKa0ZUYe4UgBAAMCAAN3AAM9BA",
+   "extra_msgs": [],
+   "cleared": true
+  },
+  "fdb8046967": {
+   "id": "fdb8046967",
+   "headline": "Trump calls Strait of Hormuz blockade history greatest",
+   "summary": "President Trump described the U.S. naval blockade in the Strait of Hormuz as history's greatest while considering additional strikes. Meanwhile, attacks in the region continue to put crews at risk and increase shipping costs for energy.",
+   "label": "CONFLICT",
+   "hook": "Can U.S. protection keep trade moving through the Strait of Hormuz?",
+   "key_points": [
+    "Task Force Iron Gate operates in the Islamic Republic of Iran.",
+    "Attacks put crews at risk and drive up energy shipping costs.",
+    "US protection limits will shape future trade and prices."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#StraitOfHormuz",
+    "#USPolitics",
+    "#EnergyShipping"
+   ],
+   "sources": [
+    "DW",
+    "The Hill"
+   ],
+   "link": "https://thehill.com/homenews/administration/6208161-trump-strait-hormuz-naval-blockade/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/homenews/administration/6208161-trump-strait-hormuz-naval-blockade/"
+    ],
+    [
+     "DW",
+     "https://www.dw.com/en/strait-of-hormuz-still-a-source-of-leverage-for-iran/a-79901647?maca=en-rss-en-world-4025-rdf"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Shealeah Craighead / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Trump calls Strait of Hormuz blockade history greatest",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "Pentagon building",
+    "image_queries": [
+     "White House",
+     "US Capitol dome",
+     "naval fleet",
+     "ocean shipping lane"
+    ],
+    "image_style": "person",
+    "location": "US"
+   },
+   "created_at": "2026-11-09T16:57:23.249704+00:00",
+   "news_time": "2026-11-09T14:49:00+00:00",
+   "news_latest": "2026-11-09T16:50:11+00:00",
+   "caption": "Trump calls Strait of Hormuz blockade history greatest\n\nPresident Trump described the U.S. naval blockade in the Strait of Hormuz as history's greatest while considering additional strikes. Meanwhile, attacks in the region continue to put crews at risk and increase shipping costs for energy.\n\n💬 Can U.S. protection keep trade moving through the Strait of Hormuz?\n\n📖 Read more: https://thehill.com/homenews/administration/6208161-trump-strait-hormuz-naval-blockade/\n\n#StraitOfHormuz #USPolitics #EnergyShipping #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 196,
+   "tg_file_id": "AgACAgUAAxkDAAPEavH7dQhNNL7XYnq80_YEEq5WwKQAAtcVaxuLT5BXVoxbT2jmGHABAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-09T17:05:19.502143+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122096843493548584",
+   "posted_at": "2026-11-09T17:05:20.764602+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 09 · 12:05 PM New York · 10:35 PM Sri Lanka\n\n<b>Trump calls Strait of Hormuz blockade history greatest</b>\n<i>DW, The Hill</i>\n🟢 <b>Latest:</b> 10:20 PM Sri Lanka (15 min ago) · first reported 8:19 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096843493548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 76,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "1930123924819533"
+  },
+  "db33aa14af": {
+   "id": "db33aa14af",
+   "headline": "Trump questions 2026 election integrity following midterm defeat",
+   "summary": "President Donald Trump questioned the integrity of the 2026 election results after a major midterm defeat for Republicans. Meanwhile, the president prepares to host Qatar's prime minister at the White House.",
+   "label": "US POLITICS",
+   "hook": "Can a new US task force stop the flow of weapons into Iran?",
+   "key_points": [
+    "Trump questions 2026 election integrity.",
+    "Republicans face major midterm defeat.",
+    "Qatar prime minister visits White House."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Elections",
+    "#WhiteHouse"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/news/white-house/4797123/trump-no-one-can-believe-2026-election-was-honest/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/white-house/4797123/trump-no-one-can-believe-2026-election-was-honest/"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Michael Vadon / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Trump questions 2026 election integrity following midterm defeat",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "White House",
+    "image_queries": [
+     "US Capitol building",
+     "Oval Office",
+     "West Wing",
+     "White House exterior"
+    ],
+    "image_style": "person",
+    "location": "Washington, DC, US"
+   },
+   "created_at": "2026-11-09T16:57:26.834858+00:00",
+   "news_time": "2026-11-09T15:31:37+00:00",
+   "news_latest": "2026-11-09T16:35:29+00:00",
+   "caption": "Trump questions 2026 election integrity following midterm defeat\n\nPresident Donald Trump questioned the integrity of the 2026 election results after a major midterm defeat for Republicans. Meanwhile, the president prepares to host Qatar's prime minister at the White House.\n\n💬 Can a new US task force stop the flow of weapons into Iran?\n\n📖 Read more: https://www.washingtonexaminer.com/news/white-house/4797123/trump-no-one-can-believe-2026-election-was-honest/\n\n#USPolitics #Elections #WhiteHouse #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 197,
+   "tg_file_id": "AgACAgUAAxkDAAPFavH7eJZUe2IqTttCJDrwNhn1qYwAAtgVaxuLT5BXTyj4D5yVAW8BAAMCAAN3AAM9BA",
+   "dup_ok": true,
+   "extra_msgs": [],
+   "queued_at": "2026-11-09T17:05:35.064250+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122096843829548584",
+   "posted_at": "2026-11-09T17:05:35.374521+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 09 · 12:05 PM New York · 10:35 PM Sri Lanka\n\n<b>Trump questions 2026 election integrity following midterm defeat</b>\n<i>Al Jazeera, Washington Examiner</i>\n🟢 <b>Latest:</b> 10:05 PM Sri Lanka (30 min ago) · first reported 9:01 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096843829548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 77,
+   "log_photo": true,
+   "cleared": true,
+   "fb_story_id": "1513043584206402"
+  },
+  "dc2a7a33c9": {
+   "id": "dc2a7a33c9",
+   "headline": "France accuses Iran of cyberattack on supermarket fridges",
+   "summary": "French officials stated that Iran's Revolutionary Guards launched a cyber-attack that heated up fridges and freezers across supermarkets in France. The Paris prosecutor's office opened an investigation into an Iranian cyber unit connected to the Guards.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Fridges and freezers heated up in hundreds of supermarkets",
+    "French Foreign Minister accused Iran's Revolutionary Guards",
+    "Paris prosecutor opened an investigation into the incident"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#France",
+    "#Iran",
+    "#CyberSecurity"
+   ],
+   "sources": [
+    "BBC",
+    "France 24"
+   ],
+   "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+   "links": [
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/europe/20261109-iran-revolutionary-guards-behind-cyberattacks-on-supermarket-fridges-says-french-fm-barrot"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "tg_file_id": "AgACAgUAAxkBAAPGavH9Mj8LEJMlRU421Yb_UckODAsAAt4VaxuLT5BXoi8eA4AlK58BAAMCAAN5AAM9BA",
+      "credit": ""
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "France accuses Iran of cyberattack on supermarket fridges",
+    "people": [],
+    "image_query": "Paris cityscape",
+    "image_queries": [
+     "supermarket interior",
+     "refrigerator aisle",
+     "Paris prosecutor office",
+     "French ministry building"
+    ],
+    "image_style": "incident",
+    "location": "France"
+   },
+   "created_at": "2026-11-09T17:04:50.743756+00:00",
+   "news_time": "2026-11-09T16:42:07+00:00",
+   "news_latest": "2026-11-09T16:42:39+00:00",
+   "caption": "🚨 BREAKING: France accuses Iran of cyberattack on supermarket fridges\n\nFrench officials stated that Iran's Revolutionary Guards launched a cyber-attack that heated up fridges and freezers across supermarkets in France. The Paris prosecutor's office opened an investigation into an Iranian cyber unit connected to the Guards.\n\nWhat we know so far:\n• Fridges and freezers heated up in hundreds of supermarkets\n• French Foreign Minister accused Iran's Revolutionary Guards\n• Paris prosecutor opened an investigation into the incident\n\n📖 Read more: https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss\n\n#France #Iran #CyberSecurity #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 199,
+   "tg_file_id": "AgACAgUAAxkDAAPHavH9NqxBgLCetcaq0IZFc8YjVsUAAt8VaxuLT5BXVdUPLMfwmt4BAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-09T17:04:56.640038+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122096842905548584",
+   "posted_at": "2026-11-09T17:04:56.960784+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 09 · 12:05 PM New York · 10:35 PM Sri Lanka\n\n<b>France accuses Iran of cyberattack on supermarket fridges</b>\n<i>BBC, France 24</i>\n🟢 <b>Latest:</b> 10:12 PM Sri Lanka (22 min ago)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096842905548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 75,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "1151082287858354"
   }
  },
  "seen_links": [
@@ -7185,7 +7413,11 @@
   "https://www.bbc.co.uk/news/articles/cwj0llvqqm72o?at_medium=RSS&at_campaign=rss",
   "https://www.cbsnews.com/news/mississippi-senate-race-results-2026-midterms/",
   "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-  "https://www.france24.com/en/europe/20261109-iran-revolutionary-guards-behind-cyberattacks-on-supermarket-fridges-says-french-fm-barrot"
+  "https://www.france24.com/en/europe/20261109-iran-revolutionary-guards-behind-cyberattacks-on-supermarket-fridges-says-french-fm-barrot",
+  "https://thehill.com/homenews/administration/6208161-trump-strait-hormuz-naval-blockade/",
+  "https://www.dw.com/en/strait-of-hormuz-still-a-source-of-leverage-for-iran/a-79901647?maca=en-rss-en-world-4025-rdf",
+  "https://www.washingtonexaminer.com/news/white-house/4797123/trump-no-one-can-believe-2026-election-was-honest/",
+  "https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -9040,19 +9272,50 @@
     "supermarket"
    ],
    "87181a6313"
+  ],
+  [
+   "2026-11-09T16:57:25.777199+00:00",
+   [
+    "blockad",
+    "call",
+    "greatest",
+    "history",
+    "hormuz",
+    "iran",
+    "leverag",
+    "sourc",
+    "still",
+    "strait",
+    "trump"
+   ],
+   "fdb8046967"
+  ],
+  [
+   "2026-11-09T16:57:28.462258+00:00",
+   [
+    "believ",
+    "can",
+    "election",
+    "flow",
+    "forc",
+    "honest",
+    "iran",
+    "seal",
+    "stop",
+    "task",
+    "trump",
+    "weapon"
+   ],
+   "db33aa14af"
   ]
  ],
- "last_draft_at": "2026-11-09T16:46:04.389592+00:00",
+ "last_draft_at": "2026-11-09T16:57:11.631654+00:00",
  "last_slot": "2026-11-09T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T16:45:58.231195+00:00",
  "run_log": [
-  "11-09 14:30:29 run start",
-  "11-09 14:32:16 listening 10 min",
-  "11-09 14:42:04 listening done",
-  "11-09 14:42:04 run end after 694 s",
   "11-09 14:45:23 run start",
   "11-09 14:45:51 listening 11 min",
   "11-09 14:57:03 listening done",
@@ -9088,13 +9351,15 @@
   "11-09 16:45:24 run start",
   "11-09 16:46:36 listening 10 min",
   "11-09 16:56:58 listening done",
-  "11-09 16:56:58 run end after 694 s"
+  "11-09 16:56:58 run end after 694 s",
+  "11-09 16:57:11 run start",
+  "11-09 16:57:28 listening 11 min",
+  "11-09 17:08:47 listening done",
+  "11-09 17:08:47 run end after 696 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_12.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Bernie_Sanders_%2825973827305%29.jpg/1280px-Bernie_Sanders_%2825973827305%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Naqsh-e_Jahan_Square_from_the_gheisariye_Vault.jpg/1920px-Naqsh-e_Jahan_Square_from_the_gheisariye_Vault.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Power_lines_during_Blue_Hour_BW.jpg/1920px-Power_lines_during_Blue_Hour_BW.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -9132,7 +9397,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Joe_Biden_%2848010705803%29.jpg/1280px-Joe_Biden_%2848010705803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Donald_Trump_takes_the_oath_of_office_%282025%29.jpg/1280px-Donald_Trump_takes_the_oath_of_office_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/2018_I_Voted_sticker_%28Cook_County%29.jpg/1920px-2018_I_Voted_sticker_%28Cook_County%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Iowa_Senate_chamber_05.jpg/1920px-Iowa_Senate_chamber_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Iowa_Senate_chamber_05.jpg/1920px-Iowa_Senate_chamber_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
