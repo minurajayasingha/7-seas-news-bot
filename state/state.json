@@ -13684,7 +13684,11 @@
   "https://www.cbsnews.com/news/bernie-sanders-chuck-schumer-democratic-leader-senate/",
   "https://thehill.com/homenews/6211705-sanders-slotkin-oppose-schumer/",
   "https://www.washingtonexaminer.com/news/house/4798925/lisa-mcclain-wins-gop-conference-chair-2026/",
-  "https://thehill.com/the-120/6211765-lisa-mcclain-wins-gop-chair/"
+  "https://thehill.com/the-120/6211765-lisa-mcclain-wins-gop-chair/",
+  "https://www.nytimes.com/2026/11/10/business/toyota-kei-pickup-truck.html",
+  "https://www.independent.co.uk/news/world/americas/toyota-mini-kei-trucks-scion-trump-b3082674.html",
+  "https://www.euronews.com/2026/11/10/paraguays-new-president-vows-to-recover-pension-funds-at-risk-in-ueno-bank-crisis",
+  "https://www.upi.com/Top_News/World-News/2026/11/10/latam-parguay-teacher-strike-bank-collapse/6181794327444/"
  ],
  "recent_topics": [
   [
@@ -16792,17 +16796,13 @@
    "960f624c6e"
   ]
  ],
- "last_draft_at": "2026-11-10T21:00:50.686675+00:00",
+ "last_draft_at": "2026-11-10T21:15:22.152093+00:00",
  "last_slot": "2026-11-10T15:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-10T21:00:33.925259+00:00",
  "run_log": [
-  "11-10 18:45:21 run start",
-  "11-10 18:45:31 listening 11 min",
-  "11-10 18:56:51 listening done",
-  "11-10 18:56:51 run end after 690 s",
   "11-10 19:00:32 run start",
   "11-10 19:00:56 listening 11 min",
   "11-10 19:12:14 listening done",
@@ -16838,7 +16838,11 @@
   "11-10 21:00:33 run start",
   "11-10 21:01:06 listening 11 min",
   "11-10 21:12:00 listening done",
-  "11-10 21:12:00 run end after 687 s"
+  "11-10 21:12:00 run end after 687 s",
+  "11-10 21:15:21 run start",
+  "11-10 21:15:38 listening 11 min",
+  "11-10 21:26:57 listening done",
+  "11-10 21:26:57 run end after 695 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
