@@ -13561,6 +13561,77 @@
    "status": "pending",
    "tg_message_id": 310,
    "tg_file_id": "AgACAgUAAxkDAAIBNmrzm5lK7fNB7ROK2qxvMPwmChOqAAJPEWsbi0-gV2qV9YkC61yxAQADAgADdwADPQQ"
+  },
+  "d071e39fe0": {
+   "id": "d071e39fe0",
+   "headline": "Appeals court backs Michael Abramowitz in Voice of America dispute",
+   "summary": "A federal appeals court panel ruled to restore Michael Abramowitz as Voice of America director. The court found that Kari Lake illegally fired Abramowitz without independent approval.",
+   "label": "US POLITICS",
+   "hook": "Was the firing of Michael Abramowitz conducted without proper approval?",
+   "key_points": [
+    "Appeals court panel ruled Tuesday to restore Michael Abramowitz.",
+    "Court found Kari Lake fired Abramowitz illegally.",
+    "Panel backed the reinstatement of the VOA director."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#VoiceOfAmerica",
+    "#USPolitics",
+    "#CourtRuling"
+   ],
+   "sources": [
+    "The Hill",
+    "UPI"
+   ],
+   "link": "https://www.upi.com/Top_News/US/2026/11/10/court-upholds-voice-of-america-director-restoration/1601794351444/",
+   "links": [
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/US/2026/11/10/court-upholds-voice-of-america-director-restoration/1601794351444/"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/regulation/court-battles/6211850-voice-of-america-head-was-illegally-fired-by-kari-lake-court-says-backing-reinstatement/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Federal_Courthouse_%26_Post_Office.jpg/1920px-Federal_Courthouse_%26_Post_Office.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "McGhiever / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ],
+    "inset": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/VOA_Director_Michael_Abramowitz_at_2024_RNC_GSozbcQacAAPq9z.jpg/1280px-VOA_Director_Michael_Abramowitz_at_2024_RNC_GSozbcQacAAPq9z.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credit": "Voice of America Director / Wikimedia Commons (Public domain)",
+     "short": "WIKIMEDIA COMMONS"
+    }
+   },
+   "img_post": {
+    "headline": "Appeals court backs Michael Abramowitz in Voice of America dispute",
+    "people": [
+     "Michael Abramowitz",
+     "Kari Lake"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "federal courthouse",
+     "courtroom interior",
+     "office building",
+     "government office"
+    ],
+    "image_style": "scene",
+    "location": "Washington, D.C., US"
+   },
+   "created_at": "2026-11-10T23:15:39.034070+00:00",
+   "news_time": "2026-11-10T22:01:46+00:00",
+   "news_latest": "2026-11-10T23:11:08+00:00",
+   "caption": "Appeals court backs Michael Abramowitz in Voice of America dispute\n\nA federal appeals court panel ruled to restore Michael Abramowitz as Voice of America director. The court found that Kari Lake illegally fired Abramowitz without independent approval.\n\n💬 Was the firing of Michael Abramowitz conducted without proper approval?\n\n📖 Read more: https://www.upi.com/Top_News/US/2026/11/10/court-upholds-voice-of-america-director-restoration/1601794351444/\n\n#VoiceOfAmerica #USPolitics #CourtRuling #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 311,
+   "tg_file_id": "AgACAgUAAxkDAAIBN2rzpZ2tcqNWItQdQSb42mq_FH1IAAJSEWsbi0-gV8iXjgABGPm1mgEAAwIAA3cAAz0E"
   }
  },
  "seen_links": [
@@ -14040,7 +14111,9 @@
   "https://www.cbsnews.com/news/3-iran-operatives-indicted-terror-plots/",
   "https://www.independent.co.uk/news/world/americas/crime/raf-fairford-charges-iran-terror-suspects-b3082754.html",
   "https://www.france24.com/en/video/20261110-west-bank-population-and-healthcare-actors-such-as-msf-still-facing-movement-restrictions",
-  "https://www.aljazeera.com/video/newsfeed/2026/11/10/jerusalem-daily-14-year-old-killed-in-west-bank-raid?traffic_source=rss"
+  "https://www.aljazeera.com/video/newsfeed/2026/11/10/jerusalem-daily-14-year-old-killed-in-west-bank-raid?traffic_source=rss",
+  "https://www.upi.com/Top_News/US/2026/11/10/court-upholds-voice-of-america-director-restoration/1601794351444/",
+  "https://thehill.com/regulation/court-battles/6211850-voice-of-america-head-was-illegally-fired-by-kari-lake-court-says-backing-reinstatement/"
  ],
  "recent_topics": [
   [
@@ -17260,19 +17333,41 @@
     "year-old"
    ],
    "9868f8195c"
+  ],
+  [
+   "2026-11-10T23:15:41.435425+00:00",
+   [
+    "america",
+    "appeal",
+    "back",
+    "block",
+    "chief",
+    "court",
+    "director",
+    "fir",
+    "head",
+    "hous",
+    "illegal",
+    "illegally",
+    "kari",
+    "lak",
+    "reinstatement",
+    "restoration",
+    "rul",
+    "uphold",
+    "voic",
+    "whit"
+   ],
+   "d071e39fe0"
   ]
  ],
- "last_draft_at": "2026-11-10T23:01:01.542144+00:00",
+ "last_draft_at": "2026-11-10T23:15:21.736577+00:00",
  "last_slot": "2026-11-10T18:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-10T23:00:42.236308+00:00",
  "run_log": [
-  "11-10 21:00:33 run start",
-  "11-10 21:01:06 listening 11 min",
-  "11-10 21:12:00 listening done",
-  "11-10 21:12:00 run end after 687 s",
   "11-10 21:15:21 run start",
   "11-10 21:15:38 listening 11 min",
   "11-10 21:26:57 listening done",
@@ -17308,13 +17403,15 @@
   "11-10 23:00:32 run start",
   "11-10 23:01:11 listening 11 min",
   "11-10 23:12:05 listening done",
-  "11-10 23:12:05 run end after 693 s"
+  "11-10 23:12:05 run end after 693 s",
+  "11-10 23:15:21 run start",
+  "11-10 23:15:41 listening 11 min",
+  "11-10 23:27:00 listening done",
+  "11-10 23:27:00 run end after 698 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/5/5c/Iowa_City%2C_IA_-_Early_Voting_Automobile_Queue_October_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Capital_Centre_-_Abu_Dhabi_-_United_Arab_Emirates_-_panoramio_%282%29.jpg/1920px-Capital_Centre_-_Abu_Dhabi_-_United_Arab_Emirates_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/7/76/United_Nations_Headquarters%2C_seen_from_an_NYC_Ferry_on_the_East_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/2013_street_Kinshasa_8756715873.jpg/1920px-2013_street_Kinshasa_8756715873.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Azadi_Tower%2C_Tehran.jpg/1920px-Azadi_Tower%2C_Tehran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -17352,7 +17449,9 @@
    "https://upload.wikimedia.org/wikipedia/commons/9/96/Tower_of_David_at_dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/John_Cornyn_official_portrait.jpg/1280px-John_Cornyn_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/7/70/James_Talarico_Press_Conference_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://upload.wikimedia.org/wikipedia/commons/8/8a/Robert_F._Kennedy_Department_of_Justice_Building_-_Plato_inscription_-_2714.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/8/8a/Robert_F._Kennedy_Department_of_Justice_Building_-_Plato_inscription_-_2714.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Federal_Courthouse_%26_Post_Office.jpg/1920px-Federal_Courthouse_%26_Post_Office.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/VOA_Director_Michael_Abramowitz_at_2024_RNC_GSozbcQacAAPq9z.jpg/1280px-VOA_Director_Michael_Abramowitz_at_2024_RNC_GSozbcQacAAPq9z.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -19932,10 +20031,20 @@
       "portrait": true
      }
     ]
+   },
+   "michael abramowitz": {
+    "t": "2026-11-10T23:15:37.988265+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/VOA_Director_Michael_Abramowitz_at_2024_RNC_GSozbcQacAAPq9z.jpg/1280px-VOA_Director_Michael_Abramowitz_at_2024_RNC_GSozbcQacAAPq9z.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Voice of America Director / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     }
+    ]
    }
   },
   "recent_ideas": [
-   "knesset",
    "capitol at night",
    "national mall washington dc",
    "rafah border crossing",
@@ -19946,7 +20055,8 @@
    "capitol hill",
    "tower of david",
    "us capitol dome",
-   "robert f. kennedy department of justice building"
+   "robert f. kennedy department of justice building",
+   "federal courthouse"
   ]
  }
 }
