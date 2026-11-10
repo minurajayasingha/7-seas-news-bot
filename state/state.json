@@ -10976,6 +10976,68 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_story_id": "2379434672790700"
+  },
+  "799d3791f4": {
+   "id": "799d3791f4",
+   "headline": "US and officials begin peace talks in Abu Dhabi",
+   "summary": "Officials have started the first substantive negotiations between Russia and Ukraine since February. The two-day session in Abu Dhabi will focus on security guarantees and a final end to the war.",
+   "label": "DIPLOMACY",
+   "hook": "Can these talks in Abu Dhabi end the fighting?",
+   "key_points": [
+    "First substantive peace talks since February begin",
+    "Two-day session focuses on security guarantees"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#WorldNews",
+    "#AbuDhabi",
+    "#UkraineWar"
+   ],
+   "sources": [
+    "NPR",
+    "The Guardian"
+   ],
+   "link": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
+   "links": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks"
+    ],
+    [
+     "NPR",
+     "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Capital_Centre_-_Abu_Dhabi_-_United_Arab_Emirates_-_panoramio_%282%29.jpg/1920px-Capital_Centre_-_Abu_Dhabi_-_United_Arab_Emirates_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Xiaotong Gao / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "US and officials begin peace talks in Abu Dhabi",
+    "people": [],
+    "image_query": "Abu Dhabi skyline",
+    "image_queries": [
+     "White House",
+     "Moscow city",
+     "European cities",
+     "United Arab Emirates capital"
+    ],
+    "image_style": "scene",
+    "location": "Abu Dhabi, UAE"
+   },
+   "created_at": "2026-11-10T11:45:56.434267+00:00",
+   "news_time": "2026-11-10T10:58:18+00:00",
+   "news_latest": "2026-11-10T11:23:34+00:00",
+   "caption": "US and officials begin peace talks in Abu Dhabi\n\nOfficials have started the first substantive negotiations between Russia and Ukraine since February. The two-day session in Abu Dhabi will focus on security guarantees and a final end to the war.\n\n💬 Can these talks in Abu Dhabi end the fighting?\n\n📖 Read more: https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks\n\n#WorldNews #AbuDhabi #UkraineWar #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 261,
+   "tg_file_id": "AgACAgUAAxkDAAIBBWrzA_pwsqCakAMj70foVlflC0gDAAMVaxuLT5hX_6VL1P6xw50BAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -11341,7 +11403,9 @@
   "https://www.washingtonexaminer.com/news/campaigns/state/4798019/somali-daycare-ceo-fraud-scandal-minnesota-house-seat/",
   "https://abcnews.com/Politics/wireStory/house-seats-democrats-expect-win-year-138001901",
   "https://abcnews.com/Politics/wireStory/republican-ken-calvert-wins-reelection-us-house-californias-137998545",
-  "https://abcnews.com/Politics/wireStory/republican-ken-calvert-wins-reelection-us-house-californias-137998550"
+  "https://abcnews.com/Politics/wireStory/republican-ken-calvert-wins-reelection-us-house-californias-137998550",
+  "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
+  "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks"
  ],
  "recent_topics": [
   [
@@ -14246,19 +14310,32 @@
     "win"
    ],
    "e2486a4ac8"
+  ],
+  [
+   "2026-11-10T11:46:02.421116+00:00",
+   [
+    "abu",
+    "begin",
+    "dhabi",
+    "end",
+    "final",
+    "mediat",
+    "official",
+    "russia-ukrain",
+    "seek",
+    "talk",
+    "war"
+   ],
+   "799d3791f4"
   ]
  ],
- "last_draft_at": "2026-11-10T11:30:38.305830+00:00",
+ "last_draft_at": "2026-11-10T11:45:45.345810+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-10T10:45:19.857207+00:00",
+ "last_stats_at": "2026-11-10T11:45:20.388225+00:00",
  "run_log": [
-  "11-10 09:15:19 run start",
-  "11-10 09:15:39 listening 11 min",
-  "11-10 09:26:57 listening done",
-  "11-10 09:26:57 run end after 697 s",
   "11-10 09:30:26 run start",
   "11-10 09:30:45 listening 11 min",
   "11-10 09:42:06 listening done",
@@ -14294,12 +14371,15 @@
   "11-10 11:30:30 run start",
   "11-10 11:30:47 listening 11 min",
   "11-10 11:42:20 listening done",
-  "11-10 11:42:20 run end after 709 s"
+  "11-10 11:42:20 run end after 709 s",
+  "11-10 11:45:20 run start",
+  "11-10 11:46:02 listening 11 min",
+  "11-10 11:56:56 listening done",
+  "11-10 11:56:56 run end after 696 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Utah_State_Capitol_at_Night_by_Don_Ramey_Logan.jpg/1920px-Utah_State_Capitol_at_Night_by_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg/1280px-Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Calley_Means_%2854234762230%29.jpg/1280px-Calley_Means_%2854234762230%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -14338,7 +14418,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Verkhovna_Rada_education_and_science_Comittee.jpg/1920px-Verkhovna_Rada_education_and_science_Comittee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/US_Capitol_dome_Jan_2006.jpg/1920px-US_Capitol_dome_Jan_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Donald_Trump_official_portrait_2020_election.jpg/1280px-Donald_Trump_official_portrait_2020_election.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/5/5c/Iowa_City%2C_IA_-_Early_Voting_Automobile_Queue_October_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/5/5c/Iowa_City%2C_IA_-_Early_Voting_Automobile_Queue_October_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Capital_Centre_-_Abu_Dhabi_-_United_Arab_Emirates_-_panoramio_%282%29.jpg/1920px-Capital_Centre_-_Abu_Dhabi_-_United_Arab_Emirates_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -16174,7 +16255,6 @@
    }
   },
   "recent_ideas": [
-   "capitol reflecting pool",
    "national mall, washington",
    "container ship",
    "australian parliament",
@@ -16185,7 +16265,8 @@
    "voting booth",
    "verkhovna rada",
    "us capitol dome",
-   "early voting, united states"
+   "early voting, united states",
+   "united arab emirates capital"
   ]
  }
 }
