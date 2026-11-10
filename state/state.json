@@ -13157,6 +13157,76 @@
    "status": "pending",
    "tg_message_id": 304,
    "tg_file_id": "AgACAgUAAxkDAAIBMGrzgnVm9_llDlWJ1BZwP0du8V8bAAJrFmsbi0-YVwMrpxglRLVIAQADAgADdwADPQQ"
+  },
+  "960f624c6e": {
+   "id": "960f624c6e",
+   "headline": "Lisa McClain wins Republican conference chair election",
+   "summary": "Rep. Lisa McClain secured reelection as chair of the House Republican Conference. She defeated Reps. Erin Houchin and Greg Steube on the first ballot.",
+   "label": "ELECTIONS",
+   "hook": "How will Republican leadership shape the party's messaging in the minority?",
+   "key_points": [
+    "McClain beat Houchin and Steube on the first ballot.",
+    "Ninety-three Republicans backed McClain.",
+    "She has served as conference chair since January 2025."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#LisaMcClain",
+    "#GOP"
+   ],
+   "sources": [
+    "The Hill",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/news/house/4798925/lisa-mcclain-wins-gop-conference-chair-2026/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/house/4798925/lisa-mcclain-wins-gop-conference-chair-2026/"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/the-120/6211765-lisa-mcclain-wins-gop-chair/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Bober_Tea_and_Mochi_Dough%2C_Capitol_Hill%2C_Seattle%2C_2024.jpg/1920px-Bober_Tea_and_Mochi_Dough%2C_Capitol_Hill%2C_Seattle%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Another Believer / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ],
+    "inset": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Lisa_McClain_%2855505178766%29.jpg/1280px-Lisa_McClain_%2855505178766%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+     "short": "WIKIMEDIA COMMONS"
+    }
+   },
+   "img_post": {
+    "headline": "Lisa McClain wins Republican conference chair election",
+    "people": [
+     "Lisa McClain"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "House of Representatives chamber",
+     "Capitol Hill",
+     "voting booth",
+     "Senate chamber"
+    ],
+    "image_style": "scene",
+    "location": "US"
+   },
+   "created_at": "2026-11-10T21:01:03.707638+00:00",
+   "news_time": "2026-11-10T20:47:38+00:00",
+   "news_latest": "2026-11-10T20:51:51+00:00",
+   "caption": "Lisa McClain wins Republican conference chair election\n\nRep. Lisa McClain secured reelection as chair of the House Republican Conference. She defeated Reps. Erin Houchin and Greg Steube on the first ballot.\n\n💬 How will Republican leadership shape the party's messaging in the minority?\n\n📖 Read more: https://www.washingtonexaminer.com/news/house/4798925/lisa-mcclain-wins-gop-conference-chair-2026/\n\n#USPolitics #LisaMcClain #GOP #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 305,
+   "tg_file_id": "AgACAgUAAxkDAAIBMWrzhhJ_a-iMxNNDXY6aKlgIv4cXAAJsFmsbi0-YVzB5CH2jA9bHAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -13612,7 +13682,9 @@
   "https://www.independent.co.uk/news/world/americas/us-politics/joe-biden-dublin-arrests-hunter-event-b3082651.html",
   "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss",
   "https://www.cbsnews.com/news/bernie-sanders-chuck-schumer-democratic-leader-senate/",
-  "https://thehill.com/homenews/6211705-sanders-slotkin-oppose-schumer/"
+  "https://thehill.com/homenews/6211705-sanders-slotkin-oppose-schumer/",
+  "https://www.washingtonexaminer.com/news/house/4798925/lisa-mcclain-wins-gop-conference-chair-2026/",
+  "https://thehill.com/the-120/6211765-lisa-mcclain-wins-gop-chair/"
  ],
  "recent_topics": [
   [
@@ -16702,19 +16774,31 @@
     "won't"
    ],
    "665273818f"
+  ],
+  [
+   "2026-11-10T21:01:06.609925+00:00",
+   [
+    "beat",
+    "chair",
+    "conferenc",
+    "election",
+    "gop",
+    "houchin",
+    "lisa",
+    "mcclain",
+    "steub",
+    "win"
+   ],
+   "960f624c6e"
   ]
  ],
- "last_draft_at": "2026-11-10T20:45:22.319816+00:00",
+ "last_draft_at": "2026-11-10T21:00:50.686675+00:00",
  "last_slot": "2026-11-10T15:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-10T20:00:36.748821+00:00",
+ "last_stats_at": "2026-11-10T21:00:33.925259+00:00",
  "run_log": [
-  "11-10 18:30:29 run start",
-  "11-10 18:30:40 listening 11 min",
-  "11-10 18:42:00 listening done",
-  "11-10 18:42:00 run end after 691 s",
   "11-10 18:45:21 run start",
   "11-10 18:45:31 listening 11 min",
   "11-10 18:56:51 listening done",
@@ -16750,13 +16834,15 @@
   "11-10 20:45:21 run start",
   "11-10 20:45:41 listening 11 min",
   "11-10 20:56:59 listening done",
-  "11-10 20:56:59 run end after 697 s"
+  "11-10 20:56:59 run end after 697 s",
+  "11-10 21:00:33 run start",
+  "11-10 21:01:06 listening 11 min",
+  "11-10 21:12:00 listening done",
+  "11-10 21:12:00 run end after 687 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/0/06/Kim_Yo-jong_%282018%29_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://upload.wikimedia.org/wikipedia/commons/9/9b/Absentee_Ballot_Sendoff_%2854195767561%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Example_voting_booth.jpg/1920px-Example_voting_booth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -16794,7 +16880,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Bernie_Sanders_at_the_2016_Memorial_Day_Ceremony%2C_Presidio_of_San_Francisco.jpg/1280px-Bernie_Sanders_at_the_2016_Memorial_Day_Ceremony%2C_Presidio_of_San_Francisco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Elissa_Slotkin_20190202_153059.jpg/1280px-Elissa_Slotkin_20190202_153059.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/JDCA_2024_Leadership_Summit_-_Chuck_Schumer_%2853814365482%29.jpg/1280px-JDCA_2024_Leadership_Summit_-_Chuck_Schumer_%2853814365482%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/JDCA_2024_Leadership_Summit_-_Chuck_Schumer_%2853814365482%29.jpg/1280px-JDCA_2024_Leadership_Summit_-_Chuck_Schumer_%2853814365482%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Bober_Tea_and_Mochi_Dough%2C_Capitol_Hill%2C_Seattle%2C_2024.jpg/1920px-Bober_Tea_and_Mochi_Dough%2C_Capitol_Hill%2C_Seattle%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Lisa_McClain_%2855505178766%29.jpg/1280px-Lisa_McClain_%2855505178766%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -19130,10 +19218,85 @@
       "portrait": false
      }
     ]
+   },
+   "lisa mcclain": {
+    "t": "2026-11-10T21:01:02.243856+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Rep._Lisa_McClain.jpg/1280px-Rep._Lisa_McClain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Rep. Lisa McClain / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Lisa_McClain_%2855505180411%29.jpg/1280px-Lisa_McClain_%2855505180411%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Lisa_McClain_%2855505334329%29.jpg/1280px-Lisa_McClain_%2855505334329%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Lisa_McClain_%2855505560845%29.jpg/1280px-Lisa_McClain_%2855505560845%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Lisa_McClain_%2855505560670%29.jpg/1280px-Lisa_McClain_%2855505560670%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Lisa_McClain_%2855505559520%29.jpg/1280px-Lisa_McClain_%2855505559520%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Lisa_McClain_%2855505180546%29.jpg/1280px-Lisa_McClain_%2855505180546%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Lisa_McClain_%2855505335934%29.jpg/1280px-Lisa_McClain_%2855505335934%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Rep._Lisa_McClain_%28cropped%29.jpg/1280px-Rep._Lisa_McClain_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Rep. Lisa McClain / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Lisa_McClain_%2855505178766%29.jpg/1280px-Lisa_McClain_%2855505178766%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Lisa_McClain_%2855504179367%29.jpg/1280px-Lisa_McClain_%2855504179367%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Lisa_McClain_%2855505561135%29.jpg/1280px-Lisa_McClain_%2855505561135%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     }
+    ]
    }
   },
   "recent_ideas": [
-   "azadi tower",
    "senate chamber",
    "port of los angeles",
    "military air base",
@@ -19144,7 +19307,8 @@
    "supreme court building",
    "moscow street",
    "privy council london",
-   "u.s. embassy london"
+   "u.s. embassy london",
+   "capitol hill"
   ]
  }
 }
