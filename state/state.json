@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892832,
+ "tg_offset": 495892834,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -9756,9 +9756,11 @@
    "news_time": "2026-11-09T18:07:12+00:00",
    "news_latest": "2026-11-09T22:59:13+00:00",
    "caption": "Ohio State University suspends fraternity following viral fire video\n\nOhio State University suspended its chapter of the Sigma Alpha Epsilon fraternity during an investigation. The action follows an online video that appears to show two individuals on fire.\n\n📖 Read more: https://www.newsweek.com/osu-sae-fraternity-suspended-video-students-fire-12691043\n\n#OhioState #SigmaAlphaEpsilon #News #7SeasNews",
-   "status": "pending",
+   "status": "replaced",
    "tg_message_id": 239,
-   "tg_file_id": "AgACAgUAAxkDAAPvavJeuLQg88Tcs29Tmvt_PgR96H0AAj0WaxuLT5BXkSpX1_1J57YBAAMCAAN3AAM9BA"
+   "tg_file_id": "AgACAgUAAxkDAAPvavJeuLQg88Tcs29Tmvt_PgR96H0AAj0WaxuLT5BXkSpX1_1J57YBAAMCAAN3AAM9BA",
+   "extra_msgs": [],
+   "cleared": true
   },
   "ae2ca9e8fb": {
    "id": "ae2ca9e8fb",
@@ -9916,6 +9918,146 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_story_id": "1185702080769662"
+  },
+  "c6d397b2d7": {
+   "id": "c6d397b2d7",
+   "headline": "Ohio State University suspends fraternity following viral fire video",
+   "summary": "Ohio State University suspended its chapter of the Sigma Alpha Epsilon fraternity during an investigation. The action follows an online video that appears to show two individuals on fire.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "University suspended the Sigma Alpha Epsilon chapter",
+    "Investigation launched into online video of two people",
+    "One person required medical care"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#OhioState",
+    "#SigmaAlphaEpsilon",
+    "#News"
+   ],
+   "sources": [
+    "NBC News",
+    "Newsweek",
+    "The Independent",
+    "UPI"
+   ],
+   "link": "https://www.newsweek.com/osu-sae-fraternity-suspended-video-students-fire-12691043",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/osu-sae-fraternity-suspended-video-students-fire-12691043"
+    ],
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/US/2026/11/09/ohio-state-sigma-alpha-epsilon-fraternity-fire-video/7951794255437/"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/ohio-state-fraternity-suspended-video-fire-b3082006.html"
+    ],
+    [
+     "NBC News",
+     "https://www.nbcnews.com/news/us-news/ohio-state-university-investigating-fraternity-video-appears-show-two-rcna608313"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "tg_file_id": "BQACAgUAAxkBAAP0avKIUs0KEoHERH9xwLXYoYcOVpUAAoMlAAKLT5BX6WyByY2o0z09BA",
+      "credit": ""
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Ohio State University suspends fraternity following viral fire video",
+    "people": [],
+    "image_query": "Ohio State University campus",
+    "image_queries": [
+     "university campus buildings",
+     "fraternity house exterior",
+     "college campus walkway",
+     "university administration building"
+    ],
+    "image_style": "incident",
+    "location": "Ohio, US"
+   },
+   "created_at": "2026-11-10T03:00:32.743175+00:00",
+   "news_time": "2026-11-09T18:07:12+00:00",
+   "news_latest": "2026-11-09T22:59:13+00:00",
+   "caption": "Ohio State University suspends fraternity following viral fire video\n\nOhio State University suspended its chapter of the Sigma Alpha Epsilon fraternity during an investigation. The action follows an online video that appears to show two individuals on fire.\n\n📖 Read more: https://www.newsweek.com/osu-sae-fraternity-suspended-video-students-fire-12691043\n\n#OhioState #SigmaAlphaEpsilon #News #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 245,
+   "tg_file_id": "AgACAgUAAxkDAAP1avKI25sY5yyHMMiMKh_QzkjRfrgAApIWaxuLT5BXc9sK_cRFhMkBAAMCAAN3AAM9BA"
+  },
+  "b5b3ec9c19": {
+   "id": "b5b3ec9c19",
+   "headline": "California voters reject Proposition 40 targeting billionaire wealth tax",
+   "summary": "Voters in California rejected a proposed tax on the state's wealthiest residents. The measure faced a campaign that split traditional allies and shattered spending records.",
+   "label": "ECONOMY",
+   "hook": "Will other states pursue similar wealth tax measures after this defeat?",
+   "key_points": [
+    "Proposition 40 failed according to projections.",
+    "The measure split Democrats in the state and nationally.",
+    "Campaign spending shattered records for a tax measure."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#California",
+    "#WealthTax",
+    "#Economy"
+   ],
+   "sources": [
+    "CBS News",
+    "NBC News",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/news/campaigns/state/4786718/california-billionaire-wealth-tax-fails-liberal-dreams/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/campaigns/state/4786718/california-billionaire-wealth-tax-fails-liberal-dreams/"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/news/california-proposition-40-billionaire-wealth-tax-rejected-cbs-projects/"
+    ],
+    [
+     "NBC News",
+     "https://www.nbcnews.com/politics/2026-election/california-reject-billionaire-tax-ballot-measure-prop-40-rcna603382"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2021-11-19_Damaged_container_ship%2C_MV_ZIM_KINGSTON_-_IMO_9389693.jpg/1920px-2021-11-19_Damaged_container_ship%2C_MV_ZIM_KINGSTON_-_IMO_9389693.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gordon Leggett / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "California voters reject Proposition 40 targeting billionaire wealth tax",
+    "people": [],
+    "image_query": "California State Capitol",
+    "image_queries": [
+     "voting booth",
+     "ballot box",
+     "California flag",
+     "campaign sign"
+    ],
+    "image_style": "scene",
+    "location": "California, US"
+   },
+   "created_at": "2026-11-10T03:01:21.357998+00:00",
+   "news_time": "2026-11-10T02:36:09+00:00",
+   "news_latest": "2026-11-10T02:45:56+00:00",
+   "caption": "California voters reject Proposition 40 targeting billionaire wealth tax\n\nVoters in California rejected a proposed tax on the state's wealthiest residents. The measure faced a campaign that split traditional allies and shattered spending records.\n\n💬 Will other states pursue similar wealth tax measures after this defeat?\n\n📖 Read more: https://www.washingtonexaminer.com/news/campaigns/state/4786718/california-billionaire-wealth-tax-fails-liberal-dreams/\n\n#California #WealthTax #Economy #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 246,
+   "tg_file_id": "AgACAgUAAxkDAAP2avKJA6dRrP82HMEDGHC9VDd7UJ0AApQWaxuLT5BXZHKkqenh55MBAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -10251,7 +10393,10 @@
   "https://thehill.com/homenews/campaign/6180310-eli-crane-arizona-2nd-district/",
   "https://www.foxnews.com/politics/arizona-republican-holds-house-seat-surviving-reelection-scare",
   "https://www.washingtonpost.com/politics/2026/11/09/selling-faster-access-trumps-posts-helps-triple-his-media-companys-revenue/",
-  "https://www.nbcnews.com/business/media/trump-media-revenue-surges-truth-social-rcna608428"
+  "https://www.nbcnews.com/business/media/trump-media-revenue-surges-truth-social-rcna608428",
+  "https://www.washingtonexaminer.com/news/campaigns/state/4786718/california-billionaire-wealth-tax-fails-liberal-dreams/",
+  "https://www.cbsnews.com/news/california-proposition-40-billionaire-wealth-tax-rejected-cbs-projects/",
+  "https://www.nbcnews.com/politics/2026-election/california-reject-billionaire-tax-ballot-measure-prop-40-rcna603382"
  ],
  "recent_topics": [
   [
@@ -12899,19 +13044,35 @@
     "trump"
    ],
    "b2abea547d"
+  ],
+  [
+   "2026-11-10T03:01:23.686135+00:00",
+   [
+    "billionair",
+    "blow",
+    "california",
+    "cbs",
+    "dash",
+    "dream",
+    "fail",
+    "left",
+    "liberal",
+    "project",
+    "reject",
+    "tax",
+    "voter",
+    "wealth"
+   ],
+   "b5b3ec9c19"
   ]
  ],
- "last_draft_at": "2026-11-10T02:45:38.003387+00:00",
+ "last_draft_at": "2026-11-10T03:00:44.847964+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-10T02:45:20.467366+00:00",
  "run_log": [
-  "11-10 00:42:04 run start",
-  "11-10 00:42:33 listening 11 min",
-  "11-10 00:53:53 listening done",
-  "11-10 00:53:53 run end after 709 s",
   "11-10 00:54:08 run start",
   "11-10 00:54:30 listening 11 min",
   "11-10 01:05:44 listening done",
@@ -12947,12 +13108,15 @@
   "11-10 02:45:20 run start",
   "11-10 02:45:48 listening 11 min",
   "11-10 02:56:58 listening done",
-  "11-10 02:56:58 run end after 698 s"
+  "11-10 02:56:58 run end after 698 s",
+  "11-10 03:00:32 run start",
+  "11-10 03:01:23 listening 11 min",
+  "11-10 03:12:17 listening done",
+  "11-10 03:12:17 run end after 704 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Pete_Hegseth_%2852940857382%29.jpg/1280px-Pete_Hegseth_%2852940857382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Ballot_box_2024_Swedish_EU_election_at_St%C3%A5ngen%C3%A4sskolan%2C_Brastad.jpg/1920px-Ballot_box_2024_Swedish_EU_election_at_St%C3%A5ngen%C3%A4sskolan%2C_Brastad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Moscow_-_Saint_Basil%27s_Cathedral_-_worm-eye_perspective_-_2025-8-17.jpg/1920px-Moscow_-_Saint_Basil%27s_Cathedral_-_worm-eye_perspective_-_2025-8-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/TCF_Bank_College_Football_Stadium_Minnesota_Golden_Gophers_Sunset_Panorama_-_panoramio.jpg/1920px-TCF_Bank_College_Football_Stadium_Minnesota_Golden_Gophers_Sunset_Panorama_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -12991,7 +13155,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Capitol_Reflecting_Pool_%28September_2023%29_06.jpg/1920px-Capitol_Reflecting_Pool_%28September_2023%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Eli_Crane_%2853807920187%29.jpg/1280px-Eli_Crane_%2853807920187%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Jonathan_Nez.jpg/1280px-Jonathan_Nez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2021-11-19_Damaged_container_ship%2C_MV_ZIM_KINGSTON_-_IMO_9389693.jpg/1920px-2021-11-19_Damaged_container_ship%2C_MV_ZIM_KINGSTON_-_IMO_9389693.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -14817,7 +14982,6 @@
    }
   },
   "recent_ideas": [
-   "thurgood marshall federal judiciary building",
    "library of congress",
    "supreme court, washington dc",
    "provo courthouse",
@@ -14828,7 +14992,8 @@
    "wind turbines",
    "polling place, united states",
    "capitol reflecting pool",
-   "national mall, washington"
+   "national mall, washington",
+   "container ship"
   ]
  }
 }
