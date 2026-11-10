@@ -11905,6 +11905,132 @@
    "log_msg_id": 128,
    "log_photo": true,
    "cleared": true
+  },
+  "df4c15c723": {
+   "id": "df4c15c723",
+   "headline": "Trump calls into premiere of new C-SPAN show",
+   "summary": "President Trump called into the first episode of C-SPAN’s new nighttime show on Monday. He spoke with host Mimi Geerges about topics including immigration and an impeachment effort.",
+   "label": "US POLITICS",
+   "hook": "",
+   "key_points": [
+    "Trump called into C-SPAN late Monday",
+    "He spoke with host Mimi Geerges",
+    "Topics included immigration and defense"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Trump",
+    "#CSPAN",
+    "#USPolitics"
+   ],
+   "sources": [
+    "The Hill",
+    "The Independent"
+   ],
+   "link": "https://thehill.com/homenews/administration/6210232-donald-trump-immigration-hegseth-impeachment-cspan-show/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/homenews/administration/6210232-donald-trump-immigration-hegseth-impeachment-cspan-show/"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/us-politics/trump-cspan-interview-woman-laughing-b3082394.html"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg/1280px-Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "The White House from Washington, DC / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Trump calls into premiere of new C-SPAN show",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "television studio",
+     "microphone on desk",
+     "broadcast control room",
+     "news station desk"
+    ],
+    "image_style": "person",
+    "location": "US"
+   },
+   "created_at": "2026-11-10T15:15:33.595970+00:00",
+   "news_time": "2026-11-10T14:18:49+00:00",
+   "news_latest": "2026-11-10T14:56:13+00:00",
+   "caption": "Trump calls into premiere of new C-SPAN show\n\nPresident Trump called into the first episode of C-SPAN’s new nighttime show on Monday. He spoke with host Mimi Geerges about topics including immigration and an impeachment effort.\n\n📖 Read more: https://thehill.com/homenews/administration/6210232-donald-trump-immigration-hegseth-impeachment-cspan-show/\n\n#Trump #CSPAN #USPolitics #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 280,
+   "tg_file_id": "AgACAgUAAxkDAAIBGGrzNReV5oIwvihP04GiCXcCocAsAAKjFWsbi0-YVxq5o5w6wr4rAQADAgADdwADPQQ"
+  },
+  "c29e6ec6bf": {
+   "id": "c29e6ec6bf",
+   "headline": "Israel parliament gathers with opposition leading Knesset",
+   "summary": "Israel's new parliament is gathering as leaders compete to form a government. Benjamin Netanyahu's political rival, Gadi Eisenkot, has the first chance to build a new administration.",
+   "label": "WORLD",
+   "hook": "Can Gadi Eisenkot successfully form a new government and oust Benjamin Netanyahu?",
+   "key_points": [],
+   "breaking": false,
+   "hashtags": [
+    "#Israel",
+    "#Knesset",
+    "#WorldNews"
+   ],
+   "sources": [
+    "BBC",
+    "New York Times"
+   ],
+   "link": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html",
+   "links": [
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html"
+    ],
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Knesset_Israeli_Parliament_Building_%2841404889170%29.jpg/1920px-Knesset_Israeli_Parliament_Building_%2841404889170%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gary Todd from Xinzheng, China / Wikimedia Commons (CC0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Israel parliament gathers with opposition leading Knesset",
+    "people": [
+     "Gadi Eisenkot"
+    ],
+    "image_query": "Israeli Knesset building",
+    "image_queries": [
+     "Israeli parliament interior",
+     "Jerusalem cityscape",
+     "Knesset chamber",
+     "government building Jerusalem"
+    ],
+    "image_style": "scene",
+    "location": "Israel"
+   },
+   "created_at": "2026-11-10T15:15:50.177911+00:00",
+   "news_time": "2026-11-10T12:25:48+00:00",
+   "news_latest": "2026-11-10T14:59:09+00:00",
+   "caption": "Israel parliament gathers with opposition leading Knesset\n\nIsrael's new parliament is gathering as leaders compete to form a government. Benjamin Netanyahu's political rival, Gadi Eisenkot, has the first chance to build a new administration.\n\n💬 Can Gadi Eisenkot successfully form a new government and oust Benjamin Netanyahu?\n\n📖 Read more: https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html\n\n#Israel #Knesset #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 281,
+   "tg_file_id": "AgACAgUAAxkDAAIBGWrzNS6wgpuL6ucbWcepSk5Ps292AAKkFWsbi0-YV-n62PNqvrs3AQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -12295,7 +12421,11 @@
   "https://www.aljazeera.com/video/doha-debates/2026/11/10/did-humanity-learn-the-right-lessons-from-wwii?traffic_source=rss",
   "https://www.washingtonpost.com/politics/2026/11/10/trump-learned-lesson-immigration-then-he-did-opposite/",
   "https://www.nytimes.com/2026/11/10/world/thomas-massie-impeachment-hegseth.html",
-  "https://www.independent.co.uk/news/world/americas/us-politics/hegseth-impeachment-speech-trump-iran-war-b3082420.html"
+  "https://www.independent.co.uk/news/world/americas/us-politics/hegseth-impeachment-speech-trump-iran-war-b3082420.html",
+  "https://thehill.com/homenews/administration/6210232-donald-trump-immigration-hegseth-impeachment-cspan-show/",
+  "https://www.independent.co.uk/news/world/americas/us-politics/trump-cspan-interview-woman-laughing-b3082394.html",
+  "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html",
+  "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss"
  ],
  "recent_topics": [
   [
@@ -15407,19 +15537,49 @@
     "wrap"
    ],
    "b7be145325"
+  ],
+  [
+   "2026-11-10T15:15:36.080882+00:00",
+   [
+    "c-span",
+    "call",
+    "call-in",
+    "favorit",
+    "giggl",
+    "iran",
+    "newest",
+    "nighttim",
+    "premier",
+    "show",
+    "trump",
+    "wild",
+    "woman"
+   ],
+   "df4c15c723"
+  ],
+  [
+   "2026-11-10T15:15:58.660902+00:00",
+   [
+    "compet",
+    "form",
+    "gather",
+    "government",
+    "israel",
+    "leader",
+    "parliament",
+    "sight",
+    "sworn"
+   ],
+   "c29e6ec6bf"
   ]
  ],
- "last_draft_at": "2026-11-10T15:00:34.152500+00:00",
+ "last_draft_at": "2026-11-10T15:15:22.772598+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-10T14:45:20.002528+00:00",
  "run_log": [
-  "11-10 12:45:24 run start",
-  "11-10 12:46:04 listening 11 min",
-  "11-10 12:56:58 listening done",
-  "11-10 12:56:58 run end after 694 s",
   "11-10 13:00:32 run start",
   "11-10 13:00:56 listening 11 min",
   "11-10 13:12:16 listening done",
@@ -15455,13 +15615,15 @@
   "11-10 15:00:33 run start",
   "11-10 15:00:48 listening 11 min",
   "11-10 15:12:23 listening done",
-  "11-10 15:12:23 run end after 709 s"
+  "11-10 15:12:23 run end after 709 s",
+  "11-10 15:15:22 run start",
+  "11-10 15:15:58 listening 11 min",
+  "11-10 15:26:52 listening done",
+  "11-10 15:26:52 run end after 690 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Charlie_Kirk_by_Gage_Skidmore.jpg/1280px-Charlie_Kirk_by_Gage_Skidmore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Lindsay_Clancy_appeared_via_Zoom_from_Tewksbury_Hospital_for_a_hearing_in_Plymouth_Superior_Court.jpg/1280px-Lindsay_Clancy_appeared_via_Zoom_from_Tewksbury_Hospital_for_a_hearing_in_Plymouth_Superior_Court.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Capitol_Hill_as_seen_from_9th_and_Pine_looking_east_towards_Bellevue%2C_WA.jpg/1920px-Capitol_Hill_as_seen_from_9th_and_Pine_looking_east_towards_Bellevue%2C_WA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/United_States_Treasury_building_2023.jpg/1920px-United_States_Treasury_building_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Senator_Dan_Sullivan_official_%28cropped%29.jpg/1280px-Senator_Dan_Sullivan_official_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -15499,7 +15661,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Port_of_Los_Angeles%2C_San_Pedro%2C_California_%286026501161%29.jpg/1920px-Port_of_Los_Angeles%2C_San_Pedro%2C_California_%286026501161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Dalian_Liaoning_China_Military-Air-Base-01.jpg/1920px-Dalian_Liaoning_China_Military-Air-Base-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Stephen_Miller_%2854360303177%29_%28cropped%29.jpg/1280px-Stephen_Miller_%2854360303177%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Thomas_Massie_%288561647254%29.jpg/1280px-Thomas_Massie_%288561647254%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Thomas_Massie_%288561647254%29.jpg/1280px-Thomas_Massie_%288561647254%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg/1280px-Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Knesset_Israeli_Parliament_Building_%2841404889170%29.jpg/1920px-Knesset_Israeli_Parliament_Building_%2841404889170%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -17335,7 +17499,6 @@
    }
   },
   "recent_ideas": [
-   "absentee ballot",
    "voting booth",
    "verkhovna rada",
    "us capitol dome",
@@ -17346,7 +17509,8 @@
    "azadi tower",
    "senate chamber",
    "port of los angeles",
-   "military air base"
+   "military air base",
+   "knesset"
   ]
  }
 }
