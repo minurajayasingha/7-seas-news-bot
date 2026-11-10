@@ -13532,7 +13532,9 @@
   "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
   "https://www.nytimes.com/2026/11/10/us/politics/rubio-iran-war.html",
   "https://www.newsweek.com/joe-biden-donald-trump-2021-oval-office-letter-revealed-12696751",
-  "https://www.nytimes.com/2026/11/10/us/politics/biden-trump-letter.html"
+  "https://www.nytimes.com/2026/11/10/us/politics/biden-trump-letter.html",
+  "https://www.independent.co.uk/news/world/americas/us-politics/joe-biden-dublin-arrests-hunter-event-b3082651.html",
+  "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss"
  ],
  "recent_topics": [
   [
@@ -16609,17 +16611,13 @@
    "6d8d7d2eff"
   ]
  ],
- "last_draft_at": "2026-11-10T20:15:22.351957+00:00",
+ "last_draft_at": "2026-11-10T20:30:31.223656+00:00",
  "last_slot": "2026-11-10T15:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-10T20:00:36.748821+00:00",
  "run_log": [
-  "11-10 18:00:29 run start",
-  "11-10 18:01:00 listening 11 min",
-  "11-10 18:12:19 listening done",
-  "11-10 18:12:19 run end after 709 s",
   "11-10 18:15:23 run start",
   "11-10 18:15:41 listening 11 min",
   "11-10 18:27:00 listening done",
@@ -16655,7 +16653,11 @@
   "11-10 20:15:22 run start",
   "11-10 20:15:32 listening 11 min",
   "11-10 20:26:51 listening done",
-  "11-10 20:26:51 run end after 689 s"
+  "11-10 20:26:51 run end after 689 s",
+  "11-10 20:30:30 run start",
+  "11-10 20:30:46 listening 11 min",
+  "11-10 20:42:05 listening done",
+  "11-10 20:42:05 run end after 694 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
