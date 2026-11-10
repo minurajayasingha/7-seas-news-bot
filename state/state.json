@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892856,
+ "tg_offset": 495892861,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -11167,9 +11167,11 @@
    "news_time": "2026-11-10T10:36:00+00:00",
    "news_latest": "2026-11-10T12:11:56+00:00",
    "caption": "🚨 BREAKING: Bulgaria motorway crashes: 12 killed in multi-vehicle pile-ups\n\nThick fog in eastern Bulgaria triggered multiple vehicle crashes on a motorway. At least 12 people died and dozens sustained injuries.\n\nWhat we know so far:\n• At least 12 people were killed in crashes.\n• Dozoens of vehicles were involved in pile-ups.\n• The incident occurred on an eastern Bulgarian motorway.\n\n📖 Read more: https://abcnews.com/International/wireStory/12-people-killed-dozens-hurt-crashes-foggy-bulgarian-138004407\n\n#Bulgaria #WorldNews #Accident #7SeasNews",
-   "status": "pending",
+   "status": "replaced",
    "tg_message_id": 263,
-   "tg_file_id": "AgACAgUAAxkDAAIBB2rzEgyy_QqEDsMCPT03i4jxEV-7AAIwFWsbi0-YV-q5JJmblqvpAQADAgADdwADPQQ"
+   "tg_file_id": "AgACAgUAAxkDAAIBB2rzEgyy_QqEDsMCPT03i4jxEV-7AAIwFWsbi0-YV-q5JJmblqvpAQADAgADdwADPQQ",
+   "extra_msgs": [],
+   "cleared": true
   },
   "71149e7a33": {
    "id": "71149e7a33",
@@ -11379,9 +11381,20 @@
    "news_time": "2026-11-10T11:00:45+00:00",
    "news_latest": "2026-11-10T13:00:00+00:00",
    "caption": "House leadership up for grabs after Republican midterm losses\n\nRepublicans are facing House leadership races and confronting midterm losses. At the same time, voters in multiple states approved conservative ballot measures.\n\n💬 How will House Republicans navigate the upcoming leadership contests?\n\n📖 Read more: https://thehill.com/newsletters/the-movement/6209451-conservative-ballot-measures-win-big-gop-losses/\n\n#USPolitics #GOP #Midterms #7SeasNews",
-   "status": "pending",
+   "status": "posted",
    "tg_message_id": 266,
-   "tg_file_id": "AgACAgUAAxkDAAIBCmrzGPeGtWYpdM1aAZEhqiH-NWYoAAI4FWsbi0-YV2lM6eE8prEYAQADAgADdwADPQQ"
+   "tg_file_id": "AgACAgUAAxkDAAIBCmrzGPeGtWYpdM1aAZEhqiH-NWYoAAI4FWsbi0-YV2lM6eE8prEYAQADAgADdwADPQQ",
+   "dup_ok": true,
+   "extra_msgs": [],
+   "queued_at": "2026-11-10T14:26:01.655075+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122097589773548584",
+   "posted_at": "2026-11-10T14:26:01.962497+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 10 · 9:26 AM New York · 7:56 PM Sri Lanka\n\n<b>House leadership up for grabs after Republican midterm losses</b>\n<i>Fox News, The Hill</i>\n🟡 <b>Latest:</b> 6:30 PM Sri Lanka (1h 26m ago) · first reported 4:30 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122097589773548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 127,
+   "log_photo": true,
+   "cleared": true
   },
   "7659ed554e": {
    "id": "7659ed554e",
@@ -11653,9 +11666,93 @@
    "news_time": "2026-11-10T12:06:05+00:00",
    "news_latest": "2026-11-10T13:54:10+00:00",
    "caption": "🚨 BREAKING: Overnight strikes in Yemen kill one and wound nine\n\nOvernight strikes hit a gas station and an oil facility in Yemen. The attacks resulted in at least one death and left nine people wounded.\n\nWhat we know so far:\n• Overnight strikes hit Yemen\n• Gas station and oil facility targeted\n• At least one person killed\n\n📖 Read more: https://abcnews.com/International/wireStory/overnight-strikes-yemen-kill-1-person-wound-9-138005785\n\n#Yemen #MiddleEast #WorldNews #7SeasNews",
-   "status": "pending",
+   "status": "posted",
    "tg_message_id": 272,
-   "tg_file_id": "AgACAgUAAxkDAAIBEGrzJkMR0gcDrsPt5C2pZUkbMEi8AAJ2FWsbi0-YV8WaNHGOXccmAQADAgADdwADPQQ"
+   "tg_file_id": "AgACAgUAAxkDAAIBEGrzJkMR0gcDrsPt5C2pZUkbMEi8AAJ2FWsbi0-YV8WaNHGOXccmAQADAgADdwADPQQ",
+   "queued_at": "2026-11-10T14:25:05.548794+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122097588921548584",
+   "posted_at": "2026-11-10T14:25:06.553051+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 10 · 9:25 AM New York · 7:55 PM Sri Lanka\n\n<b>Overnight strikes in Yemen kill one and wound nine</b>\n<i>ABC News, The Independent</i>\n🟢 <b>Latest:</b> 7:24 PM Sri Lanka (31 min ago) · first reported 5:36 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122097588921548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 126,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "2363958054408794"
+  },
+  "1c6a725ed0": {
+   "id": "1c6a725ed0",
+   "headline": "Bulgaria motorway crashes: 12 killed in multi-vehicle pile-ups",
+   "summary": "Thick fog in eastern Bulgaria triggered multiple vehicle crashes on a motorway. At least 12 people died and dozens sustained injuries.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "At least 12 people were killed in crashes.",
+    "Dozoens of vehicles were involved in pile-ups.",
+    "The incident occurred on an eastern Bulgarian motorway."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Bulgaria",
+    "#WorldNews",
+    "#Accident"
+   ],
+   "sources": [
+    "ABC News",
+    "Sky News"
+   ],
+   "link": "https://abcnews.com/International/wireStory/12-people-killed-dozens-hurt-crashes-foggy-bulgarian-138004407",
+   "links": [
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/12-people-killed-dozens-hurt-crashes-foggy-bulgarian-138004407"
+    ],
+    [
+     "Sky News",
+     "https://news.sky.com/story/at-least-12-killed-in-bulgaria-motorway-pile-ups-involving-dozens-of-vehicles-13610553"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "tg_file_id": "AgACAgUAAxkBAAIBEWrzJ4gC29uB437F8E9IsswQQvk0AAJ4FWsbi0-YV3rGxf-TY6nBAQADAgADeQADPQQ",
+      "credit": ""
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Bulgaria motorway crashes: 12 killed in multi-vehicle pile-ups",
+    "people": [],
+    "image_query": "Bulgaria motorway",
+    "image_queries": [
+     "Bulgaria highway",
+     "motorway fog",
+     "traffic accident scene",
+     "emergency vehicles highway"
+    ],
+    "image_style": "incident",
+    "location": "Bulgaria"
+   },
+   "created_at": "2026-11-10T14:17:44.509494+00:00",
+   "news_time": "2026-11-10T10:36:00+00:00",
+   "news_latest": "2026-11-10T12:11:56+00:00",
+   "caption": "🚨 BREAKING: Bulgaria motorway crashes: 12 killed in multi-vehicle pile-ups\n\nThick fog in eastern Bulgaria triggered multiple vehicle crashes on a motorway. At least 12 people died and dozens sustained injuries.\n\nWhat we know so far:\n• At least 12 people were killed in crashes.\n• Dozoens of vehicles were involved in pile-ups.\n• The incident occurred on an eastern Bulgarian motorway.\n\n📖 Read more: https://abcnews.com/International/wireStory/12-people-killed-dozens-hurt-crashes-foggy-bulgarian-138004407\n\n#Bulgaria #WorldNews #Accident #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 274,
+   "tg_file_id": "AgACAgUAAxkDAAIBEmrzJ5b3YPJx_gX-kP-4XVBhQLEQAAJ5FWsbi0-YV8U9ev8OUiToAQADAgADdwADPQQ",
+   "queued_at": "2026-11-10T14:24:35.221945+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122097588441548584",
+   "posted_at": "2026-11-10T14:24:35.528258+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 10 · 9:24 AM New York · 7:54 PM Sri Lanka\n\n<b>Bulgaria motorway crashes: 12 killed in multi-vehicle pile-ups</b>\n<i>ABC News, Sky News</i>\n🟡 <b>Latest:</b> 5:41 PM Sri Lanka (2h 13m ago) · first reported 4:06 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122097588441548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 125,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "978103131586978"
   }
  },
  "seen_links": [
@@ -12040,7 +12137,9 @@
   "https://www.upi.com/Top_News/World-News/2026/11/10/air-force-planes-withdrawn-from-RAF-Mildenhall/5801794309150/",
   "https://www.washingtonpost.com/world/2026/11/10/us-aircraft-abruptly-depart-second-uk-base/",
   "https://abcnews.com/International/wireStory/overnight-strikes-yemen-kill-1-person-wound-9-138005785",
-  "https://www.independent.co.uk/news/world/americas/iran-yemen-united-states-houthi-saudi-arabia-b3082372.html"
+  "https://www.independent.co.uk/news/world/americas/iran-yemen-united-states-houthi-saudi-arabia-b3082372.html",
+  "https://www.aljazeera.com/news/2026/11/10/israeli-soldiers-are-also-settlers-in-west-bank-al-jazeera-investigation?traffic_source=rss",
+  "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss"
  ],
  "recent_topics": [
   [
@@ -15118,17 +15217,13 @@
    "19d89e3ee6"
   ]
  ],
- "last_draft_at": "2026-11-10T14:00:31.625287+00:00",
+ "last_draft_at": "2026-11-10T14:15:22.238287+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-10T13:45:20.917246+00:00",
  "run_log": [
-  "11-10 11:45:20 run start",
-  "11-10 11:46:02 listening 11 min",
-  "11-10 11:56:56 listening done",
-  "11-10 11:56:56 run end after 696 s",
   "11-10 12:00:31 run start",
   "11-10 12:00:50 listening 11 min",
   "11-10 12:12:11 listening done",
@@ -15164,7 +15259,11 @@
   "11-10 14:00:31 run start",
   "11-10 14:00:47 listening 11 min",
   "11-10 14:12:20 listening done",
-  "11-10 14:12:20 run end after 709 s"
+  "11-10 14:12:20 run end after 709 s",
+  "11-10 14:15:21 run start",
+  "11-10 14:15:56 listening 11 min",
+  "11-10 14:26:58 listening done",
+  "11-10 14:26:58 run end after 696 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
