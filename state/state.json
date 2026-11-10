@@ -13167,7 +13167,9 @@
   "https://www.independent.co.uk/news/world/americas/crime/jason-watford-cruise-ship-murder-msc-seascape-b3082610.html",
   "https://www.nbcnews.com/news/us-news/texas-cruise-ship-slaying-jason-leon-watford-charged-allegedly-choking-rcna608518",
   "https://thehill.com/homenews/house/6211133-pelosi-advises-against-kicking-stevens-out-of-house-democratic-caucus/",
-  "https://www.washingtonpost.com/politics/2026/11/10/pelosi-does-not-support-kicking-rep-haley-stevens-out-democratic-caucus/"
+  "https://www.washingtonpost.com/politics/2026/11/10/pelosi-does-not-support-kicking-rep-haley-stevens-out-democratic-caucus/",
+  "https://abcnews.com/International/wireStory/spain-holds-state-funeral-69-killed-high-speed-138022635",
+  "https://www.independent.co.uk/news/world/europe/spain-train-crash-driver-strike-2026-b3082481.html"
  ],
  "recent_topics": [
   [
@@ -16187,17 +16189,13 @@
    "29693a3a86"
   ]
  ],
- "last_draft_at": "2026-11-10T19:15:20.378893+00:00",
+ "last_draft_at": "2026-11-10T19:30:27.344749+00:00",
  "last_slot": "2026-11-10T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-10T19:00:32.372291+00:00",
  "run_log": [
-  "11-10 17:02:26 run start",
-  "11-10 17:02:36 listening 11 min",
-  "11-10 17:13:56 listening done",
-  "11-10 17:13:56 run end after 690 s",
   "11-10 17:15:22 run start",
   "11-10 17:15:38 listening 11 min",
   "11-10 17:26:57 listening done",
@@ -16233,7 +16231,11 @@
   "11-10 19:15:19 run start",
   "11-10 19:15:37 listening 11 min",
   "11-10 19:26:56 listening done",
-  "11-10 19:26:56 run end after 696 s"
+  "11-10 19:26:56 run end after 696 s",
+  "11-10 19:30:26 run start",
+  "11-10 19:30:39 listening 11 min",
+  "11-10 19:41:58 listening done",
+  "11-10 19:41:58 run end after 691 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
