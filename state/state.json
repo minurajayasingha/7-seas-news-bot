@@ -10207,6 +10207,75 @@
    "status": "pending",
    "tg_message_id": 248,
    "tg_file_id": "AgACAgUAAxkDAAP4avLLwSBzhzb14LrcPPYg6mqayRsAAvUTaxuLT5hX9biAiE8WVoUBAAMCAAN3AAM9BA"
+  },
+  "1c90d14518": {
+   "id": "1c90d14518",
+   "headline": "Trump and Qatari Prime Minister discuss US-Iran negotiations",
+   "summary": "U.S. President Donald Trump met with Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani at the White House on Monday. Following the meeting, the Qatari prime minister described the discussions regarding Iran as positive.",
+   "label": "DIPLOMACY",
+   "hook": "Will these discussions between the US and Qatar lead to progress on Iran negotiations?",
+   "key_points": [
+    "U.S. President Donald Trump met the Qatari Prime Minister in Washington.",
+    "The Qatari prime minister described the Iran discussions as positive."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USIran",
+    "#Qatar",
+    "#WhiteHouse"
+   ],
+   "sources": [
+    "The Hill",
+    "UPI"
+   ],
+   "link": "https://www.upi.com/Top_News/US/2026/11/10/Trump-Qatar-meeting-Iran-negotiations/7831794293830/",
+   "links": [
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/US/2026/11/10/Trump-Qatar-meeting-Iran-negotiations/7831794293830/"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/policy/international/6209663-us-middle-east-war-midterms/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Capitol_Washington_October_2016-3.jpg/1920px-Capitol_Washington_October_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Alvesgaspar / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ],
+    "inset": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credit": "Michael Vadon / Wikimedia Commons (CC BY-SA 4.0)",
+     "short": "WIKIMEDIA COMMONS"
+    }
+   },
+   "img_post": {
+    "headline": "Trump and Qatari Prime Minister discuss US-Iran negotiations",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "White House",
+    "image_queries": [
+     "White House exterior",
+     "Oval Office",
+     "Washington DC skyline",
+     "US Capitol building"
+    ],
+    "image_style": "scene",
+    "location": "Washington, US"
+   },
+   "created_at": "2026-11-10T08:09:11.265183+00:00",
+   "news_time": "2026-11-10T02:59:34+00:00",
+   "news_latest": "2026-11-10T08:08:44+00:00",
+   "caption": "Trump and Qatari Prime Minister discuss US-Iran negotiations\n\nU.S. President Donald Trump met with Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani at the White House on Monday. Following the meeting, the Qatari prime minister described the discussions regarding Iran as positive.\n\n💬 Will these discussions between the US and Qatar lead to progress on Iran negotiations?\n\n📖 Read more: https://www.upi.com/Top_News/US/2026/11/10/Trump-Qatar-meeting-Iran-negotiations/7831794293830/\n\n#USIran #Qatar #WhiteHouse #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 249,
+   "tg_file_id": "AgACAgUAAxkDAAP5avLRK8xsw-u61m53uRwJ9piZg2EAAgUUaxuLT5hXg8TzkROJHe0BAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -10551,7 +10620,9 @@
   "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
   "https://www.independent.co.uk/news/world/australasia/australia-ai-regulator-openai-breach-chatgpt-b3082128.html",
   "https://news.sky.com/story/us-aircraft-moved-from-raf-mildenhall-over-reported-threat-from-iran-13610466",
-  "https://www.theguardian.com/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat"
+  "https://www.theguardian.com/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat",
+  "https://www.upi.com/Top_News/US/2026/11/10/Trump-Qatar-meeting-Iran-negotiations/7831794293830/",
+  "https://thehill.com/policy/international/6209663-us-middle-east-war-midterms/"
  ],
  "recent_topics": [
   [
@@ -13261,19 +13332,32 @@
     "threat"
    ],
    "cca21c9568"
+  ],
+  [
+   "2026-11-10T08:09:15.645739+00:00",
+   [
+    "discuss",
+    "discussion",
+    "hous",
+    "iran",
+    "minister",
+    "negotiation",
+    "positiv",
+    "prim",
+    "qatari",
+    "trump",
+    "whit"
+   ],
+   "1c90d14518"
   ]
  ],
- "last_draft_at": "2026-11-10T07:57:17.119469+00:00",
+ "last_draft_at": "2026-11-10T08:08:59.421435+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-10T07:45:22.677498+00:00",
  "run_log": [
-  "11-10 05:45:22 run start",
-  "11-10 05:45:46 listening 11 min",
-  "11-10 05:57:05 listening done",
-  "11-10 05:57:05 run end after 703 s",
   "11-10 06:00:28 run start",
   "11-10 06:00:38 listening 11 min",
   "11-10 06:11:57 listening done",
@@ -13309,13 +13393,15 @@
   "11-10 07:57:16 run start",
   "11-10 07:57:27 listening 11 min",
   "11-10 08:08:46 listening done",
-  "11-10 08:08:46 run end after 690 s"
+  "11-10 08:08:46 run end after 690 s",
+  "11-10 08:08:59 run start",
+  "11-10 08:09:15 listening 11 min",
+  "11-10 08:20:33 listening done",
+  "11-10 08:20:33 run end after 694 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/TCF_Bank_College_Football_Stadium_Minnesota_Golden_Gophers_Sunset_Panorama_-_panoramio.jpg/1920px-TCF_Bank_College_Football_Stadium_Minnesota_Golden_Gophers_Sunset_Panorama_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/National_Mall%2C_Washington%2C_D.C._%2820100325-DSC01346%29.jpg/1920px-National_Mall%2C_Washington%2C_D.C._%2820100325-DSC01346%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Bernie_Sanders_%2825973827305%29.jpg/1280px-Bernie_Sanders_%2825973827305%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Senator_JD_Vance_thanking_first_responders_in_East_Palestine.jpg/1280px-Senator_JD_Vance_thanking_first_responders_in_East_Palestine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/c/cc/Massie_Thomas_119th_Congress_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -13353,7 +13439,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2021-11-19_Damaged_container_ship%2C_MV_ZIM_KINGSTON_-_IMO_9389693.jpg/1920px-2021-11-19_Damaged_container_ship%2C_MV_ZIM_KINGSTON_-_IMO_9389693.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Australian_Senate_-_Parliament_of_Australia.jpg/1920px-Australian_Senate_-_Parliament_of_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/a/ae/North_of_Tehran_Skyline_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/a/ae/North_of_Tehran_Skyline_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Capitol_Washington_October_2016-3.jpg/1920px-Capitol_Washington_October_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -15179,7 +15267,6 @@
    }
   },
   "recent_ideas": [
-   "provo courthouse",
    "capitol hill",
    "treasury building, washington",
    "robert f. kennedy department of justice building",
@@ -15190,7 +15277,8 @@
    "national mall, washington",
    "container ship",
    "australian parliament",
-   "tehran skyline"
+   "tehran skyline",
+   "us capitol building"
   ]
  }
 }
