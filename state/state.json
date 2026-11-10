@@ -13436,6 +13436,69 @@
    "status": "pending",
    "tg_message_id": 308,
    "tg_file_id": "AgACAgUAAxkDAAIBNGrzlhnSBwQaXsHiMJ25XzqUryPKAAJLEWsbi0-gV1czrljlZcaAAQADAgADdwADPQQ"
+  },
+  "e61ff03e9d": {
+   "id": "e61ff03e9d",
+   "headline": "US poll: Death penalty loses majority support since 1971",
+   "summary": "According to a new Gallup poll, fewer than 50% of adults in the United States support the death penalty. Support has been declining for years due to concerns about fairness and racial bias.",
+   "label": "US POLITICS",
+   "hook": "Should the United States continue using the death penalty?",
+   "key_points": [
+    "49% of US adults are in favor of capital punishment",
+    "45% of adults are opposed to the death penalty",
+    "Support fell below 50% for the first time since 1971"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#DeathPenalty",
+    "#USNews",
+    "#GallupPoll"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "UPI"
+   ],
+   "link": "https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971?traffic_source=rss"
+    ],
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/US/2026/11/10/gallup-fewer-50-percent-americans-death-penalty/5601794343812/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Robert_F._Kennedy_Department_of_Justice_Building_-_Plato_inscription_-_2714.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Gregory Varnum / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "US poll: Death penalty loses majority support since 1971",
+    "people": [],
+    "image_query": "Supreme Court building",
+    "image_queries": [
+     "US Capitol dome",
+     "Department of Justice building",
+     "prison fence",
+     "voting booth"
+    ],
+    "image_style": "scene",
+    "location": "US"
+   },
+   "created_at": "2026-11-10T22:21:16.938385+00:00",
+   "news_time": "2026-11-10T21:12:24+00:00",
+   "news_latest": "2026-11-10T22:03:20+00:00",
+   "caption": "US poll: Death penalty loses majority support since 1971\n\nAccording to a new Gallup poll, fewer than 50% of adults in the United States support the death penalty. Support has been declining for years due to concerns about fairness and racial bias.\n\n💬 Should the United States continue using the death penalty?\n\n📖 Read more: https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971?traffic_source=rss\n\n#DeathPenalty #USNews #GallupPoll #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 309,
+   "tg_file_id": "AgACAgUAAxkDAAIBNWrzmOD2zy1n_zH6GeUKuB-QxRc6AAJMEWsbi0-gV8TKtsXnBEH2AQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -13906,7 +13969,11 @@
   "https://www.nytimes.com/2026/11/10/us/politics/voice-of-america-appeals-court.html",
   "https://www.washingtonexaminer.com/news/justice/4798861/court-blocks-white-house-firing-voice-of-america-director-upholding-previous-ruling/",
   "https://thehill.com/the-120/6212040-cornyn-talarico-senate-transition/",
-  "https://www.foxnews.com/politics/cornyn-meets-sen-elect-talarico-describes-him-basically-good-person"
+  "https://www.foxnews.com/politics/cornyn-meets-sen-elect-talarico-describes-him-basically-good-person",
+  "https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971?traffic_source=rss",
+  "https://www.upi.com/Top_News/US/2026/11/10/gallup-fewer-50-percent-americans-death-penalty/5601794343812/",
+  "https://abcnews.com/International/wireStory/dominican-president-backs-bukele-salvadoran-troops-haiti-138027231",
+  "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -17084,19 +17151,34 @@
     "tim"
    ],
    "2f96ce7c0d"
+  ],
+  [
+   "2026-11-10T22:21:20.907400+00:00",
+   [
+    "50",
+    "american",
+    "death",
+    "fewer",
+    "gallup",
+    "lost",
+    "majority",
+    "penalty",
+    "poll",
+    "show",
+    "sinc",
+    "support",
+    "tim"
+   ],
+   "e61ff03e9d"
   ]
  ],
- "last_draft_at": "2026-11-10T22:09:14.126215+00:00",
+ "last_draft_at": "2026-11-10T22:21:03.513351+00:00",
  "last_slot": "2026-11-10T15:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-10T21:57:12.743546+00:00",
  "run_log": [
-  "11-10 20:00:29 run start",
-  "11-10 20:01:10 listening 11 min",
-  "11-10 20:12:03 listening done",
-  "11-10 20:12:03 run end after 694 s",
   "11-10 20:15:22 run start",
   "11-10 20:15:32 listening 11 min",
   "11-10 20:26:51 listening done",
@@ -17132,12 +17214,15 @@
   "11-10 22:09:11 run start",
   "11-10 22:09:29 listening 11 min",
   "11-10 22:20:48 listening done",
-  "11-10 22:20:48 run end after 696 s"
+  "11-10 22:20:48 run end after 696 s",
+  "11-10 22:21:03 run start",
+  "11-10 22:22:51 listening 10 min",
+  "11-10 22:32:30 listening done",
+  "11-10 22:32:30 run end after 687 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Donald_Trump_official_portrait_2020_election.jpg/1280px-Donald_Trump_official_portrait_2020_election.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/5/5c/Iowa_City%2C_IA_-_Early_Voting_Automobile_Queue_October_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Capital_Centre_-_Abu_Dhabi_-_United_Arab_Emirates_-_panoramio_%282%29.jpg/1920px-Capital_Centre_-_Abu_Dhabi_-_United_Arab_Emirates_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/7/76/United_Nations_Headquarters%2C_seen_from_an_NYC_Ferry_on_the_East_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -17176,7 +17261,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Pete_Hegseth_%2851772585499%29.jpg/1280px-Pete_Hegseth_%2851772585499%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/9/96/Tower_of_David_at_dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/John_Cornyn_official_portrait.jpg/1280px-John_Cornyn_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/7/70/James_Talarico_Press_Conference_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/7/70/James_Talarico_Press_Conference_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://upload.wikimedia.org/wikipedia/commons/8/8a/Robert_F._Kennedy_Department_of_Justice_Building_-_Plato_inscription_-_2714.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   ],
   "pools": {
    "donald trump": {
@@ -19759,7 +19845,6 @@
    }
   },
   "recent_ideas": [
-   "military air base",
    "knesset",
    "capitol at night",
    "national mall washington dc",
@@ -19770,7 +19855,8 @@
    "u.s. embassy london",
    "capitol hill",
    "tower of david",
-   "us capitol dome"
+   "us capitol dome",
+   "robert f. kennedy department of justice building"
   ]
  }
 }
