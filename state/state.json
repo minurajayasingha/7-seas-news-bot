@@ -13499,6 +13499,64 @@
    "status": "pending",
    "tg_message_id": 309,
    "tg_file_id": "AgACAgUAAxkDAAIBNWrzmOD2zy1n_zH6GeUKuB-QxRc6AAJMEWsbi0-gV8TKtsXnBEH2AQADAgADdwADPQQ"
+  },
+  "9868f8195c": {
+   "id": "9868f8195c",
+   "headline": "Israeli forces kill 14-year-old boy during West Bank raid",
+   "summary": "Israeli forces killed a 14-year-old boy in Burqa during a West Bank raid, while settlers assaulted a woman near Hebron. Doctors Without Borders reported that ongoing movement restrictions and house demolitions continue to obstruct healthcare access.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Israeli forces killed a 14-year-old boy in Burqa.",
+    "Settlers assaulted a woman near Hebron.",
+    "Medical teams faced movement restrictions during lockdowns."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#WestBank",
+    "#WorldNews",
+    "#Conflict"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "France 24"
+   ],
+   "link": "https://www.france24.com/en/video/20261110-west-bank-population-and-healthcare-actors-such-as-msf-still-facing-movement-restrictions",
+   "links": [
+    [
+     "France 24",
+     "https://www.france24.com/en/video/20261110-west-bank-population-and-healthcare-actors-such-as-msf-still-facing-movement-restrictions"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/10/jerusalem-daily-14-year-old-killed-in-west-bank-raid?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "West Bank"
+   },
+   "img_post": {
+    "headline": "Israeli forces kill 14-year-old boy during West Bank raid",
+    "people": [],
+    "image_query": "West Bank landscape",
+    "image_queries": [
+     "Hebron city",
+     "Burqa village",
+     "West Bank road",
+     "medical clinic interior"
+    ],
+    "image_style": "incident",
+    "location": "West Bank"
+   },
+   "created_at": "2026-11-10T22:32:55.888808+00:00",
+   "news_time": "2026-11-10T18:58:05+00:00",
+   "news_latest": "2026-11-10T22:25:48+00:00",
+   "caption": "Israeli forces kill 14-year-old boy during West Bank raid\n\nIsraeli forces killed a 14-year-old boy in Burqa during a West Bank raid, while settlers assaulted a woman near Hebron. Doctors Without Borders reported that ongoing movement restrictions and house demolitions continue to obstruct healthcare access.\n\n📖 Read more: https://www.france24.com/en/video/20261110-west-bank-population-and-healthcare-actors-such-as-msf-still-facing-movement-restrictions\n\n#WestBank #WorldNews #Conflict #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 310,
+   "tg_file_id": "AgACAgUAAxkDAAIBNmrzm5lK7fNB7ROK2qxvMPwmChOqAAJPEWsbi0-gV2qV9YkC61yxAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -13973,7 +14031,12 @@
   "https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971?traffic_source=rss",
   "https://www.upi.com/Top_News/US/2026/11/10/gallup-fewer-50-percent-americans-death-penalty/5601794343812/",
   "https://abcnews.com/International/wireStory/dominican-president-backs-bukele-salvadoran-troops-haiti-138027231",
-  "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead?traffic_source=rss"
+  "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead?traffic_source=rss",
+  "https://www.france24.com/en/americas/20261110-us-iranian-operatives-raf-fairford-terror-plot",
+  "https://www.cbsnews.com/news/3-iran-operatives-indicted-terror-plots/",
+  "https://www.independent.co.uk/news/world/americas/crime/raf-fairford-charges-iran-terror-suspects-b3082754.html",
+  "https://www.france24.com/en/video/20261110-west-bank-population-and-healthcare-actors-such-as-msf-still-facing-movement-restrictions",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/10/jerusalem-daily-14-year-old-killed-in-west-bank-raid?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -17170,19 +17233,38 @@
     "tim"
    ],
    "e61ff03e9d"
+  ],
+  [
+   "2026-11-10T22:32:58.317096+00:00",
+   [
+    "14",
+    "actor",
+    "bank",
+    "daily",
+    "fac",
+    "healthcar",
+    "jerusalem",
+    "kill",
+    "movement",
+    "msf",
+    "population",
+    "raid",
+    "restriction",
+    "still",
+    "such",
+    "west",
+    "year-old"
+   ],
+   "9868f8195c"
   ]
  ],
- "last_draft_at": "2026-11-10T22:21:03.513351+00:00",
+ "last_draft_at": "2026-11-10T22:32:42.929446+00:00",
  "last_slot": "2026-11-10T15:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-10T21:57:12.743546+00:00",
  "run_log": [
-  "11-10 20:15:22 run start",
-  "11-10 20:15:32 listening 11 min",
-  "11-10 20:26:51 listening done",
-  "11-10 20:26:51 run end after 689 s",
   "11-10 20:30:30 run start",
   "11-10 20:30:46 listening 11 min",
   "11-10 20:42:05 listening done",
@@ -17218,7 +17300,11 @@
   "11-10 22:21:03 run start",
   "11-10 22:22:51 listening 10 min",
   "11-10 22:32:30 listening done",
-  "11-10 22:32:30 run end after 687 s"
+  "11-10 22:32:30 run end after 687 s",
+  "11-10 22:32:42 run start",
+  "11-10 22:32:58 listening 11 min",
+  "11-10 22:44:16 listening done",
+  "11-10 22:44:16 run end after 694 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
