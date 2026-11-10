@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892841,
+ "tg_offset": 495892842,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -10465,6 +10465,80 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_story_id": "1466151692148206"
+  },
+  "7e020afc69": {
+   "id": "7e020afc69",
+   "headline": "Scalise and Jordan compete: House Republicans vote for minority leader",
+   "summary": "House Republicans are voting on Tuesday to choose a new leader following midterm election defeats. Steve Scalise and Jim Jordan are competing for the position of minority leader.",
+   "label": "ELECTIONS",
+   "hook": "Will House Republicans choose Steve Scalise or Jim Jordan as their next minority leader?",
+   "key_points": [
+    "House GOP voting on Tuesday for a new leader",
+    "Race is between Steve Scalise and Jim Jordan",
+    "Vote follows midterm election defeats"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#HouseRepublicans",
+    "#USPolitics",
+    "#Congress"
+   ],
+   "sources": [
+    "NPR",
+    "Washington Examiner"
+   ],
+   "link": "https://www.npr.org/2026/11/10/nx-s1-6030988/gop-leadership-election-steve-scalise-jim-jordan",
+   "links": [
+    [
+     "NPR",
+     "https://www.npr.org/2026/11/10/nx-s1-6030988/gop-leadership-election-steve-scalise-jim-jordan"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/house/4798260/republicans-pick-scalise-jordan-minority-leader/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Absentee_Ballot_Sendoff_%2854195767561%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "U.S. Embassy and Consulates in Canada / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Scalise and Jordan compete: House Republicans vote for minority leader",
+    "people": [],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "House of Representatives chamber",
+     "Capitol Hill",
+     "voting booth",
+     "US Capitol dome"
+    ],
+    "image_style": "scene",
+    "location": "US"
+   },
+   "created_at": "2026-11-10T10:15:34.374947+00:00",
+   "news_time": "2026-11-10T10:00:00+00:00",
+   "news_latest": "2026-11-10T10:01:00+00:00",
+   "caption": "Scalise and Jordan compete: House Republicans vote for minority leader\n\nHouse Republicans are voting on Tuesday to choose a new leader following midterm election defeats. Steve Scalise and Jim Jordan are competing for the position of minority leader.\n\n💬 Will House Republicans choose Steve Scalise or Jim Jordan as their next minority leader?\n\n📖 Read more: https://www.npr.org/2026/11/10/nx-s1-6030988/gop-leadership-election-steve-scalise-jim-jordan\n\n#HouseRepublicans #USPolitics #Congress #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 252,
+   "tg_file_id": "AgACAgUAAxkDAAP8avLuyfDmoILA3qp_gXXnPf16mFwAAmcUaxuLT5hXQLhegui3sRIBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-10T10:16:00.913512+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122097401595548584",
+   "posted_at": "2026-11-10T10:16:01.229884+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 10 · 5:16 AM New York · 3:46 PM Sri Lanka\n\n<b>Scalise and Jordan compete: House Republicans vote for minority leader</b>\n<i>NPR, Washington Examiner</i>\n🟢 <b>Latest:</b> 3:31 PM Sri Lanka (15 min ago) · first reported 3:30 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122097401595548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 115,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "1820954732443142"
   }
  },
  "seen_links": [
@@ -10816,7 +10890,9 @@
   "https://www.france24.com/en/environment/20261110-fossil-fuel-emissions-set-to-fall-for-first-time-since-covid-research-shows",
   "https://www.upi.com/Top_News/World-News/2026/11/10/Kim-Yo-Jong-Antonio-Guterres-reject-dialogue-DMZ/3251794301537/",
   "https://abcnews.com/International/wireStory/north-korean-defectors-view-kim-jong-uns-daughter-137999884",
-  "https://abcnews.com/International/wireStory/gods-reigning-humans-defectors-daughter-north-koreas-kim-137999978"
+  "https://abcnews.com/International/wireStory/gods-reigning-humans-defectors-daughter-north-koreas-kim-137999978",
+  "https://www.npr.org/2026/11/10/nx-s1-6030988/gop-leadership-election-steve-scalise-jim-jordan",
+  "https://www.washingtonexaminer.com/news/house/4798260/republicans-pick-scalise-jordan-minority-leader/"
  ],
  "recent_topics": [
   [
@@ -13594,19 +13670,33 @@
     "view"
    ],
    "21ce99e6bc"
+  ],
+  [
+   "2026-11-10T10:15:37.470938+00:00",
+   [
+    "choos",
+    "defeat",
+    "elect",
+    "hous",
+    "jordan",
+    "leader",
+    "look",
+    "midterm",
+    "minority",
+    "rebuild",
+    "republican",
+    "scalis"
+   ],
+   "7e020afc69"
   ]
  ],
- "last_draft_at": "2026-11-10T10:00:31.447602+00:00",
+ "last_draft_at": "2026-11-10T10:15:21.248497+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-10T09:45:23.478813+00:00",
  "run_log": [
-  "11-10 07:57:16 run start",
-  "11-10 07:57:27 listening 11 min",
-  "11-10 08:08:46 listening done",
-  "11-10 08:08:46 run end after 690 s",
   "11-10 08:08:59 run start",
   "11-10 08:09:15 listening 11 min",
   "11-10 08:20:33 listening done",
@@ -13642,12 +13732,15 @@
   "11-10 10:00:31 run start",
   "11-10 10:00:41 listening 11 min",
   "11-10 10:11:59 listening done",
-  "11-10 10:11:59 run end after 688 s"
+  "11-10 10:11:59 run end after 688 s",
+  "11-10 10:15:20 run start",
+  "11-10 10:15:37 listening 11 min",
+  "11-10 10:27:08 listening done",
+  "11-10 10:27:08 run end after 708 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/c/cc/Massie_Thomas_119th_Congress_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Secretary_of_Defense_Pete_Hegseth_official_portrait_%28cropped%29.jpg/1280px-Secretary_of_Defense_Pete_Hegseth_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Sacramento_Courthouse_Building_2024-02-25.jpg/1920px-Sacramento_Courthouse_Building_2024-02-25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/e/e5/Early_Voting_0873_%2831735035288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -13686,7 +13779,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Capitol_Washington_October_2016-3.jpg/1920px-Capitol_Washington_October_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/0/06/Kim_Yo-jong_%282018%29_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/0/06/Kim_Yo-jong_%282018%29_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://upload.wikimedia.org/wikipedia/commons/9/9b/Absentee_Ballot_Sendoff_%2854195767561%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   ],
   "pools": {
    "donald trump": {
@@ -15522,7 +15616,6 @@
    }
   },
   "recent_ideas": [
-   "treasury building, washington",
    "robert f. kennedy department of justice building",
    "maine state house",
    "wind turbines",
@@ -15533,7 +15626,8 @@
    "australian parliament",
    "tehran skyline",
    "us capitol building",
-   "marriner s. eccles federal reserve board building"
+   "marriner s. eccles federal reserve board building",
+   "absentee ballot"
   ]
  }
 }
