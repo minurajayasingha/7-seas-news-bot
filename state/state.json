@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892876,
+ "tg_offset": 495892880,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -11046,9 +11046,16 @@
    "news_time": "2026-11-10T10:58:18+00:00",
    "news_latest": "2026-11-10T11:23:34+00:00",
    "caption": "US and officials begin peace talks in Abu Dhabi\n\nOfficials have started the first substantive negotiations between Russia and Ukraine since February. The two-day session in Abu Dhabi will focus on security guarantees and a final end to the war.\n\n💬 Can these talks in Abu Dhabi end the fighting?\n\n📖 Read more: https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks\n\n#WorldNews #AbuDhabi #UkraineWar #7SeasNews",
-   "status": "pending",
+   "status": "queued",
    "tg_message_id": 261,
-   "tg_file_id": "AgACAgUAAxkDAAIBBWrzA_pwsqCakAMj70foVlflC0gDAAMVaxuLT5hX_6VL1P6xw50BAAMCAAN3AAM9BA"
+   "tg_file_id": "AgACAgUAAxkDAAIBBWrzA_pwsqCakAMj70foVlflC0gDAAMVaxuLT5hX_6VL1P6xw50BAAMCAAN3AAM9BA",
+   "dup_ok": true,
+   "extra_msgs": [
+    292,
+    294
+   ],
+   "queued_at": "2026-11-10T17:51:41.365643+00:00",
+   "post_now": false
   },
   "caba8b6905": {
    "id": "caba8b6905",
@@ -12049,9 +12056,14 @@
    "news_time": "2026-11-10T12:25:48+00:00",
    "news_latest": "2026-11-10T14:59:09+00:00",
    "caption": "Israel parliament gathers with opposition leading Knesset\n\nIsrael's new parliament is gathering as leaders compete to form a government. Benjamin Netanyahu's political rival, Gadi Eisenkot, has the first chance to build a new administration.\n\n💬 Can Gadi Eisenkot successfully form a new government and oust Benjamin Netanyahu?\n\n📖 Read more: https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html\n\n#Israel #Knesset #WorldNews #7SeasNews",
-   "status": "pending",
+   "status": "queued",
    "tg_message_id": 281,
-   "tg_file_id": "AgACAgUAAxkDAAIBGWrzNS6wgpuL6ucbWcepSk5Ps292AAKkFWsbi0-YV-n62PNqvrs3AQADAgADdwADPQQ"
+   "tg_file_id": "AgACAgUAAxkDAAIBGWrzNS6wgpuL6ucbWcepSk5Ps292AAKkFWsbi0-YV-n62PNqvrs3AQADAgADdwADPQQ",
+   "queued_at": "2026-11-10T17:51:30.477240+00:00",
+   "post_now": false,
+   "extra_msgs": [
+    293
+   ]
   },
   "e5eb01cfdb": {
    "id": "e5eb01cfdb",
@@ -12520,9 +12532,14 @@
    "news_time": "2026-11-10T14:00:13+00:00",
    "news_latest": "2026-11-10T17:13:03+00:00",
    "caption": "House Oversight Committee exposes federal failures in Epstein case\n\nThe House Oversight Committee released a report after a 15-month investigation accusing federal authorities of failing Jeffrey Epstein's victims. The investigation involved interviews with Epstein's high-powered associates.\n\n📖 Read more: https://www.independent.co.uk/news/world/americas/us-politics/epstein-trump-cleared-investigation-congress-b3082643.html\n\n#HouseOversight #USPolitics #Epstein #7SeasNews",
-   "status": "pending",
+   "status": "queued",
    "tg_message_id": 291,
-   "tg_file_id": "AgACAgUAAxkDAAIBI2rzUTkdaaGlWlSK3-rox-HCkfSFAALdFWsbi0-YV28GW1G9iDbqAQADAgADdwADPQQ"
+   "tg_file_id": "AgACAgUAAxkDAAIBI2rzUTkdaaGlWlSK3-rox-HCkfSFAALdFWsbi0-YV28GW1G9iDbqAQADAgADdwADPQQ",
+   "queued_at": "2026-11-10T17:51:47.493779+00:00",
+   "post_now": false,
+   "extra_msgs": [
+    295
+   ]
   }
  },
  "seen_links": [
@@ -12942,7 +12959,11 @@
   "https://www.cbsnews.com/news/jeffrey-epstein-house-oversight-committee-report/",
   "https://www.foxnews.com/politics/explosive-house-report-exposes-failures-says-allowed-epsteins-abuse-continue-years",
   "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-  "https://www.france24.com/en/video/20261110-ukraine-peace-talks-who-is-sitting-at-the-negotiating-table-%E2%80%93-and-why-it-matters"
+  "https://www.france24.com/en/video/20261110-ukraine-peace-talks-who-is-sitting-at-the-negotiating-table-%E2%80%93-and-why-it-matters",
+  "https://thehill.com/homenews/state-watch/6211050-haitian-boy-detained-california/",
+  "https://www.theguardian.com/us-news/2026/nov/10/haitian-boy-ice-california",
+  "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
+  "https://kyivindependent.com/russia-planning-strikes-on-ukraines-food-industry-military-intelligence-source-says/"
  ],
  "recent_topics": [
   [
@@ -15901,17 +15922,13 @@
    "edbbbef778"
   ]
  ],
- "last_draft_at": "2026-11-10T17:30:26.729445+00:00",
+ "last_draft_at": "2026-11-10T17:45:20.826638+00:00",
  "last_slot": "2026-11-10T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-10T16:50:33.070333+00:00",
  "run_log": [
-  "11-10 15:30:25 run start",
-  "11-10 15:31:34 listening 10 min",
-  "11-10 15:42:02 listening done",
-  "11-10 15:42:02 run end after 696 s",
   "11-10 15:45:23 run start",
   "11-10 15:46:24 listening 10 min",
   "11-10 15:56:54 listening done",
@@ -15947,7 +15964,11 @@
   "11-10 17:30:26 run start",
   "11-10 17:30:40 listening 11 min",
   "11-10 17:41:59 listening done",
-  "11-10 17:41:59 run end after 693 s"
+  "11-10 17:41:59 run end after 693 s",
+  "11-10 17:45:20 run start",
+  "11-10 17:45:39 listening 11 min",
+  "11-10 17:56:49 listening done",
+  "11-10 17:56:49 run end after 689 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
