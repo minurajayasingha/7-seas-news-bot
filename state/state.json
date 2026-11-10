@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892835,
+ "tg_offset": 495892838,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -10204,9 +10204,20 @@
    "news_time": "2026-11-10T06:46:53+00:00",
    "news_latest": "2026-11-10T07:31:00+00:00",
    "caption": "US Evacuates Aircraft From RAF Mildenhall Over Iran Threat\n\nThe US military relocated aircraft from RAF Mildenhall in Britain following a reported threat from Iran. Refuelling tankers diverted to Germany as part of the security measures.\n\n💬 Will US forces withdraw from more British airbases amid regional tensions?\n\n📖 Read more: https://news.sky.com/story/us-aircraft-moved-from-raf-mildenhall-over-reported-threat-from-iran-13610466\n\n#US #Iran #UK #7SeasNews",
-   "status": "pending",
+   "status": "posted",
    "tg_message_id": 248,
-   "tg_file_id": "AgACAgUAAxkDAAP4avLLwSBzhzb14LrcPPYg6mqayRsAAvUTaxuLT5hX9biAiE8WVoUBAAMCAAN3AAM9BA"
+   "tg_file_id": "AgACAgUAAxkDAAP4avLLwSBzhzb14LrcPPYg6mqayRsAAvUTaxuLT5hX9biAiE8WVoUBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-10T09:22:32.124573+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122097368379548584",
+   "posted_at": "2026-11-10T09:22:32.504597+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 10 · 4:22 AM New York · 2:52 PM Sri Lanka\n\n<b>US Evacuates Aircraft From RAF Mildenhall Over Iran Threat</b>\n<i>Sky News, The Guardian</i>\n🟡 <b>Latest:</b> 1:01 PM Sri Lanka (1h 51m ago) · first reported 12:16 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122097368379548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 112,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "977063188811504"
   },
   "1c90d14518": {
    "id": "1c90d14518",
@@ -10273,9 +10284,94 @@
    "news_time": "2026-11-10T02:59:34+00:00",
    "news_latest": "2026-11-10T08:08:44+00:00",
    "caption": "Trump and Qatari Prime Minister discuss US-Iran negotiations\n\nU.S. President Donald Trump met with Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani at the White House on Monday. Following the meeting, the Qatari prime minister described the discussions regarding Iran as positive.\n\n💬 Will these discussions between the US and Qatar lead to progress on Iran negotiations?\n\n📖 Read more: https://www.upi.com/Top_News/US/2026/11/10/Trump-Qatar-meeting-Iran-negotiations/7831794293830/\n\n#USIran #Qatar #WhiteHouse #7SeasNews",
-   "status": "pending",
+   "status": "posted",
    "tg_message_id": 249,
-   "tg_file_id": "AgACAgUAAxkDAAP5avLRK8xsw-u61m53uRwJ9piZg2EAAgUUaxuLT5hXg8TzkROJHe0BAAMCAAN3AAM9BA"
+   "tg_file_id": "AgACAgUAAxkDAAP5avLRK8xsw-u61m53uRwJ9piZg2EAAgUUaxuLT5hXg8TzkROJHe0BAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-10T09:22:14.157017+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122097367821548584",
+   "posted_at": "2026-11-10T09:22:14.501966+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 10 · 4:22 AM New York · 2:52 PM Sri Lanka\n\n<b>Trump and Qatari Prime Minister discuss US-Iran negotiations</b>\n<i>The Hill, UPI</i>\n🟡 <b>Latest:</b> 1:38 PM Sri Lanka (1h 13m ago) · first reported 8:29 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122097367821548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 111,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "1454542569397685"
+  },
+  "b5834eed2c": {
+   "id": "b5834eed2c",
+   "headline": "US gas prices drop below four dollars per gallon",
+   "summary": "According to AAA data, the average nationwide price for regular gasoline fell below four dollars per gallon. Meanwhile, researchers reported that global fossil fuel emissions are expected to decline.",
+   "label": "ECONOMY",
+   "hook": "Will these lower fuel prices and emissions trends continue?",
+   "key_points": [
+    "Nationwide regular gasoline fell below $4 per gallon.",
+    "Fossil fuel emissions are expected to fall by 0.4 percent.",
+    "Data comes from AAA and new research."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#GasPrices",
+    "#Economy",
+    "#Energy"
+   ],
+   "sources": [
+    "France 24",
+    "NBC News"
+   ],
+   "link": "https://www.nbcnews.com/business/energy/gas-prices-fall-4-gallon-oil-markets-trump-iran-war-russia-ukraine-rcna608498",
+   "links": [
+    [
+     "NBC News",
+     "https://www.nbcnews.com/business/energy/gas-prices-fall-4-gallon-oil-markets-trump-iran-war-russia-ukraine-rcna608498"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/environment/20261110-fossil-fuel-emissions-set-to-fall-for-first-time-since-covid-research-shows"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "AgnosticPreachersKid / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "US gas prices drop below four dollars per gallon",
+    "people": [],
+    "image_query": "gas station sign",
+    "image_queries": [
+     "gas station pumps",
+     "highway traffic",
+     "oil refinery",
+     "renewable energy wind turbines"
+    ],
+    "image_style": "scene",
+    "location": "US"
+   },
+   "created_at": "2026-11-10T09:15:33.227101+00:00",
+   "news_time": "2026-11-10T08:25:03+00:00",
+   "news_latest": "2026-11-10T09:09:12+00:00",
+   "caption": "US gas prices drop below four dollars per gallon\n\nAccording to AAA data, the average nationwide price for regular gasoline fell below four dollars per gallon. Meanwhile, researchers reported that global fossil fuel emissions are expected to decline.\n\n💬 Will these lower fuel prices and emissions trends continue?\n\n📖 Read more: https://www.nbcnews.com/business/energy/gas-prices-fall-4-gallon-oil-markets-trump-iran-war-russia-ukraine-rcna608498\n\n#GasPrices #Economy #Energy #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 250,
+   "tg_file_id": "AgACAgUAAxkDAAP6avLguwI3wm4LD9n2NwrqPrv4tOAAAjUUaxuLT5hXLNImBqpwrRcBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-10T09:21:57.283274+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122097367161548584",
+   "posted_at": "2026-11-10T09:21:57.662264+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 10 · 4:22 AM New York · 2:52 PM Sri Lanka\n\n<b>US gas prices drop below four dollars per gallon</b>\n<i>France 24, NBC News</i>\n🟢 <b>Latest:</b> 2:39 PM Sri Lanka (12 min ago) · first reported 1:55 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122097367161548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 110,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "2434231960715751"
   }
  },
  "seen_links": [
@@ -10622,7 +10718,9 @@
   "https://news.sky.com/story/us-aircraft-moved-from-raf-mildenhall-over-reported-threat-from-iran-13610466",
   "https://www.theguardian.com/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat",
   "https://www.upi.com/Top_News/US/2026/11/10/Trump-Qatar-meeting-Iran-negotiations/7831794293830/",
-  "https://thehill.com/policy/international/6209663-us-middle-east-war-midterms/"
+  "https://thehill.com/policy/international/6209663-us-middle-east-war-midterms/",
+  "https://www.nbcnews.com/business/energy/gas-prices-fall-4-gallon-oil-markets-trump-iran-war-russia-ukraine-rcna608498",
+  "https://www.france24.com/en/environment/20261110-fossil-fuel-emissions-set-to-fall-for-first-time-since-covid-research-shows"
  ],
  "recent_topics": [
   [
@@ -13349,19 +13447,37 @@
     "whit"
    ],
    "1c90d14518"
+  ],
+  [
+   "2026-11-10T09:15:39.501433+00:00",
+   [
+    "below",
+    "covid",
+    "emission",
+    "fall",
+    "fossil",
+    "fuel",
+    "gallon",
+    "gas",
+    "july",
+    "per",
+    "pric",
+    "research",
+    "set",
+    "show",
+    "sinc",
+    "tim"
+   ],
+   "b5834eed2c"
   ]
  ],
- "last_draft_at": "2026-11-10T09:00:28.756991+00:00",
+ "last_draft_at": "2026-11-10T09:15:20.398132+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-10T08:45:22.374459+00:00",
  "run_log": [
-  "11-10 07:00:31 run start",
-  "11-10 07:00:42 listening 11 min",
-  "11-10 07:12:01 listening done",
-  "11-10 07:12:01 run end after 689 s",
   "11-10 07:15:22 run start",
   "11-10 07:15:33 listening 11 min",
   "11-10 07:26:52 listening done",
@@ -13397,12 +13513,15 @@
   "11-10 09:00:28 run start",
   "11-10 09:00:38 listening 11 min",
   "11-10 09:11:57 listening done",
-  "11-10 09:11:57 run end after 688 s"
+  "11-10 09:11:57 run end after 688 s",
+  "11-10 09:15:19 run start",
+  "11-10 09:15:39 listening 11 min",
+  "11-10 09:26:57 listening done",
+  "11-10 09:26:57 run end after 697 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Bernie_Sanders_%2825973827305%29.jpg/1280px-Bernie_Sanders_%2825973827305%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Senator_JD_Vance_thanking_first_responders_in_East_Palestine.jpg/1280px-Senator_JD_Vance_thanking_first_responders_in_East_Palestine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/c/cc/Massie_Thomas_119th_Congress_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Secretary_of_Defense_Pete_Hegseth_official_portrait_%28cropped%29.jpg/1280px-Secretary_of_Defense_Pete_Hegseth_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -13441,7 +13560,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Australian_Senate_-_Parliament_of_Australia.jpg/1920px-Australian_Senate_-_Parliament_of_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/a/ae/North_of_Tehran_Skyline_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Capitol_Washington_October_2016-3.jpg/1920px-Capitol_Washington_October_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -15267,7 +15387,6 @@
    }
   },
   "recent_ideas": [
-   "capitol hill",
    "treasury building, washington",
    "robert f. kennedy department of justice building",
    "maine state house",
@@ -15278,7 +15397,8 @@
    "container ship",
    "australian parliament",
    "tehran skyline",
-   "us capitol building"
+   "us capitol building",
+   "marriner s. eccles federal reserve board building"
   ]
  }
 }
