@@ -31,7 +31,7 @@ optional PIXABAY_API_KEY / PEXELS_API_KEY. Never print or commit secrets.
 - Commands: /day /news /queue /status /stats /new /pause /resume /channel /tiktok /help.
 - Post stats: every STATS_EVERY_MINUTES the bot reads reactions/comments/shares (+ reach if the token allows)
   for posts of the last STATS_DAYS and edits the matching log-channel message; /stats = last 24 h ranking.
-- Every published post is also shared to the Page Story (SHARE_TO_STORY). The /tiktok "content channel" gets
+- Posts go to the Page Story per SHARE_TO_STORY ("breaking" = only BREAKING posts, "all", "off"). The /tiktok "content channel" gets
   posts one by one only if SEND_EACH_POST_TO_CONTENT_CHANNEL = True (default False: daily pack only).
 
 - Dates for the audience use New York time (image date, published log, TikTok file names). After NY midnight the bot

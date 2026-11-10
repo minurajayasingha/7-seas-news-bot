@@ -853,6 +853,16 @@ def facebook_post_photo(image_bytes, caption):
     return j.get("post_id") or j.get("id")
 
 
+def story_wanted(d):
+    """Should this post also go to the Facebook Story? (SHARE_TO_STORY in settings.py)"""
+    mode = str(SHARE_TO_STORY).strip().lower()
+    if mode in ("all", "true", "yes"):
+        return True
+    if mode == "breaking":
+        return bool(d.get("breaking"))
+    return False
+
+
 def story_image(image_bytes):
     """Put the 1080x1350 post image in the middle of a 1080x1920 black Story canvas."""
     post = Image.open(io.BytesIO(image_bytes)).convert("RGB")
@@ -988,7 +998,7 @@ def publish_due(state):
             log_to_channel(state, d, link)
             tg_clear(d)
             log("Posted", d["id"], post_id)
-            if SHARE_TO_STORY:
+            if story_wanted(d):
                 try:
                     d["fb_story_id"] = facebook_post_story(img)
                     log("Shared to Story", d["id"])
@@ -998,7 +1008,7 @@ def publish_due(state):
                         state["story_error_told"] = True
                         tg_text("⚠️ The post is live, but sharing it to the Facebook Story failed:\n"
                                 f"<code>{html.escape(str(e))[:400]}</code>\n\n"
-                                "Set SHARE_TO_STORY = False in settings.py to turn Stories off.")
+                                "Set SHARE_TO_STORY = \"off\" in settings.py to turn Stories off.")
             try:
                 if SEND_EACH_POST_TO_CONTENT_CHANNEL and send_to_tiktok_channel(state, d, img):
                     log("Sent to TikTok channel", d["id"])
