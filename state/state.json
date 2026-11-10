@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892875,
+ "tg_offset": 495892876,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -12355,6 +12355,96 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true
+  },
+  "5513351d03": {
+   "id": "5513351d03",
+   "headline": "Prince Harry and Meghan Markle appear following father arrest",
+   "summary": "Prince Harry and Meghan Markle made their first public appearance following the arrest of her father. The couple attended an event focused on online safety for children.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "First public appearance since the father's arrest",
+    "Event focused on online safety for children"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#PrinceHarry",
+    "#MeghanMarkle",
+    "#WorldNews"
+   ],
+   "sources": [
+    "CBS News",
+    "New York Times",
+    "The Independent",
+    "UPI"
+   ],
+   "link": "https://www.upi.com/Top_News/World-News/2026/11/10/belgium-prince-harry-meghan-markle-appearance/5911794326904/",
+   "links": [
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/World-News/2026/11/10/belgium-prince-harry-meghan-markle-appearance/5911794326904/"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/10/world/europe/meghan-markle-brussels-speech-canceled-prince-harry.html"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/video/meghan-and-harry-make-first-public-appearance-since-her-estranged-fathers-arrest/"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/news/prince-harry-meghan-eu-thomas-markle-arrest-child-sex-abuse-images/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Prince_Harry_at_Canterbury_University_%2817547607621%29.jpg/1280px-Prince_Harry_at_Canterbury_University_%2817547607621%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "KoenbrNZ / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Meghan_Markle_%28Paley_Center_%27Suits%27%29.jpg/1280px-Meghan_Markle_%28Paley_Center_%27Suits%27%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Genevieve / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Prince Harry and Meghan Markle appear following father arrest",
+    "people": [
+     "Prince Harry",
+     "Meghan Markle"
+    ],
+    "image_query": "Brussels city street",
+    "image_queries": [
+     "European Union building Brussels",
+     "Brussels skyline",
+     "tech conference stage",
+     "children safety event"
+    ],
+    "image_style": "person",
+    "location": "Brussels, Belgium"
+   },
+   "created_at": "2026-11-10T16:27:24.297919+00:00",
+   "news_time": "2026-11-10T12:46:58+00:00",
+   "news_latest": "2026-11-10T16:22:16+00:00",
+   "caption": "Prince Harry and Meghan Markle appear following father arrest\n\nPrince Harry and Meghan Markle made their first public appearance following the arrest of her father. The couple attended an event focused on online safety for children.\n\n📖 Read more: https://www.upi.com/Top_News/World-News/2026/11/10/belgium-prince-harry-meghan-markle-appearance/5911794326904/\n\n#PrinceHarry #MeghanMarkle #WorldNews #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 290,
+   "tg_file_id": "AgACAgUAAxkDAAIBImrzRfFmwBkDPrqkJc4iIV3Jn3VLAALTFWsbi0-YV986PxevO70oAQADAgADdwADPQQ",
+   "queued_at": "2026-11-10T16:29:40.455669+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122097695421548584",
+   "posted_at": "2026-11-10T16:29:40.811143+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 10 · 11:29 AM New York · 9:59 PM Sri Lanka\n\n<b>Prince Harry and Meghan Markle appear following father arrest</b>\n<i>CBS News, New York Times, The Independent, UPI</i>\n🟢 <b>Latest:</b> 9:52 PM Sri Lanka (7 min ago) · first reported 6:16 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122097695421548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 135,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true
   }
  },
  "seen_links": [
@@ -12761,95 +12851,14 @@
   "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
   "https://www.aljazeera.com/video/newsfeed/2026/11/10/lewis-hamilton-visits-rafah-crossing-to-witness-gaza-aid-efforts?traffic_source=rss",
   "https://thehill.com/policy/transportation/6209643-florida-jet-crash-ntsb/",
-  "https://www.independent.co.uk/news/world/americas/greenacres-florida-lear-jet-plane-crash-black-box-b3082203.html"
+  "https://www.independent.co.uk/news/world/americas/greenacres-florida-lear-jet-plane-crash-black-box-b3082203.html",
+  "https://www.upi.com/Top_News/World-News/2026/11/10/belgium-prince-harry-meghan-markle-appearance/5911794326904/",
+  "https://www.nytimes.com/2026/11/10/world/europe/meghan-markle-brussels-speech-canceled-prince-harry.html",
+  "https://www.cbsnews.com/video/meghan-and-harry-make-first-public-appearance-since-her-estranged-fathers-arrest/",
+  "https://www.cbsnews.com/news/prince-harry-meghan-eu-thomas-markle-arrest-child-sex-abuse-images/",
+  "https://www.independent.co.uk/news/world/americas/meghan-brussels-european-parliament-sussex-florida-b3082393.html"
  ],
  "recent_topics": [
-  [
-   "2026-11-07T16:36:52.707133+00:00",
-   [
-    "approval",
-    "boosting",
-    "chief",
-    "clear",
-    "control",
-    "democrats",
-    "donald",
-    "ending",
-    "federal",
-    "focused",
-    "four",
-    "healthcare",
-    "historic",
-    "house",
-    "investigate",
-    "iran",
-    "judiciary",
-    "learned",
-    "low",
-    "majority",
-    "message",
-    "midterms",
-    "miller",
-    "named",
-    "next",
-    "promotion",
-    "race",
-    "senate",
-    "sends",
-    "shifts",
-    "staff",
-    "start",
-    "stephen",
-    "things",
-    "trump",
-    "usa",
-    "victory",
-    "vow",
-    "war",
-    "white",
-    "win"
-   ]
-  ],
-  [
-   "2026-11-07T16:37:10.500091+00:00",
-   [
-    "administration",
-    "america",
-    "calls",
-    "chief",
-    "devotion",
-    "doubles",
-    "down",
-    "elevation",
-    "event",
-    "expect",
-    "finger",
-    "firings",
-    "honor",
-    "incoming",
-    "life",
-    "mar-a-lago",
-    "middle",
-    "miller",
-    "millions",
-    "minutes",
-    "pledges",
-    "politics",
-    "post-midterm",
-    "president",
-    "promotion",
-    "pushed",
-    "saved",
-    "staff",
-    "stephen",
-    "taps",
-    "told",
-    "total",
-    "trump",
-    "trumpism",
-    "voters"
-   ]
-  ],
   [
    "2026-11-07T16:50:53.736430+00:00",
    [
@@ -15979,19 +15988,35 @@
     "witness"
    ],
    "87cfd790ec"
+  ],
+  [
+   "2026-11-10T16:27:29.976942+00:00",
+   [
+    "appearanc",
+    "arrest",
+    "duchess",
+    "estrang",
+    "event",
+    "father",
+    "harry",
+    "mak",
+    "markl",
+    "meghan",
+    "princ",
+    "public",
+    "sinc",
+    "wif"
+   ],
+   "5513351d03"
   ]
  ],
- "last_draft_at": "2026-11-10T16:15:23.332805+00:00",
+ "last_draft_at": "2026-11-10T16:27:11.264740+00:00",
  "last_slot": "2026-11-10T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-10T15:45:23.683499+00:00",
  "run_log": [
-  "11-10 14:00:31 run start",
-  "11-10 14:00:47 listening 11 min",
-  "11-10 14:12:20 listening done",
-  "11-10 14:12:20 run end after 709 s",
   "11-10 14:15:21 run start",
   "11-10 14:15:56 listening 11 min",
   "11-10 14:26:58 listening done",
@@ -16027,13 +16052,15 @@
   "11-10 16:15:22 run start",
   "11-10 16:15:35 listening 11 min",
   "11-10 16:26:55 listening done",
-  "11-10 16:26:55 run end after 692 s"
+  "11-10 16:26:55 run end after 692 s",
+  "11-10 16:27:10 run start",
+  "11-10 16:27:29 listening 11 min",
+  "11-10 16:38:37 listening done",
+  "11-10 16:38:37 run end after 686 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/f/f2/Scott_Colom_2_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Ceiling%2C_Maine_State_House%2C_State_Street_and_Capitol_Street%2C_Augusta%2C_ME.jpg/1920px-Ceiling%2C_Maine_State_House%2C_State_Street_and_Capitol_Street%2C_Augusta%2C_ME.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Paul_LePage_%2832997040712%29.jpg/1280px-Paul_LePage_%2832997040712%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Baltra_Island_-_Wind_Turbines.jpg/1920px-Baltra_Island_-_Wind_Turbines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -16071,7 +16098,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_12.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Rafah_Border_Crossing_before_the_Gaza_War_2023-2025.jpg/1920px-Rafah_Border_Crossing_before_the_Gaza_War_2023-2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Lewis_Hamilton_Integralhelm_2018.jpg/1280px-Lewis_Hamilton_Integralhelm_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Lewis_Hamilton_Integralhelm_2018.jpg/1280px-Lewis_Hamilton_Integralhelm_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Prince_Harry_at_Canterbury_University_%2817547607621%29.jpg/1280px-Prince_Harry_at_Canterbury_University_%2817547607621%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Meghan_Markle_%28Paley_Center_%27Suits%27%29.jpg/1280px-Meghan_Markle_%28Paley_Center_%27Suits%27%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -17979,6 +18008,158 @@
       "credit": "Takayuki Suzuki from Kanagawa, Japan / Wikimedia Commons (CC BY-SA 2.0)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": false
+     }
+    ]
+   },
+   "prince harry": {
+    "t": "2026-11-10T16:27:22.906452+00:00",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Prince_Harry_Visits_Arlington_National_Cemetery_%2855476826080%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "60564189@N06 / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Prince_Harry%2C_Mike_Baird_%2817191406437%29.jpg/1280px-Prince_Harry%2C_Mike_Baird_%2817191406437%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Eva Rinaldi from Sydney Australia / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Prince_Harry_at_Canterbury_University_%2817361399449%29.jpg/1280px-Prince_Harry_at_Canterbury_University_%2817361399449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "KoenbrNZ / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Prince_Harry_at_Canterbury_University_%2817361413549%29.jpg/1280px-Prince_Harry_at_Canterbury_University_%2817361413549%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "KoenbrNZ / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Prince_Harry_at_Canterbury_University_%2817547607621%29.jpg/1280px-Prince_Harry_at_Canterbury_University_%2817547607621%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "KoenbrNZ / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Prince_Harry_at_Canterbury_University_%2816925166074%29.jpg/1280px-Prince_Harry_at_Canterbury_University_%2816925166074%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "KoenbrNZ / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Prince_Harry_visits_University_of_Canterbury_07.jpg/1280px-Prince_Harry_visits_University_of_Canterbury_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "KoenbrNZ / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Prince_Harry_Arlington_visit_130510-A-VS818-144.jpg/1280px-Prince_Harry_Arlington_visit_130510-A-VS818-144.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Sgt. Laura Buchta / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Prince_Harry_%2817396840192%29.jpg/1280px-Prince_Harry_%2817396840192%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Eva Rinaldi from Sydney Australia / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Prince_Harry_at_Canterbury_University_%2817360139440%29.jpg/1280px-Prince_Harry_at_Canterbury_University_%2817360139440%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "KoenbrNZ / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Prince_Harry_at_Canterbury_University_%2817360144220%29.jpg/1280px-Prince_Harry_at_Canterbury_University_%2817360144220%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "KoenbrNZ / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Prince_Harry_%2817396840192%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Eva Rinaldi from Sydney Australia / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     }
+    ]
+   },
+   "meghan markle": {
+    "t": "2026-11-10T16:27:24.297831+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/SXSW-2024-OB7A9986-alih-Meghan%2C_Duchess_of_Sussex_%28cropped%29.jpg/960px-SXSW-2024-OB7A9986-alih-Meghan%2C_Duchess_of_Sussex_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Fuzheado / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Meghan_Markle_%28Paley_Center_%27Suits%27%29.jpg/1280px-Meghan_Markle_%28Paley_Center_%27Suits%27%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Genevieve / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Meghan_Markle_%28Paley_Center_%27Suits%27%29_%28cropped%29.jpg/1280px-Meghan_Markle_%28Paley_Center_%27Suits%27%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Genevieve / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Meghan_Markle_by_M_Doucette_Production_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "M Doucette Production / Wikimedia Commons (CC BY 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Meghan_Markle_at_the_InStyle_Party%2C_Toronto_Film_Festival_2012_%282%29.jpg/1280px-Meghan_Markle_at_the_InStyle_Party%2C_Toronto_Film_Festival_2012_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "GabboT / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Meghan_Markle_in_2013_New_York_Fashion_Week_%2834599969593%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Christopher Macsurak / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Meghan_Markle_in_January_2013.jpg/1280px-Meghan_Markle_in_January_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Genevieve / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Meghan_Markle_visits_Northern_Ireland_-_2018_%2841014635181%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Northern Ireland Office / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Meghan_Markle_3441.jpg/1280px-Meghan_Markle_3441.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Genevieve derivative work: Firebrace ( talk ) / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Meghan_Markle_%28Paley_Center_%27Suits%27%29_03.jpg/1280px-Meghan_Markle_%28Paley_Center_%27Suits%27%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Genevieve / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Meghan_Markle_by_M_Doucette_Production_06.jpg/1280px-Meghan_Markle_by_M_Doucette_Production_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "M Doucette Production / Wikimedia Commons (CC BY 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Meghan_Markle_in_2013_New_York_Fashion_Week_%2834599969593%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Christopher Macsurak / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
      }
     ]
    }
