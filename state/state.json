@@ -10539,6 +10539,64 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_story_id": "1820954732443142"
+  },
+  "5643d3d7eb": {
+   "id": "5643d3d7eb",
+   "headline": "Backpack explosion kills police officer in Oviedo",
+   "summary": "A police officer died and another sustained injuries following a backpack explosion in Oviedo. Authorities were responding to a residential building and a shooting involving a woman.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Backpack explosion occurs in Oviedo",
+    "One police officer dies",
+    "Another police officer is injured"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Oviedo",
+    "#Spain",
+    "#WorldNews"
+   ],
+   "sources": [
+    "BBC",
+    "The Independent"
+   ],
+   "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
+   "links": [
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/europe/spain-police-officer-dead-explosion-oviedo-b3082283.html"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Oviedo, Spain"
+   },
+   "img_post": {
+    "headline": "Backpack explosion kills police officer in Oviedo",
+    "people": [],
+    "image_query": "Oviedo city street",
+    "image_queries": [
+     "Oviedo residential building",
+     "police scene Spain",
+     "Spanish police vehicle",
+     "Oviedo cityscape"
+    ],
+    "image_style": "incident",
+    "location": "Oviedo, Spain"
+   },
+   "created_at": "2026-11-10T10:30:41.636219+00:00",
+   "news_time": "2026-11-10T10:23:51+00:00",
+   "news_latest": "2026-11-10T10:24:20+00:00",
+   "caption": "🚨 BREAKING: Backpack explosion kills police officer in Oviedo\n\nA police officer died and another sustained injuries following a backpack explosion in Oviedo. Authorities were responding to a residential building and a shooting involving a woman.\n\nWhat we know so far:\n• Backpack explosion occurs in Oviedo\n• One police officer dies\n• Another police officer is injured\n\n📖 Read more: https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss\n\n#Oviedo #Spain #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 253,
+   "tg_file_id": "AgACAgUAAxkDAAP9avLyVPdAxIVgxJrTl0s_KHSgeKQAAsYUaxuLT5hXinavLh6uw38BAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -10892,7 +10950,9 @@
   "https://abcnews.com/International/wireStory/north-korean-defectors-view-kim-jong-uns-daughter-137999884",
   "https://abcnews.com/International/wireStory/gods-reigning-humans-defectors-daughter-north-koreas-kim-137999978",
   "https://www.npr.org/2026/11/10/nx-s1-6030988/gop-leadership-election-steve-scalise-jim-jordan",
-  "https://www.washingtonexaminer.com/news/house/4798260/republicans-pick-scalise-jordan-minority-leader/"
+  "https://www.washingtonexaminer.com/news/house/4798260/republicans-pick-scalise-jordan-minority-leader/",
+  "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
+  "https://www.independent.co.uk/news/world/europe/spain-police-officer-dead-explosion-oviedo-b3082283.html"
  ],
  "recent_topics": [
   [
@@ -13688,19 +13748,33 @@
     "scalis"
    ],
    "7e020afc69"
+  ],
+  [
+   "2026-11-10T10:30:44.419659+00:00",
+   [
+    "another",
+    "backpack",
+    "die",
+    "explod",
+    "explosion",
+    "injur",
+    "officer",
+    "oviedo",
+    "polic",
+    "respond",
+    "shoot",
+    "spain"
+   ],
+   "5643d3d7eb"
   ]
  ],
- "last_draft_at": "2026-11-10T10:15:21.248497+00:00",
+ "last_draft_at": "2026-11-10T10:30:30.851781+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-10T09:45:23.478813+00:00",
  "run_log": [
-  "11-10 08:08:59 run start",
-  "11-10 08:09:15 listening 11 min",
-  "11-10 08:20:33 listening done",
-  "11-10 08:20:33 run end after 694 s",
   "11-10 08:20:44 run start",
   "11-10 08:20:53 listening 11 min",
   "11-10 08:32:11 listening done",
@@ -13736,7 +13810,11 @@
   "11-10 10:15:20 run start",
   "11-10 10:15:37 listening 11 min",
   "11-10 10:27:08 listening done",
-  "11-10 10:27:08 run end after 708 s"
+  "11-10 10:27:08 run end after 708 s",
+  "11-10 10:30:30 run start",
+  "11-10 10:30:44 listening 11 min",
+  "11-10 10:42:04 listening done",
+  "11-10 10:42:04 run end after 693 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
