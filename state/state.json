@@ -9544,6 +9544,140 @@
    "status": "pending",
    "tg_message_id": 237,
    "tg_file_id": "AgACAgUAAxkDAAPtavJXoqVtMazH0RzWWElGgmc5wKoAAjsWaxuLT5BXNKhcBwIzuBYBAAMCAAN3AAM9BA"
+  },
+  "d18aef0491": {
+   "id": "d18aef0491",
+   "headline": "Senate advances major infrastructure and energy permitting reform bill",
+   "summary": "The US Senate voted 73-25 to advance a bipartisan bill designed to speed up infrastructure and energy projects. Meanwhile, Donald Trump stated he supports the legislation despite opposing new wind turbines.",
+   "label": "US POLITICS",
+   "hook": "Will the permitting reform bill successfully pass the Senate?",
+   "key_points": [
+    "Senate voted 73-25 to advance the bill.",
+    "Donald Trump supports the legislation despite opposing wind turbines."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Senate",
+    "#Energy"
+   ],
+   "sources": [
+    "The Hill",
+    "Washington Examiner"
+   ],
+   "link": "https://thehill.com/policy/energy-environment/6208626-bipartisan-permitting-reform-bill-energy-infrastructure/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/policy/energy-environment/6208626-bipartisan-permitting-reform-bill-energy-infrastructure/"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/policy/energy-and-environment/4797873/major-bill-cut-red-tape-energy-projects-clears-senate-hurdle/"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/policy/energy-environment/6209267-trump-wind-turbines-permitting-reform-bill/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Capitol_Reflecting_Pool_%28September_2023%29_06.jpg/1920px-Capitol_Reflecting_Pool_%28September_2023%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "DiscoA340 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Senate advances major infrastructure and energy permitting reform bill",
+    "people": [],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "voting booth",
+     "wind turbines"
+    ],
+    "image_style": "scene",
+    "location": "US"
+   },
+   "created_at": "2026-11-10T00:00:45.336103+00:00",
+   "news_time": "2026-11-09T22:36:12+00:00",
+   "news_latest": "2026-11-09T23:35:08+00:00",
+   "caption": "Senate advances major infrastructure and energy permitting reform bill\n\nThe US Senate voted 73-25 to advance a bipartisan bill designed to speed up infrastructure and energy projects. Meanwhile, Donald Trump stated he supports the legislation despite opposing new wind turbines.\n\n💬 Will the permitting reform bill successfully pass the Senate?\n\n📖 Read more: https://thehill.com/policy/energy-environment/6208626-bipartisan-permitting-reform-bill-energy-infrastructure/\n\n#USPolitics #Senate #Energy #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 238,
+   "tg_file_id": "AgACAgUAAxkDAAPuavJer-kf6p1Ct2A8ohn5E2OBL4kAAjwWaxuLT5BXG7x7K0efz3sBAAMCAAN3AAM9BA"
+  },
+  "d827c6e833": {
+   "id": "d827c6e833",
+   "headline": "Ohio State University suspends fraternity following viral fire video",
+   "summary": "Ohio State University suspended its chapter of the Sigma Alpha Epsilon fraternity during an investigation. The action follows an online video that appears to show two individuals on fire.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "University suspended the Sigma Alpha Epsilon chapter",
+    "Investigation launched into online video of two people",
+    "One person required medical care"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#OhioState",
+    "#SigmaAlphaEpsilon",
+    "#News"
+   ],
+   "sources": [
+    "NBC News",
+    "Newsweek",
+    "The Independent",
+    "UPI"
+   ],
+   "link": "https://www.newsweek.com/osu-sae-fraternity-suspended-video-students-fire-12691043",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/osu-sae-fraternity-suspended-video-students-fire-12691043"
+    ],
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/US/2026/11/09/ohio-state-sigma-alpha-epsilon-fraternity-fire-video/7951794255437/"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/ohio-state-fraternity-suspended-video-fire-b3082006.html"
+    ],
+    [
+     "NBC News",
+     "https://www.nbcnews.com/news/us-news/ohio-state-university-investigating-fraternity-video-appears-show-two-rcna608313"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Ohio, US"
+   },
+   "img_post": {
+    "headline": "Ohio State University suspends fraternity following viral fire video",
+    "people": [],
+    "image_query": "Ohio State University campus",
+    "image_queries": [
+     "university campus buildings",
+     "fraternity house exterior",
+     "college campus walkway",
+     "university administration building"
+    ],
+    "image_style": "incident",
+    "location": "Ohio, US"
+   },
+   "created_at": "2026-11-10T00:00:49.039461+00:00",
+   "news_time": "2026-11-09T18:07:12+00:00",
+   "news_latest": "2026-11-09T22:59:13+00:00",
+   "caption": "Ohio State University suspends fraternity following viral fire video\n\nOhio State University suspended its chapter of the Sigma Alpha Epsilon fraternity during an investigation. The action follows an online video that appears to show two individuals on fire.\n\n📖 Read more: https://www.newsweek.com/osu-sae-fraternity-suspended-video-students-fire-12691043\n\n#OhioState #SigmaAlphaEpsilon #News #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 239,
+   "tg_file_id": "AgACAgUAAxkDAAPvavJeuLQg88Tcs29Tmvt_PgR96H0AAj0WaxuLT5BXkSpX1_1J57YBAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -9868,7 +10002,14 @@
   "https://www.nbcnews.com/business/economy/october-cpi-inflation-report-gas-prices-rcna608386",
   "https://www.theguardian.com/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31",
   "https://www.newsweek.com/gop-senate-seats-most-at-risk-in-2028-after-democrats-blue-wave-12690986",
-  "https://www.theguardian.com/us-news/video/2026/nov/09/democrats-big-blue-wave-wins-you-may-have-not-heard-about-video"
+  "https://www.theguardian.com/us-news/video/2026/nov/09/democrats-big-blue-wave-wins-you-may-have-not-heard-about-video",
+  "https://thehill.com/policy/energy-environment/6208626-bipartisan-permitting-reform-bill-energy-infrastructure/",
+  "https://www.washingtonexaminer.com/policy/energy-and-environment/4797873/major-bill-cut-red-tape-energy-projects-clears-senate-hurdle/",
+  "https://thehill.com/policy/energy-environment/6209267-trump-wind-turbines-permitting-reform-bill/",
+  "https://www.newsweek.com/osu-sae-fraternity-suspended-video-students-fire-12691043",
+  "https://www.upi.com/Top_News/US/2026/11/09/ohio-state-sigma-alpha-epsilon-fraternity-fire-video/7951794255437/",
+  "https://www.independent.co.uk/news/world/americas/ohio-state-fraternity-suspended-video-fire-b3082006.html",
+  "https://www.nbcnews.com/news/us-news/ohio-state-university-investigating-fraternity-video-appears-show-two-rcna608313"
  ],
  "recent_topics": [
   [
@@ -12426,19 +12567,67 @@
     "win"
    ],
    "e6f09dd6f7"
+  ],
+  [
+   "2026-11-10T00:00:47.792147+00:00",
+   [
+    "advanc",
+    "approv",
+    "bill",
+    "bipartisan",
+    "clear",
+    "cut",
+    "despit",
+    "energy",
+    "hurdl",
+    "major",
+    "passag",
+    "permitt",
+    "project",
+    "red",
+    "reform",
+    "senat",
+    "support",
+    "tap",
+    "tee",
+    "trump",
+    "turbin",
+    "wind"
+   ],
+   "d18aef0491"
+  ],
+  [
+   "2026-11-10T00:00:56.865084+00:00",
+   [
+    "appear",
+    "engulf",
+    "fir",
+    "flam",
+    "fraternity",
+    "investigat",
+    "men",
+    "ohio",
+    "peopl",
+    "show",
+    "spur",
+    "stat",
+    "student",
+    "suspend",
+    "suspension",
+    "university",
+    "video",
+    "viral"
+   ],
+   "d827c6e833"
   ]
  ],
- "last_draft_at": "2026-11-09T23:45:35.498884+00:00",
+ "last_draft_at": "2026-11-10T00:00:33.041347+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-09T23:45:23.382770+00:00",
  "run_log": [
-  "11-09 21:30:26 run start",
-  "11-09 21:30:39 listening 11 min",
-  "11-09 21:42:08 listening done",
-  "11-09 21:42:08 run end after 701 s",
   "11-09 21:45:20 run start",
   "11-09 21:45:55 listening 11 min",
   "11-09 21:56:48 listening done",
@@ -12474,12 +12663,15 @@
   "11-09 23:45:23 run start",
   "11-09 23:45:45 listening 11 min",
   "11-09 23:57:04 listening done",
-  "11-09 23:57:04 run end after 701 s"
+  "11-09 23:57:04 run end after 701 s",
+  "11-10 00:00:32 run start",
+  "11-10 00:00:56 listening 11 min",
+  "11-10 00:12:14 listening done",
+  "11-10 00:12:14 run end after 701 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/House_of_Representatives_Chamber%2C_Idaho_State_Capitol.jpg/1920px-House_of_Representatives_Chamber%2C_Idaho_State_Capitol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/View_of_the_Pentagon_from_the_Navy_Annex_minutes_after_a_hijacked_jetliner_crashed_into_building_at_approximately_0930_on_September_11%2C_2001_010911-M-CI426-007.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -12518,7 +12710,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Paul_LePage_%2832997040712%29.jpg/1280px-Paul_LePage_%2832997040712%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Baltra_Island_-_Wind_Turbines.jpg/1920px-Baltra_Island_-_Wind_Turbines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Polling_place_%2851099128254%29.jpg/1920px-Polling_place_%2851099128254%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Polling_place_%2851099128254%29.jpg/1920px-Polling_place_%2851099128254%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Capitol_Reflecting_Pool_%28September_2023%29_06.jpg/1920px-Capitol_Reflecting_Pool_%28September_2023%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -14252,7 +14445,6 @@
    }
   },
   "recent_ideas": [
-   "ballot box, united states",
    "capitol at night",
    "thurgood marshall federal judiciary building",
    "library of congress",
@@ -14263,7 +14455,8 @@
    "robert f. kennedy department of justice building",
    "maine state house",
    "wind turbines",
-   "polling place, united states"
+   "polling place, united states",
+   "capitol reflecting pool"
   ]
  }
 }
