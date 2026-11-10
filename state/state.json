@@ -12737,6 +12737,149 @@
    "status": "pending",
    "tg_message_id": 298,
    "tg_file_id": "AgACAgUAAxkDAAIBKmrzbVmD9opuEusdMB2Sxuz8zo_mAAL3FWsbi0-YV0tdRzDyNrcpAQADAgADdwADPQQ"
+  },
+  "807303a4ee": {
+   "id": "807303a4ee",
+   "headline": "Gaza Floods Kill Four: Trump Board Criticizes Israel Response",
+   "summary": "At least four people from one family died and thousands lost their shelters after a storm hit tent camps in Gaza. President Donald Trump's Board of Peace criticized Israel's aid response as insufficient.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "At least four people from one family died in the floods.",
+    "Thousands lost their shelters in overcrowded tent camps.",
+    "Trump's Board of Peace called Israel's flood response insufficient."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Gaza",
+    "#Israel",
+    "#WorldNews"
+   ],
+   "sources": [
+    "BBC",
+    "New York Times",
+    "UPI"
+   ],
+   "link": "https://www.upi.com/Top_News/US/2026/11/10/trump-board-of-peace-gaza-israel/5031794336800/",
+   "links": [
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/US/2026/11/10/trump-board-of-peace-gaza-israel/5031794336800/"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html"
+    ],
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Master Sgt. Michel Sauret / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Gaza Floods Kill Four: Trump Board Criticizes Israel Response",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "Gaza tent camps",
+    "image_queries": [
+     "Gaza Strip landscape",
+     "damaged tents in Gaza",
+     "flooded area in Gaza",
+     "Gaza refugee camp"
+    ],
+    "image_style": "incident",
+    "location": "Gaza"
+   },
+   "created_at": "2026-11-10T19:45:36.238248+00:00",
+   "news_time": "2026-11-10T15:21:18+00:00",
+   "news_latest": "2026-11-10T19:41:07+00:00",
+   "caption": "Gaza Floods Kill Four: Trump Board Criticizes Israel Response\n\nAt least four people from one family died and thousands lost their shelters after a storm hit tent camps in Gaza. President Donald Trump's Board of Peace criticized Israel's aid response as insufficient.\n\n📖 Read more: https://www.upi.com/Top_News/US/2026/11/10/trump-board-of-peace-gaza-israel/5031794336800/\n\n#Gaza #Israel #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 299,
+   "tg_file_id": "AgACAgUAAxkDAAIBK2rzdGWdBO7ejoyqUdoVUKIh_c59AAIJFmsbi0-YV40xSf0KsxxWAQADAgADdwADPQQ"
+  },
+  "6975066cce": {
+   "id": "6975066cce",
+   "headline": "UK Privy Council overrules Trinidad and Tobago gay sex law",
+   "summary": "A London court has overturned a Trinidad and Tobago law criminalizing consensual sexual relations between male same-sex couples. The ruling ends a legal battle by dual-citizen Jason Jones.",
+   "label": "WORLD",
+   "hook": "Will this ruling impact anti-gay laws in other Caribbean countries?",
+   "key_points": [
+    "A London court overturned the criminalization law.",
+    "The decision concludes an 11-year legal battle by Jason Jones."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#TrinidadAndTobago",
+    "#WorldNews",
+    "#UKCourts"
+   ],
+   "sources": [
+    "ABC News",
+    "BBC",
+    "DW",
+    "Sky News",
+    "The Guardian"
+   ],
+   "link": "https://www.dw.com/en/uk-privy-council-overrules-trinidad-and-tobago-gay-sex-law/a-79912163?maca=en-rss-en-world-4025-rdf",
+   "links": [
+    [
+     "DW",
+     "https://www.dw.com/en/uk-privy-council-overrules-trinidad-and-tobago-gay-sex-law/a-79912163?maca=en-rss-en-world-4025-rdf"
+    ],
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/10/activist-jason-jones-wins-10-year-fight-against-homophobic-trinidad-tobago-laws"
+    ],
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/top-uk-appeals-court-rules-gay-sex-crime-138017724"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/London_-_Judicial_Committee_of_the_Privy_Council_02.jpg/1920px-London_-_Judicial_Committee_of_the_Privy_Council_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "ChrisVTG Photography / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "UK Privy Council overrules Trinidad and Tobago gay sex law",
+    "people": [],
+    "image_query": "London court building",
+    "image_queries": [
+     "Supreme Court London",
+     "Trinidad and Tobago capital",
+     "Port of Spain",
+     "Privy Council London"
+    ],
+    "image_style": "scene",
+    "location": "Trinidad and Tobago"
+   },
+   "created_at": "2026-11-10T19:45:45.192992+00:00",
+   "news_time": "2026-11-10T16:26:00+00:00",
+   "news_latest": "2026-11-10T19:21:00+00:00",
+   "caption": "UK Privy Council overrules Trinidad and Tobago gay sex law\n\nA London court has overturned a Trinidad and Tobago law criminalizing consensual sexual relations between male same-sex couples. The ruling ends a legal battle by dual-citizen Jason Jones.\n\n💬 Will this ruling impact anti-gay laws in other Caribbean countries?\n\n📖 Read more: https://www.dw.com/en/uk-privy-council-overrules-trinidad-and-tobago-gay-sex-law/a-79912163?maca=en-rss-en-world-4025-rdf\n\n#TrinidadAndTobago #WorldNews #UKCourts #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 300,
+   "tg_file_id": "AgACAgUAAxkDAAIBLGrzdGvrPkLgVYel9-TcPWuaTR-PAAIKFmsbi0-YVxIHWJ9tT385AQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -13169,7 +13312,19 @@
   "https://thehill.com/homenews/house/6211133-pelosi-advises-against-kicking-stevens-out-of-house-democratic-caucus/",
   "https://www.washingtonpost.com/politics/2026/11/10/pelosi-does-not-support-kicking-rep-haley-stevens-out-democratic-caucus/",
   "https://abcnews.com/International/wireStory/spain-holds-state-funeral-69-killed-high-speed-138022635",
-  "https://www.independent.co.uk/news/world/europe/spain-train-crash-driver-strike-2026-b3082481.html"
+  "https://www.independent.co.uk/news/world/europe/spain-train-crash-driver-strike-2026-b3082481.html",
+  "https://www.upi.com/Top_News/US/2026/11/10/trump-board-of-peace-gaza-israel/5031794336800/",
+  "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html",
+  "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
+  "https://www.dw.com/en/uk-privy-council-overrules-trinidad-and-tobago-gay-sex-law/a-79912163?maca=en-rss-en-world-4025-rdf",
+  "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+  "https://www.theguardian.com/world/2026/nov/10/activist-jason-jones-wins-10-year-fight-against-homophobic-trinidad-tobago-laws",
+  "https://abcnews.com/International/wireStory/top-uk-appeals-court-rules-gay-sex-crime-138017724",
+  "https://news.sky.com/story/uk-court-overturns-trinidad-and-tobago-law-criminalising-homosexual-sex-13610702",
+  "https://www.theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire",
+  "https://news.sky.com/story/member-of-us-army-arrested-in-uk-over-allegations-of-espionage-involving-russia-13610748",
+  "https://thehill.com/homenews/state-watch/6211337-moore-to-work-miller/",
+  "https://www.politico.com/news/2026/11/10/gov-wes-moore-sees-an-opportunity-to-work-with-stephen-miller-01158571"
  ],
  "recent_topics": [
   [
@@ -16187,19 +16342,61 @@
     "support"
    ],
    "29693a3a86"
+  ],
+  [
+   "2026-11-10T19:45:42.138972+00:00",
+   [
+    "aid",
+    "board",
+    "criticiz",
+    "flood",
+    "gaza",
+    "insufficent",
+    "israel",
+    "kill",
+    "peac",
+    "respons",
+    "trump"
+   ],
+   "807303a4ee"
+  ],
+  [
+   "2026-11-10T19:45:47.401776+00:00",
+   [
+    "10",
+    "activist",
+    "anti-homosexuality",
+    "appeal",
+    "caribbean",
+    "council",
+    "court",
+    "crim",
+    "criminalis",
+    "fight",
+    "gay",
+    "homophobic",
+    "homosexual",
+    "law",
+    "nation",
+    "overrul",
+    "overturn",
+    "privy",
+    "rul",
+    "sex",
+    "tobago",
+    "trinidad",
+    "win"
+   ],
+   "6975066cce"
   ]
  ],
- "last_draft_at": "2026-11-10T19:30:27.344749+00:00",
+ "last_draft_at": "2026-11-10T19:45:21.668131+00:00",
  "last_slot": "2026-11-10T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-10T19:00:32.372291+00:00",
  "run_log": [
-  "11-10 17:15:22 run start",
-  "11-10 17:15:38 listening 11 min",
-  "11-10 17:26:57 listening done",
-  "11-10 17:26:57 run end after 694 s",
   "11-10 17:30:26 run start",
   "11-10 17:30:40 listening 11 min",
   "11-10 17:41:59 listening done",
@@ -16235,13 +16432,15 @@
   "11-10 19:30:26 run start",
   "11-10 19:30:39 listening 11 min",
   "11-10 19:41:58 listening done",
-  "11-10 19:41:58 run end after 691 s"
+  "11-10 19:41:58 run end after 691 s",
+  "11-10 19:45:21 run start",
+  "11-10 19:46:45 listening 10 min",
+  "11-10 19:56:48 listening done",
+  "11-10 19:56:48 run end after 687 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Capitol_Reflecting_Pool_%28September_2023%29_06.jpg/1920px-Capitol_Reflecting_Pool_%28September_2023%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Eli_Crane_%2853807920187%29.jpg/1280px-Eli_Crane_%2853807920187%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Jonathan_Nez.jpg/1280px-Jonathan_Nez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2021-11-19_Damaged_container_ship%2C_MV_ZIM_KINGSTON_-_IMO_9389693.jpg/1920px-2021-11-19_Damaged_container_ship%2C_MV_ZIM_KINGSTON_-_IMO_9389693.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -16279,7 +16478,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Singapore_Old-Supreme-Court-Building-01.jpg/1920px-Singapore_Old-Supreme-Court-Building-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Moscow._Myasnitskaya_Street_P5142232_2600.jpg/1920px-Moscow._Myasnitskaya_Street_P5142232_2600.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Nancy_Pelosi_2012.jpg/1280px-Nancy_Pelosi_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Haley_Stevens_20190202_%2802%29.jpg/1280px-Haley_Stevens_20190202_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Haley_Stevens_20190202_%2802%29.jpg/1280px-Haley_Stevens_20190202_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/London_-_Judicial_Committee_of_the_Privy_Council_02.jpg/1920px-London_-_Judicial_Committee_of_the_Privy_Council_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -18466,7 +18667,6 @@
    }
   },
   "recent_ideas": [
-   "united nations headquarters",
    "kinshasa street",
    "azadi tower",
    "senate chamber",
@@ -18477,7 +18677,8 @@
    "national mall washington dc",
    "rafah border crossing",
    "supreme court building",
-   "moscow street"
+   "moscow street",
+   "privy council london"
   ]
  }
 }
