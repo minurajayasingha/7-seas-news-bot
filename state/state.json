@@ -12629,7 +12629,9 @@
   "https://www.theguardian.com/us-news/2026/nov/10/trump-toe-statue-dc-vietnam-war-draft",
   "https://www.independent.co.uk/news/world/americas/us-politics/trump-statue-draft-dodging-washington-dc-b3082317.html",
   "https://www.newsweek.com/donald-trump-approval-rating-change-midterms-poll-12693782",
-  "https://www.dw.com/en/japan-watches-for-signs-of-change-in-trump-s-foreign-policy-priorities/a-79909398?maca=en-rss-en-world-4025-rdf"
+  "https://www.dw.com/en/japan-watches-for-signs-of-change-in-trump-s-foreign-policy-priorities/a-79909398?maca=en-rss-en-world-4025-rdf",
+  "https://www.euronews.com/2026/11/10/gcc-members-agree-to-station-forces-at-new-military-command-post-in-kuwait",
+  "https://www.aljazeera.com/news/2026/11/10/gcc-agrees-to-set-up-advanced-military-command-headquarters-in-kuwait?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -15832,17 +15834,13 @@
    "349f8db910"
   ]
  ],
- "last_draft_at": "2026-11-10T15:30:25.935086+00:00",
+ "last_draft_at": "2026-11-10T15:45:53.567348+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-10T14:45:20.002528+00:00",
+ "last_stats_at": "2026-11-10T15:45:23.683499+00:00",
  "run_log": [
-  "11-10 13:15:18 run start",
-  "11-10 13:15:36 listening 11 min",
-  "11-10 13:26:53 listening done",
-  "11-10 13:26:53 run end after 695 s",
   "11-10 13:30:25 run start",
   "11-10 13:30:33 listening 11 min",
   "11-10 13:41:54 listening done",
@@ -15878,7 +15876,11 @@
   "11-10 15:30:25 run start",
   "11-10 15:31:34 listening 10 min",
   "11-10 15:42:02 listening done",
-  "11-10 15:42:02 run end after 696 s"
+  "11-10 15:42:02 run end after 696 s",
+  "11-10 15:45:23 run start",
+  "11-10 15:46:24 listening 10 min",
+  "11-10 15:56:54 listening done",
+  "11-10 15:56:54 run end after 690 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
