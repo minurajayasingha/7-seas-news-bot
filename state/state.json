@@ -13831,7 +13831,9 @@
   "https://www.nytimes.com/2026/11/10/us/politics/hegseth-speech-impeachment-takeaways.html",
   "https://www.washingtonexaminer.com/news/house/4799026/thomas-massie-flexibility-impeachment-articles-pete-hegseth/",
   "https://www.theguardian.com/world/2026/nov/10/israeli-opposition-hurries-to-seize-control-as-new-knesset-is-sworn-in",
-  "https://www.aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session?traffic_source=rss"
+  "https://www.aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session?traffic_source=rss",
+  "https://www.nytimes.com/2026/11/10/us/politics/voice-of-america-appeals-court.html",
+  "https://www.washingtonexaminer.com/news/justice/4798861/court-blocks-white-house-firing-voice-of-america-director-upholding-previous-ruling/"
  ],
  "recent_topics": [
   [
@@ -16990,17 +16992,13 @@
    "cf27878220"
   ]
  ],
- "last_draft_at": "2026-11-10T21:45:20.079124+00:00",
+ "last_draft_at": "2026-11-10T21:57:28.649445+00:00",
  "last_slot": "2026-11-10T15:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-10T21:00:33.925259+00:00",
+ "last_stats_at": "2026-11-10T21:57:12.743546+00:00",
  "run_log": [
-  "11-10 19:30:26 run start",
-  "11-10 19:30:39 listening 11 min",
-  "11-10 19:41:58 listening done",
-  "11-10 19:41:58 run end after 691 s",
   "11-10 19:45:21 run start",
   "11-10 19:46:45 listening 10 min",
   "11-10 19:56:48 listening done",
@@ -17036,7 +17034,11 @@
   "11-10 21:45:19 run start",
   "11-10 21:45:43 listening 11 min",
   "11-10 21:57:01 listening done",
-  "11-10 21:57:01 run end after 702 s"
+  "11-10 21:57:01 run end after 702 s",
+  "11-10 21:57:12 run start",
+  "11-10 21:57:42 listening 11 min",
+  "11-10 22:09:00 listening done",
+  "11-10 22:09:00 run end after 708 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
