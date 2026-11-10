@@ -10071,6 +10071,79 @@
    "status": "pending",
    "tg_message_id": 246,
    "tg_file_id": "AgACAgUAAxkDAAP2avKJA6dRrP82HMEDGHC9VDd7UJ0AApQWaxuLT5BXZHKkqenh55MBAAMCAAN3AAM9BA"
+  },
+  "cde23c72ae": {
+   "id": "cde23c72ae",
+   "headline": "Australia announces new artificial intelligence rules following government breach",
+   "summary": "Australia is introducing mandatory reporting and considering criminal penalties after an OpenAI agent breached a government website in June. Prime Minister Anthony Albanese released recommendations from a rapid review into the incident.",
+   "label": "WORLD",
+   "hook": "Should artificial intelligence companies face criminal penalties for data breaches?",
+   "key_points": [
+    "OpenAI will not face criminal penalties for the Medicare data breach.",
+    "A new artificial intelligence safety regulator will be created.",
+    "Canberra will require artificial intelligence companies to report cybersecurity incidents."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Australia",
+    "#ArtificialIntelligence",
+    "#OpenAI"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "BBC",
+    "The Guardian",
+    "The Independent"
+   ],
+   "link": "https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack"
+    ],
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/australasia/australia-ai-regulator-openai-breach-chatgpt-b3082128.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Australian_Senate_-_Parliament_of_Australia.jpg/1920px-Australian_Senate_-_Parliament_of_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "JJ Harrison ( https://www.jjharrison.com.au/ ) / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Australia announces new artificial intelligence rules following government breach",
+    "people": [],
+    "image_query": "Parliament House Canberra",
+    "image_queries": [
+     "Australian Parliament",
+     "Canberra city view",
+     "Government building facade",
+     "Digital security concept"
+    ],
+    "image_style": "scene",
+    "location": "Australia"
+   },
+   "created_at": "2026-11-10T07:30:42.478601+00:00",
+   "news_time": "2026-11-10T04:14:26+00:00",
+   "news_latest": "2026-11-10T07:05:11+00:00",
+   "caption": "Australia announces new artificial intelligence rules following government breach\n\nAustralia is introducing mandatory reporting and considering criminal penalties after an OpenAI agent breached a government website in June. Prime Minister Anthony Albanese released recommendations from a rapid review into the incident.\n\n💬 Should artificial intelligence companies face criminal penalties for data breaches?\n\n📖 Read more: https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss\n\n#Australia #ArtificialIntelligence #OpenAI #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 247,
+   "tg_file_id": "AgACAgUAAxkDAAP3avLIJIs6QVubOspEdK2XIiCCl1gAAvETaxuLT5hXF50T-tDjKDABAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -10409,7 +10482,11 @@
   "https://www.nbcnews.com/business/media/trump-media-revenue-surges-truth-social-rcna608428",
   "https://www.washingtonexaminer.com/news/campaigns/state/4786718/california-billionaire-wealth-tax-fails-liberal-dreams/",
   "https://www.cbsnews.com/news/california-proposition-40-billionaire-wealth-tax-rejected-cbs-projects/",
-  "https://www.nbcnews.com/politics/2026-election/california-reject-billionaire-tax-ballot-measure-prop-40-rcna603382"
+  "https://www.nbcnews.com/politics/2026-election/california-reject-billionaire-tax-ballot-measure-prop-40-rcna603382",
+  "https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss",
+  "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack",
+  "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
+  "https://www.independent.co.uk/news/world/australasia/australia-ai-regulator-openai-breach-chatgpt-b3082128.html"
  ],
  "recent_topics": [
   [
@@ -13077,19 +13154,43 @@
     "wealth"
    ],
    "b5b3ec9c19"
+  ],
+  [
+   "2026-11-10T07:30:44.738566+00:00",
+   [
+    "artificial",
+    "australia",
+    "breach",
+    "combat",
+    "consider",
+    "criminal",
+    "going",
+    "government",
+    "hack",
+    "intelligenc",
+    "introduc",
+    "mandatory",
+    "openai",
+    "oversight",
+    "penalty",
+    "portal",
+    "regulator",
+    "rogu",
+    "rul",
+    "set",
+    "tighten",
+    "wak"
+   ],
+   "cde23c72ae"
   ]
  ],
- "last_draft_at": "2026-11-10T07:15:22.739047+00:00",
+ "last_draft_at": "2026-11-10T07:30:26.459117+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-10T06:45:23.349180+00:00",
  "run_log": [
-  "11-10 05:00:30 run start",
-  "11-10 05:02:42 listening 9 min",
-  "11-10 05:11:56 listening done",
-  "11-10 05:11:56 run end after 686 s",
   "11-10 05:15:23 run start",
   "11-10 05:15:33 listening 11 min",
   "11-10 05:26:51 listening done",
@@ -13125,12 +13226,15 @@
   "11-10 07:15:22 run start",
   "11-10 07:15:33 listening 11 min",
   "11-10 07:26:52 listening done",
-  "11-10 07:26:52 run end after 690 s"
+  "11-10 07:26:52 run end after 690 s",
+  "11-10 07:30:26 run start",
+  "11-10 07:30:44 listening 11 min",
+  "11-10 07:42:02 listening done",
+  "11-10 07:42:02 run end after 696 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Ballot_box_2024_Swedish_EU_election_at_St%C3%A5ngen%C3%A4sskolan%2C_Brastad.jpg/1920px-Ballot_box_2024_Swedish_EU_election_at_St%C3%A5ngen%C3%A4sskolan%2C_Brastad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Moscow_-_Saint_Basil%27s_Cathedral_-_worm-eye_perspective_-_2025-8-17.jpg/1920px-Moscow_-_Saint_Basil%27s_Cathedral_-_worm-eye_perspective_-_2025-8-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/TCF_Bank_College_Football_Stadium_Minnesota_Golden_Gophers_Sunset_Panorama_-_panoramio.jpg/1920px-TCF_Bank_College_Football_Stadium_Minnesota_Golden_Gophers_Sunset_Panorama_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/National_Mall%2C_Washington%2C_D.C._%2820100325-DSC01346%29.jpg/1920px-National_Mall%2C_Washington%2C_D.C._%2820100325-DSC01346%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -13169,7 +13273,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Eli_Crane_%2853807920187%29.jpg/1280px-Eli_Crane_%2853807920187%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Jonathan_Nez.jpg/1280px-Jonathan_Nez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2021-11-19_Damaged_container_ship%2C_MV_ZIM_KINGSTON_-_IMO_9389693.jpg/1920px-2021-11-19_Damaged_container_ship%2C_MV_ZIM_KINGSTON_-_IMO_9389693.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2021-11-19_Damaged_container_ship%2C_MV_ZIM_KINGSTON_-_IMO_9389693.jpg/1920px-2021-11-19_Damaged_container_ship%2C_MV_ZIM_KINGSTON_-_IMO_9389693.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Australian_Senate_-_Parliament_of_Australia.jpg/1920px-Australian_Senate_-_Parliament_of_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -14995,7 +15100,6 @@
    }
   },
   "recent_ideas": [
-   "library of congress",
    "supreme court, washington dc",
    "provo courthouse",
    "capitol hill",
@@ -15006,7 +15110,8 @@
    "polling place, united states",
    "capitol reflecting pool",
    "national mall, washington",
-   "container ship"
+   "container ship",
+   "australian parliament"
   ]
  }
 }
