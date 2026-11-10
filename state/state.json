@@ -12056,14 +12056,19 @@
    "news_time": "2026-11-10T12:25:48+00:00",
    "news_latest": "2026-11-10T14:59:09+00:00",
    "caption": "Israel parliament gathers with opposition leading Knesset\n\nIsrael's new parliament is gathering as leaders compete to form a government. Benjamin Netanyahu's political rival, Gadi Eisenkot, has the first chance to build a new administration.\n\n💬 Can Gadi Eisenkot successfully form a new government and oust Benjamin Netanyahu?\n\n📖 Read more: https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html\n\n#Israel #Knesset #WorldNews #7SeasNews",
-   "status": "queued",
+   "status": "posted",
    "tg_message_id": 281,
    "tg_file_id": "AgACAgUAAxkDAAIBGWrzNS6wgpuL6ucbWcepSk5Ps292AAKkFWsbi0-YV-n62PNqvrs3AQADAgADdwADPQQ",
    "queued_at": "2026-11-10T17:51:30.477240+00:00",
    "post_now": false,
-   "extra_msgs": [
-    293
-   ]
+   "extra_msgs": [],
+   "fb_post_id": "1413030521900096_122097865623548584",
+   "posted_at": "2026-11-10T20:00:29.605285+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 10 · 3:00 PM New York · 1:30 AM Sri Lanka\n\n<b>Israel parliament gathers with opposition leading Knesset</b>\n<i>BBC, New York Times</i>\n🔴 <b>Latest:</b> 8:29 PM Sri Lanka (5h 1m ago) · first reported 5:55 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122097865623548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 137,
+   "log_photo": true,
+   "cleared": true
   },
   "e5eb01cfdb": {
    "id": "e5eb01cfdb",
@@ -12880,6 +12885,202 @@
    "status": "pending",
    "tg_message_id": 300,
    "tg_file_id": "AgACAgUAAxkDAAIBLGrzdGvrPkLgVYel9-TcPWuaTR-PAAIKFmsbi0-YVxIHWJ9tT385AQADAgADdwADPQQ"
+  },
+  "e644a99994": {
+   "id": "e644a99994",
+   "headline": "US Soldier Arrested in UK on Suspicion of Spying for Russia",
+   "summary": "Counterterror police in England have arrested a U.S. Army soldier. The suspect is in custody pending possible charges following a joint investigation.",
+   "label": "WORLD",
+   "hook": "What further details will emerge from this joint investigation?",
+   "key_points": [
+    "A 41-year-old man was arrested in England.",
+    "The arrest involved U.S. military intelligence and the F.B.I.",
+    "The soldier is suspected of espionage related to Russia."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USMilitary",
+    "#UKNews",
+    "#Espionage"
+   ],
+   "sources": [
+    "ABC News",
+    "NBC News",
+    "New York Times"
+   ],
+   "link": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html",
+   "links": [
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html"
+    ],
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/us-soldier-arrested-britain-suspicion-espionage-linked-russia-138022230"
+    ],
+    [
+     "NBC News",
+     "https://www.nbcnews.com/world/united-kingdom/us-army-member-arrested-uk-suspicion-working-russian-intelligence-rcna608616"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/U.S._Embassy%2C_London_-_2022-04-30.jpg/1920px-U.S._Embassy%2C_London_-_2022-04-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "The wub / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "US Soldier Arrested in UK on Suspicion of Spying for Russia",
+    "people": [],
+    "image_query": "London city",
+    "image_queries": [
+     "Scotland Yard building",
+     "London street",
+     "U.S. Embassy London",
+     "British police car"
+    ],
+    "image_style": "person",
+    "location": "London, United Kingdom"
+   },
+   "created_at": "2026-11-10T20:00:59.436414+00:00",
+   "news_time": "2026-11-10T19:29:25+00:00",
+   "news_latest": "2026-11-10T19:52:40+00:00",
+   "caption": "US Soldier Arrested in UK on Suspicion of Spying for Russia\n\nCounterterror police in England have arrested a U.S. Army soldier. The suspect is in custody pending possible charges following a joint investigation.\n\n💬 What further details will emerge from this joint investigation?\n\n📖 Read more: https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html\n\n#USMilitary #UKNews #Espionage #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 301,
+   "tg_file_id": "AgACAgUAAxkDAAIBLWrzd_1ZIw--Qibhyeb61AcT9fBdAAILFmsbi0-YV6dbSds2iZUCAQADAgADdwADPQQ"
+  },
+  "6bc481b818": {
+   "id": "6bc481b818",
+   "headline": "US Secretary of State Marco Rubio rules out Iran combat",
+   "summary": "US Secretary of State Marco Rubio stated that further major combat operations against Iran are unnecessary. He indicated that economic pressure from the United States is causing sufficient damage to the leadership in Tehran.",
+   "label": "DIPLOMACY",
+   "hook": "Is economic pressure alone enough to impact leadership in Tehran?",
+   "key_points": [
+    "Marco Rubio stated major combat operations against Iran are unnecessary",
+    "US economic pressure is damaging the leadership in Tehran"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Iran",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "New York Times"
+   ],
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/10/us/politics/rubio-iran-war.html"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Visita_Oficial_del_Secretario_de_los_Estados_Unidos_de_Am%C3%A9rica_Marco_Rubio_4_feb_2025_06.jpg/1280px-Visita_Oficial_del_Secretario_de_los_Estados_Unidos_de_Am%C3%A9rica_Marco_Rubio_4_feb_2025_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Priscilla Corrales/Presidencia de la República de Costa Rica / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "US Secretary of State Marco Rubio rules out Iran combat",
+    "people": [
+     "Marco Rubio"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Senate chamber",
+     "Pentagon building",
+     "White House",
+     "Capitol Hill"
+    ],
+    "image_style": "person",
+    "location": "US"
+   },
+   "created_at": "2026-11-10T20:01:02.914473+00:00",
+   "news_time": "2026-11-10T19:33:48+00:00",
+   "news_latest": "2026-11-10T19:34:13+00:00",
+   "caption": "US Secretary of State Marco Rubio rules out Iran combat\n\nUS Secretary of State Marco Rubio stated that further major combat operations against Iran are unnecessary. He indicated that economic pressure from the United States is causing sufficient damage to the leadership in Tehran.\n\n💬 Is economic pressure alone enough to impact leadership in Tehran?\n\n📖 Read more: https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss\n\n#USPolitics #Iran #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 302,
+   "tg_file_id": "AgACAgUAAxkDAAIBLmrzeAAB76nMNNs1g5T9o2ayj-lADwACDBZrG4tPmFdm3L01OFKcAAEBAAMCAAN3AAM9BA"
+  },
+  "6d8d7d2eff": {
+   "id": "6d8d7d2eff",
+   "headline": "Biden Details Warm Oval Office Letter From Trump",
+   "summary": "Former President Joseph R. Biden Jr. shares details of a warm letter left by Donald Trump in the Oval Office after the 2020 election. The letter stands out for its tone, which contrasts with public comments made by Trump.",
+   "label": "US POLITICS",
+   "hook": "Would a message like this typically change the tone between outgoing and incoming presidents?",
+   "key_points": [
+    "Biden revealed details of the letter in a new book.",
+    "The letter was left in the Oval Office after the 2020 election."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Biden",
+    "#Trump"
+   ],
+   "sources": [
+    "New York Times",
+    "Newsweek"
+   ],
+   "link": "https://www.newsweek.com/joe-biden-donald-trump-2021-oval-office-letter-revealed-12696751",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/joe-biden-donald-trump-2021-oval-office-letter-revealed-12696751"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/10/us/politics/biden-trump-letter.html"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Michael Vadon / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Biden Details Warm Oval Office Letter From Trump",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "White House",
+    "image_queries": [
+     "Oval Office",
+     "US Capitol building",
+     "West Wing",
+     "Presidential desk"
+    ],
+    "image_style": "person",
+    "location": "Washington, DC, US"
+   },
+   "created_at": "2026-11-10T20:01:06.846917+00:00",
+   "news_time": "2026-11-10T17:00:05+00:00",
+   "news_latest": "2026-11-10T19:51:20+00:00",
+   "caption": "Biden Details Warm Oval Office Letter From Trump\n\nFormer President Joseph R. Biden Jr. shares details of a warm letter left by Donald Trump in the Oval Office after the 2020 election. The letter stands out for its tone, which contrasts with public comments made by Trump.\n\n💬 Would a message like this typically change the tone between outgoing and incoming presidents?\n\n📖 Read more: https://www.newsweek.com/joe-biden-donald-trump-2021-oval-office-letter-revealed-12696751\n\n#USPolitics #Biden #Trump #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 303,
+   "tg_file_id": "AgACAgUAAxkDAAIBL2rzeAapC-HSZLKQeozKj_rf-7MuAAINFmsbi0-YV37PccQ-YL1bAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -13324,53 +13525,16 @@
   "https://www.theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire",
   "https://news.sky.com/story/member-of-us-army-arrested-in-uk-over-allegations-of-espionage-involving-russia-13610748",
   "https://thehill.com/homenews/state-watch/6211337-moore-to-work-miller/",
-  "https://www.politico.com/news/2026/11/10/gov-wes-moore-sees-an-opportunity-to-work-with-stephen-miller-01158571"
+  "https://www.politico.com/news/2026/11/10/gov-wes-moore-sees-an-opportunity-to-work-with-stephen-miller-01158571",
+  "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html",
+  "https://abcnews.com/International/wireStory/us-soldier-arrested-britain-suspicion-espionage-linked-russia-138022230",
+  "https://www.nbcnews.com/world/united-kingdom/us-army-member-arrested-uk-suspicion-working-russian-intelligence-rcna608616",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
+  "https://www.nytimes.com/2026/11/10/us/politics/rubio-iran-war.html",
+  "https://www.newsweek.com/joe-biden-donald-trump-2021-oval-office-letter-revealed-12696751",
+  "https://www.nytimes.com/2026/11/10/us/politics/biden-trump-letter.html"
  ],
  "recent_topics": [
-  [
-   "2026-11-07T20:00:38.078131+00:00",
-   [
-    "candidate",
-    "coalition",
-    "eisenkot",
-    "form",
-    "gadi",
-    "gain",
-    "government",
-    "israel",
-    "israeli",
-    "leader",
-    "momentum",
-    "netanyahu",
-    "opposition",
-    "picks",
-    "president",
-    "rival",
-    "talks",
-    "taps",
-    "try",
-    "yashar"
-   ]
-  ],
-  [
-   "2026-11-07T20:00:48.899454+00:00",
-   [
-    "airlines",
-    "bogus",
-    "bomb",
-    "europe",
-    "flights",
-    "foreign",
-    "france",
-    "hoax",
-    "investigating",
-    "know",
-    "linked",
-    "powers",
-    "targeted",
-    "threats"
-   ]
-  ],
   [
    "2026-11-07T23:39:17.513669+00:00",
    [
@@ -16388,19 +16552,70 @@
     "win"
    ],
    "6975066cce"
+  ],
+  [
+   "2026-11-10T20:01:01.558999+00:00",
+   [
+    "alleg",
+    "allegation",
+    "army",
+    "arrest",
+    "britain",
+    "counter-terrorism",
+    "espionag",
+    "intelligenc",
+    "involv",
+    "link",
+    "member",
+    "polic",
+    "russia",
+    "russian",
+    "senior",
+    "soldier",
+    "spy",
+    "suspicion",
+    "work"
+   ],
+   "e644a99994"
+  ],
+  [
+   "2026-11-10T20:01:04.614003+00:00",
+   [
+    "combat",
+    "iran",
+    "longer",
+    "major",
+    "need",
+    "operation",
+    "restart",
+    "rubio",
+    "war"
+   ],
+   "6bc481b818"
+  ],
+  [
+   "2026-11-10T20:01:10.930988+00:00",
+   [
+    "biden",
+    "detail",
+    "generou",
+    "letter",
+    "offic",
+    "oval",
+    "reveal",
+    "trump",
+    "very"
+   ],
+   "6d8d7d2eff"
   ]
  ],
- "last_draft_at": "2026-11-10T19:45:21.668131+00:00",
- "last_slot": "2026-11-10T12:00:00-05:00",
+ "last_draft_at": "2026-11-10T20:00:48.856760+00:00",
+ "last_slot": "2026-11-10T15:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-10T19:00:32.372291+00:00",
+ "last_stats_at": "2026-11-10T20:00:36.748821+00:00",
  "run_log": [
-  "11-10 17:30:26 run start",
-  "11-10 17:30:40 listening 11 min",
-  "11-10 17:41:59 listening done",
-  "11-10 17:41:59 run end after 693 s",
   "11-10 17:45:20 run start",
   "11-10 17:45:39 listening 11 min",
   "11-10 17:56:49 listening done",
@@ -16436,14 +16651,15 @@
   "11-10 19:45:21 run start",
   "11-10 19:46:45 listening 10 min",
   "11-10 19:56:48 listening done",
-  "11-10 19:56:48 run end after 687 s"
+  "11-10 19:56:48 run end after 687 s",
+  "11-10 20:00:29 run start",
+  "11-10 20:01:10 listening 11 min",
+  "11-10 20:12:03 listening done",
+  "11-10 20:12:03 run end after 694 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Jonathan_Nez.jpg/1280px-Jonathan_Nez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2021-11-19_Damaged_container_ship%2C_MV_ZIM_KINGSTON_-_IMO_9389693.jpg/1920px-2021-11-19_Damaged_container_ship%2C_MV_ZIM_KINGSTON_-_IMO_9389693.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Australian_Senate_-_Parliament_of_Australia.jpg/1920px-Australian_Senate_-_Parliament_of_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/a/ae/North_of_Tehran_Skyline_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Capitol_Washington_October_2016-3.jpg/1920px-Capitol_Washington_October_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -16480,7 +16696,10 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Nancy_Pelosi_2012.jpg/1280px-Nancy_Pelosi_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Haley_Stevens_20190202_%2802%29.jpg/1280px-Haley_Stevens_20190202_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/London_-_Judicial_Committee_of_the_Privy_Council_02.jpg/1920px-London_-_Judicial_Committee_of_the_Privy_Council_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/London_-_Judicial_Committee_of_the_Privy_Council_02.jpg/1920px-London_-_Judicial_Committee_of_the_Privy_Council_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/U.S._Embassy%2C_London_-_2022-04-30.jpg/1920px-U.S._Embassy%2C_London_-_2022-04-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Visita_Oficial_del_Secretario_de_los_Estados_Unidos_de_Am%C3%A9rica_Marco_Rubio_4_feb_2025_06.jpg/1280px-Visita_Oficial_del_Secretario_de_los_Estados_Unidos_de_Am%C3%A9rica_Marco_Rubio_4_feb_2025_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -18667,7 +18886,6 @@
    }
   },
   "recent_ideas": [
-   "kinshasa street",
    "azadi tower",
    "senate chamber",
    "port of los angeles",
@@ -18678,7 +18896,8 @@
    "rafah border crossing",
    "supreme court building",
    "moscow street",
-   "privy council london"
+   "privy council london",
+   "u.s. embassy london"
   ]
  }
 }
