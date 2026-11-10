@@ -12667,6 +12667,76 @@
    "status": "pending",
    "tg_message_id": 297,
    "tg_file_id": "AgACAgUAAxkDAAIBKWrzX02YW1gEbJVcd-7OpGdg-2bjAALsFWsbi0-YV-T8x-uNB0tJAQADAgADdwADPQQ"
+  },
+  "29693a3a86": {
+   "id": "29693a3a86",
+   "headline": "Nancy Pelosi opposes removing Haley Stevens from Democratic caucus",
+   "summary": "Former House Speaker Nancy Pelosi advised colleagues against removing Representative Haley Stevens from the House Democratic caucus. Stevens previously endorsed a Republican candidate in the Michigan Senate race.",
+   "label": "US POLITICS",
+   "hook": "Should political parties remove members who cross party lines for endorsements?",
+   "key_points": [
+    "Pelosi advised against removing Stevens from the caucus",
+    "Stevens endorsed a Michigan Senate Republican candidate"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Congress",
+    "#NancyPelosi"
+   ],
+   "sources": [
+    "The Hill",
+    "Washington Post"
+   ],
+   "link": "https://thehill.com/homenews/house/6211133-pelosi-advises-against-kicking-stevens-out-of-house-democratic-caucus/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/homenews/house/6211133-pelosi-advises-against-kicking-stevens-out-of-house-democratic-caucus/"
+    ],
+    [
+     "Washington Post",
+     "https://www.washingtonpost.com/politics/2026/11/10/pelosi-does-not-support-kicking-rep-haley-stevens-out-democratic-caucus/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Nancy_Pelosi_2012.jpg/1280px-Nancy_Pelosi_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States House of Representatives / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Haley_Stevens_20190202_%2802%29.jpg/1280px-Haley_Stevens_20190202_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "SecretName101 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Nancy Pelosi opposes removing Haley Stevens from Democratic caucus",
+    "people": [
+     "Nancy Pelosi",
+     "Haley Stevens"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "House of Representatives chamber",
+     "Capitol Hill",
+     "Senate chamber",
+     "Michigan State Capitol"
+    ],
+    "image_style": "person",
+    "location": "Michigan, US"
+   },
+   "created_at": "2026-11-10T19:15:34.786725+00:00",
+   "news_time": "2026-11-10T17:48:49+00:00",
+   "news_latest": "2026-11-10T19:01:57+00:00",
+   "caption": "Nancy Pelosi opposes removing Haley Stevens from Democratic caucus\n\nFormer House Speaker Nancy Pelosi advised colleagues against removing Representative Haley Stevens from the House Democratic caucus. Stevens previously endorsed a Republican candidate in the Michigan Senate race.\n\n💬 Should political parties remove members who cross party lines for endorsements?\n\n📖 Read more: https://thehill.com/homenews/house/6211133-pelosi-advises-against-kicking-stevens-out-of-house-democratic-caucus/\n\n#USPolitics #Congress #NancyPelosi #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 298,
+   "tg_file_id": "AgACAgUAAxkDAAIBKmrzbVmD9opuEusdMB2Sxuz8zo_mAAL3FWsbi0-YV0tdRzDyNrcpAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -13095,7 +13165,9 @@
   "https://kyivindependent.com/the-quiet-death-of-novaya-gazeta-how-a-once-powerful-newspaper-refused-to-leave-russia-and-slowly-lost-its-voice/",
   "https://www.newsweek.com/who-is-jason-watford-what-to-know-about-cruise-ship-homicide-suspect-12694424",
   "https://www.independent.co.uk/news/world/americas/crime/jason-watford-cruise-ship-murder-msc-seascape-b3082610.html",
-  "https://www.nbcnews.com/news/us-news/texas-cruise-ship-slaying-jason-leon-watford-charged-allegedly-choking-rcna608518"
+  "https://www.nbcnews.com/news/us-news/texas-cruise-ship-slaying-jason-leon-watford-charged-allegedly-choking-rcna608518",
+  "https://thehill.com/homenews/house/6211133-pelosi-advises-against-kicking-stevens-out-of-house-democratic-caucus/",
+  "https://www.washingtonpost.com/politics/2026/11/10/pelosi-does-not-support-kicking-rep-haley-stevens-out-democratic-caucus/"
  ],
  "recent_topics": [
   [
@@ -16096,19 +16168,32 @@
     "woman"
    ],
    "0f8beb9658"
+  ],
+  [
+   "2026-11-10T19:15:37.412330+00:00",
+   [
+    "advis",
+    "caucu",
+    "democratic",
+    "doe",
+    "haley",
+    "hous",
+    "kick",
+    "pelosi",
+    "rep",
+    "steven",
+    "support"
+   ],
+   "29693a3a86"
   ]
  ],
- "last_draft_at": "2026-11-10T19:00:45.871887+00:00",
+ "last_draft_at": "2026-11-10T19:15:20.378893+00:00",
  "last_slot": "2026-11-10T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-10T19:00:32.372291+00:00",
  "run_log": [
-  "11-10 16:50:32 run start",
-  "11-10 16:51:13 listening 11 min",
-  "11-10 17:02:15 listening done",
-  "11-10 17:02:15 run end after 702 s",
   "11-10 17:02:26 run start",
   "11-10 17:02:36 listening 11 min",
   "11-10 17:13:56 listening done",
@@ -16144,13 +16229,15 @@
   "11-10 19:00:32 run start",
   "11-10 19:00:56 listening 11 min",
   "11-10 19:12:14 listening done",
-  "11-10 19:12:14 run end after 702 s"
+  "11-10 19:12:14 run end after 702 s",
+  "11-10 19:15:19 run start",
+  "11-10 19:15:37 listening 11 min",
+  "11-10 19:26:56 listening done",
+  "11-10 19:26:56 run end after 696 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Baltra_Island_-_Wind_Turbines.jpg/1920px-Baltra_Island_-_Wind_Turbines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Polling_place_%2851099128254%29.jpg/1920px-Polling_place_%2851099128254%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Capitol_Reflecting_Pool_%28September_2023%29_06.jpg/1920px-Capitol_Reflecting_Pool_%28September_2023%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Eli_Crane_%2853807920187%29.jpg/1280px-Eli_Crane_%2853807920187%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Jonathan_Nez.jpg/1280px-Jonathan_Nez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -16188,7 +16275,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Prince_Harry_at_Canterbury_University_%2817547607621%29.jpg/1280px-Prince_Harry_at_Canterbury_University_%2817547607621%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Meghan_Markle_%28Paley_Center_%27Suits%27%29.jpg/1280px-Meghan_Markle_%28Paley_Center_%27Suits%27%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Singapore_Old-Supreme-Court-Building-01.jpg/1920px-Singapore_Old-Supreme-Court-Building-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Moscow._Myasnitskaya_Street_P5142232_2600.jpg/1920px-Moscow._Myasnitskaya_Street_P5142232_2600.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Moscow._Myasnitskaya_Street_P5142232_2600.jpg/1920px-Moscow._Myasnitskaya_Street_P5142232_2600.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Nancy_Pelosi_2012.jpg/1280px-Nancy_Pelosi_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Haley_Stevens_20190202_%2802%29.jpg/1280px-Haley_Stevens_20190202_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -18246,6 +18335,128 @@
      {
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Meghan_Markle_in_2013_New_York_Fashion_Week_%2834599969593%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "credit": "Christopher Macsurak / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     }
+    ]
+   },
+   "nancy pelosi": {
+    "t": "2026-11-10T19:15:34.022570+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Official_photo_of_Speaker_Nancy_Pelosi_in_2019.jpg/1280px-Official_photo_of_Speaker_Nancy_Pelosi_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "John Harrington / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Nancy_Pelosi_2012.jpg/1280px-Nancy_Pelosi_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States House of Representatives / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Nancy_Pelosi_welcomes_Israeli_FM_Yair_Lapid_to_the_US_Capitol_%281%29.jpg/1280px-Nancy_Pelosi_welcomes_Israeli_FM_Yair_Lapid_to_the_US_Capitol_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Office of U.S. House Speaker / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Congressman_Nancy_Pelosi_%2843830815485%29.jpg/1280px-Congressman_Nancy_Pelosi_%2843830815485%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Global Climate Action Summit 2018 / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Nancy_Pelosi_%2848996053123%29.jpg/1280px-Nancy_Pelosi_%2848996053123%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "LBJ Library from Austin / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Nancy_Pelosi_signs_the_articles_of_the_first_impeachment_of_Donald_Trump_73.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Office of Speaker Nancy Pelosi / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Nancy_Pelosi_signs_the_articles_of_the_first_impeachment_of_Donald_Trump_76.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Office of Speaker Nancy Pelosi / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     }
+    ]
+   },
+   "haley stevens": {
+    "t": "2026-11-10T19:15:34.786631+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Haley_Stevens%2C_official_portrait%2C_116th_Congress.jpg/1280px-Haley_Stevens%2C_official_portrait%2C_116th_Congress.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Phi Nguyen / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Haley_Stevens_20190202_%2801%29.jpg/1280px-Haley_Stevens_20190202_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "SecretName101 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Haley_Stevens_20190202_%2806%29.jpg/1280px-Haley_Stevens_20190202_%2806%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "SecretName101 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Haley_Stevens_20190202_%2803%29.jpg/1280px-Haley_Stevens_20190202_%2803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "SecretName101 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Haley_Stevens_20190202_%2811%29.jpg/1280px-Haley_Stevens_20190202_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "SecretName101 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Haley_Stevens_20190202_%2809%29.jpg/1280px-Haley_Stevens_20190202_%2809%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "SecretName101 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Haley_Stevens_20190202_%2810%29.jpg/1280px-Haley_Stevens_20190202_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "SecretName101 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Haley_Stevens_20190202_%2808%29.jpg/1280px-Haley_Stevens_20190202_%2808%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "SecretName101 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Haley_Stevens_20190202_%2805%29.jpg/1280px-Haley_Stevens_20190202_%2805%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "SecretName101 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Haley_Stevens_20190202_%2812%29.jpg/1280px-Haley_Stevens_20190202_%2812%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "SecretName101 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Haley_Stevens_20190202_%2804%29.jpg/1280px-Haley_Stevens_20190202_%2804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "SecretName101 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Haley_Stevens_20190202_%2802%29.jpg/1280px-Haley_Stevens_20190202_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "SecretName101 / Wikimedia Commons (CC BY-SA 4.0)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": true
      }
