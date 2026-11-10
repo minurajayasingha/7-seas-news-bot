@@ -11101,6 +11101,64 @@
    "status": "pending",
    "tg_message_id": 262,
    "tg_file_id": "AgACAgUAAxkDAAIBBmrzB3LaeoogyKDhcmBvt34v3T0HAAILFWsbi0-YVwIINPrNT_4wAQADAgADdwADPQQ"
+  },
+  "9e78ddd1bb": {
+   "id": "9e78ddd1bb",
+   "headline": "Bulgaria motorway crashes: 12 killed in multi-vehicle pile-ups",
+   "summary": "Thick fog in eastern Bulgaria triggered multiple vehicle crashes on a motorway. At least 12 people died and dozens sustained injuries.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "At least 12 people were killed in crashes.",
+    "Dozoens of vehicles were involved in pile-ups.",
+    "The incident occurred on an eastern Bulgarian motorway."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Bulgaria",
+    "#WorldNews",
+    "#Accident"
+   ],
+   "sources": [
+    "ABC News",
+    "Sky News"
+   ],
+   "link": "https://abcnews.com/International/wireStory/12-people-killed-dozens-hurt-crashes-foggy-bulgarian-138004407",
+   "links": [
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/12-people-killed-dozens-hurt-crashes-foggy-bulgarian-138004407"
+    ],
+    [
+     "Sky News",
+     "https://news.sky.com/story/at-least-12-killed-in-bulgaria-motorway-pile-ups-involving-dozens-of-vehicles-13610553"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Bulgaria"
+   },
+   "img_post": {
+    "headline": "Bulgaria motorway crashes: 12 killed in multi-vehicle pile-ups",
+    "people": [],
+    "image_query": "Bulgaria motorway",
+    "image_queries": [
+     "Bulgaria highway",
+     "motorway fog",
+     "traffic accident scene",
+     "emergency vehicles highway"
+    ],
+    "image_style": "incident",
+    "location": "Bulgaria"
+   },
+   "created_at": "2026-11-10T12:46:01.718165+00:00",
+   "news_time": "2026-11-10T10:36:00+00:00",
+   "news_latest": "2026-11-10T12:11:56+00:00",
+   "caption": "🚨 BREAKING: Bulgaria motorway crashes: 12 killed in multi-vehicle pile-ups\n\nThick fog in eastern Bulgaria triggered multiple vehicle crashes on a motorway. At least 12 people died and dozens sustained injuries.\n\nWhat we know so far:\n• At least 12 people were killed in crashes.\n• Dozoens of vehicles were involved in pile-ups.\n• The incident occurred on an eastern Bulgarian motorway.\n\n📖 Read more: https://abcnews.com/International/wireStory/12-people-killed-dozens-hurt-crashes-foggy-bulgarian-138004407\n\n#Bulgaria #WorldNews #Accident #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 263,
+   "tg_file_id": "AgACAgUAAxkDAAIBB2rzEgyy_QqEDsMCPT03i4jxEV-7AAIwFWsbi0-YV-q5JJmblqvpAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -11470,7 +11528,9 @@
   "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
   "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
   "https://www.independent.co.uk/news/world/americas/us-politics/us-un-human-rights-review-b3082347.html",
-  "https://www.cbsnews.com/news/us-first-nation-refuse-un-human-rights-council-review/"
+  "https://www.cbsnews.com/news/us-first-nation-refuse-un-human-rights-council-review/",
+  "https://abcnews.com/International/wireStory/12-people-killed-dozens-hurt-crashes-foggy-bulgarian-138004407",
+  "https://news.sky.com/story/at-least-12-killed-in-bulgaria-motorway-pile-ups-involving-dozens-of-vehicles-13610553"
  ],
  "recent_topics": [
   [
@@ -14414,19 +14474,35 @@
     "ultimat"
    ],
    "caba8b6905"
+  ],
+  [
+   "2026-11-10T12:46:04.348146+00:00",
+   [
+    "12",
+    "bulgaria",
+    "bulgarian",
+    "crash",
+    "dozen",
+    "foggy",
+    "involv",
+    "kill",
+    "least",
+    "minister",
+    "motorway",
+    "peopl",
+    "pile-up",
+    "vehicl"
+   ],
+   "9e78ddd1bb"
   ]
  ],
- "last_draft_at": "2026-11-10T12:30:31.383298+00:00",
+ "last_draft_at": "2026-11-10T12:45:44.265317+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-10T11:45:20.388225+00:00",
+ "last_stats_at": "2026-11-10T12:45:24.795222+00:00",
  "run_log": [
-  "11-10 10:15:20 run start",
-  "11-10 10:15:37 listening 11 min",
-  "11-10 10:27:08 listening done",
-  "11-10 10:27:08 run end after 708 s",
   "11-10 10:30:30 run start",
   "11-10 10:30:44 listening 11 min",
   "11-10 10:42:04 listening done",
@@ -14462,7 +14538,11 @@
   "11-10 12:30:30 run start",
   "11-10 12:30:41 listening 11 min",
   "11-10 12:42:00 listening done",
-  "11-10 12:42:00 run end after 689 s"
+  "11-10 12:42:00 run end after 689 s",
+  "11-10 12:45:24 run start",
+  "11-10 12:46:04 listening 11 min",
+  "11-10 12:56:58 listening done",
+  "11-10 12:56:58 run end after 694 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
