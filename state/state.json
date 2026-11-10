@@ -8852,9 +8852,11 @@
    "news_time": "2026-11-09T15:54:44+00:00",
    "news_latest": "2026-11-09T21:30:00+00:00",
    "caption": "Congress faces permitting bill test for data center expansion\n\nA new permitting bill has emerged in Congress as lawmakers debate rules for hyper-scale data centers and gas power plants. President Trump has endorsed the legislation and urged the Senate to pass it.\n\n💬 Will the Senate pass this new permitting bill for data centers?\n\n📖 Read more: https://thehill.com/opinion/energy-environment/6209002-ai-boom-infrastructure-risk/\n\n#USPolitics #Congress #DataCenters #7SeasNews",
-   "status": "pending",
+   "status": "expired",
    "tg_message_id": 227,
-   "tg_file_id": "AgACAgUAAxkDAAPjavI_D2i27yHloLgiUqDDdZ_SsWoAAh8WaxuLT5BXIFdrGb5CkhEBAAMCAAN3AAM9BA"
+   "tg_file_id": "AgACAgUAAxkDAAPjavI_D2i27yHloLgiUqDDdZ_SsWoAAh8WaxuLT5BXIFdrGb5CkhEBAAMCAAN3AAM9BA",
+   "extra_msgs": [],
+   "cleared": true
   },
   "9dd1f8d4b0": {
    "id": "9dd1f8d4b0",
@@ -13077,17 +13079,13 @@
    "b5b3ec9c19"
   ]
  ],
- "last_draft_at": "2026-11-10T05:15:24.211742+00:00",
+ "last_draft_at": "2026-11-10T05:30:26.723008+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-10T04:45:21.429391+00:00",
  "run_log": [
-  "11-10 03:00:32 run start",
-  "11-10 03:01:23 listening 11 min",
-  "11-10 03:12:17 listening done",
-  "11-10 03:12:17 run end after 704 s",
   "11-10 03:15:19 run start",
   "11-10 03:15:29 listening 11 min",
   "11-10 03:26:58 listening done",
@@ -13123,7 +13121,11 @@
   "11-10 05:15:23 run start",
   "11-10 05:15:33 listening 11 min",
   "11-10 05:26:51 listening done",
-  "11-10 05:26:51 run end after 687 s"
+  "11-10 05:26:51 run end after 687 s",
+  "11-10 05:30:25 run start",
+  "11-10 05:30:37 listening 11 min",
+  "11-10 05:41:57 listening done",
+  "11-10 05:41:57 run end after 691 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
