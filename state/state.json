@@ -12540,6 +12540,133 @@
    "extra_msgs": [
     295
    ]
+  },
+  "455871c5df": {
+   "id": "455871c5df",
+   "headline": "Novaya Gazeta shuts down after decades in Russia",
+   "summary": "Independent newspaper Novaya Gazeta has shut down in Russia. The publication covered an increasingly repressive Russia for over 30 years and survived years of Kremlin pressure before losing its staff, reach, and ability to publish.",
+   "label": "WORLD",
+   "hook": "Can independent journalism survive under mounting government pressure?",
+   "key_points": [
+    "Novaya Gazeta covered Russia for over 30 years.",
+    "The newspaper announced its closure on Oct. 30."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#NovayaGazeta",
+    "#Russia",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Kyiv Independent",
+    "New York Times"
+   ],
+   "link": "https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html",
+   "links": [
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html"
+    ],
+    [
+     "Kyiv Independent",
+     "https://kyivindependent.com/the-quiet-death-of-novaya-gazeta-how-a-once-powerful-newspaper-refused-to-leave-russia-and-slowly-lost-its-voice/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Moscow._Myasnitskaya_Street_P5142232_2600.jpg/1920px-Moscow._Myasnitskaya_Street_P5142232_2600.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Alexxx1979 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Novaya Gazeta shuts down after decades in Russia",
+    "people": [],
+    "image_query": "Moscow city",
+    "image_queries": [
+     "newspaper office",
+     "Moscow street",
+     "Russian media building",
+     "red square moscow"
+    ],
+    "image_style": "scene",
+    "location": "Russia"
+   },
+   "created_at": "2026-11-10T18:15:36.473039+00:00",
+   "news_time": "2026-11-10T17:58:53+00:00",
+   "news_latest": "2026-11-10T17:59:40+00:00",
+   "caption": "Novaya Gazeta shuts down after decades in Russia\n\nIndependent newspaper Novaya Gazeta has shut down in Russia. The publication covered an increasingly repressive Russia for over 30 years and survived years of Kremlin pressure before losing its staff, reach, and ability to publish.\n\n💬 Can independent journalism survive under mounting government pressure?\n\n📖 Read more: https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html\n\n#NovayaGazeta #Russia #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 296,
+   "tg_file_id": "AgACAgUAAxkDAAIBKGrzX0oDONeCmRgaY29FB-KrRwFTAALrFWsbi0-YV6sdxhj0beFrAQADAgADdwADPQQ"
+  },
+  "0f8beb9658": {
+   "id": "0f8beb9658",
+   "headline": "Jason Watford charged with murder after cruise ship death",
+   "summary": "Authorities charged Jason Watford with murder following a death on a cruise ship in Texas. Prosecutors state a housekeeper discovered the suspect with blood on his hands after an argument.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "A woman's body was found in a cruise ship cabin.",
+    "The suspect admitted to striking and choking the victim.",
+    "A housekeeper discovered the suspect with blood on his hands."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#CruiseShip",
+    "#News",
+    "#Crime"
+   ],
+   "sources": [
+    "NBC News",
+    "Newsweek",
+    "The Independent"
+   ],
+   "link": "https://www.newsweek.com/who-is-jason-watford-what-to-know-about-cruise-ship-homicide-suspect-12694424",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/who-is-jason-watford-what-to-know-about-cruise-ship-homicide-suspect-12694424"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/crime/jason-watford-cruise-ship-murder-msc-seascape-b3082610.html"
+    ],
+    [
+     "NBC News",
+     "https://www.nbcnews.com/news/us-news/texas-cruise-ship-slaying-jason-leon-watford-charged-allegedly-choking-rcna608518"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Texas, US"
+   },
+   "img_post": {
+    "headline": "Jason Watford charged with murder after cruise ship death",
+    "people": [
+     "Jason Watford"
+    ],
+    "image_query": "cruise ship exterior",
+    "image_queries": [
+     "cruise liner",
+     "cruise ship deck",
+     "ocean liner",
+     "cruise vessel"
+    ],
+    "image_style": "incident",
+    "location": "Texas, US"
+   },
+   "created_at": "2026-11-10T18:15:40.407196+00:00",
+   "news_time": "2026-11-10T15:53:59+00:00",
+   "news_latest": "2026-11-10T17:12:06+00:00",
+   "caption": "Jason Watford charged with murder after cruise ship death\n\nAuthorities charged Jason Watford with murder following a death on a cruise ship in Texas. Prosecutors state a housekeeper discovered the suspect with blood on his hands after an argument.\n\n📖 Read more: https://www.newsweek.com/who-is-jason-watford-what-to-know-about-cruise-ship-homicide-suspect-12694424\n\n#CruiseShip #News #Crime #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 297,
+   "tg_file_id": "AgACAgUAAxkDAAIBKWrzX02YW1gEbJVcd-7OpGdg-2bjAALsFWsbi0-YV-T8x-uNB0tJAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -12963,7 +13090,12 @@
   "https://thehill.com/homenews/state-watch/6211050-haitian-boy-detained-california/",
   "https://www.theguardian.com/us-news/2026/nov/10/haitian-boy-ice-california",
   "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
-  "https://kyivindependent.com/russia-planning-strikes-on-ukraines-food-industry-military-intelligence-source-says/"
+  "https://kyivindependent.com/russia-planning-strikes-on-ukraines-food-industry-military-intelligence-source-says/",
+  "https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html",
+  "https://kyivindependent.com/the-quiet-death-of-novaya-gazeta-how-a-once-powerful-newspaper-refused-to-leave-russia-and-slowly-lost-its-voice/",
+  "https://www.newsweek.com/who-is-jason-watford-what-to-know-about-cruise-ship-homicide-suspect-12694424",
+  "https://www.independent.co.uk/news/world/americas/crime/jason-watford-cruise-ship-murder-msc-seascape-b3082610.html",
+  "https://www.nbcnews.com/news/us-news/texas-cruise-ship-slaying-jason-leon-watford-charged-allegedly-choking-rcna608518"
  ],
  "recent_topics": [
   [
@@ -15920,19 +16052,59 @@
     "victim"
    ],
    "edbbbef778"
+  ],
+  [
+   "2026-11-10T18:15:38.881963+00:00",
+   [
+    "bravest",
+    "death",
+    "gazeta",
+    "leav",
+    "light",
+    "lost",
+    "newspaper",
+    "novaya",
+    "once-powerful",
+    "quiet",
+    "refus",
+    "russia",
+    "slowly",
+    "voic"
+   ],
+   "455871c5df"
+  ],
+  [
+   "2026-11-10T18:15:41.761473+00:00",
+   [
+    "argument",
+    "charg",
+    "chok",
+    "complaint",
+    "court",
+    "cruis",
+    "dinner",
+    "doc",
+    "homicid",
+    "jason",
+    "know",
+    "man",
+    "murder",
+    "ship",
+    "snapp",
+    "suspect",
+    "watford",
+    "woman"
+   ],
+   "0f8beb9658"
   ]
  ],
- "last_draft_at": "2026-11-10T18:00:51.091892+00:00",
+ "last_draft_at": "2026-11-10T18:15:23.668681+00:00",
  "last_slot": "2026-11-10T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-10T18:00:30.278710+00:00",
  "run_log": [
-  "11-10 16:00:32 run start",
-  "11-10 16:00:54 listening 11 min",
-  "11-10 16:12:17 listening done",
-  "11-10 16:12:17 run end after 705 s",
   "11-10 16:15:22 run start",
   "11-10 16:15:35 listening 11 min",
   "11-10 16:26:55 listening done",
@@ -15968,12 +16140,15 @@
   "11-10 18:00:29 run start",
   "11-10 18:01:00 listening 11 min",
   "11-10 18:12:19 listening done",
-  "11-10 18:12:19 run end after 709 s"
+  "11-10 18:12:19 run end after 709 s",
+  "11-10 18:15:23 run start",
+  "11-10 18:15:41 listening 11 min",
+  "11-10 18:27:00 listening done",
+  "11-10 18:27:00 run end after 697 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Baltra_Island_-_Wind_Turbines.jpg/1920px-Baltra_Island_-_Wind_Turbines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Polling_place_%2851099128254%29.jpg/1920px-Polling_place_%2851099128254%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Capitol_Reflecting_Pool_%28September_2023%29_06.jpg/1920px-Capitol_Reflecting_Pool_%28September_2023%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -16012,7 +16187,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Lewis_Hamilton_Integralhelm_2018.jpg/1280px-Lewis_Hamilton_Integralhelm_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Prince_Harry_at_Canterbury_University_%2817547607621%29.jpg/1280px-Prince_Harry_at_Canterbury_University_%2817547607621%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Meghan_Markle_%28Paley_Center_%27Suits%27%29.jpg/1280px-Meghan_Markle_%28Paley_Center_%27Suits%27%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Singapore_Old-Supreme-Court-Building-01.jpg/1920px-Singapore_Old-Supreme-Court-Building-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Singapore_Old-Supreme-Court-Building-01.jpg/1920px-Singapore_Old-Supreme-Court-Building-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Moscow._Myasnitskaya_Street_P5142232_2600.jpg/1920px-Moscow._Myasnitskaya_Street_P5142232_2600.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -18077,7 +18253,6 @@
    }
   },
   "recent_ideas": [
-   "united arab emirates capital",
    "united nations headquarters",
    "kinshasa street",
    "azadi tower",
@@ -18088,7 +18263,8 @@
    "capitol at night",
    "national mall washington dc",
    "rafah border crossing",
-   "supreme court building"
+   "supreme court building",
+   "moscow street"
   ]
  }
 }
