@@ -13081,6 +13081,82 @@
    "status": "pending",
    "tg_message_id": 303,
    "tg_file_id": "AgACAgUAAxkDAAIBL2rzeAapC-HSZLKQeozKj_rf-7MuAAINFmsbi0-YV37PccQ-YL1bAQADAgADdwADPQQ"
+  },
+  "665273818f": {
+   "id": "665273818f",
+   "headline": "Bernie Sanders and Elissa Slotkin oppose Chuck Schumer for Senate leader",
+   "summary": "Sen. Bernie Sanders and Sen. Elissa Slotkin announced they will not support Sen. Chuck Schumer as Senate Democratic leader in the new Congress. Sanders stated that Schumer has not done enough to address income and wealth inequality.",
+   "label": "US POLITICS",
+   "hook": "Will other lawmakers join this opposition against Chuck Schumer's leadership?",
+   "key_points": [
+    "Sanders and Slotkin oppose Schumer as Senate Democratic leader",
+    "Sanders cited a lack of action on income and wealth inequality"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Senate",
+    "#Congress"
+   ],
+   "sources": [
+    "CBS News",
+    "The Hill"
+   ],
+   "link": "https://www.cbsnews.com/news/bernie-sanders-chuck-schumer-democratic-leader-senate/",
+   "links": [
+    [
+     "CBS News",
+     "https://www.cbsnews.com/news/bernie-sanders-chuck-schumer-democratic-leader-senate/"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/homenews/6211705-sanders-slotkin-oppose-schumer/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Bernie_Sanders_at_the_2016_Memorial_Day_Ceremony%2C_Presidio_of_San_Francisco.jpg/1280px-Bernie_Sanders_at_the_2016_Memorial_Day_Ceremony%2C_Presidio_of_San_Francisco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Frank Schulenburg / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Elissa_Slotkin_20190202_153059.jpg/1280px-Elissa_Slotkin_20190202_153059.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "SecretName101 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/JDCA_2024_Leadership_Summit_-_Chuck_Schumer_%2853814365482%29.jpg/1280px-JDCA_2024_Leadership_Summit_-_Chuck_Schumer_%2853814365482%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Jewish Democratic Council of America / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Bernie Sanders and Elissa Slotkin oppose Chuck Schumer for Senate leader",
+    "people": [
+     "Bernie Sanders",
+     "Elissa Slotkin",
+     "Chuck Schumer"
+    ],
+    "image_query": "Senate chamber",
+    "image_queries": [
+     "Capitol Hill",
+     "US Capitol dome",
+     "voting booth",
+     "White House"
+    ],
+    "image_style": "person",
+    "location": "US"
+   },
+   "created_at": "2026-11-10T20:45:35.014964+00:00",
+   "news_time": "2026-11-10T20:28:53+00:00",
+   "news_latest": "2026-11-10T20:39:37+00:00",
+   "caption": "Bernie Sanders and Elissa Slotkin oppose Chuck Schumer for Senate leader\n\nSen. Bernie Sanders and Sen. Elissa Slotkin announced they will not support Sen. Chuck Schumer as Senate Democratic leader in the new Congress. Sanders stated that Schumer has not done enough to address income and wealth inequality.\n\n💬 Will other lawmakers join this opposition against Chuck Schumer's leadership?\n\n📖 Read more: https://www.cbsnews.com/news/bernie-sanders-chuck-schumer-democratic-leader-senate/\n\n#USPolitics #Senate #Congress #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 304,
+   "tg_file_id": "AgACAgUAAxkDAAIBMGrzgnVm9_llDlWJ1BZwP0du8V8bAAJrFmsbi0-YVwMrpxglRLVIAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -13534,7 +13610,9 @@
   "https://www.newsweek.com/joe-biden-donald-trump-2021-oval-office-letter-revealed-12696751",
   "https://www.nytimes.com/2026/11/10/us/politics/biden-trump-letter.html",
   "https://www.independent.co.uk/news/world/americas/us-politics/joe-biden-dublin-arrests-hunter-event-b3082651.html",
-  "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss",
+  "https://www.cbsnews.com/news/bernie-sanders-chuck-schumer-democratic-leader-senate/",
+  "https://thehill.com/homenews/6211705-sanders-slotkin-oppose-schumer/"
  ],
  "recent_topics": [
   [
@@ -16609,19 +16687,30 @@
     "very"
    ],
    "6d8d7d2eff"
+  ],
+  [
+   "2026-11-10T20:45:41.547634+00:00",
+   [
+    "back",
+    "congress",
+    "democratic",
+    "leader",
+    "sander",
+    "schumer",
+    "senat",
+    "slotkin",
+    "won't"
+   ],
+   "665273818f"
   ]
  ],
- "last_draft_at": "2026-11-10T20:30:31.223656+00:00",
+ "last_draft_at": "2026-11-10T20:45:22.319816+00:00",
  "last_slot": "2026-11-10T15:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-10T20:00:36.748821+00:00",
  "run_log": [
-  "11-10 18:15:23 run start",
-  "11-10 18:15:41 listening 11 min",
-  "11-10 18:27:00 listening done",
-  "11-10 18:27:00 run end after 697 s",
   "11-10 18:30:29 run start",
   "11-10 18:30:40 listening 11 min",
   "11-10 18:42:00 listening done",
@@ -16657,14 +16746,15 @@
   "11-10 20:30:30 run start",
   "11-10 20:30:46 listening 11 min",
   "11-10 20:42:05 listening done",
-  "11-10 20:42:05 run end after 694 s"
+  "11-10 20:42:05 run end after 694 s",
+  "11-10 20:45:21 run start",
+  "11-10 20:45:41 listening 11 min",
+  "11-10 20:56:59 listening done",
+  "11-10 20:56:59 run end after 697 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Australian_Senate_-_Parliament_of_Australia.jpg/1920px-Australian_Senate_-_Parliament_of_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/a/ae/North_of_Tehran_Skyline_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Capitol_Washington_October_2016-3.jpg/1920px-Capitol_Washington_October_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/0/06/Kim_Yo-jong_%282018%29_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -16701,7 +16791,10 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/London_-_Judicial_Committee_of_the_Privy_Council_02.jpg/1920px-London_-_Judicial_Committee_of_the_Privy_Council_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/U.S._Embassy%2C_London_-_2022-04-30.jpg/1920px-U.S._Embassy%2C_London_-_2022-04-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Visita_Oficial_del_Secretario_de_los_Estados_Unidos_de_Am%C3%A9rica_Marco_Rubio_4_feb_2025_06.jpg/1280px-Visita_Oficial_del_Secretario_de_los_Estados_Unidos_de_Am%C3%A9rica_Marco_Rubio_4_feb_2025_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Bernie_Sanders_at_the_2016_Memorial_Day_Ceremony%2C_Presidio_of_San_Francisco.jpg/1280px-Bernie_Sanders_at_the_2016_Memorial_Day_Ceremony%2C_Presidio_of_San_Francisco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Elissa_Slotkin_20190202_153059.jpg/1280px-Elissa_Slotkin_20190202_153059.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/JDCA_2024_Leadership_Summit_-_Chuck_Schumer_%2853814365482%29.jpg/1280px-JDCA_2024_Leadership_Summit_-_Chuck_Schumer_%2853814365482%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -18883,6 +18976,158 @@
       "credit": "SecretName101 / Wikimedia Commons (CC BY-SA 4.0)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": true
+     }
+    ]
+   },
+   "elissa slotkin": {
+    "t": "2026-11-10T20:45:34.611114+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Elissa_Slotkin_2026_Official_Portrait.jpg/1280px-Elissa_Slotkin_2026_Official_Portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Rosa Pineda / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Elissa_Slotkin%2C_official_portrait%2C_116th_Congress.jpg/1280px-Elissa_Slotkin%2C_official_portrait%2C_116th_Congress.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Congress / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Elissa_Slotkin_119th_Congress_%283x4_upper_body_crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "U.S. Senate Photographic Studio / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Elissa_Slotkin_20190202_153059.jpg/1280px-Elissa_Slotkin_20190202_153059.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "SecretName101 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Elissa_Slotkin_at_EMU_%282%29.jpg/1280px-Elissa_Slotkin_at_EMU_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "SecretName101 / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Elissa_Slotkin_20190202_153108.jpg/1280px-Elissa_Slotkin_20190202_153108.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "SecretName101 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Elissa_Slotkin_20190202_153100.jpg/1280px-Elissa_Slotkin_20190202_153100.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "SecretName101 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Elissa_Slotkin%2C_official_portrait%2C_116th_Congress_%28cropped%29.jpg/1280px-Elissa_Slotkin%2C_official_portrait%2C_116th_Congress_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Congress / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Elissa_Slotkin_20190202_153103.jpg/1280px-Elissa_Slotkin_20190202_153103.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "SecretName101 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Elissa_Slotkin_und_Sheila_Jackson_Lee_MSC_2019.jpg/1280px-Elissa_Slotkin_und_Sheila_Jackson_Lee_MSC_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Preiss/ MSC / Wikimedia Commons (CC BY 3.0 de)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Elissa_Slotkin_20190202_153106.jpg/1280px-Elissa_Slotkin_20190202_153106.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "SecretName101 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Elissa_Slotkin_2026_Official_Portrait_%28cropped%29.jpg/1280px-Elissa_Slotkin_2026_Official_Portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Senate Photographic Studio / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     }
+    ]
+   },
+   "chuck schumer": {
+    "t": "2026-11-10T20:45:35.014869+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Chuck_Schumer_official_photo.jpg/1280px-Chuck_Schumer_official_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Senate Photographic Studio/Jeff McEvoy / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Senate_Democratic_Leader_Chuck_Schumer_%2850520530086%29.jpg/1280px-Senate_Democratic_Leader_Chuck_Schumer_%2850520530086%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Senate Democrats / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Senate_Democratic_Leader_Chuck_Schumer_%2850520530381%29_%281%29.jpg/1280px-Senate_Democratic_Leader_Chuck_Schumer_%2850520530381%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Senate Democrats / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Chuck_Schumer_official_photo_%28cropped%29.jpg/1280px-Chuck_Schumer_official_photo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Senate Photographic Studio/Jeff McEvoy / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Senate_Democratic_Leader_Chuck_Schumer_%2850520740736%29.jpg/1280px-Senate_Democratic_Leader_Chuck_Schumer_%2850520740736%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Senate Democrats / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Senate_Democratic_Leader_Chuck_Schumer_%2850519807298%29.jpg/1280px-Senate_Democratic_Leader_Chuck_Schumer_%2850519807298%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Senate Democrats / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Senator_Chuck_Schumer.jpg/1280px-Senator_Chuck_Schumer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Senate / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Senate_Majority_Leader_Chuck_Schumer_%28D-NY%29_%2850932454283%29.jpg/1280px-Senate_Majority_Leader_Chuck_Schumer_%28D-NY%29_%2850932454283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Senate Democrats / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/JDCA_2024_Leadership_Summit_-_Chuck_Schumer_%2853814365482%29.jpg/1280px-JDCA_2024_Leadership_Summit_-_Chuck_Schumer_%2853814365482%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Jewish Democratic Council of America / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Chuck_Schumer_shows_up_%2832409416136%29.jpg/1280px-Chuck_Schumer_shows_up_%2832409416136%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Amanda Hirsch from Brooklyn, NY, USA / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Senator_Chuck_Schumer_%28cropped_4x5%29.jpg/1280px-Senator_Chuck_Schumer_%28cropped_4x5%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Senate / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Senate_Democratic_Leader_Chuck_Schumer_%2850520708057%29.jpg/1280px-Senate_Democratic_Leader_Chuck_Schumer_%2850520708057%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Senate Democrats / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
      }
     ]
    }
