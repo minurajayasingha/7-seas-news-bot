@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892842,
+ "tg_offset": 495892843,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -10660,6 +10660,224 @@
    "status": "pending",
    "tg_message_id": 254,
    "tg_file_id": "AgACAgUAAxkDAAP-avL134KGYSpr6CtedoBXzkcMX6IAAtwUaxuLT5hXZplqZ9IkkXcBAAMCAAN3AAM9BA"
+  },
+  "91a82b5ad1": {
+   "id": "91a82b5ad1",
+   "headline": "Russia and Ukraine hold US-backed talks in Europe",
+   "summary": "Russian and Ukrainian officials met for US-brokered talks following remarks by US President Donald Trump about a possible broad deal. Meanwhile, the General Staff reported that Russian forces have suffered 1,611,600 casualties since February 2022.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Officials met on Tuesday, November 10.",
+    "These are the first US-brokered talks since February."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Russia",
+    "#Ukraine",
+    "#Diplomacy"
+   ],
+   "sources": [
+    "France 24",
+    "Kyiv Independent"
+   ],
+   "link": "https://www.france24.com/en/video/20261110-russia-and-ukraine-hold-us-backed-talks-after-trump-says-broad-deal-is-possible",
+   "links": [
+    [
+     "France 24",
+     "https://www.france24.com/en/video/20261110-russia-and-ukraine-hold-us-backed-talks-after-trump-says-broad-deal-is-possible"
+    ],
+    [
+     "Kyiv Independent",
+     "https://kyivindependent.com/general-staff-russia-has-lost-1-611-600-troops-in-ukraine-since-feb-24-2022/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Verkhovna_Rada_education_and_science_Comittee.jpg/1920px-Verkhovna_Rada_education_and_science_Comittee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Brunei / Wikimedia Commons (CC0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Russia and Ukraine hold US-backed talks in Europe",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "Kyiv city",
+    "image_queries": [
+     "European cityscape",
+     "government building",
+     "peace negotiation room",
+     "city skyline"
+    ],
+    "image_style": "scene",
+    "location": "Kyiv, Ukraine"
+   },
+   "created_at": "2026-11-10T11:15:31.143099+00:00",
+   "news_time": "2026-11-10T07:54:25+00:00",
+   "news_latest": "2026-11-10T10:40:40+00:00",
+   "caption": "Russia and Ukraine hold US-backed talks in Europe\n\nRussian and Ukrainian officials met for US-brokered talks following remarks by US President Donald Trump about a possible broad deal. Meanwhile, the General Staff reported that Russian forces have suffered 1,611,600 casualties since February 2022.\n\n📖 Read more: https://www.france24.com/en/video/20261110-russia-and-ukraine-hold-us-backed-talks-after-trump-says-broad-deal-is-possible\n\n#Russia #Ukraine #Diplomacy #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 255,
+   "tg_file_id": "AgACAgUAAxkDAAP_avL81NN_ITvxJWy_a1NO-W5FV-0AAukUaxuLT5hXSNvNgOZeKokBAAMCAAN3AAM9BA"
+  },
+  "625424f326": {
+   "id": "625424f326",
+   "headline": "Donald Trump faces future questions following midterms bloodbath",
+   "summary": "The Republican Party faces a battle for its future after the midterms. According to reports, Democrats may ultimately determine whether the party recovers.",
+   "label": "ELECTIONS",
+   "hook": "Can the Republican Party recover after the midterms?",
+   "key_points": [
+    "The Republican Party faces a future battle.",
+    "Midterms outcome creates party challenges.",
+    "Democrats may impact party recovery."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Republicans",
+    "#Midterms",
+    "#USPolitics"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "The Guardian"
+   ],
+   "link": "https://www.theguardian.com/commentisfree/2026/nov/10/stephen-miller-shadow-president-trump",
+   "links": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/commentisfree/2026/nov/10/stephen-miller-shadow-president-trump"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/opinions/2026/11/10/can-the-republican-party-survive-trump?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/US_Capitol_dome_Jan_2006.jpg/1920px-US_Capitol_dome_Jan_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Diliff / Wikimedia Commons (CC BY 2.5)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ],
+    "inset": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Donald_Trump_official_portrait_2020_election.jpg/1280px-Donald_Trump_official_portrait_2020_election.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credit": "Shealeah Craighead / Wikimedia Commons (Public domain)",
+     "short": "WIKIMEDIA COMMONS"
+    }
+   },
+   "img_post": {
+    "headline": "Donald Trump faces future questions following midterms bloodbath",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "US Capitol dome",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "Republican National Committee",
+     "voting booth"
+    ],
+    "image_style": "scene",
+    "location": "US"
+   },
+   "created_at": "2026-11-10T11:15:34.967987+00:00",
+   "news_time": "2026-11-10T06:08:54+00:00",
+   "news_latest": "2026-11-10T11:00:50+00:00",
+   "caption": "Donald Trump faces future questions following midterms bloodbath\n\nThe Republican Party faces a battle for its future after the midterms. According to reports, Democrats may ultimately determine whether the party recovers.\n\n💬 Can the Republican Party recover after the midterms?\n\n📖 Read more: https://www.theguardian.com/commentisfree/2026/nov/10/stephen-miller-shadow-president-trump\n\n#Republicans #Midterms #USPolitics #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 256,
+   "tg_file_id": "AgACAgUAAxkDAAIBAAFq8vzZfulXkQRpq4SZn66-CWvuvgAC6hRrG4tPmFeOfsh2jZxiBwEAAwIAA3cAAz0E"
+  },
+  "e2486a4ac8": {
+   "id": "e2486a4ac8",
+   "headline": "Abdi Daisane flips Minnesota House seat for Democrats",
+   "summary": "Democratic state Rep.-elect Abdi Daisane won a Minnesota House seat in a historically red region. He secured 51.6% of the vote to become his district's first Somali-born lawmaker.",
+   "label": "ELECTIONS",
+   "hook": "How will a Somali-born lawmaker represent a historically red Minnesota district?",
+   "key_points": [
+    "Abdi Daisane flipped a Republican seat",
+    "He secured 51.6% of the vote",
+    "He is his district's first Somali-born lawmaker"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#MinnesotaElections",
+    "#USPolitics",
+    "#StateHouse"
+   ],
+   "sources": [
+    "ABC News",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/news/campaigns/state/4798019/somali-daycare-ceo-fraud-scandal-minnesota-house-seat/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/campaigns/state/4798019/somali-daycare-ceo-fraud-scandal-minnesota-house-seat/"
+    ],
+    [
+     "ABC News",
+     "https://abcnews.com/Politics/wireStory/house-seats-democrats-expect-win-year-138001901"
+    ],
+    [
+     "ABC News",
+     "https://abcnews.com/Politics/wireStory/republican-ken-calvert-wins-reelection-us-house-californias-137998545"
+    ],
+    [
+     "ABC News",
+     "https://abcnews.com/Politics/wireStory/republican-ken-calvert-wins-reelection-us-house-californias-137998550"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Iowa_City%2C_IA_-_Early_Voting_Automobile_Queue_October_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Alan Light / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Abdi Daisane flips Minnesota House seat for Democrats",
+    "people": [
+     "Abdi Daisane"
+    ],
+    "image_query": "Minnesota State Capitol",
+    "image_queries": [
+     "voting booth",
+     "Minnesota State Capitol",
+     "state legislature",
+     "election results board"
+    ],
+    "image_style": "person",
+    "location": "Minnesota, US"
+   },
+   "created_at": "2026-11-10T11:15:40.390917+00:00",
+   "news_time": "2026-11-10T06:23:09+00:00",
+   "news_latest": "2026-11-10T11:00:00+00:00",
+   "caption": "Abdi Daisane flips Minnesota House seat for Democrats\n\nDemocratic state Rep.-elect Abdi Daisane won a Minnesota House seat in a historically red region. He secured 51.6% of the vote to become his district's first Somali-born lawmaker.\n\n💬 How will a Somali-born lawmaker represent a historically red Minnesota district?\n\n📖 Read more: https://www.washingtonexaminer.com/news/campaigns/state/4798019/somali-daycare-ceo-fraud-scandal-minnesota-house-seat/\n\n#MinnesotaElections #USPolitics #StateHouse #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 257,
+   "tg_file_id": "AgACAgUAAxkDAAIBAWry_N5UpLVykTTeauxM_wdEEClfAALrFGsbi0-YV5INkIaQQvAAAQEAAwIAA3cAAz0E",
+   "queued_at": "2026-11-10T11:25:46.378882+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122097450711548584",
+   "posted_at": "2026-11-10T11:25:46.655977+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 10 · 6:25 AM New York · 4:55 PM Sri Lanka\n\n<b>Abdi Daisane flips Minnesota House seat for Democrats</b>\n<i>ABC News, Washington Examiner</i>\n🟢 <b>Latest:</b> 4:30 PM Sri Lanka (25 min ago) · first reported 11:53 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122097450711548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 116,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "1727035742479734"
   }
  },
  "seen_links": [
@@ -11017,7 +11235,15 @@
   "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
   "https://www.independent.co.uk/news/world/europe/spain-police-officer-dead-explosion-oviedo-b3082283.html",
   "https://www.independent.co.uk/news/world/americas/us-politics/richard-ojeda-democrats-house-upsets-b3082284.html",
-  "https://www.aljazeera.com/opinions/2026/11/10/floridas-red-wall-is-cracking-but-democrats-are-missing-their-chance?traffic_source=rss"
+  "https://www.aljazeera.com/opinions/2026/11/10/floridas-red-wall-is-cracking-but-democrats-are-missing-their-chance?traffic_source=rss",
+  "https://www.france24.com/en/video/20261110-russia-and-ukraine-hold-us-backed-talks-after-trump-says-broad-deal-is-possible",
+  "https://kyivindependent.com/general-staff-russia-has-lost-1-611-600-troops-in-ukraine-since-feb-24-2022/",
+  "https://www.theguardian.com/commentisfree/2026/nov/10/stephen-miller-shadow-president-trump",
+  "https://www.aljazeera.com/opinions/2026/11/10/can-the-republican-party-survive-trump?traffic_source=rss",
+  "https://www.washingtonexaminer.com/news/campaigns/state/4798019/somali-daycare-ceo-fraud-scandal-minnesota-house-seat/",
+  "https://abcnews.com/Politics/wireStory/house-seats-democrats-expect-win-year-138001901",
+  "https://abcnews.com/Politics/wireStory/republican-ken-calvert-wins-reelection-us-house-californias-137998545",
+  "https://abcnews.com/Politics/wireStory/republican-ken-calvert-wins-reelection-us-house-californias-137998550"
  ],
  "recent_topics": [
   [
@@ -13854,19 +14080,83 @@
     "wipeout"
    ],
    "d607b10912"
+  ],
+  [
+   "2026-11-10T11:15:33.147356+00:00",
+   [
+    "1611600",
+    "24",
+    "broad",
+    "deal",
+    "feb",
+    "general",
+    "hold",
+    "lost",
+    "possibl",
+    "russia",
+    "sinc",
+    "staff",
+    "talk",
+    "troop",
+    "trump",
+    "ukrain",
+    "us-back"
+   ],
+   "91a82b5ad1"
+  ],
+  [
+   "2026-11-10T11:15:37.622287+00:00",
+   [
+    "arwa",
+    "can",
+    "fiddl",
+    "lik",
+    "mahdawi",
+    "party",
+    "play",
+    "president",
+    "republican",
+    "shadow",
+    "surviv",
+    "trump"
+   ],
+   "625424f326"
+  ],
+  [
+   "2026-11-10T11:15:42.750014+00:00",
+   [
+    "california",
+    "calvert",
+    "ceo",
+    "congressional",
+    "daycar",
+    "democrat",
+    "didn't",
+    "district",
+    "expect",
+    "fraud",
+    "hous",
+    "ken",
+    "minnesota",
+    "reelection",
+    "republican",
+    "scandal",
+    "seat",
+    "som",
+    "somali",
+    "tied",
+    "win"
+   ],
+   "e2486a4ac8"
   ]
  ],
- "last_draft_at": "2026-11-10T11:00:31.992382+00:00",
+ "last_draft_at": "2026-11-10T11:15:19.280062+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-10T10:45:19.857207+00:00",
  "run_log": [
-  "11-10 08:45:21 run start",
-  "11-10 08:45:45 listening 11 min",
-  "11-10 08:57:04 listening done",
-  "11-10 08:57:04 run end after 702 s",
   "11-10 09:00:28 run start",
   "11-10 09:00:38 listening 11 min",
   "11-10 09:11:57 listening done",
@@ -13902,15 +14192,15 @@
   "11-10 11:00:31 run start",
   "11-10 11:00:42 listening 11 min",
   "11-10 11:12:02 listening done",
-  "11-10 11:12:02 run end after 691 s"
+  "11-10 11:12:02 run end after 691 s",
+  "11-10 11:15:18 run start",
+  "11-10 11:15:42 listening 11 min",
+  "11-10 11:26:53 listening done",
+  "11-10 11:26:53 run end after 694 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Sacramento_Courthouse_Building_2024-02-25.jpg/1920px-Sacramento_Courthouse_Building_2024-02-25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/e/e5/Early_Voting_0873_%2831735035288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ballot_box_in_Sonoma%2C_California_-_November_2022_-_Sarah_Stierch_01.jpg/1920px-Ballot_box_in_Sonoma%2C_California_-_November_2022_-_Sarah_Stierch_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Lisa_Murkowski_speaking_in_Rhode_Island_-_2019_01.jpg/1280px-Lisa_Murkowski_speaking_in_Rhode_Island_-_2019_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Utah_State_Capitol_at_Night_by_Don_Ramey_Logan.jpg/1920px-Utah_State_Capitol_at_Night_by_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg/1280px-Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -13946,7 +14236,11 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/0/06/Kim_Yo-jong_%282018%29_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://upload.wikimedia.org/wikipedia/commons/9/9b/Absentee_Ballot_Sendoff_%2854195767561%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Example_voting_booth.jpg/1920px-Example_voting_booth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Example_voting_booth.jpg/1920px-Example_voting_booth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Verkhovna_Rada_education_and_science_Comittee.jpg/1920px-Verkhovna_Rada_education_and_science_Comittee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/US_Capitol_dome_Jan_2006.jpg/1920px-US_Capitol_dome_Jan_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Donald_Trump_official_portrait_2020_election.jpg/1280px-Donald_Trump_official_portrait_2020_election.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/5/5c/Iowa_City%2C_IA_-_Early_Voting_Automobile_Queue_October_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   ],
   "pools": {
    "donald trump": {
@@ -15782,9 +16076,6 @@
    }
   },
   "recent_ideas": [
-   "maine state house",
-   "wind turbines",
-   "polling place, united states",
    "capitol reflecting pool",
    "national mall, washington",
    "container ship",
@@ -15793,7 +16084,10 @@
    "us capitol building",
    "marriner s. eccles federal reserve board building",
    "absentee ballot",
-   "voting booth"
+   "voting booth",
+   "verkhovna rada",
+   "us capitol dome",
+   "early voting, united states"
   ]
  }
 }
