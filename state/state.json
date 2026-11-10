@@ -11753,6 +11753,71 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_story_id": "978103131586978"
+  },
+  "81cc92e26e": {
+   "id": "81cc92e26e",
+   "headline": "Trump elevates Stephen Miller to be new chief of staff",
+   "summary": "The president elevated Stephen Miller, the person behind a sweeping immigration crackdown, to be his new chief of staff. Reports note Miller has a history of incendiary comments on immigration.",
+   "label": "US POLITICS",
+   "hook": "Should a person with a history of incendiary comments on immigration serve as chief of staff?",
+   "key_points": [
+    "Stephen Miller led a sweeping immigration crackdown.",
+    "Miller is the new chief of staff.",
+    "Miller has a history of incendiary comments."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Trump",
+    "#Immigration"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "Washington Post"
+   ],
+   "link": "https://www.aljazeera.com/video/doha-debates/2026/11/10/did-humanity-learn-the-right-lessons-from-wwii?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/doha-debates/2026/11/10/did-humanity-learn-the-right-lessons-from-wwii?traffic_source=rss"
+    ],
+    [
+     "Washington Post",
+     "https://www.washingtonpost.com/politics/2026/11/10/trump-learned-lesson-immigration-then-he-did-opposite/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Stephen_Miller_%2854360303177%29_%28cropped%29.jpg/1280px-Stephen_Miller_%2854360303177%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Trump elevates Stephen Miller to be new chief of staff",
+    "people": [
+     "Stephen Miller"
+    ],
+    "image_query": "White House",
+    "image_queries": [
+     "US Capitol building",
+     "West Wing exterior",
+     "Oval Office",
+     "Capitol Hill"
+    ],
+    "image_style": "person",
+    "location": "US"
+   },
+   "created_at": "2026-11-10T14:45:43.056058+00:00",
+   "news_time": "2026-11-10T10:51:12+00:00",
+   "news_latest": "2026-11-10T14:36:03+00:00",
+   "caption": "Trump elevates Stephen Miller to be new chief of staff\n\nThe president elevated Stephen Miller, the person behind a sweeping immigration crackdown, to be his new chief of staff. Reports note Miller has a history of incendiary comments on immigration.\n\n💬 Should a person with a history of incendiary comments on immigration serve as chief of staff?\n\n📖 Read more: https://www.aljazeera.com/video/doha-debates/2026/11/10/did-humanity-learn-the-right-lessons-from-wwii?traffic_source=rss\n\n#USPolitics #Trump #Immigration #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 276,
+   "tg_file_id": "AgACAgUAAxkDAAIBFGrzLhmpjEwlp3Grac0PdJjmHkmBAAKMFWsbi0-YV0J100txeew2AQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -12139,7 +12204,9 @@
   "https://abcnews.com/International/wireStory/overnight-strikes-yemen-kill-1-person-wound-9-138005785",
   "https://www.independent.co.uk/news/world/americas/iran-yemen-united-states-houthi-saudi-arabia-b3082372.html",
   "https://www.aljazeera.com/news/2026/11/10/israeli-soldiers-are-also-settlers-in-west-bank-al-jazeera-investigation?traffic_source=rss",
-  "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
+  "https://www.aljazeera.com/video/doha-debates/2026/11/10/did-humanity-learn-the-right-lessons-from-wwii?traffic_source=rss",
+  "https://www.washingtonpost.com/politics/2026/11/10/trump-learned-lesson-immigration-then-he-did-opposite/"
  ],
  "recent_topics": [
   [
@@ -15215,19 +15282,31 @@
     "yemen"
    ],
    "19d89e3ee6"
+  ],
+  [
+   "2026-11-10T14:45:45.908271+00:00",
+   [
+    "did",
+    "humanity",
+    "immigration",
+    "learn",
+    "lesson",
+    "opposit",
+    "right",
+    "then",
+    "trump",
+    "wwii"
+   ],
+   "81cc92e26e"
   ]
  ],
- "last_draft_at": "2026-11-10T14:30:26.227158+00:00",
+ "last_draft_at": "2026-11-10T14:45:32.787852+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-10T13:45:20.917246+00:00",
+ "last_stats_at": "2026-11-10T14:45:20.002528+00:00",
  "run_log": [
-  "11-10 12:15:19 run start",
-  "11-10 12:15:30 listening 11 min",
-  "11-10 12:26:49 listening done",
-  "11-10 12:26:49 run end after 689 s",
   "11-10 12:30:30 run start",
   "11-10 12:30:41 listening 11 min",
   "11-10 12:42:00 listening done",
@@ -15263,12 +15342,15 @@
   "11-10 14:30:25 run start",
   "11-10 14:30:36 listening 11 min",
   "11-10 14:41:54 listening done",
-  "11-10 14:41:54 run end after 689 s"
+  "11-10 14:41:54 run end after 689 s",
+  "11-10 14:45:19 run start",
+  "11-10 14:45:45 listening 11 min",
+  "11-10 14:57:03 listening done",
+  "11-10 14:57:03 run end after 704 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/US_Supreme_Court.JPG/1920px-US_Supreme_Court.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/a/ab/Log_8_of_Tyler_Robinson_Confessing_to_Lance_Twiggs_of_Assassinating_Charlie_Kirk.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Charlie_Kirk_by_Gage_Skidmore.jpg/1280px-Charlie_Kirk_by_Gage_Skidmore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Lindsay_Clancy_appeared_via_Zoom_from_Tewksbury_Hospital_for_a_hearing_in_Plymouth_Superior_Court.jpg/1280px-Lindsay_Clancy_appeared_via_Zoom_from_Tewksbury_Hospital_for_a_hearing_in_Plymouth_Superior_Court.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -15307,7 +15389,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Azadi_Tower%2C_Tehran.jpg/1920px-Azadi_Tower%2C_Tehran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Iowa_Senate_chamber_05.jpg/1920px-Iowa_Senate_chamber_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Port_of_Los_Angeles%2C_San_Pedro%2C_California_%286026501161%29.jpg/1920px-Port_of_Los_Angeles%2C_San_Pedro%2C_California_%286026501161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Dalian_Liaoning_China_Military-Air-Base-01.jpg/1920px-Dalian_Liaoning_China_Military-Air-Base-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Dalian_Liaoning_China_Military-Air-Base-01.jpg/1920px-Dalian_Liaoning_China_Military-Air-Base-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Stephen_Miller_%2854360303177%29_%28cropped%29.jpg/1280px-Stephen_Miller_%2854360303177%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
