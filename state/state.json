@@ -10597,6 +10597,69 @@
    "status": "pending",
    "tg_message_id": 253,
    "tg_file_id": "AgACAgUAAxkDAAP9avLyVPdAxIVgxJrTl0s_KHSgeKQAAsYUaxuLT5hXinavLh6uw38BAAMCAAN3AAM9BA"
+  },
+  "d607b10912": {
+   "id": "d607b10912",
+   "headline": "Florida red wall cracks: midterms expose Republican vulnerability",
+   "summary": "Recent midterms revealed vulnerability in Republican dominance within Florida. Meanwhile, voters in deep red districts handed the party a wipeout in areas where Donald Trump previously won comfortably.",
+   "label": "ELECTIONS",
+   "hook": "Are Democrats missing their chance in Florida?",
+   "key_points": [
+    "Republican dominance in Florida is showing vulnerability.",
+    "GOP candidates faced unexpected upsets in deep red districts.",
+    "The affected districts previously voted for Donald Trump in 2024."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#FloridaPolitics",
+    "#Midterms",
+    "#GOP"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/americas/us-politics/richard-ojeda-democrats-house-upsets-b3082284.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/us-politics/richard-ojeda-democrats-house-upsets-b3082284.html"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/opinions/2026/11/10/floridas-red-wall-is-cracking-but-democrats-are-missing-their-chance?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Example_voting_booth.jpg/1920px-Example_voting_booth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Kenneth C. Zirkel / Wikimedia Commons (CC0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Florida red wall cracks: midterms expose Republican vulnerability",
+    "people": [],
+    "image_query": "Florida state capitol building",
+    "image_queries": [
+     "voting booth",
+     "election ballot",
+     "Florida capitol",
+     "polling station"
+    ],
+    "image_style": "scene",
+    "location": "Florida, US"
+   },
+   "created_at": "2026-11-10T10:45:48.887824+00:00",
+   "news_time": "2026-11-10T06:16:43+00:00",
+   "news_latest": "2026-11-10T10:33:33+00:00",
+   "caption": "Florida red wall cracks: midterms expose Republican vulnerability\n\nRecent midterms revealed vulnerability in Republican dominance within Florida. Meanwhile, voters in deep red districts handed the party a wipeout in areas where Donald Trump previously won comfortably.\n\n💬 Are Democrats missing their chance in Florida?\n\n📖 Read more: https://www.independent.co.uk/news/world/americas/us-politics/richard-ojeda-democrats-house-upsets-b3082284.html\n\n#FloridaPolitics #Midterms #GOP #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 254,
+   "tg_file_id": "AgACAgUAAxkDAAP-avL134KGYSpr6CtedoBXzkcMX6IAAtwUaxuLT5hXZplqZ9IkkXcBAAMCAAN3AAM9BA"
   }
  },
  "seen_links": [
@@ -10952,7 +11015,9 @@
   "https://www.npr.org/2026/11/10/nx-s1-6030988/gop-leadership-election-steve-scalise-jim-jordan",
   "https://www.washingtonexaminer.com/news/house/4798260/republicans-pick-scalise-jordan-minority-leader/",
   "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
-  "https://www.independent.co.uk/news/world/europe/spain-police-officer-dead-explosion-oviedo-b3082283.html"
+  "https://www.independent.co.uk/news/world/europe/spain-police-officer-dead-explosion-oviedo-b3082283.html",
+  "https://www.independent.co.uk/news/world/americas/us-politics/richard-ojeda-democrats-house-upsets-b3082284.html",
+  "https://www.aljazeera.com/opinions/2026/11/10/floridas-red-wall-is-cracking-but-democrats-are-missing-their-chance?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -13766,19 +13831,38 @@
     "spain"
    ],
    "5643d3d7eb"
+  ],
+  [
+   "2026-11-10T10:45:51.912501+00:00",
+   [
+    "biggest",
+    "chanc",
+    "crack",
+    "deep",
+    "democrat",
+    "devastat",
+    "district",
+    "florida",
+    "gop",
+    "hand",
+    "miss",
+    "party",
+    "red",
+    "upset",
+    "voter",
+    "wall",
+    "wipeout"
+   ],
+   "d607b10912"
   ]
  ],
- "last_draft_at": "2026-11-10T10:30:30.851781+00:00",
+ "last_draft_at": "2026-11-10T10:45:35.392139+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-10T09:45:23.478813+00:00",
+ "last_stats_at": "2026-11-10T10:45:19.857207+00:00",
  "run_log": [
-  "11-10 08:20:44 run start",
-  "11-10 08:20:53 listening 11 min",
-  "11-10 08:32:11 listening done",
-  "11-10 08:32:11 run end after 686 s",
   "11-10 08:32:24 run start",
   "11-10 08:32:34 listening 11 min",
   "11-10 08:43:54 listening done",
@@ -13814,12 +13898,15 @@
   "11-10 10:30:30 run start",
   "11-10 10:30:44 listening 11 min",
   "11-10 10:42:04 listening done",
-  "11-10 10:42:04 run end after 693 s"
+  "11-10 10:42:04 run end after 693 s",
+  "11-10 10:45:19 run start",
+  "11-10 10:45:51 listening 11 min",
+  "11-10 10:56:45 listening done",
+  "11-10 10:56:45 run end after 685 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Secretary_of_Defense_Pete_Hegseth_official_portrait_%28cropped%29.jpg/1280px-Secretary_of_Defense_Pete_Hegseth_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Sacramento_Courthouse_Building_2024-02-25.jpg/1920px-Sacramento_Courthouse_Building_2024-02-25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/e/e5/Early_Voting_0873_%2831735035288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ballot_box_in_Sonoma%2C_California_-_November_2022_-_Sarah_Stierch_01.jpg/1920px-Ballot_box_in_Sonoma%2C_California_-_November_2022_-_Sarah_Stierch_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -13858,7 +13945,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/0/06/Kim_Yo-jong_%282018%29_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://upload.wikimedia.org/wikipedia/commons/9/9b/Absentee_Ballot_Sendoff_%2854195767561%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/9/9b/Absentee_Ballot_Sendoff_%2854195767561%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Example_voting_booth.jpg/1920px-Example_voting_booth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -15694,7 +15782,6 @@
    }
   },
   "recent_ideas": [
-   "robert f. kennedy department of justice building",
    "maine state house",
    "wind turbines",
    "polling place, united states",
@@ -15705,7 +15792,8 @@
    "tehran skyline",
    "us capitol building",
    "marriner s. eccles federal reserve board building",
-   "absentee ballot"
+   "absentee ballot",
+   "voting booth"
   ]
  }
 }
