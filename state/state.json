@@ -12759,7 +12759,9 @@
   "https://www.euronews.com/2026/11/10/gcc-members-agree-to-station-forces-at-new-military-command-post-in-kuwait",
   "https://www.aljazeera.com/news/2026/11/10/gcc-agrees-to-set-up-advanced-military-command-headquarters-in-kuwait?traffic_source=rss",
   "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
-  "https://www.aljazeera.com/video/newsfeed/2026/11/10/lewis-hamilton-visits-rafah-crossing-to-witness-gaza-aid-efforts?traffic_source=rss"
+  "https://www.aljazeera.com/video/newsfeed/2026/11/10/lewis-hamilton-visits-rafah-crossing-to-witness-gaza-aid-efforts?traffic_source=rss",
+  "https://thehill.com/policy/transportation/6209643-florida-jet-crash-ntsb/",
+  "https://www.independent.co.uk/news/world/americas/greenacres-florida-lear-jet-plane-crash-black-box-b3082203.html"
  ],
  "recent_topics": [
   [
@@ -15979,17 +15981,13 @@
    "87cfd790ec"
   ]
  ],
- "last_draft_at": "2026-11-10T16:00:32.544084+00:00",
+ "last_draft_at": "2026-11-10T16:15:23.332805+00:00",
  "last_slot": "2026-11-10T09:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-10T15:45:23.683499+00:00",
  "run_log": [
-  "11-10 13:45:20 run start",
-  "11-10 13:46:04 listening 11 min",
-  "11-10 13:56:58 listening done",
-  "11-10 13:56:58 run end after 697 s",
   "11-10 14:00:31 run start",
   "11-10 14:00:47 listening 11 min",
   "11-10 14:12:20 listening done",
@@ -16025,7 +16023,11 @@
   "11-10 16:00:32 run start",
   "11-10 16:00:54 listening 11 min",
   "11-10 16:12:17 listening done",
-  "11-10 16:12:17 run end after 705 s"
+  "11-10 16:12:17 run end after 705 s",
+  "11-10 16:15:22 run start",
+  "11-10 16:15:35 listening 11 min",
+  "11-10 16:26:55 listening done",
+  "11-10 16:26:55 run end after 692 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
