@@ -13,6 +13,7 @@ All settings you might want to change are in the CONFIG section below.
 """
 
 import io
+import zipfile
 import json
 import math
 import os
@@ -319,8 +320,9 @@ def ny_day(iso):
 
 
 def send_day_pack(state, day, so_far=False):
-    """All posts published on one New York day, sent as one pack (for TikTok):
-    start line + headlines, the 9:16 image files in order, a ready caption, end line."""
+    """All posts published on one New York day, sent as just 2 messages to the content channel:
+    1) the list of titles (+ "End of <day>")   2) ONE zip file with every image of the day:
+       9x16 (TikTok/Reels/Shorts), 4x5 (Facebook/Instagram) and captions.txt."""
     ch = state.get("tiktok_channel") or TG_CHAT
     posts = sorted([d for d in state["drafts"].values()
                     if d.get("status") == "posted" and d.get("posted_at") and ny_day(d["posted_at"]) == day],
@@ -331,28 +333,49 @@ def send_day_pack(state, day, so_far=False):
            text=f"📅 <b>{title}</b> (New York): no posts" + (" yet." if so_far else "."))
         return
     heads = [f"{n}. {d['headline']}" for n, d in enumerate(posts, 1)]
+    end = (f"\n\n⏳ <b>So far</b> — the full pack comes after midnight New York." if so_far
+           else f"\n\n✅ <b>End of {day:%b} {day.day}</b> (New York)")
     tg("sendMessage", chat_id=ch, parse_mode="HTML", disable_web_page_preview="true",
-       text=(f"📅 <b>{title}</b> (New York) · {len(posts)} post{'s' if len(posts) != 1 else ''}"
-             + (" so far" if so_far else "") + "\n\n" + html.escape("\n".join(heads)))[:4000])
-    files = []
+       text=(f"📅 <b>{title}</b> (New York) · {len(posts)} post{'s' if len(posts) != 1 else ''}\n\n"
+             + html.escape("\n".join(heads))[:3800] + end))
+
+    # captions.txt: one ready daily caption + each post's own caption
+    daily = (f"Today's top news · {day:%b} {day.day}, {day.year} 🌍\n\n" + "\n".join(heads)
+             + f"\n\n{BRAND_HASHTAG} {TIKTOK_HASHTAGS}")
+    text = ["DAILY CAPTION (copy)", "=" * 20, daily, "", "", "EACH POST", "=" * 20]
+    for n, d in enumerate(posts, 1):
+        text += [f"--- {n:02d} ---", tiktok_caption(d), ""]
+
+    parts, cur, size = [], [], 0
     for n, d in enumerate(posts, 1):
         try:
-            files.append((f"7seas_{day:%Y-%m-%d}_{n:02d}.jpg", story_image(tg_download(d["tg_file_id"]))))
+            img = tg_download(d["tg_file_id"])
+            pair = [(f"9x16 TikTok-Reels-Shorts/7seas_{day:%Y-%m-%d}_{n:02d}.jpg", story_image(img)),
+                    (f"4x5 Facebook-Instagram/7seas_{day:%Y-%m-%d}_{n:02d}.jpg", img)]
         except Exception as e:
             log("Day pack image failed:", d["id"], e)
-    for i in range(0, len(files), 10):           # Telegram albums hold up to 10 files
-        group = files[i:i + 10]
-        if len(group) == 1:
-            tg("sendDocument", chat_id=ch, files={"document": (group[0][0], group[0][1], "image/jpeg")})
-        else:
-            tg("sendMediaGroup", chat_id=ch,
-               media=[{"type": "document", "media": f"attach://f{k}"} for k in range(len(group))],
-               files={f"f{k}": (name, data, "image/jpeg") for k, (name, data) in enumerate(group)})
-    caption = (f"Today's top news · {day:%b} {day.day}, {day.year} 🌍\n\n" + "\n".join(heads)
-               + f"\n\n{BRAND_HASHTAG} {TIKTOK_HASHTAGS}")
-    tg("sendMessage", chat_id=ch, text="🎵 TikTok caption (copy):\n\n" + caption[:3900])
-    if not so_far:
-        tg("sendMessage", chat_id=ch, parse_mode="HTML", text=f"✅ <b>End of {day:%b} {day.day}</b> (New York)")
+            continue
+        add = sum(len(x[1]) for x in pair)
+        if cur and size + add > 45 * 1024 * 1024:    # Telegram bots can send files up to 50 MB
+            parts.append(cur)
+            cur, size = [], 0
+        cur += pair
+        size += add
+    if cur:
+        parts.append(cur)
+    for i, files in enumerate(parts, 1):
+        buf = io.BytesIO()
+        with zipfile.ZipFile(buf, "w", zipfile.ZIP_STORED) as z:   # photos are already compressed
+            for name, data in files:
+                z.writestr(name, data)
+            z.writestr("captions.txt", "\n".join(text))
+        part = f"_part{i}" if len(parts) > 1 else ""
+        n_img = len(files) // 2
+        tg("sendDocument", chat_id=ch, caption=(f"📦 {day:%b} {day.day} · {n_img} images (9:16 + 4:5) + captions"
+                                                + (f" · part {i}/{len(parts)}" if len(parts) > 1 else "")
+                                                + (" · so far" if so_far else "")),
+           files={"document": (f"7seas_{day:%Y-%m-%d}{'_so-far' if so_far else ''}{part}.zip",
+                               buf.getvalue(), "application/zip")})
 
 
 def day_packs_due(state):
@@ -737,16 +760,16 @@ def process_telegram(state, wait=0):
                 tg_text("🎵 TikTok channel unlinked. Posts won't be sent there any more.")
             else:
                 state["linking"] = "tiktok"
-                tg_text("🎵 <b>TikTok channel</b>\n"
-                        "Every published post is sent there as a full-quality 1080×1920 image file "
-                        "+ a caption to copy, so you can download them to your phone.\n\n"
+                tg_text("🎵 <b>Content channel</b>\n"
+                        "After midnight New York, the day's pack is sent there: the list of titles "
+                        "+ ONE zip file with all images (9:16 and 4:5) and captions.\n\n"
                         "1. Create a Telegram channel (e.g. '7 Seas – TikTok')\n"
                         "2. Channel info → Administrators → Add admin → add this bot\n"
                         "3. Post any message in the channel and <b>forward it to me</b> now\n\n"
                         + ("Currently linked ✅ (send /tiktok off to unlink)"
                            if state.get("tiktok_channel") else "Not linked yet."))
         elif text.startswith("/day"):
-            tg_text("📦 Sending today's pack so far" + (" to your TikTok channel…" if state.get("tiktok_channel") else "…"))
+            tg_text("📦 Sending today's pack so far" + (" to your content channel…" if state.get("tiktok_channel") else "…"))
             send_day_pack(state, ny_now().date(), so_far=True)
         elif text.startswith("/news"):
             state["news_now"] = True
@@ -781,7 +804,7 @@ def process_telegram(state, wait=0):
                     "/queue – what's queued and when it posts\n"
                     "/pause · /resume – stop/start automatic news\n"
                     "/channel – link a channel that logs every published post\n"
-                    "/tiktok – link a channel that gets every post as a TikTok-size file\n"
+                    "/tiktok – link a content channel that gets the daily pack (titles + 1 zip file)\n"
                     "/stats – likes, comments and shares of the last 24 hours\n"
                     "/status – bot summary")
 
@@ -977,7 +1000,7 @@ def publish_due(state):
                                 f"<code>{html.escape(str(e))[:400]}</code>\n\n"
                                 "Set SHARE_TO_STORY = False in settings.py to turn Stories off.")
             try:
-                if send_to_tiktok_channel(state, d, img):
+                if SEND_EACH_POST_TO_CONTENT_CHANNEL and send_to_tiktok_channel(state, d, img):
                     log("Sent to TikTok channel", d["id"])
             except Exception as e:  # never block publishing because of this
                 log("TikTok channel error:", e)
