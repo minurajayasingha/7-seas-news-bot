@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892834,
+ "tg_offset": 495892835,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -9987,9 +9987,20 @@
    "news_time": "2026-11-09T18:07:12+00:00",
    "news_latest": "2026-11-09T22:59:13+00:00",
    "caption": "Ohio State University suspends fraternity following viral fire video\n\nOhio State University suspended its chapter of the Sigma Alpha Epsilon fraternity during an investigation. The action follows an online video that appears to show two individuals on fire.\n\n📖 Read more: https://www.newsweek.com/osu-sae-fraternity-suspended-video-students-fire-12691043\n\n#OhioState #SigmaAlphaEpsilon #News #7SeasNews",
-   "status": "pending",
+   "status": "posted",
    "tg_message_id": 245,
-   "tg_file_id": "AgACAgUAAxkDAAP1avKI25sY5yyHMMiMKh_QzkjRfrgAApIWaxuLT5BXc9sK_cRFhMkBAAMCAAN3AAM9BA"
+   "tg_file_id": "AgACAgUAAxkDAAP1avKI25sY5yyHMMiMKh_QzkjRfrgAApIWaxuLT5BXc9sK_cRFhMkBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-10T03:23:44.158192+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122097153723548584",
+   "posted_at": "2026-11-10T03:23:44.473343+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 09 · 10:23 PM New York · 8:53 AM Sri Lanka\n\n<b>Ohio State University suspends fraternity following viral fire video</b>\n<i>NBC News, Newsweek, The Independent, UPI</i>\n🔴 <b>Latest:</b> 4:29 AM Sri Lanka (4h 24m ago) · first reported 11:37 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122097153723548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 109,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "1192980740059862"
   },
   "b5b3ec9c19": {
    "id": "b5b3ec9c19",
@@ -13066,17 +13077,13 @@
    "b5b3ec9c19"
   ]
  ],
- "last_draft_at": "2026-11-10T03:00:44.847964+00:00",
+ "last_draft_at": "2026-11-10T03:15:19.493217+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-10T02:45:20.467366+00:00",
  "run_log": [
-  "11-10 00:54:08 run start",
-  "11-10 00:54:30 listening 11 min",
-  "11-10 01:05:44 listening done",
-  "11-10 01:05:44 run end after 695 s",
   "11-10 01:06:00 run start",
   "11-10 01:06:09 listening 11 min",
   "11-10 01:17:31 listening done",
@@ -13112,7 +13119,11 @@
   "11-10 03:00:32 run start",
   "11-10 03:01:23 listening 11 min",
   "11-10 03:12:17 listening done",
-  "11-10 03:12:17 run end after 704 s"
+  "11-10 03:12:17 run end after 704 s",
+  "11-10 03:15:19 run start",
+  "11-10 03:15:29 listening 11 min",
+  "11-10 03:26:58 listening done",
+  "11-10 03:26:58 run end after 698 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
