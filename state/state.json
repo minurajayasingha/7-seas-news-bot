@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892830,
+ "tg_offset": 495892832,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -9142,13 +9142,21 @@
    "news_time": "2026-11-09T21:52:28+00:00",
    "news_latest": "2026-11-09T22:05:19+00:00",
    "caption": "Nvidia CEO Jensen Huang investigated over affair with alleged Chinese spy\n\nNvidia CEO Jensen Huang is facing an investigation by his own company regarding an extramarital affair. The situation highlights a broader ecosystem of companies smuggling AI chips into China.\n\n💬 Will this investigation impact Nvidia's operations and chip exports?\n\n📖 Read more: https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html\n\n#Nvidia #TechNews #China #7SeasNews",
-   "status": "pending",
+   "status": "posted",
    "tg_message_id": 231,
    "tg_file_id": "AgACAgUAAxkDAAPnavJJkhr_bgZRGR3Y_VnzX1T5PJ4AAi0WaxuLT5BX-z3_L6bSefIBAAMCAAN3AAM9BA",
    "dup_ok": true,
-   "extra_msgs": [
-    241
-   ]
+   "extra_msgs": [],
+   "queued_at": "2026-11-10T02:54:20.539458+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122097143157548584",
+   "posted_at": "2026-11-10T02:54:20.911035+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 09 · 9:54 PM New York · 8:24 AM Sri Lanka\n\n<b>Nvidia CEO Jensen Huang investigated over affair with alleged Chinese spy</b>\n<i>BBC, New York Times</i>\n🔴 <b>Latest:</b> 3:35 AM Sri Lanka (4h 49m ago) · first reported 3:22 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122097143157548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 107,
+   "log_photo": true,
+   "cleared": true,
+   "fb_story_id": "2057560351582081"
   },
   "6bc19982ba": {
    "id": "6bc19982ba",
@@ -9220,9 +9228,20 @@
    "news_time": "2026-11-09T17:03:33+00:00",
    "news_latest": "2026-11-09T22:14:37+00:00",
    "caption": "Pope Leo XIV draws 2.5 million to mass in Argentina\n\nPope Leo XIV attracted millions of people to his first mass in Argentina during his South American tour. He also met with clergy abuse survivors and visited a care home.\n\n📖 Read more: https://www.aljazeera.com/news/2026/11/9/pope-meets-with-clergy-abuse-survivors-in-argentina?traffic_source=rss\n\n#PopeLeoXIV #Argentina #WorldNews #7SeasNews",
-   "status": "pending",
+   "status": "posted",
    "tg_message_id": 232,
-   "tg_file_id": "AgACAgUAAxkDAAPoavJNGxerH7uxthE0UjV6tqbPWXAAAi4WaxuLT5BX7lKcN0RqL8cBAAMCAAN3AAM9BA"
+   "tg_file_id": "AgACAgUAAxkDAAPoavJNGxerH7uxthE0UjV6tqbPWXAAAi4WaxuLT5BX7lKcN0RqL8cBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-10T02:54:36.067850+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122097143589548584",
+   "posted_at": "2026-11-10T02:54:36.406932+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 09 · 9:54 PM New York · 8:24 AM Sri Lanka\n\n<b>Pope Leo XIV draws 2.5 million to mass in Argentina</b>\n<i>ABC News, Al Jazeera, Euronews, UPI</i>\n🔴 <b>Latest:</b> 3:44 AM Sri Lanka (4h 40m ago) · first reported 10:33 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122097143589548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 108,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "1125378060202228"
   },
   "1f358cbd82": {
    "id": "1f358cbd82",
@@ -12882,17 +12901,13 @@
    "b2abea547d"
   ]
  ],
- "last_draft_at": "2026-11-10T02:30:28.657578+00:00",
+ "last_draft_at": "2026-11-10T02:45:38.003387+00:00",
  "last_slot": "2026-11-09T12:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-10T01:45:22.167102+00:00",
+ "last_stats_at": "2026-11-10T02:45:20.467366+00:00",
  "run_log": [
-  "11-10 00:30:23 run start",
-  "11-10 00:30:33 listening 11 min",
-  "11-10 00:41:52 listening done",
-  "11-10 00:41:52 run end after 688 s",
   "11-10 00:42:04 run start",
   "11-10 00:42:33 listening 11 min",
   "11-10 00:53:53 listening done",
@@ -12928,7 +12943,11 @@
   "11-10 02:30:28 run start",
   "11-10 02:30:39 listening 11 min",
   "11-10 02:41:57 listening done",
-  "11-10 02:41:57 run end after 689 s"
+  "11-10 02:41:57 run end after 689 s",
+  "11-10 02:45:20 run start",
+  "11-10 02:45:48 listening 11 min",
+  "11-10 02:56:58 listening done",
+  "11-10 02:56:58 run end after 698 s"
  ],
  "day_pack_done": "2026-11-08",
  "photo_memory": {
