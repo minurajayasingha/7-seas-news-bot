@@ -11046,16 +11046,20 @@
    "news_time": "2026-11-10T10:58:18+00:00",
    "news_latest": "2026-11-10T11:23:34+00:00",
    "caption": "US and officials begin peace talks in Abu Dhabi\n\nOfficials have started the first substantive negotiations between Russia and Ukraine since February. The two-day session in Abu Dhabi will focus on security guarantees and a final end to the war.\n\n💬 Can these talks in Abu Dhabi end the fighting?\n\n📖 Read more: https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks\n\n#WorldNews #AbuDhabi #UkraineWar #7SeasNews",
-   "status": "queued",
+   "status": "posted",
    "tg_message_id": 261,
    "tg_file_id": "AgACAgUAAxkDAAIBBWrzA_pwsqCakAMj70foVlflC0gDAAMVaxuLT5hX_6VL1P6xw50BAAMCAAN3AAM9BA",
    "dup_ok": true,
-   "extra_msgs": [
-    292,
-    294
-   ],
+   "extra_msgs": [],
    "queued_at": "2026-11-10T17:51:41.365643+00:00",
-   "post_now": false
+   "post_now": false,
+   "fb_post_id": "1413030521900096_122097978747548584",
+   "posted_at": "2026-11-10T23:00:32.946442+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 10 · 6:00 PM New York · 4:30 AM Sri Lanka\n\n<b>US and officials begin peace talks in Abu Dhabi</b>\n<i>NPR, The Guardian</i>\n🔴 <b>Latest:</b> 4:53 PM Sri Lanka (11h 37m ago) · first reported 4:28 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122097978747548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 138,
+   "log_photo": true,
+   "cleared": true
   },
   "caba8b6905": {
    "id": "caba8b6905",
@@ -17258,17 +17262,13 @@
    "9868f8195c"
   ]
  ],
- "last_draft_at": "2026-11-10T22:45:22.196407+00:00",
- "last_slot": "2026-11-10T15:00:00-05:00",
+ "last_draft_at": "2026-11-10T23:01:01.542144+00:00",
+ "last_slot": "2026-11-10T18:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-10T21:57:12.743546+00:00",
+ "last_stats_at": "2026-11-10T23:00:42.236308+00:00",
  "run_log": [
-  "11-10 20:45:21 run start",
-  "11-10 20:45:41 listening 11 min",
-  "11-10 20:56:59 listening done",
-  "11-10 20:56:59 run end after 697 s",
   "11-10 21:00:33 run start",
   "11-10 21:01:06 listening 11 min",
   "11-10 21:12:00 listening done",
@@ -17304,7 +17304,11 @@
   "11-10 22:45:21 run start",
   "11-10 22:45:32 listening 11 min",
   "11-10 22:56:52 listening done",
-  "11-10 22:56:52 run end after 690 s"
+  "11-10 22:56:52 run end after 690 s",
+  "11-10 23:00:32 run start",
+  "11-10 23:01:11 listening 11 min",
+  "11-10 23:12:05 listening done",
+  "11-10 23:12:05 run end after 693 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
