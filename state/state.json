@@ -14115,7 +14115,13 @@
   "https://www.upi.com/Top_News/US/2026/11/10/court-upholds-voice-of-america-director-restoration/1601794351444/",
   "https://thehill.com/regulation/court-battles/6211850-voice-of-america-head-was-illegally-fired-by-kari-lake-court-says-backing-reinstatement/",
   "https://www.newsweek.com/kennedys-say-trump-arch-would-be-permanent-denigration-gravesites-12697561",
-  "https://www.nytimes.com/2026/11/10/us/politics/kennedy-trump-arch-lawsuit.html"
+  "https://www.nytimes.com/2026/11/10/us/politics/kennedy-trump-arch-lawsuit.html",
+  "https://www.euronews.com/video/2026/11/10/spain-69-candles-lit-at-toledo-cathedral-for-train-crash-victims",
+  "https://www.independent.co.uk/news/world/europe/spain-train-driver-strike-2026-crashes-b3082772.html",
+  "https://www.independent.co.uk/news/world/europe/spain-train-crash-state-funeral-toledo-b3082752.html",
+  "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
+  "https://www.washingtonpost.com/politics/2026/11/10/supreme-court-grapples-with-arguments-sun-valley-orchards-case/",
+  "https://www.washingtonexaminer.com/news/supreme-court/4798842/supreme-court-department-of-labor-migrant-worker-fines/"
  ],
  "recent_topics": [
   [
@@ -17310,17 +17316,13 @@
    "d071e39fe0"
   ]
  ],
- "last_draft_at": "2026-11-10T23:30:32.809596+00:00",
+ "last_draft_at": "2026-11-10T23:45:23.136252+00:00",
  "last_slot": "2026-11-10T18:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-10T23:00:42.236308+00:00",
  "run_log": [
-  "11-10 21:30:25 run start",
-  "11-10 21:30:36 listening 11 min",
-  "11-10 21:41:54 listening done",
-  "11-10 21:41:54 run end after 689 s",
   "11-10 21:45:19 run start",
   "11-10 21:45:43 listening 11 min",
   "11-10 21:57:01 listening done",
@@ -17356,7 +17358,11 @@
   "11-10 23:30:32 run start",
   "11-10 23:32:14 listening 10 min",
   "11-10 23:42:17 listening done",
-  "11-10 23:42:17 run end after 704 s"
+  "11-10 23:42:17 run end after 704 s",
+  "11-10 23:45:22 run start",
+  "11-10 23:45:45 listening 11 min",
+  "11-10 23:57:04 listening done",
+  "11-10 23:57:04 run end after 701 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
