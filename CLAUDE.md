@@ -62,8 +62,11 @@ optional PIXABAY_API_KEY / PEXELS_API_KEY. Never print or commit secrets.
 - STRICT_PHOTO_MATCH: a place photo must name the story's country (location first, else headline; US POLITICS/ELECTIONS
   = US) in its title/description/categories (Pixabay tags, Pexels alt) and no other country (border photos allowed);
   no safe photo → branded globe. Country words: COUNTRY_WORDS in main.py.
-- Caption: headline, summary, (breaking: "What we know so far"), neutral question hook, 📖 Read more link,
-  FOLLOW_LINE (never twice), hashtags.
+- Caption: headline, summary, (breaking: "What we know so far"), neutral question hook,
+  "🔗 Source in the comments 👇" (LINK_IN_FIRST_COMMENT; False = old "📖 Read more" link in the caption),
+  FOLLOW_LINE (never twice), hashtags. With LINK_IN_FIRST_COMMENT the bot waits 5 s after publishing and comments
+  "📖 Read the full story: <url>" as the Page (POST /{post_id}/comments, needs pages_manage_engagement); a failed
+  comment is reported to the log channel (+ token steps once) and never retries/fails the post.
 
 ## Editorial rules (Gemini prompt in main.py)
 Neutral, no opinions, only facts from the reports. Headlines = plain facts (who did what, where).

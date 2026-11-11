@@ -857,6 +857,58 @@ def next_slot_text():
     return f"{nxt:%I:%M %p} New York  ({lk:%I:%M %p} Sri Lanka)"
 
 
+def facebook_comment(post_id, text):
+    """Comment on a post as the Page. Returns the comment id."""
+    r = HTTP.post(f"https://graph.facebook.com/{post_id}/comments",
+                  data={"message": text, "access_token": FB_TOKEN}, timeout=60)
+    j = r.json()
+    if "error" in j:
+        raise RuntimeError(j["error"].get("message", str(j["error"])))
+    return j.get("id")
+
+
+def first_comment_wanted(d):
+    """Link goes in the first comment (and is not already in the caption, e.g. drafts made before the change)."""
+    link = d.get("link")
+    return bool(LINK_IN_FIRST_COMMENT and SHOW_READ_MORE_LINK and link and link not in d.get("caption", ""))
+
+
+def post_first_comment(state, d, post_id):
+    """'📖 Read the full story: <url>' as the Page's first comment. Never blocks or retries the post."""
+    if not (post_id and first_comment_wanted(d)):
+        return
+    time.sleep(5)                                  # give Facebook a moment after publishing
+    try:
+        d["fb_comment_id"] = facebook_comment(post_id, f"📖 Read the full story: {d['link']}")
+        log("First comment added", d["id"])
+    except Exception as e:
+        err = str(e)
+        log("First comment error:", err)
+        text = (f"⚠️ <b>Link comment failed</b> (the post is live)\n<b>{html.escape(d['headline'])}</b>\n"
+                f"<code>{html.escape(err)[:300]}</code>\n\n📖 {html.escape(d['link'])}")
+        ch = state.get("log_channel")
+        if not (ch and tg("sendMessage", chat_id=ch, text=text, parse_mode="HTML",
+                          disable_web_page_preview="true").get("ok")):
+            tg_text(text)
+        if re.search(r"permission|\(#200\)|\(#10\)|pages_manage_engagement|not authorized", err, re.I) \
+                and not state.get("comment_perm_told"):
+            state["comment_perm_told"] = True
+            tg_text("⚠️ <b>The bot can't comment as the Page.</b> Your Page token is missing the "
+                    "<b>pages_manage_engagement</b> permission.\n\n"
+                    "How to fix it:\n"
+                    "1. Open developers.facebook.com/tools/explorer\n"
+                    "2. Pick your app (top right) and <b>Get User Access Token</b>.\n"
+                    "3. Tick: pages_show_list, pages_read_engagement, pages_manage_posts, "
+                    "<b>pages_manage_engagement</b> (keep any others you had, e.g. publish_video).\n"
+                    "4. Generate the token, allow all pages, and make it long-lived the same way as "
+                    "before (Access Token Debugger → Extend).\n"
+                    "5. Get the never-expiring Page token: in the Explorer run <code>me/accounts</code> "
+                    "with the long-lived token and copy your Page's access_token.\n"
+                    "6. GitHub → repo → Settings → Secrets → Actions → update <b>FB_PAGE_TOKEN</b>.\n\n"
+                    "Until then posts still publish; the link just won't be added. "
+                    "Or set LINK_IN_FIRST_COMMENT = False in settings.py to put it back in the caption.")
+
+
 def facebook_post_photo(image_bytes, caption):
     r = HTTP.post(
         f"https://graph.facebook.com/{FB_PAGE_ID}/photos",
@@ -1306,6 +1358,7 @@ def publish_due(state):
             log_to_channel(state, d, link)
             tg_clear(d)
             log("Posted", d["id"], post_id)
+            post_first_comment(state, d, post_id)   # link comment; errors are reported, never retried
             if story_wanted(d):
                 try:
                     d["fb_story_id"] = facebook_post_story(img)
@@ -2481,7 +2534,7 @@ def build_caption(d):
         lines += ["", "💬 " + d["hook"]]
     # sources + photo credit are printed small on the image itself
     if SHOW_READ_MORE_LINK and d.get("link"):
-        lines += ["", f"📖 Read more: {d['link']}"]
+        lines += ["", "🔗 Source in the comments 👇" if LINK_IN_FIRST_COMMENT else f"📖 Read more: {d['link']}"]
     lines = with_follow_line(lines)
     lines += ["", f"{tags} {BRAND_HASHTAG}".strip()]
     return "\n".join(lines)

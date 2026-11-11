@@ -76,6 +76,9 @@ BANNED_HEADLINE_WORDS = [
 
 # ---------- Caption ----------
 SHOW_READ_MORE_LINK = True   # include the original article link in the Facebook caption
+LINK_IN_FIRST_COMMENT = True # True = no URL in the caption ("🔗 Source in the comments 👇"); the link goes in the
+                             #        Page's first comment instead (Facebook shows link posts to fewer people).
+                             # False = old way: "📖 Read more: <link>" in the caption. Needs pages_manage_engagement.
 SHARE_TO_STORY = "breaking"  # Facebook Story: "breaking" = only BREAKING news, "all" = every post, "off" = never
 FOLLOW_LINE = "Follow 7 Seas News for US & world news every day 🇺🇸🌍"   # in every caption, before the hashtags ("" = none)
 TIKTOK_HASHTAGS = "#news #worldnews #fyp"   # added to the caption sent to your TikTok channel (/tiktok)
