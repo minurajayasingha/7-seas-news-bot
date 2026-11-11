@@ -14555,6 +14555,129 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_story_id": "1117339620910658"
+  },
+  "82fd68db9e": {
+   "id": "82fd68db9e",
+   "headline": "US charges three men for plotting UK airbase attack",
+   "summary": "The US has charged three men for allegedly planning an attack on a UK airbase. According to a Justice Department indictment, one suspect directed the plot from a US prison.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "US charges three men over planned UK base attack",
+    "Target was a Royal Air Force Base in Fairford",
+    "One suspect allegedly directed the plot from prison"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USNews",
+    "#UKNews",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "NBC News"
+   ],
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss"
+    ],
+    [
+     "NBC News",
+     "https://www.nbcnews.com/world/united-kingdom/us-charges-3-men-plotting-multiple-terrorist-attacks-planned-attack-uk-rcna608647"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Fairford, United Kingdom"
+   },
+   "img_post": {
+    "headline": "US charges three men for plotting UK airbase attack",
+    "people": [],
+    "image_query": "Royal Air Force Fairford",
+    "image_queries": [
+     "US Department of Justice",
+     "prison facility",
+     "military air base",
+     "courtroom gavel"
+    ],
+    "image_style": "incident",
+    "location": "Fairford, United Kingdom"
+   },
+   "created_at": "2026-11-11T05:30:34.872063+00:00",
+   "news_time": "2026-11-11T01:22:54+00:00",
+   "news_latest": "2026-11-11T05:01:47+00:00",
+   "caption": "US charges three men for plotting UK airbase attack\n\nThe US has charged three men for allegedly planning an attack on a UK airbase. According to a Justice Department indictment, one suspect directed the plot from a US prison.\n\n📖 Read more: https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss\n\n#USNews #UKNews #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 329,
+   "tg_file_id": "AgACAgUAAxkDAAIBSWrz_X3_XRUhiVXGHxGcpBWsPFo-AALSFGsbSxqhV3Ll941Ibu4UAQADAgADdwADPQQ"
+  },
+  "7da4161999": {
+   "id": "7da4161999",
+   "headline": "Donald Trump faces criticism after South Carolina midterm results",
+   "summary": "President Donald Trump received a failing grade from Representative Ralph Norman for his performance in South Carolina's midterm elections. Meanwhile, immigration arrests continued after Trump suggested his crackdown might have been too tough.",
+   "label": "ELECTIONS",
+   "hook": "Did President Trump bear responsibility for the Republican midterm outcomes in South Carolina?",
+   "key_points": [
+    "Rep. Ralph Norman gave Trump an F on midterms.",
+    "A Trump-backed Senate candidate lost the general election.",
+    "Trump suggested his immigration crackdown was too tough."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Midterms",
+    "#DonaldTrump"
+   ],
+   "sources": [
+    "The Hill",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/americas/donald-trump-gop-stephen-miller-los-angeles-united-states-b3082848.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/donald-trump-gop-stephen-miller-los-angeles-united-states-b3082848.html"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/homenews/campaign/6212326-norman-gives-trump-f-grade/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Daniel Torok / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Donald Trump faces criticism after South Carolina midterm results",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "US Capitol dome",
+    "image_queries": [
+     "South Carolina State House",
+     "Senate chamber",
+     "voting booth",
+     "Capitol Hill"
+    ],
+    "image_style": "person",
+    "location": "South Carolina, US"
+   },
+   "created_at": "2026-11-11T05:30:38.771675+00:00",
+   "news_time": "2026-11-11T00:24:28+00:00",
+   "news_latest": "2026-11-11T05:03:03+00:00",
+   "caption": "Donald Trump faces criticism after South Carolina midterm results\n\nPresident Donald Trump received a failing grade from Representative Ralph Norman for his performance in South Carolina's midterm elections. Meanwhile, immigration arrests continued after Trump suggested his crackdown might have been too tough.\n\n💬 Did President Trump bear responsibility for the Republican midterm outcomes in South Carolina?\n\n📖 Read more: https://www.independent.co.uk/news/world/americas/donald-trump-gop-stephen-miller-los-angeles-united-states-b3082848.html\n\n#USPolitics #Midterms #DonaldTrump #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 330,
+   "tg_file_id": "AgACAgUAAxkDAAIBSmrz_YCvdHH84XbFEqkE3lKgGznrAALTFGsbSxqhV91kW5DXGwbOAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -15067,7 +15190,11 @@
   "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
   "https://www.france24.com/en/americas/20261111-haiti-pm-bukele-salvadoran-troops-gang-headquarters",
   "https://www.independent.co.uk/news/world/americas/los-angeles-accident-three-dead-b3082832.html",
-  "https://www.washingtonexaminer.com/news/4799692/car-hits-pedestrians-north-hollywood-crash/"
+  "https://www.washingtonexaminer.com/news/4799692/car-hits-pedestrians-north-hollywood-crash/",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss",
+  "https://www.nbcnews.com/world/united-kingdom/us-charges-3-men-plotting-multiple-terrorist-attacks-planned-attack-uk-rcna608647",
+  "https://www.independent.co.uk/news/world/americas/donald-trump-gop-stephen-miller-los-angeles-united-states-b3082848.html",
+  "https://thehill.com/homenews/campaign/6212326-norman-gives-trump-f-grade/"
  ],
  "recent_topics": [
   [
@@ -18387,19 +18514,67 @@
     "vehicl"
    ],
    "87481f600c"
+  ],
+  [
+   "2026-11-11T05:30:37.614332+00:00",
+   [
+    "air",
+    "airbas",
+    "alleg",
+    "allegedly",
+    "attack",
+    "bar",
+    "bas",
+    "behind",
+    "charg",
+    "direct",
+    "fairford",
+    "incident",
+    "includ",
+    "iran-back",
+    "iranian-back",
+    "link",
+    "men",
+    "multipl",
+    "plann",
+    "plot",
+    "plott",
+    "raf",
+    "suspect",
+    "target",
+    "terror",
+    "troop"
+   ],
+   "82fd68db9e"
+  ],
+  [
+   "2026-11-11T05:30:41.393649+00:00",
+   [
+    "arrest",
+    "carolina",
+    "despit",
+    "giv",
+    "gop",
+    "immigration",
+    "midterm",
+    "misgiv",
+    "norman",
+    "performanc",
+    "south",
+    "trump",
+    "unabat",
+    "wipeout"
+   ],
+   "7da4161999"
   ]
  ],
- "last_draft_at": "2026-11-11T05:15:20.518954+00:00",
+ "last_draft_at": "2026-11-11T05:30:24.278391+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-11T05:01:24.978776+00:00",
  "run_log": [
-  "11-11 03:00:30 run start",
-  "11-11 03:01:25 listening 11 min",
-  "11-11 03:12:18 listening done",
-  "11-11 03:12:18 run end after 708 s",
   "11-11 03:15:21 run start",
   "11-11 03:15:31 listening 11 min",
   "11-11 03:27:05 listening done",
@@ -18435,12 +18610,15 @@
   "11-11 05:15:20 run start",
   "11-11 05:15:30 listening 11 min",
   "11-11 05:26:49 listening done",
-  "11-11 05:26:49 run end after 689 s"
+  "11-11 05:26:49 run end after 689 s",
+  "11-11 05:30:23 run start",
+  "11-11 05:30:41 listening 11 min",
+  "11-11 05:42:02 listening done",
+  "11-11 05:42:02 run end after 698 s"
  ],
  "day_pack_done": "2026-11-10",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Thomas_Massie_%288561647254%29.jpg/1280px-Thomas_Massie_%288561647254%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg/1280px-Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Knesset_Israeli_Parliament_Building_%2841404889170%29.jpg/1920px-Knesset_Israeli_Parliament_Building_%2841404889170%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/The_capitol_at_night.jpg/1920px-The_capitol_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -18479,7 +18657,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Ben_Ferguson_in_About_Time.jpg/1280px-Ben_Ferguson_in_About_Time.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/0/08/Maria_Elvira_Salazar_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://upload.wikimedia.org/wikipedia/commons/f/fb/Cummins_Corporate_Office_Building_-_April_2008_-_Holly_Higgins_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/f/fb/Cummins_Corporate_Office_Building_-_April_2008_-_Holly_Higgins_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
