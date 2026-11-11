@@ -92,7 +92,12 @@ ASK_QUESTION = "sometimes"
 # ---------- Single-story Reels (🎬 Reel button) ----------
 REELS_ENABLED = False        # True = drafts get a 🎬 Reel button: publishes the post AND a short Reel of it
 REELS_PER_DAY = 3            # max Reels per New York day (more taps → the post is published, no Reel, you're told)
-REEL_SECONDS = 12            # length of each Reel (typing headline → hold → "Follow for more" end card)
+REEL_SECONDS = 10            # length of each Reel (typing headline → hold → "Follow for more" end card)
+REELS_ONLY_GOOD_PHOTOS = True   # True = 🎬 Reel button only on drafts with a real photo (people/place),
+                                #        not on the plain brand / globe designs
+REEL_TYPING_SOUND = True     # keyboard click for every letter while the headline types
+REEL_BREAKING_SOUND = True   # BREAKING posts start with a short news-alert sound (made by the bot, no copyright)
+REEL_SOUND_VOLUME = 0.8      # 0.0 (silent) … 1.0 (full)
 REEL_HASHTAGS = "#news #worldnews"   # extra lowercase hashtags for Reel captions (3–5 in total)
 
 # ---------- Post stats (likes, comments, shares) ----------

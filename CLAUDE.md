@@ -26,7 +26,9 @@ optional PIXABAY_API_KEY / PEXELS_API_KEY. Never print or commit secrets.
 - Draft buttons: 🚀 Post now · 🎬 Reel (only if REELS_ENABLED) · 🕒 Queue (next New York slot) · 🔄 Other photo · ❌ Skip;
   queued posts get ↩️ Cancel.
 - 🎬 Reel = publish the post as normal AND make a single-story Reel (REELS_PER_DAY per NY day, REEL_SECONDS long;
-  over the limit → post only + Telegram note). Video: 1080×1920 30 fps H.264 + silent AAC via ffmpeg+Pillow
+  over the limit → post only + Telegram note). Button shown only on drafts with a real photo (REELS_ONLY_GOOD_PHOTOS).
+  Video: 1080×1920 30 fps H.264 + AAC via ffmpeg+Pillow; sounds are synthesized in code (reel_audio: key click per letter,
+  end whoosh, BREAKING news-alert sting with typing starting at 1.1 s; REEL_TYPING_SOUND / REEL_BREAKING_SOUND / REEL_SOUND_VOLUME)
   (make_reel): post image at y=285, blurred 45%-dark photo zoom above, post bottom colour below, headline
   re-typed in Poppins Bold with red cursor (render_image(hide_headline=True, layout=…)), end card
   "FOLLOW FOR MORE". Published with Graph video_reels start → rupload.facebook.com → finish PUBLISHED

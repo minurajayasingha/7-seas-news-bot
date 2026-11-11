@@ -129,10 +129,20 @@ def tg_text(text):
               parse_mode="HTML", disable_web_page_preview="true")
 
 
-def draft_buttons(pid):
+def reel_allowed(d):
+    """🎬 Reel only for drafts with a real photo (people / place), unless REELS_ONLY_GOOD_PHOTOS is off."""
+    if not REELS_ENABLED:
+        return False
+    if not REELS_ONLY_GOOD_PHOTOS:
+        return True
+    bg = (d or {}).get("bg") or {}
+    return bg.get("type") in ("photo", "people") and bool(bg.get("photos"))
+
+
+def draft_buttons(pid, d=None):
     first = [{"text": "🚀 Post now", "callback_data": f"now:{pid}"},
              {"text": "🕒 Queue", "callback_data": f"queue:{pid}"}]
-    if REELS_ENABLED:
+    if reel_allowed(d):
         first.insert(1, {"text": "🎬 Reel", "callback_data": f"reel:{pid}"})
     return {"inline_keyboard": [
         first,
@@ -640,7 +650,7 @@ def process_telegram(state, wait=0):
                 d.pop("post_now", None)
                 d.pop("make_reel", None)
                 tg("editMessageReplyMarkup", chat_id=TG_CHAT, message_id=d["tg_message_id"],
-                   reply_markup=draft_buttons(pid))
+                   reply_markup=draft_buttons(pid, d))
                 tg_reply(d, "↩️ Cancelled. It's back to waiting for your choice.")
                 continue
             if d["status"] != "pending":
@@ -659,7 +669,7 @@ def process_telegram(state, wait=0):
                 d["status"] = "queued"
                 d["queued_at"] = now_utc().isoformat()
                 d["post_now"] = True
-                if action == "reel" and REELS_ENABLED:
+                if action == "reel" and reel_allowed(d):
                     d["make_reel"] = True
                     left = REELS_PER_DAY - reels_today(state)
                     tg_status(d, "🎬 Posting + making Reel…" if left > 0 else "🚀 Posting now (Reel limit reached)…")
@@ -861,7 +871,7 @@ def facebook_post_photo(image_bytes, caption):
 
 
 # =============================================================================
-# SINGLE-STORY REELS (🎬 Reel button) — 1080x1920, 30 fps, H.264 + silent AAC
+# SINGLE-STORY REELS (🎬 Reel button) — 1080x1920, 30 fps, H.264 + AAC (typing / breaking sounds)
 # =============================================================================
 
 RW, RH, FPS = 1080, 1920, 30
@@ -919,6 +929,89 @@ def reel_end_card():
     return card
 
 
+AUDIO_SR = 48000
+
+
+def _add(buf, start, samples):
+    i0 = int(start * AUDIO_SR)
+    for k, v in enumerate(samples):
+        i = i0 + k
+        if 0 <= i < len(buf):
+            buf[i] += v
+
+
+def _key_click(rng, space=False):
+    """One keyboard click: short bright noise tick + a small low 'thock' (made from scratch)."""
+    n = int(0.045 * AUDIO_SR)
+    tone = rng.uniform(120, 170) if space else rng.uniform(190, 280)
+    amp = rng.uniform(0.75, 1.0) * (1.15 if space else 1.0)
+    out, lp, prev = [], 0.0, 0.0
+    for k in range(n):
+        t = k / AUDIO_SR
+        noise = rng.uniform(-1, 1)
+        hp = noise - prev                                    # simple high-pass → crisp tick
+        prev = noise
+        lp += 0.35 * (hp - lp)
+        tick = lp * math.exp(-t / 0.0045) * 0.55
+        thock = math.sin(2 * math.pi * tone * t) * math.exp(-t / 0.012) * (0.5 if space else 0.3)
+        out.append((tick + thock) * amp)
+    return out
+
+
+def _breaking_sting():
+    """Short original news-alert sound: low hit + three bright rising notes."""
+    out = [0.0] * int(1.0 * AUDIO_SR)
+    for k in range(int(0.7 * AUDIO_SR)):                     # low hit with falling pitch
+        t = k / AUDIO_SR
+        f = 48 + 40 * math.exp(-t / 0.08)
+        out[k] += math.sin(2 * math.pi * f * t) * math.exp(-t / 0.22) * 0.9
+    for start, f, length in ((0.02, 784.0, 0.22), (0.20, 988.0, 0.22), (0.38, 1319.0, 0.55)):
+        i0 = int(start * AUDIO_SR)
+        for k in range(int(length * AUDIO_SR)):
+            t = k / AUDIO_SR
+            env = min(1.0, t / 0.004) * math.exp(-t / (length * 0.45))
+            v = (math.sin(2 * math.pi * f * t) + 0.35 * math.sin(4 * math.pi * f * t)
+                 + 0.12 * math.sin(6 * math.pi * f * t))
+            out[i0 + k] += v * env * 0.32
+    return out
+
+
+def _whoosh(length=0.6, seed=7):
+    """Soft air whoosh for the end-card change."""
+    rng = random.Random(seed)
+    n, out, lp = int(length * AUDIO_SR), [], 0.0
+    for k in range(n):
+        x = k / n
+        cut = 0.02 + 0.25 * math.sin(math.pi * x)            # filter opens then closes
+        lp += cut * (rng.uniform(-1, 1) - lp)
+        out.append(lp * math.sin(math.pi * x) ** 2 * 0.9)
+    return out
+
+
+def reel_audio(seconds, key_times, breaking, whoosh_at):
+    """Mono 16-bit WAV: typing clicks, breaking sting, end whoosh. Silent if sounds are off."""
+    import wave
+    import array
+    buf = [0.0] * int(seconds * AUDIO_SR)
+    rng = random.Random(len(key_times))
+    if REEL_BREAKING_SOUND and breaking:
+        _add(buf, 0.05, _breaking_sting())
+    if REEL_TYPING_SOUND:
+        for t, ch in key_times:
+            _add(buf, t + rng.uniform(-0.006, 0.006), _key_click(rng, ch == " "))
+        _add(buf, whoosh_at - 0.3, _whoosh())
+    peak = max(1e-9, max(abs(v) for v in buf))
+    gain = min(1.0, 0.89 / peak) * max(0.0, min(1.0, REEL_SOUND_VOLUME))
+    pcm = array.array("h", (int(max(-1.0, min(1.0, v * gain)) * 32767) for v in buf))
+    mem = io.BytesIO()
+    with wave.open(mem, "wb") as w:
+        w.setnchannels(1)
+        w.setsampwidth(2)
+        w.setframerate(AUDIO_SR)
+        w.writeframes(pcm.tobytes())
+    return mem.getvalue()
+
+
 def make_reel(d, seconds=None):
     """Build the Reel video for one post and return the MP4 bytes."""
     seconds = max(6, int(seconds or REEL_SECONDS))
@@ -930,19 +1023,35 @@ def make_reel(d, seconds=None):
     total_chars = sum(len(ln) for ln in lines)
 
     n_frames = seconds * FPS
-    t_type0 = int(0.4 * FPS)                                 # typing starts
+    breaking = bool(d.get("breaking"))
+    t_type0 = int((1.1 if breaking and REEL_BREAKING_SOUND else 0.4) * FPS)   # typing starts (after the sting)
     type_frames = int(min(4.5, max(1.8, total_chars * 0.055)) * FPS)
     end_start = n_frames - int(2.6 * FPS)                    # end card
     fade = int(0.4 * FPS)
 
+    def shown_at(f):
+        return 0 if f < t_type0 else min(total_chars, int((f - t_type0) / type_frames * total_chars) + 1)
+
+    text = "".join(lines)
+    key_times, last = [], 0
+    for f in range(end_start):                               # one click per new letter
+        now = shown_at(f)
+        if now > last:
+            key_times.append((f / FPS, text[now - 1]))
+            last = now
+
     measure = ImageDraw.Draw(Image.new("RGB", (8, 8)))
     cmd = [ffmpeg_exe(), "-y", "-loglevel", "error",
            "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{RW}x{RH}", "-r", str(FPS), "-i", "-",
-           "-f", "lavfi", "-i", "anullsrc=channel_layout=stereo:sample_rate=48000",
+           "-i", "AUDIO",
            "-c:v", "libx264", "-preset", "medium", "-crf", "20", "-pix_fmt", "yuv420p", "-profile:v", "high",
-           "-c:a", "aac", "-b:a", "128k", "-shortest", "-t", str(seconds), "-movflags", "+faststart"]
+           "-c:a", "aac", "-b:a", "128k", "-ac", "2", "-ar", "48000", "-t", str(seconds), "-movflags", "+faststart"]
     with tempfile.TemporaryDirectory() as tmp:
         out = os.path.join(tmp, "reel.mp4")
+        wav = os.path.join(tmp, "sound.wav")
+        with open(wav, "wb") as fh:
+            fh.write(reel_audio(seconds, key_times, breaking, end_start / FPS))
+        cmd = [wav if c == "AUDIO" else c for c in cmd]
         proc = subprocess.Popen(cmd + [out], stdin=subprocess.PIPE, stderr=subprocess.PIPE)
         cache = {}
         try:
@@ -950,7 +1059,7 @@ def make_reel(d, seconds=None):
                 if f >= end_start + fade:
                     img = end
                 else:
-                    shown = 0 if f < t_type0 else min(total_chars, int((f - t_type0) / type_frames * total_chars) + 1)
+                    shown = shown_at(f)
                     blink_on = shown < total_chars or (f // 15) % 2 == 0     # cursor blinks when done
                     key = (shown, blink_on)
                     if key not in cache:
@@ -2413,7 +2522,7 @@ def send_draft(state, d):
                "✏️ <i>Reply with a photo to change the image, or with text to change the headline.</i>")
     j = tg("sendPhoto", chat_id=TG_CHAT, caption=preview, parse_mode="HTML",
            files={"photo": ("post.jpg", img, "image/jpeg")},
-           reply_markup=draft_buttons(d["id"]))
+           reply_markup=draft_buttons(d["id"], d))
     if not j.get("ok"):
         return False
     res = j["result"]
