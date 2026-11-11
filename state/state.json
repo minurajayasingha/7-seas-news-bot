@@ -15657,6 +15657,68 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_story_id": "998139756680740"
+  },
+  "6bfd6e38b7": {
+   "id": "6bfd6e38b7",
+   "headline": "Iran designates Argentina navy and air force as terrorist organizations",
+   "summary": "Iran designated Argentina's navy and air force as terrorist organizations. Tehran claimed Buenos Aires is responsible for further consequences. This move follows an earlier designation.",
+   "label": "DIPLOMACY",
+   "hook": "How will diplomatic relations between Argentina and Iran develop after this mutual designation?",
+   "key_points": [
+    "Iran targeted Argentina's navy and air force.",
+    "Tehran warned of further consequences from Buenos Aires."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Iran",
+    "#Argentina",
+    "#WorldNews"
+   ],
+   "sources": [
+    "DW",
+    "UPI"
+   ],
+   "link": "https://www.dw.com/en/iran-classes-argentina-navy-air-force-as-terrorist-organizations/a-79916290?maca=en-rss-en-world-4025-rdf",
+   "links": [
+    [
+     "DW",
+     "https://www.dw.com/en/iran-classes-argentina-navy-air-force-as-terrorist-organizations/a-79916290?maca=en-rss-en-world-4025-rdf"
+    ],
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/World-News/2026/11/11/iran-desigantes-Argentina-navy-air-force-terrorist-organizations/7981794382830/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Buenos_Aires_Skyline_in_Color.jpg/1920px-Buenos_Aires_Skyline_in_Color.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Jimmy Baikovicius / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Iran designates Argentina navy and air force as terrorist organizations",
+    "people": [],
+    "image_query": "Buenos Aires skyline",
+    "image_queries": [
+     "Argentine naval ship",
+     "military aircraft",
+     "Tehran city",
+     "government building"
+    ],
+    "image_style": "scene",
+    "location": "Argentina"
+   },
+   "created_at": "2026-11-11T11:45:34.864896+00:00",
+   "news_time": "2026-11-11T08:39:50+00:00",
+   "news_latest": "2026-11-11T11:24:00+00:00",
+   "caption": "Iran designates Argentina navy and air force as terrorist organizations\n\nIran designated Argentina's navy and air force as terrorist organizations. Tehran claimed Buenos Aires is responsible for further consequences. This move follows an earlier designation.\n\n💬 How will diplomatic relations between Argentina and Iran develop after this mutual designation?\n\n📖 Read more: https://www.dw.com/en/iran-classes-argentina-navy-air-force-as-terrorist-organizations/a-79916290?maca=en-rss-en-world-4025-rdf\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Iran #Argentina #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 352,
+   "tg_file_id": "AgACAgUAAxkDAAIBYGr0VWB_HETJxZ8w7xK5Vg7KAqPkAAKOFWsbSxqhV8RDRYA9gU2gAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -16191,7 +16253,9 @@
   "https://www.washingtonexaminer.com/news/world/4799512/south-yemeni-leaders-us-independence-houthis/",
   "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss",
   "https://www.independent.co.uk/news/world/europe/italy-bomb-threat-school-email-b3083056.html",
-  "https://www.france24.com/en/europe/20261111-hundreds-of-schools-in-italy-evacuated-after-receiving-bomb-threats"
+  "https://www.france24.com/en/europe/20261111-hundreds-of-schools-in-italy-evacuated-after-receiving-bomb-threats",
+  "https://www.dw.com/en/iran-classes-argentina-navy-air-force-as-terrorist-organizations/a-79916290?maca=en-rss-en-world-4025-rdf",
+  "https://www.upi.com/Top_News/World-News/2026/11/11/iran-desigantes-Argentina-navy-air-force-terrorist-organizations/7981794382830/"
  ],
  "recent_topics": [
   [
@@ -19497,19 +19561,30 @@
     "school"
    ],
    "c546b12706"
+  ],
+  [
+   "2026-11-11T11:45:37.417028+00:00",
+   [
+    "air",
+    "argentina",
+    "class",
+    "designat",
+    "forc",
+    "iran",
+    "navy",
+    "organization",
+    "terrorist"
+   ],
+   "6bfd6e38b7"
   ]
  ],
- "last_draft_at": "2026-11-11T11:30:26.262665+00:00",
+ "last_draft_at": "2026-11-11T11:45:20.052279+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-11T11:00:30.045682+00:00",
  "run_log": [
-  "11-11 09:24:05 run start",
-  "11-11 09:24:16 listening 11 min",
-  "11-11 09:35:35 listening done",
-  "11-11 09:35:35 run end after 689 s",
   "11-11 09:35:47 run start",
   "11-11 09:35:57 listening 11 min",
   "11-11 09:47:22 listening done",
@@ -19545,12 +19620,15 @@
   "11-11 11:30:25 run start",
   "11-11 11:30:36 listening 11 min",
   "11-11 11:41:54 listening done",
-  "11-11 11:41:54 run end after 688 s"
+  "11-11 11:41:54 run end after 688 s",
+  "11-11 11:45:19 run start",
+  "11-11 11:45:37 listening 11 min",
+  "11-11 11:56:56 listening done",
+  "11-11 11:56:56 run end after 696 s"
  ],
  "day_pack_done": "2026-11-10",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Rafah_Border_Crossing_before_the_Gaza_War_2023-2025.jpg/1920px-Rafah_Border_Crossing_before_the_Gaza_War_2023-2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Lewis_Hamilton_Integralhelm_2018.jpg/1280px-Lewis_Hamilton_Integralhelm_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Prince_Harry_at_Canterbury_University_%2817547607621%29.jpg/1280px-Prince_Harry_at_Canterbury_University_%2817547607621%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Meghan_Markle_%28Paley_Center_%27Suits%27%29.jpg/1280px-Meghan_Markle_%28Paley_Center_%27Suits%27%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -19589,7 +19667,8 @@
    "https://upload.wikimedia.org/wikipedia/commons/8/8e/William_Augustus_Bootle_Federal_Building_and_United_States_Courthouse%2C_Macon%2C_GA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Madrid_Metro_Sol_Station_030.jpg/1920px-Madrid_Metro_Sol_Station_030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/View_of_the_Pentagon_from_the_Navy_Annex_minutes_after_a_hijacked_jetliner_crashed_into_building_at_approximately_0930_on_September_11%2C_2001_010911-M-CI426-007.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/View_of_the_Pentagon_from_the_Navy_Annex_minutes_after_a_hijacked_jetliner_crashed_into_building_at_approximately_0930_on_September_11%2C_2001_010911-M-CI426-007.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Buenos_Aires_Skyline_in_Color.jpg/1920px-Buenos_Aires_Skyline_in_Color.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -22273,7 +22352,6 @@
    }
   },
   "recent_ideas": [
-   "u.s. embassy london",
    "capitol hill",
    "tower of david",
    "us capitol dome",
@@ -22284,7 +22362,8 @@
    "dublin architecture",
    "federal courthouse, united states",
    "madrid metro station",
-   "pentagon building"
+   "pentagon building",
+   "buenos aires skyline"
   ]
  }
 }
