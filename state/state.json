@@ -15803,6 +15803,69 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true
+  },
+  "8589cd79f0": {
+   "id": "8589cd79f0",
+   "headline": "White House warns House Democrats over new oversight investigations",
+   "summary": "The White House warns House Democrats against intimidating officials through upcoming oversight investigations. A letter to Representative Robert Garcia cautions that these probes could cross into criminal activity.",
+   "label": "US POLITICS",
+   "hook": "Should congressional oversight investigations be limited by the administration?",
+   "key_points": [
+    "White House sent a letter to Oversight Democrats",
+    "Warns probes may cross into criminal activity",
+    "Targets incoming investigations planned for January"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#WhiteHouse",
+    "#Congress"
+   ],
+   "sources": [
+    "The Hill",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/news/white-house/4799884/trump-official-warns-house-democrats-oversight-investigations/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/white-house/4799884/trump-official-warns-house-democrats-oversight-investigations/"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/homenews/administration/6213006-white-house-targets-democrat-congressional-investigators/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Iowa_Senate_chamber_03.jpg/1920px-Iowa_Senate_chamber_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Thesavagenorwegian / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "White House warns House Democrats over new oversight investigations",
+    "people": [],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "House of Representatives chamber",
+     "Capitol Hill",
+     "Senate chamber",
+     "voting booth"
+    ],
+    "image_style": "person",
+    "location": "US"
+   },
+   "created_at": "2026-11-11T14:45:37.243389+00:00",
+   "news_time": "2026-11-11T14:39:24+00:00",
+   "news_latest": "2026-11-11T14:45:16+00:00",
+   "caption": "White House warns House Democrats over new oversight investigations\n\nThe White House warns House Democrats against intimidating officials through upcoming oversight investigations. A letter to Representative Robert Garcia cautions that these probes could cross into criminal activity.\n\n💬 Should congressional oversight investigations be limited by the administration?\n\n📖 Read more: https://www.washingtonexaminer.com/news/white-house/4799884/trump-official-warns-house-democrats-oversight-investigations/\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #WhiteHouse #Congress #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 359,
+   "tg_file_id": "AgACAgUAAxkDAAIBZ2r0f5ojkPIeNRq89sW4RrOAGW5fAAIEFmsbSxqhVwOhpPKF67IiAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -16344,7 +16407,9 @@
   "https://www.theguardian.com/us-news/ng-interactive/2026/nov/11/project-2025-federal-data-trump-administration",
   "https://www.independent.co.uk/news/uk/home-news/scottish-dj-victim-krakow-shooting-b3083196.html",
   "https://www.theguardian.com/uk-news/2026/nov/11/british-man-died-krakow-shooting-named-james-campbell",
-  "https://news.sky.com/story/british-dj-named-as-one-of-six-people-killed-in-krakow-shooting-13611042"
+  "https://news.sky.com/story/british-dj-named-as-one-of-six-people-killed-in-krakow-shooting-13611042",
+  "https://www.washingtonexaminer.com/news/white-house/4799884/trump-official-warns-house-democrats-oversight-investigations/",
+  "https://thehill.com/homenews/administration/6213006-white-house-targets-democrat-congressional-investigators/"
  ],
  "recent_topics": [
   [
@@ -19567,19 +19632,35 @@
     "terrorist"
    ],
    "6bfd6e38b7"
+  ],
+  [
+   "2026-11-11T14:45:46.432352+00:00",
+   [
+    "assert",
+    "blatant",
+    "criminality",
+    "cross",
+    "democrat",
+    "democratic",
+    "harass",
+    "hous",
+    "investigation",
+    "lin",
+    "oversight",
+    "staff",
+    "warn",
+    "whit"
+   ],
+   "8589cd79f0"
   ]
  ],
- "last_draft_at": "2026-11-11T14:30:26.653960+00:00",
+ "last_draft_at": "2026-11-11T14:45:24.707370+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-11T14:00:31.371741+00:00",
  "run_log": [
-  "11-11 12:15:21 run start",
-  "11-11 12:15:38 listening 11 min",
-  "11-11 12:26:53 listening done",
-  "11-11 12:26:53 run end after 691 s",
   "11-11 12:30:27 run start",
   "11-11 12:30:38 listening 11 min",
   "11-11 12:41:58 listening done",
@@ -19615,12 +19696,15 @@
   "11-11 14:30:25 run start",
   "11-11 14:32:15 listening 10 min",
   "11-11 14:41:54 listening done",
-  "11-11 14:41:54 run end after 689 s"
+  "11-11 14:41:54 run end after 689 s",
+  "11-11 14:45:24 run start",
+  "11-11 14:45:46 listening 11 min",
+  "11-11 14:57:06 listening done",
+  "11-11 14:57:06 run end after 702 s"
  ],
  "day_pack_done": "2026-11-10",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Lewis_Hamilton_Integralhelm_2018.jpg/1280px-Lewis_Hamilton_Integralhelm_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Prince_Harry_at_Canterbury_University_%2817547607621%29.jpg/1280px-Prince_Harry_at_Canterbury_University_%2817547607621%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Meghan_Markle_%28Paley_Center_%27Suits%27%29.jpg/1280px-Meghan_Markle_%28Paley_Center_%27Suits%27%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Singapore_Old-Supreme-Court-Building-01.jpg/1920px-Singapore_Old-Supreme-Court-Building-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -19659,7 +19743,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Madrid_Metro_Sol_Station_030.jpg/1920px-Madrid_Metro_Sol_Station_030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/View_of_the_Pentagon_from_the_Navy_Annex_minutes_after_a_hijacked_jetliner_crashed_into_building_at_approximately_0930_on_September_11%2C_2001_010911-M-CI426-007.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Buenos_Aires_Skyline_in_Color.jpg/1920px-Buenos_Aires_Skyline_in_Color.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Buenos_Aires_Skyline_in_Color.jpg/1920px-Buenos_Aires_Skyline_in_Color.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Iowa_Senate_chamber_03.jpg/1920px-Iowa_Senate_chamber_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -22343,7 +22428,6 @@
    }
   },
   "recent_ideas": [
-   "capitol hill",
    "tower of david",
    "us capitol dome",
    "robert f. kennedy department of justice building",
@@ -22354,7 +22438,8 @@
    "federal courthouse, united states",
    "madrid metro station",
    "pentagon building",
-   "buenos aires skyline"
+   "buenos aires skyline",
+   "senate chamber"
   ]
  }
 }
