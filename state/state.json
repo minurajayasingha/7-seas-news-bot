@@ -16159,6 +16159,69 @@
    "status": "pending",
    "tg_message_id": 377,
    "tg_file_id": "AgACAgUAAxkDAAIBeWr03oWfJiBr6HaRMIB8p9d1HRjNAAIMEmsbSxqpVzpBLU1Ecx0ZAQADAgADdwADPQQ"
+  },
+  "dbb5db25ae": {
+   "id": "dbb5db25ae",
+   "headline": "Home heating costs will rise this winter",
+   "summary": "According to new data, home heating costs will increase by roughly 7.1 percent compared to last year. American households will spend an average of $1,002 on heating this winter.",
+   "label": "ECONOMY",
+   "hook": "How will these increased heating costs affect your household budget this winter?",
+   "key_points": [
+    "Home heating costs will rise by 7.1 percent.",
+    "American households will spend an average of $1,002.",
+    "Costs will increase by $66 from 2025."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#HeatingCosts",
+    "#Economy",
+    "#Winter"
+   ],
+   "sources": [
+    "New York Times",
+    "The Hill"
+   ],
+   "link": "https://thehill.com/policy/energy-environment/6214369-home-heating-costs-rise/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/policy/energy-environment/6214369-home-heating-costs-rise/"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/11/business/energy-environment/winter-heating-oil-costs.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/View_of_Port_of_Los_Angeles_with_container_ships.jpg/1920px-View_of_Port_of_Los_Angeles_with_container_ships.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Downtowngal / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Home heating costs will rise this winter",
+    "people": [],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "American home exterior",
+     "home thermostat",
+     "heating oil tank",
+     "winter snow scene"
+    ],
+    "image_style": "scene",
+    "location": "US"
+   },
+   "created_at": "2026-11-11T21:45:39.845852+00:00",
+   "news_time": "2026-11-11T17:16:17+00:00",
+   "news_latest": "2026-11-11T21:40:53+00:00",
+   "caption": "Home heating costs will rise this winter\n\nAccording to new data, home heating costs will increase by roughly 7.1 percent compared to last year. American households will spend an average of $1,002 on heating this winter.\n\n💬 How will these increased heating costs affect your household budget this winter?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#HeatingCosts #Economy #Winter #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 378,
+   "tg_file_id": "AgACAgUAAxkDAAIBemr04g7i-Q9SiPcCg4kZ1PTD5mx7AAIPEmsbSxqpV2J08Fx2ziTUAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -16757,7 +16820,9 @@
   "https://thehill.com/policy/defense/6214248-pete-hegseth-decorum-army-sentinel-veterans-day-tomb-unknown-soldier/",
   "https://www.washingtonexaminer.com/news/house/4800597/thomas-massie-epstein-files-petition-vote/",
   "https://thehill.com/homenews/house/6214408-massie-epstein-files-discharge-petition/",
-  "https://www.cbsnews.com/news/epstein-files-bill-discharge-petition-thomas-massie/"
+  "https://www.cbsnews.com/news/epstein-files-bill-discharge-petition-thomas-massie/",
+  "https://thehill.com/policy/energy-environment/6214369-home-heating-costs-rise/",
+  "https://www.nytimes.com/2026/11/11/business/energy-environment/winter-heating-oil-costs.html"
  ],
  "recent_topics": [
   [
@@ -19989,19 +20054,28 @@
     "vot"
    ],
    "01f29d526a"
+  ],
+  [
+   "2026-11-11T21:45:51.129888+00:00",
+   [
+    "averag",
+    "cost",
+    "heat",
+    "percent",
+    "ris",
+    "set",
+    "winter"
+   ],
+   "dbb5db25ae"
   ]
  ],
- "last_draft_at": "2026-11-11T21:30:25.274805+00:00",
+ "last_draft_at": "2026-11-11T21:45:21.961492+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-11T21:00:39.056827+00:00",
  "run_log": [
-  "11-11 18:45:22 run start",
-  "11-11 18:45:33 listening 11 min",
-  "11-11 18:56:53 listening done",
-  "11-11 18:56:53 run end after 691 s",
   "11-11 19:00:31 run start",
   "11-11 19:01:23 listening 11 min",
   "11-11 19:12:10 listening done",
@@ -20037,12 +20111,15 @@
   "11-11 21:30:24 run start",
   "11-11 21:30:46 listening 11 min",
   "11-11 21:42:04 listening done",
-  "11-11 21:42:04 run end after 699 s"
+  "11-11 21:42:04 run end after 699 s",
+  "11-11 21:45:21 run start",
+  "11-11 21:45:51 listening 11 min",
+  "11-11 21:57:11 listening done",
+  "11-11 21:57:11 run end after 709 s"
  ],
  "day_pack_done": "2026-11-10",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Pete_Hegseth_%2851772585499%29.jpg/1280px-Pete_Hegseth_%2851772585499%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/9/96/Tower_of_David_at_dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/John_Cornyn_official_portrait.jpg/1280px-John_Cornyn_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/7/70/James_Talarico_Press_Conference_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -20081,7 +20158,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/USS_Gerald_R._Ford_%28CVN_78%29_shock_ttrial_1.jpg/1920px-USS_Gerald_R._Ford_%28CVN_78%29_shock_ttrial_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Pete_Hegseth_%2851772824725%29.jpg/1280px-Pete_Hegseth_%2851772824725%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/House_of_Representatives_Chamber%2C_Idaho_State_Capitol.jpg/1920px-House_of_Representatives_Chamber%2C_Idaho_State_Capitol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Thomas_Massie_%288560522401%29.jpg/1280px-Thomas_Massie_%288560522401%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Thomas_Massie_%288560522401%29.jpg/1280px-Thomas_Massie_%288560522401%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/View_of_Port_of_Los_Angeles_with_container_ships.jpg/1920px-View_of_Port_of_Los_Angeles_with_container_ships.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -22797,7 +22875,6 @@
    }
   },
   "recent_ideas": [
-   "buenos aires skyline",
    "senate chamber",
    "early voting, united states",
    "capitol hill",
@@ -22808,7 +22885,8 @@
    "us capitol building",
    "ballot box, united states",
    "uss gerald r. ford",
-   "house of representatives chamber"
+   "house of representatives chamber",
+   "port of los angeles"
   ]
  },
  "comment_perm_told": true
