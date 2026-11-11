@@ -17615,18 +17615,13 @@
    "9d03cbe8de"
   ]
  ],
- "last_draft_at": "2026-11-11T00:45:21.252046+00:00",
+ "last_draft_at": "2026-11-11T01:00:54.666169+00:00",
  "last_slot": "2026-11-10T18:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-11T00:00:30.127331+00:00",
+ "last_stats_at": "2026-11-11T01:00:28.245843+00:00",
  "run_log": [
-  "11-10 22:32:42 run start",
-  "11-10 22:32:58 listening 11 min",
-  "11-10 22:44:16 listening done",
-  "11-10 22:44:16 run end after 694 s",
-  "11-10 22:45:21 run start",
   "11-10 22:45:32 listening 11 min",
   "11-10 22:56:52 listening done",
   "11-10 22:56:52 run end after 690 s",
@@ -17661,7 +17656,12 @@
   "11-11 00:45:20 run start",
   "11-11 00:45:31 listening 11 min",
   "11-11 00:56:51 listening done",
-  "11-11 00:56:51 run end after 690 s"
+  "11-11 00:56:51 run end after 690 s",
+  "11-11 01:00:27 run start",
+  "11-11 01:01:04 listening 11 min",
+  "11-11 01:12:39 listen error: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60)",
+  "11-11 01:12:49 listening done",
+  "11-11 01:12:49 run end after 742 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
