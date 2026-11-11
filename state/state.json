@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892905,
+ "tg_offset": 495892907,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -14871,9 +14871,11 @@
    "news_time": "2026-11-11T07:32:18+00:00",
    "news_latest": "2026-11-11T07:54:54+00:00",
    "caption": "DNA confirms four grizzly bears killed two women in Canada\n\nWildlife officials in Canada stated that DNA evidence links four grizzly bears to a deadly attack on a mother and her adult daughter. Investigators describe the incident along a hiking trail in British Columbia as a rare predatory attack.\n\n📖 Read more: https://www.independent.co.uk/news/world/americas/grizzly-bear-attack-bella-coola-b3082897.html\n\n#Canada #Wildlife #WorldNews #7SeasNews",
-   "status": "pending",
+   "status": "replaced",
    "tg_message_id": 333,
-   "tg_file_id": "AgACAgUAAxkDAAIBTWr0INsf-0jKCmQzS8z_cvdr3UFZAAIyFWsbSxqhV7Te734XV3-eAQADAgADdwADPQQ"
+   "tg_file_id": "AgACAgUAAxkDAAIBTWr0INsf-0jKCmQzS8z_cvdr3UFZAAIyFWsbSxqhV7Te734XV3-eAQADAgADdwADPQQ",
+   "extra_msgs": [],
+   "cleared": true
   },
   "adef82c376": {
    "id": "adef82c376",
@@ -14932,6 +14934,78 @@
    "status": "pending",
    "tg_message_id": 334,
    "tg_file_id": "AgACAgUAAxkDAAIBTmr0LtWO7lQ9JlTMSGjEqNaP0-yeAAJIFWsbSxqhV6_Lhijmj2ZSAQADAgADdwADPQQ"
+  },
+  "d2a57a2109": {
+   "id": "d2a57a2109",
+   "headline": "DNA confirms four grizzly bears killed two women in Canada",
+   "summary": "Wildlife officials in Canada stated that DNA evidence links four grizzly bears to a deadly attack on a mother and her adult daughter. Investigators describe the incident along a hiking trail in British Columbia as a rare predatory attack.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Four grizzly bears were captured and killed by authorities.",
+    "The victims were a mother and her adult daughter.",
+    "The attack occurred along a hiking trail in British Columbia."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Canada",
+    "#Wildlife",
+    "#WorldNews"
+   ],
+   "sources": [
+    "New York Times",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/americas/grizzly-bear-attack-bella-coola-b3082897.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/grizzly-bear-attack-bella-coola-b3082897.html"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/10/world/canada/british-columbia-bear-attack.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "tg_file_id": "AgACAgUAAxkBAAIBT2r0OAKwhMOWnZvyiWBH7BA1VS_JAAJcFWsbSxqhV2Eu2h0kcWeCAQADAgADeQADPQQ",
+      "credit": ""
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "DNA confirms four grizzly bears killed two women in Canada",
+    "people": [],
+    "image_query": "British Columbia wilderness",
+    "image_queries": [
+     "Canadian forest trail",
+     "grizzly bear habitat",
+     "British Columbia mountains",
+     "Canadian wildlife region"
+    ],
+    "image_style": "incident",
+    "location": "British Columbia, Canada"
+   },
+   "created_at": "2026-11-11T09:40:18.389715+00:00",
+   "news_time": "2026-11-11T07:32:18+00:00",
+   "news_latest": "2026-11-11T07:54:54+00:00",
+   "caption": "DNA confirms four grizzly bears killed two women in Canada\n\nWildlife officials in Canada stated that DNA evidence links four grizzly bears to a deadly attack on a mother and her adult daughter. Investigators describe the incident along a hiking trail in British Columbia as a rare predatory attack.\n\n📖 Read more: https://www.independent.co.uk/news/world/americas/grizzly-bear-attack-bella-coola-b3082897.html\n\n#Canada #Wildlife #WorldNews #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 336,
+   "tg_file_id": "AgACAgUAAxkDAAIBUGr0OAXi6wT2G1yWue0JxWax2JwDAAJdFWsbSxqhVz_pVduMMqP1AQADAgADdwADPQQ",
+   "queued_at": "2026-11-11T09:40:28.663944+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122098377765548584",
+   "posted_at": "2026-11-11T09:40:28.949448+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 11 · 4:40 AM New York · 3:10 PM Sri Lanka\n\n<b>DNA confirms four grizzly bears killed two women in Canada</b>\n<i>New York Times, The Independent</i>\n🟡 <b>Latest:</b> 1:24 PM Sri Lanka (1h 45m ago) · first reported 1:02 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098377765548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 161,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true
   }
  },
  "seen_links": [
@@ -18791,17 +18865,13 @@
    "adef82c376"
   ]
  ],
- "last_draft_at": "2026-11-11T09:24:05.735841+00:00",
+ "last_draft_at": "2026-11-11T09:35:47.688758+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-11T09:00:31.395810+00:00",
  "run_log": [
-  "11-11 07:15:20 run start",
-  "11-11 07:15:31 listening 11 min",
-  "11-11 07:26:50 listening done",
-  "11-11 07:26:50 run end after 690 s",
   "11-11 07:30:26 run start",
   "11-11 07:30:36 listening 11 min",
   "11-11 07:41:56 listening done",
@@ -18837,7 +18907,11 @@
   "11-11 09:24:05 run start",
   "11-11 09:24:16 listening 11 min",
   "11-11 09:35:35 listening done",
-  "11-11 09:35:35 run end after 689 s"
+  "11-11 09:35:35 run end after 689 s",
+  "11-11 09:35:47 run start",
+  "11-11 09:35:57 listening 11 min",
+  "11-11 09:47:22 listening done",
+  "11-11 09:47:22 run end after 695 s"
  ],
  "day_pack_done": "2026-11-10",
  "photo_memory": {
