@@ -14874,6 +14874,64 @@
    "status": "pending",
    "tg_message_id": 333,
    "tg_file_id": "AgACAgUAAxkDAAIBTWr0INsf-0jKCmQzS8z_cvdr3UFZAAIyFWsbSxqhV7Te734XV3-eAQADAgADdwADPQQ"
+  },
+  "adef82c376": {
+   "id": "adef82c376",
+   "headline": "Abu Dhabi trilateral talks continue as Russia and Ukraine exchange strikes",
+   "summary": "Trilateral talks between Russia, Ukraine, and US mediators continue in Abu Dhabi. Meanwhile, Russia and Ukraine exchanged strikes, and Baltic nations issued drone alerts.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Trilateral talks continue in Abu Dhabi.",
+    "Russia and Ukraine exchange strikes.",
+    "Baltic nations issue drone alerts."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#WorldNews",
+    "#UkraineRussiaWar",
+    "#AbuDhabi"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "The Guardian"
+   ],
+   "link": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
+   "links": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/11/russia-claims-interception-of-146-drones-in-leningrad-region?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Abu Dhabi, United Arab Emirates"
+   },
+   "img_post": {
+    "headline": "Abu Dhabi trilateral talks continue as Russia and Ukraine exchange strikes",
+    "people": [],
+    "image_query": "Abu Dhabi skyline",
+    "image_queries": [
+     "Baltic coastline",
+     "Kyiv city",
+     "Moscow city",
+     "United Arab Emirates landscape"
+    ],
+    "image_style": "incident",
+    "location": "Abu Dhabi, United Arab Emirates"
+   },
+   "created_at": "2026-11-11T09:01:07.679736+00:00",
+   "news_time": "2026-11-11T04:34:47+00:00",
+   "news_latest": "2026-11-11T08:44:46+00:00",
+   "caption": "Abu Dhabi trilateral talks continue as Russia and Ukraine exchange strikes\n\nTrilateral talks between Russia, Ukraine, and US mediators continue in Abu Dhabi. Meanwhile, Russia and Ukraine exchanged strikes, and Baltic nations issued drone alerts.\n\n📖 Read more: https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates\n\n#WorldNews #UkraineRussiaWar #AbuDhabi #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 334,
+   "tg_file_id": "AgACAgUAAxkDAAIBTmr0LtWO7lQ9JlTMSGjEqNaP0-yeAAJIFWsbSxqhV6_Lhijmj2ZSAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -15396,7 +15454,9 @@
   "https://www.newsweek.com/protesters-throw-milk-at-joe-biden-in-dublin-blood-on-your-hands-12698156",
   "https://www.aljazeera.com/video/newsfeed/2026/11/11/protesters-throw-milk-at-joe-biden-during-hunter-event-in-dublin?traffic_source=rss",
   "https://www.independent.co.uk/news/world/americas/grizzly-bear-attack-bella-coola-b3082897.html",
-  "https://www.nytimes.com/2026/11/10/world/canada/british-columbia-bear-attack.html"
+  "https://www.nytimes.com/2026/11/10/world/canada/british-columbia-bear-attack.html",
+  "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
+  "https://www.aljazeera.com/news/2026/11/11/russia-claims-interception-of-146-drones-in-leningrad-region?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -18793,19 +18853,39 @@
     "rar"
    ],
    "291b7687a6"
+  ],
+  [
+   "2026-11-11T09:01:10.206089+00:00",
+   [
+    "alert",
+    "approach",
+    "baltic",
+    "dron",
+    "enter",
+    "envoy",
+    "europ",
+    "exchang",
+    "happy",
+    "issu",
+    "liv",
+    "nation",
+    "russia",
+    "second",
+    "strik",
+    "talk",
+    "ukrain",
+    "zelenskyy"
+   ],
+   "adef82c376"
   ]
  ],
- "last_draft_at": "2026-11-11T08:45:20.874588+00:00",
+ "last_draft_at": "2026-11-11T09:00:54.990000+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-11T08:00:29.339395+00:00",
+ "last_stats_at": "2026-11-11T09:00:31.395810+00:00",
  "run_log": [
-  "11-11 06:30:26 run start",
-  "11-11 06:30:37 listening 11 min",
-  "11-11 06:41:56 listening done",
-  "11-11 06:41:56 run end after 689 s",
   "11-11 06:45:23 run start",
   "11-11 06:45:32 listening 11 min",
   "11-11 06:56:51 listening done",
@@ -18841,7 +18921,11 @@
   "11-11 08:45:20 run start",
   "11-11 08:45:30 listening 11 min",
   "11-11 08:56:50 listening done",
-  "11-11 08:56:50 run end after 689 s"
+  "11-11 08:56:50 run end after 689 s",
+  "11-11 09:00:30 run start",
+  "11-11 09:01:10 listening 11 min",
+  "11-11 09:12:04 listening done",
+  "11-11 09:12:04 run end after 694 s"
  ],
  "day_pack_done": "2026-11-10",
  "photo_memory": {
