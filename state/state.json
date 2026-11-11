@@ -15076,6 +15076,69 @@
    "status": "pending",
    "tg_message_id": 337,
    "tg_file_id": "AgACAgUAAxkDAAIBUWr0POC6Y_Q4RR7oVqiiqRpJxpDEAAJpFWsbSxqhV4En3_yi0VHJAQADAgADdwADPQQ"
+  },
+  "0434155b7b": {
+   "id": "0434155b7b",
+   "headline": "Spain stages first general strike in 14 years over housing crisis",
+   "summary": "Millions of Spanish workers walked off the job on Wednesday to protest high housing costs and the rising cost of living. The strike caused widespread business closures and disrupted public transit. The action comes less than three weeks before a snap election that could bring the far right to power.",
+   "label": "ECONOMY",
+   "hook": "Will housing and living costs determine the outcome of Spain's upcoming election?",
+   "key_points": [
+    "First general strike held in Spain in 14 years",
+    "Workers demand government action on housing costs and living expenses",
+    "Strike occurs less than three weeks before national snap elections"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Spain",
+    "#GeneralStrike",
+    "#HousingCrisis"
+   ],
+   "sources": [
+    "France 24",
+    "NPR"
+   ],
+   "link": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike",
+   "links": [
+    [
+     "NPR",
+     "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/europe/20261111-spain-general-strike-puts-housing-crisis-centre-upcoming-elections"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Madrid_Metro_Sol_Station_030.jpg/1920px-Madrid_Metro_Sol_Station_030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Panhard / Wikimedia Commons (CC BY 2.5)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Spain stages first general strike in 14 years over housing crisis",
+    "people": [],
+    "image_query": "Madrid city street",
+    "image_queries": [
+     "Madrid skyline",
+     "Spain parliament building",
+     "Madrid metro station",
+     "Barcelona city street"
+    ],
+    "image_style": "scene",
+    "location": "Spain"
+   },
+   "created_at": "2026-11-11T10:15:40.936663+00:00",
+   "news_time": "2026-11-11T08:29:33+00:00",
+   "news_latest": "2026-11-11T09:54:54+00:00",
+   "caption": "Spain stages first general strike in 14 years over housing crisis\n\nMillions of Spanish workers walked off the job on Wednesday to protest high housing costs and the rising cost of living. The strike caused widespread business closures and disrupted public transit. The action comes less than three weeks before a snap election that could bring the far right to power.\n\n💬 Will housing and living costs determine the outcome of Spain's upcoming election?\n\n📖 Read more: https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike\n\n#Spain #GeneralStrike #HousingCrisis #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 338,
+   "tg_file_id": "AgACAgUAAxkDAAIBUmr0QE-7ww0NNqD8I8CU4h4tjDk3AAJtFWsbSxqhV_UCLB73cLmeAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -15602,7 +15665,9 @@
   "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
   "https://www.aljazeera.com/news/2026/11/11/russia-claims-interception-of-146-drones-in-leningrad-region?traffic_source=rss",
   "https://www.upi.com/Top_News/US/2026/11/11/judge-advances-Trump-Bdefamatino-lawsuit/6831794386951/",
-  "https://news.sky.com/story/bbc-bid-to-throw-out-donald-trumps-defamation-case-dismissed-in-court-13610819"
+  "https://news.sky.com/story/bbc-bid-to-throw-out-donald-trumps-defamation-case-dismissed-in-court-13610819",
+  "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike",
+  "https://www.france24.com/en/europe/20261111-spain-general-strike-puts-housing-crisis-centre-upcoming-elections"
  ],
  "recent_topics": [
   [
@@ -18935,19 +19000,33 @@
     "trump"
    ],
    "db183405ba"
+  ],
+  [
+   "2026-11-11T10:15:44.038793+00:00",
+   [
+    "14",
+    "centr",
+    "crisi",
+    "demand",
+    "election",
+    "general",
+    "hous",
+    "put",
+    "solution",
+    "spain",
+    "strik",
+    "upcom"
+   ],
+   "0434155b7b"
   ]
  ],
- "last_draft_at": "2026-11-11T10:00:49.023873+00:00",
+ "last_draft_at": "2026-11-11T10:15:20.008021+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-11T10:00:28.358308+00:00",
  "run_log": [
-  "11-11 08:00:28 run start",
-  "11-11 08:01:32 listening 10 min",
-  "11-11 08:11:55 listening done",
-  "11-11 08:11:55 run end after 686 s",
   "11-11 08:15:19 run start",
   "11-11 08:15:29 listening 11 min",
   "11-11 08:26:48 listening done",
@@ -18983,12 +19062,15 @@
   "11-11 10:00:27 run start",
   "11-11 10:01:04 listening 11 min",
   "11-11 10:12:02 listening done",
-  "11-11 10:12:02 run end after 694 s"
+  "11-11 10:12:02 run end after 694 s",
+  "11-11 10:15:19 run start",
+  "11-11 10:15:44 listening 11 min",
+  "11-11 10:27:02 listening done",
+  "11-11 10:27:02 run end after 702 s"
  ],
  "day_pack_done": "2026-11-10",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_12.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Rafah_Border_Crossing_before_the_Gaza_War_2023-2025.jpg/1920px-Rafah_Border_Crossing_before_the_Gaza_War_2023-2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Lewis_Hamilton_Integralhelm_2018.jpg/1280px-Lewis_Hamilton_Integralhelm_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -19027,7 +19109,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Dublin_architecture-_Georgian.jpg/1920px-Dublin_architecture-_Georgian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Attendees_applaud_as_President_Barack_Obama_acknowledges_Vice_President_Joe_Biden%2C_2014.jpg/1280px-Attendees_applaud_as_President_Barack_Obama_acknowledges_Vice_President_Joe_Biden%2C_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/8/8e/William_Augustus_Bootle_Federal_Building_and_United_States_Courthouse%2C_Macon%2C_GA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Madrid_Metro_Sol_Station_030.jpg/1920px-Madrid_Metro_Sol_Station_030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -21711,7 +21794,6 @@
    }
   },
   "recent_ideas": [
-   "moscow street",
    "privy council london",
    "u.s. embassy london",
    "capitol hill",
@@ -21722,7 +21804,8 @@
    "thurgood marshall federal judiciary building",
    "corporate office building",
    "dublin architecture",
-   "federal courthouse, united states"
+   "federal courthouse, united states",
+   "madrid metro station"
   ]
  }
 }
