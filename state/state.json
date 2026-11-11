@@ -12673,9 +12673,11 @@
    "news_time": "2026-11-10T15:53:59+00:00",
    "news_latest": "2026-11-10T17:12:06+00:00",
    "caption": "Jason Watford charged with murder after cruise ship death\n\nAuthorities charged Jason Watford with murder following a death on a cruise ship in Texas. Prosecutors state a housekeeper discovered the suspect with blood on his hands after an argument.\n\n📖 Read more: https://www.newsweek.com/who-is-jason-watford-what-to-know-about-cruise-ship-homicide-suspect-12694424\n\n#CruiseShip #News #Crime #7SeasNews",
-   "status": "pending",
+   "status": "expired",
    "tg_message_id": 297,
-   "tg_file_id": "AgACAgUAAxkDAAIBKWrzX02YW1gEbJVcd-7OpGdg-2bjAALsFWsbi0-YV-T8x-uNB0tJAQADAgADdwADPQQ"
+   "tg_file_id": "AgACAgUAAxkDAAIBKWrzX02YW1gEbJVcd-7OpGdg-2bjAALsFWsbi0-YV-T8x-uNB0tJAQADAgADdwADPQQ",
+   "extra_msgs": [],
+   "cleared": true
   },
   "29693a3a86": {
    "id": "29693a3a86",
@@ -14336,7 +14338,9 @@
   "https://www.upi.com/Top_News/US/2026/11/10/nyc-central-park-rapes-arrest/3371794351323/",
   "https://www.nbcnews.com/news/us-news/suspected-central-park-serial-rapist-arrested-florida-nypd-says-rcna608618",
   "https://www.npr.org/2026/11/10/nx-s1-6035872/house-gop-report-critical-of-epstein-investigation",
-  "https://www.nbcnews.com/politics/congress/house-republican-report-epstein-justice-department-investigation-trump-rcna608548"
+  "https://www.nbcnews.com/politics/congress/house-republican-report-epstein-justice-department-investigation-trump-rcna608548",
+  "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+  "https://www.theguardian.com/us-news/2026/nov/10/prosecutors-charge-iranian-operative-uk-air-force-attack"
  ],
  "recent_topics": [
   [
@@ -17615,16 +17619,13 @@
    "9d03cbe8de"
   ]
  ],
- "last_draft_at": "2026-11-11T01:00:54.666169+00:00",
+ "last_draft_at": "2026-11-11T01:15:20.323788+00:00",
  "last_slot": "2026-11-10T18:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-11T01:00:28.245843+00:00",
  "run_log": [
-  "11-10 22:45:32 listening 11 min",
-  "11-10 22:56:52 listening done",
-  "11-10 22:56:52 run end after 690 s",
   "11-10 23:00:32 run start",
   "11-10 23:01:11 listening 11 min",
   "11-10 23:12:05 listening done",
@@ -17661,7 +17662,10 @@
   "11-11 01:01:04 listening 11 min",
   "11-11 01:12:39 listen error: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60)",
   "11-11 01:12:49 listening done",
-  "11-11 01:12:49 run end after 742 s"
+  "11-11 01:12:49 run end after 742 s",
+  "11-11 01:15:19 run start",
+  "11-11 01:16:32 run error: ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60)",
+  "11-11 01:16:33 run end after 74 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
