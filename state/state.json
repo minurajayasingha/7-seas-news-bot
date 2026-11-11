@@ -13774,6 +13774,69 @@
    "status": "pending",
    "tg_message_id": 313,
    "tg_file_id": "AgACAgUAAxkDAAIBOWrzsEmZXMEtup532bT8WtjhszbyAAJZEWsbi0-gV6GVP_3OW57TAQADAgADdwADPQQ"
+  },
+  "9d03cbe8de": {
+   "id": "9d03cbe8de",
+   "headline": "Kennedy family joins lawsuit to block Trump arch",
+   "summary": "The Kennedy family has joined an existing lawsuit to block President Trump from building a 250-foot-tall arch in Washington, D.C. An analysis found the planned structure would cast a shadow on JFK's eternal flame and memorial.",
+   "label": "US POLITICS",
+   "hook": "Should the lawsuit succeed in stopping the construction of the arch?",
+   "key_points": [
+    "Kennedy family joins existing lawsuit against Trump arch.",
+    "Arch would cast shadow on JFK eternal flame.",
+    "Planned structure in Washington, D.C. is 250 feet tall."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#WashingtonDC",
+    "#News"
+   ],
+   "sources": [
+    "NBC News",
+    "Washington Post"
+   ],
+   "link": "https://www.washingtonpost.com/politics/2026/11/10/kennedy-family-sues-stop-trumps-arch-citing-shadow-jfk-grave/",
+   "links": [
+    [
+     "Washington Post",
+     "https://www.washingtonpost.com/politics/2026/11/10/kennedy-family-sues-stop-trumps-arch-citing-shadow-jfk-grave/"
+    ],
+    [
+     "NBC News",
+     "https://www.nbcnews.com/video/kennedy-family-moves-to-block-trump-s-triumphal-arch-273240645790"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Ron Cogswell from Arlington, Virginia, USA / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Kennedy family joins lawsuit to block Trump arch",
+    "people": [],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Washington DC skyline",
+     "Arlington National Cemetery",
+     "White House",
+     "Supreme Court building"
+    ],
+    "image_style": "scene",
+    "location": "Washington, US"
+   },
+   "created_at": "2026-11-11T00:30:44.423756+00:00",
+   "news_time": "2026-11-11T00:19:52+00:00",
+   "news_latest": "2026-11-11T00:27:26+00:00",
+   "caption": "Kennedy family joins lawsuit to block Trump arch\n\nThe Kennedy family has joined an existing lawsuit to block President Trump from building a 250-foot-tall arch in Washington, D.C. An analysis found the planned structure would cast a shadow on JFK's eternal flame and memorial.\n\n💬 Should the lawsuit succeed in stopping the construction of the arch?\n\n📖 Read more: https://www.washingtonpost.com/politics/2026/11/10/kennedy-family-sues-stop-trumps-arch-citing-shadow-jfk-grave/\n\n#USPolitics #WashingtonDC #News #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 314,
+   "tg_file_id": "AgACAgUAAxkDAAIBOmrztzf-AUUgejb5VrUTCTQZwUWFAAJdEWsbi0-gVzqpwcOTXkIWAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -14267,7 +14330,13 @@
   "https://www.washingtonexaminer.com/news/senate/4799421/trump-drops-lee-rudofsky-arkansas-senators-choosing-cody-hiland-instead/",
   "https://www.nytimes.com/2026/11/10/us/politics/trump-colorado-transgender.html",
   "https://www.newsweek.com/trump-reportedly-wants-male-press-secretary-ferguson-jennings-odds-rising-12697123",
-  "https://www.foxnews.com/politics/trump-closing-new-press-secretary-admin-officials-push-pick-break-mold"
+  "https://www.foxnews.com/politics/trump-closing-new-press-secretary-admin-officials-push-pick-break-mold",
+  "https://www.washingtonpost.com/politics/2026/11/10/kennedy-family-sues-stop-trumps-arch-citing-shadow-jfk-grave/",
+  "https://www.nbcnews.com/video/kennedy-family-moves-to-block-trump-s-triumphal-arch-273240645790",
+  "https://www.upi.com/Top_News/US/2026/11/10/nyc-central-park-rapes-arrest/3371794351323/",
+  "https://www.nbcnews.com/news/us-news/suspected-central-park-serial-rapist-arrested-florida-nypd-says-rcna608618",
+  "https://www.npr.org/2026/11/10/nx-s1-6035872/house-gop-report-critical-of-epstein-investigation",
+  "https://www.nbcnews.com/politics/congress/house-republican-report-epstein-justice-department-investigation-trump-rcna608548"
  ],
  "recent_topics": [
   [
@@ -17519,19 +17588,40 @@
     "want"
    ],
    "a2824df62f"
+  ],
+  [
+   "2026-11-11T00:30:47.638912+00:00",
+   [
+    "arch",
+    "block",
+    "cit",
+    "denigration",
+    "family",
+    "grav",
+    "gravesit",
+    "jfk",
+    "join",
+    "kennedy",
+    "mar",
+    "mov",
+    "permanent",
+    "shadow",
+    "stop",
+    "sue",
+    "suit",
+    "triumphal",
+    "trump"
+   ],
+   "9d03cbe8de"
   ]
  ],
- "last_draft_at": "2026-11-11T00:15:19.639375+00:00",
+ "last_draft_at": "2026-11-11T00:30:26.901883+00:00",
  "last_slot": "2026-11-10T18:00:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-11T00:00:30.127331+00:00",
  "run_log": [
-  "11-10 22:09:11 run start",
-  "11-10 22:09:29 listening 11 min",
-  "11-10 22:20:48 listening done",
-  "11-10 22:20:48 run end after 696 s",
   "11-10 22:21:03 run start",
   "11-10 22:22:51 listening 10 min",
   "11-10 22:32:30 listening done",
@@ -17567,12 +17657,15 @@
   "11-11 00:15:19 run start",
   "11-11 00:15:28 listening 11 min",
   "11-11 00:26:47 listening done",
-  "11-11 00:26:47 run end after 687 s"
+  "11-11 00:26:47 run end after 687 s",
+  "11-11 00:30:26 run start",
+  "11-11 00:32:24 listening 10 min",
+  "11-11 00:42:03 listening done",
+  "11-11 00:42:03 run end after 697 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Port_of_Los_Angeles%2C_San_Pedro%2C_California_%286026501161%29.jpg/1920px-Port_of_Los_Angeles%2C_San_Pedro%2C_California_%286026501161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Dalian_Liaoning_China_Military-Air-Base-01.jpg/1920px-Dalian_Liaoning_China_Military-Air-Base-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Stephen_Miller_%2854360303177%29_%28cropped%29.jpg/1280px-Stephen_Miller_%2854360303177%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Thomas_Massie_%288561647254%29.jpg/1280px-Thomas_Massie_%288561647254%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -17611,7 +17704,8 @@
    "https://upload.wikimedia.org/wikipedia/commons/9/9f/Lee_Philip_Rudofsky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://upload.wikimedia.org/wikipedia/commons/5/55/Donald_Trump_by_Gage_Skidmore_4_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Ben_Ferguson_in_About_Time.jpg/1280px-Ben_Ferguson_in_About_Time.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Ben_Ferguson_in_About_Time.jpg/1280px-Ben_Ferguson_in_About_Time.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -20273,7 +20367,6 @@
    }
   },
   "recent_ideas": [
-   "capitol at night",
    "national mall washington dc",
    "rafah border crossing",
    "supreme court building",
@@ -20284,7 +20377,8 @@
    "tower of david",
    "us capitol dome",
    "robert f. kennedy department of justice building",
-   "federal courthouse"
+   "federal courthouse",
+   "thurgood marshall federal judiciary building"
   ]
  }
 }
