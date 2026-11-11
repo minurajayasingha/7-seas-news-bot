@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892900,
+ "tg_offset": 495892902,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -13227,9 +13227,11 @@
    "news_time": "2026-11-10T20:28:53+00:00",
    "news_latest": "2026-11-10T20:39:37+00:00",
    "caption": "Bernie Sanders and Elissa Slotkin oppose Chuck Schumer for Senate leader\n\nSen. Bernie Sanders and Sen. Elissa Slotkin announced they will not support Sen. Chuck Schumer as Senate Democratic leader in the new Congress. Sanders stated that Schumer has not done enough to address income and wealth inequality.\n\n💬 Will other lawmakers join this opposition against Chuck Schumer's leadership?\n\n📖 Read more: https://www.cbsnews.com/news/bernie-sanders-chuck-schumer-democratic-leader-senate/\n\n#USPolitics #Senate #Congress #7SeasNews",
-   "status": "pending",
+   "status": "replaced",
    "tg_message_id": 304,
-   "tg_file_id": "AgACAgUAAxkDAAIBMGrzgnVm9_llDlWJ1BZwP0du8V8bAAJrFmsbi0-YVwMrpxglRLVIAQADAgADdwADPQQ"
+   "tg_file_id": "AgACAgUAAxkDAAIBMGrzgnVm9_llDlWJ1BZwP0du8V8bAAJrFmsbi0-YVwMrpxglRLVIAQADAgADdwADPQQ",
+   "extra_msgs": [],
+   "cleared": true
   },
   "960f624c6e": {
    "id": "960f624c6e",
@@ -14403,6 +14405,81 @@
    "status": "pending",
    "tg_message_id": 324,
    "tg_file_id": "AgACAgUAAxkDAAIBRGrz6ILCYowzced6IkDjKxuyhJmYAAKuEWsbi0-gV8yeAAGmUpBBswEAAwIAA3cAAz0E"
+  },
+  "934867c278": {
+   "id": "934867c278",
+   "headline": "Bernie Sanders and Elissa Slotkin oppose Chuck Schumer for Senate leader",
+   "summary": "Sen. Bernie Sanders and Sen. Elissa Slotkin announced they will not support Sen. Chuck Schumer as Senate Democratic leader in the new Congress. Sanders stated that Schumer has not done enough to address income and wealth inequality.",
+   "label": "US POLITICS",
+   "hook": "Will other lawmakers join this opposition against Chuck Schumer's leadership?",
+   "key_points": [
+    "Sanders and Slotkin oppose Schumer as Senate Democratic leader",
+    "Sanders cited a lack of action on income and wealth inequality"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Senate",
+    "#Congress"
+   ],
+   "sources": [
+    "CBS News",
+    "The Hill"
+   ],
+   "link": "https://www.cbsnews.com/news/bernie-sanders-chuck-schumer-democratic-leader-senate/",
+   "links": [
+    [
+     "CBS News",
+     "https://www.cbsnews.com/news/bernie-sanders-chuck-schumer-democratic-leader-senate/"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/homenews/6211705-sanders-slotkin-oppose-schumer/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "tg_file_id": "AgACAgUAAxkBAAIBRWrz7gABY7xmAjvB0-k2s5096E1_-wACthFrG4tPoFc9YlGwTKDdhwEAAwIAA3kAAz0E",
+      "credit": ""
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Bernie Sanders and Elissa Slotkin oppose Chuck Schumer for Senate leader",
+    "people": [
+     "Bernie Sanders",
+     "Elissa Slotkin",
+     "Chuck Schumer"
+    ],
+    "image_query": "Senate chamber",
+    "image_queries": [
+     "Capitol Hill",
+     "US Capitol dome",
+     "voting booth",
+     "White House"
+    ],
+    "image_style": "person",
+    "location": "US"
+   },
+   "created_at": "2026-11-11T04:24:32.517269+00:00",
+   "news_time": "2026-11-10T20:28:53+00:00",
+   "news_latest": "2026-11-10T20:39:37+00:00",
+   "caption": "Bernie Sanders and Elissa Slotkin oppose Chuck Schumer for Senate leader\n\nSen. Bernie Sanders and Sen. Elissa Slotkin announced they will not support Sen. Chuck Schumer as Senate Democratic leader in the new Congress. Sanders stated that Schumer has not done enough to address income and wealth inequality.\n\n💬 Will other lawmakers join this opposition against Chuck Schumer's leadership?\n\n📖 Read more: https://www.cbsnews.com/news/bernie-sanders-chuck-schumer-democratic-leader-senate/\n\n#USPolitics #Senate #Congress #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 326,
+   "tg_file_id": "AgACAgUAAxkDAAIBRmrz7guMNGwVn6H5r0AaX5vqfARiAAK3EWsbi0-gV6ZUIUqiA-PIAQADAgADdwADPQQ",
+   "queued_at": "2026-11-11T04:26:47.769297+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122098167993548584",
+   "posted_at": "2026-11-11T04:26:48.084001+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 10 · 11:26 PM New York · 9:56 AM Sri Lanka\n\n<b>Bernie Sanders and Elissa Slotkin oppose Chuck Schumer for Senate leader</b>\n<i>CBS News, The Hill</i>\n🔴 <b>Latest:</b> 2:09 AM Sri Lanka (7h 47m ago) · first reported 1:58 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098167993548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 158,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true
   }
  },
  "seen_links": [
@@ -14918,26 +14995,6 @@
   "https://www.washingtonexaminer.com/news/4799692/car-hits-pedestrians-north-hollywood-crash/"
  ],
  "recent_topics": [
-  [
-   "2026-11-08T04:24:18.505794+00:00",
-   [
-    "blockade",
-    "disrupt",
-    "disrupting",
-    "expands",
-    "force",
-    "ground",
-    "include",
-    "iran",
-    "land-based",
-    "launches",
-    "naval",
-    "routes",
-    "supply",
-    "task",
-    "transport"
-   ]
-  ],
   [
    "2026-11-08T07:22:43.690932+00:00",
    [
@@ -18257,17 +18314,13 @@
    "87481f600c"
   ]
  ],
- "last_draft_at": "2026-11-11T04:00:48.342868+00:00",
+ "last_draft_at": "2026-11-11T04:15:19.084224+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-11T04:00:27.419624+00:00",
  "run_log": [
-  "11-11 01:57:00 run start",
-  "11-11 01:57:32 listening 11 min",
-  "11-11 02:08:27 listening done",
-  "11-11 02:08:27 run end after 686 s",
   "11-11 02:08:38 run start",
   "11-11 02:08:54 listening 11 min",
   "11-11 02:20:12 listening done",
@@ -18303,7 +18356,11 @@
   "11-11 04:00:26 run start",
   "11-11 04:01:07 listening 11 min",
   "11-11 04:12:00 listening done",
-  "11-11 04:12:00 run end after 693 s"
+  "11-11 04:12:00 run end after 693 s",
+  "11-11 04:15:18 run start",
+  "11-11 04:15:29 listening 11 min",
+  "11-11 04:26:53 listening done",
+  "11-11 04:26:53 run end after 695 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
