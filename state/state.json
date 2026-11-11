@@ -14566,21 +14566,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-08T02:44:22.348659+00:00",
-   [
-    "arrest",
-    "custody",
-    "detained",
-    "dramatic",
-    "ice",
-    "patrol",
-    "released",
-    "state",
-    "trooper",
-    "wisconsin"
-   ]
-  ],
-  [
    "2026-11-08T04:24:18.505794+00:00",
    [
     "blockade",
@@ -17883,17 +17868,13 @@
    "4e24202137"
   ]
  ],
- "last_draft_at": "2026-11-11T02:32:43.420498+00:00",
+ "last_draft_at": "2026-11-11T02:45:22.281142+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-11T01:57:00.848249+00:00",
  "run_log": [
-  "11-11 00:30:26 run start",
-  "11-11 00:32:24 listening 10 min",
-  "11-11 00:42:03 listening done",
-  "11-11 00:42:03 run end after 697 s",
   "11-11 00:45:20 run start",
   "11-11 00:45:31 listening 11 min",
   "11-11 00:56:51 listening done",
@@ -17929,7 +17910,11 @@
   "11-11 02:32:31 run start",
   "11-11 02:32:53 listening 11 min",
   "11-11 02:44:09 listening done",
-  "11-11 02:44:09 run end after 697 s"
+  "11-11 02:44:09 run end after 697 s",
+  "11-11 02:45:21 run start",
+  "11-11 02:45:31 listening 11 min",
+  "11-11 02:56:50 listening done",
+  "11-11 02:56:50 run end after 688 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
