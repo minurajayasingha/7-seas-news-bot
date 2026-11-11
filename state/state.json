@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892936,
+ "tg_offset": 495892937,
  "drafts": {
   "c58085b689": {
    "id": "c58085b689",
@@ -15702,9 +15702,19 @@
     "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Warsaw_2023_254_Polish_Flag.jpg/1920px-Warsaw_2023_254_Polish_Flag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Warsaw_2023_115_Nicolaus_Copernicus_Monument.jpg/1920px-Warsaw_2023_115_Nicolaus_Copernicus_Monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    ],
-   "status": "pending",
+   "status": "posted",
    "tg_message_id": 368,
-   "tg_file_id": "AgACAgUAAxkDAAIBcGr0sOYI5b5fmbHbdKTdD-1SReWwAAJwFmsbSxqhV43C91H8f1_iAQADAgADdwADPQQ"
+   "tg_file_id": "AgACAgUAAxkDAAIBcGr0sOYI5b5fmbHbdKTdD-1SReWwAAJwFmsbSxqhV43C91H8f1_iAQADAgADdwADPQQ",
+   "queued_at": "2026-11-11T18:34:56.201107+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122098764087548584",
+   "posted_at": "2026-11-11T18:34:56.500588+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 11 · 1:35 PM New York · 12:05 AM Sri Lanka\n\n<b>Tens of thousands attend nationalist march in Warsaw</b>\n<i>Al Jazeera, France 24, The Independent</i>\n🟢 <b>Latest:</b> 11:08 PM Sri Lanka (56 min ago) · first reported 6:29 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098764087548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 178,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true
   }
  },
  "seen_links": [
@@ -19495,17 +19505,13 @@
    "48e092b1f8"
   ]
  ],
- "last_draft_at": "2026-11-11T18:15:22.307335+00:00",
+ "last_draft_at": "2026-11-11T18:30:26.402810+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-11T18:00:32.584269+00:00",
  "run_log": [
-  "11-11 16:15:23 run start",
-  "11-11 16:15:41 listening 11 min",
-  "11-11 16:27:01 listening done",
-  "11-11 16:27:01 run end after 697 s",
   "11-11 16:30:28 run start",
   "11-11 16:30:50 listening 11 min",
   "11-11 16:42:09 listening done",
@@ -19541,7 +19547,11 @@
   "11-11 18:15:21 run start",
   "11-11 18:15:47 listening 11 min",
   "11-11 18:27:04 listening done",
-  "11-11 18:27:04 run end after 702 s"
+  "11-11 18:27:04 run end after 702 s",
+  "11-11 18:30:26 run start",
+  "11-11 18:30:36 listening 11 min",
+  "11-11 18:42:10 listening done",
+  "11-11 18:42:10 run end after 704 s"
  ],
  "day_pack_done": "2026-11-10",
  "photo_memory": {
