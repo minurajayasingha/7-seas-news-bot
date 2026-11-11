@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892888,
+ "tg_offset": 495892890,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -13840,9 +13840,19 @@
    "news_time": "2026-11-10T19:17:27+00:00",
    "news_latest": "2026-11-10T23:54:11+00:00",
    "caption": "Trump eyes male press secretary: Ben Ferguson name rises\n\nPresident Donald Trump seeks a male press secretary for his administration. Insiders and prediction markets point to Ben Ferguson and Jennings as potential candidates.\n\n💬 Who should Trump pick as his next press secretary?\n\n📖 Read more: https://www.newsweek.com/trump-reportedly-wants-male-press-secretary-ferguson-jennings-odds-rising-12697123\n\n#Trump #PressSecretary #USPolitics #7SeasNews",
-   "status": "pending",
+   "status": "posted",
    "tg_message_id": 313,
-   "tg_file_id": "AgACAgUAAxkDAAIBOWrzsEmZXMEtup532bT8WtjhszbyAAJZEWsbi0-gV6GVP_3OW57TAQADAgADdwADPQQ"
+   "tg_file_id": "AgACAgUAAxkDAAIBOWrzsEmZXMEtup532bT8WtjhszbyAAJZEWsbi0-gV6GVP_3OW57TAQADAgADdwADPQQ",
+   "queued_at": "2026-11-11T03:00:31.262144+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122098126017548584",
+   "posted_at": "2026-11-11T03:00:31.591642+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 10 · 10:00 PM New York · 8:30 AM Sri Lanka\n\n<b>Trump eyes male press secretary: Ben Ferguson name rises</b>\n<i>Fox News, Newsweek</i>\n🔴 <b>Latest:</b> 5:24 AM Sri Lanka (3h 6m ago) · first reported 12:47 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098126017548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 149,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true
   },
   "9d03cbe8de": {
    "id": "9d03cbe8de",
@@ -13903,9 +13913,19 @@
    "news_time": "2026-11-11T00:19:52+00:00",
    "news_latest": "2026-11-11T00:27:26+00:00",
    "caption": "Kennedy family joins lawsuit to block Trump arch\n\nThe Kennedy family has joined an existing lawsuit to block President Trump from building a 250-foot-tall arch in Washington, D.C. An analysis found the planned structure would cast a shadow on JFK's eternal flame and memorial.\n\n💬 Should the lawsuit succeed in stopping the construction of the arch?\n\n📖 Read more: https://www.washingtonpost.com/politics/2026/11/10/kennedy-family-sues-stop-trumps-arch-citing-shadow-jfk-grave/\n\n#USPolitics #WashingtonDC #News #7SeasNews",
-   "status": "pending",
+   "status": "posted",
    "tg_message_id": 314,
-   "tg_file_id": "AgACAgUAAxkDAAIBOmrztzf-AUUgejb5VrUTCTQZwUWFAAJdEWsbi0-gVzqpwcOTXkIWAQADAgADdwADPQQ"
+   "tg_file_id": "AgACAgUAAxkDAAIBOmrztzf-AUUgejb5VrUTCTQZwUWFAAJdEWsbi0-gVzqpwcOTXkIWAQADAgADdwADPQQ",
+   "queued_at": "2026-11-11T03:00:30.699259+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122098125879548584",
+   "posted_at": "2026-11-11T03:00:31.591642+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 10 · 10:00 PM New York · 8:30 AM Sri Lanka\n\n<b>Kennedy family joins lawsuit to block Trump arch</b>\n<i>NBC News, Washington Post</i>\n🟡 <b>Latest:</b> 5:57 AM Sri Lanka (2h 33m ago) · first reported 5:49 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098125879548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 148,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true
   },
   "d7272befe4": {
    "id": "d7272befe4",
@@ -14057,6 +14077,64 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true
+  },
+  "9a43c86cef": {
+   "id": "9a43c86cef",
+   "headline": "El Salvador troops destroy headquarters of Haitian gang",
+   "summary": "Salvadoran troops destroyed a suspected gang leader’s home and the headquarters of the 400 Mawozo gang in Haiti. Haitian Prime Minister Alix Didier Fils-Aime praised Salvadoran President Nayib Bukele following the deployment.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Over 2,000 Salvadoran soldiers deployed to Haiti",
+    "Deployment followed the disappearance of four Salvadoran troops",
+    "Concerns raised over rules of engagement and UN coordination"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Haiti",
+    "#ElSalvador",
+    "#WorldNews"
+   ],
+   "sources": [
+    "BBC",
+    "France 24"
+   ],
+   "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+   "links": [
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/americas/20261111-haiti-pm-bukele-salvadoran-troops-gang-headquarters"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Haiti"
+   },
+   "img_post": {
+    "headline": "El Salvador troops destroy headquarters of Haitian gang",
+    "people": [],
+    "image_query": "Port-au-Prince street",
+    "image_queries": [
+     "Haiti capital building",
+     "San Salvador city",
+     "military personnel",
+     "Caribbean street scene"
+    ],
+    "image_style": "incident",
+    "location": "Haiti"
+   },
+   "created_at": "2026-11-11T03:01:17.614204+00:00",
+   "news_time": "2026-11-11T01:41:43+00:00",
+   "news_latest": "2026-11-11T02:47:59+00:00",
+   "caption": "El Salvador troops destroy headquarters of Haitian gang\n\nSalvadoran troops destroyed a suspected gang leader’s home and the headquarters of the 400 Mawozo gang in Haiti. Haitian Prime Minister Alix Didier Fils-Aime praised Salvadoran President Nayib Bukele following the deployment.\n\n📖 Read more: https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss\n\n#Haiti #ElSalvador #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 319,
+   "tg_file_id": "AgACAgUAAxkDAAIBP2rz2oSfGRjClwSF8nR3IqICk3CZAAKMEWsbi0-gVx2oNofCDAhvAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -14562,7 +14640,12 @@
   "https://thehill.com/homenews/campaign/6163186-maria-elvira-salazar-florida-27th-district-reelection/",
   "https://www.nbcnews.com/politics/2026-election/maria-elvira-salazar-gop-florida-house-election-win-trump-clash-rcna603377",
   "https://www.independent.co.uk/news/world/americas/us-politics/alina-habba-mildon-fired-concord-partners-trump-pardon-b3082815.html",
-  "https://www.nytimes.com/2026/11/10/us/politics/alina-habba-fired-pardon.html"
+  "https://www.nytimes.com/2026/11/10/us/politics/alina-habba-fired-pardon.html",
+  "https://news.sky.com/story/us-charges-three-men-allegedly-linked-to-raf-fairford-incident-13610779",
+  "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss",
+  "https://www.newsweek.com/terror-plot-targeting-us-troops-allegedly-directed-from-behind-bars-12697575",
+  "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+  "https://www.france24.com/en/americas/20261111-haiti-pm-bukele-salvadoran-troops-gang-headquarters"
  ],
  "recent_topics": [
   [
@@ -17866,19 +17949,35 @@
     "trump"
    ],
    "4e24202137"
+  ],
+  [
+   "2026-11-11T03:01:25.153309+00:00",
+   [
+    "back",
+    "bukel",
+    "destroy",
+    "dominican",
+    "gang",
+    "haiti",
+    "haitian",
+    "headquarter",
+    "help",
+    "prais",
+    "president",
+    "salvador",
+    "salvadoran",
+    "troop"
+   ],
+   "9a43c86cef"
   ]
  ],
- "last_draft_at": "2026-11-11T02:45:22.281142+00:00",
+ "last_draft_at": "2026-11-11T03:01:03.256460+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-11T01:57:00.848249+00:00",
+ "last_stats_at": "2026-11-11T03:00:45.451017+00:00",
  "run_log": [
-  "11-11 00:45:20 run start",
-  "11-11 00:45:31 listening 11 min",
-  "11-11 00:56:51 listening done",
-  "11-11 00:56:51 run end after 690 s",
   "11-11 01:00:27 run start",
   "11-11 01:01:04 listening 11 min",
   "11-11 01:12:39 listen error: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60)",
@@ -17914,7 +18013,11 @@
   "11-11 02:45:21 run start",
   "11-11 02:45:31 listening 11 min",
   "11-11 02:56:50 listening done",
-  "11-11 02:56:50 run end after 688 s"
+  "11-11 02:56:50 run end after 688 s",
+  "11-11 03:00:30 run start",
+  "11-11 03:01:25 listening 11 min",
+  "11-11 03:12:18 listening done",
+  "11-11 03:12:18 run end after 708 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
