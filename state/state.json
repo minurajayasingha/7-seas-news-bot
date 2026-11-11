@@ -15947,6 +15947,68 @@
    "status": "pending",
    "tg_message_id": 374,
    "tg_file_id": "AgACAgUAAxkDAAIBdmr0159V1fEvY3WK5YPKPliN_6zNAAKAFmsbSxqhV0YTc8pB8Mq2AQADAgADdwADPQQ"
+  },
+  "7018d12efa": {
+   "id": "7018d12efa",
+   "headline": "Delaware voters file federal lawsuit seeking second House seat",
+   "summary": "Two Delaware residents filed a lawsuit to increase the state's representation in Congress. The plaintiffs argue that residents currently have less representation per person in the House than voters in any other state.",
+   "label": "US POLITICS",
+   "hook": "Should Delaware receive a second seat in the House of Representatives?",
+   "key_points": [
+    "Two Delaware voters filed a federal lawsuit.",
+    "Plaintiffs argue residents have less representation per person."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Delaware",
+    "#USCongress",
+    "#HouseOfRepresentatives"
+   ],
+   "sources": [
+    "NBC News",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/news/justice/4800519/delaware-voters-court-add-second-house-seat/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/justice/4800519/delaware-voters-court-add-second-house-seat/"
+    ],
+    [
+     "NBC News",
+     "https://www.nbcnews.com/politics/congress/delaware-residents-lawsuit-congress-house-representation-rcna608829"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Ballot_box_in_Denver%2C_October_2020_2.jpg/1920px-Ballot_box_in_Denver%2C_October_2020_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Jami430 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Delaware voters file federal lawsuit seeking second House seat",
+    "people": [],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "House of Representatives chamber",
+     "Capitol Hill",
+     "federal courthouse",
+     "Delaware state map"
+    ],
+    "image_style": "scene",
+    "location": "Delaware, US"
+   },
+   "created_at": "2026-11-11T21:15:36.309791+00:00",
+   "news_time": "2026-11-11T19:03:38+00:00",
+   "news_latest": "2026-11-11T21:09:12+00:00",
+   "caption": "Delaware voters file federal lawsuit seeking second House seat\n\nTwo Delaware residents filed a lawsuit to increase the state's representation in Congress. The plaintiffs argue that residents currently have less representation per person in the House than voters in any other state.\n\n💬 Should Delaware receive a second seat in the House of Representatives?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Delaware #USCongress #HouseOfRepresentatives #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 375,
+   "tg_file_id": "AgACAgUAAxkDAAIBd2r02voslkO77Fx9bLv5Rh1tT5EmAAIJEmsbSxqpV4-zm3Aa4vuOAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -16537,7 +16599,9 @@
   "https://www.newsweek.com/hegseths-group-warned-by-guard-at-arlingtons-tomb-of-unknown-soldier-12701900",
   "https://www.independent.co.uk/news/world/americas/us-politics/hegseth-yelled-at-veterans-day-tomb-unknown-solider-b3083433.html",
   "https://www.washingtonexaminer.com/opinion/4800541/pete-hegseth-does-not-deserve-impeachment/",
-  "https://www.theguardian.com/commentisfree/2026/nov/11/pete-hegseth-secretary-of-war-dopey-dangerous-midterms-impeachment"
+  "https://www.theguardian.com/commentisfree/2026/nov/11/pete-hegseth-secretary-of-war-dopey-dangerous-midterms-impeachment",
+  "https://www.washingtonexaminer.com/news/justice/4800519/delaware-voters-court-add-second-house-seat/",
+  "https://www.nbcnews.com/politics/congress/delaware-residents-lawsuit-congress-house-representation-rcna608829"
  ],
  "recent_topics": [
   [
@@ -19717,19 +19781,35 @@
     "wouldnt"
    ],
    "5348667e43"
+  ],
+  [
+   "2026-11-11T21:15:38.459769+00:00",
+   [
+    "add",
+    "ask",
+    "court",
+    "delawar",
+    "federal",
+    "fil",
+    "hous",
+    "lawsuit",
+    "resident",
+    "seat",
+    "second",
+    "seek",
+    "stat",
+    "voter"
+   ],
+   "7018d12efa"
   ]
  ],
- "last_draft_at": "2026-11-11T21:01:01.857275+00:00",
+ "last_draft_at": "2026-11-11T21:15:24.153959+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-11T21:00:39.056827+00:00",
  "run_log": [
-  "11-11 18:15:21 run start",
-  "11-11 18:15:47 listening 11 min",
-  "11-11 18:27:04 listening done",
-  "11-11 18:27:04 run end after 702 s",
   "11-11 18:30:26 run start",
   "11-11 18:30:36 listening 11 min",
   "11-11 18:42:10 listening done",
@@ -19765,12 +19845,15 @@
   "11-11 21:00:38 run start",
   "11-11 21:01:20 listening 11 min",
   "11-11 21:12:14 listening done",
-  "11-11 21:12:14 run end after 695 s"
+  "11-11 21:12:14 run end after 695 s",
+  "11-11 21:15:23 run start",
+  "11-11 21:15:38 listening 11 min",
+  "11-11 21:26:57 listening done",
+  "11-11 21:26:57 run end after 693 s"
  ],
  "day_pack_done": "2026-11-10",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Elissa_Slotkin_20190202_153059.jpg/1280px-Elissa_Slotkin_20190202_153059.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/JDCA_2024_Leadership_Summit_-_Chuck_Schumer_%2853814365482%29.jpg/1280px-JDCA_2024_Leadership_Summit_-_Chuck_Schumer_%2853814365482%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Bober_Tea_and_Mochi_Dough%2C_Capitol_Hill%2C_Seattle%2C_2024.jpg/1920px-Bober_Tea_and_Mochi_Dough%2C_Capitol_Hill%2C_Seattle%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Lisa_McClain_%2855505178766%29.jpg/1280px-Lisa_McClain_%2855505178766%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -19809,7 +19892,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Joe_Biden_official_portrait_2013_%28cropped%29_2.jpg/1280px-Joe_Biden_official_portrait_2013_%28cropped%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/US_Capitol_west_side.JPG/1920px-US_Capitol_west_side.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Richard_Ojeda_shirt.jpg/1280px-Richard_Ojeda_shirt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Secretary_of_Defense_Pete_Hegseth_official_portrait_%28cropped%29.jpg/1280px-Secretary_of_Defense_Pete_Hegseth_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Secretary_of_Defense_Pete_Hegseth_official_portrait_%28cropped%29.jpg/1280px-Secretary_of_Defense_Pete_Hegseth_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Ballot_box_in_Denver%2C_October_2020_2.jpg/1920px-Ballot_box_in_Denver%2C_October_2020_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -22525,7 +22609,6 @@
    }
   },
   "recent_ideas": [
-   "federal courthouse, united states",
    "madrid metro station",
    "pentagon building",
    "buenos aires skyline",
@@ -22536,7 +22619,8 @@
    "brazil supreme court",
    "warsaw monument",
    "polish flag",
-   "us capitol building"
+   "us capitol building",
+   "ballot box, united states"
   ]
  },
  "comment_perm_told": true
