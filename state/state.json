@@ -16341,55 +16341,12 @@
   "https://www.dw.com/en/iran-classes-argentina-navy-air-force-as-terrorist-organizations/a-79916290?maca=en-rss-en-world-4025-rdf",
   "https://www.upi.com/Top_News/World-News/2026/11/11/iran-desigantes-Argentina-navy-air-force-terrorist-organizations/7981794382830/",
   "https://www.nytimes.com/2026/11/10/us/politics/doj-linkedin-data-reporters-trump.html",
-  "https://www.theguardian.com/us-news/ng-interactive/2026/nov/11/project-2025-federal-data-trump-administration"
+  "https://www.theguardian.com/us-news/ng-interactive/2026/nov/11/project-2025-federal-data-trump-administration",
+  "https://www.independent.co.uk/news/uk/home-news/scottish-dj-victim-krakow-shooting-b3083196.html",
+  "https://www.theguardian.com/uk-news/2026/nov/11/british-man-died-krakow-shooting-named-james-campbell",
+  "https://news.sky.com/story/british-dj-named-as-one-of-six-people-killed-in-krakow-shooting-13611042"
  ],
  "recent_topics": [
-  [
-   "2026-11-08T14:30:54.585978+00:00",
-   [
-    "actually",
-    "blu",
-    "can",
-    "choic",
-    "congress",
-    "deliver",
-    "demand",
-    "democrat",
-    "economic",
-    "fac",
-    "fuel",
-    "gen",
-    "help",
-    "relief",
-    "stop",
-    "tariff",
-    "tough",
-    "trump",
-    "voter",
-    "wav",
-    "won"
-   ],
-   "65c0bffd33"
-  ],
-  [
-   "2026-11-08T14:30:57.610802+00:00",
-   [
-    "abu",
-    "dhabi",
-    "europ",
-    "foreign",
-    "french",
-    "minister",
-    "part",
-    "participat",
-    "peac",
-    "tak",
-    "talk",
-    "ukrain",
-    "us-mediat"
-   ],
-   "b818c4e584"
-  ],
   [
    "2026-11-08T15:00:48.477675+00:00",
    [
@@ -19612,17 +19569,13 @@
    "6bfd6e38b7"
   ]
  ],
- "last_draft_at": "2026-11-11T14:15:21.213130+00:00",
+ "last_draft_at": "2026-11-11T14:30:26.653960+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-11T14:00:31.371741+00:00",
  "run_log": [
-  "11-11 12:00:30 run start",
-  "11-11 12:00:59 listening 11 min",
-  "11-11 12:12:18 listening done",
-  "11-11 12:12:18 run end after 707 s",
   "11-11 12:15:21 run start",
   "11-11 12:15:38 listening 11 min",
   "11-11 12:26:53 listening done",
@@ -19658,7 +19611,11 @@
   "11-11 14:15:20 run start",
   "11-11 14:15:31 listening 11 min",
   "11-11 14:26:51 listening done",
-  "11-11 14:26:51 run end after 690 s"
+  "11-11 14:26:51 run end after 690 s",
+  "11-11 14:30:25 run start",
+  "11-11 14:32:15 listening 10 min",
+  "11-11 14:41:54 listening done",
+  "11-11 14:41:54 run end after 689 s"
  ],
  "day_pack_done": "2026-11-10",
  "photo_memory": {
