@@ -13911,6 +13911,71 @@
    "status": "pending",
    "tg_message_id": 317,
    "tg_file_id": "AgACAgUAAxkDAAIBPWrzxUfiCqfwWc-0MgoKAAGT_XT2pwACaBFrG4tPoFcL2i1okOY4xwEAAwIAA3cAAz0E"
+  },
+  "4e24202137": {
+   "id": "4e24202137",
+   "headline": "Alina Habba Mildon Loses Fifty Million Dollar Contract",
+   "summary": "Former Trump attorney Alina Habba Mildon lost a fifty million dollar contract with a family company. The termination letter cited a failure to perform duties after her marriage to a Turkish investor.",
+   "label": "US POLITICS",
+   "hook": "Why was the fifty million dollar contract terminated following the marriage?",
+   "key_points": [
+    "Alina Habba Mildon lost a fifty million dollar contract.",
+    "The termination letter cited a failure to perform duties.",
+    "The contract was signed weeks before a presidential pardon."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#AlinaHabbaMildon",
+    "#USPolitics",
+    "#News"
+   ],
+   "sources": [
+    "New York Times",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/americas/us-politics/alina-habba-mildon-fired-concord-partners-trump-pardon-b3082815.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/us-politics/alina-habba-mildon-fired-concord-partners-trump-pardon-b3082815.html"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/10/us/politics/alina-habba-fired-pardon.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Cummins_Corporate_Office_Building_-_April_2008_-_Holly_Higgins_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Holly Higgins / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Alina Habba Mildon Loses Fifty Million Dollar Contract",
+    "people": [
+     "Alina Habba Mildon"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Supreme Court building",
+     "White House",
+     "corporate office building",
+     "legal documents"
+    ],
+    "image_style": "person",
+    "location": "US"
+   },
+   "created_at": "2026-11-11T02:08:52.810713+00:00",
+   "news_time": "2026-11-10T20:51:05+00:00",
+   "news_latest": "2026-11-11T01:56:30+00:00",
+   "caption": "Alina Habba Mildon Loses Fifty Million Dollar Contract\n\nFormer Trump attorney Alina Habba Mildon lost a fifty million dollar contract with a family company. The termination letter cited a failure to perform duties after her marriage to a Turkish investor.\n\n💬 Why was the fifty million dollar contract terminated following the marriage?\n\n📖 Read more: https://www.independent.co.uk/news/world/americas/us-politics/alina-habba-mildon-fired-concord-partners-trump-pardon-b3082815.html\n\n#AlinaHabbaMildon #USPolitics #News #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 318,
+   "tg_file_id": "AgACAgUAAxkDAAIBPmrzzjb_HlLseFvNpgPw46yE7WAaAAJ1EWsbi0-gV8PcqBHtW2xOAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -14414,7 +14479,9 @@
   "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
   "https://www.theguardian.com/us-news/2026/nov/10/prosecutors-charge-iranian-operative-uk-air-force-attack",
   "https://thehill.com/homenews/campaign/6163186-maria-elvira-salazar-florida-27th-district-reelection/",
-  "https://www.nbcnews.com/politics/2026-election/maria-elvira-salazar-gop-florida-house-election-win-trump-clash-rcna603377"
+  "https://www.nbcnews.com/politics/2026-election/maria-elvira-salazar-gop-florida-house-election-win-trump-clash-rcna603377",
+  "https://www.independent.co.uk/news/world/americas/us-politics/alina-habba-mildon-fired-concord-partners-trump-pardon-b3082815.html",
+  "https://www.nytimes.com/2026/11/10/us/politics/alina-habba-fired-pardon.html"
  ],
  "recent_topics": [
   [
@@ -17712,19 +17779,36 @@
     "win"
    ],
    "d7272befe4"
+  ],
+  [
+   "2026-11-11T02:08:54.755256+00:00",
+   [
+    "50",
+    "alina",
+    "company",
+    "contract",
+    "deal",
+    "enrag",
+    "fir",
+    "gav",
+    "habba",
+    "los",
+    "mildon",
+    "million",
+    "pardon",
+    "right",
+    "trump"
+   ],
+   "4e24202137"
   ]
  ],
- "last_draft_at": "2026-11-11T01:57:21.798710+00:00",
+ "last_draft_at": "2026-11-11T02:08:39.275800+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-11T01:57:00.848249+00:00",
  "run_log": [
-  "11-10 23:45:22 run start",
-  "11-10 23:45:45 listening 11 min",
-  "11-10 23:57:04 listening done",
-  "11-10 23:57:04 run end after 701 s",
   "11-11 00:00:29 run start",
   "11-11 00:01:13 listening 11 min",
   "11-11 00:12:07 listening done",
@@ -17760,12 +17844,15 @@
   "11-11 01:57:00 run start",
   "11-11 01:57:32 listening 11 min",
   "11-11 02:08:27 listening done",
-  "11-11 02:08:27 run end after 686 s"
+  "11-11 02:08:27 run end after 686 s",
+  "11-11 02:08:38 run start",
+  "11-11 02:08:54 listening 11 min",
+  "11-11 02:20:12 listening done",
+  "11-11 02:20:12 run end after 693 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Stephen_Miller_%2854360303177%29_%28cropped%29.jpg/1280px-Stephen_Miller_%2854360303177%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Thomas_Massie_%288561647254%29.jpg/1280px-Thomas_Massie_%288561647254%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg/1280px-Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Knesset_Israeli_Parliament_Building_%2841404889170%29.jpg/1920px-Knesset_Israeli_Parliament_Building_%2841404889170%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -17804,7 +17891,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Ben_Ferguson_in_About_Time.jpg/1280px-Ben_Ferguson_in_About_Time.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/0/08/Maria_Elvira_Salazar_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/0/08/Maria_Elvira_Salazar_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://upload.wikimedia.org/wikipedia/commons/f/fb/Cummins_Corporate_Office_Building_-_April_2008_-_Holly_Higgins_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   ],
   "pools": {
    "donald trump": {
@@ -20488,7 +20576,6 @@
    }
   },
   "recent_ideas": [
-   "national mall washington dc",
    "rafah border crossing",
    "supreme court building",
    "moscow street",
@@ -20499,7 +20586,8 @@
    "us capitol dome",
    "robert f. kennedy department of justice building",
    "federal courthouse",
-   "thurgood marshall federal judiciary building"
+   "thurgood marshall federal judiciary building",
+   "corporate office building"
   ]
  }
 }
