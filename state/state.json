@@ -1,130 +1,6 @@
 {
- "tg_offset": 495892940,
+ "tg_offset": 495892941,
  "drafts": {
-  "c58085b689": {
-   "id": "c58085b689",
-   "headline": "Israel President Chooses Opposition Leader Gadi Eisenkot To Form Government",
-   "summary": "Following a deadlocked election, Israeli President Isaac Herzog has selected opposition candidate Gadi Eisenkot to try to form a new government. Eisenkot, a former military chief and rival to Benjamin Netanyahu, stated he is confident of securing the mandate.",
-   "label": "ELECTIONS",
-   "hook": "Can opposition leader Gadi Eisenkot successfully form a new government? Share your thoughts below.",
-   "key_points": [
-    "Knesset has been deadlocked since last month's election.",
-    "President Isaac Herzog announced the decision.",
-    "Benjamin Netanyahu's coalition lost its majority."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Israel",
-    "#GadiEisenkot",
-    "#WorldNews"
-   ],
-   "sources": [
-    "CBS News",
-    "France 24",
-    "The Guardian"
-   ],
-   "link": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
-   "links": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government"
-    ],
-    [
-     "CBS News",
-     "https://www.cbsnews.com/news/israel-election-government-gadi-eisenkot-benjamin-netanyahu/"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/israel-coalition-talks-gain-momentum"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Gadi_Eisenkot_2_%28cropped%29.jpg/1280px-Gadi_Eisenkot_2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "יהב טרודלר (Yahav Trudler - Yahav Studio‬‏) / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Israel President Chooses Opposition Leader Gadi Eisenkot To Form Government",
-    "people": [
-     "Gadi Eisenkot"
-    ],
-    "image_query": "Jerusalem city",
-    "image_style": "person",
-    "location": "Jerusalem, Israel"
-   },
-   "created_at": "2026-11-07T20:00:25.750512+00:00",
-   "news_time": "2026-11-07T12:12:06+00:00",
-   "news_latest": "2026-11-07T19:49:39+00:00",
-   "caption": "Israel President Chooses Opposition Leader Gadi Eisenkot To Form Government\n\nFollowing a deadlocked election, Israeli President Isaac Herzog has selected opposition candidate Gadi Eisenkot to try to form a new government. Eisenkot, a former military chief and rival to Benjamin Netanyahu, stated he is confident of securing the mandate.\n\nCan opposition leader Gadi Eisenkot successfully form a new government? Share your thoughts below.\n\n📖 Read more: https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government\n\n#Israel #GadiEisenkot #WorldNews #7SeasNews",
-   "status": "expired",
-   "tg_message_id": 34,
-   "tg_file_id": "AgACAgUAAxkDAAMiau-DZZ6VG14CjKasuPEZwojGHswAAh8Raxv8loFX_eN9tkUR0MEBAAMCAAN3AAM9BA",
-   "extra_msgs": [],
-   "cleared": true
-  },
-  "67e202a19f": {
-   "id": "67e202a19f",
-   "headline": "Bogus bomb threats target commercial flights across Europe",
-   "summary": "Dozens of commercial flights across Europe faced bogus bomb threats this week, resulting in diversions and emergency landings. French prosecutors are currently investigating whether foreign powers might be involved in the incidents.",
-   "label": "WORLD",
-   "hook": "What measures should be taken to secure flights against these threats? Tell us what you think.",
-   "key_points": [
-    "Dozens of European flights targeted",
-    "Incidents caused diversions and emergency landings",
-    "French prosecutors investigating possible foreign involvement"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#WorldNews",
-    "#Europe",
-    "#Aviation"
-   ],
-   "sources": [
-    "ABC News",
-    "France 24"
-   ],
-   "link": "https://www.france24.com/en/france/20261107-france-investigating-if-bogus-bomb-threats-against-airlines-linked-to-foreign-powers",
-   "links": [
-    [
-     "France 24",
-     "https://www.france24.com/en/france/20261107-france-investigating-if-bogus-bomb-threats-against-airlines-linked-to-foreign-powers"
-    ],
-    [
-     "ABC News",
-     "https://abcnews.com/International/wireStory/hoax-bomb-threats-targeted-flights-europe-137937700"
-    ]
-   ],
-   "bg": {
-    "type": "incident",
-    "photos": [],
-    "location": "Europe"
-   },
-   "img_post": {
-    "headline": "Bogus bomb threats target commercial flights across Europe",
-    "people": [],
-    "image_query": "commercial airplane in flight",
-    "image_style": "incident",
-    "location": "Europe"
-   },
-   "created_at": "2026-11-07T20:00:44.752695+00:00",
-   "news_time": "2026-11-07T12:38:16+00:00",
-   "news_latest": "2026-11-07T16:33:53+00:00",
-   "caption": "Bogus bomb threats target commercial flights across Europe\n\nDozens of commercial flights across Europe faced bogus bomb threats this week, resulting in diversions and emergency landings. French prosecutors are currently investigating whether foreign powers might be involved in the incidents.\n\nWhat measures should be taken to secure flights against these threats? Tell us what you think.\n\n📖 Read more: https://www.france24.com/en/france/20261107-france-investigating-if-bogus-bomb-threats-against-airlines-linked-to-foreign-powers\n\n#WorldNews #Europe #Aviation #7SeasNews",
-   "status": "expired",
-   "tg_message_id": 35,
-   "tg_file_id": "AgACAgUAAxkDAAMjau-DcHeKhfvZiCVtAWn_PlIPQaIAAiARaxv8loFXcu3zCR6dgH0BAAMCAAN3AAM9BA",
-   "extra_msgs": [],
-   "cleared": true
-  },
   "724fb6045f": {
    "id": "724fb6045f",
    "headline": "Trump asks DOJ to investigate Democrats over impeachment threats",
@@ -15933,6 +15809,80 @@
    "status": "pending",
    "tg_message_id": 372,
    "tg_file_id": "AgACAgUAAxkDAAIBdGr0xeGAUtTQ63F7iqK6tkIguDAoAAJ8FmsbSxqhV0pTrr6ohMJsAQADAgADdwADPQQ"
+  },
+  "819ac6bc7a": {
+   "id": "819ac6bc7a",
+   "headline": "Incoming Representative Richard Ojeda wants Trump officials impeached",
+   "summary": "Rep.-elect Richard Ojeda wants the incoming Democratic-controlled Congress to impeach several of President Donald Trump's Cabinet members. Ojeda stated that lawmakers should pursue an accountability agenda alongside legislation to lower costs.",
+   "label": "US POLITICS",
+   "hook": "Should the incoming Congress pursue impeachment for former administration officials?",
+   "key_points": [
+    "Rep.-elect Richard Ojeda called for impeachment.",
+    "Target includes officials who already left."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#RichardOjeda",
+    "#Congress"
+   ],
+   "sources": [
+    "The Hill",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4800258/richard-ojeda-impeachment-cabinet-members/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/campaigns/congressional/4800258/richard-ojeda-impeachment-cabinet-members/"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/opinion/international/6212486-trump-iran-policy-pressure/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Richard_Ojeda_shirt.jpg/1280px-Richard_Ojeda_shirt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Richard Ojeda , campaign Flickr account / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Incoming Representative Richard Ojeda wants Trump officials impeached",
+    "people": [
+     "Richard Ojeda"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "House of Representatives chamber",
+     "Capitol Hill",
+     "US Capitol dome",
+     "Senate chamber"
+    ],
+    "image_style": "person",
+    "location": "North Carolina, US"
+   },
+   "created_at": "2026-11-11T20:01:11.982444+00:00",
+   "news_time": "2026-11-11T18:00:00+00:00",
+   "news_latest": "2026-11-11T19:30:36+00:00",
+   "caption": "Incoming Representative Richard Ojeda wants Trump officials impeached\n\nRep.-elect Richard Ojeda wants the incoming Democratic-controlled Congress to impeach several of President Donald Trump's Cabinet members. Ojeda stated that lawmakers should pursue an accountability agenda alongside legislation to lower costs.\n\n💬 Should the incoming Congress pursue impeachment for former administration officials?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #RichardOjeda #Congress #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 373,
+   "tg_file_id": "AgACAgUAAxkDAAIBdWr0yYqaQjVWZug0xJbNqn2Y8P6-AAJ9FmsbSxqhV6x-MnHtxHXGAQADAgADdwADPQQ",
+   "queued_at": "2026-11-11T20:02:03.853511+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122098837935548584",
+   "posted_at": "2026-11-11T20:02:04.189479+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 11 · 3:02 PM New York · 1:32 AM Sri Lanka\n\n<b>Incoming Representative Richard Ojeda wants Trump officials impeached</b>\n<i>The Hill, Washington Examiner</i>\n🟢 <b>Latest:</b> 1:00 AM Sri Lanka (31 min ago) · first reported 11:30 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098837935548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 183,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true
   }
  },
  "seen_links": [
@@ -16517,7 +16467,11 @@
   "https://www.independent.co.uk/news/world/middle-east/iran-war-europe-us-bases-threat-trump-b3083258.html",
   "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
   "https://www.upi.com/Top_News/World-News/2026/11/11/italy-northern-ireland-republic-scotland-email-bomb-threats-schools/9571794409682/",
-  "https://www.cbsnews.com/news/bomb-threat-schools-europe-italy-uk-ireland-hoaxes-hybrid-warfare-iran-russia/"
+  "https://www.cbsnews.com/news/bomb-threat-schools-europe-italy-uk-ireland-hoaxes-hybrid-warfare-iran-russia/",
+  "https://www.washingtonexaminer.com/news/campaigns/congressional/4800258/richard-ojeda-impeachment-cabinet-members/",
+  "https://thehill.com/opinion/international/6212486-trump-iran-policy-pressure/",
+  "https://www.newsweek.com/hegseths-group-warned-by-guard-at-arlingtons-tomb-of-unknown-soldier-12701900",
+  "https://www.independent.co.uk/news/world/americas/us-politics/hegseth-yelled-at-veterans-day-tomb-unknown-solider-b3083433.html"
  ],
  "recent_topics": [
   [
@@ -19697,19 +19651,35 @@
     "threat"
    ],
    "c57d9b9b4f"
+  ],
+  [
+   "2026-11-11T20:01:14.579431+00:00",
+   [
+    "democrat",
+    "former",
+    "hous",
+    "impeach",
+    "incom",
+    "iran",
+    "non-nuclear",
+    "official",
+    "ojeda",
+    "plan",
+    "prosecut",
+    "richard",
+    "trump",
+    "want"
+   ],
+   "819ac6bc7a"
   ]
  ],
- "last_draft_at": "2026-11-11T19:45:22.898998+00:00",
+ "last_draft_at": "2026-11-11T20:00:57.854246+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-11T19:00:32.327178+00:00",
+ "last_stats_at": "2026-11-11T20:00:32.163275+00:00",
  "run_log": [
-  "11-11 17:35:52 run start",
-  "11-11 17:36:21 listening 11 min",
-  "11-11 17:47:40 listening done",
-  "11-11 17:47:40 run end after 707 s",
   "11-11 17:47:52 run start",
   "11-11 17:48:05 listening 11 min",
   "11-11 17:59:23 listening done",
@@ -19745,12 +19715,15 @@
   "11-11 19:45:22 run start",
   "11-11 19:45:38 listening 11 min",
   "11-11 19:56:57 listening done",
-  "11-11 19:56:57 run end after 694 s"
+  "11-11 19:56:57 run end after 694 s",
+  "11-11 20:00:31 run start",
+  "11-11 20:01:30 listening 11 min",
+  "11-11 20:12:08 listening done",
+  "11-11 20:12:08 run end after 696 s"
  ],
  "day_pack_done": "2026-11-10",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Bernie_Sanders_at_the_2016_Memorial_Day_Ceremony%2C_Presidio_of_San_Francisco.jpg/1280px-Bernie_Sanders_at_the_2016_Memorial_Day_Ceremony%2C_Presidio_of_San_Francisco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Elissa_Slotkin_20190202_153059.jpg/1280px-Elissa_Slotkin_20190202_153059.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/JDCA_2024_Leadership_Summit_-_Chuck_Schumer_%2853814365482%29.jpg/1280px-JDCA_2024_Leadership_Summit_-_Chuck_Schumer_%2853814365482%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -19789,7 +19762,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Warsaw_2023_115_Nicolaus_Copernicus_Monument.jpg/1920px-Warsaw_2023_115_Nicolaus_Copernicus_Monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Warsaw_2023_254_Polish_Flag.jpg/1920px-Warsaw_2023_254_Polish_Flag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Joe_Biden_official_portrait_2013_%28cropped%29_2.jpg/1280px-Joe_Biden_official_portrait_2013_%28cropped%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/US_Capitol_west_side.JPG/1920px-US_Capitol_west_side.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/US_Capitol_west_side.JPG/1920px-US_Capitol_west_side.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Richard_Ojeda_shirt.jpg/1280px-Richard_Ojeda_shirt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -22484,6 +22458,22 @@
       "credit": "Russian Orthodox Cathedral of St John the Baptist, Washingto / Wikimedia Commons (CC BY-SA 2.0)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": false
+     }
+    ]
+   },
+   "richard ojeda": {
+    "t": "2026-11-11T20:01:11.982349+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Richard_Ojeda_shirt.jpg/1280px-Richard_Ojeda_shirt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Richard Ojeda , campaign Flickr account / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Richard_Ojeda_shirt_%28cropped%29.jpg/1280px-Richard_Ojeda_shirt_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Richard Ojeda , campaign Flickr account / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
      }
     ]
    }
