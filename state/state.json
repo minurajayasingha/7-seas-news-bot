@@ -16339,25 +16339,11 @@
   "https://www.independent.co.uk/news/world/europe/italy-bomb-threat-school-email-b3083056.html",
   "https://www.france24.com/en/europe/20261111-hundreds-of-schools-in-italy-evacuated-after-receiving-bomb-threats",
   "https://www.dw.com/en/iran-classes-argentina-navy-air-force-as-terrorist-organizations/a-79916290?maca=en-rss-en-world-4025-rdf",
-  "https://www.upi.com/Top_News/World-News/2026/11/11/iran-desigantes-Argentina-navy-air-force-terrorist-organizations/7981794382830/"
+  "https://www.upi.com/Top_News/World-News/2026/11/11/iran-desigantes-Argentina-navy-air-force-terrorist-organizations/7981794382830/",
+  "https://www.nytimes.com/2026/11/10/us/politics/doj-linkedin-data-reporters-trump.html",
+  "https://www.theguardian.com/us-news/ng-interactive/2026/nov/11/project-2025-federal-data-trump-administration"
  ],
  "recent_topics": [
-  [
-   "2026-11-08T14:02:39.986718+00:00",
-   [
-    "21",
-    "authority",
-    "boat",
-    "capsiz",
-    "dead",
-    "least",
-    "migrant",
-    "senegal",
-    "sink",
-    "small"
-   ],
-   "dbae0af08f"
-  ],
   [
    "2026-11-08T14:30:54.585978+00:00",
    [
@@ -19626,17 +19612,13 @@
    "6bfd6e38b7"
   ]
  ],
- "last_draft_at": "2026-11-11T13:45:25.197138+00:00",
+ "last_draft_at": "2026-11-11T14:00:51.742303+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-11T13:00:31.158585+00:00",
+ "last_stats_at": "2026-11-11T14:00:31.371741+00:00",
  "run_log": [
-  "11-11 11:30:25 run start",
-  "11-11 11:30:36 listening 11 min",
-  "11-11 11:41:54 listening done",
-  "11-11 11:41:54 run end after 688 s",
   "11-11 11:45:19 run start",
   "11-11 11:45:37 listening 11 min",
   "11-11 11:56:56 listening done",
@@ -19672,7 +19654,11 @@
   "11-11 13:45:24 run start",
   "11-11 13:45:35 listening 11 min",
   "11-11 13:56:55 listening done",
-  "11-11 13:56:55 run end after 690 s"
+  "11-11 13:56:55 run end after 690 s",
+  "11-11 14:00:30 run start",
+  "11-11 14:02:53 listening 9 min",
+  "11-11 14:12:06 listening done",
+  "11-11 14:12:06 run end after 695 s"
  ],
  "day_pack_done": "2026-11-10",
  "photo_memory": {
