@@ -16222,6 +16222,70 @@
    "status": "pending",
    "tg_message_id": 378,
    "tg_file_id": "AgACAgUAAxkDAAIBemr04g7i-Q9SiPcCg4kZ1PTD5mx7AAIPEmsbSxqpV2J08Fx2ziTUAQADAgADdwADPQQ"
+  },
+  "585d196ff8": {
+   "id": "585d196ff8",
+   "headline": "Bernie Sanders supports Chris Van Hollen for majority leader",
+   "summary": "Senator Bernie Sanders stated he will support Senator Chris Van Hollen for majority leader if he runs. The statement follows the independent senator's announcement that he will not back Senate Minority Leader Chuck Schumer for the leadership role.",
+   "label": "US POLITICS",
+   "hook": "Should progressives support Chris Van Hollen instead of Chuck Schumer for majority leader?",
+   "key_points": [
+    "Bernie Sanders backs Chris Van Hollen for majority leader.",
+    "Sanders will not back Chuck Schumer for leadership."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Senate",
+    "#Congress"
+   ],
+   "sources": [
+    "The Hill",
+    "Washington Post"
+   ],
+   "link": "https://www.washingtonpost.com/politics/2026/11/11/who-is-chris-van-hollen-senator-progressives-are-pushing-instead-schumer/",
+   "links": [
+    [
+     "Washington Post",
+     "https://www.washingtonpost.com/politics/2026/11/11/who-is-chris-van-hollen-senator-progressives-are-pushing-instead-schumer/"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/the-120/6214240-sanders-supports-van-hollen/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Chris_Van_Hollen_at_DNC_0768_%2828610920815%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0768_%2828610920815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Edward Kimmel from Takoma Park, MD / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Bernie Sanders supports Chris Van Hollen for majority leader",
+    "people": [
+     "Chris Van Hollen"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "voting booth",
+     "Maryland State House"
+    ],
+    "image_style": "person",
+    "location": "Maryland, US"
+   },
+   "created_at": "2026-11-11T22:01:10.542999+00:00",
+   "news_time": "2026-11-11T20:20:43+00:00",
+   "news_latest": "2026-11-11T20:33:49+00:00",
+   "caption": "Bernie Sanders supports Chris Van Hollen for majority leader\n\nSenator Bernie Sanders stated he will support Senator Chris Van Hollen for majority leader if he runs. The statement follows the independent senator's announcement that he will not back Senate Minority Leader Chuck Schumer for the leadership role.\n\n💬 Should progressives support Chris Van Hollen instead of Chuck Schumer for majority leader?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Senate #Congress #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 379,
+   "tg_file_id": "AgACAgUAAxkDAAIBe2r05bC9KhJ-rE9p1ipO-8aHYUibAAIREmsbSxqpV63Hl2pmixVxAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -16822,38 +16886,11 @@
   "https://thehill.com/homenews/house/6214408-massie-epstein-files-discharge-petition/",
   "https://www.cbsnews.com/news/epstein-files-bill-discharge-petition-thomas-massie/",
   "https://thehill.com/policy/energy-environment/6214369-home-heating-costs-rise/",
-  "https://www.nytimes.com/2026/11/11/business/energy-environment/winter-heating-oil-costs.html"
+  "https://www.nytimes.com/2026/11/11/business/energy-environment/winter-heating-oil-costs.html",
+  "https://www.washingtonpost.com/politics/2026/11/11/who-is-chris-van-hollen-senator-progressives-are-pushing-instead-schumer/",
+  "https://thehill.com/the-120/6214240-sanders-supports-van-hollen/"
  ],
  "recent_topics": [
-  [
-   "2026-11-08T22:00:55.269976+00:00",
-   [
-    "all",
-    "blitz",
-    "cannot",
-    "cas",
-    "comey",
-    "conspirator",
-    "defiant",
-    "democrat",
-    "department",
-    "dept",
-    "investigation",
-    "investigativ",
-    "justic",
-    "leak",
-    "mull",
-    "nam",
-    "ready",
-    "sander",
-    "spend",
-    "stand",
-    "tim",
-    "trump",
-    "warn"
-   ],
-   "ed4a2a326f"
-  ],
   [
    "2026-11-08T23:00:46.883122+00:00",
    [
@@ -20067,19 +20104,34 @@
     "winter"
    ],
    "dbb5db25ae"
+  ],
+  [
+   "2026-11-11T22:01:20.607507+00:00",
+   [
+    "chri",
+    "hollen",
+    "instead",
+    "leader",
+    "majority",
+    "progressiv",
+    "push",
+    "run",
+    "sander",
+    "schumer",
+    "senator",
+    "support",
+    "van"
+   ],
+   "585d196ff8"
   ]
  ],
- "last_draft_at": "2026-11-11T21:45:21.961492+00:00",
+ "last_draft_at": "2026-11-11T22:00:57.651045+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-11T21:00:39.056827+00:00",
+ "last_stats_at": "2026-11-11T22:00:36.642383+00:00",
  "run_log": [
-  "11-11 19:00:31 run start",
-  "11-11 19:01:23 listening 11 min",
-  "11-11 19:12:10 listening done",
-  "11-11 19:12:10 run end after 698 s",
   "11-11 19:15:24 run start",
   "11-11 19:17:43 listening 9 min",
   "11-11 19:26:58 listening done",
@@ -20115,12 +20167,15 @@
   "11-11 21:45:21 run start",
   "11-11 21:45:51 listening 11 min",
   "11-11 21:57:11 listening done",
-  "11-11 21:57:11 run end after 709 s"
+  "11-11 21:57:11 run end after 709 s",
+  "11-11 22:00:36 run start",
+  "11-11 22:01:20 listening 11 min",
+  "11-11 22:12:14 listening done",
+  "11-11 22:12:14 run end after 697 s"
  ],
  "day_pack_done": "2026-11-10",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/9/96/Tower_of_David_at_dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/John_Cornyn_official_portrait.jpg/1280px-John_Cornyn_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/7/70/James_Talarico_Press_Conference_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://upload.wikimedia.org/wikipedia/commons/8/8a/Robert_F._Kennedy_Department_of_Justice_Building_-_Plato_inscription_-_2714.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -20159,7 +20214,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Pete_Hegseth_%2851772824725%29.jpg/1280px-Pete_Hegseth_%2851772824725%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/House_of_Representatives_Chamber%2C_Idaho_State_Capitol.jpg/1920px-House_of_Representatives_Chamber%2C_Idaho_State_Capitol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Thomas_Massie_%288560522401%29.jpg/1280px-Thomas_Massie_%288560522401%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/View_of_Port_of_Los_Angeles_with_container_ships.jpg/1920px-View_of_Port_of_Los_Angeles_with_container_ships.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/View_of_Port_of_Los_Angeles_with_container_ships.jpg/1920px-View_of_Port_of_Los_Angeles_with_container_ships.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Chris_Van_Hollen_at_DNC_0768_%2828610920815%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0768_%2828610920815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -22870,6 +22926,82 @@
       "credit": "Richard Ojeda , campaign Flickr account / Wikimedia Commons (CC BY-SA 4.0)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": true
+     }
+    ]
+   },
+   "chris van hollen": {
+    "t": "2026-11-11T22:01:10.542896+00:00",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Chris_Van_Hollen_official_portrait_115th_Congress.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "U.S. Senate Photographic Studio / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/20120705_91_tp4_US_Representative_Chris_Van_Hollen_%287520078892%29.jpg/1280px-20120705_91_tp4_US_Representative_Chris_Van_Hollen_%287520078892%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Edward Kimmel from Takoma Park, MD / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Chris_Van_Hollen_at_DNC_0644_%2827993609344%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0644_%2827993609344%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Edward Kimmel from Takoma Park, MD / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Chris_Van_Hollen_at_DNC_0631_%2827994322863%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0631_%2827994322863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Edward Kimmel from Takoma Park, MD / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Chris_Van_Hollen_at_DNC_0662_%2828610923625%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0662_%2828610923625%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Edward Kimmel from Takoma Park, MD / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Chris_Van_Hollen_at_DNC_0612_%2827994323123%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0612_%2827994323123%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Edward Kimmel from Takoma Park, MD / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Chris_Van_Hollen_at_DNC_0768_%2828610920815%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0768_%2828610920815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Edward Kimmel from Takoma Park, MD / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/20120705_87_tp4_US_Representative_Chris_Van_Hollen_%287520078688%29.jpg/1280px-20120705_87_tp4_US_Representative_Chris_Van_Hollen_%287520078688%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Edward Kimmel from Takoma Park, MD / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Chris_Van_Hollen_at_DNC_0770_%2828610920735%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0770_%2828610920735%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Edward Kimmel from Takoma Park, MD / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Chris_Van_Hollen_at_DNC_0608_%2827993609664%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0608_%2827993609664%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Edward Kimmel from Takoma Park, MD / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/20120705_92_tp4_US_Representative_Chris_Van_Hollen_%287520078806%29.jpg/1280px-20120705_92_tp4_US_Representative_Chris_Van_Hollen_%287520078806%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Edward Kimmel from Takoma Park, MD / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Chris_Van_Hollen_at_DNC_0634_%2827994322623%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0634_%2827994322623%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Edward Kimmel from Takoma Park, MD / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
      }
     ]
    }
