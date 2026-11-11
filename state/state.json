@@ -16396,7 +16396,13 @@
   "https://www.nytimes.com/2026/11/11/us/politics/trump-democrats-congress-oversight-committee.html",
   "https://www.washingtonpost.com/politics/2026/11/11/white-house-starts-aggressive-moves-block-investigations-by-congress/",
   "https://www.upi.com/Top_News/World-News/2026/11/11/latam-brazil-meta-fined-election-bias/5251794414112/",
-  "https://www.dw.com/en/brazil-electoral-court-fines-meta-sees-no-deliberate-election-bias/a-79920780?maca=en-rss-en-world-4025-rdf"
+  "https://www.dw.com/en/brazil-electoral-court-fines-meta-sees-no-deliberate-election-bias/a-79920780?maca=en-rss-en-world-4025-rdf",
+  "https://www.france24.com/en/france/20261111-tehran-will-strike-us-bases-in-europe-if-used-to-attack-iran-security-chief-says",
+  "https://www.aljazeera.com/economy/2026/11/11/can-tehran-survive-a-zero-oil-budget-if-us-blockade-on-iran-persists?traffic_source=rss",
+  "https://www.independent.co.uk/news/world/americas/us-politics/biden-cancer-second-term-2024-memoir-b3083336.html",
+  "https://www.politico.com/news/2026/11/11/biden-2024-cancer-diagnosis-debate-performance-01160750",
+  "https://www.independent.co.uk/news/world/americas/us-politics/trump-new-york-times-meltdown-b3083235.html",
+  "https://thehill.com/homenews/administration/6212987-trump-ny-times-bedminster-lawsuit-c-span/"
  ],
  "recent_topics": [
   [
@@ -19639,17 +19645,13 @@
    "49175d8390"
   ]
  ],
- "last_draft_at": "2026-11-11T16:45:24.785729+00:00",
+ "last_draft_at": "2026-11-11T17:00:52.610067+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-11T16:00:32.273091+00:00",
+ "last_stats_at": "2026-11-11T17:00:31.147338+00:00",
  "run_log": [
-  "11-11 14:32:15 listening 10 min",
-  "11-11 14:41:54 listening done",
-  "11-11 14:41:54 run end after 689 s",
-  "11-11 14:45:24 run start",
   "11-11 14:45:46 listening 11 min",
   "11-11 14:57:06 listening done",
   "11-11 14:57:06 run end after 702 s",
@@ -19685,7 +19687,11 @@
   "11-11 16:45:24 run start",
   "11-11 16:45:56 listening 11 min",
   "11-11 16:56:51 listening done",
-  "11-11 16:56:51 run end after 687 s"
+  "11-11 16:56:51 run end after 687 s",
+  "11-11 17:00:30 run start",
+  "11-11 17:03:13 listening 9 min",
+  "11-11 17:12:02 listening done",
+  "11-11 17:12:02 run end after 692 s"
  ],
  "day_pack_done": "2026-11-10",
  "photo_memory": {
