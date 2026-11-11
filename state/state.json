@@ -15487,6 +15487,71 @@
    "status": "pending",
    "tg_message_id": 365,
    "tg_file_id": "AgACAgUAAxkDAAIBbWr0p4aZxrFLYROaxqWKaZ2fd9whAAJkFmsbSxqhV-yf5SUg7yDEAQADAgADdwADPQQ"
+  },
+  "2fb1b09c17": {
+   "id": "2fb1b09c17",
+   "headline": "Russian Ambassador to US Alexander Darchiev Dies at 66",
+   "summary": "Russia's Foreign Ministry announced that ambassador Alexander Darchiev died unexpectedly at age 66. The announcement called him an outstanding diplomat, experienced leader, kind friend, and mentor.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Alexander Darchiev served as Russia's ambassador to the U.S.",
+    "He passed away suddenly at the age of 66.",
+    "The Russian Foreign Ministry announced his death on Nov. 11."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Russia",
+    "#US",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Kyiv Independent",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/americas/alexander-darchiev-dead-russia-ambassador-b3083359.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/alexander-darchiev-dead-russia-ambassador-b3083359.html"
+    ],
+    [
+     "Kyiv Independent",
+     "https://kyivindependent.com/russian-ambassador-to-washington-dies-at-66/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Alexander_Darchiev_05.2025.jpg/1280px-Alexander_Darchiev_05.2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Russian Orthodox Cathedral of St John the Baptist, Washingto / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Russian Ambassador to US Alexander Darchiev Dies at 66",
+    "people": [
+     "Alexander Darchiev"
+    ],
+    "image_query": "Russian Embassy Washington",
+    "image_queries": [
+     "Russian Embassy Washington",
+     "Russian Foreign Ministry Moscow",
+     "Washington D.C. skyline",
+     "Moscow city view"
+    ],
+    "image_style": "person",
+    "location": "Washington, US"
+   },
+   "created_at": "2026-11-11T17:48:03.287912+00:00",
+   "news_time": "2026-11-11T16:34:05+00:00",
+   "news_latest": "2026-11-11T17:32:50+00:00",
+   "caption": "🚨 BREAKING: Russian Ambassador to US Alexander Darchiev Dies at 66\n\nRussia's Foreign Ministry announced that ambassador Alexander Darchiev died unexpectedly at age 66. The announcement called him an outstanding diplomat, experienced leader, kind friend, and mentor.\n\nWhat we know so far:\n• Alexander Darchiev served as Russia's ambassador to the U.S.\n• He passed away suddenly at the age of 66.\n• The Russian Foreign Ministry announced his death on Nov. 11.\n\n📖 Read more: https://www.independent.co.uk/news/world/americas/alexander-darchiev-dead-russia-ambassador-b3083359.html\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Russia #US #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 366,
+   "tg_file_id": "AgACAgUAAxkDAAIBbmr0qlUs2ERFUcfm0biF3OB-FePpAAJoFmsbSxqhVxRPAa1MiZFjAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -16056,7 +16121,9 @@
   "https://www.washingtonexaminer.com/news/crime/4800155/los-angeles-police-arrest-dui-driver-murder-charge-fatal-collision/",
   "https://www.independent.co.uk/news/world/americas/crime/metro-station-crash-ihor-demianenko-murder-charges-los-angeles-b3083263.html",
   "https://www.washingtonpost.com/politics/2026/11/11/final-mississippi-senate-race-ballots-being-counted-scott-colom-holds-lead/",
-  "https://www.newsweek.com/chuck-schumer-senate-majority-leadership-democrats-12700175"
+  "https://www.newsweek.com/chuck-schumer-senate-majority-leadership-democrats-12700175",
+  "https://www.independent.co.uk/news/world/americas/alexander-darchiev-dead-russia-ambassador-b3083359.html",
+  "https://kyivindependent.com/russian-ambassador-to-washington-dies-at-66/"
  ],
  "recent_topics": [
   [
@@ -19276,19 +19343,29 @@
     "tripl"
    ],
    "f92826045e"
+  ],
+  [
+   "2026-11-11T17:48:05.794601+00:00",
+   [
+    "66",
+    "alexander",
+    "ambassador",
+    "darchiev",
+    "die",
+    "russian",
+    "suddenly",
+    "washington"
+   ],
+   "2fb1b09c17"
   ]
  ],
- "last_draft_at": "2026-11-11T17:35:53.122768+00:00",
+ "last_draft_at": "2026-11-11T17:47:52.375731+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-11T17:00:31.147338+00:00",
  "run_log": [
-  "11-11 15:30:42 listening 11 min",
-  "11-11 15:30:43 listen error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
-  "11-11 15:42:14 listening done",
-  "11-11 15:42:14 run end after 702 s",
   "11-11 15:45:19 run start",
   "11-11 15:45:38 listening 11 min",
   "11-11 15:56:56 listening done",
@@ -19324,12 +19401,15 @@
   "11-11 17:35:52 run start",
   "11-11 17:36:21 listening 11 min",
   "11-11 17:47:40 listening done",
-  "11-11 17:47:40 run end after 707 s"
+  "11-11 17:47:40 run end after 707 s",
+  "11-11 17:47:52 run start",
+  "11-11 17:48:05 listening 11 min",
+  "11-11 17:59:23 listening done",
+  "11-11 17:59:23 run end after 691 s"
  ],
  "day_pack_done": "2026-11-10",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Haley_Stevens_20190202_%2802%29.jpg/1280px-Haley_Stevens_20190202_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/London_-_Judicial_Committee_of_the_Privy_Council_02.jpg/1920px-London_-_Judicial_Committee_of_the_Privy_Council_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/U.S._Embassy%2C_London_-_2022-04-30.jpg/1920px-U.S._Embassy%2C_London_-_2022-04-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -19368,7 +19448,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg/1920px-High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Spring_Time_at_Arlington_National_Cemetery%2C_Arlington%2C_Virginia_on_April_18%2C_2024_-_25.jpg/1920px-Spring_Time_at_Arlington_National_Cemetery%2C_Arlington%2C_Virginia_on_April_18%2C_2024_-_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg/1280px-Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Brasilia_Supreme_Federal_Court_of_Brazil_2009.jpg/1920px-Brasilia_Supreme_Federal_Court_of_Brazil_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Brasilia_Supreme_Federal_Court_of_Brazil_2009.jpg/1920px-Brasilia_Supreme_Federal_Court_of_Brazil_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Alexander_Darchiev_05.2025.jpg/1280px-Alexander_Darchiev_05.2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -22047,6 +22128,22 @@
       "credit": "Office of Congresswoman Maria Elvira Salazar / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": true
+     }
+    ]
+   },
+   "alexander darchiev": {
+    "t": "2026-11-11T17:48:03.287824+00:00",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Alexander_Darchiev_05.2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Russian Orthodox Cathedral of St John the Baptist, Washingto / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Alexander_Darchiev_05.2025.jpg/1280px-Alexander_Darchiev_05.2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Russian Orthodox Cathedral of St John the Baptist, Washingto / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
      }
     ]
    }
