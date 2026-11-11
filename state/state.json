@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892921,
+ "tg_offset": 495892925,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -14610,9 +14610,11 @@
    "news_time": "2026-11-11T01:22:54+00:00",
    "news_latest": "2026-11-11T05:01:47+00:00",
    "caption": "US charges three men for plotting UK airbase attack\n\nThe US has charged three men for allegedly planning an attack on a UK airbase. According to a Justice Department indictment, one suspect directed the plot from a US prison.\n\n📖 Read more: https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss\n\n#USNews #UKNews #WorldNews #7SeasNews",
-   "status": "pending",
+   "status": "replaced",
    "tg_message_id": 329,
-   "tg_file_id": "AgACAgUAAxkDAAIBSWrz_X3_XRUhiVXGHxGcpBWsPFo-AALSFGsbSxqhV3Ll941Ibu4UAQADAgADdwADPQQ"
+   "tg_file_id": "AgACAgUAAxkDAAIBSWrz_X3_XRUhiVXGHxGcpBWsPFo-AALSFGsbSxqhV3Ll941Ibu4UAQADAgADdwADPQQ",
+   "extra_msgs": [],
+   "cleared": true
   },
   "7da4161999": {
    "id": "7da4161999",
@@ -15716,9 +15718,91 @@
    "news_time": "2026-11-11T08:39:50+00:00",
    "news_latest": "2026-11-11T11:24:00+00:00",
    "caption": "Iran designates Argentina navy and air force as terrorist organizations\n\nIran designated Argentina's navy and air force as terrorist organizations. Tehran claimed Buenos Aires is responsible for further consequences. This move follows an earlier designation.\n\n💬 How will diplomatic relations between Argentina and Iran develop after this mutual designation?\n\n📖 Read more: https://www.dw.com/en/iran-classes-argentina-navy-air-force-as-terrorist-organizations/a-79916290?maca=en-rss-en-world-4025-rdf\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Iran #Argentina #WorldNews #7SeasNews",
-   "status": "pending",
+   "status": "posted",
    "tg_message_id": 352,
-   "tg_file_id": "AgACAgUAAxkDAAIBYGr0VWB_HETJxZ8w7xK5Vg7KAqPkAAKOFWsbSxqhV8RDRYA9gU2gAQADAgADdwADPQQ"
+   "tg_file_id": "AgACAgUAAxkDAAIBYGr0VWB_HETJxZ8w7xK5Vg7KAqPkAAKOFWsbSxqhV8RDRYA9gU2gAQADAgADdwADPQQ",
+   "queued_at": "2026-11-11T12:15:22.145220+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122098482741548584",
+   "posted_at": "2026-11-11T12:15:22.447368+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 11 · 7:15 AM New York · 5:45 PM Sri Lanka\n\n<b>Iran designates Argentina navy and air force as terrorist organizations</b>\n<i>DW, UPI</i>\n🟢 <b>Latest:</b> 4:54 PM Sri Lanka (51 min ago) · first reported 2:09 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098482741548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 170,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true
+  },
+  "7f48bd7968": {
+   "id": "7f48bd7968",
+   "headline": "US charges three men for plotting UK airbase attack",
+   "summary": "The US has charged three men for allegedly planning an attack on a UK airbase. According to a Justice Department indictment, one suspect directed the plot from a US prison.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "US charges three men over planned UK base attack",
+    "Target was a Royal Air Force Base in Fairford",
+    "One suspect allegedly directed the plot from prison"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USNews",
+    "#UKNews",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "NBC News"
+   ],
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss"
+    ],
+    [
+     "NBC News",
+     "https://www.nbcnews.com/world/united-kingdom/us-charges-3-men-plotting-multiple-terrorist-attacks-planned-attack-uk-rcna608647"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "tg_file_id": "AgACAgUAAxkBAAIBYWr0XnB07NMQUQABcwLJvJInOExIJwACnBVrG0saoVeA-USq8Xn1IQEAAwIAA3kAAz0E",
+      "credit": ""
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "US charges three men for plotting UK airbase attack",
+    "people": [],
+    "image_query": "Royal Air Force Fairford",
+    "image_queries": [
+     "US Department of Justice",
+     "prison facility",
+     "military air base",
+     "courtroom gavel"
+    ],
+    "image_style": "incident",
+    "location": "Fairford, United Kingdom"
+   },
+   "created_at": "2026-11-11T12:24:16.799606+00:00",
+   "news_time": "2026-11-11T01:22:54+00:00",
+   "news_latest": "2026-11-11T05:01:47+00:00",
+   "caption": "US charges three men for plotting UK airbase attack\n\nThe US has charged three men for allegedly planning an attack on a UK airbase. According to a Justice Department indictment, one suspect directed the plot from a US prison.\n\n📖 Read more: https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USNews #UKNews #WorldNews #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 354,
+   "tg_file_id": "AgACAgUAAxkDAAIBYmr0XnSNuG6idtjK9Gg0AqiWGsr_AAKdFWsbSxqhV5slkrts3fZeAQADAgADdwADPQQ",
+   "queued_at": "2026-11-11T12:25:12.179227+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122098490919548584",
+   "posted_at": "2026-11-11T12:25:12.493864+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 11 · 7:25 AM New York · 5:55 PM Sri Lanka\n\n<b>US charges three men for plotting UK airbase attack</b>\n<i>Al Jazeera, NBC News</i>\n🔴 <b>Latest:</b> 10:31 AM Sri Lanka (7h 23m ago) · first reported 6:52 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098490919548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 171,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true
   }
  },
  "seen_links": [
@@ -16258,25 +16342,6 @@
   "https://www.upi.com/Top_News/World-News/2026/11/11/iran-desigantes-Argentina-navy-air-force-terrorist-organizations/7981794382830/"
  ],
  "recent_topics": [
-  [
-   "2026-11-08T12:16:34.993621+00:00",
-   [
-    "actually",
-    "can",
-    "chart",
-    "congress",
-    "democrat",
-    "healthcar",
-    "impeachment",
-    "next",
-    "power",
-    "stop",
-    "tariff",
-    "trump",
-    "won"
-   ],
-   "fcef0533ef"
-  ],
   [
    "2026-11-08T13:19:24.977966+00:00",
    [
@@ -19578,17 +19643,13 @@
    "6bfd6e38b7"
   ]
  ],
- "last_draft_at": "2026-11-11T12:00:50.385427+00:00",
+ "last_draft_at": "2026-11-11T12:15:27.800786+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-11T12:00:31.013280+00:00",
  "run_log": [
-  "11-11 09:47:33 run start",
-  "11-11 09:47:43 listening 11 min",
-  "11-11 09:59:01 listening done",
-  "11-11 09:59:01 run end after 688 s",
   "11-11 10:00:27 run start",
   "11-11 10:01:04 listening 11 min",
   "11-11 10:12:02 listening done",
@@ -19624,7 +19685,11 @@
   "11-11 12:00:30 run start",
   "11-11 12:00:59 listening 11 min",
   "11-11 12:12:18 listening done",
-  "11-11 12:12:18 run end after 707 s"
+  "11-11 12:12:18 run end after 707 s",
+  "11-11 12:15:21 run start",
+  "11-11 12:15:38 listening 11 min",
+  "11-11 12:26:53 listening done",
+  "11-11 12:26:53 run end after 691 s"
  ],
  "day_pack_done": "2026-11-10",
  "photo_memory": {
