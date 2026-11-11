@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892932,
+ "tg_offset": 495892933,
  "drafts": {
   "3c591150ed": {
    "id": "3c591150ed",
@@ -15464,9 +15464,19 @@
    "news_time": "2026-11-11T15:17:00+00:00",
    "news_latest": "2026-11-11T16:36:07+00:00",
    "caption": "Brazil electoral court fines Meta 1.3 million dollars\n\nBrazil's electoral court fined Meta $1.3 million after a complaint from President Lula's coalition. The court stated there was no evidence of intent to influence the election. Meta announced it will defend itself against the allegations.\n\n💬 Will Meta successfully defend itself against these allegations?\n\n📖 Read more: https://www.upi.com/Top_News/World-News/2026/11/11/latam-brazil-meta-fined-election-bias/5251794414112/\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Brazil #Meta #Elections #7SeasNews",
-   "status": "pending",
+   "status": "posted",
    "tg_message_id": 364,
-   "tg_file_id": "AgACAgUAAxkDAAIBbGr0m8Rhm4dX3qaKPlThn-9KLb7QAAJYFmsbSxqhV4v4UcMlBDmSAQADAgADdwADPQQ"
+   "tg_file_id": "AgACAgUAAxkDAAIBbGr0m8Rhm4dX3qaKPlThn-9KLb7QAAJYFmsbSxqhV4v4UcMlBDmSAQADAgADdwADPQQ",
+   "queued_at": "2026-11-11T17:28:51.815190+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122098717689548584",
+   "posted_at": "2026-11-11T17:28:52.151908+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 11 · 12:28 PM New York · 10:58 PM Sri Lanka\n\n<b>Brazil electoral court fines Meta 1.3 million dollars</b>\n<i>DW, UPI</i>\n🟢 <b>Latest:</b> 10:06 PM Sri Lanka (52 min ago) · first reported 8:47 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098717689548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 176,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true
   }
  },
  "seen_links": [
@@ -19275,17 +19285,13 @@
    "49175d8390"
   ]
  ],
- "last_draft_at": "2026-11-11T17:12:15.442111+00:00",
+ "last_draft_at": "2026-11-11T17:24:00.378260+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-11T17:00:31.147338+00:00",
  "run_log": [
-  "11-11 15:03:01 listening 9 min",
-  "11-11 15:12:15 listening done",
-  "11-11 15:12:15 run end after 704 s",
-  "11-11 15:15:23 run start",
   "11-11 15:17:19 listening 10 min",
   "11-11 15:27:13 listening done",
   "11-11 15:27:13 run end after 709 s",
@@ -19321,7 +19327,11 @@
   "11-11 17:12:15 run start",
   "11-11 17:12:25 listening 11 min",
   "11-11 17:23:44 listening done",
-  "11-11 17:23:44 run end after 689 s"
+  "11-11 17:23:44 run end after 689 s",
+  "11-11 17:23:59 run start",
+  "11-11 17:24:09 listening 11 min",
+  "11-11 17:35:40 listening done",
+  "11-11 17:35:40 run end after 700 s"
  ],
  "day_pack_done": "2026-11-10",
  "photo_memory": {
