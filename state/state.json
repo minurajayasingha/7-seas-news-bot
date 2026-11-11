@@ -16656,7 +16656,9 @@
   "https://thehill.com/homenews/campaign/6213245-politico-poll-maga-gop-defeat/",
   "https://www.independent.co.uk/news/world/americas/us-politics/trump-maga-midterm-election-losers-poll-b3083163.html",
   "https://www.nbcnews.com/video/watch-live-trump-attends-veterans-day-events-at-arlington-national-cemetery-273260613511",
-  "https://www.nytimes.com/2026/11/11/us/politics/trump-arlington-cemetery-arch.html"
+  "https://www.nytimes.com/2026/11/11/us/politics/trump-arlington-cemetery-arch.html",
+  "https://www.france24.com/en/europe/20261111-russia-bans-two-french-lawmakers-and-two-journalists-from-entry",
+  "https://www.aljazeera.com/news/2026/11/11/russia-bans-two-french-lawmakers-two-journalists-in-tit-for-tat-move?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -19901,17 +19903,13 @@
    "2182ce5439"
   ]
  ],
- "last_draft_at": "2026-11-11T16:01:10.214326+00:00",
+ "last_draft_at": "2026-11-11T16:15:23.865976+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-11T16:00:32.273091+00:00",
  "run_log": [
-  "11-11 13:45:35 listening 11 min",
-  "11-11 13:56:55 listening done",
-  "11-11 13:56:55 run end after 690 s",
-  "11-11 14:00:30 run start",
   "11-11 14:02:53 listening 9 min",
   "11-11 14:12:06 listening done",
   "11-11 14:12:06 run end after 695 s",
@@ -19947,7 +19945,11 @@
   "11-11 16:00:31 run start",
   "11-11 16:01:33 listening 10 min",
   "11-11 16:12:21 listening done",
-  "11-11 16:12:21 run end after 709 s"
+  "11-11 16:12:21 run end after 709 s",
+  "11-11 16:15:23 run start",
+  "11-11 16:15:41 listening 11 min",
+  "11-11 16:27:01 listening done",
+  "11-11 16:27:01 run end after 697 s"
  ],
  "day_pack_done": "2026-11-10",
  "photo_memory": {
