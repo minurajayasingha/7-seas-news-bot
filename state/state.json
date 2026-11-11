@@ -13455,9 +13455,11 @@
    "news_time": "2026-11-10T17:16:15+00:00",
    "news_latest": "2026-11-10T19:59:33+00:00",
    "caption": "Israel: Opposition lawmakers seize Knesset control amid political gridlock\n\nOpposition lawmakers in Israel used their majority to take control of the legislature after the new Knesset was sworn in. Meanwhile, President Herzog called for an inquiry into the October 7 attacks amidst ongoing political gridlock.\n\n💬 Can the opposition form a government despite ongoing divisions?\n\n📖 Read more: https://www.theguardian.com/world/2026/nov/10/israeli-opposition-hurries-to-seize-control-as-new-knesset-is-sworn-in\n\n#Israel #Knesset #WorldNews #7SeasNews",
-   "status": "pending",
+   "status": "expired",
    "tg_message_id": 307,
-   "tg_file_id": "AgACAgUAAxkDAAIBM2rzkIfZRTkDgYGKOja6xROHmS8sAAJKEWsbi0-gV0Zc3Tyc1w5QAQADAgADdwADPQQ"
+   "tg_file_id": "AgACAgUAAxkDAAIBM2rzkIfZRTkDgYGKOja6xROHmS8sAAJKEWsbi0-gV0Zc3Tyc1w5QAQADAgADdwADPQQ",
+   "extra_msgs": [],
+   "cleared": true
   },
   "2f96ce7c0d": {
    "id": "2f96ce7c0d",
@@ -14343,6 +14345,64 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true
+  },
+  "87481f600c": {
+   "id": "87481f600c",
+   "headline": "Vehicle strikes pedestrians in Los Angeles leaving three dead",
+   "summary": "A car crashed into pedestrians in Los Angeles on Tuesday. According to the Los Angeles Fire Department, three people died at the scene and three injured individuals were hospitalized.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Three people died at the scene.",
+    "Three injured were taken to the hospital.",
+    "The incident occurred near a bus stop."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#LosAngeles",
+    "#News",
+    "#California"
+   ],
+   "sources": [
+    "The Independent",
+    "Washington Examiner"
+   ],
+   "link": "https://www.independent.co.uk/news/world/americas/los-angeles-accident-three-dead-b3082832.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/los-angeles-accident-three-dead-b3082832.html"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/4799692/car-hits-pedestrians-north-hollywood-crash/"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Los Angeles, US"
+   },
+   "img_post": {
+    "headline": "Vehicle strikes pedestrians in Los Angeles leaving three dead",
+    "people": [],
+    "image_query": "Los Angeles street",
+    "image_queries": [
+     "Los Angeles bus stop",
+     "North Hollywood street",
+     "Los Angeles cityscape",
+     "street intersection"
+    ],
+    "image_style": "incident",
+    "location": "Los Angeles, US"
+   },
+   "created_at": "2026-11-11T04:01:02.471206+00:00",
+   "news_time": "2026-11-11T03:30:33+00:00",
+   "news_latest": "2026-11-11T03:37:01+00:00",
+   "caption": "🚨 BREAKING: Vehicle strikes pedestrians in Los Angeles leaving three dead\n\nA car crashed into pedestrians in Los Angeles on Tuesday. According to the Los Angeles Fire Department, three people died at the scene and three injured individuals were hospitalized.\n\nWhat we know so far:\n• Three people died at the scene.\n• Three injured were taken to the hospital.\n• The incident occurred near a bus stop.\n\n📖 Read more: https://www.independent.co.uk/news/world/americas/los-angeles-accident-three-dead-b3082832.html\n\n#LosAngeles #News #California #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 324,
+   "tg_file_id": "AgACAgUAAxkDAAIBRGrz6ILCYowzced6IkDjKxuyhJmYAAKuEWsbi0-gV8yeAAGmUpBBswEAAwIAA3cAAz0E"
   }
  },
  "seen_links": [
@@ -14853,7 +14913,9 @@
   "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss",
   "https://www.newsweek.com/terror-plot-targeting-us-troops-allegedly-directed-from-behind-bars-12697575",
   "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
-  "https://www.france24.com/en/americas/20261111-haiti-pm-bukele-salvadoran-troops-gang-headquarters"
+  "https://www.france24.com/en/americas/20261111-haiti-pm-bukele-salvadoran-troops-gang-headquarters",
+  "https://www.independent.co.uk/news/world/americas/los-angeles-accident-three-dead-b3082832.html",
+  "https://www.washingtonexaminer.com/news/4799692/car-hits-pedestrians-north-hollywood-crash/"
  ],
  "recent_topics": [
   [
@@ -18177,19 +18239,31 @@
     "troop"
    ],
    "9a43c86cef"
+  ],
+  [
+   "2026-11-11T04:01:07.059899+00:00",
+   [
+    "angel",
+    "car",
+    "dead",
+    "hollywood",
+    "los",
+    "north",
+    "pedestrian",
+    "plough",
+    "strik",
+    "vehicl"
+   ],
+   "87481f600c"
   ]
  ],
- "last_draft_at": "2026-11-11T03:45:22.589516+00:00",
+ "last_draft_at": "2026-11-11T04:00:48.342868+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-11T03:00:45.451017+00:00",
+ "last_stats_at": "2026-11-11T04:00:27.419624+00:00",
  "run_log": [
-  "11-11 01:45:18 run start",
-  "11-11 01:45:28 listening 11 min",
-  "11-11 01:56:47 listening done",
-  "11-11 01:56:47 run end after 688 s",
   "11-11 01:57:00 run start",
   "11-11 01:57:32 listening 11 min",
   "11-11 02:08:27 listening done",
@@ -18225,7 +18299,11 @@
   "11-11 03:45:22 run start",
   "11-11 03:45:32 listening 11 min",
   "11-11 03:56:53 listening done",
-  "11-11 03:56:53 run end after 691 s"
+  "11-11 03:56:53 run end after 691 s",
+  "11-11 04:00:26 run start",
+  "11-11 04:01:07 listening 11 min",
+  "11-11 04:12:00 listening done",
+  "11-11 04:12:00 run end after 693 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
