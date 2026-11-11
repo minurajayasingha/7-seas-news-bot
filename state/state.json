@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892937,
+ "tg_offset": 495892938,
  "drafts": {
   "c58085b689": {
    "id": "c58085b689",
@@ -15484,9 +15484,11 @@
    "news_time": "2026-11-11T15:36:48+00:00",
    "news_latest": "2026-11-11T17:25:26+00:00",
    "caption": "🚨 BREAKING: Los Angeles police arrest driver after fatal crash\n\nThe Los Angeles Police Department arrested a driver on murder charges following a collision. A vehicle struck at least five pedestrians, resulting in three deaths and two injuries near a North location.\n\nWhat we know so far:\n• Driver arrested on murder charges by police\n• Collision struck at least five pedestrians\n• Three people killed and two wounded\n\n📖 Read more: https://www.washingtonexaminer.com/news/crime/4800155/los-angeles-police-arrest-dui-driver-murder-charge-fatal-collision/\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#LosAngeles #News #LAPD #7SeasNews",
-   "status": "pending",
+   "status": "skipped",
    "tg_message_id": 365,
-   "tg_file_id": "AgACAgUAAxkDAAIBbWr0p4aZxrFLYROaxqWKaZ2fd9whAAJkFmsbSxqhV-yf5SUg7yDEAQADAgADdwADPQQ"
+   "tg_file_id": "AgACAgUAAxkDAAIBbWr0p4aZxrFLYROaxqWKaZ2fd9whAAJkFmsbSxqhV-yf5SUg7yDEAQADAgADdwADPQQ",
+   "extra_msgs": [],
+   "cleared": true
   },
   "2fb1b09c17": {
    "id": "2fb1b09c17",
@@ -19505,17 +19507,13 @@
    "48e092b1f8"
   ]
  ],
- "last_draft_at": "2026-11-11T18:30:26.402810+00:00",
+ "last_draft_at": "2026-11-11T18:45:23.042120+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-11T18:00:32.584269+00:00",
  "run_log": [
-  "11-11 16:30:28 run start",
-  "11-11 16:30:50 listening 11 min",
-  "11-11 16:42:09 listening done",
-  "11-11 16:42:09 run end after 701 s",
   "11-11 16:45:24 run start",
   "11-11 16:45:56 listening 11 min",
   "11-11 16:56:51 listening done",
@@ -19551,7 +19549,11 @@
   "11-11 18:30:26 run start",
   "11-11 18:30:36 listening 11 min",
   "11-11 18:42:10 listening done",
-  "11-11 18:42:10 run end after 704 s"
+  "11-11 18:42:10 run end after 704 s",
+  "11-11 18:45:22 run start",
+  "11-11 18:45:33 listening 11 min",
+  "11-11 18:56:53 listening done",
+  "11-11 18:56:53 run end after 691 s"
  ],
  "day_pack_done": "2026-11-10",
  "photo_memory": {
