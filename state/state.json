@@ -14678,6 +14678,64 @@
    "status": "pending",
    "tg_message_id": 330,
    "tg_file_id": "AgACAgUAAxkDAAIBSmrz_YCvdHH84XbFEqkE3lKgGznrAALTFGsbSxqhV91kW5DXGwbOAQADAgADdwADPQQ"
+  },
+  "6c235661bd": {
+   "id": "6c235661bd",
+   "headline": "Ukraine captures Indonesian prisoner of war in Zaporizhzhia region",
+   "summary": "Ukraine reports capturing its first Indonesian prisoner of war from Java after a drone attack in the Zaporizhzhia region. The state-run I Want to Live project states the man was brought to take part in a Russian assault. Additionally, Ukraine reports striking an elite Russian drone unit in occupied territory.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Ukraine captured its first Indonesian prisoner of war.",
+    "The 49-year-old man is from Java.",
+    "Ukraine struck an elite Russian drone unit."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Ukraine",
+    "#Russia",
+    "#WorldNews"
+   ],
+   "sources": [
+    "The Guardian",
+    "The Independent"
+   ],
+   "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia",
+   "links": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/europe/ukraine-strike-rubicon-drone-base-b3082846.html"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Zaporizhzhia, Ukraine"
+   },
+   "img_post": {
+    "headline": "Ukraine captures Indonesian prisoner of war in Zaporizhzhia region",
+    "people": [],
+    "image_query": "Zaporizhzhia region",
+    "image_queries": [
+     "drone warfare",
+     "occupied territory",
+     "military conflict",
+     "battlefield"
+    ],
+    "image_style": "incident",
+    "location": "Zaporizhzhia, Ukraine"
+   },
+   "created_at": "2026-11-11T06:01:00.590630+00:00",
+   "news_time": "2026-11-11T04:59:11+00:00",
+   "news_latest": "2026-11-11T05:33:27+00:00",
+   "caption": "Ukraine captures Indonesian prisoner of war in Zaporizhzhia region\n\nUkraine reports capturing its first Indonesian prisoner of war from Java after a drone attack in the Zaporizhzhia region. The state-run I Want to Live project states the man was brought to take part in a Russian assault. Additionally, Ukraine reports striking an elite Russian drone unit in occupied territory.\n\n📖 Read more: https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia\n\n#Ukraine #Russia #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 331,
+   "tg_file_id": "AgACAgUAAxkDAAIBS2r0BJ4gLMWFP8zop2_2CpDpAanEAALzFGsbSxqhV0OW_QIkgvNmAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -15194,7 +15252,9 @@
   "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss",
   "https://www.nbcnews.com/world/united-kingdom/us-charges-3-men-plotting-multiple-terrorist-attacks-planned-attack-uk-rcna608647",
   "https://www.independent.co.uk/news/world/americas/donald-trump-gop-stephen-miller-los-angeles-united-states-b3082848.html",
-  "https://thehill.com/homenews/campaign/6212326-norman-gives-trump-f-grade/"
+  "https://thehill.com/homenews/campaign/6212326-norman-gives-trump-f-grade/",
+  "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia",
+  "https://www.independent.co.uk/news/world/europe/ukraine-strike-rubicon-drone-base-b3082846.html"
  ],
  "recent_topics": [
   [
@@ -18566,19 +18626,36 @@
     "wipeout"
    ],
    "7da4161999"
+  ],
+  [
+   "2026-11-11T06:01:02.519596+00:00",
+   [
+    "captur",
+    "dron",
+    "elit",
+    "indonesian",
+    "occupi",
+    "prisoner",
+    "recruitment",
+    "rubicon",
+    "russian",
+    "strik",
+    "surg",
+    "territory",
+    "ukrain",
+    "unit",
+    "war"
+   ],
+   "6c235661bd"
   ]
  ],
- "last_draft_at": "2026-11-11T05:45:21.620287+00:00",
+ "last_draft_at": "2026-11-11T06:00:46.641994+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-11T05:01:24.978776+00:00",
+ "last_stats_at": "2026-11-11T06:00:29.867829+00:00",
  "run_log": [
-  "11-11 03:30:25 run start",
-  "11-11 03:30:35 listening 11 min",
-  "11-11 03:42:11 listening done",
-  "11-11 03:42:11 run end after 706 s",
   "11-11 03:45:22 run start",
   "11-11 03:45:32 listening 11 min",
   "11-11 03:56:53 listening done",
@@ -18614,7 +18691,11 @@
   "11-11 05:45:21 run start",
   "11-11 05:45:30 listening 11 min",
   "11-11 05:56:51 listening done",
-  "11-11 05:56:51 run end after 690 s"
+  "11-11 05:56:51 run end after 690 s",
+  "11-11 06:00:29 run start",
+  "11-11 06:01:02 listening 11 min",
+  "11-11 06:11:56 listening done",
+  "11-11 06:11:56 run end after 686 s"
  ],
  "day_pack_done": "2026-11-10",
  "photo_memory": {
