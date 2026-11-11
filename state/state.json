@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892902,
+ "tg_offset": 495892904,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -14402,9 +14402,11 @@
    "news_time": "2026-11-11T03:30:33+00:00",
    "news_latest": "2026-11-11T03:37:01+00:00",
    "caption": "🚨 BREAKING: Vehicle strikes pedestrians in Los Angeles leaving three dead\n\nA car crashed into pedestrians in Los Angeles on Tuesday. According to the Los Angeles Fire Department, three people died at the scene and three injured individuals were hospitalized.\n\nWhat we know so far:\n• Three people died at the scene.\n• Three injured were taken to the hospital.\n• The incident occurred near a bus stop.\n\n📖 Read more: https://www.independent.co.uk/news/world/americas/los-angeles-accident-three-dead-b3082832.html\n\n#LosAngeles #News #California #7SeasNews",
-   "status": "pending",
+   "status": "replaced",
    "tg_message_id": 324,
-   "tg_file_id": "AgACAgUAAxkDAAIBRGrz6ILCYowzced6IkDjKxuyhJmYAAKuEWsbi0-gV8yeAAGmUpBBswEAAwIAA3cAAz0E"
+   "tg_file_id": "AgACAgUAAxkDAAIBRGrz6ILCYowzced6IkDjKxuyhJmYAAKuEWsbi0-gV8yeAAGmUpBBswEAAwIAA3cAAz0E",
+   "extra_msgs": [],
+   "cleared": true
   },
   "934867c278": {
    "id": "934867c278",
@@ -14480,6 +14482,79 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true
+  },
+  "bf6b957b52": {
+   "id": "bf6b957b52",
+   "headline": "Vehicle strikes pedestrians in Los Angeles leaving three dead",
+   "summary": "A car crashed into pedestrians in Los Angeles on Tuesday. According to the Los Angeles Fire Department, three people died at the scene and three injured individuals were hospitalized.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Three people died at the scene.",
+    "Three injured were taken to the hospital.",
+    "The incident occurred near a bus stop."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#LosAngeles",
+    "#News",
+    "#California"
+   ],
+   "sources": [
+    "The Independent",
+    "Washington Examiner"
+   ],
+   "link": "https://www.independent.co.uk/news/world/americas/los-angeles-accident-three-dead-b3082832.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/los-angeles-accident-three-dead-b3082832.html"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/4799692/car-hits-pedestrians-north-hollywood-crash/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "tg_file_id": "AgACAgUAAxkBAAIBR2rz7pPSJCfynE8d0Te3yQbGZufkAAK5EWsbi0-gV3K-KPIG0dVDAQADAgADeQADPQQ",
+      "credit": ""
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Vehicle strikes pedestrians in Los Angeles leaving three dead",
+    "people": [],
+    "image_query": "Los Angeles street",
+    "image_queries": [
+     "Los Angeles bus stop",
+     "North Hollywood street",
+     "Los Angeles cityscape",
+     "street intersection"
+    ],
+    "image_style": "incident",
+    "location": "Los Angeles, US"
+   },
+   "created_at": "2026-11-11T04:30:26.692972+00:00",
+   "news_time": "2026-11-11T03:30:33+00:00",
+   "news_latest": "2026-11-11T03:37:01+00:00",
+   "caption": "🚨 BREAKING: Vehicle strikes pedestrians in Los Angeles leaving three dead\n\nA car crashed into pedestrians in Los Angeles on Tuesday. According to the Los Angeles Fire Department, three people died at the scene and three injured individuals were hospitalized.\n\nWhat we know so far:\n• Three people died at the scene.\n• Three injured were taken to the hospital.\n• The incident occurred near a bus stop.\n\n📖 Read more: https://www.independent.co.uk/news/world/americas/los-angeles-accident-three-dead-b3082832.html\n\n#LosAngeles #News #California #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 328,
+   "tg_file_id": "AgACAgUAAxkDAAIBSGrz7231fNVi_-sHMhdliDCPC4CzAAK6EWsbi0-gV0RTSmioRSlbAQADAgADdwADPQQ",
+   "queued_at": "2026-11-11T04:30:54.223079+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122098169997548584",
+   "posted_at": "2026-11-11T04:30:54.563780+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 10 · 11:30 PM New York · 10:00 AM Sri Lanka\n\n<b>Vehicle strikes pedestrians in Los Angeles leaving three dead</b>\n<i>The Independent, Washington Examiner</i>\n🟢 <b>Latest:</b> 9:07 AM Sri Lanka (53 min ago) · first reported 9:00 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098169997548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 159,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "1117339620910658"
   }
  },
  "seen_links": [
@@ -18314,17 +18389,13 @@
    "87481f600c"
   ]
  ],
- "last_draft_at": "2026-11-11T04:15:19.084224+00:00",
+ "last_draft_at": "2026-11-11T04:30:38.980138+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-11T04:00:27.419624+00:00",
  "run_log": [
-  "11-11 02:08:38 run start",
-  "11-11 02:08:54 listening 11 min",
-  "11-11 02:20:12 listening done",
-  "11-11 02:20:12 run end after 693 s",
   "11-11 02:20:39 run start",
   "11-11 02:20:49 listening 11 min",
   "11-11 02:32:18 listening done",
@@ -18360,7 +18431,11 @@
   "11-11 04:15:18 run start",
   "11-11 04:15:29 listening 11 min",
   "11-11 04:26:53 listening done",
-  "11-11 04:26:53 run end after 695 s"
+  "11-11 04:26:53 run end after 695 s",
+  "11-11 04:30:26 run start",
+  "11-11 04:30:48 listening 11 min",
+  "11-11 04:42:03 listening done",
+  "11-11 04:42:03 run end after 696 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
