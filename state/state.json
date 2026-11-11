@@ -1,54 +1,6 @@
 {
  "tg_offset": 495892933,
  "drafts": {
-  "3c591150ed": {
-   "id": "3c591150ed",
-   "created_at": "2026-11-07T17:38:04.397633+00:00",
-   "manual": true,
-   "label": "CONFLICT",
-   "hashtags": [
-    "#Krakow",
-    "#Poland",
-    "#WorldNews"
-   ],
-   "hook": "What measures can improve public safety in crowded urban areas? Tell us what you think.",
-   "key_points": [
-    "Six people killed in Krakow shooting",
-    "Two police officers among the injured",
-    "Suspect shot and taken to hospital"
-   ],
-   "breaking": true,
-   "sources": [
-    "BBC News"
-   ],
-   "link": "https://www.bbc.com/news/live/cq3dj1xv02vyt",
-   "links": [
-    [
-     "BBC News",
-     "https://www.bbc.com/news/live/cq3dj1xv02vyt"
-    ]
-   ],
-   "headline": "Six killed and a dozen injured in Krakow shooting",
-   "summary": "At least six people died and about a dozen others sustained injuries during a shooting in Krakow's Main Market Square. Police stated the suspect wore military-style attire and has been hospitalized after being shot by officers.",
-   "img_post": {
-    "headline": "Six killed and a dozen injured in Krakow shooting",
-    "people": [],
-    "image_query": "Krakow Main Market Square",
-    "image_style": "incident",
-    "location": "Krakow, Poland"
-   },
-   "bg": {
-    "type": "incident",
-    "photos": [],
-    "location": "Krakow, Poland"
-   },
-   "caption": "🚨 BREAKING: Six killed and a dozen injured in Krakow shooting\n\nAt least six people died and about a dozen others sustained injuries during a shooting in Krakow's Main Market Square. Police stated the suspect wore military-style attire and has been hospitalized after being shot by officers.\n\nWhat we know so far:\n• Six people killed in Krakow shooting\n• Two police officers among the injured\n• Suspect shot and taken to hospital\n\nWhat measures can improve public safety in crowded urban areas? Tell us what you think.\n\n📖 Read more: https://www.bbc.com/news/live/cq3dj1xv02vyt\n\n#Krakow #Poland #WorldNews #7SeasNews",
-   "status": "expired",
-   "tg_message_id": 31,
-   "tg_file_id": "AgACAgUAAxkDAAMfau9iCtJzHvS9lixfZ4dnDWDCNMYAAsQVaxv8lnlX8e-6e3K4fXcBAAMCAAN3AAM9BA",
-   "extra_msgs": [],
-   "cleared": true
-  },
   "c58085b689": {
    "id": "c58085b689",
    "headline": "Israel President Chooses Opposition Leader Gadi Eisenkot To Form Government",
@@ -15477,6 +15429,64 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true
+  },
+  "f92826045e": {
+   "id": "f92826045e",
+   "headline": "Los Angeles police arrest driver after fatal crash",
+   "summary": "The Los Angeles Police Department arrested a driver on murder charges following a collision. A vehicle struck at least five pedestrians, resulting in three deaths and two injuries near a North location.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Driver arrested on murder charges by police",
+    "Collision struck at least five pedestrians",
+    "Three people killed and two wounded"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#LosAngeles",
+    "#News",
+    "#LAPD"
+   ],
+   "sources": [
+    "The Independent",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/news/crime/4800155/los-angeles-police-arrest-dui-driver-murder-charge-fatal-collision/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/crime/4800155/los-angeles-police-arrest-dui-driver-murder-charge-fatal-collision/"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/crime/metro-station-crash-ihor-demianenko-murder-charges-los-angeles-b3083263.html"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "California, US"
+   },
+   "img_post": {
+    "headline": "Los Angeles police arrest driver after fatal crash",
+    "people": [],
+    "image_query": "Los Angeles street",
+    "image_queries": [
+     "police vehicle Los Angeles",
+     "traffic light street",
+     "metro station Los Angeles",
+     "police department building"
+    ],
+    "image_style": "incident",
+    "location": "California, US"
+   },
+   "created_at": "2026-11-11T17:36:04.592645+00:00",
+   "news_time": "2026-11-11T15:36:48+00:00",
+   "news_latest": "2026-11-11T17:25:26+00:00",
+   "caption": "🚨 BREAKING: Los Angeles police arrest driver after fatal crash\n\nThe Los Angeles Police Department arrested a driver on murder charges following a collision. A vehicle struck at least five pedestrians, resulting in three deaths and two injuries near a North location.\n\nWhat we know so far:\n• Driver arrested on murder charges by police\n• Collision struck at least five pedestrians\n• Three people killed and two wounded\n\n📖 Read more: https://www.washingtonexaminer.com/news/crime/4800155/los-angeles-police-arrest-dui-driver-murder-charge-fatal-collision/\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#LosAngeles #News #LAPD #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 365,
+   "tg_file_id": "AgACAgUAAxkDAAIBbWr0p4aZxrFLYROaxqWKaZ2fd9whAAJkFmsbSxqhV-yf5SUg7yDEAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -16042,50 +16052,13 @@
   "https://www.independent.co.uk/news/world/americas/us-politics/biden-cancer-second-term-2024-memoir-b3083336.html",
   "https://www.politico.com/news/2026/11/11/biden-2024-cancer-diagnosis-debate-performance-01160750",
   "https://www.independent.co.uk/news/world/americas/us-politics/trump-new-york-times-meltdown-b3083235.html",
-  "https://thehill.com/homenews/administration/6212987-trump-ny-times-bedminster-lawsuit-c-span/"
+  "https://thehill.com/homenews/administration/6212987-trump-ny-times-bedminster-lawsuit-c-span/",
+  "https://www.washingtonexaminer.com/news/crime/4800155/los-angeles-police-arrest-dui-driver-murder-charge-fatal-collision/",
+  "https://www.independent.co.uk/news/world/americas/crime/metro-station-crash-ihor-demianenko-murder-charges-los-angeles-b3083263.html",
+  "https://www.washingtonpost.com/politics/2026/11/11/final-mississippi-senate-race-ballots-being-counted-scott-colom-holds-lead/",
+  "https://www.newsweek.com/chuck-schumer-senate-majority-leadership-democrats-12700175"
  ],
  "recent_topics": [
-  [
-   "2026-11-08T17:45:36.794359+00:00",
-   [
-    "back",
-    "cit",
-    "crackdown",
-    "going",
-    "happen",
-    "ice",
-    "jeffry",
-    "miller",
-    "rul",
-    "scal",
-    "sourc",
-    "stephen",
-    "unlikely",
-    "work"
-   ],
-   "6ca4d9b155"
-  ],
-  [
-   "2026-11-08T17:47:10.645697+00:00",
-   [
-    "back",
-    "blanch",
-    "call",
-    "democratic",
-    "doj",
-    "giant",
-    "history",
-    "impeachment",
-    "investigation",
-    "midterm",
-    "push",
-    "result",
-    "step",
-    "took",
-    "trump"
-   ],
-   "645665f371"
-  ],
   [
    "2026-11-08T18:00:50.069195+00:00",
    [
@@ -19283,19 +19256,35 @@
     "see"
    ],
    "49175d8390"
+  ],
+  [
+   "2026-11-11T17:36:07.230825+00:00",
+   [
+    "angel",
+    "arrest",
+    "charg",
+    "collision",
+    "crash",
+    "driver",
+    "dui",
+    "fatal",
+    "los",
+    "metro",
+    "murder",
+    "polic",
+    "station",
+    "tripl"
+   ],
+   "f92826045e"
   ]
  ],
- "last_draft_at": "2026-11-11T17:24:00.378260+00:00",
+ "last_draft_at": "2026-11-11T17:35:53.122768+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-11T17:00:31.147338+00:00",
  "run_log": [
-  "11-11 15:17:19 listening 10 min",
-  "11-11 15:27:13 listening done",
-  "11-11 15:27:13 run end after 709 s",
-  "11-11 15:30:31 run start",
   "11-11 15:30:42 listening 11 min",
   "11-11 15:30:43 listen error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
   "11-11 15:42:14 listening done",
@@ -19331,7 +19320,11 @@
   "11-11 17:23:59 run start",
   "11-11 17:24:09 listening 11 min",
   "11-11 17:35:40 listening done",
-  "11-11 17:35:40 run end after 700 s"
+  "11-11 17:35:40 run end after 700 s",
+  "11-11 17:35:52 run start",
+  "11-11 17:36:21 listening 11 min",
+  "11-11 17:47:40 listening done",
+  "11-11 17:47:40 run end after 707 s"
  ],
  "day_pack_done": "2026-11-10",
  "photo_memory": {
