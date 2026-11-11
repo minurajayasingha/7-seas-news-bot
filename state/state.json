@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892914,
+ "tg_offset": 495892921,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -14944,9 +14944,11 @@
    "news_time": "2026-11-11T04:34:47+00:00",
    "news_latest": "2026-11-11T08:44:46+00:00",
    "caption": "Abu Dhabi trilateral talks continue as Russia and Ukraine exchange strikes\n\nTrilateral talks between Russia, Ukraine, and US mediators continue in Abu Dhabi. Meanwhile, Russia and Ukraine exchanged strikes, and Baltic nations issued drone alerts.\n\n📖 Read more: https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates\n\n#WorldNews #UkraineRussiaWar #AbuDhabi #7SeasNews",
-   "status": "pending",
+   "status": "replaced",
    "tg_message_id": 334,
-   "tg_file_id": "AgACAgUAAxkDAAIBTmr0LtWO7lQ9JlTMSGjEqNaP0-yeAAJIFWsbSxqhV6_Lhijmj2ZSAQADAgADdwADPQQ"
+   "tg_file_id": "AgACAgUAAxkDAAIBTmr0LtWO7lQ9JlTMSGjEqNaP0-yeAAJIFWsbSxqhV6_Lhijmj2ZSAQADAgADdwADPQQ",
+   "extra_msgs": [],
+   "cleared": true
   },
   "d2a57a2109": {
    "id": "d2a57a2109",
@@ -15317,6 +15319,344 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true
+  },
+  "c819c4dfb9": {
+   "id": "c819c4dfb9",
+   "headline": "Yemeni forces and Houthis exchange attacks amid breakaway state push",
+   "summary": "Yemeni government and Houthi forces have exchanged attacks, with the government reporting 190 rebel fighters killed and wounded while Houthis also claim heavy blows. Meanwhile, South Yemeni leaders urged the United States to support an independent southern state and cut ties with the Houthi conflict.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Yemeni government reports 190 rebel fighters killed and wounded.",
+    "Southern Transitional Council asks US to support an independent south.",
+    "Riyadh and allies launched airstrikes on Sanaa airport."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Yemen",
+    "#WorldNews",
+    "#Conflict"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/news/world/4799512/south-yemeni-leaders-us-independence-houthis/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/world/4799512/south-yemeni-leaders-us-independence-houthis/"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Yemen"
+   },
+   "img_post": {
+    "headline": "Yemeni forces and Houthis exchange attacks amid breakaway state push",
+    "people": [],
+    "image_query": "Sanaa airport",
+    "image_queries": [
+     "Yemen landscape",
+     "Sanaa cityscape",
+     "Aden city",
+     "Red Sea coast Yemen"
+    ],
+    "image_style": "incident",
+    "location": "Yemen"
+   },
+   "created_at": "2026-11-11T11:15:34.995464+00:00",
+   "news_time": "2026-11-11T05:39:26+00:00",
+   "news_latest": "2026-11-11T11:00:00+00:00",
+   "caption": "Yemeni forces and Houthis exchange attacks amid breakaway state push\n\nYemeni government and Houthi forces have exchanged attacks, with the government reporting 190 rebel fighters killed and wounded while Houthis also claim heavy blows. Meanwhile, South Yemeni leaders urged the United States to support an independent southern state and cut ties with the Houthi conflict.\n\n📖 Read more: https://www.washingtonexaminer.com/news/world/4799512/south-yemeni-leaders-us-independence-houthis/\n\n#Yemen #WorldNews #Conflict #7SeasNews",
+   "status": "replaced",
+   "tg_message_id": 343,
+   "tg_file_id": "AgACAgUAAxkDAAIBV2r0TluYGkArdXG6GyPs7bld9rWtAAJ8FWsbSxqhV_9p-6VKRQQlAQADAgADdwADPQQ",
+   "extra_msgs": [],
+   "cleared": true
+  },
+  "c546b12706": {
+   "id": "c546b12706",
+   "headline": "Italy Evacuates At Least 300 Schools Following Email Bomb Alert",
+   "summary": "At least 300 schools in Italy were evacuated after receiving email bomb alerts. Italian Education Minister Giuseppe Valditara stated that the total number of impacted schools could increase.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "At least 300 schools evacuated in Italy",
+    "Alerts received via email",
+    "Education Minister warns impact could rise"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Italy",
+    "#WorldNews",
+    "#SchoolEvacuation"
+   ],
+   "sources": [
+    "France 24",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/europe/italy-bomb-threat-school-email-b3083056.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/europe/italy-bomb-threat-school-email-b3083056.html"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/europe/20261111-hundreds-of-schools-in-italy-evacuated-after-receiving-bomb-threats"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Italy"
+   },
+   "img_post": {
+    "headline": "Italy Evacuates At Least 300 Schools Following Email Bomb Alert",
+    "people": [],
+    "image_query": "Italian school building",
+    "image_queries": [
+     "Rome street view",
+     "Italian classroom",
+     "police car Italy",
+     "Ministry of Education Italy"
+    ],
+    "image_style": "incident",
+    "location": "Italy"
+   },
+   "created_at": "2026-11-11T11:15:40.382811+00:00",
+   "news_time": "2026-11-11T10:59:06+00:00",
+   "news_latest": "2026-11-11T11:10:02+00:00",
+   "caption": "🚨 BREAKING: Italy Evacuates At Least 300 Schools Following Email Bomb Alert\n\nAt least 300 schools in Italy were evacuated after receiving email bomb alerts. Italian Education Minister Giuseppe Valditara stated that the total number of impacted schools could increase.\n\nWhat we know so far:\n• At least 300 schools evacuated in Italy\n• Alerts received via email\n• Education Minister warns impact could rise\n\n📖 Read more: https://www.independent.co.uk/news/world/europe/italy-bomb-threat-school-email-b3083056.html\n\n#Italy #WorldNews #SchoolEvacuation #7SeasNews",
+   "status": "replaced",
+   "tg_message_id": 344,
+   "tg_file_id": "AgACAgUAAxkDAAIBWGr0Tl1tU7Fk5Ab8mHCsLKqEcmn0AAJ9FWsbSxqhV7YzsLR8BudlAQADAgADdwADPQQ",
+   "extra_msgs": [],
+   "cleared": true
+  },
+  "48129e64cd": {
+   "id": "48129e64cd",
+   "headline": "Abu Dhabi trilateral talks continue as Russia and Ukraine exchange strikes",
+   "summary": "Trilateral talks between Russia, Ukraine, and US mediators continue in Abu Dhabi. Meanwhile, Russia and Ukraine exchanged strikes, and Baltic nations issued drone alerts.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Trilateral talks continue in Abu Dhabi.",
+    "Russia and Ukraine exchange strikes.",
+    "Baltic nations issue drone alerts."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#WorldNews",
+    "#UkraineRussiaWar",
+    "#AbuDhabi"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "The Guardian"
+   ],
+   "link": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
+   "links": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/11/russia-claims-interception-of-146-drones-in-leningrad-region?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "tg_file_id": "AgACAgUAAxkBAAIBWWr0Ts96oQv4b_PwCs5eK6AP6cGqAAJ-FWsbSxqhV4FBu5k9aSPOAQADAgADeQADPQQ",
+      "credit": ""
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Abu Dhabi trilateral talks continue as Russia and Ukraine exchange strikes",
+    "people": [],
+    "image_query": "Abu Dhabi skyline",
+    "image_queries": [
+     "Baltic coastline",
+     "Kyiv city",
+     "Moscow city",
+     "United Arab Emirates landscape"
+    ],
+    "image_style": "incident",
+    "location": "Abu Dhabi, United Arab Emirates"
+   },
+   "created_at": "2026-11-11T11:17:35.466316+00:00",
+   "news_time": "2026-11-11T04:34:47+00:00",
+   "news_latest": "2026-11-11T08:44:46+00:00",
+   "caption": "Abu Dhabi trilateral talks continue as Russia and Ukraine exchange strikes\n\nTrilateral talks between Russia, Ukraine, and US mediators continue in Abu Dhabi. Meanwhile, Russia and Ukraine exchanged strikes, and Baltic nations issued drone alerts.\n\n📖 Read more: https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates\n\n#WorldNews #UkraineRussiaWar #AbuDhabi #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 346,
+   "tg_file_id": "AgACAgUAAxkDAAIBWmr0TtKL4fUW-Fx_IKjy4PHXf4ZXAAJ_FWsbSxqhV2y3lI4aAAHhtQEAAwIAA3cAAz0E",
+   "dup_ok": true,
+   "extra_msgs": [],
+   "queued_at": "2026-11-11T11:18:44.538763+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122098447215548584",
+   "posted_at": "2026-11-11T11:18:44.889788+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 11 · 6:18 AM New York · 4:48 PM Sri Lanka\n\n<b>Abu Dhabi trilateral talks continue as Russia and Ukraine exchange strikes</b>\n<i>Al Jazeera, The Guardian</i>\n🟡 <b>Latest:</b> 2:14 PM Sri Lanka (2h 34m ago) · first reported 10:04 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098447215548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 167,
+   "log_photo": true,
+   "cleared": true
+  },
+  "0fd17589fa": {
+   "id": "0fd17589fa",
+   "headline": "Yemeni forces and Houthis exchange attacks amid breakaway state push",
+   "summary": "Yemeni government and Houthi forces have exchanged attacks, with the government reporting 190 rebel fighters killed and wounded while Houthis also claim heavy blows. Meanwhile, South Yemeni leaders urged the United States to support an independent southern state and cut ties with the Houthi conflict.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Yemeni government reports 190 rebel fighters killed and wounded.",
+    "Southern Transitional Council asks US to support an independent south.",
+    "Riyadh and allies launched airstrikes on Sanaa airport."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Yemen",
+    "#WorldNews",
+    "#Conflict"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/news/world/4799512/south-yemeni-leaders-us-independence-houthis/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/world/4799512/south-yemeni-leaders-us-independence-houthis/"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "tg_file_id": "AgACAgUAAxkBAAIBXGr0TwkbwhropvkC3Hzu1yrzayabAAKBFWsbSxqhV4CoOWMibqgKAQADAgADeQADPQQ",
+      "credit": ""
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Yemeni forces and Houthis exchange attacks amid breakaway state push",
+    "people": [],
+    "image_query": "Sanaa airport",
+    "image_queries": [
+     "Yemen landscape",
+     "Sanaa cityscape",
+     "Aden city",
+     "Red Sea coast Yemen"
+    ],
+    "image_style": "incident",
+    "location": "Yemen"
+   },
+   "created_at": "2026-11-11T11:18:33.610578+00:00",
+   "news_time": "2026-11-11T05:39:26+00:00",
+   "news_latest": "2026-11-11T11:00:00+00:00",
+   "caption": "Yemeni forces and Houthis exchange attacks amid breakaway state push\n\nYemeni government and Houthi forces have exchanged attacks, with the government reporting 190 rebel fighters killed and wounded while Houthis also claim heavy blows. Meanwhile, South Yemeni leaders urged the United States to support an independent southern state and cut ties with the Houthi conflict.\n\n📖 Read more: https://www.washingtonexaminer.com/news/world/4799512/south-yemeni-leaders-us-independence-houthis/\n\n#Yemen #WorldNews #Conflict #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 349,
+   "tg_file_id": "AgACAgUAAxkDAAIBXWr0TxP-zS-QHpDkfIlpRMPyW9bhAAKCFWsbSxqhV-jNTiAo-wU2AQADAgADdwADPQQ",
+   "queued_at": "2026-11-11T11:19:39.847158+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122098447689548584",
+   "posted_at": "2026-11-11T11:19:40.178140+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 11 · 6:19 AM New York · 4:49 PM Sri Lanka\n\n<b>Yemeni forces and Houthis exchange attacks amid breakaway state push</b>\n<i>Al Jazeera, Washington Examiner</i>\n🟢 <b>Latest:</b> 4:30 PM Sri Lanka (19 min ago) · first reported 11:09 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098447689548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 168,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true
+  },
+  "8b6428cdae": {
+   "id": "8b6428cdae",
+   "headline": "Italy Evacuates At Least 300 Schools Following Email Bomb Alert",
+   "summary": "At least 300 schools in Italy were evacuated after receiving email bomb alerts. Italian Education Minister Giuseppe Valditara stated that the total number of impacted schools could increase.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "At least 300 schools evacuated in Italy",
+    "Alerts received via email",
+    "Education Minister warns impact could rise"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Italy",
+    "#WorldNews",
+    "#SchoolEvacuation"
+   ],
+   "sources": [
+    "France 24",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/europe/italy-bomb-threat-school-email-b3083056.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/europe/italy-bomb-threat-school-email-b3083056.html"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/europe/20261111-hundreds-of-schools-in-italy-evacuated-after-receiving-bomb-threats"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "tg_file_id": "AgACAgUAAxkBAAIBXmr0T1d82oPKc8PBLOuuMCu2Jc5EAAKDFWsbSxqhV_NNcFbi471_AQADAgADeQADPQQ",
+      "credit": ""
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Italy Evacuates At Least 300 Schools Following Email Bomb Alert",
+    "people": [],
+    "image_query": "Italian school building",
+    "image_queries": [
+     "Rome street view",
+     "Italian classroom",
+     "police car Italy",
+     "Ministry of Education Italy"
+    ],
+    "image_style": "incident",
+    "location": "Italy"
+   },
+   "created_at": "2026-11-11T11:19:51.270592+00:00",
+   "news_time": "2026-11-11T10:59:06+00:00",
+   "news_latest": "2026-11-11T11:10:02+00:00",
+   "caption": "🚨 BREAKING: Italy Evacuates At Least 300 Schools Following Email Bomb Alert\n\nAt least 300 schools in Italy were evacuated after receiving email bomb alerts. Italian Education Minister Giuseppe Valditara stated that the total number of impacted schools could increase.\n\nWhat we know so far:\n• At least 300 schools evacuated in Italy\n• Alerts received via email\n• Education Minister warns impact could rise\n\n📖 Read more: https://www.independent.co.uk/news/world/europe/italy-bomb-threat-school-email-b3083056.html\n\n#Italy #WorldNews #SchoolEvacuation #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 351,
+   "tg_file_id": "AgACAgUAAxkDAAIBX2r0T1txyzk0d7ehPd1xvXmOMVX6AAKEFWsbSxqhV56ZEZkB8cTJAQADAgADdwADPQQ",
+   "queued_at": "2026-11-11T11:20:47.320899+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122098448289548584",
+   "posted_at": "2026-11-11T11:20:47.649945+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 11 · 6:20 AM New York · 4:50 PM Sri Lanka\n\n<b>Italy Evacuates At Least 300 Schools Following Email Bomb Alert</b>\n<i>France 24, The Independent</i>\n🟢 <b>Latest:</b> 4:40 PM Sri Lanka (10 min ago) · first reported 4:29 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098448289548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 169,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "998139756680740"
   }
  },
  "seen_links": [
@@ -15847,46 +16187,13 @@
   "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike",
   "https://www.france24.com/en/europe/20261111-spain-general-strike-puts-housing-crisis-centre-upcoming-elections",
   "https://www.independent.co.uk/news/world/americas/us-politics/megaspeed-ai-nvidia-alice-jensen-huang-b3082926.html",
-  "https://www.washingtonpost.com/politics/2026/11/11/spy-scandal-shows-contradictions-trump-china-policies/"
+  "https://www.washingtonpost.com/politics/2026/11/11/spy-scandal-shows-contradictions-trump-china-policies/",
+  "https://www.washingtonexaminer.com/news/world/4799512/south-yemeni-leaders-us-independence-houthis/",
+  "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss",
+  "https://www.independent.co.uk/news/world/europe/italy-bomb-threat-school-email-b3083056.html",
+  "https://www.france24.com/en/europe/20261111-hundreds-of-schools-in-italy-evacuated-after-receiving-bomb-threats"
  ],
  "recent_topics": [
-  [
-   "2026-11-08T11:15:37.777667+00:00",
-   [
-    "brac",
-    "congressional",
-    "democrat",
-    "department",
-    "election",
-    "hand",
-    "justic",
-    "russia",
-    "scrutiny",
-    "strengthen",
-    "sweep",
-    "ukrain",
-    "win"
-   ],
-   "f7696860de"
-  ],
-  [
-   "2026-11-08T11:17:08.430379+00:00",
-   [
-    "achiev",
-    "antalya",
-    "can",
-    "climat",
-    "cop",
-    "guid",
-    "key",
-    "player",
-    "stak",
-    "summit",
-    "talk",
-    "turkey"
-   ],
-   "16a7ddba9c"
-  ],
   [
    "2026-11-08T12:16:34.993621+00:00",
    [
@@ -19153,19 +19460,52 @@
     "trump"
    ],
    "bea75efaa6"
+  ],
+  [
+   "2026-11-11T11:15:39.361580+00:00",
+   [
+    "attack",
+    "claim",
+    "cut",
+    "exchang",
+    "forc",
+    "heavy",
+    "houthi",
+    "independent",
+    "inflict",
+    "leader",
+    "loss",
+    "south",
+    "support",
+    "yemen",
+    "yemeni",
+    "your"
+   ],
+   "c819c4dfb9"
+  ],
+  [
+   "2026-11-11T11:15:41.829377+00:00",
+   [
+    "300",
+    "alert",
+    "bomb",
+    "email",
+    "evacuat",
+    "follow",
+    "italy",
+    "least",
+    "school"
+   ],
+   "c546b12706"
   ]
  ],
- "last_draft_at": "2026-11-11T11:00:52.211745+00:00",
+ "last_draft_at": "2026-11-11T11:15:23.382909+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-11T11:00:30.045682+00:00",
  "run_log": [
-  "11-11 09:00:30 run start",
-  "11-11 09:01:10 listening 11 min",
-  "11-11 09:12:04 listening done",
-  "11-11 09:12:04 run end after 694 s",
   "11-11 09:12:19 run start",
   "11-11 09:12:29 listening 11 min",
   "11-11 09:23:48 listening done",
@@ -19201,7 +19541,11 @@
   "11-11 11:00:29 run start",
   "11-11 11:01:02 listening 11 min",
   "11-11 11:11:55 listening done",
-  "11-11 11:11:55 run end after 686 s"
+  "11-11 11:11:55 run end after 686 s",
+  "11-11 11:15:22 run start",
+  "11-11 11:15:41 listening 11 min",
+  "11-11 11:26:51 listening done",
+  "11-11 11:26:51 run end after 688 s"
  ],
  "day_pack_done": "2026-11-10",
  "photo_memory": {
