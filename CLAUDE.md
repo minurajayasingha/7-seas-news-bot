@@ -23,7 +23,14 @@ TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, GEMINI_API_KEY, FB_PAGE_ID, FB_PAGE_TOKEN 
 optional PIXABAY_API_KEY / PEXELS_API_KEY. Never print or commit secrets.
 
 ## Telegram UX
-- Draft buttons: 🚀 Post now · 🕒 Queue (next New York slot) · 🔄 Other photo · ❌ Skip; queued posts get ↩️ Cancel.
+- Draft buttons: 🚀 Post now · 🎬 Reel (only if REELS_ENABLED) · 🕒 Queue (next New York slot) · 🔄 Other photo · ❌ Skip;
+  queued posts get ↩️ Cancel.
+- 🎬 Reel = publish the post as normal AND make a single-story Reel (REELS_PER_DAY per NY day, REEL_SECONDS long;
+  over the limit → post only + Telegram note). Video: 1080×1920 30 fps H.264 + silent AAC via ffmpeg+Pillow
+  (make_reel): post image at y=285, blurred 45%-dark photo zoom above, post bottom colour below, headline
+  re-typed in Poppins Bold with red cursor (render_image(hide_headline=True, layout=…)), end card
+  "FOLLOW FOR MORE". Published with Graph video_reels start → rupload.facebook.com → finish PUBLISHED
+  (GRAPH_VERSION in main.py); link logged to the log channel. bot.yml installs ffmpeg only if REELS_ENABLED = True.
 - Reply to a draft with a photo → new background; with text → new headline.
 - Send a link (bot reads article + Gemini) or a photo with caption (line 1 = headline) → manual post. "BREAKING:" prefix.
 - Published/skipped/replaced posts are deleted from the bot chat; published ones are logged to a linked channel
@@ -36,7 +43,8 @@ optional PIXABAY_API_KEY / PEXELS_API_KEY. Never print or commit secrets.
 
 - Dates for the audience use New York time (image date, published log, TikTok file names). After NY midnight the bot
   sends a daily pack to the content channel (or bot chat) as 2 messages: titles + "End of <day>", and ONE zip
-  (folders 9x16 TikTok-Reels-Shorts / 4x5 Facebook-Instagram + captions.txt; split into parts above 45 MB).
+  with one folder named after the day ("2026-11-10 Tuesday") holding the day's images in order
+  (DAY_PACK_SIZE "9x16" or "4x5"; split into parts above 45 MB).
 
 ## Design rules (image 1080×1350)
 - Brand: black background, white text, red **#CE0000**, Poppins font, logo `assets/logo.png` top-left.
@@ -49,10 +57,16 @@ optional PIXABAY_API_KEY / PEXELS_API_KEY. Never print or commit secrets.
 - Scene photos rotate through TOPIC_PHOTO_IDEAS (settings) + Gemini "image_queries"; ideas used lately go last.
   "Wall Street, New York" = file name must contain "Wall Street", "New York" only helps the search. JPEG photos only.
 - Never use photos from news sites (copyright). Wikimedia Commons / Pixabay / user's own photos only.
-- Caption: headline, summary, (breaking: "What we know so far"), neutral question hook, 📖 Read more link, hashtags.
+- STRICT_PHOTO_MATCH: a place photo must name the story's country (location first, else headline; US POLITICS/ELECTIONS
+  = US) in its title/description/categories (Pixabay tags, Pexels alt) and no other country (border photos allowed);
+  no safe photo → branded globe. Country words: COUNTRY_WORDS in main.py.
+- Caption: headline, summary, (breaking: "What we know so far"), neutral question hook, 📖 Read more link,
+  FOLLOW_LINE (never twice), hashtags.
 
 ## Editorial rules (Gemini prompt in main.py)
-Neutral, no opinions, only facts from the reports, catchy but never misleading.
+Neutral, no opinions, only facts from the reports. Headlines = plain facts (who did what, where).
+BANNED_HEADLINE_WORDS (settings): if the headline/summary has one, Gemini rewrites once (gemini_write_neutral);
+still there → story skipped.
 
 ## Working on this repo
 - Owner edits in VS Code and pushes; the bot also commits state every run → always pull/sync first.

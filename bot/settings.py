@@ -62,12 +62,26 @@ SKIP_TITLE_WORDS = [
     "watch:", "video:", "in pictures", "newsletter", "crossword", "review:",
 ]
 
+# ---------- Neutral headlines ----------
+# If the AI's headline or summary has one of these words, it must rewrite it once; if it still has one,
+# the story is skipped. Write every form you want to block (e.g. "slam", "slams", "slammed").
+BANNED_HEADLINE_WORDS = [
+    "vulnerability", "vulnerable", "crack", "cracks", "cracked", "slam", "slams", "slammed",
+    "destroy", "destroys", "destroyed", "blast", "blasts", "blasted", "humiliate", "humiliates", "humiliated",
+    "humiliating", "disaster for", "win for", "victory for", "blow to", "blow for", "crushing", "crushes",
+    "stunning", "stuns", "shocking", "shock", "explosive", "bombshell", "rips", "torches", "eviscerates",
+    "meltdown", "chaos", "embarrassing", "fury", "furious", "outrage", "red wall", "blue wall", "doubles down",
+    "backfires", "epic", "massive", "brutal", "savage", "owns", "claps back", "hits back", "mocks",
+]
+
 # ---------- Caption ----------
 SHOW_READ_MORE_LINK = True   # include the original article link in the Facebook caption
 SHARE_TO_STORY = "breaking"  # Facebook Story: "breaking" = only BREAKING news, "all" = every post, "off" = never
+FOLLOW_LINE = "Follow 7 Seas News for US & world news every day 🇺🇸🌍"   # in every caption, before the hashtags ("" = none)
 TIKTOK_HASHTAGS = "#news #worldnews #fyp"   # added to the caption sent to your TikTok channel (/tiktok)
 SEND_EACH_POST_TO_CONTENT_CHANNEL = False   # True = also send every post one by one to the /tiktok channel.
                                             # False = only the daily pack (titles + ONE zip file with all images)
+DAY_PACK_SIZE = "9x16"       # images in the daily zip: "9x16" = TikTok size (1080x1920), "4x5" = the post itself (1080x1350)
 
 # Question at the end of the post (to get comments):
 #   "always"    = every post
@@ -75,11 +89,20 @@ SEND_EACH_POST_TO_CONTENT_CHANNEL = False   # True = also send every post one by
 #   "never"     = no questions
 ASK_QUESTION = "sometimes"
 
+# ---------- Single-story Reels (🎬 Reel button) ----------
+REELS_ENABLED = False        # True = drafts get a 🎬 Reel button: publishes the post AND a short Reel of it
+REELS_PER_DAY = 3            # max Reels per New York day (more taps → the post is published, no Reel, you're told)
+REEL_SECONDS = 12            # length of each Reel (typing headline → hold → "Follow for more" end card)
+REEL_HASHTAGS = "#news #worldnews"   # extra lowercase hashtags for Reel captions (3–5 in total)
+
 # ---------- Post stats (likes, comments, shares) ----------
 STATS_EVERY_MINUTES = 60     # how often the numbers under published posts are refreshed
 STATS_DAYS = 3               # keep updating a post's numbers for this many days after publishing
 
 # ---------- Photo variety ----------
+STRICT_PHOTO_MATCH = True    # True = a place photo must clearly be from the story's country (checked in the photo's
+                             # name, description and categories); photos naming another country are rejected.
+                             # No safe photo → the branded globe design instead of a random photo.
 PHOTOS_PER_PERSON = 12       # how many different free photos the bot collects per person (e.g. Trump)
 NO_REPEAT_PHOTOS = 40        # a photo is not used again until this many other photos were used
 PHOTO_POOL_DAYS = 7          # refresh each person's photo collection after this many days
@@ -96,13 +119,11 @@ TOPIC_PHOTO_IDEAS = {
     ("democrat", "dnc", "schumer", "jeffries"): [
         "Democratic National Convention", "US Capitol dome", "Senate chamber, United States Capitol",
         "House chamber, United States Capitol", "Capitol Hill", "United States Capitol rotunda",
-        "Capitol at night", "National Mall, Washington", "voting booth, United States", "Library of Congress",
-        "campaign rally, United States"],
+        "Capitol at night", "National Mall, Washington", "voting booth, United States", "Library of Congress"],
     ("republican", "gop", "rnc", "maga"): [
         "Republican National Convention", "US Capitol dome", "Senate chamber, United States Capitol",
         "House chamber, United States Capitol", "Capitol Hill", "United States Capitol rotunda",
-        "Capitol at night", "National Mall, Washington", "voting booth, United States", "Library of Congress",
-        "campaign rally, United States"],
+        "Capitol at night", "National Mall, Washington", "voting booth, United States", "Library of Congress"],
     ("congress", "senate", "senator", "lawmaker", "shutdown", "speaker"): [
         "US Capitol dome", "Senate chamber, United States Capitol", "House chamber, United States Capitol",
         "Capitol Hill", "United States Capitol rotunda", "Capitol at night", "Russell Senate Office Building",
@@ -110,7 +131,7 @@ TOPIC_PHOTO_IDEAS = {
     ("election", "voter", "ballot", "midterm", "primaries"): [
         "voting booth, United States", "ballot box, United States", "polling place, United States",
         "early voting, United States", "I voted sticker", "vote counting, United States",
-        "campaign rally, United States", "US Capitol dome", "absentee ballot"],
+        "US Capitol dome", "absentee ballot"],
     ("supreme court", "judge", "justices", "ruling", "lawsuit", "indicted", "indictment"): [
         "Supreme Court of the United States", "Supreme Court building, Washington", "Robert F. Kennedy Department of Justice Building",
         "E. Barrett Prettyman United States Courthouse", "federal courthouse, United States",

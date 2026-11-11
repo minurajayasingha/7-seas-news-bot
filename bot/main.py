@@ -14,6 +14,9 @@ All settings you might want to change are in the CONFIG section below.
 
 import io
 import zipfile
+import shutil
+import subprocess
+import tempfile
 import json
 import math
 import os
@@ -127,9 +130,12 @@ def tg_text(text):
 
 
 def draft_buttons(pid):
+    first = [{"text": "🚀 Post now", "callback_data": f"now:{pid}"},
+             {"text": "🕒 Queue", "callback_data": f"queue:{pid}"}]
+    if REELS_ENABLED:
+        first.insert(1, {"text": "🎬 Reel", "callback_data": f"reel:{pid}"})
     return {"inline_keyboard": [
-        [{"text": "🚀 Post now", "callback_data": f"now:{pid}"},
-         {"text": "🕒 Queue", "callback_data": f"queue:{pid}"}],
+        first,
         [{"text": "🔄 Other photo", "callback_data": f"photo:{pid}"},
          {"text": "❌ Skip", "callback_data": f"skip:{pid}"}],
     ]}
@@ -294,8 +300,8 @@ def tiktok_caption(d):
     tags = " ".join("#" + re.sub(r"[^A-Za-z0-9_]", "", t) for t in d.get("hashtags", [])[:3]
                     if re.sub(r"[^A-Za-z0-9_]", "", t))
     head = f"🚨 BREAKING: {d['headline']}" if d.get("breaking") else d["headline"]
-    text = "\n\n".join(x for x in [head, d.get("summary", ""),
-                                     f"{tags} {BRAND_HASHTAG} {TIKTOK_HASHTAGS}".strip()] if x)
+    text = "\n\n".join(x for x in with_follow_line([head, d.get("summary", "")])
+                         + [f"{tags} {BRAND_HASHTAG} {TIKTOK_HASHTAGS}".strip()] if x)
     return text[:1000]
 
 
@@ -321,8 +327,8 @@ def ny_day(iso):
 
 def send_day_pack(state, day, so_far=False):
     """All posts published on one New York day, sent as just 2 messages to the content channel:
-    1) the list of titles (+ "End of <day>")   2) ONE zip file with every image of the day:
-       9x16 (TikTok/Reels/Shorts), 4x5 (Facebook/Instagram) and captions.txt."""
+    1) the list of titles (+ "End of <day>")   2) ONE zip file: a folder named after the day
+       (e.g. "2026-11-10 Tuesday") with every image of the day in order (DAY_PACK_SIZE)."""
     ch = state.get("tiktok_channel") or TG_CHAT
     posts = sorted([d for d in state["drafts"].values()
                     if d.get("status") == "posted" and d.get("posted_at") and ny_day(d["posted_at"]) == day],
@@ -339,28 +345,22 @@ def send_day_pack(state, day, so_far=False):
        text=(f"📅 <b>{title}</b> (New York) · {len(posts)} post{'s' if len(posts) != 1 else ''}\n\n"
              + html.escape("\n".join(heads))[:3800] + end))
 
-    # captions.txt: one ready daily caption + each post's own caption
-    daily = (f"Today's top news · {day:%b} {day.day}, {day.year} 🌍\n\n" + "\n".join(heads)
-             + f"\n\n{BRAND_HASHTAG} {TIKTOK_HASHTAGS}")
-    text = ["DAILY CAPTION (copy)", "=" * 20, daily, "", "", "EACH POST", "=" * 20]
-    for n, d in enumerate(posts, 1):
-        text += [f"--- {n:02d} ---", tiktok_caption(d), ""]
-
+    # ONE zip: a folder named after the day with every image of the day, in posting order
+    folder = f"{day:%Y-%m-%d} {day:%A}"
+    tall = str(DAY_PACK_SIZE).lower().replace(":", "x") != "4x5"
     parts, cur, size = [], [], 0
     for n, d in enumerate(posts, 1):
         try:
             img = tg_download(d["tg_file_id"])
-            pair = [(f"9x16 TikTok-Reels-Shorts/7seas_{day:%Y-%m-%d}_{n:02d}.jpg", story_image(img)),
-                    (f"4x5 Facebook-Instagram/7seas_{day:%Y-%m-%d}_{n:02d}.jpg", img)]
+            data = story_image(img) if tall else img
         except Exception as e:
             log("Day pack image failed:", d["id"], e)
             continue
-        add = sum(len(x[1]) for x in pair)
-        if cur and size + add > 45 * 1024 * 1024:    # Telegram bots can send files up to 50 MB
+        if cur and size + len(data) > 45 * 1024 * 1024:   # Telegram bots can send files up to 50 MB
             parts.append(cur)
             cur, size = [], 0
-        cur += pair
-        size += add
+        cur.append((f"{folder}/7seas_{day:%Y-%m-%d}_{n:02d}.jpg", data))
+        size += len(data)
     if cur:
         parts.append(cur)
     for i, files in enumerate(parts, 1):
@@ -368,13 +368,11 @@ def send_day_pack(state, day, so_far=False):
         with zipfile.ZipFile(buf, "w", zipfile.ZIP_STORED) as z:   # photos are already compressed
             for name, data in files:
                 z.writestr(name, data)
-            z.writestr("captions.txt", "\n".join(text))
         part = f"_part{i}" if len(parts) > 1 else ""
-        n_img = len(files) // 2
-        tg("sendDocument", chat_id=ch, caption=(f"📦 {day:%b} {day.day} · {n_img} images (9:16 + 4:5) + captions"
+        tg("sendDocument", chat_id=ch, caption=(f"📦 {day:%b} {day.day} · {len(files)} images"
                                                 + (f" · part {i}/{len(parts)}" if len(parts) > 1 else "")
                                                 + (" · so far" if so_far else "")),
-           files={"document": (f"7seas_{day:%Y-%m-%d}{'_so-far' if so_far else ''}{part}.zip",
+           files={"document": (f"7seas_{day:%Y-%m-%d}_{day:%A}{'_so-far' if so_far else ''}{part}.zip",
                                buf.getvalue(), "application/zip")})
 
 
@@ -580,7 +578,10 @@ def handle_manual(state, msg):
         art = fetch_article(url)
         c = {"items": [{"source": art["site"], "title": art["title"],
                         "summary": f"{art['desc']} {art['text']}"[:2800]}]}
-        post = gemini_write(c)
+        post = gemini_write_neutral(c)
+        if post.get("skip_reason") and not my_headline:
+            tg_text("⚠️ I couldn't write a neutral headline for this link ("
+                    f"{html.escape(post['skip_reason'])}). Reply to the draft with your own headline.")
         d.update({
             "headline": my_headline or str(post["headline"]).strip().rstrip("."),
             "summary": my_text or str(post["summary"]).strip(),
@@ -637,6 +638,7 @@ def process_telegram(state, wait=0):
                 d["status"] = "pending"
                 d.pop("queued_at", None)
                 d.pop("post_now", None)
+                d.pop("make_reel", None)
                 tg("editMessageReplyMarkup", chat_id=TG_CHAT, message_id=d["tg_message_id"],
                    reply_markup=draft_buttons(pid))
                 tg_reply(d, "↩️ Cancelled. It's back to waiting for your choice.")
@@ -650,15 +652,20 @@ def process_telegram(state, wait=0):
                 d["status"] = "skipped"
                 tg_clear(d)
                 log("Skipped", pid)
-            elif action in ("now", "queue") and duplicate_blocked(
-                    state, d, "🚀 Post now" if action == "now" else "🕒 Queue"):
+            elif action in ("now", "queue", "reel") and duplicate_blocked(
+                    state, d, {"now": "🚀 Post now", "queue": "🕒 Queue", "reel": "🎬 Reel"}[action]):
                 continue
-            elif action == "now":
+            elif action in ("now", "reel"):
                 d["status"] = "queued"
                 d["queued_at"] = now_utc().isoformat()
                 d["post_now"] = True
-                tg_status(d, "🚀 Posting now…", cancel=False)
-                log("Approved", pid, "now")
+                if action == "reel" and REELS_ENABLED:
+                    d["make_reel"] = True
+                    left = REELS_PER_DAY - reels_today(state)
+                    tg_status(d, "🎬 Posting + making Reel…" if left > 0 else "🚀 Posting now (Reel limit reached)…")
+                else:
+                    tg_status(d, "🚀 Posting now…", cancel=False)
+                log("Approved", pid, action)
             elif action == "queue":
                 d["status"] = "queued"
                 d["queued_at"] = now_utc().isoformat()
@@ -762,7 +769,7 @@ def process_telegram(state, wait=0):
                 state["linking"] = "tiktok"
                 tg_text("🎵 <b>Content channel</b>\n"
                         "After midnight New York, the day's pack is sent there: the list of titles "
-                        "+ ONE zip file with all images (9:16 and 4:5) and captions.\n\n"
+                        "+ ONE zip file with a folder of all the day's images.\n\n"
                         "1. Create a Telegram channel (e.g. '7 Seas – TikTok')\n"
                         "2. Channel info → Administrators → Add admin → add this bot\n"
                         "3. Post any message in the channel and <b>forward it to me</b> now\n\n"
@@ -851,6 +858,198 @@ def facebook_post_photo(image_bytes, caption):
     if "error" in j:
         raise RuntimeError(j["error"].get("message", str(j["error"])))
     return j.get("post_id") or j.get("id")
+
+
+# =============================================================================
+# SINGLE-STORY REELS (🎬 Reel button) — 1080x1920, 30 fps, H.264 + silent AAC
+# =============================================================================
+
+RW, RH, FPS = 1080, 1920, 30
+GRAPH_VERSION = "v25.0"                # Graph API version for the Reels upload
+REEL_IMG_Y = 285                       # where the 1080x1350 post sits in the 9:16 frame
+
+
+def ffmpeg_exe():
+    exe = shutil.which("ffmpeg")
+    if exe:
+        return exe
+    try:
+        import imageio_ffmpeg                # optional fallback (pip install imageio-ffmpeg)
+        return imageio_ffmpeg.get_ffmpeg_exe()
+    except Exception:
+        raise RuntimeError("ffmpeg is not installed")
+
+
+def reel_frames_setup(d):
+    """Background (blur top + post without headline + bottom colour), headline layout and end card."""
+    lay = {}
+    label = "BREAKING NEWS" if d.get("breaking") else d.get("label", "WORLD")
+    clean = Image.open(io.BytesIO(render_image(d["headline"], label, d.get("sources", []), d["bg"],
+                                               hide_headline=True, layout=lay))).convert("RGB")
+    frame = Image.new("RGB", (RW, RH), BLACK)
+    # top: blurred, 45 % darker zoom of the post's photo area
+    photo_area = clean.crop((0, 120, W, int(H * 0.55)))
+    top = cover(photo_area, RW, REEL_IMG_Y + 80, 0.5).filter(ImageFilter.GaussianBlur(28))
+    top = Image.blend(top, Image.new("RGB", top.size, BLACK), 0.45)
+    frame.paste(top, (0, 0))
+    # bottom: the post's own bottom colour
+    strip = clean.crop((0, H - 6, W, H)).resize((1, 1), Image.LANCZOS).getpixel((0, 0))
+    frame.paste(Image.new("RGB", (RW, RH - REEL_IMG_Y - H), strip), (0, REEL_IMG_Y + H))
+    frame.paste(clean, (0, REEL_IMG_Y))
+    return frame, lay
+
+
+def reel_end_card():
+    card = Image.new("RGB", (RW, RH), BLACK)
+    dr = ImageDraw.Draw(card)
+    y = 700
+    if os.path.exists(LOGO_FILE):
+        logo = Image.open(LOGO_FILE).convert("RGBA")
+        lw = 560
+        logo = logo.resize((lw, int(logo.height * lw / logo.width)), Image.LANCZOS)
+        card.paste(logo, ((RW - lw) // 2, y - logo.height - 70), logo)
+    else:
+        dr.text((RW // 2, y - 120), "7 SEAS NEWS", font=font("Poppins-Bold.ttf", 90), fill=WHITE, anchor="mm")
+    dr.rectangle([RW // 2 - 70, y, RW // 2 + 70, y + 8], fill=RED)
+    dr.text((RW // 2, y + 110), "FOLLOW FOR MORE", font=font("Poppins-Bold.ttf", 92), fill=WHITE, anchor="mm")
+    sub = "VERIFIED WORLD NEWS · EVERY DAY"
+    sf = font("Poppins-Medium.ttf", 36)
+    sw = spaced_width(dr, sub, sf, 4)
+    spaced(dr, ((RW - sw) / 2, y + 190), sub, sf, (200, 200, 205), 4)
+    return card
+
+
+def make_reel(d, seconds=None):
+    """Build the Reel video for one post and return the MP4 bytes."""
+    seconds = max(6, int(seconds or REEL_SECONDS))
+    base, lay = reel_frames_setup(d)
+    end = reel_end_card()
+    lines, size = lay["lines"], lay["size"]
+    hf = font("Poppins-Bold.ttf", size)
+    x0, y0, lh = lay["x"], lay["y"] + REEL_IMG_Y, lay["line_h"]
+    total_chars = sum(len(ln) for ln in lines)
+
+    n_frames = seconds * FPS
+    t_type0 = int(0.4 * FPS)                                 # typing starts
+    type_frames = int(min(4.5, max(1.8, total_chars * 0.055)) * FPS)
+    end_start = n_frames - int(2.6 * FPS)                    # end card
+    fade = int(0.4 * FPS)
+
+    measure = ImageDraw.Draw(Image.new("RGB", (8, 8)))
+    cmd = [ffmpeg_exe(), "-y", "-loglevel", "error",
+           "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{RW}x{RH}", "-r", str(FPS), "-i", "-",
+           "-f", "lavfi", "-i", "anullsrc=channel_layout=stereo:sample_rate=48000",
+           "-c:v", "libx264", "-preset", "medium", "-crf", "20", "-pix_fmt", "yuv420p", "-profile:v", "high",
+           "-c:a", "aac", "-b:a", "128k", "-shortest", "-t", str(seconds), "-movflags", "+faststart"]
+    with tempfile.TemporaryDirectory() as tmp:
+        out = os.path.join(tmp, "reel.mp4")
+        proc = subprocess.Popen(cmd + [out], stdin=subprocess.PIPE, stderr=subprocess.PIPE)
+        cache = {}
+        try:
+            for f in range(n_frames):
+                if f >= end_start + fade:
+                    img = end
+                else:
+                    shown = 0 if f < t_type0 else min(total_chars, int((f - t_type0) / type_frames * total_chars) + 1)
+                    blink_on = shown < total_chars or (f // 15) % 2 == 0     # cursor blinks when done
+                    key = (shown, blink_on)
+                    if key not in cache:
+                        img = base.copy()
+                        dr = ImageDraw.Draw(img)
+                        left, y, cx, cy = shown, y0, x0, y0
+                        for ln in lines:
+                            part = ln[:max(0, left)]
+                            if part:
+                                dr.text((x0 + 2, y + 3), part, font=hf, fill=(0, 0, 0))
+                                dr.text((x0, y), part, font=hf, fill=WHITE)
+                            if left > 0:
+                                cx, cy = x0 + measure.textlength(part, font=hf), y
+                            left -= len(ln)
+                            y += lh
+                            if left <= 0:
+                                break
+                        if blink_on:
+                            dr.rectangle([cx + 6, cy + int(size * 0.18), cx + 6 + max(5, size // 12),
+                                          cy + int(size * 1.12)], fill=RED)
+                        cache = {key: img}                           # keep memory small
+                    img = cache[key]
+                    if f >= end_start:                               # cross-fade into the end card
+                        img = Image.blend(img, end, (f - end_start + 1) / fade)
+                proc.stdin.write(img.tobytes())
+            proc.stdin.close()
+            err = proc.stderr.read().decode(errors="ignore")
+            if proc.wait() != 0:
+                raise RuntimeError("ffmpeg failed: " + err[-300:])
+        except BrokenPipeError:
+            proc.wait()
+            raise RuntimeError("ffmpeg stopped: " + proc.stderr.read().decode(errors="ignore")[-300:])
+        return open(out, "rb").read()
+
+
+def reel_caption(d):
+    """Headline, one-line summary, FOLLOW_LINE, 3–5 lowercase hashtags."""
+    first = re.split(r"(?<=[.!?])\s+", str(d.get("summary", "")).strip())[0] if d.get("summary") else ""
+    tags = ["#" + re.sub(r"[^A-Za-z0-9_]", "", t).lower() for t in d.get("hashtags", [])[:3]]
+    tags += [BRAND_HASHTAG.lower()] + REEL_HASHTAGS.lower().split()
+    tags = [t for t in dict.fromkeys(tags) if len(t) > 1][:5]
+    head = f"🚨 BREAKING: {d['headline']}" if d.get("breaking") else d["headline"]
+    return "\n\n".join(x for x in with_follow_line([head, first]) + [" ".join(tags)] if x)
+
+
+def facebook_post_reel(video_bytes, caption):
+    """Facebook Reels for Pages: start → upload to rupload.facebook.com → finish (PUBLISHED)."""
+    base = f"https://graph.facebook.com/{GRAPH_VERSION}/{FB_PAGE_ID}/video_reels"
+    j = HTTP.post(base, data={"upload_phase": "start", "access_token": FB_TOKEN}, timeout=60).json()
+    if "error" in j or not j.get("video_id"):
+        raise RuntimeError("Reel start: " + str(j.get("error", {}).get("message", j)))
+    vid = j["video_id"]
+    up = j.get("upload_url") or f"https://rupload.facebook.com/video-upload/{GRAPH_VERSION}/{vid}"
+    r = HTTP.post(up, data=video_bytes, timeout=300, headers={
+        "Authorization": f"OAuth {FB_TOKEN}", "offset": "0", "file_size": str(len(video_bytes))})
+    u = r.json() if r.text.strip().startswith("{") else {"error": {"message": r.text[:200]}}
+    if not u.get("success"):
+        raise RuntimeError("Reel upload: " + str(u.get("error", {}).get("message", u)))
+    j = HTTP.post(base, timeout=60, data={"upload_phase": "finish", "video_id": vid, "video_state": "PUBLISHED",
+                                          "description": caption, "access_token": FB_TOKEN}).json()
+    if "error" in j or not j.get("success", True):
+        raise RuntimeError("Reel finish: " + str(j.get("error", {}).get("message", j)))
+    return vid
+
+
+def reels_today(state):
+    return state.get("reels_count", {}).get(ny_now().date().isoformat(), 0)
+
+
+def publish_reel(state, d):
+    """After the post is live: make + publish its Reel (if under REELS_PER_DAY) and log the link."""
+    day = ny_now().date().isoformat()
+    if reels_today(state) >= REELS_PER_DAY:
+        tg_text(f"🎬 Reel limit reached ({REELS_PER_DAY} today, New York day). The post is live, "
+                f"but no Reel was made for: <b>{html.escape(d['headline'])}</b>")
+        return
+    try:
+        video = make_reel(d)
+        vid = facebook_post_reel(video, reel_caption(d))
+    except Exception as e:
+        log("Reel error:", e)
+        tg_text(f"⚠️ The post is live, but the Reel failed:\n<code>{html.escape(str(e))[:500]}</code>\n\n"
+                "If it mentions a permission, your Page token may need the pages_manage_posts and "
+                "publish_video permissions (make a new token in the Graph API Explorer).")
+        return
+    counts = state.setdefault("reels_count", {})
+    counts[day] = counts.get(day, 0) + 1
+    for k in sorted(counts)[:-7]:            # keep one week
+        counts.pop(k)
+    d["fb_reel_id"] = vid
+    link = f"https://www.facebook.com/reel/{vid}"
+    log("Reel published", d["id"], vid)
+    now = now_utc()
+    text = (f"🎬 <b>Reel published</b> · {ny_now():%b %d} · {ny_time(now)} New York · {lk_time(now)} Sri Lanka\n\n"
+            f"<b>{html.escape(d['headline'])}</b>\n"
+            f"Reels today: {counts[day]}/{REELS_PER_DAY}\n\n🔗 <a href=\"{link}\">Open the Reel</a>")
+    ch = state.get("log_channel")
+    if not (ch and tg("sendMessage", chat_id=ch, text=text, parse_mode="HTML").get("ok")):
+        tg_text(text)
 
 
 def story_wanted(d):
@@ -1014,6 +1213,8 @@ def publish_due(state):
                     log("Sent to TikTok channel", d["id"])
             except Exception as e:  # never block publishing because of this
                 log("TikTok channel error:", e)
+            if d.pop("make_reel", None) and REELS_ENABLED:
+                publish_reel(state, d)          # tells you itself if the daily limit is reached
         except Exception as e:
             d["attempts"] = d.get("attempts", 0) + 1
             log("Facebook error:", e)
@@ -1267,8 +1468,12 @@ Write a Facebook news post about this story. Strict rules:
   and concrete names, numbers and places from the reports. Catchy, but never exaggerated, misleading or invented.
 
 Return ONLY JSON with these keys:
-"headline": 6 to 12 words. Catchy and 100% factual: the most striking fact first, strong verb, names/numbers from the reports. A colon is allowed for impact (e.g. "Pope Leo lands in Uruguay: first stop of South America tour"). No question headlines, no "you won't believe", no ALL-CAPS words (except abbreviations like US, UN), no emojis, no ending period.
-"summary": 2 or 3 short sentences (max 60 words) saying what happened and why it matters.
+"headline": 6 to 12 words. A PLAIN FACT: who did what, where (and how many, if known). Use a neutral, simple verb (says, wins, loses, signs, votes, meets, arrives, kills, injures, announces). The headline must be something every side would agree is true.
+  NEVER judge, interpret or predict: no metaphors, no loaded or emotional words (e.g. cracks, slams, blasts, destroys, crushing, stunning, humiliates, vulnerability, "win for", "blow to", "disaster for", "red wall"), no claims about what an event "exposes", "signals" or "means".
+  Good: "Republicans lose several Florida House seats in midterms", "Pope Leo arrives in Uruguay on first stop of South America tour".
+  Bad: "Florida red wall cracks: midterms expose Republican vulnerability", "Trump slams Democrats in fiery speech".
+  No question headlines, no ALL-CAPS words (except abbreviations like US, UN), no emojis, no ending period.
+"summary": 2 or 3 short sentences (max 60 words) saying what happened and the facts around it, in the same neutral words (no judging, no loaded words; "why it matters" only if a report states it, attributed).
 "hook": ONE short, specific question about THIS story that people would genuinely want to answer, without taking any side. Mention the actual decision, person or place, not generic.
   Good: "Should Congress be able to block tariffs like these?", "Can these talks in Abu Dhabi end the fighting?"
   Bad (never use): "What are your thoughts?", "Let us know in the comments", "Comment below", "Share this", "Tag a friend", "Like if you agree".
@@ -1283,7 +1488,7 @@ Return ONLY JSON with these keys:
 "image_queries": a list of 4 OTHER, different photo ideas for this story (2 to 4 words each, places or things, never a person), e.g. for a story about Democrats in Congress: ["Senate chamber", "Capitol Hill", "Democratic National Convention", "voting booth"].
 "people": a list of 0 to 3 real people who are the MAIN subject of the story AND are named in your headline, full names exactly as written in the reports, e.g. ["Donald Trump", "Vladimir Putin"]. People who are only mentioned in the background must NOT be listed. Use [] if the headline names no person (for example a story about a country, party, vote or attack).
 "skip": true if this is about South Asia, is not hard news (opinion, sport, entertainment, live blog), or the reports describe different events. Otherwise false.
-"""
+{fix}"""
 
 
 def gemini_models():
@@ -1292,13 +1497,39 @@ def gemini_models():
     return list(dict.fromkeys(models))
 
 
-def gemini_write(c):
+def banned_words_in(post):
+    """Loaded/opinion words from BANNED_HEADLINE_WORDS found in the headline or summary."""
+    text = plain(f"{post.get('headline', '')} {post.get('summary', '')}").lower()
+    return [w for w in BANNED_HEADLINE_WORDS
+            if re.search(r"(?<![a-z])" + re.escape(w.lower()) + r"(?![a-z])", text)]
+
+
+def gemini_write_neutral(c):
+    """Write the post; if it uses loaded words, ask once for a neutral rewrite; still bad → skip."""
+    post = gemini_write(c)
+    bad = banned_words_in(post)
+    if not bad or post.get("skip"):
+        return post
+    log("Loaded words, asking for a rewrite:", bad, "|", post.get("headline"))
+    fix = (f"\nIMPORTANT: your last headline was \"{post.get('headline')}\". It used judging or loaded words "
+           f"({', '.join(bad)}). Rewrite the headline and summary as plain facts and do NOT use any of these "
+           f"words: {', '.join(BANNED_HEADLINE_WORDS)}.\n")
+    post = gemini_write(c, fix)
+    bad = banned_words_in(post)
+    if bad:
+        log("Still loaded words, skipping story:", bad, "|", post.get("headline"))
+        post["skip"] = True
+        post["skip_reason"] = "loaded words: " + ", ".join(bad)
+    return post
+
+
+def gemini_write(c, fix=""):
     reports = "\n\n".join(
         f"Outlet: {i['source']}\nTitle: {i['title']}\nSummary: {i['summary']}"
         for i in c["items"][:6]
     )
     body = {
-        "contents": [{"parts": [{"text": PROMPT.format(reports=reports)}]}],
+        "contents": [{"parts": [{"text": PROMPT.format(reports=reports, fix=fix)}]}],
         "generationConfig": {"responseMimeType": "application/json", "temperature": 0.3},
     }
     last_err = None
@@ -1517,14 +1748,15 @@ def wiki_person_photo(name, exclude=()):
     return {k: v for k, v in pick.items() if k != "portrait"}
 
 
-def pexels_photo(query, exclude=()):
+def pexels_photo(query, exclude=(), countries=()):
     if not PEXELS_KEY or not query:
         return None
     try:
         r = HTTP.get("https://api.pexels.com/v1/search", timeout=30,
                      params={"query": query, "orientation": "portrait", "per_page": 15},
                      headers={"Authorization": PEXELS_KEY})
-        allp = [p for p in r.json().get("photos", []) if p["src"]["large2x"] not in exclude]
+        allp = [p for p in r.json().get("photos", []) if p["src"]["large2x"] not in exclude
+                and place_ok(f"{query} {p.get('alt', '')} {p.get('url', '')}", countries)]
         photos = [p for p in allp if p["src"]["large2x"] not in recent_photos()] or allp
         if not photos:
             return None
@@ -1536,14 +1768,15 @@ def pexels_photo(query, exclude=()):
         return None
 
 
-def pixabay_photo(query, exclude=()):
+def pixabay_photo(query, exclude=(), countries=()):
     if not PIXABAY_KEY or not query:
         return None
     try:
         r = HTTP.get("https://pixabay.com/api/", timeout=30, params={
             "key": PIXABAY_KEY, "q": query[:100], "image_type": "photo", "order": "popular",
             "safesearch": "true", "per_page": 20, "min_width": 1600})
-        allh = [h for h in r.json().get("hits", []) if h["largeImageURL"] not in exclude]
+        allh = [h for h in r.json().get("hits", []) if h["largeImageURL"] not in exclude
+                and place_ok(f"{h.get('tags', '')} {h.get('pageURL', '')}", countries)]
         hits = [h for h in allh if h["largeImageURL"] not in recent_photos()] or allh
         if not hits:
             return None
@@ -1554,6 +1787,133 @@ def pixabay_photo(query, exclude=()):
     except Exception as e:
         log("Pixabay failed:", e)
         return None
+
+
+# ---------- which country is a story / a photo about? (STRICT_PHOTO_MATCH) ----------
+US_STATES = ("alabama|alaska|arizona|arkansas|california|colorado|connecticut|delaware|florida|georgia|hawaii|idaho|"
+             "illinois|indiana|iowa|kansas|kentucky|louisiana|maine|maryland|massachusetts|michigan|minnesota|"
+             "mississippi|missouri|montana|nebraska|nevada|new hampshire|new jersey|new mexico|new york|"
+             "north carolina|north dakota|ohio|oklahoma|oregon|pennsylvania|rhode island|south carolina|"
+             "south dakota|tennessee|texas|utah|vermont|virginia|washington|west virginia|wisconsin|wyoming")
+# country: words that point to it (name, people, capital, big cities). One line each.
+COUNTRY_WORDS = {
+    "United States": "united states|usa|u s a|u s|us|america|american|americans|washington d c|district of columbia|"
+                     "capitol hill|white house|pentagon|chicago|los angeles|san francisco|miami|boston|houston|"
+                     "philadelphia|seattle|atlanta|dallas|las vegas|detroit|denver|phoenix|" + US_STATES,
+    "United Kingdom": "united kingdom|uk|britain|british|england|english|scotland|scottish|wales|welsh|"
+                      "northern ireland|london|manchester|birmingham|liverpool|edinburgh|glasgow|royal mail|westminster",
+    "Canada": "canada|canadian|ottawa|toronto|montreal|vancouver|quebec|ontario|alberta",
+    "Mexico": "mexico|mexican|mexico city|tijuana|guadalajara|monterrey",
+    "Ireland": "ireland|irish|dublin",
+    "France": "france|french|paris|marseille|lyon",
+    "Germany": "germany|german|berlin|munich|hamburg|frankfurt",
+    "Italy": "italy|italian|rome|milan|naples|venice",
+    "Spain": "spain|spanish|madrid|barcelona",
+    "Portugal": "portugal|portuguese|lisbon",
+    "Netherlands": "netherlands|dutch|amsterdam|the hague|rotterdam",
+    "Belgium": "belgium|belgian|brussels",
+    "Switzerland": "switzerland|swiss|geneva|zurich|bern",
+    "Austria": "austria|austrian|vienna",
+    "Poland": "poland|polish|warsaw|krakow",
+    "Ukraine": "ukraine|ukrainian|kyiv|kiev|kharkiv|odesa|odessa|lviv|dnipro|zaporizhzhia|donetsk|crimea",
+    "Russia": "russia|russian|moscow|kremlin|st petersburg|saint petersburg",
+    "Belarus": "belarus|belarusian|minsk",
+    "Lithuania": "lithuania|lithuanian|vilnius|kaunas|trakai",
+    "Latvia": "latvia|latvian|riga",
+    "Estonia": "estonia|estonian|tallinn",
+    "Moldova": "moldova|moldovan|chisinau",
+    "Georgia (country)": "tbilisi|georgian",
+    "Armenia": "armenia|armenian|yerevan",
+    "Azerbaijan": "azerbaijan|azerbaijani|baku",
+    "Serbia": "serbia|serbian|belgrade",
+    "Croatia": "croatia|croatian|zagreb",
+    "Czech Republic": "czech|czechia|prague",
+    "Slovakia": "slovakia|slovak|bratislava",
+    "Bulgaria": "bulgaria|bulgarian|sofia",
+    "Hungary": "hungary|hungarian|budapest",
+    "Romania": "romania|romanian|bucharest",
+    "Greece": "greece|greek|athens",
+    "Turkey": "turkey|turkish|turkiye|ankara|istanbul",
+    "Sweden": "sweden|swedish|stockholm",
+    "Norway": "norway|norwegian|oslo",
+    "Denmark": "denmark|danish|copenhagen|greenland",
+    "Finland": "finland|finnish|helsinki",
+    "Israel": "israel|israeli|jerusalem|tel aviv|haifa|knesset",
+    "Palestine": "palestine|palestinian|gaza|west bank|ramallah|rafah|khan younis",
+    "Lebanon": "lebanon|lebanese|beirut",
+    "Syria": "syria|syrian|damascus|aleppo",
+    "Iraq": "iraq|iraqi|baghdad|mosul|erbil",
+    "Iran": "iran|iranian|tehran|isfahan",
+    "Saudi Arabia": "saudi arabia|saudi|riyadh|jeddah|mecca",
+    "Yemen": "yemen|yemeni|sanaa|aden|houthi",
+    "Qatar": "qatar|qatari|doha",
+    "United Arab Emirates": "united arab emirates|uae|emirati|dubai|abu dhabi",
+    "Egypt": "egypt|egyptian|cairo",
+    "Jordan": "jordan|jordanian|amman",
+    "China": "china|chinese|beijing|shanghai|hong kong",
+    "Taiwan": "taiwan|taiwanese|taipei",
+    "Japan": "japan|japanese|tokyo|osaka",
+    "South Korea": "south korea|south korean|seoul",
+    "North Korea": "north korea|north korean|pyongyang",
+    "Australia": "australia|australian|sydney|melbourne|canberra",
+    "New Zealand": "new zealand|wellington|auckland",
+    "Brazil": "brazil|brazilian|brasilia|rio de janeiro|sao paulo",
+    "Argentina": "argentina|argentine|argentinian|buenos aires",
+    "Venezuela": "venezuela|venezuelan|caracas",
+    "Colombia": "colombia|colombian|bogota",
+    "Cuba": "cuba|cuban|havana",
+    "Uruguay": "uruguay|uruguayan|montevideo",
+    "Chile": "chile|chilean|santiago",
+    "Peru": "peru|peruvian|lima",
+    "Nigeria": "nigeria|nigerian|abuja|lagos",
+    "South Africa": "south africa|south african|johannesburg|cape town|pretoria",
+    "Kenya": "kenya|kenyan|nairobi",
+    "Ethiopia": "ethiopia|ethiopian|addis ababa",
+    "Sudan": "sudan|sudanese|khartoum",
+    "Afghanistan": "afghanistan|afghan|kabul",
+    "Libya": "libya|libyan|tripoli|benghazi",
+    "Morocco": "morocco|moroccan|rabat|casablanca",
+    "Algeria": "algeria|algerian|algiers",
+    "Tunisia": "tunisia|tunisian|tunis",
+    "Somalia": "somalia|somali|mogadishu",
+    "Congo": "congo|congolese|kinshasa|goma",
+    "Haiti": "haiti|haitian|port au prince",
+    "Ecuador": "ecuador|ecuadorian|quito",
+    "Bolivia": "bolivia|bolivian|la paz",
+    "Panama": "panama|panamanian",
+    "Malaysia": "malaysia|malaysian|kuala lumpur",
+    "Singapore": "singapore|singaporean",
+    "Philippines": "philippines|filipino|manila",
+    "Indonesia": "indonesia|indonesian|jakarta",
+    "Vietnam": "vietnam|vietnamese|hanoi",
+    "Thailand": "thailand|thai|bangkok",
+}
+_COUNTRY_RE = {c: re.compile(r"(?<![a-z])(" + w + r")(?![a-z])") for c, w in COUNTRY_WORDS.items()}
+
+
+def countries_in(text):
+    t = re.sub(r"[^a-z0-9]+", " ", plain(str(text)).lower())
+    return {c for c, rx in _COUNTRY_RE.items() if rx.search(t)}
+
+
+def story_countries(post):
+    """Countries a story is about (from location + headline). US politics labels count as the US."""
+    found = countries_in(post.get("location", "")) or countries_in(post.get("headline", ""))
+    if not found and str(post.get("label", "")).upper() in ("US POLITICS", "ELECTIONS"):
+        found = {"United States"}
+    return found
+
+
+def place_ok(text, countries):
+    """STRICT_PHOTO_MATCH: the photo's text must name the story's country and no other country."""
+    if not STRICT_PHOTO_MATCH or not countries:
+        return True
+    named = countries_in(text)
+    if not named & countries:
+        return False
+    if named - countries and re.search(r"(?<![a-z])borders?(?![a-z])", plain(text).lower()):
+        return True                                     # e.g. US story + "Mexico–United States border"
+    return not (named - countries)
 
 
 def _small(url, w=400):
@@ -1580,7 +1940,7 @@ def photo_quality(url):
         return 0
 
 
-def wiki_search_photo(query, exclude=()):
+def wiki_search_photo(query, exclude=(), countries=()):
     """Best free-licensed photo from Wikimedia Commons. No key needed.
     Looks at 'Quality images' first, skips old/black-and-white pictures, checks colour and sharpness."""
     if not query:
@@ -1629,6 +1989,10 @@ def wiki_search_photo(query, exclude=()):
             hit = 30 if f" {must} " in t else (10 if has_words(t, must) else 0)
             if not hit or any(b in t for b in banned):
                 continue                                # the place must be in the file name
+            about = " ".join([title, clean_html(meta.get("ImageDescription", {}).get("value", ""))[:600],
+                              meta.get("Categories", {}).get("value", "").replace("|", " ")])
+            if not place_ok(about, countries):
+                continue                                # photo from another country (or not clearly ours)
             score = bonus + hit + (10 if year >= 2015 else 0) + max(0, 12 - rank) - (60 if url in rec else 0) \
                 + min(10, info.get("width", 0) / 600)
             cands.append((score, {"url": url, "credit": f"{artist} / Wikimedia Commons ({lic})",
@@ -1694,9 +2058,11 @@ def _choose_background(post, exclude=(), prefer_scene=False):
     if prefer_scene or post.get("image_style") == "scene" or not found:
         tries = photo_ideas(post)[:4]
         tries += [str(post.get(k) or "").strip() for k in ("image_query", "location")]
+        countries = story_countries(post)
         for q in dict.fromkeys(tries):
             if q:
-                scene = pexels_photo(q, exclude) or pixabay_photo(q, exclude) or wiki_search_photo(q, exclude)
+                scene = (pexels_photo(q, exclude, countries) or pixabay_photo(q, exclude, countries)
+                         or wiki_search_photo(q, exclude, countries))
             if scene:
                 PHOTO_MEM["recent_ideas"] = (PHOTO_MEM.get("recent_ideas", []) + [q.lower()])[-12:]
                 break
@@ -1836,7 +2202,9 @@ def people_strips(imgs):
     return base
 
 
-def render_image(headline, label, sources, bg):
+def render_image(headline, label, sources, bg, hide_headline=False, layout=None):
+    """The 1080x1350 post image. hide_headline=True leaves the headline out (for the Reel typing effect);
+    layout (a dict) is filled with where the headline goes: lines, font size, x, y, line height."""
     imgs = []
     for p in bg.get("photos", []):
         try:
@@ -1934,9 +2302,12 @@ def render_image(headline, label, sources, bg):
     d.rectangle([M, y - 70, M + lwid + 36, y - 22], fill=RED)
     spaced(d, (M + 18, y - 66), label, lf, WHITE, 3)
 
+    if layout is not None:
+        layout.update(lines=lines, size=size, x=M, y=y, line_h=line_h)
     for ln in lines:
-        d.text((M + 2, y + 3), ln, font=hf, fill=(0, 0, 0))
-        d.text((M, y), ln, font=hf, fill=WHITE)
+        if not hide_headline:
+            d.text((M + 2, y + 3), ln, font=hf, fill=(0, 0, 0))
+            d.text((M, y), ln, font=hf, fill=WHITE)
         y += line_h
 
     # --- footer ---
@@ -2002,8 +2373,17 @@ def build_caption(d):
     # sources + photo credit are printed small on the image itself
     if SHOW_READ_MORE_LINK and d.get("link"):
         lines += ["", f"📖 Read more: {d['link']}"]
+    lines = with_follow_line(lines)
     lines += ["", f"{tags} {BRAND_HASHTAG}".strip()]
     return "\n".join(lines)
+
+
+def with_follow_line(lines):
+    """Add FOLLOW_LINE (settings) before the hashtags, unless the text already has a follow line."""
+    text = "\n".join(lines).lower()
+    if FOLLOW_LINE and FOLLOW_LINE.lower() not in text and "follow 7 seas" not in text:
+        lines = lines + ["", FOLLOW_LINE]
+    return lines
 
 
 def send_draft(state, d):
@@ -2054,14 +2434,14 @@ def draft_new_posts(state):
             break
         state["seen_links"].extend(i["link"] for i in c["items"])  # never reconsider these
         try:
-            post = gemini_write(c)
+            post = gemini_write_neutral(c)
         except Exception as e:
             log("Skipping story, Gemini failed:", e)
             if "429" in str(e):
                 break
             continue
         if post.get("skip"):
-            log("Gemini marked skip:", c["items"][0]["title"])
+            log("Gemini marked skip:", c["items"][0]["title"], post.get("skip_reason", ""))
             continue
         d = {
             "id": hashlib.sha1(c["items"][0]["link"].encode()).hexdigest()[:10],
