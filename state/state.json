@@ -12613,9 +12613,11 @@
    "news_time": "2026-11-10T17:58:53+00:00",
    "news_latest": "2026-11-10T17:59:40+00:00",
    "caption": "Novaya Gazeta shuts down after decades in Russia\n\nIndependent newspaper Novaya Gazeta has shut down in Russia. The publication covered an increasingly repressive Russia for over 30 years and survived years of Kremlin pressure before losing its staff, reach, and ability to publish.\n\n💬 Can independent journalism survive under mounting government pressure?\n\n📖 Read more: https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html\n\n#NovayaGazeta #Russia #WorldNews #7SeasNews",
-   "status": "pending",
+   "status": "expired",
    "tg_message_id": 296,
-   "tg_file_id": "AgACAgUAAxkDAAIBKGrzX0oDONeCmRgaY29FB-KrRwFTAALrFWsbi0-YV6sdxhj0beFrAQADAgADdwADPQQ"
+   "tg_file_id": "AgACAgUAAxkDAAIBKGrzX0oDONeCmRgaY29FB-KrRwFTAALrFWsbi0-YV6sdxhj0beFrAQADAgADdwADPQQ",
+   "extra_msgs": [],
+   "cleared": true
   },
   "0f8beb9658": {
    "id": "0f8beb9658",
@@ -17712,17 +17714,13 @@
    "d7272befe4"
   ]
  ],
- "last_draft_at": "2026-11-11T01:45:19.095816+00:00",
+ "last_draft_at": "2026-11-11T01:57:21.798710+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-11T01:00:28.245843+00:00",
+ "last_stats_at": "2026-11-11T01:57:00.848249+00:00",
  "run_log": [
-  "11-10 23:30:32 run start",
-  "11-10 23:32:14 listening 10 min",
-  "11-10 23:42:17 listening done",
-  "11-10 23:42:17 run end after 704 s",
   "11-10 23:45:22 run start",
   "11-10 23:45:45 listening 11 min",
   "11-10 23:57:04 listening done",
@@ -17758,7 +17756,11 @@
   "11-11 01:45:18 run start",
   "11-11 01:45:28 listening 11 min",
   "11-11 01:56:47 listening done",
-  "11-11 01:56:47 run end after 688 s"
+  "11-11 01:56:47 run end after 688 s",
+  "11-11 01:57:00 run start",
+  "11-11 01:57:32 listening 11 min",
+  "11-11 02:08:27 listening done",
+  "11-11 02:08:27 run end after 686 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
