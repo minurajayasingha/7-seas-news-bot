@@ -15851,31 +15851,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-08T11:00:44.011389+00:00",
-   [
-    "16",
-    "700",
-    "attack",
-    "crew",
-    "deadly",
-    "emergency",
-    "injur",
-    "kill",
-    "oblast",
-    "past",
-    "russia",
-    "russian",
-    "sit",
-    "southern",
-    "strik",
-    "target",
-    "tim",
-    "ukrain",
-    "zaporizhzhia"
-   ],
-   "ae001d5774"
-  ],
-  [
    "2026-11-08T11:15:37.777667+00:00",
    [
     "brac",
@@ -19180,17 +19155,13 @@
    "bea75efaa6"
   ]
  ],
- "last_draft_at": "2026-11-11T10:45:21.403479+00:00",
+ "last_draft_at": "2026-11-11T11:00:52.211745+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-11T10:00:28.358308+00:00",
+ "last_stats_at": "2026-11-11T11:00:30.045682+00:00",
  "run_log": [
-  "11-11 08:45:20 run start",
-  "11-11 08:45:30 listening 11 min",
-  "11-11 08:56:50 listening done",
-  "11-11 08:56:50 run end after 689 s",
   "11-11 09:00:30 run start",
   "11-11 09:01:10 listening 11 min",
   "11-11 09:12:04 listening done",
@@ -19226,7 +19197,11 @@
   "11-11 10:45:21 run start",
   "11-11 10:45:31 listening 11 min",
   "11-11 10:56:50 listening done",
-  "11-11 10:56:50 run end after 689 s"
+  "11-11 10:56:50 run end after 689 s",
+  "11-11 11:00:29 run start",
+  "11-11 11:01:02 listening 11 min",
+  "11-11 11:11:55 listening done",
+  "11-11 11:11:55 run end after 686 s"
  ],
  "day_pack_done": "2026-11-10",
  "photo_memory": {
