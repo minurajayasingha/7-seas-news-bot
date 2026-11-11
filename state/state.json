@@ -12541,14 +12541,19 @@
    "news_time": "2026-11-10T14:00:13+00:00",
    "news_latest": "2026-11-10T17:13:03+00:00",
    "caption": "House Oversight Committee exposes federal failures in Epstein case\n\nThe House Oversight Committee released a report after a 15-month investigation accusing federal authorities of failing Jeffrey Epstein's victims. The investigation involved interviews with Epstein's high-powered associates.\n\n📖 Read more: https://www.independent.co.uk/news/world/americas/us-politics/epstein-trump-cleared-investigation-congress-b3082643.html\n\n#HouseOversight #USPolitics #Epstein #7SeasNews",
-   "status": "queued",
+   "status": "posted",
    "tg_message_id": 291,
    "tg_file_id": "AgACAgUAAxkDAAIBI2rzUTkdaaGlWlSK3-rox-HCkfSFAALdFWsbi0-YV28GW1G9iDbqAQADAgADdwADPQQ",
    "queued_at": "2026-11-10T17:51:47.493779+00:00",
    "post_now": false,
-   "extra_msgs": [
-    295
-   ]
+   "extra_msgs": [],
+   "fb_post_id": "1413030521900096_122098067157548584",
+   "posted_at": "2026-11-11T01:30:24.843986+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 10 · 8:30 PM New York · 7:00 AM Sri Lanka\n\n<b>House Oversight Committee exposes federal failures in Epstein case</b>\n<i>CBS News, Fox News, The Independent, UPI</i>\n🔴 <b>Latest:</b> 10:43 PM Sri Lanka (8h 17m ago) · first reported 7:30 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098067157548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 139,
+   "log_photo": true,
+   "cleared": true
   },
   "455871c5df": {
    "id": "455871c5df",
@@ -13839,6 +13844,71 @@
    "status": "pending",
    "tg_message_id": 314,
    "tg_file_id": "AgACAgUAAxkDAAIBOmrztzf-AUUgejb5VrUTCTQZwUWFAAJdEWsbi0-gVzqpwcOTXkIWAQADAgADdwADPQQ"
+  },
+  "d7272befe4": {
+   "id": "d7272befe4",
+   "headline": "Maria Elvira Salazar wins Florida House seat after immigration debate",
+   "summary": "Republican Maria Elvira Salazar secured reelection in Florida's 27th Congressional District. She defeated her Democratic opponent despite breaking with Donald Trump on immigration during the campaign.",
+   "label": "ELECTIONS",
+   "hook": "",
+   "key_points": [
+    "Salazar won in a Miami-based district carried by Trump.",
+    "She disagreed with Trump on his immigration agenda.",
+    "She defeated Democratic opponent Eliott Rodriguez."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#USPolitics",
+    "#FloridaElections",
+    "#Congress"
+   ],
+   "sources": [
+    "NBC News",
+    "The Hill"
+   ],
+   "link": "https://thehill.com/homenews/campaign/6163186-maria-elvira-salazar-florida-27th-district-reelection/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/homenews/campaign/6163186-maria-elvira-salazar-florida-27th-district-reelection/"
+    ],
+    [
+     "NBC News",
+     "https://www.nbcnews.com/politics/2026-election/maria-elvira-salazar-gop-florida-house-election-win-trump-clash-rcna603377"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Maria_Elvira_Salazar_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Office of Congresswoman Maria Elvira Salazar / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Maria Elvira Salazar wins Florida House seat after immigration debate",
+    "people": [
+     "Maria Elvira Salazar"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "voting booth",
+     "Miami skyline",
+     "House of Representatives chamber",
+     "election ballot"
+    ],
+    "image_style": "person",
+    "location": "Florida, US"
+   },
+   "created_at": "2026-11-11T01:30:45.108946+00:00",
+   "news_time": "2026-11-10T22:52:46+00:00",
+   "news_latest": "2026-11-10T23:36:07+00:00",
+   "caption": "🚨 BREAKING: Maria Elvira Salazar wins Florida House seat after immigration debate\n\nRepublican Maria Elvira Salazar secured reelection in Florida's 27th Congressional District. She defeated her Democratic opponent despite breaking with Donald Trump on immigration during the campaign.\n\nWhat we know so far:\n• Salazar won in a Miami-based district carried by Trump.\n• She disagreed with Trump on his immigration agenda.\n• She defeated Democratic opponent Eliott Rodriguez.\n\n📖 Read more: https://thehill.com/homenews/campaign/6163186-maria-elvira-salazar-florida-27th-district-reelection/\n\n#USPolitics #FloridaElections #Congress #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 317,
+   "tg_file_id": "AgACAgUAAxkDAAIBPWrzxUfiCqfwWc-0MgoKAAGT_XT2pwACaBFrG4tPoFcL2i1okOY4xwEAAwIAA3cAAz0E"
   }
  },
  "seen_links": [
@@ -14340,7 +14410,9 @@
   "https://www.npr.org/2026/11/10/nx-s1-6035872/house-gop-report-critical-of-epstein-investigation",
   "https://www.nbcnews.com/politics/congress/house-republican-report-epstein-justice-department-investigation-trump-rcna608548",
   "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-  "https://www.theguardian.com/us-news/2026/nov/10/prosecutors-charge-iranian-operative-uk-air-force-attack"
+  "https://www.theguardian.com/us-news/2026/nov/10/prosecutors-charge-iranian-operative-uk-air-force-attack",
+  "https://thehill.com/homenews/campaign/6163186-maria-elvira-salazar-florida-27th-district-reelection/",
+  "https://www.nbcnews.com/politics/2026-election/maria-elvira-salazar-gop-florida-house-election-win-trump-clash-rcna603377"
  ],
  "recent_topics": [
   [
@@ -17617,19 +17689,36 @@
     "trump"
    ],
    "9d03cbe8de"
+  ],
+  [
+   "2026-11-11T01:30:47.393304+00:00",
+   [
+    "break",
+    "clash",
+    "elvira",
+    "florida",
+    "gop",
+    "hous",
+    "immigration",
+    "keep",
+    "maria",
+    "re-election",
+    "rep",
+    "salazar",
+    "seat",
+    "trump",
+    "win"
+   ],
+   "d7272befe4"
   ]
  ],
- "last_draft_at": "2026-11-11T01:15:20.323788+00:00",
- "last_slot": "2026-11-10T18:00:00-05:00",
+ "last_draft_at": "2026-11-11T01:30:32.563924+00:00",
+ "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-11T01:00:28.245843+00:00",
  "run_log": [
-  "11-10 23:00:32 run start",
-  "11-10 23:01:11 listening 11 min",
-  "11-10 23:12:05 listening done",
-  "11-10 23:12:05 run end after 693 s",
   "11-10 23:15:21 run start",
   "11-10 23:15:41 listening 11 min",
   "11-10 23:27:00 listening done",
@@ -17665,12 +17754,15 @@
   "11-11 01:12:49 run end after 742 s",
   "11-11 01:15:19 run start",
   "11-11 01:16:32 run error: ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60)",
-  "11-11 01:16:33 run end after 74 s"
+  "11-11 01:16:33 run end after 74 s",
+  "11-11 01:30:24 run start",
+  "11-11 01:30:47 listening 11 min",
+  "11-11 01:42:05 listening done",
+  "11-11 01:42:05 run end after 701 s"
  ],
  "day_pack_done": "2026-11-09",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Dalian_Liaoning_China_Military-Air-Base-01.jpg/1920px-Dalian_Liaoning_China_Military-Air-Base-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Stephen_Miller_%2854360303177%29_%28cropped%29.jpg/1280px-Stephen_Miller_%2854360303177%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Thomas_Massie_%288561647254%29.jpg/1280px-Thomas_Massie_%288561647254%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg/1280px-Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -17709,7 +17801,8 @@
    "https://upload.wikimedia.org/wikipedia/commons/5/55/Donald_Trump_by_Gage_Skidmore_4_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Ben_Ferguson_in_About_Time.jpg/1280px-Ben_Ferguson_in_About_Time.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/0/08/Maria_Elvira_Salazar_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   ],
   "pools": {
    "donald trump": {
@@ -20366,6 +20459,28 @@
       "credit": "Red Bull Snow / Wikimedia Commons (CC BY 3.0)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": false
+     }
+    ]
+   },
+   "maria elvira salazar": {
+    "t": "2026-11-11T01:30:45.108846+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/REP.MES_Headshot_%28cropped_2%29.jpg/1280px-REP.MES_Headshot_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "LogCabinRepublicanFL / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Maria_Elvira_Salazar.jpg/1280px-Maria_Elvira_Salazar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Office of Congresswoman Maria Elvira Salazar / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Maria_Elvira_Salazar_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Office of Congresswoman Maria Elvira Salazar / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
      }
     ]
    }
