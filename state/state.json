@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892904,
+ "tg_offset": 495892905,
  "drafts": {
   "88b75ccda6": {
    "id": "88b75ccda6",
@@ -14736,6 +14736,144 @@
    "status": "pending",
    "tg_message_id": 331,
    "tg_file_id": "AgACAgUAAxkDAAIBS2r0BJ4gLMWFP8zop2_2CpDpAanEAALzFGsbSxqhV0OW_QIkgvNmAQADAgADdwADPQQ"
+  },
+  "93f8fc6377": {
+   "id": "93f8fc6377",
+   "headline": "Protesters Throw Milk At Joe Biden In Dublin",
+   "summary": "Pro-Palestinian protesters hurled milk and other objects at a car carrying Joe Biden and his family in Dublin. The demonstration occurred during a Hunter event, according to reports.",
+   "label": "WORLD",
+   "hook": "Why were protesters targeting Joe Biden during his visit to Dublin?",
+   "key_points": [
+    "Pro-Palestinian protesters threw milk at Joe Biden",
+    "The incident took place in Dublin, Ireland",
+    "Demonstrators cited support for Israel"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#JoeBiden",
+    "#Dublin",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "Newsweek"
+   ],
+   "link": "https://www.newsweek.com/protesters-throw-milk-at-joe-biden-in-dublin-blood-on-your-hands-12698156",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/protesters-throw-milk-at-joe-biden-in-dublin-blood-on-your-hands-12698156"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/11/protesters-throw-milk-at-joe-biden-during-hunter-event-in-dublin?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Dublin_architecture-_Georgian.jpg/1920px-Dublin_architecture-_Georgian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "ChelseaTagbo / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ],
+    "inset": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Attendees_applaud_as_President_Barack_Obama_acknowledges_Vice_President_Joe_Biden%2C_2014.jpg/1280px-Attendees_applaud_as_President_Barack_Obama_acknowledges_Vice_President_Joe_Biden%2C_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credit": "The White House from Washington, DC / Wikimedia Commons (Public domain)",
+     "short": "WIKIMEDIA COMMONS"
+    }
+   },
+   "img_post": {
+    "headline": "Protesters Throw Milk At Joe Biden In Dublin",
+    "people": [
+     "Joe Biden"
+    ],
+    "image_query": "Dublin city street",
+    "image_queries": [
+     "Dublin landmark",
+     "Irish capital street",
+     "Dublin city center",
+     "Dublin architecture"
+    ],
+    "image_style": "scene",
+    "location": "Dublin, Ireland"
+   },
+   "created_at": "2026-11-11T08:01:09.678425+00:00",
+   "news_time": "2026-11-11T02:12:22+00:00",
+   "news_latest": "2026-11-11T07:54:35+00:00",
+   "caption": "Protesters Throw Milk At Joe Biden In Dublin\n\nPro-Palestinian protesters hurled milk and other objects at a car carrying Joe Biden and his family in Dublin. The demonstration occurred during a Hunter event, according to reports.\n\n💬 Why were protesters targeting Joe Biden during his visit to Dublin?\n\n📖 Read more: https://www.newsweek.com/protesters-throw-milk-at-joe-biden-in-dublin-blood-on-your-hands-12698156\n\n#JoeBiden #Dublin #WorldNews #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 332,
+   "tg_file_id": "AgACAgUAAxkDAAIBTGr0IM7dfnBg2I15-fHia5hXkubTAAIxFWsbSxqhVxy0zNB6wkB4AQADAgADdwADPQQ",
+   "queued_at": "2026-11-11T08:02:10.092989+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122098310883548584",
+   "posted_at": "2026-11-11T08:02:10.409034+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 11 · 3:02 AM New York · 1:32 PM Sri Lanka\n\n<b>Protesters Throw Milk At Joe Biden In Dublin</b>\n<i>Al Jazeera, Newsweek</i>\n🟢 <b>Latest:</b> 1:24 PM Sri Lanka (7 min ago) · first reported 7:42 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098310883548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 160,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true
+  },
+  "291b7687a6": {
+   "id": "291b7687a6",
+   "headline": "DNA confirms four grizzly bears killed two women in Canada",
+   "summary": "Wildlife officials in Canada stated that DNA evidence links four grizzly bears to a deadly attack on a mother and her adult daughter. Investigators describe the incident along a hiking trail in British Columbia as a rare predatory attack.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Four grizzly bears were captured and killed by authorities.",
+    "The victims were a mother and her adult daughter.",
+    "The attack occurred along a hiking trail in British Columbia."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Canada",
+    "#Wildlife",
+    "#WorldNews"
+   ],
+   "sources": [
+    "New York Times",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/americas/grizzly-bear-attack-bella-coola-b3082897.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/grizzly-bear-attack-bella-coola-b3082897.html"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/10/world/canada/british-columbia-bear-attack.html"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "British Columbia, Canada"
+   },
+   "img_post": {
+    "headline": "DNA confirms four grizzly bears killed two women in Canada",
+    "people": [],
+    "image_query": "British Columbia wilderness",
+    "image_queries": [
+     "Canadian forest trail",
+     "grizzly bear habitat",
+     "British Columbia mountains",
+     "Canadian wildlife region"
+    ],
+    "image_style": "incident",
+    "location": "British Columbia, Canada"
+   },
+   "created_at": "2026-11-11T08:01:22.525031+00:00",
+   "news_time": "2026-11-11T07:32:18+00:00",
+   "news_latest": "2026-11-11T07:54:54+00:00",
+   "caption": "DNA confirms four grizzly bears killed two women in Canada\n\nWildlife officials in Canada stated that DNA evidence links four grizzly bears to a deadly attack on a mother and her adult daughter. Investigators describe the incident along a hiking trail in British Columbia as a rare predatory attack.\n\n📖 Read more: https://www.independent.co.uk/news/world/americas/grizzly-bear-attack-bella-coola-b3082897.html\n\n#Canada #Wildlife #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 333,
+   "tg_file_id": "AgACAgUAAxkDAAIBTWr0INsf-0jKCmQzS8z_cvdr3UFZAAIyFWsbSxqhV7Te734XV3-eAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -15254,7 +15392,11 @@
   "https://www.independent.co.uk/news/world/americas/donald-trump-gop-stephen-miller-los-angeles-united-states-b3082848.html",
   "https://thehill.com/homenews/campaign/6212326-norman-gives-trump-f-grade/",
   "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia",
-  "https://www.independent.co.uk/news/world/europe/ukraine-strike-rubicon-drone-base-b3082846.html"
+  "https://www.independent.co.uk/news/world/europe/ukraine-strike-rubicon-drone-base-b3082846.html",
+  "https://www.newsweek.com/protesters-throw-milk-at-joe-biden-in-dublin-blood-on-your-hands-12698156",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/11/protesters-throw-milk-at-joe-biden-during-hunter-event-in-dublin?traffic_source=rss",
+  "https://www.independent.co.uk/news/world/americas/grizzly-bear-attack-bella-coola-b3082897.html",
+  "https://www.nytimes.com/2026/11/10/world/canada/british-columbia-bear-attack.html"
  ],
  "recent_topics": [
   [
@@ -18624,19 +18766,56 @@
     "war"
    ],
    "6c235661bd"
+  ],
+  [
+   "2026-11-11T08:01:18.816625+00:00",
+   [
+    "biden",
+    "blood",
+    "dublin",
+    "event",
+    "hand",
+    "hunter",
+    "joe",
+    "milk",
+    "protester",
+    "throw",
+    "your"
+   ],
+   "93f8fc6377"
+  ],
+  [
+   "2026-11-11T08:01:32.080792+00:00",
+   [
+    "attack",
+    "authority",
+    "bear",
+    "canada",
+    "canadian",
+    "confirm",
+    "daughter",
+    "deadly",
+    "dna",
+    "four",
+    "grizzly",
+    "hiker",
+    "involv",
+    "kill",
+    "mother",
+    "pack",
+    "predatory",
+    "rar"
+   ],
+   "291b7687a6"
   ]
  ],
- "last_draft_at": "2026-11-11T07:45:22.843111+00:00",
+ "last_draft_at": "2026-11-11T08:00:50.630230+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-11T07:00:29.239498+00:00",
+ "last_stats_at": "2026-11-11T08:00:29.339395+00:00",
  "run_log": [
-  "11-11 05:30:23 run start",
-  "11-11 05:30:41 listening 11 min",
-  "11-11 05:42:02 listening done",
-  "11-11 05:42:02 run end after 698 s",
   "11-11 05:45:21 run start",
   "11-11 05:45:30 listening 11 min",
   "11-11 05:56:51 listening done",
@@ -18672,13 +18851,15 @@
   "11-11 07:45:22 run start",
   "11-11 07:45:33 listening 11 min",
   "11-11 07:56:52 listening done",
-  "11-11 07:56:52 run end after 690 s"
+  "11-11 07:56:52 run end after 690 s",
+  "11-11 08:00:28 run start",
+  "11-11 08:01:32 listening 10 min",
+  "11-11 08:11:55 listening done",
+  "11-11 08:11:55 run end after 686 s"
  ],
  "day_pack_done": "2026-11-10",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg/1280px-Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Knesset_Israeli_Parliament_Building_%2841404889170%29.jpg/1920px-Knesset_Israeli_Parliament_Building_%2841404889170%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/The_capitol_at_night.jpg/1920px-The_capitol_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/8/8d/National_Mall%2C_Washington_DC_%2843925452312%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -18716,7 +18897,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/0/08/Maria_Elvira_Salazar_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://upload.wikimedia.org/wikipedia/commons/f/fb/Cummins_Corporate_Office_Building_-_April_2008_-_Holly_Higgins_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Dublin_architecture-_Georgian.jpg/1920px-Dublin_architecture-_Georgian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Attendees_applaud_as_President_Barack_Obama_acknowledges_Vice_President_Joe_Biden%2C_2014.jpg/1280px-Attendees_applaud_as_President_Barack_Obama_acknowledges_Vice_President_Joe_Biden%2C_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -21400,7 +21583,6 @@
    }
   },
   "recent_ideas": [
-   "rafah border crossing",
    "supreme court building",
    "moscow street",
    "privy council london",
@@ -21411,7 +21593,8 @@
    "robert f. kennedy department of justice building",
    "federal courthouse",
    "thurgood marshall federal judiciary building",
-   "corporate office building"
+   "corporate office building",
+   "dublin architecture"
   ]
  }
 }
