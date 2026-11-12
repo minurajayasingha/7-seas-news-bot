@@ -1,85 +1,6 @@
 {
  "tg_offset": 495892992,
  "drafts": {
-  "51839f17eb": {
-   "id": "51839f17eb",
-   "headline": "Republican Party faces uncertainty after midterm losses with Trump in office",
-   "summary": "The Republican Party faces an uncertain future following midterm losses. While some members call for moderation and internal changes, President Trump remains in the White House.",
-   "label": "ELECTIONS",
-   "hook": "Can the Republican Party successfully reorganize while President Trump remains in the White House?",
-   "key_points": [
-    "The GOP experienced losses in the midterm elections.",
-    "Some Republicans called for moderation and cleaning house.",
-    "President Trump remains in the White House."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#Midterms",
-    "#RepublicanParty"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "New York Times",
-    "Washington Examiner"
-   ],
-   "link": "https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss",
-   "links": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss"
-    ],
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/in_focus/4795983/republican-winners-from-the-2026-midterms-tennessee-ron-desantis-florida/"
-    ],
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/08/us/politics/republican-blame-trump-midterms.html"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Door_to_Senate_Chamber_MN_State_Capitol.jpg/1920px-Door_to_Senate_Chamber_MN_State_Capitol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Myotus / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Republican Party faces uncertainty after midterm losses with Trump in office",
-    "people": [],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "White House",
-     "Senate chamber",
-     "House of Representatives chamber",
-     "Capitol Hill"
-    ],
-    "image_style": "person",
-    "location": "US"
-   },
-   "created_at": "2026-11-08T19:15:32.511160+00:00",
-   "news_time": "2026-11-08T16:04:04+00:00",
-   "news_latest": "2026-11-08T19:09:18+00:00",
-   "caption": "Republican Party faces uncertainty after midterm losses with Trump in office\n\nThe Republican Party faces an uncertain future following midterm losses. While some members call for moderation and internal changes, President Trump remains in the White House.\n\n💬 Can the Republican Party successfully reorganize while President Trump remains in the White House?\n\n📖 Read more: https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss\n\n#USPolitics #Midterms #RepublicanParty #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 129,
-   "tg_file_id": "AgACAgUAAxkDAAOBavDKVlOxLltOO3QQG7z4mrTIe6EAAj0Vaxv_D4lXm4-jQ65CB08BAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-09T01:38:34.672514+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122096318763548584",
-   "posted_at": "2026-11-09T01:38:35.834373+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 08 · 8:38 PM New York · 7:08 AM Sri Lanka\n\n<b>Republican Party faces uncertainty after midterm losses with Trump in office</b>\n<i>Al Jazeera, New York Times, Washington Examiner</i>\n🔴 <b>Latest:</b> 12:39 AM Sri Lanka (6h 29m ago) · first reported 9:34 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096318763548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 36,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "1631259271495845"
-  },
   "bbb2d9a46d": {
    "id": "bbb2d9a46d",
    "headline": "Midterm Elections Conclude Across United States",
@@ -17658,6 +17579,75 @@
     "shares": 0
    },
    "stats_at": "2026-11-12T19:00:32.600409+00:00"
+  },
+  "2cd33e9685": {
+   "id": "2cd33e9685",
+   "headline": "New members of Congress arrive for class photo",
+   "summary": "Newly elected House members arrived to pose for their class photo ahead of their swearing-in on January 3. Former House leaders advised incoming members to prioritize economic affordability issues.",
+   "label": "US POLITICS",
+   "hook": "Should new members of Congress prioritize economic affordability over partisan issues?",
+   "key_points": [
+    "New House members stepped off buses in the morning.",
+    "Cheri Bustos and Joe Crowley advised incoming members.",
+    "Affordability issues include energy costs and housing shortages."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Congress",
+    "#HouseOfRepresentatives"
+   ],
+   "sources": [
+    "The Hill",
+    "Washington Post"
+   ],
+   "link": "https://www.washingtonpost.com/politics/2026/11/12/say-cheese-new-congress-members-pose-class-photo/",
+   "links": [
+    [
+     "Washington Post",
+     "https://www.washingtonpost.com/politics/2026/11/12/say-cheese-new-congress-members-pose-class-photo/"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/opinion/congress-blog/6214735-advice-new-members-congress/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg/1920px-High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Dllu / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "New members of Congress arrive for class photo",
+    "people": [],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Capitol Hill",
+     "House of Representatives chamber",
+     "US Capitol steps",
+     "Senate chamber"
+    ],
+    "image_style": "scene",
+    "location": "US",
+    "event_query": "Congress class photo",
+    "news_time": null
+   },
+   "created_at": "2026-11-12T19:15:31.885838+00:00",
+   "news_time": "2026-11-12T18:00:00+00:00",
+   "news_latest": "2026-11-12T19:10:00+00:00",
+   "caption": "New members of Congress arrive for class photo\n\nNewly elected House members arrived to pose for their class photo ahead of their swearing-in on January 3. Former House leaders advised incoming members to prioritize economic affordability issues.\n\n💬 Should new members of Congress prioritize economic affordability over partisan issues?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Congress #HouseOfRepresentatives #7SeasNews",
+   "status": "queued",
+   "tg_message_id": 430,
+   "tg_file_id": "AgACAgUAAxkDAAIBrmr2EF9l_t05_XH4SUNVcjuDD5MHAAIhE2sbFv2wVy9PPY0Dg6sYAQADAgADdwADPQQ",
+   "queued_at": "2026-11-12T19:15:43.805861+00:00",
+   "post_now": true,
+   "auto": true,
+   "attempts": 2
   }
  },
  "seen_links": [
@@ -18389,49 +18379,11 @@
   "https://www.newsweek.com/uss-george-h-w-bush-abraham-lincoln-deployment-comparison-12705042",
   "https://www.independent.co.uk/news/world/americas/navy-iran-mission-uss-george-hw-bush-trump-b3084030.html",
   "https://www.independent.co.uk/news/world/europe/turkey-military-helicopter-crash-samankoy-b3084116.html",
-  "https://abcnews.com/International/wireStory/military-helicopter-crashes-southern-turkey-killing-4-138085371"
+  "https://abcnews.com/International/wireStory/military-helicopter-crashes-southern-turkey-killing-4-138085371",
+  "https://www.washingtonpost.com/politics/2026/11/12/say-cheese-new-congress-members-pose-class-photo/",
+  "https://thehill.com/opinion/congress-blog/6214735-advice-new-members-congress/"
  ],
  "recent_topics": [
-  [
-   "2026-11-09T19:15:37.910988+00:00",
-   [
-    "all",
-    "ally",
-    "cabinet",
-    "chang",
-    "conferenc",
-    "congress",
-    "congressman",
-    "defenc",
-    "ever",
-    "expect",
-    "fac",
-    "forc",
-    "giv",
-    "hegseth",
-    "hous",
-    "impeach",
-    "impeachment",
-    "loom",
-    "member",
-    "only",
-    "oust",
-    "plan",
-    "point",
-    "press",
-    "push",
-    "republican",
-    "return",
-    "secretary",
-    "talk",
-    "team",
-    "third",
-    "vot",
-    "washington",
-    "worri"
-   ],
-   "aa3c7ea26f"
-  ],
   [
    "2026-11-09T19:32:21.297176+00:00",
    [
@@ -21533,19 +21485,33 @@
     "turkey"
    ],
    "b545231803"
+  ],
+  [
+   "2026-11-12T19:15:43.802293+00:00",
+   [
+    "affordability",
+    "can",
+    "chees",
+    "class",
+    "congress",
+    "dear",
+    "deliver",
+    "member",
+    "now",
+    "photo",
+    "pos",
+    "welcom"
+   ],
+   "2cd33e9685"
   ]
  ],
- "last_draft_at": "2026-11-12T19:03:18.020570+00:00",
+ "last_draft_at": "2026-11-12T19:15:21.027960+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T19:00:32.600409+00:00",
  "run_log": [
-  "11-12 16:45:23 run start",
-  "11-12 16:45:33 listening 11 min",
-  "11-12 16:56:53 listening done",
-  "11-12 16:56:53 run end after 690 s",
   "11-12 17:00:36 run start",
   "11-12 17:01:13 listening 11 min",
   "11-12 17:12:08 listening done",
@@ -21581,12 +21547,15 @@
   "11-12 19:00:32 run start",
   "11-12 19:03:28 listening 9 min",
   "11-12 19:12:11 listening done",
-  "11-12 19:12:11 run end after 699 s"
+  "11-12 19:12:11 run end after 699 s",
+  "11-12 19:15:20 run start",
+  "11-12 19:15:44 listening 11 min",
+  "11-12 19:27:05 listening done",
+  "11-12 19:27:05 run end after 704 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Ballot_box_in_Denver%2C_October_2020_2.jpg/1920px-Ballot_box_in_Denver%2C_October_2020_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/USS_Gerald_R._Ford_%28CVN_78%29_shock_ttrial_1.jpg/1920px-USS_Gerald_R._Ford_%28CVN_78%29_shock_ttrial_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Pete_Hegseth_%2851772824725%29.jpg/1280px-Pete_Hegseth_%2851772824725%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/House_of_Representatives_Chamber%2C_Idaho_State_Capitol.jpg/1920px-House_of_Representatives_Chamber%2C_Idaho_State_Capitol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -21625,7 +21594,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/A_U.S._Navy_Hull_Maintenance_Technician_3rd_Class_Robert_Frey_fabricates_a_steel_countertop_aboard_the_aircraft_carrier_USS_Nimitz_%28CVN_68%29_Aug._20%2C_2013%2C_while_underway_in_the_Gulf_of_Oman_130820-N-JC752-778.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/0/05/UN_General_Assembly_hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://upload.wikimedia.org/wikipedia/commons/f/fb/Germantown_White_House%2C_exterior_%287e7a56bf-1dd8-b71b-0b57-9b70001df804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Spring_Time_at_Arlington_National_Cemetery%2C_Arlington%2C_Virginia_on_April_18%2C_2024_-_39.jpg/1920px-Spring_Time_at_Arlington_National_Cemetery%2C_Arlington%2C_Virginia_on_April_18%2C_2024_-_39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Spring_Time_at_Arlington_National_Cemetery%2C_Arlington%2C_Virginia_on_April_18%2C_2024_-_39.jpg/1920px-Spring_Time_at_Arlington_National_Cemetery%2C_Arlington%2C_Virginia_on_April_18%2C_2024_-_39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg/1920px-High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -24939,7 +24909,6 @@
    }
   },
   "recent_ideas": [
-   "united states capitol rotunda",
    "dublin, ireland",
    "spanish parliament building",
    "china",
@@ -24950,7 +24919,8 @@
    "aircraft carrier, united states navy",
    "u.n. general assembly hall",
    "white house exterior",
-   "arlington national cemetery"
+   "arlington national cemetery",
+   "capitol at night"
   ]
  },
  "comment_perm_told": true,
