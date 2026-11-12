@@ -16787,6 +16787,69 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true
+  },
+  "1f289091a0": {
+   "id": "1f289091a0",
+   "headline": "London court convicts two Iranian men of spying on journalists",
+   "summary": "A London court found Mostafa Sepahvand and Farhad Javadi Manesh guilty of surveilling reporters for a Persian-language television station. One man was also convicted of planning a violent attack against the targets.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Two Iranian citizens convicted in London",
+    "Surveillance carried out on journalists",
+    "One man convicted of planning an attack"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#London",
+    "#Iran",
+    "#WorldNews"
+   ],
+   "sources": [
+    "DW",
+    "The Guardian"
+   ],
+   "link": "https://www.dw.com/en/uk-court-convicts-2-iranian-men-of-spying-on-journalists/a-79931583?maca=en-rss-en-world-4025-rdf",
+   "links": [
+    [
+     "DW",
+     "https://www.dw.com/en/uk-court-convicts-2-iranian-men-of-spying-on-journalists/a-79931583?maca=en-rss-en-world-4025-rdf"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Clock_on_Royal_Courts_of_Justice%2C_London_-_2022-09-10.jpg/1920px-Clock_on_Royal_Courts_of_Justice%2C_London_-_2022-09-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "The wub / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "London court convicts two Iranian men of spying on journalists",
+    "people": [],
+    "image_query": "London court building",
+    "image_queries": [
+     "Royal Courts of Justice London",
+     "Old Bailey London",
+     "British television studio",
+     "London street scene"
+    ],
+    "image_style": "scene",
+    "location": "London, United Kingdom"
+   },
+   "created_at": "2026-11-12T15:30:44.593135+00:00",
+   "news_time": "2026-11-12T14:07:42+00:00",
+   "news_latest": "2026-11-12T15:23:00+00:00",
+   "caption": "London court convicts two Iranian men of spying on journalists\n\nA London court found Mostafa Sepahvand and Farhad Javadi Manesh guilty of surveilling reporters for a Persian-language television station. One man was also convicted of planning a violent attack against the targets.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#London #Iran #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 420,
+   "tg_file_id": "AgACAgUAAxkDAAIBpGr126nXMEtTEZlt-DSdqh3_ECOrAAIUE2sbSxqxV32xmv-JXQEiAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -17489,55 +17552,11 @@
   "https://thehill.com/homenews/administration/6215680-donald-trump-jd-vance-corruption-fraud-democratic-cities-states-iran-war/",
   "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
   "https://www.independent.co.uk/climate-change/greta-thunberg-cop31-climate-islands-turkey-b3083916.html",
-  "https://abcnews.com/International/wireStory/uk-names-climate-security-envoy-island-leaders-warn-138066951"
+  "https://abcnews.com/International/wireStory/uk-names-climate-security-envoy-island-leaders-warn-138066951",
+  "https://www.dw.com/en/uk-court-convicts-2-iranian-men-of-spying-on-journalists/a-79931583?maca=en-rss-en-world-4025-rdf",
+  "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists"
  ],
  "recent_topics": [
-  [
-   "2026-11-09T15:30:45.960029+00:00",
-   [
-    "explosion",
-    "factory",
-    "kill",
-    "least",
-    "miss",
-    "official",
-    "plant",
-    "search",
-    "six",
-    "steel",
-    "turkey",
-    "turkish",
-    "underway"
-   ],
-   "3022d7d2f3"
-  ],
-  [
-   "2026-11-09T15:30:49.759221+00:00",
-   [
-    "back",
-    "complicat",
-    "expert",
-    "futur",
-    "giant",
-    "history",
-    "iran",
-    "midterm",
-    "mistaken",
-    "much",
-    "nation",
-    "owe",
-    "pay",
-    "perception",
-    "political",
-    "result",
-    "step",
-    "took",
-    "trump",
-    "vanc",
-    "warhow"
-   ],
-   "b61202356c"
-  ],
   [
    "2026-11-09T15:45:41.852426+00:00",
    [
@@ -20850,19 +20869,41 @@
     "thunberg"
    ],
    "cbd10e320f"
+  ],
+  [
+   "2026-11-12T15:30:49.991275+00:00",
+   [
+    "attack",
+    "convict",
+    "court",
+    "eliminat",
+    "find",
+    "found",
+    "guilty",
+    "help",
+    "iran",
+    "iranian",
+    "journalist",
+    "lawyer",
+    "london",
+    "men",
+    "plann",
+    "spy",
+    "tehran",
+    "try",
+    "uk-bas",
+    "violent"
+   ],
+   "1f289091a0"
   ]
  ],
- "last_draft_at": "2026-11-12T15:15:23.271032+00:00",
+ "last_draft_at": "2026-11-12T15:30:29.165036+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T15:01:09.345677+00:00",
  "run_log": [
-  "11-12 13:08:50 run start",
-  "11-12 13:10:32 listening 10 min",
-  "11-12 13:20:36 listening done",
-  "11-12 13:20:36 run end after 705 s",
   "11-12 13:20:51 run start",
   "11-12 13:21:01 listening 11 min",
   "11-12 13:32:22 listening done",
@@ -20898,12 +20939,15 @@
   "11-12 15:15:21 run start",
   "11-12 15:15:50 listening 11 min",
   "11-12 15:27:03 listening done",
-  "11-12 15:27:03 run end after 701 s"
+  "11-12 15:27:03 run end after 701 s",
+  "11-12 15:30:28 run start",
+  "11-12 15:30:50 listening 11 min",
+  "11-12 15:42:09 listening done",
+  "11-12 15:42:09 run end after 700 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Warsaw_2023_115_Nicolaus_Copernicus_Monument.jpg/1920px-Warsaw_2023_115_Nicolaus_Copernicus_Monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Warsaw_2023_254_Polish_Flag.jpg/1920px-Warsaw_2023_254_Polish_Flag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Joe_Biden_official_portrait_2013_%28cropped%29_2.jpg/1280px-Joe_Biden_official_portrait_2013_%28cropped%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/US_Capitol_west_side.JPG/1920px-US_Capitol_west_side.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -20942,7 +20986,8 @@
    "https://upload.wikimedia.org/wikipedia/commons/e/e7/Tehran_skyline_from_Book_Garden_0272.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Donald_Trump_official_portrait_2020_election.jpg/1280px-Donald_Trump_official_portrait_2020_election.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Bisexual_Pride_flag_over_UK_Government_building_in_Cardiff%2C_2023-09-21.jpg/1920px-Bisexual_Pride_flag_over_UK_Government_building_in_Cardiff%2C_2023-09-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Bisexual_Pride_flag_over_UK_Government_building_in_Cardiff%2C_2023-09-21.jpg/1920px-Bisexual_Pride_flag_over_UK_Government_building_in_Cardiff%2C_2023-09-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Clock_on_Royal_Courts_of_Justice%2C_London_-_2022-09-10.jpg/1920px-Clock_on_Royal_Courts_of_Justice%2C_London_-_2022-09-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -24256,7 +24301,6 @@
    }
   },
   "recent_ideas": [
-   "artificial reef underwater",
    "senate chamber",
    "walhalla, australia",
    "ireland",
@@ -24267,7 +24311,8 @@
    "spanish parliament building",
    "china",
    "tehran skyline",
-   "uk government building"
+   "uk government building",
+   "royal courts of justice london"
   ]
  },
  "comment_perm_told": true
