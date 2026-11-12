@@ -18988,27 +18988,11 @@
   "https://www.npr.org/2026/11/12/g-s1-151187/holscher-kansas-masterson-governor-midterms",
   "https://www.nbcnews.com/politics/2026-election/kansas-governor-cindy-holscher-democrat-election-win-masterson-rcna603370",
   "https://www.nbcnews.com/politics/justice-department/doj-no-investigations-words-democrats-todd-blanche-says-rcna609073",
-  "https://www.washingtonexaminer.com/news/justice/4802158/no-ongoing-investigations-into-democrats-oversight-threats-blanche-says/"
+  "https://www.washingtonexaminer.com/news/justice/4802158/no-ongoing-investigations-into-democrats-oversight-threats-blanche-says/",
+  "https://www.washingtonexaminer.com/news/justice/4802216/doj-north-korea-crypto-theft-binance-hack/",
+  "https://thehill.com/policy/technology/6217605-north-korean-hackers-stole-crypto/"
  ],
  "recent_topics": [
-  [
-   "2026-11-09T23:30:42.478906+00:00",
-   [
-    "big",
-    "blu",
-    "democrat",
-    "gop",
-    "heard",
-    "most",
-    "risk",
-    "seat",
-    "senat",
-    "video",
-    "wav",
-    "win"
-   ],
-   "e6f09dd6f7"
-  ],
   [
    "2026-11-10T00:00:47.792147+00:00",
    [
@@ -21937,17 +21921,13 @@
    "77c871299b"
   ]
  ],
- "last_draft_at": "2026-11-12T23:15:45.486185+00:00",
+ "last_draft_at": "2026-11-12T23:30:43.044062+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T23:00:56.554943+00:00",
  "run_log": [
-  "11-12 21:05:25 run start",
-  "11-12 21:06:36 listening 10 min",
-  "11-12 21:17:09 listening done",
-  "11-12 21:17:09 run end after 704 s",
   "11-12 21:17:46 run start",
   "11-12 21:18:14 listening 11 min",
   "11-12 21:29:30 listening done",
@@ -21983,7 +21963,11 @@
   "11-12 23:15:44 run start",
   "11-12 23:17:28 listening 10 min",
   "11-12 23:27:31 listening done",
-  "11-12 23:27:31 run end after 706 s"
+  "11-12 23:27:31 run end after 706 s",
+  "11-12 23:30:42 run start",
+  "11-12 23:32:23 listening 10 min",
+  "11-12 23:42:27 listening done",
+  "11-12 23:42:27 run end after 704 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
