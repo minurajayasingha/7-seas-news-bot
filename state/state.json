@@ -17484,25 +17484,11 @@
   "https://www.independent.co.uk/climate-change/greta-thunberg-cop31-climate-islands-turkey-b3083916.html",
   "https://abcnews.com/International/wireStory/uk-names-climate-security-envoy-island-leaders-warn-138066951",
   "https://www.dw.com/en/uk-court-convicts-2-iranian-men-of-spying-on-journalists/a-79931583?maca=en-rss-en-world-4025-rdf",
-  "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists"
+  "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
+  "https://www.aljazeera.com/news/2026/11/12/more-than-1800-italian-schools-targeted-by-new-hoax-bomb-alerts?traffic_source=rss",
+  "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss"
  ],
  "recent_topics": [
-  [
-   "2026-11-09T16:00:49.605563+00:00",
-   [
-    "activist",
-    "ahead",
-    "aoc",
-    "election",
-    "eye",
-    "launch",
-    "presidential",
-    "progressiv",
-    "ready",
-    "toward"
-   ],
-   "d50feabe4b"
-  ],
   [
    "2026-11-09T16:30:51.109897+00:00",
    [
@@ -20808,17 +20794,13 @@
    "1f289091a0"
   ]
  ],
- "last_draft_at": "2026-11-12T15:45:22.089545+00:00",
+ "last_draft_at": "2026-11-12T16:01:13.780895+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-12T15:01:09.345677+00:00",
+ "last_stats_at": "2026-11-12T16:00:33.904968+00:00",
  "run_log": [
-  "11-12 13:32:34 run start",
-  "11-12 13:32:45 listening 11 min",
-  "11-12 13:44:04 listening done",
-  "11-12 13:44:04 run end after 689 s",
   "11-12 13:45:22 run start",
   "11-12 13:47:48 listening 9 min",
   "11-12 13:57:01 listening done",
@@ -20854,7 +20836,11 @@
   "11-12 15:45:21 run start",
   "11-12 15:45:31 listening 11 min",
   "11-12 15:56:50 listening done",
-  "11-12 15:56:50 run end after 688 s"
+  "11-12 15:56:50 run end after 688 s",
+  "11-12 16:00:33 run start",
+  "11-12 16:01:36 listening 10 min",
+  "11-12 16:12:06 listening done",
+  "11-12 16:12:06 run end after 692 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
