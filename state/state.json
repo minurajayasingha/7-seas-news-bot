@@ -1,85 +1,6 @@
 {
  "tg_offset": 495892992,
  "drafts": {
-  "bbb2d9a46d": {
-   "id": "bbb2d9a46d",
-   "headline": "Midterm Elections Conclude Across United States",
-   "summary": "Following the recent midterm elections, voters weighed in on various state measures and the nation's political future. Four states addressed abortion measures, resulting in a victory in Idaho and losses in Nevada, Virginia, and Missouri.",
-   "label": "ELECTIONS",
-   "hook": "How will the results of these state abortion measures shape future legislative debates?",
-   "key_points": [
-    "Idaho, Nevada, Virginia, and Missouri voted on abortion measures.",
-    "Idaho saw a victory for the pro-life measure.",
-    "Nevada, Virginia, and Missouri saw losses for the measures."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Midterms",
-    "#USPolitics",
-    "#Elections"
-   ],
-   "sources": [
-    "CBS News",
-    "New York Times",
-    "Washington Examiner"
-   ],
-   "link": "https://www.washingtonexaminer.com/restoring-america/fairness-justice/4795802/pro-life-messaging-change-minds-abortion/",
-   "links": [
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/restoring-america/fairness-justice/4795802/pro-life-messaging-change-minds-abortion/"
-    ],
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html"
-    ],
-    [
-     "CBS News",
-     "https://www.cbsnews.com/news/jon-meacham-on-the-midterms-and-americas-better-angels/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/US_Capitol_dome_Jan_2006.jpg/1920px-US_Capitol_dome_Jan_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Diliff / Wikimedia Commons (CC BY 2.5)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Midterm Elections Conclude Across United States",
-    "people": [],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "Senate chamber",
-     "Capitol Hill",
-     "voting booth",
-     "state capitol building"
-    ],
-    "image_style": "scene",
-    "location": "United States"
-   },
-   "created_at": "2026-11-08T19:30:41.461910+00:00",
-   "news_time": "2026-11-08T15:15:33+00:00",
-   "news_latest": "2026-11-08T19:00:00+00:00",
-   "caption": "Midterm Elections Conclude Across United States\n\nFollowing the recent midterm elections, voters weighed in on various state measures and the nation's political future. Four states addressed abortion measures, resulting in a victory in Idaho and losses in Nevada, Virginia, and Missouri.\n\n💬 How will the results of these state abortion measures shape future legislative debates?\n\n📖 Read more: https://www.washingtonexaminer.com/restoring-america/fairness-justice/4795802/pro-life-messaging-change-minds-abortion/\n\n#Midterms #USPolitics #Elections #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 130,
-   "tg_file_id": "AgACAgUAAxkDAAOCavDN49dywGUu1iiRAgcEzNOGJOYAAlMVaxv_D4lXG9tolysHxXYBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-09T01:38:35.404629+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122096318997548584",
-   "posted_at": "2026-11-09T01:38:35.834373+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 08 · 8:38 PM New York · 7:08 AM Sri Lanka\n\n<b>Midterm Elections Conclude Across United States</b>\n<i>CBS News, New York Times, Washington Examiner</i>\n🔴 <b>Latest:</b> 12:30 AM Sri Lanka (6h 38m ago) · first reported 8:45 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096318997548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 37,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "1178398604731606"
-  },
   "3b44a15813": {
    "id": "3b44a15813",
    "headline": "Bernie Sanders and Joe Concha react to Stephen Miller White House promotion",
@@ -17641,13 +17562,13 @@
    "news_time": "2026-11-12T18:00:00+00:00",
    "news_latest": "2026-11-12T19:10:00+00:00",
    "caption": "New members of Congress arrive for class photo\n\nNewly elected House members arrived to pose for their class photo ahead of their swearing-in on January 3. Former House leaders advised incoming members to prioritize economic affordability issues.\n\n💬 Should new members of Congress prioritize economic affordability over partisan issues?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Congress #HouseOfRepresentatives #7SeasNews",
-   "status": "queued",
+   "status": "failed",
    "tg_message_id": 430,
    "tg_file_id": "AgACAgUAAxkDAAIBrmr2EF9l_t05_XH4SUNVcjuDD5MHAAIhE2sbFv2wVy9PPY0Dg6sYAQADAgADdwADPQQ",
    "queued_at": "2026-11-12T19:15:43.805861+00:00",
    "post_now": true,
    "auto": true,
-   "attempts": 2
+   "attempts": 3
   }
  },
  "seen_links": [
@@ -18384,56 +18305,6 @@
   "https://thehill.com/opinion/congress-blog/6214735-advice-new-members-congress/"
  ],
  "recent_topics": [
-  [
-   "2026-11-09T19:32:21.297176+00:00",
-   [
-    "alleg",
-    "arrest",
-    "captur",
-    "cartel",
-    "commander",
-    "leader",
-    "mexico",
-    "want"
-   ],
-   "afe2244b16"
-  ],
-  [
-   "2026-11-09T19:32:26.592955+00:00",
-   [
-    "american",
-    "delay",
-    "demand",
-    "demographic",
-    "disaster",
-    "gop",
-    "group",
-    "key",
-    "leadership",
-    "midterm",
-    "mov",
-    "rebel",
-    "reckon",
-    "senat",
-    "stat",
-    "vot"
-   ],
-   "947283d3d9"
-  ],
-  [
-   "2026-11-09T19:32:30.601163+00:00",
-   [
-    "don't",
-    "hous",
-    "loser",
-    "midterm",
-    "rac",
-    "senat",
-    "winner",
-    "yet"
-   ],
-   "a3808c8708"
-  ],
   [
    "2026-11-09T19:45:52.548771+00:00",
    [
@@ -21505,17 +21376,13 @@
    "2cd33e9685"
   ]
  ],
- "last_draft_at": "2026-11-12T19:15:21.027960+00:00",
+ "last_draft_at": "2026-11-12T19:30:36.899472+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T19:00:32.600409+00:00",
  "run_log": [
-  "11-12 17:00:36 run start",
-  "11-12 17:01:13 listening 11 min",
-  "11-12 17:12:08 listening done",
-  "11-12 17:12:08 run end after 692 s",
   "11-12 17:15:23 run start",
   "11-12 17:15:39 listening 11 min",
   "11-12 17:26:59 listening done",
@@ -21551,7 +21418,11 @@
   "11-12 19:15:20 run start",
   "11-12 19:15:44 listening 11 min",
   "11-12 19:27:05 listening done",
-  "11-12 19:27:05 run end after 704 s"
+  "11-12 19:27:05 run end after 704 s",
+  "11-12 19:30:31 run start",
+  "11-12 19:30:46 listening 11 min",
+  "11-12 19:42:06 listening done",
+  "11-12 19:42:06 run end after 694 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
