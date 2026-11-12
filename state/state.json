@@ -1,93 +1,6 @@
 {
  "tg_offset": 495892952,
  "drafts": {
-  "80edfb8820": {
-   "id": "80edfb8820",
-   "headline": "Trump offers UFC boss Dana White press secretary role",
-   "summary": "Donald Trump asked Ultimate Fighting Championship CEO Dana White to take the position of White House press secretary. White stated he will meet with the US president on Monday to discuss the offer.",
-   "label": "US POLITICS",
-   "hook": "",
-   "key_points": [
-    "Trump publicly asked UFC chief Dana White to take the job.",
-    "White said he will meet with the US president on Monday.",
-    "The press secretary role has been largely vacant since August."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#DonaldTrump",
-    "#DanaWhite"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "CBS News",
-    "Euronews",
-    "Sky News",
-    "Washington Examiner"
-   ],
-   "link": "https://www.euronews.com/2026/11/08/trump-offers-ufc-boss-press-secretary-role-dana-please-take-the-job",
-   "links": [
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/08/trump-offers-ufc-boss-press-secretary-role-dana-please-take-the-job"
-    ],
-    [
-     "Sky News",
-     "https://news.sky.com/story/trump-asks-ufc-boss-dana-white-to-become-white-house-press-secretary-13609613"
-    ],
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/news/white-house/4796653/dana-white-responds-question-trump-white-house-press-secretary-request/"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Daniel Torok / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Ilham_Aliyev_received_Dana_White%2C_June_2025_%283x4_cropped_and_rotated_on_White%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Press Service of the President of the Republic of Azerbaijan / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Trump offers UFC boss Dana White press secretary role",
-    "people": [
-     "Donald Trump",
-     "Dana White"
-    ],
-    "image_query": "White House building",
-    "image_style": "person",
-    "location": "Washington, D.C., US"
-   },
-   "created_at": "2026-11-08T07:22:40.886999+00:00",
-   "news_time": "2026-11-08T02:09:00+00:00",
-   "news_latest": "2026-11-08T07:04:37+00:00",
-   "caption": "Trump offers UFC boss Dana White press secretary role\n\nDonald Trump asked Ultimate Fighting Championship CEO Dana White to take the position of White House press secretary. White stated he will meet with the US president on Monday to discuss the offer.\n\n📖 Read more: https://www.euronews.com/2026/11/08/trump-offers-ufc-boss-press-secretary-role-dana-please-take-the-job\n\n#USPolitics #DonaldTrump #DanaWhite #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 55,
-   "tg_file_id": "AgACAgUAAxkDAAM3avAjQ4kKtnSjJEozz3k4EktdxUYAAmgUaxv_D4FX3ncv_SvWJqUBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-08T07:50:03.214814+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122095814103548584",
-   "posted_at": "2026-11-08T07:50:04.397000+00:00",
-   "log_text": "✅ <b>Published</b> · 1:20 PM Sri Lanka · 2:50 AM New York · Nov 08\n\n<b>Trump offers UFC boss Dana White press secretary role</b>\n<i>Al Jazeera, CBS News, Euronews, Sky News, Washington Examiner</i>\n🟢 <b>Latest:</b> 12:34 PM Sri Lanka (45 min ago) · first reported 7:39 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122095814103548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 10,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "2301584060697951"
-  },
   "327e6b6267": {
    "id": "327e6b6267",
    "headline": "Kraków shooting suspect remains critical following central square attack",
@@ -16477,6 +16390,70 @@
    "status": "pending",
    "tg_message_id": 389,
    "tg_file_id": "AgACAgUAAxkDAAIBhWr1YJy7pAg4I6YToaXqqT7ZuXefAAL9EmsbSxqpV-oqyCQsJp8TAQADAgADdwADPQQ"
+  },
+  "451840320f": {
+   "id": "451840320f",
+   "headline": "Nvidia board considers Jensen Huang future amid affair reports",
+   "summary": "The Nvidia board is weighing the future of Jensen Huang following reports of a second affair. US intelligence reportedly believes Alice Huang, a former tech executive who had a relationship with Jensen Huang, was recruited by Beijing.",
+   "label": "WORLD",
+   "hook": "Should tech company executives face security reviews regarding foreign intelligence ties?",
+   "key_points": [
+    "Nvidia board weighs Jensen Huang future.",
+    "US intelligence believes Alice Huang was recruited by Beijing."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Nvidia",
+    "#JensenHuang",
+    "#TechNews"
+   ],
+   "sources": [
+    "Euronews",
+    "The Guardian"
+   ],
+   "link": "https://www.euronews.com/2026/11/12/nvidia-board-weighs-jensen-huangs-future-as-reports-emerge-of-second-affair",
+   "links": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/12/nvidia-board-weighs-jensen-huangs-future-as-reports-emerge-of-second-affair"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Jensen_huang_stanford_2026-04-30_031.jpg/1280px-Jensen_huang_stanford_2026-04-30_031.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Anderseidesvik / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Nvidia board considers Jensen Huang future amid affair reports",
+    "people": [
+     "Jensen Huang"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "corporate office building",
+     "silicon valley tech company",
+     "financial district skyline",
+     "data center server room"
+    ],
+    "image_style": "person",
+    "location": "US"
+   },
+   "created_at": "2026-11-12T07:15:36.670514+00:00",
+   "news_time": "2026-11-12T06:43:31+00:00",
+   "news_latest": "2026-11-12T07:03:21+00:00",
+   "caption": "Nvidia board considers Jensen Huang future amid affair reports\n\nThe Nvidia board is weighing the future of Jensen Huang following reports of a second affair. US intelligence reportedly believes Alice Huang, a former tech executive who had a relationship with Jensen Huang, was recruited by Beijing.\n\n💬 Should tech company executives face security reviews regarding foreign intelligence ties?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Nvidia #JensenHuang #TechNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 390,
+   "tg_file_id": "AgACAgUAAxkDAAIBhmr1Z5pi_CxgeUipVnFvM5L59K9oAAIKE2sbSxqpV0PN_OOXGsJRAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -17108,7 +17085,9 @@
   "https://abcnews.com/International/wireStory/missing-teen-found-alive-after-6-days-australian-138068466",
   "https://www.independent.co.uk/news/world/australasia/australia-victoria-bushland-teen-william-b3083555.html",
   "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
-  "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush"
+  "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush",
+  "https://www.euronews.com/2026/11/12/nvidia-board-weighs-jensen-huangs-future-as-reports-emerge-of-second-affair",
+  "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair"
  ],
  "recent_topics": [
   [
@@ -20412,19 +20391,57 @@
     "woodland"
    ],
    "9208413554"
+  ],
+  [
+   "2026-11-12T07:15:38.786828+00:00",
+   [
+    "affair",
+    "alic",
+    "board",
+    "brief",
+    "build",
+    "ceo",
+    "chines",
+    "decid",
+    "dont",
+    "embattl",
+    "emerg",
+    "extramarital",
+    "feel",
+    "futur",
+    "gop",
+    "huang",
+    "intelligenc",
+    "jensen",
+    "know",
+    "learn",
+    "longtim",
+    "nvidia",
+    "nyt",
+    "oust",
+    "prepar",
+    "pressur",
+    "relationship",
+    "remov",
+    "resign",
+    "second",
+    "senator",
+    "sourc",
+    "strongly",
+    "thursday",
+    "weigh",
+    "whether"
+   ],
+   "451840320f"
   ]
  ],
- "last_draft_at": "2026-11-12T07:00:49.386146+00:00",
+ "last_draft_at": "2026-11-12T07:15:19.549164+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T07:00:30.253891+00:00",
  "run_log": [
-  "11-12 04:47:29 run start",
-  "11-12 04:47:40 listening 11 min",
-  "11-12 04:58:58 listening done",
-  "11-12 04:58:58 run end after 688 s",
   "11-12 05:00:33 run start",
   "11-12 05:01:49 listening 10 min",
   "11-12 05:12:17 listening done",
@@ -20460,12 +20477,15 @@
   "11-12 07:00:29 run start",
   "11-12 07:00:58 listening 11 min",
   "11-12 07:12:17 listening done",
-  "11-12 07:12:17 run end after 707 s"
+  "11-12 07:12:17 run end after 707 s",
+  "11-12 07:15:19 run start",
+  "11-12 07:15:38 listening 11 min",
+  "11-12 07:26:57 listening done",
+  "11-12 07:26:57 run end after 697 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Ben_Ferguson_in_About_Time.jpg/1280px-Ben_Ferguson_in_About_Time.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/0/08/Maria_Elvira_Salazar_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://upload.wikimedia.org/wikipedia/commons/f/fb/Cummins_Corporate_Office_Building_-_April_2008_-_Holly_Higgins_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -20504,7 +20524,8 @@
    "https://upload.wikimedia.org/wikipedia/commons/7/79/DEMOCRATIC_NATIONAL_CONVENTION_SECURITY_1076052.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/USS_Oriskany_Ship_Wreck_Artificial_Reef_Dive_Underwater.jpg/1920px-USS_Oriskany_Ship_Wreck_Artificial_Reef_Dive_Underwater.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Iowa_Senate_chamber_01.jpg/1920px-Iowa_Senate_chamber_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/1/17/Walhalla_general_store_Stevage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/1/17/Walhalla_general_store_Stevage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Jensen_huang_stanford_2026-04-30_031.jpg/1280px-Jensen_huang_stanford_2026-04-30_031.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
