@@ -1,82 +1,6 @@
 {
  "tg_offset": 495893000,
  "drafts": {
-  "ad016f743b": {
-   "id": "ad016f743b",
-   "headline": "Trump: Attacks on Iran highly unlikely if talks progress",
-   "summary": "President Donald Trump stated that ordering attacks against Iran is unlikely if upcoming negotiations show progress. The comments follow discussions regarding Tehran's nuclear program and the Strait of Hormuz.",
-   "label": "DIPLOMACY",
-   "hook": "Will these upcoming talks lead to an agreement between the US and Iran?",
-   "key_points": [
-    "Trump discussed potential attacks on Iran during an interview with CNN.",
-    "Talks involve Tehran's nuclear program and the Strait of Hormuz.",
-    "A strong agreement would depend on whether Iran signs."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Trump",
-    "#Iran",
-    "#USPolitics"
-   ],
-   "sources": [
-    "The Hill",
-    "UPI"
-   ],
-   "link": "https://www.upi.com/Top_News/US/2026/11/08/iran-middle-east/1921794172211/",
-   "links": [
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/US/2026/11/08/iran-middle-east/1921794172211/"
-    ],
-    [
-     "The Hill",
-     "https://thehill.com/homenews/administration/6206935-trump-unlikely-attack-iran/"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_12.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Michael Vadon / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Trump: Attacks on Iran highly unlikely if talks progress",
-    "people": [
-     "Donald Trump"
-    ],
-    "image_query": "White House",
-    "image_queries": [
-     "US Capitol dome",
-     "Pentagon building",
-     "United Nations Security Council",
-     "Senate chamber"
-    ],
-    "image_style": "person",
-    "location": "US"
-   },
-   "created_at": "2026-11-08T21:30:38.860130+00:00",
-   "news_time": "2026-11-08T21:02:25+00:00",
-   "news_latest": "2026-11-08T21:27:02+00:00",
-   "caption": "Trump: Attacks on Iran highly unlikely if talks progress\n\nPresident Donald Trump stated that ordering attacks against Iran is unlikely if upcoming negotiations show progress. The comments follow discussions regarding Tehran's nuclear program and the Strait of Hormuz.\n\n💬 Will these upcoming talks lead to an agreement between the US and Iran?\n\n📖 Read more: https://www.upi.com/Top_News/US/2026/11/08/iran-middle-east/1921794172211/\n\n#Trump #Iran #USPolitics #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 134,
-   "tg_file_id": "AgACAgUAAxkDAAOGavDqAAHhEbaTTGSRkVcPmxGOyNrHAAJdFWsb_w-JVzkkX3PJqX98AQADAgADdwADPQQ",
-   "queued_at": "2026-11-09T01:39:21.884171+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122096319573548584",
-   "posted_at": "2026-11-09T01:39:23.052201+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 08 · 8:39 PM New York · 7:09 AM Sri Lanka\n\n<b>Trump: Attacks on Iran highly unlikely if talks progress</b>\n<i>The Hill, UPI</i>\n🔴 <b>Latest:</b> 2:57 AM Sri Lanka (4h 12m ago) · first reported 2:32 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096319573548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 39,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "1683093903322531"
-  },
   "ed4a2a326f": {
    "id": "ed4a2a326f",
    "headline": "Bernie Sanders warns Democrats against focusing entirely on Donald Trump",
@@ -18527,27 +18451,11 @@
   "https://www.newsweek.com/fetterman-schumer-jeffries-which-democrats-could-face-dsa-primaries-12706073",
   "https://www.washingtonexaminer.com/news/crime/4801795/peta-deletes-post-logan-circle-shooting-foie-gras-controversy/",
   "https://www.washingtonexaminer.com/news/crime/4801898/logan-circle-shooter-identity-what-to-know/",
-  "https://thehill.com/homenews/state-watch/6217017-dc-logan-circle-shooting-suspect/"
+  "https://thehill.com/homenews/state-watch/6217017-dc-logan-circle-shooting-suspect/",
+  "https://thehill.com/homenews/senate/6217057-congress-jensen-huang-nvidia-national-security/",
+  "https://www.newsweek.com/what-nvidias-share-price-could-look-like-without-jensen-huang-12706384"
  ],
  "recent_topics": [
-  [
-   "2026-11-09T21:30:39.025119+00:00",
-   [
-    "bid",
-    "cas",
-    "charg",
-    "clancy",
-    "deny",
-    "dismiss",
-    "judg",
-    "lindsay",
-    "los",
-    "media",
-    "motion",
-    "murder"
-   ],
-   "6885954489"
-  ],
   [
    "2026-11-09T21:45:51.960151+00:00",
    [
@@ -21559,17 +21467,13 @@
    "4d075733c6"
   ]
  ],
- "last_draft_at": "2026-11-12T21:17:46.710751+00:00",
+ "last_draft_at": "2026-11-12T21:30:55.392406+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T21:05:25.632392+00:00",
  "run_log": [
-  "11-12 19:15:20 run start",
-  "11-12 19:15:44 listening 11 min",
-  "11-12 19:27:05 listening done",
-  "11-12 19:27:05 run end after 704 s",
   "11-12 19:30:31 run start",
   "11-12 19:30:46 listening 11 min",
   "11-12 19:42:06 listening done",
@@ -21605,7 +21509,11 @@
   "11-12 21:17:46 run start",
   "11-12 21:18:14 listening 11 min",
   "11-12 21:29:30 listening done",
-  "11-12 21:29:30 run end after 704 s"
+  "11-12 21:29:30 run end after 704 s",
+  "11-12 21:30:55 run start",
+  "11-12 21:31:08 listening 11 min",
+  "11-12 21:42:27 listening done",
+  "11-12 21:42:27 run end after 692 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
