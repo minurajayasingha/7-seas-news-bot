@@ -1,80 +1,6 @@
 {
  "tg_offset": 495892960,
  "drafts": {
-  "fcef0533ef": {
-   "id": "fcef0533ef",
-   "headline": "Democrats prepare to challenge Donald Trump following midterm elections",
-   "summary": "Following midterm election victories, Democrats are planning their legislative priorities and investigations. Lawmakers intend to focus on healthcare and challenge presidential tariffs to address the cost of living.",
-   "label": "US POLITICS",
-   "hook": "Can Democrats successfully challenge Donald Trump and his tariffs in Congress?",
-   "key_points": [
-    "Democrats won control of Congress in the midterms.",
-    "The party plans to target tariffs and healthcare costs."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#Democrats",
-    "#Congress"
-   ],
-   "sources": [
-    "The Guardian",
-    "The Hill"
-   ],
-   "link": "https://www.theguardian.com/us-news/2026/nov/08/democrats-congress-trump-midterms",
-   "links": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/us-news/2026/nov/08/democrats-congress-trump-midterms"
-    ],
-    [
-     "The Hill",
-     "https://thehill.com/business/6205219-democrats-target-trump-tariffs/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Capitol_Washington_October_2016-1.jpg/1920px-Capitol_Washington_October_2016-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Alvesgaspar / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ],
-    "inset": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "credit": "Daniel Torok / Wikimedia Commons (Public domain)",
-     "short": "WIKIMEDIA COMMONS"
-    }
-   },
-   "img_post": {
-    "headline": "Democrats prepare to challenge Donald Trump following midterm elections",
-    "people": [
-     "Donald Trump"
-    ],
-    "image_query": "US Capitol building",
-    "image_style": "scene",
-    "location": "US"
-   },
-   "created_at": "2026-11-08T12:16:32.660400+00:00",
-   "news_time": "2026-11-08T11:00:00+00:00",
-   "news_latest": "2026-11-08T12:00:40+00:00",
-   "caption": "Democrats prepare to challenge Donald Trump following midterm elections\n\nFollowing midterm election victories, Democrats are planning their legislative priorities and investigations. Lawmakers intend to focus on healthcare and challenge presidential tariffs to address the cost of living.\n\n💬 Can Democrats successfully challenge Donald Trump and his tariffs in Congress?\n\n📖 Read more: https://www.theguardian.com/us-news/2026/nov/08/democrats-congress-trump-midterms\n\n#USPolitics #Democrats #Congress #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 100,
-   "tg_file_id": "AgACAgUAAxkDAANkavBoIqDq7NUop3qQAWz529OEwikAAgcVaxv_D4FXkTFXjVjWibMBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-08T12:18:02.141368+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122095926837548584",
-   "posted_at": "2026-11-08T12:18:02.437265+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 08 · 7:18 AM New York · 5:48 PM Sri Lanka\n\n<b>Democrats prepare to challenge Donald Trump following midterm elections</b>\n<i>The Guardian, The Hill</i>\n🟢 <b>Latest:</b> 5:30 PM Sri Lanka (17 min ago) · first reported 4:30 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122095926837548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 21,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "1671328317671042"
-  },
   "4bf9049c5b": {
    "id": "4bf9049c5b",
    "headline": "Midterm victories open path for Democrats to sidestep Electoral College",
@@ -16451,6 +16377,69 @@
    "status": "pending",
    "tg_message_id": 404,
    "tg_file_id": "AgACAgUAAxkDAAIBlGr1qpRY3rwyDiDyq4U9uPgg_O1aAAKXE2sbSxqpVxdqBOHnp-aoAQADAgADdwADPQQ"
+  },
+  "85c1caff13": {
+   "id": "85c1caff13",
+   "headline": "European leaders meet in Dublin to discuss security",
+   "summary": "Leaders from more than 40 European countries gathered in Dublin for a summit about continental security. The meeting coincided with new U.S.-backed talks aimed at ending the Russia-Ukraine war.",
+   "label": "DIPLOMACY",
+   "hook": "Can these talks in Abu Dhabi end the fighting?",
+   "key_points": [
+    "Over 40 European nations attended the Dublin summit.",
+    "Volodymyr Zelensky arrived in Dublin for the meeting.",
+    "U.S.-backed talks take place in Abu Dhabi."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Europe",
+    "#Dublin",
+    "#Ukraine"
+   ],
+   "sources": [
+    "France 24",
+    "Newsweek"
+   ],
+   "link": "https://www.france24.com/en/video/20261112-european-leaders-gather-in-dublin-to-discuss-ukraine-s-security-and-their-own",
+   "links": [
+    [
+     "France 24",
+     "https://www.france24.com/en/video/20261112-european-leaders-gather-in-dublin-to-discuss-ukraine-s-security-and-their-own"
+    ],
+    [
+     "Newsweek",
+     "https://www.newsweek.com/europes-leaders-gather-after-weeks-of-bomb-threats-cyberattacks-12698209"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Government_Buildings%2C_Dublin%2C_Ireland.jpg/1920px-Government_Buildings%2C_Dublin%2C_Ireland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "David Kernan / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "European leaders meet in Dublin to discuss security",
+    "people": [],
+    "image_query": "Dublin city",
+    "image_queries": [
+     "European Parliament building",
+     "Abu Dhabi skyline",
+     "NATO headquarters",
+     "Ukrainian parliament building"
+    ],
+    "image_style": "scene",
+    "location": "Dublin, Ireland"
+   },
+   "created_at": "2026-11-12T12:15:39.700982+00:00",
+   "news_time": "2026-11-12T10:51:52+00:00",
+   "news_latest": "2026-11-12T11:19:28+00:00",
+   "caption": "European leaders meet in Dublin to discuss security\n\nLeaders from more than 40 European countries gathered in Dublin for a summit about continental security. The meeting coincided with new U.S.-backed talks aimed at ending the Russia-Ukraine war.\n\n💬 Can these talks in Abu Dhabi end the fighting?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Europe #Dublin #Ukraine #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 405,
+   "tg_file_id": "AgACAgUAAxkDAAIBlWr1re4GmXTLp-aIXS7yrS_VQjEMAAKdE2sbSxqpVwwCirp_N3bTAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -17119,7 +17108,11 @@
   "https://www.dw.com/en/israel-targets-senior-hamas-member-in-gaza-hospital-strike/a-79927645?maca=en-rss-en-world-4025-rdf",
   "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
   "https://www.aljazeera.com/news/2026/11/12/who-is-scott-colom-mississippis-first-black-senator-in-150-years?traffic_source=rss",
-  "https://www.france24.com/en/tv-shows/press-review/20261112-scott-colom-makes-history-in-mississippi-as-first-black-senator-in-more-than-140-years"
+  "https://www.france24.com/en/tv-shows/press-review/20261112-scott-colom-makes-history-in-mississippi-as-first-black-senator-in-more-than-140-years",
+  "https://www.france24.com/en/video/20261112-european-leaders-gather-in-dublin-to-discuss-ukraine-s-security-and-their-own",
+  "https://www.newsweek.com/europes-leaders-gather-after-weeks-of-bomb-threats-cyberattacks-12698209",
+  "https://thehill.com/opinion/national-security/6213751-witkoff-kushner-outplayed-russia/",
+  "https://www.washingtonexaminer.com/news/senate/4800633/el-sayed-trump-medicare-for-all-political-trap/"
  ],
  "recent_topics": [
   [
@@ -20557,19 +20550,33 @@
     "senator"
    ],
    "bd96511b9d"
+  ],
+  [
+   "2026-11-12T12:15:42.474258+00:00",
+   [
+    "bomb",
+    "cyberattack",
+    "discuss",
+    "dublin",
+    "europ",
+    "european",
+    "gather",
+    "leader",
+    "own",
+    "security",
+    "threat",
+    "ukrain"
+   ],
+   "85c1caff13"
   ]
  ],
- "last_draft_at": "2026-11-12T12:00:47.966561+00:00",
+ "last_draft_at": "2026-11-12T12:15:22.384054+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T12:00:29.131864+00:00",
  "run_log": [
-  "11-12 09:45:20 run start",
-  "11-12 09:45:43 listening 11 min",
-  "11-12 09:57:01 listening done",
-  "11-12 09:57:01 run end after 701 s",
   "11-12 10:00:35 run start",
   "11-12 10:01:26 listening 11 min",
   "11-12 10:12:20 listening done",
@@ -20605,12 +20612,15 @@
   "11-12 12:00:28 run start",
   "11-12 12:01:25 listening 11 min",
   "11-12 12:12:18 listening done",
-  "11-12 12:12:18 run end after 709 s"
+  "11-12 12:12:18 run end after 709 s",
+  "11-12 12:15:21 run start",
+  "11-12 12:15:58 listening 11 min",
+  "11-12 12:26:52 listening done",
+  "11-12 12:26:52 run end after 690 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Buenos_Aires_Skyline_in_Color.jpg/1920px-Buenos_Aires_Skyline_in_Color.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Iowa_Senate_chamber_03.jpg/1920px-Iowa_Senate_chamber_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/5/5c/Iowa_City%2C_IA_-_Early_Voting_Automobile_Queue_October_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg/1920px-High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -20649,7 +20659,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Tourists_in_the_rotunda%2C_United_States_Capitol%2C_Washington%2C_D.C.%2C_2007.jpg/1920px-Tourists_in_the_rotunda%2C_United_States_Capitol%2C_Washington%2C_D.C.%2C_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/4/41/New_Year%27s_Eve_from_President_of_Ukraine_Volodymyr_Zelensky_%2831-12-2025%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Sviatlana_Tsikhanouskaya_in_2025_%28cropped%29.jpg/1280px-Sviatlana_Tsikhanouskaya_in_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/f/f2/Scott_Colom_2_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/f/f2/Scott_Colom_2_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Government_Buildings%2C_Dublin%2C_Ireland.jpg/1920px-Government_Buildings%2C_Dublin%2C_Ireland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -23899,7 +23910,6 @@
    }
   },
   "recent_ideas": [
-   "uss gerald r. ford",
    "house of representatives chamber",
    "port of los angeles",
    "department of the interior",
@@ -23910,7 +23920,8 @@
    "ireland",
    "florida state capitol",
    "saint basil's cathedral",
-   "united states capitol rotunda"
+   "united states capitol rotunda",
+   "dublin, ireland"
   ]
  },
  "comment_perm_told": true
