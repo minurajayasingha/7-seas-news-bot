@@ -16387,6 +16387,70 @@
    "status": "pending",
    "tg_message_id": 403,
    "tg_file_id": "AgACAgUAAxkDAAIBk2r1pubNCdOA4sRr9drbzbq6a_TsAAKEE2sbSxqpV6djH_AT67yLAQADAgADdwADPQQ"
+  },
+  "bd96511b9d": {
+   "id": "bd96511b9d",
+   "headline": "Scott Colom becomes Mississippi senator after midterm race",
+   "summary": "Scott Colom takes a Senate seat in Mississippi. According to the reports, he is the first Black senator in the state in over 140 years.",
+   "label": "ELECTIONS",
+   "hook": "How long has it been since Mississippi last had a Black senator?",
+   "key_points": [
+    "Scott Colom secures Senate seat in Mississippi",
+    "First Black senator in the state in over 140 years"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Mississippi",
+    "#USPolitics",
+    "#Elections"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "France 24"
+   ],
+   "link": "https://www.aljazeera.com/news/2026/11/12/who-is-scott-colom-mississippis-first-black-senator-in-150-years?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/12/who-is-scott-colom-mississippis-first-black-senator-in-150-years?traffic_source=rss"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/tv-shows/press-review/20261112-scott-colom-makes-history-in-mississippi-as-first-black-senator-in-more-than-140-years"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Scott_Colom_2_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "The Contrarian / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Scott Colom becomes Mississippi senator after midterm race",
+    "people": [
+     "Scott Colom"
+    ],
+    "image_query": "Mississippi State Capitol",
+    "image_queries": [
+     "US Senate chamber",
+     "Capitol building",
+     "voting booth",
+     "Mississippi state flag"
+    ],
+    "image_style": "person",
+    "location": "Mississippi, US"
+   },
+   "created_at": "2026-11-12T12:01:05.376092+00:00",
+   "news_time": "2026-11-12T10:50:31+00:00",
+   "news_latest": "2026-11-12T11:31:16+00:00",
+   "caption": "Scott Colom becomes Mississippi senator after midterm race\n\nScott Colom takes a Senate seat in Mississippi. According to the reports, he is the first Black senator in the state in over 140 years.\n\n💬 How long has it been since Mississippi last had a Black senator?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Mississippi #USPolitics #Elections #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 404,
+   "tg_file_id": "AgACAgUAAxkDAAIBlGr1qpRY3rwyDiDyq4U9uPgg_O1aAAKXE2sbSxqpVxdqBOHnp-aoAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -17053,7 +17117,9 @@
   "https://kyivindependent.com/tsikhanouskaya-says-belarus-must-be-included-in-russia-ukraine-peace-talks/",
   "https://www.npr.org/2026/11/12/nx-s1-6037526/former-u-s-ambassador-william-taylor-discusses-the-latest-russia-ukraine-talks",
   "https://www.dw.com/en/israel-targets-senior-hamas-member-in-gaza-hospital-strike/a-79927645?maca=en-rss-en-world-4025-rdf",
-  "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon"
+  "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
+  "https://www.aljazeera.com/news/2026/11/12/who-is-scott-colom-mississippis-first-black-senator-in-150-years?traffic_source=rss",
+  "https://www.france24.com/en/tv-shows/press-review/20261112-scott-colom-makes-history-in-mississippi-as-first-black-senator-in-more-than-140-years"
  ],
  "recent_topics": [
   [
@@ -20476,19 +20542,30 @@
     "target"
    ],
    "30b5b09dcb"
+  ],
+  [
+   "2026-11-12T12:01:25.106903+00:00",
+   [
+    "140",
+    "150",
+    "black",
+    "colom",
+    "history",
+    "mak",
+    "mississippi",
+    "scott",
+    "senator"
+   ],
+   "bd96511b9d"
   ]
  ],
- "last_draft_at": "2026-11-12T11:45:22.706628+00:00",
+ "last_draft_at": "2026-11-12T12:00:47.966561+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-12T11:00:34.555558+00:00",
+ "last_stats_at": "2026-11-12T12:00:29.131864+00:00",
  "run_log": [
-  "11-12 09:30:25 run start",
-  "11-12 09:30:36 listening 11 min",
-  "11-12 09:41:55 listening done",
-  "11-12 09:41:55 run end after 689 s",
   "11-12 09:45:20 run start",
   "11-12 09:45:43 listening 11 min",
   "11-12 09:57:01 listening done",
@@ -20524,12 +20601,15 @@
   "11-12 11:45:22 run start",
   "11-12 11:45:42 listening 11 min",
   "11-12 11:57:00 listening done",
-  "11-12 11:57:00 run end after 698 s"
+  "11-12 11:57:00 run end after 698 s",
+  "11-12 12:00:28 run start",
+  "11-12 12:01:25 listening 11 min",
+  "11-12 12:12:18 listening done",
+  "11-12 12:12:18 run end after 709 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/View_of_the_Pentagon_from_the_Navy_Annex_minutes_after_a_hijacked_jetliner_crashed_into_building_at_approximately_0930_on_September_11%2C_2001_010911-M-CI426-007.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Buenos_Aires_Skyline_in_Color.jpg/1920px-Buenos_Aires_Skyline_in_Color.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Iowa_Senate_chamber_03.jpg/1920px-Iowa_Senate_chamber_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/5/5c/Iowa_City%2C_IA_-_Early_Voting_Automobile_Queue_October_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -20568,7 +20648,8 @@
    "https://upload.wikimedia.org/wikipedia/commons/d/de/Steve_Witkoff_in_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Tourists_in_the_rotunda%2C_United_States_Capitol%2C_Washington%2C_D.C.%2C_2007.jpg/1920px-Tourists_in_the_rotunda%2C_United_States_Capitol%2C_Washington%2C_D.C.%2C_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/4/41/New_Year%27s_Eve_from_President_of_Ukraine_Volodymyr_Zelensky_%2831-12-2025%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Sviatlana_Tsikhanouskaya_in_2025_%28cropped%29.jpg/1280px-Sviatlana_Tsikhanouskaya_in_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Sviatlana_Tsikhanouskaya_in_2025_%28cropped%29.jpg/1280px-Sviatlana_Tsikhanouskaya_in_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/f/f2/Scott_Colom_2_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   ],
   "pools": {
    "donald trump": {
