@@ -1,204 +1,6 @@
 {
- "tg_offset": 495892958,
+ "tg_offset": 495892960,
  "drafts": {
-  "f50d287e94": {
-   "id": "f50d287e94",
-   "headline": "Krakow market square shooting leaves six dead including Briton",
-   "summary": "A 25-year-old Polish citizen opened fire in Krakow's main square, killing six people and injuring 16. Authorities stated the suspect held far-right views, and three additional bodies were later found at his home.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "Six people killed in Krakow market square shooting",
-    "A British national among the victims",
-    "Suspect held ultra-nationalistic views, minister says"
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#Krakow",
-    "#Poland",
-    "#WorldNews"
-   ],
-   "sources": [
-    "BBC",
-    "Newsweek",
-    "The Guardian",
-    "The Independent"
-   ],
-   "link": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
-   "links": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/europe/krakow-shooting-poland-live-updates-main-square-b3081004.html"
-    ],
-    [
-     "BBC",
-     "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/europe/krakow-shooting-poland-gunman-news-b3081022.html"
-    ]
-   ],
-   "bg": {
-    "type": "incident",
-    "photos": [],
-    "location": "Krakow, Poland"
-   },
-   "img_post": {
-    "headline": "Krakow market square shooting leaves six dead including Briton",
-    "people": [],
-    "image_query": "Krakow market square",
-    "image_style": "incident",
-    "location": "Krakow, Poland"
-   },
-   "created_at": "2026-11-08T09:15:29.565969+00:00",
-   "news_time": "2026-11-08T07:11:32+00:00",
-   "news_latest": "2026-11-08T09:09:35+00:00",
-   "caption": "🚨 BREAKING: Krakow market square shooting leaves six dead including Briton\n\nA 25-year-old Polish citizen opened fire in Krakow's main square, killing six people and injuring 16. Authorities stated the suspect held far-right views, and three additional bodies were later found at his home.\n\nWhat we know so far:\n• Six people killed in Krakow market square shooting\n• A British national among the victims\n• Suspect held ultra-nationalistic views, minister says\n\n📖 Read more: https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman\n\n#Krakow #Poland #WorldNews #7SeasNews",
-   "status": "replaced",
-   "tg_message_id": 60,
-   "tg_file_id": "AgACAgUAAxkDAAM8avA9s-SeXDQ8xSDDe5UoWe9WwVoAApUUaxv_D4FXoYaFkBtWGGQBAAMCAAN3AAM9BA",
-   "extra_msgs": [],
-   "cleared": true
-  },
-  "b73ea00dd8": {
-   "id": "b73ea00dd8",
-   "headline": "Israel president picks Gadi Eisenkot to form new government",
-   "summary": "Following a deadlocked election, Israel's president has picked Benjamin Netanyahu's rival, Gadi Eisenkot, to form a government. A candidate tasked with this job has 28 days, which can be extended by a maximum of 14 days.",
-   "label": "ELECTIONS",
-   "hook": "",
-   "key_points": [
-    "President picks Gadi Eisenkot to form government",
-    "Candidate has 28 days to carry out the job",
-    "Extension of up to 14 days is possible"
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#Israel",
-    "#GadiEisenkot",
-    "#WorldNews"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "Euronews",
-    "The Independent"
-   ],
-   "link": "https://www.euronews.com/2026/11/08/netanyahu-rival-eisenkot-to-be-tasked-with-forming-new-government-following-israeli-electi",
-   "links": [
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/08/netanyahu-rival-eisenkot-to-be-tasked-with-forming-new-government-following-israeli-electi"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/8/the-anti-netanyahu-can-gadi-eisenkot-give-the-world-a-different-israel?traffic_source=rss"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/middle-east/israel-election-gadi-eisenkot-netanyahu-b3081156.html"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Gadi_Eizenkot._I.jpg/1280px-Gadi_Eizenkot._I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "IDF Spokesperson's Unit photographer / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Israel president picks Gadi Eisenkot to form new government",
-    "people": [
-     "Gadi Eisenkot"
-    ],
-    "image_query": "Israeli government building",
-    "image_style": "person",
-    "location": "Israel"
-   },
-   "created_at": "2026-11-08T09:15:33.274492+00:00",
-   "news_time": "2026-11-08T08:47:03+00:00",
-   "news_latest": "2026-11-08T08:51:38+00:00",
-   "caption": "🚨 BREAKING: Israel president picks Gadi Eisenkot to form new government\n\nFollowing a deadlocked election, Israel's president has picked Benjamin Netanyahu's rival, Gadi Eisenkot, to form a government. A candidate tasked with this job has 28 days, which can be extended by a maximum of 14 days.\n\nWhat we know so far:\n• President picks Gadi Eisenkot to form government\n• Candidate has 28 days to carry out the job\n• Extension of up to 14 days is possible\n\n📖 Read more: https://www.euronews.com/2026/11/08/netanyahu-rival-eisenkot-to-be-tasked-with-forming-new-government-following-israeli-electi\n\n#Israel #GadiEisenkot #WorldNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 61,
-   "tg_file_id": "AgACAgUAAxkDAAM9avA9t-dUf-MMFp7vP1Md86Ay-pEAApYUaxv_D4FXEN7_3R1z9CwBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-08T09:50:53.413622+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122095867293548584",
-   "posted_at": "2026-11-08T09:50:53.750562+00:00",
-   "log_text": "✅ <b>Published</b> · 3:20 PM Sri Lanka · 4:50 AM New York · Nov 08\n\n<b>Israel president picks Gadi Eisenkot to form new government</b>\n<i>Al Jazeera, Euronews, The Independent</i>\n🟢 <b>Latest:</b> 2:21 PM Sri Lanka (59 min ago) · first reported 2:17 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122095867293548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 13,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "3047527415583503"
-  },
-  "00485656fa": {
-   "id": "00485656fa",
-   "headline": "Thirty-three killed in Saudi air strike near Sanaa",
-   "summary": "Thirty-three people were reported killed in a coalition air attack on a village near Sanaa. Meanwhile, Saudi Arabia intercepted Houthi missiles targeting Riyadh and the Eastern province.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "Saudi air strike kills 33 people near Sanaa",
-    "Missiles targeting Riyadh and Eastern province intercepted",
-    "Coalition leads fighting against the Houthis in Yemen"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Yemen",
-    "#SaudiArabia",
-    "#WorldNews"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "BBC",
-    "The Independent"
-   ],
-   "link": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
-   "links": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/middle-east/saudi-airstrikes-sanaa-yemen-deaths-houthis-b3081138.html"
-    ],
-    [
-     "BBC",
-     "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
-    ]
-   ],
-   "bg": {
-    "type": "incident",
-    "photos": [],
-    "location": "Sanaa, Yemen"
-   },
-   "img_post": {
-    "headline": "Thirty-three killed in Saudi air strike near Sanaa",
-    "people": [],
-    "image_query": "Sanaa cityscape",
-    "image_style": "incident",
-    "location": "Sanaa, Yemen"
-   },
-   "created_at": "2026-11-08T09:15:36.967672+00:00",
-   "news_time": "2026-11-08T04:03:12+00:00",
-   "news_latest": "2026-11-08T07:40:07+00:00",
-   "caption": "Thirty-three killed in Saudi air strike near Sanaa\n\nThirty-three people were reported killed in a coalition air attack on a village near Sanaa. Meanwhile, Saudi Arabia intercepted Houthi missiles targeting Riyadh and the Eastern province.\n\n📖 Read more: https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss\n\n#Yemen #SaudiArabia #WorldNews #7SeasNews",
-   "status": "expired",
-   "tg_message_id": 62,
-   "tg_file_id": "AgACAgUAAxkDAAM-avA9vEuXHiuaUdRkp4Mxk43IbgwAApcUaxv_D4FXNJ1or8WuAAEIAQADAgADdwADPQQ",
-   "extra_msgs": [],
-   "cleared": true
-  },
   "f7216b033c": {
    "id": "f7216b033c",
    "headline": "Gaza flood: Heavy rain inundates thousands of displaced tents",
@@ -16519,9 +16321,95 @@
    "news_time": "2026-11-12T06:38:01+00:00",
    "news_latest": "2026-11-12T08:26:50+00:00",
    "caption": "🚨 BREAKING: Indonesian Vice President Gibran Rakabuming Raka resigns from office\n\nIndonesian Vice President Gibran Rakabuming Raka has stepped down from his position. Recent court rulings and questions raised over his academic credentials and eligibility prompted the resignation.\n\nWhat we know so far:\n• Vice President Gibran Rakabuming Raka has resigned.\n• Court rulings questioned his educational credentials and eligibility.\n• The resignation occurs amid a growing political rift.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Indonesia #WorldNews #Politics #7SeasNews",
-   "status": "pending",
+   "status": "posted",
    "tg_message_id": 393,
-   "tg_file_id": "AgACAgUAAxkDAAIBiWr1eTHk2pruHORg7JE112gPoz-iAAIqE2sbSxqpV8Mg7pYHeHhEAQADAgADdwADPQQ"
+   "tg_file_id": "AgACAgUAAxkDAAIBiWr1eTHk2pruHORg7JE112gPoz-iAAIqE2sbSxqpV8Mg7pYHeHhEAQADAgADdwADPQQ",
+   "queued_at": "2026-11-12T09:20:04.487699+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122099309469548584",
+   "posted_at": "2026-11-12T09:20:04.861835+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 12 · 4:20 AM New York · 2:50 PM Sri Lanka\n\n<b>Indonesian Vice President Gibran Rakabuming Raka resigns from office</b>\n<i>ABC News, Al Jazeera, BBC, New York Times</i>\n🟢 <b>Latest:</b> 1:56 PM Sri Lanka (53 min ago) · first reported 12:08 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099309469548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 217,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "1787308749160270"
+  },
+  "eeea2b2bb2": {
+   "id": "eeea2b2bb2",
+   "headline": "Florida city cancels St Patricks parade and Pride event",
+   "summary": "Delray Beach canceled its 2027 St. Patrick's Day Parade and Pride event. The cancellation follows Florida Governor Ron DeSantis signing a new law restricting DEI-related funding.",
+   "label": "US POLITICS",
+   "hook": "Should local events be affected by state funding laws?",
+   "key_points": [
+    "Delray Beach canceled its 2027 St. Patrick's Day Parade.",
+    "The city also canceled its 2027 Pride event.",
+    "Gov. Ron DeSantis signed Florida's new DEI funding law."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Florida",
+    "#DelrayBeach",
+    "#USPolitics"
+   ],
+   "sources": [
+    "Fox News",
+    "The Independent"
+   ],
+   "link": "https://www.foxnews.com/politics/florida-city-gop-backed-dei-law-blocks-st-patricks-parade-pride-event",
+   "links": [
+    [
+     "Fox News",
+     "https://www.foxnews.com/politics/florida-city-gop-backed-dei-law-blocks-st-patricks-parade-pride-event"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/delray-beach-st-patricks-day-pride-b3083607.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Florida_State_Capitol_-_US27_February_2015_%2844033650502%29.jpg/1920px-Florida_State_Capitol_-_US27_February_2015_%2844033650502%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "formulanone from Huntsville, United States / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Florida city cancels St Patricks parade and Pride event",
+    "people": [
+     "Ron DeSantis"
+    ],
+    "image_query": "Delray Beach city",
+    "image_queries": [
+     "Florida State Capitol",
+     "Delray Beach downtown",
+     "Florida flag",
+     "government building"
+    ],
+    "image_style": "scene",
+    "location": "Florida, US"
+   },
+   "created_at": "2026-11-12T09:15:38.186388+00:00",
+   "news_time": "2026-11-12T07:47:28+00:00",
+   "news_latest": "2026-11-12T09:08:10+00:00",
+   "caption": "Florida city cancels St Patricks parade and Pride event\n\nDelray Beach canceled its 2027 St. Patrick's Day Parade and Pride event. The cancellation follows Florida Governor Ron DeSantis signing a new law restricting DEI-related funding.\n\n💬 Should local events be affected by state funding laws?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Florida #DelrayBeach #USPolitics #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 394,
+   "tg_file_id": "AgACAgUAAxkDAAIBimr1g76hVrlLW9xWmCwLNi6_9klVAAI0E2sbSxqpV_ked7mTfpr0AQADAgADdwADPQQ",
+   "queued_at": "2026-11-12T09:19:51.962265+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122099309319548584",
+   "posted_at": "2026-11-12T09:19:52.329027+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 12 · 4:19 AM New York · 2:49 PM Sri Lanka\n\n<b>Florida city cancels St Patricks parade and Pride event</b>\n<i>Fox News, The Independent</i>\n🟢 <b>Latest:</b> 2:38 PM Sri Lanka (11 min ago) · first reported 1:17 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099309319548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 215,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true
   }
  },
  "seen_links": [
@@ -17161,29 +17049,11 @@
   "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
   "https://abcnews.com/International/wireStory/indonesias-vice-president-resigns-eligibility-academic-credentials-questioned-138069107",
   "https://www.nytimes.com/2026/11/12/world/asia/indonesia-gibran-vice-president-resign.html",
-  "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss"
+  "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss",
+  "https://www.foxnews.com/politics/florida-city-gop-backed-dei-law-blocks-st-patricks-parade-pride-event",
+  "https://www.independent.co.uk/news/world/americas/delray-beach-st-patricks-day-pride-b3083607.html"
  ],
  "recent_topics": [
-  [
-   "2026-11-09T09:15:48.576467+00:00",
-   [
-    "abruptly",
-    "arizona",
-    "attorney",
-    "cancel",
-    "carry",
-    "deportation",
-    "eight",
-    "flight",
-    "iranian",
-    "last",
-    "minut",
-    "national",
-    "scuttl",
-    "tarmac"
-   ],
-   "9f12efc92a"
-  ],
   [
    "2026-11-09T09:51:13.790732+00:00",
    [
@@ -20476,19 +20346,36 @@
     "vice-president"
    ],
    "f20ccf018a"
+  ],
+  [
+   "2026-11-12T09:15:43.071457+00:00",
+   [
+    "anti-diversity",
+    "block",
+    "cancel",
+    "city",
+    "dei",
+    "due",
+    "event",
+    "florida",
+    "forc",
+    "gop-back",
+    "law",
+    "parad",
+    "patrick",
+    "prid",
+    "trump"
+   ],
+   "eeea2b2bb2"
   ]
  ],
- "last_draft_at": "2026-11-12T09:00:57.392077+00:00",
+ "last_draft_at": "2026-11-12T09:15:24.241224+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T09:00:31.596134+00:00",
  "run_log": [
-  "11-12 06:45:20 run start",
-  "11-12 06:45:48 listening 11 min",
-  "11-12 06:57:07 listening done",
-  "11-12 06:57:07 run end after 707 s",
   "11-12 07:00:29 run start",
   "11-12 07:00:58 listening 11 min",
   "11-12 07:12:17 listening done",
@@ -20524,12 +20411,15 @@
   "11-12 09:00:31 run start",
   "11-12 09:01:07 listening 11 min",
   "11-12 09:12:02 listening done",
-  "11-12 09:12:02 run end after 691 s"
+  "11-12 09:12:02 run end after 691 s",
+  "11-12 09:15:23 run start",
+  "11-12 09:15:43 listening 11 min",
+  "11-12 09:27:02 listening done",
+  "11-12 09:27:02 run end after 698 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/f/fb/Cummins_Corporate_Office_Building_-_April_2008_-_Holly_Higgins_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Dublin_architecture-_Georgian.jpg/1920px-Dublin_architecture-_Georgian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Attendees_applaud_as_President_Barack_Obama_acknowledges_Vice_President_Joe_Biden%2C_2014.jpg/1280px-Attendees_applaud_as_President_Barack_Obama_acknowledges_Vice_President_Joe_Biden%2C_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -20568,7 +20458,8 @@
    "https://upload.wikimedia.org/wikipedia/commons/1/17/Walhalla_general_store_Stevage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Jensen_huang_stanford_2026-04-30_031.jpg/1280px-Jensen_huang_stanford_2026-04-30_031.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Ireland_Clonmacnoise_BW_2025-09-09_17-09-03_v2.jpg/1920px-Ireland_Clonmacnoise_BW_2025-09-09_17-09-03_v2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Gibran_Rakabuming_Raka%2C_Candidate_for_Indonesia%27s_Vice_President_in_2024.jpg/1280px-Gibran_Rakabuming_Raka%2C_Candidate_for_Indonesia%27s_Vice_President_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Gibran_Rakabuming_Raka%2C_Candidate_for_Indonesia%27s_Vice_President_in_2024.jpg/1280px-Gibran_Rakabuming_Raka%2C_Candidate_for_Indonesia%27s_Vice_President_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Florida_State_Capitol_-_US27_February_2015_%2844033650502%29.jpg/1920px-Florida_State_Capitol_-_US27_February_2015_%2844033650502%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -23556,7 +23447,6 @@
    }
   },
   "recent_ideas": [
-   "polish flag",
    "us capitol building",
    "ballot box, united states",
    "uss gerald r. ford",
@@ -23567,7 +23457,8 @@
    "artificial reef underwater",
    "senate chamber",
    "walhalla, australia",
-   "ireland"
+   "ireland",
+   "florida state capitol"
   ]
  },
  "comment_perm_told": true
