@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892973,
+ "tg_offset": 495892978,
  "drafts": {
   "a72ab4f487": {
    "id": "a72ab4f487",
@@ -15964,9 +15964,11 @@
    "news_time": "2026-11-12T09:44:37+00:00",
    "news_latest": "2026-11-12T10:48:52+00:00",
    "caption": "🚨 BREAKING: Russian officer killed by car bomb in St Petersburg\n\nA Russian colonel died in a car bomb explosion in St Petersburg. According to reports, Ukrainian forces have previously used similar attacks, though Kyiv rarely claims responsibility.\n\nWhat we know so far:\n• A Russian colonel died in a St Petersburg explosion\n• Ukrainian forces previously used similar attacks\n• Kyiv rarely claims responsibility for these attacks\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Russia #StPetersburg #WorldNews #7SeasNews",
-   "status": "pending",
+   "status": "replaced",
    "tg_message_id": 401,
-   "tg_file_id": "AgACAgUAAxkDAAIBkWr1nKFkjPSwv5C_mYEKuJD5-QZ2AAJkE2sbSxqpV9wYnhbdkRT1AQADAgADdwADPQQ"
+   "tg_file_id": "AgACAgUAAxkDAAIBkWr1nKFkjPSwv5C_mYEKuJD5-QZ2AAJkE2sbSxqpV9wYnhbdkRT1AQADAgADdwADPQQ",
+   "extra_msgs": [],
+   "cleared": true
   },
   "9ba914a594": {
    "id": "9ba914a594",
@@ -16097,9 +16099,11 @@
    "news_time": "2026-11-12T11:24:09+00:00",
    "news_latest": "2026-11-12T11:27:00+00:00",
    "caption": "Israeli airstrike on Nasser hospital in Gaza kills six people\n\nAn Israeli airstrike in Khan Younis killed six people, including a surgeon. The Israeli military stated it targeted a Hamas commander, while Palestinian officials reported the dead also included a disabled man and patients awaiting surgery.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Gaza #Israel #WorldNews #7SeasNews",
-   "status": "pending",
+   "status": "replaced",
    "tg_message_id": 403,
-   "tg_file_id": "AgACAgUAAxkDAAIBk2r1pubNCdOA4sRr9drbzbq6a_TsAAKEE2sbSxqpV6djH_AT67yLAQADAgADdwADPQQ"
+   "tg_file_id": "AgACAgUAAxkDAAIBk2r1pubNCdOA4sRr9drbzbq6a_TsAAKEE2sbSxqpV6djH_AT67yLAQADAgADdwADPQQ",
+   "extra_msgs": [],
+   "cleared": true
   },
   "bd96511b9d": {
    "id": "bd96511b9d",
@@ -16540,6 +16544,226 @@
    "log_text": "✅ <b>Published</b> · Nov 12 · 9:34 AM New York · 8:04 PM Sri Lanka\n\n<b>Iranian authorities target exiled journalists and dissidents across borders</b>\n<i>DW, New York Times</i>\n🟢 <b>Latest:</b> 7:41 PM Sri Lanka (23 min ago) · first reported 3:15 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099547291548584\">Open on Facebook</a>",
    "log_chat": -1004367532135,
    "log_msg_id": 239,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true
+  },
+  "6f228f43e8": {
+   "id": "6f228f43e8",
+   "headline": "Trump threatens tariffs on Mexico over migrant caravans",
+   "summary": "President Donald Trump warned Mexico to stop migrant caravans traveling to the United States. Canada warned that separate tariffs are hurting American businesses and consumers.",
+   "label": "US POLITICS",
+   "hook": "Will these proposed penalties stop the migrant caravans from reaching the United States?",
+   "key_points": [
+    "Canada warns US tariffs harm American businesses.",
+    "Trump threatens economic penalties against Mexico.",
+    "Migrant caravans are traveling through Mexico."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Tariffs",
+    "#Mexico"
+   ],
+   "sources": [
+    "Newsweek",
+    "Washington Examiner"
+   ],
+   "link": "https://www.newsweek.com/trump-tariffs-backfire-canada-damage-us-economy-12703582",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/trump-tariffs-backfire-canada-damage-us-economy-12703582"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/policy/immigration/4801179/trump-threatens-tariffs-mexico-migrant-caravan/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Shealeah Craighead / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Trump threatens tariffs on Mexico over migrant caravans",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "White House",
+    "image_queries": [
+     "US Capitol building",
+     "Mexico US border",
+     "Oval Office desk",
+     "Washington DC street"
+    ],
+    "image_style": "person",
+    "location": "Washington, US"
+   },
+   "created_at": "2026-11-12T14:45:37.040024+00:00",
+   "news_time": "2026-11-12T14:15:16+00:00",
+   "news_latest": "2026-11-12T14:37:25+00:00",
+   "caption": "Trump threatens tariffs on Mexico over migrant caravans\n\nPresident Donald Trump warned Mexico to stop migrant caravans traveling to the United States. Canada warned that separate tariffs are hurting American businesses and consumers.\n\n💬 Will these proposed penalties stop the migrant caravans from reaching the United States?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Tariffs #Mexico #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 411,
+   "tg_file_id": "AgACAgUAAxkDAAIBm2r10RsxWB9ZuMG9PzKJNmI1QOJmAAKyFGsbSxqpVyKn1_JU2hVsAQADAgADdwADPQQ",
+   "queued_at": "2026-11-12T14:46:07.251512+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122099556363548584",
+   "posted_at": "2026-11-12T14:46:07.636750+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 12 · 9:46 AM New York · 8:16 PM Sri Lanka\n\n<b>Trump threatens tariffs on Mexico over migrant caravans</b>\n<i>Newsweek, Washington Examiner</i>\n🟢 <b>Latest:</b> 8:07 PM Sri Lanka (9 min ago) · first reported 7:45 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099556363548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 241,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true
+  },
+  "c1987b1ca2": {
+   "id": "c1987b1ca2",
+   "headline": "Russian officer killed by car bomb in St Petersburg",
+   "summary": "A Russian colonel died in a car bomb explosion in St Petersburg. According to reports, Ukrainian forces have previously used similar attacks, though Kyiv rarely claims responsibility.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "A Russian colonel died in a St Petersburg explosion",
+    "Ukrainian forces previously used similar attacks",
+    "Kyiv rarely claims responsibility for these attacks"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Russia",
+    "#StPetersburg",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Euronews",
+    "Newsweek"
+   ],
+   "link": "https://www.euronews.com/2026/11/12/russian-officer-killed-by-car-bomb-in-st-petersburg-as-murder-investigation-begins",
+   "links": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/12/russian-officer-killed-by-car-bomb-in-st-petersburg-as-murder-investigation-begins"
+    ],
+    [
+     "Newsweek",
+     "https://www.newsweek.com/russian-soldiers-blown-up-by-car-bombs-12703309"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "tg_file_id": "AgACAgUAAxkBAAIBnGr10noasVFMcSu8Kdu54WUCobCDAAK4FGsbSxqpV1Oqou2bSHPVAQADAgADeQADPQQ",
+      "credit": ""
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Russian officer killed by car bomb in St Petersburg",
+    "people": [],
+    "image_query": "St Petersburg street",
+    "image_queries": [
+     "St Petersburg city center",
+     "Russian military vehicle",
+     "police investigation scene",
+     "St Petersburg architecture"
+    ],
+    "image_style": "incident",
+    "location": "St Petersburg, Russia"
+   },
+   "created_at": "2026-11-12T14:51:38.613032+00:00",
+   "news_time": "2026-11-12T09:44:37+00:00",
+   "news_latest": "2026-11-12T10:48:52+00:00",
+   "caption": "🚨 BREAKING: Russian officer killed by car bomb in St Petersburg\n\nA Russian colonel died in a car bomb explosion in St Petersburg. According to reports, Ukrainian forces have previously used similar attacks, though Kyiv rarely claims responsibility.\n\nWhat we know so far:\n• A Russian colonel died in a St Petersburg explosion\n• Ukrainian forces previously used similar attacks\n• Kyiv rarely claims responsibility for these attacks\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Russia #StPetersburg #WorldNews #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 413,
+   "tg_file_id": "AgACAgUAAxkDAAIBnWr10n4i6UkEpeOMM-ZprGbbc8MiAAK5FGsbSxqpVzhYP5MmRlD3AQADAgADdwADPQQ",
+   "queued_at": "2026-11-12T14:51:47.956888+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122099558943548584",
+   "posted_at": "2026-11-12T14:51:48.322185+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 12 · 9:51 AM New York · 8:21 PM Sri Lanka\n\n<b>Russian officer killed by car bomb in St Petersburg</b>\n<i>Euronews, Newsweek</i>\n🔴 <b>Latest:</b> 4:18 PM Sri Lanka (4h 3m ago) · first reported 3:14 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099558943548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 243,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "28764200193279373"
+  },
+  "cfda6da62f": {
+   "id": "cfda6da62f",
+   "headline": "Israeli airstrike on Nasser hospital in Gaza kills six people",
+   "summary": "An Israeli airstrike in Khan Younis killed six people, including a surgeon. The Israeli military stated it targeted a Hamas commander, while Palestinian officials reported the dead also included a disabled man and patients awaiting surgery.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Six people killed in Nasser hospital strike",
+    "Israeli military says it targeted Hamas commander",
+    "Surgeon and disabled man among the dead"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Gaza",
+    "#Israel",
+    "#WorldNews"
+   ],
+   "sources": [
+    "DW",
+    "The Guardian"
+   ],
+   "link": "https://www.dw.com/en/israel-targets-senior-hamas-member-in-gaza-hospital-strike/a-79927645?maca=en-rss-en-world-4025-rdf",
+   "links": [
+    [
+     "DW",
+     "https://www.dw.com/en/israel-targets-senior-hamas-member-in-gaza-hospital-strike/a-79927645?maca=en-rss-en-world-4025-rdf"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "tg_file_id": "AgACAgUAAxkBAAIBnGr10noasVFMcSu8Kdu54WUCobCDAAK4FGsbSxqpV1Oqou2bSHPVAQADAgADeQADPQQ",
+      "credit": ""
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Israeli airstrike on Nasser hospital in Gaza kills six people",
+    "people": [],
+    "image_query": "Nasser hospital Gaza",
+    "image_queries": [
+     "Khan Younis street view",
+     "Gaza medical facility",
+     "hospital building exterior",
+     "southern Gaza strip"
+    ],
+    "image_style": "incident",
+    "location": "Khan Younis, Palestinian Territories"
+   },
+   "created_at": "2026-11-12T14:52:18.859312+00:00",
+   "news_time": "2026-11-12T11:24:09+00:00",
+   "news_latest": "2026-11-12T11:27:00+00:00",
+   "caption": "Israeli airstrike on Nasser hospital in Gaza kills six people\n\nAn Israeli airstrike in Khan Younis killed six people, including a surgeon. The Israeli military stated it targeted a Hamas commander, while Palestinian officials reported the dead also included a disabled man and patients awaiting surgery.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Gaza #Israel #WorldNews #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 415,
+   "tg_file_id": "AgACAgUAAxkDAAIBn2r10q8PCyf-G068AmPKmWFgwRAGAAK6FGsbSxqpV0Aee7RxA4ydAQADAgADdwADPQQ",
+   "queued_at": "2026-11-12T14:52:36.653233+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122099559837548584",
+   "posted_at": "2026-11-12T14:52:36.996049+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 12 · 9:52 AM New York · 8:22 PM Sri Lanka\n\n<b>Israeli airstrike on Nasser hospital in Gaza kills six people</b>\n<i>DW, The Guardian</i>\n🔴 <b>Latest:</b> 4:57 PM Sri Lanka (3h 25m ago) · first reported 4:54 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099559837548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 245,
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true
@@ -17236,33 +17460,13 @@
   "https://thehill.com/homenews/house/6215376-garcia-warns-miller-preserve-documents/",
   "https://www.washingtonexaminer.com/news/white-house/4800931/stephen-miller-trump-immigration-deal-democrats/",
   "https://www.dw.com/en/iran-exiled-journalists-still-repressed-by-regime/a-79929694?maca=en-rss-en-world-4025-rdf",
-  "https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html"
+  "https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html",
+  "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
+  "https://www.washingtonpost.com/politics/2026/11/12/trump-shuts-down-vance-iran-negotiating-efforts-says-no-deal-needed/",
+  "https://www.newsweek.com/trump-tariffs-backfire-canada-damage-us-economy-12703582",
+  "https://www.washingtonexaminer.com/policy/immigration/4801179/trump-threatens-tariffs-mexico-migrant-caravan/"
  ],
  "recent_topics": [
-  [
-   "2026-11-09T14:45:51.336983+00:00",
-   [
-    "10",
-    "assault",
-    "brand",
-    "british",
-    "comedian",
-    "conviction",
-    "court",
-    "hand",
-    "month",
-    "offenc",
-    "prison",
-    "rap",
-    "russel",
-    "russell",
-    "sentenc",
-    "set",
-    "sexual",
-    "updat"
-   ],
-   "75d587144c"
-  ],
   [
    "2026-11-09T15:15:37.819429+00:00",
    [
@@ -20578,19 +20782,35 @@
     "still"
    ],
    "d4221e2d0d"
+  ],
+  [
+   "2026-11-12T14:45:47.603018+00:00",
+   [
+    "backfir",
+    "canada",
+    "caravan",
+    "damag",
+    "doesnt",
+    "doubl",
+    "economy",
+    "mexico",
+    "migrant",
+    "stop",
+    "tariff",
+    "threaten",
+    "trump",
+    "warn"
+   ],
+   "6f228f43e8"
   ]
  ],
- "last_draft_at": "2026-11-12T14:30:28.980015+00:00",
+ "last_draft_at": "2026-11-12T14:45:23.310914+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T14:00:30.395069+00:00",
  "run_log": [
-  "11-12 12:30:28 run start",
-  "11-12 12:31:03 listening 11 min",
-  "11-12 12:41:57 listening done",
-  "11-12 12:41:57 run end after 688 s",
   "11-12 12:45:09 run start",
   "11-12 12:45:19 listening 11 min",
   "11-12 12:56:38 listening done",
@@ -20626,12 +20846,15 @@
   "11-12 14:30:28 run start",
   "11-12 14:33:49 listening 8 min",
   "11-12 14:42:03 listening done",
-  "11-12 14:42:03 run end after 694 s"
+  "11-12 14:42:03 run end after 694 s",
+  "11-12 14:45:22 run start",
+  "11-12 14:45:47 listening 11 min",
+  "11-12 14:57:00 listening done",
+  "11-12 14:57:00 run end after 697 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg/1280px-Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Brasilia_Supreme_Federal_Court_of_Brazil_2009.jpg/1920px-Brasilia_Supreme_Federal_Court_of_Brazil_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Alexander_Darchiev_05.2025.jpg/1280px-Alexander_Darchiev_05.2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Warsaw_2023_115_Nicolaus_Copernicus_Monument.jpg/1920px-Warsaw_2023_115_Nicolaus_Copernicus_Monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -20670,7 +20893,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Spanish_Parliament_building_.jpg/1920px-Spanish_Parliament_building_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/8/8f/Presiden_Indonesia_Prabowo_Subianto%2C_Presiden_Rusia_Vladimir_Putin%2C_Presiden_Tiongkok_Xi_Jinping%2C_Pemimpin_Tertinggi_Korea_Utara_Kim_Jong-un%2C_dan_Presiden_Kazakstan_Kassym-Jomart_Tokayev_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/The_Great_Wall_of_China_in_Yanqing.jpg/1920px-The_Great_Wall_of_China_in_Yanqing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/e/e7/Tehran_skyline_from_Book_Garden_0272.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/e/e7/Tehran_skyline_from_Book_Garden_0272.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
