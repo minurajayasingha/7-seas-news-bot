@@ -18220,6 +18220,89 @@
    "fb_comment_id": "122099858265548584_1507217141218588",
    "fb_story_id": "1608043240647915",
    "fb_reel_id": "1667990751640423"
+  },
+  "0dca1b56a1": {
+   "id": "0dca1b56a1",
+   "headline": "Doctor kills apartment manager in Washington DC shooting",
+   "summary": "A shooting in Washington DC leaves one person dead and four injured after a dispute over apartment conditions. Police state that the suspect is dead.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "The suspect had a long-running dispute over mould.",
+    "The apartment involved is valued at $1 million.",
+    "A witness saw a deceased person in a pool of blood."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#WashingtonDC",
+    "#News",
+    "#US"
+   ],
+   "sources": [
+    "BBC",
+    "The Independent"
+   ],
+   "link": "https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo?at_medium=RSS&at_campaign=rss",
+   "links": [
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/crime/shooting-dc-gym-doctor-hoa-fight-b3084137.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://live.staticflickr.com/3069/2294317201_2163349b4a_b.jpg",
+      "credit": "spakattacks / Flickr (CC BY 2.0)",
+      "short": "FLICKR"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Doctor kills apartment manager in Washington DC shooting",
+    "people": [],
+    "image_query": "Washington DC street",
+    "image_queries": [
+     "apartment building exterior",
+     "Washington DC skyline",
+     "police tape scene",
+     "city apartment complex"
+    ],
+    "image_style": "incident",
+    "location": "Washington DC, US",
+    "nearby_city": "Washington, District of Columbia",
+    "event_query": "Washington DC apartment shooting",
+    "news_time": null,
+    "label": "WORLD"
+   },
+   "created_at": "2026-11-12T23:46:07.244019+00:00",
+   "news_time": "2026-11-12T20:59:15+00:00",
+   "news_latest": "2026-11-12T23:39:04+00:00",
+   "caption": "🚨 BREAKING: Doctor kills apartment manager in Washington DC shooting\n\nA shooting in Washington DC leaves one person dead and four injured after a dispute over apartment conditions. Police state that the suspect is dead.\n\nWhat we know so far:\n• The suspect had a long-running dispute over mould.\n• The apartment involved is valued at $1 million.\n• A witness saw a deceased person in a pool of blood.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WashingtonDC #News #US #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 452,
+   "tg_file_id": "AgACAgUAAxkDAAIBxGr2T8T-TR3zg-w27opP51Z6g8BnAAJME2sbFv2wV_XvRmqSc78EAQADAgADdwADPQQ",
+   "queued_at": "2026-11-12T23:46:13.179635+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-12T23:46:13.179648+00:00",
+   "post_label": "🤖 Auto-posting + Reel",
+   "fb_post_id": "1413030521900096_122099879541548584",
+   "posted_at": "2026-11-12T23:46:13.483005+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 12 · 6:46 PM New York · 5:16 AM Sri Lanka\n\n<b>Doctor kills apartment manager in Washington DC shooting</b>\n<i>BBC, The Independent</i>\n🟢 <b>Latest:</b> 5:09 AM Sri Lanka (7 min ago) · first reported 2:29 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099879541548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 279,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122099879541548584_1598519548255254",
+   "fb_story_id": "4535297070119764",
+   "fb_reel_id": "1062664210125464"
   }
  },
  "seen_links": [
@@ -18990,7 +19073,9 @@
   "https://www.nbcnews.com/politics/justice-department/doj-no-investigations-words-democrats-todd-blanche-says-rcna609073",
   "https://www.washingtonexaminer.com/news/justice/4802158/no-ongoing-investigations-into-democrats-oversight-threats-blanche-says/",
   "https://www.washingtonexaminer.com/news/justice/4802216/doj-north-korea-crypto-theft-binance-hack/",
-  "https://thehill.com/policy/technology/6217605-north-korean-hackers-stole-crypto/"
+  "https://thehill.com/policy/technology/6217605-north-korean-hackers-stole-crypto/",
+  "https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo?at_medium=RSS&at_campaign=rss",
+  "https://www.independent.co.uk/news/world/americas/crime/shooting-dc-gym-doctor-hoa-fight-b3084137.html"
  ],
  "recent_topics": [
   [
@@ -21919,19 +22004,51 @@
     "win"
    ],
    "77c871299b"
+  ],
+  [
+   "2026-11-12T23:46:13.176510+00:00",
+   [
+    "angry",
+    "apartment",
+    "condition",
+    "condo",
+    "deadly",
+    "disput",
+    "doctor",
+    "fight",
+    "fir",
+    "four",
+    "gun",
+    "gunman",
+    "gym",
+    "himself",
+    "hoa",
+    "injur",
+    "kill",
+    "long-runn",
+    "manager",
+    "mold",
+    "mould",
+    "near",
+    "open",
+    "penthous",
+    "polic",
+    "ran",
+    "shoot",
+    "suspect",
+    "turn",
+    "washington"
+   ],
+   "0dca1b56a1"
   ]
  ],
- "last_draft_at": "2026-11-12T23:30:43.044062+00:00",
+ "last_draft_at": "2026-11-12T23:45:44.016272+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T23:00:56.554943+00:00",
  "run_log": [
-  "11-12 21:17:46 run start",
-  "11-12 21:18:14 listening 11 min",
-  "11-12 21:29:30 listening done",
-  "11-12 21:29:30 run end after 704 s",
   "11-12 21:30:55 run start",
   "11-12 21:31:08 listening 11 min",
   "11-12 21:42:27 listening done",
@@ -21967,12 +22084,15 @@
   "11-12 23:30:42 run start",
   "11-12 23:32:23 listening 10 min",
   "11-12 23:42:27 listening done",
-  "11-12 23:42:27 run end after 704 s"
+  "11-12 23:42:27 run end after 704 s",
+  "11-12 23:45:43 run start",
+  "11-12 23:46:48 listening 10 min",
+  "11-12 23:57:17 listening done",
+  "11-12 23:57:17 run end after 693 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Jensen_huang_stanford_2026-04-30_031.jpg/1280px-Jensen_huang_stanford_2026-04-30_031.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Ireland_Clonmacnoise_BW_2025-09-09_17-09-03_v2.jpg/1920px-Ireland_Clonmacnoise_BW_2025-09-09_17-09-03_v2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Gibran_Rakabuming_Raka%2C_Candidate_for_Indonesia%27s_Vice_President_in_2024.jpg/1280px-Gibran_Rakabuming_Raka%2C_Candidate_for_Indonesia%27s_Vice_President_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Florida_State_Capitol_-_US27_February_2015_%2844033650502%29.jpg/1920px-Florida_State_Capitol_-_US27_February_2015_%2844033650502%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -22011,7 +22131,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/John_Thune_%2853300491977%29.jpg/1280px-John_Thune_%2853300491977%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/5/5a/US_Capitol_dome_Jan_2006.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Donald_Trump%2C_Jr._%2851327974240%29.jpg/1280px-Donald_Trump%2C_Jr._%2851327974240%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Cindy_Holscher_rally_in_Lawrence_KS_3.jpg/1280px-Cindy_Holscher_rally_in_Lawrence_KS_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Cindy_Holscher_rally_in_Lawrence_KS_3.jpg/1280px-Cindy_Holscher_rally_in_Lawrence_KS_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://live.staticflickr.com/3069/2294317201_2163349b4a_b.jpg"
   ],
   "pools": {
    "hakeem jeffries": {
@@ -25481,11 +25602,11 @@
  },
  "comment_perm_told": true,
  "auto_count": {
-  "2026-11-12": 13
+  "2026-11-12": 14
  },
- "last_auto_at": "2026-11-12T23:22:05.308431+00:00",
- "last_post_at": "2026-11-12T23:22:20.000605+00:00",
+ "last_auto_at": "2026-11-12T23:46:13.483005+00:00",
+ "last_post_at": "2026-11-12T23:46:20.058276+00:00",
  "reels_count": {
-  "2026-11-12": 1
+  "2026-11-12": 2
  }
 }
