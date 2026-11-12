@@ -15991,9 +15991,11 @@
    "news_time": "2026-11-11T21:03:40+00:00",
    "news_latest": "2026-11-11T22:48:03+00:00",
    "caption": "Iran claims strike on Didamar Island in Hormuz Strait\n\nIran claims its Revolutionary Guard struck navigation equipment on Oman's Didamar Island. Omani officials dispute any damage. Meanwhile, Iran's parliament speaker states the Strait of Hormuz will not return to pre-war status.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#HormuzStrait #Iran #Oman #7SeasNews",
-   "status": "pending",
+   "status": "expired",
    "tg_message_id": 381,
-   "tg_file_id": "AgACAgUAAxkDAAIBfWr087KLSXZRxk17HndKptmwdt6vAAIYEmsbSxqpV9Mgq3qsN1-XAQADAgADdwADPQQ"
+   "tg_file_id": "AgACAgUAAxkDAAIBfWr087KLSXZRxk17HndKptmwdt6vAAIYEmsbSxqpV9Mgq3qsN1-XAQADAgADdwADPQQ",
+   "extra_msgs": [],
+   "cleared": true
   },
   "d45f5210c1": {
    "id": "d45f5210c1",
@@ -16049,9 +16051,11 @@
    "news_time": "2026-11-11T22:11:24+00:00",
    "news_latest": "2026-11-11T22:47:14+00:00",
    "caption": "🚨 BREAKING: Partial building collapse in Brooklyn leaves one dead and people trapped\n\nRescue crews search for people trapped in the rubble following a partial building collapse in Brooklyn on Wednesday. Aerial footage captures firefighters digging at least one person out of the debris.\n\nWhat we know so far:\n• Partial building collapse occurs in Brooklyn\n• Rescue crews search for trapped people\n• Aerial footage shows firefighters digging out debris\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Brooklyn #NewYork #BreakingNews #7SeasNews",
-   "status": "pending",
+   "status": "expired",
    "tg_message_id": 382,
-   "tg_file_id": "AgACAgUAAxkDAAIBfmr087foMaJWGA9tdmn0EJtydS1fAAIZEmsbSxqpV9fcRT0pGwwXAQADAgADdwADPQQ"
+   "tg_file_id": "AgACAgUAAxkDAAIBfmr087foMaJWGA9tdmn0EJtydS1fAAIZEmsbSxqpV9fcRT0pGwwXAQADAgADdwADPQQ",
+   "extra_msgs": [],
+   "cleared": true
   },
   "57d3b49e8b": {
    "id": "57d3b49e8b",
@@ -16400,6 +16404,79 @@
    "status": "pending",
    "tg_message_id": 388,
    "tg_file_id": "AgACAgUAAxkDAAIBhGr1PMmFKa2XX0GD6M9fXCFAiugQAAKkEmsbSxqpVyC_3kx3aMkOAQADAgADdwADPQQ"
+  },
+  "9208413554": {
+   "id": "9208413554",
+   "headline": "Missing Australian teenager found alive after six days",
+   "summary": "A 17-year-old boy was found alive in eastern Australian woodlands after going missing for six days. Police located the teenager in a creek near Walhalla following a search operation.",
+   "label": "WORLD",
+   "hook": "How did the teenager survive six days alone in the dense bushland?",
+   "key_points": [
+    "The 17-year-old was missing for six days",
+    "He was located in a creek near Walhalla",
+    "Police AirWing found him on Thursday morning"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Australia",
+    "#WorldNews",
+    "#SearchAndRescue"
+   ],
+   "sources": [
+    "ABC News",
+    "BBC",
+    "The Guardian",
+    "The Independent"
+   ],
+   "link": "https://abcnews.com/International/wireStory/missing-teen-found-alive-after-6-days-australian-138068466",
+   "links": [
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/missing-teen-found-alive-after-6-days-australian-138068466"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/australasia/australia-victoria-bushland-teen-william-b3083555.html"
+    ],
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Walhalla_general_store_Stevage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Stevage / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Missing Australian teenager found alive after six days",
+    "people": [],
+    "image_query": "Gippsland woodlands",
+    "image_queries": [
+     "Australian bushland",
+     "Walhalla Victoria",
+     "dense forest creek",
+     "search and rescue helicopter"
+    ],
+    "image_style": "person",
+    "location": "Walhalla, Australia"
+   },
+   "created_at": "2026-11-12T06:45:41.097699+00:00",
+   "news_time": "2026-11-12T02:30:28+00:00",
+   "news_latest": "2026-11-12T06:31:11+00:00",
+   "caption": "Missing Australian teenager found alive after six days\n\nA 17-year-old boy was found alive in eastern Australian woodlands after going missing for six days. Police located the teenager in a creek near Walhalla following a search operation.\n\n💬 How did the teenager survive six days alone in the dense bushland?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Australia #WorldNews #SearchAndRescue #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 389,
+   "tg_file_id": "AgACAgUAAxkDAAIBhWr1YJy7pAg4I6YToaXqqT7ZuXefAAL9EmsbSxqpV-oqyCQsJp8TAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -17027,36 +17104,13 @@
   "https://www.nbcnews.com/nightly-news/video/nyt-reports-nvidia-ceo-had-second-extramarital-relationship-273310789756",
   "https://www.aljazeera.com/news/2026/11/12/what-could-chinese-intelligence-have-learned-from-nvidia-ceos-affair?traffic_source=rss",
   "https://www.washingtonexaminer.com/policy/technology/4800920/nvidia-board-oust-ceo-jensen-huang/",
-  "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss"
+  "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss",
+  "https://abcnews.com/International/wireStory/missing-teen-found-alive-after-6-days-australian-138068466",
+  "https://www.independent.co.uk/news/world/australasia/australia-victoria-bushland-teen-william-b3083555.html",
+  "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
+  "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush"
  ],
  "recent_topics": [
-  [
-   "2026-11-09T06:54:09.637396+00:00",
-   [
-    "argentin",
-    "argentina",
-    "austerity",
-    "deliver",
-    "democracy",
-    "know",
-    "leader",
-    "leo",
-    "limit",
-    "measur",
-    "milei",
-    "political",
-    "pop",
-    "power",
-    "rebuk",
-    "safeguard",
-    "sting",
-    "tell",
-    "urg",
-    "veil",
-    "visit"
-   ],
-   "2923ddaee7"
-  ],
   [
    "2026-11-09T08:15:35.915036+00:00",
    [
@@ -20332,19 +20386,41 @@
     "trump"
    ],
    "b8d28f9c3e"
+  ],
+  [
+   "2026-11-12T06:45:48.795276+00:00",
+   [
+    "again",
+    "aliv",
+    "australian",
+    "bush",
+    "bushland",
+    "found",
+    "hes",
+    "hous",
+    "leav",
+    "lost",
+    "miss",
+    "mother",
+    "never",
+    "rescu",
+    "reunit",
+    "six",
+    "son",
+    "teen",
+    "victorian",
+    "woodland"
+   ],
+   "9208413554"
   ]
  ],
- "last_draft_at": "2026-11-12T06:30:28.611713+00:00",
+ "last_draft_at": "2026-11-12T06:45:20.799528+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T06:00:30.734668+00:00",
  "run_log": [
-  "11-12 04:24:05 run start",
-  "11-12 04:24:15 listening 11 min",
-  "11-12 04:35:35 listening done",
-  "11-12 04:35:35 run end after 689 s",
   "11-12 04:35:47 run start",
   "11-12 04:35:58 listening 11 min",
   "11-12 04:47:17 listening done",
@@ -20380,12 +20456,15 @@
   "11-12 06:30:28 run start",
   "11-12 06:30:37 listening 11 min",
   "11-12 06:41:57 listening done",
-  "11-12 06:41:57 run end after 689 s"
+  "11-12 06:41:57 run end after 689 s",
+  "11-12 06:45:20 run start",
+  "11-12 06:45:48 listening 11 min",
+  "11-12 06:57:07 listening done",
+  "11-12 06:57:07 run end after 707 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Ben_Ferguson_in_About_Time.jpg/1280px-Ben_Ferguson_in_About_Time.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/0/08/Maria_Elvira_Salazar_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -20424,7 +20503,8 @@
    "https://upload.wikimedia.org/wikipedia/commons/8/8f/Congressman_Jeff_Van_Drew_%28cropped%292.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://upload.wikimedia.org/wikipedia/commons/7/79/DEMOCRATIC_NATIONAL_CONVENTION_SECURITY_1076052.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/USS_Oriskany_Ship_Wreck_Artificial_Reef_Dive_Underwater.jpg/1920px-USS_Oriskany_Ship_Wreck_Artificial_Reef_Dive_Underwater.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Iowa_Senate_chamber_01.jpg/1920px-Iowa_Senate_chamber_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Iowa_Senate_chamber_01.jpg/1920px-Iowa_Senate_chamber_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/1/17/Walhalla_general_store_Stevage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   ],
   "pools": {
    "donald trump": {
@@ -23390,7 +23470,6 @@
    }
   },
   "recent_ideas": [
-   "brazil supreme court",
    "warsaw monument",
    "polish flag",
    "us capitol building",
@@ -23401,7 +23480,8 @@
    "department of the interior",
    "democratic national convention",
    "artificial reef underwater",
-   "senate chamber"
+   "senate chamber",
+   "walhalla, australia"
   ]
  },
  "comment_perm_told": true
