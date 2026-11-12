@@ -14,13 +14,17 @@ Never South Asia news. Real, verified news only: a story needs 2+ different outl
   1. reads Telegram button taps/replies (getUpdates, no webhook)
   2. publishes approved posts to the Facebook Page (Graph API `/{page_id}/photos`)
   3. every `DRAFT_EVERY_MINUTES`: RSS → cluster stories → Gemini writes post (JSON) → image → Telegram draft
+  4. AUTO_PUBLISH (default True): each new draft is auto-queued ("🤖 Auto-posting…", ↩️ Cancel) and published by
+     publish_due without a tap — BREAKING at once, others one per AUTO_MIN_GAP_MINUTES, max AUTO_MAX_PER_DAY per NY day
+     (state["auto_count"], state["last_auto_at"]). Not auto: manual posts, look-alikes of recent posts, over the limit,
+     no real photo when AUTO_NEEDS_PHOTO. AUTO_REELS="breaking" = BREAKING + real photo also gets a Reel.
 - Memory is `state/state.json`, committed back by the workflow ("Save bot memory" step
   fetches + resets to origin/main before committing, so code pushes during a run don't break it).
 - **All user settings live in `bot/settings.py`** (colors, feeds, focus words, slots, counts). Prefer editing there.
 
 ## Secrets (GitHub Actions)
 TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, GEMINI_API_KEY, FB_PAGE_ID, FB_PAGE_TOKEN (never-expiring Page token),
-optional PIXABAY_API_KEY / PEXELS_API_KEY. Never print or commit secrets.
+optional PIXABAY_API_KEY / PEXELS_API_KEY / FLICKR_API_KEY. Never print or commit secrets.
 
 ## Telegram UX
 - Draft buttons: 🚀 Post now · 🎬 Reel (only if REELS_ENABLED) · 🕒 Queue (next New York slot) · 🔄 Other photo · ❌ Skip;
@@ -35,6 +39,8 @@ optional PIXABAY_API_KEY / PEXELS_API_KEY. Never print or commit secrets.
   (GRAPH_VERSION in main.py); link logged to the log channel. bot.yml installs ffmpeg only if REELS_ENABLED = True.
 - Reply to a draft with a photo → new background; with text → new headline.
 - Send a link (bot reads article + Gemini) or a photo with caption (line 1 = headline) → manual post. "BREAKING:" prefix.
+- Log-channel messages of published posts have 🗑 Delete (asks ✅ Yes / ↩️ Keep; only the owner's taps count —
+  callback `from.id` must equal TELEGRAM_CHAT_ID) → DELETE /{post_id} (+ its Reel); stats edits keep the button.
 - Published/skipped/replaced posts are deleted from the bot chat; published ones are logged to a linked channel
   (linked by forwarding a channel message to the bot).
 - Commands: /day /news /queue /status /stats /new /pause /resume /channel /tiktok /help.
@@ -58,14 +64,18 @@ optional PIXABAY_API_KEY / PEXELS_API_KEY. Never print or commit secrets.
   the last NO_REPEAT_PHOTOS used photos are avoided everywhere; PHOTO_SEARCH_FIX fixes bad place searches (White House).
 - Scene photos rotate through TOPIC_PHOTO_IDEAS (settings) + Gemini "image_queries"; ideas used lately go last.
   "Wall Street, New York" = file name must contain "Wall Street", "New York" only helps the search. JPEG photos only.
-- Never use photos from news sites (copyright). Wikimedia Commons / Pixabay / user's own photos only.
+- Never use photos from news sites (copyright; credit is not permission). Wikimedia Commons / Flickr (free licences only:
+  FLICKR_LICENSES = CC BY/BY-SA 2.0+4.0, CC0, PD, US Government Work, no known restrictions) / Pexels / Pixabay /
+  user's own photos only.
+- Real event photos first: Gemini "event_query" → event_photo() = Flickr uploads since 1 day before the news, country-checked;
+  Flickr is also tried first for scene ideas. Needs FLICKR_API_KEY (else skipped).
 - STRICT_PHOTO_MATCH: a place photo must name the story's country (location first, else headline; US POLITICS/ELECTIONS
   = US) in its title/description/categories (Pixabay tags, Pexels alt) and no other country (border photos allowed);
   no safe photo → branded globe. Country words: COUNTRY_WORDS in main.py.
 - Caption: headline, summary, (breaking: "What we know so far"), neutral question hook,
   "🔗 Source in the comments 👇" (LINK_IN_FIRST_COMMENT; False = old "📖 Read more" link in the caption),
   FOLLOW_LINE (never twice), hashtags. With LINK_IN_FIRST_COMMENT the bot waits 5 s after publishing and comments
-  "📖 Read the full story: <url>" as the Page (POST /{post_id}/comments, needs pages_manage_engagement); a failed
+  "📖 Read the full story: <url>" (+ "📌 Key facts" from key_points, COMMENT_KEY_FACTS, not for BREAKING) as the Page (POST /{post_id}/comments, needs pages_manage_engagement); a failed
   comment is reported to the log channel (+ token steps once) and never retries/fails the post.
 
 ## Editorial rules (Gemini prompt in main.py)

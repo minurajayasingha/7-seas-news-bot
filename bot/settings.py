@@ -14,6 +14,17 @@ CHARCOAL = (26, 26, 29)
 WHITE = (255, 255, 255)
 SOFT = (205, 205, 210)     # small grey text
 
+# ---------- Auto-publish (no tapping needed) ----------
+AUTO_PUBLISH = True          # True = verified news (MIN_SOURCES outlets) is posted to Facebook by itself.
+                             # Telegram shows "🤖 Auto-posting" (↩️ Cancel to stop it), then the log channel gets
+                             # the post with a 🗑 Delete button. False = old way: you tap 🚀 Post now / 🕒 Queue.
+AUTO_MAX_PER_DAY = 30        # max auto posts per New York day (more → normal drafts for you to choose)
+AUTO_MIN_GAP_MINUTES = 20    # at least this long between auto posts (BREAKING news doesn't wait)
+AUTO_NEEDS_PHOTO = False     # True = only news with a real photo is auto-posted (others wait for you);
+                             # False = no photo found → posted with the bot's own design (globe / brand)
+AUTO_REELS = "breaking"      # "breaking" = BREAKING news with a real photo also gets a Reel (needs REELS_ENABLED)
+                             # "off" = Reels only when you tap 🎬 Reel
+
 # ---------- How many posts ----------
 DRAFTS_PER_RUN = 3           # new posts sent to Telegram each time it looks for news
 DRAFT_EVERY_MINUTES = 15     # how often it looks for news (15 = every run of the bot)
@@ -76,6 +87,7 @@ BANNED_HEADLINE_WORDS = [
 
 # ---------- Caption ----------
 SHOW_READ_MORE_LINK = True   # include the original article link in the Facebook caption
+COMMENT_KEY_FACTS = True     # the link comment also lists 2–3 short facts (not for BREAKING: those are in the caption)
 LINK_IN_FIRST_COMMENT = True # True = no URL in the caption ("🔗 Source in the comments 👇"); the link goes in the
                              #        Page's first comment instead (Facebook shows link posts to fewer people).
                              # False = old way: "📖 Read more: <link>" in the caption. Needs pages_manage_engagement.

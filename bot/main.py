@@ -53,6 +53,7 @@ FB_PAGE_ID = os.environ.get("FB_PAGE_ID", "").strip()
 FB_TOKEN = os.environ.get("FB_PAGE_TOKEN", "").strip()
 PEXELS_KEY = os.environ.get("PEXELS_API_KEY", "").strip()   # optional
 PIXABAY_KEY = os.environ.get("PIXABAY_API_KEY", "").strip()  # optional
+FLICKR_KEY = os.environ.get("FLICKR_API_KEY", "").strip()    # optional: real event photos with free licences
 FORCE_DRAFT = os.environ.get("FORCE_DRAFT", "").strip().lower() in ("1", "true", "yes")
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -180,6 +181,56 @@ def tg_clear(draft):
     draft["cleared"] = True
 
 
+def log_buttons(d, ask=False):
+    """🗑 Delete under a published post in the log (asks once more before deleting)."""
+    if not d.get("fb_post_id") or d.get("status") == "deleted":
+        return {"inline_keyboard": []}
+    if ask:
+        return {"inline_keyboard": [[{"text": "✅ Yes, delete from Facebook", "callback_data": f"delok:{d['id']}"},
+                                     {"text": "↩️ Keep", "callback_data": f"delno:{d['id']}"}]]}
+    return {"inline_keyboard": [[{"text": "🗑 Delete", "callback_data": f"del:{d['id']}"}]]}
+
+
+def facebook_delete(obj_id):
+    r = HTTP.delete(f"https://graph.facebook.com/{obj_id}", params={"access_token": FB_TOKEN}, timeout=60)
+    j = r.json()
+    if isinstance(j, dict) and "error" in j:
+        raise RuntimeError(j["error"].get("message", str(j["error"])))
+
+
+def handle_delete(state, d, action):
+    """del → ask; delno → back; delok → delete the post (and its Reel) from Facebook."""
+    chat, mid = d.get("log_chat"), d.get("log_msg_id")
+    if action == "del":
+        tg("editMessageReplyMarkup", chat_id=chat, message_id=mid, reply_markup=log_buttons(d, ask=True))
+    elif action == "delno":
+        tg("editMessageReplyMarkup", chat_id=chat, message_id=mid, reply_markup=log_buttons(d))
+    elif action == "delok" and d.get("status") == "posted":
+        try:
+            facebook_delete(d["fb_post_id"])
+        except Exception as e:
+            tg("sendMessage", chat_id=chat, text=f"⚠️ Could not delete it:\n<code>{html.escape(str(e))[:300]}</code>",
+               parse_mode="HTML", reply_to_message_id=mid)
+            tg("editMessageReplyMarkup", chat_id=chat, message_id=mid, reply_markup=log_buttons(d))
+            return
+        note = ""
+        if d.get("fb_reel_id"):
+            try:
+                facebook_delete(d["fb_reel_id"])
+                note = " (and its Reel)"
+            except Exception as e:
+                note = f" (the Reel could not be deleted: {html.escape(str(e))[:120]})"
+        d["status"] = "deleted"
+        d["log_text"] = d.get("log_text", "").replace("✅ <b>Published</b>", "🗑 <b>Deleted from Facebook</b>", 1)
+        if d.get("log_photo"):
+            tg("editMessageCaption", chat_id=chat, message_id=mid, caption=d["log_text"][:1024], parse_mode="HTML",
+               reply_markup=log_buttons(d))
+        else:
+            tg("editMessageText", chat_id=chat, message_id=mid, text=d["log_text"][:4000], parse_mode="HTML",
+               disable_web_page_preview="true", reply_markup=log_buttons(d))
+        log("Deleted from Facebook", d["id"], note)
+
+
 def log_to_channel(state, d, fb_link):
     """Copy a published post to your 'published posts' channel (if linked)."""
     ch = state.get("log_channel")
@@ -191,11 +242,13 @@ def log_to_channel(state, d, fb_link):
             + (f"\n\n🔗 <a href=\"{fb_link}\">Open on Facebook</a>" if fb_link else ""))
     d["log_text"] = text   # kept so the stats line can be added under it later
     if ch:
-        j = tg("sendPhoto", chat_id=ch, photo=d["tg_file_id"], caption=text, parse_mode="HTML")
+        j = tg("sendPhoto", chat_id=ch, photo=d["tg_file_id"], caption=text, parse_mode="HTML",
+               reply_markup=log_buttons(d))
         if j.get("ok"):
             d.update(log_chat=ch, log_msg_id=j["result"]["message_id"], log_photo=True)
             return True
-    j = tg_text(text)   # no channel linked (or it failed): tell you in the bot chat
+    j = tg("sendMessage", chat_id=TG_CHAT, text=text[:4000], parse_mode="HTML",
+           disable_web_page_preview="true", reply_markup=log_buttons(d))   # no channel linked (or it failed)
     if j.get("ok"):
         d.update(log_chat=TG_CHAT, log_msg_id=j["result"]["message_id"], log_photo=False)
     return False
@@ -279,10 +332,11 @@ def update_post_stats(state, force=False):
             text = f"{d['log_text']}\n\n{stats_line(s)}\n<i>Updated {lk_time(now)} Sri Lanka</i>"
             if d.get("log_photo"):
                 tg("editMessageCaption", chat_id=d["log_chat"], message_id=d["log_msg_id"],
-                   caption=text[:1024], parse_mode="HTML")
+                   caption=text[:1024], parse_mode="HTML", reply_markup=log_buttons(d))
             else:
                 tg("editMessageText", chat_id=d["log_chat"], message_id=d["log_msg_id"],
-                   text=text[:4000], parse_mode="HTML", disable_web_page_preview="true")
+                   text=text[:4000], parse_mode="HTML", disable_web_page_preview="true",
+                   reply_markup=log_buttons(d))
 
 
 def stats_report(state):
@@ -634,9 +688,11 @@ def process_telegram(state, wait=0):
         cq = u.get("callback_query")
         if cq:
             chat_id = str(cq.get("message", {}).get("chat", {}).get("id", ""))
-            if chat_id != TG_CHAT:
-                continue  # ignore anyone else
             data = cq.get("data", "")
+            log_chat_ok = (chat_id == str(state.get("log_channel") or "") and data.split(":")[0] in ("del", "delok", "delno")
+                           and str(cq.get("from", {}).get("id", "")) == TG_CHAT)   # only you, not channel members
+            if chat_id != TG_CHAT and not log_chat_ok:
+                continue  # ignore anyone else
             tg("answerCallbackQuery", callback_query_id=cq["id"])
             if ":" not in data:
                 continue
@@ -644,11 +700,16 @@ def process_telegram(state, wait=0):
             d = state["drafts"].get(pid)
             if not d:
                 continue
+            if action in ("del", "delok", "delno"):
+                if str(d.get("log_chat")) == chat_id:
+                    handle_delete(state, d, action)
+                continue
             if action == "cancel" and d["status"] == "queued":
                 d["status"] = "pending"
                 d.pop("queued_at", None)
                 d.pop("post_now", None)
                 d.pop("make_reel", None)
+                d.pop("auto", None)
                 tg("editMessageReplyMarkup", chat_id=TG_CHAT, message_id=d["tg_message_id"],
                    reply_markup=draft_buttons(pid, d))
                 tg_reply(d, "↩️ Cancelled. It's back to waiting for your choice.")
@@ -873,13 +934,22 @@ def first_comment_wanted(d):
     return bool(LINK_IN_FIRST_COMMENT and SHOW_READ_MORE_LINK and link and link not in d.get("caption", ""))
 
 
+def first_comment_text(d):
+    """'📖 Read the full story: <url>' + (COMMENT_KEY_FACTS) 2–3 short facts, unless they're already in the caption."""
+    text = f"📖 Read the full story: {d['link']}"
+    facts = [k for k in d.get("key_points", [])[:3] if k and k not in d.get("caption", "")]
+    if COMMENT_KEY_FACTS and facts and not d.get("breaking"):
+        text += "\n\n📌 Key facts:\n" + "\n".join(f"• {k}" for k in facts)
+    return text
+
+
 def post_first_comment(state, d, post_id):
     """'📖 Read the full story: <url>' as the Page's first comment. Never blocks or retries the post."""
     if not (post_id and first_comment_wanted(d)):
         return
     time.sleep(5)                                  # give Facebook a moment after publishing
     try:
-        d["fb_comment_id"] = facebook_comment(post_id, f"📖 Read the full story: {d['link']}")
+        d["fb_comment_id"] = facebook_comment(post_id, first_comment_text(d))
         log("First comment added", d["id"])
     except Exception as e:
         err = str(e)
@@ -1339,7 +1409,7 @@ def publish_due(state):
                     f"The news is now more than {QUEUE_EXPIRE_HOURS} hours old, so it wasn't posted.")
     queued = [d for d in queued if d["status"] == "queued"]
 
-    to_post = [d for d in queued if d.get("post_now")]
+    to_post = [d for d in queued if d.get("post_now") and not d.get("auto")] + auto_ready(queued, state)
     slot = current_slot(now)
     if slot and state.get("last_slot") != slot.isoformat():
         waiting = [d for d in queued if not d.get("post_now")]
@@ -1358,6 +1428,13 @@ def publish_due(state):
             log_to_channel(state, d, link)
             tg_clear(d)
             log("Posted", d["id"], post_id)
+            if d.get("auto"):
+                day = f"{ny_now():%Y-%m-%d}"
+                counts = state.setdefault("auto_count", {})
+                counts[day] = counts.get(day, 0) + 1
+                for k in sorted(counts)[:-7]:
+                    counts.pop(k)
+                state["last_auto_at"] = now.isoformat()
             post_first_comment(state, d, post_id)   # link comment; errors are reported, never retried
             if story_wanted(d):
                 try:
@@ -1641,12 +1718,13 @@ Return ONLY JSON with these keys:
   Bad (never use): "What are your thoughts?", "Let us know in the comments", "Comment below", "Share this", "Tag a friend", "Like if you agree".
   Return "" if the story involves deaths, victims, injuries, an attack, a disaster or a tragedy, or if there is no real question people would debate.
 "breaking": true ONLY if this is a sudden, major event that has just happened or just been announced (attack, disaster, death or resignation of a leader, coup, declaration of war, final election result, major surprise announcement). Otherwise false.
-"key_points": a list of 2 or 3 very short facts from the reports (max 12 words each) that add context. Used for breaking news.
+"key_points": a list of 2 or 3 very short facts from the reports (max 12 words each) that add context and are NOT already in the summary. Always give them.
 "image_style": "incident" if the story is about violence or a disaster (shooting, bombing, explosion, attack, airstrike, crash, fire, earthquake, flood); otherwise "person" if it is mainly about what a person said or did; otherwise "scene" (a visit, tour, summit, protest, vote, policy).
 "location": where it happened, "City, Country" (or just "Country"/"US State"), e.g. "Krakow, Poland". Empty string if unclear.
 "label": exactly one of "US POLITICS", "WORLD", "CONFLICT", "DIPLOMACY", "ELECTIONS", "ECONOMY".
 "hashtags": a list of 3 relevant hashtags, e.g. ["#USPolitics", "#WorldNews", "#Congress"].
 "image_query": 2 to 4 words for a photo of the most relevant PLACE or landmark (never a person), as specific as possible, e.g. "Montevideo skyline", "US Capitol building", "Kyiv city", "United Nations Security Council". Pick the place that fits THIS story: Congress/party stories → "US Capitol dome", "Senate chamber", "House of Representatives chamber" or the state capitol/city involved; courts → "Supreme Court building"; military → "Pentagon building". Use "White House" only when the story really happens at the White House.
+"event_query": 2 to 4 words naming THIS exact event as a photographer would title a photo of it, place first, e.g. "Minneapolis church shooting", "Kyiv drone attack", "Texas Hill Country flood", "Senate vote government funding". Empty string if there is no specific event.
 "image_queries": a list of 4 OTHER, different photo ideas for this story (2 to 4 words each, places or things, never a person), e.g. for a story about Democrats in Congress: ["Senate chamber", "Capitol Hill", "Democratic National Convention", "voting booth"].
 "people": a list of 0 to 3 real people who are the MAIN subject of the story AND are named in your headline, full names exactly as written in the reports, e.g. ["Donald Trump", "Vladimir Putin"]. People who are only mentioned in the background must NOT be listed. Use [] if the headline names no person (for example a story about a country, party, vote or attack).
 "skip": true if this is about South Asia, is not hard news (opinion, sport, entertainment, live blog), or the reports describe different events. Otherwise false.
@@ -1951,6 +2029,66 @@ def pixabay_photo(query, exclude=(), countries=()):
         return None
 
 
+# Flickr licences we may use (no NonCommercial / NoDerivs). Ids from flickr.photos.licenses.getInfo.
+FLICKR_LICENSES = {"4": "CC BY 2.0", "5": "CC BY-SA 2.0", "7": "No known copyright restrictions",
+                   "8": "United States Government Work", "9": "CC0", "10": "Public Domain Mark",
+                   "11": "CC BY 4.0", "12": "CC BY-SA 4.0"}
+
+
+def flickr_photo(query, exclude=(), countries=(), since=None):
+    """Real photos from Flickr with a free licence (credit kept). since = only photos taken/uploaded after this
+    time (used to find photos of the actual event)."""
+    if not FLICKR_KEY or not query:
+        return None
+    params = {"method": "flickr.photos.search", "api_key": FLICKR_KEY, "format": "json", "nojsoncallback": 1,
+              "text": query[:100], "license": ",".join(FLICKR_LICENSES), "content_types": 0, "media": "photos",
+              "safe_search": 1, "sort": "relevance", "per_page": 40,
+              "extras": "url_k,url_h,url_l,owner_name,license,description,tags,date_upload"}
+    if since:
+        params["min_upload_date"] = int(since.timestamp())
+    try:
+        j = HTTP.get("https://api.flickr.com/services/rest/", params=params, timeout=30).json()
+        rec, cands = recent_photos(), []
+        words = [w for w in re.findall(r"[a-z0-9]+", query.lower()) if len(w) > 2]
+        for rank, ph in enumerate((j.get("photos") or {}).get("photo", [])):
+            url = ph.get("url_k") or ph.get("url_h") or ph.get("url_l")
+            lic = FLICKR_LICENSES.get(str(ph.get("license")))
+            if not url or not lic or url in exclude or not url.lower().split("?")[0].endswith((".jpg", ".jpeg")):
+                continue
+            if int(ph.get("width_k") or ph.get("width_h") or ph.get("width_l") or 0) < 1000:
+                continue
+            about = " ".join([ph.get("title", ""), clean_html((ph.get("description") or {}).get("_content", ""))[:600],
+                              ph.get("tags", "")])
+            t = " " + re.sub(r"[^a-z0-9]+", " ", plain(about).lower()) + " "
+            hits = sum(1 for w in words if f" {w}" in t)
+            if hits < max(1, (len(words) + 1) // 2) or not place_ok(about, countries):
+                continue
+            score = hits * 10 + max(0, 20 - rank) - (60 if url in rec else 0)
+            owner = ph.get("ownername") or "Flickr user"
+            cands.append((score, {"url": url, "credit": f"{owner} / Flickr ({lic})", "short": "FLICKR"}))
+        if not cands:
+            return None
+        cands.sort(key=lambda x: -x[0])
+        close = [c for sc, c in cands[:5] if sc >= cands[0][0] - 15]
+        return random.choice(close)
+    except Exception as e:
+        log("Flickr failed:", e)
+        return None
+
+
+def event_photo(post, exclude=()):
+    """A real photo of THIS event (Flickr, uploaded since shortly before the news)."""
+    q = str(post.get("event_query") or "").strip()
+    if not q or not FLICKR_KEY:
+        return None
+    try:
+        since = datetime.fromisoformat(post["news_time"]) - timedelta(days=1) if post.get("news_time") \
+            else now_utc() - timedelta(days=2)
+    except Exception:
+        since = now_utc() - timedelta(days=2)
+    return flickr_photo(q, exclude, story_countries(post), since=since)
+
+
 # ---------- which country is a story / a photo about? (STRICT_PHOTO_MATCH) ----------
 US_STATES = ("alabama|alaska|arizona|arkansas|california|colorado|connecticut|delaware|florida|georgia|hawaii|idaho|"
              "illinois|indiana|iowa|kansas|kentucky|louisiana|maine|maryland|massachusetts|michigan|minnesota|"
@@ -2212,6 +2350,13 @@ def _choose_background(post, exclude=(), prefer_scene=False):
     prefer_scene=True is used by the 🔄 Other photo button."""
     found = [x for x in (wiki_person_photo(p, exclude) for p in person_names_in_headline(post)) if x]
 
+    real = event_photo(post, exclude)          # a real photo of the event itself beats everything else
+    if real:
+        PHOTO_MEM["recent_ideas"] = (PHOTO_MEM.get("recent_ideas", []) + [str(post.get("event_query")).lower()])[-12:]
+        if len(found) == 1:
+            return {"type": "photo", "photos": [real], "inset": found[0]}
+        return {"type": "photo", "photos": [real]}
+
     if post.get("image_style") == "incident" and not found and not prefer_scene:
         # no random photos for shootings/bombings: strong news design with a location tag
         return {"type": "incident", "photos": [], "location": str(post.get("location") or "")[:40]}
@@ -2223,8 +2368,8 @@ def _choose_background(post, exclude=(), prefer_scene=False):
         countries = story_countries(post)
         for q in dict.fromkeys(tries):
             if q:
-                scene = (pexels_photo(q, exclude, countries) or pixabay_photo(q, exclude, countries)
-                         or wiki_search_photo(q, exclude, countries))
+                scene = (flickr_photo(q, exclude, countries) or pexels_photo(q, exclude, countries)
+                         or pixabay_photo(q, exclude, countries) or wiki_search_photo(q, exclude, countries))
             if scene:
                 PHOTO_MEM["recent_ideas"] = (PHOTO_MEM.get("recent_ideas", []) + [q.lower()])[-12:]
                 break
@@ -2618,8 +2763,9 @@ def draft_new_posts(state):
             "sources": c["sources"],
             "link": c["items"][0]["link"],
             "links": [[i["source"], i["link"]] for i in c["items"][:4]],
-            "bg": choose_background(post),
-            "img_post": {k: post.get(k) for k in ("headline", "people", "image_query", "image_queries", "image_style", "location")},
+            "bg": choose_background(dict(post, news_time=min(i["published"] for i in c["items"]).isoformat())),
+            "img_post": {k: post.get(k) for k in ("headline", "people", "image_query", "image_queries", "image_style",
+                                                  "location", "event_query", "news_time")},
             "created_at": now_utc().isoformat(),
             "news_time": min(i["published"] for i in c["items"]).isoformat(),
             "news_latest": max(i["published"] for i in c["items"]).isoformat(),
@@ -2628,8 +2774,54 @@ def draft_new_posts(state):
             state["recent_topics"].append([now_utc().isoformat(), sorted(c["title_kw"]), d["id"]])
             made += 1
             log("Draft sent:", d["headline"], "| image:", d["bg"]["type"])
+            auto_queue(state, d)
     if made == 0:
         log("No new drafts this run")
+    if AUTO_PUBLISH:
+        publish_due(state)          # auto posts go out now, not on the next run
+
+
+def has_real_photo(d):
+    bg = d.get("bg") or {}
+    return bg.get("type") in ("photo", "people") and bool(bg.get("photos"))
+
+
+def auto_today(state):
+    return state.get("auto_count", {}).get(f"{ny_now():%Y-%m-%d}", 0)
+
+
+def auto_queue(state, d):
+    """AUTO_PUBLISH: line the new draft up to post by itself (you can still ↩️ Cancel it in Telegram)."""
+    if not AUTO_PUBLISH or d.get("manual") or state.get("paused"):
+        return
+    why = ""
+    if AUTO_NEEDS_PHOTO and not has_real_photo(d):
+        why = "no real photo found"
+    elif find_duplicate(state, d, loose=True):
+        why = "it looks similar to a recent post"
+    elif auto_today(state) + sum(1 for x in state["drafts"].values()
+                                 if x.get("auto") and x["status"] == "queued") >= AUTO_MAX_PER_DAY:
+        why = f"today's auto limit ({AUTO_MAX_PER_DAY}) is reached"
+    if why:
+        tg_reply(d, f"✋ Not auto-posted: {why}. Choose with the buttons.")
+        return
+    d.update(status="queued", queued_at=now_utc().isoformat(), post_now=True, auto=True)
+    if AUTO_REELS == "breaking" and d.get("breaking") and reel_allowed(d):
+        d["make_reel"] = True
+    tg_status(d, "🤖 Auto-posting" + (" + Reel" if d.get("make_reel") else "") + "…", cancel=True)
+    log("Auto-queued", d["id"])
+
+
+def auto_ready(queued, state):
+    """Which auto posts may go now: BREAKING at once, others one per AUTO_MIN_GAP_MINUTES."""
+    auto = [d for d in queued if d.get("auto") and d.get("post_now")]
+    out = [d for d in auto if d.get("breaking")]
+    last = state.get("last_auto_at")
+    gap_ok = not last or now_utc() - datetime.fromisoformat(last) >= timedelta(minutes=AUTO_MIN_GAP_MINUTES)
+    rest = [d for d in auto if not d.get("breaking")]
+    if rest and gap_ok and not out:
+        out.append(rest[0])
+    return out
 
 
 def expire_pending(state):
