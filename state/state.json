@@ -16410,6 +16410,64 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true
+  },
+  "5b021b17f4": {
+   "id": "5b021b17f4",
+   "headline": "Brooklyn building collapse kills two and injures seventeen",
+   "summary": "A three-storey building partially collapsed into an open construction site in Brooklyn on Wednesday, November 11. Rescuers pulled four survivors from the rubble, including a pregnant woman, while firefighters continued searching for missing people.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "A three-storey building partially collapsed in Brooklyn",
+    "At least two people died and 17 were injured",
+    "Rescuers pulled four survivors from the rubble"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Brooklyn",
+    "#BuildingCollapse",
+    "#News"
+   ],
+   "sources": [
+    "Euronews",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/americas/brooklyn-building-collapse-pregnant-woman-b3083626.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/brooklyn-building-collapse-pregnant-woman-b3083626.html"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/video/2026/11/12/us-survivor-pulled-alive-from-rubble-after-deadly-brooklyn-collapse"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Brooklyn, US"
+   },
+   "img_post": {
+    "headline": "Brooklyn building collapse kills two and injures seventeen",
+    "people": [],
+    "image_query": "Brooklyn building collapse",
+    "image_queries": [
+     "Brooklyn street",
+     "construction site rubble",
+     "firefighters at emergency",
+     "New York rescue operation"
+    ],
+    "image_style": "incident",
+    "location": "Brooklyn, US"
+   },
+   "created_at": "2026-11-12T09:45:32.224730+00:00",
+   "news_time": "2026-11-12T08:55:47+00:00",
+   "news_latest": "2026-11-12T09:14:56+00:00",
+   "caption": "🚨 BREAKING: Brooklyn building collapse kills two and injures seventeen\n\nA three-storey building partially collapsed into an open construction site in Brooklyn on Wednesday, November 11. Rescuers pulled four survivors from the rubble, including a pregnant woman, while firefighters continued searching for missing people.\n\nWhat we know so far:\n• A three-storey building partially collapsed in Brooklyn\n• At least two people died and 17 were injured\n• Rescuers pulled four survivors from the rubble\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Brooklyn #BuildingCollapse #News #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 395,
+   "tg_file_id": "AgACAgUAAxkDAAIBi2r1iscnMxtLPk94t7JMlwXk81adAAJCE2sbSxqpV9tb0DohnQNOAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -17051,26 +17109,11 @@
   "https://www.nytimes.com/2026/11/12/world/asia/indonesia-gibran-vice-president-resign.html",
   "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss",
   "https://www.foxnews.com/politics/florida-city-gop-backed-dei-law-blocks-st-patricks-parade-pride-event",
-  "https://www.independent.co.uk/news/world/americas/delray-beach-st-patricks-day-pride-b3083607.html"
+  "https://www.independent.co.uk/news/world/americas/delray-beach-st-patricks-day-pride-b3083607.html",
+  "https://www.independent.co.uk/news/world/americas/brooklyn-building-collapse-pregnant-woman-b3083626.html",
+  "https://www.euronews.com/video/2026/11/12/us-survivor-pulled-alive-from-rubble-after-deadly-brooklyn-collapse"
  ],
  "recent_topics": [
-  [
-   "2026-11-09T09:51:13.790732+00:00",
-   [
-    "china",
-    "donald",
-    "meet",
-    "negotiation",
-    "next",
-    "plan",
-    "president",
-    "putin",
-    "qatar",
-    "trump",
-    "us-iran"
-   ],
-   "2c56e4d3cd"
-  ],
   [
    "2026-11-09T10:15:40.141904+00:00",
    [
@@ -20367,19 +20410,33 @@
     "trump"
    ],
    "eeea2b2bb2"
+  ],
+  [
+   "2026-11-12T09:45:43.365664+00:00",
+   [
+    "aliv",
+    "brooklyn",
+    "build",
+    "collaps",
+    "deadly",
+    "kill",
+    "pregnant",
+    "pull",
+    "rescu",
+    "rubbl",
+    "survivor",
+    "woman"
+   ],
+   "5b021b17f4"
   ]
  ],
- "last_draft_at": "2026-11-12T09:30:26.269759+00:00",
+ "last_draft_at": "2026-11-12T09:45:20.537840+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T09:00:31.596134+00:00",
  "run_log": [
-  "11-12 07:15:19 run start",
-  "11-12 07:15:38 listening 11 min",
-  "11-12 07:26:57 listening done",
-  "11-12 07:26:57 run end after 697 s",
   "11-12 07:30:23 run start",
   "11-12 07:30:33 listening 11 min",
   "11-12 07:41:51 listening done",
@@ -20415,7 +20472,11 @@
   "11-12 09:30:25 run start",
   "11-12 09:30:36 listening 11 min",
   "11-12 09:41:55 listening done",
-  "11-12 09:41:55 run end after 689 s"
+  "11-12 09:41:55 run end after 689 s",
+  "11-12 09:45:20 run start",
+  "11-12 09:45:43 listening 11 min",
+  "11-12 09:57:01 listening done",
+  "11-12 09:57:01 run end after 701 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
