@@ -16825,6 +16825,64 @@
    "status": "pending",
    "tg_message_id": 422,
    "tg_file_id": "AgACAgUAAxkDAAIBpmr16cxNAAGhoVzxvE1roHEnCi4XkQACKRNrG0sasVdZhVQ9yjvgsQEAAwIAA3cAAz0E"
+  },
+  "46e8434cb8": {
+   "id": "46e8434cb8",
+   "headline": "Police respond to shooting incident in Washington DC neighbourhood",
+   "summary": "Police report multiple people shot in a Washington DC neighbourhood near the White House. Officers responded to a nearby apartment building where a suspect was barricaded.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Police report multiple people shot in Washington DC",
+    "Officers responded to a nearby apartment building",
+    "A major police operation is underway"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#WashingtonDC",
+    "#News",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "France 24"
+   ],
+   "link": "https://www.france24.com/en/americas/20261112-at-least-five-people-shot-in-dc-neighbourhood-near-the-white-house",
+   "links": [
+    [
+     "France 24",
+     "https://www.france24.com/en/americas/20261112-at-least-five-people-shot-in-dc-neighbourhood-near-the-white-house"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Washington, DC, US"
+   },
+   "img_post": {
+    "headline": "Police respond to shooting incident in Washington DC neighbourhood",
+    "people": [],
+    "image_query": "Washington DC street",
+    "image_queries": [
+     "police car lights",
+     "Washington DC neighbourhood",
+     "apartment building exterior",
+     "Washington DC city view"
+    ],
+    "image_style": "incident",
+    "location": "Washington, DC, US"
+   },
+   "created_at": "2026-11-12T17:15:36.797764+00:00",
+   "news_time": "2026-11-12T15:42:07+00:00",
+   "news_latest": "2026-11-12T16:01:57+00:00",
+   "caption": "🚨 BREAKING: Police respond to shooting incident in Washington DC neighbourhood\n\nPolice report multiple people shot in a Washington DC neighbourhood near the White House. Officers responded to a nearby apartment building where a suspect was barricaded.\n\nWhat we know so far:\n• Police report multiple people shot in Washington DC\n• Officers responded to a nearby apartment building\n• A major police operation is underway\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WashingtonDC #News #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 423,
+   "tg_file_id": "AgACAgUAAxkDAAIBp2r19DqFQ-qXX1NJBO4GjhRpWbaZAAJCE2sbSxqxVyAj-Ge2FS0lAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -17535,25 +17593,13 @@
   "https://abcnews.com/Politics/wireStory/ice-reports-record-high-immigration-arrests-deportations-trumps-138083036",
   "https://www.cbsnews.com/news/ice-deportations-arrests-hit-record-high/",
   "https://www.newsweek.com/democrats-excuse-for-missing-hegseth-impeachment-vote-under-scrutiny-12705014",
-  "https://www.foxnews.com/politics/dem-rep-blames-horrific-traffic-missing-hegseth-impeachment-vote-sorry"
+  "https://www.foxnews.com/politics/dem-rep-blames-horrific-traffic-missing-hegseth-impeachment-vote-sorry",
+  "https://www.foxnews.com/politics/pence-delivers-scathing-rebuke-vances-iran-war-assessment-blames-trump-policies-gop-losses",
+  "https://thehill.com/homenews/administration/6216059-trump-criticizes-gop-midterm-losses/",
+  "https://www.france24.com/en/americas/20261112-at-least-five-people-shot-in-dc-neighbourhood-near-the-white-house",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss"
  ],
  "recent_topics": [
-  [
-   "2026-11-09T17:21:14.897793+00:00",
-   [
-    "chang",
-    "congress",
-    "fac",
-    "hegseth",
-    "hous",
-    "impeachment",
-    "loom",
-    "return",
-    "vot",
-    "washington"
-   ],
-   "a539e96508"
-  ],
   [
    "2026-11-09T17:45:58.361225+00:00",
    [
@@ -20679,19 +20725,37 @@
     "vot"
    ],
    "6bf24c0100"
+  ],
+  [
+   "2026-11-12T17:15:39.271490+00:00",
+   [
+    "actually",
+    "contender",
+    "fiv",
+    "four",
+    "hous",
+    "lead",
+    "least",
+    "near",
+    "neighbourhood",
+    "peopl",
+    "poll",
+    "rac",
+    "reveal",
+    "shot",
+    "washington",
+    "whit"
+   ],
+   "46e8434cb8"
   ]
  ],
- "last_draft_at": "2026-11-12T17:01:03.632835+00:00",
+ "last_draft_at": "2026-11-12T17:15:23.742482+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T17:00:37.078154+00:00",
  "run_log": [
-  "11-12 14:45:22 run start",
-  "11-12 14:45:47 listening 11 min",
-  "11-12 14:57:00 listening done",
-  "11-12 14:57:00 run end after 697 s",
   "11-12 15:00:33 run start",
   "11-12 15:01:54 listening 10 min",
   "11-12 15:12:21 listening done",
@@ -20727,7 +20791,11 @@
   "11-12 17:00:36 run start",
   "11-12 17:01:13 listening 11 min",
   "11-12 17:12:08 listening done",
-  "11-12 17:12:08 run end after 692 s"
+  "11-12 17:12:08 run end after 692 s",
+  "11-12 17:15:23 run start",
+  "11-12 17:15:39 listening 11 min",
+  "11-12 17:26:59 listening done",
+  "11-12 17:26:59 run end after 696 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
