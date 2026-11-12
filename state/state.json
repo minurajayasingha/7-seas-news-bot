@@ -1,82 +1,6 @@
 {
- "tg_offset": 495892978,
+ "tg_offset": 495892980,
  "drafts": {
-  "a72ab4f487": {
-   "id": "a72ab4f487",
-   "headline": "Giorgia Meloni blames pro-Russian hackers for data leak",
-   "summary": "Italian Prime Minister Giorgia Meloni stated that pro-Russian hackers leaked her foreign minister's personal data to the dark web. Foreign minister Antonio Tajani reported being targeted due to the country's support for Ukraine.",
-   "label": "WORLD",
-   "hook": "Can measures by Italy prevent further cyberattacks targeting government officials?",
-   "key_points": [
-    "Personal data leaked to the dark web",
-    "Foreign minister targeted over Ukraine support",
-    "Prime Minister Meloni blamed pro-Russian hackers"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Italy",
-    "#CyberSecurity",
-    "#WorldNews"
-   ],
-   "sources": [
-    "CBS News",
-    "The Hill"
-   ],
-   "link": "https://thehill.com/policy/international/6206505-meloni-blames-russian-hackers-tajani/",
-   "links": [
-    [
-     "The Hill",
-     "https://thehill.com/policy/international/6206505-meloni-blames-russian-hackers-tajani/"
-    ],
-    [
-     "CBS News",
-     "https://www.cbsnews.com/news/italy-giorgia-meloni-ukraine-russia-hack-data-leak/"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/21.06.2023_-_Reuni%C3%A3o_com_a_Primeira-Ministra_da_Rep%C3%BAblica_Italiana%2C_Giorgia_Meloni_%2852992890032%29.jpg/1280px-21.06.2023_-_Reuni%C3%A3o_com_a_Primeira-Ministra_da_Rep%C3%BAblica_Italiana%2C_Giorgia_Meloni_%2852992890032%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Palácio do Planalto from Brasilia, Brasil / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Giorgia Meloni blames pro-Russian hackers for data leak",
-    "people": [
-     "Giorgia Meloni"
-    ],
-    "image_query": "Rome cityscape",
-    "image_queries": [
-     "Italian parliament building",
-     "Rome government palace",
-     "European Union flag",
-     "Cyber security data center"
-    ],
-    "image_style": "person",
-    "location": "Italy"
-   },
-   "created_at": "2026-11-08T15:00:44.430358+00:00",
-   "news_time": "2026-11-08T09:26:43+00:00",
-   "news_latest": "2026-11-08T14:27:07+00:00",
-   "caption": "Giorgia Meloni blames pro-Russian hackers for data leak\n\nItalian Prime Minister Giorgia Meloni stated that pro-Russian hackers leaked her foreign minister's personal data to the dark web. Foreign minister Antonio Tajani reported being targeted due to the country's support for Ukraine.\n\n💬 Can measures by Italy prevent further cyberattacks targeting government officials?\n\n📖 Read more: https://thehill.com/policy/international/6206505-meloni-blames-russian-hackers-tajani/\n\n#Italy #CyberSecurity #WorldNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 113,
-   "tg_file_id": "AgACAgUAAxkDAANxavCOoDKQDEZmbB6wQuziaOhedfYAAksVaxv_D4FXDN1-R1DnT8oBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-08T15:02:44.926948+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122095999917548584",
-   "posted_at": "2026-11-08T15:02:45.340859+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 08 · 10:02 AM New York · 8:32 PM Sri Lanka\n\n<b>Giorgia Meloni blames pro-Russian hackers for data leak</b>\n<i>CBS News, The Hill</i>\n🟢 <b>Latest:</b> 7:57 PM Sri Lanka (35 min ago) · first reported 2:56 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122095999917548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 27,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "1117442591048823"
-  },
   "63cb666207": {
    "id": "63cb666207",
    "headline": "Four dead and 88 injured in train crash near Cairo",
@@ -15529,9 +15453,11 @@
    "news_time": "2026-11-12T08:55:47+00:00",
    "news_latest": "2026-11-12T09:14:56+00:00",
    "caption": "🚨 BREAKING: Brooklyn building collapse kills two and injures seventeen\n\nA three-storey building partially collapsed into an open construction site in Brooklyn on Wednesday, November 11. Rescuers pulled four survivors from the rubble, including a pregnant woman, while firefighters continued searching for missing people.\n\nWhat we know so far:\n• A three-storey building partially collapsed in Brooklyn\n• At least two people died and 17 were injured\n• Rescuers pulled four survivors from the rubble\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Brooklyn #BuildingCollapse #News #7SeasNews",
-   "status": "pending",
+   "status": "replaced",
    "tg_message_id": 395,
-   "tg_file_id": "AgACAgUAAxkDAAIBi2r1iscnMxtLPk94t7JMlwXk81adAAJCE2sbSxqpV9tb0DohnQNOAQADAgADdwADPQQ"
+   "tg_file_id": "AgACAgUAAxkDAAIBi2r1iscnMxtLPk94t7JMlwXk81adAAJCE2sbSxqpV9tb0DohnQNOAQADAgADdwADPQQ",
+   "extra_msgs": [],
+   "cleared": true
   },
   "5191357420": {
    "id": "5191357420",
@@ -16767,6 +16693,149 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true
+  },
+  "5d2b442dfc": {
+   "id": "5d2b442dfc",
+   "headline": "Brooklyn building collapse kills two and injures seventeen",
+   "summary": "A three-storey building partially collapsed into an open construction site in Brooklyn on Wednesday, November 11. Rescuers pulled four survivors from the rubble, including a pregnant woman, while firefighters continued searching for missing people.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "A three-storey building partially collapsed in Brooklyn",
+    "At least two people died and 17 were injured",
+    "Rescuers pulled four survivors from the rubble"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Brooklyn",
+    "#BuildingCollapse",
+    "#News"
+   ],
+   "sources": [
+    "Euronews",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/americas/brooklyn-building-collapse-pregnant-woman-b3083626.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/brooklyn-building-collapse-pregnant-woman-b3083626.html"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/video/2026/11/12/us-survivor-pulled-alive-from-rubble-after-deadly-brooklyn-collapse"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "tg_file_id": "AgACAgUAAxkBAAIBoGr109BE78EraKBV1NJeT1RIY7JzAAK9FGsbSxqpV9HJqyQTGyEoAQADAgADeQADPQQ",
+      "credit": ""
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Brooklyn building collapse kills two and injures seventeen",
+    "people": [],
+    "image_query": "Brooklyn building collapse",
+    "image_queries": [
+     "Brooklyn street",
+     "construction site rubble",
+     "firefighters at emergency",
+     "New York rescue operation"
+    ],
+    "image_style": "incident",
+    "location": "Brooklyn, US"
+   },
+   "created_at": "2026-11-12T15:00:34.612772+00:00",
+   "news_time": "2026-11-12T08:55:47+00:00",
+   "news_latest": "2026-11-12T09:14:56+00:00",
+   "caption": "🚨 BREAKING: Brooklyn building collapse kills two and injures seventeen\n\nA three-storey building partially collapsed into an open construction site in Brooklyn on Wednesday, November 11. Rescuers pulled four survivors from the rubble, including a pregnant woman, while firefighters continued searching for missing people.\n\nWhat we know so far:\n• A three-storey building partially collapsed in Brooklyn\n• At least two people died and 17 were injured\n• Rescuers pulled four survivors from the rubble\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Brooklyn #BuildingCollapse #News #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 417,
+   "tg_file_id": "AgACAgUAAxkDAAIBoWr11LRbZqb4zm-YUyXJIdEpkaEXAAK_FGsbSxqpVx1egS8fzFDKAQADAgADdwADPQQ",
+   "queued_at": "2026-11-12T15:01:55.071776+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122099566233548584",
+   "posted_at": "2026-11-12T15:01:55.456309+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 12 · 10:02 AM New York · 8:32 PM Sri Lanka\n\n<b>Brooklyn building collapse kills two and injures seventeen</b>\n<i>Euronews, The Independent</i>\n🔴 <b>Latest:</b> 2:44 PM Sri Lanka (5h 47m ago) · first reported 2:25 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099566233548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 247,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "1443643447856605"
+  },
+  "5489776f74": {
+   "id": "5489776f74",
+   "headline": "Trump directs Vance to focus on Democratic corruption",
+   "summary": "President Donald Trump announced he directed Vice President JD Vance to focus on alleged corruption in Democrat-led cities and states. Trump stated that Vance will not lead face-to-face peace talks with Iran.",
+   "label": "US POLITICS",
+   "hook": "",
+   "key_points": [
+    "Trump announced the decision on social media.",
+    "Vance will focus on fraud and corruption.",
+    "Trump stated that a deal with Iran is unnecessary."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#USPolitics",
+    "#DonaldTrump",
+    "#JDVance"
+   ],
+   "sources": [
+    "New York Times",
+    "The Hill",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/news/white-house/4801242/trump-tells-vance-forget-iran-focus-corruption/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/white-house/4801242/trump-tells-vance-forget-iran-focus-corruption/"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/homenews/administration/6215680-donald-trump-jd-vance-corruption-fraud-democratic-cities-states-iran-war/"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Donald_Trump_official_portrait_2020_election.jpg/1280px-Donald_Trump_official_portrait_2020_election.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Shealeah Craighead / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Trump directs Vance to focus on Democratic corruption",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "White House",
+    "image_queries": [
+     "US Capitol building",
+     "Department of Justice",
+     "Seal of the Vice President",
+     "Washington city skyline"
+    ],
+    "image_style": "person",
+    "location": "Washington, US"
+   },
+   "created_at": "2026-11-12T15:01:49.199713+00:00",
+   "news_time": "2026-11-12T14:36:29+00:00",
+   "news_latest": "2026-11-12T14:53:34+00:00",
+   "caption": "🚨 BREAKING: Trump directs Vance to focus on Democratic corruption\n\nPresident Donald Trump announced he directed Vice President JD Vance to focus on alleged corruption in Democrat-led cities and states. Trump stated that Vance will not lead face-to-face peace talks with Iran.\n\nWhat we know so far:\n• Trump announced the decision on social media.\n• Vance will focus on fraud and corruption.\n• Trump stated that a deal with Iran is unnecessary.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #DonaldTrump #JDVance #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 418,
+   "tg_file_id": "AgACAgUAAxkDAAIBomr11OIqkNjxPGjc1akiFAov3382AALAFGsbSxqpVzuYVqg7gvMeAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -17464,7 +17533,10 @@
   "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
   "https://www.washingtonpost.com/politics/2026/11/12/trump-shuts-down-vance-iran-negotiating-efforts-says-no-deal-needed/",
   "https://www.newsweek.com/trump-tariffs-backfire-canada-damage-us-economy-12703582",
-  "https://www.washingtonexaminer.com/policy/immigration/4801179/trump-threatens-tariffs-mexico-migrant-caravan/"
+  "https://www.washingtonexaminer.com/policy/immigration/4801179/trump-threatens-tariffs-mexico-migrant-caravan/",
+  "https://www.washingtonexaminer.com/news/white-house/4801242/trump-tells-vance-forget-iran-focus-corruption/",
+  "https://thehill.com/homenews/administration/6215680-donald-trump-jd-vance-corruption-fraud-democratic-cities-states-iran-war/",
+  "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html"
  ],
  "recent_topics": [
   [
@@ -20802,19 +20874,51 @@
     "warn"
    ],
    "6f228f43e8"
+  ],
+  [
+   "2026-11-12T15:01:54.472081+00:00",
+   [
+    "campaign",
+    "city",
+    "clos",
+    "corruption",
+    "crim",
+    "deal",
+    "democrat",
+    "democrat-l",
+    "democratic",
+    "don't",
+    "down",
+    "focu",
+    "forget",
+    "fraud",
+    "hes",
+    "immigration",
+    "iran",
+    "massiv",
+    "miller",
+    "need",
+    "negotiation",
+    "odd",
+    "pull",
+    "solely",
+    "stat",
+    "stephen",
+    "talk",
+    "tell",
+    "trump",
+    "vanc"
+   ],
+   "5489776f74"
   ]
  ],
- "last_draft_at": "2026-11-12T14:45:23.310914+00:00",
+ "last_draft_at": "2026-11-12T15:01:36.167790+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-12T14:00:30.395069+00:00",
+ "last_stats_at": "2026-11-12T15:01:09.345677+00:00",
  "run_log": [
-  "11-12 12:45:09 run start",
-  "11-12 12:45:19 listening 11 min",
-  "11-12 12:56:38 listening done",
-  "11-12 12:56:38 run end after 688 s",
   "11-12 12:56:50 run start",
   "11-12 12:57:20 listening 11 min",
   "11-12 13:08:39 listening done",
@@ -20850,12 +20954,15 @@
   "11-12 14:45:22 run start",
   "11-12 14:45:47 listening 11 min",
   "11-12 14:57:00 listening done",
-  "11-12 14:57:00 run end after 697 s"
+  "11-12 14:57:00 run end after 697 s",
+  "11-12 15:00:33 run start",
+  "11-12 15:01:54 listening 10 min",
+  "11-12 15:12:21 listening done",
+  "11-12 15:12:21 run end after 707 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Brasilia_Supreme_Federal_Court_of_Brazil_2009.jpg/1920px-Brasilia_Supreme_Federal_Court_of_Brazil_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Alexander_Darchiev_05.2025.jpg/1280px-Alexander_Darchiev_05.2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Warsaw_2023_115_Nicolaus_Copernicus_Monument.jpg/1920px-Warsaw_2023_115_Nicolaus_Copernicus_Monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Warsaw_2023_254_Polish_Flag.jpg/1920px-Warsaw_2023_254_Polish_Flag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -20894,7 +21001,8 @@
    "https://upload.wikimedia.org/wikipedia/commons/8/8f/Presiden_Indonesia_Prabowo_Subianto%2C_Presiden_Rusia_Vladimir_Putin%2C_Presiden_Tiongkok_Xi_Jinping%2C_Pemimpin_Tertinggi_Korea_Utara_Kim_Jong-un%2C_dan_Presiden_Kazakstan_Kassym-Jomart_Tokayev_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/The_Great_Wall_of_China_in_Yanqing.jpg/1920px-The_Great_Wall_of_China_in_Yanqing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/e/e7/Tehran_skyline_from_Book_Garden_0272.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Donald_Trump_official_portrait_2020_election.jpg/1280px-Donald_Trump_official_portrait_2020_election.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
