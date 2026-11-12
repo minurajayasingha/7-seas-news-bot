@@ -17116,28 +17116,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-09T13:30:42.484975+00:00",
-   [
-    "back",
-    "com",
-    "congress",
-    "democrat",
-    "expect",
-    "fight",
-    "fiv",
-    "foreign",
-    "lead",
-    "next",
-    "policy",
-    "post-midterm",
-    "priority",
-    "thinker",
-    "tim",
-    "washington"
-   ],
-   "9ad6291870"
-  ],
-  [
    "2026-11-09T13:45:44.789596+00:00",
    [
     "call",
@@ -20519,17 +20497,13 @@
    "59deeaae7f"
   ]
  ],
- "last_draft_at": "2026-11-12T13:08:51.051049+00:00",
+ "last_draft_at": "2026-11-12T13:20:51.600023+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T12:56:50.328805+00:00",
  "run_log": [
-  "11-12 11:00:34 run start",
-  "11-12 11:02:16 listening 10 min",
-  "11-12 11:12:21 listening done",
-  "11-12 11:12:21 run end after 707 s",
   "11-12 11:15:25 run start",
   "11-12 11:15:35 listening 11 min",
   "11-12 11:26:53 listening done",
@@ -20565,7 +20539,11 @@
   "11-12 13:08:50 run start",
   "11-12 13:10:32 listening 10 min",
   "11-12 13:20:36 listening done",
-  "11-12 13:20:36 run end after 705 s"
+  "11-12 13:20:36 run end after 705 s",
+  "11-12 13:20:51 run start",
+  "11-12 13:21:01 listening 11 min",
+  "11-12 13:32:22 listening done",
+  "11-12 13:32:22 run end after 691 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
