@@ -741,6 +741,12 @@ def process_telegram(state, wait=0):
             d = state["drafts"].get(pid)
             if not d:
                 continue
+            if action == "retry" and d["status"] == "failed":    # 🔁 Try again after a Facebook error
+                d.update(status="queued", attempts=0, post_now=True, rush=True,
+                         queued_at=now_utc().isoformat(), post_at=now_utc().isoformat())
+                tg_status(d, "🔁 Trying again…")
+                log("Retry", pid)
+                continue
             if action == "rush" and d["status"] == "queued":     # ⚡ Post now anyway: skip the wait
                 d.update(rush=True, post_now=True, post_at=now_utc().isoformat())
                 tg_status(d, "⚡ Posting now…")
@@ -1525,7 +1531,10 @@ def publish_due(state):
             log("Facebook error:", e)
             if d["attempts"] >= 3:
                 d["status"] = "failed"
-                tg_status(d, "⚠️ Failed to post")
+                if d.get("tg_message_id"):
+                    tg("editMessageReplyMarkup", chat_id=TG_CHAT, message_id=d["tg_message_id"], reply_markup={
+                        "inline_keyboard": [[{"text": "⚠️ Failed to post", "callback_data": "noop"}],
+                                            [{"text": "🔁 Try again", "callback_data": f"retry:{d['id']}"}]]})
                 tg_text(f"⚠️ Could not post to Facebook:\n<code>{html.escape(str(e))[:500]}</code>\n\n"
                         "If it says the token is invalid, create a new Page token and update the "
                         "FB_PAGE_TOKEN secret on GitHub.")
