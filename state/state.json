@@ -17539,79 +17539,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-09T16:46:26.637480+00:00",
-   [
-    "attempt",
-    "ballot",
-    "big",
-    "cast",
-    "complet",
-    "democrat",
-    "doubt",
-    "early",
-    "election",
-    "giv",
-    "health",
-    "historic",
-    "investigat",
-    "liv",
-    "machin",
-    "midterm",
-    "number",
-    "opportunity",
-    "plan",
-    "public",
-    "question",
-    "rebuk",
-    "repudiation",
-    "responsibility",
-    "trump",
-    "victory",
-    "vot",
-    "voter",
-    "won"
-   ],
-   "d2bc1bd42d"
-  ],
-  [
-   "2026-11-09T16:46:34.354097+00:00",
-   [
-    "ballot",
-    "battl",
-    "democrat",
-    "hold",
-    "lead",
-    "mississippi",
-    "rac",
-    "razor-tight",
-    "recount",
-    "senat",
-    "slim",
-    "spark",
-    "still",
-    "ther",
-    "toss-up"
-   ],
-   "28a83dbba6"
-  ],
-  [
-   "2026-11-09T16:46:36.580442+00:00",
-   [
-    "accus",
-    "behind",
-    "cyberattack",
-    "franc",
-    "french",
-    "fridg",
-    "guard",
-    "hack",
-    "iran",
-    "revolutionary",
-    "supermarket"
-   ],
-   "87181a6313"
-  ],
-  [
    "2026-11-09T16:57:25.777199+00:00",
    [
     "blockad",
@@ -20832,17 +20759,13 @@
    "6bf24c0100"
   ]
  ],
- "last_draft_at": "2026-11-12T16:30:26.872942+00:00",
+ "last_draft_at": "2026-11-12T16:45:23.688193+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T16:00:33.904968+00:00",
  "run_log": [
-  "11-12 14:15:22 run start",
-  "11-12 14:16:17 listening 11 min",
-  "11-12 14:27:11 listening done",
-  "11-12 14:27:11 run end after 709 s",
   "11-12 14:30:28 run start",
   "11-12 14:33:49 listening 8 min",
   "11-12 14:42:03 listening done",
@@ -20878,7 +20801,11 @@
   "11-12 16:30:26 run start",
   "11-12 16:31:08 listening 11 min",
   "11-12 16:42:03 listening done",
-  "11-12 16:42:03 run end after 697 s"
+  "11-12 16:42:03 run end after 697 s",
+  "11-12 16:45:23 run start",
+  "11-12 16:45:33 listening 11 min",
+  "11-12 16:56:53 listening done",
+  "11-12 16:56:53 run end after 690 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
