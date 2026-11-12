@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892995,
+ "tg_offset": 495892996,
  "drafts": {
   "ad016f743b": {
    "id": "ad016f743b",
@@ -17513,6 +17513,93 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122099788383548584_1827587895058835"
+  },
+  "d2d973a04c": {
+   "id": "d2d973a04c",
+   "headline": "Gunman kills one and injures four others in Washington",
+   "summary": "Police report a gunman killed one person and injured four others near a Washington, D.C. gym. Witnesses describe hearing gunfire and escaping the area during the incident.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "The shooting occurred Thursday morning local time.",
+    "The incident took place near Logan Circle.",
+    "The suspect is dead, according to police."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#WashingtonDC",
+    "#News",
+    "#BreakingNews"
+   ],
+   "sources": [
+    "BBC",
+    "NBC News",
+    "UPI"
+   ],
+   "link": "https://www.bbc.co.uk/news/videos/cv702w84r5l1o?at_medium=RSS&at_campaign=rss",
+   "links": [
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/videos/cv702w84r5l1o?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/US/2026/11/12/logan-circle-washington-dc-active-shooter/6221794498066/"
+    ],
+    [
+     "NBC News",
+     "https://www.nbcnews.com/video/witness-describes-horrific-scene-at-washington-d-c-gym-shooting-273343045703"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://live.staticflickr.com/7212/7042013351_d8dc4e9c8e_b.jpg",
+      "credit": "USDAgov / Flickr (Public Domain)",
+      "short": "FLICKR"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Gunman kills one and injures four others in Washington",
+    "people": [],
+    "image_query": "Washington DC street",
+    "image_queries": [
+     "Logan Circle Washington",
+     "Washington DC police",
+     "gym building exterior",
+     "Washington DC cityscape"
+    ],
+    "image_style": "incident",
+    "location": "Washington, D.C.",
+    "nearby_city": "Washington, D.C.",
+    "event_query": "Washington DC gym shooting",
+    "news_time": null,
+    "label": "WORLD"
+   },
+   "created_at": "2026-11-12T20:54:20.054600+00:00",
+   "news_time": "2026-11-12T16:36:49+00:00",
+   "news_latest": "2026-11-12T19:24:33+00:00",
+   "caption": "Gunman kills one and injures four others in Washington\n\nPolice report a gunman killed one person and injured four others near a Washington, D.C. gym. Witnesses describe hearing gunfire and escaping the area during the incident.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WashingtonDC #News #BreakingNews #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 437,
+   "tg_file_id": "AgACAgUAAxkDAAIBtWr2J4ppWEfhVdSHDl7VpStI6oezAAIsE2sbFv2wV-O6hTw9jm2PAQADAgADdwADPQQ",
+   "queued_at": "2026-11-12T20:54:34.584666+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-12T20:54:53.620685+00:00",
+   "post_label": "🤖 Auto-posting",
+   "rush": true,
+   "fb_post_id": "1413030521900096_122099793903548584",
+   "posted_at": "2026-11-12T20:54:53.921988+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 12 · 3:54 PM New York · 2:24 AM Sri Lanka\n\n<b>Gunman kills one and injures four others in Washington</b>\n<i>BBC, NBC News, UPI</i>\n🟡 <b>Latest:</b> 12:54 AM Sri Lanka (1h 30m ago) · first reported 10:06 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099793903548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 269,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122099793903548584_964245429779190"
   }
  },
  "seen_links": [
@@ -18251,33 +18338,12 @@
   "https://www.independent.co.uk/news/world/americas/microsoft-outlook-down-teams-anthropic-outage-b3084151.html",
   "https://www.newsweek.com/microsoft-outlook-down-not-working-incident-server-12707459",
   "https://www.independent.co.uk/news/world/americas/us-politics/jensen-huang-trump-nvidia-musk-b3083995.html",
-  "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+  "https://www.bbc.co.uk/news/videos/cv702w84r5l1o?at_medium=RSS&at_campaign=rss",
+  "https://www.upi.com/Top_News/US/2026/11/12/logan-circle-washington-dc-active-shooter/6221794498066/",
+  "https://www.nbcnews.com/video/witness-describes-horrific-scene-at-washington-d-c-gym-shooting-273343045703"
  ],
  "recent_topics": [
-  [
-   "2026-11-09T21:01:58.426570+00:00",
-   [
-    "ability",
-    "appear",
-    "back",
-    "car",
-    "court",
-    "damag",
-    "federal",
-    "former",
-    "inmat",
-    "medical",
-    "official",
-    "par",
-    "prison",
-    "quest",
-    "set",
-    "sue",
-    "suprem",
-    "wary"
-   ],
-   "4e837cdb83"
-  ],
   [
    "2026-11-09T21:15:39.468413+00:00",
    [
@@ -21248,19 +21314,43 @@
     "trump"
    ],
    "91662607da"
+  ],
+  [
+   "2026-11-12T20:54:34.582064+00:00",
+   [
+    "crash",
+    "dead",
+    "describ",
+    "four",
+    "gett",
+    "gunman",
+    "gym",
+    "helicopter",
+    "injur",
+    "kill",
+    "leav",
+    "military",
+    "near",
+    "other",
+    "ran",
+    "scen",
+    "shoot",
+    "ther",
+    "turkey",
+    "washington",
+    "way",
+    "witness"
+   ],
+   "d2d973a04c"
   ]
  ],
- "last_draft_at": "2026-11-12T20:41:55.529803+00:00",
+ "last_draft_at": "2026-11-12T20:53:44.239923+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T20:00:49.207593+00:00",
  "run_log": [
-  "11-12 18:30:27 run start",
-  "11-12 18:30:47 listening 11 min",
-  "11-12 18:42:08 listening done",
-  "11-12 18:42:08 run end after 700 s",
   "11-12 18:45:23 run start",
   "11-12 18:46:57 listening 10 min",
   "11-12 18:56:59 listening done",
@@ -21296,12 +21386,15 @@
   "11-12 20:41:55 run start",
   "11-12 20:43:01 listening 10 min",
   "11-12 20:53:30 listening done",
-  "11-12 20:53:30 run end after 695 s"
+  "11-12 20:53:30 run end after 695 s",
+  "11-12 20:53:43 run start",
+  "11-12 20:54:34 listening 11 min",
+  "11-12 21:05:10 listening done",
+  "11-12 21:05:10 run end after 686 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/House_of_Representatives_Chamber%2C_Idaho_State_Capitol.jpg/1920px-House_of_Representatives_Chamber%2C_Idaho_State_Capitol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Thomas_Massie_%288560522401%29.jpg/1280px-Thomas_Massie_%288560522401%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/View_of_Port_of_Los_Angeles_with_container_ships.jpg/1920px-View_of_Port_of_Los_Angeles_with_container_ships.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Chris_Van_Hollen_at_DNC_0768_%2828610920815%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0768_%2828610920815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -21340,7 +21433,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Spring_Time_at_Arlington_National_Cemetery%2C_Arlington%2C_Virginia_on_April_18%2C_2024_-_39.jpg/1920px-Spring_Time_at_Arlington_National_Cemetery%2C_Arlington%2C_Virginia_on_April_18%2C_2024_-_39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg/1920px-High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/5/53/2015-04-28_19_07_27_Computer_server_room_at_the_National_Weather_Service_Weather_Forecast_Office_in_Elko%2C_Nevada_%28NWS_WFO_LKN%29.jpg",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Jensen_Huang_-_RTX_5070_Laptop_-_Nvidia_Keynote_-_CES_2025_Las_Vegas.jpg/1280px-Jensen_Huang_-_RTX_5070_Laptop_-_Nvidia_Keynote_-_CES_2025_Las_Vegas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Jensen_Huang_-_RTX_5070_Laptop_-_Nvidia_Keynote_-_CES_2025_Las_Vegas.jpg/1280px-Jensen_Huang_-_RTX_5070_Laptop_-_Nvidia_Keynote_-_CES_2025_Las_Vegas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://live.staticflickr.com/7212/7042013351_d8dc4e9c8e_b.jpg"
   ],
   "pools": {
    "donald trump": {
@@ -24670,8 +24764,8 @@
  },
  "comment_perm_told": true,
  "auto_count": {
-  "2026-11-12": 5
+  "2026-11-12": 6
  },
- "last_auto_at": "2026-11-12T20:42:23.746136+00:00",
- "last_post_at": "2026-11-12T20:42:51.869020+00:00"
+ "last_auto_at": "2026-11-12T20:54:53.921988+00:00",
+ "last_post_at": "2026-11-12T20:54:58.009481+00:00"
 }
