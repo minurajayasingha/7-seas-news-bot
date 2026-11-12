@@ -17,7 +17,7 @@ Never South Asia news. Real, verified news only: a story needs 2+ different outl
   4. AUTO_PUBLISH (default True): each new draft is auto-queued ("🤖 Auto-posting…", ↩️ Cancel) and published by
      publish_due without a tap — BREAKING at once, others one per AUTO_MIN_GAP_MINUTES, max AUTO_MAX_PER_DAY per NY day
      (state["auto_count"], state["last_auto_at"]). Not auto: manual posts, look-alikes of recent posts, over the limit,
-     no real photo when AUTO_NEEDS_PHOTO (default True:
+     more than AUTO_MAX_WAITING auto posts waiting, no real photo when AUTO_NEEDS_PHOTO (default True:
      brand/globe drafts wait in Telegram with "✋ Not auto-posted: no real photo found"). AUTO_REELS="breaking" = BREAKING + real photo also gets a Reel.
 - Memory is `state/state.json`, committed back by the workflow ("Save bot memory" step
   fetches + resets to origin/main before committing, so code pushes during a run don't break it).
@@ -28,6 +28,9 @@ TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, GEMINI_API_KEY, FB_PAGE_ID, FB_PAGE_TOKEN 
 optional PIXABAY_API_KEY / PEXELS_API_KEY / FLICKR_API_KEY. Never print or commit secrets.
 
 ## Telegram UX
+- Spacing: MIN_MINUTES_BETWEEN_POSTS (45) between ALL Facebook posts (state["last_post_at"]). 🚀 Post now / 🎬 Reel /
+  auto get d["post_at"] = next_free_time() and the button shows "🕒 Posts at … SL · … NY"; 🕒 Queue slot posts wait
+  in publish_due (one notice). BREAKING_SKIPS_GAP: breaking posts go at once, then replan_waiting() pushes the others.
 - Draft buttons: 🚀 Post now · 🎬 Reel (only if REELS_ENABLED) · 🕒 Queue (next New York slot) · 🔄 Other photo · ❌ Skip;
   queued posts get ↩️ Cancel.
 - 🎬 Reel = publish the post as normal AND make a single-story Reel (REELS_PER_DAY per NY day, REEL_SECONDS long;
@@ -93,6 +96,10 @@ optional PIXABAY_API_KEY / PEXELS_API_KEY / FLICKR_API_KEY. Never print or commi
 Neutral, no opinions, only facts from the reports. Headlines = plain facts (who did what, where).
 BANNED_HEADLINE_WORDS (settings): if the headline/summary has one, Gemini rewrites once (gemini_write_neutral);
 still there → story skipped.
+SENSITIVE_FILTER / SENSITIVE_WORDS (suicide, self-harm, overdose, eating disorders… + word forms like -s/-ed): Facebook
+age-restricts such posts. Prompt rule + sensitive_words_in() over headline, summary, key_points, hook, location;
+one rewrite with SENSITIVE_FIX (leave the cause of death out, never invent one); still there → skipped and noted in
+the log channel (log_note).
 
 ## Working on this repo
 - Owner edits in VS Code and pushes; the bot also commits state every run → always pull/sync first.

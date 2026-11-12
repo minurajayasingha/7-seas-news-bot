@@ -182,6 +182,14 @@ def tg_clear(draft):
     draft["cleared"] = True
 
 
+def log_note(state, text):
+    """A short note in the log channel (or the bot chat if no channel is linked)."""
+    ch = state.get("log_channel")
+    if not (ch and tg("sendMessage", chat_id=ch, text=text[:4000], parse_mode="HTML",
+                      disable_web_page_preview="true").get("ok")):
+        tg_text(text)
+
+
 def log_buttons(d, ask=False):
     """🗑 Delete under a published post in the log (asks once more before deleting)."""
     if not d.get("fb_post_id") or d.get("status") == "deleted":
@@ -711,6 +719,7 @@ def process_telegram(state, wait=0):
                 d.pop("post_now", None)
                 d.pop("make_reel", None)
                 d.pop("auto", None)
+                d.pop("post_at", None)
                 tg("editMessageReplyMarkup", chat_id=TG_CHAT, message_id=d["tg_message_id"],
                    reply_markup=draft_buttons(pid, d))
                 tg_reply(d, "↩️ Cancelled. It's back to waiting for your choice.")
@@ -734,9 +743,9 @@ def process_telegram(state, wait=0):
                 if action == "reel" and reel_allowed(d):
                     d["make_reel"] = True
                     left = REELS_PER_DAY - reels_today(state)
-                    tg_status(d, "🎬 Posting + making Reel…" if left > 0 else "🚀 Posting now (Reel limit reached)…")
+                    plan_post(state, d, "🎬 Posting + making Reel" if left > 0 else "🚀 Posting now (Reel limit reached)")
                 else:
-                    tg_status(d, "🚀 Posting now…", cancel=False)
+                    plan_post(state, d, "🚀 Posting now")
                 log("Approved", pid, action)
             elif action == "queue":
                 d["status"] = "queued"
@@ -1410,20 +1419,36 @@ def publish_due(state):
                     f"The news is now more than {QUEUE_EXPIRE_HOURS} hours old, so it wasn't posted.")
     queued = [d for d in queued if d["status"] == "queued"]
 
-    to_post = [d for d in queued if d.get("post_now") and not d.get("auto")] + auto_ready(queued, state)
+    # 🚀 Post now / auto posts whose time has come (BREAKING first), then the 🕒 Queue slot post.
+    # Every post waits MIN_MINUTES_BETWEEN_POSTS after the last one (BREAKING_SKIPS_GAP: breaking doesn't).
+    due = [d for d in queued if d.get("post_now") and (skips_gap(d) or not d.get("post_at")
+                                                         or datetime.fromisoformat(d["post_at"]) <= now)]
+    to_post = sorted(due, key=lambda d: (not skips_gap(d), d.get("post_at") or d["queued_at"]))
     slot = current_slot(now)
     if slot and state.get("last_slot") != slot.isoformat():
         waiting = [d for d in queued if not d.get("post_now")]
         if waiting:
+            waiting[0]["_slot"] = slot.isoformat()
             to_post.append(waiting[0])
-            state["last_slot"] = slot.isoformat()
 
     for d in to_post:
+        if not gap_ok(state, d, now_utc()):        # too soon after the last post: next round
+            if d.get("_slot") and not d.get("gap_told"):
+                d["gap_told"] = True
+                t = last_post_time(state) + gap_for(d)
+                tg_status(d, f"🕒 Slot post at {lk_time(t)} SL · {ny_time(t)} NY ({MIN_MINUTES_BETWEEN_POSTS}-min gap)",
+                          cancel=True)
+            continue
         try:
             img = tg_download(d["tg_file_id"])
             post_id = facebook_post_photo(img, d["caption"])
             d["status"] = "posted"
             d["fb_post_id"] = post_id
+            state["last_post_at"] = now_utc().isoformat()
+            if d.get("_slot"):
+                state["last_slot"] = d.pop("_slot")
+            if skips_gap(d):
+                replan_waiting(state)
             d["posted_at"] = now.isoformat()
             link = f"https://www.facebook.com/{post_id}" if post_id else ""
             log_to_channel(state, d, link)
@@ -1704,6 +1729,7 @@ Write a Facebook news post about this story. Strict rules:
 - Be strictly neutral: no opinions, no loaded or emotional words, no taking sides. Attribute claims ("officials said", "according to ...").
 - Write in your own words. Do not copy sentences from the reports.
 - Simple, clear English for a global audience.
+- Sensitive topics: never mention suicide, self-harm, overdoses or eating disorders, and never say how someone died by their own hand (Facebook hides such posts). Leave the cause out instead: "the suspect is dead, police say". Never invent a different cause.
 - Make people want to read it: lead with the most important or surprising FACT, use strong active verbs
   and concrete names, numbers and places from the reports. Catchy, but never exaggerated, misleading or invented.
 
@@ -1746,19 +1772,44 @@ def banned_words_in(post):
             if re.search(r"(?<![a-z])" + re.escape(w.lower()) + r"(?![a-z])", text)]
 
 
+def sensitive_words_in(post):
+    """SENSITIVE_WORDS found in anything shown to readers: headline, summary, key points, question, image text."""
+    if not SENSITIVE_FILTER:
+        return []
+    text = plain(" ".join([str(post.get(k) or "") for k in ("headline", "summary", "hook", "location")]
+                          + [str(k) for k in (post.get("key_points") or [])])).lower().replace("-", " ")
+    return [w for w in SENSITIVE_WORDS
+            if re.search(r"(?<![a-z])" + re.escape(w.lower().replace("-", " ")) + r"(s|es|d|ed)?(?![a-z])", text)]
+
+
+SENSITIVE_FIX = ("Do NOT mention suicide, self-harm, overdoses or eating disorders, and do not say HOW a person died "
+                 "by their own hand. Use neutral factual wording that leaves the cause out, e.g. \"Suspect in DC gym "
+                 "shooting is dead, police say\" or \"The suspect was found dead, police said\". Stay accurate: never "
+                 "invent or suggest a different cause of death.")
+
+
 def gemini_write_neutral(c):
-    """Write the post; if it uses loaded words, ask once for a neutral rewrite; still bad → skip."""
+    """Write the post; loaded words (BANNED_HEADLINE_WORDS) or sensitive words (SENSITIVE_WORDS) → one rewrite;
+    still there → skip."""
     post = gemini_write(c)
-    bad = banned_words_in(post)
-    if not bad or post.get("skip"):
+    bad, sens = banned_words_in(post), sensitive_words_in(post)
+    if post.get("skip") or not (bad or sens):
         return post
-    log("Loaded words, asking for a rewrite:", bad, "|", post.get("headline"))
-    fix = (f"\nIMPORTANT: your last headline was \"{post.get('headline')}\". It used judging or loaded words "
-           f"({', '.join(bad)}). Rewrite the headline and summary as plain facts and do NOT use any of these "
-           f"words: {', '.join(BANNED_HEADLINE_WORDS)}.\n")
-    post = gemini_write(c, fix)
-    bad = banned_words_in(post)
+    log("Rewrite needed:", bad + sens, "|", post.get("headline"))
+    fix = f"\nIMPORTANT: your last headline was \"{post.get('headline')}\"."
     if bad:
+        fix += (f" It used judging or loaded words ({', '.join(bad)}). Rewrite the headline and summary as plain "
+                f"facts and do NOT use any of these words: {', '.join(BANNED_HEADLINE_WORDS)}.")
+    if sens:
+        fix += (f" Your post mentioned a sensitive topic ({', '.join(sens)}). Rewrite the headline, summary and "
+                f"key_points. {SENSITIVE_FIX} Never use these words: {', '.join(SENSITIVE_WORDS)}.")
+    post = gemini_write(c, fix + "\n")
+    bad, sens = banned_words_in(post), sensitive_words_in(post)
+    if sens:
+        log("Still sensitive words, skipping story:", sens, "|", post.get("headline"))
+        post["skip"] = True
+        post["skip_reason"] = "sensitive words: " + ", ".join(sens)
+    elif bad:
         log("Still loaded words, skipping story:", bad, "|", post.get("headline"))
         post["skip"] = True
         post["skip_reason"] = "loaded words: " + ", ".join(bad)
@@ -3034,6 +3085,9 @@ def draft_new_posts(state):
             continue
         if post.get("skip"):
             log("Gemini marked skip:", c["items"][0]["title"], post.get("skip_reason", ""))
+            if str(post.get("skip_reason", "")).startswith("sensitive"):
+                log_note(state, f"🚫 <b>Skipped (sensitive topic)</b>\n{html.escape(c['items'][0]['title'])}\n"
+                                f"<i>Still had: {html.escape(post['skip_reason'][17:])} after a rewrite.</i>")
             continue
         d = {
             "id": hashlib.sha1(c["items"][0]["link"].encode()).hexdigest()[:10],
@@ -3087,26 +3141,78 @@ def auto_queue(state, d):
     elif auto_today(state) + sum(1 for x in state["drafts"].values()
                                  if x.get("auto") and x["status"] == "queued") >= AUTO_MAX_PER_DAY:
         why = f"today's auto limit ({AUTO_MAX_PER_DAY}) is reached"
+    elif not skips_gap(d) and sum(1 for x in state["drafts"].values() if x.get("auto") and x["status"] == "queued"
+                                  and not skips_gap(x)) >= AUTO_MAX_WAITING:
+        why = f"{AUTO_MAX_WAITING} auto posts are already waiting for their turn ({MIN_MINUTES_BETWEEN_POSTS}-min gap)"
     if why:
         tg_reply(d, f"✋ Not auto-posted: {why}. Choose with the buttons.")
         return
     d.update(status="queued", queued_at=now_utc().isoformat(), post_now=True, auto=True)
     if AUTO_REELS == "breaking" and d.get("breaking") and reel_allowed(d):
         d["make_reel"] = True
-    tg_status(d, "🤖 Auto-posting" + (" + Reel" if d.get("make_reel") else "") + "…", cancel=True)
-    log("Auto-queued", d["id"])
+    plan_post(state, d, "🤖 Auto-posting" + (" + Reel" if d.get("make_reel") else ""))
+    log("Auto-queued", d["id"], d.get("post_at"))
 
 
-def auto_ready(queued, state):
-    """Which auto posts may go now: BREAKING at once, others one per AUTO_MIN_GAP_MINUTES."""
-    auto = [d for d in queued if d.get("auto") and d.get("post_now")]
-    out = [d for d in auto if d.get("breaking")]
-    last = state.get("last_auto_at")
-    gap_ok = not last or now_utc() - datetime.fromisoformat(last) >= timedelta(minutes=AUTO_MIN_GAP_MINUTES)
-    rest = [d for d in auto if not d.get("breaking")]
-    if rest and gap_ok and not out:
-        out.append(rest[0])
-    return out
+def skips_gap(d):
+    return bool(BREAKING_SKIPS_GAP and d.get("breaking"))
+
+
+def gap_for(d):
+    return timedelta(minutes=max(MIN_MINUTES_BETWEEN_POSTS, AUTO_MIN_GAP_MINUTES if d.get("auto") else 0))
+
+
+def last_post_time(state):
+    if state.get("last_post_at"):
+        return datetime.fromisoformat(state["last_post_at"])
+    times = [d["posted_at"] for d in state["drafts"].values() if d.get("status") == "posted" and d.get("posted_at")]
+    return datetime.fromisoformat(max(times)) if times else None
+
+
+def next_free_time(state, d):
+    """Earliest time d may post: MIN_MINUTES_BETWEEN_POSTS after the last post and after the posts already waiting."""
+    now = now_utc()
+    if skips_gap(d):
+        return now
+    t, gap = last_post_time(state), gap_for(d)
+    t = t + gap if t else now
+    for o in sorted((o for o in state["drafts"].values() if o is not d and o.get("status") == "queued"
+                     and o.get("post_now") and o.get("post_at") and not skips_gap(o)), key=lambda o: o["post_at"]):
+        pa = datetime.fromisoformat(o["post_at"])
+        if pa + gap > t and pa < t + gap:            # too close to a waiting post → after it
+            t = pa + gap
+    return max(now, t)
+
+
+def plan_post(state, d, label):
+    """Line up a 🚀 Post now / auto post and show when it will go out (label = text if it goes now)."""
+    t = next_free_time(state, d)
+    d["post_at"] = t.isoformat()
+    d["post_label"] = label
+    if t - now_utc() < timedelta(minutes=1):
+        tg_status(d, f"{label}…", cancel=bool(d.get("auto")))
+    else:
+        what = "🤖 Auto-post" if d.get("auto") else "🕒 Posts"
+        tg_status(d, f"{what} at {lk_time(t)} SL · {ny_time(t)} NY" + (" + 🎬 Reel" if d.get("make_reel") else "")
+                     + f" ({MIN_MINUTES_BETWEEN_POSTS}-min gap)", cancel=True)
+
+
+def replan_waiting(state):
+    """After a BREAKING post jumped the line, push the waiting posts back and show their new times."""
+    waiting = sorted((o for o in state["drafts"].values() if o.get("status") == "queued" and o.get("post_now")
+                      and o.get("post_at") and not skips_gap(o)), key=lambda o: o["post_at"])
+    for o in waiting:
+        o.pop("post_at")
+    for o in waiting:
+        old = o.get("post_label") or "🚀 Posting now"
+        plan_post(state, o, old)
+
+
+def gap_ok(state, d, now):
+    if skips_gap(d):
+        return True
+    last = last_post_time(state)
+    return not last or now - last >= gap_for(d) - timedelta(seconds=30)
 
 
 def expire_pending(state):

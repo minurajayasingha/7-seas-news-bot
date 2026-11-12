@@ -25,6 +25,12 @@ AUTO_NEEDS_PHOTO = True      # True = only news with a real photo is auto-posted
 AUTO_REELS = "breaking"      # "breaking" = BREAKING news with a real photo also gets a Reel (needs REELS_ENABLED)
                              # "off" = Reels only when you tap 🎬 Reel
 
+# ---------- Space out posts (posts close together get less reach) ----------
+MIN_MINUTES_BETWEEN_POSTS = 45   # every post (🚀 Post now, 🕒 Queue slots, auto) waits until this long after the last
+                                 # one; Telegram tells you the new time
+BREAKING_SKIPS_GAP = True        # BREAKING news doesn't wait
+AUTO_MAX_WAITING = 2             # max auto posts waiting for their turn; more news → normal drafts for you
+
 # ---------- How many posts ----------
 DRAFTS_PER_RUN = 3           # new posts sent to Telegram each time it looks for news
 DRAFT_EVERY_MINUTES = 15     # how often it looks for news (15 = every run of the bot)
@@ -83,6 +89,14 @@ BANNED_HEADLINE_WORDS = [
     "stunning", "stuns", "shocking", "shock", "explosive", "bombshell", "rips", "torches", "eviscerates",
     "meltdown", "chaos", "embarrassing", "fury", "furious", "outrage", "red wall", "blue wall", "doubles down",
     "backfires", "epic", "massive", "brutal", "savage", "owns", "claps back", "hits back", "mocks",
+]
+
+# ---------- Sensitive topics (Facebook hides / age-restricts these and counts them against the Page) ----------
+SENSITIVE_FILTER = True      # True = headline, summary, "What we know" points and image text are checked for these;
+                             # Gemini rewrites once without them; still there → story skipped (noted in the log channel)
+SENSITIVE_WORDS = [
+    "suicide", "suicidal", "killed himself", "killed herself", "took his own life", "took her own life",
+    "self-harm", "self harm", "self-inflicted", "overdose", "anorexia", "bulimia", "eating disorder",
 ]
 
 # ---------- Caption ----------
