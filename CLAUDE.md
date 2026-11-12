@@ -28,9 +28,10 @@ TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, GEMINI_API_KEY, FB_PAGE_ID, FB_PAGE_TOKEN 
 optional PIXABAY_API_KEY / PEXELS_API_KEY / FLICKR_API_KEY. Never print or commit secrets.
 
 ## Telegram UX
-- Spacing: MIN_MINUTES_BETWEEN_POSTS (45) between ALL Facebook posts (state["last_post_at"]). 🚀 Post now / 🎬 Reel /
+- Spacing: MIN_MINUTES_BETWEEN_POSTS (30) between ALL Facebook posts (state["last_post_at"]). 🚀 Post now / 🎬 Reel /
   auto get d["post_at"] = next_free_time() and the button shows "🕒 Posts at … SL · … NY"; 🕒 Queue slot posts wait
   in publish_due (one notice). BREAKING_SKIPS_GAP: breaking posts go at once, then replan_waiting() pushes the others.
+  Waiting posts show ⚡ Post now anyway (callback rush:) → d["rush"] = skips the gap, others are re-planned.
 - Draft buttons: 🚀 Post now · 🎬 Reel (only if REELS_ENABLED) · 🕒 Queue (next New York slot) · 🔄 Other photo · ❌ Skip;
   queued posts get ↩️ Cancel.
 - 🎬 Reel = publish the post as normal AND make a single-story Reel (REELS_PER_DAY per NY day, REEL_SECONDS long;

@@ -157,7 +157,12 @@ def tg_status(draft, label, cancel=False):
     """Replace the buttons under a draft with a status label (and optional Cancel)."""
     if draft.get("tg_message_id"):
         rows = [[{"text": label, "callback_data": "noop"}]]
-        if cancel:
+        waiting = draft.get("status") == "queued" and draft.get("post_at") and not skips_gap(draft) \
+            and datetime.fromisoformat(draft["post_at"]) > now_utc() + timedelta(minutes=1)
+        if cancel and waiting:
+            rows.append([{"text": "⚡ Post now anyway", "callback_data": f"rush:{draft['id']}"},
+                         {"text": "↩️ Cancel", "callback_data": f"cancel:{draft['id']}"}])
+        elif cancel:
             rows.append([{"text": "↩️ Cancel", "callback_data": f"cancel:{draft['id']}"}])
         tg("editMessageReplyMarkup", chat_id=TG_CHAT, message_id=draft["tg_message_id"],
            reply_markup={"inline_keyboard": rows})
@@ -709,6 +714,11 @@ def process_telegram(state, wait=0):
             d = state["drafts"].get(pid)
             if not d:
                 continue
+            if action == "rush" and d["status"] == "queued":     # ⚡ Post now anyway: skip the wait
+                d.update(rush=True, post_now=True, post_at=now_utc().isoformat())
+                tg_status(d, "⚡ Posting now…")
+                log("Rush", pid)
+                continue
             if action in ("del", "delok", "delno"):
                 if str(d.get("log_chat")) == chat_id:
                     handle_delete(state, d, action)
@@ -720,6 +730,7 @@ def process_telegram(state, wait=0):
                 d.pop("make_reel", None)
                 d.pop("auto", None)
                 d.pop("post_at", None)
+                d.pop("rush", None)
                 tg("editMessageReplyMarkup", chat_id=TG_CHAT, message_id=d["tg_message_id"],
                    reply_markup=draft_buttons(pid, d))
                 tg_reply(d, "↩️ Cancelled. It's back to waiting for your choice.")
@@ -1436,6 +1447,7 @@ def publish_due(state):
             if d.get("_slot") and not d.get("gap_told"):
                 d["gap_told"] = True
                 t = last_post_time(state) + gap_for(d)
+                d["post_at"] = t.isoformat()             # shows ⚡ Post now anyway
                 tg_status(d, f"🕒 Slot post at {lk_time(t)} SL · {ny_time(t)} NY ({MIN_MINUTES_BETWEEN_POSTS}-min gap)",
                           cancel=True)
             continue
@@ -3155,7 +3167,8 @@ def auto_queue(state, d):
 
 
 def skips_gap(d):
-    return bool(BREAKING_SKIPS_GAP and d.get("breaking"))
+    """Posts that don't wait: ⚡ Post now anyway, or BREAKING news (BREAKING_SKIPS_GAP)."""
+    return bool(d.get("rush") or (BREAKING_SKIPS_GAP and d.get("breaking")))
 
 
 def gap_for(d):

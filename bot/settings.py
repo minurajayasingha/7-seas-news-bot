@@ -26,9 +26,9 @@ AUTO_REELS = "breaking"      # "breaking" = BREAKING news with a real photo also
                              # "off" = Reels only when you tap 🎬 Reel
 
 # ---------- Space out posts (posts close together get less reach) ----------
-MIN_MINUTES_BETWEEN_POSTS = 45   # every post (🚀 Post now, 🕒 Queue slots, auto) waits until this long after the last
-                                 # one; Telegram tells you the new time
-BREAKING_SKIPS_GAP = True        # BREAKING news doesn't wait
+MIN_MINUTES_BETWEEN_POSTS = 30   # every post (🚀 Post now, 🕒 Queue slots, auto) waits until this long after the last
+                                 # one; Telegram tells you the new time. A waiting post has ⚡ Post now anyway.
+BREAKING_SKIPS_GAP = True        # BREAKING news doesn't wait (goes out at once, the others move back)
 AUTO_MAX_WAITING = 2             # max auto posts waiting for their turn; more news → normal drafts for you
 
 # ---------- How many posts ----------
