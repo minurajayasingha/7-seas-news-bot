@@ -16568,6 +16568,81 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true
+  },
+  "f20ccf018a": {
+   "id": "f20ccf018a",
+   "headline": "Indonesian Vice President Gibran Rakabuming Raka resigns from office",
+   "summary": "Indonesian Vice President Gibran Rakabuming Raka has stepped down from his position. Recent court rulings and questions raised over his academic credentials and eligibility prompted the resignation.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Vice President Gibran Rakabuming Raka has resigned.",
+    "Court rulings questioned his educational credentials and eligibility.",
+    "The resignation occurs amid a growing political rift."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Indonesia",
+    "#WorldNews",
+    "#Politics"
+   ],
+   "sources": [
+    "ABC News",
+    "Al Jazeera",
+    "BBC",
+    "New York Times"
+   ],
+   "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+   "links": [
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/indonesias-vice-president-resigns-eligibility-academic-credentials-questioned-138069107"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/12/world/asia/indonesia-gibran-vice-president-resign.html"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Gibran_Rakabuming_Raka%2C_Candidate_for_Indonesia%27s_Vice_President_in_2024.jpg/1280px-Gibran_Rakabuming_Raka%2C_Candidate_for_Indonesia%27s_Vice_President_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "General Elections Commission of the Republic of Indonesia / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Indonesian Vice President Gibran Rakabuming Raka resigns from office",
+    "people": [
+     "Gibran Rakabuming Raka"
+    ],
+    "image_query": "Jakarta government building",
+    "image_queries": [
+     "Indonesian parliament building",
+     "Jakarta city skyline",
+     "Supreme Court of Indonesia",
+     "Jakarta presidential palace"
+    ],
+    "image_style": "person",
+    "location": "Indonesia"
+   },
+   "created_at": "2026-11-12T08:30:39.244632+00:00",
+   "news_time": "2026-11-12T06:38:01+00:00",
+   "news_latest": "2026-11-12T08:26:50+00:00",
+   "caption": "🚨 BREAKING: Indonesian Vice President Gibran Rakabuming Raka resigns from office\n\nIndonesian Vice President Gibran Rakabuming Raka has stepped down from his position. Recent court rulings and questions raised over his academic credentials and eligibility prompted the resignation.\n\nWhat we know so far:\n• Vice President Gibran Rakabuming Raka has resigned.\n• Court rulings questioned his educational credentials and eligibility.\n• The resignation occurs amid a growing political rift.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Indonesia #WorldNews #Politics #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 393,
+   "tg_file_id": "AgACAgUAAxkDAAIBiWr1eTHk2pruHORg7JE112gPoz-iAAIqE2sbSxqpV8Mg7pYHeHhEAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -17203,7 +17278,11 @@
   "https://www.euronews.com/2026/11/12/nvidia-board-weighs-jensen-huangs-future-as-reports-emerge-of-second-affair",
   "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
   "https://www.france24.com/en/russia-s-hidden-mobilization-the-expendable-lives-fueling-putin-s-war-on-ukraine",
-  "https://abcnews.com/International/wireStory/ireland-faces-pressure-stop-sending-russia-ingredient-vital-138069912"
+  "https://abcnews.com/International/wireStory/ireland-faces-pressure-stop-sending-russia-ingredient-vital-138069912",
+  "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+  "https://abcnews.com/International/wireStory/indonesias-vice-president-resigns-eligibility-academic-credentials-questioned-138069107",
+  "https://www.nytimes.com/2026/11/12/world/asia/indonesia-gibran-vice-president-resign.html",
+  "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -20549,19 +20628,36 @@
     "war"
    ],
    "8ea6130c7c"
+  ],
+  [
+   "2026-11-12T08:30:41.460542+00:00",
+   [
+    "academic",
+    "allianc",
+    "credential",
+    "disput",
+    "eligibility",
+    "fray",
+    "gibran",
+    "indonesia",
+    "president",
+    "question",
+    "resign",
+    "rul",
+    "sign",
+    "vic",
+    "vice-president"
+   ],
+   "f20ccf018a"
   ]
  ],
- "last_draft_at": "2026-11-12T08:15:19.469051+00:00",
+ "last_draft_at": "2026-11-12T08:30:26.529798+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T08:00:30.734825+00:00",
  "run_log": [
-  "11-12 06:00:30 run start",
-  "11-12 06:01:17 listening 11 min",
-  "11-12 06:12:11 listening done",
-  "11-12 06:12:11 run end after 701 s",
   "11-12 06:15:21 run start",
   "11-12 06:15:29 listening 11 min",
   "11-12 06:26:48 listening done",
@@ -20597,12 +20693,15 @@
   "11-12 08:15:19 run start",
   "11-12 08:15:29 listening 11 min",
   "11-12 08:26:48 listening done",
-  "11-12 08:26:48 run end after 688 s"
+  "11-12 08:26:48 run end after 688 s",
+  "11-12 08:30:26 run start",
+  "11-12 08:30:41 listening 11 min",
+  "11-12 08:42:00 listening done",
+  "11-12 08:42:00 run end after 694 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/0/08/Maria_Elvira_Salazar_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://upload.wikimedia.org/wikipedia/commons/f/fb/Cummins_Corporate_Office_Building_-_April_2008_-_Holly_Higgins_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Dublin_architecture-_Georgian.jpg/1920px-Dublin_architecture-_Georgian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -20641,7 +20740,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Iowa_Senate_chamber_01.jpg/1920px-Iowa_Senate_chamber_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/1/17/Walhalla_general_store_Stevage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Jensen_huang_stanford_2026-04-30_031.jpg/1280px-Jensen_huang_stanford_2026-04-30_031.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Ireland_Clonmacnoise_BW_2025-09-09_17-09-03_v2.jpg/1920px-Ireland_Clonmacnoise_BW_2025-09-09_17-09-03_v2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Ireland_Clonmacnoise_BW_2025-09-09_17-09-03_v2.jpg/1920px-Ireland_Clonmacnoise_BW_2025-09-09_17-09-03_v2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Gibran_Rakabuming_Raka%2C_Candidate_for_Indonesia%27s_Vice_President_in_2024.jpg/1280px-Gibran_Rakabuming_Raka%2C_Candidate_for_Indonesia%27s_Vice_President_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -23600,6 +23700,28 @@
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Jeff_Van_Drew_Official_Portrait_116th_Congress.jpg/1280px-Jeff_Van_Drew_Official_Portrait_116th_Congress.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "U.S. House Office of Photography/House Creative Services / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     }
+    ]
+   },
+   "gibran rakabuming raka": {
+    "t": "2026-11-12T08:30:39.244505+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Gibran_Rakabuming_2024_official_portrait.jpg/1280px-Gibran_Rakabuming_2024_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Darwis Triadi & Ministry of State Secretariat / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Gibran_Rakabuming_Raka%2C_Candidate_for_Vice_President_of_Indonesia_2024.jpg/1280px-Gibran_Rakabuming_Raka%2C_Candidate_for_Vice_President_of_Indonesia_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "General Elections Commission of the Republic of Indonesia / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Gibran_Rakabuming_Raka%2C_Candidate_for_Indonesia%27s_Vice_President_in_2024.jpg/1280px-Gibran_Rakabuming_Raka%2C_Candidate_for_Indonesia%27s_Vice_President_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "General Elections Commission of the Republic of Indonesia / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": true
      }
