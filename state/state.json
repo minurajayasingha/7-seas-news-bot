@@ -16264,6 +16264,71 @@
    "status": "pending",
    "tg_message_id": 401,
    "tg_file_id": "AgACAgUAAxkDAAIBkWr1nKFkjPSwv5C_mYEKuJD5-QZ2AAJkE2sbSxqpV9wYnhbdkRT1AQADAgADdwADPQQ"
+  },
+  "9ba914a594": {
+   "id": "9ba914a594",
+   "headline": "Sviatlana Tsikhanouskaya demands Belarus inclusion in peace talks",
+   "summary": "Sviatlana Tsikhanouskaya stated that security for Ukraine and European countries requires a free and democratic Belarus. Meanwhile, former U.S. ambassador William Taylor discussed ongoing peace talks involving the U.S., Russia, and Ukraine.",
+   "label": "DIPLOMACY",
+   "hook": "Should Belarus be included in the Russia-Ukraine peace talks?",
+   "key_points": [
+    "Tsikhanouskaya says Belarus must join peace talks",
+    "Security depends on a free Belarus",
+    "William Taylor discussed ongoing talks"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Belarus",
+    "#Ukraine",
+    "#Diplomacy"
+   ],
+   "sources": [
+    "Kyiv Independent",
+    "NPR"
+   ],
+   "link": "https://kyivindependent.com/tsikhanouskaya-says-belarus-must-be-included-in-russia-ukraine-peace-talks/",
+   "links": [
+    [
+     "Kyiv Independent",
+     "https://kyivindependent.com/tsikhanouskaya-says-belarus-must-be-included-in-russia-ukraine-peace-talks/"
+    ],
+    [
+     "NPR",
+     "https://www.npr.org/2026/11/12/nx-s1-6037526/former-u-s-ambassador-william-taylor-discusses-the-latest-russia-ukraine-talks"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Sviatlana_Tsikhanouskaya_in_2025_%28cropped%29.jpg/1280px-Sviatlana_Tsikhanouskaya_in_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "European Parliament from EU / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Sviatlana Tsikhanouskaya demands Belarus inclusion in peace talks",
+    "people": [
+     "Sviatlana Tsikhanouskaya"
+    ],
+    "image_query": "European parliament building",
+    "image_queries": [
+     "Minsk city center",
+     "Kyiv cityscape",
+     "United Nations headquarters",
+     "European Union flag"
+    ],
+    "image_style": "person",
+    "location": ""
+   },
+   "created_at": "2026-11-12T11:30:40.434817+00:00",
+   "news_time": "2026-11-12T09:39:39+00:00",
+   "news_latest": "2026-11-12T11:25:35+00:00",
+   "caption": "Sviatlana Tsikhanouskaya demands Belarus inclusion in peace talks\n\nSviatlana Tsikhanouskaya stated that security for Ukraine and European countries requires a free and democratic Belarus. Meanwhile, former U.S. ambassador William Taylor discussed ongoing peace talks involving the U.S., Russia, and Ukraine.\n\n💬 Should Belarus be included in the Russia-Ukraine peace talks?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Belarus #Ukraine #Diplomacy #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 402,
+   "tg_file_id": "AgACAgUAAxkDAAIBkmr1o2KYBpaZ7Fm6ROzxeJfqc2_MAAKBE2sbSxqpV5IVUvQoDzyuAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -16926,34 +16991,11 @@
   "https://www.euronews.com/2026/11/12/russian-officer-killed-by-car-bomb-in-st-petersburg-as-murder-investigation-begins",
   "https://www.newsweek.com/russian-soldiers-blown-up-by-car-bombs-12703309",
   "https://www.washingtonpost.com/politics/2026/11/12/new-congressman-blue-wave-2028-what-democrats-should-prioritize/",
-  "https://www.npr.org/2026/11/12/nx-s1-6029640/black-voter-turnout-congress-redistricting"
+  "https://www.npr.org/2026/11/12/nx-s1-6029640/black-voter-turnout-congress-redistricting",
+  "https://kyivindependent.com/tsikhanouskaya-says-belarus-must-be-included-in-russia-ukraine-peace-talks/",
+  "https://www.npr.org/2026/11/12/nx-s1-6037526/former-u-s-ambassador-william-taylor-discusses-the-latest-russia-ukraine-talks"
  ],
  "recent_topics": [
-  [
-   "2026-11-09T11:30:39.007651+00:00",
-   [
-    "big",
-    "capitol",
-    "furiou",
-    "hill",
-    "hous",
-    "left",
-    "limit",
-    "littl",
-    "loss",
-    "midterm",
-    "musk",
-    "power",
-    "republican",
-    "return",
-    "senat",
-    "show",
-    "spent",
-    "tim",
-    "trump"
-   ],
-   "c28eab1894"
-  ],
   [
    "2026-11-09T12:30:47.969758+00:00",
    [
@@ -20335,19 +20377,33 @@
     "soldier"
    ],
    "c884bf50cf"
+  ],
+  [
+   "2026-11-12T11:30:43.075366+00:00",
+   [
+    "ambassador",
+    "belaru",
+    "discuss",
+    "former",
+    "includ",
+    "must",
+    "peac",
+    "russia-ukrain",
+    "talk",
+    "taylor",
+    "tsikhanouskaya",
+    "william"
+   ],
+   "9ba914a594"
   ]
  ],
- "last_draft_at": "2026-11-12T11:15:25.515272+00:00",
+ "last_draft_at": "2026-11-12T11:30:26.546158+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T11:00:34.555558+00:00",
  "run_log": [
-  "11-12 09:00:31 run start",
-  "11-12 09:01:07 listening 11 min",
-  "11-12 09:12:02 listening done",
-  "11-12 09:12:02 run end after 691 s",
   "11-12 09:15:23 run start",
   "11-12 09:15:43 listening 11 min",
   "11-12 09:27:02 listening done",
@@ -20383,12 +20439,15 @@
   "11-12 11:15:25 run start",
   "11-12 11:15:35 listening 11 min",
   "11-12 11:26:53 listening done",
-  "11-12 11:26:53 run end after 688 s"
+  "11-12 11:26:53 run end after 688 s",
+  "11-12 11:30:26 run start",
+  "11-12 11:30:43 listening 11 min",
+  "11-12 11:42:01 listening done",
+  "11-12 11:42:01 run end after 695 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Madrid_Metro_Sol_Station_030.jpg/1920px-Madrid_Metro_Sol_Station_030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/View_of_the_Pentagon_from_the_Navy_Annex_minutes_after_a_hijacked_jetliner_crashed_into_building_at_approximately_0930_on_September_11%2C_2001_010911-M-CI426-007.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Buenos_Aires_Skyline_in_Color.jpg/1920px-Buenos_Aires_Skyline_in_Color.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Iowa_Senate_chamber_03.jpg/1920px-Iowa_Senate_chamber_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -20427,7 +20486,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Jared_Kushner_%2848512574161%29.jpg/1280px-Jared_Kushner_%2848512574161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/d/de/Steve_Witkoff_in_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Tourists_in_the_rotunda%2C_United_States_Capitol%2C_Washington%2C_D.C.%2C_2007.jpg/1920px-Tourists_in_the_rotunda%2C_United_States_Capitol%2C_Washington%2C_D.C.%2C_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/4/41/New_Year%27s_Eve_from_President_of_Ukraine_Volodymyr_Zelensky_%2831-12-2025%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/4/41/New_Year%27s_Eve_from_President_of_Ukraine_Volodymyr_Zelensky_%2831-12-2025%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Sviatlana_Tsikhanouskaya_in_2025_%28cropped%29.jpg/1280px-Sviatlana_Tsikhanouskaya_in_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -23596,6 +23656,82 @@
       "credit": "The White House / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": true
+     }
+    ]
+   },
+   "sviatlana tsikhanouskaya": {
+    "t": "2026-11-12T11:30:40.434676+00:00",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Sviatlana_Tsikhanouskaya_%282025%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Polish presidency of the Council of the EU 2025 / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Visit_to_Leinster_House_by_Belarusian_Democratic_Opposition_Leader_Ms_Sviatlana_Tsikhanouskaya_-_5_May_2023_-_52879859817.jpg/1280px-Visit_to_Leinster_House_by_Belarusian_Democratic_Opposition_Leader_Ms_Sviatlana_Tsikhanouskaya_-_5_May_2023_-_52879859817.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Houses of the Oireachtas / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/BDK_Karlsruhe_Nov_2023_Sviatlana_Tsikhanouskaya_8.jpg/1280px-BDK_Karlsruhe_Nov_2023_Sviatlana_Tsikhanouskaya_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Kasa Fue / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Sviatlana_Tsikhanouskaya_in_2025_%28cropped%29.jpg/1280px-Sviatlana_Tsikhanouskaya_in_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "European Parliament from EU / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Visit_of_Sviatlana_Tsikhanouskaya%2C_Leader_of_the_Belarusian_democratic_opposition%2C_to_the_EC_%28P-069184-00-01%29.jpg/1280px-Visit_of_Sviatlana_Tsikhanouskaya%2C_Leader_of_the_Belarusian_democratic_opposition%2C_to_the_EC_%28P-069184-00-01%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Europäische Kommission - Audiovisueller Dienst, Lukasz Kobus / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/2020_Sviatlana_Tsikhanouskaya_%2850437385087%29_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Bundesministerium für europäische und internationale Angeleg / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Belarusian_opposition_leader_Sviatlana_Tsikhanouskaya_addresses_MEPs_-_51702909615.jpg/1280px-Belarusian_opposition_leader_Sviatlana_Tsikhanouskaya_addresses_MEPs_-_51702909615.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "European Parliament / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Visit_to_Leinster_House_by_Belarusian_Democratic_Opposition_Leader_Ms_Sviatlana_Tsikhanouskaya_-_5_May_2023.jpg/1280px-Visit_to_Leinster_House_by_Belarusian_Democratic_Opposition_Leader_Ms_Sviatlana_Tsikhanouskaya_-_5_May_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Houses of the Oireachtas / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Visit_of_Sviatlana_Tsikhanouskaya_to_the_International_Secretariat%2C_22_October_2020_%2850516843142%29.jpg/1280px-Visit_of_Sviatlana_Tsikhanouskaya_to_the_International_Secretariat%2C_22_October_2020_%2850516843142%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "OSCE Parliamentary Assembly from Copenhagen, Denmark / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/BDK_Karlsruhe_Nov_2023_Sviatlana_Tsikhanouskaya.jpg/1280px-BDK_Karlsruhe_Nov_2023_Sviatlana_Tsikhanouskaya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Kasa Fue / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Belarusian_opposition_leader_Sviatlana_Tsikhanouskaya_addresses_MEPs_-_51702909580.jpg/1280px-Belarusian_opposition_leader_Sviatlana_Tsikhanouskaya_addresses_MEPs_-_51702909580.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "European Parliament / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Visit_of_Sviatlana_Tsikhanouskaya_to_the_International_Secretariat%2C_22_October_2020_%2850516845292%29.jpg/1280px-Visit_of_Sviatlana_Tsikhanouskaya_to_the_International_Secretariat%2C_22_October_2020_%2850516845292%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "OSCE Parliamentary Assembly from Copenhagen, Denmark / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
      }
     ]
    }
