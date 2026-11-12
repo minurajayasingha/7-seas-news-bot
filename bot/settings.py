@@ -149,8 +149,8 @@ PHOTO_POOL_DAYS = 7          # refresh each person's photo collection after this
 # Better photo searches for some places: "what Gemini asks": ("what to search", [words the photo name must NOT have])
 PHOTO_SEARCH_FIX = {
     "white house": ("White House Washington", ["moscow", "russia", "russian", "minsk", "canyon", "ruin", "arizona"]),
-    "capitol": ("United States Capitol", ["state capitol", "texas", "havana"]),
-}
+    "capitol": ("United States Capitol", ["state capitol", "texas", "havana", "seattle", "denver"]),
+}                                    # "Capitol Hill" counts as "capitol" (the US Capitol, never Seattle's Capitol Hill)
 
 # Photo ideas per topic. If a headline has one of the words on the left, the bot rotates through
 # these photo ideas (plus the AI's own ideas), so stories about the same topic look different.

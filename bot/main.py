@@ -2197,6 +2197,11 @@ def openverse_photo(query, exclude=(), countries=(), avoid=()):
         return None
     OV["calls"] += 1
     must = re.sub(r"[^a-z0-9]+", " ", plain(query.split(",")[0]).lower()).strip()
+    core = re.sub(r"\s+", " ", re.sub(r"^(the|us|u s) |\b(building|washington|dc)\b", " ", must)).strip()
+    core = "capitol" if core == "capitol hill" else core
+    if core in PHOTO_SEARCH_FIX:                 # e.g. "Capitol Hill" must not be the Seattle neighbourhood
+        query, must = PHOTO_SEARCH_FIX[core][0], core
+        avoid = tuple(avoid) + tuple(PHOTO_SEARCH_FIX[core][1])
     try:
         for attempt in (1, 2):                  # the service often answers "busy" (504) once, then works
             r = HTTP.get("https://api.openverse.org/v1/images/", headers=WIKI_HEADERS, timeout=35, params={
@@ -2611,6 +2616,7 @@ def wiki_search_photo(query, exclude=(), countries=(), avoid=()):
     search, banned = query.replace(",", " "), []
     core = re.sub(r"^(the|us|u s) |\b(building|washington|dc)\b", " ", must)
     core = re.sub(r"\s+", " ", re.sub(r"^(the|us|u s) ", "", core.strip())).strip()
+    core = "capitol" if core == "capitol hill" else core
     if core in PHOTO_SEARCH_FIX:                        # only for exactly "White House" / "US Capitol (building)"
         search, banned = PHOTO_SEARCH_FIX[core]
         must = core
