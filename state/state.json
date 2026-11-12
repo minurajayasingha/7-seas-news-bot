@@ -1,76 +1,6 @@
 {
  "tg_offset": 495892982,
  "drafts": {
-  "a8f9297a4b": {
-   "id": "a8f9297a4b",
-   "headline": "Riyadh Aramco building damaged in Houthi attack",
-   "summary": "An Aramco energy company building in Riyadh sustained damage during an attack. Saudi authorities stated that missiles were intercepted and falling shrapnel hit the structure.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "Aramco building damaged in Riyadh",
-    "Missiles intercepted over Saudi Arabia",
-    "No injuries reported by authorities"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#WorldNews",
-    "#SaudiArabia",
-    "#Riyadh"
-   ],
-   "sources": [
-    "ABC News",
-    "New York Times",
-    "The Independent",
-    "UPI"
-   ],
-   "link": "https://www.upi.com/Top_News/World-News/2026/11/08/saudi-arabia-aramco-building-attack/1881794149790/",
-   "links": [
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/World-News/2026/11/08/saudi-arabia-aramco-building-attack/1881794149790/"
-    ],
-    [
-     "ABC News",
-     "https://abcnews.com/International/wireStory/saudi-arabia-intercepts-missiles-aramco-building-riyadh-damaged-137951443"
-    ],
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/middle-east/saudi-armaco-building-damage-attack-b3081179.html"
-    ]
-   ],
-   "bg": {
-    "type": "incident",
-    "photos": [],
-    "location": "Riyadh, Saudi Arabia"
-   },
-   "img_post": {
-    "headline": "Riyadh Aramco building damaged in Houthi attack",
-    "people": [],
-    "image_query": "Riyadh skyline",
-    "image_queries": [
-     "Saudi Aramco building",
-     "Riyadh financial district",
-     "Saudi Arabia capital",
-     "Riyadh city"
-    ],
-    "image_style": "incident",
-    "location": "Riyadh, Saudi Arabia"
-   },
-   "created_at": "2026-11-08T15:45:30.427514+00:00",
-   "news_time": "2026-11-08T11:18:23+00:00",
-   "news_latest": "2026-11-08T15:23:41+00:00",
-   "caption": "Riyadh Aramco building damaged in Houthi attack\n\nAn Aramco energy company building in Riyadh sustained damage during an attack. Saudi authorities stated that missiles were intercepted and falling shrapnel hit the structure.\n\n📖 Read more: https://www.upi.com/Top_News/World-News/2026/11/08/saudi-arabia-aramco-building-attack/1881794149790/\n\n#WorldNews #SaudiArabia #Riyadh #7SeasNews",
-   "status": "replaced",
-   "tg_message_id": 117,
-   "tg_file_id": "AgACAgUAAxkDAAN1avCZHLb727rNh3Q2i0PWddS3j4IAAhsVaxv_D4lXlp2DBqWfldQBAAMCAAN3AAM9BA",
-   "extra_msgs": [],
-   "cleared": true
-  },
   "14e0aa2339": {
    "id": "14e0aa2339",
    "headline": "Hakeem Jeffries backs Pete Hegseth impeachment resolution",
@@ -17558,25 +17488,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-09T15:45:41.852426+00:00",
-   [
-    "company",
-    "drama",
-    "huang",
-    "launch",
-    "market",
-    "nvidia",
-    "prob",
-    "second",
-    "shock",
-    "slid",
-    "spark",
-    "spy",
-    "stock"
-   ],
-   "fa0755faec"
-  ],
-  [
    "2026-11-09T16:00:49.605563+00:00",
    [
     "activist",
@@ -20897,17 +20808,13 @@
    "1f289091a0"
   ]
  ],
- "last_draft_at": "2026-11-12T15:30:29.165036+00:00",
+ "last_draft_at": "2026-11-12T15:45:22.089545+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T15:01:09.345677+00:00",
  "run_log": [
-  "11-12 13:20:51 run start",
-  "11-12 13:21:01 listening 11 min",
-  "11-12 13:32:22 listening done",
-  "11-12 13:32:22 run end after 691 s",
   "11-12 13:32:34 run start",
   "11-12 13:32:45 listening 11 min",
   "11-12 13:44:04 listening done",
@@ -20943,7 +20850,11 @@
   "11-12 15:30:28 run start",
   "11-12 15:30:50 listening 11 min",
   "11-12 15:42:09 listening done",
-  "11-12 15:42:09 run end after 700 s"
+  "11-12 15:42:09 run end after 700 s",
+  "11-12 15:45:21 run start",
+  "11-12 15:45:31 listening 11 min",
+  "11-12 15:56:50 listening done",
+  "11-12 15:56:50 run end after 688 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
