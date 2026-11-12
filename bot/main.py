@@ -60,6 +60,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 STATE_FILE = os.path.join(ROOT, "state", "state.json")
 FONT_DIR = os.path.join(ROOT, "fonts")
 LOGO_FILE = os.path.join(ROOT, "assets", "logo.png")
+MAP_FILE = os.path.join(ROOT, "assets", "map_data.json")   # Natural Earth 1:50m countries + US/CA/AU states
 
 HTTP = requests.Session()
 HTTP.headers["User-Agent"] = "Mozilla/5.0 (compatible; 7SeasNewsBot/1.0)"
@@ -1721,6 +1722,7 @@ Return ONLY JSON with these keys:
 "key_points": a list of 2 or 3 very short facts from the reports (max 12 words each) that add context and are NOT already in the summary. Always give them.
 "image_style": "incident" if the story is about violence or a disaster (shooting, bombing, explosion, attack, airstrike, crash, fire, earthquake, flood); otherwise "person" if it is mainly about what a person said or did; otherwise "scene" (a visit, tour, summit, protest, vote, policy).
 "location": where it happened, "City, Country" (or just "Country"/"US State"), e.g. "Krakow, Poland". Empty string if unclear.
+"nearby_city": the nearest large, well-known city in the same US state / country as the location (or the capital), "City, State/Country", e.g. "San Antonio, Texas" for Kerrville. Empty string if the location itself is a big city or unclear.
 "label": exactly one of "US POLITICS", "WORLD", "CONFLICT", "DIPLOMACY", "ELECTIONS", "ECONOMY".
 "hashtags": a list of 3 relevant hashtags, e.g. ["#USPolitics", "#WorldNews", "#Congress"].
 "image_query": 2 to 4 words for a photo of the most relevant PLACE or landmark (never a person), as specific as possible, e.g. "Montevideo skyline", "US Capitol building", "Kyiv city", "United Nations Security Council". Pick the place that fits THIS story: Congress/party stories → "US Capitol dome", "Senate chamber", "House of Representatives chamber" or the state capitol/city involved; courts → "Supreme Court building"; military → "Pentagon building". Use "White House" only when the story really happens at the White House.
@@ -2164,15 +2166,183 @@ def place_photo(post, exclude=()):
     if not loc:
         return None
     countries = story_countries(post)
-    city, rest = loc.split(",")[0].strip(), ", ".join(x.strip() for x in loc.split(",")[1:])
-    tail = f", {rest}" if rest else ""
-    for q in dict.fromkeys([f"{city} skyline{tail}", f"{city} downtown{tail}", f"{city} city center{tail}",
-                                f"{city} street{tail}", f"{city} square{tail}"]):
+    tries = []
+    for i, place in enumerate([loc, str(post.get("nearby_city") or "").strip()]):   # the town, then a big city near it
+        if not place:
+            continue
+        city, rest = place.split(",")[0].strip(), ", ".join(x.strip() for x in place.split(",")[1:])
+        tail = f", {rest}" if rest else ""
+        tries += [f"{city} skyline{tail}", f"{city} downtown{tail}"]
+        if i == 0:
+            tries += [f"{city} city center{tail}", f"{city} street{tail}", f"{city} square{tail}"]
+    state = next((x.strip() for x in loc.split(",")[1:] + [loc] if re.fullmatch(US_STATES, x.strip().lower())), "")
+    if state and state.lower() not in ("washington", "new york"):
+        tries.append(f"{state} State Capitol")          # last: the state's capitol building
+    for q in dict.fromkeys(tries):
         p = openverse_photo(q, exclude, countries, avoid=NATURE_WORDS) or \
             wiki_search_photo(q, exclude, countries, avoid=NATURE_WORDS)
         if p:
             return p
     return None
+
+
+# ---------- news map card (when there is no photo at all) ----------
+_MAP = {}
+
+
+def map_data():
+    if "d" not in _MAP:
+        try:
+            _MAP["d"] = json.load(open(MAP_FILE))
+        except Exception as e:
+            log("Map data missing:", e)
+            _MAP["d"] = {"countries": [], "states": []}
+    return _MAP["d"]
+
+
+def geocode(place):
+    """(lat, lon) of a place from Wikipedia (free, no key), or None."""
+    if not place:
+        return None
+    try:
+        j = HTTP.get("https://en.wikipedia.org/w/api.php", headers=WIKI_HEADERS, timeout=20, params={
+            "action": "query", "format": "json", "generator": "search", "gsrsearch": place, "gsrlimit": 3,
+            "prop": "coordinates", "coprimary": "primary"}).json()
+        pages = sorted(j.get("query", {}).get("pages", {}).values(), key=lambda p: p.get("index", 99))
+        for pg in pages:
+            if pg.get("coordinates"):
+                c = pg["coordinates"][0]
+                return float(c["lat"]), float(c["lon"])
+    except Exception as e:
+        log("Geocode failed:", e)
+    return None
+
+
+def _inside(lon, lat, ring):
+    hit, j = False, len(ring) - 1
+    for i in range(len(ring)):
+        xi, yi = ring[i]
+        xj, yj = ring[j]
+        if (yi > lat) != (yj > lat) and lon < (xj - xi) * (lat - yi) / ((yj - yi) or 1e-9) + xi:
+            hit = not hit
+        j = i
+    return hit
+
+
+def area_at(lat, lon, items):
+    """(area, polygon) of the country/state that contains the point."""
+    for it in items:
+        for ring in it["p"]:
+            if _inside(lon, lat, ring):
+                return it, ring
+    return None, None
+
+
+def map_card(post):
+    """bg for a news map, or None if the place can't be found (or is in the wrong country)."""
+    if not MAP_CARDS:
+        return None
+    loc = str(post.get("location") or "").strip()
+    pos = geocode(loc)
+    if not pos:
+        return None
+    lat, lon = pos
+    country, ring = area_at(lat, lon, map_data()["countries"])
+    if not country:
+        return None
+    countries = story_countries(post)
+    if countries and not place_ok(country["n"], countries):
+        log("Map: geocoded to", country["n"], "but the story is about", countries)
+        return None
+    state, sring = area_at(lat, lon, [x for x in map_data()["states"] if x["a3"] == country["a3"]])
+    return {"type": "map", "photos": [], "location": loc[:40], "lat": lat, "lon": lon,
+            "country": country["n"], "state": state["n"] if state else ""}
+
+
+def map_background(bg):
+    """Dark news map: neighbours, the country (and US state) highlighted in red, a pin on the place."""
+    S = 2                                                     # draw big, shrink = smooth lines
+    img = Image.new("RGB", (W * S, H * S), BLACK)
+    d = ImageDraw.Draw(img, "RGBA")
+    data = map_data()
+    lat0, lon0 = bg["lat"], bg["lon"]
+    country = next((c for c in data["countries"] if c["n"] == bg.get("country")), None)
+    state = next((x for x in data["states"] if x["n"] == bg.get("state")), None)
+    # zoom: the state (or the part of the country with the place), 6°–30° wide
+    focus = state or country
+    ring = None
+    if focus:
+        ring = next((r for r in focus["p"] if _inside(lon0, lat0, r)), None) or max(focus["p"], key=len)
+    if ring:
+        xs, ys = [p[0] for p in ring], [p[1] for p in ring]
+        lo1, lo2, la1, la2 = min(xs), max(xs), min(ys), max(ys)
+    else:
+        lo1, lo2, la1, la2 = lon0 - 4, lon0 + 4, lat0 - 3, lat0 + 3
+    clat, clon = (la1 + la2) / 2, (lo1 + lo2) / 2
+    span_la, span_lo = (la2 - la1) * 1.5, (lo2 - lo1) * 1.5
+    if max(span_la, span_lo) > 30 or max(span_la, span_lo) < 5:   # huge country / tiny place → around the pin
+        clat, clon = lat0, lon0
+        span_la = span_lo = 30 if max(span_la, span_lo) > 30 else 6
+    cosl = math.cos(math.radians(clat))
+    box_w, box_h, box_cy = W * S, 1000 * S, 500 * S             # map area above the headline
+    k = min(box_w * 0.9 / max(0.1, span_lo * cosl), box_h * 0.9 / max(0.1, span_la))
+
+    def xy(lon, lat):
+        return (W * S / 2 + (lon - clon) * cosl * k, box_cy + (clat - lat) * k)
+
+    def visible(r):
+        pts = [xy(*p) for p in r]
+        xs2, ys2 = [p[0] for p in pts], [p[1] for p in pts]
+        return pts if max(xs2) > 0 and min(xs2) < W * S and max(ys2) > 0 and min(ys2) < H * S else None
+
+    for gl in range(-180, 181, 5):                            # faint grid
+        x = xy(gl, 0)[0]
+        if 0 < x < W * S:
+            d.line([(x, 0), (x, H * S)], fill=(255, 255, 255, 12), width=S)
+    for gl in range(-90, 91, 5):
+        y = xy(0, gl)[1]
+        if 0 < y < H * S:
+            d.line([(0, y), (W * S, y)], fill=(255, 255, 255, 12), width=S)
+    for c in data["countries"]:
+        mine = country is not None and c is country
+        for r in c["p"]:
+            pts = visible(r)
+            if pts:
+                d.polygon(pts, fill=(52, 20, 22) if mine and not state else (34, 34, 38),
+                          outline=(95, 95, 104), width=2 * S)
+    if state:
+        for x in data["states"]:
+            if x["a3"] != state["a3"]:
+                continue
+            for r in x["p"]:
+                pts = visible(r)
+                if pts:
+                    d.polygon(pts, fill=(58, 18, 20) if x is state else None, outline=(80, 80, 88), width=S)
+    hl = state or country
+    if hl:                                                    # red outline of the highlighted area
+        for r in hl["p"]:
+            pts = visible(r)
+            if pts:
+                d.line(pts + [pts[0]], fill=RED + (230,), width=4 * S, joint="curve")
+    px, py = xy(lon0, lat0)
+    for rr, a in ((150, 40), (105, 70), (62, 110)):
+        d.ellipse([px - rr * S, py - rr * S, px + rr * S, py + rr * S], outline=RED + (a,), width=5 * S)
+    d.ellipse([px - 24 * S, py - 24 * S, px + 24 * S, py + 24 * S], fill=RED)
+    d.ellipse([px - 9 * S, py - 9 * S, px + 9 * S, py + 9 * S], fill=WHITE)
+    city = str(bg.get("location") or "").split(",")[0].strip().upper()
+    if city:
+        f = font("Poppins-SemiBold.ttf", 34 * S)
+        tw = d.textlength(city, font=f)
+        tx = px + 44 * S if px + 44 * S + tw < W * S - 40 * S else px - 44 * S - tw
+        d.rounded_rectangle([tx - 16 * S, py - 30 * S, tx + tw + 16 * S, py + 30 * S], 10 * S, fill=(0, 0, 0, 170))
+        d.text((tx, py), city, font=f, fill=WHITE, anchor="lm")
+    img = img.resize((W, H), Image.LANCZOS)
+    black = Image.new("RGB", (W, H), BLACK)
+    top = Image.new("L", (1, H), 0)
+    for y in range(300):
+        top.putpixel((0, y), int(200 * (1 - y / 300) ** 1.3))
+    img.paste(black, (0, 0), top.resize((W, H)))              # logo stays readable
+    return img
 
 
 def event_photo(post, exclude=()):
@@ -2463,7 +2633,7 @@ def _choose_background(post, exclude=(), prefer_scene=False):
         place = place_photo(post, exclude) if INCIDENT_PLACE_PHOTO else None
         if place:
             return {"type": "photo", "photos": [place]}
-        return {"type": "incident", "photos": [], "location": str(post.get("location") or "")[:40]}
+        return map_card(post) or {"type": "incident", "photos": [], "location": str(post.get("location") or "")[:40]}
 
     scene = None
     if prefer_scene or post.get("image_style") == "scene" or not found:
@@ -2486,6 +2656,13 @@ def _choose_background(post, exclude=(), prefer_scene=False):
         return {"type": "people", "photos": found}
     if scene:
         return {"type": "photo", "photos": [scene]}
+    if not prefer_scene:
+        place = place_photo(post, exclude)                 # the town, a big city nearby, the state capitol
+        if place:
+            return {"type": "photo", "photos": [place]}
+        m = map_card(post)
+        if m:
+            return m
     if post.get("image_style") == "incident":
         return {"type": "incident", "photos": [], "location": str(post.get("location") or "")[:40]}
     return {"type": "brand", "photos": []}
@@ -2634,6 +2811,8 @@ def render_image(headline, label, sources, bg, hide_headline=False, layout=None)
             full = Image.new("RGB", (W, H), BLACK)
             full.paste(base, (0, 0))
             base = full
+    elif bg.get("type") == "map":
+        base = map_background(bg)
     else:
         base = branded_background()
 
@@ -2676,14 +2855,15 @@ def render_image(headline, label, sources, bg, hide_headline=False, layout=None)
     y = footer_top - 40 - line_h * len(lines)
 
     # --- incident: pin on the globe + location tag ---
-    if bg.get("type") == "incident":
-        px, py = W // 2 + 160 - 120, 520 - 60
-        for rr, a in ((150, 40), (105, 70), (62, 110)):
-            ring = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-            ImageDraw.Draw(ring).ellipse([px - rr, py - rr, px + rr, py + rr], outline=RED + (a,), width=5)
-            base.paste(ring, (0, 0), ring)
-        d.ellipse([px - 24, py - 24, px + 24, py + 24], fill=RED)
-        d.ellipse([px - 9, py - 9, px + 9, py + 9], fill=WHITE)
+    if bg.get("type") in ("incident", "map"):
+        if bg.get("type") == "incident":
+            px, py = W // 2 + 160 - 120, 520 - 60
+            for rr, a in ((150, 40), (105, 70), (62, 110)):
+                ring = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+                ImageDraw.Draw(ring).ellipse([px - rr, py - rr, px + rr, py + rr], outline=RED + (a,), width=5)
+                base.paste(ring, (0, 0), ring)
+            d.ellipse([px - 24, py - 24, px + 24, py + 24], fill=RED)
+            d.ellipse([px - 9, py - 9, px + 9, py + 9], fill=WHITE)
         loc = (bg.get("location") or "").upper()
         if loc:
             tf = font("Poppins-SemiBold.ttf", 30)
@@ -2870,7 +3050,7 @@ def draft_new_posts(state):
             "links": [[i["source"], i["link"]] for i in c["items"][:4]],
             "bg": choose_background(dict(post, news_time=min(i["published"] for i in c["items"]).isoformat())),
             "img_post": {k: post.get(k) for k in ("headline", "people", "image_query", "image_queries", "image_style",
-                                                  "location", "event_query", "news_time")},
+                                                  "location", "nearby_city", "event_query", "news_time", "label")},
             "created_at": now_utc().isoformat(),
             "news_time": min(i["published"] for i in c["items"]).isoformat(),
             "news_latest": max(i["published"] for i in c["items"]).isoformat(),
@@ -2888,7 +3068,7 @@ def draft_new_posts(state):
 
 def has_real_photo(d):
     bg = d.get("bg") or {}
-    return bg.get("type") in ("photo", "people") and bool(bg.get("photos"))
+    return (bg.get("type") in ("photo", "people") and bool(bg.get("photos"))) or bg.get("type") == "map"
 
 
 def auto_today(state):

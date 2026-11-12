@@ -62,7 +62,12 @@ optional PIXABAY_API_KEY / PEXELS_API_KEY / FLICKR_API_KEY. Never print or commi
   blended side by side (no divider lines). One person + place story → place photo + person in a circle.
 - Shootings/bombings/disasters ("incident") → INCIDENT_PLACE_PHOTO: place_photo() = a city view of the location
   ("<city> skyline/downtown/city center/street/square, <rest>", NATURE_WORDS avoided, country-checked); none →
-  brand globe + red pin + 📍 location tag. Never photos of an event (could be an older, different one).
+  map card → brand globe. Never photos of an event (could be an older, different one).
+- No photo chain (all stories): people/event/scene → place_photo (town → Gemini "nearby_city" → "<State> State Capitol")
+  → MAP_CARDS map_card(): Wikipedia geocode of location, must fall in the story's country; map_background() draws
+  assets/map_data.json (Natural Earth 1:50m countries + US/CA/AU states, public domain, rebuilt by rounding coords),
+  country or state highlighted red, pin + city label, 📍 tag. bg type "map" counts as a real image for auto-posting
+  (not for Reels). Only brand/globe drafts wait for the owner.
 - Photo variety: each person gets a pool of ~12 free Commons photos (state["photo_memory"]["pools"], refreshed weekly);
   the last NO_REPEAT_PHOTOS used photos are avoided everywhere; PHOTO_SEARCH_FIX fixes bad place searches (White House).
 - Scene photos rotate through TOPIC_PHOTO_IDEAS (settings) + Gemini "image_queries"; ideas used lately go last.

@@ -123,6 +123,8 @@ STATS_DAYS = 3               # keep updating a post's numbers for this many days
 USE_OPENVERSE = True         # free photo search (Flickr + Wikimedia + more, free licences only, credit kept). No key.
 INCIDENT_PLACE_PHOTO = True  # shootings/crashes/disasters: use a photo of the PLACE (city/landmark) instead of the globe
                              # design. Never a photo of an older, different event.
+MAP_CARDS = True             # no photo at all → the bot draws a news map: the country/state, borders and a red pin on
+                             # the place (Natural Earth map data, public domain). These are auto-posted too.
 STRICT_PHOTO_MATCH = True    # True = a place photo must clearly be from the story's country (checked in the photo's
                              # name, description and categories); photos naming another country are rejected.
                              # No safe photo → the branded globe design instead of a random photo.
