@@ -1,5 +1,5 @@
 {
- "tg_offset": 495892997,
+ "tg_offset": 495893000,
  "drafts": {
   "ad016f743b": {
    "id": "ad016f743b",
@@ -17696,6 +17696,91 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122099800365548584_1177011734832149"
+  },
+  "4d075733c6": {
+   "id": "4d075733c6",
+   "headline": "Gunman kills one and wounds four others in Washington",
+   "summary": "A shooting in Washington, D.C.'s Logan Circle neighborhood left one person dead and four others wounded. Police say the suspect is dead after shooting someone inside a fitness center and barricading himself in a nearby apartment.",
+   "label": "US POLITICS",
+   "hook": "",
+   "key_points": [
+    "PETA deleted a post tying the shooting to a foie gras dinner.",
+    "The suspect barricaded himself in a nearby apartment."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#LoganCircle",
+    "#WashingtonDC",
+    "#News"
+   ],
+   "sources": [
+    "The Hill",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/news/crime/4801795/peta-deletes-post-logan-circle-shooting-foie-gras-controversy/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/crime/4801795/peta-deletes-post-logan-circle-shooting-foie-gras-controversy/"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/crime/4801898/logan-circle-shooter-identity-what-to-know/"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/homenews/state-watch/6217017-dc-logan-circle-shooting-suspect/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://live.staticflickr.com/891/29072747178_ee2a674bd5_b.jpg",
+      "credit": "John Brighenti / Flickr (CC BY 2.0)",
+      "short": "FLICKR"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Gunman kills one and wounds four others in Washington",
+    "people": [],
+    "image_query": "Washington DC street",
+    "image_queries": [
+     "Logan Circle neighborhood",
+     "Washington police department",
+     "fitness center exterior",
+     "Washington apartment building"
+    ],
+    "image_style": "incident",
+    "location": "Washington, DC, US",
+    "nearby_city": "Washington, DC",
+    "event_query": "Logan Circle shooting",
+    "news_time": null,
+    "label": "US POLITICS"
+   },
+   "created_at": "2026-11-12T21:18:11.674751+00:00",
+   "news_time": "2026-11-12T19:45:04+00:00",
+   "news_latest": "2026-11-12T20:35:49+00:00",
+   "caption": "Gunman kills one and wounds four others in Washington\n\nA shooting in Washington, D.C.'s Logan Circle neighborhood left one person dead and four others wounded. Police say the suspect is dead after shooting someone inside a fitness center and barricading himself in a nearby apartment.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#LoganCircle #WashingtonDC #News #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 439,
+   "tg_file_id": "AgACAgUAAxkDAAIBt2r2LRUcPAWieYhwebYNht3KG97sAAIvE2sbFv2wV1-n1xpW26cuAQADAgADdwADPQQ",
+   "extra_msgs": [],
+   "dup_ok": true,
+   "queued_at": "2026-11-12T21:19:05.149259+00:00",
+   "post_now": true,
+   "post_at": "2026-11-12T21:19:09.493425+00:00",
+   "post_label": "🚀 Posting now",
+   "rush": true,
+   "fb_post_id": "1413030521900096_122099805861548584",
+   "posted_at": "2026-11-12T21:19:09.856851+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 12 · 4:19 PM New York · 2:49 AM Sri Lanka\n\n<b>Gunman kills one and wounds four others in Washington</b>\n<i>The Hill, Washington Examiner</i>\n🟢 <b>Latest:</b> 2:05 AM Sri Lanka (43 min ago) · first reported 1:15 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099805861548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 271,
+   "log_photo": true,
+   "cleared": true,
+   "fb_comment_id": "122099805861548584_1130293136398008"
   }
  },
  "seen_links": [
@@ -18439,7 +18524,10 @@
   "https://www.upi.com/Top_News/US/2026/11/12/logan-circle-washington-dc-active-shooter/6221794498066/",
   "https://www.nbcnews.com/video/witness-describes-horrific-scene-at-washington-d-c-gym-shooting-273343045703",
   "https://www.foxnews.com/politics/democrats-turn-schumer-historic-election-wins-potential-challenger-emerges",
-  "https://www.newsweek.com/fetterman-schumer-jeffries-which-democrats-could-face-dsa-primaries-12706073"
+  "https://www.newsweek.com/fetterman-schumer-jeffries-which-democrats-could-face-dsa-primaries-12706073",
+  "https://www.washingtonexaminer.com/news/crime/4801795/peta-deletes-post-logan-circle-shooting-foie-gras-controversy/",
+  "https://www.washingtonexaminer.com/news/crime/4801898/logan-circle-shooter-identity-what-to-know/",
+  "https://thehill.com/homenews/state-watch/6217017-dc-logan-circle-shooting-suspect/"
  ],
  "recent_topics": [
   [
@@ -21443,19 +21531,41 @@
     "win"
    ],
    "4d8b467c55"
+  ],
+  [
+   "2026-11-12T21:18:14.260226+00:00",
+   [
+    "accus",
+    "circl",
+    "controversy",
+    "delet",
+    "foi",
+    "gra",
+    "gunman",
+    "identifi",
+    "identify",
+    "know",
+    "logan",
+    "motiv",
+    "peta",
+    "polic",
+    "post",
+    "potential",
+    "shoot",
+    "shooter",
+    "signal",
+    "tying"
+   ],
+   "4d075733c6"
   ]
  ],
- "last_draft_at": "2026-11-12T21:06:18.083019+00:00",
+ "last_draft_at": "2026-11-12T21:17:46.710751+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T21:05:25.632392+00:00",
  "run_log": [
-  "11-12 19:00:32 run start",
-  "11-12 19:03:28 listening 9 min",
-  "11-12 19:12:11 listening done",
-  "11-12 19:12:11 run end after 699 s",
   "11-12 19:15:20 run start",
   "11-12 19:15:44 listening 11 min",
   "11-12 19:27:05 listening done",
@@ -21491,12 +21601,15 @@
   "11-12 21:05:25 run start",
   "11-12 21:06:36 listening 10 min",
   "11-12 21:17:09 listening done",
-  "11-12 21:17:09 run end after 704 s"
+  "11-12 21:17:09 run end after 704 s",
+  "11-12 21:17:46 run start",
+  "11-12 21:18:14 listening 11 min",
+  "11-12 21:29:30 listening done",
+  "11-12 21:29:30 run end after 704 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/View_of_Port_of_Los_Angeles_with_container_ships.jpg/1920px-View_of_Port_of_Los_Angeles_with_container_ships.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Chris_Van_Hollen_at_DNC_0768_%2828610920815%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0768_%2828610920815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/United_States_Department_of_the_Interior_in_Washington%2C_D.C._celebrated_Women%27s_History_Month_on_8_May_2024_-_12.jpg/1920px-United_States_Department_of_the_Interior_in_Washington%2C_D.C._celebrated_Women%27s_History_Month_on_8_May_2024_-_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/President_Trump_Visits_St._John%27s_Episcopal_Church_%2849963649028%29.jpg/1280px-President_Trump_Visits_St._John%27s_Episcopal_Church_%2849963649028%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -21535,7 +21648,8 @@
    "https://upload.wikimedia.org/wikipedia/commons/5/53/2015-04-28_19_07_27_Computer_server_room_at_the_National_Weather_Service_Weather_Forecast_Office_in_Elko%2C_Nevada_%28NWS_WFO_LKN%29.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Jensen_Huang_-_RTX_5070_Laptop_-_Nvidia_Keynote_-_CES_2025_Las_Vegas.jpg/1280px-Jensen_Huang_-_RTX_5070_Laptop_-_Nvidia_Keynote_-_CES_2025_Las_Vegas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://live.staticflickr.com/7212/7042013351_d8dc4e9c8e_b.jpg",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Senate_Democratic_Leader_Chuck_Schumer_%2850520530381%29_%281%29.jpg/1280px-Senate_Democratic_Leader_Chuck_Schumer_%2850520530381%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Senate_Democratic_Leader_Chuck_Schumer_%2850520530381%29_%281%29.jpg/1280px-Senate_Democratic_Leader_Chuck_Schumer_%2850520530381%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://live.staticflickr.com/891/29072747178_ee2a674bd5_b.jpg"
   ],
   "pools": {
    "donald trump": {
@@ -24868,5 +24982,5 @@
   "2026-11-12": 7
  },
  "last_auto_at": "2026-11-12T21:07:42.249666+00:00",
- "last_post_at": "2026-11-12T21:07:48.064071+00:00"
+ "last_post_at": "2026-11-12T21:19:15.081303+00:00"
 }
