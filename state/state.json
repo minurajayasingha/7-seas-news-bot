@@ -1,60 +1,6 @@
 {
  "tg_offset": 495892958,
  "drafts": {
-  "327e6b6267": {
-   "id": "327e6b6267",
-   "headline": "Kraków shooting suspect remains critical following central square attack",
-   "summary": "A 25-year-old Polish man with far-right views drove into a busy central square in Kraków, Poland. The incident killed six people and injured others before a shootout with police left the suspect in critical condition.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "Suspect is a 25-year-old Polish man with far-right views",
-    "Six people were killed during the attack in Kraków",
-    "Suspect remains in very critical condition after police shootout"
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#Krakow",
-    "#Poland",
-    "#WorldNews"
-   ],
-   "sources": [
-    "Newsweek",
-    "The Independent"
-   ],
-   "link": "https://www.newsweek.com/krakow-shooting-suspect-what-we-know-as-more-victims-discovered-12683092",
-   "links": [
-    [
-     "Newsweek",
-     "https://www.newsweek.com/krakow-shooting-suspect-what-we-know-as-more-victims-discovered-12683092"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/europe/krakow-shooting-poland-suspect-new-identity-b3081096.html"
-    ]
-   ],
-   "bg": {
-    "type": "incident",
-    "photos": [],
-    "location": "Krakow, Poland"
-   },
-   "img_post": {
-    "headline": "Kraków shooting suspect remains critical following central square attack",
-    "people": [],
-    "image_query": "Krakow central square",
-    "image_style": "incident",
-    "location": "Krakow, Poland"
-   },
-   "created_at": "2026-11-08T08:54:24.096061+00:00",
-   "news_time": "2026-11-08T07:11:32+00:00",
-   "news_latest": "2026-11-08T08:37:31+00:00",
-   "caption": "🚨 BREAKING: Kraków shooting suspect remains critical following central square attack\n\nA 25-year-old Polish man with far-right views drove into a busy central square in Kraków, Poland. The incident killed six people and injured others before a shootout with police left the suspect in critical condition.\n\nWhat we know so far:\n• Suspect is a 25-year-old Polish man with far-right views\n• Six people were killed during the attack in Kraków\n• Suspect remains in very critical condition after police shootout\n\n📖 Read more: https://www.newsweek.com/krakow-shooting-suspect-what-we-know-as-more-victims-discovered-12683092\n\n#Krakow #Poland #WorldNews #7SeasNews",
-   "status": "replaced",
-   "tg_message_id": 57,
-   "tg_file_id": "AgACAgUAAxkDAAM5avA4wmVFMyrugv7BuDKOW5FecjsAAowUaxv_D4FXrNDoDpZgeEQBAAMCAAN3AAM9BA",
-   "extra_msgs": [],
-   "cleared": true
-  },
   "80264ac114": {
    "id": "80264ac114",
    "headline": "Kraków shooting suspect remains critical following central square attack",
@@ -17286,36 +17232,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-09T08:45:50.145086+00:00",
-   [
-    "60",
-    "bit",
-    "comment",
-    "didnt",
-    "different",
-    "end",
-    "escalat",
-    "iran",
-    "lik",
-    "likely",
-    "littl",
-    "lot",
-    "minut",
-    "peopl",
-    "reaffirm",
-    "reason",
-    "shap",
-    "support",
-    "tell",
-    "ther",
-    "trump",
-    "ukrain",
-    "vanc",
-    "war"
-   ],
-   "f36e76f9c3"
-  ],
-  [
    "2026-11-09T09:00:43.055472+00:00",
    [
     "blam",
@@ -20651,17 +20567,13 @@
    "f20ccf018a"
   ]
  ],
- "last_draft_at": "2026-11-12T08:30:26.529798+00:00",
+ "last_draft_at": "2026-11-12T08:45:21.135574+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T08:00:30.734825+00:00",
  "run_log": [
-  "11-12 06:15:21 run start",
-  "11-12 06:15:29 listening 11 min",
-  "11-12 06:26:48 listening done",
-  "11-12 06:26:48 run end after 687 s",
   "11-12 06:30:28 run start",
   "11-12 06:30:37 listening 11 min",
   "11-12 06:41:57 listening done",
@@ -20697,7 +20609,11 @@
   "11-12 08:30:26 run start",
   "11-12 08:30:41 listening 11 min",
   "11-12 08:42:00 listening done",
-  "11-12 08:42:00 run end after 694 s"
+  "11-12 08:42:00 run end after 694 s",
+  "11-12 08:45:20 run start",
+  "11-12 08:45:31 listening 11 min",
+  "11-12 08:56:50 listening done",
+  "11-12 08:56:50 run end after 689 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
