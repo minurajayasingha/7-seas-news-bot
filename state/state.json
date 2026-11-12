@@ -17040,25 +17040,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-09T02:00:52.413608+00:00",
-   [
-    "crackdown",
-    "defeat",
-    "deportation",
-    "hurt",
-    "immigration",
-    "loss",
-    "mass",
-    "midterm",
-    "policy",
-    "result",
-    "too",
-    "tough",
-    "trump"
-   ],
-   "34d920aa62"
-  ],
-  [
    "2026-11-09T02:30:42.908496+00:00",
    [
     "back",
@@ -20353,17 +20334,13 @@
    "a805217306"
   ]
  ],
- "last_draft_at": "2026-11-12T01:45:22.007801+00:00",
+ "last_draft_at": "2026-11-12T02:00:48.126646+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-12T01:00:30.598528+00:00",
+ "last_stats_at": "2026-11-12T02:00:28.828200+00:00",
  "run_log": [
-  "11-11 23:40:17 run start",
-  "11-11 23:40:26 listening 11 min",
-  "11-11 23:51:44 listening done",
-  "11-11 23:51:44 run end after 687 s",
   "11-11 23:51:56 run start",
   "11-11 23:52:07 listening 11 min",
   "11-12 00:03:26 listening done",
@@ -20399,7 +20376,11 @@
   "11-12 01:45:21 run start",
   "11-12 01:45:32 listening 11 min",
   "11-12 01:56:52 listening done",
-  "11-12 01:56:52 run end after 690 s"
+  "11-12 01:56:52 run end after 690 s",
+  "11-12 02:00:28 run start",
+  "11-12 02:00:58 listening 11 min",
+  "11-12 02:12:16 listening done",
+  "11-12 02:12:16 run end after 708 s"
  ],
  "day_pack_done": "2026-11-10",
  "photo_memory": {
