@@ -120,7 +120,7 @@ DAY_PACK_SIZE = "9x16"       # images in the daily zip: "9x16" = TikTok size (10
 ASK_QUESTION = "sometimes"
 
 # ---------- Single-story Reels (🎬 Reel button) ----------
-REELS_ENABLED = False        # True = drafts get a 🎬 Reel button: publishes the post AND a short Reel of it
+REELS_ENABLED = True         # True = drafts get a 🎬 Reel button: publishes the post AND a short Reel of it
 REELS_PER_DAY = 3            # max Reels per New York day (more taps → the post is published, no Reel, you're told)
 REEL_SECONDS = 10            # length of each Reel (typing headline → hold → "Follow for more" end card)
 REELS_ONLY_GOOD_PHOTOS = True   # True = 🎬 Reel button only on drafts with a real photo (people/place),
