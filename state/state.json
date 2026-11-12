@@ -16780,6 +16780,69 @@
    "status": "pending",
    "tg_message_id": 420,
    "tg_file_id": "AgACAgUAAxkDAAIBpGr126nXMEtTEZlt-DSdqh3_ECOrAAIUE2sbSxqxV32xmv-JXQEiAQADAgADdwADPQQ"
+  },
+  "b91a3907c5": {
+   "id": "b91a3907c5",
+   "headline": "ICE reports record immigration arrests and deportations in US",
+   "summary": "U.S. Immigration and Customs Enforcement reports a record number of arrests and deportations during a recent 12-month period. Department of Homeland Security figures show more than 483,000 deportations and 491,000 immigration arrests in fiscal year 2026.",
+   "label": "US POLITICS",
+   "hook": "How should immigration enforcement resources be allocated moving forward?",
+   "key_points": [
+    "Over 483,000 deportations recorded",
+    "More than 491,000 immigration arrests",
+    "Data covers fiscal year 2026"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Immigration",
+    "#ICE"
+   ],
+   "sources": [
+    "ABC News",
+    "CBS News"
+   ],
+   "link": "https://abcnews.com/Politics/wireStory/ice-reports-record-high-immigration-arrests-deportations-trumps-138083036",
+   "links": [
+    [
+     "ABC News",
+     "https://abcnews.com/Politics/wireStory/ice-reports-record-high-immigration-arrests-deportations-trumps-138083036"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/news/ice-deportations-arrests-hit-record-high/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/South_Texas%2C_Border_Patrol_Agents%2C_McAllen_Horse_Patrol_Unit_%2811933500215%29.jpg/1920px-South_Texas%2C_Border_Patrol_Agents%2C_McAllen_Horse_Patrol_Unit_%2811933500215%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Customs and Border Protection / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "ICE reports record immigration arrests and deportations in US",
+    "people": [],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Department of Homeland Security",
+     "White House",
+     "US immigration office",
+     "Capitol Hill"
+    ],
+    "image_style": "scene",
+    "location": "United States"
+   },
+   "created_at": "2026-11-12T16:15:50.710363+00:00",
+   "news_time": "2026-11-12T11:00:06+00:00",
+   "news_latest": "2026-11-12T16:05:54+00:00",
+   "caption": "ICE reports record immigration arrests and deportations in US\n\nU.S. Immigration and Customs Enforcement reports a record number of arrests and deportations during a recent 12-month period. Department of Homeland Security figures show more than 483,000 deportations and 491,000 immigration arrests in fiscal year 2026.\n\n💬 How should immigration enforcement resources be allocated moving forward?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Immigration #ICE #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 421,
+   "tg_file_id": "AgACAgUAAxkDAAIBpWr15jm1AVmtpQZoN2MbjLDtUHswAAIkE2sbSxqxV2SLhwZ9ItgvAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -17486,7 +17549,9 @@
   "https://www.dw.com/en/uk-court-convicts-2-iranian-men-of-spying-on-journalists/a-79931583?maca=en-rss-en-world-4025-rdf",
   "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
   "https://www.aljazeera.com/news/2026/11/12/more-than-1800-italian-schools-targeted-by-new-hoax-bomb-alerts?traffic_source=rss",
-  "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+  "https://abcnews.com/Politics/wireStory/ice-reports-record-high-immigration-arrests-deportations-trumps-138083036",
+  "https://www.cbsnews.com/news/ice-deportations-arrests-hit-record-high/"
  ],
  "recent_topics": [
   [
@@ -20792,19 +20857,33 @@
     "violent"
    ],
    "1f289091a0"
+  ],
+  [
+   "2026-11-12T16:15:53.823588+00:00",
+   [
+    "arrest",
+    "deportation",
+    "high",
+    "hit",
+    "hous",
+    "ice",
+    "immigration",
+    "record",
+    "return",
+    "sinc",
+    "trump",
+    "whit"
+   ],
+   "b91a3907c5"
   ]
  ],
- "last_draft_at": "2026-11-12T16:01:13.780895+00:00",
+ "last_draft_at": "2026-11-12T16:15:26.201325+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T16:00:33.904968+00:00",
  "run_log": [
-  "11-12 13:45:22 run start",
-  "11-12 13:47:48 listening 9 min",
-  "11-12 13:57:01 listening done",
-  "11-12 13:57:01 run end after 699 s",
   "11-12 14:00:30 run start",
   "11-12 14:03:20 listening 9 min",
   "11-12 14:12:19 listening done",
@@ -20840,12 +20919,15 @@
   "11-12 16:00:33 run start",
   "11-12 16:01:36 listening 10 min",
   "11-12 16:12:06 listening done",
-  "11-12 16:12:06 run end after 692 s"
+  "11-12 16:12:06 run end after 692 s",
+  "11-12 16:15:25 run start",
+  "11-12 16:15:53 listening 11 min",
+  "11-12 16:27:13 listening done",
+  "11-12 16:27:13 run end after 707 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Warsaw_2023_254_Polish_Flag.jpg/1920px-Warsaw_2023_254_Polish_Flag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Joe_Biden_official_portrait_2013_%28cropped%29_2.jpg/1280px-Joe_Biden_official_portrait_2013_%28cropped%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/US_Capitol_west_side.JPG/1920px-US_Capitol_west_side.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Richard_Ojeda_shirt.jpg/1280px-Richard_Ojeda_shirt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -20884,7 +20966,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Donald_Trump_official_portrait_2020_election.jpg/1280px-Donald_Trump_official_portrait_2020_election.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Bisexual_Pride_flag_over_UK_Government_building_in_Cardiff%2C_2023-09-21.jpg/1920px-Bisexual_Pride_flag_over_UK_Government_building_in_Cardiff%2C_2023-09-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Clock_on_Royal_Courts_of_Justice%2C_London_-_2022-09-10.jpg/1920px-Clock_on_Royal_Courts_of_Justice%2C_London_-_2022-09-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Clock_on_Royal_Courts_of_Justice%2C_London_-_2022-09-10.jpg/1920px-Clock_on_Royal_Courts_of_Justice%2C_London_-_2022-09-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/South_Texas%2C_Border_Patrol_Agents%2C_McAllen_Horse_Patrol_Unit_%2811933500215%29.jpg/1920px-South_Texas%2C_Border_Patrol_Agents%2C_McAllen_Horse_Patrol_Unit_%2811933500215%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -24198,7 +24281,6 @@
    }
   },
   "recent_ideas": [
-   "senate chamber",
    "walhalla, australia",
    "ireland",
    "florida state capitol",
@@ -24209,7 +24291,8 @@
    "china",
    "tehran skyline",
    "uk government building",
-   "royal courts of justice london"
+   "royal courts of justice london",
+   "border patrol, texas"
   ]
  },
  "comment_perm_told": true
