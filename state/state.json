@@ -16424,6 +16424,69 @@
    "status": "pending",
    "tg_message_id": 384,
    "tg_file_id": "AgACAgUAAxkDAAIBgGr1Aonprob7mKa93qtCEKhKg-voAAIsEmsbSxqpVy8YRuFhPGUFAQADAgADdwADPQQ"
+  },
+  "d3669c0f3c": {
+   "id": "d3669c0f3c",
+   "headline": "Republicans push to confirm federal judges as Democrats plan opposition",
+   "summary": "Republicans plan to confirm about two dozen federal judges before losing power in Washington. Meanwhile, congressional Democrats push for efforts to rein in the immigration enforcement operation following the midterm elections.",
+   "label": "US POLITICS",
+   "hook": "Will congressional Democrats succeed in reining in immigration enforcement?",
+   "key_points": [
+    "Republicans intend to confirm about two dozen federal judges.",
+    "Democrats plan to oppose the judicial confirmations.",
+    "Democrats push to rein in immigration enforcement after midterms."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Congress",
+    "#Judges"
+   ],
+   "sources": [
+    "New York Times",
+    "The Guardian"
+   ],
+   "link": "https://www.nytimes.com/2026/11/11/us/politics/trump-federal-judges-senate-republicans.html",
+   "links": [
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/11/us/politics/trump-federal-judges-senate-republicans.html"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/2026/nov/11/democrats-trump-immigration-agenda"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/DEMOCRATIC_NATIONAL_CONVENTION_SECURITY_1076052.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Petty Officer 3rd Class Andrew Shinn U.S. Coast Guard Distri / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Republicans push to confirm federal judges as Democrats plan opposition",
+    "people": [],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "Supreme Court building",
+     "voting booth"
+    ],
+    "image_style": "scene",
+    "location": "Washington, US"
+   },
+   "created_at": "2026-11-12T02:15:36.051963+00:00",
+   "news_time": "2026-11-11T23:42:08+00:00",
+   "news_latest": "2026-11-12T01:28:00+00:00",
+   "caption": "Republicans push to confirm federal judges as Democrats plan opposition\n\nRepublicans plan to confirm about two dozen federal judges before losing power in Washington. Meanwhile, congressional Democrats push for efforts to rein in the immigration enforcement operation following the midterm elections.\n\n💬 Will congressional Democrats succeed in reining in immigration enforcement?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Congress #Judges #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 385,
+   "tg_file_id": "AgACAgUAAxkDAAIBgWr1IU908iG88lRH_1U1ciHIa0RzAAJBEmsbSxqpV1FFjxdQ_HyyAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -17036,7 +17099,9 @@
   "https://www.washingtonexaminer.com/news/campaigns/presidential/4800778/wes-moore-set-release-book-repair/",
   "https://www.washingtonpost.com/politics/2026/11/11/wes-moore-coy-about-2028-presidential-bid-writes-book-healing-nation/",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4800670/this-house-republican-just-lost-reelection-he-plans-to-keep-doing-the-job-for-another-two-years-anyway/",
-  "https://www.washingtonpost.com/elections/2026/11/11/zero-house-democratic-incumbents-lost-republican-midterms/"
+  "https://www.washingtonpost.com/elections/2026/11/11/zero-house-democratic-incumbents-lost-republican-midterms/",
+  "https://www.nytimes.com/2026/11/11/us/politics/trump-federal-judges-senate-republicans.html",
+  "https://www.theguardian.com/us-news/2026/nov/11/democrats-trump-immigration-agenda"
  ],
  "recent_topics": [
   [
@@ -20332,19 +20397,36 @@
     "zero"
    ],
    "a805217306"
+  ],
+  [
+   "2026-11-12T02:15:43.614622+00:00",
+   [
+    "aggressiv",
+    "backlash",
+    "begin",
+    "democrat",
+    "ice",
+    "immigration",
+    "install",
+    "judg",
+    "lame-duck",
+    "push",
+    "raid",
+    "rein",
+    "republican",
+    "trump",
+    "voter"
+   ],
+   "d3669c0f3c"
   ]
  ],
- "last_draft_at": "2026-11-12T02:00:48.126646+00:00",
+ "last_draft_at": "2026-11-12T02:15:22.976318+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T02:00:28.828200+00:00",
  "run_log": [
-  "11-11 23:51:56 run start",
-  "11-11 23:52:07 listening 11 min",
-  "11-12 00:03:26 listening done",
-  "11-12 00:03:26 run end after 690 s",
   "11-12 00:03:41 run start",
   "11-12 00:04:25 listening 11 min",
   "11-12 00:15:19 listening done",
@@ -20380,12 +20462,15 @@
   "11-12 02:00:28 run start",
   "11-12 02:00:58 listening 11 min",
   "11-12 02:12:16 listening done",
-  "11-12 02:12:16 run end after 708 s"
+  "11-12 02:12:16 run end after 708 s",
+  "11-12 02:15:22 run start",
+  "11-12 02:15:43 listening 11 min",
+  "11-12 02:27:01 listening done",
+  "11-12 02:27:01 run end after 699 s"
  ],
  "day_pack_done": "2026-11-10",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/VOA_Director_Michael_Abramowitz_at_2024_RNC_GSozbcQacAAPq9z.jpg/1280px-VOA_Director_Michael_Abramowitz_at_2024_RNC_GSozbcQacAAPq9z.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/9/9f/Lee_Philip_Rudofsky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://upload.wikimedia.org/wikipedia/commons/5/55/Donald_Trump_by_Gage_Skidmore_4_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -20424,7 +20509,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/United_States_Department_of_the_Interior_in_Washington%2C_D.C._celebrated_Women%27s_History_Month_on_8_May_2024_-_12.jpg/1920px-United_States_Department_of_the_Interior_in_Washington%2C_D.C._celebrated_Women%27s_History_Month_on_8_May_2024_-_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/President_Trump_Visits_St._John%27s_Episcopal_Church_%2849963649028%29.jpg/1280px-President_Trump_Visits_St._John%27s_Episcopal_Church_%2849963649028%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Wes_Moore_Official_Governor_Portrait.jpg/1280px-Wes_Moore_Official_Governor_Portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/8/8f/Congressman_Jeff_Van_Drew_%28cropped%292.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/8/8f/Congressman_Jeff_Van_Drew_%28cropped%292.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://upload.wikimedia.org/wikipedia/commons/7/79/DEMOCRATIC_NATIONAL_CONVENTION_SECURITY_1076052.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   ],
   "pools": {
    "donald trump": {
@@ -23390,7 +23476,6 @@
    }
   },
   "recent_ideas": [
-   "early voting, united states",
    "capitol hill",
    "arlington national cemetery",
    "brazil supreme court",
@@ -23401,7 +23486,8 @@
    "uss gerald r. ford",
    "house of representatives chamber",
    "port of los angeles",
-   "department of the interior"
+   "department of the interior",
+   "democratic national convention"
   ]
  },
  "comment_perm_told": true
