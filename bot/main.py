@@ -3315,6 +3315,14 @@ def main():
     if missing:
         print("Missing secrets:", ", ".join(missing))
         sys.exit(1)
+    if not FB_PAGE_ID.isdigit():   # a common mix-up: the token pasted into FB_PAGE_ID
+        print("FB_PAGE_ID is not a number")
+        tg_text("⚠️ <b>The FB_PAGE_ID secret is wrong.</b> It must be your Page's ID (only numbers, e.g. "
+                "1413030521900096), but it looks like something else"
+                + (" — probably the token (it starts with EAA)" if FB_PAGE_ID.startswith("EAA") else "") + ".\n\n"
+                "Fix: GitHub → repo → Settings → Secrets and variables → Actions → FB_PAGE_ID → Update. "
+                "Nothing is posted until it's fixed.")
+        sys.exit(1)
 
     # If GitHub stops the run, turn that into a normal exit so the memory is still saved.
     signal.signal(signal.SIGTERM, lambda *a: sys.exit(143))
