@@ -1,86 +1,6 @@
 {
  "tg_offset": 495892995,
  "drafts": {
-  "ddbd24fcc0": {
-   "id": "ddbd24fcc0",
-   "headline": "Nvidia probes CEO Jensen Huang following Chinese intelligence reports",
-   "summary": "Nvidia's board launched an independent investigation after reports that CEO Jensen Huang was targeted by Chinese intelligence. Huang acknowledged an intimacy with a business executive linked to Beijing's intelligence.",
-   "label": "ECONOMY",
-   "hook": "",
-   "key_points": [
-    "Nvidia board launched an independent investigation",
-    "CEO acknowledged intimacy with a business executive",
-    "US officials warned about Chinese intelligence ties"
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#Nvidia",
-    "#JensenHuang",
-    "#BusinessNews"
-   ],
-   "sources": [
-    "NBC News",
-    "New York Times"
-   ],
-   "link": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-investigation-rcna608148",
-   "links": [
-    [
-     "NBC News",
-     "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-investigation-rcna608148"
-    ],
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html"
-    ],
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Jensen_Huang_-_RTX_5070_Laptop_-_Nvidia_Keynote_-_CES_2025_Las_Vegas.jpg/1280px-Jensen_Huang_-_RTX_5070_Laptop_-_Nvidia_Keynote_-_CES_2025_Las_Vegas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Pronoia / Wikimedia Commons (CC0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Nvidia probes CEO Jensen Huang following Chinese intelligence reports",
-    "people": [
-     "Jensen Huang"
-    ],
-    "image_query": "Nvidia headquarters building",
-    "image_queries": [
-     "Silicon Valley tech campus",
-     "corporate headquarters exterior",
-     "business office building",
-     "financial district skyline"
-    ],
-    "image_style": "person",
-    "location": "US"
-   },
-   "created_at": "2026-11-08T20:42:24.937401+00:00",
-   "news_time": "2026-11-08T20:18:39+00:00",
-   "news_latest": "2026-11-08T20:33:31+00:00",
-   "caption": "🚨 BREAKING: Nvidia probes CEO Jensen Huang following Chinese intelligence reports\n\nNvidia's board launched an independent investigation after reports that CEO Jensen Huang was targeted by Chinese intelligence. Huang acknowledged an intimacy with a business executive linked to Beijing's intelligence.\n\nWhat we know so far:\n• Nvidia board launched an independent investigation\n• CEO acknowledged intimacy with a business executive\n• US officials warned about Chinese intelligence ties\n\n📖 Read more: https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-investigation-rcna608148\n\n#Nvidia #JensenHuang #BusinessNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 133,
-   "tg_file_id": "AgACAgUAAxkDAAOFavDetVL3GQmvUy6_3kFtU0YmOJgAAloVaxv_D4lXzEsW5CxwWR8BAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-09T01:39:08.636807+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122096319357548584",
-   "posted_at": "2026-11-09T01:39:08.975740+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 08 · 8:39 PM New York · 7:09 AM Sri Lanka\n\n<b>Nvidia probes CEO Jensen Huang following Chinese intelligence reports</b>\n<i>NBC News, New York Times</i>\n🔴 <b>Latest:</b> 2:03 AM Sri Lanka (5h 5m ago) · first reported 1:48 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096319357548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 38,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "1167206089339116"
-  },
   "ad016f743b": {
    "id": "ad016f743b",
    "headline": "Trump: Attacks on Iran highly unlikely if talks progress",
@@ -17510,6 +17430,89 @@
    "post_at": "2026-11-12T20:16:03.144115+00:00",
    "post_label": "🤖 Auto-posting",
    "attempts": 3
+  },
+  "91662607da": {
+   "id": "91662607da",
+   "headline": "Tech superstar Jensen Huang faces scandal",
+   "summary": "Tech figure Jensen Huang faces a scandal that has ended his status as an untouchable leader in the global tech race. The Independent reports that a honeytrap scandal involving Huang also relates to Donald Trump.",
+   "label": "ECONOMY",
+   "hook": "How will this scandal impact the global tech race?",
+   "key_points": [
+    "Jensen Huang led the global tech race",
+    "Status as an untouchable figure crumbled within days",
+    "The Independent discusses ties to Donald Trump"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#TechNews",
+    "#JensenHuang",
+    "#WorldNews"
+   ],
+   "sources": [
+    "BBC",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/americas/us-politics/jensen-huang-trump-nvidia-musk-b3083995.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/us-politics/jensen-huang-trump-nvidia-musk-b3083995.html"
+    ],
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Jensen_Huang_-_RTX_5070_Laptop_-_Nvidia_Keynote_-_CES_2025_Las_Vegas.jpg/1280px-Jensen_Huang_-_RTX_5070_Laptop_-_Nvidia_Keynote_-_CES_2025_Las_Vegas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Pronoia / Wikimedia Commons (CC0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Tech superstar Jensen Huang faces scandal",
+    "people": [
+     "Jensen Huang"
+    ],
+    "image_query": "technology headquarters building",
+    "image_queries": [
+     "silicon valley tech office",
+     "global technology center",
+     "computer servers room",
+     "corporate headquarters building"
+    ],
+    "image_style": "person",
+    "location": "",
+    "nearby_city": "",
+    "event_query": "",
+    "news_time": null,
+    "label": "ECONOMY"
+   },
+   "created_at": "2026-11-12T20:42:07.229886+00:00",
+   "news_time": "2026-11-12T17:11:48+00:00",
+   "news_latest": "2026-11-12T19:45:09+00:00",
+   "caption": "Tech superstar Jensen Huang faces scandal\n\nTech figure Jensen Huang faces a scandal that has ended his status as an untouchable leader in the global tech race. The Independent reports that a honeytrap scandal involving Huang also relates to Donald Trump.\n\n💬 How will this scandal impact the global tech race?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#TechNews #JensenHuang #WorldNews #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 436,
+   "tg_file_id": "AgACAgUAAxkDAAIBtGr2JK94UyHsJzhXWF-1cZSV_QSpAAIpE2sbFv2wV6UwM0niGcykAQADAgADdwADPQQ",
+   "queued_at": "2026-11-12T20:42:23.432232+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-12T20:42:23.432241+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122099788383548584",
+   "posted_at": "2026-11-12T20:42:23.746136+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 12 · 3:42 PM New York · 2:12 AM Sri Lanka\n\n<b>Tech superstar Jensen Huang faces scandal</b>\n<i>BBC, The Independent</i>\n🟢 <b>Latest:</b> 1:15 AM Sri Lanka (57 min ago) · first reported 10:41 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099788383548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 268,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122099788383548584_1827587895058835"
   }
  },
  "seen_links": [
@@ -18246,38 +18249,11 @@
   "https://thehill.com/opinion/congress-blog/6214735-advice-new-members-congress/",
   "https://www.upi.com/Top_News/US/2026/11/12/tech-microsoft-outlook/4961794513063/",
   "https://www.independent.co.uk/news/world/americas/microsoft-outlook-down-teams-anthropic-outage-b3084151.html",
-  "https://www.newsweek.com/microsoft-outlook-down-not-working-incident-server-12707459"
+  "https://www.newsweek.com/microsoft-outlook-down-not-working-incident-server-12707459",
+  "https://www.independent.co.uk/news/world/americas/us-politics/jensen-huang-trump-nvidia-musk-b3083995.html",
+  "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss"
  ],
  "recent_topics": [
-  [
-   "2026-11-09T20:45:49.850100+00:00",
-   [
-    "afghan",
-    "blowout",
-    "chang",
-    "congress",
-    "democratic",
-    "deportation",
-    "gop",
-    "hegseth",
-    "impeachment",
-    "lame-duck",
-    "lawmaker",
-    "loom",
-    "loss",
-    "midterm",
-    "next",
-    "protection",
-    "restor",
-    "return",
-    "seek",
-    "sprint",
-    "teas",
-    "vot",
-    "washington"
-   ],
-   "203585998a"
-  ],
   [
    "2026-11-09T21:01:58.426570+00:00",
    [
@@ -21253,19 +21229,34 @@
     "widespread"
    ],
    "223685c186"
+  ],
+  [
+   "2026-11-12T20:42:23.429168+00:00",
+   [
+    "becam",
+    "fall",
+    "honeytrap",
+    "huang",
+    "jensen",
+    "mir",
+    "prov",
+    "ris",
+    "scandal",
+    "superstar",
+    "tech",
+    "thing",
+    "trump"
+   ],
+   "91662607da"
   ]
  ],
- "last_draft_at": "2026-11-12T20:29:52.868704+00:00",
+ "last_draft_at": "2026-11-12T20:41:55.529803+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T20:00:49.207593+00:00",
  "run_log": [
-  "11-12 18:15:23 run start",
-  "11-12 18:17:08 listening 10 min",
-  "11-12 18:27:11 listening done",
-  "11-12 18:27:11 run end after 708 s",
   "11-12 18:30:27 run start",
   "11-12 18:30:47 listening 11 min",
   "11-12 18:42:08 listening done",
@@ -21301,12 +21292,15 @@
   "11-12 20:29:52 run start",
   "11-12 20:29:53 listening 11 min",
   "11-12 20:41:42 listening done",
-  "11-12 20:41:42 run end after 710 s"
+  "11-12 20:41:42 run end after 710 s",
+  "11-12 20:41:55 run start",
+  "11-12 20:43:01 listening 10 min",
+  "11-12 20:53:30 listening done",
+  "11-12 20:53:30 run end after 695 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Pete_Hegseth_%2851772824725%29.jpg/1280px-Pete_Hegseth_%2851772824725%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/House_of_Representatives_Chamber%2C_Idaho_State_Capitol.jpg/1920px-House_of_Representatives_Chamber%2C_Idaho_State_Capitol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Thomas_Massie_%288560522401%29.jpg/1280px-Thomas_Massie_%288560522401%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/View_of_Port_of_Los_Angeles_with_container_ships.jpg/1920px-View_of_Port_of_Los_Angeles_with_container_ships.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -21345,7 +21339,8 @@
    "https://upload.wikimedia.org/wikipedia/commons/f/fb/Germantown_White_House%2C_exterior_%287e7a56bf-1dd8-b71b-0b57-9b70001df804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Spring_Time_at_Arlington_National_Cemetery%2C_Arlington%2C_Virginia_on_April_18%2C_2024_-_39.jpg/1920px-Spring_Time_at_Arlington_National_Cemetery%2C_Arlington%2C_Virginia_on_April_18%2C_2024_-_39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg/1920px-High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/5/53/2015-04-28_19_07_27_Computer_server_room_at_the_National_Weather_Service_Weather_Forecast_Office_in_Elko%2C_Nevada_%28NWS_WFO_LKN%29.jpg"
+   "https://upload.wikimedia.org/wikipedia/commons/5/53/2015-04-28_19_07_27_Computer_server_room_at_the_National_Weather_Service_Weather_Forecast_Office_in_Elko%2C_Nevada_%28NWS_WFO_LKN%29.jpg",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Jensen_Huang_-_RTX_5070_Laptop_-_Nvidia_Keynote_-_CES_2025_Las_Vegas.jpg/1280px-Jensen_Huang_-_RTX_5070_Laptop_-_Nvidia_Keynote_-_CES_2025_Las_Vegas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -24675,7 +24670,8 @@
  },
  "comment_perm_told": true,
  "auto_count": {
-  "2026-11-12": 4
+  "2026-11-12": 5
  },
- "last_auto_at": "2026-11-12T19:06:25.455947+00:00"
+ "last_auto_at": "2026-11-12T20:42:23.746136+00:00",
+ "last_post_at": "2026-11-12T20:42:51.869020+00:00"
 }
