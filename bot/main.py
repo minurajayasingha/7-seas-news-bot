@@ -373,6 +373,33 @@ def stats_report(state):
             f"🔁 {short_num(tot['shares'])}\n\n" + "\n\n".join(rows))
 
 
+def stats_week(state):
+    """Last 7 New York days: how many posts, and how well each post did on average.
+    Compare the days: if more posts → less per post, you post too much."""
+    days = {}
+    for d in state["drafts"].values():
+        if d.get("status") == "posted" and d.get("posted_at"):
+            day = datetime.fromisoformat(d["posted_at"]).astimezone(ZoneInfo("America/New_York")).date()
+            days.setdefault(day, []).append(d.get("stats") or {})
+    if not days:
+        return "📊 No posts yet."
+    rows, have_reach = [], False
+    for day in sorted(days)[-7:]:
+        v = days[day]
+        n = len(v)
+        eng = sum((x.get("likes") or 0) + (x.get("comments") or 0) + (x.get("shares") or 0) for x in v)
+        reach = [x["reach"] for x in v if x.get("reach") is not None]
+        have_reach |= bool(reach)
+        rows.append(f"<b>{day:%a %b %d}</b> · {n} posts\n"
+                    f"    per post: 👍💬🔁 {eng / n:.1f}" + (f" · 👀 {sum(reach) / len(reach):.0f}" if reach else "")
+                    + f"\n    whole day: 👍💬🔁 {eng}" + (f" · 👀 {short_num(sum(reach))}" if reach else ""))
+    return ("📊 <b>Posts per day vs results</b> (New York days)\n\n" + "\n\n".join(rows) +
+            "\n\n<i>How to read it: if days with MORE posts get LESS per post but MORE for the whole day, posting more "
+            "helps. If the whole day stays the same, extra posts only split the same audience — post fewer, better ones. "
+            "Change AUTO_MAX_PER_DAY in settings.py.</i>"
+            + ("" if have_reach else "\n<i>👀 reach isn't available from Facebook yet, so likes+comments+shares are used.</i>"))
+
+
 def tiktok_caption(d):
     """Short caption for TikTok: headline, summary, hashtags (TikTok captions can't have links)."""
     tags = " ".join("#" + re.sub(r"[^A-Za-z0-9_]", "", t) for t in d.get("hashtags", [])[:3]
@@ -878,7 +905,7 @@ def process_telegram(state, wait=0):
                 update_post_stats(state, force=True)
             except Exception as e:
                 log("Stats error:", e)
-            tg_text(stats_report(state))
+            tg_text(stats_week(state) if "week" in text.lower() else stats_report(state))
         elif text.startswith("/status"):
             q = [d for d in state["drafts"].values() if d["status"] == "queued"]
             p = [d for d in state["drafts"].values() if d["status"] == "pending"]
@@ -905,6 +932,7 @@ def process_telegram(state, wait=0):
                     "/channel – link a channel that logs every published post\n"
                     "/tiktok – link a content channel that gets the daily pack (titles + 1 zip file)\n"
                     "/stats – likes, comments and shares of the last 24 hours\n"
+                    "/stats week – posts per day vs likes/reach per post (find the best number of posts)\n"
                     "/status – bot summary")
 
 

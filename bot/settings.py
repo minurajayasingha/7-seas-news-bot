@@ -18,7 +18,8 @@ SOFT = (205, 205, 210)     # small grey text
 AUTO_PUBLISH = True          # True = verified news (MIN_SOURCES outlets) is posted to Facebook by itself.
                              # Telegram shows "🤖 Auto-posting" (↩️ Cancel to stop it), then the log channel gets
                              # the post with a 🗑 Delete button. False = old way: you tap 🚀 Post now / 🕒 Queue.
-AUTO_MAX_PER_DAY = 30        # max auto posts per New York day (more → normal drafts for you to choose)
+AUTO_MAX_PER_DAY = 50        # max auto posts per New York day (more → normal drafts for you to choose).
+                             # Send /stats week to see posts per day vs likes/reach per post and pick the best.
 AUTO_MIN_GAP_MINUTES = 20    # at least this long between auto posts (BREAKING news doesn't wait)
 AUTO_NEEDS_PHOTO = True      # True = only news with a real photo is auto-posted; the rest waits in Telegram for you
                              # (reply with a photo, or 🚀 Post now / ❌ Skip). False = posted with the globe/brand design
@@ -26,7 +27,7 @@ AUTO_REELS = "breaking"      # "breaking" = BREAKING news with a real photo also
                              # "off" = Reels only when you tap 🎬 Reel
 
 # ---------- Space out posts (posts close together get less reach) ----------
-MIN_MINUTES_BETWEEN_POSTS = 30   # every post (🚀 Post now, 🕒 Queue slots, auto) waits until this long after the last
+MIN_MINUTES_BETWEEN_POSTS = 15   # every post (🚀 Post now, 🕒 Queue slots, auto) waits until this long after the last
                                  # one; Telegram tells you the new time. A waiting post has ⚡ Post now anyway.
 BREAKING_SKIPS_GAP = True        # BREAKING news doesn't wait (goes out at once, the others move back)
 AUTO_MAX_WAITING = 2             # max auto posts waiting for their turn; more news → normal drafts for you

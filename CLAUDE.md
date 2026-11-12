@@ -28,7 +28,7 @@ TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, GEMINI_API_KEY, FB_PAGE_ID, FB_PAGE_TOKEN 
 optional PIXABAY_API_KEY / PEXELS_API_KEY / FLICKR_API_KEY. Never print or commit secrets.
 
 ## Telegram UX
-- Spacing: MIN_MINUTES_BETWEEN_POSTS (30) between ALL Facebook posts (state["last_post_at"]). 🚀 Post now / 🎬 Reel /
+- Spacing: MIN_MINUTES_BETWEEN_POSTS (15) between ALL Facebook posts (state["last_post_at"]). 🚀 Post now / 🎬 Reel /
   auto get d["post_at"] = next_free_time() and the button shows "🕒 Posts at … SL · … NY"; 🕒 Queue slot posts wait
   in publish_due (one notice). BREAKING_SKIPS_GAP: breaking posts go at once, then replan_waiting() pushes the others.
   Waiting posts show ⚡ Post now anyway (callback rush:) → d["rush"] = skips the gap, others are re-planned.
@@ -48,7 +48,7 @@ optional PIXABAY_API_KEY / PEXELS_API_KEY / FLICKR_API_KEY. Never print or commi
   callback `from.id` must equal TELEGRAM_CHAT_ID) → DELETE /{post_id} (+ its Reel); stats edits keep the button.
 - Published/skipped/replaced posts are deleted from the bot chat; published ones are logged to a linked channel
   (linked by forwarding a channel message to the bot).
-- Commands: /day /news /queue /status /stats /new /pause /resume /channel /tiktok /help.
+- Commands: /day /news /queue /status /stats (/stats week = posts per day vs results per post) /new /pause /resume /channel /tiktok /help.
 - Post stats: every STATS_EVERY_MINUTES the bot reads reactions/comments/shares (+ reach if the token allows)
   for posts of the last STATS_DAYS and edits the matching log-channel message; /stats = last 24 h ranking.
 - Posts go to the Page Story per SHARE_TO_STORY ("breaking" = only BREAKING posts, "all", "off"). The /tiktok "content channel" gets
