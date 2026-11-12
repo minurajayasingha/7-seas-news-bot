@@ -20,8 +20,8 @@ AUTO_PUBLISH = True          # True = verified news (MIN_SOURCES outlets) is pos
                              # the post with a 🗑 Delete button. False = old way: you tap 🚀 Post now / 🕒 Queue.
 AUTO_MAX_PER_DAY = 30        # max auto posts per New York day (more → normal drafts for you to choose)
 AUTO_MIN_GAP_MINUTES = 20    # at least this long between auto posts (BREAKING news doesn't wait)
-AUTO_NEEDS_PHOTO = False     # True = only news with a real photo is auto-posted (others wait for you);
-                             # False = no photo found → posted with the bot's own design (globe / brand)
+AUTO_NEEDS_PHOTO = True      # True = only news with a real photo is auto-posted; the rest waits in Telegram for you
+                             # (reply with a photo, or 🚀 Post now / ❌ Skip). False = posted with the globe/brand design
 AUTO_REELS = "breaking"      # "breaking" = BREAKING news with a real photo also gets a Reel (needs REELS_ENABLED)
                              # "off" = Reels only when you tap 🎬 Reel
 
@@ -120,6 +120,9 @@ STATS_EVERY_MINUTES = 60     # how often the numbers under published posts are r
 STATS_DAYS = 3               # keep updating a post's numbers for this many days after publishing
 
 # ---------- Photo variety ----------
+USE_OPENVERSE = True         # free photo search (Flickr + Wikimedia + more, free licences only, credit kept). No key.
+INCIDENT_PLACE_PHOTO = True  # shootings/crashes/disasters: use a photo of the PLACE (city/landmark) instead of the globe
+                             # design. Never a photo of an older, different event.
 STRICT_PHOTO_MATCH = True    # True = a place photo must clearly be from the story's country (checked in the photo's
                              # name, description and categories); photos naming another country are rejected.
                              # No safe photo → the branded globe design instead of a random photo.

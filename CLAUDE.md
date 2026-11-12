@@ -17,7 +17,8 @@ Never South Asia news. Real, verified news only: a story needs 2+ different outl
   4. AUTO_PUBLISH (default True): each new draft is auto-queued ("🤖 Auto-posting…", ↩️ Cancel) and published by
      publish_due without a tap — BREAKING at once, others one per AUTO_MIN_GAP_MINUTES, max AUTO_MAX_PER_DAY per NY day
      (state["auto_count"], state["last_auto_at"]). Not auto: manual posts, look-alikes of recent posts, over the limit,
-     no real photo when AUTO_NEEDS_PHOTO. AUTO_REELS="breaking" = BREAKING + real photo also gets a Reel.
+     no real photo when AUTO_NEEDS_PHOTO (default True:
+     brand/globe drafts wait in Telegram with "✋ Not auto-posted: no real photo found"). AUTO_REELS="breaking" = BREAKING + real photo also gets a Reel.
 - Memory is `state/state.json`, committed back by the workflow ("Save bot memory" step
   fetches + resets to origin/main before committing, so code pushes during a run don't break it).
 - **All user settings live in `bot/settings.py`** (colors, feeds, focus words, slots, counts). Prefer editing there.
@@ -59,7 +60,9 @@ optional PIXABAY_API_KEY / PEXELS_API_KEY / FLICKR_API_KEY. Never print or commi
 - Footer: "SOURCES: …" + date; small grey photo credit line only for CC BY licences.
 - People photos only for people named in the headline (Wikipedia page image, free licence only), up to 3,
   blended side by side (no divider lines). One person + place story → place photo + person in a circle.
-- Shootings/bombings/disasters ("incident") → brand globe + red pin + 📍 location tag, no random photos.
+- Shootings/bombings/disasters ("incident") → INCIDENT_PLACE_PHOTO: place_photo() = a city view of the location
+  ("<city> skyline/downtown/city center/street/square, <rest>", NATURE_WORDS avoided, country-checked); none →
+  brand globe + red pin + 📍 location tag. Never photos of an event (could be an older, different one).
 - Photo variety: each person gets a pool of ~12 free Commons photos (state["photo_memory"]["pools"], refreshed weekly);
   the last NO_REPEAT_PHOTOS used photos are avoided everywhere; PHOTO_SEARCH_FIX fixes bad place searches (White House).
 - Scene photos rotate through TOPIC_PHOTO_IDEAS (settings) + Gemini "image_queries"; ideas used lately go last.
@@ -68,7 +71,10 @@ optional PIXABAY_API_KEY / PEXELS_API_KEY / FLICKR_API_KEY. Never print or commi
   FLICKR_LICENSES = CC BY/BY-SA 2.0+4.0, CC0, PD, US Government Work, no known restrictions) / Pexels / Pixabay /
   user's own photos only.
 - Real event photos first: Gemini "event_query" → event_photo() = Flickr uploads since 1 day before the news, country-checked;
-  Flickr is also tried first for scene ideas. Needs FLICKR_API_KEY (else skipped).
+  Flickr is also tried first for scene ideas. Needs FLICKR_API_KEY (Flickr Pro only; not set → skipped).
+- USE_OPENVERSE: openverse_photo() (api.openverse.org, no key, ~15 s, often 504 → one retry; max 2 calls per story,
+  stops after 3 failures per run). Licences by/by-sa/cc0/pdm, JPEG ≥1000 px, words before the comma in title/tags,
+  NOT_A_PLACE_PHOTO skips people/event/vehicle photos (no date filter). wrong_capitol(): no state capitols for Congress.
 - STRICT_PHOTO_MATCH: a place photo must name the story's country (location first, else headline; US POLITICS/ELECTIONS
   = US) in its title/description/categories (Pixabay tags, Pexels alt) and no other country (border photos allowed);
   no safe photo → branded globe. Country words: COUNTRY_WORDS in main.py.

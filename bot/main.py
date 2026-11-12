@@ -2076,6 +2076,105 @@ def flickr_photo(query, exclude=(), countries=(), since=None):
         return None
 
 
+OV_LICENSES = {"by": "CC BY", "by-sa": "CC BY-SA", "cc0": "CC0", "pdm": "Public Domain"}
+OV = {"calls": 0, "fails": 0}           # per story: max 2 searches; per run: stop after 3 failures (service busy)
+NOT_A_PLACE_PHOTO = ("old ", "historic", "postcard", "vintage", "engraving", "painting", "drawing", "map", "lithograph",
+                     "sepia", "diagram", "logo", "flag of", " sign", "chart", "graph", "screenshot", "poster", "cartoon",
+                     "president", "minister", "senator", "governor", "met with", "meets", "meeting", "portrait",
+                     "speech", "press conference", "selfie", "obama", "biden", "bush", "clinton", "reagan", "trump",
+                     "flood", "fire", "crash", "explosion", "shooting", "attack", "damage", "destroyed", "protest",
+                     "train", "express", "locomotive", "tram", "bus ", "aircraft", "airplane", "airliner", "helicopter",
+                     "ship", "vessel", "stamp", "coin", "banknote", "badge", "vehicle", "menu", "food", "museum exhibit")
+# incidents: a calm city view, not a holiday photo
+NATURE_WORDS = ("dam", "lake", "beach", "sunset", "sunrise", "waterfall", "flower", "mountain", "river", "forest",
+                "garden", "park", "valley", "canyon", "sea", "coast", "island", "zoo", "festival", "concert", "wedding")
+
+
+def wrong_capitol(title, query):
+    """A state capitol photo for a US Congress story (e.g. 'Senate chamber' → Minnesota State Capitol)."""
+    return "state capitol" in title.lower() and "state" not in query.lower()
+
+
+def openverse_photo(query, exclude=(), countries=(), avoid=()):
+    """Free-licence photo from Openverse (Flickr, Wikimedia, …). No key. Slow (~15 s), so used at most twice per story.
+    The words before the comma must be in the photo's title/tags; country check like the other sources.
+    Photos of events, damage or people are skipped: Openverse can't filter by date, so an 'event' photo could be
+    an older, different event."""
+    if not USE_OPENVERSE or not query or OV["calls"] >= 2 or OV["fails"] >= 3:
+        return None
+    OV["calls"] += 1
+    must = re.sub(r"[^a-z0-9]+", " ", plain(query.split(",")[0]).lower()).strip()
+    try:
+        for attempt in (1, 2):                  # the service often answers "busy" (504) once, then works
+            r = HTTP.get("https://api.openverse.org/v1/images/", headers=WIKI_HEADERS, timeout=35, params={
+                "q": query.replace(",", " ")[:190], "license": ",".join(OV_LICENSES), "page_size": 20, "mature": "false"})
+            if r.status_code not in (502, 503, 504):
+                break
+            time.sleep(2)
+        if r.status_code != 200:
+            OV["fails"] += 1
+            log("Openverse busy:", r.status_code)
+            return None
+        rec, cands = recent_photos(), []
+        for rank, x in enumerate(r.json().get("results", [])):
+            url = x.get("url") or ""
+            if not url or url in exclude or not url.lower().split("?")[0].endswith((".jpg", ".jpeg")):
+                continue
+            if (x.get("width") or 0) < 1000 or (x.get("height") or 0) < 600 or x.get("mature"):
+                continue
+            title = plain(x.get("title") or "").lower()
+            about = " ".join([title] + [t.get("name", "") for t in x.get("tags") or []])
+            t = " " + re.sub(r"[^a-z0-9]+", " ", about.lower()) + " "
+            if not has_words(t, must) or not place_ok(about, countries):
+                continue
+            if re.search(r"(?<!\d)(1[0-8]\d\d|19[0-8]\d)(?!\d)", title) or any(w in f" {title}" for w in NOT_A_PLACE_PHOTO) \
+                    or has_any_word(t, avoid) or wrong_capitol(title, query):
+                continue
+            score = (20 if f" {must} " in f" {re.sub(r'[^a-z0-9]+', ' ', title)} " else 5) + max(0, 20 - rank) \
+                - (60 if url in rec else 0)
+            lic = OV_LICENSES.get(x.get("license"), "")
+            if lic.startswith("CC BY") and x.get("license_version"):
+                lic += f" {x['license_version']}"
+            src = {"flickr": "Flickr", "wikimedia": "Wikimedia Commons"}.get(x.get("source"), str(x.get("source") or "Openverse").title())
+            cands.append((score, {"url": url, "credit": f"{x.get('creator') or 'Unknown'} / {src} ({lic})",
+                                  "short": src.upper()}))
+        good = []
+        for score, c in sorted(cands, key=lambda z: -z[0])[:4]:      # look at the best few
+            q = photo_quality(c["url"])
+            if q >= 0:
+                good.append((score + q * 0.5, c))
+        if not good:
+            return None
+        good.sort(key=lambda z: -z[0])
+        return random.choice([c for sc, c in good[:3] if sc >= good[0][0] - 15])
+    except Exception as e:
+        OV["fails"] += 1
+        log("Openverse failed:", e)
+        return None
+
+
+def has_any_word(text, words):
+    return any(re.search(r"(?<![a-z])" + re.escape(w) + r"(?![a-z])", text.lower()) for w in words)
+
+
+def place_photo(post, exclude=()):
+    """A photo of the place where it happened (for incidents): a city view (skyline, downtown, streets) in the
+    right country. Never an event photo, never nature/holiday pictures."""
+    loc = str(post.get("location") or "").strip()
+    if not loc:
+        return None
+    countries = story_countries(post)
+    city, rest = loc.split(",")[0].strip(), ", ".join(x.strip() for x in loc.split(",")[1:])
+    tail = f", {rest}" if rest else ""
+    for q in dict.fromkeys([f"{city} skyline{tail}", f"{city} downtown{tail}", f"{city} city center{tail}",
+                                f"{city} street{tail}", f"{city} square{tail}"]):
+        p = openverse_photo(q, exclude, countries, avoid=NATURE_WORDS) or \
+            wiki_search_photo(q, exclude, countries, avoid=NATURE_WORDS)
+        if p:
+            return p
+    return None
+
+
 def event_photo(post, exclude=()):
     """A real photo of THIS event (Flickr, uploaded since shortly before the news)."""
     q = str(post.get("event_query") or "").strip()
@@ -2240,7 +2339,7 @@ def photo_quality(url):
         return 0
 
 
-def wiki_search_photo(query, exclude=(), countries=()):
+def wiki_search_photo(query, exclude=(), countries=(), avoid=()):
     """Best free-licensed photo from Wikimedia Commons. No key needed.
     Looks at 'Quality images' first, skips old/black-and-white pictures, checks colour and sharpness."""
     if not query:
@@ -2277,7 +2376,8 @@ def wiki_search_photo(query, exclude=(), countries=()):
                     w in title for w in ("old ", "historic", "postcard", "vintage", "engraving", "painting",
                                          "drawing", "map", "lithograph", "sepia", "diagram", "logo", "flag of",
                                          " sign", "sign.", "closure", "chart", "graph", "screenshot", "poster",
-                                         "obama", "biden", "bush", "clinton", "reagan", "speech by", "meeting with")):
+                                         "obama", "biden", "bush", "clinton", "reagan", "speech by", "meeting with")) \
+                    or wrong_capitol(title, query) or has_any_word(re.sub(r"[^a-z]+", " ", title), avoid):
                 continue
             yr = re.search(r"(1[89]\d\d|20\d\d)", clean_html(meta.get("DateTimeOriginal", {}).get("value", "")))
             year = int(yr.group(1)) if yr else 0
@@ -2348,6 +2448,7 @@ def photo_ideas(post):
 def _choose_background(post, exclude=(), prefer_scene=False):
     """1) photos of the people in the story  2) best matching photo  3) brand design.
     prefer_scene=True is used by the 🔄 Other photo button."""
+    OV["calls"] = 0
     found = [x for x in (wiki_person_photo(p, exclude) for p in person_names_in_headline(post)) if x]
 
     real = event_photo(post, exclude)          # a real photo of the event itself beats everything else
@@ -2358,7 +2459,10 @@ def _choose_background(post, exclude=(), prefer_scene=False):
         return {"type": "photo", "photos": [real]}
 
     if post.get("image_style") == "incident" and not found and not prefer_scene:
-        # no random photos for shootings/bombings: strong news design with a location tag
+        # no random photos for shootings/bombings: a photo of the place, else strong news design with a location tag
+        place = place_photo(post, exclude) if INCIDENT_PLACE_PHOTO else None
+        if place:
+            return {"type": "photo", "photos": [place]}
         return {"type": "incident", "photos": [], "location": str(post.get("location") or "")[:40]}
 
     scene = None
@@ -2368,7 +2472,8 @@ def _choose_background(post, exclude=(), prefer_scene=False):
         countries = story_countries(post)
         for q in dict.fromkeys(tries):
             if q:
-                scene = (flickr_photo(q, exclude, countries) or pexels_photo(q, exclude, countries)
+                scene = (flickr_photo(q, exclude, countries) or openverse_photo(q, exclude, countries)
+                         or pexels_photo(q, exclude, countries)
                          or pixabay_photo(q, exclude, countries) or wiki_search_photo(q, exclude, countries))
             if scene:
                 PHOTO_MEM["recent_ideas"] = (PHOTO_MEM.get("recent_ideas", []) + [q.lower()])[-12:]
