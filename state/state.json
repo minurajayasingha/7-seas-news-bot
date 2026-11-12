@@ -16440,6 +16440,69 @@
    "status": "pending",
    "tg_message_id": 405,
    "tg_file_id": "AgACAgUAAxkDAAIBlWr1re4GmXTLp-aIXS7yrS_VQjEMAAKdE2sbSxqpVwwCirp_N3bTAQADAgADdwADPQQ"
+  },
+  "59deeaae7f": {
+   "id": "59deeaae7f",
+   "headline": "Spain ratifies housing measures after protests and arrests",
+   "summary": "Spain's interim lower house of parliament ratified housing measures to limit evictions and speculation. The action followed protests involving more than 3 million people and resulting in at least 115 arrests nationwide.",
+   "label": "WORLD",
+   "hook": "Will these new housing measures remain in place after the upcoming election?",
+   "key_points": [
+    "Spain ratified new housing measures",
+    "Over 3 million people joined protests",
+    "At least 115 arrests occurred nationwide"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Spain",
+    "#Housing",
+    "#WorldNews"
+   ],
+   "sources": [
+    "ABC News",
+    "The Independent"
+   ],
+   "link": "https://abcnews.com/International/wireStory/spain-approves-housing-measures-after-huge-protests-duration-138074427",
+   "links": [
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/spain-approves-housing-measures-after-huge-protests-duration-138074427"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/europe/spain-housing-protests-madrid-barcelona-b3083749.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Spanish_Parliament_building_.jpg/1920px-Spanish_Parliament_building_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Emnamizouni / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Spain ratifies housing measures after protests and arrests",
+    "people": [],
+    "image_query": "Spanish parliament building",
+    "image_queries": [
+     "Madrid street protest",
+     "Housing apartment buildings",
+     "Spanish flag",
+     "Government building Madrid"
+    ],
+    "image_style": "scene",
+    "location": "Spain"
+   },
+   "created_at": "2026-11-12T12:30:45.091410+00:00",
+   "news_time": "2026-11-12T10:28:12+00:00",
+   "news_latest": "2026-11-12T12:26:55+00:00",
+   "caption": "Spain ratifies housing measures after protests and arrests\n\nSpain's interim lower house of parliament ratified housing measures to limit evictions and speculation. The action followed protests involving more than 3 million people and resulting in at least 115 arrests nationwide.\n\n💬 Will these new housing measures remain in place after the upcoming election?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Spain #Housing #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 406,
+   "tg_file_id": "AgACAgUAAxkDAAIBlmr1sYdq8SGpknlbIAkTb15pF-mjAAKiE2sbSxqpV7VXImCBB5VoAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -17112,44 +17175,11 @@
   "https://www.france24.com/en/video/20261112-european-leaders-gather-in-dublin-to-discuss-ukraine-s-security-and-their-own",
   "https://www.newsweek.com/europes-leaders-gather-after-weeks-of-bomb-threats-cyberattacks-12698209",
   "https://thehill.com/opinion/national-security/6213751-witkoff-kushner-outplayed-russia/",
-  "https://www.washingtonexaminer.com/news/senate/4800633/el-sayed-trump-medicare-for-all-political-trap/"
+  "https://www.washingtonexaminer.com/news/senate/4800633/el-sayed-trump-medicare-for-all-political-trap/",
+  "https://abcnews.com/International/wireStory/spain-approves-housing-measures-after-huge-protests-duration-138074427",
+  "https://www.independent.co.uk/news/world/europe/spain-housing-protests-madrid-barcelona-b3083749.html"
  ],
  "recent_topics": [
-  [
-   "2026-11-09T12:30:47.969758+00:00",
-   [
-    "admit",
-    "backhand",
-    "begin",
-    "berni",
-    "compliment",
-    "era",
-    "get",
-    "hous",
-    "immigration",
-    "miller",
-    "mistak",
-    "sander",
-    "stephen",
-    "trump",
-    "viciou",
-    "whit"
-   ],
-   "bb11b4cdb5"
-  ],
-  [
-   "2026-11-09T12:30:50.744165+00:00",
-   [
-    "die",
-    "died",
-    "hospital",
-    "krakow",
-    "polic",
-    "shoot",
-    "suspect"
-   ],
-   "4117d50a81"
-  ],
   [
    "2026-11-09T12:45:51.571529+00:00",
    [
@@ -20568,19 +20598,35 @@
     "ukrain"
    ],
    "85c1caff13"
+  ],
+  [
+   "2026-11-12T12:31:03.535708+00:00",
+   [
+    "approv",
+    "depend",
+    "duration",
+    "election",
+    "hous",
+    "hug",
+    "measur",
+    "million",
+    "protest",
+    "spain",
+    "street",
+    "tak",
+    "turn",
+    "ugly"
+   ],
+   "59deeaae7f"
   ]
  ],
- "last_draft_at": "2026-11-12T12:15:22.384054+00:00",
+ "last_draft_at": "2026-11-12T12:30:28.721787+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T12:00:29.131864+00:00",
  "run_log": [
-  "11-12 10:00:35 run start",
-  "11-12 10:01:26 listening 11 min",
-  "11-12 10:12:20 listening done",
-  "11-12 10:12:20 run end after 704 s",
   "11-12 10:15:23 run start",
   "11-12 10:15:36 listening 11 min",
   "11-12 10:26:54 listening done",
@@ -20616,12 +20662,15 @@
   "11-12 12:15:21 run start",
   "11-12 12:15:58 listening 11 min",
   "11-12 12:26:52 listening done",
-  "11-12 12:26:52 run end after 690 s"
+  "11-12 12:26:52 run end after 690 s",
+  "11-12 12:30:28 run start",
+  "11-12 12:31:03 listening 11 min",
+  "11-12 12:41:57 listening done",
+  "11-12 12:41:57 run end after 688 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Iowa_Senate_chamber_03.jpg/1920px-Iowa_Senate_chamber_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/5/5c/Iowa_City%2C_IA_-_Early_Voting_Automobile_Queue_October_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg/1920px-High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Spring_Time_at_Arlington_National_Cemetery%2C_Arlington%2C_Virginia_on_April_18%2C_2024_-_25.jpg/1920px-Spring_Time_at_Arlington_National_Cemetery%2C_Arlington%2C_Virginia_on_April_18%2C_2024_-_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -20660,7 +20709,8 @@
    "https://upload.wikimedia.org/wikipedia/commons/4/41/New_Year%27s_Eve_from_President_of_Ukraine_Volodymyr_Zelensky_%2831-12-2025%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Sviatlana_Tsikhanouskaya_in_2025_%28cropped%29.jpg/1280px-Sviatlana_Tsikhanouskaya_in_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/f/f2/Scott_Colom_2_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Government_Buildings%2C_Dublin%2C_Ireland.jpg/1920px-Government_Buildings%2C_Dublin%2C_Ireland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Government_Buildings%2C_Dublin%2C_Ireland.jpg/1920px-Government_Buildings%2C_Dublin%2C_Ireland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Spanish_Parliament_building_.jpg/1920px-Spanish_Parliament_building_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -23910,7 +23960,6 @@
    }
   },
   "recent_ideas": [
-   "house of representatives chamber",
    "port of los angeles",
    "department of the interior",
    "democratic national convention",
@@ -23921,7 +23970,8 @@
    "florida state capitol",
    "saint basil's cathedral",
    "united states capitol rotunda",
-   "dublin, ireland"
+   "dublin, ireland",
+   "spanish parliament building"
   ]
  },
  "comment_perm_told": true
