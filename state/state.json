@@ -16521,6 +16521,132 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true
+  },
+  "e8d0b12d49": {
+   "id": "e8d0b12d49",
+   "headline": "Historic ocean liner SS United States sinks off Florida coast",
+   "summary": "The historic ocean liner SS United States is sinking off the coast of Florida to become the world's largest artificial ocean reef. Activists previously fought to preserve the vessel as a museum, while its history includes presidents, royalty, and Hollywood stars.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "The SS United States is sinking off Florida.",
+    "It will become the world's largest artificial ocean reef.",
+    "Past passengers included presidents, royalty, and Hollywood stars."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#SSUnitedStates",
+    "#Florida",
+    "#OceanReef"
+   ],
+   "sources": [
+    "BBC",
+    "Newsweek"
+   ],
+   "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+   "links": [
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "Newsweek",
+     "https://www.newsweek.com/ss-united-states-sinking-off-florida-coast-list-of-famous-passengers-12702113"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/USS_Oriskany_Ship_Wreck_Artificial_Reef_Dive_Underwater.jpg/1920px-USS_Oriskany_Ship_Wreck_Artificial_Reef_Dive_Underwater.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Greg Grimes / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Historic ocean liner SS United States sinks off Florida coast",
+    "people": [],
+    "image_query": "Florida coastline",
+    "image_queries": [
+     "ocean liner ship",
+     "artificial reef underwater",
+     "historic ship",
+     "Gulf of Mexico"
+    ],
+    "image_style": "scene",
+    "location": "Florida, US"
+   },
+   "created_at": "2026-11-12T04:12:34.488535+00:00",
+   "news_time": "2026-11-12T03:50:01+00:00",
+   "news_latest": "2026-11-12T04:03:13+00:00",
+   "caption": "🚨 BREAKING: Historic ocean liner SS United States sinks off Florida coast\n\nThe historic ocean liner SS United States is sinking off the coast of Florida to become the world's largest artificial ocean reef. Activists previously fought to preserve the vessel as a museum, while its history includes presidents, royalty, and Hollywood stars.\n\nWhat we know so far:\n• The SS United States is sinking off Florida.\n• It will become the world's largest artificial ocean reef.\n• Past passengers included presidents, royalty, and Hollywood stars.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#SSUnitedStates #Florida #OceanReef #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 387,
+   "tg_file_id": "AgACAgUAAxkDAAIBg2r1PL-IsIsL_E3WDj_7uK-jppnIAAKjEmsbSxqpV525Qwc4_tUPAQADAgADdwADPQQ"
+  },
+  "b8d28f9c3e": {
+   "id": "b8d28f9c3e",
+   "headline": "Department of Justice addresses inquiry into White House ballroom project",
+   "summary": "A Department of Justice attorney expressed concern over an investigation into the White House ballroom project led by Sen. Richard Blumenthal. The White House also informed congressional Democrats that administration investigations could constitute a crime.",
+   "label": "US POLITICS",
+   "hook": "Should congressional investigations into administration projects face legal challenges?",
+   "key_points": [
+    "DOJ attorney expressed concern over Sen. Richard Blumenthal's inquiry",
+    "Blumenthal is probing people who donated funds to the project",
+    "White House told congressional Democrats that investigations could be a crime"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#WhiteHouse",
+    "#Congress"
+   ],
+   "sources": [
+    "NBC News",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/news/senate/4801017/doj-blumenthal-ballroom-investigation-threat-trump/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/senate/4801017/doj-blumenthal-ballroom-investigation-threat-trump/"
+    ],
+    [
+     "NBC News",
+     "https://www.nbcnews.com/politics/trump-administration/us-attorney-demands-sen-richard-blumenthal-preserve-documents-inquiry-rcna608899"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Iowa_Senate_chamber_01.jpg/1920px-Iowa_Senate_chamber_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Thesavagenorwegian / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Department of Justice addresses inquiry into White House ballroom project",
+    "people": [],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Senate chamber",
+     "White House",
+     "Capitol Hill",
+     "Department of Justice building"
+    ],
+    "image_style": "person",
+    "location": "US"
+   },
+   "created_at": "2026-11-12T04:12:55.375846+00:00",
+   "news_time": "2026-11-12T02:11:21+00:00",
+   "news_latest": "2026-11-12T04:02:33+00:00",
+   "caption": "Department of Justice addresses inquiry into White House ballroom project\n\nA Department of Justice attorney expressed concern over an investigation into the White House ballroom project led by Sen. Richard Blumenthal. The White House also informed congressional Democrats that administration investigations could constitute a crime.\n\n💬 Should congressional investigations into administration projects face legal challenges?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #WhiteHouse #Congress #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 388,
+   "tg_file_id": "AgACAgUAAxkDAAIBhGr1PMmFKa2XX0GD6M9fXCFAiugQAAKkEmsbSxqpVyC_3kx3aMkOAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -17135,7 +17261,11 @@
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4800670/this-house-republican-just-lost-reelection-he-plans-to-keep-doing-the-job-for-another-two-years-anyway/",
   "https://www.washingtonpost.com/elections/2026/11/11/zero-house-democratic-incumbents-lost-republican-midterms/",
   "https://www.nytimes.com/2026/11/11/us/politics/trump-federal-judges-senate-republicans.html",
-  "https://www.theguardian.com/us-news/2026/nov/11/democrats-trump-immigration-agenda"
+  "https://www.theguardian.com/us-news/2026/nov/11/democrats-trump-immigration-agenda",
+  "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+  "https://www.newsweek.com/ss-united-states-sinking-off-florida-coast-list-of-famous-passengers-12702113",
+  "https://www.washingtonexaminer.com/news/senate/4801017/doj-blumenthal-ballroom-investigation-threat-trump/",
+  "https://www.nbcnews.com/politics/trump-administration/us-attorney-demands-sen-richard-blumenthal-preserve-documents-inquiry-rcna608899"
  ],
  "recent_topics": [
   [
@@ -20403,19 +20533,52 @@
     "voter"
    ],
    "d3669c0f3c"
+  ],
+  [
+   "2026-11-12T04:12:47.492529+00:00",
+   [
+    "coast",
+    "fam",
+    "famou",
+    "florida",
+    "list",
+    "passenger",
+    "ship",
+    "sink",
+    "stat",
+    "sunk",
+    "unit"
+   ],
+   "e8d0b12d49"
+  ],
+  [
+   "2026-11-12T04:12:58.128723+00:00",
+   [
+    "ballroom",
+    "blumenthal",
+    "document",
+    "doj",
+    "fram",
+    "inquiry",
+    "investigation",
+    "order",
+    "preserv",
+    "richard",
+    "sen",
+    "supporter",
+    "threat",
+    "trump"
+   ],
+   "b8d28f9c3e"
   ]
  ],
- "last_draft_at": "2026-11-12T04:01:02.049971+00:00",
+ "last_draft_at": "2026-11-12T04:12:20.080913+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T04:00:30.838546+00:00",
  "run_log": [
-  "11-12 01:45:21 run start",
-  "11-12 01:45:32 listening 11 min",
-  "11-12 01:56:52 listening done",
-  "11-12 01:56:52 run end after 690 s",
   "11-12 02:00:28 run start",
   "11-12 02:00:58 listening 11 min",
   "11-12 02:12:16 listening done",
@@ -20451,13 +20614,15 @@
   "11-12 04:00:30 run start",
   "11-12 04:01:10 listening 11 min",
   "11-12 04:12:05 listening done",
-  "11-12 04:12:05 run end after 695 s"
+  "11-12 04:12:05 run end after 695 s",
+  "11-12 04:12:19 run start",
+  "11-12 04:12:58 listening 11 min",
+  "11-12 04:23:52 listening done",
+  "11-12 04:23:52 run end after 692 s"
  ],
  "day_pack_done": "2026-11-10",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/9/9f/Lee_Philip_Rudofsky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://upload.wikimedia.org/wikipedia/commons/5/55/Donald_Trump_by_Gage_Skidmore_4_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Ben_Ferguson_in_About_Time.jpg/1280px-Ben_Ferguson_in_About_Time.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -20495,7 +20660,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/President_Trump_Visits_St._John%27s_Episcopal_Church_%2849963649028%29.jpg/1280px-President_Trump_Visits_St._John%27s_Episcopal_Church_%2849963649028%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Wes_Moore_Official_Governor_Portrait.jpg/1280px-Wes_Moore_Official_Governor_Portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/8/8f/Congressman_Jeff_Van_Drew_%28cropped%292.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://upload.wikimedia.org/wikipedia/commons/7/79/DEMOCRATIC_NATIONAL_CONVENTION_SECURITY_1076052.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/7/79/DEMOCRATIC_NATIONAL_CONVENTION_SECURITY_1076052.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/USS_Oriskany_Ship_Wreck_Artificial_Reef_Dive_Underwater.jpg/1920px-USS_Oriskany_Ship_Wreck_Artificial_Reef_Dive_Underwater.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Iowa_Senate_chamber_01.jpg/1920px-Iowa_Senate_chamber_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -23461,8 +23628,6 @@
    }
   },
   "recent_ideas": [
-   "capitol hill",
-   "arlington national cemetery",
    "brazil supreme court",
    "warsaw monument",
    "polish flag",
@@ -23472,7 +23637,9 @@
    "house of representatives chamber",
    "port of los angeles",
    "department of the interior",
-   "democratic national convention"
+   "democratic national convention",
+   "artificial reef underwater",
+   "senate chamber"
   ]
  },
  "comment_perm_told": true
