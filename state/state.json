@@ -1,204 +1,6 @@
 {
  "tg_offset": 495892960,
  "drafts": {
-  "f7216b033c": {
-   "id": "f7216b033c",
-   "headline": "Gaza flood: Heavy rain inundates thousands of displaced tents",
-   "summary": "Heavy rainfall floods thousands of tents sheltering displaced Palestinians across the Gaza Strip, including Deir al-Balah. Overflowing sewage mixes with floodwater while Israeli restrictions on aid hamper the response.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "Heavy rain floods tents sheltering displaced Palestinians in Gaza.",
-    "Overflowing sewage mixes with floodwater in Deir al-Balah.",
-    "Israeli restrictions on aid hamper the response."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Gaza",
-    "#WorldNews",
-    "#Weather"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "France 24"
-   ],
-   "link": "https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents",
-   "links": [
-    [
-     "France 24",
-     "https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/gallery/2026/11/8/photos-heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza?traffic_source=rss"
-    ]
-   ],
-   "bg": {
-    "type": "incident",
-    "photos": [],
-    "location": "Gaza"
-   },
-   "img_post": {
-    "headline": "Gaza flood: Heavy rain inundates thousands of displaced tents",
-    "people": [],
-    "image_query": "Gaza Strip tents",
-    "image_style": "incident",
-    "location": "Gaza"
-   },
-   "created_at": "2026-11-08T10:01:00.851039+00:00",
-   "news_time": "2026-11-08T06:55:24+00:00",
-   "news_latest": "2026-11-08T09:42:03+00:00",
-   "caption": "Gaza flood: Heavy rain inundates thousands of displaced tents\n\nHeavy rainfall floods thousands of tents sheltering displaced Palestinians across the Gaza Strip, including Deir al-Balah. Overflowing sewage mixes with floodwater while Israeli restrictions on aid hamper the response.\n\n📖 Read more: https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents\n\n#Gaza #WorldNews #Weather #7SeasNews",
-   "status": "replaced",
-   "tg_message_id": 75,
-   "tg_file_id": "AgACAgUAAxkDAANLavBIX3Ie7rx2Et8CDrKISAQ3BgIAAqwUaxv_D4FXe9zXKdyWZmUBAAMCAAN3AAM9BA",
-   "extra_msgs": [],
-   "cleared": true
-  },
-  "8d7105dd99": {
-   "id": "8d7105dd99",
-   "headline": "Krakow market square shooting leaves six dead including Briton",
-   "summary": "A 25-year-old Polish citizen opened fire in Krakow's main square, killing six people and injuring 16. Authorities stated the suspect held far-right views, and three additional bodies were later found at his home.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "Six people killed in Krakow market square shooting",
-    "A British national among the victims",
-    "Suspect held ultra-nationalistic views, minister says"
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#Krakow",
-    "#Poland",
-    "#WorldNews"
-   ],
-   "sources": [
-    "BBC",
-    "Newsweek",
-    "The Guardian",
-    "The Independent"
-   ],
-   "link": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
-   "links": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/europe/krakow-shooting-poland-live-updates-main-square-b3081004.html"
-    ],
-    [
-     "BBC",
-     "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/europe/krakow-shooting-poland-gunman-news-b3081022.html"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "tg_file_id": "AgACAgUAAxkBAANMavBIoTClHFoK7esiCFTIzLsVlUEAAq4Uaxv_D4FXnMvPOFykRNIBAAMCAAN5AAM9BA",
-      "credit": ""
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Krakow market square shooting leaves six dead including Briton",
-    "people": [],
-    "image_query": "Krakow market square",
-    "image_style": "incident",
-    "location": "Krakow, Poland"
-   },
-   "created_at": "2026-11-08T10:02:10.117215+00:00",
-   "news_time": "2026-11-08T07:11:32+00:00",
-   "news_latest": "2026-11-08T09:09:35+00:00",
-   "caption": "🚨 BREAKING: Krakow market square shooting leaves six dead including Briton\n\nA 25-year-old Polish citizen opened fire in Krakow's main square, killing six people and injuring 16. Authorities stated the suspect held far-right views, and three additional bodies were later found at his home.\n\nWhat we know so far:\n• Six people killed in Krakow market square shooting\n• A British national among the victims\n• Suspect held ultra-nationalistic views, minister says\n\n📖 Read more: https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman\n\n#Krakow #Poland #WorldNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 77,
-   "tg_file_id": "AgACAgUAAxkDAANNavBIppFhdBkQnJycVt6T9gmwuNAAAq8Uaxv_D4FXKk8OCLKv_dcBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-08T10:02:24.862919+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122095869897548584",
-   "posted_at": "2026-11-08T10:02:25.162459+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 08 · 5:02 AM New York · 3:32 PM Sri Lanka\n\n<b>Krakow market square shooting leaves six dead including Briton</b>\n<i>BBC, Newsweek, The Guardian, The Independent</i>\n🟢 <b>Latest:</b> 2:39 PM Sri Lanka (52 min ago) · first reported 12:41 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122095869897548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 14,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "29098337433153793"
-  },
-  "14132bedd1": {
-   "id": "14132bedd1",
-   "headline": "Gaza flood: Heavy rain inundates thousands of displaced tents",
-   "summary": "Heavy rainfall floods thousands of tents sheltering displaced Palestinians across the Gaza Strip, including Deir al-Balah. Overflowing sewage mixes with floodwater while Israeli restrictions on aid hamper the response.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "Heavy rain floods tents sheltering displaced Palestinians in Gaza.",
-    "Overflowing sewage mixes with floodwater in Deir al-Balah.",
-    "Israeli restrictions on aid hamper the response."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Gaza",
-    "#WorldNews",
-    "#Weather"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "France 24"
-   ],
-   "link": "https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents",
-   "links": [
-    [
-     "France 24",
-     "https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/gallery/2026/11/8/photos-heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza?traffic_source=rss"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "tg_file_id": "AgACAgUAAxkBAANOavBIyuUYJmkHPez1JBmNnkaaZboAArAUaxv_D4FXJeFcMYg6w9wBAAMCAAN5AAM9BA",
-      "credit": ""
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Gaza flood: Heavy rain inundates thousands of displaced tents",
-    "people": [],
-    "image_query": "Gaza Strip tents",
-    "image_style": "incident",
-    "location": "Gaza"
-   },
-   "created_at": "2026-11-08T10:02:50.575665+00:00",
-   "news_time": "2026-11-08T06:55:24+00:00",
-   "news_latest": "2026-11-08T09:42:03+00:00",
-   "caption": "Gaza flood: Heavy rain inundates thousands of displaced tents\n\nHeavy rainfall floods thousands of tents sheltering displaced Palestinians across the Gaza Strip, including Deir al-Balah. Overflowing sewage mixes with floodwater while Israeli restrictions on aid hamper the response.\n\n📖 Read more: https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents\n\n#Gaza #WorldNews #Weather #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 79,
-   "tg_file_id": "AgACAgUAAxkDAANPavBIzNg7RoUhMDhbKp-66ymXvXkAArEUaxv_D4FXG0jqYq8aUqgBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-08T10:02:57.301494+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122095870233548584",
-   "posted_at": "2026-11-08T10:02:57.601335+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 08 · 5:03 AM New York · 3:33 PM Sri Lanka\n\n<b>Gaza flood: Heavy rain inundates thousands of displaced tents</b>\n<i>Al Jazeera, France 24</i>\n🟢 <b>Latest:</b> 3:12 PM Sri Lanka (20 min ago) · first reported 12:25 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122095870233548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 15,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "1761006344998968"
-  },
   "b5166bdbac": {
    "id": "b5166bdbac",
    "headline": "Melania Trump diplomacy raises prospect of Nobel Peace Prize",
@@ -16468,6 +16270,140 @@
    "status": "pending",
    "tg_message_id": 395,
    "tg_file_id": "AgACAgUAAxkDAAIBi2r1iscnMxtLPk94t7JMlwXk81adAAJCE2sbSxqpV9tb0DohnQNOAQADAgADdwADPQQ"
+  },
+  "5191357420": {
+   "id": "5191357420",
+   "headline": "House Republicans choose Jim Jordan as their leader",
+   "summary": "House Republicans selected Jim Jordan as their leader for the next Congress by a vote of 106-73. Jordan defeated Steve Scalise in the vote.",
+   "label": "US POLITICS",
+   "hook": "How will Republican leadership change the party's approach in the next Congress?",
+   "key_points": [
+    "House Republicans chose Jim Jordan as their leader.",
+    "The vote was 106 to 73 against Steve Scalise."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#JimJordan",
+    "#HouseRepublicans",
+    "#USPolitics"
+   ],
+   "sources": [
+    "Newsweek",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/opinion/editorials/4800290/jim-jordan-fits-the-fight-ahead/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/opinion/editorials/4800290/jim-jordan-fits-the-fight-ahead/"
+    ],
+    [
+     "Newsweek",
+     "https://www.newsweek.com/jim-jordan-says-democrats-will-target-entire-trump-cabinet-2028-nominee-12702857"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Jim_Jordan_%2851769862077%29_%28cropped%29.jpg/1280px-Jim_Jordan_%2851769862077%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "House Republicans choose Jim Jordan as their leader",
+    "people": [
+     "Jim Jordan"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "House of Representatives chamber",
+     "Capitol Hill",
+     "voting booth",
+     "US Capitol dome"
+    ],
+    "image_style": "person",
+    "location": "US"
+   },
+   "created_at": "2026-11-12T10:01:07.833167+00:00",
+   "news_time": "2026-11-12T04:51:54+00:00",
+   "news_latest": "2026-11-12T10:00:00+00:00",
+   "caption": "House Republicans choose Jim Jordan as their leader\n\nHouse Republicans selected Jim Jordan as their leader for the next Congress by a vote of 106-73. Jordan defeated Steve Scalise in the vote.\n\n💬 How will Republican leadership change the party's approach in the next Congress?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#JimJordan #HouseRepublicans #USPolitics #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 396,
+   "tg_file_id": "AgACAgUAAxkDAAIBjGr1jmguWabfw7-Fuu8MCPOveohRAAJIE2sbSxqpV4OcNHu8F0DYAQADAgADdwADPQQ"
+  },
+  "433c28badd": {
+   "id": "433c28badd",
+   "headline": "US Envoys Jared Kushner and Steve Witkoff Arrive in Moscow",
+   "summary": "U.S. envoys Jared Kushner and Steve Witkoff arrived in Moscow following two days of trilateral talks in the UAE. According to Russian state media, the meetings failed to produce a breakthrough.",
+   "label": "DIPLOMACY",
+   "hook": "Can these talks in Moscow produce a peace breakthrough?",
+   "key_points": [
+    "US envoys arrived in Moscow on Nov. 12",
+    "Previous talks in the UAE yielded no breakthrough"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Russia",
+    "#Ukraine",
+    "#Diplomacy"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "Kyiv Independent"
+   ],
+   "link": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss"
+    ],
+    [
+     "Kyiv Independent",
+     "https://kyivindependent.com/witkoff-kushner-arrive-in-moscow-following-ukraine-peace-talks/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Jared_Kushner_%2848512574161%29.jpg/1280px-Jared_Kushner_%2848512574161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Steve_Witkoff_in_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "The White House / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "US Envoys Jared Kushner and Steve Witkoff Arrive in Moscow",
+    "people": [
+     "Jared Kushner",
+     "Steve Witkoff"
+    ],
+    "image_query": "Moscow city skyline",
+    "image_queries": [
+     "Kremlin Moscow",
+     "Red Square Moscow",
+     "Moscow cityscape",
+     "Russian state media building"
+    ],
+    "image_style": "scene",
+    "location": "Moscow, Russia"
+   },
+   "created_at": "2026-11-12T10:01:16.746704+00:00",
+   "news_time": "2026-11-12T05:51:07+00:00",
+   "news_latest": "2026-11-12T09:01:24+00:00",
+   "caption": "US Envoys Jared Kushner and Steve Witkoff Arrive in Moscow\n\nU.S. envoys Jared Kushner and Steve Witkoff arrived in Moscow following two days of trilateral talks in the UAE. According to Russian state media, the meetings failed to produce a breakthrough.\n\n💬 Can these talks in Moscow produce a peace breakthrough?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Russia #Ukraine #Diplomacy #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 397,
+   "tg_file_id": "AgACAgUAAxkDAAIBjWr1jnX93Z0PX3Fmcv3cegmw0lGlAAJJE2sbSxqpV5aQAdb4POfzAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -17111,7 +17047,11 @@
   "https://www.foxnews.com/politics/florida-city-gop-backed-dei-law-blocks-st-patricks-parade-pride-event",
   "https://www.independent.co.uk/news/world/americas/delray-beach-st-patricks-day-pride-b3083607.html",
   "https://www.independent.co.uk/news/world/americas/brooklyn-building-collapse-pregnant-woman-b3083626.html",
-  "https://www.euronews.com/video/2026/11/12/us-survivor-pulled-alive-from-rubble-after-deadly-brooklyn-collapse"
+  "https://www.euronews.com/video/2026/11/12/us-survivor-pulled-alive-from-rubble-after-deadly-brooklyn-collapse",
+  "https://www.washingtonexaminer.com/opinion/editorials/4800290/jim-jordan-fits-the-fight-ahead/",
+  "https://www.newsweek.com/jim-jordan-says-democrats-will-target-entire-trump-cabinet-2028-nominee-12702857",
+  "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss",
+  "https://kyivindependent.com/witkoff-kushner-arrive-in-moscow-following-ukraine-peace-talks/"
  ],
  "recent_topics": [
   [
@@ -20428,19 +20368,52 @@
     "woman"
    ],
    "5b021b17f4"
+  ],
+  [
+   "2026-11-12T10:01:12.443160+00:00",
+   [
+    "ahead",
+    "cabinet",
+    "democrat",
+    "entir",
+    "fight",
+    "fit",
+    "jim",
+    "jordan",
+    "nomine",
+    "target",
+    "trump"
+   ],
+   "5191357420"
+  ],
+  [
+   "2026-11-12T10:01:26.197226+00:00",
+   [
+    "arriv",
+    "envoy",
+    "follow",
+    "kushner",
+    "media",
+    "moscow",
+    "peac",
+    "putin",
+    "russia-ukrain",
+    "russian",
+    "stat",
+    "talk",
+    "ukrain",
+    "witkoff"
+   ],
+   "433c28badd"
   ]
  ],
- "last_draft_at": "2026-11-12T09:45:20.537840+00:00",
+ "last_draft_at": "2026-11-12T10:00:55.345507+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-12T09:00:31.596134+00:00",
+ "last_stats_at": "2026-11-12T10:00:35.884857+00:00",
  "run_log": [
-  "11-12 07:30:23 run start",
-  "11-12 07:30:33 listening 11 min",
-  "11-12 07:41:51 listening done",
-  "11-12 07:41:51 run end after 687 s",
   "11-12 07:45:23 run start",
   "11-12 07:45:54 listening 11 min",
   "11-12 07:57:04 listening done",
@@ -20476,14 +20449,15 @@
   "11-12 09:45:20 run start",
   "11-12 09:45:43 listening 11 min",
   "11-12 09:57:01 listening done",
-  "11-12 09:57:01 run end after 701 s"
+  "11-12 09:57:01 run end after 701 s",
+  "11-12 10:00:35 run start",
+  "11-12 10:01:26 listening 11 min",
+  "11-12 10:12:20 listening done",
+  "11-12 10:12:20 run end after 704 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Dublin_architecture-_Georgian.jpg/1920px-Dublin_architecture-_Georgian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Attendees_applaud_as_President_Barack_Obama_acknowledges_Vice_President_Joe_Biden%2C_2014.jpg/1280px-Attendees_applaud_as_President_Barack_Obama_acknowledges_Vice_President_Joe_Biden%2C_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/8/8e/William_Augustus_Bootle_Federal_Building_and_United_States_Courthouse%2C_Macon%2C_GA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg/1280px-Donald_Trump_Victory_Tour_at_Hershey_PA_on_December_15th_2016_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Madrid_Metro_Sol_Station_030.jpg/1920px-Madrid_Metro_Sol_Station_030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -20520,7 +20494,10 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Jensen_huang_stanford_2026-04-30_031.jpg/1280px-Jensen_huang_stanford_2026-04-30_031.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Ireland_Clonmacnoise_BW_2025-09-09_17-09-03_v2.jpg/1920px-Ireland_Clonmacnoise_BW_2025-09-09_17-09-03_v2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Gibran_Rakabuming_Raka%2C_Candidate_for_Indonesia%27s_Vice_President_in_2024.jpg/1280px-Gibran_Rakabuming_Raka%2C_Candidate_for_Indonesia%27s_Vice_President_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Florida_State_Capitol_-_US27_February_2015_%2844033650502%29.jpg/1920px-Florida_State_Capitol_-_US27_February_2015_%2844033650502%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Florida_State_Capitol_-_US27_February_2015_%2844033650502%29.jpg/1920px-Florida_State_Capitol_-_US27_February_2015_%2844033650502%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Jim_Jordan_%2851769862077%29_%28cropped%29.jpg/1280px-Jim_Jordan_%2851769862077%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Jared_Kushner_%2848512574161%29.jpg/1280px-Jared_Kushner_%2848512574161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/d/de/Steve_Witkoff_in_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   ],
   "pools": {
    "donald trump": {
@@ -23505,10 +23482,195 @@
       "portrait": true
      }
     ]
+   },
+   "jim jordan": {
+    "t": "2026-11-12T10:01:07.833060+00:00",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Jim_Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "US Congress / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Jim_Jordan_official_photo%2C_114th_Congress.jpg/1280px-Jim_Jordan_official_photo%2C_114th_Congress.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Congress / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Jim_Jordan_%2851770925718%29_%28cropped%29.jpg/1280px-Jim_Jordan_%2851770925718%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Jim_Jordan_%2851770687196%29.jpg/1280px-Jim_Jordan_%2851770687196%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Jim_Jordan_%2851769862077%29_%28cropped%29.jpg/1280px-Jim_Jordan_%2851769862077%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Jim_Jordan_%286871637817%29.jpg/1280px-Jim_Jordan_%286871637817%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Jim_Jordan_%2851771568310%29.jpg/1280px-Jim_Jordan_%2851771568310%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Jim_Jordan_CPAC_2018.jpg/1280px-Jim_Jordan_CPAC_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Jim_Jordan_%2851770925718%29.jpg/1280px-Jim_Jordan_%2851770925718%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Jim_Jordan_%2824948772194%29.jpg/1280px-Jim_Jordan_%2824948772194%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Jim_Jordan_gets_his_picture_taken_%2814991092694%29.jpg/1280px-Jim_Jordan_gets_his_picture_taken_%2814991092694%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Brian Timmermeister from Lima,OH, USA / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Jim_Jordan_%2851771569470%29_%28cropped%29.jpg/1280px-Jim_Jordan_%2851771569470%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     }
+    ]
+   },
+   "jared kushner": {
+    "t": "2026-11-12T10:01:14.636228+00:00",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Jared_Kushner_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "The White House / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Jared_Kushner_%2848512633706%29.jpg/1280px-Jared_Kushner_%2848512633706%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Jared_Kushner_%2848512631566%29_%28cropped%29.jpg/1280px-Jared_Kushner_%2848512631566%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Jared_Kushner_%2848512635921%29.jpg/1280px-Jared_Kushner_%2848512635921%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Jared_Kushner_%2848512806722%29.jpg/1280px-Jared_Kushner_%2848512806722%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Jared_Kushner_%2848512591231%29.jpg/1280px-Jared_Kushner_%2848512591231%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Jared_Kushner%2C_April_3%2C_2017.jpg/1280px-Jared_Kushner%2C_April_3%2C_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Photo by Navy Petty Officer 2nd Class Dominique A. Pineiro / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Jared_Kushner_%2848512785672%29.jpg/1280px-Jared_Kushner_%2848512785672%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Jared_Kushner_%2848512778727%29.jpg/1280px-Jared_Kushner_%2848512778727%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Jared_Kushner_%2848512585141%29.jpg/1280px-Jared_Kushner_%2848512585141%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Jared_Kushner_%2848512574161%29.jpg/1280px-Jared_Kushner_%2848512574161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Jared_Kushner_in_Israel%2C_December_21_2020.jpg/1280px-Jared_Kushner_in_Israel%2C_December_21_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Embassy Jerusalem / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     }
+    ]
+   },
+   "steve witkoff": {
+    "t": "2026-11-12T10:01:15.651394+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Steve_Witkoff_%282025%29_%28cropped%29.jpg/1280px-Steve_Witkoff_%282025%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Embassy Jerusalem / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Steve_Witkoff_at_White_House_Opioids_Summit_2018_%28cropped%29.png/1280px-Steve_Witkoff_at_White_House_Opioids_Summit_2018_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Unknown author Unknown author / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Steve_Witkoff_in_Tel_Aviv_on_May_13th_2025_%28cropped%29.jpg/1280px-Steve_Witkoff_in_Tel_Aviv_on_May_13th_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Embassy Jerusalem / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/President_Donald_Trump_welcomes_his_friend_Steve_Witkoff_to_speak_at_the_Opioid_Summit_in_the_East_Room_of_the_White_House.jpg/1280px-President_Donald_Trump_welcomes_his_friend_Steve_Witkoff_to_speak_at_the_Opioid_Summit_in_the_East_Room_of_the_White_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "(Official White House Photo by Shealah Craighead) / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Steve_Witkoff_in_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "The White House / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     }
+    ]
    }
   },
   "recent_ideas": [
-   "us capitol building",
    "ballot box, united states",
    "uss gerald r. ford",
    "house of representatives chamber",
@@ -23519,7 +23681,8 @@
    "senate chamber",
    "walhalla, australia",
    "ireland",
-   "florida state capitol"
+   "florida state capitol",
+   "saint basil's cathedral"
   ]
  },
  "comment_perm_told": true
