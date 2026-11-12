@@ -1,66 +1,6 @@
 {
  "tg_offset": 495892995,
  "drafts": {
-  "501abc30b3": {
-   "id": "501abc30b3",
-   "headline": "Arrest made after homecoming weekend shootings at Winston-Salem State University",
-   "summary": "Authorities arrested a suspect following two separate campus shootings during homecoming weekend. The violence left one person dead and three others wounded.",
-   "label": "US POLITICS",
-   "hook": "",
-   "key_points": [
-    "Two separate shootings occurred on campus on Saturday night.",
-    "One person was killed and three others were injured.",
-    "Police made an arrest following the incident."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#WinstonSalemState",
-    "#CampusSafety",
-    "#BreakingNews"
-   ],
-   "sources": [
-    "NBC News",
-    "The Independent"
-   ],
-   "link": "https://www.independent.co.uk/news/world/americas/winston-salem-state-shooting-arrest-ziyaire-spinks-north-carolina-b3081331.html",
-   "links": [
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/winston-salem-state-shooting-arrest-ziyaire-spinks-north-carolina-b3081331.html"
-    ],
-    [
-     "NBC News",
-     "https://www.nbcnews.com/news/us-news/shootings-winston-salem-state-university-campus-rcna608082"
-    ]
-   ],
-   "bg": {
-    "type": "incident",
-    "photos": [],
-    "location": "North Carolina, US"
-   },
-   "img_post": {
-    "headline": "Arrest made after homecoming weekend shootings at Winston-Salem State University",
-    "people": [],
-    "image_query": "Winston-Salem State University campus",
-    "image_queries": [
-     "university campus entrance",
-     "police tape at university",
-     "campus administration building",
-     "university quad"
-    ],
-    "image_style": "incident",
-    "location": "North Carolina, US"
-   },
-   "created_at": "2026-11-08T20:30:40.403929+00:00",
-   "news_time": "2026-11-08T15:09:18+00:00",
-   "news_latest": "2026-11-08T20:23:08+00:00",
-   "caption": "Arrest made after homecoming weekend shootings at Winston-Salem State University\n\nAuthorities arrested a suspect following two separate campus shootings during homecoming weekend. The violence left one person dead and three others wounded.\n\n📖 Read more: https://www.independent.co.uk/news/world/americas/winston-salem-state-shooting-arrest-ziyaire-spinks-north-carolina-b3081331.html\n\n#WinstonSalemState #CampusSafety #BreakingNews #7SeasNews",
-   "status": "expired",
-   "tg_message_id": 132,
-   "tg_file_id": "AgACAgUAAxkDAAOEavDb8vDoVMhq_EjDuFjUGGdUkHYAAlkVaxv_D4lXAS5JwZg4rkQBAAMCAAN3AAM9BA",
-   "extra_msgs": [],
-   "cleared": true
-  },
   "ddbd24fcc0": {
    "id": "ddbd24fcc0",
    "headline": "Nvidia probes CEO Jensen Huang following Chinese intelligence reports",
@@ -18310,27 +18250,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-09T20:30:41.528194+00:00",
-   [
-    "accus",
-    "adviser",
-    "bus",
-    "ex-rfk",
-    "former",
-    "group",
-    "interest",
-    "official",
-    "prioritiz",
-    "rfk",
-    "special",
-    "throw",
-    "trump",
-    "voter",
-    "wil"
-   ],
-   "2a77dcace3"
-  ],
-  [
    "2026-11-09T20:45:49.850100+00:00",
    [
     "afghan",
@@ -21336,17 +21255,13 @@
    "223685c186"
   ]
  ],
- "last_draft_at": "2026-11-12T20:15:23.294284+00:00",
+ "last_draft_at": "2026-11-12T20:29:52.868704+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T20:00:49.207593+00:00",
  "run_log": [
-  "11-12 18:00:31 run start",
-  "11-12 18:01:04 listening 11 min",
-  "11-12 18:11:58 listening done",
-  "11-12 18:11:58 run end after 686 s",
   "11-12 18:15:23 run start",
   "11-12 18:17:08 listening 10 min",
   "11-12 18:27:11 listening done",
@@ -21382,7 +21297,11 @@
   "11-12 20:15:22 run start",
   "11-12 20:16:11 listening 11 min",
   "11-12 20:27:04 listening done",
-  "11-12 20:27:04 run end after 702 s"
+  "11-12 20:27:04 run end after 702 s",
+  "11-12 20:29:52 run start",
+  "11-12 20:29:53 listening 11 min",
+  "11-12 20:41:42 listening done",
+  "11-12 20:41:42 run end after 710 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
