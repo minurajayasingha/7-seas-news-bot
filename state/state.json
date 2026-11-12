@@ -1,158 +1,6 @@
 {
- "tg_offset": 495892982,
+ "tg_offset": 495892985,
  "drafts": {
-  "6ca4d9b155": {
-   "id": "6ca4d9b155",
-   "headline": "Jeffries rules out working with Stephen Miller after midterms",
-   "summary": "Jeffries states he will not work with Stephen Miller. Meanwhile, U.S. officials report the Trump administration will likely continue its immigration crackdown following the midterm elections.",
-   "label": "US POLITICS",
-   "hook": "Will Jeffries and the administration find any common ground on immigration policy?",
-   "key_points": [
-    "Jeffries rules out working with Stephen Miller",
-    "Trump administration likely to continue immigration crackdown",
-    "Midterm elections change political landscape"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#StephenMiller",
-    "#Immigration"
-   ],
-   "sources": [
-    "CBS News",
-    "Newsweek"
-   ],
-   "link": "https://www.cbsnews.com/news/ice-crackdown-stephen-miller-illegal-immigration/",
-   "links": [
-    [
-     "CBS News",
-     "https://www.cbsnews.com/news/ice-crackdown-stephen-miller-illegal-immigration/"
-    ],
-    [
-     "Newsweek",
-     "https://www.newsweek.com/jeffries-rules-out-working-with-stephen-miller-not-going-to-happen-12683657"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Stephen_Miller_%2854360305622%29_%28cropped%29%28b%29.jpg/1280px-Stephen_Miller_%2854360305622%29_%28cropped%29%28b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Jeffries rules out working with Stephen Miller after midterms",
-    "people": [
-     "Stephen Miller"
-    ],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "White House exterior",
-     "House of Representatives chamber",
-     "Capitol Hill",
-     "US Senate chamber"
-    ],
-    "image_style": "person",
-    "location": "US"
-   },
-   "created_at": "2026-11-08T17:45:34.128614+00:00",
-   "news_time": "2026-11-08T17:34:54+00:00",
-   "news_latest": "2026-11-08T17:38:05+00:00",
-   "caption": "Jeffries rules out working with Stephen Miller after midterms\n\nJeffries states he will not work with Stephen Miller. Meanwhile, U.S. officials report the Trump administration will likely continue its immigration crackdown following the midterm elections.\n\n💬 Will Jeffries and the administration find any common ground on immigration policy?\n\n📖 Read more: https://www.cbsnews.com/news/ice-crackdown-stephen-miller-illegal-immigration/\n\n#USPolitics #StephenMiller #Immigration #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 120,
-   "tg_file_id": "AgACAgUAAxkDAAN4avC1QMeGKWkM8YJCvn75LbqcWpMAAjEVaxv_D4lX2vv8oaZ3be8BAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-08T18:01:57.656100+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122096117013548584",
-   "posted_at": "2026-11-08T18:01:57.953350+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 08 · 1:02 PM New York · 11:32 PM Sri Lanka\n\n<b>Jeffries rules out working with Stephen Miller after midterms</b>\n<i>CBS News, Newsweek</i>\n🟢 <b>Latest:</b> 11:08 PM Sri Lanka (24 min ago) · first reported 11:04 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096117013548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 33,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "1874239493579736"
-  },
-  "645665f371": {
-   "id": "645665f371",
-   "headline": "Trump criticizes midterm results and supports Department of Justice investigation",
-   "summary": "President Trump stated that the United States took a giant step back in history following midterm results. Meanwhile, Attorney General Todd Blanche backed the President's call for a Department of Justice investigation into Democrats.",
-   "label": "US POLITICS",
-   "hook": "Should the Department of Justice investigate the Democratic impeachment push?",
-   "key_points": [
-    "President Trump commented on midterm election results.",
-    "Attorney General Todd Blanche supported a Department of Justice investigation.",
-    "Democrats faced threats regarding impeachment and investigations."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#DonaldTrump",
-    "#DepartmentOfJustice"
-   ],
-   "sources": [
-    "CBS News",
-    "Washington Examiner"
-   ],
-   "link": "https://www.washingtonexaminer.com/news/justice/4796775/blanche-trump-doj-investigation-democrats-threats/",
-   "links": [
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/news/justice/4796775/blanche-trump-doj-investigation-democrats-threats/"
-    ],
-    [
-     "CBS News",
-     "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Shealeah Craighead / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Trump criticizes midterm results and supports Department of Justice investigation",
-    "people": [
-     "Donald Trump"
-    ],
-    "image_query": "White House",
-    "image_queries": [
-     "US Capitol building",
-     "Department of Justice building",
-     "voting booth",
-     "Senate chamber"
-    ],
-    "image_style": "person",
-    "location": "US"
-   },
-   "created_at": "2026-11-08T17:47:08.664771+00:00",
-   "news_time": "2026-11-08T17:04:39+00:00",
-   "news_latest": "2026-11-08T17:18:36+00:00",
-   "caption": "Trump criticizes midterm results and supports Department of Justice investigation\n\nPresident Trump stated that the United States took a giant step back in history following midterm results. Meanwhile, Attorney General Todd Blanche backed the President's call for a Department of Justice investigation into Democrats.\n\n💬 Should the Department of Justice investigate the Democratic impeachment push?\n\n📖 Read more: https://www.washingtonexaminer.com/news/justice/4796775/blanche-trump-doj-investigation-democrats-threats/\n\n#USPolitics #DonaldTrump #DepartmentOfJustice #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 121,
-   "tg_file_id": "AgACAgUAAxkDAAN5avC1niLcBHTJe41thZv1qMAdF7oAAjIVaxv_D4lXCvj0tY-X67gBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-08T18:01:57.077580+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122096116611548584",
-   "posted_at": "2026-11-08T18:01:57.953350+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 08 · 1:02 PM New York · 11:32 PM Sri Lanka\n\n<b>Trump criticizes midterm results and supports Department of Justice investigation</b>\n<i>CBS News, Washington Examiner</i>\n🟢 <b>Latest:</b> 10:48 PM Sri Lanka (43 min ago) · first reported 10:34 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096116611548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 32,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "1704502204581950"
-  },
   "b8e86a5f1f": {
    "id": "b8e86a5f1f",
    "headline": "Justice Sotomayor hopes Supreme Court reverses presidential immunity ruling",
@@ -16759,9 +16607,19 @@
    "news_time": "2026-11-12T11:00:06+00:00",
    "news_latest": "2026-11-12T16:05:54+00:00",
    "caption": "ICE reports record immigration arrests and deportations in US\n\nU.S. Immigration and Customs Enforcement reports a record number of arrests and deportations during a recent 12-month period. Department of Homeland Security figures show more than 483,000 deportations and 491,000 immigration arrests in fiscal year 2026.\n\n💬 How should immigration enforcement resources be allocated moving forward?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Immigration #ICE #7SeasNews",
-   "status": "pending",
+   "status": "posted",
    "tg_message_id": 421,
-   "tg_file_id": "AgACAgUAAxkDAAIBpWr15jm1AVmtpQZoN2MbjLDtUHswAAIkE2sbSxqxV2SLhwZ9ItgvAQADAgADdwADPQQ"
+   "tg_file_id": "AgACAgUAAxkDAAIBpWr15jm1AVmtpQZoN2MbjLDtUHswAAIkE2sbSxqxV2SLhwZ9ItgvAQADAgADdwADPQQ",
+   "queued_at": "2026-11-12T17:56:43.523976+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122099680827548584",
+   "posted_at": "2026-11-12T17:56:43.830813+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 12 · 12:56 PM New York · 11:26 PM Sri Lanka\n\n<b>ICE reports record immigration arrests and deportations in US</b>\n<i>ABC News, CBS News</i>\n🟡 <b>Latest:</b> 9:35 PM Sri Lanka (1h 51m ago) · first reported 4:30 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099680827548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 255,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true
   },
   "6bf24c0100": {
    "id": "6bf24c0100",
@@ -16824,7 +16682,11 @@
    "caption": "Democratic Representative misses Pete Hegseth impeachment vote due to traffic\n\nA Democratic representative faced scrutiny and apologized for missing a vote on the impeachment of Pete Hegseth. The lawmaker cited rush-hour traffic and a police motorcade near the Capitol as the reason for the absence.\n\n💬 Should transportation delays be accepted as a valid excuse for missing congressional votes?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Congress #WashingtonDC #7SeasNews",
    "status": "pending",
    "tg_message_id": 422,
-   "tg_file_id": "AgACAgUAAxkDAAIBpmr16cxNAAGhoVzxvE1roHEnCi4XkQACKRNrG0sasVdZhVQ9yjvgsQEAAwIAA3cAAz0E"
+   "tg_file_id": "AgACAgUAAxkDAAIBpmr16cxNAAGhoVzxvE1roHEnCi4XkQACKRNrG0sasVdZhVQ9yjvgsQEAAwIAA3cAAz0E",
+   "dup_ok": true,
+   "extra_msgs": [
+    425
+   ]
   },
   "46e8434cb8": {
    "id": "46e8434cb8",
@@ -16883,6 +16745,79 @@
    "status": "pending",
    "tg_message_id": 423,
    "tg_file_id": "AgACAgUAAxkDAAIBp2r19DqFQ-qXX1NJBO4GjhRpWbaZAAJCE2sbSxqxVyAj-Ge2FS0lAQADAgADdwADPQQ"
+  },
+  "b4c2ddcd5c": {
+   "id": "b4c2ddcd5c",
+   "headline": "Antigua prime minister says U.S. pressure changed Cuba vote",
+   "summary": "Antigua and Barbuda reversed its position on a U.N. resolution regarding the U.S. embargo on Cuba. The prime minister stated the decision changed following pressure from the U.S. State Department.",
+   "label": "DIPLOMACY",
+   "hook": "Should diplomatic pressure influence United Nations voting decisions?",
+   "key_points": [
+    "Antigua and Barbuda reversed its Cuba vote",
+    "State Department pressure caused the change",
+    "The vote concerned the U.S. embargo of Cuba"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#AntiguaAndBarbuda",
+    "#Cuba",
+    "#Diplomacy"
+   ],
+   "sources": [
+    "Euronews",
+    "UPI"
+   ],
+   "link": "https://www.euronews.com/2026/11/12/the-rules-based-international-order-is-breaking-down-thailands-foreign-minister-warns",
+   "links": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/12/the-rules-based-international-order-is-breaking-down-thailands-foreign-minister-warns"
+    ],
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/World-News/2026/11/12/latam-cuba-antigua-changes-cuba-vote-un/4231794503202/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/UN_General_Assembly_hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Patrick Gruban , cropped and downsampled by Pine / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Antigua prime minister says U.S. pressure changed Cuba vote",
+    "people": [],
+    "image_query": "United Nations headquarters",
+    "image_queries": [
+     "United Nations building",
+     "U.N. General Assembly hall",
+     "State Department building",
+     "Havana skyline"
+    ],
+    "image_style": "scene",
+    "location": "Antigua and Barbuda"
+   },
+   "created_at": "2026-11-12T17:45:39.294584+00:00",
+   "news_time": "2026-11-12T17:22:09+00:00",
+   "news_latest": "2026-11-12T17:30:04+00:00",
+   "caption": "Antigua prime minister says U.S. pressure changed Cuba vote\n\nAntigua and Barbuda reversed its position on a U.N. resolution regarding the U.S. embargo on Cuba. The prime minister stated the decision changed following pressure from the U.S. State Department.\n\n💬 Should diplomatic pressure influence United Nations voting decisions?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#AntiguaAndBarbuda #Cuba #Diplomacy #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 424,
+   "tg_file_id": "AgACAgUAAxkDAAIBqGr1-0VZtqxAiYgqx0LGpvo-YMHHAAITE2sbFv2wV0eJILconFESAQADAgADdwADPQQ",
+   "queued_at": "2026-11-12T17:56:23.404787+00:00",
+   "post_now": true,
+   "fb_post_id": "1413030521900096_122099680089548584",
+   "posted_at": "2026-11-12T17:56:23.710586+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 12 · 12:56 PM New York · 11:26 PM Sri Lanka\n\n<b>Antigua prime minister says U.S. pressure changed Cuba vote</b>\n<i>Euronews, UPI</i>\n🟢 <b>Latest:</b> 11:00 PM Sri Lanka (26 min ago) · first reported 10:52 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099680089548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 253,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true
   }
  },
  "seen_links": [
@@ -17597,28 +17532,15 @@
   "https://www.foxnews.com/politics/pence-delivers-scathing-rebuke-vances-iran-war-assessment-blames-trump-policies-gop-losses",
   "https://thehill.com/homenews/administration/6216059-trump-criticizes-gop-midterm-losses/",
   "https://www.france24.com/en/americas/20261112-at-least-five-people-shot-in-dc-neighbourhood-near-the-white-house",
-  "https://www.aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss"
+  "https://www.aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss",
+  "https://www.euronews.com/2026/11/12/the-rules-based-international-order-is-breaking-down-thailands-foreign-minister-warns",
+  "https://www.upi.com/Top_News/World-News/2026/11/12/latam-cuba-antigua-changes-cuba-vote-un/4231794503202/",
+  "https://www.independent.co.uk/news/world/americas/us-politics/rfk-samoa-trip-senators-investigation-lies-congress-b3084092.html",
+  "https://www.theguardian.com/us-news/2026/nov/12/senate-investigation-rfk-jr-measles-samoa",
+  "https://thehill.com/homenews/house/6216614-jensen-huang-congress-testimony/",
+  "https://www.cbsnews.com/news/jensen-huang-nvidia-congress-testify/"
  ],
  "recent_topics": [
-  [
-   "2026-11-09T17:45:58.361225+00:00",
-   [
-    "africa",
-    "anc",
-    "catastrophic",
-    "desert",
-    "election",
-    "local",
-    "lost",
-    "mandela",
-    "mean",
-    "result",
-    "south",
-    "voter",
-    "way"
-   ],
-   "fc55d1f496"
-  ],
   [
    "2026-11-09T18:45:50.507868+00:00",
    [
@@ -20747,19 +20669,35 @@
     "whit"
    ],
    "46e8434cb8"
+  ],
+  [
+   "2026-11-12T17:45:41.605421+00:00",
+   [
+    "antigua",
+    "break",
+    "chang",
+    "cuba",
+    "down",
+    "foreign",
+    "international",
+    "minister",
+    "order",
+    "prim",
+    "rules-bas",
+    "thailand",
+    "vot",
+    "warn"
+   ],
+   "b4c2ddcd5c"
   ]
  ],
- "last_draft_at": "2026-11-12T17:30:30.233307+00:00",
+ "last_draft_at": "2026-11-12T17:45:20.813179+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T17:00:37.078154+00:00",
  "run_log": [
-  "11-12 15:15:21 run start",
-  "11-12 15:15:50 listening 11 min",
-  "11-12 15:27:03 listening done",
-  "11-12 15:27:03 run end after 701 s",
   "11-12 15:30:28 run start",
   "11-12 15:30:50 listening 11 min",
   "11-12 15:42:09 listening done",
@@ -20795,12 +20733,15 @@
   "11-12 17:30:29 run start",
   "11-12 17:30:40 listening 11 min",
   "11-12 17:42:00 listening done",
-  "11-12 17:42:00 run end after 690 s"
+  "11-12 17:42:00 run end after 690 s",
+  "11-12 17:45:20 run start",
+  "11-12 17:46:02 listening 11 min",
+  "11-12 17:57:03 listening done",
+  "11-12 17:57:03 run end after 703 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/US_Capitol_west_side.JPG/1920px-US_Capitol_west_side.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Richard_Ojeda_shirt.jpg/1280px-Richard_Ojeda_shirt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Secretary_of_Defense_Pete_Hegseth_official_portrait_%28cropped%29.jpg/1280px-Secretary_of_Defense_Pete_Hegseth_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Ballot_box_in_Denver%2C_October_2020_2.jpg/1920px-Ballot_box_in_Denver%2C_October_2020_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -20839,7 +20780,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Bisexual_Pride_flag_over_UK_Government_building_in_Cardiff%2C_2023-09-21.jpg/1920px-Bisexual_Pride_flag_over_UK_Government_building_in_Cardiff%2C_2023-09-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Clock_on_Royal_Courts_of_Justice%2C_London_-_2022-09-10.jpg/1920px-Clock_on_Royal_Courts_of_Justice%2C_London_-_2022-09-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/South_Texas%2C_Border_Patrol_Agents%2C_McAllen_Horse_Patrol_Unit_%2811933500215%29.jpg/1920px-South_Texas%2C_Border_Patrol_Agents%2C_McAllen_Horse_Patrol_Unit_%2811933500215%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/A_U.S._Navy_Hull_Maintenance_Technician_3rd_Class_Robert_Frey_fabricates_a_steel_countertop_aboard_the_aircraft_carrier_USS_Nimitz_%28CVN_68%29_Aug._20%2C_2013%2C_while_underway_in_the_Gulf_of_Oman_130820-N-JC752-778.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/A_U.S._Navy_Hull_Maintenance_Technician_3rd_Class_Robert_Frey_fabricates_a_steel_countertop_aboard_the_aircraft_carrier_USS_Nimitz_%28CVN_68%29_Aug._20%2C_2013%2C_while_underway_in_the_Gulf_of_Oman_130820-N-JC752-778.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/0/05/UN_General_Assembly_hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   ],
   "pools": {
    "donald trump": {
@@ -24153,7 +24095,6 @@
    }
   },
   "recent_ideas": [
-   "ireland",
    "florida state capitol",
    "saint basil's cathedral",
    "united states capitol rotunda",
@@ -24164,7 +24105,8 @@
    "uk government building",
    "royal courts of justice london",
    "border patrol, texas",
-   "aircraft carrier, united states navy"
+   "aircraft carrier, united states navy",
+   "u.n. general assembly hall"
   ]
  },
  "comment_perm_told": true
