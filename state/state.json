@@ -15629,9 +15629,11 @@
    "news_time": "2026-11-11T14:49:44+00:00",
    "news_latest": "2026-11-11T18:38:45+00:00",
    "caption": "Bomb hoaxes target schools across Europe\n\nAuthorities in Italy, Scotland, and Northern Ireland report that numerous schools received bomb threats. Officials state there is currently no risk to the public. It remains unknown if the incidents are linked.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WorldNews #BombHoax #Europe #7SeasNews",
-   "status": "pending",
+   "status": "expired",
    "tg_message_id": 372,
-   "tg_file_id": "AgACAgUAAxkDAAIBdGr0xeGAUtTQ63F7iqK6tkIguDAoAAJ8FmsbSxqhV0pTrr6ohMJsAQADAgADdwADPQQ"
+   "tg_file_id": "AgACAgUAAxkDAAIBdGr0xeGAUtTQ63F7iqK6tkIguDAoAAJ8FmsbSxqhV0pTrr6ohMJsAQADAgADdwADPQQ",
+   "extra_msgs": [],
+   "cleared": true
   },
   "819ac6bc7a": {
    "id": "819ac6bc7a",
@@ -17104,29 +17106,6 @@
   "https://www.theguardian.com/us-news/2026/nov/11/democrats-trump-immigration-agenda"
  ],
  "recent_topics": [
-  [
-   "2026-11-09T02:30:42.908496+00:00",
-   [
-    "back",
-    "biden",
-    "book",
-    "cancer",
-    "down",
-    "due",
-    "fight",
-    "health",
-    "him",
-    "joe",
-    "limit",
-    "mean",
-    "memoir",
-    "promotion",
-    "scal",
-    "slow",
-    "tour"
-   ],
-   "f7d93440dd"
-  ],
   [
    "2026-11-09T03:01:03.215541+00:00",
    [
@@ -20420,17 +20399,13 @@
    "d3669c0f3c"
   ]
  ],
- "last_draft_at": "2026-11-12T02:15:22.976318+00:00",
+ "last_draft_at": "2026-11-12T02:30:27.827569+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T02:00:28.828200+00:00",
  "run_log": [
-  "11-12 00:03:41 run start",
-  "11-12 00:04:25 listening 11 min",
-  "11-12 00:15:19 listening done",
-  "11-12 00:15:19 run end after 698 s",
   "11-12 00:15:34 run start",
   "11-12 00:15:45 listening 11 min",
   "11-12 00:27:05 listening done",
@@ -20466,7 +20441,11 @@
   "11-12 02:15:22 run start",
   "11-12 02:15:43 listening 11 min",
   "11-12 02:27:01 listening done",
-  "11-12 02:27:01 run end after 699 s"
+  "11-12 02:27:01 run end after 699 s",
+  "11-12 02:30:27 run start",
+  "11-12 02:30:38 listening 11 min",
+  "11-12 02:41:57 listening done",
+  "11-12 02:41:57 run end after 690 s"
  ],
  "day_pack_done": "2026-11-10",
  "photo_memory": {
