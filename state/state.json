@@ -17408,7 +17408,9 @@
   "https://www.cbsnews.com/news/jensen-huang-nvidia-congress-testify/",
   "https://thehill.com/policy/healthcare/6216792-acs-updates-prostate-screening/",
   "https://www.newsweek.com/joe-biden-pushes-new-prostate-cancer-screening-advice-after-health-update-12707022",
-  "https://www.independent.co.uk/news/health/prostate-cancer-testing-screening-guidelines-b3083888.html"
+  "https://www.independent.co.uk/news/health/prostate-cancer-testing-screening-guidelines-b3083888.html",
+  "https://www.washingtonexaminer.com/news/white-house/4801678/unprecedented-for-treasury-secretary-to-leave-home-over-iranian-threat-joe-concha/",
+  "https://www.nbcnews.com/politics/trump-administration/treasury-secretary-scott-bessent-moves-military-base-iranian-threats-rcna608951"
  ],
  "recent_topics": [
   [
@@ -20586,17 +20588,13 @@
    "b0cbcf291c"
   ]
  ],
- "last_draft_at": "2026-11-12T18:15:57.499896+00:00",
+ "last_draft_at": "2026-11-12T18:30:27.934880+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T18:00:32.012738+00:00",
  "run_log": [
-  "11-12 16:00:33 run start",
-  "11-12 16:01:36 listening 10 min",
-  "11-12 16:12:06 listening done",
-  "11-12 16:12:06 run end after 692 s",
   "11-12 16:15:25 run start",
   "11-12 16:15:53 listening 11 min",
   "11-12 16:27:13 listening done",
@@ -20632,7 +20630,11 @@
   "11-12 18:15:23 run start",
   "11-12 18:17:08 listening 10 min",
   "11-12 18:27:11 listening done",
-  "11-12 18:27:11 run end after 708 s"
+  "11-12 18:27:11 run end after 708 s",
+  "11-12 18:30:27 run start",
+  "11-12 18:30:47 listening 11 min",
+  "11-12 18:42:08 listening done",
+  "11-12 18:42:08 run end after 700 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
