@@ -17300,7 +17300,9 @@
   "https://www.independent.co.uk/news/world/americas/us-politics/trump-rant-truth-social-mexico-caravans-b3083910.html",
   "https://www.foxnews.com/politics/trump-threatens-double-tariffs-mexico-migrant-caravans-not-stopped",
   "https://www.cbsnews.com/news/megaspeed-nvidia-china-ties/",
-  "https://www.aljazeera.com/news/2026/11/12/china-says-us-fabricating-nvidia-spy-claims-to-justify-tech-blockade?traffic_source=rss"
+  "https://www.aljazeera.com/news/2026/11/12/china-says-us-fabricating-nvidia-spy-claims-to-justify-tech-blockade?traffic_source=rss",
+  "https://thehill.com/homenews/state-watch/6215462-washington-dc-shooting-logan-circle/",
+  "https://www.washingtonexaminer.com/news/crime/4801229/people-shot-washington-dc-logan-circle/"
  ],
  "recent_topics": [
   [
@@ -20652,17 +20654,13 @@
    "5a579197e7"
   ]
  ],
- "last_draft_at": "2026-11-12T14:00:51.445116+00:00",
+ "last_draft_at": "2026-11-12T14:15:22.911869+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T14:00:30.395069+00:00",
  "run_log": [
-  "11-12 12:00:28 run start",
-  "11-12 12:01:25 listening 11 min",
-  "11-12 12:12:18 listening done",
-  "11-12 12:12:18 run end after 709 s",
   "11-12 12:15:21 run start",
   "11-12 12:15:58 listening 11 min",
   "11-12 12:26:52 listening done",
@@ -20698,7 +20696,11 @@
   "11-12 14:00:30 run start",
   "11-12 14:03:20 listening 9 min",
   "11-12 14:12:19 listening done",
-  "11-12 14:12:19 run end after 709 s"
+  "11-12 14:12:19 run end after 709 s",
+  "11-12 14:15:22 run start",
+  "11-12 14:16:17 listening 11 min",
+  "11-12 14:27:11 listening done",
+  "11-12 14:27:11 run end after 709 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
