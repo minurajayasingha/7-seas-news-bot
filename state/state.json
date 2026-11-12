@@ -1,79 +1,6 @@
 {
- "tg_offset": 495892991,
+ "tg_offset": 495892992,
  "drafts": {
-  "6df01a1e5a": {
-   "id": "6df01a1e5a",
-   "headline": "Saudi Arabia turns to Syria for help amid Yemen conflict",
-   "summary": "Syria is preparing to send fighters to Saudi Arabia. This comes as fighting between Saudi Arabia and rebels in neighboring Yemen escalates.",
-   "label": "CONFLICT",
-   "hook": "Will these Syrian fighters impact the escalating conflict in Yemen?",
-   "key_points": [
-    "Syria prepares to send fighters to Saudi Arabia",
-    "Fighting escalates with rebels in neighboring Yemen"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#SaudiArabia",
-    "#Syria",
-    "#Yemen"
-   ],
-   "sources": [
-    "ABC News",
-    "The Independent"
-   ],
-   "link": "https://abcnews.com/International/wireStory/saudi-arabia-turns-syria-fighting-houthis-escalates-137956922",
-   "links": [
-    [
-     "ABC News",
-     "https://abcnews.com/International/wireStory/saudi-arabia-turns-syria-fighting-houthis-escalates-137956922"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/syria-yemen-houthis-saudi-arabia-damascus-b3081286.html"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Damascus%2C_Syria%2C_The_streets_of_central_Damascus.jpg/1920px-Damascus%2C_Syria%2C_The_streets_of_central_Damascus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Saudi Arabia turns to Syria for help amid Yemen conflict",
-    "people": [],
-    "image_query": "Riyadh cityscape",
-    "image_queries": [
-     "Sana'a skyline",
-     "Damascus streets",
-     "Yemen landscape",
-     "Saudi Arabian border"
-    ],
-    "image_style": "scene",
-    "location": "Saudi Arabia"
-   },
-   "created_at": "2026-11-08T19:00:40.646794+00:00",
-   "news_time": "2026-11-08T17:00:49+00:00",
-   "news_latest": "2026-11-08T18:56:47+00:00",
-   "caption": "Saudi Arabia turns to Syria for help amid Yemen conflict\n\nSyria is preparing to send fighters to Saudi Arabia. This comes as fighting between Saudi Arabia and rebels in neighboring Yemen escalates.\n\n💬 Will these Syrian fighters impact the escalating conflict in Yemen?\n\n📖 Read more: https://abcnews.com/International/wireStory/saudi-arabia-turns-syria-fighting-houthis-escalates-137956922\n\n#SaudiArabia #Syria #Yemen #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 128,
-   "tg_file_id": "AgACAgUAAxkDAAOAavDG2hqLv4odjIEqvIQCeFukel0AAjwVaxv_D4lX2hXGo7HvmxkBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-09T01:38:14.851929+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122096318541548584",
-   "posted_at": "2026-11-09T01:38:15.191147+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 08 · 8:38 PM New York · 7:08 AM Sri Lanka\n\n<b>Saudi Arabia turns to Syria for help amid Yemen conflict</b>\n<i>ABC News, The Independent</i>\n🔴 <b>Latest:</b> 12:26 AM Sri Lanka (6h 41m ago) · first reported 10:30 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096318541548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 35,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "1330888482420425"
-  },
   "51839f17eb": {
    "id": "51839f17eb",
    "headline": "Republican Party faces uncertainty after midterm losses with Trump in office",
@@ -4396,7 +4323,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "2115495445740345"
+   "fb_story_id": "2115495445740345",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "aa3c7ea26f": {
    "id": "aa3c7ea26f",
@@ -4487,7 +4420,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1437885648552803"
+   "fb_story_id": "1437885648552803",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "afe2244b16": {
    "id": "afe2244b16",
@@ -4561,7 +4500,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1797930314844660"
+   "fb_story_id": "1797930314844660",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "947283d3d9": {
    "id": "947283d3d9",
@@ -4637,7 +4582,13 @@
    "log_msg_id": 88,
    "log_photo": true,
    "cleared": true,
-   "fb_story_id": "2249194588993283"
+   "fb_story_id": "2249194588993283",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "a3808c8708": {
    "id": "a3808c8708",
@@ -4712,7 +4663,13 @@
    "log_msg_id": 86,
    "log_photo": true,
    "cleared": true,
-   "fb_story_id": "1059075090483408"
+   "fb_story_id": "1059075090483408",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "70a51e6974": {
    "id": "70a51e6974",
@@ -4787,7 +4744,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1493468702924284"
+   "fb_story_id": "1493468702924284",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "2b15e694bd": {
    "id": "2b15e694bd",
@@ -4861,7 +4824,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1741610234342519"
+   "fb_story_id": "1741610234342519",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "fba2f3fceb": {
    "id": "fba2f3fceb",
@@ -4947,7 +4916,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1082669434735375"
+   "fb_story_id": "1082669434735375",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "2a77dcace3": {
    "id": "2a77dcace3",
@@ -5035,7 +5010,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "2319590022208214"
+   "fb_story_id": "2319590022208214",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "203585998a": {
    "id": "203585998a",
@@ -5108,7 +5089,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1338327258314648"
+   "fb_story_id": "1338327258314648",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "4e837cdb83": {
    "id": "4e837cdb83",
@@ -5182,7 +5169,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1359496343923963"
+   "fb_story_id": "1359496343923963",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "21dfd4648c": {
    "id": "21dfd4648c",
@@ -5264,7 +5257,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1675929190587456"
+   "fb_story_id": "1675929190587456",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "6885954489": {
    "id": "6885954489",
@@ -5339,7 +5338,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1480786688452171"
+   "fb_story_id": "1480786688452171",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "72875fc37f": {
    "id": "72875fc37f",
@@ -5478,7 +5483,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1115169224443493"
+   "fb_story_id": "1115169224443493",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "f7ef8991b5": {
    "id": "f7ef8991b5",
@@ -5560,7 +5571,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1132854472584699"
+   "fb_story_id": "1132854472584699",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "5bb6a3928e": {
    "id": "5bb6a3928e",
@@ -5629,7 +5646,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1470024288437291"
+   "fb_story_id": "1470024288437291",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "3770cba8ab": {
    "id": "3770cba8ab",
@@ -5706,7 +5729,13 @@
    "log_msg_id": 107,
    "log_photo": true,
    "cleared": true,
-   "fb_story_id": "2057560351582081"
+   "fb_story_id": "2057560351582081",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "6bc19982ba": {
    "id": "6bc19982ba",
@@ -5791,7 +5820,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1125378060202228"
+   "fb_story_id": "1125378060202228",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "1f358cbd82": {
    "id": "1f358cbd82",
@@ -5867,7 +5902,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "4171078336523270"
+   "fb_story_id": "4171078336523270",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "365b690e77": {
    "id": "365b690e77",
@@ -5948,7 +5989,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "4178816729084133"
+   "fb_story_id": "4178816729084133",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "146fa5ff5a": {
    "id": "146fa5ff5a",
@@ -6023,7 +6070,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1456024023290344"
+   "fb_story_id": "1456024023290344",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "4de79c625c": {
    "id": "4de79c625c",
@@ -6097,7 +6150,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "4659280877647959"
+   "fb_story_id": "4659280877647959",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "e6f09dd6f7": {
    "id": "e6f09dd6f7",
@@ -6240,7 +6299,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1447015654042900"
+   "fb_story_id": "1447015654042900",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "d827c6e833": {
    "id": "d827c6e833",
@@ -6392,7 +6457,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1819637829084507"
+   "fb_story_id": "1819637829084507",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "b2abea547d": {
    "id": "b2abea547d",
@@ -6467,7 +6538,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1185702080769662"
+   "fb_story_id": "1185702080769662",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "c6d397b2d7": {
    "id": "c6d397b2d7",
@@ -6550,7 +6627,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1192980740059862"
+   "fb_story_id": "1192980740059862",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "b5b3ec9c19": {
    "id": "b5b3ec9c19",
@@ -6704,7 +6787,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "992918113268062"
+   "fb_story_id": "992918113268062",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "cca21c9568": {
    "id": "cca21c9568",
@@ -6778,7 +6867,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "977063188811504"
+   "fb_story_id": "977063188811504",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "1c90d14518": {
    "id": "1c90d14518",
@@ -6858,7 +6953,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1454542569397685"
+   "fb_story_id": "1454542569397685",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "b5834eed2c": {
    "id": "b5834eed2c",
@@ -6932,7 +7033,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "2434231960715751"
+   "fb_story_id": "2434231960715751",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "21ce99e6bc": {
    "id": "21ce99e6bc",
@@ -7012,7 +7119,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1466151692148206"
+   "fb_story_id": "1466151692148206",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "7e020afc69": {
    "id": "7e020afc69",
@@ -7296,7 +7409,13 @@
    "log_msg_id": 118,
    "log_photo": true,
    "cleared": true,
-   "fb_story_id": "1985772692750385"
+   "fb_story_id": "1985772692750385",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 1
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "625424f326": {
    "id": "625424f326",
@@ -7377,7 +7496,13 @@
    "log_chat": -1004367532135,
    "log_msg_id": 134,
    "log_photo": true,
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "e2486a4ac8": {
    "id": "e2486a4ac8",
@@ -7461,7 +7586,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1727035742479734"
+   "fb_story_id": "1727035742479734",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "269bb16799": {
    "id": "269bb16799",
@@ -7534,7 +7665,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "2379434672790700"
+   "fb_story_id": "2379434672790700",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "799d3791f4": {
    "id": "799d3791f4",
@@ -7607,7 +7744,13 @@
    "log_chat": -1004367532135,
    "log_msg_id": 138,
    "log_photo": true,
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "caba8b6905": {
    "id": "caba8b6905",
@@ -7681,7 +7824,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1622636529609732"
+   "fb_story_id": "1622636529609732",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "9e78ddd1bb": {
    "id": "9e78ddd1bb",
@@ -7815,7 +7964,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "2116989888935349"
+   "fb_story_id": "2116989888935349",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "ee5eecffd7": {
    "id": "ee5eecffd7",
@@ -7890,7 +8045,13 @@
    "log_msg_id": 124,
    "log_photo": true,
    "cleared": true,
-   "fb_story_id": "1485169103484713"
+   "fb_story_id": "1485169103484713",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "edb20522d6": {
    "id": "edb20522d6",
@@ -7964,7 +8125,13 @@
    "log_chat": -1004367532135,
    "log_msg_id": 127,
    "log_photo": true,
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "7659ed554e": {
    "id": "7659ed554e",
@@ -8042,7 +8209,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1206885605321058"
+   "fb_story_id": "1206885605321058",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "949e927e1f": {
    "id": "949e927e1f",
@@ -8116,7 +8289,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "2054583048568787"
+   "fb_story_id": "2054583048568787",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "19d89e3ee6": {
    "id": "19d89e3ee6",
@@ -8249,7 +8428,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "2363958054408794"
+   "fb_story_id": "2363958054408794",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "1c6a725ed0": {
    "id": "1c6a725ed0",
@@ -8322,7 +8507,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "978103131586978"
+   "fb_story_id": "978103131586978",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "81cc92e26e": {
    "id": "81cc92e26e",
@@ -8398,7 +8589,13 @@
    "log_chat": -1004367532135,
    "log_msg_id": 129,
    "log_photo": true,
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "b7be145325": {
    "id": "b7be145325",
@@ -8474,7 +8671,13 @@
    "log_chat": -1004367532135,
    "log_msg_id": 128,
    "log_photo": true,
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "df4c15c723": {
    "id": "df4c15c723",
@@ -8549,7 +8752,13 @@
    "log_msg_id": 133,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "c29e6ec6bf": {
    "id": "c29e6ec6bf",
@@ -8620,7 +8829,13 @@
    "log_chat": -1004367532135,
    "log_msg_id": 137,
    "log_photo": true,
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "e5eb01cfdb": {
    "id": "e5eb01cfdb",
@@ -8693,7 +8908,13 @@
    "log_chat": -1004367532135,
    "log_msg_id": 136,
    "log_photo": true,
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "c5bf3663b2": {
    "id": "c5bf3663b2",
@@ -8773,7 +8994,13 @@
    "log_chat": -1004367532135,
    "log_msg_id": 131,
    "log_photo": true,
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "349f8db910": {
    "id": "349f8db910",
@@ -8849,7 +9076,13 @@
    "log_chat": -1004367532135,
    "log_msg_id": 132,
    "log_photo": true,
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "87cfd790ec": {
    "id": "87cfd790ec",
@@ -8928,7 +9161,13 @@
    "log_msg_id": 130,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "5513351d03": {
    "id": "5513351d03",
@@ -9018,7 +9257,13 @@
    "log_msg_id": 135,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "edbbbef778": {
    "id": "edbbbef778",
@@ -9101,7 +9346,13 @@
    "log_chat": -1004367532135,
    "log_msg_id": 139,
    "log_photo": true,
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "455871c5df": {
    "id": "455871c5df",
@@ -9312,7 +9563,13 @@
    "log_msg_id": 140,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "807303a4ee": {
    "id": "807303a4ee",
@@ -9392,7 +9649,13 @@
    "log_msg_id": 141,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "6975066cce": {
    "id": "6975066cce",
@@ -9475,7 +9738,13 @@
    "log_msg_id": 142,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "e644a99994": {
    "id": "e644a99994",
@@ -9553,7 +9822,13 @@
    "log_msg_id": 156,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "6bc481b818": {
    "id": "6bc481b818",
@@ -9627,7 +9902,13 @@
    "log_msg_id": 143,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "6d8d7d2eff": {
    "id": "6d8d7d2eff",
@@ -9701,7 +9982,13 @@
    "log_msg_id": 155,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "665273818f": {
    "id": "665273818f",
@@ -9859,7 +10146,13 @@
    "log_msg_id": 154,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "ba721861d5": {
    "id": "ba721861d5",
@@ -9945,7 +10238,13 @@
    "log_msg_id": 144,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "cf27878220": {
    "id": "cf27878220",
@@ -10090,7 +10389,13 @@
    "log_msg_id": 152,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "e61ff03e9d": {
    "id": "e61ff03e9d",
@@ -10163,7 +10468,13 @@
    "log_msg_id": 145,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "9868f8195c": {
    "id": "9868f8195c",
@@ -10304,7 +10615,13 @@
    "log_msg_id": 151,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "cefff21e2b": {
    "id": "cefff21e2b",
@@ -10384,7 +10701,13 @@
    "log_msg_id": 150,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "a2824df62f": {
    "id": "a2824df62f",
@@ -10466,7 +10789,13 @@
    "log_msg_id": 149,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "9d03cbe8de": {
    "id": "9d03cbe8de",
@@ -10539,7 +10868,13 @@
    "log_msg_id": 148,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "d7272befe4": {
    "id": "d7272befe4",
@@ -10615,7 +10950,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "2270743376869966"
+   "fb_story_id": "2270743376869966",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "4e24202137": {
    "id": "4e24202137",
@@ -10690,7 +11031,13 @@
    "log_msg_id": 146,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "9a43c86cef": {
    "id": "9a43c86cef",
@@ -10822,7 +11169,13 @@
    "log_msg_id": 153,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "1c8d12e7b9": {
    "id": "1c8d12e7b9",
@@ -10894,7 +11247,13 @@
    "log_msg_id": 157,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "87481f600c": {
    "id": "87481f600c",
@@ -11029,7 +11388,13 @@
    "log_msg_id": 158,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "bf6b957b52": {
    "id": "bf6b957b52",
@@ -11102,7 +11467,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1117339620910658"
+   "fb_story_id": "1117339620910658",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "82fd68db9e": {
    "id": "82fd68db9e",
@@ -11238,7 +11609,13 @@
    "log_chat": -1004367532135,
    "log_msg_id": 165,
    "log_photo": true,
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "6c235661bd": {
    "id": "6c235661bd",
@@ -11378,7 +11755,13 @@
    "log_msg_id": 160,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "291b7687a6": {
    "id": "291b7687a6",
@@ -11570,7 +11953,13 @@
    "log_msg_id": 161,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "db183405ba": {
    "id": "db183405ba",
@@ -11650,7 +12039,13 @@
    "log_msg_id": 164,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "0434155b7b": {
    "id": "0434155b7b",
@@ -11723,7 +12118,13 @@
    "log_msg_id": 163,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "bea75efaa6": {
    "id": "bea75efaa6",
@@ -11796,7 +12197,13 @@
    "log_msg_id": 162,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "105d51eca5": {
    "id": "105d51eca5",
@@ -11868,7 +12275,13 @@
    "log_msg_id": 166,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "c819c4dfb9": {
    "id": "c819c4dfb9",
@@ -12061,7 +12474,13 @@
    "log_chat": -1004367532135,
    "log_msg_id": 167,
    "log_photo": true,
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "0fd17589fa": {
    "id": "0fd17589fa",
@@ -12133,7 +12552,13 @@
    "log_msg_id": 168,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "8b6428cdae": {
    "id": "8b6428cdae",
@@ -12206,7 +12631,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "998139756680740"
+   "fb_story_id": "998139756680740",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "6bfd6e38b7": {
    "id": "6bfd6e38b7",
@@ -12278,7 +12709,13 @@
    "log_msg_id": 170,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "7f48bd7968": {
    "id": "7f48bd7968",
@@ -12350,7 +12787,13 @@
    "log_msg_id": 171,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "8589cd79f0": {
    "id": "8589cd79f0",
@@ -12423,7 +12866,13 @@
    "log_msg_id": 172,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "6765febea5": {
    "id": "6765febea5",
@@ -12497,7 +12946,13 @@
    "log_chat": -1004367532135,
    "log_msg_id": 173,
    "log_photo": true,
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "f7592a8198": {
    "id": "f7592a8198",
@@ -12570,7 +13025,13 @@
    "log_msg_id": 175,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "2182ce5439": {
    "id": "2182ce5439",
@@ -12650,7 +13111,13 @@
    "log_msg_id": 174,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "49175d8390": {
    "id": "49175d8390",
@@ -12723,7 +13190,13 @@
    "log_msg_id": 176,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "f92826045e": {
    "id": "f92826045e",
@@ -12859,7 +13332,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1418375287122903"
+   "fb_story_id": "1418375287122903",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "48e092b1f8": {
    "id": "48e092b1f8",
@@ -13011,7 +13490,13 @@
    "log_msg_id": 178,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "4b473002e5": {
    "id": "4b473002e5",
@@ -13091,7 +13576,13 @@
    "log_msg_id": 179,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "794435b1aa": {
    "id": "794435b1aa",
@@ -13164,7 +13655,13 @@
    "log_msg_id": 181,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "c57d9b9b4f": {
    "id": "c57d9b9b4f",
@@ -13303,7 +13800,13 @@
    "log_msg_id": 183,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "5348667e43": {
    "id": "5348667e43",
@@ -13378,7 +13881,13 @@
    "log_chat": -1004367532135,
    "log_msg_id": 203,
    "log_photo": true,
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "7018d12efa": {
    "id": "7018d12efa",
@@ -13450,7 +13959,13 @@
    "log_msg_id": 201,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "bfd3670321": {
    "id": "bfd3670321",
@@ -13535,7 +14050,13 @@
    "log_msg_id": 199,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "01f29d526a": {
    "id": "01f29d526a",
@@ -13620,7 +14141,13 @@
    "log_msg_id": 197,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "dbb5db25ae": {
    "id": "dbb5db25ae",
@@ -13693,7 +14220,13 @@
    "log_msg_id": 195,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "585d196ff8": {
    "id": "585d196ff8",
@@ -13767,7 +14300,13 @@
    "log_msg_id": 193,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "76ccc1e33b": {
    "id": "76ccc1e33b",
@@ -13848,7 +14387,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1465553002369548"
+   "fb_story_id": "1465553002369548",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "dd8c859655": {
    "id": "dd8c859655",
@@ -14042,7 +14587,13 @@
    "log_msg_id": 189,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "a805217306": {
    "id": "a805217306",
@@ -14117,7 +14668,13 @@
    "log_msg_id": 187,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "d3669c0f3c": {
    "id": "d3669c0f3c",
@@ -14190,7 +14747,13 @@
    "log_msg_id": 185,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "e8d0b12d49": {
    "id": "e8d0b12d49",
@@ -14264,7 +14827,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "964612766388895"
+   "fb_story_id": "964612766388895",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "b8d28f9c3e": {
    "id": "b8d28f9c3e",
@@ -14337,7 +14906,13 @@
    "log_msg_id": 209,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "9208413554": {
    "id": "9208413554",
@@ -14420,7 +14995,13 @@
    "log_msg_id": 207,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "451840320f": {
    "id": "451840320f",
@@ -14495,7 +15076,13 @@
    "log_chat": -1004367532135,
    "log_msg_id": 211,
    "log_photo": true,
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "8ea6130c7c": {
    "id": "8ea6130c7c",
@@ -14567,7 +15154,13 @@
    "log_msg_id": 205,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "f20ccf018a": {
    "id": "f20ccf018a",
@@ -14653,7 +15246,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1787308749160270"
+   "fb_story_id": "1787308749160270",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "eeea2b2bb2": {
    "id": "eeea2b2bb2",
@@ -14728,7 +15327,13 @@
    "log_msg_id": 215,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "5b021b17f4": {
    "id": "5b021b17f4",
@@ -14863,7 +15468,13 @@
    "log_chat": -1004367532135,
    "log_msg_id": 237,
    "log_photo": true,
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "433c28badd": {
    "id": "433c28badd",
@@ -14943,7 +15554,13 @@
    "log_msg_id": 233,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "265869298b": {
    "id": "265869298b",
@@ -15016,7 +15633,13 @@
    "log_msg_id": 231,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "de30b93eeb": {
    "id": "de30b93eeb",
@@ -15167,7 +15790,13 @@
    "log_msg_id": 229,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "c884bf50cf": {
    "id": "c884bf50cf",
@@ -15302,7 +15931,13 @@
    "log_msg_id": 227,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "30b5b09dcb": {
    "id": "30b5b09dcb",
@@ -15436,7 +16071,13 @@
    "log_msg_id": 225,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "85c1caff13": {
    "id": "85c1caff13",
@@ -15509,7 +16150,13 @@
    "log_msg_id": 223,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "59deeaae7f": {
    "id": "59deeaae7f",
@@ -15582,7 +16229,13 @@
    "log_msg_id": 221,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "2ad045b59c": {
    "id": "2ad045b59c",
@@ -15660,7 +16313,13 @@
    "log_msg_id": 219,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "5a579197e7": {
    "id": "5a579197e7",
@@ -15732,7 +16391,13 @@
    "log_msg_id": 235,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "d4221e2d0d": {
    "id": "d4221e2d0d",
@@ -15805,7 +16470,13 @@
    "log_msg_id": 239,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "6f228f43e8": {
    "id": "6f228f43e8",
@@ -15880,7 +16551,13 @@
    "log_msg_id": 241,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "c1987b1ca2": {
    "id": "c1987b1ca2",
@@ -15953,7 +16630,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "28764200193279373"
+   "fb_story_id": "28764200193279373",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "cfda6da62f": {
    "id": "cfda6da62f",
@@ -16025,7 +16708,13 @@
    "log_msg_id": 245,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "5d2b442dfc": {
    "id": "5d2b442dfc",
@@ -16098,7 +16787,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1443643447856605"
+   "fb_story_id": "1443643447856605",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "5489776f74": {
    "id": "5489776f74",
@@ -16179,7 +16874,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1308450378073893"
+   "fb_story_id": "1308450378073893",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "cbd10e320f": {
    "id": "cbd10e320f",
@@ -16252,7 +16953,13 @@
    "log_msg_id": 249,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "1f289091a0": {
    "id": "1f289091a0",
@@ -16325,7 +17032,13 @@
    "log_msg_id": 257,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "b91a3907c5": {
    "id": "b91a3907c5",
@@ -16398,7 +17111,13 @@
    "log_msg_id": 255,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "6bf24c0100": {
    "id": "6bf24c0100",
@@ -16472,7 +17191,13 @@
    "log_chat": -1004367532135,
    "log_msg_id": 259,
    "log_photo": true,
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "46e8434cb8": {
    "id": "46e8434cb8",
@@ -16528,9 +17253,11 @@
    "news_time": "2026-11-12T15:42:07+00:00",
    "news_latest": "2026-11-12T16:01:57+00:00",
    "caption": "🚨 BREAKING: Police respond to shooting incident in Washington DC neighbourhood\n\nPolice report multiple people shot in a Washington DC neighbourhood near the White House. Officers responded to a nearby apartment building where a suspect was barricaded.\n\nWhat we know so far:\n• Police report multiple people shot in Washington DC\n• Officers responded to a nearby apartment building\n• A major police operation is underway\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WashingtonDC #News #WorldNews #7SeasNews",
-   "status": "pending",
+   "status": "skipped",
    "tg_message_id": 423,
-   "tg_file_id": "AgACAgUAAxkDAAIBp2r19DqFQ-qXX1NJBO4GjhRpWbaZAAJCE2sbSxqxVyAj-Ge2FS0lAQADAgADdwADPQQ"
+   "tg_file_id": "AgACAgUAAxkDAAIBp2r19DqFQ-qXX1NJBO4GjhRpWbaZAAJCE2sbSxqxVyAj-Ge2FS0lAQADAgADdwADPQQ",
+   "extra_msgs": [],
+   "cleared": true
   },
   "b4c2ddcd5c": {
    "id": "b4c2ddcd5c",
@@ -16603,7 +17330,13 @@
    "log_msg_id": 253,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "b0cbcf291c": {
    "id": "b0cbcf291c",
@@ -16684,7 +17417,13 @@
    "log_msg_id": 261,
    "log_photo": true,
    "extra_msgs": [],
-   "cleared": true
+   "cleared": true,
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "e7450a0dd4": {
    "id": "e7450a0dd4",
@@ -16758,7 +17497,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "2234185040472680"
+   "fb_story_id": "2234185040472680",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   },
   "3983c9a89b": {
    "id": "3983c9a89b",
@@ -16820,12 +17565,21 @@
    "news_time": "2026-11-12T17:09:36+00:00",
    "news_latest": "2026-11-12T18:33:29+00:00",
    "caption": "USS George HW Bush deployment extended in Middle East\n\nNavy officials extended the deployment of the aircraft carrier USS George H.W. Bush in the Middle East following the lengthy mission of the USS Abraham Lincoln. Families learned loved ones will not be home for the holidays, and officials warned of a potential 12-month deployment.\n\n💬 Should military deployments be extended without returning home for the holidays?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USNavy #MiddleEast #Military #7SeasNews",
-   "status": "queued",
+   "status": "posted",
    "tg_message_id": 428,
    "tg_file_id": "AgACAgUAAxkDAAIBrGr2CWcMN7LhgqcZPe6D9lkZkP6UAAIfE2sbFv2wV7lEda-kA4MJAQADAgADdwADPQQ",
    "queued_at": "2026-11-12T18:45:59.376939+00:00",
    "post_now": true,
-   "auto": true
+   "auto": true,
+   "fb_post_id": "1413030521900096_122099732163548584",
+   "posted_at": "2026-11-12T19:06:25.455947+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 12 · 2:06 PM New York · 12:36 AM Sri Lanka\n\n<b>USS George HW Bush deployment extended in Middle East</b>\n<i>Newsweek, The Independent</i>\n🟢 <b>Latest:</b> 12:03 AM Sri Lanka (33 min ago) · first reported 10:39 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099732163548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 267,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122099732163548584_2391967218239297"
   },
   "b545231803": {
    "id": "b545231803",
@@ -16897,7 +17651,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_story_id": "1446295970327284"
+   "fb_story_id": "1446295970327284",
+   "stats": {
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "stats_at": "2026-11-12T19:00:32.600409+00:00"
   }
  },
  "seen_links": [
@@ -17632,20 +18392,6 @@
   "https://abcnews.com/International/wireStory/military-helicopter-crashes-southern-turkey-killing-4-138085371"
  ],
  "recent_topics": [
-  [
-   "2026-11-09T19:00:48.044894+00:00",
-   [
-    "devastat",
-    "jok",
-    "last",
-    "loss",
-    "ohio",
-    "referr",
-    "stat",
-    "vanc"
-   ],
-   "3c9e10c016"
-  ],
   [
    "2026-11-09T19:15:37.910988+00:00",
    [
@@ -20789,17 +21535,13 @@
    "b545231803"
   ]
  ],
- "last_draft_at": "2026-11-12T18:45:24.378685+00:00",
+ "last_draft_at": "2026-11-12T19:03:18.020570+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-12T18:00:32.012738+00:00",
+ "last_stats_at": "2026-11-12T19:00:32.600409+00:00",
  "run_log": [
-  "11-12 16:30:26 run start",
-  "11-12 16:31:08 listening 11 min",
-  "11-12 16:42:03 listening done",
-  "11-12 16:42:03 run end after 697 s",
   "11-12 16:45:23 run start",
   "11-12 16:45:33 listening 11 min",
   "11-12 16:56:53 listening done",
@@ -20835,7 +21577,11 @@
   "11-12 18:45:23 run start",
   "11-12 18:46:57 listening 10 min",
   "11-12 18:56:59 listening done",
-  "11-12 18:56:59 run end after 695 s"
+  "11-12 18:56:59 run end after 695 s",
+  "11-12 19:00:32 run start",
+  "11-12 19:03:28 listening 9 min",
+  "11-12 19:12:11 listening done",
+  "11-12 19:12:11 run end after 699 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
@@ -24209,7 +24955,7 @@
  },
  "comment_perm_told": true,
  "auto_count": {
-  "2026-11-12": 3
+  "2026-11-12": 4
  },
- "last_auto_at": "2026-11-12T18:46:14.757186+00:00"
+ "last_auto_at": "2026-11-12T19:06:25.455947+00:00"
 }
