@@ -16329,6 +16329,64 @@
    "status": "pending",
    "tg_message_id": 402,
    "tg_file_id": "AgACAgUAAxkDAAIBkmr1o2KYBpaZ7Fm6ROzxeJfqc2_MAAKBE2sbSxqpV5IVUvQoDzyuAQADAgADdwADPQQ"
+  },
+  "30b5b09dcb": {
+   "id": "30b5b09dcb",
+   "headline": "Israeli airstrike on Nasser hospital in Gaza kills six people",
+   "summary": "An Israeli airstrike in Khan Younis killed six people, including a surgeon. The Israeli military stated it targeted a Hamas commander, while Palestinian officials reported the dead also included a disabled man and patients awaiting surgery.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Six people killed in Nasser hospital strike",
+    "Israeli military says it targeted Hamas commander",
+    "Surgeon and disabled man among the dead"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Gaza",
+    "#Israel",
+    "#WorldNews"
+   ],
+   "sources": [
+    "DW",
+    "The Guardian"
+   ],
+   "link": "https://www.dw.com/en/israel-targets-senior-hamas-member-in-gaza-hospital-strike/a-79927645?maca=en-rss-en-world-4025-rdf",
+   "links": [
+    [
+     "DW",
+     "https://www.dw.com/en/israel-targets-senior-hamas-member-in-gaza-hospital-strike/a-79927645?maca=en-rss-en-world-4025-rdf"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Khan Younis, Palestinian Territories"
+   },
+   "img_post": {
+    "headline": "Israeli airstrike on Nasser hospital in Gaza kills six people",
+    "people": [],
+    "image_query": "Nasser hospital Gaza",
+    "image_queries": [
+     "Khan Younis street view",
+     "Gaza medical facility",
+     "hospital building exterior",
+     "southern Gaza strip"
+    ],
+    "image_style": "incident",
+    "location": "Khan Younis, Palestinian Territories"
+   },
+   "created_at": "2026-11-12T11:45:34.937084+00:00",
+   "news_time": "2026-11-12T11:24:09+00:00",
+   "news_latest": "2026-11-12T11:27:00+00:00",
+   "caption": "Israeli airstrike on Nasser hospital in Gaza kills six people\n\nAn Israeli airstrike in Khan Younis killed six people, including a surgeon. The Israeli military stated it targeted a Hamas commander, while Palestinian officials reported the dead also included a disabled man and patients awaiting surgery.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Gaza #Israel #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 403,
+   "tg_file_id": "AgACAgUAAxkDAAIBk2r1pubNCdOA4sRr9drbzbq6a_TsAAKEE2sbSxqpV6djH_AT67yLAQADAgADdwADPQQ"
   }
  },
  "seen_links": [
@@ -16993,7 +17051,9 @@
   "https://www.washingtonpost.com/politics/2026/11/12/new-congressman-blue-wave-2028-what-democrats-should-prioritize/",
   "https://www.npr.org/2026/11/12/nx-s1-6029640/black-voter-turnout-congress-redistricting",
   "https://kyivindependent.com/tsikhanouskaya-says-belarus-must-be-included-in-russia-ukraine-peace-talks/",
-  "https://www.npr.org/2026/11/12/nx-s1-6037526/former-u-s-ambassador-william-taylor-discusses-the-latest-russia-ukraine-talks"
+  "https://www.npr.org/2026/11/12/nx-s1-6037526/former-u-s-ambassador-william-taylor-discusses-the-latest-russia-ukraine-talks",
+  "https://www.dw.com/en/israel-targets-senior-hamas-member-in-gaza-hospital-strike/a-79927645?maca=en-rss-en-world-4025-rdf",
+  "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon"
  ],
  "recent_topics": [
   [
@@ -20395,19 +20455,36 @@
     "william"
    ],
    "9ba914a594"
+  ],
+  [
+   "2026-11-12T11:45:42.407361+00:00",
+   [
+    "airstrik",
+    "fiv",
+    "gaza",
+    "hama",
+    "hospital",
+    "israel",
+    "israeli",
+    "kill",
+    "member",
+    "nasser",
+    "other",
+    "senior",
+    "strik",
+    "surgeon",
+    "target"
+   ],
+   "30b5b09dcb"
   ]
  ],
- "last_draft_at": "2026-11-12T11:30:26.546158+00:00",
+ "last_draft_at": "2026-11-12T11:45:22.706628+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T11:00:34.555558+00:00",
  "run_log": [
-  "11-12 09:15:23 run start",
-  "11-12 09:15:43 listening 11 min",
-  "11-12 09:27:02 listening done",
-  "11-12 09:27:02 run end after 698 s",
   "11-12 09:30:25 run start",
   "11-12 09:30:36 listening 11 min",
   "11-12 09:41:55 listening done",
@@ -20443,7 +20520,11 @@
   "11-12 11:30:26 run start",
   "11-12 11:30:43 listening 11 min",
   "11-12 11:42:01 listening done",
-  "11-12 11:42:01 run end after 695 s"
+  "11-12 11:42:01 run end after 695 s",
+  "11-12 11:45:22 run start",
+  "11-12 11:45:42 listening 11 min",
+  "11-12 11:57:00 listening done",
+  "11-12 11:57:00 run end after 698 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
