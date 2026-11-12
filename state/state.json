@@ -16685,6 +16685,219 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true
+  },
+  "e7450a0dd4": {
+   "id": "e7450a0dd4",
+   "headline": "Dr. Matt Lambert identified as suspect in Washington DC gym shooting",
+   "summary": "Police state that a suspect identified as Dr. Matt Lambert died by suicide following a fatal shooting at a Washington, D.C., gym. Authorities report that one person was killed in the incident.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "The shooting took place at a Washington, D.C., gym.",
+    "The suspect died from a self-inflicted gunshot wound.",
+    "One person was killed in the attack."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#WashingtonDC",
+    "#News",
+    "#USNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "Newsweek"
+   ],
+   "link": "https://www.newsweek.com/dc-shooting-suspect-logan-circle-12706435",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/dc-shooting-suspect-logan-circle-12706435"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/12/suspect-turns-gun-on-himself-after-deadly-shooting-in-washington-dc?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Washington, D.C., US"
+   },
+   "img_post": {
+    "headline": "Dr. Matt Lambert identified as suspect in Washington DC gym shooting",
+    "people": [
+     "Dr. Matt Lambert"
+    ],
+    "image_query": "Washington DC skyline",
+    "image_queries": [
+     "police tape street",
+     "emergency vehicles",
+     "Washington street scene",
+     "city police department"
+    ],
+    "image_style": "incident",
+    "location": "Washington, D.C., US",
+    "event_query": "Washington DC gym shooting",
+    "news_time": null
+   },
+   "created_at": "2026-11-12T18:45:41.589106+00:00",
+   "news_time": "2026-11-12T18:02:32+00:00",
+   "news_latest": "2026-11-12T18:36:35+00:00",
+   "caption": "🚨 BREAKING: Dr. Matt Lambert identified as suspect in Washington DC gym shooting\n\nPolice state that a suspect identified as Dr. Matt Lambert died by suicide following a fatal shooting at a Washington, D.C., gym. Authorities report that one person was killed in the incident.\n\nWhat we know so far:\n• The shooting took place at a Washington, D.C., gym.\n• The suspect died from a self-inflicted gunshot wound.\n• One person was killed in the attack.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WashingtonDC #News #USNews #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 427,
+   "tg_file_id": "AgACAgUAAxkDAAIBq2r2CVp4sq7jC6EDQupTr--c8CaPAAIeE2sbFv2wV0oiGK2HkPMqAQADAgADdwADPQQ",
+   "queued_at": "2026-11-12T18:45:47.149728+00:00",
+   "post_now": true,
+   "auto": true,
+   "fb_post_id": "1413030521900096_122099716419548584",
+   "posted_at": "2026-11-12T18:46:14.757186+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 12 · 1:46 PM New York · 12:16 AM Sri Lanka\n\n<b>Dr. Matt Lambert identified as suspect in Washington DC gym shooting</b>\n<i>Al Jazeera, Newsweek</i>\n🟢 <b>Latest:</b> 12:06 AM Sri Lanka (9 min ago) · first reported 11:32 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099716419548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 263,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "2234185040472680"
+  },
+  "3983c9a89b": {
+   "id": "3983c9a89b",
+   "headline": "USS George HW Bush deployment extended in Middle East",
+   "summary": "Navy officials extended the deployment of the aircraft carrier USS George H.W. Bush in the Middle East following the lengthy mission of the USS Abraham Lincoln. Families learned loved ones will not be home for the holidays, and officials warned of a potential 12-month deployment.",
+   "label": "WORLD",
+   "hook": "Should military deployments be extended without returning home for the holidays?",
+   "key_points": [
+    "The strike group deployment has been extended twice.",
+    "Navy officials warned of a potential 12-month deployment."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USNavy",
+    "#MiddleEast",
+    "#Military"
+   ],
+   "sources": [
+    "Newsweek",
+    "The Independent"
+   ],
+   "link": "https://www.newsweek.com/uss-george-h-w-bush-abraham-lincoln-deployment-comparison-12705042",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/uss-george-h-w-bush-abraham-lincoln-deployment-comparison-12705042"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/navy-iran-mission-uss-george-hw-bush-trump-b3084030.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Spring_Time_at_Arlington_National_Cemetery%2C_Arlington%2C_Virginia_on_April_18%2C_2024_-_39.jpg/1920px-Spring_Time_at_Arlington_National_Cemetery%2C_Arlington%2C_Virginia_on_April_18%2C_2024_-_39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Arlington National Cemetery / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "USS George HW Bush deployment extended in Middle East",
+    "people": [],
+    "image_query": "Pentagon building",
+    "image_queries": [
+     "aircraft carrier deck",
+     "naval base harbor",
+     "US Navy ship",
+     "ocean horizon view"
+    ],
+    "image_style": "scene",
+    "location": "Middle East",
+    "event_query": "USS George HW Bush deployment",
+    "news_time": null
+   },
+   "created_at": "2026-11-12T18:45:57.355410+00:00",
+   "news_time": "2026-11-12T17:09:36+00:00",
+   "news_latest": "2026-11-12T18:33:29+00:00",
+   "caption": "USS George HW Bush deployment extended in Middle East\n\nNavy officials extended the deployment of the aircraft carrier USS George H.W. Bush in the Middle East following the lengthy mission of the USS Abraham Lincoln. Families learned loved ones will not be home for the holidays, and officials warned of a potential 12-month deployment.\n\n💬 Should military deployments be extended without returning home for the holidays?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USNavy #MiddleEast #Military #7SeasNews",
+   "status": "queued",
+   "tg_message_id": 428,
+   "tg_file_id": "AgACAgUAAxkDAAIBrGr2CWcMN7LhgqcZPe6D9lkZkP6UAAIfE2sbFv2wV7lEda-kA4MJAQADAgADdwADPQQ",
+   "queued_at": "2026-11-12T18:45:59.376939+00:00",
+   "post_now": true,
+   "auto": true
+  },
+  "b545231803": {
+   "id": "b545231803",
+   "headline": "Military helicopter crash in southern Turkey leaves four dead",
+   "summary": "A military helicopter crashed in southern Turkey on Thursday evening. The Turkish Defense Ministry reported that four personnel died in the incident in the Samankoy neighbourhood.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "The crash occurred on Thursday evening.",
+    "Four personnel were killed in the incident.",
+    "The Turkish Defense Ministry confirmed the crash."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Turkey",
+    "#WorldNews",
+    "#Military"
+   ],
+   "sources": [
+    "ABC News",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/europe/turkey-military-helicopter-crash-samankoy-b3084116.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/europe/turkey-military-helicopter-crash-samankoy-b3084116.html"
+    ],
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/military-helicopter-crashes-southern-turkey-killing-4-138085371"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Turkey"
+   },
+   "img_post": {
+    "headline": "Military helicopter crash in southern Turkey leaves four dead",
+    "people": [],
+    "image_query": "Turkish landscape",
+    "image_queries": [
+     "Turkish flag",
+     "military helicopter",
+     "rescue personnel",
+     "Turkish military base"
+    ],
+    "image_style": "incident",
+    "location": "Turkey",
+    "event_query": "Samankoy helicopter crash",
+    "news_time": null
+   },
+   "created_at": "2026-11-12T18:46:09.085735+00:00",
+   "news_time": "2026-11-12T17:42:19+00:00",
+   "news_latest": "2026-11-12T18:08:59+00:00",
+   "caption": "🚨 BREAKING: Military helicopter crash in southern Turkey leaves four dead\n\nA military helicopter crashed in southern Turkey on Thursday evening. The Turkish Defense Ministry reported that four personnel died in the incident in the Samankoy neighbourhood.\n\nWhat we know so far:\n• The crash occurred on Thursday evening.\n• Four personnel were killed in the incident.\n• The Turkish Defense Ministry confirmed the crash.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Turkey #WorldNews #Military #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 429,
+   "tg_file_id": "AgACAgUAAxkDAAIBrWr2CXaQgmPK1QmBkaFcX0o9lgIKAAIgE2sbFv2wVzz4ouW29KhOAQADAgADdwADPQQ",
+   "queued_at": "2026-11-12T18:46:14.377141+00:00",
+   "post_now": true,
+   "auto": true,
+   "fb_post_id": "1413030521900096_122099716731548584",
+   "posted_at": "2026-11-12T18:46:14.757186+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 12 · 1:46 PM New York · 12:16 AM Sri Lanka\n\n<b>Military helicopter crash in southern Turkey leaves four dead</b>\n<i>ABC News, The Independent</i>\n🟢 <b>Latest:</b> 11:38 PM Sri Lanka (37 min ago) · first reported 11:12 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099716731548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 265,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_story_id": "1446295970327284"
   }
  },
  "seen_links": [
@@ -17410,82 +17623,15 @@
   "https://www.newsweek.com/joe-biden-pushes-new-prostate-cancer-screening-advice-after-health-update-12707022",
   "https://www.independent.co.uk/news/health/prostate-cancer-testing-screening-guidelines-b3083888.html",
   "https://www.washingtonexaminer.com/news/white-house/4801678/unprecedented-for-treasury-secretary-to-leave-home-over-iranian-threat-joe-concha/",
-  "https://www.nbcnews.com/politics/trump-administration/treasury-secretary-scott-bessent-moves-military-base-iranian-threats-rcna608951"
+  "https://www.nbcnews.com/politics/trump-administration/treasury-secretary-scott-bessent-moves-military-base-iranian-threats-rcna608951",
+  "https://www.newsweek.com/dc-shooting-suspect-logan-circle-12706435",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/12/suspect-turns-gun-on-himself-after-deadly-shooting-in-washington-dc?traffic_source=rss",
+  "https://www.newsweek.com/uss-george-h-w-bush-abraham-lincoln-deployment-comparison-12705042",
+  "https://www.independent.co.uk/news/world/americas/navy-iran-mission-uss-george-hw-bush-trump-b3084030.html",
+  "https://www.independent.co.uk/news/world/europe/turkey-military-helicopter-crash-samankoy-b3084116.html",
+  "https://abcnews.com/International/wireStory/military-helicopter-crashes-southern-turkey-killing-4-138085371"
  ],
  "recent_topics": [
-  [
-   "2026-11-09T18:45:50.507868+00:00",
-   [
-    "bargain",
-    "bitter",
-    "both",
-    "convict",
-    "daily",
-    "freedom",
-    "guarante",
-    "look",
-    "loss",
-    "month",
-    "peac",
-    "record",
-    "russia",
-    "security",
-    "sid",
-    "soldier",
-    "suffer",
-    "talk",
-    "tim",
-    "ukrain",
-    "ukrainian",
-    "us-l",
-    "war"
-   ],
-   "8888b658a6"
-  ],
-  [
-   "2026-11-09T18:45:58.612708+00:00",
-   [
-    "24",
-    "colleg",
-    "desanti",
-    "expand",
-    "expansion",
-    "finebaum",
-    "football",
-    "paul",
-    "playoff",
-    "reaction",
-    "reveal",
-    "rip",
-    "short-sight",
-    "surpris",
-    "team"
-   ],
-   "b3dd094d62"
-  ],
-  [
-   "2026-11-09T18:46:13.273284+00:00",
-   [
-    "all",
-    "berni",
-    "congress",
-    "democratic",
-    "expand",
-    "hous",
-    "leadership",
-    "medicar",
-    "member",
-    "minority",
-    "oust",
-    "push",
-    "republican",
-    "rol",
-    "runn",
-    "sander",
-    "which"
-   ],
-   "ee592edc18"
-  ],
   [
    "2026-11-09T19:00:48.044894+00:00",
    [
@@ -20586,19 +20732,70 @@
     "updat"
    ],
    "b0cbcf291c"
+  ],
+  [
+   "2026-11-12T18:45:47.147275+00:00",
+   [
+    "deadly",
+    "gun",
+    "himself",
+    "know",
+    "lambert",
+    "matt",
+    "shoot",
+    "suspect",
+    "turn",
+    "washington"
+   ],
+   "e7450a0dd4"
+  ],
+  [
+   "2026-11-12T18:45:59.374336+00:00",
+   [
+    "abraham",
+    "aircraft",
+    "bush",
+    "carrier",
+    "compar",
+    "deployment",
+    "east",
+    "extend",
+    "family",
+    "georg",
+    "holiday",
+    "hom",
+    "lincoln",
+    "lov",
+    "middl",
+    "told",
+    "uss",
+    "wont"
+   ],
+   "3983c9a89b"
+  ],
+  [
+   "2026-11-12T18:46:14.374549+00:00",
+   [
+    "crash",
+    "dead",
+    "four",
+    "helicopter",
+    "kill",
+    "leav",
+    "military",
+    "southern",
+    "turkey"
+   ],
+   "b545231803"
   ]
  ],
- "last_draft_at": "2026-11-12T18:30:27.934880+00:00",
+ "last_draft_at": "2026-11-12T18:45:24.378685+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-12T18:00:32.012738+00:00",
  "run_log": [
-  "11-12 16:15:25 run start",
-  "11-12 16:15:53 listening 11 min",
-  "11-12 16:27:13 listening done",
-  "11-12 16:27:13 run end after 707 s",
   "11-12 16:30:26 run start",
   "11-12 16:31:08 listening 11 min",
   "11-12 16:42:03 listening done",
@@ -20634,12 +20831,15 @@
   "11-12 18:30:27 run start",
   "11-12 18:30:47 listening 11 min",
   "11-12 18:42:08 listening done",
-  "11-12 18:42:08 run end after 700 s"
+  "11-12 18:42:08 run end after 700 s",
+  "11-12 18:45:23 run start",
+  "11-12 18:46:57 listening 10 min",
+  "11-12 18:56:59 listening done",
+  "11-12 18:56:59 run end after 695 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Secretary_of_Defense_Pete_Hegseth_official_portrait_%28cropped%29.jpg/1280px-Secretary_of_Defense_Pete_Hegseth_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Ballot_box_in_Denver%2C_October_2020_2.jpg/1920px-Ballot_box_in_Denver%2C_October_2020_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/USS_Gerald_R._Ford_%28CVN_78%29_shock_ttrial_1.jpg/1920px-USS_Gerald_R._Ford_%28CVN_78%29_shock_ttrial_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Pete_Hegseth_%2851772824725%29.jpg/1280px-Pete_Hegseth_%2851772824725%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -20678,7 +20878,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/South_Texas%2C_Border_Patrol_Agents%2C_McAllen_Horse_Patrol_Unit_%2811933500215%29.jpg/1920px-South_Texas%2C_Border_Patrol_Agents%2C_McAllen_Horse_Patrol_Unit_%2811933500215%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/A_U.S._Navy_Hull_Maintenance_Technician_3rd_Class_Robert_Frey_fabricates_a_steel_countertop_aboard_the_aircraft_carrier_USS_Nimitz_%28CVN_68%29_Aug._20%2C_2013%2C_while_underway_in_the_Gulf_of_Oman_130820-N-JC752-778.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/0/05/UN_General_Assembly_hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://upload.wikimedia.org/wikipedia/commons/f/fb/Germantown_White_House%2C_exterior_%287e7a56bf-1dd8-b71b-0b57-9b70001df804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/f/fb/Germantown_White_House%2C_exterior_%287e7a56bf-1dd8-b71b-0b57-9b70001df804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Spring_Time_at_Arlington_National_Cemetery%2C_Arlington%2C_Virginia_on_April_18%2C_2024_-_39.jpg/1920px-Spring_Time_at_Arlington_National_Cemetery%2C_Arlington%2C_Virginia_on_April_18%2C_2024_-_39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump": {
@@ -23992,7 +24193,6 @@
    }
   },
   "recent_ideas": [
-   "saint basil's cathedral",
    "united states capitol rotunda",
    "dublin, ireland",
    "spanish parliament building",
@@ -24003,12 +24203,13 @@
    "border patrol, texas",
    "aircraft carrier, united states navy",
    "u.n. general assembly hall",
-   "white house exterior"
+   "white house exterior",
+   "arlington national cemetery"
   ]
  },
  "comment_perm_told": true,
  "auto_count": {
-  "2026-11-12": 1
+  "2026-11-12": 3
  },
- "last_auto_at": "2026-11-12T18:16:57.997364+00:00"
+ "last_auto_at": "2026-11-12T18:46:14.757186+00:00"
 }
