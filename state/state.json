@@ -1,88 +1,6 @@
 {
  "tg_offset": 495893020,
  "drafts": {
-  "3c9e10c016": {
-   "id": "3c9e10c016",
-   "headline": "Vice President JD Vance jokes about devastating loss",
-   "summary": "Vice President JD Vance spoke at an event in Washington, addressing veterans. He made a joke about a devastating loss, which referred to football rather than political losses.",
-   "label": "US POLITICS",
-   "hook": "Did the joke about the football loss help clear up political tensions?",
-   "key_points": [
-    "JD Vance spoke at a National Veterans Small Business Week event.",
-    "The remarks addressed a loss last week.",
-    "The comment was actually about football."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#JDVance",
-    "#USPolitics",
-    "#Washington"
-   ],
-   "sources": [
-    "The Hill",
-    "Washington Examiner"
-   ],
-   "link": "https://www.washingtonexaminer.com/news/white-house/4797454/vance-jokes-about-devastating-loss-ohio-state/",
-   "links": [
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/news/white-house/4797454/vance-jokes-about-devastating-loss-ohio-state/"
-    ],
-    [
-     "The Hill",
-     "https://thehill.com/homenews/administration/6208643-vance-joked-buckeyes-loss/"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Senator_JD_Vance_thanking_first_responders_in_East_Palestine.jpg/1280px-Senator_JD_Vance_thanking_first_responders_in_East_Palestine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Senator Vance's Press Office / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Vice President JD Vance jokes about devastating loss",
-    "people": [
-     "JD Vance"
-    ],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "Senate chamber",
-     "White House",
-     "Capitol Hill",
-     "Veterans Affairs building"
-    ],
-    "image_style": "person",
-    "location": "Washington, US"
-   },
-   "created_at": "2026-11-09T19:00:45.218976+00:00",
-   "news_time": "2026-11-09T18:49:45+00:00",
-   "news_latest": "2026-11-09T18:58:42+00:00",
-   "caption": "Vice President JD Vance jokes about devastating loss\n\nVice President JD Vance spoke at an event in Washington, addressing veterans. He made a joke about a devastating loss, which referred to football rather than political losses.\n\n💬 Did the joke about the football loss help clear up political tensions?\n\n📖 Read more: https://www.washingtonexaminer.com/news/white-house/4797454/vance-jokes-about-devastating-loss-ohio-state/\n\n#JDVance #USPolitics #Washington #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 212,
-   "tg_file_id": "AgACAgUAAxkDAAPUavIYX1fKe8DS2SSaDplNx-h5EmsAAgIWaxuLT5BX13GtYI0wTZUBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-09T19:02:19.644233+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122096927859548584",
-   "posted_at": "2026-11-09T19:02:19.969244+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 09 · 2:02 PM New York · 12:32 AM Sri Lanka\n\n<b>Vice President JD Vance jokes about devastating loss</b>\n<i>The Hill, Washington Examiner</i>\n🟢 <b>Latest:</b> 12:28 AM Sri Lanka (3 min ago) · first reported 12:19 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096927859548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 84,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "2115495445740345",
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-12T19:00:32.600409+00:00"
-  },
   "aa3c7ea26f": {
    "id": "aa3c7ea26f",
    "headline": "Republican Representative Thomas Massie forces impeachment vote on Hegseth",
@@ -21403,17 +21321,13 @@
    "9eb78b77eb"
   ]
  ],
- "last_draft_at": "2026-11-13T18:45:34.723647+00:00",
+ "last_draft_at": "2026-11-13T19:00:51.256347+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T18:30:43.468935+00:00",
  "run_log": [
-  "11-13 16:46:13 run start",
-  "11-13 16:46:24 listening 11 min",
-  "11-13 16:57:44 listening done",
-  "11-13 16:57:44 run end after 690 s",
   "11-13 16:58:20 run start",
   "11-13 16:58:30 listening 11 min",
   "11-13 17:09:50 listening done",
@@ -21449,7 +21363,11 @@
   "11-13 18:45:34 run start",
   "11-13 18:45:44 listening 11 min",
   "11-13 18:57:05 listening done",
-  "11-13 18:57:05 run end after 691 s"
+  "11-13 18:57:05 run end after 691 s",
+  "11-13 19:00:50 run start",
+  "11-13 19:01:01 listening 11 min",
+  "11-13 19:12:19 listening done",
+  "11-13 19:12:19 run end after 689 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
