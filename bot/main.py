@@ -1202,6 +1202,10 @@ def reel_audio(seconds, key_times, breaking, whoosh_at):
     return mem.getvalue()
 
 
+REEL_COVER = {}      # cover picture (full headline) of the last Reel made, sent to Facebook as its thumbnail
+COVER_FRAMES = 3     # the first 0.1 s shows the full headline: Facebook's default cover is the first frame
+
+
 def make_reel(d, seconds=None):
     """Build the Reel video for one post and return the MP4 bytes."""
     seconds = max(6, int(seconds or REEL_SECONDS))
@@ -1249,8 +1253,9 @@ def make_reel(d, seconds=None):
                 if f >= end_start + fade:
                     img = end
                 else:
-                    shown = shown_at(f)
-                    blink_on = shown < total_chars or (f // 15) % 2 == 0     # cursor blinks when done
+                    cover = f < COVER_FRAMES                         # opening frame = full headline (the cover)
+                    shown = total_chars if cover else shown_at(f)
+                    blink_on = not cover and (shown < total_chars or (f // 15) % 2 == 0)   # cursor blinks when done
                     key = (shown, blink_on)
                     if key not in cache:
                         img = base.copy()
@@ -1272,6 +1277,10 @@ def make_reel(d, seconds=None):
                                           cy + int(size * 1.12)], fill=RED)
                         cache = {key: img}                           # keep memory small
                     img = cache[key]
+                    if f == 0:
+                        mem = io.BytesIO()
+                        img.save(mem, "JPEG", quality=90)
+                        REEL_COVER["jpg"] = mem.getvalue()
                     if f >= end_start:                               # cross-fade into the end card
                         img = Image.blend(img, end, (f - end_start + 1) / fade)
                 proc.stdin.write(img.tobytes())
@@ -1312,6 +1321,14 @@ def facebook_post_reel(video_bytes, caption):
                                           "description": caption, "access_token": FB_TOKEN}).json()
     if "error" in j or not j.get("success", True):
         raise RuntimeError("Reel finish: " + str(j.get("error", {}).get("message", j)))
+    if REEL_COVER.get("jpg"):                    # cover = the full headline (not the empty first typing frame)
+        try:
+            t = HTTP.post(f"https://graph.facebook.com/{GRAPH_VERSION}/{vid}/thumbnails", timeout=60,
+                          data={"is_preferred": "true", "access_token": FB_TOKEN},
+                          files={"source": ("cover.jpg", REEL_COVER["jpg"], "image/jpeg")}).json()
+            log("Reel cover:", "set" if not t.get("error") else t["error"].get("message"))
+        except Exception as e:
+            log("Reel cover failed:", e)          # the Reel is still fine (its first frame is the cover too)
     return vid
 
 

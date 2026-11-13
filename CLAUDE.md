@@ -42,7 +42,8 @@ optional PIXABAY_API_KEY / PEXELS_API_KEY / FLICKR_API_KEY. Never print or commi
   end whoosh, BREAKING news-alert sting with typing starting at 1.1 s; REEL_TYPING_SOUND / REEL_BREAKING_SOUND / REEL_SOUND_VOLUME)
   (make_reel): post image at y=285, blurred 45%-dark photo zoom above, post bottom colour below, headline
   re-typed in Poppins Bold with red cursor (render_image(hide_headline=True, layout=…)), end card
-  "FOLLOW FOR MORE". Published with Graph video_reels start → rupload.facebook.com → finish PUBLISHED
+  "FOLLOW FOR MORE". Cover: first COVER_FRAMES frames show the full headline + REEL_COVER jpg sent to
+  POST /{video_id}/thumbnails (is_preferred; failure only logged). Published with Graph video_reels start → rupload.facebook.com → finish PUBLISHED
   (GRAPH_VERSION in main.py); link logged to the log channel.
   After publishing, reel_status() polls GET /{video_id}?fields=status,permalink_url,published (≤150 s) and the log
   says live / still processing / rejected (with Facebook's reason). /reels re-checks the last 5 Reels. bot.yml installs ffmpeg only if REELS_ENABLED = True.
