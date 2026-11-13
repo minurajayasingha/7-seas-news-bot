@@ -17209,6 +17209,95 @@
    "extra_msgs": [
     497
    ]
+  },
+  "288e8142aa": {
+   "id": "288e8142aa",
+   "headline": "Mary Peltola leads Dan Sullivan in uncalled Alaska Senate race",
+   "summary": "Former Democratic Representative Mary Peltola leads Republican Senator Dan Sullivan by 5,800 votes in Alaska's uncalled Senate race. Election officials are continuing to count absentee ballots and preparing for a ranked choice tabulation.",
+   "label": "ELECTIONS",
+   "hook": "How will the ranked choice tabulation affect the final outcome in Alaska?",
+   "key_points": [
+    "Eighty-eight percent of the vote was counted as of the reports.",
+    "Peltola gained 5,000 newly counted votes.",
+    "This is the last uncalled Senate race of 2026."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#AlaskaSenate",
+    "#Elections2026",
+    "#USPolitics"
+   ],
+   "sources": [
+    "The Hill",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4802812/alaska-still-counting-votes-2026-elections-what-to-know/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/campaigns/congressional/4802812/alaska-still-counting-votes-2026-elections-what-to-know/"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/the-120/6218667-mary-peltola-alaska-senate-lead/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Rep._Mary_Peltola_headshot_%28cropped%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "U.S. Rep. Mary Peltola / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Dan_Sullivan_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Office of Senator Dan Sullivan / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Mary Peltola leads Dan Sullivan in uncalled Alaska Senate race",
+    "people": [
+     "Mary Peltola",
+     "Dan Sullivan"
+    ],
+    "image_query": "Alaska State Capitol",
+    "image_queries": [
+     "voting booth",
+     "election ballots",
+     "ballot counting",
+     "Alaska landscape"
+    ],
+    "image_style": "scene",
+    "location": "Alaska, US",
+    "nearby_city": "Anchorage, Alaska",
+    "event_query": "Alaska Senate vote counting",
+    "news_time": null,
+    "label": "ELECTIONS"
+   },
+   "created_at": "2026-11-13T17:48:51.530913+00:00",
+   "news_time": "2026-11-13T15:34:05+00:00",
+   "news_latest": "2026-11-13T17:42:09+00:00",
+   "caption": "Mary Peltola leads Dan Sullivan in uncalled Alaska Senate race\n\nFormer Democratic Representative Mary Peltola leads Republican Senator Dan Sullivan by 5,800 votes in Alaska's uncalled Senate race. Election officials are continuing to count absentee ballots and preparing for a ranked choice tabulation.\n\n💬 How will the ranked choice tabulation affect the final outcome in Alaska?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#AlaskaSenate #Elections2026 #USPolitics #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 498,
+   "tg_file_id": "AgACAgUAAxkDAAIB8mr3TYW_WSGRwk7h_5T78qnxP1VSAAIKFmsbFv24V8WEi40Rh7XXAQADAgADdwADPQQ",
+   "queued_at": "2026-11-13T17:48:53.991296+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-13T17:48:53.991346+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122100567921548584",
+   "posted_at": "2026-11-13T17:48:54.331358+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 13 · 12:48 PM New York · 11:18 PM Sri Lanka\n\n<b>Mary Peltola leads Dan Sullivan in uncalled Alaska Senate race</b>\n<i>The Hill, Washington Examiner</i>\n🟢 <b>Latest:</b> 11:12 PM Sri Lanka (6 min ago) · first reported 9:04 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122100567921548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 312,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122100567921548584_1112845514718330"
   }
  },
  "seen_links": [
@@ -18049,7 +18138,9 @@
   "https://www.nbcnews.com/politics/justice-department/feds-add-dc-terrorism-charge-white-house-correspondents-dinner-gunman-rcna609174",
   "https://thehill.com/homenews/administration/6218905-whcd-trump-assassination-terrorism-charge/",
   "https://www.cbsnews.com/news/china-us-export-controls-chips-nvidia-huang-scandal/",
-  "https://www.aljazeera.com/video/newsfeed/2026/11/13/china-warns-against-fresh-us-chip-curbs?traffic_source=rss"
+  "https://www.aljazeera.com/video/newsfeed/2026/11/13/china-warns-against-fresh-us-chip-curbs?traffic_source=rss",
+  "https://www.washingtonexaminer.com/news/campaigns/congressional/4802812/alaska-still-counting-votes-2026-elections-what-to-know/",
+  "https://thehill.com/the-120/6218667-mary-peltola-alaska-senate-lead/"
  ],
  "recent_topics": [
   [
@@ -20856,19 +20947,32 @@
     "warn"
    ],
    "b440bc09d8"
+  ],
+  [
+   "2026-11-13T17:48:53.987000+00:00",
+   [
+    "alaska",
+    "ballot",
+    "count",
+    "election",
+    "extend",
+    "know",
+    "lead",
+    "peltola",
+    "senat",
+    "still",
+    "vot"
+   ],
+   "288e8142aa"
   ]
  ],
- "last_draft_at": "2026-11-13T17:35:46.618805+00:00",
+ "last_draft_at": "2026-11-13T17:47:44.752037+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T17:23:21.239333+00:00",
  "run_log": [
-  "11-13 15:30:43 run start",
-  "11-13 15:30:53 listening 11 min",
-  "11-13 15:42:14 listening done",
-  "11-13 15:42:14 run end after 690 s",
   "11-13 15:45:45 run start",
   "11-13 15:45:56 listening 11 min",
   "11-13 15:57:17 listening done",
@@ -20904,13 +21008,15 @@
   "11-13 17:35:45 run start",
   "11-13 17:35:56 listening 11 min",
   "11-13 17:47:16 listening done",
-  "11-13 17:47:16 run end after 691 s"
+  "11-13 17:47:16 run end after 691 s",
+  "11-13 17:47:44 run start",
+  "11-13 17:49:12 listening 10 min",
+  "11-13 17:59:15 listening done",
+  "11-13 17:59:15 run end after 690 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
   "recent": [
-   "https://live.staticflickr.com/7212/7042013351_d8dc4e9c8e_b.jpg",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Senate_Democratic_Leader_Chuck_Schumer_%2850520530381%29_%281%29.jpg/1280px-Senate_Democratic_Leader_Chuck_Schumer_%2850520530381%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://live.staticflickr.com/891/29072747178_ee2a674bd5_b.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/b/b1/Pentagon_Building%2C_Arlington%2C_Va._%288597811441%29.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Portrait_of_Vice_President-elect_Mike_Pence_%28cropped_3%29.jpg/1280px-Portrait_of_Vice_President-elect_Mike_Pence_%28cropped_3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -20948,7 +21054,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Mount_Evans_and_Denver_skyline_from_City_Park_Golf_Course.jpg/1920px-Mount_Evans_and_Denver_skyline_from_City_Park_Golf_Course.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Donald_Trump_New_Hampshire_Town_Hall.jpg/1280px-Donald_Trump_New_Hampshire_Town_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/4/4a/Official_Arrest_Photo_of_Cole_Tomas_Allen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Beijing_skyline_from_northeast_4th_ring_road.jpg/1920px-Beijing_skyline_from_northeast_4th_ring_road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Beijing_skyline_from_northeast_4th_ring_road.jpg/1920px-Beijing_skyline_from_northeast_4th_ring_road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/6/64/Rep._Mary_Peltola_headshot_%28cropped%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://upload.wikimedia.org/wikipedia/commons/f/f4/Dan_Sullivan_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   ],
   "pools": {
    "joe biden": {
@@ -24314,7 +24422,6 @@
    }
   },
   "recent_ideas": [
-   "prison facility",
    "destroyer, united states navy",
    "us capitol dome",
    "prison exterior",
@@ -24325,16 +24432,17 @@
    "iran",
    "capitol hill",
    "denver city skyline",
-   "beijing skyline"
+   "beijing skyline",
+   "russell senate office building"
   ]
  },
  "comment_perm_told": true,
  "auto_count": {
   "2026-11-12": 17,
-  "2026-11-13": 13
+  "2026-11-13": 14
  },
- "last_auto_at": "2026-11-13T17:12:26.894110+00:00",
- "last_post_at": "2026-11-13T17:12:36.458030+00:00",
+ "last_auto_at": "2026-11-13T17:48:54.331358+00:00",
+ "last_post_at": "2026-11-13T17:48:59.089134+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 8
