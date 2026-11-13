@@ -17640,12 +17640,11 @@
    "news_time": "2026-11-12T18:04:58+00:00",
    "news_latest": "2026-11-12T21:44:01+00:00",
    "caption": "Oklahoma dismisses murder charge against former inmate Richard Glossip\n\nA murder charge against Richard Glossip was dismissed on Thursday after he was granted a retrial in a 1997 killing. Separately, James Pavatt was executed in Oklahoma on Thursday for a 2001 murder.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Oklahoma #CrimeNews #USNews #7SeasNews",
-   "status": "pending",
+   "status": "expired",
    "tg_message_id": 445,
    "tg_file_id": "AgACAgUAAxkDAAIBvWr2N7AOuJQbuTcyI-yXrgqC_rEYAAI0E2sbFv2wV3x_Wr2WDHLEAQADAgADdwADPQQ",
-   "extra_msgs": [
-    446
-   ]
+   "extra_msgs": [],
+   "cleared": true
   },
   "b429871cb0": {
    "id": "b429871cb0",
@@ -22377,17 +22376,13 @@
    "34002a08ad"
   ]
  ],
- "last_draft_at": "2026-11-13T05:30:40.179341+00:00",
+ "last_draft_at": "2026-11-13T05:45:40.001597+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
- "commands_set": 7,
+ "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T05:02:10.303015+00:00",
  "run_log": [
-  "11-13 03:15:44 run start",
-  "11-13 03:16:32 listening 11 min",
-  "11-13 03:27:25 listening done",
-  "11-13 03:27:25 run end after 700 s",
   "11-13 03:30:42 run start",
   "11-13 03:31:01 listening 11 min",
   "11-13 03:42:08 listening done",
@@ -22423,7 +22418,11 @@
   "11-13 05:30:39 run start",
   "11-13 05:30:50 listening 11 min",
   "11-13 05:42:06 listening done",
-  "11-13 05:42:06 run end after 686 s"
+  "11-13 05:42:06 run end after 686 s",
+  "11-13 05:45:38 run start",
+  "11-13 05:45:50 listening 11 min",
+  "11-13 05:57:09 listening done",
+  "11-13 05:57:09 run end after 690 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
