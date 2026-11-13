@@ -19208,24 +19208,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-10T10:30:44.419659+00:00",
-   [
-    "another",
-    "backpack",
-    "die",
-    "explod",
-    "explosion",
-    "injur",
-    "officer",
-    "oviedo",
-    "polic",
-    "respond",
-    "shoot",
-    "spain"
-   ],
-   "5643d3d7eb"
-  ],
-  [
    "2026-11-10T10:45:51.912501+00:00",
    [
     "biggest",
@@ -22131,17 +22113,13 @@
    "de06bec5ec"
   ]
  ],
- "last_draft_at": "2026-11-13T10:17:09.327114+00:00",
+ "last_draft_at": "2026-11-13T10:30:40.240095+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T10:16:12.174738+00:00",
  "run_log": [
-  "11-13 08:13:04 run end after 694 s",
-  "11-13 08:15:48 run start",
-  "11-13 08:15:59 listening 11 min",
-  "11-13 08:27:19 listening done",
   "11-13 08:27:19 run end after 691 s",
   "11-13 08:30:46 run start",
   "11-13 08:30:55 listening 11 min",
@@ -22177,7 +22155,11 @@
   "11-13 10:16:11 run start",
   "11-13 10:17:20 listening 10 min",
   "11-13 10:27:49 listening done",
-  "11-13 10:27:49 run end after 698 s"
+  "11-13 10:27:49 run end after 698 s",
+  "11-13 10:30:39 run start",
+  "11-13 10:30:49 listening 11 min",
+  "11-13 10:42:08 listening done",
+  "11-13 10:42:08 run end after 688 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
