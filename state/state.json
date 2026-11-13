@@ -1,5 +1,5 @@
 {
- "tg_offset": 495893001,
+ "tg_offset": 495893004,
  "drafts": {
   "2923ddaee7": {
    "id": "2923ddaee7",
@@ -18598,6 +18598,31 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122100033879548584_1120029937512997"
+  },
+  "a6aecbf995": {
+   "id": "a6aecbf995",
+   "created_at": "2026-11-13T05:35:39.919153+00:00",
+   "manual": true,
+   "label": "WORLD",
+   "hashtags": [],
+   "hook": "",
+   "key_points": [],
+   "breaking": false,
+   "sources": [],
+   "link": "",
+   "links": [],
+   "headline": "reels",
+   "summary": "",
+   "bg": {
+    "type": "brand",
+    "photos": []
+   },
+   "caption": "reels\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#7SeasNews",
+   "status": "skipped",
+   "tg_message_id": 463,
+   "tg_file_id": "AgACAgUAAxkDAAIBz2r2obmlUxUnn9pTsjMLF19fTgH9AAIYFGsbFv2wV5TF-Aozn7LYAQADAgADdwADPQQ",
+   "extra_msgs": [],
+   "cleared": true
   }
  },
  "seen_links": [
@@ -22352,17 +22377,13 @@
    "34002a08ad"
   ]
  ],
- "last_draft_at": "2026-11-13T05:15:50.385962+00:00",
+ "last_draft_at": "2026-11-13T05:30:40.179341+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T05:02:10.303015+00:00",
  "run_log": [
-  "11-13 03:00:49 run start",
-  "11-13 03:01:56 listening 10 min",
-  "11-13 03:12:25 listening done",
-  "11-13 03:12:25 run end after 696 s",
   "11-13 03:15:44 run start",
   "11-13 03:16:32 listening 11 min",
   "11-13 03:27:25 listening done",
@@ -22398,7 +22419,11 @@
   "11-13 05:15:49 run start",
   "11-13 05:15:59 listening 11 min",
   "11-13 05:27:33 listening done",
-  "11-13 05:27:33 run end after 703 s"
+  "11-13 05:27:33 run end after 703 s",
+  "11-13 05:30:39 run start",
+  "11-13 05:30:50 listening 11 min",
+  "11-13 05:42:06 listening done",
+  "11-13 05:42:06 run end after 686 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
