@@ -18238,6 +18238,86 @@
    "extra_msgs": [
     456
    ]
+  },
+  "071dea6cce": {
+   "id": "071dea6cce",
+   "headline": "Texas and Oklahoma execute two men on Thursday",
+   "summary": "Texas and Oklahoma executed James Pavatt and John Allen Rubio on Thursday. Rubio was convicted of the 2003 killing of three children in Brownsville.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Texas executed its eighth death row inmate of the year.",
+    "Rubio beheaded three children in 2003."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Texas",
+    "#Oklahoma",
+    "#News"
+   ],
+   "sources": [
+    "Newsweek",
+    "UPI"
+   ],
+   "link": "https://www.upi.com/Top_News/US/2026/11/12/Texas-executes-John-Allen-Rubio/6201794534694/",
+   "links": [
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/US/2026/11/12/Texas-executes-John-Allen-Rubio/6201794534694/"
+    ],
+    [
+     "Newsweek",
+     "https://www.newsweek.com/james-pavatt-john-rubio-executed-12708299"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Prison_Ship_Martyrs_Monument_Exterior.JPG/1920px-Prison_Ship_Martyrs_Monument_Exterior.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Steven Bornholtz / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Texas and Oklahoma execute two men on Thursday",
+    "people": [],
+    "image_query": "Texas State Capitol building",
+    "image_queries": [
+     "prison exterior",
+     "courtroom interior",
+     "Brownsville street view",
+     "Oklahoma State Capitol"
+    ],
+    "image_style": "person",
+    "location": "Texas, US",
+    "nearby_city": "Austin, Texas",
+    "event_query": "Texas execution death row",
+    "news_time": null,
+    "label": "WORLD"
+   },
+   "created_at": "2026-11-13T03:16:12.468603+00:00",
+   "news_time": "2026-11-13T02:44:21+00:00",
+   "news_latest": "2026-11-13T03:13:23+00:00",
+   "caption": "Texas and Oklahoma execute two men on Thursday\n\nTexas and Oklahoma executed James Pavatt and John Allen Rubio on Thursday. Rubio was convicted of the 2003 killing of three children in Brownsville.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Texas #Oklahoma #News #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 457,
+   "tg_file_id": "AgACAgUAAxkDAAIByWr2gP55wFu67N-3kBO12twUvBVYAALGE2sbFv2wV20HU3nNOPfLAQADAgADdwADPQQ",
+   "queued_at": "2026-11-13T03:16:15.002620+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-13T03:16:15.002627+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122099965413548584",
+   "posted_at": "2026-11-13T03:16:15.310489+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 12 · 10:16 PM New York · 8:46 AM Sri Lanka\n\n<b>Texas and Oklahoma execute two men on Thursday</b>\n<i>Newsweek, UPI</i>\n🟢 <b>Latest:</b> 8:43 AM Sri Lanka (2 min ago) · first reported 8:14 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099965413548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 282,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122099965413548584_1491727442825795"
   }
  },
  "seen_links": [
@@ -19014,7 +19094,9 @@
   "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
   "https://www.cbsnews.com/news/lutnick-nvidia-ai-chips-china/",
   "https://www.aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office?traffic_source=rss",
-  "https://www.independent.co.uk/news/world/americas/us-politics/trump-cuba-military-force-iran-war-b3084238.html"
+  "https://www.independent.co.uk/news/world/americas/us-politics/trump-cuba-military-force-iran-war-b3084238.html",
+  "https://www.upi.com/Top_News/US/2026/11/12/Texas-executes-John-Allen-Rubio/6201794534694/",
+  "https://www.newsweek.com/james-pavatt-john-rubio-executed-12708299"
  ],
  "recent_topics": [
   [
@@ -21908,19 +21990,30 @@
     "war"
    ],
    "5ac71e580a"
+  ],
+  [
+   "2026-11-13T03:16:15.000420+00:00",
+   [
+    "behead",
+    "children",
+    "execut",
+    "kill",
+    "man",
+    "men",
+    "oklahoma",
+    "sam",
+    "texa"
+   ],
+   "071dea6cce"
   ]
  ],
- "last_draft_at": "2026-11-13T03:01:46.565558+00:00",
+ "last_draft_at": "2026-11-13T03:15:44.994873+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T03:00:49.516645+00:00",
  "run_log": [
-  "11-13 00:57:18 run end after 690 s",
-  "11-13 01:00:51 run start",
-  "11-13 01:02:05 listening 10 min",
-  "11-13 01:12:19 listening done",
   "11-13 01:12:19 run end after 687 s",
   "11-13 01:15:44 run start",
   "11-13 01:16:44 run error: ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60)",
@@ -21956,12 +22049,15 @@
   "11-13 03:00:49 run start",
   "11-13 03:01:56 listening 10 min",
   "11-13 03:12:25 listening done",
-  "11-13 03:12:25 run end after 696 s"
+  "11-13 03:12:25 run end after 696 s",
+  "11-13 03:15:44 run start",
+  "11-13 03:16:32 listening 11 min",
+  "11-13 03:27:25 listening done",
+  "11-13 03:27:25 run end after 700 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Florida_State_Capitol_-_US27_February_2015_%2844033650502%29.jpg/1920px-Florida_State_Capitol_-_US27_February_2015_%2844033650502%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Jim_Jordan_%2851769862077%29_%28cropped%29.jpg/1280px-Jim_Jordan_%2851769862077%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Jared_Kushner_%2848512574161%29.jpg/1280px-Jared_Kushner_%2848512574161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/d/de/Steve_Witkoff_in_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -22000,7 +22096,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Cindy_Holscher_rally_in_Lawrence_KS_3.jpg/1280px-Cindy_Holscher_rally_in_Lawrence_KS_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://live.staticflickr.com/3069/2294317201_2163349b4a_b.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Howard_Lutnick_2025_%28cropped%29.jpg/1280px-Howard_Lutnick_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Prison_Ship_Martyrs_Monument_Exterior.JPG/1920px-Prison_Ship_Martyrs_Monument_Exterior.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "stephen miller": {
@@ -25412,7 +25509,6 @@
    }
   },
   "recent_ideas": [
-   "border patrol, texas",
    "aircraft carrier, united states navy",
    "u.n. general assembly hall",
    "white house exterior",
@@ -25423,15 +25519,16 @@
    "voting booth",
    "prison facility",
    "destroyer, united states navy",
-   "us capitol dome"
+   "us capitol dome",
+   "prison exterior"
   ]
  },
  "comment_perm_told": true,
  "auto_count": {
-  "2026-11-12": 15
+  "2026-11-12": 16
  },
- "last_auto_at": "2026-11-13T02:04:52.716534+00:00",
- "last_post_at": "2026-11-13T02:04:57.607715+00:00",
+ "last_auto_at": "2026-11-13T03:16:15.310489+00:00",
+ "last_post_at": "2026-11-13T03:16:20.363109+00:00",
  "reels_count": {
   "2026-11-12": 2
  }
