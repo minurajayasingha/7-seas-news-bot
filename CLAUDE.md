@@ -41,7 +41,9 @@ optional PIXABAY_API_KEY / PEXELS_API_KEY / FLICKR_API_KEY. Never print or commi
   (make_reel): post image at y=285, blurred 45%-dark photo zoom above, post bottom colour below, headline
   re-typed in Poppins Bold with red cursor (render_image(hide_headline=True, layout=…)), end card
   "FOLLOW FOR MORE". Published with Graph video_reels start → rupload.facebook.com → finish PUBLISHED
-  (GRAPH_VERSION in main.py); link logged to the log channel. bot.yml installs ffmpeg only if REELS_ENABLED = True.
+  (GRAPH_VERSION in main.py); link logged to the log channel.
+  After publishing, reel_status() polls GET /{video_id}?fields=status,permalink_url,published (≤150 s) and the log
+  says live / still processing / rejected (with Facebook's reason). /reels re-checks the last 5 Reels. bot.yml installs ffmpeg only if REELS_ENABLED = True.
 - Reply to a draft with a photo → new background; with text → new headline.
 - Send a link (bot reads article + Gemini) or a photo with caption (line 1 = headline) → manual post. "BREAKING:" prefix.
 - Log-channel messages of published posts have 🗑 Delete (asks ✅ Yes / ↩️ Keep; only the owner's taps count —
@@ -66,7 +68,9 @@ optional PIXABAY_API_KEY / PEXELS_API_KEY / FLICKR_API_KEY. Never print or commi
   blended side by side (no divider lines). One person + place story → place photo + person in a circle.
 - Shootings/bombings/disasters ("incident") → INCIDENT_PLACE_PHOTO: place_photo() = a city view of the location
   ("<city> skyline/downtown/city center/street/square, <rest>", NATURE_WORDS avoided, country-checked); none →
-  map card → brand globe. Never photos of an event (could be an older, different one).
+  map card → brand globe. Never photos of an event (could be an older, different one). Before the city view,
+  incident_photo(): INCIDENT_PHOTO_IDEAS (police car / ambulance / fire engine) of THAT city (need= city words,
+  EVENT_WORDS in the title rejected), Commons only.
 - No photo chain (all stories): people/event/scene → place_photo (town → Gemini "nearby_city" → "<State> State Capitol")
   → MAP_CARDS map_card(): Wikipedia geocode of location, must fall in the story's country; map_background() draws
   assets/map_data.json (Natural Earth 1:50m countries + US/CA/AU states, public domain, rebuilt by rounding coords),

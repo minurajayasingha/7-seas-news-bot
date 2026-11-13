@@ -140,6 +140,16 @@ INCIDENT_PLACE_PHOTO = True  # shootings/crashes/disasters: use a photo of the P
                              # design. Never a photo of an older, different event.
 MAP_CARDS = True             # no photo at all → the bot draws a news map: the country/state, borders and a red pin on
                              # the place (Natural Earth map data, public domain). These are auto-posted too.
+# Shootings, crashes, fires… : first try a photo of that city's emergency services (a "file photo"), then a city view.
+# Photos whose title mentions another event (shooting, crash, memorial…) are never used.
+INCIDENT_PHOTO_IDEAS = {
+    ("shooting", "shot", "gunman", "gunmen", "gunfire", "stabbing", "stabbed", "hostage", "killed", "kills", "attack"):
+        ["police car", "police vehicle", "police line"],
+    ("crash", "collision", "derail", "derailed", "plane", "helicopter"): ["ambulance", "police car"],
+    ("fire", "blaze", "wildfire", "burned"): ["fire engine", "fire truck", "firefighters"],
+    ("explosion", "blast", "bomb", "bombing"): ["police car", "ambulance"],
+    ("flood", "storm", "hurricane", "tornado", "earthquake"): ["ambulance", "fire engine"],
+}
 STRICT_PHOTO_MATCH = True    # True = a place photo must clearly be from the story's country (checked in the photo's
                              # name, description and categories); photos naming another country are rejected.
                              # No safe photo → the branded globe design instead of a random photo.

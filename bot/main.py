@@ -536,7 +536,7 @@ def when_text(t):
 
 
 def set_commands_once(state):
-    if state.get("commands_set") == 7:
+    if state.get("commands_set") == 8:
         return
     tg("setMyCommands", commands=[
         {"command": "news", "description": "Look for fresh news right now"},
@@ -544,6 +544,7 @@ def set_commands_once(state):
         {"command": "queue", "description": "What's queued and when it posts"},
         {"command": "status", "description": "Bot summary"},
         {"command": "stats", "description": "Likes, comments, shares (last 24h)"},
+        {"command": "reels", "description": "Status of the last Reels on Facebook"},
         {"command": "new", "description": "Make your own post"},
         {"command": "pause", "description": "Stop automatic news"},
         {"command": "resume", "description": "Start automatic news again"},
@@ -551,7 +552,7 @@ def set_commands_once(state):
         {"command": "tiktok", "description": "Link the TikTok files channel"},
         {"command": "help", "description": "How to use the bot"},
     ])
-    state["commands_set"] = 7
+    state["commands_set"] = 8
 
 
 def tg_download(file_id):
@@ -912,6 +913,17 @@ def process_telegram(state, wait=0):
             except Exception as e:
                 log("Stats error:", e)
             tg_text(stats_week(state) if "week" in text.lower() else stats_report(state))
+        elif text.startswith("/reels"):
+            reels = sorted((d for d in state["drafts"].values() if d.get("fb_reel_id")),
+                           key=lambda d: d.get("posted_at", ""))[-5:]
+            if not reels:
+                tg_text("🎬 No Reels uploaded yet.")
+            for d in reels:
+                st_, detail = reel_status(d["fb_reel_id"], wait=0)
+                d["reel_status"] = st_
+                icon = {"live": "✅ live", "processing": "⏳ still processing / not published",
+                        "error": "❌ rejected", "unknown": "❓ unknown"}[st_]
+                tg_text(f"🎬 <b>{html.escape(d['headline'][:80])}</b>\n{icon}\n<i>{html.escape(detail)}</i>")
         elif text.startswith("/status"):
             q = [d for d in state["drafts"].values() if d["status"] == "queued"]
             p = [d for d in state["drafts"].values() if d["status"] == "pending"]
@@ -939,6 +951,7 @@ def process_telegram(state, wait=0):
                     "/tiktok – link a content channel that gets the daily pack (titles + 1 zip file)\n"
                     "/stats – likes, comments and shares of the last 24 hours\n"
                     "/stats week – posts per day vs likes/reach per post (find the best number of posts)\n"
+                    "/reels – what Facebook did with the last Reels (live / processing / rejected and why)\n"
                     "/status – bot summary")
 
 
@@ -1302,6 +1315,33 @@ def facebook_post_reel(video_bytes, caption):
     return vid
 
 
+def reel_status(vid, wait=150):
+    """Ask Facebook what happened to the Reel after upload: waits while it is processing.
+    Returns (state, detail): state = "live", "processing", "error" or "unknown"."""
+    end, last = time.time() + wait, {}
+    while True:
+        try:
+            j = fb_get(f"{GRAPH_VERSION}/{vid}", fields="status,permalink_url,published")
+            last = j
+        except Exception as e:
+            return "unknown", str(e)[:200]
+        st = j.get("status") or {}
+        vs = str(st.get("video_status") or "").lower()
+        proc = st.get("processing_phase") or {}
+        pub = st.get("publishing_phase") or {}
+        errs = (proc.get("errors") or []) + (pub.get("errors") or []) + ((st.get("uploading_phase") or {}).get("errors") or [])
+        if vs == "error" or errs or str(proc.get("status")).lower() == "error":
+            msg = "; ".join(str(e.get("message") or e) for e in errs) or "video processing failed"
+            return "error", msg[:300]
+        if vs == "ready" and str(pub.get("status") or "complete").lower() in ("complete", "published") \
+                and j.get("published", True):
+            return "live", j.get("permalink_url") or ""
+        if time.time() > end:
+            return "processing", f"video: {vs or '?'} · processing: {proc.get('status', '?')} · " \
+                                 f"publishing: {pub.get('status', '?')} {pub.get('publish_status', '')}".strip()
+        time.sleep(10)
+
+
 def reels_today(state):
     return state.get("reels_count", {}).get(ny_now().date().isoformat(), 0)
 
@@ -1328,11 +1368,20 @@ def publish_reel(state, d):
         counts.pop(k)
     d["fb_reel_id"] = vid
     link = f"https://www.facebook.com/reel/{vid}"
-    log("Reel published", d["id"], vid)
+    status, detail = reel_status(vid)                # did Facebook really put it live?
+    d["reel_status"] = status
+    log("Reel uploaded", d["id"], vid, status, detail)
     now = now_utc()
-    text = (f"🎬 <b>Reel published</b> · {ny_now():%b %d} · {ny_time(now)} New York · {lk_time(now)} Sri Lanka\n\n"
+    head = {"live": "🎬 <b>Reel published</b>", "processing": "🎬 <b>Reel uploaded, Facebook is still processing it</b>",
+            "error": "⚠️ <b>Reel uploaded but Facebook rejected it</b>",
+            "unknown": "🎬 <b>Reel uploaded</b> (couldn't check its status)"}[status]
+    if status == "live" and detail.startswith("http"):
+        link = detail
+    text = (f"{head} · {ny_now():%b %d} · {ny_time(now)} New York · {lk_time(now)} Sri Lanka\n\n"
             f"<b>{html.escape(d['headline'])}</b>\n"
-            f"Reels today: {counts[day]}/{REELS_PER_DAY}\n\n🔗 <a href=\"{link}\">Open the Reel</a>")
+            f"Reels today: {counts[day]}/{REELS_PER_DAY}\n"
+            + (f"<i>{html.escape(detail)}</i>\n" if status != "live" and detail else "")
+            + f"\n🔗 <a href=\"{link}\">Open the Reel</a>")
     ch = state.get("log_channel")
     if not (ch and tg("sendMessage", chat_id=ch, text=text, parse_mode="HTML").get("ok")):
         tg_text(text)
@@ -2264,6 +2313,36 @@ def has_any_word(text, words):
     return any(re.search(r"(?<![a-z])" + re.escape(w) + r"(?![a-z])", text.lower()) for w in words)
 
 
+EVENT_WORDS = ("shooting", "shot", "attack", "scene", "crash", "collision", "memorial", "victim", "victims", "vigil",
+               "protest", "riot", "explosion", "accident", "funeral", "killed", "dead", "bomb", "fire", "burning",
+               "flood", "wreck", "investigation", "evidence", "arrest", "suspect")
+
+
+def incident_photo(post, exclude=()):
+    """Shootings, crashes, fires…: a file photo of that city's police car / ambulance / fire engine."""
+    loc = str(post.get("location") or "").strip()
+    if not loc:
+        return None
+    text = " " + plain(str(post.get("headline") or "")).lower() + " "
+    ideas = []
+    for words, extra in INCIDENT_PHOTO_IDEAS.items():
+        if has_any_word(text, words):
+            ideas += [x for x in extra if x not in ideas]
+    if not ideas:
+        return None
+    city = loc.split(",")[0].strip()
+    need = [city.lower()]
+    if city.lower() in ("washington", "washington dc", "washington d c") and re.search(r"d\.?\s?c\b|district", loc.lower()):
+        need = ["district of columbia", "d c", "dc", "metropolitan police", "washington"]
+    countries = story_countries(post)
+    for idea in ideas[:3]:
+        avoid = tuple(w for w in EVENT_WORDS if w not in idea)
+        p = wiki_search_photo(f"{idea}, {loc}", exclude, countries, avoid=avoid, need=need)
+        if p:
+            return p
+    return None
+
+
 def place_photo(post, exclude=()):
     """A photo of the place where it happened (for incidents): a city view (skyline, downtown, streets) in the
     right country. Never an event photo, never nature/holiday pictures."""
@@ -2614,7 +2693,7 @@ def photo_quality(url):
         return 0
 
 
-def wiki_search_photo(query, exclude=(), countries=(), avoid=()):
+def wiki_search_photo(query, exclude=(), countries=(), avoid=(), need=()):
     """Best free-licensed photo from Wikimedia Commons. No key needed.
     Looks at 'Quality images' first, skips old/black-and-white pictures, checks colour and sharpness."""
     if not query:
@@ -2669,6 +2748,8 @@ def wiki_search_photo(query, exclude=(), countries=(), avoid=()):
                               meta.get("Categories", {}).get("value", "").replace("|", " ")])
             if not place_ok(about, countries):
                 continue                                # photo from another country (or not clearly ours)
+            if need and not has_any_word(re.sub(r"[^a-z]+", " ", plain(about).lower()), need):
+                continue                                # must name the city (e.g. a DC police car, not NYPD)
             score = bonus + hit + (10 if year >= 2015 else 0) + max(0, 12 - rank) - (60 if url in rec else 0) \
                 + min(10, info.get("width", 0) / 600)
             cands.append((score, {"url": url, "credit": f"{artist} / Wikimedia Commons ({lic})",
@@ -2736,7 +2817,7 @@ def _choose_background(post, exclude=(), prefer_scene=False):
 
     if post.get("image_style") == "incident" and not found and not prefer_scene:
         # no random photos for shootings/bombings: a photo of the place, else strong news design with a location tag
-        place = place_photo(post, exclude) if INCIDENT_PLACE_PHOTO else None
+        place = (incident_photo(post, exclude) or place_photo(post, exclude)) if INCIDENT_PLACE_PHOTO else None
         if place:
             return {"type": "photo", "photos": [place]}
         return map_card(post) or {"type": "incident", "photos": [], "location": str(post.get("location") or "")[:40]}
