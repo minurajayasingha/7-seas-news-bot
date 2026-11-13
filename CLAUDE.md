@@ -18,7 +18,9 @@ Never South Asia news. Real, verified news only: a story needs 2+ different outl
      publish_due without a tap — BREAKING at once, others one per AUTO_MIN_GAP_MINUTES, max AUTO_MAX_PER_DAY per NY day
      (state["auto_count"], state["last_auto_at"]). Not auto: manual posts, look-alikes of recent posts, over the limit,
      more than AUTO_MAX_WAITING auto posts waiting, no real photo when AUTO_NEEDS_PHOTO (default True:
-     brand/globe drafts wait in Telegram with "✋ Not auto-posted: no real photo found"). AUTO_REELS="breaking" = BREAKING + real photo also gets a Reel.
+     brand/globe drafts wait in Telegram with "✋ Not auto-posted: no real photo found"). AUTO_REELS="more" = every BREAKING post gets a Reel (branded cover OK) + other real-photo posts while under
+     REELS_PER_DAY (10; last 2 kept for breaking) — auto_reel_wanted(). BREAKING_WITHOUT_PHOTO: breaking news auto-posts
+     with the branded cover.
 - Memory is `state/state.json`, committed back by the workflow ("Save bot memory" step
   fetches + resets to origin/main before committing, so code pushes during a run don't break it).
 - **All user settings live in `bot/settings.py`** (colors, feeds, focus words, slots, counts). Prefer editing there.
@@ -28,7 +30,7 @@ TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, GEMINI_API_KEY, FB_PAGE_ID, FB_PAGE_TOKEN 
 optional PIXABAY_API_KEY / PEXELS_API_KEY / FLICKR_API_KEY. Never print or commit secrets.
 
 ## Telegram UX
-- Spacing: MIN_MINUTES_BETWEEN_POSTS (15) between ALL Facebook posts (state["last_post_at"]). 🚀 Post now / 🎬 Reel /
+- Spacing: MIN_MINUTES_BETWEEN_POSTS (0 = owner wants news out at once; AUTO_MIN_GAP_MINUTES 0, DRAFTS_PER_RUN 5, AUTO_MAX_PER_DAY 80) between ALL Facebook posts (state["last_post_at"]). 🚀 Post now / 🎬 Reel /
   auto get d["post_at"] = next_free_time() and the button shows "🕒 Posts at … SL · … NY"; 🕒 Queue slot posts wait
   in publish_due (one notice). BREAKING_SKIPS_GAP: breaking posts go at once, then replan_waiting() pushes the others.
   Waiting posts show ⚡ Post now anyway (callback rush:) → d["rush"] = skips the gap, others are re-planned.

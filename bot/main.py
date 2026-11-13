@@ -3275,7 +3275,7 @@ def auto_queue(state, d):
     if not AUTO_PUBLISH or d.get("manual") or state.get("paused"):
         return
     why = ""
-    if AUTO_NEEDS_PHOTO and not has_real_photo(d):
+    if AUTO_NEEDS_PHOTO and not has_real_photo(d) and not (BREAKING_WITHOUT_PHOTO and d.get("breaking")):
         why = "no real photo found"
     elif find_duplicate(state, d, loose=True):
         why = "it looks similar to a recent post"
@@ -3289,10 +3289,24 @@ def auto_queue(state, d):
         tg_reply(d, f"✋ Not auto-posted: {why}. Choose with the buttons.")
         return
     d.update(status="queued", queued_at=now_utc().isoformat(), post_now=True, auto=True)
-    if AUTO_REELS == "breaking" and d.get("breaking") and reel_allowed(d):
+    if auto_reel_wanted(state, d):
         d["make_reel"] = True
     plan_post(state, d, "🤖 Auto-posting" + (" + Reel" if d.get("make_reel") else ""))
     log("Auto-queued", d["id"], d.get("post_at"))
+
+
+def auto_reel_wanted(state, d):
+    """AUTO_REELS: "breaking" = BREAKING + real photo; "more" = every BREAKING post (branded cover is fine)
+    + other posts with a real photo while Reels are left today (the last 2 are kept for breaking news)."""
+    if not REELS_ENABLED or AUTO_REELS not in ("breaking", "more"):
+        return False
+    if AUTO_REELS == "breaking":
+        return bool(d.get("breaking")) and reel_allowed(d)
+    planned = reels_today(state) + sum(1 for x in state["drafts"].values()
+                                       if x is not d and x.get("status") == "queued" and x.get("make_reel"))
+    if d.get("breaking"):
+        return planned < REELS_PER_DAY
+    return reel_allowed(d) and planned < REELS_PER_DAY - 2
 
 
 def skips_gap(d):

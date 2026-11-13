@@ -18,22 +18,25 @@ SOFT = (205, 205, 210)     # small grey text
 AUTO_PUBLISH = True          # True = verified news (MIN_SOURCES outlets) is posted to Facebook by itself.
                              # Telegram shows "🤖 Auto-posting" (↩️ Cancel to stop it), then the log channel gets
                              # the post with a 🗑 Delete button. False = old way: you tap 🚀 Post now / 🕒 Queue.
-AUTO_MAX_PER_DAY = 50        # max auto posts per New York day (more → normal drafts for you to choose).
+AUTO_MAX_PER_DAY = 80        # max auto posts per New York day (more → normal drafts for you to choose).
                              # Send /stats week to see posts per day vs likes/reach per post and pick the best.
-AUTO_MIN_GAP_MINUTES = 20    # at least this long between auto posts (BREAKING news doesn't wait)
+AUTO_MIN_GAP_MINUTES = 0     # at least this long between auto posts (BREAKING news doesn't wait)
 AUTO_NEEDS_PHOTO = True      # True = only news with a real photo is auto-posted; the rest waits in Telegram for you
                              # (reply with a photo, or 🚀 Post now / ❌ Skip). False = posted with the globe/brand design
-AUTO_REELS = "breaking"      # "breaking" = BREAKING news with a real photo also gets a Reel (needs REELS_ENABLED)
+AUTO_REELS = "more"          # "more" = every BREAKING post gets a Reel (our branded cover if no photo) + other posts
+                             #          with a real photo, while under REELS_PER_DAY (2 kept free for breaking news)
+                             # "breaking" = only BREAKING news with a real photo; "off" = no automatic Reels
+BREAKING_WITHOUT_PHOTO = True   # True = BREAKING news is auto-posted even with no real photo (our branded cover)
                              # "off" = Reels only when you tap 🎬 Reel
 
 # ---------- Space out posts (posts close together get less reach) ----------
-MIN_MINUTES_BETWEEN_POSTS = 15   # every post (🚀 Post now, 🕒 Queue slots, auto) waits until this long after the last
+MIN_MINUTES_BETWEEN_POSTS = 0    # every post (🚀 Post now, 🕒 Queue slots, auto) waits until this long after the last
                                  # one; Telegram tells you the new time. A waiting post has ⚡ Post now anyway.
 BREAKING_SKIPS_GAP = True        # BREAKING news doesn't wait (goes out at once, the others move back)
-AUTO_MAX_WAITING = 2             # max auto posts waiting for their turn; more news → normal drafts for you
+AUTO_MAX_WAITING = 10            # max auto posts waiting for their turn; more news → normal drafts for you
 
 # ---------- How many posts ----------
-DRAFTS_PER_RUN = 3           # new posts sent to Telegram each time it looks for news
+DRAFTS_PER_RUN = 5           # new posts sent to Telegram each time it looks for news
 DRAFT_EVERY_MINUTES = 15     # how often it looks for news (15 = every run of the bot)
 
 LISTEN_MINUTES = 12          # after its work, each run stays online this long so button taps and replies
@@ -52,7 +55,7 @@ BREAKING_MAX_HOURS = 3       # "BREAKING" only if first reported within this tim
 # Main focus: stories containing any of these words get priority.
 # Other stories are only used if they are very big (OTHER_NEWS_MIN_SOURCES outlets).
 FOCUS_ONLY = True
-OTHER_NEWS_MIN_SOURCES = 4
+OTHER_NEWS_MIN_SOURCES = 3
 US_WORDS = [
     "u.s.", "usa", "united states", "washington", "white house", "biden", "harris", "newsom",
     "congress", "senate", "house speaker", "pentagon", "supreme court", "republican",
@@ -121,7 +124,7 @@ ASK_QUESTION = "sometimes"
 
 # ---------- Single-story Reels (🎬 Reel button) ----------
 REELS_ENABLED = True         # True = drafts get a 🎬 Reel button: publishes the post AND a short Reel of it
-REELS_PER_DAY = 3            # max Reels per New York day (more taps → the post is published, no Reel, you're told)
+REELS_PER_DAY = 10           # max Reels per New York day (more taps → the post is published, no Reel, you're told)
 REEL_SECONDS = 10            # length of each Reel (typing headline → hold → "Follow for more" end card)
 REELS_ONLY_GOOD_PHOTOS = True   # True = 🎬 Reel button only on drafts with a real photo (people/place),
                                 #        not on the plain brand / globe designs
