@@ -1,80 +1,6 @@
 {
  "tg_offset": 495893004,
  "drafts": {
-  "12d4228b8b": {
-   "id": "12d4228b8b",
-   "headline": "Congress returns to Washington following recent US elections",
-   "summary": "Lawmakers return to Washington for a post-election session. The agenda includes an impeachment vote on the defense secretary, a spending deal, and several major bills.",
-   "label": "US POLITICS",
-   "hook": "Can lawmakers pass their agenda before Democrats take control?",
-   "key_points": [
-    "Lawmakers return to Washington for a post-election session",
-    "An impeachment vote on the defense secretary is in play",
-    "A spending deal and major bills are pending"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Congress",
-    "#USPolitics",
-    "#Washington"
-   ],
-   "sources": [
-    "New York Times",
-    "Washington Post"
-   ],
-   "link": "https://www.nytimes.com/2026/11/09/us/politics/congress-republicans-agenda-lame-duck-session.html",
-   "links": [
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/09/us/politics/congress-republicans-agenda-lame-duck-session.html"
-    ],
-    [
-     "Washington Post",
-     "https://www.washingtonpost.com/politics/2026/11/09/republicans-have-one-last-shot-pass-their-agenda-after-losing-congress/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg/1920px-High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Dllu / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Congress returns to Washington following recent US elections",
-    "people": [],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "Senate chamber",
-     "House of Representatives chamber",
-     "Capitol Hill",
-     "US Capitol dome"
-    ],
-    "image_style": "scene",
-    "location": "Washington, US"
-   },
-   "created_at": "2026-11-09T10:15:34.881901+00:00",
-   "news_time": "2026-11-09T10:00:00+00:00",
-   "news_latest": "2026-11-09T10:03:55+00:00",
-   "caption": "Congress returns to Washington following recent US elections\n\nLawmakers return to Washington for a post-election session. The agenda includes an impeachment vote on the defense secretary, a spending deal, and several major bills.\n\n💬 Can lawmakers pass their agenda before Democrats take control?\n\n📖 Read more: https://www.nytimes.com/2026/11/09/us/politics/congress-republicans-agenda-lame-duck-session.html\n\n#Congress #USPolitics #Washington #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 155,
-   "tg_file_id": "AgACAgUAAxkDAAObavGdSwLvfwzkLPwUZqQBFhjhKWUAAhAWaxv_D5FXFrLvqEFzyOgBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-09T12:23:47.922117+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122096661477548584",
-   "posted_at": "2026-11-09T12:23:48.275080+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 09 · 7:24 AM New York · 5:54 PM Sri Lanka\n\n<b>Congress returns to Washington following recent US elections</b>\n<i>New York Times, Washington Post</i>\n🟡 <b>Latest:</b> 3:33 PM Sri Lanka (2h 20m ago) · first reported 3:30 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096661477548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 52,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "976248731765408"
-  },
   "408a5794c8": {
    "id": "408a5794c8",
    "headline": "Storm collapses sandbank on tents in Gaza: five killed",
@@ -6077,7 +6003,7 @@
     "comments": 0,
     "shares": 1
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "625424f326": {
    "id": "625424f326",
@@ -6164,7 +6090,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "e2486a4ac8": {
    "id": "e2486a4ac8",
@@ -6254,7 +6180,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "269bb16799": {
    "id": "269bb16799",
@@ -6333,7 +6259,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "799d3791f4": {
    "id": "799d3791f4",
@@ -6412,7 +6338,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "caba8b6905": {
    "id": "caba8b6905",
@@ -6492,7 +6418,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "9e78ddd1bb": {
    "id": "9e78ddd1bb",
@@ -6632,7 +6558,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "ee5eecffd7": {
    "id": "ee5eecffd7",
@@ -6713,7 +6639,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "edb20522d6": {
    "id": "edb20522d6",
@@ -6793,7 +6719,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "7659ed554e": {
    "id": "7659ed554e",
@@ -6877,7 +6803,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "949e927e1f": {
    "id": "949e927e1f",
@@ -6957,7 +6883,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "19d89e3ee6": {
    "id": "19d89e3ee6",
@@ -7096,7 +7022,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "1c6a725ed0": {
    "id": "1c6a725ed0",
@@ -7175,7 +7101,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "81cc92e26e": {
    "id": "81cc92e26e",
@@ -7257,7 +7183,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "b7be145325": {
    "id": "b7be145325",
@@ -7339,7 +7265,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "df4c15c723": {
    "id": "df4c15c723",
@@ -7420,7 +7346,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "c29e6ec6bf": {
    "id": "c29e6ec6bf",
@@ -7497,7 +7423,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "e5eb01cfdb": {
    "id": "e5eb01cfdb",
@@ -7576,7 +7502,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "c5bf3663b2": {
    "id": "c5bf3663b2",
@@ -7662,7 +7588,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "349f8db910": {
    "id": "349f8db910",
@@ -7744,7 +7670,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "87cfd790ec": {
    "id": "87cfd790ec",
@@ -7829,7 +7755,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "5513351d03": {
    "id": "5513351d03",
@@ -7925,7 +7851,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "edbbbef778": {
    "id": "edbbbef778",
@@ -8014,7 +7940,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "455871c5df": {
    "id": "455871c5df",
@@ -8231,7 +8157,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "807303a4ee": {
    "id": "807303a4ee",
@@ -8317,7 +8243,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "6975066cce": {
    "id": "6975066cce",
@@ -8406,7 +8332,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "e644a99994": {
    "id": "e644a99994",
@@ -8490,7 +8416,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "6bc481b818": {
    "id": "6bc481b818",
@@ -8570,7 +8496,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "6d8d7d2eff": {
    "id": "6d8d7d2eff",
@@ -8650,7 +8576,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "665273818f": {
    "id": "665273818f",
@@ -8814,7 +8740,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "ba721861d5": {
    "id": "ba721861d5",
@@ -8906,7 +8832,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "cf27878220": {
    "id": "cf27878220",
@@ -9057,7 +8983,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "e61ff03e9d": {
    "id": "e61ff03e9d",
@@ -9136,7 +9062,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "9868f8195c": {
    "id": "9868f8195c",
@@ -9283,7 +9209,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "cefff21e2b": {
    "id": "cefff21e2b",
@@ -9369,7 +9295,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "a2824df62f": {
    "id": "a2824df62f",
@@ -9457,7 +9383,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "9d03cbe8de": {
    "id": "9d03cbe8de",
@@ -9536,7 +9462,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "d7272befe4": {
    "id": "d7272befe4",
@@ -9618,7 +9544,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "4e24202137": {
    "id": "4e24202137",
@@ -9699,7 +9625,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "9a43c86cef": {
    "id": "9a43c86cef",
@@ -9837,7 +9763,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "1c8d12e7b9": {
    "id": "1c8d12e7b9",
@@ -9915,7 +9841,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "87481f600c": {
    "id": "87481f600c",
@@ -10056,7 +9982,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "bf6b957b52": {
    "id": "bf6b957b52",
@@ -10135,7 +10061,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "82fd68db9e": {
    "id": "82fd68db9e",
@@ -10277,7 +10203,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "6c235661bd": {
    "id": "6c235661bd",
@@ -10423,7 +10349,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "291b7687a6": {
    "id": "291b7687a6",
@@ -10621,7 +10547,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "db183405ba": {
    "id": "db183405ba",
@@ -10707,7 +10633,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "0434155b7b": {
    "id": "0434155b7b",
@@ -10786,7 +10712,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "bea75efaa6": {
    "id": "bea75efaa6",
@@ -10865,7 +10791,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "105d51eca5": {
    "id": "105d51eca5",
@@ -10943,7 +10869,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "c819c4dfb9": {
    "id": "c819c4dfb9",
@@ -11142,7 +11068,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "0fd17589fa": {
    "id": "0fd17589fa",
@@ -11220,7 +11146,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "8b6428cdae": {
    "id": "8b6428cdae",
@@ -11299,7 +11225,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "6bfd6e38b7": {
    "id": "6bfd6e38b7",
@@ -11377,7 +11303,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "7f48bd7968": {
    "id": "7f48bd7968",
@@ -11455,7 +11381,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "8589cd79f0": {
    "id": "8589cd79f0",
@@ -11534,7 +11460,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "6765febea5": {
    "id": "6765febea5",
@@ -11614,7 +11540,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "f7592a8198": {
    "id": "f7592a8198",
@@ -11693,7 +11619,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "2182ce5439": {
    "id": "2182ce5439",
@@ -11779,7 +11705,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "49175d8390": {
    "id": "49175d8390",
@@ -11858,7 +11784,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "f92826045e": {
    "id": "f92826045e",
@@ -12000,7 +11926,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "48e092b1f8": {
    "id": "48e092b1f8",
@@ -12158,7 +12084,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "4b473002e5": {
    "id": "4b473002e5",
@@ -12244,7 +12170,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "794435b1aa": {
    "id": "794435b1aa",
@@ -12323,7 +12249,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "c57d9b9b4f": {
    "id": "c57d9b9b4f",
@@ -12468,7 +12394,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "5348667e43": {
    "id": "5348667e43",
@@ -12549,7 +12475,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "7018d12efa": {
    "id": "7018d12efa",
@@ -12627,7 +12553,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "bfd3670321": {
    "id": "bfd3670321",
@@ -12718,7 +12644,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "01f29d526a": {
    "id": "01f29d526a",
@@ -12809,7 +12735,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "dbb5db25ae": {
    "id": "dbb5db25ae",
@@ -12888,7 +12814,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "585d196ff8": {
    "id": "585d196ff8",
@@ -12968,7 +12894,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "76ccc1e33b": {
    "id": "76ccc1e33b",
@@ -13055,7 +12981,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "dd8c859655": {
    "id": "dd8c859655",
@@ -13255,7 +13181,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "a805217306": {
    "id": "a805217306",
@@ -13336,7 +13262,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "d3669c0f3c": {
    "id": "d3669c0f3c",
@@ -13415,7 +13341,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "e8d0b12d49": {
    "id": "e8d0b12d49",
@@ -13495,7 +13421,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "b8d28f9c3e": {
    "id": "b8d28f9c3e",
@@ -13574,7 +13500,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "9208413554": {
    "id": "9208413554",
@@ -13663,7 +13589,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "451840320f": {
    "id": "451840320f",
@@ -13744,7 +13670,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "8ea6130c7c": {
    "id": "8ea6130c7c",
@@ -13822,7 +13748,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "f20ccf018a": {
    "id": "f20ccf018a",
@@ -13914,7 +13840,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "eeea2b2bb2": {
    "id": "eeea2b2bb2",
@@ -13995,7 +13921,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "5b021b17f4": {
    "id": "5b021b17f4",
@@ -14136,7 +14062,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "433c28badd": {
    "id": "433c28badd",
@@ -14222,7 +14148,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "265869298b": {
    "id": "265869298b",
@@ -14301,7 +14227,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "de30b93eeb": {
    "id": "de30b93eeb",
@@ -14458,7 +14384,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "c884bf50cf": {
    "id": "c884bf50cf",
@@ -14599,7 +14525,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "30b5b09dcb": {
    "id": "30b5b09dcb",
@@ -14739,7 +14665,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "85c1caff13": {
    "id": "85c1caff13",
@@ -14818,7 +14744,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "59deeaae7f": {
    "id": "59deeaae7f",
@@ -14897,7 +14823,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "2ad045b59c": {
    "id": "2ad045b59c",
@@ -14981,7 +14907,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "5a579197e7": {
    "id": "5a579197e7",
@@ -15059,7 +14985,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "d4221e2d0d": {
    "id": "d4221e2d0d",
@@ -15138,7 +15064,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "6f228f43e8": {
    "id": "6f228f43e8",
@@ -15219,7 +15145,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "c1987b1ca2": {
    "id": "c1987b1ca2",
@@ -15298,7 +15224,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "cfda6da62f": {
    "id": "cfda6da62f",
@@ -15376,7 +15302,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "5d2b442dfc": {
    "id": "5d2b442dfc",
@@ -15455,7 +15381,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "5489776f74": {
    "id": "5489776f74",
@@ -15542,7 +15468,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "cbd10e320f": {
    "id": "cbd10e320f",
@@ -15621,7 +15547,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "1f289091a0": {
    "id": "1f289091a0",
@@ -15700,7 +15626,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "b91a3907c5": {
    "id": "b91a3907c5",
@@ -15779,7 +15705,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "6bf24c0100": {
    "id": "6bf24c0100",
@@ -15859,7 +15785,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "46e8434cb8": {
    "id": "46e8434cb8",
@@ -15998,7 +15924,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "b0cbcf291c": {
    "id": "b0cbcf291c",
@@ -16085,7 +16011,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "e7450a0dd4": {
    "id": "e7450a0dd4",
@@ -16247,7 +16173,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "b545231803": {
    "id": "b545231803",
@@ -16325,7 +16251,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "2cd33e9685": {
    "id": "2cd33e9685",
@@ -16561,7 +16487,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "d2d973a04c": {
    "id": "d2d973a04c",
@@ -16654,7 +16580,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "4d8b467c55": {
    "id": "4d8b467c55",
@@ -16744,7 +16670,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "4d075733c6": {
    "id": "4d075733c6",
@@ -16835,7 +16761,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "07f7523644": {
    "id": "07f7523644",
@@ -16921,7 +16847,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "0d43fbfa9c": {
    "id": "0d43fbfa9c",
@@ -17009,7 +16935,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "71cc7f338b": {
    "id": "71cc7f338b",
@@ -17096,7 +17022,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "46ad7ec6bb": {
    "id": "46ad7ec6bb",
@@ -17330,7 +17256,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "fbb747eab2": {
    "id": "fbb747eab2",
@@ -17418,7 +17344,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "77c871299b": {
    "id": "77c871299b",
@@ -17509,7 +17435,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "0dca1b56a1": {
    "id": "0dca1b56a1",
@@ -17598,7 +17524,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "39669d2d6e": {
    "id": "39669d2d6e",
@@ -17687,7 +17613,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "5ac71e580a": {
    "id": "5ac71e580a",
@@ -17776,7 +17702,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "071dea6cce": {
    "id": "071dea6cce",
@@ -17862,7 +17788,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "20e5086465": {
    "id": "20e5086465",
@@ -17955,7 +17881,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "9f38d67d42": {
    "id": "9f38d67d42",
@@ -18042,7 +17968,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "34002a08ad": {
    "id": "34002a08ad",
@@ -18131,7 +18057,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "a6aecbf995": {
    "id": "a6aecbf995",
@@ -18242,7 +18168,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
   },
   "817601941c": {
    "id": "817601941c",
@@ -18338,7 +18264,151 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
+   "stats_at": "2026-11-13T10:16:12.174738+00:00"
+  },
+  "cf995999d6": {
+   "id": "cf995999d6",
+   "headline": "US Congress summons former Nvidia CEO Jensen Huang to testify",
+   "summary": "US lawmakers summoned former Nvidia CEO Jensen Huang to face questions in December. The Banking Committee stated that Huang and the commerce secretary could face legal action if they fail to appear.",
+   "label": "ECONOMY",
+   "hook": "Should the former tech CEO face legal action if he fails to appear before the Senate?",
+   "key_points": [
+    "Huang resigned from Nvidia following extramarital affairs.",
+    "One affair involved a suspected Chinese spy.",
+    "The scandal wiped nearly half a trillion dollars off the company."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Nvidia",
+    "#USCongress",
+    "#BusinessNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "France 24"
+   ],
+   "link": "https://www.france24.com/en/video/20261113-potential-national-security-crisis-as-nvidia-ex-ceo-summoned-by-us-congress",
+   "links": [
+    [
+     "France 24",
+     "https://www.france24.com/en/video/20261113-potential-national-security-crisis-as-nvidia-ex-ceo-summoned-by-us-congress"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Jensen_Huang_-_RTX_Blackwell_-_Nvidia_Keynote_-_CES_2025_Las_Vegas_%282%29.jpg/1280px-Jensen_Huang_-_RTX_Blackwell_-_Nvidia_Keynote_-_CES_2025_Las_Vegas_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Pronoia / Wikimedia Commons (CC0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "US Congress summons former Nvidia CEO Jensen Huang to testify",
+    "people": [
+     "Jensen Huang"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "financial district",
+     "technology headquarters"
+    ],
+    "image_style": "person",
+    "location": "Washington, DC, US",
+    "nearby_city": "Washington, DC",
+    "event_query": "Senate committee hearing",
+    "news_time": null,
+    "label": "ECONOMY"
+   },
+   "created_at": "2026-11-13T10:17:11.201797+00:00",
+   "news_time": "2026-11-13T08:49:59+00:00",
+   "news_latest": "2026-11-13T10:00:52+00:00",
+   "caption": "US Congress summons former Nvidia CEO Jensen Huang to testify\n\nUS lawmakers summoned former Nvidia CEO Jensen Huang to face questions in December. The Banking Committee stated that Huang and the commerce secretary could face legal action if they fail to appear.\n\n💬 Should the former tech CEO face legal action if he fails to appear before the Senate?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Nvidia #USCongress #BusinessNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 467,
+   "tg_file_id": "AgACAgUAAxkDAAIB02r246kE2qo19Kb3hXPQlgZcFnn-AAKxFGsbFv24V-y7ewksaMpOAQADAgADdwADPQQ",
+   "extra_msgs": [
+    468
+   ]
+  },
+  "de06bec5ec": {
+   "id": "de06bec5ec",
+   "headline": "Jensen Huang resigns as Nvidia chief executive",
+   "summary": "Nvidia CEO Jensen Huang has resigned, while US commerce secretary Howard Lutnick faces pressure regarding an alleged lack of action over a spying scandal involving Nvidia. Colette Kress has replaced Huang on an interim basis.",
+   "label": "ECONOMY",
+   "hook": "",
+   "key_points": [
+    "Jensen Huang resigned from Nvidia on Thursday.",
+    "Colette Kress replaced Huang as chief financial officer on an interim basis.",
+    "Competitors are looking to take advantage of industry uncertainty."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Nvidia",
+    "#TechNews",
+    "#Business"
+   ],
+   "sources": [
+    "The Guardian",
+    "The Independent"
+   ],
+   "link": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+   "links": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/nvidia-chinese-huawei-donald-trump-intel-b3084271.html"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Jensen_Huang_%28cropped%29_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Photographer: Peter Dasilva / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Jensen Huang resigns as Nvidia chief executive",
+    "people": [
+     "Jensen Huang"
+    ],
+    "image_query": "Nvidia headquarters building",
+    "image_queries": [
+     "semiconductor microchip",
+     "technology stock market",
+     "artificial intelligence server",
+     "corporate office building"
+    ],
+    "image_style": "person",
+    "location": "US",
+    "nearby_city": "Washington, DC",
+    "event_query": "Nvidia executive resignation announcement",
+    "news_time": null,
+    "label": "ECONOMY"
+   },
+   "created_at": "2026-11-13T10:17:15.744820+00:00",
+   "news_time": "2026-11-13T05:01:50+00:00",
+   "news_latest": "2026-11-13T09:41:22+00:00",
+   "caption": "Jensen Huang resigns as Nvidia chief executive\n\nNvidia CEO Jensen Huang has resigned, while US commerce secretary Howard Lutnick faces pressure regarding an alleged lack of action over a spying scandal involving Nvidia. Colette Kress has replaced Huang on an interim basis.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Nvidia #TechNews #Business #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 469,
+   "tg_file_id": "AgACAgUAAxkDAAIB1Wr246_sOqpMn3D08t5yTX1XYb9FAAKyFGsbFv24Vyk_eC72mItJAQADAgADdwADPQQ",
+   "extra_msgs": [
+    470
+   ]
   }
  },
  "seen_links": [
@@ -19130,27 +19200,13 @@
   "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
   "https://www.euronews.com/video/2026/11/13/peru-pope-leo-xiv-leads-youth-prayer-vigil-at-limas-national-stadium",
   "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_pope-leo-meets-clergy-abuse-survivors-in-peru-121126?traffic_source=rss",
-  "https://www.france24.com/en/americas/20261113-pope-leo-xiv-meets-abuse-victims-in-peru-says-church-must-make-amends"
+  "https://www.france24.com/en/americas/20261113-pope-leo-xiv-meets-abuse-victims-in-peru-says-church-must-make-amends",
+  "https://www.france24.com/en/video/20261113-potential-national-security-crisis-as-nvidia-ex-ceo-summoned-by-us-congress",
+  "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate?traffic_source=rss",
+  "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+  "https://www.independent.co.uk/news/world/americas/nvidia-chinese-huawei-donald-trump-intel-b3084271.html"
  ],
  "recent_topics": [
-  [
-   "2026-11-10T10:15:37.470938+00:00",
-   [
-    "choos",
-    "defeat",
-    "elect",
-    "hous",
-    "jordan",
-    "leader",
-    "look",
-    "midterm",
-    "minority",
-    "rebuild",
-    "republican",
-    "scalis"
-   ],
-   "7e020afc69"
-  ],
   [
    "2026-11-10T10:30:44.419659+00:00",
    [
@@ -22036,19 +22092,52 @@
     "youth"
    ],
    "817601941c"
+  ],
+  [
+   "2026-11-13T10:17:14.071215+00:00",
+   [
+    "congress",
+    "crisi",
+    "ex-ceo",
+    "huang",
+    "lutnick",
+    "national",
+    "nvidia",
+    "potential",
+    "security",
+    "senat",
+    "summon",
+    "testify"
+   ],
+   "cf995999d6"
+  ],
+  [
+   "2026-11-13T10:17:19.847815+00:00",
+   [
+    "action",
+    "alleg",
+    "around",
+    "boom",
+    "dampen",
+    "exuberanc",
+    "fallout",
+    "howard",
+    "lack",
+    "lutnick",
+    "nvidia",
+    "pressur",
+    "scandal"
+   ],
+   "de06bec5ec"
   ]
  ],
- "last_draft_at": "2026-11-13T10:00:57.430003+00:00",
+ "last_draft_at": "2026-11-13T10:17:09.327114+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-13T09:07:58.722244+00:00",
+ "last_stats_at": "2026-11-13T10:16:12.174738+00:00",
  "run_log": [
-  "11-13 07:57:03 run end after 689 s",
-  "11-13 08:01:29 run start",
-  "11-13 08:02:34 listening 10 min",
-  "11-13 08:13:04 listening done",
   "11-13 08:13:04 run end after 694 s",
   "11-13 08:15:48 run start",
   "11-13 08:15:59 listening 11 min",
@@ -22084,13 +22173,15 @@
   "11-13 10:00:57 run start",
   "11-13 10:01:05 listening 11 min",
   "11-13 10:12:24 listening done",
-  "11-13 10:12:24 run end after 687 s"
+  "11-13 10:12:24 run end after 687 s",
+  "11-13 10:16:11 run start",
+  "11-13 10:17:20 listening 10 min",
+  "11-13 10:27:49 listening done",
+  "11-13 10:27:49 run end after 698 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/f/f2/Scott_Colom_2_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Government_Buildings%2C_Dublin%2C_Ireland.jpg/1920px-Government_Buildings%2C_Dublin%2C_Ireland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Spanish_Parliament_building_.jpg/1920px-Spanish_Parliament_building_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/8/8f/Presiden_Indonesia_Prabowo_Subianto%2C_Presiden_Rusia_Vladimir_Putin%2C_Presiden_Tiongkok_Xi_Jinping%2C_Pemimpin_Tertinggi_Korea_Utara_Kim_Jong-un%2C_dan_Presiden_Kazakstan_Kassym-Jomart_Tokayev_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/The_Great_Wall_of_China_in_Yanqing.jpg/1920px-The_Great_Wall_of_China_in_Yanqing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -22128,7 +22219,9 @@
    "https://live.staticflickr.com/7027/6774900871_5b038bc741_b.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/7/70/James_Talarico_Press_Conference_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Assembly_line%29_Vicker_Sons_%26_Maxim_Gun_Factory_LCCN2014680263.jpg/1920px-Assembly_line%29_Vicker_Sons_%26_Maxim_Gun_Factory_LCCN2014680263.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Pope_Leo_XIV_3_%283x4_cropped%29_%282%29.jpg/1280px-Pope_Leo_XIV_3_%283x4_cropped%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Pope_Leo_XIV_3_%283x4_cropped%29_%282%29.jpg/1280px-Pope_Leo_XIV_3_%283x4_cropped%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Jensen_Huang_-_RTX_Blackwell_-_Nvidia_Keynote_-_CES_2025_Las_Vegas_%282%29.jpg/1280px-Jensen_Huang_-_RTX_Blackwell_-_Nvidia_Keynote_-_CES_2025_Las_Vegas_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/5/59/Jensen_Huang_%28cropped%29_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   ],
   "pools": {
    "stephen miller": {
