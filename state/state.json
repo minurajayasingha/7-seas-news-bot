@@ -1,87 +1,6 @@
 {
  "tg_offset": 495893000,
  "drafts": {
-  "34d920aa62": {
-   "id": "34d920aa62",
-   "headline": "Trump admits immigration crackdown might be too tough after midterms",
-   "summary": "President Trump stated that his deportation policies may have been too tough and contributed to historic midterm election losses for the GOP. During a 60 Minutes interview, he noted that the sweeping deportations both helped and hurt him politically.",
-   "label": "US POLITICS",
-   "hook": "Did deportation policies lead to the GOP losses in the midterms?",
-   "key_points": [
-    "Trump discussed the midterms on 60 Minutes",
-    "He stated immigration policies might be too tough",
-    "The policies contributed to GOP losses"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#Immigration",
-    "#Midterms"
-   ],
-   "sources": [
-    "BBC",
-    "Newsweek",
-    "The Hill"
-   ],
-   "link": "https://www.bbc.co.uk/news/articles/cmg476w7wnl2o?at_medium=RSS&at_campaign=rss",
-   "links": [
-    [
-     "BBC",
-     "https://www.bbc.co.uk/news/articles/cmg476w7wnl2o?at_medium=RSS&at_campaign=rss"
-    ],
-    [
-     "Newsweek",
-     "https://www.newsweek.com/trump-mass-deportation-policy-too-tough-hurt-midterm-result-12685010"
-    ],
-    [
-     "The Hill",
-     "https://thehill.com/homenews/6207170-trump-immigration-policy-midterm-losses/"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg/1280px-Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "The White House from Washington, DC / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Trump admits immigration crackdown might be too tough after midterms",
-    "people": [
-     "Donald Trump"
-    ],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "White House",
-     "Senate chamber",
-     "voting booth",
-     "Capitol Hill"
-    ],
-    "image_style": "person",
-    "location": "US"
-   },
-   "created_at": "2026-11-09T02:00:46.337754+00:00",
-   "news_time": "2026-11-09T01:23:22+00:00",
-   "news_latest": "2026-11-09T01:51:44+00:00",
-   "caption": "Trump admits immigration crackdown might be too tough after midterms\n\nPresident Trump stated that his deportation policies may have been too tough and contributed to historic midterm election losses for the GOP. During a 60 Minutes interview, he noted that the sweeping deportations both helped and hurt him politically.\n\n💬 Did deportation policies lead to the GOP losses in the midterms?\n\n📖 Read more: https://www.bbc.co.uk/news/articles/cmg476w7wnl2o?at_medium=RSS&at_campaign=rss\n\n#USPolitics #Immigration #Midterms #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 139,
-   "tg_file_id": "AgACAgUAAxkDAAOLavEpVPZ_OrYmVNElYMIjNogEWBQAAn0Vaxv_D4lXcCqY6cm8cWsBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-09T02:01:28.253175+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122096332809548584",
-   "posted_at": "2026-11-09T02:01:28.545730+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 08 · 9:01 PM New York · 7:31 AM Sri Lanka\n\n<b>Trump admits immigration crackdown might be too tough after midterms</b>\n<i>BBC, Newsweek, The Hill</i>\n🟢 <b>Latest:</b> 7:21 AM Sri Lanka (9 min ago) · first reported 6:53 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096332809548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 42,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "3022661561411457"
-  },
   "f7d93440dd": {
    "id": "f7d93440dd",
    "headline": "Joe Biden limits memoir promotion due to cancer fight",
@@ -21970,17 +21889,13 @@
    "0dca1b56a1"
   ]
  ],
- "last_draft_at": "2026-11-13T01:39:38.070451+00:00",
+ "last_draft_at": "2026-11-13T01:51:46.834169+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T01:00:51.761693+00:00",
  "run_log": [
-  "11-12 23:27:31 run end after 706 s",
-  "11-12 23:30:42 run start",
-  "11-12 23:32:23 listening 10 min",
-  "11-12 23:42:27 listening done",
   "11-12 23:42:27 run end after 704 s",
   "11-12 23:45:43 run start",
   "11-12 23:46:48 listening 10 min",
@@ -22016,7 +21931,11 @@
   "11-13 01:39:37 run start",
   "11-13 01:39:46 listening 11 min",
   "11-13 01:51:05 listening done",
-  "11-13 01:51:05 run end after 688 s"
+  "11-13 01:51:05 run end after 688 s",
+  "11-13 01:51:46 run start",
+  "11-13 01:51:57 listening 11 min",
+  "11-13 02:03:15 listening done",
+  "11-13 02:03:15 run end after 689 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
