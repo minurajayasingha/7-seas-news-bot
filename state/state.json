@@ -1,66 +1,6 @@
 {
  "tg_offset": 495893010,
  "drafts": {
-  "9ffb428fa2": {
-   "id": "9ffb428fa2",
-   "headline": "Migrant boat disaster off Crete: rescue operations underway",
-   "summary": "Multiple migrants have died following a boat incident off the coast of Crete. The Greek coast guard responded to the vessel in difficulty during a storm.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "Vessel got into difficulty off Crete",
-    "Greek coast guard rescued survivors from the boat",
-    "Several migrants found dead following the incident"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#WorldNews",
-    "#Crete",
-    "#Migration"
-   ],
-   "sources": [
-    "The Independent",
-    "UPI"
-   ],
-   "link": "https://www.independent.co.uk/news/world/europe/greece-crete-migrant-boat-deaths-b3081480.html",
-   "links": [
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/europe/greece-crete-migrant-boat-deaths-b3081480.html"
-    ],
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/World-News/2026/11/09/Greece-migrants-found-dead-aboard-boat/7261794216646/"
-    ]
-   ],
-   "bg": {
-    "type": "incident",
-    "photos": [],
-    "location": "Crete, Greece"
-   },
-   "img_post": {
-    "headline": "Migrant boat disaster off Crete: rescue operations underway",
-    "people": [],
-    "image_query": "Crete coastline",
-    "image_queries": [
-     "Greek coast guard vessel",
-     "Mediterranean sea view",
-     "Island of Crete",
-     "Rescue boat at sea"
-    ],
-    "image_style": "incident",
-    "location": "Crete, Greece"
-   },
-   "created_at": "2026-11-09T12:45:40.473315+00:00",
-   "news_time": "2026-11-09T11:29:34+00:00",
-   "news_latest": "2026-11-09T11:38:31+00:00",
-   "caption": "Migrant boat disaster off Crete: rescue operations underway\n\nMultiple migrants have died following a boat incident off the coast of Crete. The Greek coast guard responded to the vessel in difficulty during a storm.\n\n📖 Read more: https://www.independent.co.uk/news/world/europe/greece-crete-migrant-boat-deaths-b3081480.html\n\n#WorldNews #Crete #Migration #7SeasNews",
-   "status": "replaced",
-   "tg_message_id": 161,
-   "tg_file_id": "AgACAgUAAxkDAAOhavHAf8QwB189Dt6j_LlUH3eMdVYAAm8Waxv_D5FX4U-yu1qs2P0BAAMCAAN3AAM9BA",
-   "extra_msgs": [],
-   "cleared": true
-  },
   "e931fdf8cb": {
    "id": "e931fdf8cb",
    "headline": "Democrats debate congressional strategy following the recent election victory",
@@ -18414,6 +18354,89 @@
    "tg_file_id": "AgACAgUAAxkDAAIB22r3AwEnEYWRByn-_Ygv3p78HFdBAALoFGsbFv24VwLmYbbLStjuAQADAgADdwADPQQ",
    "extra_msgs": [],
    "cleared": true
+  },
+  "8159430728": {
+   "id": "8159430728",
+   "headline": "Poll explores opinions on United States hemispheric dominance",
+   "summary": "Recent polling from Economist and YouGov addresses whether the United States should be the dominant power in the Western Hemisphere. Meanwhile, Democratic midterm voters report feeling less divided following their midterm sweep, according to reports.",
+   "label": "US POLITICS",
+   "hook": "Should the United States remain the dominant power in the Western Hemisphere?",
+   "key_points": [
+    "An Economist and YouGov poll surveyed Americans.",
+    "Democratic midterm voters feel less divided after their sweep.",
+    "Cracks remain between progressives and moderates."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Polling",
+    "#Midterms"
+   ],
+   "sources": [
+    "Politico",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/premium/4503592/poll-democrats-wish-america-was-weak/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/premium/4503592/poll-democrats-wish-america-was-weak/"
+    ],
+    [
+     "Politico",
+     "https://www.politico.com/news/2026/11/13/poll-democrats-united-for-now-2028-01163438"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Democratic_National_Committee_Headquarters_in_Washington%2C_D.C._02.jpg/1920px-Democratic_National_Committee_Headquarters_in_Washington%2C_D.C._02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Harrison Keely / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Poll explores opinions on United States hemispheric dominance",
+    "people": [],
+    "image_query": "US Capitol dome",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "voting booth",
+     "Democratic National Committee"
+    ],
+    "image_style": "scene",
+    "location": "US",
+    "nearby_city": "Washington, DC",
+    "event_query": "",
+    "news_time": null,
+    "label": "US POLITICS"
+   },
+   "created_at": "2026-11-13T12:47:19.752212+00:00",
+   "news_time": "2026-11-13T10:00:00+00:00",
+   "news_latest": "2026-11-13T12:30:00+00:00",
+   "caption": "Poll explores opinions on United States hemispheric dominance\n\nRecent polling from Economist and YouGov addresses whether the United States should be the dominant power in the Western Hemisphere. Meanwhile, Democratic midterm voters report feeling less divided following their midterm sweep, according to reports.\n\n💬 Should the United States remain the dominant power in the Western Hemisphere?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Polling #Midterms #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 477,
+   "tg_file_id": "AgACAgUAAxkDAAIB3Wr3BttZzkXrXWxOZ6dhCB9U70D3AALwFGsbFv24V5gkL55xD2mAAQADAgADdwADPQQ",
+   "queued_at": "2026-11-13T12:47:23.427593+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-13T12:47:23.427650+00:00",
+   "post_label": "🤖 Auto-posting + Reel",
+   "fb_post_id": "1413030521900096_122100337155548584",
+   "posted_at": "2026-11-13T12:47:23.769788+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 13 · 7:47 AM New York · 6:17 PM Sri Lanka\n\n<b>Poll explores opinions on United States hemispheric dominance</b>\n<i>Politico, Washington Examiner</i>\n🟢 <b>Latest:</b> 6:00 PM Sri Lanka (17 min ago) · first reported 3:30 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122100337155548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 297,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122100337155548584_1149754537447774",
+   "fb_reel_id": "2939013513145544",
+   "reel_status": "live"
   }
  },
  "seen_links": [
@@ -19220,29 +19243,11 @@
   "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk",
   "https://www.france24.com/en/video/20261113-one-of-the-biggest-outages-ever-disruption-to-microsoft-services-enters-second-day",
   "https://www.independent.co.uk/news/world/americas/us-politics/trump-scott-colom-interview-praise-b3084510.html",
-  "https://www.nytimes.com/2026/11/13/us/politics/scott-colom-mississippi-democrat-defied-odds.html"
+  "https://www.nytimes.com/2026/11/13/us/politics/scott-colom-mississippi-democrat-defied-odds.html",
+  "https://www.washingtonexaminer.com/premium/4503592/poll-democrats-wish-america-was-weak/",
+  "https://www.politico.com/news/2026/11/13/poll-democrats-united-for-now-2028-01163438"
  ],
  "recent_topics": [
-  [
-   "2026-11-10T12:46:04.348146+00:00",
-   [
-    "12",
-    "bulgaria",
-    "bulgarian",
-    "crash",
-    "dozen",
-    "foggy",
-    "involv",
-    "kill",
-    "least",
-    "minister",
-    "motorway",
-    "peopl",
-    "pile-up",
-    "vehicl"
-   ],
-   "9e78ddd1bb"
-  ],
   [
    "2026-11-10T13:00:51.031456+00:00",
    [
@@ -22073,19 +22078,29 @@
     "upset"
    ],
    "9b9ff5df8b"
+  ],
+  [
+   "2026-11-13T12:47:23.423087+00:00",
+   [
+    "actually",
+    "america",
+    "democrat",
+    "now",
+    "poll",
+    "unit",
+    "weak",
+    "wish"
+   ],
+   "8159430728"
   ]
  ],
- "last_draft_at": "2026-11-13T12:30:43.804107+00:00",
+ "last_draft_at": "2026-11-13T12:46:29.553319+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T12:15:36.312160+00:00",
  "run_log": [
-  "11-13 10:17:20 listening 10 min",
-  "11-13 10:27:49 listening done",
-  "11-13 10:27:49 run end after 698 s",
-  "11-13 10:30:39 run start",
   "11-13 10:30:49 listening 11 min",
   "11-13 10:42:08 listening done",
   "11-13 10:42:08 run end after 688 s",
@@ -22121,12 +22136,15 @@
   "11-13 12:30:43 run start",
   "11-13 12:30:58 listening 11 min",
   "11-13 12:42:18 listening done",
-  "11-13 12:42:18 run end after 695 s"
+  "11-13 12:42:18 run end after 695 s",
+  "11-13 12:46:29 run start",
+  "11-13 12:48:21 listening 10 min",
+  "11-13 12:58:00 listening done",
+  "11-13 12:58:00 run end after 691 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/e/e7/Tehran_skyline_from_Book_Garden_0272.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Donald_Trump_official_portrait_2020_election.jpg/1280px-Donald_Trump_official_portrait_2020_election.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Bisexual_Pride_flag_over_UK_Government_building_in_Cardiff%2C_2023-09-21.jpg/1920px-Bisexual_Pride_flag_over_UK_Government_building_in_Cardiff%2C_2023-09-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -22165,7 +22183,8 @@
    "https://upload.wikimedia.org/wikipedia/commons/5/59/Jensen_Huang_%28cropped%29_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Nissan_Skyline_R34_in_South_Africa.jpg/1920px-Nissan_Skyline_R34_in_South_Africa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Pope_Leo_XIV_childhood_home_3.jpg/1280px-Pope_Leo_XIV_childhood_home_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/f/f2/Scott_Colom_2_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/f/f2/Scott_Colom_2_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Democratic_National_Committee_Headquarters_in_Washington%2C_D.C._02.jpg/1920px-Democratic_National_Committee_Headquarters_in_Washington%2C_D.C._02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "sonia sotomayor": {
@@ -25578,7 +25597,6 @@
    }
   },
   "recent_ideas": [
-   "arlington national cemetery",
    "capitol at night",
    "computer server room",
    "pentagon building",
@@ -25589,18 +25607,19 @@
    "prison exterior",
    "dublin cityscape",
    "factory assembly line",
-   "south africa skyline"
+   "south africa skyline",
+   "democratic national committee"
   ]
  },
  "comment_perm_told": true,
  "auto_count": {
   "2026-11-12": 17,
-  "2026-11-13": 6
+  "2026-11-13": 7
  },
- "last_auto_at": "2026-11-13T11:01:55.578035+00:00",
- "last_post_at": "2026-11-13T11:26:19.169143+00:00",
+ "last_auto_at": "2026-11-13T12:47:23.769788+00:00",
+ "last_post_at": "2026-11-13T12:47:29.265838+00:00",
  "reels_count": {
   "2026-11-12": 2,
-  "2026-11-13": 3
+  "2026-11-13": 4
  }
 }
