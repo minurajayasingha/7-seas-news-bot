@@ -1,5 +1,5 @@
 {
- "tg_offset": 495893000,
+ "tg_offset": 495893001,
  "drafts": {
   "2923ddaee7": {
    "id": "2923ddaee7",
@@ -18232,12 +18232,23 @@
    "news_time": "2026-11-13T01:36:57+00:00",
    "news_latest": "2026-11-13T02:33:28+00:00",
    "caption": "🚨 BREAKING: Trump considers Cuba action and shifts Vice President focus\n\nUS President Trump calls Cuba a failed nation and hints at potential action before his term ends. The remarks follow an order for Vice President JD Vance to halt ceasefire negotiations with Tehran and investigate alleged fraud in Democratic-led states.\n\nWhat we know so far:\n• President Trump calls Cuba a failed nation.\n• Vice President JD Vance receives new investigation orders.\n• Ceasefire negotiations with Tehran are abandoned.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #WorldNews #Cuba #7SeasNews",
-   "status": "pending",
+   "status": "posted",
    "tg_message_id": 455,
    "tg_file_id": "AgACAgUAAxkDAAIBx2r2edxwOVTw_iza3vtXkIRgsSW5AAK1E2sbFv2wV1jedTJ1v8WTAQADAgADdwADPQQ",
-   "extra_msgs": [
-    456
-   ]
+   "extra_msgs": [],
+   "queued_at": "2026-11-13T04:30:46.234698+00:00",
+   "post_now": true,
+   "post_at": "2026-11-13T04:30:46.234714+00:00",
+   "post_label": "🚀 Posting now",
+   "fb_post_id": "1413030521900096_122100009927548584",
+   "posted_at": "2026-11-13T04:30:46.529865+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 12 · 11:30 PM New York · 10:00 AM Sri Lanka\n\n<b>Trump considers Cuba action and shifts Vice President focus</b>\n<i>Al Jazeera, The Independent</i>\n🟡 <b>Latest:</b> 8:03 AM Sri Lanka (1h 57m ago) · first reported 7:06 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122100009927548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 284,
+   "log_photo": true,
+   "cleared": true,
+   "fb_comment_id": "122100009927548584_1439000694969560",
+   "fb_story_id": "1909648167067448"
   },
   "071dea6cce": {
    "id": "071dea6cce",
@@ -22129,17 +22140,13 @@
    "20e5086465"
   ]
  ],
- "last_draft_at": "2026-11-13T04:16:03.722309+00:00",
+ "last_draft_at": "2026-11-13T04:31:04.906739+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T04:00:42.418856+00:00",
  "run_log": [
-  "11-13 02:03:46 run start",
-  "11-13 02:05:06 listening 10 min",
-  "11-13 02:15:35 listening done",
-  "11-13 02:15:35 run end after 708 s",
   "11-13 02:16:02 run start",
   "11-13 02:16:12 listening 11 min",
   "11-13 02:27:31 listening done",
@@ -22175,7 +22182,11 @@
   "11-13 04:16:03 run start",
   "11-13 04:16:13 listening 11 min",
   "11-13 04:27:32 listening done",
-  "11-13 04:27:32 run end after 689 s"
+  "11-13 04:27:32 run end after 689 s",
+  "11-13 04:30:45 run start",
+  "11-13 04:31:15 listening 11 min",
+  "11-13 04:42:34 listening done",
+  "11-13 04:42:34 run end after 708 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
@@ -25650,7 +25661,7 @@
   "2026-11-12": 17
  },
  "last_auto_at": "2026-11-13T03:36:28.557624+00:00",
- "last_post_at": "2026-11-13T03:36:33.462333+00:00",
+ "last_post_at": "2026-11-13T04:30:51.359234+00:00",
  "reels_count": {
   "2026-11-12": 2
  }
