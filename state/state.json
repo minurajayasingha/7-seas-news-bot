@@ -1,82 +1,6 @@
 {
  "tg_offset": 495893004,
  "drafts": {
-  "2c56e4d3cd": {
-   "id": "2c56e4d3cd",
-   "headline": "Trump plans meetings with Putin and Xi in China",
-   "summary": "US President Donald Trump announced plans to meet with Vladimir Putin and Xi Jinping in China next week. They plan to discuss denuclearisation and ending the Iran war, alongside a new Qatari-backed proposal being examined by Washington.",
-   "label": "DIPLOMACY",
-   "hook": "Can these planned discussions in China help end the Iran war?",
-   "key_points": [
-    "Trump plans to meet Putin and Xi in China.",
-    "Topics include denuclearisation and ending the Iran war.",
-    "Washington is examining a two-day proposal from Iran and Qatar."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#WorldNews",
-    "#USChina",
-    "#Diplomacy"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "Euronews"
-   ],
-   "link": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations?traffic_source=rss",
-   "links": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations?traffic_source=rss"
-    ],
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/09/donald-trump-plans-to-meet-vladimir-putin-and-xi-jinping-in-china-to-discuss-ending-iran-w"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Donald_Trump_RNC_July_2016.jpg/1280px-Donald_Trump_RNC_July_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Ali Shaker/VOA / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Trump plans meetings with Putin and Xi in China",
-    "people": [
-     "Donald Trump"
-    ],
-    "image_query": "Beijing cityscape",
-    "image_queries": [
-     "Great Wall of China",
-     "Tiananmen Square",
-     "Chinese capital skyline",
-     "Beijing government building"
-    ],
-    "image_style": "person",
-    "location": "China"
-   },
-   "created_at": "2026-11-09T09:51:07.779867+00:00",
-   "news_time": "2026-11-09T07:08:26+00:00",
-   "news_latest": "2026-11-09T09:27:35+00:00",
-   "caption": "Trump plans meetings with Putin and Xi in China\n\nUS President Donald Trump announced plans to meet with Vladimir Putin and Xi Jinping in China next week. They plan to discuss denuclearisation and ending the Iran war, alongside a new Qatari-backed proposal being examined by Washington.\n\n💬 Can these planned discussions in China help end the Iran war?\n\n📖 Read more: https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations?traffic_source=rss\n\n#WorldNews #USChina #Diplomacy #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 154,
-   "tg_file_id": "AgACAgUAAxkDAAOaavGXkTVQzHhd0CeNrk51s6e6FzEAAggWaxv_D5FXwYEau9nTl88BAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-09T10:00:29.393240+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122096591841548584",
-   "posted_at": "2026-11-09T10:00:30.300377+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 09 · 5:00 AM New York · 3:30 PM Sri Lanka\n\n<b>Trump plans meetings with Putin and Xi in China</b>\n<i>Al Jazeera, Euronews</i>\n🟢 <b>Latest:</b> 2:57 PM Sri Lanka (32 min ago) · first reported 12:38 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096591841548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 51,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "2286768071891230"
-  },
   "12d4228b8b": {
    "id": "12d4228b8b",
    "headline": "Congress returns to Washington following recent US elections",
@@ -22114,17 +22038,13 @@
    "817601941c"
   ]
  ],
- "last_draft_at": "2026-11-13T09:32:51.846213+00:00",
+ "last_draft_at": "2026-11-13T10:00:57.430003+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T09:07:58.722244+00:00",
  "run_log": [
-  "11-13 07:42:14 run end after 694 s",
-  "11-13 07:45:34 run start",
-  "11-13 07:45:45 listening 11 min",
-  "11-13 07:57:03 listening done",
   "11-13 07:57:03 run end after 689 s",
   "11-13 08:01:29 run start",
   "11-13 08:02:34 listening 10 min",
@@ -22160,7 +22080,11 @@
   "11-13 09:44:21 run end after 690 s",
   "11-13 09:45:41 run start",
   "11-13 09:45:42 run error: ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
-  "11-13 09:45:42 run end after 1 s"
+  "11-13 09:45:42 run end after 1 s",
+  "11-13 10:00:57 run start",
+  "11-13 10:01:05 listening 11 min",
+  "11-13 10:12:24 listening done",
+  "11-13 10:12:24 run end after 687 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
