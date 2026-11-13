@@ -1,221 +1,6 @@
 {
  "tg_offset": 495893015,
  "drafts": {
-  "3022d7d2f3": {
-   "id": "3022d7d2f3",
-   "headline": "Factory Explosion Kills at Least Six People in Turkey",
-   "summary": "An explosion at an iron and steel plant in Turkey resulted in at least six deaths, according to officials. Izmir provincial officials noted the incident occurred in western Turkey, while a search is underway for missing individuals.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "Explosion occurred at an iron and steel plant",
-    "At least six people died",
-    "Search is underway for missing individuals"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Turkey",
-    "#WorldNews",
-    "#BreakingNews"
-   ],
-   "sources": [
-    "Sky News",
-    "UPI"
-   ],
-   "link": "https://www.upi.com/Top_News/World-News/2026/11/09/turkey-explosion-factory/8151794236019/",
-   "links": [
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/World-News/2026/11/09/turkey-explosion-factory/8151794236019/"
-    ],
-    [
-     "Sky News",
-     "https://news.sky.com/story/explosion-at-steel-plant-in-turkey-kills-at-least-six-officials-say-13610161"
-    ]
-   ],
-   "bg": {
-    "type": "incident",
-    "photos": [],
-    "location": "Turkey"
-   },
-   "img_post": {
-    "headline": "Factory Explosion Kills at Least Six People in Turkey",
-    "people": [],
-    "image_query": "steel factory Turkey",
-    "image_queries": [
-     "industrial explosion site",
-     "steel plant facility",
-     "factory rescue operation",
-     "Izmir province Turkey"
-    ],
-    "image_style": "incident",
-    "location": "Turkey"
-   },
-   "created_at": "2026-11-09T15:30:40.281007+00:00",
-   "news_time": "2026-11-09T12:05:00+00:00",
-   "news_latest": "2026-11-09T15:25:07+00:00",
-   "caption": "Factory Explosion Kills at Least Six People in Turkey\n\nAn explosion at an iron and steel plant in Turkey resulted in at least six deaths, according to officials. Izmir provincial officials noted the incident occurred in western Turkey, while a search is underway for missing individuals.\n\n📖 Read more: https://www.upi.com/Top_News/World-News/2026/11/09/turkey-explosion-factory/8151794236019/\n\n#Turkey #WorldNews #BreakingNews #7SeasNews",
-   "status": "replaced",
-   "tg_message_id": 182,
-   "tg_file_id": "AgACAgUAAxkDAAO2avHnJT346Yx-8DrV908ly5q8OoMAAuYWaxv_D5FX3WEVBbcXK6MBAAMCAAN3AAM9BA",
-   "extra_msgs": [],
-   "cleared": true
-  },
-  "b61202356c": {
-   "id": "b61202356c",
-   "headline": "Donald Trump says renewed strikes on Iran are unlikely",
-   "summary": "President Donald Trump stated that renewed military strikes on Iran are unlikely if talks progress. Meanwhile, Iran views the US midterm results as an opportunity, while experts note that missiles have been a high cost for the US.",
-   "label": "DIPLOMACY",
-   "hook": "Will these talks prevent further US military action in Iran?",
-   "key_points": [
-    "Trump says renewed strikes are unlikely if talks progress",
-    "Iran sees US midterms as an opportunity for a deal",
-    "Missiles represent the highest cost for the US over the war"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#Iran",
-    "#WorldNews"
-   ],
-   "sources": [
-    "France 24",
-    "NPR",
-    "Newsweek"
-   ],
-   "link": "https://www.france24.com/en/iran-sees-golden-opportunity-for-a-sweetheart-deal-after-us-midterms-expert-says",
-   "links": [
-    [
-     "France 24",
-     "https://www.france24.com/en/iran-sees-golden-opportunity-for-a-sweetheart-deal-after-us-midterms-expert-says"
-    ],
-    [
-     "Newsweek",
-     "https://www.newsweek.com/trump-middle-east-pay-iran-war-debt-12685563"
-    ],
-    [
-     "NPR",
-     "https://www.npr.org/2026/11/09/nx-s1-6030858/midterm-results-could-complicate-jd-vances-political-future"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Shealeah Craighead / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Donald Trump says renewed strikes on Iran are unlikely",
-    "people": [
-     "Donald Trump"
-    ],
-    "image_query": "White House",
-    "image_queries": [
-     "US Capitol dome",
-     "Pentagon building",
-     "Senate chamber",
-     "US Capitol building"
-    ],
-    "image_style": "person",
-    "location": "US"
-   },
-   "created_at": "2026-11-09T15:30:47.300654+00:00",
-   "news_time": "2026-11-09T09:45:28+00:00",
-   "news_latest": "2026-11-09T13:49:33+00:00",
-   "caption": "Donald Trump says renewed strikes on Iran are unlikely\n\nPresident Donald Trump stated that renewed military strikes on Iran are unlikely if talks progress. Meanwhile, Iran views the US midterm results as an opportunity, while experts note that missiles have been a high cost for the US.\n\n💬 Will these talks prevent further US military action in Iran?\n\n📖 Read more: https://www.france24.com/en/iran-sees-golden-opportunity-for-a-sweetheart-deal-after-us-midterms-expert-says\n\n#USPolitics #Iran #WorldNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 183,
-   "tg_file_id": "AgACAgUAAxkDAAO3avHnKScCWqt1YhmYqUEtJyaYRK8AAucWaxv_D5FXFrP4s_dpdGgBAAMCAAN3AAM9BA",
-   "dup_ok": true,
-   "extra_msgs": [],
-   "queued_at": "2026-11-09T15:35:36.667003+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122096782449548584",
-   "posted_at": "2026-11-09T15:35:37.180933+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 09 · 10:35 AM New York · 9:05 PM Sri Lanka\n\n<b>Donald Trump says renewed strikes on Iran are unlikely</b>\n<i>France 24, NPR, Newsweek</i>\n🟡 <b>Latest:</b> 7:19 PM Sri Lanka (1h 46m ago) · first reported 3:15 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096782449548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 67,
-   "log_photo": true,
-   "cleared": true,
-   "fb_story_id": "1737757680655523"
-  },
-  "89c02a982b": {
-   "id": "89c02a982b",
-   "headline": "Factory Explosion Kills at Least Six People in Turkey",
-   "summary": "An explosion at an iron and steel plant in Turkey resulted in at least six deaths, according to officials. Izmir provincial officials noted the incident occurred in western Turkey, while a search is underway for missing individuals.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "Explosion occurred at an iron and steel plant",
-    "At least six people died",
-    "Search is underway for missing individuals"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Turkey",
-    "#WorldNews",
-    "#BreakingNews"
-   ],
-   "sources": [
-    "Sky News",
-    "UPI"
-   ],
-   "link": "https://www.upi.com/Top_News/World-News/2026/11/09/turkey-explosion-factory/8151794236019/",
-   "links": [
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/World-News/2026/11/09/turkey-explosion-factory/8151794236019/"
-    ],
-    [
-     "Sky News",
-     "https://news.sky.com/story/explosion-at-steel-plant-in-turkey-kills-at-least-six-officials-say-13610161"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "tg_file_id": "AgACAgUAAxkBAAO5avHpYcUVnMB4o5s5D8o59--cc4UAAusWaxv_D5FXakjWmM7OQY4BAAMCAAN5AAM9BA",
-      "credit": ""
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Factory Explosion Kills at Least Six People in Turkey",
-    "people": [],
-    "image_query": "steel factory Turkey",
-    "image_queries": [
-     "industrial explosion site",
-     "steel plant facility",
-     "factory rescue operation",
-     "Izmir province Turkey"
-    ],
-    "image_style": "incident",
-    "location": "Turkey"
-   },
-   "created_at": "2026-11-09T15:40:18.054861+00:00",
-   "news_time": "2026-11-09T12:05:00+00:00",
-   "news_latest": "2026-11-09T15:25:07+00:00",
-   "caption": "Factory Explosion Kills at Least Six People in Turkey\n\nAn explosion at an iron and steel plant in Turkey resulted in at least six deaths, according to officials. Izmir provincial officials noted the incident occurred in western Turkey, while a search is underway for missing individuals.\n\n📖 Read more: https://www.upi.com/Top_News/World-News/2026/11/09/turkey-explosion-factory/8151794236019/\n\n#Turkey #WorldNews #BreakingNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 186,
-   "tg_file_id": "AgACAgUAAxkDAAO6avHpc7BmPvwgjJqNEIR9Bl-f6o4AAuwWaxv_D5FXFM0BbUmSZTwBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-09T15:40:38.823905+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122096784069548584",
-   "posted_at": "2026-11-09T15:40:39.184582+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 09 · 10:40 AM New York · 9:10 PM Sri Lanka\n\n<b>Factory Explosion Kills at Least Six People in Turkey</b>\n<i>Sky News, UPI</i>\n🟢 <b>Latest:</b> 8:55 PM Sri Lanka (15 min ago) · first reported 5:35 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096784069548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 68,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "1139025785236988"
-  },
   "fa0755faec": {
    "id": "fa0755faec",
    "headline": "Nvidia stock falls after company launches probe into Jensen Huang",
@@ -18984,61 +18769,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-10T15:31:12.057930+00:00",
-   [
-    "congress",
-    "end",
-    "iran",
-    "majority",
-    "momentum",
-    "poll",
-    "positiv",
-    "republican",
-    "want",
-    "war"
-   ],
-   "e5eb01cfdb"
-  ],
-  [
-   "2026-11-10T15:31:23.907128+00:00",
-   [
-    "appear",
-    "bon",
-    "dodg",
-    "draft",
-    "draft-dodg",
-    "infamou",
-    "mock",
-    "president",
-    "spur",
-    "statu",
-    "trump",
-    "vietnam",
-    "war"
-   ],
-   "c5bf3663b2"
-  ],
-  [
-   "2026-11-10T15:31:34.493076+00:00",
-   [
-    "approval",
-    "chang",
-    "donald",
-    "drubb",
-    "foreign",
-    "japan",
-    "midterm",
-    "policy",
-    "priority",
-    "rat",
-    "sign",
-    "sinc",
-    "trump",
-    "watch"
-   ],
-   "349f8db910"
-  ],
-  [
    "2026-11-10T16:00:54.924420+00:00",
    [
     "aid",
@@ -21789,17 +21519,13 @@
    "05e6c9dbf6"
   ]
  ],
- "last_draft_at": "2026-11-13T15:16:21.962662+00:00",
+ "last_draft_at": "2026-11-13T15:30:44.329393+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T15:15:42.451509+00:00",
  "run_log": [
-  "11-13 13:01:14 run start",
-  "11-13 13:03:43 listening 9 min",
-  "11-13 13:12:57 listening done",
-  "11-13 13:12:57 run end after 703 s",
   "11-13 13:15:47 run start",
   "11-13 13:20:05 listening 7 min",
   "11-13 13:27:13 listening done",
@@ -21835,7 +21561,11 @@
   "11-13 15:15:42 run start",
   "11-13 15:16:31 listening 11 min",
   "11-13 15:27:25 listening done",
-  "11-13 15:27:25 run end after 702 s"
+  "11-13 15:27:25 run end after 702 s",
+  "11-13 15:30:43 run start",
+  "11-13 15:30:53 listening 11 min",
+  "11-13 15:42:14 listening done",
+  "11-13 15:42:14 run end after 690 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
