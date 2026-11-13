@@ -1,86 +1,6 @@
 {
  "tg_offset": 495893020,
  "drafts": {
-  "4e837cdb83": {
-   "id": "4e837cdb83",
-   "headline": "Supreme Court Considers Limits on Inmates Suing Officials",
-   "summary": "The Supreme Court is evaluating whether inmates can sue government officials over medical treatment. Justices appeared unlikely to allow a Hawaii man's damages claim to move forward.",
-   "label": "US POLITICS",
-   "hook": "Should prison inmates be allowed to sue government officials for denying medical treatment?",
-   "key_points": [
-    "Supreme Court evaluated a Hawaii man's damages claim",
-    "Justices appeared unlikely to allow the claim",
-    "Case focuses on prison medical care"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#SupremeCourt",
-    "#USPolitics",
-    "#LegalNews"
-   ],
-   "sources": [
-    "NBC News",
-    "The Hill"
-   ],
-   "link": "https://thehill.com/regulation/court-battles/6208870-supreme-court-bivens-lawsuit/",
-   "links": [
-    [
-     "The Hill",
-     "https://thehill.com/regulation/court-battles/6208870-supreme-court-bivens-lawsuit/"
-    ],
-    [
-     "NBC News",
-     "https://www.nbcnews.com/politics/supreme-court/supreme-court-set-limit-federal-inmatess-ability-sue-officials-rcna608292"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/US_Supreme_Court.JPG/1920px-US_Supreme_Court.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Photo by Mr. Kjetil Ree . / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Supreme Court Considers Limits on Inmates Suing Officials",
-    "people": [],
-    "image_query": "Supreme Court building",
-    "image_queries": [
-     "Supreme Court courtroom",
-     "US Capitol building",
-     "Department of Justice building",
-     "legal documents"
-    ],
-    "image_style": "scene",
-    "location": "US"
-   },
-   "created_at": "2026-11-09T21:01:54.917889+00:00",
-   "news_time": "2026-11-09T17:29:57+00:00",
-   "news_latest": "2026-11-09T20:26:33+00:00",
-   "caption": "Supreme Court Considers Limits on Inmates Suing Officials\n\nThe Supreme Court is evaluating whether inmates can sue government officials over medical treatment. Justices appeared unlikely to allow a Hawaii man's damages claim to move forward.\n\n💬 Should prison inmates be allowed to sue government officials for denying medical treatment?\n\n📖 Read more: https://thehill.com/regulation/court-battles/6208870-supreme-court-bivens-lawsuit/\n\n#SupremeCourt #USPolitics #LegalNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 224,
-   "tg_file_id": "AgACAgUAAxkDAAPgavI0xj4tfscqybVaCKFIHJI_5zwAAhkWaxuLT5BXNb7VEuxeBlABAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-09T21:33:18.658129+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122096993889548584",
-   "posted_at": "2026-11-09T21:33:19.841565+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 09 · 4:33 PM New York · 3:03 AM Sri Lanka\n\n<b>Supreme Court Considers Limits on Inmates Suing Officials</b>\n<i>NBC News, The Hill</i>\n🟡 <b>Latest:</b> 1:56 AM Sri Lanka (1h 6m ago) · first reported 10:59 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096993889548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 95,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "1359496343923963",
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-12T21:05:25.632392+00:00"
-  },
   "21dfd4648c": {
    "id": "21dfd4648c",
    "headline": "Tyler Robinson to face trial in 2028 for Charlie Kirk murder",
@@ -17355,6 +17275,81 @@
    "cleared": true,
    "fb_comment_id": "122100656313548584_1594436669112071",
    "fb_story_id": "29045350641774713"
+  },
+  "443c703f0f": {
+   "id": "443c703f0f",
+   "headline": "Microsoft says network capacity upgrade causes global outage",
+   "summary": "Microsoft reports that a network capacity upgrade caused a global outage affecting Outlook, Teams, and Copilot. Workers worldwide experienced disruptions and some found humour in the situation. Microsoft apologized for the technical failure.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Microsoft denies the outage was caused by a cyberattack.",
+    "The issue disrupted businesses across the world.",
+    "The company is still working on resolving the problem."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Microsoft",
+    "#Technology",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "BBC",
+    "NBC News"
+   ],
+   "link": "https://www.nbcnews.com/now/video/microsoft-says-major-outage-was-due-to-a-network-capacity-upgrade-273461829847",
+   "links": [
+    [
+     "NBC News",
+     "https://www.nbcnews.com/now/video/microsoft-says-major-outage-was-due-to-a-network-capacity-upgrade-273461829847"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/13/no-emails-no-problem-workers-joke-about-microsoft-outage?traffic_source=rss"
+    ],
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Computer_Screen_with_software_error_at_Gate_11_%28SCL%29.jpg/1920px-Computer_Screen_with_software_error_at_Gate_11_%28SCL%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Lklundin / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Microsoft says network capacity upgrade causes global outage",
+    "people": [],
+    "image_query": "Microsoft office building",
+    "image_queries": [
+     "computer servers",
+     "office workers computers",
+     "software error screen",
+     "tech company headquarters"
+    ],
+    "image_style": "scene",
+    "location": "",
+    "nearby_city": "",
+    "event_query": "global Microsoft tech outage",
+    "news_time": null,
+    "label": "WORLD"
+   },
+   "created_at": "2026-11-13T21:02:05.234745+00:00",
+   "news_time": "2026-11-13T17:38:19+00:00",
+   "news_latest": "2026-11-13T19:01:03+00:00",
+   "caption": "Microsoft says network capacity upgrade causes global outage\n\nMicrosoft reports that a network capacity upgrade caused a global outage affecting Outlook, Teams, and Copilot. Workers worldwide experienced disruptions and some found humour in the situation. Microsoft apologized for the technical failure.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Microsoft #Technology #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 513,
+   "tg_file_id": "AgACAgUAAxkDAAICAWr3et0YSAYAAZPazucGZA00KZ8SLAACORZrGxb9uFf-PdUwPRqubQEAAwIAA3cAAz0E",
+   "extra_msgs": [
+    514
+   ]
   }
  },
  "seen_links": [
@@ -18228,25 +18223,12 @@
   "https://www.nbcnews.com/politics/2026-election/rep-lauren-boebert-conservative-firebrand-colorado-loses-race-re-elect-rcna607652",
   "https://www.newsweek.com/mississippi-river-collision-cruise-ship-tanker-new-orleans-12713679",
   "https://www.independent.co.uk/news/world/americas/new-orleans-river-boat-crash-129-passengers-b3084807.html",
-  "https://thehill.com/policy/transportation/6219491-tanker-collides-with-riverboat-on-mississippi-river-at-port-of-new-orleans/"
+  "https://thehill.com/policy/transportation/6219491-tanker-collides-with-riverboat-on-mississippi-river-at-port-of-new-orleans/",
+  "https://www.nbcnews.com/now/video/microsoft-says-major-outage-was-due-to-a-network-capacity-upgrade-273461829847",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/13/no-emails-no-problem-workers-joke-about-microsoft-outage?traffic_source=rss",
+  "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss"
  ],
  "recent_topics": [
-  [
-   "2026-11-10T21:01:06.609925+00:00",
-   [
-    "beat",
-    "chair",
-    "conferenc",
-    "election",
-    "gop",
-    "houchin",
-    "lisa",
-    "mcclain",
-    "steub",
-    "win"
-   ],
-   "960f624c6e"
-  ],
   [
    "2026-11-10T21:45:38.393654+00:00",
    [
@@ -21115,19 +21097,53 @@
     "underway"
    ],
    "964a05aa78"
+  ],
+  [
+   "2026-11-13T21:02:21.352114+00:00",
+   [
+    "affect",
+    "capacity",
+    "continu",
+    "due",
+    "email",
+    "encourag",
+    "fix",
+    "global",
+    "jok",
+    "last",
+    "long",
+    "lost",
+    "major",
+    "mak",
+    "microsoft",
+    "much",
+    "network",
+    "outag",
+    "outlook",
+    "problem",
+    "progress",
+    "recovery",
+    "rely",
+    "reminder",
+    "scrambl",
+    "see",
+    "stark",
+    "team",
+    "tech",
+    "upgrad",
+    "worker",
+    "worldwid"
+   ],
+   "443c703f0f"
   ]
  ],
- "last_draft_at": "2026-11-13T20:45:49.303923+00:00",
+ "last_draft_at": "2026-11-13T21:00:50.839253+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T20:30:52.787719+00:00",
  "run_log": [
-  "11-13 18:30:43 run start",
-  "11-13 18:32:39 listening 10 min",
-  "11-13 18:42:19 listening done",
-  "11-13 18:42:19 run end after 696 s",
   "11-13 18:45:34 run start",
   "11-13 18:45:44 listening 11 min",
   "11-13 18:57:05 listening done",
@@ -21163,12 +21179,15 @@
   "11-13 20:45:48 run start",
   "11-13 20:45:57 listening 11 min",
   "11-13 20:57:16 listening done",
-  "11-13 20:57:16 run end after 687 s"
+  "11-13 20:57:16 run end after 687 s",
+  "11-13 21:00:50 run start",
+  "11-13 21:02:21 listening 10 min",
+  "11-13 21:12:25 listening done",
+  "11-13 21:12:25 run end after 695 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/d/d5/Guinness_Brewery_in_Dublin_cityscape.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Volodymyr_Zelensky_Official_portrait_%28cropped%29.jpg/1280px-Volodymyr_Zelensky_Official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://live.staticflickr.com/7027/6774900871_5b038bc741_b.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/7/70/James_Talarico_Press_Conference_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -21207,7 +21226,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Donald_Trump_takes_the_oath_of_office_%282025%29.jpg/1280px-Donald_Trump_takes_the_oath_of_office_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Dana_White_-_London_2015.jpg/1280px-Dana_White_-_London_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Lauren_Boebert_%2851327710110%29_%28cropped%29.jpg/1280px-Lauren_Boebert_%2851327710110%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/New_Orleans_skyline-02_%28cropped%29.jpg/1920px-New_Orleans_skyline-02_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/New_Orleans_skyline-02_%28cropped%29.jpg/1920px-New_Orleans_skyline-02_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Computer_Screen_with_software_error_at_Gate_11_%28SCL%29.jpg/1920px-Computer_Screen_with_software_error_at_Gate_11_%28SCL%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "teddy riner": {
@@ -24543,7 +24563,6 @@
    }
   },
   "recent_ideas": [
-   "prison exterior",
    "dublin cityscape",
    "factory assembly line",
    "south africa skyline",
@@ -24554,7 +24573,8 @@
    "beijing skyline",
    "russell senate office building",
    "denver convention center",
-   "supreme court building, washington"
+   "supreme court building, washington",
+   "software error screen"
   ]
  },
  "comment_perm_told": true,
