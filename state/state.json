@@ -19210,35 +19210,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-10T09:30:45.065463+00:00",
-   [
-    "apparent",
-    "call",
-    "chief",
-    "daughter",
-    "defector",
-    "dialogu",
-    "god",
-    "heir",
-    "human",
-    "inter-korean",
-    "jong",
-    "kim",
-    "korea",
-    "korean",
-    "lik",
-    "many",
-    "north",
-    "possibl",
-    "reign",
-    "reject",
-    "see",
-    "successor",
-    "view"
-   ],
-   "21ce99e6bc"
-  ],
-  [
    "2026-11-10T10:15:37.470938+00:00",
    [
     "choos",
@@ -22143,17 +22114,13 @@
    "817601941c"
   ]
  ],
- "last_draft_at": "2026-11-13T09:09:06.865582+00:00",
+ "last_draft_at": "2026-11-13T09:20:46.238302+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T09:07:58.722244+00:00",
  "run_log": [
-  "11-13 07:00:42 run start",
-  "11-13 07:01:32 listening 11 min",
-  "11-13 07:12:25 listening done",
-  "11-13 07:12:25 run end after 702 s",
   "11-13 07:15:34 run start",
   "11-13 07:15:44 listening 11 min",
   "11-13 07:27:03 listening done",
@@ -22189,7 +22156,11 @@
   "11-13 09:07:58 run start",
   "11-13 09:09:16 listening 10 min",
   "11-13 09:19:44 listening done",
-  "11-13 09:19:44 run end after 705 s"
+  "11-13 09:19:44 run end after 705 s",
+  "11-13 09:20:45 run start",
+  "11-13 09:20:56 listening 11 min",
+  "11-13 09:32:17 listening done",
+  "11-13 09:32:17 run end after 691 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
