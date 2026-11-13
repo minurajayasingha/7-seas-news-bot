@@ -18318,6 +18318,93 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122099965413548584_1491727442825795"
+  },
+  "20e5086465": {
+   "id": "20e5086465",
+   "headline": "Zelensky meets Trump envoys in Dublin following Putin summit",
+   "summary": "Ukrainian President Volodymyr Zelensky met with US envoys in Dublin following their summit with Vladimir Putin. Zelensky announced progress toward a prisoner exchange with Russia, which is expected to be the largest swap yet. He also stated that Europe will be represented in the next round of peace talks.",
+   "label": "DIPLOMACY",
+   "hook": "Will European representation in the upcoming peace talks impact negotiations between Russia and Ukraine?",
+   "key_points": [
+    "Zelensky met with envoys Witkoff and Kushner in Dublin.",
+    "The meeting followed a summit between the envoys and Putin."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Zelensky",
+    "#Dublin",
+    "#UkraineRussia"
+   ],
+   "sources": [
+    "Kyiv Independent",
+    "Newsweek"
+   ],
+   "link": "https://www.newsweek.com/zelensky-kushner-meeting-everything-we-know-about-prisoner-exchange-plans-12708455",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/zelensky-kushner-meeting-everything-we-know-about-prisoner-exchange-plans-12708455"
+    ],
+    [
+     "Kyiv Independent",
+     "https://kyivindependent.com/zelensky-meets-with-trumps-envoys-in-dublin-after-their-summit-with-putin/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Guinness_Brewery_in_Dublin_cityscape.jpg",
+      "credit": "Metro Centric / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ],
+    "inset": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Volodymyr_Zelensky_Official_portrait_%28cropped%29.jpg/1280px-Volodymyr_Zelensky_Official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credit": "http://www.president.gov.ua/ / Wikimedia Commons (CC BY 4.0)",
+     "short": "WIKIMEDIA COMMONS"
+    }
+   },
+   "img_post": {
+    "headline": "Zelensky meets Trump envoys in Dublin following Putin summit",
+    "people": [
+     "Volodymyr Zelensky"
+    ],
+    "image_query": "Dublin cityscape",
+    "image_queries": [
+     "Dublin streets",
+     "Government buildings Dublin",
+     "European flag",
+     "Peace negotiations"
+    ],
+    "image_style": "scene",
+    "location": "Dublin, Ireland",
+    "nearby_city": "Dublin, Ireland",
+    "event_query": "Dublin political meeting",
+    "news_time": null,
+    "label": "DIPLOMACY"
+   },
+   "created_at": "2026-11-13T03:30:58.418463+00:00",
+   "news_time": "2026-11-12T21:35:58+00:00",
+   "news_latest": "2026-11-13T00:41:59+00:00",
+   "caption": "Zelensky meets Trump envoys in Dublin following Putin summit\n\nUkrainian President Volodymyr Zelensky met with US envoys in Dublin following their summit with Vladimir Putin. Zelensky announced progress toward a prisoner exchange with Russia, which is expected to be the largest swap yet. He also stated that Europe will be represented in the next round of peace talks.\n\n💬 Will European representation in the upcoming peace talks impact negotiations between Russia and Ukraine?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Zelensky #Dublin #UkraineRussia #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 458,
+   "tg_file_id": "AgACAgUAAxkDAAIBymr2hHSOLyJWP3B14bT4Ghit0UnXAALKE2sbFv2wVxlglqKTNGBVAQADAgADdwADPQQ",
+   "queued_at": "2026-11-13T03:31:01.247640+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-13T03:36:20.363109+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122099978127548584",
+   "posted_at": "2026-11-13T03:36:28.557624+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 12 · 10:36 PM New York · 9:06 AM Sri Lanka\n\n<b>Zelensky meets Trump envoys in Dublin following Putin summit</b>\n<i>Kyiv Independent, Newsweek</i>\n🟡 <b>Latest:</b> 6:11 AM Sri Lanka (2h 54m ago) · first reported 3:05 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099978127548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 283,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122099978127548584_28716840644664271"
   }
  },
  "seen_links": [
@@ -19096,7 +19183,9 @@
   "https://www.aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office?traffic_source=rss",
   "https://www.independent.co.uk/news/world/americas/us-politics/trump-cuba-military-force-iran-war-b3084238.html",
   "https://www.upi.com/Top_News/US/2026/11/12/Texas-executes-John-Allen-Rubio/6201794534694/",
-  "https://www.newsweek.com/james-pavatt-john-rubio-executed-12708299"
+  "https://www.newsweek.com/james-pavatt-john-rubio-executed-12708299",
+  "https://www.newsweek.com/zelensky-kushner-meeting-everything-we-know-about-prisoner-exchange-plans-12708455",
+  "https://kyivindependent.com/zelensky-meets-with-trumps-envoys-in-dublin-after-their-summit-with-putin/"
  ],
  "recent_topics": [
   [
@@ -22005,19 +22094,34 @@
     "texa"
    ],
    "071dea6cce"
+  ],
+  [
+   "2026-11-13T03:31:01.243545+00:00",
+   [
+    "dublin",
+    "envoy",
+    "everyth",
+    "exchang",
+    "know",
+    "kushner",
+    "meet",
+    "plan",
+    "prisoner",
+    "putin",
+    "summit",
+    "trump",
+    "zelensky"
+   ],
+   "20e5086465"
   ]
  ],
- "last_draft_at": "2026-11-13T03:15:44.994873+00:00",
+ "last_draft_at": "2026-11-13T03:30:42.728489+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T03:00:49.516645+00:00",
  "run_log": [
-  "11-13 01:12:19 run end after 687 s",
-  "11-13 01:15:44 run start",
-  "11-13 01:16:44 run error: ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60)",
-  "11-13 01:17:45 run end after 120 s",
   "11-13 01:27:37 run start",
   "11-13 01:27:47 listening 11 min",
   "11-13 01:39:06 listening done",
@@ -22053,13 +22157,15 @@
   "11-13 03:15:44 run start",
   "11-13 03:16:32 listening 11 min",
   "11-13 03:27:25 listening done",
-  "11-13 03:27:25 run end after 700 s"
+  "11-13 03:27:25 run end after 700 s",
+  "11-13 03:30:42 run start",
+  "11-13 03:31:01 listening 11 min",
+  "11-13 03:42:08 listening done",
+  "11-13 03:42:08 run end after 686 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Jim_Jordan_%2851769862077%29_%28cropped%29.jpg/1280px-Jim_Jordan_%2851769862077%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Jared_Kushner_%2848512574161%29.jpg/1280px-Jared_Kushner_%2848512574161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/d/de/Steve_Witkoff_in_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Tourists_in_the_rotunda%2C_United_States_Capitol%2C_Washington%2C_D.C.%2C_2007.jpg/1920px-Tourists_in_the_rotunda%2C_United_States_Capitol%2C_Washington%2C_D.C.%2C_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/4/41/New_Year%27s_Eve_from_President_of_Ukraine_Volodymyr_Zelensky_%2831-12-2025%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -22097,7 +22203,9 @@
    "https://live.staticflickr.com/3069/2294317201_2163349b4a_b.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Howard_Lutnick_2025_%28cropped%29.jpg/1280px-Howard_Lutnick_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Prison_Ship_Martyrs_Monument_Exterior.JPG/1920px-Prison_Ship_Martyrs_Monument_Exterior.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Prison_Ship_Martyrs_Monument_Exterior.JPG/1920px-Prison_Ship_Martyrs_Monument_Exterior.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/d/d5/Guinness_Brewery_in_Dublin_cityscape.jpg",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Volodymyr_Zelensky_Official_portrait_%28cropped%29.jpg/1280px-Volodymyr_Zelensky_Official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "stephen miller": {
@@ -25509,7 +25617,6 @@
    }
   },
   "recent_ideas": [
-   "aircraft carrier, united states navy",
    "u.n. general assembly hall",
    "white house exterior",
    "arlington national cemetery",
@@ -25520,15 +25627,16 @@
    "prison facility",
    "destroyer, united states navy",
    "us capitol dome",
-   "prison exterior"
+   "prison exterior",
+   "dublin cityscape"
   ]
  },
  "comment_perm_told": true,
  "auto_count": {
-  "2026-11-12": 16
+  "2026-11-12": 17
  },
- "last_auto_at": "2026-11-13T03:16:15.310489+00:00",
- "last_post_at": "2026-11-13T03:16:20.363109+00:00",
+ "last_auto_at": "2026-11-13T03:36:28.557624+00:00",
+ "last_post_at": "2026-11-13T03:36:33.462333+00:00",
  "reels_count": {
   "2026-11-12": 2
  }
