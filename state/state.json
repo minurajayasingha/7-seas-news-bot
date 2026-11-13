@@ -1,93 +1,6 @@
 {
- "tg_offset": 495893010,
+ "tg_offset": 495893011,
  "drafts": {
-  "75d587144c": {
-   "id": "75d587144c",
-   "headline": "Russell Brand sentenced to over 10 years for rape and sexual assault",
-   "summary": "A British court sentenced comedian and actor Russell Brand to 10 years and six months in prison. He was found guilty on one count of rape and three counts of sexual assault following a trial at Southwark crown court.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "Sentenced to 10 years and six months in prison",
-    "Found guilty of one count of rape and three counts of sexual assault",
-    "Trial took place at Southwark crown court"
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#RussellBrand",
-    "#WorldNews",
-    "#UKCourts"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "CBS News",
-    "NBC News",
-    "NPR",
-    "The Guardian"
-   ],
-   "link": "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates",
-   "links": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/9/uk-court-hands-comedian-russel-brand-10-5-years-for-rape-sexual-assault?traffic_source=rss"
-    ],
-    [
-     "NPR",
-     "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced"
-    ],
-    [
-     "CBS News",
-     "https://www.cbsnews.com/news/russell-brand-sentenced-prison-rape-sexual-assault/"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Russell_Brand_%2855018040347%29.jpg/1280px-Russell_Brand_%2855018040347%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Russell Brand sentenced to over 10 years for rape and sexual assault",
-    "people": [
-     "Russell Brand"
-    ],
-    "image_query": "Southwark crown court building",
-    "image_queries": [
-     "London courthouse",
-     "courtroom exterior",
-     "British court building",
-     "Southwark London"
-    ],
-    "image_style": "person",
-    "location": "London, United Kingdom"
-   },
-   "created_at": "2026-11-09T14:45:45.256552+00:00",
-   "news_time": "2026-11-09T12:30:04+00:00",
-   "news_latest": "2026-11-09T14:42:52+00:00",
-   "caption": "🚨 BREAKING: Russell Brand sentenced to over 10 years for rape and sexual assault\n\nA British court sentenced comedian and actor Russell Brand to 10 years and six months in prison. He was found guilty on one count of rape and three counts of sexual assault following a trial at Southwark crown court.\n\nWhat we know so far:\n• Sentenced to 10 years and six months in prison\n• Found guilty of one count of rape and three counts of sexual assault\n• Trial took place at Southwark crown court\n\n📖 Read more: https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates\n\n#RussellBrand #WorldNews #UKCourts #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 179,
-   "tg_file_id": "AgACAgUAAxkDAAOzavHcnmq4IbnpHhJSmGeSDIWqGIMAAskWaxv_D5FXwyhLRFqzVsoBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-09T14:54:35.166392+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122096758983548584",
-   "posted_at": "2026-11-09T14:54:35.492585+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 09 · 9:54 AM New York · 8:24 PM Sri Lanka\n\n<b>Russell Brand sentenced to over 10 years for rape and sexual assault</b>\n<i>Al Jazeera, CBS News, NBC News, NPR, The Guardian</i>\n🟢 <b>Latest:</b> 8:12 PM Sri Lanka (11 min ago) · first reported 6:00 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096758983548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 64,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "3755242524656554"
-  },
   "5c4e6b0707": {
    "id": "5c4e6b0707",
    "headline": "House Leader Hakeem Jeffries faces hesitation from incoming progressive Democrats",
@@ -18171,8 +18084,95 @@
    "tg_message_id": 483,
    "tg_file_id": "AgACAgUAAxkDAAIB42r3Hy03zl70CqCx0M9yKYYyWkpnAAJtFWsbFv24V4OJ0lyJe_rmAQADAgADdwADPQQ",
    "extra_msgs": [
-    484
-   ]
+    484,
+    486
+   ],
+   "dup_ok": true
+  },
+  "5f1268d48c": {
+   "id": "5f1268d48c",
+   "headline": "Stephen Miller contacts US ambassador to Mexico regarding border crossings",
+   "summary": "Stephen Miller regularly contacts US ambassador to Mexico Ronald Johnson regarding illegal border crossing numbers. Reports indicate that migrant numbers have dropped significantly, but the White House chief of staff insists current figures remain insufficient.",
+   "label": "US POLITICS",
+   "hook": "Should White House officials directly contact international ambassadors regarding border numbers?",
+   "key_points": [
+    "Mexico cooperated to slow migrant flows.",
+    "Border crossings reached their lowest point in years.",
+    "Calls to the ambassador occur almost daily."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#BorderCrossings",
+    "#WhiteHouse"
+   ],
+   "sources": [
+    "New York Times",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/americas/us-politics/stephen-miller-mexico-border-crossings-rant-b3084578.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/us-politics/stephen-miller-mexico-border-crossings-rant-b3084578.html"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/13/world/americas/stephen-miller-mexico-immigration.html"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Stephen_Miller_July_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "The White House / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Stephen Miller contacts US ambassador to Mexico regarding border crossings",
+    "people": [
+     "Stephen Miller"
+    ],
+    "image_query": "White House building",
+    "image_queries": [
+     "US Capitol dome",
+     "Senate chamber",
+     "US Mexico border",
+     "Washington DC streets"
+    ],
+    "image_style": "person",
+    "location": "Mexico",
+    "nearby_city": "Mexico City, Mexico",
+    "event_query": "",
+    "news_time": null,
+    "label": "US POLITICS"
+   },
+   "created_at": "2026-11-13T14:46:11.897160+00:00",
+   "news_time": "2026-11-13T10:00:19+00:00",
+   "news_latest": "2026-11-13T14:38:50+00:00",
+   "caption": "Stephen Miller contacts US ambassador to Mexico regarding border crossings\n\nStephen Miller regularly contacts US ambassador to Mexico Ronald Johnson regarding illegal border crossing numbers. Reports indicate that migrant numbers have dropped significantly, but the White House chief of staff insists current figures remain insufficient.\n\n💬 Should White House officials directly contact international ambassadors regarding border numbers?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #BorderCrossings #WhiteHouse #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 485,
+   "tg_file_id": "AgACAgUAAxkDAAIB5Wr3IrUcblxNsbUw5dp9vFOxvNhPAAJ7FWsbFv24VzbNQBJlOGZ6AQADAgADdwADPQQ",
+   "queued_at": "2026-11-13T14:46:13.799524+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-13T14:46:13.799557+00:00",
+   "post_label": "🤖 Auto-posting + Reel",
+   "fb_post_id": "1413030521900096_122100420189548584",
+   "posted_at": "2026-11-13T14:46:14.076128+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 13 · 9:46 AM New York · 8:16 PM Sri Lanka\n\n<b>Stephen Miller contacts US ambassador to Mexico regarding border crossings</b>\n<i>New York Times, The Independent</i>\n🟢 <b>Latest:</b> 8:08 PM Sri Lanka (7 min ago) · first reported 3:30 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122100420189548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 305,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122100420189548584_1492278672799351",
+   "fb_reel_id": "1931064114936964",
+   "reel_status": "live"
   }
  },
  "seen_links": [
@@ -18993,25 +18993,11 @@
   "https://www.newsweek.com/mary-peltola-path-winning-alaska-senate-race-outright-12709303",
   "https://thehill.com/newsletters/morning-report/6218178-alaska-senate-race-uncalled-3-scenarios-midterms/",
   "https://www.foxnews.com/politics/sound-off-whats-chuck-schumers-future-senate-dems",
-  "https://www.newsweek.com/chuck-schumer-van-hollen-senate-democrats-12710602"
+  "https://www.newsweek.com/chuck-schumer-van-hollen-senate-democrats-12710602",
+  "https://www.independent.co.uk/news/world/americas/us-politics/stephen-miller-mexico-border-crossings-rant-b3084578.html",
+  "https://www.nytimes.com/2026/11/13/world/americas/stephen-miller-mexico-immigration.html"
  ],
  "recent_topics": [
-  [
-   "2026-11-10T14:45:45.908271+00:00",
-   [
-    "did",
-    "humanity",
-    "immigration",
-    "learn",
-    "lesson",
-    "opposit",
-    "right",
-    "then",
-    "trump",
-    "wwii"
-   ],
-   "81cc92e26e"
-  ],
   [
    "2026-11-10T15:00:48.756725+00:00",
    [
@@ -21820,19 +21806,35 @@
     "victory"
    ],
    "e4984fea08"
+  ],
+  [
+   "2026-11-13T14:46:13.796963+00:00",
+   [
+    "almost",
+    "ambassador",
+    "border",
+    "cross",
+    "daily",
+    "isnt",
+    "mexico",
+    "miller",
+    "number",
+    "phon",
+    "plummet",
+    "rant",
+    "satisfi",
+    "stephen"
+   ],
+   "5f1268d48c"
   ]
  ],
- "last_draft_at": "2026-11-13T14:30:40.772107+00:00",
+ "last_draft_at": "2026-11-13T14:46:03.016489+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T14:15:43.759071+00:00",
  "run_log": [
-  "11-13 12:15:35 run start",
-  "11-13 12:16:59 listening 10 min",
-  "11-13 12:27:03 listening done",
-  "11-13 12:27:03 run end after 687 s",
   "11-13 12:30:43 run start",
   "11-13 12:30:58 listening 11 min",
   "11-13 12:42:18 listening done",
@@ -21868,12 +21870,15 @@
   "11-13 14:30:40 run start",
   "11-13 14:31:10 listening 11 min",
   "11-13 14:42:28 listening done",
-  "11-13 14:42:28 run end after 708 s"
+  "11-13 14:42:28 run end after 708 s",
+  "11-13 14:46:02 run start",
+  "11-13 14:47:01 listening 11 min",
+  "11-13 14:57:29 listening done",
+  "11-13 14:57:29 run end after 687 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/A_U.S._Navy_Hull_Maintenance_Technician_3rd_Class_Robert_Frey_fabricates_a_steel_countertop_aboard_the_aircraft_carrier_USS_Nimitz_%28CVN_68%29_Aug._20%2C_2013%2C_while_underway_in_the_Gulf_of_Oman_130820-N-JC752-778.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/0/05/UN_General_Assembly_hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://upload.wikimedia.org/wikipedia/commons/f/fb/Germantown_White_House%2C_exterior_%287e7a56bf-1dd8-b71b-0b57-9b70001df804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Spring_Time_at_Arlington_National_Cemetery%2C_Arlington%2C_Virginia_on_April_18%2C_2024_-_39.jpg/1920px-Spring_Time_at_Arlington_National_Cemetery%2C_Arlington%2C_Virginia_on_April_18%2C_2024_-_39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -21912,85 +21917,10 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Vice_President_Kamala_Harris_swears_in_Senator_Chris_Van_Hollen_for_a_second_term.jpg/1280px-Vice_President_Kamala_Harris_swears_in_Senator_Chris_Van_Hollen_for_a_second_term.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Senate_Democratic_Leader_Chuck_Schumer_%2850520530086%29.jpg/1280px-Senate_Democratic_Leader_Chuck_Schumer_%2850520530086%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/US_Capitol_west_side_at_dusk.JPG/1920px-US_Capitol_west_side_at_dusk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Senate_Democratic_Leader_Chuck_Schumer_%2850519807298%29.jpg/1280px-Senate_Democratic_Leader_Chuck_Schumer_%2850519807298%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Senate_Democratic_Leader_Chuck_Schumer_%2850519807298%29.jpg/1280px-Senate_Democratic_Leader_Chuck_Schumer_%2850519807298%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/7/7d/Stephen_Miller_July_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   ],
   "pools": {
-   "bernie sanders": {
-    "t": "2026-11-08T19:45:31.895367+00:00",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Bernie_Sanders_February_2026_%28cropped%29.jpg/1280px-Bernie_Sanders_February_2026_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Anderseidesvik / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Bernie_Sanders_at_the_2016_Memorial_Day_Ceremony%2C_Presidio_of_San_Francisco.jpg/1280px-Bernie_Sanders_at_the_2016_Memorial_Day_Ceremony%2C_Presidio_of_San_Francisco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Frank Schulenburg / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Bernie_Sanders_NYC_fundraiser_%2821634962836%29.jpg/1280px-Bernie_Sanders_NYC_fundraiser_%2821634962836%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Michael Vadon / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Sanders_presidential_campaign_kickoff%2C_May_2015_Bernie_Sanders_%2824317403194%29.jpg/1280px-Sanders_presidential_campaign_kickoff%2C_May_2015_Bernie_Sanders_%2824317403194%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Jake Bucci / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Senator_of_Vermont_Bernie_Sanders_Campaign_Field_Office_In_Nashua_NH_11.jpg/1280px-Senator_of_Vermont_Bernie_Sanders_Campaign_Field_Office_In_Nashua_NH_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Michael Vadon / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Bernie_Sanders_%2825757972473%29.jpg/1280px-Bernie_Sanders_%2825757972473%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Marcela from Bronx, NY, USA / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Bernie_Sanders_by_Lorie_Shaull_19.jpg/1280px-Bernie_Sanders_by_Lorie_Shaull_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Lorie Shaull / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Bernie_Sanders_%2825973827305%29.jpg/1280px-Bernie_Sanders_%2825973827305%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Senator_of_Vermont_Bernie_Sanders_at_Derry_Town_Hall%2C_Pinkerton_Academy_NH_October_30th%2C_2015_by_Michael_Vadon_a_10.jpg/1280px-Senator_of_Vermont_Bernie_Sanders_at_Derry_Town_Hall%2C_Pinkerton_Academy_NH_October_30th%2C_2015_by_Michael_Vadon_a_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Michael Vadon / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Senator_of_Vermont_Bernie_Sanders_at_Derry_Town_Hall%2C_Pinkerton_Academy_NH_October_30th%2C_2015_b_by_Michael_Vadon_02.jpg/1280px-Senator_of_Vermont_Bernie_Sanders_at_Derry_Town_Hall%2C_Pinkerton_Academy_NH_October_30th%2C_2015_b_by_Michael_Vadon_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Michael Vadon / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bernie_Sanders_speaks_1%2C_Bernie_Sanders_Rally%2C_LA_Convention_Center%2C_Los_Angeles%2C_California%2C_USA_%2849608571108%29.jpg/1280px-Bernie_Sanders_speaks_1%2C_Bernie_Sanders_Rally%2C_LA_Convention_Center%2C_Los_Angeles%2C_California%2C_USA_%2849608571108%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Cory Doctorow from Beautiful Downtown Burbank, USA / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Senator_of_Vermont_Bernie_Sanders_at_Derry_Town_Hall%2C_Pinkerton_Academy_NH_October_30th%2C_2015_by_Michael_Vadon_a_16.jpg/1280px-Senator_of_Vermont_Bernie_Sanders_at_Derry_Town_Hall%2C_Pinkerton_Academy_NH_October_30th%2C_2015_by_Michael_Vadon_a_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Michael Vadon / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     }
-    ]
-   },
    "jensen huang": {
     "t": "2026-11-08T20:42:24.937298+00:00",
     "photos": [
@@ -25329,6 +25259,82 @@
       "portrait": true
      }
     ]
+   },
+   "stephen miller": {
+    "t": "2026-11-13T14:46:11.897004+00:00",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Stephen_Miller_July_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "The White House / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Stephen_Miller_%2854360305622%29_%28cropped%29%28b%29.jpg/1280px-Stephen_Miller_%2854360305622%29_%28cropped%29%28b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Stephen_Miller_%2854360303177%29_%28cropped%29.jpg/1280px-Stephen_Miller_%2854360303177%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/2025_-_Stephen_Miller_close-up_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/2025_-_Stephen_Miller_%28cropped%29.jpg/1280px-2025_-_Stephen_Miller_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Stephen_Miller_%2854360305622%29_%28cropped%29.jpg/1280px-Stephen_Miller_%2854360305622%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Stephen_Miller_by_Gage_Skidmore.jpg/1280px-Stephen_Miller_by_Gage_Skidmore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/2025_Stephen_Miller_%28cropped%29.jpg/1280px-2025_Stephen_Miller_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Secretary of Defense / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Stephen_Miller_%2854361384084%29_%28cropped_1%29.jpg/1280px-Stephen_Miller_%2854361384084%29_%28cropped_1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Stephen_miller_june_2016_cropped_corrected.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Gage Skidmore [CC BY-SA 3.0 ( https://creativecommons.org/li / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Stephen_Miller_%2854361384084%29.jpg/1280px-Stephen_Miller_%2854361384084%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Stephen_Miller_2025-05-20.jpg/1280px-Stephen_Miller_2025-05-20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Tia Dufour / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     }
+    ]
    }
   },
   "recent_ideas": [
@@ -25349,12 +25355,12 @@
  "comment_perm_told": true,
  "auto_count": {
   "2026-11-12": 17,
-  "2026-11-13": 10
+  "2026-11-13": 11
  },
- "last_auto_at": "2026-11-13T13:18:39.302839+00:00",
- "last_post_at": "2026-11-13T13:19:27.179814+00:00",
+ "last_auto_at": "2026-11-13T14:46:14.076128+00:00",
+ "last_post_at": "2026-11-13T14:46:18.620623+00:00",
  "reels_count": {
   "2026-11-12": 2,
-  "2026-11-13": 7
+  "2026-11-13": 8
  }
 }
