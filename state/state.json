@@ -22121,9 +22121,6 @@
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T09:07:58.722244+00:00",
  "run_log": [
-  "11-13 07:30:39 run start",
-  "11-13 07:31:20 listening 11 min",
-  "11-13 07:42:14 listening done",
   "11-13 07:42:14 run end after 694 s",
   "11-13 07:45:34 run start",
   "11-13 07:45:45 listening 11 min",
@@ -22160,7 +22157,10 @@
   "11-13 09:32:51 run start",
   "11-13 09:33:02 listening 11 min",
   "11-13 09:44:21 listening done",
-  "11-13 09:44:21 run end after 690 s"
+  "11-13 09:44:21 run end after 690 s",
+  "11-13 09:45:41 run start",
+  "11-13 09:45:42 run error: ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+  "11-13 09:45:42 run end after 1 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
