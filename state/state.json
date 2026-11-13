@@ -1,81 +1,6 @@
 {
  "tg_offset": 495893004,
  "drafts": {
-  "fa3c2491f8": {
-   "id": "fa3c2491f8",
-   "headline": "Trump suggests Ukraine will have a different shape after war",
-   "summary": "Donald Trump stated that Ukraine will likely end up with a different shape following peace talks. His comments preceded trilateral negotiations between the US, Ukraine, and Russia.",
-   "label": "DIPLOMACY",
-   "hook": "Can trilateral peace negotiations between the US, Ukraine, and Russia successfully end the war?",
-   "key_points": [
-    "Trump made comments ahead of trilateral peace negotiations.",
-    "Meetings involve the US, Ukraine, and Russia."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#UkraineRussiaWar",
-    "#PeaceTalks",
-    "#WorldNews"
-   ],
-   "sources": [
-    "Kyiv Independent",
-    "The Independent"
-   ],
-   "link": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-uk-peace-talks-b3081417.html",
-   "links": [
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-uk-peace-talks-b3081417.html"
-    ],
-    [
-     "Kyiv Independent",
-     "https://kyivindependent.com/ukraine-will-likely-end-up-with-a-little-bit-different-shape-after-war-trump-tells-60-minutes/"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Donald_Trump_official_portrait_2020_election.jpg/1280px-Donald_Trump_official_portrait_2020_election.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Shealeah Craighead / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Trump suggests Ukraine will have a different shape after war",
-    "people": [
-     "Donald Trump"
-    ],
-    "image_query": "Kyiv city",
-    "image_queries": [
-     "Ukrainian cityscape",
-     "peace negotiation table",
-     "government building Kyiv",
-     "White House exterior"
-    ],
-    "image_style": "person",
-    "location": ""
-   },
-   "created_at": "2026-11-09T08:15:32.853674+00:00",
-   "news_time": "2026-11-09T02:56:20+00:00",
-   "news_latest": "2026-11-09T05:35:24+00:00",
-   "caption": "Trump suggests Ukraine will have a different shape after war\n\nDonald Trump stated that Ukraine will likely end up with a different shape following peace talks. His comments preceded trilateral negotiations between the US, Ukraine, and Russia.\n\n💬 Can trilateral peace negotiations between the US, Ukraine, and Russia successfully end the war?\n\n📖 Read more: https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-uk-peace-talks-b3081417.html\n\n#UkraineRussiaWar #PeaceTalks #WorldNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 148,
-   "tg_file_id": "AgACAgUAAxkDAAOUavGBJ8BamaQgHyz9flNsdNnOyZIAAmAWaxv_D4lXR_POQYIRCacBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-09T08:47:01.100187+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122096549073548584",
-   "posted_at": "2026-11-09T08:47:02.371329+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 09 · 3:47 AM New York · 2:17 PM Sri Lanka\n\n<b>Trump suggests Ukraine will have a different shape after war</b>\n<i>Kyiv Independent, The Independent</i>\n🔴 <b>Latest:</b> 11:05 AM Sri Lanka (3h 11m ago) · first reported 8:26 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096549073548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 48,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "4568627560059781"
-  },
   "f36e76f9c3": {
    "id": "f36e76f9c3",
    "headline": "Trump supports Vance comments despite mixed public reactions",
@@ -22345,17 +22270,13 @@
    "903836996b"
   ]
  ],
- "last_draft_at": "2026-11-13T08:02:24.576683+00:00",
+ "last_draft_at": "2026-11-13T08:15:48.918865+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T08:01:29.533752+00:00",
  "run_log": [
-  "11-13 05:45:38 run start",
-  "11-13 05:45:50 listening 11 min",
-  "11-13 05:57:09 listening done",
-  "11-13 05:57:09 run end after 690 s",
   "11-13 06:00:52 run start",
   "11-13 06:02:01 listening 10 min",
   "11-13 06:12:29 listening done",
@@ -22391,7 +22312,11 @@
   "11-13 08:01:29 run start",
   "11-13 08:02:34 listening 10 min",
   "11-13 08:13:04 listening done",
-  "11-13 08:13:04 run end after 694 s"
+  "11-13 08:13:04 run end after 694 s",
+  "11-13 08:15:48 run start",
+  "11-13 08:15:59 listening 11 min",
+  "11-13 08:27:19 listening done",
+  "11-13 08:27:19 run end after 691 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
