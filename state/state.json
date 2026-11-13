@@ -1,79 +1,6 @@
 {
  "tg_offset": 495893015,
  "drafts": {
-  "fc55d1f496": {
-   "id": "fc55d1f496",
-   "headline": "South Africa: ANC Loses Dominance Amid Voter Exodus",
-   "summary": "The African National Congress party faces growing voter dissatisfaction and an exodus of supporters. The country is transitioning away from an era of ANC electoral dominance toward a more fragmented political system.",
-   "label": "ELECTIONS",
-   "hook": "Can the ANC regain its political dominance in South Africa?",
-   "key_points": [
-    "Voters deserted the African National Congress party.",
-    "The country faces a more fragmented political system."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#SouthAfrica",
-    "#ANC",
-    "#WorldNews"
-   ],
-   "sources": [
-    "ABC News",
-    "Al Jazeera"
-   ],
-   "link": "https://abcnews.com/International/wireStory/mandelas-anc-lost-south-africa-voters-deserted-137977700",
-   "links": [
-    [
-     "ABC News",
-     "https://abcnews.com/International/wireStory/mandelas-anc-lost-south-africa-voters-deserted-137977700"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/9/what-catastrophic-south-africa-local-election-results-mean-for-anc?traffic_source=rss"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Ballot_box_2024_Swedish_EU_election_at_St%C3%A5ngen%C3%A4sskolan%2C_Brastad.jpg/1920px-Ballot_box_2024_Swedish_EU_election_at_St%C3%A5ngen%C3%A4sskolan%2C_Brastad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "W.carter / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "South Africa: ANC Loses Dominance Amid Voter Exodus",
-    "people": [],
-    "image_query": "South Africa government building",
-    "image_queries": [
-     "South Africa parliament",
-     "voting station South Africa",
-     "Johannesburg cityscape",
-     "election ballot box"
-    ],
-    "image_style": "scene",
-    "location": "South Africa"
-   },
-   "created_at": "2026-11-09T17:45:51.693036+00:00",
-   "news_time": "2026-11-09T14:14:28+00:00",
-   "news_latest": "2026-11-09T17:30:19+00:00",
-   "caption": "South Africa: ANC Loses Dominance Amid Voter Exodus\n\nThe African National Congress party faces growing voter dissatisfaction and an exodus of supporters. The country is transitioning away from an era of ANC electoral dominance toward a more fragmented political system.\n\n💬 Can the ANC regain its political dominance in South Africa?\n\n📖 Read more: https://abcnews.com/International/wireStory/mandelas-anc-lost-south-africa-voters-deserted-137977700\n\n#SouthAfrica #ANC #WorldNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 207,
-   "tg_file_id": "AgACAgUAAxkDAAPPavIG1R66jQ3iHJDPQSnG5dxXBnYAAv4VaxuLT5BXECNhOFFgwYIBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-09T17:46:30.025375+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122096871033548584",
-   "posted_at": "2026-11-09T17:46:30.370104+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 09 · 12:46 PM New York · 11:16 PM Sri Lanka\n\n<b>South Africa: ANC Loses Dominance Amid Voter Exodus</b>\n<i>ABC News, Al Jazeera</i>\n🟢 <b>Latest:</b> 11:00 PM Sri Lanka (16 min ago) · first reported 7:44 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096871033548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 80,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "956848567215579"
-  },
   "8888b658a6": {
    "id": "8888b658a6",
    "headline": "US-led peace talks for Russia and Ukraine approach five-year mark",
@@ -20931,17 +20858,13 @@
    "b440bc09d8"
   ]
  ],
- "last_draft_at": "2026-11-13T17:24:07.125374+00:00",
+ "last_draft_at": "2026-11-13T17:35:46.618805+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T17:23:21.239333+00:00",
  "run_log": [
-  "11-13 15:15:42 run start",
-  "11-13 15:16:31 listening 11 min",
-  "11-13 15:27:25 listening done",
-  "11-13 15:27:25 run end after 702 s",
   "11-13 15:30:43 run start",
   "11-13 15:30:53 listening 11 min",
   "11-13 15:42:14 listening done",
@@ -20977,7 +20900,11 @@
   "11-13 17:23:20 run start",
   "11-13 17:24:07 listening 11 min",
   "11-13 17:35:02 listening done",
-  "11-13 17:35:02 run end after 702 s"
+  "11-13 17:35:02 run end after 702 s",
+  "11-13 17:35:45 run start",
+  "11-13 17:35:56 listening 11 min",
+  "11-13 17:47:16 listening done",
+  "11-13 17:47:16 run end after 691 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
