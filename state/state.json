@@ -1,82 +1,6 @@
 {
  "tg_offset": 495893004,
  "drafts": {
-  "507d3ba926": {
-   "id": "507d3ba926",
-   "headline": "Marco Rubio defends Iran war while contradicting JD Vance",
-   "summary": "US Secretary of State Marco Rubio defended the war on Iran as a necessary move to stop nuclear threats. He publicly contradicted JD Vance by stating that the unpopular war strategy and its economic impacts helped Democrats win.",
-   "label": "CONFLICT",
-   "hook": "Is the war on Iran necessary to stop nuclear threats?",
-   "key_points": [
-    "Rubio called Iran negotiation demands outrageous and unrealistic.",
-    "The war impacted gasoline prices and the economy.",
-    "Democrats achieved victory following the conflict."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#MarcoRubio",
-    "#IranWar",
-    "#USPolitics"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "The Independent"
-   ],
-   "link": "https://www.independent.co.uk/news/world/americas/us-politics/marco-rubio-jd-vance-iran-2028-b3081494.html",
-   "links": [
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/us-politics/marco-rubio-jd-vance-iran-2028-b3081494.html"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Official_portrait_of_Secretary_Marco_Rubio_%28cropped%29%282%29.jpg/1280px-Official_portrait_of_Secretary_Marco_Rubio_%28cropped%29%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "U.S. Department of State / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Marco Rubio defends Iran war while contradicting JD Vance",
-    "people": [
-     "Marco Rubio"
-    ],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "Senate chamber",
-     "Capitol Hill",
-     "White House",
-     "Pentagon building"
-    ],
-    "image_style": "person",
-    "location": "US"
-   },
-   "created_at": "2026-11-09T09:00:41.108995+00:00",
-   "news_time": "2026-11-09T04:02:18+00:00",
-   "news_latest": "2026-11-09T08:47:03+00:00",
-   "caption": "Marco Rubio defends Iran war while contradicting JD Vance\n\nUS Secretary of State Marco Rubio defended the war on Iran as a necessary move to stop nuclear threats. He publicly contradicted JD Vance by stating that the unpopular war strategy and its economic impacts helped Democrats win.\n\n💬 Is the war on Iran necessary to stop nuclear threats?\n\n📖 Read more: https://www.independent.co.uk/news/world/americas/us-politics/marco-rubio-jd-vance-iran-2028-b3081494.html\n\n#MarcoRubio #IranWar #USPolitics #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 150,
-   "tg_file_id": "AgACAgUAAxkDAAOWavGLur93CmcUc-5pJdjzc8gknsUAAnMWaxv_D4lXTpFM9Scro3QBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-09T09:22:47.313682+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122096568333548584",
-   "posted_at": "2026-11-09T09:22:47.611957+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 09 · 4:22 AM New York · 2:52 PM Sri Lanka\n\n<b>Marco Rubio defends Iran war while contradicting JD Vance</b>\n<i>Al Jazeera, The Independent</i>\n🟢 <b>Latest:</b> 2:17 PM Sri Lanka (35 min ago) · first reported 9:32 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096568333548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 50,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "2675976226191636"
-  },
   "9f12efc92a": {
    "id": "9f12efc92a",
    "headline": "Arizona tarmac deportation flight of Iranian nationals canceled abruptly",
@@ -22309,17 +22233,13 @@
    "817601941c"
   ]
  ],
- "last_draft_at": "2026-11-13T08:43:16.794926+00:00",
+ "last_draft_at": "2026-11-13T08:55:29.121785+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T08:01:29.533752+00:00",
  "run_log": [
-  "11-13 06:30:47 run start",
-  "11-13 06:30:58 listening 11 min",
-  "11-13 06:42:18 listening done",
-  "11-13 06:42:18 run end after 691 s",
   "11-13 06:45:34 run start",
   "11-13 06:45:45 listening 11 min",
   "11-13 06:57:03 listening done",
@@ -22355,7 +22275,11 @@
   "11-13 08:43:16 run start",
   "11-13 08:44:16 listening 10 min",
   "11-13 08:54:46 listening done",
-  "11-13 08:54:46 run end after 690 s"
+  "11-13 08:54:46 run end after 690 s",
+  "11-13 08:55:28 run start",
+  "11-13 08:55:39 listening 11 min",
+  "11-13 09:06:59 listening done",
+  "11-13 09:06:59 run end after 690 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
