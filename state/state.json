@@ -1,94 +1,6 @@
 {
  "tg_offset": 495893020,
  "drafts": {
-  "21dfd4648c": {
-   "id": "21dfd4648c",
-   "headline": "Tyler Robinson to face trial in 2028 for Charlie Kirk murder",
-   "summary": "A Utah judge has scheduled the murder trial for Tyler Robinson to begin in 2028. Jury selection will take place in June regarding the September 2025 killing of Charlie Kirk.",
-   "label": "US POLITICS",
-   "hook": "",
-   "key_points": [
-    "Judge Tony Graf set the trial date in Provo, Utah.",
-    "Jury selection is scheduled for June 2028.",
-    "The case involves the September 2025 killing of Charlie Kirk."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Utah",
-    "#CourtNews",
-    "#CharlieKirk"
-   ],
-   "sources": [
-    "Newsweek",
-    "Washington Examiner"
-   ],
-   "link": "https://www.washingtonexaminer.com/news/justice/4777878/tyler-robinson-trial-2028-charlie-kirk-murder-case/",
-   "links": [
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/news/justice/4777878/tyler-robinson-trial-2028-charlie-kirk-murder-case/"
-    ],
-    [
-     "Newsweek",
-     "https://www.newsweek.com/charlie-kirk-update-judge-sets-murder-trial-start-date-for-tyler-robinson-12689645"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Log_8_of_Tyler_Robinson_Confessing_to_Lance_Twiggs_of_Assassinating_Charlie_Kirk.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Tyler Robinson and Lance Twiggs / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Charlie_Kirk_by_Gage_Skidmore.jpg/1280px-Charlie_Kirk_by_Gage_Skidmore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Tyler Robinson to face trial in 2028 for Charlie Kirk murder",
-    "people": [
-     "Tyler Robinson",
-     "Charlie Kirk"
-    ],
-    "image_query": "Utah courtroom",
-    "image_queries": [
-     "Provo courthouse",
-     "Utah state courthouse",
-     "courtroom interior",
-     "judge bench"
-    ],
-    "image_style": "scene",
-    "location": "Provo, Utah"
-   },
-   "created_at": "2026-11-09T21:15:34.890047+00:00",
-   "news_time": "2026-11-09T20:48:58+00:00",
-   "news_latest": "2026-11-09T21:09:44+00:00",
-   "caption": "Tyler Robinson to face trial in 2028 for Charlie Kirk murder\n\nA Utah judge has scheduled the murder trial for Tyler Robinson to begin in 2028. Jury selection will take place in June regarding the September 2025 killing of Charlie Kirk.\n\n📖 Read more: https://www.washingtonexaminer.com/news/justice/4777878/tyler-robinson-trial-2028-charlie-kirk-murder-case/\n\n#Utah #CourtNews #CharlieKirk #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 225,
-   "tg_file_id": "AgACAgUAAxkDAAPhavI3-3d6s3uvqvcNy2CTzW7hKM0AAhoWaxuLT5BXZy96k24_aboBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-09T21:33:01.608114+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122096993595548584",
-   "posted_at": "2026-11-09T21:33:01.914443+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 09 · 4:33 PM New York · 3:03 AM Sri Lanka\n\n<b>Tyler Robinson to face trial in 2028 for Charlie Kirk murder</b>\n<i>Newsweek, Washington Examiner</i>\n🟢 <b>Latest:</b> 2:39 AM Sri Lanka (23 min ago) · first reported 2:18 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096993595548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 94,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "1675929190587456",
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-12T21:05:25.632392+00:00"
-  },
   "6885954489": {
    "id": "6885954489",
    "headline": "US Judge Rejects Lindsay Clancy Murder Case Dismissal Bid",
@@ -17350,6 +17262,87 @@
    "extra_msgs": [
     514
    ]
+  },
+  "9c247e0875": {
+   "id": "9c247e0875",
+   "headline": "Federal Aviation Administration orders nationwide ground stop on flights",
+   "summary": "The Federal Aviation Administration ordered a nationwide ground stop on all departing flights. The agency cited extraordinary circumstances and reasons of safety.",
+   "label": "ECONOMY",
+   "hook": "",
+   "key_points": [
+    "A rolling frequency outage affected facilities monitoring planes.",
+    "The halt applied to all air traffic nationwide."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#FAA",
+    "#Aviation",
+    "#Travel"
+   ],
+   "sources": [
+    "NBC News",
+    "Washington Examiner"
+   ],
+   "link": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+   "links": [
+    [
+     "NBC News",
+     "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/policy/infrastructure/4802941/faa-imposes-nationwide-ground-stop-on-all-flights/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/The_FAA_air_traffic_control_tower_at_Philadelphia_International_Airport.jpg/1920px-The_FAA_air_traffic_control_tower_at_Philadelphia_International_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Harrison Keely / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Federal Aviation Administration orders nationwide ground stop on flights",
+    "people": [],
+    "image_query": "FAA headquarters building",
+    "image_queries": [
+     "commercial airplanes grounded",
+     "airport control tower",
+     "empty airport terminal",
+     "airplane on tarmac"
+    ],
+    "image_style": "scene",
+    "location": "US",
+    "nearby_city": "Washington, D.C.",
+    "event_query": "FAA nationwide ground stop",
+    "news_time": null,
+    "label": "ECONOMY"
+   },
+   "created_at": "2026-11-13T21:16:25.442344+00:00",
+   "news_time": "2026-11-13T21:06:44+00:00",
+   "news_latest": "2026-11-13T21:09:53+00:00",
+   "caption": "🚨 BREAKING: Federal Aviation Administration orders nationwide ground stop on flights\n\nThe Federal Aviation Administration ordered a nationwide ground stop on all departing flights. The agency cited extraordinary circumstances and reasons of safety.\n\nWhat we know so far:\n• A rolling frequency outage affected facilities monitoring planes.\n• The halt applied to all air traffic nationwide.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#FAA #Aviation #Travel #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 515,
+   "tg_file_id": "AgACAgUAAxkDAAICA2r3fjNONCX2Rao0XvyVw7xcfeLCAAI6FmsbFv24VyU5aLXe_lwNAQADAgADdwADPQQ",
+   "queued_at": "2026-11-13T21:16:35.299585+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-13T21:16:35.299619+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122100675501548584",
+   "posted_at": "2026-11-13T21:16:35.781185+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 13 · 4:16 PM New York · 2:46 AM Sri Lanka\n\n<b>Federal Aviation Administration orders nationwide ground stop on flights</b>\n<i>NBC News, Washington Examiner</i>\n🟢 <b>Latest:</b> 2:39 AM Sri Lanka (6 min ago) · first reported 2:36 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122100675501548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 330,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122100675501548584_1771557483920043",
+   "fb_story_id": "2155269082533184"
   }
  },
  "seen_links": [
@@ -18226,7 +18219,9 @@
   "https://thehill.com/policy/transportation/6219491-tanker-collides-with-riverboat-on-mississippi-river-at-port-of-new-orleans/",
   "https://www.nbcnews.com/now/video/microsoft-says-major-outage-was-due-to-a-network-capacity-upgrade-273461829847",
   "https://www.aljazeera.com/video/newsfeed/2026/11/13/no-emails-no-problem-workers-joke-about-microsoft-outage?traffic_source=rss",
-  "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
+  "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+  "https://www.washingtonexaminer.com/policy/infrastructure/4802941/faa-imposes-nationwide-ground-stop-on-all-flights/"
  ],
  "recent_topics": [
   [
@@ -21135,19 +21130,32 @@
     "worldwid"
    ],
    "443c703f0f"
+  ],
+  [
+   "2026-11-13T21:16:35.295422+00:00",
+   [
+    "airport",
+    "all",
+    "faa",
+    "flight",
+    "ground",
+    "impos",
+    "nationwid",
+    "order",
+    "reason",
+    "safety",
+    "stop"
+   ],
+   "9c247e0875"
   ]
  ],
- "last_draft_at": "2026-11-13T21:00:50.839253+00:00",
+ "last_draft_at": "2026-11-13T21:15:45.275050+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T20:30:52.787719+00:00",
  "run_log": [
-  "11-13 18:45:34 run start",
-  "11-13 18:45:44 listening 11 min",
-  "11-13 18:57:05 listening done",
-  "11-13 18:57:05 run end after 691 s",
   "11-13 19:00:50 run start",
   "11-13 19:01:01 listening 11 min",
   "11-13 19:12:19 listening done",
@@ -21183,12 +21191,15 @@
   "11-13 21:00:50 run start",
   "11-13 21:02:21 listening 10 min",
   "11-13 21:12:25 listening done",
-  "11-13 21:12:25 run end after 695 s"
+  "11-13 21:12:25 run end after 695 s",
+  "11-13 21:15:44 run start",
+  "11-13 21:16:58 listening 10 min",
+  "11-13 21:27:27 listening done",
+  "11-13 21:27:27 run end after 702 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Volodymyr_Zelensky_Official_portrait_%28cropped%29.jpg/1280px-Volodymyr_Zelensky_Official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://live.staticflickr.com/7027/6774900871_5b038bc741_b.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/7/70/James_Talarico_Press_Conference_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Assembly_line%29_Vicker_Sons_%26_Maxim_Gun_Factory_LCCN2014680263.jpg/1920px-Assembly_line%29_Vicker_Sons_%26_Maxim_Gun_Factory_LCCN2014680263.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -21227,7 +21238,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Dana_White_-_London_2015.jpg/1280px-Dana_White_-_London_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Lauren_Boebert_%2851327710110%29_%28cropped%29.jpg/1280px-Lauren_Boebert_%2851327710110%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/New_Orleans_skyline-02_%28cropped%29.jpg/1920px-New_Orleans_skyline-02_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Computer_Screen_with_software_error_at_Gate_11_%28SCL%29.jpg/1920px-Computer_Screen_with_software_error_at_Gate_11_%28SCL%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Computer_Screen_with_software_error_at_Gate_11_%28SCL%29.jpg/1920px-Computer_Screen_with_software_error_at_Gate_11_%28SCL%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/The_FAA_air_traffic_control_tower_at_Philadelphia_International_Airport.jpg/1920px-The_FAA_air_traffic_control_tower_at_Philadelphia_International_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "teddy riner": {
@@ -24563,7 +24575,6 @@
    }
   },
   "recent_ideas": [
-   "dublin cityscape",
    "factory assembly line",
    "south africa skyline",
    "democratic national committee",
@@ -24574,16 +24585,17 @@
    "russell senate office building",
    "denver convention center",
    "supreme court building, washington",
-   "software error screen"
+   "software error screen",
+   "airport control tower"
   ]
  },
  "comment_perm_told": true,
  "auto_count": {
   "2026-11-12": 17,
-  "2026-11-13": 25
+  "2026-11-13": 26
  },
- "last_auto_at": "2026-11-13T20:33:20.930343+00:00",
- "last_post_at": "2026-11-13T20:34:29.553110+00:00",
+ "last_auto_at": "2026-11-13T21:16:35.781185+00:00",
+ "last_post_at": "2026-11-13T21:16:44.510174+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10
