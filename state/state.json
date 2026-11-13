@@ -1,82 +1,6 @@
 {
  "tg_offset": 495893015,
  "drafts": {
-  "d50feabe4b": {
-   "id": "d50feabe4b",
-   "headline": "Progressives launch Ready for AOC group for 2028 election",
-   "summary": "A new political organization aims to encourage Representative Alexandria Ocasio-Cortez to run for president in 2028. The group launched to demonstrate support and show an organizing apparatus awaiting the legislator.",
-   "label": "ELECTIONS",
-   "hook": "Will Representative Alexandria Ocasio-Cortez run for president in 2028?",
-   "key_points": [
-    "Ready for AOC launched Monday",
-    "Group aims to encourage a 2028 presidential run",
-    "Supporters are asked to sign a pledge"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#AOC",
-    "#2028Elections",
-    "#USPolitics"
-   ],
-   "sources": [
-    "New York Times",
-    "The Hill"
-   ],
-   "link": "https://thehill.com/homenews/campaign/6207958-ready-for-aoc-launches-2028-white-house/",
-   "links": [
-    [
-     "The Hill",
-     "https://thehill.com/homenews/campaign/6207958-ready-for-aoc-launches-2028-white-house/"
-    ],
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/09/us/politics/alexandria-ocasio-cortez-aoc-2028-president-group.html"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Vote_Here_-_Election_Polling_Place_%2850565230221%29.jpg/1920px-Vote_Here_-_Election_Polling_Place_%2850565230221%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Tony Webster from Minneapolis, Minnesota, United States / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Progressives launch Ready for AOC group for 2028 election",
-    "people": [
-     "Alexandria Ocasio-Cortez"
-    ],
-    "image_query": "US Capitol dome",
-    "image_queries": [
-     "Senate chamber",
-     "Capitol Hill",
-     "voting booth",
-     "Democratic National Committee"
-    ],
-    "image_style": "scene",
-    "location": "New York, US"
-   },
-   "created_at": "2026-11-09T16:00:45.852184+00:00",
-   "news_time": "2026-11-09T15:33:03+00:00",
-   "news_latest": "2026-11-09T15:49:02+00:00",
-   "caption": "Progressives launch Ready for AOC group for 2028 election\n\nA new political organization aims to encourage Representative Alexandria Ocasio-Cortez to run for president in 2028. The group launched to demonstrate support and show an organizing apparatus awaiting the legislator.\n\n💬 Will Representative Alexandria Ocasio-Cortez run for president in 2028?\n\n📖 Read more: https://thehill.com/homenews/campaign/6207958-ready-for-aoc-launches-2028-white-house/\n\n#AOC #2028Elections #USPolitics #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 189,
-   "tg_file_id": "AgACAgUAAxkDAAO9avHuMYLjFifLNdVl5FZIa4_x9V8AAvUWaxv_D5FXW8TSOUoWQY8BAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-09T16:46:46.425049+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122096830569548584",
-   "posted_at": "2026-11-09T16:46:46.706915+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 09 · 11:47 AM New York · 10:17 PM Sri Lanka\n\n<b>Progressives launch Ready for AOC group for 2028 election</b>\n<i>New York Times, The Hill</i>\n🟢 <b>Latest:</b> 9:19 PM Sri Lanka (57 min ago) · first reported 9:03 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096830569548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 72,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "1171179595568250"
-  },
   "322552a6c6": {
    "id": "322552a6c6",
    "headline": "Teddy Riner announces run for French presidency",
@@ -18692,23 +18616,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-10T16:00:54.924420+00:00",
-   [
-    "aid",
-    "cross",
-    "effort",
-    "egypt",
-    "facility",
-    "gaza",
-    "hamilton",
-    "lewi",
-    "rafah",
-    "visit",
-    "witness"
-   ],
-   "87cfd790ec"
-  ],
-  [
    "2026-11-10T16:27:29.976942+00:00",
    [
     "appearanc",
@@ -21442,17 +21349,13 @@
    "05e6c9dbf6"
   ]
  ],
- "last_draft_at": "2026-11-13T15:45:46.110461+00:00",
+ "last_draft_at": "2026-11-13T16:01:41.727778+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T15:15:42.451509+00:00",
  "run_log": [
-  "11-13 13:31:02 run start",
-  "11-13 13:31:12 listening 11 min",
-  "11-13 13:42:32 listening done",
-  "11-13 13:42:32 run end after 689 s",
   "11-13 13:45:52 run start",
   "11-13 13:46:01 listening 11 min",
   "11-13 13:57:20 listening done",
@@ -21488,7 +21391,11 @@
   "11-13 15:45:45 run start",
   "11-13 15:45:56 listening 11 min",
   "11-13 15:57:17 listening done",
-  "11-13 15:57:17 run end after 691 s"
+  "11-13 15:57:17 run end after 691 s",
+  "11-13 16:01:41 run start",
+  "11-13 16:01:51 listening 11 min",
+  "11-13 16:13:12 listening done",
+  "11-13 16:13:12 run end after 690 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
