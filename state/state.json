@@ -19097,25 +19097,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-10T00:54:30.671980+00:00",
-   [
-    "arizona",
-    "challenger",
-    "cran",
-    "democratic",
-    "hold",
-    "hous",
-    "rac",
-    "re-election",
-    "republican",
-    "scar",
-    "seat",
-    "stav",
-    "surviv"
-   ],
-   "ae2ca9e8fb"
-  ],
-  [
    "2026-11-10T01:30:46.131186+00:00",
    [
     "access",
@@ -22008,17 +21989,13 @@
    "0dca1b56a1"
   ]
  ],
- "last_draft_at": "2026-11-13T00:31:05.332529+00:00",
+ "last_draft_at": "2026-11-13T00:45:49.030714+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T00:00:48.848152+00:00",
  "run_log": [
-  "11-12 22:15:41 run start",
-  "11-12 22:15:51 listening 11 min",
-  "11-12 22:27:26 listening done",
-  "11-12 22:27:26 run end after 704 s",
   "11-12 22:30:48 run start",
   "11-12 22:30:58 listening 11 min",
   "11-12 22:42:18 listening done",
@@ -22054,7 +22031,11 @@
   "11-13 00:31:04 run start",
   "11-13 00:31:15 listening 11 min",
   "11-13 00:42:35 listening done",
-  "11-13 00:42:35 run end after 690 s"
+  "11-13 00:42:35 run end after 690 s",
+  "11-13 00:45:48 run start",
+  "11-13 00:45:58 listening 11 min",
+  "11-13 00:57:18 listening done",
+  "11-13 00:57:18 run end after 690 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
