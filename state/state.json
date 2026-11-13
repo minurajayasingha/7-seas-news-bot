@@ -1,169 +1,6 @@
 {
  "tg_offset": 495893020,
  "drafts": {
-  "f7ef8991b5": {
-   "id": "f7ef8991b5",
-   "headline": "Dan Sullivan campaign intervenes in Mary Peltola ballot lawsuit",
-   "summary": "Senator Dan Sullivan's campaign filed a motion against Mary Peltola's campaign in Alaska. Peltola's campaign previously sued the Alaska Division of Elections to access records for rejected absentee ballots.",
-   "label": "ELECTIONS",
-   "hook": "Should absentee ballot records be released in this tight race?",
-   "key_points": [
-    "Sullivan campaign filed a motion against Peltola",
-    "Peltola campaign sued Alaska Division of Elections",
-    "Lawsuit involves rejected absentee ballots"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#AlaskaElections",
-    "#USPolitics",
-    "#ElectionLaw"
-   ],
-   "sources": [
-    "Fox News",
-    "The Hill"
-   ],
-   "link": "https://thehill.com/regulation/court-battles/6209007-sullivan-campaign-intervenes-peltola-lawsuit/",
-   "links": [
-    [
-     "The Hill",
-     "https://thehill.com/regulation/court-battles/6209007-sullivan-campaign-intervenes-peltola-lawsuit/"
-    ],
-    [
-     "Fox News",
-     "https://www.foxnews.com/politics/alaska-senate-fight-heats-sullivan-moves-block-peltola-lawsuit-rejected-absentee-ballot-records"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Senator_Dan_Sullivan_official_%28cropped%29.jpg/1280px-Senator_Dan_Sullivan_official_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "United States Senate / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Rep._Mary_Peltola_headshot_%28cropped%29.jpg/1280px-Rep._Mary_Peltola_headshot_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "U.S. Rep. Mary Peltola / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Dan Sullivan campaign intervenes in Mary Peltola ballot lawsuit",
-    "people": [
-     "Dan Sullivan",
-     "Mary Peltola"
-    ],
-    "image_query": "Alaska State Capitol building",
-    "image_queries": [
-     "voting booth",
-     "election ballots",
-     "Alaska Division of Elections",
-     "courtroom gavel"
-    ],
-    "image_style": "scene",
-    "location": "Alaska, US"
-   },
-   "created_at": "2026-11-09T22:00:43.702401+00:00",
-   "news_time": "2026-11-09T19:19:30+00:00",
-   "news_latest": "2026-11-09T21:56:43+00:00",
-   "caption": "Dan Sullivan campaign intervenes in Mary Peltola ballot lawsuit\n\nSenator Dan Sullivan's campaign filed a motion against Mary Peltola's campaign in Alaska. Peltola's campaign previously sued the Alaska Division of Elections to access records for rejected absentee ballots.\n\n💬 Should absentee ballot records be released in this tight race?\n\n📖 Read more: https://thehill.com/regulation/court-battles/6209007-sullivan-campaign-intervenes-peltola-lawsuit/\n\n#AlaskaElections #USPolitics #ElectionLaw #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 229,
-   "tg_file_id": "AgACAgUAAxkDAAPlavJClbmi1VxuHjrvDRrDhE814okAAiIWaxuLT5BXz9QiEKBIGjgBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-09T22:23:08.857807+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122097015051548584",
-   "posted_at": "2026-11-09T22:23:09.161047+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 09 · 5:23 PM New York · 3:53 AM Sri Lanka\n\n<b>Dan Sullivan campaign intervenes in Mary Peltola ballot lawsuit</b>\n<i>Fox News, The Hill</i>\n🟢 <b>Latest:</b> 3:26 AM Sri Lanka (26 min ago) · first reported 12:49 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122097015051548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 97,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "1132854472584699",
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-12T22:00:42.119958+00:00"
-  },
-  "5bb6a3928e": {
-   "id": "5bb6a3928e",
-   "headline": "FBI investigates possible homicide on MSC cruise ship in Texas",
-   "summary": "Federal authorities are investigating a suspected homicide on a cruise ship. The vessel returned to a port in Texas following a guest incident.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "FBI launched an investigation into a possible homicide.",
-    "The MSC cruise boat docked in Texas.",
-    "Authorities instructed the vessel to return to port."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#FBI",
-    "#CruiseShip",
-    "#Texas"
-   ],
-   "sources": [
-    "NBC News",
-    "The Independent"
-   ],
-   "link": "https://www.independent.co.uk/news/world/americas/crime/cruise-ship-death-fbi-texas-b3082045.html",
-   "links": [
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/crime/cruise-ship-death-fbi-texas-b3082045.html"
-    ],
-    [
-     "NBC News",
-     "https://www.nbcnews.com/news/us-news/fbi-investigating-possible-homicide-cruise-ship-left-texas-rcna608423"
-    ]
-   ],
-   "bg": {
-    "type": "incident",
-    "photos": [],
-    "location": "Texas, US"
-   },
-   "img_post": {
-    "headline": "FBI investigates possible homicide on MSC cruise ship in Texas",
-    "people": [],
-    "image_query": "Galveston port Texas",
-    "image_queries": [
-     "cruise ship docked",
-     "Galveston harbor",
-     "cruise terminal",
-     "Texas coastline"
-    ],
-    "image_style": "incident",
-    "location": "Texas, US"
-   },
-   "created_at": "2026-11-09T22:00:54.557966+00:00",
-   "news_time": "2026-11-09T21:40:36+00:00",
-   "news_latest": "2026-11-09T21:50:37+00:00",
-   "caption": "FBI investigates possible homicide on MSC cruise ship in Texas\n\nFederal authorities are investigating a suspected homicide on a cruise ship. The vessel returned to a port in Texas following a guest incident.\n\n📖 Read more: https://www.independent.co.uk/news/world/americas/crime/cruise-ship-death-fbi-texas-b3082045.html\n\n#FBI #CruiseShip #Texas #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 230,
-   "tg_file_id": "AgACAgUAAxkDAAPmavJCl8R8Ww1wt_DWAlBVtjcvQhQAAiMWaxuLT5BXQ4VGhZEk3E4BAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-09T22:23:54.413933+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122097015615548584",
-   "posted_at": "2026-11-09T22:23:54.716373+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 09 · 5:24 PM New York · 3:54 AM Sri Lanka\n\n<b>FBI investigates possible homicide on MSC cruise ship in Texas</b>\n<i>NBC News, The Independent</i>\n🟢 <b>Latest:</b> 3:20 AM Sri Lanka (33 min ago) · first reported 3:10 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122097015615548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 99,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "1470024288437291",
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-12T22:00:42.119958+00:00"
-  },
   "3770cba8ab": {
    "id": "3770cba8ab",
    "headline": "Nvidia CEO Jensen Huang investigated over affair with alleged Chinese spy",
@@ -17215,6 +17052,89 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122100682743548584_4554722991464043"
+  },
+  "9f7ce7afa1": {
+   "id": "9f7ce7afa1",
+   "headline": "Marco Rubio delivers Federalist Society speech in Washington",
+   "summary": "Secretary of State Marco Rubio delivers a speech at the Federalist Society National Lawyers Convention. Reports note that his cautious approach could shape a potential path to the 2028 White House nomination as JD Vance faces scrutiny for Republican midterm losses.",
+   "label": "US POLITICS",
+   "hook": "Will Marco Rubio seek the 2028 Republican nomination?",
+   "key_points": [
+    "Rubio speaks about the spirit of Marx.",
+    "The speech takes place Friday.",
+    "JD Vance takes heat for midterm losses."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#MarcoRubio",
+    "#USPolitics",
+    "#FederalistSociety"
+   ],
+   "sources": [
+    "Fox News",
+    "Newsweek"
+   ],
+   "link": "https://www.newsweek.com/marco-rubios-path-to-the-white-house-in-2028-takes-shape-12713721",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/marco-rubios-path-to-the-white-house-in-2028-takes-shape-12713721"
+    ],
+    [
+     "Fox News",
+     "https://www.foxnews.com/politics/rubio-takes-aim-soulless-global-bureaucrats-pushing-marxism-undermine-america"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Canadian_Foreign_Minister_M%C3%A9lanie_Joly_met_United_States_Secretary_of_State_Marco_Rubio_at_the_Department_of_State_in_Washington%2C_D.C.%2C_January_29%2C_2025.jpg/1280px-Canadian_Foreign_Minister_M%C3%A9lanie_Joly_met_United_States_Secretary_of_State_Marco_Rubio_at_the_Department_of_State_in_Washington%2C_D.C.%2C_January_29%2C_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Department of State / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Marco Rubio delivers Federalist Society speech in Washington",
+    "people": [
+     "Marco Rubio"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "White House exterior",
+     "voting booth"
+    ],
+    "image_style": "person",
+    "location": "Washington, US",
+    "nearby_city": "Washington, DC",
+    "event_query": "Federalist Society National Lawyers Convention",
+    "news_time": null,
+    "label": "US POLITICS"
+   },
+   "created_at": "2026-11-13T22:01:13.529346+00:00",
+   "news_time": "2026-11-13T17:41:40+00:00",
+   "news_latest": "2026-11-13T21:55:17+00:00",
+   "caption": "Marco Rubio delivers Federalist Society speech in Washington\n\nSecretary of State Marco Rubio delivers a speech at the Federalist Society National Lawyers Convention. Reports note that his cautious approach could shape a potential path to the 2028 White House nomination as JD Vance faces scrutiny for Republican midterm losses.\n\n💬 Will Marco Rubio seek the 2028 Republican nomination?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#MarcoRubio #USPolitics #FederalistSociety #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 517,
+   "tg_file_id": "AgACAgUAAxkDAAICBWr3iLuXRR1WQ7WU2TawGTdXy1ZJAAJEFmsbFv24V6RTyWjFFDerAQADAgADdwADPQQ",
+   "queued_at": "2026-11-13T22:01:31.297901+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-13T22:01:31.297950+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122100694065548584",
+   "posted_at": "2026-11-13T22:01:31.628780+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 13 · 5:01 PM New York · 3:31 AM Sri Lanka\n\n<b>Marco Rubio delivers Federalist Society speech in Washington</b>\n<i>Fox News, Newsweek</i>\n🟢 <b>Latest:</b> 3:25 AM Sri Lanka (6 min ago) · first reported 11:11 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122100694065548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 332,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122100694065548584_2220861615500105"
   }
  },
  "seen_links": [
@@ -18095,30 +18015,11 @@
   "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
   "https://www.washingtonexaminer.com/policy/infrastructure/4802941/faa-imposes-nationwide-ground-stop-on-all-flights/",
   "https://www.upi.com/Top_News/US/2026/11/13/kansas-wichita-soccer-field-no-charges/4951794603502/",
-  "https://www.independent.co.uk/news/world/americas/wichita-soccer-accident-no-charges-kansas-b3084687.html"
+  "https://www.independent.co.uk/news/world/americas/wichita-soccer-accident-no-charges-kansas-b3084687.html",
+  "https://www.newsweek.com/marco-rubios-path-to-the-white-house-in-2028-takes-shape-12713721",
+  "https://www.foxnews.com/politics/rubio-takes-aim-soulless-global-bureaucrats-pushing-marxism-undermine-america"
  ],
  "recent_topics": [
-  [
-   "2026-11-10T22:09:29.521134+00:00",
-   [
-    "basically",
-    "cornyn",
-    "democrat",
-    "describ",
-    "good",
-    "him",
-    "interest",
-    "meet",
-    "navigat",
-    "person",
-    "red",
-    "sen-elect",
-    "stat",
-    "talarico",
-    "tim"
-   ],
-   "2f96ce7c0d"
-  ],
   [
    "2026-11-10T22:21:20.907400+00:00",
    [
@@ -20991,19 +20892,36 @@
     "wont"
    ],
    "5afdfab132"
+  ],
+  [
+   "2026-11-13T22:01:31.294739+00:00",
+   [
+    "aim",
+    "america",
+    "bureaucrat",
+    "global",
+    "hous",
+    "marco",
+    "marxism",
+    "path",
+    "push",
+    "rubio",
+    "shap",
+    "soulless",
+    "tak",
+    "undermin",
+    "whit"
+   ],
+   "9f7ce7afa1"
   ]
  ],
- "last_draft_at": "2026-11-13T21:45:34.855070+00:00",
+ "last_draft_at": "2026-11-13T22:00:55.240750+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T21:30:50.721076+00:00",
  "run_log": [
-  "11-13 19:30:50 run start",
-  "11-13 19:32:21 listening 10 min",
-  "11-13 19:42:24 listening done",
-  "11-13 19:42:24 run end after 694 s",
   "11-13 19:45:37 run start",
   "11-13 19:45:47 listening 11 min",
   "11-13 19:57:07 listening done",
@@ -21039,12 +20957,15 @@
   "11-13 21:45:34 run start",
   "11-13 21:45:45 listening 11 min",
   "11-13 21:57:03 listening done",
-  "11-13 21:57:03 run end after 689 s"
+  "11-13 21:57:03 run end after 689 s",
+  "11-13 22:00:54 run start",
+  "11-13 22:01:47 listening 11 min",
+  "11-13 22:12:41 listening done",
+  "11-13 22:12:41 run end after 706 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/7/70/James_Talarico_Press_Conference_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Assembly_line%29_Vicker_Sons_%26_Maxim_Gun_Factory_LCCN2014680263.jpg/1920px-Assembly_line%29_Vicker_Sons_%26_Maxim_Gun_Factory_LCCN2014680263.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Pope_Leo_XIV_3_%283x4_cropped%29_%282%29.jpg/1280px-Pope_Leo_XIV_3_%283x4_cropped%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Jensen_Huang_-_RTX_Blackwell_-_Nvidia_Keynote_-_CES_2025_Las_Vegas_%282%29.jpg/1280px-Jensen_Huang_-_RTX_Blackwell_-_Nvidia_Keynote_-_CES_2025_Las_Vegas_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -21083,85 +21004,10 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/New_Orleans_skyline-02_%28cropped%29.jpg/1920px-New_Orleans_skyline-02_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Computer_Screen_with_software_error_at_Gate_11_%28SCL%29.jpg/1920px-Computer_Screen_with_software_error_at_Gate_11_%28SCL%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/The_FAA_air_traffic_control_tower_at_Philadelphia_International_Airport.jpg/1920px-The_FAA_air_traffic_control_tower_at_Philadelphia_International_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Wichita%2C_Kansas_skyline_aerial_view.jpg/1920px-Wichita%2C_Kansas_skyline_aerial_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Wichita%2C_Kansas_skyline_aerial_view.jpg/1920px-Wichita%2C_Kansas_skyline_aerial_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Canadian_Foreign_Minister_M%C3%A9lanie_Joly_met_United_States_Secretary_of_State_Marco_Rubio_at_the_Department_of_State_in_Washington%2C_D.C.%2C_January_29%2C_2025.jpg/1280px-Canadian_Foreign_Minister_M%C3%A9lanie_Joly_met_United_States_Secretary_of_State_Marco_Rubio_at_the_Department_of_State_in_Washington%2C_D.C.%2C_January_29%2C_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
-   "teddy riner": {
-    "t": "2026-11-09T16:30:40.625639+00:00",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Teddy_Riner_Cannes_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Georges Biard / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037184-rj_mg_4515.jpg/1280px-Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037184-rj_mg_4515.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Fernando Frazão/Agência Brasil / Wikimedia Commons (CC BY 3.0 br)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037178-rj_mg_4384.jpg/1280px-Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037178-rj_mg_4384.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Fernando Frazão/Agência Brasil / Wikimedia Commons (CC BY 3.0 br)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037181-rj_mg_4465.jpg/1280px-Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037181-rj_mg_4465.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Fernando Frazão/Agência Brasil / Wikimedia Commons (CC BY 3.0 br)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037176-rj_mg_4343.jpg/1280px-Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037176-rj_mg_4343.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Fernando Frazão/Agência Brasil / Wikimedia Commons (CC BY 3.0 br)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Rue_Teddy_Riner_-_Asni%C3%A8res-sur-Seine_%28FR92%29_-_2024-04-01_-_1.jpg/1280px-Rue_Teddy_Riner_-_Asni%C3%A8res-sur-Seine_%28FR92%29_-_2024-04-01_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Chabe01 / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037180-rj_mg_4441.jpg/1280px-Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037180-rj_mg_4441.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Fernando Frazão/Agência Brasil / Wikimedia Commons (CC BY 3.0 br)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/P%C3%B4le_sportif_Teddy_Riner.jpg/1280px-P%C3%B4le_sportif_Teddy_Riner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Paul Vaurie / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037175-rj_mg_4339.jpg/1280px-Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037175-rj_mg_4339.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Fernando Frazão/Agência Brasil / Wikimedia Commons (CC BY 3.0 br)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Plaque_Rue_Teddy_Riner_-_Asni%C3%A8res-sur-Seine_%28FR92%29_-_2024-04-01_-_2.jpg/1280px-Plaque_Rue_Teddy_Riner_-_Asni%C3%A8res-sur-Seine_%28FR92%29_-_2024-04-01_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Chabe01 / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037183-rj_mg_4489.jpg/1280px-Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037183-rj_mg_4489.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Fernando Frazão/Agência Brasil / Wikimedia Commons (CC BY 3.0 br)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037177-rj_mg_4370.jpg/1280px-Rafael_Silva_perde_para_franc%C3%AAs_Teddy_Riner_no_jud%C3%B4_1037177-rj_mg_4370.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Fernando Frazão/Agência Brasil / Wikimedia Commons (CC BY 3.0 br)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     }
-    ]
-   },
    "thomas massie": {
     "t": "2026-11-09T19:15:33.725316+00:00",
     "photos": [
@@ -24416,6 +24262,82 @@
       "portrait": false
      }
     ]
+   },
+   "marco rubio": {
+    "t": "2026-11-13T22:01:13.529190+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Official_portrait_of_Secretary_Marco_Rubio_%28cropped%29%282%29.jpg/1280px-Official_portrait_of_Secretary_Marco_Rubio_%28cropped%29%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Department of State / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Visita_Oficial_del_Secretario_de_los_Estados_Unidos_de_Am%C3%A9rica_Marco_Rubio_4_feb_2025_11.jpg/1280px-Visita_Oficial_del_Secretario_de_los_Estados_Unidos_de_Am%C3%A9rica_Marco_Rubio_4_feb_2025_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Priscilla Corrales/Presidencia de la República de Costa Rica / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Marco_Rubio_visits_Israel_from_February_15_to_17%2C_2025_-_18.jpg/1280px-Marco_Rubio_visits_Israel_from_February_15_to_17%2C_2025_-_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Embassy Jerusalem / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Official_portrait_of_the_United_States_Secretary_of_State_Marco_Rubio%2C_January_2025_%28cropped%29.jpg/1280px-Official_portrait_of_the_United_States_Secretary_of_State_Marco_Rubio%2C_January_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Department of State / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Canadian_Foreign_Minister_M%C3%A9lanie_Joly_met_United_States_Secretary_of_State_Marco_Rubio_at_the_Department_of_State_in_Washington%2C_D.C.%2C_January_29%2C_2025.jpg/1280px-Canadian_Foreign_Minister_M%C3%A9lanie_Joly_met_United_States_Secretary_of_State_Marco_Rubio_at_the_Department_of_State_in_Washington%2C_D.C.%2C_January_29%2C_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Department of State / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Marco_Rubio_by_Gage_Skidmore_2.jpg/1280px-Marco_Rubio_by_Gage_Skidmore_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Marco_Rubio_%2824556513751%29.jpg/1280px-Marco_Rubio_%2824556513751%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Visita_Oficial_del_Secretario_de_los_Estados_Unidos_de_Am%C3%A9rica_Marco_Rubio_4_feb_2025_20.jpg/1280px-Visita_Oficial_del_Secretario_de_los_Estados_Unidos_de_Am%C3%A9rica_Marco_Rubio_4_feb_2025_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Priscilla Corrales/Presidencia de la República de Costa Rica / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/2020_Encontro_com_o_Senador_Marco_Rubio_%2849639648052%29.jpg/1280px-2020_Encontro_com_o_Senador_Marco_Rubio_%2849639648052%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Palácio do Planalto / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Marco_Rubio_town_hall_Belknap_Mill_25_Beacon_Street_East_Laconia_NH_February_2016.jpg/1280px-Marco_Rubio_town_hall_Belknap_Mill_25_Beacon_Street_East_Laconia_NH_February_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Artaxerxes / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Senator_of_Florida_Marco_Rubio_at_Marco_Rubio_at_the_Derry-Salem_Elks_Lodge_in_Salem_NH_by_Michael_Vadon_08.jpg/1280px-Senator_of_Florida_Marco_Rubio_at_Marco_Rubio_at_the_Derry-Salem_Elks_Lodge_in_Salem_NH_by_Michael_Vadon_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Michael Vadon / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Senator_of_Florida_Marco_Rubio_at_Marco_Rubio_at_the_Derry-Salem_Elks_Lodge_in_Salem_NH_by_Michael_Vadon_13.jpg/1280px-Senator_of_Florida_Marco_Rubio_at_Marco_Rubio_at_the_Derry-Salem_Elks_Lodge_in_Salem_NH_by_Michael_Vadon_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Michael Vadon / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     }
+    ]
    }
   },
   "recent_ideas": [
@@ -24436,10 +24358,10 @@
  "comment_perm_told": true,
  "auto_count": {
   "2026-11-12": 17,
-  "2026-11-13": 27
+  "2026-11-13": 28
  },
- "last_auto_at": "2026-11-13T21:32:42.256374+00:00",
- "last_post_at": "2026-11-13T21:32:46.870922+00:00",
+ "last_auto_at": "2026-11-13T22:01:31.628780+00:00",
+ "last_post_at": "2026-11-13T22:01:36.893624+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10
