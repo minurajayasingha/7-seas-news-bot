@@ -1,82 +1,6 @@
 {
  "tg_offset": 495893000,
  "drafts": {
-  "f7d93440dd": {
-   "id": "f7d93440dd",
-   "headline": "Joe Biden limits memoir promotion due to cancer fight",
-   "summary": "Former President Joseph R. Biden Jr. stated that his prostate cancer slows him down. Consequently, he announced he will not complete as many promotional conversations for his forthcoming memoir as planned.",
-   "label": "US POLITICS",
-   "hook": "Will these health limitations significantly impact the release of the former president's memoir?",
-   "key_points": [
-    "Former President Joe Biden has prostate cancer.",
-    "The cancer slows him down.",
-    "He will do fewer book promotion conversations."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#JoeBiden",
-    "#USPolitics",
-    "#HealthNews"
-   ],
-   "sources": [
-    "New York Times",
-    "UPI"
-   ],
-   "link": "https://www.nytimes.com/2026/11/08/us/politics/biden-cancer-health-memoir.html",
-   "links": [
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/08/us/politics/biden-cancer-health-memoir.html"
-    ],
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/US/2026/11/08/biden-book/2491794188487/"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Vice_President_Joe_Biden_visit_to_Israel_March_2016_%2825621190876%29.jpg/1280px-Vice_President_Joe_Biden_visit_to_Israel_March_2016_%2825621190876%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "U.S. Embassy Tel Aviv / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Joe Biden limits memoir promotion due to cancer fight",
-    "people": [
-     "Joe Biden"
-    ],
-    "image_query": "US Capitol dome",
-    "image_queries": [
-     "Senate chamber",
-     "Capitol Hill",
-     "White House",
-     "Supreme Court building"
-    ],
-    "image_style": "person",
-    "location": "US"
-   },
-   "created_at": "2026-11-09T02:30:39.727753+00:00",
-   "news_time": "2026-11-09T02:00:45+00:00",
-   "news_latest": "2026-11-09T02:14:35+00:00",
-   "caption": "Joe Biden limits memoir promotion due to cancer fight\n\nFormer President Joseph R. Biden Jr. stated that his prostate cancer slows him down. Consequently, he announced he will not complete as many promotional conversations for his forthcoming memoir as planned.\n\n💬 Will these health limitations significantly impact the release of the former president's memoir?\n\n📖 Read more: https://www.nytimes.com/2026/11/08/us/politics/biden-cancer-health-memoir.html\n\n#JoeBiden #USPolitics #HealthNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 140,
-   "tg_file_id": "AgACAgUAAxkDAAOMavEwUiYFWUMPJV5EW0PLfl8NeNIAAosVaxv_D4lX6SVWF2Y0BTwBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-09T02:32:01.591496+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122096355897548584",
-   "posted_at": "2026-11-09T02:32:02.136177+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 08 · 9:32 PM New York · 8:02 AM Sri Lanka\n\n<b>Joe Biden limits memoir promotion due to cancer fight</b>\n<i>New York Times, UPI</i>\n🟢 <b>Latest:</b> 7:44 AM Sri Lanka (17 min ago) · first reported 7:30 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096355897548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 44,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "2581741285667923"
-  },
   "7d9f30acc2": {
    "id": "7d9f30acc2",
    "headline": "Trump Cites Personal Hatred Between Zelensky and Putin in War",
@@ -21996,17 +21920,13 @@
    "39669d2d6e"
   ]
  ],
- "last_draft_at": "2026-11-13T02:16:03.327053+00:00",
+ "last_draft_at": "2026-11-13T02:30:51.020164+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T02:03:46.763272+00:00",
  "run_log": [
-  "11-13 00:12:36 run end after 708 s",
-  "11-13 00:15:35 run start",
-  "11-13 00:15:45 listening 11 min",
-  "11-13 00:27:04 listening done",
   "11-13 00:27:04 run end after 689 s",
   "11-13 00:31:04 run start",
   "11-13 00:31:15 listening 11 min",
@@ -22042,7 +21962,11 @@
   "11-13 02:16:02 run start",
   "11-13 02:16:12 listening 11 min",
   "11-13 02:27:31 listening done",
-  "11-13 02:27:31 run end after 688 s"
+  "11-13 02:27:31 run end after 688 s",
+  "11-13 02:30:50 run start",
+  "11-13 02:30:59 listening 11 min",
+  "11-13 02:42:17 listening done",
+  "11-13 02:42:17 run end after 686 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
