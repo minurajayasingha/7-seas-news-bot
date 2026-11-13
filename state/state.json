@@ -1,80 +1,6 @@
 {
  "tg_offset": 495893010,
  "drafts": {
-  "99f4b08e1a": {
-   "id": "99f4b08e1a",
-   "headline": "Congress returns to Capitol Hill for lame-duck legislative session",
-   "summary": "Lawmakers return to Capitol Hill following the midterm elections. Congress faces deadlines including a government shutdown, the farm bill, and a debt ceiling fight.",
-   "label": "US POLITICS",
-   "hook": "Can lawmakers resolve the government shutdown deadline before the new Congress takes power?",
-   "key_points": [
-    "Midterm elections delivered a slew of Democratic victories.",
-    "Lawmakers face a government shutdown deadline.",
-    "Power balance in Washington shifts in January."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Congress",
-    "#USPolitics",
-    "#CapitolHill"
-   ],
-   "sources": [
-    "CBS News",
-    "Fox News"
-   ],
-   "link": "https://www.cbsnews.com/news/midterm-elections-congress-returns-lame-duck/",
-   "links": [
-    [
-     "CBS News",
-     "https://www.cbsnews.com/news/midterm-elections-congress-returns-lame-duck/"
-    ],
-    [
-     "Fox News",
-     "https://www.foxnews.com/politics/congress-returns-brutal-lame-duck-stretch-shutdown-deadline-leadership-races-closet-full-s"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/United_States_Capitol_rotunda.jpg/1920px-United_States_Capitol_rotunda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Base64 / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Congress returns to Capitol Hill for lame-duck legislative session",
-    "people": [],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "Senate chamber",
-     "Capitol Hill",
-     "House of Representatives chamber",
-     "Washington DC skyline"
-    ],
-    "image_style": "scene",
-    "location": "Washington, DC, US"
-   },
-   "created_at": "2026-11-09T14:32:13.395995+00:00",
-   "news_time": "2026-11-09T10:00:25+00:00",
-   "news_latest": "2026-11-09T13:51:53+00:00",
-   "caption": "Congress returns to Capitol Hill for lame-duck legislative session\n\nLawmakers return to Capitol Hill following the midterm elections. Congress faces deadlines including a government shutdown, the farm bill, and a debt ceiling fight.\n\n💬 Can lawmakers resolve the government shutdown deadline before the new Congress takes power?\n\n📖 Read more: https://www.cbsnews.com/news/midterm-elections-congress-returns-lame-duck/\n\n#Congress #USPolitics #CapitolHill #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 178,
-   "tg_file_id": "AgACAgUAAxkDAAOyavHZcLrfX9f6da70nM1qiJLF1iAAAsAWaxv_D5FXsll7m0uYxmYBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-09T14:32:57.172507+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122096744427548584",
-   "posted_at": "2026-11-09T14:32:57.479247+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 09 · 9:33 AM New York · 8:03 PM Sri Lanka\n\n<b>Congress returns to Capitol Hill for lame-duck legislative session</b>\n<i>CBS News, Fox News</i>\n🟢 <b>Latest:</b> 7:21 PM Sri Lanka (41 min ago) · first reported 3:30 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096744427548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 63,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "1439908861676697"
-  },
   "75d587144c": {
    "id": "75d587144c",
    "headline": "Russell Brand sentenced to over 10 years for rape and sexual assault",
@@ -18176,6 +18102,77 @@
    "extra_msgs": [
     482
    ]
+  },
+  "e4984fea08": {
+   "id": "e4984fea08",
+   "headline": "Chuck Schumer faces potential challenge for Senate Democratic leadership",
+   "summary": "Midterm elections have given Democrats a Senate majority and Senate Leader Chuck Schumer a new challenger. Reports discuss how Schumer fares against this new competition to lead Senate Democrats.",
+   "label": "US POLITICS",
+   "hook": "Will Chuck Schumer retain his leadership position among Senate Democrats?",
+   "key_points": [
+    "Democrats secured a Senate majority following the midterm elections.",
+    "A new challenger has emerged for the Senate Democratic leadership."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Senate",
+    "#ChuckSchumer"
+   ],
+   "sources": [
+    "Fox News",
+    "Newsweek"
+   ],
+   "link": "https://www.foxnews.com/politics/sound-off-whats-chuck-schumers-future-senate-dems",
+   "links": [
+    [
+     "Fox News",
+     "https://www.foxnews.com/politics/sound-off-whats-chuck-schumers-future-senate-dems"
+    ],
+    [
+     "Newsweek",
+     "https://www.newsweek.com/chuck-schumer-van-hollen-senate-democrats-12710602"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Senate_Democratic_Leader_Chuck_Schumer_%2850519807298%29.jpg/1280px-Senate_Democratic_Leader_Chuck_Schumer_%2850519807298%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Senate Democrats / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Chuck Schumer faces potential challenge for Senate Democratic leadership",
+    "people": [
+     "Chuck Schumer"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "voting booth",
+     "Democratic headquarters"
+    ],
+    "image_style": "person",
+    "location": "Washington, US",
+    "nearby_city": "Washington, D.C.",
+    "event_query": "Senate Democratic leadership",
+    "news_time": null,
+    "label": "US POLITICS"
+   },
+   "created_at": "2026-11-13T14:30:52.538564+00:00",
+   "news_time": "2026-11-13T14:03:31+00:00",
+   "news_latest": "2026-11-13T14:18:30+00:00",
+   "caption": "Chuck Schumer faces potential challenge for Senate Democratic leadership\n\nMidterm elections have given Democrats a Senate majority and Senate Leader Chuck Schumer a new challenger. Reports discuss how Schumer fares against this new competition to lead Senate Democrats.\n\n💬 Will Chuck Schumer retain his leadership position among Senate Democrats?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Senate #ChuckSchumer #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 483,
+   "tg_file_id": "AgACAgUAAxkDAAIB42r3Hy03zl70CqCx0M9yKYYyWkpnAAJtFWsbFv24V4OJ0lyJe_rmAQADAgADdwADPQQ",
+   "extra_msgs": [
+    484
+   ]
   }
  },
  "seen_links": [
@@ -18994,7 +18991,9 @@
   "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
   "https://abcnews.com/International/wireStory/irans-revolutionary-guard-destroyed-us-radar-bahrain-mideast-138102943",
   "https://www.newsweek.com/mary-peltola-path-winning-alaska-senate-race-outright-12709303",
-  "https://thehill.com/newsletters/morning-report/6218178-alaska-senate-race-uncalled-3-scenarios-midterms/"
+  "https://thehill.com/newsletters/morning-report/6218178-alaska-senate-race-uncalled-3-scenarios-midterms/",
+  "https://www.foxnews.com/politics/sound-off-whats-chuck-schumers-future-senate-dems",
+  "https://www.newsweek.com/chuck-schumer-van-hollen-senate-democrats-12710602"
  ],
  "recent_topics": [
   [
@@ -21807,19 +21806,29 @@
     "strik"
    ],
    "bdd0e45929"
+  ],
+  [
+   "2026-11-13T14:31:09.678593+00:00",
+   [
+    "chuck",
+    "dem",
+    "futur",
+    "schumer",
+    "senat",
+    "sound",
+    "trap",
+    "victory"
+   ],
+   "e4984fea08"
   ]
  ],
- "last_draft_at": "2026-11-13T14:16:23.564387+00:00",
+ "last_draft_at": "2026-11-13T14:30:40.772107+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T14:15:43.759071+00:00",
  "run_log": [
-  "11-13 12:00:44 run start",
-  "11-13 12:00:55 listening 11 min",
-  "11-13 12:12:14 listening done",
-  "11-13 12:12:14 run end after 689 s",
   "11-13 12:15:35 run start",
   "11-13 12:16:59 listening 10 min",
   "11-13 12:27:03 listening done",
@@ -21855,12 +21864,15 @@
   "11-13 14:15:43 run start",
   "11-13 14:16:33 listening 11 min",
   "11-13 14:27:27 listening done",
-  "11-13 14:27:27 run end after 703 s"
+  "11-13 14:27:27 run end after 703 s",
+  "11-13 14:30:40 run start",
+  "11-13 14:31:10 listening 11 min",
+  "11-13 14:42:28 listening done",
+  "11-13 14:42:28 run end after 708 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/South_Texas%2C_Border_Patrol_Agents%2C_McAllen_Horse_Patrol_Unit_%2811933500215%29.jpg/1920px-South_Texas%2C_Border_Patrol_Agents%2C_McAllen_Horse_Patrol_Unit_%2811933500215%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/A_U.S._Navy_Hull_Maintenance_Technician_3rd_Class_Robert_Frey_fabricates_a_steel_countertop_aboard_the_aircraft_carrier_USS_Nimitz_%28CVN_68%29_Aug._20%2C_2013%2C_while_underway_in_the_Gulf_of_Oman_130820-N-JC752-778.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/0/05/UN_General_Assembly_hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://upload.wikimedia.org/wikipedia/commons/f/fb/Germantown_White_House%2C_exterior_%287e7a56bf-1dd8-b71b-0b57-9b70001df804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -21899,7 +21911,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Ceiling_of_a_shabestan_in_Fatima_Masumeh_Shrine%2C_qom%2C_iran%2C_2.jpg/1920px-Ceiling_of_a_shabestan_in_Fatima_Masumeh_Shrine%2C_qom%2C_iran%2C_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Vice_President_Kamala_Harris_swears_in_Senator_Chris_Van_Hollen_for_a_second_term.jpg/1280px-Vice_President_Kamala_Harris_swears_in_Senator_Chris_Van_Hollen_for_a_second_term.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Senate_Democratic_Leader_Chuck_Schumer_%2850520530086%29.jpg/1280px-Senate_Democratic_Leader_Chuck_Schumer_%2850520530086%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/US_Capitol_west_side_at_dusk.JPG/1920px-US_Capitol_west_side_at_dusk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/US_Capitol_west_side_at_dusk.JPG/1920px-US_Capitol_west_side_at_dusk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Senate_Democratic_Leader_Chuck_Schumer_%2850519807298%29.jpg/1280px-Senate_Democratic_Leader_Chuck_Schumer_%2850519807298%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "bernie sanders": {
