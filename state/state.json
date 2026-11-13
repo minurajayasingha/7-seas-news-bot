@@ -1,66 +1,6 @@
 {
  "tg_offset": 495893004,
  "drafts": {
-  "408a5794c8": {
-   "id": "408a5794c8",
-   "headline": "Storm collapses sandbank on tents in Gaza: five killed",
-   "summary": "Heavy rain and a storm caused a sandbank to collapse onto tents in Gaza. Five people were killed in the incident.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "Heavy rain caused a sandbank to collapse on tents",
-    "Gaza rescue services and authorities reported five deaths",
-    "Victims included children and women"
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#Gaza",
-    "#Weather",
-    "#WorldNews"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "Euronews"
-   ],
-   "link": "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss",
-   "links": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss"
-    ],
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/09/storm-killed-five-in-gaza-as-sandstone-slab-collapsed-onto-tents"
-    ]
-   ],
-   "bg": {
-    "type": "incident",
-    "photos": [],
-    "location": "Gaza"
-   },
-   "img_post": {
-    "headline": "Storm collapses sandbank on tents in Gaza: five killed",
-    "people": [],
-    "image_query": "Gaza landscape",
-    "image_queries": [
-     "Gaza street scene",
-     "stormy weather tents",
-     "Gaza neighborhood",
-     "heavy rain flooded area"
-    ],
-    "image_style": "incident",
-    "location": "Gaza"
-   },
-   "created_at": "2026-11-09T11:00:45.913021+00:00",
-   "news_time": "2026-11-09T10:27:03+00:00",
-   "news_latest": "2026-11-09T10:50:49+00:00",
-   "caption": "🚨 BREAKING: Storm collapses sandbank on tents in Gaza: five killed\n\nHeavy rain and a storm caused a sandbank to collapse onto tents in Gaza. Five people were killed in the incident.\n\nWhat we know so far:\n• Heavy rain caused a sandbank to collapse on tents\n• Gaza rescue services and authorities reported five deaths\n• Victims included children and women\n\n📖 Read more: https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss\n\n#Gaza #Weather #WorldNews #7SeasNews",
-   "status": "replaced",
-   "tg_message_id": 156,
-   "tg_file_id": "AgACAgUAAxkDAAOcavGn4liWcAtLRDl_itjwGoz1cBgAAiAWaxv_D5FXm--iuNwgMJ8BAAMCAAN3AAM9BA",
-   "extra_msgs": [],
-   "cleared": true
-  },
   "c28eab1894": {
    "id": "c28eab1894",
    "headline": "Senate Republicans blame Donald Trump following big congressional election losses",
@@ -18409,6 +18349,174 @@
    "extra_msgs": [
     470
    ]
+  },
+  "4772fcbb80": {
+   "id": "4772fcbb80",
+   "headline": "US visa restrictions block African beauty queens from Miss Universe",
+   "summary": "African beauty queens face travel hurdles as the US partially suspends issuing visas for people from Zimbabwe and Zambia. Hall has sought a US visa in South Africa while other contestants encounter similar delays.",
+   "label": "WORLD",
+   "hook": "Should visa restrictions prevent contestants from attending international pageants?",
+   "key_points": [
+    "US visa suspensions began in January.",
+    "Zambia and Zimbabwe are affected by the policy.",
+    "Contestants are seeking visas in South Africa."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#MissUniverse",
+    "#USVisas",
+    "#WorldNews"
+   ],
+   "sources": [
+    "BBC",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/africa/africa-miss-universe-trump-travel-ban-b3084345.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/africa/africa-miss-universe-trump-travel-ban-b3084345.html"
+    ],
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Nissan_Skyline_R34_in_South_Africa.jpg/1920px-Nissan_Skyline_R34_in_South_Africa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Sherwin / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "US visa restrictions block African beauty queens from Miss Universe",
+    "people": [],
+    "image_query": "South Africa skyline",
+    "image_queries": [
+     "Johannesburg city",
+     "US Embassy Pretoria",
+     "Miss Universe stage",
+     "Passport and visa documents"
+    ],
+    "image_style": "scene",
+    "location": "South Africa",
+    "nearby_city": "Johannesburg, South Africa",
+    "event_query": "Miss Universe pageant",
+    "news_time": null,
+    "label": "WORLD"
+   },
+   "created_at": "2026-11-13T11:01:34.897606+00:00",
+   "news_time": "2026-11-13T07:01:43+00:00",
+   "news_latest": "2026-11-13T10:43:15+00:00",
+   "caption": "US visa restrictions block African beauty queens from Miss Universe\n\nAfrican beauty queens face travel hurdles as the US partially suspends issuing visas for people from Zimbabwe and Zambia. Hall has sought a US visa in South Africa while other contestants encounter similar delays.\n\n💬 Should visa restrictions prevent contestants from attending international pageants?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#MissUniverse #USVisas #WorldNews #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 471,
+   "tg_file_id": "AgACAgUAAxkDAAIB12r27hJ_8wy5f3hRp6dXGHeFEKAHAALLFGsbFv24VzENNLs0W6xvAQADAgADdwADPQQ",
+   "queued_at": "2026-11-13T11:01:38.837588+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-13T11:01:38.837626+00:00",
+   "post_label": "🤖 Auto-posting + Reel",
+   "fb_post_id": "1413030521900096_122100257751548584",
+   "posted_at": "2026-11-13T11:01:55.578035+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 13 · 6:02 AM New York · 4:32 PM Sri Lanka\n\n<b>US visa restrictions block African beauty queens from Miss Universe</b>\n<i>BBC, The Independent</i>\n🟢 <b>Latest:</b> 4:13 PM Sri Lanka (18 min ago) · first reported 12:31 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122100257751548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 291,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122100257751548584_1679322300524800",
+   "fb_reel_id": "2676722166094219",
+   "reel_status": "live"
+  },
+  "ea51dc48e4": {
+   "id": "ea51dc48e4",
+   "headline": "Pope Leo arrives in Chiclayo for South America tour",
+   "summary": "Crowds gathered in the northern Peruvian city of Chiclayo as Pope Leo arrived for an outdoor Mass. He previously served as bishop in the city for eight years and as a missionary in Peru for about 20 years. He also warned that digital technology risks replacing genuine human interaction.",
+   "label": "WORLD",
+   "hook": "Do you think digital technology is replacing genuine human interaction?",
+   "key_points": [
+    "The crowds gathered early on Friday, November 13.",
+    "Pope Leo declared on November 11 that Peru is his homeland.",
+    "The visit is the centerpiece of a 12-day South America tour."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#PopeLeo",
+    "#Peru",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "France 24"
+   ],
+   "link": "https://www.france24.com/en/video/20261113-peruvians-flock-to-see-pope-leo-xiv-in-city-he-served-as-bishop",
+   "links": [
+    [
+     "France 24",
+     "https://www.france24.com/en/video/20261113-peruvians-flock-to-see-pope-leo-xiv-in-city-he-served-as-bishop"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-xiv-warns-on-pressures-facing-modern-families?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Pope_Leo_XIV_childhood_home_3.jpg/1280px-Pope_Leo_XIV_childhood_home_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Maximilian775 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Pope Leo arrives in Chiclayo for South America tour",
+    "people": [
+     "Pope Leo"
+    ],
+    "image_query": "Chiclayo city",
+    "image_queries": [
+     "Chiclayo cathedral",
+     "Peru city streets",
+     "South America landscape",
+     "Catholic church gathering"
+    ],
+    "image_style": "person",
+    "location": "Chiclayo, Peru",
+    "nearby_city": "Lima, Peru",
+    "event_query": "Pope Leo Chiclayo visit",
+    "news_time": null,
+    "label": "WORLD"
+   },
+   "created_at": "2026-11-13T11:01:42.947832+00:00",
+   "news_time": "2026-11-13T09:11:37+00:00",
+   "news_latest": "2026-11-13T10:55:09+00:00",
+   "caption": "Pope Leo arrives in Chiclayo for South America tour\n\nCrowds gathered in the northern Peruvian city of Chiclayo as Pope Leo arrived for an outdoor Mass. He previously served as bishop in the city for eight years and as a missionary in Peru for about 20 years. He also warned that digital technology risks replacing genuine human interaction.\n\n💬 Do you think digital technology is replacing genuine human interaction?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#PopeLeo #Peru #WorldNews #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 472,
+   "tg_file_id": "AgACAgUAAxkDAAIB2Gr27h82pp8MyZcUgFaqEqbnjp5zAALMFGsbFv24V5Djm-A0R8Y7AQADAgADdwADPQQ",
+   "queued_at": "2026-11-13T11:01:51.842467+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-13T11:01:51.842504+00:00",
+   "post_label": "🤖 Auto-posting + Reel",
+   "fb_post_id": "1413030521900096_122100258957548584",
+   "posted_at": "2026-11-13T11:01:55.578035+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 13 · 6:02 AM New York · 4:32 PM Sri Lanka\n\n<b>Pope Leo arrives in Chiclayo for South America tour</b>\n<i>Al Jazeera, France 24</i>\n🟢 <b>Latest:</b> 4:25 PM Sri Lanka (7 min ago) · first reported 2:41 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122100258957548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 293,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122100258957548584_1798683251369013",
+   "fb_reel_id": "1156327130180040",
+   "reel_status": "live"
   }
  },
  "seen_links": [
@@ -19204,7 +19312,13 @@
   "https://www.france24.com/en/video/20261113-potential-national-security-crisis-as-nvidia-ex-ceo-summoned-by-us-congress",
   "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate?traffic_source=rss",
   "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
-  "https://www.independent.co.uk/news/world/americas/nvidia-chinese-huawei-donald-trump-intel-b3084271.html"
+  "https://www.independent.co.uk/news/world/americas/nvidia-chinese-huawei-donald-trump-intel-b3084271.html",
+  "https://www.independent.co.uk/news/world/africa/africa-miss-universe-trump-travel-ban-b3084345.html",
+  "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
+  "https://www.france24.com/en/video/20261113-peruvians-flock-to-see-pope-leo-xiv-in-city-he-served-as-bishop",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-xiv-warns-on-pressures-facing-modern-families?traffic_source=rss",
+  "https://www.france24.com/en/video/20261113-france-remembers-victims-of-2015-paris-terror-attacks",
+  "https://www.upi.com/Top_News/2026/11/13/On-This-Day-Paris-terror-attacks-leave-130-dead/4391794541404/"
  ],
  "recent_topics": [
   [
@@ -22088,19 +22202,69 @@
     "scandal"
    ],
    "de06bec5ec"
+  ],
+  [
+   "2026-11-13T11:01:38.833797+00:00",
+   [
+    "african",
+    "ban",
+    "beauty",
+    "bit",
+    "block",
+    "limbo",
+    "miss",
+    "pageant",
+    "queen",
+    "restriction",
+    "travel",
+    "trump",
+    "univers",
+    "visa"
+   ],
+   "4772fcbb80"
+  ],
+  [
+   "2026-11-13T11:01:51.838748+00:00",
+   [
+    "abus",
+    "bishop",
+    "call",
+    "city",
+    "clergy",
+    "fac",
+    "family",
+    "flock",
+    "justic",
+    "lead",
+    "leo",
+    "lima",
+    "meet",
+    "modern",
+    "national",
+    "peru",
+    "peruvian",
+    "pop",
+    "prayer",
+    "pressur",
+    "see",
+    "serv",
+    "stadium",
+    "survivor",
+    "vigil",
+    "warn",
+    "xiv",
+    "youth"
+   ],
+   "ea51dc48e4"
   ]
  ],
- "last_draft_at": "2026-11-13T10:45:37.501485+00:00",
+ "last_draft_at": "2026-11-13T11:00:53.564421+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T10:16:12.174738+00:00",
  "run_log": [
-  "11-13 08:43:16 run start",
-  "11-13 08:44:16 listening 10 min",
-  "11-13 08:54:46 listening done",
-  "11-13 08:54:46 run end after 690 s",
   "11-13 08:55:28 run start",
   "11-13 08:55:39 listening 11 min",
   "11-13 09:06:59 listening done",
@@ -22136,13 +22300,15 @@
   "11-13 10:45:47 listening 11 min",
   "11-13 10:45:48 listen error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
   "11-13 10:57:18 listening done",
-  "11-13 10:57:18 run end after 701 s"
+  "11-13 10:57:18 run end after 701 s",
+  "11-13 11:00:53 run start",
+  "11-13 11:03:38 listening 9 min",
+  "11-13 11:12:27 listening done",
+  "11-13 11:12:27 run end after 694 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Spanish_Parliament_building_.jpg/1920px-Spanish_Parliament_building_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/8/8f/Presiden_Indonesia_Prabowo_Subianto%2C_Presiden_Rusia_Vladimir_Putin%2C_Presiden_Tiongkok_Xi_Jinping%2C_Pemimpin_Tertinggi_Korea_Utara_Kim_Jong-un%2C_dan_Presiden_Kazakstan_Kassym-Jomart_Tokayev_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/The_Great_Wall_of_China_in_Yanqing.jpg/1920px-The_Great_Wall_of_China_in_Yanqing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/e/e7/Tehran_skyline_from_Book_Garden_0272.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -22180,85 +22346,11 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Assembly_line%29_Vicker_Sons_%26_Maxim_Gun_Factory_LCCN2014680263.jpg/1920px-Assembly_line%29_Vicker_Sons_%26_Maxim_Gun_Factory_LCCN2014680263.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Pope_Leo_XIV_3_%283x4_cropped%29_%282%29.jpg/1280px-Pope_Leo_XIV_3_%283x4_cropped%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Jensen_Huang_-_RTX_Blackwell_-_Nvidia_Keynote_-_CES_2025_Las_Vegas_%282%29.jpg/1280px-Jensen_Huang_-_RTX_Blackwell_-_Nvidia_Keynote_-_CES_2025_Las_Vegas_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/5/59/Jensen_Huang_%28cropped%29_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/5/59/Jensen_Huang_%28cropped%29_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Nissan_Skyline_R34_in_South_Africa.jpg/1920px-Nissan_Skyline_R34_in_South_Africa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Pope_Leo_XIV_childhood_home_3.jpg/1280px-Pope_Leo_XIV_childhood_home_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
-   "stephen miller": {
-    "t": "2026-11-08T17:45:34.128519+00:00",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Stephen_Miller_July_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "The White House / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Stephen_Miller_%2854360305622%29_%28cropped%29.jpg/1280px-Stephen_Miller_%2854360305622%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Stephen_Miller_%2854360306672%29.jpg/1280px-Stephen_Miller_%2854360306672%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/2025_-_Stephen_Miller_%28cropped%29.jpg/1280px-2025_-_Stephen_Miller_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Stephen_Miller_%2854361577295%29.jpg/1280px-Stephen_Miller_%2854361577295%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Stephen_Miller_%2854361403153%29.jpg/1280px-Stephen_Miller_%2854361403153%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Stephen_Miller_%2854360305622%29_%28cropped%29%28b%29.jpg/1280px-Stephen_Miller_%2854360305622%29_%28cropped%29%28b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Stephen_Miller_%2854360305622%29_%28cropped%29%28c%29.jpg/1280px-Stephen_Miller_%2854360305622%29_%28cropped%29%28c%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Stephen_Miller_%2854360304032%29.jpg/1280px-Stephen_Miller_%2854360304032%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Stephen_Miller_%2854361578860%29.jpg/1280px-Stephen_Miller_%2854361578860%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Stephen_Miller_%2854360303177%29_%28cropped%29.jpg/1280px-Stephen_Miller_%2854360303177%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/2025_-_Stephen_Miller_close-up_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     }
-    ]
-   },
    "sonia sotomayor": {
     "t": "2026-11-08T18:00:38.665583+00:00",
     "photos": [
@@ -25589,10 +25681,86 @@
       "portrait": false
      }
     ]
+   },
+   "pope leo": {
+    "t": "2026-11-13T11:01:42.947703+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Pope_Leo_XIV_childhood_home_4.jpg/1280px-Pope_Leo_XIV_childhood_home_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Maximilian775 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_01.jpg/1280px-Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Diario de Madrid / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_04.jpg/1280px-Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Diario de Madrid / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Pope_Leo_XIV_2_%284x5_cropped%29.png/1280px-Pope_Leo_XIV_2_%284x5_cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Edgar Beltrán , The Pillar / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Pope_Leo_XIV_childhood_home_2.jpg/1280px-Pope_Leo_XIV_childhood_home_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Maximilian775 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Pope_Leo_XIV_childhood_home_3.jpg/1280px-Pope_Leo_XIV_childhood_home_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Maximilian775 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Pope_Leo_XIV_childhood_home_5.jpg/1280px-Pope_Leo_XIV_childhood_home_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Maximilian775 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Sant%27Anselmo_Pope_Leo_XIII_Dedication.jpg/1280px-Sant%27Anselmo_Pope_Leo_XIII_Dedication.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "ElijahOwens / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_03.jpg/1280px-Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Diario de Madrid / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Pope_Leo_XIV_3_%28cropped%29.jpg/1280px-Pope_Leo_XIV_3_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Edgar Beltrán , The Pillar / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_05.jpg/1280px-Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Diario de Madrid / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_02.jpg/1280px-Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Diario de Madrid / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     }
+    ]
    }
   },
   "recent_ideas": [
-   "white house exterior",
    "arlington national cemetery",
    "capitol at night",
    "computer server room",
@@ -25603,18 +25771,19 @@
    "us capitol dome",
    "prison exterior",
    "dublin cityscape",
-   "factory assembly line"
+   "factory assembly line",
+   "south africa skyline"
   ]
  },
  "comment_perm_told": true,
  "auto_count": {
   "2026-11-12": 17,
-  "2026-11-13": 4
+  "2026-11-13": 6
  },
- "last_auto_at": "2026-11-13T08:43:22.232482+00:00",
- "last_post_at": "2026-11-13T08:43:43.302196+00:00",
+ "last_auto_at": "2026-11-13T11:01:55.578035+00:00",
+ "last_post_at": "2026-11-13T11:02:52.349617+00:00",
  "reels_count": {
   "2026-11-12": 2,
-  "2026-11-13": 1
+  "2026-11-13": 3
  }
 }
