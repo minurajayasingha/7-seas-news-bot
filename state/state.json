@@ -18437,6 +18437,88 @@
    "fb_comment_id": "122100337155548584_1149754537447774",
    "fb_reel_id": "2939013513145544",
    "reel_status": "live"
+  },
+  "7ed19effff": {
+   "id": "7ed19effff",
+   "headline": "UN watchdog expresses concern over Iran nuclear site",
+   "summary": "The UN nuclear watchdog says it cannot verify whether an underground Iranian enrichment plant contains nuclear material. The agency reports it has never been able to inspect the uranium enrichment plant at Isfahan.",
+   "label": "DIPLOMACY",
+   "hook": "Will Iran allow the UN watchdog to inspect the Isfahan facility?",
+   "key_points": [
+    "Iran announced the plant over a year ago",
+    "The agency calls on Iran to reopen facilities"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Iran",
+    "#UN",
+    "#Nuclear"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "BBC"
+   ],
+   "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
+   "links": [
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Ceiling_of_a_shabestan_in_Fatima_Masumeh_Shrine%2C_qom%2C_iran%2C_2.jpg/1920px-Ceiling_of_a_shabestan_in_Fatima_Masumeh_Shrine%2C_qom%2C_iran%2C_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Amir Pashaei / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "UN watchdog expresses concern over Iran nuclear site",
+    "people": [],
+    "image_query": "United Nations headquarters",
+    "image_queries": [
+     "UN emblem",
+     "uranium enrichment facility",
+     "nuclear watchdog headquarters",
+     "Isfahan cityscape"
+    ],
+    "image_style": "scene",
+    "location": "Iran",
+    "nearby_city": "Tehran, Iran",
+    "event_query": "Isfahan nuclear site Iran",
+    "news_time": null,
+    "label": "DIPLOMACY"
+   },
+   "created_at": "2026-11-13T13:02:21.162918+00:00",
+   "news_time": "2026-11-13T11:51:57+00:00",
+   "news_latest": "2026-11-13T12:28:28+00:00",
+   "caption": "UN watchdog expresses concern over Iran nuclear site\n\nThe UN nuclear watchdog says it cannot verify whether an underground Iranian enrichment plant contains nuclear material. The agency reports it has never been able to inspect the uranium enrichment plant at Isfahan.\n\n💬 Will Iran allow the UN watchdog to inspect the Isfahan facility?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Iran #UN #Nuclear #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 478,
+   "tg_file_id": "AgACAgUAAxkDAAIB3mr3CnZrcZCNJv7glbJOC3lBHIjdAAL3FGsbFv24Vw0EUAR9-qY1AQADAgADdwADPQQ",
+   "queued_at": "2026-11-13T13:02:47.203841+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-13T13:02:47.203881+00:00",
+   "post_label": "🤖 Auto-posting + Reel",
+   "fb_post_id": "1413030521900096_122100346719548584",
+   "posted_at": "2026-11-13T13:02:47.553368+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 13 · 8:02 AM New York · 6:32 PM Sri Lanka\n\n<b>UN watchdog expresses concern over Iran nuclear site</b>\n<i>Al Jazeera, BBC</i>\n🟢 <b>Latest:</b> 5:58 PM Sri Lanka (34 min ago) · first reported 5:21 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122100346719548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 299,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122100346719548584_1149802057800804",
+   "fb_reel_id": "4577978775853072",
+   "reel_status": "live"
   }
  },
  "seen_links": [
@@ -19245,40 +19327,11 @@
   "https://www.independent.co.uk/news/world/americas/us-politics/trump-scott-colom-interview-praise-b3084510.html",
   "https://www.nytimes.com/2026/11/13/us/politics/scott-colom-mississippi-democrat-defied-odds.html",
   "https://www.washingtonexaminer.com/premium/4503592/poll-democrats-wish-america-was-weak/",
-  "https://www.politico.com/news/2026/11/13/poll-democrats-united-for-now-2028-01163438"
+  "https://www.politico.com/news/2026/11/13/poll-democrats-united-for-now-2028-01163438",
+  "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
+  "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection?traffic_source=rss"
  ],
  "recent_topics": [
-  [
-   "2026-11-10T13:00:51.031456+00:00",
-   [
-    "66",
-    "congo",
-    "court",
-    "coward",
-    "cowardic",
-    "death",
-    "mutiny",
-    "sentenc",
-    "soldier"
-   ],
-   "71149e7a33"
-  ],
-  [
-   "2026-11-10T13:00:56.716143+00:00",
-   [
-    "blam",
-    "cyberattack",
-    "franc",
-    "freezer",
-    "iran",
-    "refrigeration",
-    "respons",
-    "system",
-    "tough",
-    "vow"
-   ],
-   "ee5eecffd7"
-  ],
   [
    "2026-11-10T13:15:36.137024+00:00",
    [
@@ -22092,19 +22145,31 @@
     "wish"
    ],
    "8159430728"
+  ],
+  [
+   "2026-11-13T13:02:47.200005+00:00",
+   [
+    "call",
+    "concern",
+    "facility",
+    "increasingly",
+    "inspection",
+    "iran",
+    "nuclear",
+    "reopen",
+    "sit",
+    "watchdog"
+   ],
+   "7ed19effff"
   ]
  ],
- "last_draft_at": "2026-11-13T12:46:29.553319+00:00",
+ "last_draft_at": "2026-11-13T13:01:14.781007+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T12:15:36.312160+00:00",
  "run_log": [
-  "11-13 10:30:49 listening 11 min",
-  "11-13 10:42:08 listening done",
-  "11-13 10:42:08 run end after 688 s",
-  "11-13 10:45:37 run start",
   "11-13 10:45:47 listening 11 min",
   "11-13 10:45:48 listen error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
   "11-13 10:57:18 listening done",
@@ -22140,12 +22205,15 @@
   "11-13 12:46:29 run start",
   "11-13 12:48:21 listening 10 min",
   "11-13 12:58:00 listening done",
-  "11-13 12:58:00 run end after 691 s"
+  "11-13 12:58:00 run end after 691 s",
+  "11-13 13:01:14 run start",
+  "11-13 13:03:43 listening 9 min",
+  "11-13 13:12:57 listening done",
+  "11-13 13:12:57 run end after 703 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Donald_Trump_official_portrait_2020_election.jpg/1280px-Donald_Trump_official_portrait_2020_election.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Bisexual_Pride_flag_over_UK_Government_building_in_Cardiff%2C_2023-09-21.jpg/1920px-Bisexual_Pride_flag_over_UK_Government_building_in_Cardiff%2C_2023-09-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Clock_on_Royal_Courts_of_Justice%2C_London_-_2022-09-10.jpg/1920px-Clock_on_Royal_Courts_of_Justice%2C_London_-_2022-09-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -22184,7 +22252,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Nissan_Skyline_R34_in_South_Africa.jpg/1920px-Nissan_Skyline_R34_in_South_Africa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Pope_Leo_XIV_childhood_home_3.jpg/1280px-Pope_Leo_XIV_childhood_home_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/f/f2/Scott_Colom_2_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Democratic_National_Committee_Headquarters_in_Washington%2C_D.C._02.jpg/1920px-Democratic_National_Committee_Headquarters_in_Washington%2C_D.C._02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Democratic_National_Committee_Headquarters_in_Washington%2C_D.C._02.jpg/1920px-Democratic_National_Committee_Headquarters_in_Washington%2C_D.C._02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Ceiling_of_a_shabestan_in_Fatima_Masumeh_Shrine%2C_qom%2C_iran%2C_2.jpg/1920px-Ceiling_of_a_shabestan_in_Fatima_Masumeh_Shrine%2C_qom%2C_iran%2C_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "sonia sotomayor": {
@@ -25597,7 +25666,6 @@
    }
   },
   "recent_ideas": [
-   "capitol at night",
    "computer server room",
    "pentagon building",
    "voting booth",
@@ -25608,18 +25676,19 @@
    "dublin cityscape",
    "factory assembly line",
    "south africa skyline",
-   "democratic national committee"
+   "democratic national committee",
+   "iran"
   ]
  },
  "comment_perm_told": true,
  "auto_count": {
   "2026-11-12": 17,
-  "2026-11-13": 7
+  "2026-11-13": 8
  },
- "last_auto_at": "2026-11-13T12:47:23.769788+00:00",
- "last_post_at": "2026-11-13T12:47:29.265838+00:00",
+ "last_auto_at": "2026-11-13T13:02:47.553368+00:00",
+ "last_post_at": "2026-11-13T13:02:55.652099+00:00",
  "reels_count": {
   "2026-11-12": 2,
-  "2026-11-13": 4
+  "2026-11-13": 5
  }
 }
