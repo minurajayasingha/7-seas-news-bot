@@ -1,98 +1,6 @@
 {
  "tg_offset": 495893020,
  "drafts": {
-  "fba2f3fceb": {
-   "id": "fba2f3fceb",
-   "headline": "Supreme Court Allows Trump Border Wall Construction in Texas",
-   "summary": "The Supreme Court lifted a district court order that temporarily stopped construction of a border wall. The decision allows President Donald Trump to move forward with building a wall in the Big Bend region of southwest Texas.",
-   "label": "US POLITICS",
-   "hook": "Should construction of the border wall be allowed to proceed in this region?",
-   "key_points": [
-    "Supreme Court lifted a lower court order stopping construction",
-    "Project includes areas within a national park",
-    "Action permits building in the Big Bend sector"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#SupremeCourt",
-    "#BorderWall",
-    "#Texas"
-   ],
-   "sources": [
-    "CBS News",
-    "NBC News",
-    "New York Times"
-   ],
-   "link": "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-border-wall-trump.html",
-   "links": [
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-border-wall-trump.html"
-    ],
-    [
-     "CBS News",
-     "https://www.cbsnews.com/news/supreme-court-trump-border-wall-big-bend/"
-    ],
-    [
-     "NBC News",
-     "https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-border-wall-big-bend-texas-rcna604916"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Ron Cogswell from Arlington, Virginia, USA / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ],
-    "inset": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg/1280px-Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "credit": "The White House from Washington, DC / Wikimedia Commons (Public domain)",
-     "short": "WIKIMEDIA COMMONS"
-    }
-   },
-   "img_post": {
-    "headline": "Supreme Court Allows Trump Border Wall Construction in Texas",
-    "people": [
-     "Donald Trump"
-    ],
-    "image_query": "Supreme Court building",
-    "image_queries": [
-     "US border wall",
-     "Big Bend region",
-     "Texas landscape",
-     "federal courthouse"
-    ],
-    "image_style": "scene",
-    "location": "Texas, US"
-   },
-   "created_at": "2026-11-09T20:15:33.265678+00:00",
-   "news_time": "2026-11-09T19:54:13+00:00",
-   "news_latest": "2026-11-09T20:12:14+00:00",
-   "caption": "Supreme Court Allows Trump Border Wall Construction in Texas\n\nThe Supreme Court lifted a district court order that temporarily stopped construction of a border wall. The decision allows President Donald Trump to move forward with building a wall in the Big Bend region of southwest Texas.\n\n💬 Should construction of the border wall be allowed to proceed in this region?\n\n📖 Read more: https://www.nytimes.com/2026/11/09/us/politics/supreme-court-border-wall-trump.html\n\n#SupremeCourt #BorderWall #Texas #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 221,
-   "tg_file_id": "AgACAgUAAxkDAAPdavIp56QR7QKBey57_xbtib1hwloAAhQWaxuLT5BXbfbtVx0j5xoBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-09T21:00:33.145451+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122096977851548584",
-   "posted_at": "2026-11-09T21:00:35.000853+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 09 · 4:00 PM New York · 2:30 AM Sri Lanka\n\n<b>Supreme Court Allows Trump Border Wall Construction in Texas</b>\n<i>CBS News, NBC News, New York Times</i>\n🟢 <b>Latest:</b> 1:42 AM Sri Lanka (48 min ago) · first reported 1:24 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096977851548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 90,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "1082669434735375",
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-12T20:00:49.207593+00:00"
-  },
   "2a77dcace3": {
    "id": "2a77dcace3",
    "headline": "Calley Means accuses Susie Wiles of shifting blame onto Donald Trump",
@@ -17355,6 +17263,89 @@
     "shares": 0
    },
    "stats_at": "2026-11-13T19:30:50.684874+00:00"
+  },
+  "2e80c2a932": {
+   "id": "2e80c2a932",
+   "headline": "Dana White reveals details of near press secretary role",
+   "summary": "Dana White spoke with Lara Trump about a recent 48-hour period that nearly led to him becoming the White House press secretary. Meanwhile, the Trump administration saw various Cabinet secretaries receive critical press coverage.",
+   "label": "US POLITICS",
+   "hook": "Would Dana White make an effective White House press secretary?",
+   "key_points": [
+    "White described the near-appointment as a crazy experience",
+    "The discussion took place with the president's daughter-in-law"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#WhiteHouse",
+    "#DanaWhite"
+   ],
+   "sources": [
+    "The Independent",
+    "Washington Post"
+   ],
+   "link": "https://www.independent.co.uk/news/world/americas/us-politics/dana-white-trump-press-secretary-b3084793.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/us-politics/dana-white-trump-press-secretary-b3084793.html"
+    ],
+    [
+     "Washington Post",
+     "https://www.washingtonpost.com/politics/2026/11/13/trumps-cabinet-secretaries-get-some-bad-press/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Dana_White_-_London_2015.jpg/1280px-Dana_White_-_London_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Andrius Petrucenia / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Dana White reveals details of near press secretary role",
+    "people": [
+     "Dana White",
+     "Lara Trump"
+    ],
+    "image_query": "White House building",
+    "image_queries": [
+     "West Wing exterior",
+     "White House press room",
+     "Press briefing podium",
+     "US Capitol dome"
+    ],
+    "image_style": "person",
+    "location": "Washington, DC, US",
+    "nearby_city": "Washington, DC",
+    "event_query": "White House press briefing room",
+    "news_time": null,
+    "label": "US POLITICS"
+   },
+   "created_at": "2026-11-13T20:15:48.960093+00:00",
+   "news_time": "2026-11-13T16:59:40+00:00",
+   "news_latest": "2026-11-13T20:12:50+00:00",
+   "caption": "Dana White reveals details of near press secretary role\n\nDana White spoke with Lara Trump about a recent 48-hour period that nearly led to him becoming the White House press secretary. Meanwhile, the Trump administration saw various Cabinet secretaries receive critical press coverage.\n\n💬 Would Dana White make an effective White House press secretary?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #WhiteHouse #DanaWhite #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 510,
+   "tg_file_id": "AgACAgUAAxkDAAIB_mr3b_bJduBKnYAaA9jimTeR30eYAAIsFmsbFv24V4OvNUSqcbbvAQADAgADdwADPQQ",
+   "queued_at": "2026-11-13T20:15:51.011400+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-13T20:15:51.011440+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122100644037548584",
+   "posted_at": "2026-11-13T20:15:51.297034+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 13 · 3:15 PM New York · 1:45 AM Sri Lanka\n\n<b>Dana White reveals details of near press secretary role</b>\n<i>The Independent, Washington Post</i>\n🟢 <b>Latest:</b> 1:42 AM Sri Lanka (3 min ago) · first reported 10:29 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122100644037548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 326,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122100644037548584_1842397980019989"
   }
  },
  "seen_links": [
@@ -18220,7 +18211,9 @@
   "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
   "https://www.nytimes.com/2026/11/13/us/politics/trump-iran-strategy.html",
   "https://www.washingtonpost.com/politics/2026/11/13/lauren-boebert-loses-colorado-4th-district-election-eileen-laubacher/",
-  "https://thehill.com/homenews/campaign/6175418-laubacher-defeats-boebert-colorado-house-race-2026/"
+  "https://thehill.com/homenews/campaign/6175418-laubacher-defeats-boebert-colorado-house-race-2026/",
+  "https://www.independent.co.uk/news/world/americas/us-politics/dana-white-trump-press-secretary-b3084793.html",
+  "https://www.washingtonpost.com/politics/2026/11/13/trumps-cabinet-secretaries-get-some-bad-press/"
  ],
  "recent_topics": [
   [
@@ -21047,19 +21040,38 @@
     "wait"
    ],
    "92fe297395"
+  ],
+  [
+   "2026-11-13T20:15:51.007585+00:00",
+   [
+    "48",
+    "bad",
+    "becom",
+    "cabinet",
+    "crazy",
+    "dana",
+    "describ",
+    "get",
+    "him",
+    "hour",
+    "nearly",
+    "press",
+    "saw",
+    "secretary",
+    "som",
+    "trump",
+    "whit"
+   ],
+   "2e80c2a932"
   ]
  ],
- "last_draft_at": "2026-11-13T20:00:53.145654+00:00",
+ "last_draft_at": "2026-11-13T20:15:35.840285+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T19:30:50.684874+00:00",
  "run_log": [
-  "11-13 17:47:44 run start",
-  "11-13 17:49:12 listening 10 min",
-  "11-13 17:59:15 listening done",
-  "11-13 17:59:15 run end after 690 s",
   "11-13 18:00:42 run start",
   "11-13 18:01:37 listening 11 min",
   "11-13 18:12:26 listening done",
@@ -21095,12 +21107,15 @@
   "11-13 20:00:52 run start",
   "11-13 20:02:33 listening 10 min",
   "11-13 20:12:37 listening done",
-  "11-13 20:12:37 run end after 705 s"
+  "11-13 20:12:37 run end after 705 s",
+  "11-13 20:15:35 run start",
+  "11-13 20:16:05 listening 11 min",
+  "11-13 20:27:23 listening done",
+  "11-13 20:27:23 run end after 707 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Howard_Lutnick_2025_%28cropped%29.jpg/1280px-Howard_Lutnick_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Prison_Ship_Martyrs_Monument_Exterior.JPG/1920px-Prison_Ship_Martyrs_Monument_Exterior.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/d/d5/Guinness_Brewery_in_Dublin_cityscape.jpg",
@@ -21139,85 +21154,10 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Benjamin_Netanyahu_Receives_Hudson%27s_Herman_Kahn_Award_%2830287430110%29.jpg/1280px-Benjamin_Netanyahu_Receives_Hudson%27s_Herman_Kahn_Award_%2830287430110%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Supreme_Court_Building_Washington_DC.jpg/1920px-Supreme_Court_Building_Washington_DC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/b/b5/Mike_Pence_by_Gage_Skidmore_6_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Donald_Trump_takes_the_oath_of_office_%282025%29.jpg/1280px-Donald_Trump_takes_the_oath_of_office_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Donald_Trump_takes_the_oath_of_office_%282025%29.jpg/1280px-Donald_Trump_takes_the_oath_of_office_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Dana_White_-_London_2015.jpg/1280px-Dana_White_-_London_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
-   "dave mccormick": {
-    "t": "2026-11-09T13:45:42.177503+00:00",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Senator_McCormick_%28R-PA%29_Official_Portrait.jpg/1280px-Senator_McCormick_%28R-PA%29_Official_Portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "U.S. Senate Photography Service / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Dave_McCormick_outdoor_portrait%2C_2025.png/1280px-Dave_McCormick_outdoor_portrait%2C_2025.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Office of Senator David McCormick / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Dave_McCormick_%2855510712894%29.jpg/1280px-Dave_McCormick_%2855510712894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Dave_McCormick_%2855510713004%29.jpg/1280px-Dave_McCormick_%2855510713004%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Dave_McCormick_%2855510713409%29.jpg/1280px-Dave_McCormick_%2855510713409%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Dave_McCormick_%2855510713109%29.jpg/1280px-Dave_McCormick_%2855510713109%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Dave_McCormick_%2855510712699%29.jpg/1280px-Dave_McCormick_%2855510712699%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Dave_McCormick_%2855510933785%29.jpg/1280px-Dave_McCormick_%2855510933785%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Dave_McCormick_%2855510560726%29.jpg/1280px-Dave_McCormick_%2855510560726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Dave_McCormick_%2855510560606%29.jpg/1280px-Dave_McCormick_%2855510560606%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Dave_McCormick_%2855509553692%29.jpg/1280px-Dave_McCormick_%2855509553692%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Dave_McCormick_%2855510669633%29.jpg/1280px-Dave_McCormick_%2855510669633%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     }
-    ]
-   },
    "russell brand": {
     "t": "2026-11-09T14:45:45.256418+00:00",
     "photos": [
@@ -24472,6 +24412,82 @@
       "portrait": true
      }
     ]
+   },
+   "dana white": {
+    "t": "2026-11-13T20:15:48.959955+00:00",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Ilham_Aliyev_received_Dana_White%2C_June_2025_%283x4_cropped_and_rotated_on_White%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Press Service of the President of the Republic of Azerbaijan / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dana_White_-_2015.jpg/1280px-Dana_White_-_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Andrius Petrucenia / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/U.S._Park_Police_Officers_meet_Dana_White_at_the_UFC_Freedom_250_Press_Conference_%2827%29.jpg/1280px-U.S._Park_Police_Officers_meet_Dana_White_at_the_UFC_Freedom_250_Press_Conference_%2827%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Sgt. Christian Brown / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Ilham_Aliyev_received_Dana_White%2C_June_2025.jpg/1280px-Ilham_Aliyev_received_Dana_White%2C_June_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Press Service of the President of the Republic of Azerbaijan / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Dana_White_-_2015_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Andrius Petrucenia / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Dana_White_-_London_2015_%28cropped%29.jpg/1280px-Dana_White_-_London_2015_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Andrius Petrucenia / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Dana_White_%2818781871875%29.jpg/1280px-Dana_White_%2818781871875%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Andrius Petrucenia / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Dana_White_%2818594174568%29.jpg/1280px-Dana_White_%2818594174568%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Andrius Petrucenia / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Dana_White_%2818784239531%29.jpg/1280px-Dana_White_%2818784239531%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Andrius Petrucenia / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Dana_White_-_London_2015.jpg/1280px-Dana_White_-_London_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Andrius Petrucenia / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Dana_White_%2818595668569%29.jpg/1280px-Dana_White_%2818595668569%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Andrius Petrucenia / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Dana_White_-_London_2015_%281%29.jpg/1280px-Dana_White_-_London_2015_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Andrius Petrucenia / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     }
+    ]
    }
   },
   "recent_ideas": [
@@ -24492,10 +24508,10 @@
  "comment_perm_told": true,
  "auto_count": {
   "2026-11-12": 17,
-  "2026-11-13": 22
+  "2026-11-13": 23
  },
- "last_auto_at": "2026-11-13T19:16:55.116922+00:00",
- "last_post_at": "2026-11-13T19:18:41.717550+00:00",
+ "last_auto_at": "2026-11-13T20:15:51.297034+00:00",
+ "last_post_at": "2026-11-13T20:15:55.630606+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 9
