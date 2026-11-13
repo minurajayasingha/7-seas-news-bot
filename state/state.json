@@ -1,151 +1,6 @@
 {
  "tg_offset": 495893020,
  "drafts": {
-  "72875fc37f": {
-   "id": "72875fc37f",
-   "headline": "Congress faces permitting bill test for data center expansion",
-   "summary": "A new permitting bill has emerged in Congress as lawmakers debate rules for hyper-scale data centers and gas power plants. President Trump has endorsed the legislation and urged the Senate to pass it.",
-   "label": "US POLITICS",
-   "hook": "Will the Senate pass this new permitting bill for data centers?",
-   "key_points": [
-    "President Trump endorsed the permitting bill.",
-    "The legislation fast-tracks data centers and gas power plants.",
-    "Critics argue the bill limits community opposition."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#Congress",
-    "#DataCenters"
-   ],
-   "sources": [
-    "The Hill",
-    "The Independent"
-   ],
-   "link": "https://thehill.com/opinion/energy-environment/6209002-ai-boom-infrastructure-risk/",
-   "links": [
-    [
-     "The Hill",
-     "https://thehill.com/opinion/energy-environment/6209002-ai-boom-infrastructure-risk/"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/us-politics/data-center-bill-senate-trump-energy-b3081849.html"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Capitol_Hill_as_seen_from_9th_and_Pine_looking_east_towards_Bellevue%2C_WA.jpg/1920px-Capitol_Hill_as_seen_from_9th_and_Pine_looking_east_towards_Bellevue%2C_WA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Dllu / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Congress faces permitting bill test for data center expansion",
-    "people": [],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "Senate chamber",
-     "Capitol Hill",
-     "voting booth",
-     "white house"
-    ],
-    "image_style": "scene",
-    "location": "US"
-   },
-   "created_at": "2026-11-09T21:45:41.366694+00:00",
-   "news_time": "2026-11-09T15:54:44+00:00",
-   "news_latest": "2026-11-09T21:30:00+00:00",
-   "caption": "Congress faces permitting bill test for data center expansion\n\nA new permitting bill has emerged in Congress as lawmakers debate rules for hyper-scale data centers and gas power plants. President Trump has endorsed the legislation and urged the Senate to pass it.\n\n💬 Will the Senate pass this new permitting bill for data centers?\n\n📖 Read more: https://thehill.com/opinion/energy-environment/6209002-ai-boom-infrastructure-risk/\n\n#USPolitics #Congress #DataCenters #7SeasNews",
-   "status": "expired",
-   "tg_message_id": 227,
-   "tg_file_id": "AgACAgUAAxkDAAPjavI_D2i27yHloLgiUqDDdZ_SsWoAAh8WaxuLT5BXIFdrGb5CkhEBAAMCAAN3AAM9BA",
-   "extra_msgs": [],
-   "cleared": true
-  },
-  "9dd1f8d4b0": {
-   "id": "9dd1f8d4b0",
-   "headline": "FDA requires new warnings for GLP-1 drugs over eye stroke risk",
-   "summary": "The Food and Drug Administration ordered pharmaceutical companies to add warning labels about a rare eye condition linked to GLP-1 drugs. Non-arteritic anterior ischemic optic neuropathy can cause sudden blindness in patients using the medication for weight loss and diabetes.",
-   "label": "ECONOMY",
-   "hook": "",
-   "key_points": [
-    "FDA required new warnings on GLP-1 drugs",
-    "Drugs are used for weight loss and diabetes",
-    "Risk involves rare eye condition and sudden blindness"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#FDA",
-    "#HealthNews",
-    "#GLP1"
-   ],
-   "sources": [
-    "NBC News",
-    "The Hill"
-   ],
-   "link": "https://thehill.com/policy/healthcare/6209047-fda-glp1-drug-nainon-risk/",
-   "links": [
-    [
-     "The Hill",
-     "https://thehill.com/policy/healthcare/6209047-fda-glp1-drug-nainon-risk/"
-    ],
-    [
-     "NBC News",
-     "https://www.nbcnews.com/health/health-care/fda-orders-new-warning-glp-1s-rare-eye-condition-linked-sudden-blindne-rcna608309"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/United_States_Treasury_building_2023.jpg/1920px-United_States_Treasury_building_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Wisneyykarin / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "FDA requires new warnings for GLP-1 drugs over eye stroke risk",
-    "people": [],
-    "image_query": "US Food and Drug Administration building",
-    "image_queries": [
-     "FDA headquarters",
-     "prescription medication bottles",
-     "pharmaceutical research laboratory",
-     "medical warning label"
-    ],
-    "image_style": "scene",
-    "location": "US"
-   },
-   "created_at": "2026-11-09T21:45:54.204237+00:00",
-   "news_time": "2026-11-09T18:14:12+00:00",
-   "news_latest": "2026-11-09T21:33:48+00:00",
-   "caption": "FDA requires new warnings for GLP-1 drugs over eye stroke risk\n\nThe Food and Drug Administration ordered pharmaceutical companies to add warning labels about a rare eye condition linked to GLP-1 drugs. Non-arteritic anterior ischemic optic neuropathy can cause sudden blindness in patients using the medication for weight loss and diabetes.\n\n📖 Read more: https://thehill.com/policy/healthcare/6209047-fda-glp1-drug-nainon-risk/\n\n#FDA #HealthNews #GLP1 #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 228,
-   "tg_file_id": "AgACAgUAAxkDAAPkavI_E4sWGt9XWmVojDdxsxqCofsAAiAWaxuLT5BXMSHHXWRskPcBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-09T22:23:27.115550+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122097015357548584",
-   "posted_at": "2026-11-09T22:23:27.414259+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 09 · 5:23 PM New York · 3:53 AM Sri Lanka\n\n<b>FDA requires new warnings for GLP-1 drugs over eye stroke risk</b>\n<i>NBC News, The Hill</i>\n🟢 <b>Latest:</b> 3:03 AM Sri Lanka (49 min ago) · first reported 11:44 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122097015357548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 98,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "1115169224443493",
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-12T22:00:42.119958+00:00"
-  },
   "f7ef8991b5": {
    "id": "f7ef8991b5",
    "headline": "Dan Sullivan campaign intervenes in Mary Peltola ballot lawsuit",
@@ -18244,57 +18099,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-10T21:45:38.393654+00:00",
-   [
-    "articl",
-    "critic",
-    "defens",
-    "diverg",
-    "flexibility",
-    "hegseth",
-    "impeach",
-    "impeachment",
-    "lean",
-    "massi",
-    "open",
-    "reach",
-    "remark",
-    "senat",
-    "specific",
-    "takeaway",
-    "tilli",
-    "toward"
-   ],
-   "ba721861d5"
-  ],
-  [
-   "2026-11-10T21:45:43.594234+00:00",
-   [
-    "compet",
-    "control",
-    "election",
-    "form",
-    "government",
-    "hurry",
-    "inquiry",
-    "israel",
-    "israeli",
-    "knesset",
-    "leader",
-    "oct",
-    "opposition",
-    "parliament",
-    "president",
-    "push",
-    "repeat",
-    "seiz",
-    "session",
-    "sworn",
-    "warn"
-   ],
-   "cf27878220"
-  ],
-  [
    "2026-11-10T22:09:29.521134+00:00",
    [
     "basically",
@@ -21189,17 +20993,13 @@
    "5afdfab132"
   ]
  ],
- "last_draft_at": "2026-11-13T21:31:50.856892+00:00",
+ "last_draft_at": "2026-11-13T21:45:34.855070+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T21:30:50.721076+00:00",
  "run_log": [
-  "11-13 19:15:43 run start",
-  "11-13 19:18:51 listening 8 min",
-  "11-13 19:27:15 listening done",
-  "11-13 19:27:15 run end after 691 s",
   "11-13 19:30:50 run start",
   "11-13 19:32:21 listening 10 min",
   "11-13 19:42:24 listening done",
@@ -21235,7 +21035,11 @@
   "11-13 21:30:50 run start",
   "11-13 21:32:56 listening 9 min",
   "11-13 21:42:35 listening done",
-  "11-13 21:42:35 run end after 705 s"
+  "11-13 21:42:35 run end after 705 s",
+  "11-13 21:45:34 run start",
+  "11-13 21:45:45 listening 11 min",
+  "11-13 21:57:03 listening done",
+  "11-13 21:57:03 run end after 689 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
