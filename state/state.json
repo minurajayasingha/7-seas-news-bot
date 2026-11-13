@@ -18980,25 +18980,11 @@
   "https://thehill.com/newsletters/whole-hog-politics/6217447-national-popular-vote-compact-plans/",
   "https://www.washingtonpost.com/politics/2026/11/13/movement-end-electoral-college-gets-boost-after-democratic-wins/",
   "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
-  "https://abcnews.com/International/wireStory/irans-revolutionary-guard-destroyed-us-radar-bahrain-mideast-138102943"
+  "https://abcnews.com/International/wireStory/irans-revolutionary-guard-destroyed-us-radar-bahrain-mideast-138102943",
+  "https://www.newsweek.com/mary-peltola-path-winning-alaska-senate-race-outright-12709303",
+  "https://thehill.com/newsletters/morning-report/6218178-alaska-senate-race-uncalled-3-scenarios-midterms/"
  ],
  "recent_topics": [
-  [
-   "2026-11-10T14:00:47.983987+00:00",
-   [
-    "injur",
-    "kill",
-    "least",
-    "mideast",
-    "other",
-    "overnight",
-    "person",
-    "strik",
-    "wound",
-    "yemen"
-   ],
-   "19d89e3ee6"
-  ],
   [
    "2026-11-10T14:45:45.908271+00:00",
    [
@@ -21811,17 +21797,13 @@
    "bdd0e45929"
   ]
  ],
- "last_draft_at": "2026-11-13T13:45:52.939928+00:00",
+ "last_draft_at": "2026-11-13T14:00:47.117970+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T13:15:48.346902+00:00",
  "run_log": [
-  "11-13 11:30:50 run start",
-  "11-13 11:31:00 listening 11 min",
-  "11-13 11:42:20 listening done",
-  "11-13 11:42:20 run end after 690 s",
   "11-13 11:45:44 run start",
   "11-13 11:45:52 listening 11 min",
   "11-13 11:57:11 listening done",
@@ -21857,7 +21839,11 @@
   "11-13 13:45:52 run start",
   "11-13 13:46:01 listening 11 min",
   "11-13 13:57:20 listening done",
-  "11-13 13:57:20 run end after 687 s"
+  "11-13 13:57:20 run end after 687 s",
+  "11-13 14:00:46 run start",
+  "11-13 14:01:00 listening 11 min",
+  "11-13 14:12:20 listening done",
+  "11-13 14:12:20 run end after 693 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
