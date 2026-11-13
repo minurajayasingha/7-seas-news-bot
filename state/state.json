@@ -1,83 +1,6 @@
 {
  "tg_offset": 495893015,
  "drafts": {
-  "fa0755faec": {
-   "id": "fa0755faec",
-   "headline": "Nvidia stock falls after company launches probe into Jensen Huang",
-   "summary": "Shares in Nvidia declined after the company launched an investigation into CEO Jensen Huang regarding a reported affair with a woman believed by US intelligence officials to be a Chinese spy. The stock opened significantly down from the previous close.",
-   "label": "ECONOMY",
-   "hook": "How will this investigation impact Nvidia's market position moving forward?",
-   "key_points": [
-    "Nvidia shares fell following the probe announcement.",
-    "The investigation involves CEO Jensen Huang.",
-    "US intelligence officials believe the woman is a Chinese spy."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Nvidia",
-    "#StockMarket",
-    "#BusinessNews"
-   ],
-   "sources": [
-    "Newsweek",
-    "The Hill"
-   ],
-   "link": "https://thehill.com/policy/technology/6207787-jensen-huang-affair-nvidia-stock-falls/",
-   "links": [
-    [
-     "The Hill",
-     "https://thehill.com/policy/technology/6207787-jensen-huang-affair-nvidia-stock-falls/"
-    ],
-    [
-     "Newsweek",
-     "https://www.newsweek.com/nvidia-spy-drama-sparks-stock-market-shock-12686252"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Jensen_Huang_%28cropped%29_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Photographer: Peter Dasilva / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Nvidia stock falls after company launches probe into Jensen Huang",
-    "people": [
-     "Jensen Huang"
-    ],
-    "image_query": "Wall Street stock exchange",
-    "image_queries": [
-     "stock market trading floor",
-     "financial district skyline",
-     "corporate office building",
-     "Nasdaq sign"
-    ],
-    "image_style": "person",
-    "location": "US"
-   },
-   "created_at": "2026-11-09T15:45:39.837689+00:00",
-   "news_time": "2026-11-09T14:41:13+00:00",
-   "news_latest": "2026-11-09T15:21:47+00:00",
-   "caption": "Nvidia stock falls after company launches probe into Jensen Huang\n\nShares in Nvidia declined after the company launched an investigation into CEO Jensen Huang regarding a reported affair with a woman believed by US intelligence officials to be a Chinese spy. The stock opened significantly down from the previous close.\n\n💬 How will this investigation impact Nvidia's market position moving forward?\n\n📖 Read more: https://thehill.com/policy/technology/6207787-jensen-huang-affair-nvidia-stock-falls/\n\n#Nvidia #StockMarket #BusinessNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 187,
-   "tg_file_id": "AgACAgUAAxkDAAO7avHqpcZ8QYkTca7lPqONX76VM2IAAu4Waxv_D5FXqY1Qkx_xM9gBAAMCAAN3AAM9BA",
-   "dup_ok": true,
-   "extra_msgs": [],
-   "queued_at": "2026-11-09T15:55:26.079986+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122096793075548584",
-   "posted_at": "2026-11-09T15:55:26.402221+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 09 · 10:55 AM New York · 9:25 PM Sri Lanka\n\n<b>Nvidia stock falls after company launches probe into Jensen Huang</b>\n<i>Newsweek, The Hill</i>\n🟢 <b>Latest:</b> 8:51 PM Sri Lanka (34 min ago) · first reported 8:11 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096793075548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 69,
-   "log_photo": true,
-   "cleared": true,
-   "fb_story_id": "2157126175681218"
-  },
   "d50feabe4b": {
    "id": "d50feabe4b",
    "headline": "Progressives launch Ready for AOC group for 2028 election",
@@ -21519,17 +21442,13 @@
    "05e6c9dbf6"
   ]
  ],
- "last_draft_at": "2026-11-13T15:30:44.329393+00:00",
+ "last_draft_at": "2026-11-13T15:45:46.110461+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T15:15:42.451509+00:00",
  "run_log": [
-  "11-13 13:15:47 run start",
-  "11-13 13:20:05 listening 7 min",
-  "11-13 13:27:13 listening done",
-  "11-13 13:27:13 run end after 685 s",
   "11-13 13:31:02 run start",
   "11-13 13:31:12 listening 11 min",
   "11-13 13:42:32 listening done",
@@ -21565,7 +21484,11 @@
   "11-13 15:30:43 run start",
   "11-13 15:30:53 listening 11 min",
   "11-13 15:42:14 listening done",
-  "11-13 15:42:14 run end after 690 s"
+  "11-13 15:42:14 run end after 690 s",
+  "11-13 15:45:45 run start",
+  "11-13 15:45:56 listening 11 min",
+  "11-13 15:57:17 listening done",
+  "11-13 15:57:17 run end after 691 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
