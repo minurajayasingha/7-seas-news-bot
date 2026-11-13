@@ -1,99 +1,6 @@
 {
  "tg_offset": 495893004,
  "drafts": {
-  "2923ddaee7": {
-   "id": "2923ddaee7",
-   "headline": "Pope Leo visits Argentina during Latin America tour",
-   "summary": "Pope Leo XIV arrived in Argentina for the second leg of his Latin America tour. During his visit, he addressed President Javier Milei and discussed economic matters and democracy.",
-   "label": "WORLD",
-   "hook": "How will Argentina's leadership respond to the Pope's remarks on the economy?",
-   "key_points": [
-    "Pope Leo arrived in Argentina on Sunday.",
-    "He spoke alongside President Javier Milei in Buenos Aires.",
-    "The trip marks the second leg of a Latin America tour."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#PopeLeo",
-    "#Argentina",
-    "#WorldNews"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "BBC",
-    "The Guardian",
-    "UPI"
-   ],
-   "link": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
-   "links": [
-    [
-     "BBC",
-     "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/video/newsfeed/2026/11/9/pope-tells-argentinas-milei-leaders-should-know-limits-of-power?traffic_source=rss"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity"
-    ],
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/World-News/2026/11/08/latam-argentina-vatican/6051794185556/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Buenos_Aires_Skyline_in_Color.jpg/1920px-Buenos_Aires_Skyline_in_Color.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Jimmy Baikovicius / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ],
-    "inset": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_06.jpg/1280px-Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "credit": "Diario de Madrid / Wikimedia Commons (CC BY 4.0)",
-     "short": "WIKIMEDIA COMMONS"
-    }
-   },
-   "img_post": {
-    "headline": "Pope Leo visits Argentina during Latin America tour",
-    "people": [
-     "Pope Leo XIV",
-     "Javier Milei"
-    ],
-    "image_query": "Buenos Aires city",
-    "image_queries": [
-     "Buenos Aires skyline",
-     "Plaza de Mayo Buenos Aires",
-     "Buenos Aires street",
-     "Argentina government building"
-    ],
-    "image_style": "scene",
-    "location": "Buenos Aires, Argentina"
-   },
-   "created_at": "2026-11-09T06:54:05.427086+00:00",
-   "news_time": "2026-11-09T01:08:52+00:00",
-   "news_latest": "2026-11-09T05:30:37+00:00",
-   "caption": "Pope Leo visits Argentina during Latin America tour\n\nPope Leo XIV arrived in Argentina for the second leg of his Latin America tour. During his visit, he addressed President Javier Milei and discussed economic matters and democracy.\n\n💬 How will Argentina's leadership respond to the Pope's remarks on the economy?\n\n📖 Read more: https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss\n\n#PopeLeo #Argentina #WorldNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 146,
-   "tg_file_id": "AgACAgUAAxkDAAOSavFuEZ7Sw57bhzciU30RCwgadRAAAjAWaxv_D4lX72Uxa6OaMa8BAAMCAAN3AAM9BA",
-   "dup_ok": true,
-   "extra_msgs": [],
-   "queued_at": "2026-11-09T06:54:45.954342+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122096481657548584",
-   "posted_at": "2026-11-09T06:54:46.241592+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 09 · 1:54 AM New York · 12:24 PM Sri Lanka\n\n<b>Pope Leo visits Argentina during Latin America tour</b>\n<i>Al Jazeera, BBC, The Guardian, UPI</i>\n🟡 <b>Latest:</b> 11:00 AM Sri Lanka (1h 24m ago) · first reported 6:38 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096481657548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 46,
-   "log_photo": true,
-   "cleared": true,
-   "fb_story_id": "1544329551050093"
-  },
   "fa3c2491f8": {
    "id": "fa3c2491f8",
    "headline": "Trump suggests Ukraine will have a different shape after war",
@@ -22387,17 +22294,13 @@
    "34002a08ad"
   ]
  ],
- "last_draft_at": "2026-11-13T06:30:47.771630+00:00",
+ "last_draft_at": "2026-11-13T06:45:34.873253+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T06:00:52.396866+00:00",
  "run_log": [
-  "11-13 04:16:03 run start",
-  "11-13 04:16:13 listening 11 min",
-  "11-13 04:27:32 listening done",
-  "11-13 04:27:32 run end after 689 s",
   "11-13 04:30:45 run start",
   "11-13 04:31:15 listening 11 min",
   "11-13 04:42:34 listening done",
@@ -22433,7 +22336,11 @@
   "11-13 06:30:47 run start",
   "11-13 06:30:58 listening 11 min",
   "11-13 06:42:18 listening done",
-  "11-13 06:42:18 run end after 691 s"
+  "11-13 06:42:18 run end after 691 s",
+  "11-13 06:45:34 run start",
+  "11-13 06:45:45 listening 11 min",
+  "11-13 06:57:03 listening done",
+  "11-13 06:57:03 run end after 689 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
