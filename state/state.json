@@ -18247,6 +18247,78 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122099937057548584_2656056624900230"
+  },
+  "5ac71e580a": {
+   "id": "5ac71e580a",
+   "headline": "Trump considers Cuba action and shifts Vice President focus",
+   "summary": "US President Trump calls Cuba a failed nation and hints at potential action before his term ends. The remarks follow an order for Vice President JD Vance to halt ceasefire negotiations with Tehran and investigate alleged fraud in Democratic-led states.",
+   "label": "US POLITICS",
+   "hook": "",
+   "key_points": [
+    "President Trump calls Cuba a failed nation.",
+    "Vice President JD Vance receives new investigation orders.",
+    "Ceasefire negotiations with Tehran are abandoned."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#USPolitics",
+    "#WorldNews",
+    "#Cuba"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "The Independent"
+   ],
+   "link": "https://www.aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office?traffic_source=rss"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/us-politics/trump-cuba-military-force-iran-war-b3084238.html"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Master Sgt. Michel Sauret / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Trump considers Cuba action and shifts Vice President focus",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "White House",
+    "image_queries": [
+     "US Capitol building",
+     "Oval Office",
+     "Havana skyline",
+     "State Department building"
+    ],
+    "image_style": "person",
+    "location": "Washington, DC, US",
+    "nearby_city": "Washington, DC",
+    "event_query": "Trump press conference",
+    "news_time": null,
+    "label": "US POLITICS"
+   },
+   "created_at": "2026-11-13T02:45:46.479100+00:00",
+   "news_time": "2026-11-13T01:36:57+00:00",
+   "news_latest": "2026-11-13T02:33:28+00:00",
+   "caption": "🚨 BREAKING: Trump considers Cuba action and shifts Vice President focus\n\nUS President Trump calls Cuba a failed nation and hints at potential action before his term ends. The remarks follow an order for Vice President JD Vance to halt ceasefire negotiations with Tehran and investigate alleged fraud in Democratic-led states.\n\nWhat we know so far:\n• President Trump calls Cuba a failed nation.\n• Vice President JD Vance receives new investigation orders.\n• Ceasefire negotiations with Tehran are abandoned.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #WorldNews #Cuba #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 455,
+   "tg_file_id": "AgACAgUAAxkDAAIBx2r2edxwOVTw_iza3vtXkIRgsSW5AAK1E2sbFv2wV1jedTJ1v8WTAQADAgADdwADPQQ",
+   "extra_msgs": [
+    456
+   ]
   }
  },
  "seen_links": [
@@ -19021,7 +19093,9 @@
   "https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo?at_medium=RSS&at_campaign=rss",
   "https://www.independent.co.uk/news/world/americas/crime/shooting-dc-gym-doctor-hoa-fight-b3084137.html",
   "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
-  "https://www.cbsnews.com/news/lutnick-nvidia-ai-chips-china/"
+  "https://www.cbsnews.com/news/lutnick-nvidia-ai-chips-china/",
+  "https://www.aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office?traffic_source=rss",
+  "https://www.independent.co.uk/news/world/americas/us-politics/trump-cuba-military-force-iran-war-b3084238.html"
  ],
  "recent_topics": [
   [
@@ -21918,19 +21992,32 @@
     "tougher"
    ],
    "39669d2d6e"
+  ],
+  [
+   "2026-11-13T02:45:49.040722+00:00",
+   [
+    "already",
+    "another",
+    "authority",
+    "cuba",
+    "eye",
+    "leav",
+    "moot",
+    "offic",
+    "toppl",
+    "trump",
+    "war"
+   ],
+   "5ac71e580a"
   ]
  ],
- "last_draft_at": "2026-11-13T02:30:51.020164+00:00",
+ "last_draft_at": "2026-11-13T02:45:34.173033+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 7,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T02:03:46.763272+00:00",
  "run_log": [
-  "11-13 00:27:04 run end after 689 s",
-  "11-13 00:31:04 run start",
-  "11-13 00:31:15 listening 11 min",
-  "11-13 00:42:35 listening done",
   "11-13 00:42:35 run end after 690 s",
   "11-13 00:45:48 run start",
   "11-13 00:45:58 listening 11 min",
@@ -21966,12 +22053,15 @@
   "11-13 02:30:50 run start",
   "11-13 02:30:59 listening 11 min",
   "11-13 02:42:17 listening done",
-  "11-13 02:42:17 run end after 686 s"
+  "11-13 02:42:17 run end after 686 s",
+  "11-13 02:45:33 run start",
+  "11-13 02:45:49 listening 11 min",
+  "11-13 02:57:07 listening done",
+  "11-13 02:57:07 run end after 693 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Gibran_Rakabuming_Raka%2C_Candidate_for_Indonesia%27s_Vice_President_in_2024.jpg/1280px-Gibran_Rakabuming_Raka%2C_Candidate_for_Indonesia%27s_Vice_President_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Florida_State_Capitol_-_US27_February_2015_%2844033650502%29.jpg/1920px-Florida_State_Capitol_-_US27_February_2015_%2844033650502%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Jim_Jordan_%2851769862077%29_%28cropped%29.jpg/1280px-Jim_Jordan_%2851769862077%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Jared_Kushner_%2848512574161%29.jpg/1280px-Jared_Kushner_%2848512574161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -22010,85 +22100,10 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Donald_Trump%2C_Jr._%2851327974240%29.jpg/1280px-Donald_Trump%2C_Jr._%2851327974240%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Cindy_Holscher_rally_in_Lawrence_KS_3.jpg/1280px-Cindy_Holscher_rally_in_Lawrence_KS_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://live.staticflickr.com/3069/2294317201_2163349b4a_b.jpg",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Howard_Lutnick_2025_%28cropped%29.jpg/1280px-Howard_Lutnick_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Howard_Lutnick_2025_%28cropped%29.jpg/1280px-Howard_Lutnick_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
-   "pete hegseth": {
-    "t": "2026-11-08T16:34:33.119660+00:00",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Pete_Hegseth_Official_Portrait.jpg/1280px-Pete_Hegseth_Official_Portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "U.S. Department of Defense / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Pete_Hegseth_%282025%29_%28cropped%29.jpg/1280px-Pete_Hegseth_%282025%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "U.S. Secretary of Defense / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Pete_Hegseth_%2852941918363%29.jpg/1280px-Pete_Hegseth_%2852941918363%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Pete_Hegseth_%2852941843030%29.jpg/1280px-Pete_Hegseth_%2852941843030%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/250718-A-KH072-1044_SecDef_Pete_Hegseth_Hosts_Israeli_Defense_Minister_Israel_Katz_at_The_Pentagon.jpg/1280px-250718-A-KH072-1044_SecDef_Pete_Hegseth_Hosts_Israeli_Defense_Minister_Israel_Katz_at_The_Pentagon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "U.S. Secretary of Defense / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Secretary_of_Defense_Pete_Hegseth_official_portrait_%28cropped%29.jpg/1280px-Secretary_of_Defense_Pete_Hegseth_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Chad McNeeley / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Pete_Hegseth_%2852941454126%29_%28cropped%29.jpg/1280px-Pete_Hegseth_%2852941454126%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/250718-A-KH072-1020_SecDef_Pete_Hegseth_Hosts_Israeli_Defense_Minister_Israel_Katz_at_The_Pentagon.jpg/1280px-250718-A-KH072-1020_SecDef_Pete_Hegseth_Hosts_Israeli_Defense_Minister_Israel_Katz_at_The_Pentagon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "U.S. Secretary of Defense / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Pete_Hegseth_%2851772585499%29.jpg/1280px-Pete_Hegseth_%2851772585499%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Pete_Hegseth_%2851772824725%29.jpg/1280px-Pete_Hegseth_%2851772824725%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Pete_Hegseth_%2852940857382%29.jpg/1280px-Pete_Hegseth_%2852940857382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Pete_Hegseth_%2852251945456%29.jpg/1280px-Pete_Hegseth_%2852251945456%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     }
-    ]
-   },
    "stephen miller": {
     "t": "2026-11-08T17:45:34.128519+00:00",
     "photos": [
@@ -25435,6 +25450,64 @@
       "credit": "Daniel Torok / Wikimedia Commons (CC BY 3.0)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": true
+     }
+    ]
+   },
+   "donald trump": {
+    "t": "2026-11-13T02:45:46.478977+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Daniel Torok / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Shealeah Craighead / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Shealeah Craighead / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/1280px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Daniel Torok / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Donald_Trump_at_Fort_Drum_2018_06.jpg/1280px-Donald_Trump_at_Fort_Drum_2018_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Army photo by Sgt. Thomas Scaggs / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Donald_Trump_takes_the_oath_of_office_%282025%29.jpg/1280px-Donald_Trump_takes_the_oath_of_office_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Joint Congressional Committee on Inaugural Ceremonies / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Donald_Trump_New_Hampshire_Town_Hall.jpg/1280px-Donald_Trump_New_Hampshire_Town_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Michael Vadon / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Donald_Trump_RNC_July_2016.jpg/1280px-Donald_Trump_RNC_July_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Ali Shaker/VOA / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Master Sgt. Michel Sauret / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
      }
     ]
    }
