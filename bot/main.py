@@ -2669,8 +2669,9 @@ def place_ok(text, countries):
     return not (named - countries)
 
 
-def _small(url, w=400):
-    """Small version of a Wikimedia thumbnail URL (for a quick quality check)."""
+def _small(url, w=500):
+    """Small version of a Wikimedia thumbnail URL (for a quick quality check).
+    Wikimedia only serves set widths now (250, 330, 500, 960, …); 400 gives an error."""
     return re.sub(r"/\d+px-", f"/{w}px-", url) if "/thumb/" in url else url
 
 
@@ -2678,6 +2679,8 @@ def photo_quality(url):
     """Score how good a photo looks: colourful, not too dark/bright, not black & white or sepia."""
     try:
         r = HTTP.get(_small(url), headers=WIKI_HEADERS, timeout=20)
+        if r.status_code != 200 and _small(url) != url:
+            r = HTTP.get(url, headers=WIKI_HEADERS, timeout=30)     # small size refused → check the full photo
         im = Image.open(io.BytesIO(r.content)).convert("RGB")
         im.thumbnail((240, 240))
         h, sat, val = im.convert("HSV").split()
@@ -2690,7 +2693,7 @@ def photo_quality(url):
         light = 1 - abs(v_mean - 135) / 135     # best around medium brightness
         return s_mean * 0.6 + h_std * 0.5 + light * 40
     except Exception:
-        return 0
+        return -1                               # couldn't check it = don't use it (an old photo slipped through)
 
 
 def wiki_search_photo(query, exclude=(), countries=(), avoid=(), need=()):
@@ -2731,7 +2734,9 @@ def wiki_search_photo(query, exclude=(), countries=(), avoid=(), need=()):
                     w in title for w in ("old ", "historic", "postcard", "vintage", "engraving", "painting",
                                          "drawing", "map", "lithograph", "sepia", "diagram", "logo", "flag of",
                                          " sign", "sign.", "closure", "chart", "graph", "screenshot", "poster",
-                                         "obama", "biden", "bush", "clinton", "reagan", "speech by", "meeting with")) \
+                                         "obama", "biden", "bush", "clinton", "reagan", "speech by", "meeting with",
+                                         "lccn", "bain news", "library of congress", "harris & ewing", "glass negative",
+                                         "black and white", "monochrome", "b&w")) \
                     or wrong_capitol(title, query) or has_any_word(re.sub(r"[^a-z]+", " ", title), avoid):
                 continue
             yr = re.search(r"(1[89]\d\d|20\d\d)", clean_html(meta.get("DateTimeOriginal", {}).get("value", "")))

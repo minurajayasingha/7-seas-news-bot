@@ -190,6 +190,12 @@ TOPIC_PHOTO_IDEAS = {
         "Port of Long Beach", "Port of Los Angeles", "container ship", "shipping containers, port",
         "New York Stock Exchange", "Wall Street, New York", "Marriner S. Eccles Federal Reserve Board Building",
         "Treasury Building, Washington", "factory assembly line", "Port of Savannah"],
+    ("execute", "execution", "death row", "death penalty", "inmate"): [
+        "federal courthouse, United States", "Supreme Court of the United States", "courthouse, United States",
+        "Robert F. Kennedy Department of Justice Building", "Texas State Capitol", "Oklahoma State Capitol"],
+    ("crypto", "bitcoin", "hacker", "hacking", "cyber", "scam", "fraud", "money laundering"): [
+        "J. Edgar Hoover Building", "Robert F. Kennedy Department of Justice Building", "data center servers",
+        "server room", "FBI headquarters, Washington", "Treasury Building, Washington"],
     ("immigra", "migrant", "border", "deport", "asylum"): [
         "Mexico-United States border", "border wall, Mexico United States", "San Ysidro Port of Entry",
         "Statue of Liberty", "Ellis Island", "Rio Grande, Texas", "border patrol, Texas", "US Customs and Border Protection"],

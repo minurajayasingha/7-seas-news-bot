@@ -83,6 +83,8 @@ optional PIXABAY_API_KEY / PEXELS_API_KEY / FLICKR_API_KEY. Never print or commi
 - Never use photos from news sites (copyright; credit is not permission). Wikimedia Commons / Flickr (free licences only:
   FLICKR_LICENSES = CC BY/BY-SA 2.0+4.0, CC0, PD, US Government Work, no known restrictions) / Pexels / Pixabay /
   user's own photos only.
+- photo_quality() checks every Commons/Openverse photo (colour, not B&W/sepia) on a 500 px preview (Wikimedia only
+  serves set widths: 250/330/500/960…); a photo that can't be checked is NOT used. Archive scans (LCCN, Bain News…) skipped.
 - Real event photos first: Gemini "event_query" → event_photo() = Flickr uploads since 1 day before the news, country-checked;
   Flickr is also tried first for scene ideas. Needs FLICKR_API_KEY (Flickr Pro only; not set → skipped).
 - USE_OPENVERSE: openverse_photo() (api.openverse.org, no key, ~15 s, often 504 → one retry; max 2 calls per story,
