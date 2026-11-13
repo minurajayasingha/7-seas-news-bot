@@ -17066,6 +17066,78 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122100716205548584_2361225801370137"
+  },
+  "09a77b01bd": {
+   "id": "09a77b01bd",
+   "headline": "Department of Homeland Security Secretary Mark Waye Mullin speaks at White House",
+   "summary": "Department of Homeland Security Secretary Mark Waye Mullin stated at the White House that there is no threat to the United States following an FAA ground stop. Officials are investigating a telecommunication outage at the FAA.",
+   "label": "US POLITICS",
+   "hook": "What caused the telecommunication outage at the FAA?",
+   "key_points": [
+    "The FAA issued a total ground stop.",
+    "Homeland Security Secretary Mullin says flying Americans are safe.",
+    "The Department of Homeland Security investigates the outage."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#DHS",
+    "#FAA",
+    "#USPolitics"
+   ],
+   "sources": [
+    "NPR",
+    "The Hill"
+   ],
+   "link": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-mark-waye-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
+   "links": [
+    [
+     "NPR",
+     "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-mark-waye-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/policy/transportation/6219936-mullin-faa-telecommunication-outage-ground-stop/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Federal_Aviation_Administration_-_Orville_Wright_Federal_Building_%2853830788072%29.jpg/1920px-Federal_Aviation_Administration_-_Orville_Wright_Federal_Building_%2853830788072%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "ajay_suresh / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Department of Homeland Security Secretary Mark Waye Mullin speaks at White House",
+    "people": [
+     "Mark Waye Mullin"
+    ],
+    "image_query": "White House exterior",
+    "image_queries": [
+     "Federal Aviation Administration building",
+     "commercial airplanes grounded",
+     "airport control tower",
+     "Department of Homeland Security seal"
+    ],
+    "image_style": "person",
+    "location": "Washington, DC, US",
+    "nearby_city": "Washington, DC",
+    "event_query": "White House press briefing",
+    "news_time": null,
+    "label": "US POLITICS"
+   },
+   "created_at": "2026-11-13T23:17:48.403218+00:00",
+   "news_time": "2026-11-13T22:27:18+00:00",
+   "news_latest": "2026-11-13T22:36:46+00:00",
+   "caption": "Department of Homeland Security Secretary Mark Waye Mullin speaks at White House\n\nDepartment of Homeland Security Secretary Mark Waye Mullin stated at the White House that there is no threat to the United States following an FAA ground stop. Officials are investigating a telecommunication outage at the FAA.\n\n💬 What caused the telecommunication outage at the FAA?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#DHS #FAA #USPolitics #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 523,
+   "tg_file_id": "AgACAgUAAxkDAAICC2r3mp9EgPPU2uwJtGgLrfBcC4jVAAJLFmsbFv24VyLryW84LJe8AQADAgADdwADPQQ",
+   "extra_msgs": [
+    524
+   ]
   }
  },
  "seen_links": [
@@ -17959,7 +18031,9 @@
   "https://www.washingtonpost.com/world/2026/11/13/ukraine-critic-injured-moscow-car-bombing-russia-says/",
   "https://kyivindependent.com/ukraine-war-latest-ex-pm-press-secretary-reportedly-injured-in-moscow-car-explosion/",
   "https://www.nbcnews.com/politics/politics-news/trump-administration-delays-medicaid-work-requirements-six-months-rcna609256",
-  "https://www.independent.co.uk/news/world/americas/medicaid-donald-trump-democrats-mehmet-oz-nebraska-b3084865.html"
+  "https://www.independent.co.uk/news/world/americas/medicaid-donald-trump-democrats-mehmet-oz-nebraska-b3084865.html",
+  "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-mark-waye-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
+  "https://thehill.com/policy/transportation/6219936-mullin-faa-telecommunication-outage-ground-stop/"
  ],
  "recent_topics": [
   [
@@ -20891,19 +20965,39 @@
     "work"
    ],
    "a6251d4469"
+  ],
+  [
+   "2026-11-13T23:17:51.491947+00:00",
+   [
+    "attack",
+    "caus",
+    "dhs",
+    "faa",
+    "ground",
+    "head",
+    "indication",
+    "investigat",
+    "mark",
+    "mullin",
+    "nefariou",
+    "outag",
+    "root",
+    "stop",
+    "telecom",
+    "ther",
+    "threat",
+    "way"
+   ],
+   "09a77b01bd"
   ]
  ],
- "last_draft_at": "2026-11-13T23:05:11.727122+00:00",
+ "last_draft_at": "2026-11-13T23:17:22.063794+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T22:28:13.168620+00:00",
  "run_log": [
-  "11-13 21:00:50 run start",
-  "11-13 21:02:21 listening 10 min",
-  "11-13 21:12:25 listening done",
-  "11-13 21:12:25 run end after 695 s",
   "11-13 21:15:44 run start",
   "11-13 21:16:58 listening 10 min",
   "11-13 21:27:27 listening done",
@@ -20939,12 +21033,15 @@
   "11-13 23:05:11 run start",
   "11-13 23:06:02 listening 11 min",
   "11-13 23:16:55 listening done",
-  "11-13 23:16:55 run end after 704 s"
+  "11-13 23:16:55 run end after 704 s",
+  "11-13 23:17:21 run start",
+  "11-13 23:17:51 listening 11 min",
+  "11-13 23:29:09 listening done",
+  "11-13 23:29:09 run end after 708 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Pope_Leo_XIV_childhood_home_3.jpg/1280px-Pope_Leo_XIV_childhood_home_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/f/f2/Scott_Colom_2_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Democratic_National_Committee_Headquarters_in_Washington%2C_D.C._02.jpg/1920px-Democratic_National_Committee_Headquarters_in_Washington%2C_D.C._02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Ceiling_of_a_shabestan_in_Fatima_Masumeh_Shrine%2C_qom%2C_iran%2C_2.jpg/1920px-Ceiling_of_a_shabestan_in_Fatima_Masumeh_Shrine%2C_qom%2C_iran%2C_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -20983,7 +21080,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/John_Brennan_2018.jpg/1280px-John_Brennan_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Government_Buildings%2C_Dublin%2C_Ireland.jpg/1920px-Government_Buildings%2C_Dublin%2C_Ireland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Moscow._Police_car%2C_Okhotny_Ryad-Mokhovaya.jpg/1920px-Moscow._Police_car%2C_Okhotny_Ryad-Mokhovaya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://live.staticflickr.com/3640/3547624867_2601ab85a7_b.jpg"
+   "https://live.staticflickr.com/3640/3547624867_2601ab85a7_b.jpg",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Federal_Aviation_Administration_-_Orville_Wright_Federal_Building_%2853830788072%29.jpg/1920px-Federal_Aviation_Administration_-_Orville_Wright_Federal_Building_%2853830788072%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "calley means": {
@@ -24260,7 +24358,6 @@
    }
   },
   "recent_ideas": [
-   "democratic national committee",
    "iran",
    "capitol hill",
    "denver city skyline",
@@ -24271,7 +24368,8 @@
    "software error screen",
    "airport control tower",
    "dublin, ireland",
-   "us capitol building"
+   "us capitol building",
+   "federal aviation administration building"
   ]
  },
  "comment_perm_told": true,
