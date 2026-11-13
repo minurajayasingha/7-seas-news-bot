@@ -21996,9 +21996,6 @@
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T01:00:51.761693+00:00",
  "run_log": [
-  "11-12 22:45:33 run start",
-  "11-12 22:46:46 listening 10 min",
-  "11-12 22:57:14 listening done",
   "11-12 22:57:14 run end after 700 s",
   "11-12 23:00:56 run start",
   "11-12 23:02:31 listening 10 min",
@@ -22035,7 +22032,10 @@
   "11-13 01:00:51 run start",
   "11-13 01:02:05 listening 10 min",
   "11-13 01:12:19 listening done",
-  "11-13 01:12:19 run end after 687 s"
+  "11-13 01:12:19 run end after 687 s",
+  "11-13 01:15:44 run start",
+  "11-13 01:16:44 run error: ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60)",
+  "11-13 01:17:45 run end after 120 s"
  ],
  "day_pack_done": "2026-11-11",
  "photo_memory": {
