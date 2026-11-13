@@ -1,85 +1,6 @@
 {
  "tg_offset": 495893020,
  "drafts": {
-  "203585998a": {
-   "id": "203585998a",
-   "headline": "House Democrats push to restore Afghan deportation protections in US",
-   "summary": "Democratic lawmakers plan to bypass Republican leaders and force a vote on Temporary Protected Status for Afghan nationals. Meanwhile, members of Congress outlined priorities for the new term, including affordability, healthcare, and ending the war with Iran.",
-   "label": "US POLITICS",
-   "hook": "Will Congress pass the discharge petition to restore protection for Afghan nationals?",
-   "key_points": [
-    "House Democrats introduced a discharge petition on Temporary Protected Status.",
-    "Lawmakers plan to tackle affordability, healthcare, and Iran policy."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#Congress",
-    "#AfghanNationals"
-   ],
-   "sources": [
-    "NBC News",
-    "Newsweek"
-   ],
-   "link": "https://www.newsweek.com/democrats-congress-priorities-after-midterm-wins-12690113",
-   "links": [
-    [
-     "Newsweek",
-     "https://www.newsweek.com/democrats-congress-priorities-after-midterm-wins-12690113"
-    ],
-    [
-     "NBC News",
-     "https://www.nbcnews.com/politics/immigration/democrats-afghans-temporary-protected-status-congress-trump-rcna608310"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Library_of_Congress_%2897970%29.jpg/1920px-Library_of_Congress_%2897970%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Rhododendrites / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "House Democrats push to restore Afghan deportation protections in US",
-    "people": [],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "House of Representatives chamber",
-     "Capitol Hill",
-     "Senate chamber",
-     "voting booth"
-    ],
-    "image_style": "scene",
-    "location": "US"
-   },
-   "created_at": "2026-11-09T20:45:46.876095+00:00",
-   "news_time": "2026-11-09T18:30:10+00:00",
-   "news_latest": "2026-11-09T20:43:35+00:00",
-   "caption": "House Democrats push to restore Afghan deportation protections in US\n\nDemocratic lawmakers plan to bypass Republican leaders and force a vote on Temporary Protected Status for Afghan nationals. Meanwhile, members of Congress outlined priorities for the new term, including affordability, healthcare, and ending the war with Iran.\n\n💬 Will Congress pass the discharge petition to restore protection for Afghan nationals?\n\n📖 Read more: https://www.newsweek.com/democrats-congress-priorities-after-midterm-wins-12690113\n\n#USPolitics #Congress #AfghanNationals #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 223,
-   "tg_file_id": "AgACAgUAAxkDAAPfavIw_Q-h7fn3b3VvtU7GZmvan-sAAhgWaxuLT5BXh3fMdAyE5fsBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-09T21:00:34.685182+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122096978523548584",
-   "posted_at": "2026-11-09T21:00:35.000853+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 09 · 4:01 PM New York · 2:31 AM Sri Lanka\n\n<b>House Democrats push to restore Afghan deportation protections in US</b>\n<i>NBC News, Newsweek</i>\n🟢 <b>Latest:</b> 2:13 AM Sri Lanka (17 min ago) · first reported 12:00 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096978523548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 92,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "1338327258314648",
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-12T20:00:49.207593+00:00"
-  },
   "4e837cdb83": {
    "id": "4e837cdb83",
    "headline": "Supreme Court Considers Limits on Inmates Suing Officials",
@@ -18311,21 +18232,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-10T20:45:41.547634+00:00",
-   [
-    "back",
-    "congress",
-    "democratic",
-    "leader",
-    "sander",
-    "schumer",
-    "senat",
-    "slotkin",
-    "won't"
-   ],
-   "665273818f"
-  ],
-  [
    "2026-11-10T21:01:06.609925+00:00",
    [
     "beat",
@@ -21211,17 +21117,13 @@
    "964a05aa78"
   ]
  ],
- "last_draft_at": "2026-11-13T20:32:15.206889+00:00",
+ "last_draft_at": "2026-11-13T20:45:49.303923+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T20:30:52.787719+00:00",
  "run_log": [
-  "11-13 18:15:34 run start",
-  "11-13 18:17:34 listening 10 min",
-  "11-13 18:27:12 listening done",
-  "11-13 18:27:12 run end after 697 s",
   "11-13 18:30:43 run start",
   "11-13 18:32:39 listening 10 min",
   "11-13 18:42:19 listening done",
@@ -21257,7 +21159,11 @@
   "11-13 20:30:52 run start",
   "11-13 20:34:45 listening 8 min",
   "11-13 20:42:17 listening done",
-  "11-13 20:42:17 run end after 685 s"
+  "11-13 20:42:17 run end after 685 s",
+  "11-13 20:45:48 run start",
+  "11-13 20:45:57 listening 11 min",
+  "11-13 20:57:16 listening done",
+  "11-13 20:57:16 run end after 687 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
