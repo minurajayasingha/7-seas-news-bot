@@ -1,218 +1,6 @@
 {
  "tg_offset": 495893015,
  "drafts": {
-  "dc2a7a33c9": {
-   "id": "dc2a7a33c9",
-   "headline": "France accuses Iran of cyberattack on supermarket fridges",
-   "summary": "French officials stated that Iran's Revolutionary Guards launched a cyber-attack that heated up fridges and freezers across supermarkets in France. The Paris prosecutor's office opened an investigation into an Iranian cyber unit connected to the Guards.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "Fridges and freezers heated up in hundreds of supermarkets",
-    "French Foreign Minister accused Iran's Revolutionary Guards",
-    "Paris prosecutor opened an investigation into the incident"
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#France",
-    "#Iran",
-    "#CyberSecurity"
-   ],
-   "sources": [
-    "BBC",
-    "France 24"
-   ],
-   "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-   "links": [
-    [
-     "BBC",
-     "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/europe/20261109-iran-revolutionary-guards-behind-cyberattacks-on-supermarket-fridges-says-french-fm-barrot"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "tg_file_id": "AgACAgUAAxkBAAPGavH9Mj8LEJMlRU421Yb_UckODAsAAt4VaxuLT5BXoi8eA4AlK58BAAMCAAN5AAM9BA",
-      "credit": ""
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "France accuses Iran of cyberattack on supermarket fridges",
-    "people": [],
-    "image_query": "Paris cityscape",
-    "image_queries": [
-     "supermarket interior",
-     "refrigerator aisle",
-     "Paris prosecutor office",
-     "French ministry building"
-    ],
-    "image_style": "incident",
-    "location": "France"
-   },
-   "created_at": "2026-11-09T17:04:50.743756+00:00",
-   "news_time": "2026-11-09T16:42:07+00:00",
-   "news_latest": "2026-11-09T16:42:39+00:00",
-   "caption": "🚨 BREAKING: France accuses Iran of cyberattack on supermarket fridges\n\nFrench officials stated that Iran's Revolutionary Guards launched a cyber-attack that heated up fridges and freezers across supermarkets in France. The Paris prosecutor's office opened an investigation into an Iranian cyber unit connected to the Guards.\n\nWhat we know so far:\n• Fridges and freezers heated up in hundreds of supermarkets\n• French Foreign Minister accused Iran's Revolutionary Guards\n• Paris prosecutor opened an investigation into the incident\n\n📖 Read more: https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss\n\n#France #Iran #CyberSecurity #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 199,
-   "tg_file_id": "AgACAgUAAxkDAAPHavH9NqxBgLCetcaq0IZFc8YjVsUAAt8VaxuLT5BXVdUPLMfwmt4BAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-09T17:04:56.640038+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122096842905548584",
-   "posted_at": "2026-11-09T17:04:56.960784+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 09 · 12:05 PM New York · 10:35 PM Sri Lanka\n\n<b>France accuses Iran of cyberattack on supermarket fridges</b>\n<i>BBC, France 24</i>\n🟢 <b>Latest:</b> 10:12 PM Sri Lanka (22 min ago)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096842905548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 75,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "1151082287858354"
-  },
-  "9f5bb90c68": {
-   "id": "9f5bb90c68",
-   "headline": "Two arrests after vehicle crashes near White House",
-   "summary": "Two people were arrested after a vehicle crashed near the White House on Monday morning. Secret Service Police and National Guard personnel responded to the incident.",
-   "label": "US POLITICS",
-   "hook": "",
-   "key_points": [
-    "Vehicle crashed on sidewalk near White House",
-    "Two people arrested by authorities",
-    "Secret Service investigating the incidents"
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#WhiteHouse",
-    "#SecretService",
-    "#WashingtonDC"
-   ],
-   "sources": [
-    "Fox News",
-    "Sky News",
-    "Washington Examiner"
-   ],
-   "link": "https://www.washingtonexaminer.com/news/crime/4797145/two-people-arrested-vehicle-crash-white-house/",
-   "links": [
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/news/crime/4797145/two-people-arrested-vehicle-crash-white-house/"
-    ],
-    [
-     "Fox News",
-     "https://www.foxnews.com/politics/man-arrested-outside-white-house-after-crashing-vehicle-lafayette-square-park"
-    ],
-    [
-     "Sky News",
-     "https://news.sky.com/story/arrests-after-car-crash-near-white-house-and-person-tries-to-jump-barricade-13610300"
-    ]
-   ],
-   "bg": {
-    "type": "incident",
-    "photos": [],
-    "location": "Washington, D.C., US"
-   },
-   "img_post": {
-    "headline": "Two arrests after vehicle crashes near White House",
-    "people": [],
-    "image_query": "White House",
-    "image_queries": [
-     "Lafayette Park",
-     "Secret Service vehicle",
-     "Washington D.C. street",
-     "security barrier"
-    ],
-    "image_style": "incident",
-    "location": "Washington, D.C., US"
-   },
-   "created_at": "2026-11-09T17:09:11.102606+00:00",
-   "news_time": "2026-11-09T15:57:00+00:00",
-   "news_latest": "2026-11-09T16:57:45+00:00",
-   "caption": "🚨 BREAKING: Two arrests after vehicle crashes near White House\n\nTwo people were arrested after a vehicle crashed near the White House on Monday morning. Secret Service Police and National Guard personnel responded to the incident.\n\nWhat we know so far:\n• Vehicle crashed on sidewalk near White House\n• Two people arrested by authorities\n• Secret Service investigating the incidents\n\n📖 Read more: https://www.washingtonexaminer.com/news/crime/4797145/two-people-arrested-vehicle-crash-white-house/\n\n#WhiteHouse #SecretService #WashingtonDC #7SeasNews",
-   "status": "replaced",
-   "tg_message_id": 201,
-   "tg_file_id": "AgACAgUAAxkDAAPJavH-OK-PHjA7HhIUfsfx5oSW6sUAAusVaxuLT5BX0qlxspT-dOYBAAMCAAN3AAM9BA",
-   "extra_msgs": [],
-   "cleared": true
-  },
-  "1dd82de0be": {
-   "id": "1dd82de0be",
-   "headline": "Freedom Caucus urges Mike Johnson to pass eight priorities",
-   "summary": "The conservative House Freedom Caucus sent a letter to congressional leadership outlining eight legislative priorities. The group is pressing for action during the lame-duck session before Democrats assume control of Congress.",
-   "label": "US POLITICS",
-   "hook": "Should Congress pass these legislative priorities during the lame-duck session?",
-   "key_points": [
-    "Letter sent to Mike Johnson and John Thune",
-    "Caucus outlines eight legislative priorities",
-    "Demands include a third reconciliation bill"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#FreedomCaucus",
-    "#USCongress",
-    "#MikeJohnson"
-   ],
-   "sources": [
-    "The Hill",
-    "Washington Examiner"
-   ],
-   "link": "https://www.washingtonexaminer.com/news/house/4797193/freedom-caucus-outlines-eight-priorities-during-lame-duck-session/",
-   "links": [
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/news/house/4797193/freedom-caucus-outlines-eight-priorities-during-lame-duck-session/"
-    ],
-    [
-     "The Hill",
-     "https://thehill.com/homenews/house/6208185-gop-urges-legislative-push-before-democrats/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/House_of_Representatives_Chamber%2C_Idaho_State_Capitol.jpg/1920px-House_of_Representatives_Chamber%2C_Idaho_State_Capitol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Frank Schulenburg / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Freedom Caucus urges Mike Johnson to pass eight priorities",
-    "people": [],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "Senate chamber",
-     "House of Representatives chamber",
-     "Capitol Hill",
-     "legislative voting hall"
-    ],
-    "image_style": "scene",
-    "location": "US"
-   },
-   "created_at": "2026-11-09T17:09:16.782421+00:00",
-   "news_time": "2026-11-09T16:09:11+00:00",
-   "news_latest": "2026-11-09T17:06:06+00:00",
-   "caption": "Freedom Caucus urges Mike Johnson to pass eight priorities\n\nThe conservative House Freedom Caucus sent a letter to congressional leadership outlining eight legislative priorities. The group is pressing for action during the lame-duck session before Democrats assume control of Congress.\n\n💬 Should Congress pass these legislative priorities during the lame-duck session?\n\n📖 Read more: https://www.washingtonexaminer.com/news/house/4797193/freedom-caucus-outlines-eight-priorities-during-lame-duck-session/\n\n#FreedomCaucus #USCongress #MikeJohnson #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 202,
-   "tg_file_id": "AgACAgUAAxkDAAPKavH-PaLyY8qkm_6FpzusUK8TDuYAAuwVaxuLT5BX2NjsMbf1mmEBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-09T17:09:25.736716+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122096846283548584",
-   "posted_at": "2026-11-09T17:09:26.018340+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 09 · 12:09 PM New York · 10:39 PM Sri Lanka\n\n<b>Freedom Caucus urges Mike Johnson to pass eight priorities</b>\n<i>The Hill, Washington Examiner</i>\n🟢 <b>Latest:</b> 10:36 PM Sri Lanka (3 min ago) · first reported 9:39 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096846283548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 78,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "994546533080632"
-  },
   "bcc5e75790": {
    "id": "bcc5e75790",
    "headline": "Two arrests after vehicle crashes near White House",
@@ -21010,17 +20798,13 @@
    "0787c3f68b"
   ]
  ],
- "last_draft_at": "2026-11-13T16:46:14.313242+00:00",
+ "last_draft_at": "2026-11-13T16:58:20.531461+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T16:15:56.036797+00:00",
  "run_log": [
-  "11-13 14:30:40 run start",
-  "11-13 14:31:10 listening 11 min",
-  "11-13 14:42:28 listening done",
-  "11-13 14:42:28 run end after 708 s",
   "11-13 14:46:02 run start",
   "11-13 14:47:01 listening 11 min",
   "11-13 14:57:29 listening done",
@@ -21056,7 +20840,11 @@
   "11-13 16:46:13 run start",
   "11-13 16:46:24 listening 11 min",
   "11-13 16:57:44 listening done",
-  "11-13 16:57:44 run end after 690 s"
+  "11-13 16:57:44 run end after 690 s",
+  "11-13 16:58:20 run start",
+  "11-13 16:58:30 listening 11 min",
+  "11-13 17:09:50 listening done",
+  "11-13 17:09:50 run end after 690 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
