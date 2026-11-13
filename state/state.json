@@ -1,85 +1,6 @@
 {
  "tg_offset": 495893009,
  "drafts": {
-  "c28eab1894": {
-   "id": "c28eab1894",
-   "headline": "Senate Republicans blame Donald Trump following big congressional election losses",
-   "summary": "Senate Republicans returning to the Capitol are angry with President Trump over major losses in House and Senate races. Meanwhile, House Republicans return with limited time left in power before Democrats take control.",
-   "label": "ELECTIONS",
-   "hook": "Will Senate Republicans pivot away from President Trump ahead of the 2028 presidential election?",
-   "key_points": [
-    "Senate Republicans blame Donald Trump for recent election losses.",
-    "House Republicans return to the Capitol with limited time left.",
-    "Musk spent over $442 million boosting Republicans in the midterms."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#Congress",
-    "#Elections"
-   ],
-   "sources": [
-    "The Hill",
-    "Washington Examiner"
-   ],
-   "link": "https://thehill.com/homenews/senate/6206790-senate-gop-blames-trump-losses/",
-   "links": [
-    [
-     "The Hill",
-     "https://thehill.com/homenews/senate/6206790-senate-gop-blames-trump-losses/"
-    ],
-    [
-     "The Hill",
-     "https://thehill.com/policy/technology/6205126-texas-election-blue-wave-impact/"
-    ],
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/news/house/4795928/house-republicans-return-limited-time-left-in-power/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Library_of_Congress_%2897917%29.jpg/1920px-Library_of_Congress_%2897917%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Rhododendrites / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Senate Republicans blame Donald Trump following big congressional election losses",
-    "people": [],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "Senate chamber",
-     "Capitol Hill",
-     "House of Representatives chamber",
-     "US Capitol dome"
-    ],
-    "image_style": "scene",
-    "location": "Washington, US"
-   },
-   "created_at": "2026-11-09T11:30:36.315697+00:00",
-   "news_time": "2026-11-09T11:00:00+00:00",
-   "news_latest": "2026-11-09T11:01:41+00:00",
-   "caption": "Senate Republicans blame Donald Trump following big congressional election losses\n\nSenate Republicans returning to the Capitol are angry with President Trump over major losses in House and Senate races. Meanwhile, House Republicans return with limited time left in power before Democrats take control.\n\n💬 Will Senate Republicans pivot away from President Trump ahead of the 2028 presidential election?\n\n📖 Read more: https://thehill.com/homenews/senate/6206790-senate-gop-blames-trump-losses/\n\n#USPolitics #Congress #Elections #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 157,
-   "tg_file_id": "AgACAgUAAxkDAAOdavGu3hrLEnZlZ929hEbY-Kni1IYAAj0Waxv_D5FXvV8DKECIOjgBAAMCAAN3AAM9BA",
-   "dup_ok": true,
-   "extra_msgs": [],
-   "queued_at": "2026-11-09T12:24:38.816923+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122096662101548584",
-   "posted_at": "2026-11-09T12:24:39.533491+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 09 · 7:24 AM New York · 5:54 PM Sri Lanka\n\n<b>Senate Republicans blame Donald Trump following big congressional election losses</b>\n<i>The Hill, Washington Examiner</i>\n🟡 <b>Latest:</b> 4:31 PM Sri Lanka (1h 23m ago) · first reported 4:30 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122096662101548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 53,
-   "log_photo": true,
-   "cleared": true,
-   "fb_story_id": "1668952901267194"
-  },
   "bb11b4cdb5": {
    "id": "bb11b4cdb5",
    "headline": "Stephen Miller takes over as President Trump's chief of staff",
@@ -22230,17 +22151,13 @@
    "ea51dc48e4"
   ]
  ],
- "last_draft_at": "2026-11-13T11:16:40.398467+00:00",
+ "last_draft_at": "2026-11-13T11:30:50.447131+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T11:15:53.714228+00:00",
  "run_log": [
-  "11-13 09:07:58 run start",
-  "11-13 09:09:16 listening 10 min",
-  "11-13 09:19:44 listening done",
-  "11-13 09:19:44 run end after 705 s",
   "11-13 09:20:45 run start",
   "11-13 09:20:56 listening 11 min",
   "11-13 09:32:17 listening done",
@@ -22276,7 +22193,11 @@
   "11-13 11:15:35 run start",
   "11-13 11:16:50 listening 10 min",
   "11-13 11:27:19 listening done",
-  "11-13 11:27:19 run end after 703 s"
+  "11-13 11:27:19 run end after 703 s",
+  "11-13 11:30:50 run start",
+  "11-13 11:31:00 listening 11 min",
+  "11-13 11:42:20 listening done",
+  "11-13 11:42:20 run end after 690 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
