@@ -1,5 +1,5 @@
 {
- "tg_offset": 495893027,
+ "tg_offset": 495893035,
  "drafts": {
   "455871c5df": {
    "id": "455871c5df",
@@ -15656,12 +15656,23 @@
    "news_time": "2026-11-14T16:02:25+00:00",
    "news_latest": "2026-11-14T17:21:26+00:00",
    "caption": "Elon Musk says Nvidia loses critical deals after Jensen Huang exit\n\nUS government agencies disagree on handling the fallout after Jensen Huang leaves chips giant Nvidia following reports of extramarital affairs. Meanwhile, Elon Musk states that the company will lose critical deals without Huang.\n\n💬 Will Nvidia struggle to secure future deals without Jensen Huang?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Nvidia #JensenHuang #ElonMusk #7SeasNews",
-   "status": "pending",
+   "status": "posted",
    "tg_message_id": 552,
    "tg_file_id": "AgACAgUAAxkDAAICKGr4muai1AIkjlNab0MaTTR8rJazAAJqFGsbT5fJV0TNFt8g_yGCAQADAgADdwADPQQ",
-   "extra_msgs": [
-    553
-   ]
+   "extra_msgs": [],
+   "dup_ok": true,
+   "queued_at": "2026-11-14T18:11:13.656628+00:00",
+   "post_now": true,
+   "post_at": "2026-11-14T18:11:13.656640+00:00",
+   "post_label": "🚀 Posting now",
+   "fb_post_id": "1413030521900096_122101453455548584",
+   "posted_at": "2026-11-14T18:11:13.947196+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 14 · 1:11 PM New York · 11:41 PM Sri Lanka\n\n<b>Elon Musk says Nvidia loses critical deals after Jensen Huang exit</b>\n<i>France 24, The Hill</i>\n🟢 <b>Latest:</b> 10:51 PM Sri Lanka (49 min ago) · first reported 9:32 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122101453455548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 364,
+   "log_photo": true,
+   "cleared": true,
+   "fb_comment_id": "122101453455548584_1624584372775338"
   }
  },
  "seen_links": [
@@ -19406,17 +19417,13 @@
    "3fd0b8f781"
   ]
  ],
- "last_draft_at": "2026-11-14T17:46:28.295615+00:00",
+ "last_draft_at": "2026-11-14T18:00:50.655497+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-14T17:45:41.155561+00:00",
  "run_log": [
-  "11-14 15:46:08 run start",
-  "11-14 15:46:09 listening 11 min",
-  "11-14 15:57:55 listening done",
-  "11-14 15:57:55 run end after 706 s",
   "11-14 16:00:02 run start",
   "11-14 16:01:14 listening 10 min",
   "11-14 16:11:42 listening done",
@@ -19452,7 +19459,11 @@
   "11-14 17:45:40 run start",
   "11-14 17:46:37 listening 11 min",
   "11-14 17:57:30 listening done",
-  "11-14 17:57:30 run end after 710 s"
+  "11-14 17:57:30 run end after 710 s",
+  "11-14 18:00:50 run start",
+  "11-14 18:01:01 listening 11 min",
+  "11-14 18:12:19 listening done",
+  "11-14 18:12:19 run end after 689 s"
  ],
  "day_pack_done": "2026-11-13",
  "photo_memory": {
@@ -22833,7 +22844,7 @@
   "2026-11-14": 13
  },
  "last_auto_at": "2026-11-14T17:16:34.774665+00:00",
- "last_post_at": "2026-11-14T17:16:55.046112+00:00",
+ "last_post_at": "2026-11-14T18:11:19.044454+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
