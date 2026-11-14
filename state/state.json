@@ -15979,46 +15979,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-11T23:01:07.063936+00:00",
-   [
-    "claim",
-    "enemy",
-    "escalat",
-    "ghalibaf",
-    "hormuz",
-    "iran",
-    "island",
-    "military",
-    "never",
-    "omani",
-    "ops",
-    "pre-war",
-    "return",
-    "statu",
-    "strait",
-    "strik",
-    "use"
-   ],
-   "dd8c859655"
-  ],
-  [
-   "2026-11-11T23:01:12.021011+00:00",
-   [
-    "brooklyn",
-    "build",
-    "city",
-    "collaps",
-    "dead",
-    "leav",
-    "partial",
-    "peopl",
-    "rubbl",
-    "trapp",
-    "york"
-   ],
-   "d45f5210c1"
-  ],
-  [
    "2026-11-11T23:15:36.065071+00:00",
    [
     "bid",
@@ -18661,17 +18621,13 @@
    "25b47eac9f"
   ]
  ],
- "last_draft_at": "2026-11-14T22:46:42.400084+00:00",
+ "last_draft_at": "2026-11-14T23:00:44.201136+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-14T22:45:47.064802+00:00",
  "run_log": [
-  "11-14 20:43:34 run start",
-  "11-14 20:44:42 listening 10 min",
-  "11-14 20:55:12 listening done",
-  "11-14 20:55:12 run end after 697 s",
   "11-14 20:56:04 run start",
   "11-14 20:56:05 listening 11 min",
   "11-14 21:07:51 listening done",
@@ -18707,7 +18663,11 @@
   "11-14 22:45:46 run start",
   "11-14 22:46:51 listening 10 min",
   "11-14 22:57:21 listening done",
-  "11-14 22:57:21 run end after 694 s"
+  "11-14 22:57:21 run end after 694 s",
+  "11-14 23:00:43 run start",
+  "11-14 23:00:54 listening 11 min",
+  "11-14 23:12:12 listening done",
+  "11-14 23:12:12 run end after 688 s"
  ],
  "day_pack_done": "2026-11-13",
  "photo_memory": {
