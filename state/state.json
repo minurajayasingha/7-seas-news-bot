@@ -1,93 +1,6 @@
 {
  "tg_offset": 495893035,
  "drafts": {
-  "2f96ce7c0d": {
-   "id": "2f96ce7c0d",
-   "headline": "Cornyn meets Talarico following Senate contest victory",
-   "summary": "Sen. John Cornyn and Sen.-elect James Talarico met on Capitol Hill following the election. Cornyn stated he would assist Talarico during the transition period.",
-   "label": "US POLITICS",
-   "hook": "How will Talarico navigate representing a red state as a Democrat?",
-   "key_points": [
-    "Cornyn and Talarico met on Capitol Hill.",
-    "Cornyn offered transition assistance.",
-    "Talarico won a Senate contest against Ken Paxton."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#Senate",
-    "#Texas"
-   ],
-   "sources": [
-    "Fox News",
-    "The Hill"
-   ],
-   "link": "https://thehill.com/the-120/6212040-cornyn-talarico-senate-transition/",
-   "links": [
-    [
-     "The Hill",
-     "https://thehill.com/the-120/6212040-cornyn-talarico-senate-transition/"
-    ],
-    [
-     "Fox News",
-     "https://www.foxnews.com/politics/cornyn-meets-sen-elect-talarico-describes-him-basically-good-person"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/John_Cornyn_official_portrait.jpg/1280px-John_Cornyn_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Unknown author Unknown author / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/James_Talarico_Press_Conference_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Antonioaesparza / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Cornyn meets Talarico following Senate contest victory",
-    "people": [
-     "John Cornyn",
-     "James Talarico"
-    ],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "Senate chamber",
-     "Capitol Hill",
-     "Texas State Capitol",
-     "US Senate"
-    ],
-    "image_style": "scene",
-    "location": "Washington, D.C., US"
-   },
-   "created_at": "2026-11-10T22:09:27.180676+00:00",
-   "news_time": "2026-11-10T16:37:49+00:00",
-   "news_latest": "2026-11-10T22:07:12+00:00",
-   "caption": "Cornyn meets Talarico following Senate contest victory\n\nSen. John Cornyn and Sen.-elect James Talarico met on Capitol Hill following the election. Cornyn stated he would assist Talarico during the transition period.\n\n💬 How will Talarico navigate representing a red state as a Democrat?\n\n📖 Read more: https://thehill.com/the-120/6212040-cornyn-talarico-senate-transition/\n\n#USPolitics #Senate #Texas #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 308,
-   "tg_file_id": "AgACAgUAAxkDAAIBNGrzlhnSBwQaXsHiMJ25XzqUryPKAAJLEWsbi0-gV1czrljlZcaAAQADAgADdwADPQQ",
-   "queued_at": "2026-11-11T03:17:45.965941+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122098135011548584",
-   "posted_at": "2026-11-11T03:17:46.299461+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 10 · 10:17 PM New York · 8:47 AM Sri Lanka\n\n<b>Cornyn meets Talarico following Senate contest victory</b>\n<i>Fox News, The Hill</i>\n🔴 <b>Latest:</b> 3:37 AM Sri Lanka (5h 10m ago) · first reported 10:07 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098135011548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 152,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-14T02:30:49.615489+00:00"
-  },
   "e61ff03e9d": {
    "id": "e61ff03e9d",
    "headline": "US poll: Death penalty loses majority support since 1971",
@@ -16127,25 +16040,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-11T22:01:20.607507+00:00",
-   [
-    "chri",
-    "hollen",
-    "instead",
-    "leader",
-    "majority",
-    "progressiv",
-    "push",
-    "run",
-    "sander",
-    "schumer",
-    "senator",
-    "support",
-    "van"
-   ],
-   "585d196ff8"
-  ],
-  [
    "2026-11-11T22:45:42.462031+00:00",
    [
     "administration",
@@ -18831,17 +18725,13 @@
    "a34f168e06"
   ]
  ],
- "last_draft_at": "2026-11-14T21:46:46.579447+00:00",
+ "last_draft_at": "2026-11-14T22:00:54.697540+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-14T21:45:43.295058+00:00",
  "run_log": [
-  "11-14 19:45:38 run start",
-  "11-14 19:46:24 listening 11 min",
-  "11-14 19:57:18 listening done",
-  "11-14 19:57:18 run end after 700 s",
   "11-14 20:01:10 run start",
   "11-14 20:01:11 listening 11 min",
   "11-14 20:12:55 listening done",
@@ -18877,7 +18767,11 @@
   "11-14 21:45:42 run start",
   "11-14 21:46:56 listening 10 min",
   "11-14 21:57:27 listening done",
-  "11-14 21:57:27 run end after 704 s"
+  "11-14 21:57:27 run end after 704 s",
+  "11-14 22:00:54 run start",
+  "11-14 22:01:04 listening 11 min",
+  "11-14 22:12:24 listening done",
+  "11-14 22:12:24 run end after 689 s"
  ],
  "day_pack_done": "2026-11-13",
  "photo_memory": {
