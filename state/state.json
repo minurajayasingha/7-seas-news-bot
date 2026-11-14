@@ -16407,6 +16407,91 @@
     "shares": 0
    },
    "stats_at": "2026-11-14T09:27:27.106722+00:00"
+  },
+  "86dd73c14b": {
+   "id": "86dd73c14b",
+   "headline": "Josh Shapiro states plans for minimum wage and abortion rights",
+   "summary": "Josh Shapiro states plans to more than double the minimum wage in Pennsylvania and codify abortion rights following Democratic midterm wins. Meanwhile, a migrant caravan of over a thousand people travels toward the United States border from southern Mexico.",
+   "label": "US POLITICS",
+   "hook": "Should minimum wage hikes be paired with codifying abortion rights?",
+   "key_points": [
+    "Josh Shapiro announced minimum wage and abortion rights plans.",
+    "A migrant caravan heads to the US from Mexico.",
+    "The events follow Democratic midterm election wins."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Pennsylvania",
+    "#Elections"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "Fox News"
+   ],
+   "link": "https://www.foxnews.com/politics/democrats-seize-midterm-wins-push-massive-minimum-wage-hikes-economists-see-trouble-ahead",
+   "links": [
+    [
+     "Fox News",
+     "https://www.foxnews.com/politics/democrats-seize-midterm-wins-push-massive-minimum-wage-hikes-economists-see-trouble-ahead"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Josh_Shapiro_in_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Governor Tom Wolf from Harrisburg, PA / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Josh Shapiro states plans for minimum wage and abortion rights",
+    "people": [
+     "Josh Shapiro"
+    ],
+    "image_query": "Pennsylvania State Capitol",
+    "image_queries": [
+     "US Capitol building",
+     "voting booth",
+     "southern Mexico border",
+     "state legislature chamber"
+    ],
+    "image_style": "person",
+    "location": "Pennsylvania, US",
+    "nearby_city": "Philadelphia, Pennsylvania",
+    "event_query": "Pennsylvania midterm election press conference",
+    "news_time": null,
+    "label": "US POLITICS"
+   },
+   "created_at": "2026-11-14T10:16:20.239177+00:00",
+   "news_time": "2026-11-14T09:43:54+00:00",
+   "news_latest": "2026-11-14T10:00:15+00:00",
+   "caption": "Josh Shapiro states plans for minimum wage and abortion rights\n\nJosh Shapiro states plans to more than double the minimum wage in Pennsylvania and codify abortion rights following Democratic midterm wins. Meanwhile, a migrant caravan of over a thousand people travels toward the United States border from southern Mexico.\n\n💬 Should minimum wage hikes be paired with codifying abortion rights?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Pennsylvania #Elections #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 533,
+   "tg_file_id": "AgACAgUAAxkDAAICFWr4NPWbGHWv-5_vrvy2MvJfjQQwAAI6E2sbT5fJV9ZXfb6B5ZJ7AQADAgADdwADPQQ",
+   "queued_at": "2026-11-14T10:16:22.195999+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-14T10:16:22.196027+00:00",
+   "post_label": "🤖 Auto-posting + Reel",
+   "fb_post_id": "1413030521900096_122101116639548584",
+   "posted_at": "2026-11-14T10:16:22.490783+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 14 · 5:16 AM New York · 3:46 PM Sri Lanka\n\n<b>Josh Shapiro states plans for minimum wage and abortion rights</b>\n<i>Al Jazeera, Fox News</i>\n🟢 <b>Latest:</b> 3:30 PM Sri Lanka (16 min ago) · first reported 3:13 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122101116639548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 342,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122101116639548584_1194444906481571",
+   "fb_reel_id": "29283540651265812",
+   "reel_status": "live"
   }
  },
  "seen_links": [
@@ -17313,27 +17398,11 @@
   "https://www.nbcnews.com/politics/trump-administration/rubio-urges-conservatives-uplift-ideology-brushes-republicans-midterm-rcna609284",
   "https://www.washingtonexaminer.com/news/white-house/4803550/rubio-buoys-conservative-spirits-federalist-society-speech/",
   "https://www.washingtonexaminer.com/policy/healthcare/4803790/us-loses-measles-elimination-status/",
-  "https://thehill.com/newsletters/healthcare/6220185-u-s-poised-to-lose-measles-elimination-status/"
+  "https://thehill.com/newsletters/healthcare/6220185-u-s-poised-to-lose-measles-elimination-status/",
+  "https://www.foxnews.com/politics/democrats-seize-midterm-wins-push-massive-minimum-wage-hikes-economists-see-trouble-ahead",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss"
  ],
  "recent_topics": [
-  [
-   "2026-11-11T10:15:44.038793+00:00",
-   [
-    "14",
-    "centr",
-    "crisi",
-    "demand",
-    "election",
-    "general",
-    "hous",
-    "put",
-    "solution",
-    "spain",
-    "strik",
-    "upcom"
-   ],
-   "0434155b7b"
-  ],
   [
    "2026-11-11T10:30:42.858204+00:00",
    [
@@ -20008,19 +20077,38 @@
     "urg"
    ],
    "6c4d0f6c73"
+  ],
+  [
+   "2026-11-14T10:16:22.193041+00:00",
+   [
+    "ahead",
+    "caravan",
+    "democrat",
+    "economist",
+    "head",
+    "hik",
+    "massiv",
+    "mexico",
+    "midterm",
+    "migrant",
+    "minimum",
+    "push",
+    "see",
+    "seiz",
+    "troubl",
+    "wag",
+    "win"
+   ],
+   "86dd73c14b"
   ]
  ],
- "last_draft_at": "2026-11-14T10:04:07.465645+00:00",
+ "last_draft_at": "2026-11-14T10:16:07.699470+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-14T09:27:27.106722+00:00",
  "run_log": [
-  "11-14 08:00:48 run start",
-  "11-14 08:00:57 listening 11 min",
-  "11-14 08:12:16 listening done",
-  "11-14 08:12:16 run end after 688 s",
   "11-14 08:15:36 run start",
   "11-14 08:15:47 listening 11 min",
   "11-14 08:27:06 listening done",
@@ -20056,12 +20144,15 @@
   "11-14 10:04:07 run start",
   "11-14 10:04:17 listening 11 min",
   "11-14 10:15:36 listening done",
-  "11-14 10:15:36 run end after 689 s"
+  "11-14 10:15:36 run end after 689 s",
+  "11-14 10:16:07 run start",
+  "11-14 10:17:10 listening 10 min",
+  "11-14 10:27:38 listening done",
+  "11-14 10:27:38 run end after 691 s"
  ],
  "day_pack_done": "2026-11-13",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Vice_President_Kamala_Harris_swears_in_Senator_Chris_Van_Hollen_for_a_second_term.jpg/1280px-Vice_President_Kamala_Harris_swears_in_Senator_Chris_Van_Hollen_for_a_second_term.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Senate_Democratic_Leader_Chuck_Schumer_%2850520530086%29.jpg/1280px-Senate_Democratic_Leader_Chuck_Schumer_%2850520530086%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/US_Capitol_west_side_at_dusk.JPG/1920px-US_Capitol_west_side_at_dusk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Senate_Democratic_Leader_Chuck_Schumer_%2850519807298%29.jpg/1280px-Senate_Democratic_Leader_Chuck_Schumer_%2850519807298%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -20100,55 +20191,10 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Federal_Aviation_Administration_-_Orville_Wright_Federal_Building_%2853830788072%29.jpg/1920px-Federal_Aviation_Administration_-_Orville_Wright_Federal_Building_%2853830788072%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/1280px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Vladimir_Putin_on_gala_match_%282014-05-10%29.jpg/1280px-Vladimir_Putin_on_gala_match_%282014-05-10%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Official_portrait_of_the_United_States_Secretary_of_State_Marco_Rubio%2C_January_2025_%28cropped%29.jpg/1280px-Official_portrait_of_the_United_States_Secretary_of_State_Marco_Rubio%2C_January_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Official_portrait_of_the_United_States_Secretary_of_State_Marco_Rubio%2C_January_2025_%28cropped%29.jpg/1280px-Official_portrait_of_the_United_States_Secretary_of_State_Marco_Rubio%2C_January_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/2/25/Josh_Shapiro_in_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   ],
   "pools": {
-   "susie wiles": {
-    "t": "2026-11-09T20:30:38.923476+00:00",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Susie_Wiles_July_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "The White House / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Susie_Wiles_%28crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "The White House / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Susie_Wiles_%28crop%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "The White House / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Susie_Wiles_listens_as_President_Donald_J._Trump_oversees_Operation_Epic_Fury_at_Mar-a-Lago_%2855125422178%29.jpg/1280px-Susie_Wiles_listens_as_President_Donald_J._Trump_oversees_Operation_Epic_Fury_at_Mar-a-Lago_%2855125422178%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "The White House / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Susie_Wiles_in_2025.jpg/1280px-Susie_Wiles_in_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/President_Donald_Trump_speaks_to_Chief_of_Staff_Susie_Wiles_during_the_80th_session_of_the_United_Nations_General_Assembly_%2854823840724%29.jpg/1280px-President_Donald_Trump_speaks_to_Chief_of_Staff_Susie_Wiles_during_the_80th_session_of_the_United_Nations_General_Assembly_%2854823840724%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "The White House / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Susie_Wiles_2025_%28edited_crop%29.jpg/1280px-Susie_Wiles_2025_%28edited_crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "The White House / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     }
-    ]
-   },
    "tyler robinson": {
     "t": "2026-11-09T21:15:33.485183+00:00",
     "photos": [
@@ -23314,6 +23360,82 @@
       "portrait": false
      }
     ]
+   },
+   "josh shapiro": {
+    "t": "2026-11-14T10:16:20.239035+00:00",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Gov._Shapiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Maryland GovPics / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Josh_Shapiro_in_2019.jpg/1280px-Josh_Shapiro_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Governor Tom Wolf from Harrisburg, PA / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Josh_Shapiro_in_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Governor Tom Wolf from Harrisburg, PA / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Josh_Shapiro_December_2025_B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Maryland GovPics / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Josh_Shapiro_December_2025.jpg/1280px-Josh_Shapiro_December_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Maryland GovPics / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Josh_Shapiro_at_2025_Gobble_Wobble_5K.jpeg/1280px-Josh_Shapiro_at_2025_Gobble_Wobble_5K.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Dough4872 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Josh_Shapiro_%2854961260851%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Maryland GovPics / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/President_Joe_Biden_watches_as_Pennsylvania_Governor_Josh_Shapiro_explains_details_of_the_Interstate_95_highway_collapse_after_an_aerial_tour_of_the_site_at_Philadelphia_International_Airport_in_Philadelphia.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "The White House / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Josh_Shapiro_2022_%28cropped%29.jpg/1280px-Josh_Shapiro_2022_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Governor Tom Wolf / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Josh_Shapiro_Pocono_2022.jpg/1280px-Josh_Shapiro_Pocono_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "TaurusEmerald / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Josh_Shapiro_2021_%28alt_crop%29.jpg/1280px-Josh_Shapiro_2021_%28alt_crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Governor Tom Wolf / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Josh_Shapiro_2021_%28cropped%29.jpg/1280px-Josh_Shapiro_2021_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Governor Tom Wolf / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     }
+    ]
    }
   },
   "recent_ideas": [
@@ -23334,12 +23456,14 @@
  "comment_perm_told": true,
  "auto_count": {
   "2026-11-12": 17,
-  "2026-11-13": 34
+  "2026-11-13": 34,
+  "2026-11-14": 1
  },
- "last_auto_at": "2026-11-14T02:32:16.165570+00:00",
- "last_post_at": "2026-11-14T03:46:47.502623+00:00",
+ "last_auto_at": "2026-11-14T10:16:22.490783+00:00",
+ "last_post_at": "2026-11-14T10:16:27.788437+00:00",
  "reels_count": {
   "2026-11-12": 2,
-  "2026-11-13": 10
+  "2026-11-13": 10,
+  "2026-11-14": 1
  }
 }
