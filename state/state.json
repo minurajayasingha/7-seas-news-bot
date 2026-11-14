@@ -1,96 +1,6 @@
 {
  "tg_offset": 495893026,
  "drafts": {
-  "cde23c72ae": {
-   "id": "cde23c72ae",
-   "headline": "Australia announces new artificial intelligence rules following government breach",
-   "summary": "Australia is introducing mandatory reporting and considering criminal penalties after an OpenAI agent breached a government website in June. Prime Minister Anthony Albanese released recommendations from a rapid review into the incident.",
-   "label": "WORLD",
-   "hook": "Should artificial intelligence companies face criminal penalties for data breaches?",
-   "key_points": [
-    "OpenAI will not face criminal penalties for the Medicare data breach.",
-    "A new artificial intelligence safety regulator will be created.",
-    "Canberra will require artificial intelligence companies to report cybersecurity incidents."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Australia",
-    "#ArtificialIntelligence",
-    "#OpenAI"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "BBC",
-    "The Guardian",
-    "The Independent"
-   ],
-   "link": "https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss",
-   "links": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack"
-    ],
-    [
-     "BBC",
-     "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/australasia/australia-ai-regulator-openai-breach-chatgpt-b3082128.html"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Australian_Senate_-_Parliament_of_Australia.jpg/1920px-Australian_Senate_-_Parliament_of_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "JJ Harrison ( https://www.jjharrison.com.au/ ) / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Australia announces new artificial intelligence rules following government breach",
-    "people": [],
-    "image_query": "Parliament House Canberra",
-    "image_queries": [
-     "Australian Parliament",
-     "Canberra city view",
-     "Government building facade",
-     "Digital security concept"
-    ],
-    "image_style": "scene",
-    "location": "Australia"
-   },
-   "created_at": "2026-11-10T07:30:42.478601+00:00",
-   "news_time": "2026-11-10T04:14:26+00:00",
-   "news_latest": "2026-11-10T07:05:11+00:00",
-   "caption": "Australia announces new artificial intelligence rules following government breach\n\nAustralia is introducing mandatory reporting and considering criminal penalties after an OpenAI agent breached a government website in June. Prime Minister Anthony Albanese released recommendations from a rapid review into the incident.\n\n💬 Should artificial intelligence companies face criminal penalties for data breaches?\n\n📖 Read more: https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss\n\n#Australia #ArtificialIntelligence #OpenAI #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 247,
-   "tg_file_id": "AgACAgUAAxkDAAP3avLIJIs6QVubOspEdK2XIiCCl1gAAvETaxuLT5hXF50T-tDjKDABAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-10T09:36:00.118518+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122097376383548584",
-   "posted_at": "2026-11-10T09:36:00.464057+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 10 · 4:36 AM New York · 3:06 PM Sri Lanka\n\n<b>Australia announces new artificial intelligence rules following government breach</b>\n<i>Al Jazeera, BBC, The Guardian, The Independent</i>\n🟡 <b>Latest:</b> 12:35 PM Sri Lanka (2h 30m ago) · first reported 9:44 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122097376383548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 114,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "992918113268062",
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
-  },
   "cca21c9568": {
    "id": "cca21c9568",
    "headline": "US Evacuates Aircraft From RAF Mildenhall Over Iran Threat",
@@ -4911,7 +4821,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "6c235661bd": {
    "id": "6c235661bd",
@@ -5057,7 +4967,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "291b7687a6": {
    "id": "291b7687a6",
@@ -5255,7 +5165,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "db183405ba": {
    "id": "db183405ba",
@@ -5341,7 +5251,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "0434155b7b": {
    "id": "0434155b7b",
@@ -5420,7 +5330,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "bea75efaa6": {
    "id": "bea75efaa6",
@@ -5499,7 +5409,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "105d51eca5": {
    "id": "105d51eca5",
@@ -5577,7 +5487,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "c819c4dfb9": {
    "id": "c819c4dfb9",
@@ -5776,7 +5686,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "0fd17589fa": {
    "id": "0fd17589fa",
@@ -5854,7 +5764,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "8b6428cdae": {
    "id": "8b6428cdae",
@@ -5933,7 +5843,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "6bfd6e38b7": {
    "id": "6bfd6e38b7",
@@ -6011,7 +5921,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "7f48bd7968": {
    "id": "7f48bd7968",
@@ -6089,7 +5999,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "8589cd79f0": {
    "id": "8589cd79f0",
@@ -6168,7 +6078,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "6765febea5": {
    "id": "6765febea5",
@@ -6248,7 +6158,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "f7592a8198": {
    "id": "f7592a8198",
@@ -6327,7 +6237,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "2182ce5439": {
    "id": "2182ce5439",
@@ -6413,7 +6323,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "49175d8390": {
    "id": "49175d8390",
@@ -6492,7 +6402,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "f92826045e": {
    "id": "f92826045e",
@@ -6634,7 +6544,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "48e092b1f8": {
    "id": "48e092b1f8",
@@ -6792,7 +6702,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "4b473002e5": {
    "id": "4b473002e5",
@@ -6878,7 +6788,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "794435b1aa": {
    "id": "794435b1aa",
@@ -6957,7 +6867,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "c57d9b9b4f": {
    "id": "c57d9b9b4f",
@@ -7102,7 +7012,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "5348667e43": {
    "id": "5348667e43",
@@ -7183,7 +7093,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "7018d12efa": {
    "id": "7018d12efa",
@@ -7261,7 +7171,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "bfd3670321": {
    "id": "bfd3670321",
@@ -7352,7 +7262,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "01f29d526a": {
    "id": "01f29d526a",
@@ -7443,7 +7353,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "dbb5db25ae": {
    "id": "dbb5db25ae",
@@ -7522,7 +7432,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "585d196ff8": {
    "id": "585d196ff8",
@@ -7602,7 +7512,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "76ccc1e33b": {
    "id": "76ccc1e33b",
@@ -7689,7 +7599,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "dd8c859655": {
    "id": "dd8c859655",
@@ -7889,7 +7799,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "a805217306": {
    "id": "a805217306",
@@ -7970,7 +7880,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "d3669c0f3c": {
    "id": "d3669c0f3c",
@@ -8049,7 +7959,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "e8d0b12d49": {
    "id": "e8d0b12d49",
@@ -8129,7 +8039,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "b8d28f9c3e": {
    "id": "b8d28f9c3e",
@@ -8208,7 +8118,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "9208413554": {
    "id": "9208413554",
@@ -8297,7 +8207,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "451840320f": {
    "id": "451840320f",
@@ -8378,7 +8288,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "8ea6130c7c": {
    "id": "8ea6130c7c",
@@ -8456,7 +8366,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "f20ccf018a": {
    "id": "f20ccf018a",
@@ -8548,7 +8458,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "eeea2b2bb2": {
    "id": "eeea2b2bb2",
@@ -8629,7 +8539,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "5b021b17f4": {
    "id": "5b021b17f4",
@@ -8770,7 +8680,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "433c28badd": {
    "id": "433c28badd",
@@ -8856,7 +8766,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "265869298b": {
    "id": "265869298b",
@@ -8935,7 +8845,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "de30b93eeb": {
    "id": "de30b93eeb",
@@ -9092,7 +9002,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "c884bf50cf": {
    "id": "c884bf50cf",
@@ -9233,7 +9143,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "30b5b09dcb": {
    "id": "30b5b09dcb",
@@ -9373,7 +9283,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "85c1caff13": {
    "id": "85c1caff13",
@@ -9452,7 +9362,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "59deeaae7f": {
    "id": "59deeaae7f",
@@ -9531,7 +9441,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "2ad045b59c": {
    "id": "2ad045b59c",
@@ -9615,7 +9525,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "5a579197e7": {
    "id": "5a579197e7",
@@ -9693,7 +9603,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "d4221e2d0d": {
    "id": "d4221e2d0d",
@@ -9772,7 +9682,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "6f228f43e8": {
    "id": "6f228f43e8",
@@ -9853,7 +9763,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "c1987b1ca2": {
    "id": "c1987b1ca2",
@@ -9932,7 +9842,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "cfda6da62f": {
    "id": "cfda6da62f",
@@ -10010,7 +9920,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "5d2b442dfc": {
    "id": "5d2b442dfc",
@@ -10089,7 +9999,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "5489776f74": {
    "id": "5489776f74",
@@ -10176,7 +10086,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "cbd10e320f": {
    "id": "cbd10e320f",
@@ -10255,7 +10165,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "1f289091a0": {
    "id": "1f289091a0",
@@ -10334,7 +10244,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "b91a3907c5": {
    "id": "b91a3907c5",
@@ -10413,7 +10323,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "6bf24c0100": {
    "id": "6bf24c0100",
@@ -10493,7 +10403,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "46e8434cb8": {
    "id": "46e8434cb8",
@@ -10632,7 +10542,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "b0cbcf291c": {
    "id": "b0cbcf291c",
@@ -10719,7 +10629,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "e7450a0dd4": {
    "id": "e7450a0dd4",
@@ -10881,7 +10791,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "b545231803": {
    "id": "b545231803",
@@ -10959,7 +10869,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "2cd33e9685": {
    "id": "2cd33e9685",
@@ -11195,7 +11105,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "d2d973a04c": {
    "id": "d2d973a04c",
@@ -11288,7 +11198,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "4d8b467c55": {
    "id": "4d8b467c55",
@@ -11378,7 +11288,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "4d075733c6": {
    "id": "4d075733c6",
@@ -11469,7 +11379,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "07f7523644": {
    "id": "07f7523644",
@@ -11555,7 +11465,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "0d43fbfa9c": {
    "id": "0d43fbfa9c",
@@ -11643,7 +11553,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "71cc7f338b": {
    "id": "71cc7f338b",
@@ -11730,7 +11640,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "46ad7ec6bb": {
    "id": "46ad7ec6bb",
@@ -11964,7 +11874,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "fbb747eab2": {
    "id": "fbb747eab2",
@@ -12052,7 +11962,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "77c871299b": {
    "id": "77c871299b",
@@ -12143,7 +12053,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "0dca1b56a1": {
    "id": "0dca1b56a1",
@@ -12232,7 +12142,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "39669d2d6e": {
    "id": "39669d2d6e",
@@ -12321,7 +12231,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "5ac71e580a": {
    "id": "5ac71e580a",
@@ -12410,7 +12320,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "071dea6cce": {
    "id": "071dea6cce",
@@ -12496,7 +12406,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "20e5086465": {
    "id": "20e5086465",
@@ -12589,7 +12499,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "9f38d67d42": {
    "id": "9f38d67d42",
@@ -12676,7 +12586,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "34002a08ad": {
    "id": "34002a08ad",
@@ -12765,7 +12675,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "a6aecbf995": {
    "id": "a6aecbf995",
@@ -12876,7 +12786,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "817601941c": {
    "id": "817601941c",
@@ -12972,7 +12882,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "cf995999d6": {
    "id": "cf995999d6",
@@ -13061,7 +12971,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "de06bec5ec": {
    "id": "de06bec5ec",
@@ -13150,7 +13060,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "4772fcbb80": {
    "id": "4772fcbb80",
@@ -13239,7 +13149,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "ea51dc48e4": {
    "id": "ea51dc48e4",
@@ -13330,7 +13240,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "9b9ff5df8b": {
    "id": "9b9ff5df8b",
@@ -13490,7 +13400,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "7ed19effff": {
    "id": "7ed19effff",
@@ -13578,7 +13488,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "fa66eb00f7": {
    "id": "fa66eb00f7",
@@ -13674,7 +13584,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "6a28082571": {
    "id": "6a28082571",
@@ -13762,7 +13672,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "bdd0e45929": {
    "id": "bdd0e45929",
@@ -13843,7 +13753,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "e4984fea08": {
    "id": "e4984fea08",
@@ -13931,7 +13841,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "5f1268d48c": {
    "id": "5f1268d48c",
@@ -14022,7 +13932,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "05e6c9dbf6": {
    "id": "05e6c9dbf6",
@@ -14122,7 +14032,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "01b966c646": {
    "id": "01b966c646",
@@ -14209,7 +14119,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "0787c3f68b": {
    "id": "0787c3f68b",
@@ -14300,7 +14210,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "1b086bb8d9": {
    "id": "1b086bb8d9",
@@ -14387,7 +14297,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "7f17d29718": {
    "id": "7f17d29718",
@@ -14476,7 +14386,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "b440bc09d8": {
    "id": "b440bc09d8",
@@ -14562,7 +14472,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "288e8142aa": {
    "id": "288e8142aa",
@@ -14657,7 +14567,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "86aa12fd1f": {
    "id": "86aa12fd1f",
@@ -14756,7 +14666,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "52e45b389b": {
    "id": "52e45b389b",
@@ -14844,7 +14754,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "6f13c1c292": {
    "id": "6f13c1c292",
@@ -14932,7 +14842,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "8d4419d1ea": {
    "id": "8d4419d1ea",
@@ -15022,7 +14932,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "095af91c8b": {
    "id": "095af91c8b",
@@ -15116,7 +15026,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "9eb78b77eb": {
    "id": "9eb78b77eb",
@@ -15210,7 +15120,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "6ddb761bdf": {
    "id": "6ddb761bdf",
@@ -15305,7 +15215,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "161bac5f8e": {
    "id": "161bac5f8e",
@@ -15393,7 +15303,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "92fe297395": {
    "id": "92fe297395",
@@ -15481,7 +15391,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "2e80c2a932": {
    "id": "2e80c2a932",
@@ -15570,7 +15480,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "f184753370": {
    "id": "f184753370",
@@ -15666,7 +15576,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "964a05aa78": {
    "id": "964a05aa78",
@@ -15758,7 +15668,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "443c703f0f": {
    "id": "443c703f0f",
@@ -15919,7 +15829,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "5afdfab132": {
    "id": "5afdfab132",
@@ -16005,7 +15915,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "9f7ce7afa1": {
    "id": "9f7ce7afa1",
@@ -16094,7 +16004,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "c33e783284": {
    "id": "c33e783284",
@@ -16188,7 +16098,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "b3f4744ac4": {
    "id": "b3f4744ac4",
@@ -16278,7 +16188,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "a6cb64bf0c": {
    "id": "a6cb64bf0c",
@@ -16364,7 +16274,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "68ff1a5751": {
    "id": "68ff1a5751",
@@ -16454,7 +16364,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "a6251d4469": {
    "id": "a6251d4469",
@@ -16541,7 +16451,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "09a77b01bd": {
    "id": "09a77b01bd",
@@ -16629,7 +16539,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "6d22b6117e": {
    "id": "6d22b6117e",
@@ -16725,7 +16635,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "35e78aae02": {
    "id": "35e78aae02",
@@ -16813,7 +16723,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   },
   "6c4d0f6c73": {
    "id": "6c4d0f6c73",
@@ -16902,7 +16812,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-14T06:30:47.164733+00:00"
+   "stats_at": "2026-11-14T07:30:41.010804+00:00"
   }
  },
  "seen_links": [
@@ -20588,20 +20498,13 @@
    "6c4d0f6c73"
   ]
  ],
- "last_draft_at": "2026-11-14T07:15:36.434339+00:00",
+ "last_draft_at": "2026-11-14T07:31:27.142144+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-14T06:30:47.164733+00:00",
+ "last_stats_at": "2026-11-14T07:30:41.010804+00:00",
  "run_log": [
-  "11-14 05:00:47 run start",
-  "11-14 05:02:19 listening 10 min",
-  "11-14 05:12:23 listening done",
-  "11-14 05:12:23 run end after 695 s",
-  "11-14 05:15:44 run start",
-  "11-14 05:15:54 listening 11 min",
-  "11-14 05:27:13 listening done",
   "11-14 05:27:13 run end after 689 s",
   "11-14 05:30:53 run start",
   "11-14 05:32:09 listening 10 min",
@@ -20634,7 +20537,14 @@
   "11-14 07:15:36 run start",
   "11-14 07:15:46 listening 11 min",
   "11-14 07:27:05 listening done",
-  "11-14 07:27:05 run end after 689 s"
+  "11-14 07:27:05 run end after 689 s",
+  "11-14 07:30:40 run start",
+  "11-14 07:31:35 listening 11 min",
+  "11-14 07:32:00 listen error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+  "11-14 07:32:36 listen error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+  "11-14 07:33:12 listen error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+  "11-14 07:42:11 listening done",
+  "11-14 07:42:11 run end after 690 s"
  ],
  "day_pack_done": "2026-11-13",
  "photo_memory": {
