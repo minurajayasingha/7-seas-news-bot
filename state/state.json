@@ -1,80 +1,6 @@
 {
  "tg_offset": 495893026,
  "drafts": {
-  "d607b10912": {
-   "id": "d607b10912",
-   "headline": "Florida red wall cracks: midterms expose Republican vulnerability",
-   "summary": "Recent midterms revealed vulnerability in Republican dominance within Florida. Meanwhile, voters in deep red districts handed the party a wipeout in areas where Donald Trump previously won comfortably.",
-   "label": "ELECTIONS",
-   "hook": "Are Democrats missing their chance in Florida?",
-   "key_points": [
-    "Republican dominance in Florida is showing vulnerability.",
-    "GOP candidates faced unexpected upsets in deep red districts.",
-    "The affected districts previously voted for Donald Trump in 2024."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#FloridaPolitics",
-    "#Midterms",
-    "#GOP"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "The Independent"
-   ],
-   "link": "https://www.independent.co.uk/news/world/americas/us-politics/richard-ojeda-democrats-house-upsets-b3082284.html",
-   "links": [
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/us-politics/richard-ojeda-democrats-house-upsets-b3082284.html"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/opinions/2026/11/10/floridas-red-wall-is-cracking-but-democrats-are-missing-their-chance?traffic_source=rss"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Example_voting_booth.jpg/1920px-Example_voting_booth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Kenneth C. Zirkel / Wikimedia Commons (CC0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Florida red wall cracks: midterms expose Republican vulnerability",
-    "people": [],
-    "image_query": "Florida state capitol building",
-    "image_queries": [
-     "voting booth",
-     "election ballot",
-     "Florida capitol",
-     "polling station"
-    ],
-    "image_style": "scene",
-    "location": "Florida, US"
-   },
-   "created_at": "2026-11-10T10:45:48.887824+00:00",
-   "news_time": "2026-11-10T06:16:43+00:00",
-   "news_latest": "2026-11-10T10:33:33+00:00",
-   "caption": "Florida red wall cracks: midterms expose Republican vulnerability\n\nRecent midterms revealed vulnerability in Republican dominance within Florida. Meanwhile, voters in deep red districts handed the party a wipeout in areas where Donald Trump previously won comfortably.\n\n💬 Are Democrats missing their chance in Florida?\n\n📖 Read more: https://www.independent.co.uk/news/world/americas/us-politics/richard-ojeda-democrats-house-upsets-b3082284.html\n\n#FloridaPolitics #Midterms #GOP #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 254,
-   "tg_file_id": "AgACAgUAAxkDAAP-avL134KGYSpr6CtedoBXzkcMX6IAAtwUaxuLT5hXZplqZ9IkkXcBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-10T11:39:47.868156+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122097460809548584",
-   "posted_at": "2026-11-10T11:39:48.211404+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 10 · 6:39 AM New York · 5:09 PM Sri Lanka\n\n<b>Florida red wall cracks: midterms expose Republican vulnerability</b>\n<i>Al Jazeera, The Independent</i>\n🟡 <b>Latest:</b> 4:03 PM Sri Lanka (1h 6m ago) · first reported 11:46 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122097460809548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 119,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "2594251191075761"
-  },
   "91a82b5ad1": {
    "id": "91a82b5ad1",
    "headline": "Russia and Ukraine hold US-backed talks in Europe",
@@ -16438,6 +16364,98 @@
     "shares": 0
    },
    "stats_at": "2026-11-14T10:31:11.674501+00:00"
+  },
+  "781d218fd5": {
+   "id": "781d218fd5",
+   "headline": "US proposes Ukraine ceding Donbas for NATO membership",
+   "summary": "President Zelensky says US envoys proposed that Ukraine cede the Donbas region to Russia in exchange for NATO membership. The talks took place in Abu Dhabi following efforts to end the war.",
+   "label": "DIPLOMACY",
+   "hook": "Can these peace talks in Abu Dhabi end the fighting?",
+   "key_points": [
+    "Putin rejected foreign peacekeeping troops in Ukraine.",
+    "Russia maintains territorial demands to control parts of Ukraine."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Ukraine",
+    "#NATO",
+    "#Russia"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "BBC",
+    "Euronews",
+    "France 24"
+   ],
+   "link": "https://www.euronews.com/2026/11/14/us-floats-ukraine-ceding-land-to-russia-in-exchange-for-nato-membership-zelenskyy",
+   "links": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/14/us-floats-ukraine-ceding-land-to-russia-in-exchange-for-nato-membership-zelenskyy"
+    ],
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/opinions/2026/11/14/ukraine-is-running-out-of-options-and-russia-knows-it?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Abu_Dhabi_Skyline_fron_Corniche_Rd.JPG",
+      "credit": "FritzDaCat / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "US proposes Ukraine ceding Donbas for NATO membership",
+    "people": [],
+    "image_query": "Abu Dhabi skyline",
+    "image_queries": [
+     "NATO headquarters",
+     "Kremlin building",
+     "Ukrainian flag",
+     "US Capitol building"
+    ],
+    "image_style": "scene",
+    "location": "Abu Dhabi, United Arab Emirates",
+    "nearby_city": "Abu Dhabi, United Arab Emirates",
+    "event_query": "Abu Dhabi peace talks",
+    "news_time": null,
+    "label": "DIPLOMACY"
+   },
+   "created_at": "2026-11-14T10:46:02.272584+00:00",
+   "news_time": "2026-11-14T06:39:09+00:00",
+   "news_latest": "2026-11-14T10:35:08+00:00",
+   "caption": "US proposes Ukraine ceding Donbas for NATO membership\n\nPresident Zelensky says US envoys proposed that Ukraine cede the Donbas region to Russia in exchange for NATO membership. The talks took place in Abu Dhabi following efforts to end the war.\n\n💬 Can these peace talks in Abu Dhabi end the fighting?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Ukraine #NATO #Russia #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 534,
+   "tg_file_id": "AgACAgUAAxkDAAICFmr4O-ygYBS-TlXHbfR-25AffO5XAAI_E2sbT5fJV5IQJ3xaXxXXAQADAgADdwADPQQ",
+   "queued_at": "2026-11-14T10:46:04.594752+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-14T10:46:04.594782+00:00",
+   "post_label": "🤖 Auto-posting + Reel",
+   "fb_post_id": "1413030521900096_122101132143548584",
+   "posted_at": "2026-11-14T10:46:04.884995+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 14 · 5:46 AM New York · 4:16 PM Sri Lanka\n\n<b>US proposes Ukraine ceding Donbas for NATO membership</b>\n<i>Al Jazeera, BBC, Euronews, France 24</i>\n🟢 <b>Latest:</b> 4:05 PM Sri Lanka (11 min ago) · first reported 12:09 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122101132143548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 344,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122101132143548584_1188603697163526",
+   "fb_reel_id": "29859894720283573",
+   "reel_status": "live"
   }
  },
  "seen_links": [
@@ -17346,7 +17364,11 @@
   "https://www.washingtonexaminer.com/policy/healthcare/4803790/us-loses-measles-elimination-status/",
   "https://thehill.com/newsletters/healthcare/6220185-u-s-poised-to-lose-measles-elimination-status/",
   "https://www.foxnews.com/politics/democrats-seize-midterm-wins-push-massive-minimum-wage-hikes-economists-see-trouble-ahead",
-  "https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss"
+  "https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss",
+  "https://www.euronews.com/2026/11/14/us-floats-ukraine-ceding-land-to-russia-in-exchange-for-nato-membership-zelenskyy",
+  "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+  "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership",
+  "https://www.aljazeera.com/opinions/2026/11/14/ukraine-is-running-out-of-options-and-russia-knows-it?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -20026,19 +20048,37 @@
     "win"
    ],
    "86dd73c14b"
+  ],
+  [
+   "2026-11-14T10:46:04.592048+00:00",
+   [
+    "ced",
+    "donba",
+    "exchang",
+    "float",
+    "join",
+    "know",
+    "land",
+    "membership",
+    "nato",
+    "option",
+    "propos",
+    "runn",
+    "russia",
+    "ukrain",
+    "zelensky",
+    "zelenskyy"
+   ],
+   "781d218fd5"
   ]
  ],
- "last_draft_at": "2026-11-14T10:32:17.461176+00:00",
+ "last_draft_at": "2026-11-14T10:45:34.224068+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-14T10:31:11.674501+00:00",
  "run_log": [
-  "11-14 08:30:37 run start",
-  "11-14 08:31:31 listening 11 min",
-  "11-14 08:42:25 listening done",
-  "11-14 08:42:25 run end after 707 s",
   "11-14 08:45:33 run start",
   "11-14 08:45:43 listening 11 min",
   "11-14 08:57:02 listening done",
@@ -20074,12 +20114,15 @@
   "11-14 10:31:11 run start",
   "11-14 10:32:18 listening 10 min",
   "11-14 10:42:47 listening done",
-  "11-14 10:42:47 run end after 696 s"
+  "11-14 10:42:47 run end after 696 s",
+  "11-14 10:45:33 run start",
+  "11-14 10:46:54 listening 10 min",
+  "11-14 10:57:22 listening done",
+  "11-14 10:57:22 run end after 708 s"
  ],
  "day_pack_done": "2026-11-13",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Senate_Democratic_Leader_Chuck_Schumer_%2850520530086%29.jpg/1280px-Senate_Democratic_Leader_Chuck_Schumer_%2850520530086%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/US_Capitol_west_side_at_dusk.JPG/1920px-US_Capitol_west_side_at_dusk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Senate_Democratic_Leader_Chuck_Schumer_%2850519807298%29.jpg/1280px-Senate_Democratic_Leader_Chuck_Schumer_%2850519807298%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/7/7d/Stephen_Miller_July_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -20118,7 +20161,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/1280px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Vladimir_Putin_on_gala_match_%282014-05-10%29.jpg/1280px-Vladimir_Putin_on_gala_match_%282014-05-10%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Official_portrait_of_the_United_States_Secretary_of_State_Marco_Rubio%2C_January_2025_%28cropped%29.jpg/1280px-Official_portrait_of_the_United_States_Secretary_of_State_Marco_Rubio%2C_January_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/2/25/Josh_Shapiro_in_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/2/25/Josh_Shapiro_in_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://upload.wikimedia.org/wikipedia/commons/c/c5/Abu_Dhabi_Skyline_fron_Corniche_Rd.JPG"
   ],
   "pools": {
    "tyler robinson": {
@@ -23365,7 +23409,6 @@
    }
   },
   "recent_ideas": [
-   "capitol hill",
    "denver city skyline",
    "beijing skyline",
    "russell senate office building",
@@ -23376,20 +23419,21 @@
    "dublin, ireland",
    "us capitol building",
    "federal aviation administration building",
-   "china"
+   "china",
+   "abu dhabi skyline"
   ]
  },
  "comment_perm_told": true,
  "auto_count": {
   "2026-11-12": 17,
   "2026-11-13": 34,
-  "2026-11-14": 1
+  "2026-11-14": 2
  },
- "last_auto_at": "2026-11-14T10:16:22.490783+00:00",
- "last_post_at": "2026-11-14T10:16:27.788437+00:00",
+ "last_auto_at": "2026-11-14T10:46:04.884995+00:00",
+ "last_post_at": "2026-11-14T10:46:11.136138+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
-  "2026-11-14": 1
+  "2026-11-14": 2
  }
 }
