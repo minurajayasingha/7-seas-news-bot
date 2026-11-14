@@ -1,88 +1,6 @@
 {
  "tg_offset": 495893027,
  "drafts": {
-  "b7be145325": {
-   "id": "b7be145325",
-   "headline": "Thomas Massie leads impeachment drive against Pete Hegseth",
-   "summary": "Representative Thomas Massie is leading an impeachment drive against Pete Hegseth. Meanwhile, Hegseth delivered a defense addressing the effort.",
-   "label": "US POLITICS",
-   "hook": "Should Pete Hegseth face impeachment over these allegations?",
-   "key_points": [
-    "Representative Thomas Massie is leading the impeachment drive.",
-    "Pete Hegseth defended himself following the appearance.",
-    "President Donald Trump praised Hegseth after the appearance."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#ThomasMassie",
-    "#PeteHegseth",
-    "#USPolitics"
-   ],
-   "sources": [
-    "New York Times",
-    "The Independent"
-   ],
-   "link": "https://www.nytimes.com/2026/11/10/world/thomas-massie-impeachment-hegseth.html",
-   "links": [
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/10/world/thomas-massie-impeachment-hegseth.html"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/us-politics/hegseth-impeachment-speech-trump-iran-war-b3082420.html"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Thomas_Massie_%288561647254%29.jpg/1280px-Thomas_Massie_%288561647254%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Thomas Massie leads impeachment drive against Pete Hegseth",
-    "people": [
-     "Thomas Massie"
-    ],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "House of Representatives chamber",
-     "Capitol Hill",
-     "White House",
-     "Washington DC street"
-    ],
-    "image_style": "person",
-    "location": "Kentucky, US"
-   },
-   "created_at": "2026-11-10T15:00:45.876210+00:00",
-   "news_time": "2026-11-10T14:37:19+00:00",
-   "news_latest": "2026-11-10T14:41:45+00:00",
-   "caption": "Thomas Massie leads impeachment drive against Pete Hegseth\n\nRepresentative Thomas Massie is leading an impeachment drive against Pete Hegseth. Meanwhile, Hegseth delivered a defense addressing the effort.\n\n💬 Should Pete Hegseth face impeachment over these allegations?\n\n📖 Read more: https://www.nytimes.com/2026/11/10/world/thomas-massie-impeachment-hegseth.html\n\n#ThomasMassie #PeteHegseth #USPolitics #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 277,
-   "tg_file_id": "AgACAgUAAxkDAAIBFWrzMaA00MKa_J5Iv9p8WPovuRl3AAKPFWsbi0-YV0kILYVVv-ygAQADAgADdwADPQQ",
-   "dup_ok": true,
-   "extra_msgs": [],
-   "queued_at": "2026-11-10T15:01:55.441949+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122097616425548584",
-   "posted_at": "2026-11-10T15:01:55.743587+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 10 · 10:02 AM New York · 8:32 PM Sri Lanka\n\n<b>Thomas Massie leads impeachment drive against Pete Hegseth</b>\n<i>New York Times, The Independent</i>\n🟢 <b>Latest:</b> 8:11 PM Sri Lanka (20 min ago) · first reported 8:07 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122097616425548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 128,
-   "log_photo": true,
-   "cleared": true,
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-13T14:15:43.759071+00:00"
-  },
   "df4c15c723": {
    "id": "df4c15c723",
    "headline": "Trump calls into premiere of new C-SPAN show",
@@ -16829,7 +16747,10 @@
   "https://www.euronews.com/2026/11/14/qatar-and-turkey-sign-defence-agreement-for-unified-position-facing-external-attacks",
   "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know?traffic_source=rss",
   "https://www.nbcnews.com/politics/white-house/democrats-say-trump-family-businesses-top-upcoming-investigations-rcna605987",
-  "https://www.france24.com/en/environment/20261114-climate-action-is-alive-triumphant-democrats-take-on-cop31-shunned-by-trump"
+  "https://www.france24.com/en/environment/20261114-climate-action-is-alive-triumphant-democrats-take-on-cop31-shunned-by-trump",
+  "https://www.foxnews.com/politics/florida-republican-democrats-strategy-thats-choice-have-make-persecution-policy",
+  "https://www.foxnews.com/politics/inside-house-gop-strategy-capitalize-democrats-warring-factions-new-congress",
+  "https://www.nytimes.com/2026/11/14/us/politics/congress-trump-investigations.html"
  ],
  "recent_topics": [
   [
@@ -19616,17 +19537,13 @@
    "3654e7440e"
   ]
  ],
- "last_draft_at": "2026-11-14T14:45:41.582258+00:00",
+ "last_draft_at": "2026-11-14T15:00:41.910559+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-14T14:30:44.165539+00:00",
  "run_log": [
-  "11-14 12:27:06 run end after 688 s",
-  "11-14 12:30:38 run start",
-  "11-14 12:31:33 listening 11 min",
-  "11-14 12:42:26 listening done",
   "11-14 12:42:26 run end after 708 s",
   "11-14 12:45:34 run start",
   "11-14 12:45:45 listening 11 min",
@@ -19662,7 +19579,11 @@
   "11-14 14:45:41 run start",
   "11-14 14:45:52 listening 11 min",
   "11-14 14:57:12 listening done",
-  "11-14 14:57:12 run end after 691 s"
+  "11-14 14:57:12 run end after 691 s",
+  "11-14 15:00:41 run start",
+  "11-14 15:01:19 listening 11 min",
+  "11-14 15:12:14 listening done",
+  "11-14 15:12:14 run end after 692 s"
  ],
  "day_pack_done": "2026-11-13",
  "photo_memory": {
