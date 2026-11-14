@@ -17838,7 +17838,9 @@
   "https://www.nbcnews.com/politics/politics-news/trump-administration-delays-medicaid-work-requirements-six-months-rcna609256",
   "https://www.independent.co.uk/news/world/americas/medicaid-donald-trump-democrats-mehmet-oz-nebraska-b3084865.html",
   "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-mark-waye-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
-  "https://thehill.com/policy/transportation/6219936-mullin-faa-telecommunication-outage-ground-stop/"
+  "https://thehill.com/policy/transportation/6219936-mullin-faa-telecommunication-outage-ground-stop/",
+  "https://www.nytimes.com/2026/11/13/us/politics/trump-congress-section-702-surveillance.html",
+  "https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting"
  ],
  "recent_topics": [
   [
@@ -20737,17 +20739,13 @@
    "09a77b01bd"
   ]
  ],
- "last_draft_at": "2026-11-14T00:01:25.215282+00:00",
+ "last_draft_at": "2026-11-14T00:15:40.680710+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-13T23:30:43.876547+00:00",
  "run_log": [
-  "11-13 22:00:54 run start",
-  "11-13 22:01:47 listening 11 min",
-  "11-13 22:12:41 listening done",
-  "11-13 22:12:41 run end after 706 s",
   "11-13 22:15:38 run start",
   "11-13 22:16:26 listening 11 min",
   "11-13 22:27:20 listening done",
@@ -20783,7 +20781,11 @@
   "11-14 00:01:24 run start",
   "11-14 00:01:25 listening 11 min",
   "11-14 00:13:13 listening done",
-  "11-14 00:13:13 run end after 708 s"
+  "11-14 00:13:13 run end after 708 s",
+  "11-14 00:15:40 run start",
+  "11-14 00:15:52 listening 11 min",
+  "11-14 00:27:11 listening done",
+  "11-14 00:27:11 run end after 691 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
