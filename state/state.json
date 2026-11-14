@@ -1,66 +1,6 @@
 {
  "tg_offset": 495893035,
  "drafts": {
-  "9868f8195c": {
-   "id": "9868f8195c",
-   "headline": "Israeli forces kill 14-year-old boy during West Bank raid",
-   "summary": "Israeli forces killed a 14-year-old boy in Burqa during a West Bank raid, while settlers assaulted a woman near Hebron. Doctors Without Borders reported that ongoing movement restrictions and house demolitions continue to obstruct healthcare access.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "Israeli forces killed a 14-year-old boy in Burqa.",
-    "Settlers assaulted a woman near Hebron.",
-    "Medical teams faced movement restrictions during lockdowns."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#WestBank",
-    "#WorldNews",
-    "#Conflict"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "France 24"
-   ],
-   "link": "https://www.france24.com/en/video/20261110-west-bank-population-and-healthcare-actors-such-as-msf-still-facing-movement-restrictions",
-   "links": [
-    [
-     "France 24",
-     "https://www.france24.com/en/video/20261110-west-bank-population-and-healthcare-actors-such-as-msf-still-facing-movement-restrictions"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/video/newsfeed/2026/11/10/jerusalem-daily-14-year-old-killed-in-west-bank-raid?traffic_source=rss"
-    ]
-   ],
-   "bg": {
-    "type": "incident",
-    "photos": [],
-    "location": "West Bank"
-   },
-   "img_post": {
-    "headline": "Israeli forces kill 14-year-old boy during West Bank raid",
-    "people": [],
-    "image_query": "West Bank landscape",
-    "image_queries": [
-     "Hebron city",
-     "Burqa village",
-     "West Bank road",
-     "medical clinic interior"
-    ],
-    "image_style": "incident",
-    "location": "West Bank"
-   },
-   "created_at": "2026-11-10T22:32:55.888808+00:00",
-   "news_time": "2026-11-10T18:58:05+00:00",
-   "news_latest": "2026-11-10T22:25:48+00:00",
-   "caption": "Israeli forces kill 14-year-old boy during West Bank raid\n\nIsraeli forces killed a 14-year-old boy in Burqa during a West Bank raid, while settlers assaulted a woman near Hebron. Doctors Without Borders reported that ongoing movement restrictions and house demolitions continue to obstruct healthcare access.\n\n📖 Read more: https://www.france24.com/en/video/20261110-west-bank-population-and-healthcare-actors-such-as-msf-still-facing-movement-restrictions\n\n#WestBank #WorldNews #Conflict #7SeasNews",
-   "status": "replaced",
-   "tg_message_id": 310,
-   "tg_file_id": "AgACAgUAAxkDAAIBNmrzm5lK7fNB7ROK2qxvMPwmChOqAAJPEWsbi0-gV2qV9YkC61yxAQADAgADdwADPQQ",
-   "extra_msgs": [],
-   "cleared": true
-  },
   "d071e39fe0": {
    "id": "d071e39fe0",
    "headline": "Appeals court backs Michael Abramowitz in Voice of America dispute",
@@ -14992,6 +14932,82 @@
     "shares": 0
    },
    "stats_at": "2026-11-14T21:45:43.295058+00:00"
+  },
+  "25b47eac9f": {
+   "id": "25b47eac9f",
+   "headline": "Donald Trump announces discount for Washington residents at golf course",
+   "summary": "Donald Trump announced that local residents will receive a fifty percent discount at the renovated East Potomac Golf Links. The project forms part of a broader effort to renovate prominent sites in Washington, D.C.",
+   "label": "US POLITICS",
+   "hook": "Would a fifty percent discount encourage more local residents to visit the renovated golf course?",
+   "key_points": [
+    "Trump criticized the current state of the East Potomac Golf Links course.",
+    "The announcement was made on Saturday afternoon."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#WashingtonDC",
+    "#GolfCourse"
+   ],
+   "sources": [
+    "Newsweek",
+    "Washington Examiner"
+   ],
+   "link": "https://www.newsweek.com/trump-vows-50-discount-for-locals-amid-dc-golf-course-renovation-battle-12716478",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/trump-vows-50-discount-for-locals-amid-dc-golf-course-renovation-battle-12716478"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/white-house/4804018/trump-dc-residents-50-percent-discount-golf-course/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Little_Island%2C_Washington%2C_D.C.%2C_2009%2C_with_Rosslyn_skyline.jpg/1920px-Little_Island%2C_Washington%2C_D.C.%2C_2009%2C_with_Rosslyn_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "WorldIslandInfo.com / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ],
+    "inset": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credit": "Shealeah Craighead / Wikimedia Commons (Public domain)",
+     "short": "WIKIMEDIA COMMONS"
+    }
+   },
+   "img_post": {
+    "headline": "Donald Trump announces discount for Washington residents at golf course",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "East Potomac Golf Links",
+    "image_queries": [
+     "Washington D.C. skyline",
+     "Potomac golf course",
+     "Washington D.C. landmarks",
+     "golf course renovation"
+    ],
+    "image_style": "scene",
+    "location": "Washington, D.C., US",
+    "nearby_city": "Washington, D.C.",
+    "event_query": "East Potomac Golf Links renovation",
+    "news_time": null,
+    "label": "US POLITICS"
+   },
+   "created_at": "2026-11-14T22:31:15.481129+00:00",
+   "news_time": "2026-11-14T21:42:45+00:00",
+   "news_latest": "2026-11-14T22:29:24+00:00",
+   "caption": "Donald Trump announces discount for Washington residents at golf course\n\nDonald Trump announced that local residents will receive a fifty percent discount at the renovated East Potomac Golf Links. The project forms part of a broader effort to renovate prominent sites in Washington, D.C.\n\n💬 Would a fifty percent discount encourage more local residents to visit the renovated golf course?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #WashingtonDC #GolfCourse #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 561,
+   "tg_file_id": "AgACAgUAAxkDAAICMWr44TfyQqZijgeC7c23vfdxKP0PAAKXFGsbT5fJV0r_EQXklRhfAQADAgADdwADPQQ",
+   "extra_msgs": [
+    562
+   ]
   }
  },
  "seen_links": [
@@ -15957,7 +15973,9 @@
   "https://www.nytimes.com/live/2026/11/14/us/faa-nationwide-ground-stop-flights/democrats-congress-faa",
   "https://www.washingtonexaminer.com/news/entertainment/4803933/johnson-back-duffy-demand-fund-aviation-upgrade/",
   "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-  "https://www.france24.com/en/us-transport-secretary-asks-congress-for-30-bn-to-upgrade-aviation-infrastructure"
+  "https://www.france24.com/en/us-transport-secretary-asks-congress-for-30-bn-to-upgrade-aviation-infrastructure",
+  "https://www.newsweek.com/trump-vows-50-discount-for-locals-amid-dc-golf-course-renovation-battle-12716478",
+  "https://www.washingtonexaminer.com/news/white-house/4804018/trump-dc-residents-50-percent-discount-golf-course/"
  ],
  "recent_topics": [
   [
@@ -18644,19 +18662,33 @@
     "wir"
    ],
    "a34f168e06"
+  ],
+  [
+   "2026-11-14T22:31:20.088955+00:00",
+   [
+    "50",
+    "battl",
+    "cours",
+    "discount",
+    "golf",
+    "local",
+    "potomac",
+    "receiv",
+    "renovation",
+    "resident",
+    "trump",
+    "vow"
+   ],
+   "25b47eac9f"
   ]
  ],
- "last_draft_at": "2026-11-14T22:15:47.308225+00:00",
+ "last_draft_at": "2026-11-14T22:30:40.742449+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-14T21:45:43.295058+00:00",
  "run_log": [
-  "11-14 20:15:37 run start",
-  "11-14 20:16:08 listening 11 min",
-  "11-14 20:27:27 listening done",
-  "11-14 20:27:27 run end after 709 s",
   "11-14 20:31:12 run start",
   "11-14 20:31:14 listening 11 min",
   "11-14 20:42:59 listening done",
@@ -18692,13 +18724,15 @@
   "11-14 22:15:46 run start",
   "11-14 22:15:55 listening 11 min",
   "11-14 22:27:14 listening done",
-  "11-14 22:27:14 run end after 687 s"
+  "11-14 22:27:14 run end after 687 s",
+  "11-14 22:30:40 run start",
+  "11-14 22:31:20 listening 11 min",
+  "11-14 22:42:14 listening done",
+  "11-14 22:42:14 run end after 693 s"
  ],
  "day_pack_done": "2026-11-13",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Dana_White_-_London_2015.jpg/1280px-Dana_White_-_London_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Lauren_Boebert_%2851327710110%29_%28cropped%29.jpg/1280px-Lauren_Boebert_%2851327710110%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/New_Orleans_skyline-02_%28cropped%29.jpg/1920px-New_Orleans_skyline-02_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Computer_Screen_with_software_error_at_Gate_11_%28SCL%29.jpg/1920px-Computer_Screen_with_software_error_at_Gate_11_%28SCL%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/The_FAA_air_traffic_control_tower_at_Philadelphia_International_Airport.jpg/1920px-The_FAA_air_traffic_control_tower_at_Philadelphia_International_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -18736,7 +18770,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/BAY_STREET%2C_NASSAU%2C_BAHAMAS.jpg/1920px-BAY_STREET%2C_NASSAU%2C_BAHAMAS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Skyline_of_Jaramana_Refugee_Camp.jpg/1920px-Skyline_of_Jaramana_Refugee_Camp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://live.staticflickr.com/4566/38715631702_b325cf387b_b.jpg",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg/1920px-High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg/1920px-High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Little_Island%2C_Washington%2C_D.C.%2C_2009%2C_with_Rosslyn_skyline.jpg/1920px-Little_Island%2C_Washington%2C_D.C.%2C_2009%2C_with_Rosslyn_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "scott colom": {
@@ -22083,7 +22119,6 @@
    }
   },
   "recent_ideas": [
-   "abu dhabi skyline",
    "capitol hill",
    "manila skyline",
    "juba city",
@@ -22094,7 +22129,8 @@
    "voting booth, united states",
    "bangkok city view",
    "us capitol building",
-   "capitol at night"
+   "capitol at night",
+   "washington d.c. skyline"
   ]
  },
  "comment_perm_told": true,
