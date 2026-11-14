@@ -1,86 +1,6 @@
 {
  "tg_offset": 495893026,
  "drafts": {
-  "cca21c9568": {
-   "id": "cca21c9568",
-   "headline": "US Evacuates Aircraft From RAF Mildenhall Over Iran Threat",
-   "summary": "The US military relocated aircraft from RAF Mildenhall in Britain following a reported threat from Iran. Refuelling tankers diverted to Germany as part of the security measures.",
-   "label": "WORLD",
-   "hook": "Will US forces withdraw from more British airbases amid regional tensions?",
-   "key_points": [
-    "US aircraft moved from RAF Mildenhall over Iran threat.",
-    "Tankers diverted to Germany and other locations.",
-    "Follows withdrawal of bombers from RAF Fairford weeks prior."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#US",
-    "#Iran",
-    "#UK"
-   ],
-   "sources": [
-    "Sky News",
-    "The Guardian"
-   ],
-   "link": "https://news.sky.com/story/us-aircraft-moved-from-raf-mildenhall-over-reported-threat-from-iran-13610466",
-   "links": [
-    [
-     "Sky News",
-     "https://news.sky.com/story/us-aircraft-moved-from-raf-mildenhall-over-reported-threat-from-iran-13610466"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/North_of_Tehran_Skyline_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Ninara from Helsinki, Finland / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "US Evacuates Aircraft From RAF Mildenhall Over Iran Threat",
-    "people": [],
-    "image_query": "RAF Mildenhall airbase",
-    "image_queries": [
-     "RAF Fairford airbase",
-     "military airbase runway",
-     "US military refueling tanker",
-     "German air base"
-    ],
-    "image_style": "scene",
-    "location": "Mildenhall, United Kingdom"
-   },
-   "created_at": "2026-11-10T07:46:07.311514+00:00",
-   "news_time": "2026-11-10T06:46:53+00:00",
-   "news_latest": "2026-11-10T07:31:00+00:00",
-   "caption": "US Evacuates Aircraft From RAF Mildenhall Over Iran Threat\n\nThe US military relocated aircraft from RAF Mildenhall in Britain following a reported threat from Iran. Refuelling tankers diverted to Germany as part of the security measures.\n\n💬 Will US forces withdraw from more British airbases amid regional tensions?\n\n📖 Read more: https://news.sky.com/story/us-aircraft-moved-from-raf-mildenhall-over-reported-threat-from-iran-13610466\n\n#US #Iran #UK #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 248,
-   "tg_file_id": "AgACAgUAAxkDAAP4avLLwSBzhzb14LrcPPYg6mqayRsAAvUTaxuLT5hX9biAiE8WVoUBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-10T09:22:32.124573+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122097368379548584",
-   "posted_at": "2026-11-10T09:22:32.504597+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 10 · 4:22 AM New York · 2:52 PM Sri Lanka\n\n<b>US Evacuates Aircraft From RAF Mildenhall Over Iran Threat</b>\n<i>Sky News, The Guardian</i>\n🟡 <b>Latest:</b> 1:01 PM Sri Lanka (1h 51m ago) · first reported 12:16 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122097368379548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 112,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "977063188811504",
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
-  },
   "1c90d14518": {
    "id": "1c90d14518",
    "headline": "Trump and Qatari Prime Minister discuss US-Iran negotiations",
@@ -20498,17 +20418,13 @@
    "6c4d0f6c73"
   ]
  ],
- "last_draft_at": "2026-11-14T07:31:27.142144+00:00",
+ "last_draft_at": "2026-11-14T07:45:49.445626+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-14T07:30:41.010804+00:00",
  "run_log": [
-  "11-14 05:27:13 run end after 689 s",
-  "11-14 05:30:53 run start",
-  "11-14 05:32:09 listening 10 min",
-  "11-14 05:42:38 listening done",
   "11-14 05:42:38 run end after 705 s",
   "11-14 05:45:33 run start",
   "11-14 05:45:44 listening 11 min",
@@ -20544,7 +20460,11 @@
   "11-14 07:32:36 listen error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
   "11-14 07:33:12 listen error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
   "11-14 07:42:11 listening done",
-  "11-14 07:42:11 run end after 690 s"
+  "11-14 07:42:11 run end after 690 s",
+  "11-14 07:45:49 run start",
+  "11-14 07:46:00 listening 11 min",
+  "11-14 07:57:18 listening done",
+  "11-14 07:57:18 run end after 689 s"
  ],
  "day_pack_done": "2026-11-13",
  "photo_memory": {
