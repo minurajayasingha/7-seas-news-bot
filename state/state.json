@@ -1,86 +1,6 @@
 {
  "tg_offset": 495893027,
  "drafts": {
-  "caba8b6905": {
-   "id": "caba8b6905",
-   "headline": "US becomes first country to skip UN human rights review",
-   "summary": "The United States is skipping its regular human rights review at the United Nations Human Rights Council. A State Department spokesperson stated the body makes a mockery of human rights and pushes anti-American rhetoric.",
-   "label": "DIPLOMACY",
-   "hook": "",
-   "key_points": [
-    "US is skipping regular UN human rights review",
-    "First country to totally boycott the review",
-    "State Department cited anti-American rhetoric"
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#UN",
-    "#HumanRights",
-    "#US"
-   ],
-   "sources": [
-    "CBS News",
-    "The Independent"
-   ],
-   "link": "https://www.independent.co.uk/news/world/americas/us-politics/us-un-human-rights-review-b3082347.html",
-   "links": [
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/us-politics/us-un-human-rights-review-b3082347.html"
-    ],
-    [
-     "CBS News",
-     "https://www.cbsnews.com/news/us-first-nation-refuse-un-human-rights-council-review/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/United_Nations_Headquarters%2C_seen_from_an_NYC_Ferry_on_the_East_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Jdforrester / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "US becomes first country to skip UN human rights review",
-    "people": [],
-    "image_query": "United Nations headquarters",
-    "image_queries": [
-     "UN building New York",
-     "United Nations flag",
-     "US State Department",
-     "UN Human Rights Council"
-    ],
-    "image_style": "scene",
-    "location": "United States"
-   },
-   "created_at": "2026-11-10T12:00:45.477504+00:00",
-   "news_time": "2026-11-10T10:22:57+00:00",
-   "news_latest": "2026-11-10T11:40:48+00:00",
-   "caption": "🚨 BREAKING: US becomes first country to skip UN human rights review\n\nThe United States is skipping its regular human rights review at the United Nations Human Rights Council. A State Department spokesperson stated the body makes a mockery of human rights and pushes anti-American rhetoric.\n\nWhat we know so far:\n• US is skipping regular UN human rights review\n• First country to totally boycott the review\n• State Department cited anti-American rhetoric\n\n📖 Read more: https://www.independent.co.uk/news/world/americas/us-politics/us-un-human-rights-review-b3082347.html\n\n#UN #HumanRights #US #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 262,
-   "tg_file_id": "AgACAgUAAxkDAAIBBmrzB3LaeoogyKDhcmBvt34v3T0HAAILFWsbi0-YVwIINPrNT_4wAQADAgADdwADPQQ",
-   "queued_at": "2026-11-10T14:10:36.484835+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122097575925548584",
-   "posted_at": "2026-11-10T14:10:36.802766+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 10 · 9:10 AM New York · 7:40 PM Sri Lanka\n\n<b>US becomes first country to skip UN human rights review</b>\n<i>CBS News, The Independent</i>\n🟡 <b>Latest:</b> 5:10 PM Sri Lanka (2h 29m ago) · first reported 3:52 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122097575925548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 123,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "1622636529609732",
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-13T13:15:48.346902+00:00"
-  },
   "9e78ddd1bb": {
    "id": "9e78ddd1bb",
    "headline": "Bulgaria motorway crashes: 12 killed in multi-vehicle pile-ups",
@@ -16295,6 +16215,85 @@
    "fb_comment_id": "122101165419548584_2281334252731357",
    "fb_reel_id": "2656635221441129",
    "reel_status": "live"
+  },
+  "f74e3c9e03": {
+   "id": "f74e3c9e03",
+   "headline": "Trump, Xi and Putin to hold unprecedented meeting",
+   "summary": "The White House announced that the leaders of the US, China and Russia will hold an unprecedented meeting. The gathering is scheduled for the sidelines of a major economic summit.",
+   "label": "DIPLOMACY",
+   "hook": "",
+   "key_points": [
+    "The meeting involves the leaders of the US, China and Russia.",
+    "The gathering will take place on the sidelines of an economic summit.",
+    "The announcement was made by the White House."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#WhiteHouse",
+    "#Diplomacy",
+    "#WorldNews"
+   ],
+   "sources": [
+    "DW",
+    "Sky News",
+    "The Independent"
+   ],
+   "link": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-world-4025-rdf",
+   "links": [
+    [
+     "DW",
+     "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-world-4025-rdf"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/europe/ukraine-nato-russia-kyiv-moscow-b3084955.html"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-diesel-deal-vladimir-putin-b3084408.html"
+    ],
+    [
+     "Sky News",
+     "https://news.sky.com/story/trump-xi-and-putin-to-hold-unprecedented-meeting-white-house-says-13612124"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/White_House_South_Lawn_%28Is_that_Bo_the_dog%3F%29_%283452051226%29.jpg/1920px-White_House_South_Lawn_%28Is_that_Bo_the_dog%3F%29_%283452051226%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Francisco Anzola / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Trump, Xi and Putin to hold unprecedented meeting",
+    "people": [],
+    "image_query": "White House",
+    "image_queries": [
+     "Washington D.C. skyline",
+     "economic summit venue",
+     "White House exterior",
+     "international conference hall"
+    ],
+    "image_style": "scene",
+    "location": "Washington, D.C., US",
+    "nearby_city": "Washington, D.C.",
+    "event_query": "White House summit meeting",
+    "news_time": null,
+    "label": "DIPLOMACY"
+   },
+   "created_at": "2026-11-14T12:01:56.764918+00:00",
+   "news_time": "2026-11-14T08:19:00+00:00",
+   "news_latest": "2026-11-14T11:40:00+00:00",
+   "caption": "Trump, Xi and Putin to hold unprecedented meeting\n\nThe White House announced that the leaders of the US, China and Russia will hold an unprecedented meeting. The gathering is scheduled for the sidelines of a major economic summit.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WhiteHouse #Diplomacy #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 539,
+   "tg_file_id": "AgACAgUAAxkDAAICG2r4TcdWmPDpQ2j8Yx4XXan1WRTxAAJpE2sbT5fJVxJpBRZl0NPzAQADAgADdwADPQQ",
+   "extra_msgs": [
+    540
+   ]
   }
  },
  "seen_links": [
@@ -17213,7 +17212,11 @@
   "https://abcnews.com/International/wireStory/southeast-asian-leaders-call-peaceful-resolutions-conflicts-trump-138136538",
   "https://www.aljazeera.com/economy/2026/11/14/southeast-asian-leaders-to-meet-as-trump-visit-highlights-trade-disruption?traffic_source=rss",
   "https://abcnews.com/International/wireStory/south-sudan-postpones-national-elections-february-2027-138138151",
-  "https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february?traffic_source=rss"
+  "https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february?traffic_source=rss",
+  "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-world-4025-rdf",
+  "https://www.independent.co.uk/news/world/europe/ukraine-nato-russia-kyiv-moscow-b3084955.html",
+  "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-diesel-deal-vladimir-putin-b3084408.html",
+  "https://news.sky.com/story/trump-xi-and-putin-to-hold-unprecedented-meeting-white-house-says-13612124"
  ],
  "recent_topics": [
   [
@@ -19919,19 +19922,42 @@
     "until"
    ],
    "e864e28c56"
+  ],
+  [
+   "2026-11-14T12:02:15.646232+00:00",
+   [
+    "alway",
+    "benefit",
+    "deal",
+    "destin",
+    "diesel",
+    "european",
+    "fail",
+    "float",
+    "framework",
+    "hold",
+    "hous",
+    "meet",
+    "putin",
+    "referendum",
+    "security",
+    "shambl",
+    "trump",
+    "ukrain",
+    "unprecedent",
+    "whit",
+    "zelenskyy"
+   ],
+   "f74e3c9e03"
   ]
  ],
- "last_draft_at": "2026-11-14T11:45:31.845802+00:00",
+ "last_draft_at": "2026-11-14T12:01:17.072518+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-14T11:30:43.907331+00:00",
  "run_log": [
-  "11-14 09:39:45 run start",
-  "11-14 09:39:56 listening 11 min",
-  "11-14 09:51:17 listening done",
-  "11-14 09:51:17 run end after 691 s",
   "11-14 09:52:01 run start",
   "11-14 09:52:12 listening 11 min",
   "11-14 10:03:32 listening done",
@@ -19967,12 +19993,15 @@
   "11-14 11:45:31 run start",
   "11-14 11:45:42 listening 11 min",
   "11-14 11:57:00 listening done",
-  "11-14 11:57:00 run end after 689 s"
+  "11-14 11:57:00 run end after 689 s",
+  "11-14 12:01:16 run start",
+  "11-14 12:02:16 listening 11 min",
+  "11-14 12:12:45 listening done",
+  "11-14 12:12:45 run end after 688 s"
  ],
  "day_pack_done": "2026-11-13",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/d/d7/James_Talarico_Open_Congress_Austin_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Mount_Evans_and_Denver_skyline_from_City_Park_Golf_Course.jpg/1920px-Mount_Evans_and_Denver_skyline_from_City_Park_Golf_Course.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Donald_Trump_New_Hampshire_Town_Hall.jpg/1280px-Donald_Trump_New_Hampshire_Town_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -20011,7 +20040,8 @@
    "https://upload.wikimedia.org/wikipedia/commons/c/c5/Abu_Dhabi_Skyline_fron_Corniche_Rd.JPG",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Capitol_Washington_October_2016-1.jpg/1920px-Capitol_Washington_October_2016-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Manila_Skyline_from_Padre_Jacinto_Zamora_Bridge%2C_Pandacan%2C_October_2025.jpg/1920px-Manila_Skyline_from_Padre_Jacinto_Zamora_Bridge%2C_Pandacan%2C_October_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/An_Ariel_view_of_buildings_and_homes_in_Juba_city.jpg/1920px-An_Ariel_view_of_buildings_and_homes_in_Juba_city.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/An_Ariel_view_of_buildings_and_homes_in_Juba_city.jpg/1920px-An_Ariel_view_of_buildings_and_homes_in_Juba_city.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/White_House_South_Lawn_%28Is_that_Bo_the_dog%3F%29_%283452051226%29.jpg/1920px-White_House_South_Lawn_%28Is_that_Bo_the_dog%3F%29_%283452051226%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "tyler robinson": {
@@ -23258,7 +23288,6 @@
    }
   },
   "recent_ideas": [
-   "denver convention center",
    "supreme court building, washington",
    "software error screen",
    "airport control tower",
@@ -23269,7 +23298,8 @@
    "abu dhabi skyline",
    "capitol hill",
    "manila skyline",
-   "juba city"
+   "juba city",
+   "white house south lawn"
   ]
  },
  "comment_perm_told": true,
