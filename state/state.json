@@ -1,80 +1,6 @@
 {
  "tg_offset": 495893026,
  "drafts": {
-  "7e020afc69": {
-   "id": "7e020afc69",
-   "headline": "Scalise and Jordan compete: House Republicans vote for minority leader",
-   "summary": "House Republicans are voting on Tuesday to choose a new leader following midterm election defeats. Steve Scalise and Jim Jordan are competing for the position of minority leader.",
-   "label": "ELECTIONS",
-   "hook": "Will House Republicans choose Steve Scalise or Jim Jordan as their next minority leader?",
-   "key_points": [
-    "House GOP voting on Tuesday for a new leader",
-    "Race is between Steve Scalise and Jim Jordan",
-    "Vote follows midterm election defeats"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#HouseRepublicans",
-    "#USPolitics",
-    "#Congress"
-   ],
-   "sources": [
-    "NPR",
-    "Washington Examiner"
-   ],
-   "link": "https://www.npr.org/2026/11/10/nx-s1-6030988/gop-leadership-election-steve-scalise-jim-jordan",
-   "links": [
-    [
-     "NPR",
-     "https://www.npr.org/2026/11/10/nx-s1-6030988/gop-leadership-election-steve-scalise-jim-jordan"
-    ],
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/news/house/4798260/republicans-pick-scalise-jordan-minority-leader/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Absentee_Ballot_Sendoff_%2854195767561%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "U.S. Embassy and Consulates in Canada / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Scalise and Jordan compete: House Republicans vote for minority leader",
-    "people": [],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "House of Representatives chamber",
-     "Capitol Hill",
-     "voting booth",
-     "US Capitol dome"
-    ],
-    "image_style": "scene",
-    "location": "US"
-   },
-   "created_at": "2026-11-10T10:15:34.374947+00:00",
-   "news_time": "2026-11-10T10:00:00+00:00",
-   "news_latest": "2026-11-10T10:01:00+00:00",
-   "caption": "Scalise and Jordan compete: House Republicans vote for minority leader\n\nHouse Republicans are voting on Tuesday to choose a new leader following midterm election defeats. Steve Scalise and Jim Jordan are competing for the position of minority leader.\n\n💬 Will House Republicans choose Steve Scalise or Jim Jordan as their next minority leader?\n\n📖 Read more: https://www.npr.org/2026/11/10/nx-s1-6030988/gop-leadership-election-steve-scalise-jim-jordan\n\n#HouseRepublicans #USPolitics #Congress #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 252,
-   "tg_file_id": "AgACAgUAAxkDAAP8avLuyfDmoILA3qp_gXXnPf16mFwAAmcUaxuLT5hXQLhegui3sRIBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-10T10:16:00.913512+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122097401595548584",
-   "posted_at": "2026-11-10T10:16:01.229884+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 10 · 5:16 AM New York · 3:46 PM Sri Lanka\n\n<b>Scalise and Jordan compete: House Republicans vote for minority leader</b>\n<i>NPR, Washington Examiner</i>\n🟢 <b>Latest:</b> 3:31 PM Sri Lanka (15 min ago) · first reported 3:30 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122097401595548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 115,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "1820954732443142"
-  },
   "5643d3d7eb": {
    "id": "5643d3d7eb",
    "headline": "Backpack explosion kills police officer in Oviedo",
@@ -20084,17 +20010,13 @@
    "6c4d0f6c73"
   ]
  ],
- "last_draft_at": "2026-11-14T09:52:01.863232+00:00",
+ "last_draft_at": "2026-11-14T10:04:07.465645+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-14T09:27:27.106722+00:00",
  "run_log": [
-  "11-14 07:45:49 run start",
-  "11-14 07:46:00 listening 11 min",
-  "11-14 07:57:18 listening done",
-  "11-14 07:57:18 run end after 689 s",
   "11-14 08:00:48 run start",
   "11-14 08:00:57 listening 11 min",
   "11-14 08:12:16 listening done",
@@ -20130,7 +20052,11 @@
   "11-14 09:52:01 run start",
   "11-14 09:52:12 listening 11 min",
   "11-14 10:03:32 listening done",
-  "11-14 10:03:32 run end after 691 s"
+  "11-14 10:03:32 run end after 691 s",
+  "11-14 10:04:07 run start",
+  "11-14 10:04:17 listening 11 min",
+  "11-14 10:15:36 listening done",
+  "11-14 10:15:36 run end after 689 s"
  ],
  "day_pack_done": "2026-11-13",
  "photo_memory": {
