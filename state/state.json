@@ -15236,6 +15236,76 @@
     "shares": 0
    },
    "stats_at": "2026-11-14T19:45:38.782512+00:00"
+  },
+  "8ded58a7f4": {
+   "id": "8ded58a7f4",
+   "headline": "Car bomb kills two people near Syria capital Damascus",
+   "summary": "Two people, including a man and a child, died in a car bomb explosion in Jaramana. A device was placed inside a vehicle located in the Damascus suburb.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Device placed inside a car",
+    "Incident occurred in Jaramana",
+    "Victims include a young girl"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Syria",
+    "#Damascus",
+    "#WorldNews"
+   ],
+   "sources": [
+    "ABC News",
+    "Al Jazeera"
+   ],
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss"
+    ],
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/bomb-rips-damascus-suburb-killing-2-including-child-138145860"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Skyline_of_Jaramana_Refugee_Camp.jpg/1920px-Skyline_of_Jaramana_Refugee_Camp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Anobel Odisho / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Car bomb kills two people near Syria capital Damascus",
+    "people": [],
+    "image_query": "Damascus suburb street",
+    "image_queries": [
+     "Damascus cityscape",
+     "Syrian flag",
+     "Damascus outskirts",
+     "Middle East city street"
+    ],
+    "image_style": "incident",
+    "location": "Jaramana, Syria",
+    "nearby_city": "Damascus, Syria",
+    "event_query": "Jaramana car bomb attack",
+    "news_time": null,
+    "label": "CONFLICT"
+   },
+   "created_at": "2026-11-14T20:16:05.222712+00:00",
+   "news_time": "2026-11-14T19:30:08+00:00",
+   "news_latest": "2026-11-14T19:46:36+00:00",
+   "caption": "🚨 BREAKING: Car bomb kills two people near Syria capital Damascus\n\nTwo people, including a man and a child, died in a car bomb explosion in Jaramana. A device was placed inside a vehicle located in the Damascus suburb.\n\nWhat we know so far:\n• Device placed inside a car\n• Incident occurred in Jaramana\n• Victims include a young girl\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Syria #Damascus #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 557,
+   "tg_file_id": "AgACAgUAAxkDAAICLWr4wYgHM3HGJgIgywFaUVQ4d-aCAAKKFGsbT5fJV57gZ_kJ9PoUAQADAgADdwADPQQ",
+   "extra_msgs": [
+    558
+   ]
   }
  },
  "seen_links": [
@@ -16195,7 +16265,9 @@
   "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss",
   "https://www.foxnews.com/world/two-americans-drowned-strong-current-ripped-them-bahaman-sea-police-say",
   "https://www.upi.com/Top_News/World-News/2026/11/14/bahamas-2-americans-die/1281794679074/",
-  "https://www.cbsnews.com/news/americans-die-suspected-drowning-bimini-bahamas/"
+  "https://www.cbsnews.com/news/americans-die-suspected-drowning-bimini-bahamas/",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss",
+  "https://abcnews.com/International/wireStory/bomb-rips-damascus-suburb-killing-2-including-child-138145860"
  ],
  "recent_topics": [
   [
@@ -18943,19 +19015,35 @@
     "suspect"
    ],
    "adc7c44a21"
+  ],
+  [
+   "2026-11-14T20:16:08.363288+00:00",
+   [
+    "blast",
+    "bomb",
+    "capital",
+    "car",
+    "child",
+    "damascu",
+    "deadly",
+    "includ",
+    "kill",
+    "near",
+    "rip",
+    "suburb",
+    "syria",
+    "through"
+   ],
+   "8ded58a7f4"
   ]
  ],
- "last_draft_at": "2026-11-14T20:01:11.245394+00:00",
+ "last_draft_at": "2026-11-14T20:15:37.805049+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-14T19:45:38.782512+00:00",
  "run_log": [
-  "11-14 17:45:40 run start",
-  "11-14 17:46:37 listening 11 min",
-  "11-14 17:57:30 listening done",
-  "11-14 17:57:30 run end after 710 s",
   "11-14 18:00:50 run start",
   "11-14 18:01:01 listening 11 min",
   "11-14 18:12:19 listening done",
@@ -18991,12 +19079,15 @@
   "11-14 20:01:10 run start",
   "11-14 20:01:11 listening 11 min",
   "11-14 20:12:55 listening done",
-  "11-14 20:12:55 run end after 704 s"
+  "11-14 20:12:55 run end after 704 s",
+  "11-14 20:15:37 run start",
+  "11-14 20:16:08 listening 11 min",
+  "11-14 20:27:27 listening done",
+  "11-14 20:27:27 run end after 709 s"
  ],
  "day_pack_done": "2026-11-13",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Supreme_Court_Building_Washington_DC.jpg/1920px-Supreme_Court_Building_Washington_DC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/b/b5/Mike_Pence_by_Gage_Skidmore_6_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Donald_Trump_takes_the_oath_of_office_%282025%29.jpg/1280px-Donald_Trump_takes_the_oath_of_office_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Dana_White_-_London_2015.jpg/1280px-Dana_White_-_London_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -19035,7 +19126,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Jensen_huang_stanford_2026-04-09_034.jpg/1280px-Jensen_huang_stanford_2026-04-09_034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Bangkok_City_View.JPG/1920px-Bangkok_City_View.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Carmelle_at_a_press_conference_for_the_2026_Eurovision_Song_Contest_in_Bangkok%2C_Thailand._05.jpg/1280px-Carmelle_at_a_press_conference_for_the_2026_Eurovision_Song_Contest_in_Bangkok%2C_Thailand._05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/BAY_STREET%2C_NASSAU%2C_BAHAMAS.jpg/1920px-BAY_STREET%2C_NASSAU%2C_BAHAMAS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/BAY_STREET%2C_NASSAU%2C_BAHAMAS.jpg/1920px-BAY_STREET%2C_NASSAU%2C_BAHAMAS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Skyline_of_Jaramana_Refugee_Camp.jpg/1920px-Skyline_of_Jaramana_Refugee_Camp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "scott colom": {
