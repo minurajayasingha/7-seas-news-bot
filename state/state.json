@@ -17557,30 +17557,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-11T09:01:10.206089+00:00",
-   [
-    "alert",
-    "approach",
-    "baltic",
-    "dron",
-    "enter",
-    "envoy",
-    "europ",
-    "exchang",
-    "happy",
-    "issu",
-    "liv",
-    "nation",
-    "russia",
-    "second",
-    "strik",
-    "talk",
-    "ukrain",
-    "zelenskyy"
-   ],
-   "adef82c376"
-  ],
-  [
    "2026-11-11T10:01:04.790276+00:00",
    [
     "ahead",
@@ -20291,17 +20267,13 @@
    "6c4d0f6c73"
   ]
  ],
- "last_draft_at": "2026-11-14T08:45:33.671503+00:00",
+ "last_draft_at": "2026-11-14T09:00:45.279091+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-14T08:30:37.702087+00:00",
  "run_log": [
-  "11-14 06:42:26 run end after 699 s",
-  "11-14 06:45:42 run start",
-  "11-14 06:45:53 listening 11 min",
-  "11-14 06:57:13 listening done",
   "11-14 06:57:13 run end after 691 s",
   "11-14 07:01:06 run start",
   "11-14 07:01:09 listening 11 min",
@@ -20337,7 +20309,11 @@
   "11-14 08:45:33 run start",
   "11-14 08:45:43 listening 11 min",
   "11-14 08:57:02 listening done",
-  "11-14 08:57:02 run end after 689 s"
+  "11-14 08:57:02 run end after 689 s",
+  "11-14 09:00:44 run start",
+  "11-14 09:00:55 listening 11 min",
+  "11-14 09:12:15 listening done",
+  "11-14 09:12:15 run end after 690 s"
  ],
  "day_pack_done": "2026-11-13",
  "photo_memory": {
