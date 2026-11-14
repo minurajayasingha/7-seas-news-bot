@@ -1,93 +1,6 @@
 {
  "tg_offset": 495893035,
  "drafts": {
-  "d071e39fe0": {
-   "id": "d071e39fe0",
-   "headline": "Appeals court backs Michael Abramowitz in Voice of America dispute",
-   "summary": "A federal appeals court panel ruled to restore Michael Abramowitz as Voice of America director. The court found that Kari Lake illegally fired Abramowitz without independent approval.",
-   "label": "US POLITICS",
-   "hook": "Was the firing of Michael Abramowitz conducted without proper approval?",
-   "key_points": [
-    "Appeals court panel ruled Tuesday to restore Michael Abramowitz.",
-    "Court found Kari Lake fired Abramowitz illegally.",
-    "Panel backed the reinstatement of the VOA director."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#VoiceOfAmerica",
-    "#USPolitics",
-    "#CourtRuling"
-   ],
-   "sources": [
-    "The Hill",
-    "UPI"
-   ],
-   "link": "https://www.upi.com/Top_News/US/2026/11/10/court-upholds-voice-of-america-director-restoration/1601794351444/",
-   "links": [
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/US/2026/11/10/court-upholds-voice-of-america-director-restoration/1601794351444/"
-    ],
-    [
-     "The Hill",
-     "https://thehill.com/regulation/court-battles/6211850-voice-of-america-head-was-illegally-fired-by-kari-lake-court-says-backing-reinstatement/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Federal_Courthouse_%26_Post_Office.jpg/1920px-Federal_Courthouse_%26_Post_Office.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "McGhiever / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ],
-    "inset": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/VOA_Director_Michael_Abramowitz_at_2024_RNC_GSozbcQacAAPq9z.jpg/1280px-VOA_Director_Michael_Abramowitz_at_2024_RNC_GSozbcQacAAPq9z.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "credit": "Voice of America Director / Wikimedia Commons (Public domain)",
-     "short": "WIKIMEDIA COMMONS"
-    }
-   },
-   "img_post": {
-    "headline": "Appeals court backs Michael Abramowitz in Voice of America dispute",
-    "people": [
-     "Michael Abramowitz",
-     "Kari Lake"
-    ],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "federal courthouse",
-     "courtroom interior",
-     "office building",
-     "government office"
-    ],
-    "image_style": "scene",
-    "location": "Washington, D.C., US"
-   },
-   "created_at": "2026-11-10T23:15:39.034070+00:00",
-   "news_time": "2026-11-10T22:01:46+00:00",
-   "news_latest": "2026-11-10T23:11:08+00:00",
-   "caption": "Appeals court backs Michael Abramowitz in Voice of America dispute\n\nA federal appeals court panel ruled to restore Michael Abramowitz as Voice of America director. The court found that Kari Lake illegally fired Abramowitz without independent approval.\n\n💬 Was the firing of Michael Abramowitz conducted without proper approval?\n\n📖 Read more: https://www.upi.com/Top_News/US/2026/11/10/court-upholds-voice-of-america-director-restoration/1601794351444/\n\n#VoiceOfAmerica #USPolitics #CourtRuling #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 311,
-   "tg_file_id": "AgACAgUAAxkDAAIBN2rzpZ2tcqNWItQdQSb42mq_FH1IAAJSEWsbi0-gV8iXjgABGPm1mgEAAwIAA3cAAz0E",
-   "queued_at": "2026-11-11T03:17:36.209317+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122098134873548584",
-   "posted_at": "2026-11-11T03:17:36.536767+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 10 · 10:17 PM New York · 8:47 AM Sri Lanka\n\n<b>Appeals court backs Michael Abramowitz in Voice of America dispute</b>\n<i>The Hill, UPI</i>\n🔴 <b>Latest:</b> 4:41 AM Sri Lanka (4h 6m ago) · first reported 3:31 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098134873548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 151,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-14T02:30:49.615489+00:00"
-  },
   "cefff21e2b": {
    "id": "cefff21e2b",
    "headline": "Trump withdraws Lee Rudofsky nomination after Arkansas senators object",
@@ -15008,6 +14921,89 @@
    "extra_msgs": [
     562
    ]
+  },
+  "8c85dd6c8c": {
+   "id": "8c85dd6c8c",
+   "headline": "Benjamin Netanyahu calls for Israeli national unity government",
+   "summary": "Israeli caretaker Prime Minister Benjamin Netanyahu renewed his call for a national unity government. Gadi Eisenkot dismissed the appeal as a political ploy during ongoing negotiations to form a new administration.",
+   "label": "WORLD",
+   "hook": "Can government unity talks succeed during these negotiations?",
+   "key_points": [
+    "Netanyahu made the appeal on Saturday.",
+    "Eisenkot is in charge of forming a government.",
+    "A Knesset speaker vote is looming."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Israel",
+    "#WorldNews",
+    "#Politics"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "France 24"
+   ],
+   "link": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/middle-east/20261114-netanyahu-renews-call-for-israeli-government-unity-as-eisenkot-dismisses-tricks"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Benjamin_Netanyahu_Receives_Hudson%27s_Herman_Kahn_Award_%2830287430110%29.jpg/1280px-Benjamin_Netanyahu_Receives_Hudson%27s_Herman_Kahn_Award_%2830287430110%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Hudson Institute / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Benjamin Netanyahu calls for Israeli national unity government",
+    "people": [
+     "Benjamin Netanyahu"
+    ],
+    "image_query": "Knesset building",
+    "image_queries": [
+     "Israeli parliament",
+     "Jerusalem street",
+     "Government offices Israel",
+     "Knesset chamber"
+    ],
+    "image_style": "person",
+    "location": "Israel",
+    "nearby_city": "Jerusalem, Israel",
+    "event_query": "Israel government formation talks",
+    "news_time": null,
+    "label": "WORLD"
+   },
+   "created_at": "2026-11-14T23:15:51.045577+00:00",
+   "news_time": "2026-11-14T20:35:22+00:00",
+   "news_latest": "2026-11-14T23:01:30+00:00",
+   "caption": "Benjamin Netanyahu calls for Israeli national unity government\n\nIsraeli caretaker Prime Minister Benjamin Netanyahu renewed his call for a national unity government. Gadi Eisenkot dismissed the appeal as a political ploy during ongoing negotiations to form a new administration.\n\n💬 Can government unity talks succeed during these negotiations?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Israel #WorldNews #Politics #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 563,
+   "tg_file_id": "AgACAgUAAxkDAAICM2r467HYgRthlYb-RIv10IcRQaOdAAKZFGsbT5fJV6MmsOU1heJtAQADAgADdwADPQQ",
+   "queued_at": "2026-11-14T23:16:01.792765+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-14T23:16:01.792801+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122101653687548584",
+   "posted_at": "2026-11-14T23:16:02.084717+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 14 · 6:16 PM New York · 4:46 AM Sri Lanka\n\n<b>Benjamin Netanyahu calls for Israeli national unity government</b>\n<i>Al Jazeera, France 24</i>\n🟢 <b>Latest:</b> 4:31 AM Sri Lanka (14 min ago) · first reported 2:05 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122101653687548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 369,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122101653687548584_4620891461485374"
   }
  },
  "seen_links": [
@@ -15975,28 +15971,11 @@
   "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
   "https://www.france24.com/en/us-transport-secretary-asks-congress-for-30-bn-to-upgrade-aviation-infrastructure",
   "https://www.newsweek.com/trump-vows-50-discount-for-locals-amid-dc-golf-course-renovation-battle-12716478",
-  "https://www.washingtonexaminer.com/news/white-house/4804018/trump-dc-residents-50-percent-discount-golf-course/"
+  "https://www.washingtonexaminer.com/news/white-house/4804018/trump-dc-residents-50-percent-discount-golf-course/",
+  "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
+  "https://www.france24.com/en/middle-east/20261114-netanyahu-renews-call-for-israeli-government-unity-as-eisenkot-dismisses-tricks"
  ],
  "recent_topics": [
-  [
-   "2026-11-11T23:15:36.065071+00:00",
-   [
-    "bid",
-    "book",
-    "coy",
-    "divid",
-    "heal",
-    "messag",
-    "moor",
-    "nation",
-    "presidential",
-    "releas",
-    "set",
-    "wes",
-    "writ"
-   ],
-   "57d3b49e8b"
-  ],
   [
    "2026-11-12T00:04:25.681719+00:00",
    [
@@ -18619,19 +18598,35 @@
     "vow"
    ],
    "25b47eac9f"
+  ],
+  [
+   "2026-11-14T23:16:01.789186+00:00",
+   [
+    "call",
+    "can",
+    "dismiss",
+    "eisenkot",
+    "government",
+    "guarante",
+    "israel",
+    "israeli",
+    "netanyahu",
+    "only",
+    "renew",
+    "security",
+    "trick",
+    "unity"
+   ],
+   "8c85dd6c8c"
   ]
  ],
- "last_draft_at": "2026-11-14T23:00:44.201136+00:00",
+ "last_draft_at": "2026-11-14T23:15:39.558884+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-14T22:45:47.064802+00:00",
  "run_log": [
-  "11-14 20:56:04 run start",
-  "11-14 20:56:05 listening 11 min",
-  "11-14 21:07:51 listening done",
-  "11-14 21:07:51 run end after 706 s",
   "11-14 21:08:19 run start",
   "11-14 21:08:30 listening 11 min",
   "11-14 21:19:50 listening done",
@@ -18667,12 +18662,15 @@
   "11-14 23:00:43 run start",
   "11-14 23:00:54 listening 11 min",
   "11-14 23:12:12 listening done",
-  "11-14 23:12:12 run end after 688 s"
+  "11-14 23:12:12 run end after 688 s",
+  "11-14 23:15:39 run start",
+  "11-14 23:16:15 listening 11 min",
+  "11-14 23:27:08 listening done",
+  "11-14 23:27:08 run end after 688 s"
  ],
  "day_pack_done": "2026-11-13",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/New_Orleans_skyline-02_%28cropped%29.jpg/1920px-New_Orleans_skyline-02_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Computer_Screen_with_software_error_at_Gate_11_%28SCL%29.jpg/1920px-Computer_Screen_with_software_error_at_Gate_11_%28SCL%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/The_FAA_air_traffic_control_tower_at_Philadelphia_International_Airport.jpg/1920px-The_FAA_air_traffic_control_tower_at_Philadelphia_International_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Wichita%2C_Kansas_skyline_aerial_view.jpg/1920px-Wichita%2C_Kansas_skyline_aerial_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -18711,7 +18709,8 @@
    "https://live.staticflickr.com/4566/38715631702_b325cf387b_b.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg/1920px-High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Little_Island%2C_Washington%2C_D.C.%2C_2009%2C_with_Rosslyn_skyline.jpg/1920px-Little_Island%2C_Washington%2C_D.C.%2C_2009%2C_with_Rosslyn_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Benjamin_Netanyahu_Receives_Hudson%27s_Herman_Kahn_Award_%2830287430110%29.jpg/1280px-Benjamin_Netanyahu_Receives_Hudson%27s_Herman_Kahn_Award_%2830287430110%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "scott colom": {
@@ -22076,10 +22075,10 @@
  "auto_count": {
   "2026-11-12": 17,
   "2026-11-13": 34,
-  "2026-11-14": 17
+  "2026-11-14": 18
  },
- "last_auto_at": "2026-11-14T21:21:12.329051+00:00",
- "last_post_at": "2026-11-14T21:21:30.124962+00:00",
+ "last_auto_at": "2026-11-14T23:16:02.084717+00:00",
+ "last_post_at": "2026-11-14T23:16:06.357405+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
