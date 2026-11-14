@@ -1,88 +1,6 @@
 {
  "tg_offset": 495893027,
  "drafts": {
-  "81cc92e26e": {
-   "id": "81cc92e26e",
-   "headline": "Trump elevates Stephen Miller to be new chief of staff",
-   "summary": "The president elevated Stephen Miller, the person behind a sweeping immigration crackdown, to be his new chief of staff. Reports note Miller has a history of incendiary comments on immigration.",
-   "label": "US POLITICS",
-   "hook": "Should a person with a history of incendiary comments on immigration serve as chief of staff?",
-   "key_points": [
-    "Stephen Miller led a sweeping immigration crackdown.",
-    "Miller is the new chief of staff.",
-    "Miller has a history of incendiary comments."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#Trump",
-    "#Immigration"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "Washington Post"
-   ],
-   "link": "https://www.aljazeera.com/video/doha-debates/2026/11/10/did-humanity-learn-the-right-lessons-from-wwii?traffic_source=rss",
-   "links": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/video/doha-debates/2026/11/10/did-humanity-learn-the-right-lessons-from-wwii?traffic_source=rss"
-    ],
-    [
-     "Washington Post",
-     "https://www.washingtonpost.com/politics/2026/11/10/trump-learned-lesson-immigration-then-he-did-opposite/"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Stephen_Miller_%2854360303177%29_%28cropped%29.jpg/1280px-Stephen_Miller_%2854360303177%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Trump elevates Stephen Miller to be new chief of staff",
-    "people": [
-     "Stephen Miller"
-    ],
-    "image_query": "White House",
-    "image_queries": [
-     "US Capitol building",
-     "West Wing exterior",
-     "Oval Office",
-     "Capitol Hill"
-    ],
-    "image_style": "person",
-    "location": "US"
-   },
-   "created_at": "2026-11-10T14:45:43.056058+00:00",
-   "news_time": "2026-11-10T10:51:12+00:00",
-   "news_latest": "2026-11-10T14:36:03+00:00",
-   "caption": "Trump elevates Stephen Miller to be new chief of staff\n\nThe president elevated Stephen Miller, the person behind a sweeping immigration crackdown, to be his new chief of staff. Reports note Miller has a history of incendiary comments on immigration.\n\n💬 Should a person with a history of incendiary comments on immigration serve as chief of staff?\n\n📖 Read more: https://www.aljazeera.com/video/doha-debates/2026/11/10/did-humanity-learn-the-right-lessons-from-wwii?traffic_source=rss\n\n#USPolitics #Trump #Immigration #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 276,
-   "tg_file_id": "AgACAgUAAxkDAAIBFGrzLhmpjEwlp3Grac0PdJjmHkmBAAKMFWsbi0-YV0J100txeew2AQADAgADdwADPQQ",
-   "dup_ok": true,
-   "extra_msgs": [],
-   "queued_at": "2026-11-10T15:02:13.609635+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122097616539548584",
-   "posted_at": "2026-11-10T15:02:13.921468+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 10 · 10:02 AM New York · 8:32 PM Sri Lanka\n\n<b>Trump elevates Stephen Miller to be new chief of staff</b>\n<i>Al Jazeera, Washington Post</i>\n🟢 <b>Latest:</b> 8:06 PM Sri Lanka (26 min ago) · first reported 4:21 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122097616539548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 129,
-   "log_photo": true,
-   "cleared": true,
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-13T14:15:43.759071+00:00"
-  },
   "b7be145325": {
    "id": "b7be145325",
    "headline": "Thomas Massie leads impeachment drive against Pete Hegseth",
@@ -16915,26 +16833,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-11T14:45:46.432352+00:00",
-   [
-    "assert",
-    "blatant",
-    "criminality",
-    "cross",
-    "democrat",
-    "democratic",
-    "harass",
-    "hous",
-    "investigation",
-    "lin",
-    "oversight",
-    "staff",
-    "warn",
-    "whit"
-   ],
-   "8589cd79f0"
-  ],
-  [
    "2026-11-11T15:17:19.926451+00:00",
    [
     "can",
@@ -19718,17 +19616,13 @@
    "3654e7440e"
   ]
  ],
- "last_draft_at": "2026-11-14T14:31:49.197454+00:00",
+ "last_draft_at": "2026-11-14T14:45:41.582258+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-14T14:30:44.165539+00:00",
  "run_log": [
-  "11-14 12:12:45 run end after 688 s",
-  "11-14 12:15:38 run start",
-  "11-14 12:17:52 listening 9 min",
-  "11-14 12:27:06 listening done",
   "11-14 12:27:06 run end after 688 s",
   "11-14 12:30:38 run start",
   "11-14 12:31:33 listening 11 min",
@@ -19764,7 +19658,11 @@
   "11-14 14:30:43 run start",
   "11-14 14:31:58 listening 10 min",
   "11-14 14:42:30 listening done",
-  "11-14 14:42:30 run end after 707 s"
+  "11-14 14:42:30 run end after 707 s",
+  "11-14 14:45:41 run start",
+  "11-14 14:45:52 listening 11 min",
+  "11-14 14:57:12 listening done",
+  "11-14 14:57:12 run end after 691 s"
  ],
  "day_pack_done": "2026-11-13",
  "photo_memory": {
