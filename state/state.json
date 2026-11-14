@@ -1,85 +1,6 @@
 {
  "tg_offset": 495893035,
  "drafts": {
-  "e61ff03e9d": {
-   "id": "e61ff03e9d",
-   "headline": "US poll: Death penalty loses majority support since 1971",
-   "summary": "According to a new Gallup poll, fewer than 50% of adults in the United States support the death penalty. Support has been declining for years due to concerns about fairness and racial bias.",
-   "label": "US POLITICS",
-   "hook": "Should the United States continue using the death penalty?",
-   "key_points": [
-    "49% of US adults are in favor of capital punishment",
-    "45% of adults are opposed to the death penalty",
-    "Support fell below 50% for the first time since 1971"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#DeathPenalty",
-    "#USNews",
-    "#GallupPoll"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "UPI"
-   ],
-   "link": "https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971?traffic_source=rss",
-   "links": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971?traffic_source=rss"
-    ],
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/US/2026/11/10/gallup-fewer-50-percent-americans-death-penalty/5601794343812/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Robert_F._Kennedy_Department_of_Justice_Building_-_Plato_inscription_-_2714.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Gregory Varnum / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "US poll: Death penalty loses majority support since 1971",
-    "people": [],
-    "image_query": "Supreme Court building",
-    "image_queries": [
-     "US Capitol dome",
-     "Department of Justice building",
-     "prison fence",
-     "voting booth"
-    ],
-    "image_style": "scene",
-    "location": "US"
-   },
-   "created_at": "2026-11-10T22:21:16.938385+00:00",
-   "news_time": "2026-11-10T21:12:24+00:00",
-   "news_latest": "2026-11-10T22:03:20+00:00",
-   "caption": "US poll: Death penalty loses majority support since 1971\n\nAccording to a new Gallup poll, fewer than 50% of adults in the United States support the death penalty. Support has been declining for years due to concerns about fairness and racial bias.\n\n💬 Should the United States continue using the death penalty?\n\n📖 Read more: https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971?traffic_source=rss\n\n#DeathPenalty #USNews #GallupPoll #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 309,
-   "tg_file_id": "AgACAgUAAxkDAAIBNWrzmOD2zy1n_zH6GeUKuB-QxRc6AAJMEWsbi0-gV8TKtsXnBEH2AQADAgADdwADPQQ",
-   "queued_at": "2026-11-11T02:32:32.506264+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122098109589548584",
-   "posted_at": "2026-11-11T02:32:33.675347+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 10 · 9:32 PM New York · 8:02 AM Sri Lanka\n\n<b>US poll: Death penalty loses majority support since 1971</b>\n<i>Al Jazeera, UPI</i>\n🔴 <b>Latest:</b> 3:33 AM Sri Lanka (4h 29m ago) · first reported 2:42 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098109589548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 145,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-14T02:30:49.615489+00:00"
-  },
   "9868f8195c": {
    "id": "9868f8195c",
    "headline": "Israeli forces kill 14-year-old boy during West Bank raid",
@@ -18725,17 +18646,13 @@
    "a34f168e06"
   ]
  ],
- "last_draft_at": "2026-11-14T22:00:54.697540+00:00",
+ "last_draft_at": "2026-11-14T22:15:47.308225+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-14T21:45:43.295058+00:00",
  "run_log": [
-  "11-14 20:01:10 run start",
-  "11-14 20:01:11 listening 11 min",
-  "11-14 20:12:55 listening done",
-  "11-14 20:12:55 run end after 704 s",
   "11-14 20:15:37 run start",
   "11-14 20:16:08 listening 11 min",
   "11-14 20:27:27 listening done",
@@ -18771,7 +18688,11 @@
   "11-14 22:00:54 run start",
   "11-14 22:01:04 listening 11 min",
   "11-14 22:12:24 listening done",
-  "11-14 22:12:24 run end after 689 s"
+  "11-14 22:12:24 run end after 689 s",
+  "11-14 22:15:46 run start",
+  "11-14 22:15:55 listening 11 min",
+  "11-14 22:27:14 listening done",
+  "11-14 22:27:14 run end after 687 s"
  ],
  "day_pack_done": "2026-11-13",
  "photo_memory": {
