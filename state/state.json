@@ -1,102 +1,6 @@
 {
  "tg_offset": 495893027,
  "drafts": {
-  "5513351d03": {
-   "id": "5513351d03",
-   "headline": "Prince Harry and Meghan Markle appear following father arrest",
-   "summary": "Prince Harry and Meghan Markle made their first public appearance following the arrest of her father. The couple attended an event focused on online safety for children.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "First public appearance since the father's arrest",
-    "Event focused on online safety for children"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#PrinceHarry",
-    "#MeghanMarkle",
-    "#WorldNews"
-   ],
-   "sources": [
-    "CBS News",
-    "New York Times",
-    "The Independent",
-    "UPI"
-   ],
-   "link": "https://www.upi.com/Top_News/World-News/2026/11/10/belgium-prince-harry-meghan-markle-appearance/5911794326904/",
-   "links": [
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/World-News/2026/11/10/belgium-prince-harry-meghan-markle-appearance/5911794326904/"
-    ],
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/10/world/europe/meghan-markle-brussels-speech-canceled-prince-harry.html"
-    ],
-    [
-     "CBS News",
-     "https://www.cbsnews.com/video/meghan-and-harry-make-first-public-appearance-since-her-estranged-fathers-arrest/"
-    ],
-    [
-     "CBS News",
-     "https://www.cbsnews.com/news/prince-harry-meghan-eu-thomas-markle-arrest-child-sex-abuse-images/"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Prince_Harry_at_Canterbury_University_%2817547607621%29.jpg/1280px-Prince_Harry_at_Canterbury_University_%2817547607621%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "KoenbrNZ / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Meghan_Markle_%28Paley_Center_%27Suits%27%29.jpg/1280px-Meghan_Markle_%28Paley_Center_%27Suits%27%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Genevieve / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Prince Harry and Meghan Markle appear following father arrest",
-    "people": [
-     "Prince Harry",
-     "Meghan Markle"
-    ],
-    "image_query": "Brussels city street",
-    "image_queries": [
-     "European Union building Brussels",
-     "Brussels skyline",
-     "tech conference stage",
-     "children safety event"
-    ],
-    "image_style": "person",
-    "location": "Brussels, Belgium"
-   },
-   "created_at": "2026-11-10T16:27:24.297919+00:00",
-   "news_time": "2026-11-10T12:46:58+00:00",
-   "news_latest": "2026-11-10T16:22:16+00:00",
-   "caption": "Prince Harry and Meghan Markle appear following father arrest\n\nPrince Harry and Meghan Markle made their first public appearance following the arrest of her father. The couple attended an event focused on online safety for children.\n\n📖 Read more: https://www.upi.com/Top_News/World-News/2026/11/10/belgium-prince-harry-meghan-markle-appearance/5911794326904/\n\n#PrinceHarry #MeghanMarkle #WorldNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 290,
-   "tg_file_id": "AgACAgUAAxkDAAIBImrzRfFmwBkDPrqkJc4iIV3Jn3VLAALTFWsbi0-YV986PxevO70oAQADAgADdwADPQQ",
-   "queued_at": "2026-11-10T16:29:40.455669+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122097695421548584",
-   "posted_at": "2026-11-10T16:29:40.811143+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 10 · 11:29 AM New York · 9:59 PM Sri Lanka\n\n<b>Prince Harry and Meghan Markle appear following father arrest</b>\n<i>CBS News, New York Times, The Independent, UPI</i>\n🟢 <b>Latest:</b> 9:52 PM Sri Lanka (7 min ago) · first reported 6:16 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122097695421548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 135,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-13T16:15:56.036797+00:00"
-  },
   "edbbbef778": {
    "id": "edbbbef778",
    "headline": "House Oversight Committee exposes federal failures in Epstein case",
@@ -19322,17 +19226,13 @@
    "3e31ede6e1"
   ]
  ],
- "last_draft_at": "2026-11-14T16:12:35.975996+00:00",
+ "last_draft_at": "2026-11-14T16:24:42.827519+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-14T15:30:47.713263+00:00",
  "run_log": [
-  "11-14 14:00:48 run start",
-  "11-14 14:07:00 listening 5 min",
-  "11-14 14:12:27 listening done",
-  "11-14 14:12:27 run end after 699 s",
   "11-14 14:15:41 run start",
   "11-14 14:15:52 listening 11 min",
   "11-14 14:27:12 listening done",
@@ -19368,7 +19268,11 @@
   "11-14 16:12:35 run start",
   "11-14 16:12:46 listening 11 min",
   "11-14 16:24:08 listening done",
-  "11-14 16:24:08 run end after 692 s"
+  "11-14 16:24:08 run end after 692 s",
+  "11-14 16:24:42 run start",
+  "11-14 16:24:53 listening 11 min",
+  "11-14 16:36:13 listening done",
+  "11-14 16:36:13 run end after 690 s"
  ],
  "day_pack_done": "2026-11-13",
  "photo_memory": {
