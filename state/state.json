@@ -17813,27 +17813,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-11T06:01:02.519596+00:00",
-   [
-    "captur",
-    "dron",
-    "elit",
-    "indonesian",
-    "occupi",
-    "prisoner",
-    "recruitment",
-    "rubicon",
-    "russian",
-    "strik",
-    "surg",
-    "territory",
-    "ukrain",
-    "unit",
-    "war"
-   ],
-   "6c235661bd"
-  ],
-  [
    "2026-11-11T08:01:18.816625+00:00",
    [
     "biden",
@@ -20609,17 +20588,13 @@
    "6c4d0f6c73"
   ]
  ],
- "last_draft_at": "2026-11-14T05:45:33.840649+00:00",
+ "last_draft_at": "2026-11-14T06:00:41.657813+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-14T05:30:53.527231+00:00",
  "run_log": [
-  "11-14 03:31:16 run start",
-  "11-14 03:32:34 listening 10 min",
-  "11-14 03:43:03 listening done",
-  "11-14 03:43:03 run end after 707 s",
   "11-14 03:45:39 run start",
   "11-14 03:45:57 listening 11 min",
   "11-14 03:57:25 listening done",
@@ -20655,7 +20630,11 @@
   "11-14 05:45:33 run start",
   "11-14 05:45:44 listening 11 min",
   "11-14 05:57:02 listening done",
-  "11-14 05:57:02 run end after 689 s"
+  "11-14 05:57:02 run end after 689 s",
+  "11-14 06:00:41 run start",
+  "11-14 06:00:52 listening 11 min",
+  "11-14 06:12:10 listening done",
+  "11-14 06:12:10 run end after 689 s"
  ],
  "day_pack_done": "2026-11-13",
  "photo_memory": {
