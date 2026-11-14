@@ -1,86 +1,6 @@
 {
  "tg_offset": 495893027,
  "drafts": {
-  "edb20522d6": {
-   "id": "edb20522d6",
-   "headline": "House leadership up for grabs after Republican midterm losses",
-   "summary": "Republicans are facing House leadership races and confronting midterm losses. At the same time, voters in multiple states approved conservative ballot measures.",
-   "label": "US POLITICS",
-   "hook": "How will House Republicans navigate the upcoming leadership contests?",
-   "key_points": [
-    "Republicans grapple with losses from midterm elections",
-    "Conservative ballot measures pass in various states",
-    "House leadership positions face new contests"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#GOP",
-    "#Midterms"
-   ],
-   "sources": [
-    "Fox News",
-    "The Hill"
-   ],
-   "link": "https://thehill.com/newsletters/the-movement/6209451-conservative-ballot-measures-win-big-gop-losses/",
-   "links": [
-    [
-     "The Hill",
-     "https://thehill.com/newsletters/the-movement/6209451-conservative-ballot-measures-win-big-gop-losses/"
-    ],
-    [
-     "Fox News",
-     "https://www.foxnews.com/politics/reporters-notebook-republicans-beat-democrats-impeachment-hegseth-faces-growing-gop-anger"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Iowa_Senate_chamber_05.jpg/1920px-Iowa_Senate_chamber_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Thesavagenorwegian / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "House leadership up for grabs after Republican midterm losses",
-    "people": [],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "House of Representatives chamber",
-     "Capitol Hill",
-     "Senate chamber",
-     "voting booth"
-    ],
-    "image_style": "scene",
-    "location": "US"
-   },
-   "created_at": "2026-11-10T13:15:33.557642+00:00",
-   "news_time": "2026-11-10T11:00:45+00:00",
-   "news_latest": "2026-11-10T13:00:00+00:00",
-   "caption": "House leadership up for grabs after Republican midterm losses\n\nRepublicans are facing House leadership races and confronting midterm losses. At the same time, voters in multiple states approved conservative ballot measures.\n\n💬 How will House Republicans navigate the upcoming leadership contests?\n\n📖 Read more: https://thehill.com/newsletters/the-movement/6209451-conservative-ballot-measures-win-big-gop-losses/\n\n#USPolitics #GOP #Midterms #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 266,
-   "tg_file_id": "AgACAgUAAxkDAAIBCmrzGPeGtWYpdM1aAZEhqiH-NWYoAAI4FWsbi0-YV2lM6eE8prEYAQADAgADdwADPQQ",
-   "dup_ok": true,
-   "extra_msgs": [],
-   "queued_at": "2026-11-10T14:26:01.655075+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122097589773548584",
-   "posted_at": "2026-11-10T14:26:01.962497+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 10 · 9:26 AM New York · 7:56 PM Sri Lanka\n\n<b>House leadership up for grabs after Republican midterm losses</b>\n<i>Fox News, The Hill</i>\n🟡 <b>Latest:</b> 6:30 PM Sri Lanka (1h 26m ago) · first reported 4:30 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122097589773548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 127,
-   "log_photo": true,
-   "cleared": true,
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-13T14:15:43.759071+00:00"
-  },
   "7659ed554e": {
    "id": "7659ed554e",
    "headline": "Labor Department consumer price index reports 0.4 percent increase in October",
@@ -19851,17 +19771,13 @@
    "97e76fab97"
   ]
  ],
- "last_draft_at": "2026-11-14T13:00:46.443738+00:00",
+ "last_draft_at": "2026-11-14T13:15:37.412234+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-14T12:30:38.462030+00:00",
  "run_log": [
-  "11-14 10:45:33 run start",
-  "11-14 10:46:54 listening 10 min",
-  "11-14 10:57:22 listening done",
-  "11-14 10:57:22 run end after 708 s",
   "11-14 11:01:08 run start",
   "11-14 11:02:30 listening 10 min",
   "11-14 11:12:33 listening done",
@@ -19897,7 +19813,11 @@
   "11-14 13:00:46 run start",
   "11-14 13:00:55 listening 11 min",
   "11-14 13:12:14 listening done",
-  "11-14 13:12:14 run end after 687 s"
+  "11-14 13:12:14 run end after 687 s",
+  "11-14 13:15:37 run start",
+  "11-14 13:15:46 listening 11 min",
+  "11-14 13:27:06 listening done",
+  "11-14 13:27:06 run end after 688 s"
  ],
  "day_pack_done": "2026-11-13",
  "photo_memory": {
