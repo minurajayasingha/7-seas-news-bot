@@ -16456,6 +16456,76 @@
    "fb_comment_id": "122101132143548584_1188603697163526",
    "fb_reel_id": "29859894720283573",
    "reel_status": "live"
+  },
+  "992b6af1d7": {
+   "id": "992b6af1d7",
+   "headline": "Republicans face midterm losses following ninth month of Iran war",
+   "summary": "According to reports, Republicans lost House and Senate majorities due to the Iran war. Despite this, GOP critics remain averse to forcing an end to the conflict as a government funding brawl approaches.",
+   "label": "US POLITICS",
+   "hook": "Should Congress force an end to the conflict with Iran?",
+   "key_points": [
+    "GOP avoids more House losses from redistricting",
+    "Government funding brawl awaits to avoid December shutdown",
+    "Republicans dig in against Democratic demands to defund"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#IranWar",
+    "#Midterms"
+   ],
+   "sources": [
+    "New York Times",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/news/senate/4802824/republicans-iran-war-midterm-beating/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/senate/4802824/republicans-iran-war-midterm-beating/"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/13/upshot/gerrymanders-midterm-elections-republicans.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Capitol_Washington_October_2016-1.jpg/1920px-Capitol_Washington_October_2016-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Alvesgaspar / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Republicans face midterm losses following ninth month of Iran war",
+    "people": [],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "voting booth",
+     "white house"
+    ],
+    "image_style": "scene",
+    "location": "US",
+    "nearby_city": "Washington, DC",
+    "event_query": "House of Representatives chamber",
+    "news_time": null,
+    "label": "US POLITICS"
+   },
+   "created_at": "2026-11-14T11:02:23.583048+00:00",
+   "news_time": "2026-11-14T05:14:26+00:00",
+   "news_latest": "2026-11-14T11:00:00+00:00",
+   "caption": "Republicans face midterm losses following ninth month of Iran war\n\nAccording to reports, Republicans lost House and Senate majorities due to the Iran war. Despite this, GOP critics remain averse to forcing an end to the conflict as a government funding brawl approaches.\n\n💬 Should Congress force an end to the conflict with Iran?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #IranWar #Midterms #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 535,
+   "tg_file_id": "AgACAgUAAxkDAAICF2r4P8W-UZ5nrZchEK_MS-jQyUNxAAJFE2sbT5fJVzBQNNogAAGoUwEAAwIAA3cAAz0E",
+   "extra_msgs": [
+    536
+   ]
   }
  },
  "seen_links": [
@@ -17368,7 +17438,9 @@
   "https://www.euronews.com/2026/11/14/us-floats-ukraine-ceding-land-to-russia-in-exchange-for-nato-membership-zelenskyy",
   "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
   "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership",
-  "https://www.aljazeera.com/opinions/2026/11/14/ukraine-is-running-out-of-options-and-russia-knows-it?traffic_source=rss"
+  "https://www.aljazeera.com/opinions/2026/11/14/ukraine-is-running-out-of-options-and-russia-knows-it?traffic_source=rss",
+  "https://www.washingtonexaminer.com/news/senate/4802824/republicans-iran-war-midterm-beating/",
+  "https://www.nytimes.com/2026/11/13/upshot/gerrymanders-midterm-elections-republicans.html"
  ],
  "recent_topics": [
   [
@@ -20070,19 +20142,34 @@
     "zelenskyy"
    ],
    "781d218fd5"
+  ],
+  [
+   "2026-11-14T11:02:30.044539+00:00",
+   [
+    "backfir",
+    "beat",
+    "despit",
+    "did",
+    "end",
+    "forc",
+    "iran",
+    "midterm",
+    "redistrict",
+    "republican",
+    "unwill",
+    "war",
+    "word"
+   ],
+   "992b6af1d7"
   ]
  ],
- "last_draft_at": "2026-11-14T10:45:34.224068+00:00",
+ "last_draft_at": "2026-11-14T11:01:09.211046+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-14T10:31:11.674501+00:00",
  "run_log": [
-  "11-14 08:45:33 run start",
-  "11-14 08:45:43 listening 11 min",
-  "11-14 08:57:02 listening done",
-  "11-14 08:57:02 run end after 689 s",
   "11-14 09:00:44 run start",
   "11-14 09:00:55 listening 11 min",
   "11-14 09:12:15 listening done",
@@ -20118,12 +20205,15 @@
   "11-14 10:45:33 run start",
   "11-14 10:46:54 listening 10 min",
   "11-14 10:57:22 listening done",
-  "11-14 10:57:22 run end after 708 s"
+  "11-14 10:57:22 run end after 708 s",
+  "11-14 11:01:08 run start",
+  "11-14 11:02:30 listening 10 min",
+  "11-14 11:12:33 listening done",
+  "11-14 11:12:33 run end after 685 s"
  ],
  "day_pack_done": "2026-11-13",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/US_Capitol_west_side_at_dusk.JPG/1920px-US_Capitol_west_side_at_dusk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Senate_Democratic_Leader_Chuck_Schumer_%2850519807298%29.jpg/1280px-Senate_Democratic_Leader_Chuck_Schumer_%2850519807298%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/7/7d/Stephen_Miller_July_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://upload.wikimedia.org/wikipedia/commons/d/d7/James_Talarico_Open_Congress_Austin_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -20162,7 +20252,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Vladimir_Putin_on_gala_match_%282014-05-10%29.jpg/1280px-Vladimir_Putin_on_gala_match_%282014-05-10%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Official_portrait_of_the_United_States_Secretary_of_State_Marco_Rubio%2C_January_2025_%28cropped%29.jpg/1280px-Official_portrait_of_the_United_States_Secretary_of_State_Marco_Rubio%2C_January_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/2/25/Josh_Shapiro_in_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://upload.wikimedia.org/wikipedia/commons/c/c5/Abu_Dhabi_Skyline_fron_Corniche_Rd.JPG"
+   "https://upload.wikimedia.org/wikipedia/commons/c/c5/Abu_Dhabi_Skyline_fron_Corniche_Rd.JPG",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Capitol_Washington_October_2016-1.jpg/1920px-Capitol_Washington_October_2016-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "tyler robinson": {
@@ -23409,7 +23500,6 @@
    }
   },
   "recent_ideas": [
-   "denver city skyline",
    "beijing skyline",
    "russell senate office building",
    "denver convention center",
@@ -23420,7 +23510,8 @@
    "us capitol building",
    "federal aviation administration building",
    "china",
-   "abu dhabi skyline"
+   "abu dhabi skyline",
+   "capitol hill"
   ]
  },
  "comment_perm_told": true,
