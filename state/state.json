@@ -1,92 +1,6 @@
 {
  "tg_offset": 495893035,
  "drafts": {
-  "29693a3a86": {
-   "id": "29693a3a86",
-   "headline": "Nancy Pelosi opposes removing Haley Stevens from Democratic caucus",
-   "summary": "Former House Speaker Nancy Pelosi advised colleagues against removing Representative Haley Stevens from the House Democratic caucus. Stevens previously endorsed a Republican candidate in the Michigan Senate race.",
-   "label": "US POLITICS",
-   "hook": "Should political parties remove members who cross party lines for endorsements?",
-   "key_points": [
-    "Pelosi advised against removing Stevens from the caucus",
-    "Stevens endorsed a Michigan Senate Republican candidate"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#Congress",
-    "#NancyPelosi"
-   ],
-   "sources": [
-    "The Hill",
-    "Washington Post"
-   ],
-   "link": "https://thehill.com/homenews/house/6211133-pelosi-advises-against-kicking-stevens-out-of-house-democratic-caucus/",
-   "links": [
-    [
-     "The Hill",
-     "https://thehill.com/homenews/house/6211133-pelosi-advises-against-kicking-stevens-out-of-house-democratic-caucus/"
-    ],
-    [
-     "Washington Post",
-     "https://www.washingtonpost.com/politics/2026/11/10/pelosi-does-not-support-kicking-rep-haley-stevens-out-democratic-caucus/"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Nancy_Pelosi_2012.jpg/1280px-Nancy_Pelosi_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "United States House of Representatives / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Haley_Stevens_20190202_%2802%29.jpg/1280px-Haley_Stevens_20190202_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "SecretName101 / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Nancy Pelosi opposes removing Haley Stevens from Democratic caucus",
-    "people": [
-     "Nancy Pelosi",
-     "Haley Stevens"
-    ],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "House of Representatives chamber",
-     "Capitol Hill",
-     "Senate chamber",
-     "Michigan State Capitol"
-    ],
-    "image_style": "person",
-    "location": "Michigan, US"
-   },
-   "created_at": "2026-11-10T19:15:34.786725+00:00",
-   "news_time": "2026-11-10T17:48:49+00:00",
-   "news_latest": "2026-11-10T19:01:57+00:00",
-   "caption": "Nancy Pelosi opposes removing Haley Stevens from Democratic caucus\n\nFormer House Speaker Nancy Pelosi advised colleagues against removing Representative Haley Stevens from the House Democratic caucus. Stevens previously endorsed a Republican candidate in the Michigan Senate race.\n\n💬 Should political parties remove members who cross party lines for endorsements?\n\n📖 Read more: https://thehill.com/homenews/house/6211133-pelosi-advises-against-kicking-stevens-out-of-house-democratic-caucus/\n\n#USPolitics #Congress #NancyPelosi #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 298,
-   "tg_file_id": "AgACAgUAAxkDAAIBKmrzbVmD9opuEusdMB2Sxuz8zo_mAAL3FWsbi0-YV0tdRzDyNrcpAQADAgADdwADPQQ",
-   "queued_at": "2026-11-11T02:31:25.608382+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122098108179548584",
-   "posted_at": "2026-11-11T02:31:25.921518+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 10 · 9:31 PM New York · 8:01 AM Sri Lanka\n\n<b>Nancy Pelosi opposes removing Haley Stevens from Democratic caucus</b>\n<i>The Hill, Washington Post</i>\n🔴 <b>Latest:</b> 12:31 AM Sri Lanka (7h 29m ago) · first reported 11:18 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098108179548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 140,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-14T02:30:49.615489+00:00"
-  },
   "807303a4ee": {
    "id": "807303a4ee",
    "headline": "Gaza Floods Kill Four: Trump Board Criticizes Israel Response",
@@ -19500,17 +19414,13 @@
    "adc7c44a21"
   ]
  ],
- "last_draft_at": "2026-11-14T19:00:44.069910+00:00",
+ "last_draft_at": "2026-11-14T19:15:42.403352+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-14T18:45:39.111355+00:00",
  "run_log": [
-  "11-14 16:48:45 run start",
-  "11-14 16:48:56 listening 11 min",
-  "11-14 17:00:15 listening done",
-  "11-14 17:00:15 run end after 690 s",
   "11-14 17:00:49 run start",
   "11-14 17:01:00 listening 11 min",
   "11-14 17:12:19 listening done",
@@ -19546,7 +19456,11 @@
   "11-14 19:00:43 run start",
   "11-14 19:02:01 listening 10 min",
   "11-14 19:12:30 listening done",
-  "11-14 19:12:30 run end after 706 s"
+  "11-14 19:12:30 run end after 706 s",
+  "11-14 19:15:41 run start",
+  "11-14 19:15:51 listening 11 min",
+  "11-14 19:27:11 listening done",
+  "11-14 19:27:11 run end after 689 s"
  ],
  "day_pack_done": "2026-11-13",
  "photo_memory": {
