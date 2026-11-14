@@ -15572,6 +15572,84 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122101420995548584_1839557263855276"
+  },
+  "3fd0b8f781": {
+   "id": "3fd0b8f781",
+   "headline": "Elon Musk says Nvidia loses critical deals after Jensen Huang exit",
+   "summary": "US government agencies disagree on handling the fallout after Jensen Huang leaves chips giant Nvidia following reports of extramarital affairs. Meanwhile, Elon Musk states that the company will lose critical deals without Huang.",
+   "label": "ECONOMY",
+   "hook": "Will Nvidia struggle to secure future deals without Jensen Huang?",
+   "key_points": [
+    "The Treasury wanted to blacklist a Singapore company at the heart of the scandal.",
+    "The Commerce Department did not act on the Treasury's request.",
+    "Megaspeed was run by Alice Huang, a suspected Chinese spy."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Nvidia",
+    "#JensenHuang",
+    "#ElonMusk"
+   ],
+   "sources": [
+    "France 24",
+    "The Hill"
+   ],
+   "link": "https://www.france24.com/en/washington-divided-over-how-to-deal-with-fallout-from-the-nvidia-case",
+   "links": [
+    [
+     "France 24",
+     "https://www.france24.com/en/washington-divided-over-how-to-deal-with-fallout-from-the-nvidia-case"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/policy/technology/6220693-elon-musk-predicts-nvidia-losses/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Elon_Musk_Royal_Society.jpg/1280px-Elon_Musk_Royal_Society.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Duncan.Hull / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Jensen_huang_stanford_2026-04-09_034.jpg/1280px-Jensen_huang_stanford_2026-04-09_034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Anders Eidesvik / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Elon Musk says Nvidia loses critical deals after Jensen Huang exit",
+    "people": [
+     "Elon Musk",
+     "Jensen Huang"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "corporate headquarters building",
+     "silicon chip manufacturing",
+     "financial district street",
+     "business meeting room"
+    ],
+    "image_style": "person",
+    "location": "Washington, US",
+    "nearby_city": "Washington, DC",
+    "event_query": "",
+    "news_time": null,
+    "label": "ECONOMY"
+   },
+   "created_at": "2026-11-14T17:31:03.728707+00:00",
+   "news_time": "2026-11-14T16:02:25+00:00",
+   "news_latest": "2026-11-14T17:21:26+00:00",
+   "caption": "Elon Musk says Nvidia loses critical deals after Jensen Huang exit\n\nUS government agencies disagree on handling the fallout after Jensen Huang leaves chips giant Nvidia following reports of extramarital affairs. Meanwhile, Elon Musk states that the company will lose critical deals without Huang.\n\n💬 Will Nvidia struggle to secure future deals without Jensen Huang?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Nvidia #JensenHuang #ElonMusk #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 552,
+   "tg_file_id": "AgACAgUAAxkDAAICKGr4muai1AIkjlNab0MaTTR8rJazAAJqFGsbT5fJV0TNFt8g_yGCAQADAgADdwADPQQ",
+   "extra_msgs": [
+    553
+   ]
   }
  },
  "seen_links": [
@@ -16518,29 +16596,11 @@
   "https://www.washingtonexaminer.com/in_focus/4803921/decoy-dan-sullivan-is-why-americans-dont-trust-elections/",
   "https://www.newsweek.com/two-dan-sullivans-sour-alaska-ranked-choice-voting-12715239",
   "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
-  "https://www.independent.co.uk/news/world/americas/us-politics/alaska-kreiss-tomkins-democrat-trump-b3085002.html"
+  "https://www.independent.co.uk/news/world/americas/us-politics/alaska-kreiss-tomkins-democrat-trump-b3085002.html",
+  "https://www.france24.com/en/washington-divided-over-how-to-deal-with-fallout-from-the-nvidia-case",
+  "https://thehill.com/policy/technology/6220693-elon-musk-predicts-nvidia-losses/"
  ],
  "recent_topics": [
-  [
-   "2026-11-11T17:36:07.230825+00:00",
-   [
-    "angel",
-    "arrest",
-    "charg",
-    "collision",
-    "crash",
-    "driver",
-    "dui",
-    "fatal",
-    "los",
-    "metro",
-    "murder",
-    "polic",
-    "station",
-    "tripl"
-   ],
-   "f92826045e"
-  ],
   [
    "2026-11-11T17:48:05.794601+00:00",
    [
@@ -19329,19 +19389,32 @@
     "win"
    ],
    "5be441503d"
+  ],
+  [
+   "2026-11-14T17:31:18.544085+00:00",
+   [
+    "cas",
+    "critical",
+    "deal",
+    "divid",
+    "fallout",
+    "huang",
+    "lost",
+    "musk",
+    "nvidia",
+    "washington",
+    "without"
+   ],
+   "3fd0b8f781"
   ]
  ],
- "last_draft_at": "2026-11-14T17:15:35.859374+00:00",
+ "last_draft_at": "2026-11-14T17:30:49.483844+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-14T16:36:42.650928+00:00",
  "run_log": [
-  "11-14 15:15:35 run start",
-  "11-14 15:17:12 listening 10 min",
-  "11-14 15:27:15 listening done",
-  "11-14 15:27:15 run end after 700 s",
   "11-14 15:30:47 run start",
   "11-14 15:31:47 listening 11 min",
   "11-14 15:42:16 listening done",
@@ -19377,13 +19450,15 @@
   "11-14 17:15:35 run start",
   "11-14 17:17:05 listening 10 min",
   "11-14 17:27:09 listening done",
-  "11-14 17:27:09 run end after 694 s"
+  "11-14 17:27:09 run end after 694 s",
+  "11-14 17:30:48 run start",
+  "11-14 17:31:18 listening 11 min",
+  "11-14 17:42:15 listening done",
+  "11-14 17:42:15 run end after 686 s"
  ],
  "day_pack_done": "2026-11-13",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/3/36/Jensen_Huang_20231109_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Denver_Convention_Center_%284931093135%29.jpg/1920px-Denver_Convention_Center_%284931093135%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Hakeem_Jeffries_%2854105691671%29.jpg/1280px-Hakeem_Jeffries_%2854105691671%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Gadi_Eisenkot_2_%28cropped%29.jpg/1280px-Gadi_Eisenkot_2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Benjamin_Netanyahu_Receives_Hudson%27s_Herman_Kahn_Award_%2830287430110%29.jpg/1280px-Benjamin_Netanyahu_Receives_Hudson%27s_Herman_Kahn_Award_%2830287430110%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -19421,80 +19496,11 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Ursula_von_der_Leyen%2C_Mark_Carney%2C_Volodymyr_Zelensky_at_the_European_Political_Community_in_Yerevan_-_2026.jpg/1280px-Ursula_von_der_Leyen%2C_Mark_Carney%2C_Volodymyr_Zelensky_at_the_European_Political_Community_in_Yerevan_-_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Day_2_Congressional_Breakfast_Rep_Sean_Duffy_%2816488073657%29.jpg/1280px-Day_2_Congressional_Breakfast_Rep_Sean_Duffy_%2816488073657%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Voting_booth_at_the_Madison_Parish_Courthouse.jpg/1920px-Voting_booth_at_the_Madison_Parish_Courthouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Jonathan_Kreiss-Tomkins_743_2.jpg/1280px-Jonathan_Kreiss-Tomkins_743_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Jonathan_Kreiss-Tomkins_743_2.jpg/1280px-Jonathan_Kreiss-Tomkins_743_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Elon_Musk_Royal_Society.jpg/1280px-Elon_Musk_Royal_Society.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Jensen_huang_stanford_2026-04-09_034.jpg/1280px-Jensen_huang_stanford_2026-04-09_034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
-   "dan sullivan": {
-    "t": "2026-11-09T22:00:41.907473+00:00",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Senator_Dan_Sullivan_official.jpg/1280px-Senator_Dan_Sullivan_official.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "United States Senate / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Dan_Sullivan_in_2021.jpg/1280px-Dan_Sullivan_in_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "The White House / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Dan_Sullivan_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Office of Senator Dan Sullivan / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Dan_Sullivan_2025_%28cropped_3x4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Office of Senator Dan Sullivan / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Dan_Sullivan_in_2021_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "The White House / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Dan_Sullivan_-_May_26_2019_01.jpg/1280px-Dan_Sullivan_-_May_26_2019_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "United States Senate - Office of Dan Sullivan / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Senator_Dan_Sullivan_official_%28cropped%29.jpg/1280px-Senator_Dan_Sullivan_official_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "United States Senate / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Dan_Sullivan_speaking_in_2022_%28cropped%29.jpg/1280px-Dan_Sullivan_speaking_in_2022_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Arctic Warrior / Wikimedia Commons (CC0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Dan_Sullivan_at_John_McCain%27s_grave.jpg/1280px-Dan_Sullivan_at_John_McCain%27s_grave.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "United States Senate - Office of Dan Sullivan / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Dan_Sullivan_2025.jpg/1280px-Dan_Sullivan_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Office of Senator Dan Sullivan / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Dan_Sullivan_speaking_in_2022.jpg/1280px-Dan_Sullivan_speaking_in_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Arctic Warrior / Wikimedia Commons (CC0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     }
-    ]
-   },
    "mary peltola": {
     "t": "2026-11-09T22:00:42.699190+00:00",
     "photos": [
@@ -22725,6 +22731,82 @@
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Sean_Duffy_Official_Portrait_115th_Congress_%28cropped%29.jpg/1280px-Sean_Duffy_Official_Portrait_115th_Congress_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Kristie Boyd, U.S. House Office of Photography/House Creativ / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     }
+    ]
+   },
+   "elon musk": {
+    "t": "2026-11-14T17:31:03.728513+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Elon_Musk_-_54820081119_%28cropped%29.jpg/1280px-Elon_Musk_-_54820081119_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/President_Donald_Trump_signs_executive_orders_alongside_Elon_Musk_in_the_Oval_Office_%2854321919928%29_%28Elon_Musk_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "The White House / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Conectividade_e_Prote%C3%A7%C3%A3o_da_Amaz%C3%B4nia_com_Elon_Musk_-_52090119989.png/1280px-Conectividade_e_Prote%C3%A7%C3%A3o_da_Amaz%C3%B4nia_com_Elon_Musk_-_52090119989.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Ministério Das Comunicações / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg/1280px-Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/20_05_2022_Conectividade_e_Prote%C3%A7%C3%A3o_da_Amaz%C3%B4nia_com_Elon_Musk_%2852089904608%29.png/1280px-20_05_2022_Conectividade_e_Prote%C3%A7%C3%A3o_da_Amaz%C3%B4nia_com_Elon_Musk_%2852089904608%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "MINISTÉRIO DAS COMUNICAÇÕES / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Elon_Musk_%2812271225556%29.jpg/1280px-Elon_Musk_%2812271225556%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Tesla Owners Club Belgium / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Elon_Musk_Colorado_2022.jpg/1280px-Elon_Musk_Colorado_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Trevor Cokley / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Elon_Musk_%2812271217906%29.jpg/1280px-Elon_Musk_%2812271217906%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Tesla Owners Club Belgium / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Happy_Elon_Musk_%2852005460639%29.jpg/1280px-Happy_Elon_Musk_%2852005460639%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Steve Jurvetson from Los Altos, USA / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/20_05_2022_-_Conectividade_e_Prote%C3%A7%C3%A3o_da_Amaz%C3%B4nia_com_Elon_Muskdade_e_Prote%C3%A7%C3%A3o_da_Amaz%C3%B4nia_com_Elon_Musk_%2852094905032%29.jpg/1280px-20_05_2022_-_Conectividade_e_Prote%C3%A7%C3%A3o_da_Amaz%C3%B4nia_com_Elon_Muskdade_e_Prote%C3%A7%C3%A3o_da_Amaz%C3%B4nia_com_Elon_Musk_%2852094905032%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "MINISTÉRIO DAS COMUNICAÇÕES / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Meet_the_new_boss..._Same_as_the_News_boss..._The_Elon_Musk_Twitter_Interview_at_TED_2022_%2852004185747%29.jpg/1280px-Meet_the_new_boss..._Same_as_the_News_boss..._The_Elon_Musk_Twitter_Interview_at_TED_2022_%2852004185747%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Steve Jurvetson from Los Altos, USA / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Elon_Musk_Royal_Society.jpg/1280px-Elon_Musk_Royal_Society.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Duncan.Hull / Wikimedia Commons (CC BY-SA 4.0)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": true
      }
