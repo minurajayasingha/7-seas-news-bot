@@ -17756,27 +17756,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-11T02:08:54.755256+00:00",
-   [
-    "50",
-    "alina",
-    "company",
-    "contract",
-    "deal",
-    "enrag",
-    "fir",
-    "gav",
-    "habba",
-    "los",
-    "mildon",
-    "million",
-    "pardon",
-    "right",
-    "trump"
-   ],
-   "4e24202137"
-  ],
-  [
    "2026-11-11T03:01:25.153309+00:00",
    [
     "back",
@@ -20616,17 +20595,13 @@
    "6d22b6117e"
   ]
  ],
- "last_draft_at": "2026-11-14T01:45:49.129362+00:00",
+ "last_draft_at": "2026-11-14T02:00:41.834694+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-14T01:30:51.649969+00:00",
  "run_log": [
-  "11-13 23:29:09 run end after 708 s",
-  "11-13 23:30:43 run start",
-  "11-13 23:31:53 listening 10 min",
-  "11-13 23:42:22 listening done",
   "11-13 23:42:22 run end after 698 s",
   "11-13 23:45:39 run start",
   "11-13 23:45:50 listening 11 min",
@@ -20662,7 +20637,11 @@
   "11-14 01:45:48 run start",
   "11-14 01:45:57 listening 11 min",
   "11-14 01:57:17 listening done",
-  "11-14 01:57:17 run end after 689 s"
+  "11-14 01:57:17 run end after 689 s",
+  "11-14 02:00:41 run start",
+  "11-14 02:00:51 listening 11 min",
+  "11-14 02:12:09 listening done",
+  "11-14 02:12:09 run end after 688 s"
  ],
  "day_pack_done": "2026-11-12",
  "photo_memory": {
