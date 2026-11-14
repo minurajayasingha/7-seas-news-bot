@@ -1,86 +1,6 @@
 {
  "tg_offset": 495893026,
  "drafts": {
-  "b5834eed2c": {
-   "id": "b5834eed2c",
-   "headline": "US gas prices drop below four dollars per gallon",
-   "summary": "According to AAA data, the average nationwide price for regular gasoline fell below four dollars per gallon. Meanwhile, researchers reported that global fossil fuel emissions are expected to decline.",
-   "label": "ECONOMY",
-   "hook": "Will these lower fuel prices and emissions trends continue?",
-   "key_points": [
-    "Nationwide regular gasoline fell below $4 per gallon.",
-    "Fossil fuel emissions are expected to fall by 0.4 percent.",
-    "Data comes from AAA and new research."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#GasPrices",
-    "#Economy",
-    "#Energy"
-   ],
-   "sources": [
-    "France 24",
-    "NBC News"
-   ],
-   "link": "https://www.nbcnews.com/business/energy/gas-prices-fall-4-gallon-oil-markets-trump-iran-war-russia-ukraine-rcna608498",
-   "links": [
-    [
-     "NBC News",
-     "https://www.nbcnews.com/business/energy/gas-prices-fall-4-gallon-oil-markets-trump-iran-war-russia-ukraine-rcna608498"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/environment/20261110-fossil-fuel-emissions-set-to-fall-for-first-time-since-covid-research-shows"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "AgnosticPreachersKid / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "US gas prices drop below four dollars per gallon",
-    "people": [],
-    "image_query": "gas station sign",
-    "image_queries": [
-     "gas station pumps",
-     "highway traffic",
-     "oil refinery",
-     "renewable energy wind turbines"
-    ],
-    "image_style": "scene",
-    "location": "US"
-   },
-   "created_at": "2026-11-10T09:15:33.227101+00:00",
-   "news_time": "2026-11-10T08:25:03+00:00",
-   "news_latest": "2026-11-10T09:09:12+00:00",
-   "caption": "US gas prices drop below four dollars per gallon\n\nAccording to AAA data, the average nationwide price for regular gasoline fell below four dollars per gallon. Meanwhile, researchers reported that global fossil fuel emissions are expected to decline.\n\n💬 Will these lower fuel prices and emissions trends continue?\n\n📖 Read more: https://www.nbcnews.com/business/energy/gas-prices-fall-4-gallon-oil-markets-trump-iran-war-russia-ukraine-rcna608498\n\n#GasPrices #Economy #Energy #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 250,
-   "tg_file_id": "AgACAgUAAxkDAAP6avLguwI3wm4LD9n2NwrqPrv4tOAAAjUUaxuLT5hXLNImBqpwrRcBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-10T09:21:57.283274+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122097367161548584",
-   "posted_at": "2026-11-10T09:21:57.662264+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 10 · 4:22 AM New York · 2:52 PM Sri Lanka\n\n<b>US gas prices drop below four dollars per gallon</b>\n<i>France 24, NBC News</i>\n🟢 <b>Latest:</b> 2:39 PM Sri Lanka (12 min ago) · first reported 1:55 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122097367161548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 110,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "2434231960715751",
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-13T09:07:58.722244+00:00"
-  },
   "21ce99e6bc": {
    "id": "21ce99e6bc",
    "headline": "Kim Yo Jong rejects United Nations chief inter Korean dialogue call",
@@ -20267,17 +20187,13 @@
    "6c4d0f6c73"
   ]
  ],
- "last_draft_at": "2026-11-14T09:00:45.279091+00:00",
+ "last_draft_at": "2026-11-14T09:15:30.997303+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-14T08:30:37.702087+00:00",
  "run_log": [
-  "11-14 06:57:13 run end after 691 s",
-  "11-14 07:01:06 run start",
-  "11-14 07:01:09 listening 11 min",
-  "11-14 07:12:55 listening done",
   "11-14 07:12:55 run end after 708 s",
   "11-14 07:15:36 run start",
   "11-14 07:15:46 listening 11 min",
@@ -20313,7 +20229,11 @@
   "11-14 09:00:44 run start",
   "11-14 09:00:55 listening 11 min",
   "11-14 09:12:15 listening done",
-  "11-14 09:12:15 run end after 690 s"
+  "11-14 09:12:15 run end after 690 s",
+  "11-14 09:15:30 run start",
+  "11-14 09:15:40 listening 11 min",
+  "11-14 09:26:58 listening done",
+  "11-14 09:26:58 run end after 687 s"
  ],
  "day_pack_done": "2026-11-13",
  "photo_memory": {
