@@ -1,66 +1,6 @@
 {
  "tg_offset": 495893027,
  "drafts": {
-  "9e78ddd1bb": {
-   "id": "9e78ddd1bb",
-   "headline": "Bulgaria motorway crashes: 12 killed in multi-vehicle pile-ups",
-   "summary": "Thick fog in eastern Bulgaria triggered multiple vehicle crashes on a motorway. At least 12 people died and dozens sustained injuries.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "At least 12 people were killed in crashes.",
-    "Dozoens of vehicles were involved in pile-ups.",
-    "The incident occurred on an eastern Bulgarian motorway."
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#Bulgaria",
-    "#WorldNews",
-    "#Accident"
-   ],
-   "sources": [
-    "ABC News",
-    "Sky News"
-   ],
-   "link": "https://abcnews.com/International/wireStory/12-people-killed-dozens-hurt-crashes-foggy-bulgarian-138004407",
-   "links": [
-    [
-     "ABC News",
-     "https://abcnews.com/International/wireStory/12-people-killed-dozens-hurt-crashes-foggy-bulgarian-138004407"
-    ],
-    [
-     "Sky News",
-     "https://news.sky.com/story/at-least-12-killed-in-bulgaria-motorway-pile-ups-involving-dozens-of-vehicles-13610553"
-    ]
-   ],
-   "bg": {
-    "type": "incident",
-    "photos": [],
-    "location": "Bulgaria"
-   },
-   "img_post": {
-    "headline": "Bulgaria motorway crashes: 12 killed in multi-vehicle pile-ups",
-    "people": [],
-    "image_query": "Bulgaria motorway",
-    "image_queries": [
-     "Bulgaria highway",
-     "motorway fog",
-     "traffic accident scene",
-     "emergency vehicles highway"
-    ],
-    "image_style": "incident",
-    "location": "Bulgaria"
-   },
-   "created_at": "2026-11-10T12:46:01.718165+00:00",
-   "news_time": "2026-11-10T10:36:00+00:00",
-   "news_latest": "2026-11-10T12:11:56+00:00",
-   "caption": "🚨 BREAKING: Bulgaria motorway crashes: 12 killed in multi-vehicle pile-ups\n\nThick fog in eastern Bulgaria triggered multiple vehicle crashes on a motorway. At least 12 people died and dozens sustained injuries.\n\nWhat we know so far:\n• At least 12 people were killed in crashes.\n• Dozoens of vehicles were involved in pile-ups.\n• The incident occurred on an eastern Bulgarian motorway.\n\n📖 Read more: https://abcnews.com/International/wireStory/12-people-killed-dozens-hurt-crashes-foggy-bulgarian-138004407\n\n#Bulgaria #WorldNews #Accident #7SeasNews",
-   "status": "replaced",
-   "tg_message_id": 263,
-   "tg_file_id": "AgACAgUAAxkDAAIBB2rzEgyy_QqEDsMCPT03i4jxEV-7AAIwFWsbi0-YV-q5JJmblqvpAQADAgADdwADPQQ",
-   "extra_msgs": [],
-   "cleared": true
-  },
   "71149e7a33": {
    "id": "71149e7a33",
    "headline": "DR Congo court sentences 66 soldiers to death",
@@ -20072,17 +20012,13 @@
    "97e76fab97"
   ]
  ],
- "last_draft_at": "2026-11-14T12:31:24.539164+00:00",
+ "last_draft_at": "2026-11-14T12:45:34.721839+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-14T12:30:38.462030+00:00",
  "run_log": [
-  "11-14 10:16:07 run start",
-  "11-14 10:17:10 listening 10 min",
-  "11-14 10:27:38 listening done",
-  "11-14 10:27:38 run end after 691 s",
   "11-14 10:31:11 run start",
   "11-14 10:32:18 listening 10 min",
   "11-14 10:42:47 listening done",
@@ -20118,7 +20054,11 @@
   "11-14 12:30:38 run start",
   "11-14 12:31:33 listening 11 min",
   "11-14 12:42:26 listening done",
-  "11-14 12:42:26 run end after 708 s"
+  "11-14 12:42:26 run end after 708 s",
+  "11-14 12:45:34 run start",
+  "11-14 12:45:45 listening 11 min",
+  "11-14 12:57:03 listening done",
+  "11-14 12:57:03 run end after 689 s"
  ],
  "day_pack_done": "2026-11-13",
  "photo_memory": {
