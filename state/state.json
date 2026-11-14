@@ -16107,26 +16107,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-11T21:15:38.459769+00:00",
-   [
-    "add",
-    "ask",
-    "court",
-    "delawar",
-    "federal",
-    "fil",
-    "hous",
-    "lawsuit",
-    "resident",
-    "seat",
-    "second",
-    "seek",
-    "stat",
-    "voter"
-   ],
-   "7018d12efa"
-  ],
-  [
    "2026-11-11T21:30:41.774347+00:00",
    [
     "conduct",
@@ -18850,17 +18830,13 @@
    "8ded58a7f4"
   ]
  ],
- "last_draft_at": "2026-11-14T20:56:05.091066+00:00",
+ "last_draft_at": "2026-11-14T21:08:20.144028+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-14T20:43:34.865727+00:00",
  "run_log": [
-  "11-14 18:45:38 run start",
-  "11-14 18:48:32 listening 9 min",
-  "11-14 18:57:21 listening done",
-  "11-14 18:57:21 run end after 702 s",
   "11-14 19:00:43 run start",
   "11-14 19:02:01 listening 10 min",
   "11-14 19:12:30 listening done",
@@ -18896,7 +18872,11 @@
   "11-14 20:56:04 run start",
   "11-14 20:56:05 listening 11 min",
   "11-14 21:07:51 listening done",
-  "11-14 21:07:51 run end after 706 s"
+  "11-14 21:07:51 run end after 706 s",
+  "11-14 21:08:19 run start",
+  "11-14 21:08:30 listening 11 min",
+  "11-14 21:19:50 listening done",
+  "11-14 21:19:50 run end after 691 s"
  ],
  "day_pack_done": "2026-11-13",
  "photo_memory": {
