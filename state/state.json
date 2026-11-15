@@ -1,5 +1,5 @@
 {
- "tg_offset": 495893043,
+ "tg_offset": 495893045,
  "drafts": {
   "d2a57a2109": {
    "id": "d2a57a2109",
@@ -15221,27 +15221,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-12T09:15:43.071457+00:00",
-   [
-    "anti-diversity",
-    "block",
-    "cancel",
-    "city",
-    "dei",
-    "due",
-    "event",
-    "florida",
-    "forc",
-    "gop-back",
-    "law",
-    "parad",
-    "patrick",
-    "prid",
-    "trump"
-   ],
-   "eeea2b2bb2"
-  ],
-  [
    "2026-11-12T09:45:43.365664+00:00",
    [
     "aliv",
@@ -17787,17 +17766,13 @@
    "cf4a7f9609"
   ]
  ],
- "last_draft_at": "2026-11-15T09:01:49.784205+00:00",
+ "last_draft_at": "2026-11-15T09:15:36.691352+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-15T09:00:57.041269+00:00",
  "run_log": [
-  "11-15 07:00:17 run start",
-  "11-15 07:01:37 listening 10 min",
-  "11-15 07:11:42 listening done",
-  "11-15 07:11:42 run end after 685 s",
   "11-15 07:12:09 run start",
   "11-15 07:12:20 listening 11 min",
   "11-15 07:23:38 listening done",
@@ -17833,7 +17808,11 @@
   "11-15 09:00:56 run start",
   "11-15 09:03:01 listening 9 min",
   "11-15 09:12:34 listening done",
-  "11-15 09:12:34 run end after 698 s"
+  "11-15 09:12:34 run end after 698 s",
+  "11-15 09:15:35 run start",
+  "11-15 09:15:46 listening 11 min",
+  "11-15 09:27:04 listening done",
+  "11-15 09:27:04 run end after 689 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
