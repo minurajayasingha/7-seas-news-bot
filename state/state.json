@@ -14764,34 +14764,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-12T20:54:34.582064+00:00",
-   [
-    "crash",
-    "dead",
-    "describ",
-    "four",
-    "gett",
-    "gunman",
-    "gym",
-    "helicopter",
-    "injur",
-    "kill",
-    "leav",
-    "military",
-    "near",
-    "other",
-    "ran",
-    "scen",
-    "shoot",
-    "ther",
-    "turkey",
-    "washington",
-    "way",
-    "witness"
-   ],
-   "d2d973a04c"
-  ],
-  [
    "2026-11-12T21:06:35.822065+00:00",
    [
     "challenger",
@@ -17023,17 +16995,13 @@
    "37af219a26"
   ]
  ],
- "last_draft_at": "2026-11-15T20:35:11.134842+00:00",
+ "last_draft_at": "2026-11-15T20:47:15.348203+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-15T20:11:10.267359+00:00",
  "run_log": [
-  "11-15 18:30:46 run start",
-  "11-15 18:31:54 listening 10 min",
-  "11-15 18:42:22 listening done",
-  "11-15 18:42:22 run end after 696 s",
   "11-15 18:45:41 run start",
   "11-15 18:46:13 listening 11 min",
   "11-15 18:57:06 listening done",
@@ -17069,7 +17037,11 @@
   "11-15 20:35:10 run start",
   "11-15 20:35:27 listening 11 min",
   "11-15 20:46:46 listening done",
-  "11-15 20:46:46 run end after 695 s"
+  "11-15 20:46:46 run end after 695 s",
+  "11-15 20:47:14 run start",
+  "11-15 20:47:25 listening 11 min",
+  "11-15 20:58:45 listening done",
+  "11-15 20:58:45 run end after 690 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
