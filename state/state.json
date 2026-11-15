@@ -1,84 +1,6 @@
 {
  "tg_offset": 495893045,
  "drafts": {
-  "d2a57a2109": {
-   "id": "d2a57a2109",
-   "headline": "DNA confirms four grizzly bears killed two women in Canada",
-   "summary": "Wildlife officials in Canada stated that DNA evidence links four grizzly bears to a deadly attack on a mother and her adult daughter. Investigators describe the incident along a hiking trail in British Columbia as a rare predatory attack.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "Four grizzly bears were captured and killed by authorities.",
-    "The victims were a mother and her adult daughter.",
-    "The attack occurred along a hiking trail in British Columbia."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Canada",
-    "#Wildlife",
-    "#WorldNews"
-   ],
-   "sources": [
-    "New York Times",
-    "The Independent"
-   ],
-   "link": "https://www.independent.co.uk/news/world/americas/grizzly-bear-attack-bella-coola-b3082897.html",
-   "links": [
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/grizzly-bear-attack-bella-coola-b3082897.html"
-    ],
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/10/world/canada/british-columbia-bear-attack.html"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "tg_file_id": "AgACAgUAAxkBAAIBT2r0OAKwhMOWnZvyiWBH7BA1VS_JAAJcFWsbSxqhV2Eu2h0kcWeCAQADAgADeQADPQQ",
-      "credit": ""
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "DNA confirms four grizzly bears killed two women in Canada",
-    "people": [],
-    "image_query": "British Columbia wilderness",
-    "image_queries": [
-     "Canadian forest trail",
-     "grizzly bear habitat",
-     "British Columbia mountains",
-     "Canadian wildlife region"
-    ],
-    "image_style": "incident",
-    "location": "British Columbia, Canada"
-   },
-   "created_at": "2026-11-11T09:40:18.389715+00:00",
-   "news_time": "2026-11-11T07:32:18+00:00",
-   "news_latest": "2026-11-11T07:54:54+00:00",
-   "caption": "DNA confirms four grizzly bears killed two women in Canada\n\nWildlife officials in Canada stated that DNA evidence links four grizzly bears to a deadly attack on a mother and her adult daughter. Investigators describe the incident along a hiking trail in British Columbia as a rare predatory attack.\n\n📖 Read more: https://www.independent.co.uk/news/world/americas/grizzly-bear-attack-bella-coola-b3082897.html\n\n#Canada #Wildlife #WorldNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 336,
-   "tg_file_id": "AgACAgUAAxkDAAIBUGr0OAXi6wT2G1yWue0JxWax2JwDAAJdFWsbSxqhVz_pVduMMqP1AQADAgADdwADPQQ",
-   "queued_at": "2026-11-11T09:40:28.663944+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122098377765548584",
-   "posted_at": "2026-11-11T09:40:28.949448+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 11 · 4:40 AM New York · 3:10 PM Sri Lanka\n\n<b>DNA confirms four grizzly bears killed two women in Canada</b>\n<i>New York Times, The Independent</i>\n🟡 <b>Latest:</b> 1:24 PM Sri Lanka (1h 45m ago) · first reported 1:02 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098377765548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 161,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-14T09:27:27.106722+00:00"
-  },
   "db183405ba": {
    "id": "db183405ba",
    "headline": "Florida judge allows Donald Trump defamation suit against BBC",
@@ -17766,17 +17688,13 @@
    "cf4a7f9609"
   ]
  ],
- "last_draft_at": "2026-11-15T09:15:36.691352+00:00",
+ "last_draft_at": "2026-11-15T09:30:40.497528+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-15T09:00:57.041269+00:00",
  "run_log": [
-  "11-15 07:12:09 run start",
-  "11-15 07:12:20 listening 11 min",
-  "11-15 07:23:38 listening done",
-  "11-15 07:23:38 run end after 689 s",
   "11-15 07:24:07 run start",
   "11-15 07:24:18 listening 11 min",
   "11-15 07:35:37 listening done",
@@ -17812,7 +17730,11 @@
   "11-15 09:15:35 run start",
   "11-15 09:15:46 listening 11 min",
   "11-15 09:27:04 listening done",
-  "11-15 09:27:04 run end after 689 s"
+  "11-15 09:27:04 run end after 689 s",
+  "11-15 09:30:40 run start",
+  "11-15 09:30:49 listening 11 min",
+  "11-15 09:42:08 listening done",
+  "11-15 09:42:08 run end after 688 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
