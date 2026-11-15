@@ -14665,7 +14665,10 @@
   "https://www.newsweek.com/democrats-win-biggest-midterm-vote-share-since-watergate-12715915",
   "https://www.theguardian.com/us-news/2026/nov/15/georgia-midterm-elections-black-voters",
   "https://thehill.com/homenews/senate/6221394-van-hollen-challenges-schumer/",
-  "https://www.newsweek.com/chris-van-hollen-john-fetterman-democrats-exit-ramp-12717299"
+  "https://www.newsweek.com/chris-van-hollen-john-fetterman-democrats-exit-ramp-12717299",
+  "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
+  "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss",
+  "https://abcnews.com/International/wireStory/czechs-gather-big-numbers-reject-governments-plan-overhaul-138158812"
  ],
  "recent_topics": [
   [
@@ -16942,17 +16945,13 @@
    "48b9509c21"
   ]
  ],
- "last_draft_at": "2026-11-15T16:45:48.765107+00:00",
+ "last_draft_at": "2026-11-15T17:00:58.081202+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-15T16:15:39.437210+00:00",
  "run_log": [
-  "11-15 14:30:57 listening 11 min",
-  "11-15 14:42:15 listening done",
-  "11-15 14:42:15 run end after 689 s",
-  "11-15 14:42:43 run start",
   "11-15 14:42:53 listening 11 min",
   "11-15 14:54:13 listening done",
   "11-15 14:54:13 run end after 689 s",
@@ -16988,12 +16987,15 @@
   "11-15 16:42:07 run end after 687 s",
   "11-15 16:45:48 run start",
   "11-15 16:47:02 run error: ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60)",
-  "11-15 16:47:03 run end after 75 s"
+  "11-15 16:47:03 run end after 75 s",
+  "11-15 17:00:57 run start",
+  "11-15 17:01:28 listening 11 min",
+  "11-15 17:12:23 listening done",
+  "11-15 17:12:23 run end after 686 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/The_east_garden_of_the_White_House_in_Washington%2C_D.C.jpg/1920px-The_east_garden_of_the_White_House_in_Washington%2C_D.C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Jonathan_Kreiss-Tomkins_at_Alaska_Day_Parade_crop.jpg/1280px-Jonathan_Kreiss-Tomkins_at_Alaska_Day_Parade_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Northern_Tehran_skyline.jpg/1920px-Northern_Tehran_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/8/86/Doha_skyline_in_the_morning_%2812544910974%29.jpg",
@@ -17032,7 +17034,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Senate_Democratic_Leader_Chuck_Schumer_%2850519807298%29.jpg/1280px-Senate_Democratic_Leader_Chuck_Schumer_%2850519807298%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Teide_Volcano%2C_Tenerife%2C_Canary_Islands%2C_Spain%2C_December_2025.jpg/1920px-Teide_Volcano%2C_Tenerife%2C_Canary_Islands%2C_Spain%2C_December_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/3/37/US_Capitol_Dome_High_Res_Jan_2006.jpg",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Spring_ball0432_Van_Hollen_-_Britto_%2826631121940%29.jpg/1280px-Spring_ball0432_Van_Hollen_-_Britto_%2826631121940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Spring_ball0432_Van_Hollen_-_Britto_%2826631121940%29.jpg/1280px-Spring_ball0432_Van_Hollen_-_Britto_%2826631121940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Wenceslas_Square%2C_Prague_9.jpg/1920px-Wenceslas_Square%2C_Prague_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "paul lepage": {
@@ -20427,7 +20430,6 @@
    }
   },
   "recent_ideas": [
-   "capitol at night",
    "washington d.c. skyline",
    "great hall of the people beijing",
    "federal aviation administration building",
@@ -20438,7 +20440,8 @@
    "white house",
    "national mall, washington",
    "canary islands, spain",
-   "us capitol dome"
+   "us capitol dome",
+   "wenceslas square"
   ]
  },
  "comment_perm_told": true,
