@@ -1,66 +1,6 @@
 {
  "tg_offset": 495893055,
  "drafts": {
-  "f92826045e": {
-   "id": "f92826045e",
-   "headline": "Los Angeles police arrest driver after fatal crash",
-   "summary": "The Los Angeles Police Department arrested a driver on murder charges following a collision. A vehicle struck at least five pedestrians, resulting in three deaths and two injuries near a North location.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "Driver arrested on murder charges by police",
-    "Collision struck at least five pedestrians",
-    "Three people killed and two wounded"
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#LosAngeles",
-    "#News",
-    "#LAPD"
-   ],
-   "sources": [
-    "The Independent",
-    "Washington Examiner"
-   ],
-   "link": "https://www.washingtonexaminer.com/news/crime/4800155/los-angeles-police-arrest-dui-driver-murder-charge-fatal-collision/",
-   "links": [
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/news/crime/4800155/los-angeles-police-arrest-dui-driver-murder-charge-fatal-collision/"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/crime/metro-station-crash-ihor-demianenko-murder-charges-los-angeles-b3083263.html"
-    ]
-   ],
-   "bg": {
-    "type": "incident",
-    "photos": [],
-    "location": "California, US"
-   },
-   "img_post": {
-    "headline": "Los Angeles police arrest driver after fatal crash",
-    "people": [],
-    "image_query": "Los Angeles street",
-    "image_queries": [
-     "police vehicle Los Angeles",
-     "traffic light street",
-     "metro station Los Angeles",
-     "police department building"
-    ],
-    "image_style": "incident",
-    "location": "California, US"
-   },
-   "created_at": "2026-11-11T17:36:04.592645+00:00",
-   "news_time": "2026-11-11T15:36:48+00:00",
-   "news_latest": "2026-11-11T17:25:26+00:00",
-   "caption": "🚨 BREAKING: Los Angeles police arrest driver after fatal crash\n\nThe Los Angeles Police Department arrested a driver on murder charges following a collision. A vehicle struck at least five pedestrians, resulting in three deaths and two injuries near a North location.\n\nWhat we know so far:\n• Driver arrested on murder charges by police\n• Collision struck at least five pedestrians\n• Three people killed and two wounded\n\n📖 Read more: https://www.washingtonexaminer.com/news/crime/4800155/los-angeles-police-arrest-dui-driver-murder-charge-fatal-collision/\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#LosAngeles #News #LAPD #7SeasNews",
-   "status": "skipped",
-   "tg_message_id": 365,
-   "tg_file_id": "AgACAgUAAxkDAAIBbWr0p4aZxrFLYROaxqWKaZ2fd9whAAJkFmsbSxqhV-yf5SUg7yDEAQADAgADdwADPQQ",
-   "extra_msgs": [],
-   "cleared": true
-  },
   "2fb1b09c17": {
    "id": "2fb1b09c17",
    "headline": "Russian Ambassador to US Alexander Darchiev Dies at 66",
@@ -13655,6 +13595,78 @@
     "shares": 0
    },
    "stats_at": "2026-11-15T17:15:31.974783+00:00"
+  },
+  "31ae6bbb8e": {
+   "id": "31ae6bbb8e",
+   "headline": "Transportation Secretary Sean Duffy discusses FAA infrastructure and contract",
+   "summary": "Transportation Secretary Sean Duffy stated he cannot cancel a contract with L3Harris. The firm operates the network behind an FAA outage that led to a nationwide ground stop.",
+   "label": "US POLITICS",
+   "hook": "Should Congress pass legislation to fund new Federal Aviation Administration systems?",
+   "key_points": [
+    "L3Harris owns the FAA communication network.",
+    "A router upgrade caused the ground stop.",
+    "Duffy hopes for bipartisan legislation."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Transportation",
+    "#FAA",
+    "#USPolitics"
+   ],
+   "sources": [
+    "NBC News",
+    "The Hill"
+   ],
+   "link": "https://thehill.com/policy/transportation/6221409-duffy-cannot-cancel-l3harris/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/policy/transportation/6221409-duffy-cannot-cancel-l3harris/"
+    ],
+    [
+     "NBC News",
+     "https://www.nbcnews.com/meet-the-press/video/sec-duffy-says-i-can-t-apologize-for-decades-old-air-traffic-control-infrastructure-273548869867"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Vice_President_JD_Vance_swears_in_Sean_Duffy_as_Secretary_of_Transportation.jpg/1280px-Vice_President_JD_Vance_swears_in_Sean_Duffy_as_Secretary_of_Transportation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Department of Transportation / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Transportation Secretary Sean Duffy discusses FAA infrastructure and contract",
+    "people": [
+     "Sean Duffy"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Federal Aviation Administration building",
+     "airport control tower",
+     "Senate chamber",
+     "transportation committee hearing"
+    ],
+    "image_style": "person",
+    "location": "US",
+    "nearby_city": "Washington, DC",
+    "event_query": "FAA nationwide ground stop",
+    "news_time": null,
+    "label": "US POLITICS"
+   },
+   "created_at": "2026-11-15T17:31:09.454241+00:00",
+   "news_time": "2026-11-15T14:28:22+00:00",
+   "news_latest": "2026-11-15T17:27:07+00:00",
+   "caption": "Transportation Secretary Sean Duffy discusses FAA infrastructure and contract\n\nTransportation Secretary Sean Duffy stated he cannot cancel a contract with L3Harris. The firm operates the network behind an FAA outage that led to a nationwide ground stop.\n\n💬 Should Congress pass legislation to fund new Federal Aviation Administration systems?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Transportation #FAA #USPolitics #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 596,
+   "tg_file_id": "AgACAgUAAxkDAAICVGr57Gi9Lu6T3y2vnVltVSwO3qDdAAKVFGsbT5fRV-e5vgGEs10bAQADAgADdwADPQQ",
+   "extra_msgs": [
+    597
+   ]
   }
  },
  "seen_links": [
@@ -14668,7 +14680,9 @@
   "https://www.newsweek.com/chris-van-hollen-john-fetterman-democrats-exit-ramp-12717299",
   "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
   "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss",
-  "https://abcnews.com/International/wireStory/czechs-gather-big-numbers-reject-governments-plan-overhaul-138158812"
+  "https://abcnews.com/International/wireStory/czechs-gather-big-numbers-reject-governments-plan-overhaul-138158812",
+  "https://thehill.com/policy/transportation/6221409-duffy-cannot-cancel-l3harris/",
+  "https://www.nbcnews.com/meet-the-press/video/sec-duffy-says-i-can-t-apologize-for-decades-old-air-traffic-control-infrastructure-273548869867"
  ],
  "recent_topics": [
   [
@@ -16921,19 +16935,36 @@
     "urg"
    ],
    "48b9509c21"
+  ],
+  [
+   "2026-11-15T17:31:20.717485+00:00",
+   [
+    "air",
+    "apologiz",
+    "behind",
+    "cancel",
+    "cant",
+    "contract",
+    "control",
+    "decades-old",
+    "duffy",
+    "faa",
+    "firm",
+    "infrastructur",
+    "outag",
+    "sec",
+    "traffic"
+   ],
+   "31ae6bbb8e"
   ]
  ],
- "last_draft_at": "2026-11-15T17:16:12.434553+00:00",
+ "last_draft_at": "2026-11-15T17:31:07.717618+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-15T17:15:31.974783+00:00",
  "run_log": [
-  "11-15 14:54:50 listening 11 min",
-  "11-15 15:06:09 listening done",
-  "11-15 15:06:09 run end after 688 s",
-  "11-15 15:06:44 run start",
   "11-15 15:07:52 listening 10 min",
   "11-15 15:18:22 listening done",
   "11-15 15:18:22 run end after 698 s",
@@ -16969,12 +17000,15 @@
   "11-15 17:15:31 run start",
   "11-15 17:16:21 listening 11 min",
   "11-15 17:27:14 listening done",
-  "11-15 17:27:14 run end after 703 s"
+  "11-15 17:27:14 run end after 703 s",
+  "11-15 17:31:07 run start",
+  "11-15 17:31:21 listening 11 min",
+  "11-15 17:42:39 listening done",
+  "11-15 17:42:39 run end after 691 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Jonathan_Kreiss-Tomkins_at_Alaska_Day_Parade_crop.jpg/1280px-Jonathan_Kreiss-Tomkins_at_Alaska_Day_Parade_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Northern_Tehran_skyline.jpg/1920px-Northern_Tehran_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/8/86/Doha_skyline_in_the_morning_%2812544910974%29.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Mount_Ararat%2C_Ararat_Plain%2C_Armenia-Turkey_border%2C_Armenia.jpg/1920px-Mount_Ararat%2C_Ararat_Plain%2C_Armenia-Turkey_border%2C_Armenia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -17013,7 +17047,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Teide_Volcano%2C_Tenerife%2C_Canary_Islands%2C_Spain%2C_December_2025.jpg/1920px-Teide_Volcano%2C_Tenerife%2C_Canary_Islands%2C_Spain%2C_December_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/3/37/US_Capitol_Dome_High_Res_Jan_2006.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Spring_ball0432_Van_Hollen_-_Britto_%2826631121940%29.jpg/1280px-Spring_ball0432_Van_Hollen_-_Britto_%2826631121940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Wenceslas_Square%2C_Prague_9.jpg/1920px-Wenceslas_Square%2C_Prague_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Wenceslas_Square%2C_Prague_9.jpg/1920px-Wenceslas_Square%2C_Prague_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Vice_President_JD_Vance_swears_in_Sean_Duffy_as_Secretary_of_Transportation.jpg/1280px-Vice_President_JD_Vance_swears_in_Sean_Duffy_as_Secretary_of_Transportation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "paul lepage": {
