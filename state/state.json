@@ -1,85 +1,6 @@
 {
  "tg_offset": 495893035,
  "drafts": {
-  "bf6b957b52": {
-   "id": "bf6b957b52",
-   "headline": "Vehicle strikes pedestrians in Los Angeles leaving three dead",
-   "summary": "A car crashed into pedestrians in Los Angeles on Tuesday. According to the Los Angeles Fire Department, three people died at the scene and three injured individuals were hospitalized.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "Three people died at the scene.",
-    "Three injured were taken to the hospital.",
-    "The incident occurred near a bus stop."
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#LosAngeles",
-    "#News",
-    "#California"
-   ],
-   "sources": [
-    "The Independent",
-    "Washington Examiner"
-   ],
-   "link": "https://www.independent.co.uk/news/world/americas/los-angeles-accident-three-dead-b3082832.html",
-   "links": [
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/los-angeles-accident-three-dead-b3082832.html"
-    ],
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/news/4799692/car-hits-pedestrians-north-hollywood-crash/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "tg_file_id": "AgACAgUAAxkBAAIBR2rz7pPSJCfynE8d0Te3yQbGZufkAAK5EWsbi0-gV3K-KPIG0dVDAQADAgADeQADPQQ",
-      "credit": ""
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Vehicle strikes pedestrians in Los Angeles leaving three dead",
-    "people": [],
-    "image_query": "Los Angeles street",
-    "image_queries": [
-     "Los Angeles bus stop",
-     "North Hollywood street",
-     "Los Angeles cityscape",
-     "street intersection"
-    ],
-    "image_style": "incident",
-    "location": "Los Angeles, US"
-   },
-   "created_at": "2026-11-11T04:30:26.692972+00:00",
-   "news_time": "2026-11-11T03:30:33+00:00",
-   "news_latest": "2026-11-11T03:37:01+00:00",
-   "caption": "🚨 BREAKING: Vehicle strikes pedestrians in Los Angeles leaving three dead\n\nA car crashed into pedestrians in Los Angeles on Tuesday. According to the Los Angeles Fire Department, three people died at the scene and three injured individuals were hospitalized.\n\nWhat we know so far:\n• Three people died at the scene.\n• Three injured were taken to the hospital.\n• The incident occurred near a bus stop.\n\n📖 Read more: https://www.independent.co.uk/news/world/americas/los-angeles-accident-three-dead-b3082832.html\n\n#LosAngeles #News #California #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 328,
-   "tg_file_id": "AgACAgUAAxkDAAIBSGrz7231fNVi_-sHMhdliDCPC4CzAAK6EWsbi0-gV0RTSmioRSlbAQADAgADdwADPQQ",
-   "queued_at": "2026-11-11T04:30:54.223079+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122098169997548584",
-   "posted_at": "2026-11-11T04:30:54.563780+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 10 · 11:30 PM New York · 10:00 AM Sri Lanka\n\n<b>Vehicle strikes pedestrians in Los Angeles leaving three dead</b>\n<i>The Independent, Washington Examiner</i>\n🟢 <b>Latest:</b> 9:07 AM Sri Lanka (53 min ago) · first reported 9:00 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098169997548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 159,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "1117339620910658",
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-14T04:30:54.006497+00:00"
-  },
   "82fd68db9e": {
    "id": "82fd68db9e",
    "headline": "US charges three men for plotting UK airbase attack",
@@ -18068,17 +17989,13 @@
    "6f0bb5e135"
   ]
  ],
- "last_draft_at": "2026-11-15T04:16:13.872741+00:00",
+ "last_draft_at": "2026-11-15T04:30:46.195670+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-15T04:00:44.895761+00:00",
  "run_log": [
-  "11-15 02:01:16 run start",
-  "11-15 02:02:02 listening 11 min",
-  "11-15 02:12:57 listening done",
-  "11-15 02:12:57 run end after 701 s",
   "11-15 02:15:32 run start",
   "11-15 02:15:41 listening 11 min",
   "11-15 02:26:59 listening done",
@@ -18114,7 +18031,11 @@
   "11-15 04:16:13 run start",
   "11-15 04:16:14 listening 11 min",
   "11-15 04:28:00 listening done",
-  "11-15 04:28:00 run end after 706 s"
+  "11-15 04:28:00 run end after 706 s",
+  "11-15 04:30:45 run start",
+  "11-15 04:30:55 listening 11 min",
+  "11-15 04:42:15 listening done",
+  "11-15 04:42:15 run end after 689 s"
  ],
  "day_pack_done": "2026-11-13",
  "photo_memory": {
