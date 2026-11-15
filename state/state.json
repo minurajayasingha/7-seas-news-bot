@@ -13723,6 +13723,88 @@
     "shares": 0
    },
    "stats_at": "2026-11-15T15:06:44.882497+00:00"
+  },
+  "0b57dc62c4": {
+   "id": "0b57dc62c4",
+   "headline": "Midterm losses challenge Donald Trump and Republican leaders",
+   "summary": "Recent midterm losses challenge President Donald Trump and his handpicked Republican National Committee chairman amid a growing internal party divide. In several states, Democrats also gained control of legislatures and weakened Republican dominance.",
+   "label": "US POLITICS",
+   "hook": "How will the Republican Party address the divide between MAGA and non-MAGA voters?",
+   "key_points": [
+    "A rebellion forms against the RNC chairman.",
+    "Poll results reveal tension among voters.",
+    "State legislatures saw shifts in party control."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#RepublicanParty",
+    "#Midterms"
+   ],
+   "sources": [
+    "ABC News",
+    "NPR",
+    "Politico"
+   ],
+   "link": "https://abcnews.com/Politics/wireStory/trumps-handpicked-party-chair-faces-rebellion-midterm-losses-138155824",
+   "links": [
+    [
+     "ABC News",
+     "https://abcnews.com/Politics/wireStory/trumps-handpicked-party-chair-faces-rebellion-midterm-losses-138155824"
+    ],
+    [
+     "Politico",
+     "https://www.politico.com/news/2026/11/15/tpp-trump-coalition-maga-breaks-01164574"
+    ],
+    [
+     "NPR",
+     "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/National_Mall%2C_Washington%2C_D.C._%2820100325-DSC01342%29.jpg/1920px-National_Mall%2C_Washington%2C_D.C._%2820100325-DSC01342%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Matti Blume / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ],
+    "inset": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credit": "Master Sgt. Michel Sauret / Wikimedia Commons (Public domain)",
+     "short": "WIKIMEDIA COMMONS"
+    }
+   },
+   "img_post": {
+    "headline": "Midterm losses challenge Donald Trump and Republican leaders",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "voting booth",
+     "Republican National Committee",
+     "state capitol building",
+     "election ballots"
+    ],
+    "image_style": "scene",
+    "location": "US",
+    "nearby_city": "Washington, DC",
+    "event_query": "Republican National Committee headquarters",
+    "news_time": null,
+    "label": "US POLITICS"
+   },
+   "created_at": "2026-11-15T15:19:32.491832+00:00",
+   "news_time": "2026-11-15T10:00:00+00:00",
+   "news_latest": "2026-11-15T15:03:42+00:00",
+   "caption": "Midterm losses challenge Donald Trump and Republican leaders\n\nRecent midterm losses challenge President Donald Trump and his handpicked Republican National Committee chairman amid a growing internal party divide. In several states, Democrats also gained control of legislatures and weakened Republican dominance.\n\n💬 How will the Republican Party address the divide between MAGA and non-MAGA voters?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #RepublicanParty #Midterms #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 587,
+   "tg_file_id": "AgACAgUAAxkDAAICS2r5zZDNhULuVvoUvyRpaBx3GIXTAAJ6FGsbT5fRVzxkJ3TrDy3AAQADAgADdwADPQQ",
+   "extra_msgs": [
+    588
+   ]
   }
  },
  "seen_links": [
@@ -14721,7 +14803,10 @@
   "https://thehill.com/policy/international/6221247-israel-kills-hamas-commander/",
   "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
   "https://www.france24.com/en/chinese-spy-chip-sales-trump-ties-the-nvidia-scandal-deepens",
-  "https://www.today.com/video/how-the-white-house-is-reacting-to-nvidia-scandal-fallout-273546821997"
+  "https://www.today.com/video/how-the-white-house-is-reacting-to-nvidia-scandal-fallout-273546821997",
+  "https://abcnews.com/Politics/wireStory/trumps-handpicked-party-chair-faces-rebellion-midterm-losses-138155824",
+  "https://www.politico.com/news/2026/11/15/tpp-trump-coalition-maga-breaks-01164574",
+  "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop"
  ],
  "recent_topics": [
   [
@@ -17011,19 +17096,44 @@
     "whit"
    ],
    "3a3e4b6bc2"
+  ],
+  [
+   "2026-11-15T15:19:45.028139+00:00",
+   [
+    "chair",
+    "challeng",
+    "deepen",
+    "divid",
+    "dominanc",
+    "end",
+    "fac",
+    "gop",
+    "grip",
+    "handpick",
+    "legislatur",
+    "long-runn",
+    "loss",
+    "maga",
+    "midterm",
+    "non-maga",
+    "party",
+    "poll",
+    "president",
+    "rebellion",
+    "stat",
+    "trump",
+    "voter"
+   ],
+   "0b57dc62c4"
   ]
  ],
- "last_draft_at": "2026-11-15T15:07:44.272415+00:00",
+ "last_draft_at": "2026-11-15T15:19:09.836091+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-15T15:06:44.882497+00:00",
  "run_log": [
-  "11-15 12:57:15 run end after 689 s",
-  "11-15 13:01:11 run start",
-  "11-15 13:03:16 listening 9 min",
-  "11-15 13:12:57 listening done",
   "11-15 13:12:57 run end after 705 s",
   "11-15 13:15:38 run start",
   "11-15 13:17:13 run error: ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60)",
@@ -17059,13 +17169,15 @@
   "11-15 15:06:44 run start",
   "11-15 15:07:52 listening 10 min",
   "11-15 15:18:22 listening done",
-  "11-15 15:18:22 run end after 698 s"
+  "11-15 15:18:22 run end after 698 s",
+  "11-15 15:19:09 run start",
+  "11-15 15:19:45 listening 11 min",
+  "11-15 15:30:39 listening done",
+  "11-15 15:30:39 run end after 689 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Official_portrait_of_the_United_States_Secretary_of_State_Marco_Rubio%2C_January_2025_%28cropped%29.jpg/1280px-Official_portrait_of_the_United_States_Secretary_of_State_Marco_Rubio%2C_January_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/2/25/Josh_Shapiro_in_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://upload.wikimedia.org/wikipedia/commons/c/c5/Abu_Dhabi_Skyline_fron_Corniche_Rd.JPG",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Capitol_Washington_October_2016-1.jpg/1920px-Capitol_Washington_October_2016-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Manila_Skyline_from_Padre_Jacinto_Zamora_Bridge%2C_Pandacan%2C_October_2025.jpg/1920px-Manila_Skyline_from_Padre_Jacinto_Zamora_Bridge%2C_Pandacan%2C_October_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -17103,7 +17215,9 @@
    "https://upload.wikimedia.org/wikipedia/commons/5/59/Jensen_Huang_%28cropped%29_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://upload.wikimedia.org/wikipedia/commons/4/43/Manila_Cityscape_-_panoramio.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Miami_Skyline-02.jpg/1920px-Miami_Skyline-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://live.staticflickr.com/3237/2770838680_cd002e04a5_b.jpg"
+   "https://live.staticflickr.com/3237/2770838680_cd002e04a5_b.jpg",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/National_Mall%2C_Washington%2C_D.C._%2820100325-DSC01342%29.jpg/1920px-National_Mall%2C_Washington%2C_D.C._%2820100325-DSC01342%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "paul lepage": {
@@ -20498,7 +20612,6 @@
    }
   },
   "recent_ideas": [
-   "voting booth, united states",
    "bangkok city view",
    "us capitol building",
    "capitol at night",
@@ -20509,7 +20622,8 @@
    "spacex launch facility",
    "early voting, united states",
    "manila cityscape",
-   "white house"
+   "white house",
+   "national mall, washington"
   ]
  },
  "comment_perm_told": true,
