@@ -13860,12 +13860,11 @@
    "news_time": "2026-11-14T21:42:45+00:00",
    "news_latest": "2026-11-14T22:29:24+00:00",
    "caption": "Donald Trump announces discount for Washington residents at golf course\n\nDonald Trump announced that local residents will receive a fifty percent discount at the renovated East Potomac Golf Links. The project forms part of a broader effort to renovate prominent sites in Washington, D.C.\n\n💬 Would a fifty percent discount encourage more local residents to visit the renovated golf course?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #WashingtonDC #GolfCourse #7SeasNews",
-   "status": "pending",
+   "status": "expired",
    "tg_message_id": 561,
    "tg_file_id": "AgACAgUAAxkDAAICMWr44TfyQqZijgeC7c23vfdxKP0PAAKXFGsbT5fJV0r_EQXklRhfAQADAgADdwADPQQ",
-   "extra_msgs": [
-    562
-   ]
+   "extra_msgs": [],
+   "cleared": true
   },
   "8c85dd6c8c": {
    "id": "8c85dd6c8c",
@@ -17787,17 +17786,13 @@
    "6f0bb5e135"
   ]
  ],
- "last_draft_at": "2026-11-15T06:15:53.789479+00:00",
+ "last_draft_at": "2026-11-15T06:30:58.398546+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-15T06:00:47.322509+00:00",
  "run_log": [
-  "11-15 04:00:44 run start",
-  "11-15 04:01:41 listening 11 min",
-  "11-15 04:12:10 listening done",
-  "11-15 04:12:10 run end after 685 s",
   "11-15 04:16:13 run start",
   "11-15 04:16:14 listening 11 min",
   "11-15 04:28:00 listening done",
@@ -17833,7 +17828,11 @@
   "11-15 06:15:53 run start",
   "11-15 06:15:54 listening 11 min",
   "11-15 06:27:37 listening done",
-  "11-15 06:27:37 run end after 703 s"
+  "11-15 06:27:37 run end after 703 s",
+  "11-15 06:30:56 run start",
+  "11-15 06:31:08 listening 11 min",
+  "11-15 06:42:28 listening done",
+  "11-15 06:42:28 run end after 691 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
