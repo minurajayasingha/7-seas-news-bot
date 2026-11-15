@@ -1,85 +1,6 @@
 {
  "tg_offset": 495893062,
  "drafts": {
-  "dbb5db25ae": {
-   "id": "dbb5db25ae",
-   "headline": "Home heating costs will rise this winter",
-   "summary": "According to new data, home heating costs will increase by roughly 7.1 percent compared to last year. American households will spend an average of $1,002 on heating this winter.",
-   "label": "ECONOMY",
-   "hook": "How will these increased heating costs affect your household budget this winter?",
-   "key_points": [
-    "Home heating costs will rise by 7.1 percent.",
-    "American households will spend an average of $1,002.",
-    "Costs will increase by $66 from 2025."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#HeatingCosts",
-    "#Economy",
-    "#Winter"
-   ],
-   "sources": [
-    "New York Times",
-    "The Hill"
-   ],
-   "link": "https://thehill.com/policy/energy-environment/6214369-home-heating-costs-rise/",
-   "links": [
-    [
-     "The Hill",
-     "https://thehill.com/policy/energy-environment/6214369-home-heating-costs-rise/"
-    ],
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/11/business/energy-environment/winter-heating-oil-costs.html"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/View_of_Port_of_Los_Angeles_with_container_ships.jpg/1920px-View_of_Port_of_Los_Angeles_with_container_ships.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Downtowngal / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Home heating costs will rise this winter",
-    "people": [],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "American home exterior",
-     "home thermostat",
-     "heating oil tank",
-     "winter snow scene"
-    ],
-    "image_style": "scene",
-    "location": "US"
-   },
-   "created_at": "2026-11-11T21:45:39.845852+00:00",
-   "news_time": "2026-11-11T17:16:17+00:00",
-   "news_latest": "2026-11-11T21:40:53+00:00",
-   "caption": "Home heating costs will rise this winter\n\nAccording to new data, home heating costs will increase by roughly 7.1 percent compared to last year. American households will spend an average of $1,002 on heating this winter.\n\n💬 How will these increased heating costs affect your household budget this winter?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#HeatingCosts #Economy #Winter #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 378,
-   "tg_file_id": "AgACAgUAAxkDAAIBemr04g7i-Q9SiPcCg4kZ1PTD5mx7AAIPEmsbSxqpV2J08Fx2ziTUAQADAgADdwADPQQ",
-   "queued_at": "2026-11-12T03:07:30.600171+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122099100981548584",
-   "posted_at": "2026-11-12T03:07:30.981310+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 11 · 10:07 PM New York · 8:37 AM Sri Lanka\n\n<b>Home heating costs will rise this winter</b>\n<i>New York Times, The Hill</i>\n🔴 <b>Latest:</b> 3:10 AM Sri Lanka (5h 26m ago) · first reported 10:46 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099100981548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 195,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-15T03:00:47.208586+00:00"
-  },
   "585d196ff8": {
    "id": "585d196ff8",
    "headline": "Bernie Sanders supports Chris Van Hollen for majority leader",
@@ -14590,41 +14511,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-12T21:46:06.357101+00:00",
-   [
-    "bill",
-    "block",
-    "democrat",
-    "leadership",
-    "military",
-    "mov",
-    "push",
-    "reconciliation",
-    "resist",
-    "senat",
-    "trump",
-    "urg"
-   ],
-   "07f7523644"
-  ],
-  [
-   "2026-11-12T21:46:13.419156+00:00",
-   [
-    "condition",
-    "deal",
-    "door",
-    "immigration",
-    "leav",
-    "open",
-    "penc",
-    "presidential",
-    "republican",
-    "run",
-    "trump"
-   ],
-   "0d43fbfa9c"
-  ],
-  [
    "2026-11-12T22:02:25.501703+00:00",
    [
     "arch",
@@ -16810,17 +16696,13 @@
    "d5b59389d4"
   ]
  ],
- "last_draft_at": "2026-11-15T21:31:03.244006+00:00",
+ "last_draft_at": "2026-11-15T21:45:41.257512+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-15T21:15:41.213574+00:00",
  "run_log": [
-  "11-15 19:30:48 run start",
-  "11-15 19:30:59 listening 11 min",
-  "11-15 19:42:20 listening done",
-  "11-15 19:42:20 run end after 691 s",
   "11-15 19:45:32 run start",
   "11-15 19:46:09 listening 11 min",
   "11-15 19:57:02 listening done",
@@ -16856,7 +16738,11 @@
   "11-15 21:31:02 run start",
   "11-15 21:31:41 listening 11 min",
   "11-15 21:42:35 listening done",
-  "11-15 21:42:35 run end after 692 s"
+  "11-15 21:42:35 run end after 692 s",
+  "11-15 21:45:40 run start",
+  "11-15 21:45:50 listening 11 min",
+  "11-15 21:57:09 listening done",
+  "11-15 21:57:09 run end after 688 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
