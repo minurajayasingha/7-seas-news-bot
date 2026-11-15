@@ -14836,6 +14836,81 @@
    "extra_msgs": [
     565
    ]
+  },
+  "e0b2b3e102": {
+   "id": "e0b2b3e102",
+   "headline": "US flights resume after Federal Aviation Administration ground stop",
+   "summary": "US flights have resumed following a rare nationwide ground stop issued by the Federal Aviation Administration. Officials are investigating whether ageing technology, a faulty router, or contractor incompetence caused the outage.",
+   "label": "US POLITICS",
+   "hook": "What caused the nationwide flight ground stop?",
+   "key_points": [
+    "The Federal Aviation Administration ordered a nationwide halt on flights.",
+    "Officials investigated contractor incompetence and faulty technology.",
+    "US flights have since resumed normal operations."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USFlights",
+    "#FAA",
+    "#Travel"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "New York Times",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-blames-ground-stop-old-equipment-b3084980.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/us-politics/trump-blames-ground-stop-old-equipment-b3084980.html"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/14/us/politics/trump-flights-air-traffic-social-media.html"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-flights-resume-after-ageing-technology-blamed-for-outage?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Federal_Aviation_Administration_-_Wilbur_Wright_Federal_Building_%2853830788187%29.jpg/1920px-Federal_Aviation_Administration_-_Wilbur_Wright_Federal_Building_%2853830788187%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "ajay_suresh / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "US flights resume after Federal Aviation Administration ground stop",
+    "people": [],
+    "image_query": "Federal Aviation Administration building",
+    "image_queries": [
+     "airport terminal",
+     "airplane on tarmac",
+     "control tower",
+     "control room"
+    ],
+    "image_style": "scene",
+    "location": "US",
+    "nearby_city": "Washington, DC",
+    "event_query": "US flight ground stop",
+    "news_time": null,
+    "label": "US POLITICS"
+   },
+   "created_at": "2026-11-15T00:40:11.211600+00:00",
+   "news_time": "2026-11-14T21:36:19+00:00",
+   "news_latest": "2026-11-15T00:09:57+00:00",
+   "caption": "US flights resume after Federal Aviation Administration ground stop\n\nUS flights have resumed following a rare nationwide ground stop issued by the Federal Aviation Administration. Officials are investigating whether ageing technology, a faulty router, or contractor incompetence caused the outage.\n\n💬 What caused the nationwide flight ground stop?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USFlights #FAA #Travel #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 566,
+   "tg_file_id": "AgACAgUAAxkDAAICNmr4_22432ZdPx_CUkldKkU0O19NAAKmFGsbT5fJV2YcGeHBDwpwAQADAgADdwADPQQ",
+   "extra_msgs": [
+    567
+   ]
   }
  },
  "seen_links": [
@@ -15807,7 +15882,10 @@
   "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
   "https://www.france24.com/en/middle-east/20261114-netanyahu-renews-call-for-israeli-government-unity-as-eisenkot-dismisses-tricks",
   "https://www.upi.com/Top_News/US/2026/11/14/trump-putin-xi-nuclear-disarmament-summit/4581794700102/",
-  "https://www.nytimes.com/2026/11/13/us/politics/trump-putin-xi-china-nuclear-proliferation.html"
+  "https://www.nytimes.com/2026/11/13/us/politics/trump-putin-xi-china-nuclear-proliferation.html",
+  "https://www.independent.co.uk/news/world/americas/us-politics/trump-blames-ground-stop-old-equipment-b3084980.html",
+  "https://www.nytimes.com/2026/11/14/us/politics/trump-flights-air-traffic-social-media.html",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-flights-resume-after-ageing-technology-blamed-for-outage?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -18448,19 +18526,40 @@
     "trump"
    ],
    "8ac95fcee5"
+  ],
+  [
+   "2026-11-15T00:40:13.339967+00:00",
+   [
+    "age",
+    "blam",
+    "broken",
+    "contractor",
+    "duffy",
+    "finger",
+    "flight",
+    "ground",
+    "issu",
+    "kept",
+    "old",
+    "outag",
+    "point",
+    "resum",
+    "sight",
+    "stop",
+    "stuff",
+    "technology",
+    "trump"
+   ],
+   "e0b2b3e102"
   ]
  ],
- "last_draft_at": "2026-11-15T00:27:59.393940+00:00",
+ "last_draft_at": "2026-11-15T00:40:00.388942+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-14T23:45:32.842380+00:00",
  "run_log": [
-  "11-14 22:15:46 run start",
-  "11-14 22:15:55 listening 11 min",
-  "11-14 22:27:14 listening done",
-  "11-14 22:27:14 run end after 687 s",
   "11-14 22:30:40 run start",
   "11-14 22:31:20 listening 11 min",
   "11-14 22:42:14 listening done",
@@ -18496,12 +18595,15 @@
   "11-15 00:27:59 run start",
   "11-15 00:28:08 listening 11 min",
   "11-15 00:39:27 listening done",
-  "11-15 00:39:27 run end after 688 s"
+  "11-15 00:39:27 run end after 688 s",
+  "11-15 00:40:00 run start",
+  "11-15 00:40:13 listening 11 min",
+  "11-15 00:51:32 listening done",
+  "11-15 00:51:32 run end after 692 s"
  ],
  "day_pack_done": "2026-11-13",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Wichita%2C_Kansas_skyline_aerial_view.jpg/1920px-Wichita%2C_Kansas_skyline_aerial_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Canadian_Foreign_Minister_M%C3%A9lanie_Joly_met_United_States_Secretary_of_State_Marco_Rubio_at_the_Department_of_State_in_Washington%2C_D.C.%2C_January_29%2C_2025.jpg/1280px-Canadian_Foreign_Minister_M%C3%A9lanie_Joly_met_United_States_Secretary_of_State_Marco_Rubio_at_the_Department_of_State_in_Washington%2C_D.C.%2C_January_29%2C_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/0/03/Brian_Poindexter_delivering_remarks_after_victory.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/John_Brennan_2018.jpg/1280px-John_Brennan_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -18540,7 +18642,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Benjamin_Netanyahu_Receives_Hudson%27s_Herman_Kahn_Award_%2830287430110%29.jpg/1280px-Benjamin_Netanyahu_Receives_Hudson%27s_Herman_Kahn_Award_%2830287430110%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Donald_Trump_RNC_July_2016.jpg/1280px-Donald_Trump_RNC_July_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/1/1c/Vladimir_Putin_%282026_02_23%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/1/1c/Vladimir_Putin_%282026_02_23%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Federal_Aviation_Administration_-_Wilbur_Wright_Federal_Building_%2853830788187%29.jpg/1920px-Federal_Aviation_Administration_-_Wilbur_Wright_Federal_Building_%2853830788187%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "scott colom": {
@@ -21887,7 +21990,6 @@
    }
   },
   "recent_ideas": [
-   "manila skyline",
    "juba city",
    "white house south lawn",
    "white house",
@@ -21898,7 +22000,8 @@
    "us capitol building",
    "capitol at night",
    "washington d.c. skyline",
-   "great hall of the people beijing"
+   "great hall of the people beijing",
+   "federal aviation administration building"
   ]
  },
  "comment_perm_told": true,
