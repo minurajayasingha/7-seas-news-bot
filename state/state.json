@@ -1,85 +1,6 @@
 {
  "tg_offset": 495893035,
  "drafts": {
-  "9d03cbe8de": {
-   "id": "9d03cbe8de",
-   "headline": "Kennedy family joins lawsuit to block Trump arch",
-   "summary": "The Kennedy family has joined an existing lawsuit to block President Trump from building a 250-foot-tall arch in Washington, D.C. An analysis found the planned structure would cast a shadow on JFK's eternal flame and memorial.",
-   "label": "US POLITICS",
-   "hook": "Should the lawsuit succeed in stopping the construction of the arch?",
-   "key_points": [
-    "Kennedy family joins existing lawsuit against Trump arch.",
-    "Arch would cast shadow on JFK eternal flame.",
-    "Planned structure in Washington, D.C. is 250 feet tall."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#WashingtonDC",
-    "#News"
-   ],
-   "sources": [
-    "NBC News",
-    "Washington Post"
-   ],
-   "link": "https://www.washingtonpost.com/politics/2026/11/10/kennedy-family-sues-stop-trumps-arch-citing-shadow-jfk-grave/",
-   "links": [
-    [
-     "Washington Post",
-     "https://www.washingtonpost.com/politics/2026/11/10/kennedy-family-sues-stop-trumps-arch-citing-shadow-jfk-grave/"
-    ],
-    [
-     "NBC News",
-     "https://www.nbcnews.com/video/kennedy-family-moves-to-block-trump-s-triumphal-arch-273240645790"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Ron Cogswell from Arlington, Virginia, USA / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Kennedy family joins lawsuit to block Trump arch",
-    "people": [],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "Washington DC skyline",
-     "Arlington National Cemetery",
-     "White House",
-     "Supreme Court building"
-    ],
-    "image_style": "scene",
-    "location": "Washington, US"
-   },
-   "created_at": "2026-11-11T00:30:44.423756+00:00",
-   "news_time": "2026-11-11T00:19:52+00:00",
-   "news_latest": "2026-11-11T00:27:26+00:00",
-   "caption": "Kennedy family joins lawsuit to block Trump arch\n\nThe Kennedy family has joined an existing lawsuit to block President Trump from building a 250-foot-tall arch in Washington, D.C. An analysis found the planned structure would cast a shadow on JFK's eternal flame and memorial.\n\n💬 Should the lawsuit succeed in stopping the construction of the arch?\n\n📖 Read more: https://www.washingtonpost.com/politics/2026/11/10/kennedy-family-sues-stop-trumps-arch-citing-shadow-jfk-grave/\n\n#USPolitics #WashingtonDC #News #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 314,
-   "tg_file_id": "AgACAgUAAxkDAAIBOmrztzf-AUUgejb5VrUTCTQZwUWFAAJdEWsbi0-gVzqpwcOTXkIWAQADAgADdwADPQQ",
-   "queued_at": "2026-11-11T03:00:30.699259+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122098125879548584",
-   "posted_at": "2026-11-11T03:00:31.591642+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 10 · 10:00 PM New York · 8:30 AM Sri Lanka\n\n<b>Kennedy family joins lawsuit to block Trump arch</b>\n<i>NBC News, Washington Post</i>\n🟡 <b>Latest:</b> 5:57 AM Sri Lanka (2h 33m ago) · first reported 5:49 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098125879548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 148,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-14T02:30:49.615489+00:00"
-  },
   "d7272befe4": {
    "id": "d7272befe4",
    "headline": "Maria Elvira Salazar wins Florida House seat after immigration debate",
@@ -18529,17 +18450,13 @@
    "8ac95fcee5"
   ]
  ],
- "last_draft_at": "2026-11-15T00:15:52.318289+00:00",
+ "last_draft_at": "2026-11-15T00:27:59.393940+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-14T23:45:32.842380+00:00",
  "run_log": [
-  "11-14 22:00:54 run start",
-  "11-14 22:01:04 listening 11 min",
-  "11-14 22:12:24 listening done",
-  "11-14 22:12:24 run end after 689 s",
   "11-14 22:15:46 run start",
   "11-14 22:15:55 listening 11 min",
   "11-14 22:27:14 listening done",
@@ -18575,7 +18492,11 @@
   "11-15 00:15:51 run start",
   "11-15 00:16:02 listening 11 min",
   "11-15 00:27:23 listening done",
-  "11-15 00:27:23 run end after 692 s"
+  "11-15 00:27:23 run end after 692 s",
+  "11-15 00:27:59 run start",
+  "11-15 00:28:08 listening 11 min",
+  "11-15 00:39:27 listening done",
+  "11-15 00:39:27 run end after 688 s"
  ],
  "day_pack_done": "2026-11-13",
  "photo_memory": {
