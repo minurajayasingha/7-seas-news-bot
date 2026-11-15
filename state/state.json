@@ -1,84 +1,6 @@
 {
  "tg_offset": 495893048,
  "drafts": {
-  "7f48bd7968": {
-   "id": "7f48bd7968",
-   "headline": "US charges three men for plotting UK airbase attack",
-   "summary": "The US has charged three men for allegedly planning an attack on a UK airbase. According to a Justice Department indictment, one suspect directed the plot from a US prison.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "US charges three men over planned UK base attack",
-    "Target was a Royal Air Force Base in Fairford",
-    "One suspect allegedly directed the plot from prison"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USNews",
-    "#UKNews",
-    "#WorldNews"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "NBC News"
-   ],
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss",
-   "links": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss"
-    ],
-    [
-     "NBC News",
-     "https://www.nbcnews.com/world/united-kingdom/us-charges-3-men-plotting-multiple-terrorist-attacks-planned-attack-uk-rcna608647"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "tg_file_id": "AgACAgUAAxkBAAIBYWr0XnB07NMQUQABcwLJvJInOExIJwACnBVrG0saoVeA-USq8Xn1IQEAAwIAA3kAAz0E",
-      "credit": ""
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "US charges three men for plotting UK airbase attack",
-    "people": [],
-    "image_query": "Royal Air Force Fairford",
-    "image_queries": [
-     "US Department of Justice",
-     "prison facility",
-     "military air base",
-     "courtroom gavel"
-    ],
-    "image_style": "incident",
-    "location": "Fairford, United Kingdom"
-   },
-   "created_at": "2026-11-11T12:24:16.799606+00:00",
-   "news_time": "2026-11-11T01:22:54+00:00",
-   "news_latest": "2026-11-11T05:01:47+00:00",
-   "caption": "US charges three men for plotting UK airbase attack\n\nThe US has charged three men for allegedly planning an attack on a UK airbase. According to a Justice Department indictment, one suspect directed the plot from a US prison.\n\n📖 Read more: https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USNews #UKNews #WorldNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 354,
-   "tg_file_id": "AgACAgUAAxkDAAIBYmr0XnSNuG6idtjK9Gg0AqiWGsr_AAKdFWsbSxqhV5slkrts3fZeAQADAgADdwADPQQ",
-   "queued_at": "2026-11-11T12:25:12.179227+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122098490919548584",
-   "posted_at": "2026-11-11T12:25:12.493864+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 11 · 7:25 AM New York · 5:55 PM Sri Lanka\n\n<b>US charges three men for plotting UK airbase attack</b>\n<i>Al Jazeera, NBC News</i>\n🔴 <b>Latest:</b> 10:31 AM Sri Lanka (7h 23m ago) · first reported 6:52 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098490919548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 171,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-14T11:30:43.907331+00:00"
-  },
   "8589cd79f0": {
    "id": "8589cd79f0",
    "headline": "White House warns House Democrats over new oversight investigations",
@@ -14504,24 +14426,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-12T12:15:42.474258+00:00",
-   [
-    "bomb",
-    "cyberattack",
-    "discuss",
-    "dublin",
-    "europ",
-    "european",
-    "gather",
-    "leader",
-    "own",
-    "security",
-    "threat",
-    "ukrain"
-   ],
-   "85c1caff13"
-  ],
-  [
    "2026-11-12T12:31:03.535708+00:00",
    [
     "approv",
@@ -16866,17 +16770,13 @@
    "0cc39d0390"
   ]
  ],
- "last_draft_at": "2026-11-15T12:01:23.136317+00:00",
+ "last_draft_at": "2026-11-15T12:15:42.305128+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-15T12:00:50.886813+00:00",
  "run_log": [
-  "11-15 09:45:39 run start",
-  "11-15 09:45:50 listening 11 min",
-  "11-15 09:57:16 listening done",
-  "11-15 09:57:16 run end after 697 s",
   "11-15 10:00:50 run start",
   "11-15 10:01:53 listening 10 min",
   "11-15 10:12:24 listening done",
@@ -16912,7 +16812,11 @@
   "11-15 12:00:50 run start",
   "11-15 12:01:33 listening 11 min",
   "11-15 12:12:26 listening done",
-  "11-15 12:12:26 run end after 696 s"
+  "11-15 12:12:26 run end after 696 s",
+  "11-15 12:15:42 run start",
+  "11-15 12:15:50 listening 11 min",
+  "11-15 12:27:08 listening done",
+  "11-15 12:27:08 run end after 686 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
