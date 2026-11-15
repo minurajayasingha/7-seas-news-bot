@@ -1,88 +1,6 @@
 {
  "tg_offset": 495893055,
  "drafts": {
-  "2fb1b09c17": {
-   "id": "2fb1b09c17",
-   "headline": "Russian Ambassador to US Alexander Darchiev Dies at 66",
-   "summary": "Russia's Foreign Ministry announced that ambassador Alexander Darchiev died unexpectedly at age 66. The announcement called him an outstanding diplomat, experienced leader, kind friend, and mentor.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "Alexander Darchiev served as Russia's ambassador to the U.S.",
-    "He passed away suddenly at the age of 66.",
-    "The Russian Foreign Ministry announced his death on Nov. 11."
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#Russia",
-    "#US",
-    "#WorldNews"
-   ],
-   "sources": [
-    "Kyiv Independent",
-    "The Independent"
-   ],
-   "link": "https://www.independent.co.uk/news/world/americas/alexander-darchiev-dead-russia-ambassador-b3083359.html",
-   "links": [
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/alexander-darchiev-dead-russia-ambassador-b3083359.html"
-    ],
-    [
-     "Kyiv Independent",
-     "https://kyivindependent.com/russian-ambassador-to-washington-dies-at-66/"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Alexander_Darchiev_05.2025.jpg/1280px-Alexander_Darchiev_05.2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Russian Orthodox Cathedral of St John the Baptist, Washingto / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Russian Ambassador to US Alexander Darchiev Dies at 66",
-    "people": [
-     "Alexander Darchiev"
-    ],
-    "image_query": "Russian Embassy Washington",
-    "image_queries": [
-     "Russian Embassy Washington",
-     "Russian Foreign Ministry Moscow",
-     "Washington D.C. skyline",
-     "Moscow city view"
-    ],
-    "image_style": "person",
-    "location": "Washington, US"
-   },
-   "created_at": "2026-11-11T17:48:03.287912+00:00",
-   "news_time": "2026-11-11T16:34:05+00:00",
-   "news_latest": "2026-11-11T17:32:50+00:00",
-   "caption": "🚨 BREAKING: Russian Ambassador to US Alexander Darchiev Dies at 66\n\nRussia's Foreign Ministry announced that ambassador Alexander Darchiev died unexpectedly at age 66. The announcement called him an outstanding diplomat, experienced leader, kind friend, and mentor.\n\nWhat we know so far:\n• Alexander Darchiev served as Russia's ambassador to the U.S.\n• He passed away suddenly at the age of 66.\n• The Russian Foreign Ministry announced his death on Nov. 11.\n\n📖 Read more: https://www.independent.co.uk/news/world/americas/alexander-darchiev-dead-russia-ambassador-b3083359.html\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Russia #US #WorldNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 366,
-   "tg_file_id": "AgACAgUAAxkDAAIBbmr0qlUs2ERFUcfm0biF3OB-FePpAAJoFmsbSxqhVxRPAa1MiZFjAQADAgADdwADPQQ",
-   "queued_at": "2026-11-11T18:16:09.865830+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122098750065548584",
-   "posted_at": "2026-11-11T18:16:10.206226+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 11 · 1:16 PM New York · 11:46 PM Sri Lanka\n\n<b>Russian Ambassador to US Alexander Darchiev Dies at 66</b>\n<i>Kyiv Independent, The Independent</i>\n🟢 <b>Latest:</b> 11:02 PM Sri Lanka (43 min ago) · first reported 10:04 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098750065548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 177,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "1418375287122903",
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-14T17:45:41.155561+00:00"
-  },
   "48e092b1f8": {
    "id": "48e092b1f8",
    "headline": "Tens of thousands attend nationalist march in Warsaw",
@@ -14686,26 +14604,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-12T17:45:41.605421+00:00",
-   [
-    "antigua",
-    "break",
-    "chang",
-    "cuba",
-    "down",
-    "foreign",
-    "international",
-    "minister",
-    "order",
-    "prim",
-    "rules-bas",
-    "thailand",
-    "vot",
-    "warn"
-   ],
-   "b4c2ddcd5c"
-  ],
-  [
    "2026-11-12T18:16:57.668889+00:00",
    [
     "advic",
@@ -16958,17 +16856,13 @@
    "31ae6bbb8e"
   ]
  ],
- "last_draft_at": "2026-11-15T17:31:07.717618+00:00",
+ "last_draft_at": "2026-11-15T17:45:52.234411+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-15T17:15:31.974783+00:00",
  "run_log": [
-  "11-15 15:07:52 listening 10 min",
-  "11-15 15:18:22 listening done",
-  "11-15 15:18:22 run end after 698 s",
-  "11-15 15:19:09 run start",
   "11-15 15:19:45 listening 11 min",
   "11-15 15:30:39 listening done",
   "11-15 15:30:39 run end after 689 s",
@@ -17004,7 +16898,11 @@
   "11-15 17:31:07 run start",
   "11-15 17:31:21 listening 11 min",
   "11-15 17:42:39 listening done",
-  "11-15 17:42:39 run end after 691 s"
+  "11-15 17:42:39 run end after 691 s",
+  "11-15 17:45:51 run start",
+  "11-15 17:46:01 listening 11 min",
+  "11-15 17:57:22 listening done",
+  "11-15 17:57:22 run end after 690 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
