@@ -1,85 +1,6 @@
 {
  "tg_offset": 495893055,
  "drafts": {
-  "49175d8390": {
-   "id": "49175d8390",
-   "headline": "Brazil electoral court fines Meta 1.3 million dollars",
-   "summary": "Brazil's electoral court fined Meta $1.3 million after a complaint from President Lula's coalition. The court stated there was no evidence of intent to influence the election. Meta announced it will defend itself against the allegations.",
-   "label": "ELECTIONS",
-   "hook": "Will Meta successfully defend itself against these allegations?",
-   "key_points": [
-    "Meta fined $1.3 million by Brazil court",
-    "Complaint filed by President Lula's coalition",
-    "Court saw no evidence of election bias"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Brazil",
-    "#Meta",
-    "#Elections"
-   ],
-   "sources": [
-    "DW",
-    "UPI"
-   ],
-   "link": "https://www.upi.com/Top_News/World-News/2026/11/11/latam-brazil-meta-fined-election-bias/5251794414112/",
-   "links": [
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/World-News/2026/11/11/latam-brazil-meta-fined-election-bias/5251794414112/"
-    ],
-    [
-     "DW",
-     "https://www.dw.com/en/brazil-electoral-court-fines-meta-sees-no-deliberate-election-bias/a-79920780?maca=en-rss-en-world-4025-rdf"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Brasilia_Supreme_Federal_Court_of_Brazil_2009.jpg/1920px-Brasilia_Supreme_Federal_Court_of_Brazil_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Cayambe / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Brazil electoral court fines Meta 1.3 million dollars",
-    "people": [],
-    "image_query": "Brazil Supreme Court",
-    "image_queries": [
-     "Brasilia federal court",
-     "Meta office building",
-     "Brazil electoral tribunal",
-     "Brasilia skyline"
-    ],
-    "image_style": "scene",
-    "location": "Brazil"
-   },
-   "created_at": "2026-11-11T16:45:41.454696+00:00",
-   "news_time": "2026-11-11T15:17:00+00:00",
-   "news_latest": "2026-11-11T16:36:07+00:00",
-   "caption": "Brazil electoral court fines Meta 1.3 million dollars\n\nBrazil's electoral court fined Meta $1.3 million after a complaint from President Lula's coalition. The court stated there was no evidence of intent to influence the election. Meta announced it will defend itself against the allegations.\n\n💬 Will Meta successfully defend itself against these allegations?\n\n📖 Read more: https://www.upi.com/Top_News/World-News/2026/11/11/latam-brazil-meta-fined-election-bias/5251794414112/\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Brazil #Meta #Elections #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 364,
-   "tg_file_id": "AgACAgUAAxkDAAIBbGr0m8Rhm4dX3qaKPlThn-9KLb7QAAJYFmsbSxqhV4v4UcMlBDmSAQADAgADdwADPQQ",
-   "queued_at": "2026-11-11T17:28:51.815190+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122098717689548584",
-   "posted_at": "2026-11-11T17:28:52.151908+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 11 · 12:28 PM New York · 10:58 PM Sri Lanka\n\n<b>Brazil electoral court fines Meta 1.3 million dollars</b>\n<i>DW, UPI</i>\n🟢 <b>Latest:</b> 10:06 PM Sri Lanka (52 min ago) · first reported 8:47 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098717689548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 176,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-14T16:36:42.650928+00:00"
-  },
   "f92826045e": {
    "id": "f92826045e",
    "headline": "Los Angeles police arrest driver after fatal crash",
@@ -14742,7 +14663,9 @@
   "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands?traffic_source=rss",
   "https://abcnews.com/International/wireStory/spain-2200-migrants-reached-canary-islands-2-days-138155239",
   "https://www.newsweek.com/democrats-win-biggest-midterm-vote-share-since-watergate-12715915",
-  "https://www.theguardian.com/us-news/2026/nov/15/georgia-midterm-elections-black-voters"
+  "https://www.theguardian.com/us-news/2026/nov/15/georgia-midterm-elections-black-voters",
+  "https://thehill.com/homenews/senate/6221394-van-hollen-challenges-schumer/",
+  "https://www.newsweek.com/chris-van-hollen-john-fetterman-democrats-exit-ramp-12717299"
  ],
  "recent_topics": [
   [
@@ -17019,16 +16942,13 @@
    "48b9509c21"
   ]
  ],
- "last_draft_at": "2026-11-15T16:30:40.068470+00:00",
+ "last_draft_at": "2026-11-15T16:45:48.765107+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-15T16:15:39.437210+00:00",
  "run_log": [
-  "11-15 14:27:01 listening done",
-  "11-15 14:27:01 run end after 688 s",
-  "11-15 14:30:46 run start",
   "11-15 14:30:57 listening 11 min",
   "11-15 14:42:15 listening done",
   "11-15 14:42:15 run end after 689 s",
@@ -17065,12 +16985,14 @@
   "11-15 16:30:39 run start",
   "11-15 16:30:48 listening 11 min",
   "11-15 16:42:07 listening done",
-  "11-15 16:42:07 run end after 687 s"
+  "11-15 16:42:07 run end after 687 s",
+  "11-15 16:45:48 run start",
+  "11-15 16:47:02 run error: ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60)",
+  "11-15 16:47:03 run end after 75 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/White_House_South_Lawn_%28Is_that_Bo_the_dog%3F%29_%283452051226%29.jpg/1920px-White_House_South_Lawn_%28Is_that_Bo_the_dog%3F%29_%283452051226%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/The_east_garden_of_the_White_House_in_Washington%2C_D.C.jpg/1920px-The_east_garden_of_the_White_House_in_Washington%2C_D.C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Jonathan_Kreiss-Tomkins_at_Alaska_Day_Parade_crop.jpg/1280px-Jonathan_Kreiss-Tomkins_at_Alaska_Day_Parade_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Northern_Tehran_skyline.jpg/1920px-Northern_Tehran_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -17109,7 +17031,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Chris_Van_Hollen_at_DNC_0612_%2827994323123%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0612_%2827994323123%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Senate_Democratic_Leader_Chuck_Schumer_%2850519807298%29.jpg/1280px-Senate_Democratic_Leader_Chuck_Schumer_%2850519807298%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Teide_Volcano%2C_Tenerife%2C_Canary_Islands%2C_Spain%2C_December_2025.jpg/1920px-Teide_Volcano%2C_Tenerife%2C_Canary_Islands%2C_Spain%2C_December_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/3/37/US_Capitol_Dome_High_Res_Jan_2006.jpg"
+   "https://upload.wikimedia.org/wikipedia/commons/3/37/US_Capitol_Dome_High_Res_Jan_2006.jpg",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Spring_ball0432_Van_Hollen_-_Britto_%2826631121940%29.jpg/1280px-Spring_ball0432_Van_Hollen_-_Britto_%2826631121940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "paul lepage": {
