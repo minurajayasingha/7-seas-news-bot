@@ -1,71 +1,6 @@
 {
  "tg_offset": 495893062,
  "drafts": {
-  "c57d9b9b4f": {
-   "id": "c57d9b9b4f",
-   "headline": "Bomb hoaxes target schools across Europe",
-   "summary": "Authorities in Italy, Scotland, and Northern Ireland report that numerous schools received bomb threats. Officials state there is currently no risk to the public. It remains unknown if the incidents are linked.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "Over 6,000 Italian schools received threats",
-    "Incidents also affected Scotland and Northern Ireland",
-    "Authorities report no risk to the public"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#WorldNews",
-    "#BombHoax",
-    "#Europe"
-   ],
-   "sources": [
-    "BBC",
-    "CBS News",
-    "UPI"
-   ],
-   "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-   "links": [
-    [
-     "BBC",
-     "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
-    ],
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/World-News/2026/11/11/italy-northern-ireland-republic-scotland-email-bomb-threats-schools/9571794409682/"
-    ],
-    [
-     "CBS News",
-     "https://www.cbsnews.com/news/bomb-threat-schools-europe-italy-uk-ireland-hoaxes-hybrid-warfare-iran-russia/"
-    ]
-   ],
-   "bg": {
-    "type": "incident",
-    "photos": [],
-    "location": "Italy"
-   },
-   "img_post": {
-    "headline": "Bomb hoaxes target schools across Europe",
-    "people": [],
-    "image_query": "European school building",
-    "image_queries": [
-     "Italian school",
-     "Scottish school",
-     "Northern Ireland school",
-     "police outside school"
-    ],
-    "image_style": "incident",
-    "location": "Italy"
-   },
-   "created_at": "2026-11-11T19:45:33.892704+00:00",
-   "news_time": "2026-11-11T14:49:44+00:00",
-   "news_latest": "2026-11-11T18:38:45+00:00",
-   "caption": "Bomb hoaxes target schools across Europe\n\nAuthorities in Italy, Scotland, and Northern Ireland report that numerous schools received bomb threats. Officials state there is currently no risk to the public. It remains unknown if the incidents are linked.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WorldNews #BombHoax #Europe #7SeasNews",
-   "status": "expired",
-   "tg_message_id": 372,
-   "tg_file_id": "AgACAgUAAxkDAAIBdGr0xeGAUtTQ63F7iqK6tkIguDAoAAJ8FmsbSxqhV0pTrr6ohMJsAQADAgADdwADPQQ",
-   "extra_msgs": [],
-   "cleared": true
-  },
   "819ac6bc7a": {
    "id": "819ac6bc7a",
    "headline": "Incoming Representative Richard Ojeda wants Trump officials impeached",
@@ -13546,6 +13481,92 @@
     "shares": 0
    },
    "stats_at": "2026-11-15T19:16:04.892857+00:00"
+  },
+  "585f28a769": {
+   "id": "585f28a769",
+   "headline": "Yemeni forces retreat from Bab el-Mandeb as Houthis advance",
+   "summary": "Military and government sources report that Houthi forces advanced to within 60 kilometres of Aden. The government withdrew its remaining forces from the Bab el-Mandeb Strait to defend its temporary southern capital.",
+   "label": "CONFLICT",
+   "hook": "Can government forces defend Aden against the advancing Houthi militia?",
+   "key_points": [
+    "Forces repositioned from Dhubab airport and surrounding areas.",
+    "The civil war balance tilts toward the Houthi militia.",
+    "The retreat affects the Yemeni government and Saudi Arabia."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Yemen",
+    "#Aden",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "France 24",
+    "New York Times"
+   ],
+   "link": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say",
+   "links": [
+    [
+     "France 24",
+     "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden?traffic_source=rss"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Bab-el-Mandeb_Strait%2C_Red_Sea.jpg/1920px-Bab-el-Mandeb_Strait%2C_Red_Sea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Coordenação-Geral de Observação da Terra/INPE / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Yemeni forces retreat from Bab el-Mandeb as Houthis advance",
+    "people": [],
+    "image_query": "Aden coastline",
+    "image_queries": [
+     "Red Sea coast Yemen",
+     "Bab el-Mandeb Strait",
+     "Aden city view",
+     "Yemeni landscape"
+    ],
+    "image_style": "scene",
+    "location": "Aden, Yemen",
+    "nearby_city": "Sana'a, Yemen",
+    "event_query": "Bab el-Mandeb Strait military retreat",
+    "news_time": null,
+    "label": "CONFLICT"
+   },
+   "created_at": "2026-11-15T19:45:46.982931+00:00",
+   "news_time": "2026-11-15T15:42:25+00:00",
+   "news_latest": "2026-11-15T19:28:54+00:00",
+   "caption": "Yemeni forces retreat from Bab el-Mandeb as Houthis advance\n\nMilitary and government sources report that Houthi forces advanced to within 60 kilometres of Aden. The government withdrew its remaining forces from the Bab el-Mandeb Strait to defend its temporary southern capital.\n\n💬 Can government forces defend Aden against the advancing Houthi militia?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Yemen #Aden #WorldNews #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 604,
+   "tg_file_id": "AgACAgUAAxkDAAICXGr6C--KGx16i7p29nKIYuaiRDoLAAIMF2sbg6zQV-46ciP9jD1UAQADAgADdwADPQQ",
+   "queued_at": "2026-11-15T19:45:51.488457+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-15T19:45:51.488487+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122102634207548584",
+   "posted_at": "2026-11-15T19:45:51.810435+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 15 · 2:46 PM New York · 1:16 AM Sri Lanka\n\n<b>Yemeni forces retreat from Bab el-Mandeb as Houthis advance</b>\n<i>Al Jazeera, France 24, New York Times</i>\n🟢 <b>Latest:</b> 12:58 AM Sri Lanka (17 min ago) · first reported 9:12 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122102634207548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 393,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122102634207548584_3077321672616972"
   }
  },
  "seen_links": [
@@ -14568,7 +14589,10 @@
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4804182/scott-colom-republicans-2028-wipeout-healthcare/",
   "https://www.nbcnews.com/meet-the-press/video/scott-colom-i-m-not-here-to-look-out-for-the-billionaires-273548869932",
   "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss",
-  "https://kyivindependent.com/prince-harry-visits-lviv-to-support-ukrainian-veterans-at-invictus-games/"
+  "https://kyivindependent.com/prince-harry-visits-lviv-to-support-ukrainian-veterans-at-invictus-games/",
+  "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say",
+  "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden?traffic_source=rss",
+  "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html"
  ],
  "recent_topics": [
   [
@@ -16781,19 +16805,37 @@
     "visit"
    ],
    "4457075b0a"
+  ],
+  [
+   "2026-11-15T19:45:51.485604+00:00",
+   [
+    "aden",
+    "advanc",
+    "al-mandeb",
+    "bab",
+    "capital",
+    "defend",
+    "forc",
+    "government",
+    "houthi",
+    "red",
+    "redeploy",
+    "retreat",
+    "saudi-back",
+    "sea",
+    "yemen",
+    "yemeni"
+   ],
+   "585f28a769"
   ]
  ],
- "last_draft_at": "2026-11-15T19:30:49.389054+00:00",
+ "last_draft_at": "2026-11-15T19:45:32.960271+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-15T19:16:04.892857+00:00",
  "run_log": [
-  "11-15 17:15:31 run start",
-  "11-15 17:16:21 listening 11 min",
-  "11-15 17:27:14 listening done",
-  "11-15 17:27:14 run end after 703 s",
   "11-15 17:31:07 run start",
   "11-15 17:31:21 listening 11 min",
   "11-15 17:42:39 listening done",
@@ -16829,12 +16871,15 @@
   "11-15 19:30:48 run start",
   "11-15 19:30:59 listening 11 min",
   "11-15 19:42:20 listening done",
-  "11-15 19:42:20 run end after 691 s"
+  "11-15 19:42:20 run end after 691 s",
+  "11-15 19:45:32 run start",
+  "11-15 19:46:09 listening 11 min",
+  "11-15 19:57:02 listening done",
+  "11-15 19:57:02 run end after 689 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Mount_Ararat%2C_Ararat_Plain%2C_Armenia-Turkey_border%2C_Armenia.jpg/1920px-Mount_Ararat%2C_Ararat_Plain%2C_Armenia-Turkey_border%2C_Armenia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Peoria_skyline_banner.jpg/1920px-Peoria_skyline_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Ursula_von_der_Leyen%2C_Mark_Carney%2C_Volodymyr_Zelensky_at_the_European_Political_Community_in_Yerevan_-_2026.jpg/1280px-Ursula_von_der_Leyen%2C_Mark_Carney%2C_Volodymyr_Zelensky_at_the_European_Political_Community_in_Yerevan_-_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Day_2_Congressional_Breakfast_Rep_Sean_Duffy_%2816488073657%29.jpg/1280px-Day_2_Congressional_Breakfast_Rep_Sean_Duffy_%2816488073657%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -16873,7 +16918,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Wenceslas_Square%2C_Prague_9.jpg/1920px-Wenceslas_Square%2C_Prague_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Vice_President_JD_Vance_swears_in_Sean_Duffy_as_Secretary_of_Transportation.jpg/1280px-Vice_President_JD_Vance_swears_in_Sean_Duffy_as_Secretary_of_Transportation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/f/f2/Scott_Colom_2_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Prince_Harry_at_Canterbury_University_%2817361413549%29.jpg/1280px-Prince_Harry_at_Canterbury_University_%2817361413549%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Prince_Harry_at_Canterbury_University_%2817361413549%29.jpg/1280px-Prince_Harry_at_Canterbury_University_%2817361413549%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Bab-el-Mandeb_Strait%2C_Red_Sea.jpg/1920px-Bab-el-Mandeb_Strait%2C_Red_Sea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "eli crane": {
@@ -20250,7 +20296,6 @@
    }
   },
   "recent_ideas": [
-   "washington d.c. skyline",
    "great hall of the people beijing",
    "federal aviation administration building",
    "air traffic control tower",
@@ -20261,7 +20306,8 @@
    "national mall, washington",
    "canary islands, spain",
    "us capitol dome",
-   "wenceslas square"
+   "wenceslas square",
+   "bab el-mandeb strait"
   ]
  },
  "comment_perm_told": true,
@@ -20269,10 +20315,10 @@
   "2026-11-12": 17,
   "2026-11-13": 34,
   "2026-11-14": 18,
-  "2026-11-15": 9
+  "2026-11-15": 10
  },
- "last_auto_at": "2026-11-15T18:46:00.034875+00:00",
- "last_post_at": "2026-11-15T19:07:49.553391+00:00",
+ "last_auto_at": "2026-11-15T19:45:51.810435+00:00",
+ "last_post_at": "2026-11-15T19:46:00.384703+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
