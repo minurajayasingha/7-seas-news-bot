@@ -14746,25 +14746,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-12T16:31:08.867385+00:00",
-   [
-    "blam",
-    "dem",
-    "democrat",
-    "excus",
-    "hegseth",
-    "horrific",
-    "impeachment",
-    "miss",
-    "rep",
-    "scrutiny",
-    "sorry",
-    "traffic",
-    "vot"
-   ],
-   "6bf24c0100"
-  ],
-  [
    "2026-11-12T17:15:39.271490+00:00",
    [
     "actually",
@@ -17038,17 +17019,13 @@
    "48b9509c21"
   ]
  ],
- "last_draft_at": "2026-11-15T16:16:51.160102+00:00",
+ "last_draft_at": "2026-11-15T16:30:40.068470+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-15T16:15:39.437210+00:00",
  "run_log": [
-  "11-15 14:12:35 listening done",
-  "11-15 14:12:35 run end after 693 s",
-  "11-15 14:15:33 run start",
-  "11-15 14:15:43 listening 11 min",
   "11-15 14:27:01 listening done",
   "11-15 14:27:01 run end after 688 s",
   "11-15 14:30:46 run start",
@@ -17084,7 +17061,11 @@
   "11-15 16:12:29 run end after 696 s",
   "11-15 16:15:38 run start",
   "11-15 16:18:07 run error: ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60)",
-  "11-15 16:18:08 run end after 149 s"
+  "11-15 16:18:08 run end after 149 s",
+  "11-15 16:30:39 run start",
+  "11-15 16:30:48 listening 11 min",
+  "11-15 16:42:07 listening done",
+  "11-15 16:42:07 run end after 687 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
