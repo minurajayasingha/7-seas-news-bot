@@ -1,5 +1,5 @@
 {
- "tg_offset": 495893045,
+ "tg_offset": 495893048,
  "drafts": {
   "db183405ba": {
    "id": "db183405ba",
@@ -15143,24 +15143,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-12T09:45:43.365664+00:00",
-   [
-    "aliv",
-    "brooklyn",
-    "build",
-    "collaps",
-    "deadly",
-    "kill",
-    "pregnant",
-    "pull",
-    "rescu",
-    "rubbl",
-    "survivor",
-    "woman"
-   ],
-   "5b021b17f4"
-  ],
-  [
    "2026-11-12T10:01:12.443160+00:00",
    [
     "ahead",
@@ -17688,17 +17670,13 @@
    "cf4a7f9609"
   ]
  ],
- "last_draft_at": "2026-11-15T09:30:40.497528+00:00",
+ "last_draft_at": "2026-11-15T09:45:40.134606+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-15T09:00:57.041269+00:00",
  "run_log": [
-  "11-15 07:24:07 run start",
-  "11-15 07:24:18 listening 11 min",
-  "11-15 07:35:37 listening done",
-  "11-15 07:35:37 run end after 689 s",
   "11-15 07:36:24 run start",
   "11-15 07:36:25 listening 11 min",
   "11-15 07:48:08 listening done",
@@ -17734,7 +17712,11 @@
   "11-15 09:30:40 run start",
   "11-15 09:30:49 listening 11 min",
   "11-15 09:42:08 listening done",
-  "11-15 09:42:08 run end after 688 s"
+  "11-15 09:42:08 run end after 688 s",
+  "11-15 09:45:39 run start",
+  "11-15 09:45:50 listening 11 min",
+  "11-15 09:57:16 listening done",
+  "11-15 09:57:16 run end after 697 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
