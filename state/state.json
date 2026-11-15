@@ -14775,21 +14775,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-12T13:47:48.056509+00:00",
-   [
-    "call",
-    "china",
-    "complet",
-    "happen",
-    "jinp",
-    "must",
-    "renew",
-    "reunification",
-    "taiwan"
-   ],
-   "2ad045b59c"
-  ],
-  [
    "2026-11-12T14:03:20.511914+00:00",
    [
     "blockad",
@@ -17168,17 +17153,13 @@
    "3c65072ae9"
   ]
  ],
- "last_draft_at": "2026-11-15T13:31:08.337641+00:00",
+ "last_draft_at": "2026-11-15T13:45:34.525325+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-15T13:01:12.393552+00:00",
  "run_log": [
-  "11-15 11:12:17 run end after 690 s",
-  "11-15 11:15:41 run start",
-  "11-15 11:15:52 listening 11 min",
-  "11-15 11:27:10 listening done",
   "11-15 11:27:10 run end after 688 s",
   "11-15 11:30:43 run start",
   "11-15 11:30:53 listening 11 min",
@@ -17214,7 +17195,11 @@
   "11-15 13:31:07 run start",
   "11-15 13:31:32 listening 11 min",
   "11-15 13:42:57 listening done",
-  "11-15 13:42:57 run end after 709 s"
+  "11-15 13:42:57 run end after 709 s",
+  "11-15 13:45:34 run start",
+  "11-15 13:45:43 listening 11 min",
+  "11-15 13:57:02 listening done",
+  "11-15 13:57:02 run end after 688 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
