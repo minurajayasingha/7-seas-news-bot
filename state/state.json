@@ -1,5 +1,5 @@
 {
- "tg_offset": 495893049,
+ "tg_offset": 495893055,
  "drafts": {
   "8589cd79f0": {
    "id": "8589cd79f0",
@@ -13506,14 +13506,23 @@
    "news_time": "2026-11-15T07:11:24+00:00",
    "news_latest": "2026-11-15T12:18:35+00:00",
    "caption": "Southeast Asian leaders open annual summit in Manila\n\nSoutheast Asian leaders opened their annual summit in Manila, focusing on trade, energy, and conflict. Protesters gathered to condemn United States policies as attendees arrived.\n\n💬 How will energy disruptions from the conflict affect the import-dependent bloc?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#ASEAN #Philippines #WorldNews #7SeasNews",
-   "status": "pending",
+   "status": "posted",
    "tg_message_id": 577,
    "tg_file_id": "AgACAgUAAxkDAAICQWr5pgedomYeNwNo8SJk395cCFFjAAIVFGsbT5fRV5-LiIIXWZg6AQADAgADdwADPQQ",
-   "extra_msgs": [
-    578,
-    579
-   ],
-   "dup_ok": true
+   "extra_msgs": [],
+   "dup_ok": true,
+   "queued_at": "2026-11-15T13:38:17.434306+00:00",
+   "post_now": true,
+   "post_at": "2026-11-15T13:38:17.434316+00:00",
+   "post_label": "🚀 Posting now",
+   "fb_post_id": "1413030521900096_122102315715548584",
+   "posted_at": "2026-11-15T13:38:18.107933+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 15 · 8:38 AM New York · 7:08 PM Sri Lanka\n\n<b>Southeast Asian leaders open annual summit in Manila</b>\n<i>Al Jazeera, France 24</i>\n🟡 <b>Latest:</b> 5:48 PM Sri Lanka (1h 20m ago) · first reported 12:41 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122102315715548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 383,
+   "log_photo": true,
+   "cleared": true,
+   "fb_comment_id": "122102315715548584_2285186972047513"
   },
   "34add3e14f": {
    "id": "34add3e14f",
@@ -13686,6 +13695,86 @@
    "fb_story_id": "1608961267174619",
    "fb_reel_id": "1850994843698091",
    "reel_status": "live"
+  },
+  "3c65072ae9": {
+   "id": "3c65072ae9",
+   "headline": "Israeli strike in Gaza kills Hamas commander Samir Abu Younis",
+   "summary": "An overnight Israeli strike in the Gaza Strip killed Samir Abu Younis, a commander of Hamas's Rafah Brigade. Both Hamas and Israeli Defense Force officials confirmed the death.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "The strike hit southern Gaza",
+    "The commander directed terror attacks against Israel"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Gaza",
+    "#Israel",
+    "#MiddleEast"
+   ],
+   "sources": [
+    "BBC",
+    "The Hill"
+   ],
+   "link": "https://thehill.com/policy/international/6221247-israel-kills-hamas-commander/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/policy/international/6221247-israel-kills-hamas-commander/"
+    ],
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss"
+    ]
+   ],
+   "bg": {
+    "type": "map",
+    "photos": [],
+    "location": "Gaza Strip",
+    "lat": 31.5,
+    "lon": 34.45,
+    "country": "Palestine",
+    "state": ""
+   },
+   "img_post": {
+    "headline": "Israeli strike in Gaza kills Hamas commander Samir Abu Younis",
+    "people": [
+     "Samir Abu Younis"
+    ],
+    "image_query": "Gaza Strip landscape",
+    "image_queries": [
+     "Rafah southern Gaza",
+     "Israeli military checkpoint",
+     "Gaza border area",
+     "Southern Gaza buildings"
+    ],
+    "image_style": "incident",
+    "location": "Gaza Strip",
+    "nearby_city": "Gaza City, Palestinian Territories",
+    "event_query": "Gaza airstrike aftermath",
+    "news_time": null,
+    "label": "CONFLICT"
+   },
+   "created_at": "2026-11-15T13:31:24.119028+00:00",
+   "news_time": "2026-11-15T08:17:41+00:00",
+   "news_latest": "2026-11-15T13:06:46+00:00",
+   "caption": "Israeli strike in Gaza kills Hamas commander Samir Abu Younis\n\nAn overnight Israeli strike in the Gaza Strip killed Samir Abu Younis, a commander of Hamas's Rafah Brigade. Both Hamas and Israeli Defense Force officials confirmed the death.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Gaza #Israel #MiddleEast #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 584,
+   "tg_file_id": "AgACAgUAAxkDAAICSGr5tDNzV5MBHu2GSaMdxKwYdF6EAAIxFGsbT5fRV1vtwvKp2epFAQADAgADdwADPQQ",
+   "extra_msgs": [],
+   "queued_at": "2026-11-15T13:37:26.776027+00:00",
+   "post_now": true,
+   "post_at": "2026-11-15T13:37:26.776036+00:00",
+   "post_label": "🚀 Posting now",
+   "fb_post_id": "1413030521900096_122102315265548584",
+   "posted_at": "2026-11-15T13:37:27.149473+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 15 · 8:38 AM New York · 7:08 PM Sri Lanka\n\n<b>Israeli strike in Gaza kills Hamas commander Samir Abu Younis</b>\n<i>BBC, The Hill</i>\n🟢 <b>Latest:</b> 6:36 PM Sri Lanka (31 min ago) · first reported 1:47 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122102315265548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 382,
+   "log_photo": true,
+   "cleared": true,
+   "fb_comment_id": "122102315265548584_3269243849936028"
   }
  },
  "seen_links": [
@@ -14680,7 +14769,9 @@
   "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us?traffic_source=rss",
   "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
   "https://www.newsweek.com/eu-sends-warning-to-russia-as-it-boards-shadow-fleet-tanker-12717169",
-  "https://kyivindependent.com/eu-forces-board-suspected-russian-shadow-fleet-tanker-in-mediterranean-kallas-says/"
+  "https://kyivindependent.com/eu-forces-board-suspected-russian-shadow-fleet-tanker-in-mediterranean-kallas-says/",
+  "https://thehill.com/policy/international/6221247-israel-kills-hamas-commander/",
+  "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss"
  ],
  "recent_topics": [
   [
@@ -17059,19 +17150,31 @@
     "tim"
    ],
    "ed001dc001"
+  ],
+  [
+   "2026-11-15T13:31:31.999821+00:00",
+   [
+    "camp",
+    "commander",
+    "gaza",
+    "hama",
+    "israel",
+    "israeli",
+    "kill",
+    "official",
+    "senior",
+    "strik"
+   ],
+   "3c65072ae9"
   ]
  ],
- "last_draft_at": "2026-11-15T13:15:39.347390+00:00",
+ "last_draft_at": "2026-11-15T13:31:08.337641+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-15T13:01:12.393552+00:00",
  "run_log": [
-  "11-15 10:57:08 run end after 689 s",
-  "11-15 11:00:47 run start",
-  "11-15 11:01:48 listening 10 min",
-  "11-15 11:12:17 listening done",
   "11-15 11:12:17 run end after 690 s",
   "11-15 11:15:41 run start",
   "11-15 11:15:52 listening 11 min",
@@ -17107,7 +17210,11 @@
   "11-15 13:12:57 run end after 705 s",
   "11-15 13:15:38 run start",
   "11-15 13:17:13 run error: ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60)",
-  "11-15 13:17:13 run end after 95 s"
+  "11-15 13:17:13 run end after 95 s",
+  "11-15 13:31:07 run start",
+  "11-15 13:31:32 listening 11 min",
+  "11-15 13:42:57 listening done",
+  "11-15 13:42:57 run end after 709 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
@@ -20568,7 +20675,7 @@
   "2026-11-15": 5
  },
  "last_auto_at": "2026-11-15T13:02:07.888592+00:00",
- "last_post_at": "2026-11-15T13:02:26.728698+00:00",
+ "last_post_at": "2026-11-15T13:38:59.021817+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
