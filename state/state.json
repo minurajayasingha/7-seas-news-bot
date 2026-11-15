@@ -1,152 +1,6 @@
 {
  "tg_offset": 495893035,
  "drafts": {
-  "93f8fc6377": {
-   "id": "93f8fc6377",
-   "headline": "Protesters Throw Milk At Joe Biden In Dublin",
-   "summary": "Pro-Palestinian protesters hurled milk and other objects at a car carrying Joe Biden and his family in Dublin. The demonstration occurred during a Hunter event, according to reports.",
-   "label": "WORLD",
-   "hook": "Why were protesters targeting Joe Biden during his visit to Dublin?",
-   "key_points": [
-    "Pro-Palestinian protesters threw milk at Joe Biden",
-    "The incident took place in Dublin, Ireland",
-    "Demonstrators cited support for Israel"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#JoeBiden",
-    "#Dublin",
-    "#WorldNews"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "Newsweek"
-   ],
-   "link": "https://www.newsweek.com/protesters-throw-milk-at-joe-biden-in-dublin-blood-on-your-hands-12698156",
-   "links": [
-    [
-     "Newsweek",
-     "https://www.newsweek.com/protesters-throw-milk-at-joe-biden-in-dublin-blood-on-your-hands-12698156"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/video/newsfeed/2026/11/11/protesters-throw-milk-at-joe-biden-during-hunter-event-in-dublin?traffic_source=rss"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Dublin_architecture-_Georgian.jpg/1920px-Dublin_architecture-_Georgian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "ChelseaTagbo / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ],
-    "inset": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Attendees_applaud_as_President_Barack_Obama_acknowledges_Vice_President_Joe_Biden%2C_2014.jpg/1280px-Attendees_applaud_as_President_Barack_Obama_acknowledges_Vice_President_Joe_Biden%2C_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "credit": "The White House from Washington, DC / Wikimedia Commons (Public domain)",
-     "short": "WIKIMEDIA COMMONS"
-    }
-   },
-   "img_post": {
-    "headline": "Protesters Throw Milk At Joe Biden In Dublin",
-    "people": [
-     "Joe Biden"
-    ],
-    "image_query": "Dublin city street",
-    "image_queries": [
-     "Dublin landmark",
-     "Irish capital street",
-     "Dublin city center",
-     "Dublin architecture"
-    ],
-    "image_style": "scene",
-    "location": "Dublin, Ireland"
-   },
-   "created_at": "2026-11-11T08:01:09.678425+00:00",
-   "news_time": "2026-11-11T02:12:22+00:00",
-   "news_latest": "2026-11-11T07:54:35+00:00",
-   "caption": "Protesters Throw Milk At Joe Biden In Dublin\n\nPro-Palestinian protesters hurled milk and other objects at a car carrying Joe Biden and his family in Dublin. The demonstration occurred during a Hunter event, according to reports.\n\n💬 Why were protesters targeting Joe Biden during his visit to Dublin?\n\n📖 Read more: https://www.newsweek.com/protesters-throw-milk-at-joe-biden-in-dublin-blood-on-your-hands-12698156\n\n#JoeBiden #Dublin #WorldNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 332,
-   "tg_file_id": "AgACAgUAAxkDAAIBTGr0IM7dfnBg2I15-fHia5hXkubTAAIxFWsbSxqhVxy0zNB6wkB4AQADAgADdwADPQQ",
-   "queued_at": "2026-11-11T08:02:10.092989+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122098310883548584",
-   "posted_at": "2026-11-11T08:02:10.409034+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 11 · 3:02 AM New York · 1:32 PM Sri Lanka\n\n<b>Protesters Throw Milk At Joe Biden In Dublin</b>\n<i>Al Jazeera, Newsweek</i>\n🟢 <b>Latest:</b> 1:24 PM Sri Lanka (7 min ago) · first reported 7:42 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098310883548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 160,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-14T07:30:41.010804+00:00"
-  },
-  "291b7687a6": {
-   "id": "291b7687a6",
-   "headline": "DNA confirms four grizzly bears killed two women in Canada",
-   "summary": "Wildlife officials in Canada stated that DNA evidence links four grizzly bears to a deadly attack on a mother and her adult daughter. Investigators describe the incident along a hiking trail in British Columbia as a rare predatory attack.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "Four grizzly bears were captured and killed by authorities.",
-    "The victims were a mother and her adult daughter.",
-    "The attack occurred along a hiking trail in British Columbia."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Canada",
-    "#Wildlife",
-    "#WorldNews"
-   ],
-   "sources": [
-    "New York Times",
-    "The Independent"
-   ],
-   "link": "https://www.independent.co.uk/news/world/americas/grizzly-bear-attack-bella-coola-b3082897.html",
-   "links": [
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/grizzly-bear-attack-bella-coola-b3082897.html"
-    ],
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/10/world/canada/british-columbia-bear-attack.html"
-    ]
-   ],
-   "bg": {
-    "type": "incident",
-    "photos": [],
-    "location": "British Columbia, Canada"
-   },
-   "img_post": {
-    "headline": "DNA confirms four grizzly bears killed two women in Canada",
-    "people": [],
-    "image_query": "British Columbia wilderness",
-    "image_queries": [
-     "Canadian forest trail",
-     "grizzly bear habitat",
-     "British Columbia mountains",
-     "Canadian wildlife region"
-    ],
-    "image_style": "incident",
-    "location": "British Columbia, Canada"
-   },
-   "created_at": "2026-11-11T08:01:22.525031+00:00",
-   "news_time": "2026-11-11T07:32:18+00:00",
-   "news_latest": "2026-11-11T07:54:54+00:00",
-   "caption": "DNA confirms four grizzly bears killed two women in Canada\n\nWildlife officials in Canada stated that DNA evidence links four grizzly bears to a deadly attack on a mother and her adult daughter. Investigators describe the incident along a hiking trail in British Columbia as a rare predatory attack.\n\n📖 Read more: https://www.independent.co.uk/news/world/americas/grizzly-bear-attack-bella-coola-b3082897.html\n\n#Canada #Wildlife #WorldNews #7SeasNews",
-   "status": "replaced",
-   "tg_message_id": 333,
-   "tg_file_id": "AgACAgUAAxkDAAIBTWr0INsf-0jKCmQzS8z_cvdr3UFZAAIyFWsbSxqhV7Te734XV3-eAQADAgADdwADPQQ",
-   "extra_msgs": [],
-   "cleared": true
-  },
   "adef82c376": {
    "id": "adef82c376",
    "headline": "Abu Dhabi trilateral talks continue as Russia and Ukraine exchange strikes",
@@ -3576,7 +3430,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "eeea2b2bb2": {
    "id": "eeea2b2bb2",
@@ -3657,7 +3511,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "5b021b17f4": {
    "id": "5b021b17f4",
@@ -3798,7 +3652,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "433c28badd": {
    "id": "433c28badd",
@@ -3884,7 +3738,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "265869298b": {
    "id": "265869298b",
@@ -3963,7 +3817,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "de30b93eeb": {
    "id": "de30b93eeb",
@@ -4120,7 +3974,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "c884bf50cf": {
    "id": "c884bf50cf",
@@ -4261,7 +4115,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "30b5b09dcb": {
    "id": "30b5b09dcb",
@@ -4401,7 +4255,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "85c1caff13": {
    "id": "85c1caff13",
@@ -4480,7 +4334,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "59deeaae7f": {
    "id": "59deeaae7f",
@@ -4559,7 +4413,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "2ad045b59c": {
    "id": "2ad045b59c",
@@ -4643,7 +4497,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "5a579197e7": {
    "id": "5a579197e7",
@@ -4721,7 +4575,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "d4221e2d0d": {
    "id": "d4221e2d0d",
@@ -4800,7 +4654,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "6f228f43e8": {
    "id": "6f228f43e8",
@@ -4881,7 +4735,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "c1987b1ca2": {
    "id": "c1987b1ca2",
@@ -4960,7 +4814,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "cfda6da62f": {
    "id": "cfda6da62f",
@@ -5038,7 +4892,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "5d2b442dfc": {
    "id": "5d2b442dfc",
@@ -5117,7 +4971,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "5489776f74": {
    "id": "5489776f74",
@@ -5204,7 +5058,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "cbd10e320f": {
    "id": "cbd10e320f",
@@ -5283,7 +5137,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "1f289091a0": {
    "id": "1f289091a0",
@@ -5362,7 +5216,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "b91a3907c5": {
    "id": "b91a3907c5",
@@ -5441,7 +5295,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "6bf24c0100": {
    "id": "6bf24c0100",
@@ -5521,7 +5375,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "46e8434cb8": {
    "id": "46e8434cb8",
@@ -5660,7 +5514,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "b0cbcf291c": {
    "id": "b0cbcf291c",
@@ -5747,7 +5601,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "e7450a0dd4": {
    "id": "e7450a0dd4",
@@ -5909,7 +5763,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "b545231803": {
    "id": "b545231803",
@@ -5987,7 +5841,7 @@
     "comments": 0,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "2cd33e9685": {
    "id": "2cd33e9685",
@@ -6223,7 +6077,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "d2d973a04c": {
    "id": "d2d973a04c",
@@ -6316,7 +6170,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "4d8b467c55": {
    "id": "4d8b467c55",
@@ -6406,7 +6260,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "4d075733c6": {
    "id": "4d075733c6",
@@ -6497,7 +6351,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "07f7523644": {
    "id": "07f7523644",
@@ -6583,7 +6437,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "0d43fbfa9c": {
    "id": "0d43fbfa9c",
@@ -6671,7 +6525,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "71cc7f338b": {
    "id": "71cc7f338b",
@@ -6758,7 +6612,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "46ad7ec6bb": {
    "id": "46ad7ec6bb",
@@ -6992,7 +6846,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "fbb747eab2": {
    "id": "fbb747eab2",
@@ -7080,7 +6934,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "77c871299b": {
    "id": "77c871299b",
@@ -7171,7 +7025,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "0dca1b56a1": {
    "id": "0dca1b56a1",
@@ -7260,7 +7114,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "39669d2d6e": {
    "id": "39669d2d6e",
@@ -7349,7 +7203,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "5ac71e580a": {
    "id": "5ac71e580a",
@@ -7438,7 +7292,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "071dea6cce": {
    "id": "071dea6cce",
@@ -7524,7 +7378,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "20e5086465": {
    "id": "20e5086465",
@@ -7617,7 +7471,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "9f38d67d42": {
    "id": "9f38d67d42",
@@ -7704,7 +7558,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "34002a08ad": {
    "id": "34002a08ad",
@@ -7793,7 +7647,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "a6aecbf995": {
    "id": "a6aecbf995",
@@ -7904,7 +7758,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "817601941c": {
    "id": "817601941c",
@@ -8000,7 +7854,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "cf995999d6": {
    "id": "cf995999d6",
@@ -8089,7 +7943,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "de06bec5ec": {
    "id": "de06bec5ec",
@@ -8178,7 +8032,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "4772fcbb80": {
    "id": "4772fcbb80",
@@ -8267,7 +8121,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "ea51dc48e4": {
    "id": "ea51dc48e4",
@@ -8358,7 +8212,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "9b9ff5df8b": {
    "id": "9b9ff5df8b",
@@ -8518,7 +8372,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "7ed19effff": {
    "id": "7ed19effff",
@@ -8606,7 +8460,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "fa66eb00f7": {
    "id": "fa66eb00f7",
@@ -8702,7 +8556,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "6a28082571": {
    "id": "6a28082571",
@@ -8790,7 +8644,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "bdd0e45929": {
    "id": "bdd0e45929",
@@ -8871,7 +8725,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "e4984fea08": {
    "id": "e4984fea08",
@@ -8959,7 +8813,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "5f1268d48c": {
    "id": "5f1268d48c",
@@ -9050,7 +8904,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "05e6c9dbf6": {
    "id": "05e6c9dbf6",
@@ -9150,7 +9004,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "01b966c646": {
    "id": "01b966c646",
@@ -9237,7 +9091,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "0787c3f68b": {
    "id": "0787c3f68b",
@@ -9328,7 +9182,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "1b086bb8d9": {
    "id": "1b086bb8d9",
@@ -9415,7 +9269,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "7f17d29718": {
    "id": "7f17d29718",
@@ -9504,7 +9358,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "b440bc09d8": {
    "id": "b440bc09d8",
@@ -9590,7 +9444,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "288e8142aa": {
    "id": "288e8142aa",
@@ -9685,7 +9539,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "86aa12fd1f": {
    "id": "86aa12fd1f",
@@ -9784,7 +9638,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "52e45b389b": {
    "id": "52e45b389b",
@@ -9872,7 +9726,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "6f13c1c292": {
    "id": "6f13c1c292",
@@ -9960,7 +9814,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "8d4419d1ea": {
    "id": "8d4419d1ea",
@@ -10050,7 +9904,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "095af91c8b": {
    "id": "095af91c8b",
@@ -10144,7 +9998,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "9eb78b77eb": {
    "id": "9eb78b77eb",
@@ -10238,7 +10092,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "6ddb761bdf": {
    "id": "6ddb761bdf",
@@ -10333,7 +10187,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "161bac5f8e": {
    "id": "161bac5f8e",
@@ -10421,7 +10275,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "92fe297395": {
    "id": "92fe297395",
@@ -10509,7 +10363,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "2e80c2a932": {
    "id": "2e80c2a932",
@@ -10598,7 +10452,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "f184753370": {
    "id": "f184753370",
@@ -10694,7 +10548,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "964a05aa78": {
    "id": "964a05aa78",
@@ -10786,7 +10640,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "443c703f0f": {
    "id": "443c703f0f",
@@ -10947,7 +10801,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "5afdfab132": {
    "id": "5afdfab132",
@@ -11033,7 +10887,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "9f7ce7afa1": {
    "id": "9f7ce7afa1",
@@ -11122,7 +10976,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "c33e783284": {
    "id": "c33e783284",
@@ -11216,7 +11070,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "b3f4744ac4": {
    "id": "b3f4744ac4",
@@ -11306,7 +11160,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "a6cb64bf0c": {
    "id": "a6cb64bf0c",
@@ -11392,7 +11246,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "68ff1a5751": {
    "id": "68ff1a5751",
@@ -11482,7 +11336,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "a6251d4469": {
    "id": "a6251d4469",
@@ -11569,7 +11423,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "09a77b01bd": {
    "id": "09a77b01bd",
@@ -11657,7 +11511,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "6d22b6117e": {
    "id": "6d22b6117e",
@@ -11753,7 +11607,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "35e78aae02": {
    "id": "35e78aae02",
@@ -11841,7 +11695,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "6c4d0f6c73": {
    "id": "6c4d0f6c73",
@@ -11930,7 +11784,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "86dd73c14b": {
    "id": "86dd73c14b",
@@ -12021,7 +11875,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "781d218fd5": {
    "id": "781d218fd5",
@@ -12119,7 +11973,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "992b6af1d7": {
    "id": "992b6af1d7",
@@ -12205,7 +12059,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "87d75b8efa": {
    "id": "87d75b8efa",
@@ -12293,7 +12147,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "e864e28c56": {
    "id": "e864e28c56",
@@ -12381,7 +12235,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "f74e3c9e03": {
    "id": "f74e3c9e03",
@@ -12548,7 +12402,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "f83a676d74": {
    "id": "f83a676d74",
@@ -12638,7 +12492,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "58944f28e1": {
    "id": "58944f28e1",
@@ -12726,7 +12580,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "3654e7440e": {
    "id": "3654e7440e",
@@ -12815,7 +12669,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "75239d1ff5": {
    "id": "75239d1ff5",
@@ -12907,7 +12761,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "7ddbfe2749": {
    "id": "7ddbfe2749",
@@ -12995,7 +12849,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "3e31ede6e1": {
    "id": "3e31ede6e1",
@@ -13084,7 +12938,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "b53246ad7e": {
    "id": "b53246ad7e",
@@ -13170,7 +13024,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "5be441503d": {
    "id": "5be441503d",
@@ -13259,7 +13113,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "3fd0b8f781": {
    "id": "3fd0b8f781",
@@ -13354,7 +13208,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "03eb88a9ba": {
    "id": "03eb88a9ba",
@@ -13457,7 +13311,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "adc7c44a21": {
    "id": "adc7c44a21",
@@ -13548,7 +13402,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "8ded58a7f4": {
    "id": "8ded58a7f4",
@@ -13703,7 +13557,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "a34f168e06": {
    "id": "a34f168e06",
@@ -13789,7 +13643,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "25b47eac9f": {
    "id": "25b47eac9f",
@@ -13953,7 +13807,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
+   "stats_at": "2026-11-15T08:00:44.037229+00:00"
   },
   "8ac95fcee5": {
    "id": "8ac95fcee5",
@@ -14101,12 +13955,11 @@
    "news_time": "2026-11-14T21:36:19+00:00",
    "news_latest": "2026-11-15T00:09:57+00:00",
    "caption": "US flights resume after Federal Aviation Administration ground stop\n\nUS flights have resumed following a rare nationwide ground stop issued by the Federal Aviation Administration. Officials are investigating whether ageing technology, a faulty router, or contractor incompetence caused the outage.\n\n💬 What caused the nationwide flight ground stop?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USFlights #FAA #Travel #7SeasNews",
-   "status": "pending",
+   "status": "expired",
    "tg_message_id": 566,
    "tg_file_id": "AgACAgUAAxkDAAICNmr4_22432ZdPx_CUkldKkU0O19NAAKmFGsbT5fJV2YcGeHBDwpwAQADAgADdwADPQQ",
-   "extra_msgs": [
-    567
-   ]
+   "extra_msgs": [],
+   "cleared": true
   },
   "6f0bb5e135": {
    "id": "6f0bb5e135",
@@ -14247,6 +14100,89 @@
    "extra_msgs": [
     571
    ]
+  },
+  "ec22847783": {
+   "id": "ec22847783",
+   "headline": "Cape Verde holds presidential election featuring first female candidate",
+   "summary": "Cape Verde voters head to the polls in an election that could select the nation's first female leader. Former Justice Minister Joana Rosa runs against incumbent José Maria Neves.",
+   "label": "ELECTIONS",
+   "hook": "",
+   "key_points": [
+    "José Maria Neves is the fifth president.",
+    "Cape Verde gained independence in 1975."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#CapeVerde",
+    "#WorldNews",
+    "#Elections"
+   ],
+   "sources": [
+    "ABC News",
+    "France 24"
+   ],
+   "link": "https://www.france24.com/en/africa/20261115-cape-verde-could-make-election-history-with-first-female-president",
+   "links": [
+    [
+     "France 24",
+     "https://www.france24.com/en/africa/20261115-cape-verde-could-make-election-history-with-first-female-president"
+    ],
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/cape-verde-elect-woman-president-gaining-independence-1975-138154009"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Early_Voting_0881_%2831735035208%29.jpg/1920px-Early_Voting_0881_%2831735035208%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Edward Kimmel from Takoma Park, MD / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Cape Verde holds presidential election featuring first female candidate",
+    "people": [],
+    "image_query": "Cape Verde landscape",
+    "image_queries": [
+     "voting booth",
+     "Cape Verde capital",
+     "election ballots",
+     "government building"
+    ],
+    "image_style": "scene",
+    "location": "Cape Verde",
+    "nearby_city": "Praia, Cape Verde",
+    "event_query": "Cape Verde presidential election",
+    "news_time": null,
+    "label": "ELECTIONS"
+   },
+   "created_at": "2026-11-15T08:01:42.677350+00:00",
+   "news_time": "2026-11-15T06:29:24+00:00",
+   "news_latest": "2026-11-15T07:56:14+00:00",
+   "caption": "🚨 BREAKING: Cape Verde holds presidential election featuring first female candidate\n\nCape Verde voters head to the polls in an election that could select the nation's first female leader. Former Justice Minister Joana Rosa runs against incumbent José Maria Neves.\n\nWhat we know so far:\n• José Maria Neves is the fifth president.\n• Cape Verde gained independence in 1975.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#CapeVerde #WorldNews #Elections #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 572,
+   "tg_file_id": "AgACAgUAAxkDAAICPGr5ZuxyET4FnxPJ5D2ks1wF_Bv0AAKwE2sbT5fRV-f3-V3AH9boAQADAgADdwADPQQ",
+   "queued_at": "2026-11-15T08:01:48.715726+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-15T08:01:48.715748+00:00",
+   "post_label": "🤖 Auto-posting + Reel",
+   "fb_post_id": "1413030521900096_122102039403548584",
+   "posted_at": "2026-11-15T08:01:49.048725+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 15 · 3:01 AM New York · 1:31 PM Sri Lanka\n\n<b>Cape Verde holds presidential election featuring first female candidate</b>\n<i>ABC News, France 24</i>\n🟢 <b>Latest:</b> 1:26 PM Sri Lanka (5 min ago) · first reported 11:59 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122102039403548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 370,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122102039403548584_1396725628952829",
+   "fb_story_id": "1498944995630161",
+   "fb_reel_id": "1814195576525874",
+   "reel_status": "live"
   }
  },
  "seen_links": [
@@ -15225,7 +15161,9 @@
   "https://www.cbsnews.com/news/faa-ground-stop-trump-admin-response/",
   "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html",
   "https://thehill.com/policy/technology/6221123-spacex-starship-historic-landing-lawmakers-react/",
-  "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss"
+  "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss",
+  "https://www.france24.com/en/africa/20261115-cape-verde-could-make-election-history-with-first-female-president",
+  "https://abcnews.com/International/wireStory/cape-verde-elect-woman-president-gaining-independence-1975-138154009"
  ],
  "recent_topics": [
   [
@@ -17782,19 +17720,33 @@
     "washington"
    ],
    "a499e979fc"
+  ],
+  [
+   "2026-11-15T08:01:48.713751+00:00",
+   [
+    "cap",
+    "elect",
+    "election",
+    "femal",
+    "gain",
+    "history",
+    "independenc",
+    "mak",
+    "president",
+    "sinc",
+    "verd",
+    "woman"
+   ],
+   "ec22847783"
   ]
  ],
- "last_draft_at": "2026-11-15T07:48:36.764714+00:00",
+ "last_draft_at": "2026-11-15T08:01:23.693208+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-15T07:00:17.930155+00:00",
+ "last_stats_at": "2026-11-15T08:00:44.037229+00:00",
  "run_log": [
-  "11-15 05:46:00 run start",
-  "11-15 05:46:01 listening 11 min",
-  "11-15 05:57:47 listening done",
-  "11-15 05:57:47 run end after 706 s",
   "11-15 06:00:46 run start",
   "11-15 06:01:51 listening 10 min",
   "11-15 06:12:20 listening done",
@@ -17830,12 +17782,15 @@
   "11-15 07:48:36 run start",
   "11-15 07:48:47 listening 11 min",
   "11-15 08:00:06 listening done",
-  "11-15 08:00:06 run end after 690 s"
+  "11-15 08:00:06 run end after 690 s",
+  "11-15 08:00:43 run start",
+  "11-15 08:02:32 listening 10 min",
+  "11-15 08:12:12 listening done",
+  "11-15 08:12:12 run end after 688 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/John_Brennan_2018.jpg/1280px-John_Brennan_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Government_Buildings%2C_Dublin%2C_Ireland.jpg/1920px-Government_Buildings%2C_Dublin%2C_Ireland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Moscow._Police_car%2C_Okhotny_Ryad-Mokhovaya.jpg/1920px-Moscow._Police_car%2C_Okhotny_Ryad-Mokhovaya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://live.staticflickr.com/3640/3547624867_2601ab85a7_b.jpg",
@@ -17874,7 +17829,8 @@
    "https://upload.wikimedia.org/wikipedia/commons/1/1c/Vladimir_Putin_%282026_02_23%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Federal_Aviation_Administration_-_Wilbur_Wright_Federal_Building_%2853830788187%29.jpg/1920px-Federal_Aviation_Administration_-_Wilbur_Wright_Federal_Building_%2853830788187%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/The_FAA_air_traffic_control_tower_at_Philadelphia_International_Airport.jpg/1920px-The_FAA_air_traffic_control_tower_at_Philadelphia_International_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/SpaceX_Starbase_launch_facility_%2851438071556%29.jpg/1920px-SpaceX_Starbase_launch_facility_%2851438071556%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/SpaceX_Starbase_launch_facility_%2851438071556%29.jpg/1920px-SpaceX_Starbase_launch_facility_%2851438071556%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Early_Voting_0881_%2831735035208%29.jpg/1920px-Early_Voting_0881_%2831735035208%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "scott colom": {
@@ -21221,7 +21177,6 @@
    }
   },
   "recent_ideas": [
-   "white house",
    "doha skyline",
    "turkey",
    "voting booth, united states",
@@ -21232,20 +21187,23 @@
    "great hall of the people beijing",
    "federal aviation administration building",
    "air traffic control tower",
-   "spacex launch facility"
+   "spacex launch facility",
+   "early voting, united states"
   ]
  },
  "comment_perm_told": true,
  "auto_count": {
   "2026-11-12": 17,
   "2026-11-13": 34,
-  "2026-11-14": 18
+  "2026-11-14": 18,
+  "2026-11-15": 1
  },
- "last_auto_at": "2026-11-14T23:16:02.084717+00:00",
- "last_post_at": "2026-11-14T23:16:06.357405+00:00",
+ "last_auto_at": "2026-11-15T08:01:49.048725+00:00",
+ "last_post_at": "2026-11-15T08:01:55.822302+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
-  "2026-11-14": 8
+  "2026-11-14": 8,
+  "2026-11-15": 1
  }
 }
