@@ -1,85 +1,6 @@
 {
  "tg_offset": 495893062,
  "drafts": {
-  "794435b1aa": {
-   "id": "794435b1aa",
-   "headline": "Iran targets US Treasury Secretary and European bases",
-   "summary": "Treasury Secretary Scott Bessent is the latest American official targeted or threatened by Iran. Additionally, Iran threatened to hit any European base housing American aircraft.",
-   "label": "CONFLICT",
-   "hook": "Will these threats change the deployment of American aircraft at European bases?",
-   "key_points": [
-    "Treasury Secretary Scott Bessent faces threats from Iran",
-    "Iran threatens European bases with US aircraft",
-    "Several US officials have been targeted by Iran"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Iran",
-    "#US",
-    "#WorldNews"
-   ],
-   "sources": [
-    "CBS News",
-    "The Independent"
-   ],
-   "link": "https://www.cbsnews.com/news/us-officials-targeted-by-iran/",
-   "links": [
-    [
-     "CBS News",
-     "https://www.cbsnews.com/news/us-officials-targeted-by-iran/"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/middle-east/iran-war-europe-us-bases-threat-trump-b3083258.html"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/US_Capitol_west_side.JPG/1920px-US_Capitol_west_side.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Martin Falbisoner / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Iran targets US Treasury Secretary and European bases",
-    "people": [],
-    "image_query": "US Treasury Department",
-    "image_queries": [
-     "Pentagon building",
-     "US European Command headquarters",
-     "White House",
-     "US Capitol building"
-    ],
-    "image_style": "person",
-    "location": "US"
-   },
-   "created_at": "2026-11-11T19:31:12.225411+00:00",
-   "news_time": "2026-11-11T16:18:34+00:00",
-   "news_latest": "2026-11-11T19:27:24+00:00",
-   "caption": "Iran targets US Treasury Secretary and European bases\n\nTreasury Secretary Scott Bessent is the latest American official targeted or threatened by Iran. Additionally, Iran threatened to hit any European base housing American aircraft.\n\n💬 Will these threats change the deployment of American aircraft at European bases?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Iran #US #WorldNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 371,
-   "tg_file_id": "AgACAgUAAxkDAAIBc2r0woG-TSiHbVufSGYvg9y4cViOAAJ7FmsbSxqhV9VA_c7omMwrAQADAgADdwADPQQ",
-   "queued_at": "2026-11-11T19:31:33.199551+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122098801911548584",
-   "posted_at": "2026-11-11T19:31:33.482145+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 11 · 2:31 PM New York · 1:01 AM Sri Lanka\n\n<b>Iran targets US Treasury Secretary and European bases</b>\n<i>CBS News, The Independent</i>\n🟢 <b>Latest:</b> 12:57 AM Sri Lanka (4 min ago) · first reported 9:48 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098801911548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 181,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-14T18:45:39.111355+00:00"
-  },
   "c57d9b9b4f": {
    "id": "c57d9b9b4f",
    "headline": "Bomb hoaxes target schools across Europe",
@@ -16862,17 +16783,13 @@
    "4457075b0a"
   ]
  ],
- "last_draft_at": "2026-11-15T19:16:42.088548+00:00",
+ "last_draft_at": "2026-11-15T19:30:49.389054+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-15T19:16:04.892857+00:00",
  "run_log": [
-  "11-15 17:00:57 run start",
-  "11-15 17:01:28 listening 11 min",
-  "11-15 17:12:23 listening done",
-  "11-15 17:12:23 run end after 686 s",
   "11-15 17:15:31 run start",
   "11-15 17:16:21 listening 11 min",
   "11-15 17:27:14 listening done",
@@ -16908,7 +16825,11 @@
   "11-15 19:16:04 run start",
   "11-15 19:16:42 listening 11 min",
   "11-15 19:27:38 listening done",
-  "11-15 19:27:38 run end after 694 s"
+  "11-15 19:27:38 run end after 694 s",
+  "11-15 19:30:48 run start",
+  "11-15 19:30:59 listening 11 min",
+  "11-15 19:42:20 listening done",
+  "11-15 19:42:20 run end after 691 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
