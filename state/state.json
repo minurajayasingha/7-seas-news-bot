@@ -13492,6 +13492,95 @@
    "extra_msgs": [
     599
    ]
+  },
+  "09f8cf7a0f": {
+   "id": "09f8cf7a0f",
+   "headline": "Scott Colom discusses healthcare and leadership race after Mississippi win",
+   "summary": "Sen.-elect Scott Colom addressed healthcare affordability following his election victory in Mississippi. He stated he is currently undecided between Chuck Schumer and Chris Van Hollen for Democratic caucus leadership.",
+   "label": "US POLITICS",
+   "hook": "Who should lead the Senate Democratic caucus?",
+   "key_points": [
+    "Colom warned Republicans about potential losses in 2028 over healthcare.",
+    "He emphasized a focus on affordability and rural hospitals.",
+    "Colom won a historic election in Mississippi."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#ScottColom",
+    "#Senate"
+   ],
+   "sources": [
+    "NBC News",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/news/senate/4804203/scott-colom-van-hollen-schumer-listening-mode/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/senate/4804203/scott-colom-van-hollen-schumer-listening-mode/"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/campaigns/congressional/4804182/scott-colom-republicans-2028-wipeout-healthcare/"
+    ],
+    [
+     "NBC News",
+     "https://www.nbcnews.com/meet-the-press/video/scott-colom-i-m-not-here-to-look-out-for-the-billionaires-273548869932"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Scott_Colom_2_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "The Contrarian / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Scott Colom discusses healthcare and leadership race after Mississippi win",
+    "people": [
+     "Scott Colom"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "voting booth",
+     "Mississippi State Capitol"
+    ],
+    "image_style": "person",
+    "location": "Mississippi, US",
+    "nearby_city": "Jackson, Mississippi",
+    "event_query": "Senate caucus leadership race",
+    "news_time": null,
+    "label": "US POLITICS"
+   },
+   "created_at": "2026-11-15T18:30:58.863162+00:00",
+   "news_time": "2026-11-15T14:39:05+00:00",
+   "news_latest": "2026-11-15T18:22:06+00:00",
+   "caption": "Scott Colom discusses healthcare and leadership race after Mississippi win\n\nSen.-elect Scott Colom addressed healthcare affordability following his election victory in Mississippi. He stated he is currently undecided between Chuck Schumer and Chris Van Hollen for Democratic caucus leadership.\n\n💬 Who should lead the Senate Democratic caucus?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #ScottColom #Senate #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 600,
+   "tg_file_id": "AgACAgUAAxkDAAICWGr5-mTMC49rB2bmmq28Y8sXh5cUAALgFmsbg6zQVzpGWIZId4YjAQADAgADdwADPQQ",
+   "queued_at": "2026-11-15T18:31:01.349908+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-15T18:31:01.349932+00:00",
+   "post_label": "🤖 Auto-posting + Reel",
+   "fb_post_id": "1413030521900096_122102579247548584",
+   "posted_at": "2026-11-15T18:31:01.662306+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 15 · 1:31 PM New York · 12:01 AM Sri Lanka\n\n<b>Scott Colom discusses healthcare and leadership race after Mississippi win</b>\n<i>NBC News, Washington Examiner</i>\n🟢 <b>Latest:</b> 11:52 PM Sri Lanka (9 min ago) · first reported 8:09 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122102579247548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 388,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122102579247548584_3141756309489898",
+   "fb_reel_id": "1154528644209495",
+   "reel_status": "live"
   }
  },
  "seen_links": [
@@ -14509,7 +14598,10 @@
   "https://thehill.com/policy/transportation/6221409-duffy-cannot-cancel-l3harris/",
   "https://www.nbcnews.com/meet-the-press/video/sec-duffy-says-i-can-t-apologize-for-decades-old-air-traffic-control-infrastructure-273548869867",
   "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
-  "https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain"
+  "https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain",
+  "https://www.washingtonexaminer.com/news/senate/4804203/scott-colom-van-hollen-schumer-listening-mode/",
+  "https://www.washingtonexaminer.com/news/campaigns/congressional/4804182/scott-colom-republicans-2028-wipeout-healthcare/",
+  "https://www.nbcnews.com/meet-the-press/video/scott-colom-i-m-not-here-to-look-out-for-the-billionaires-273548869932"
  ],
  "recent_topics": [
   [
@@ -16754,19 +16846,38 @@
     "tim"
    ],
    "2b743f026f"
+  ],
+  [
+   "2026-11-15T18:31:01.348116+00:00",
+   [
+    "affordability",
+    "billionair",
+    "colom",
+    "elect",
+    "gop",
+    "healthcar",
+    "hollen-schumer",
+    "listen",
+    "look",
+    "mod",
+    "rac",
+    "scott",
+    "sen",
+    "undecid",
+    "van",
+    "warn",
+    "wipeout"
+   ],
+   "09f8cf7a0f"
   ]
  ],
- "last_draft_at": "2026-11-15T18:16:28.569977+00:00",
+ "last_draft_at": "2026-11-15T18:30:46.618197+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-15T18:15:40.127352+00:00",
  "run_log": [
-  "11-15 15:46:54 run error: ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60)",
-  "11-15 15:46:55 run end after 72 s",
-  "11-15 16:00:53 run start",
-  "11-15 16:02:26 listening 10 min",
   "11-15 16:12:29 listening done",
   "11-15 16:12:29 run end after 696 s",
   "11-15 16:15:38 run start",
@@ -16802,12 +16913,15 @@
   "11-15 18:15:39 run start",
   "11-15 18:16:37 listening 11 min",
   "11-15 18:27:07 listening done",
-  "11-15 18:27:07 run end after 687 s"
+  "11-15 18:27:07 run end after 687 s",
+  "11-15 18:30:46 run start",
+  "11-15 18:31:54 listening 10 min",
+  "11-15 18:42:22 listening done",
+  "11-15 18:42:22 run end after 696 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Northern_Tehran_skyline.jpg/1920px-Northern_Tehran_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/8/86/Doha_skyline_in_the_morning_%2812544910974%29.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Mount_Ararat%2C_Ararat_Plain%2C_Armenia-Turkey_border%2C_Armenia.jpg/1920px-Mount_Ararat%2C_Ararat_Plain%2C_Armenia-Turkey_border%2C_Armenia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Peoria_skyline_banner.jpg/1920px-Peoria_skyline_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -16846,37 +16960,10 @@
    "https://upload.wikimedia.org/wikipedia/commons/3/37/US_Capitol_Dome_High_Res_Jan_2006.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Spring_ball0432_Van_Hollen_-_Britto_%2826631121940%29.jpg/1280px-Spring_ball0432_Van_Hollen_-_Britto_%2826631121940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Wenceslas_Square%2C_Prague_9.jpg/1920px-Wenceslas_Square%2C_Prague_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Vice_President_JD_Vance_swears_in_Sean_Duffy_as_Secretary_of_Transportation.jpg/1280px-Vice_President_JD_Vance_swears_in_Sean_Duffy_as_Secretary_of_Transportation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Vice_President_JD_Vance_swears_in_Sean_Duffy_as_Secretary_of_Transportation.jpg/1280px-Vice_President_JD_Vance_swears_in_Sean_Duffy_as_Secretary_of_Transportation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/f/f2/Scott_Colom_2_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   ],
   "pools": {
-   "paul lepage": {
-    "t": "2026-11-09T23:00:43.803589+00:00",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Paul_LePage_by_Gage_Skidmore.jpg/1280px-Paul_LePage_by_Gage_Skidmore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Paul_LePage_%2832997040712%29.jpg/1280px-Paul_LePage_%2832997040712%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Paul_LePage_%2832997047882%29.jpg/1280px-Paul_LePage_%2832997047882%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Paul_LePage_%2832770544230%29.jpg/1280px-Paul_LePage_%2832770544230%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     }
-    ]
-   },
    "eli crane": {
     "t": "2026-11-10T00:54:21.458592+00:00",
     "photos": [
@@ -20238,6 +20325,16 @@
       "portrait": true
      }
     ]
+   },
+   "scott colom": {
+    "t": "2026-11-15T18:30:58.863044+00:00",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Scott_Colom_2_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "The Contrarian / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
    }
   },
   "recent_ideas": [
@@ -20260,14 +20357,14 @@
   "2026-11-12": 17,
   "2026-11-13": 34,
   "2026-11-14": 18,
-  "2026-11-15": 7
+  "2026-11-15": 8
  },
- "last_auto_at": "2026-11-15T16:01:23.510468+00:00",
- "last_post_at": "2026-11-15T16:01:34.160649+00:00",
+ "last_auto_at": "2026-11-15T18:31:01.662306+00:00",
+ "last_post_at": "2026-11-15T18:31:07.239312+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
   "2026-11-14": 8,
-  "2026-11-15": 7
+  "2026-11-15": 8
  }
 }
