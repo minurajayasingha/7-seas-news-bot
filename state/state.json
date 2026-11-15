@@ -1,88 +1,6 @@
 {
  "tg_offset": 495893035,
  "drafts": {
-  "d7272befe4": {
-   "id": "d7272befe4",
-   "headline": "Maria Elvira Salazar wins Florida House seat after immigration debate",
-   "summary": "Republican Maria Elvira Salazar secured reelection in Florida's 27th Congressional District. She defeated her Democratic opponent despite breaking with Donald Trump on immigration during the campaign.",
-   "label": "ELECTIONS",
-   "hook": "",
-   "key_points": [
-    "Salazar won in a Miami-based district carried by Trump.",
-    "She disagreed with Trump on his immigration agenda.",
-    "She defeated Democratic opponent Eliott Rodriguez."
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#USPolitics",
-    "#FloridaElections",
-    "#Congress"
-   ],
-   "sources": [
-    "NBC News",
-    "The Hill"
-   ],
-   "link": "https://thehill.com/homenews/campaign/6163186-maria-elvira-salazar-florida-27th-district-reelection/",
-   "links": [
-    [
-     "The Hill",
-     "https://thehill.com/homenews/campaign/6163186-maria-elvira-salazar-florida-27th-district-reelection/"
-    ],
-    [
-     "NBC News",
-     "https://www.nbcnews.com/politics/2026-election/maria-elvira-salazar-gop-florida-house-election-win-trump-clash-rcna603377"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Maria_Elvira_Salazar_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Office of Congresswoman Maria Elvira Salazar / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Maria Elvira Salazar wins Florida House seat after immigration debate",
-    "people": [
-     "Maria Elvira Salazar"
-    ],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "voting booth",
-     "Miami skyline",
-     "House of Representatives chamber",
-     "election ballot"
-    ],
-    "image_style": "person",
-    "location": "Florida, US"
-   },
-   "created_at": "2026-11-11T01:30:45.108946+00:00",
-   "news_time": "2026-11-10T22:52:46+00:00",
-   "news_latest": "2026-11-10T23:36:07+00:00",
-   "caption": "🚨 BREAKING: Maria Elvira Salazar wins Florida House seat after immigration debate\n\nRepublican Maria Elvira Salazar secured reelection in Florida's 27th Congressional District. She defeated her Democratic opponent despite breaking with Donald Trump on immigration during the campaign.\n\nWhat we know so far:\n• Salazar won in a Miami-based district carried by Trump.\n• She disagreed with Trump on his immigration agenda.\n• She defeated Democratic opponent Eliott Rodriguez.\n\n📖 Read more: https://thehill.com/homenews/campaign/6163186-maria-elvira-salazar-florida-27th-district-reelection/\n\n#USPolitics #FloridaElections #Congress #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 317,
-   "tg_file_id": "AgACAgUAAxkDAAIBPWrzxUfiCqfwWc-0MgoKAAGT_XT2pwACaBFrG4tPoFcL2i1okOY4xwEAAwIAA3cAAz0E",
-   "queued_at": "2026-11-11T02:33:04.022357+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122098110027548584",
-   "posted_at": "2026-11-11T02:33:04.325583+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 10 · 9:33 PM New York · 8:03 AM Sri Lanka\n\n<b>Maria Elvira Salazar wins Florida House seat after immigration debate</b>\n<i>NBC News, The Hill</i>\n🟡 <b>Latest:</b> 5:06 AM Sri Lanka (2h 57m ago) · first reported 4:22 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098110027548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 147,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_story_id": "2270743376869966",
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-14T02:30:49.615489+00:00"
-  },
   "4e24202137": {
    "id": "4e24202137",
    "headline": "Alina Habba Mildon Loses Fifty Million Dollar Contract",
@@ -18553,17 +18471,13 @@
    "e0b2b3e102"
   ]
  ],
- "last_draft_at": "2026-11-15T01:17:22.021081+00:00",
+ "last_draft_at": "2026-11-15T01:30:51.262246+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-15T00:51:58.860408+00:00",
  "run_log": [
-  "11-14 23:27:08 listening done",
-  "11-14 23:27:08 run end after 688 s",
-  "11-14 23:30:42 run start",
-  "11-14 23:30:53 listening 11 min",
   "11-14 23:42:11 listening done",
   "11-14 23:42:11 run end after 690 s",
   "11-14 23:45:32 run start",
@@ -18599,7 +18513,11 @@
   "11-15 01:17:21 run start",
   "11-15 01:17:32 listening 11 min",
   "11-15 01:28:51 listening done",
-  "11-15 01:28:51 run end after 690 s"
+  "11-15 01:28:51 run end after 690 s",
+  "11-15 01:30:50 run start",
+  "11-15 01:31:01 listening 11 min",
+  "11-15 01:42:22 listening done",
+  "11-15 01:42:22 run end after 692 s"
  ],
  "day_pack_done": "2026-11-13",
  "photo_memory": {
