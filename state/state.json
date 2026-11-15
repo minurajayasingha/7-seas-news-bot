@@ -15230,28 +15230,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-12T07:45:53.987229+00:00",
-   [
-    "expendabl",
-    "fac",
-    "fuel",
-    "hidden",
-    "ingredient",
-    "ireland",
-    "liv",
-    "mobilization",
-    "pressur",
-    "putin",
-    "russia",
-    "send",
-    "stop",
-    "ukrain",
-    "vital",
-    "war"
-   ],
-   "8ea6130c7c"
-  ],
-  [
    "2026-11-12T08:30:41.460542+00:00",
    [
     "academic",
@@ -17807,17 +17785,13 @@
    "a499e979fc"
   ]
  ],
- "last_draft_at": "2026-11-15T07:24:07.795694+00:00",
+ "last_draft_at": "2026-11-15T07:36:25.112240+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-15T07:00:17.930155+00:00",
  "run_log": [
-  "11-15 05:15:43 run start",
-  "11-15 05:15:52 listening 11 min",
-  "11-15 05:27:10 listening done",
-  "11-15 05:27:10 run end after 687 s",
   "11-15 05:30:41 run start",
   "11-15 05:30:52 listening 11 min",
   "11-15 05:42:11 listening done",
@@ -17853,7 +17827,11 @@
   "11-15 07:24:07 run start",
   "11-15 07:24:18 listening 11 min",
   "11-15 07:35:37 listening done",
-  "11-15 07:35:37 run end after 689 s"
+  "11-15 07:35:37 run end after 689 s",
+  "11-15 07:36:24 run start",
+  "11-15 07:36:25 listening 11 min",
+  "11-15 07:48:08 listening done",
+  "11-15 07:48:08 run end after 703 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
