@@ -13585,6 +13585,71 @@
    "extra_msgs": [
     597
    ]
+  },
+  "2b743f026f": {
+   "id": "2b743f026f",
+   "headline": "Iran launches drone attacks against US military base in Bahrain",
+   "summary": "Iran launched drone attacks against a US military base in Bahrain. The incidents follow US strikes in Iran and affect peace talks between Tehran and Washington.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Bahrain issued two alerts of potential threats.",
+    "Negotiations to end the conflict remain at a stalemate.",
+    "The US maintains a naval blockade."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Bahrain",
+    "#Iran",
+    "#USMilitary"
+   ],
+   "sources": [
+    "France 24",
+    "The Guardian"
+   ],
+   "link": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+   "links": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": "Manama, Bahrain"
+   },
+   "img_post": {
+    "headline": "Iran launches drone attacks against US military base in Bahrain",
+    "people": [],
+    "image_query": "Manama skyline",
+    "image_queries": [
+     "US military base",
+     "Persian Gulf",
+     "Manama capital",
+     "strait of Hormuz"
+    ],
+    "image_style": "incident",
+    "location": "Manama, Bahrain",
+    "nearby_city": "Manama, Bahrain",
+    "event_query": "Bahrain drone attack",
+    "news_time": null,
+    "label": "CONFLICT"
+   },
+   "created_at": "2026-11-15T18:01:00.116203+00:00",
+   "news_time": "2026-11-15T15:29:22+00:00",
+   "news_latest": "2026-11-15T17:36:09+00:00",
+   "caption": "🚨 BREAKING: Iran launches drone attacks against US military base in Bahrain\n\nIran launched drone attacks against a US military base in Bahrain. The incidents follow US strikes in Iran and affect peace talks between Tehran and Washington.\n\nWhat we know so far:\n• Bahrain issued two alerts of potential threats.\n• Negotiations to end the conflict remain at a stalemate.\n• The US maintains a naval blockade.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Bahrain #Iran #USMilitary #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 598,
+   "tg_file_id": "AgACAgUAAxkDAAICVmr581-U3Az0rmXaSqTzTwTJcT2SAAKcFGsbT5fRV55MzZe6N_hRAQADAgADdwADPQQ",
+   "extra_msgs": [
+    599
+   ]
   }
  },
  "seen_links": [
@@ -14600,7 +14665,9 @@
   "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss",
   "https://abcnews.com/International/wireStory/czechs-gather-big-numbers-reject-governments-plan-overhaul-138158812",
   "https://thehill.com/policy/transportation/6221409-duffy-cannot-cancel-l3harris/",
-  "https://www.nbcnews.com/meet-the-press/video/sec-duffy-says-i-can-t-apologize-for-decades-old-air-traffic-control-infrastructure-273548869867"
+  "https://www.nbcnews.com/meet-the-press/video/sec-duffy-says-i-can-t-apologize-for-decades-old-air-traffic-control-infrastructure-273548869867",
+  "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+  "https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain"
  ],
  "recent_topics": [
   [
@@ -16854,19 +16921,31 @@
     "traffic"
    ],
    "31ae6bbb8e"
+  ],
+  [
+   "2026-11-15T18:01:03.999856+00:00",
+   [
+    "attack",
+    "bahrain",
+    "bas",
+    "claim",
+    "dron",
+    "iran",
+    "launch",
+    "military",
+    "second",
+    "tim"
+   ],
+   "2b743f026f"
   ]
  ],
- "last_draft_at": "2026-11-15T17:45:52.234411+00:00",
+ "last_draft_at": "2026-11-15T18:00:42.335917+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-15T17:15:31.974783+00:00",
  "run_log": [
-  "11-15 15:19:45 listening 11 min",
-  "11-15 15:30:39 listening done",
-  "11-15 15:30:39 run end after 689 s",
-  "11-15 15:31:09 run start",
   "11-15 15:31:20 listening 11 min",
   "11-15 15:42:39 listening done",
   "11-15 15:42:39 run end after 690 s",
@@ -16902,7 +16981,11 @@
   "11-15 17:45:51 run start",
   "11-15 17:46:01 listening 11 min",
   "11-15 17:57:22 listening done",
-  "11-15 17:57:22 run end after 690 s"
+  "11-15 17:57:22 run end after 690 s",
+  "11-15 18:00:41 run start",
+  "11-15 18:01:04 listening 11 min",
+  "11-15 18:12:23 listening done",
+  "11-15 18:12:23 run end after 701 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
