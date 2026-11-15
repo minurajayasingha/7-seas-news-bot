@@ -1,148 +1,6 @@
 {
  "tg_offset": 495893035,
  "drafts": {
-  "82fd68db9e": {
-   "id": "82fd68db9e",
-   "headline": "US charges three men for plotting UK airbase attack",
-   "summary": "The US has charged three men for allegedly planning an attack on a UK airbase. According to a Justice Department indictment, one suspect directed the plot from a US prison.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "US charges three men over planned UK base attack",
-    "Target was a Royal Air Force Base in Fairford",
-    "One suspect allegedly directed the plot from prison"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USNews",
-    "#UKNews",
-    "#WorldNews"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "NBC News"
-   ],
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss",
-   "links": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss"
-    ],
-    [
-     "NBC News",
-     "https://www.nbcnews.com/world/united-kingdom/us-charges-3-men-plotting-multiple-terrorist-attacks-planned-attack-uk-rcna608647"
-    ]
-   ],
-   "bg": {
-    "type": "incident",
-    "photos": [],
-    "location": "Fairford, United Kingdom"
-   },
-   "img_post": {
-    "headline": "US charges three men for plotting UK airbase attack",
-    "people": [],
-    "image_query": "Royal Air Force Fairford",
-    "image_queries": [
-     "US Department of Justice",
-     "prison facility",
-     "military air base",
-     "courtroom gavel"
-    ],
-    "image_style": "incident",
-    "location": "Fairford, United Kingdom"
-   },
-   "created_at": "2026-11-11T05:30:34.872063+00:00",
-   "news_time": "2026-11-11T01:22:54+00:00",
-   "news_latest": "2026-11-11T05:01:47+00:00",
-   "caption": "US charges three men for plotting UK airbase attack\n\nThe US has charged three men for allegedly planning an attack on a UK airbase. According to a Justice Department indictment, one suspect directed the plot from a US prison.\n\n📖 Read more: https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss\n\n#USNews #UKNews #WorldNews #7SeasNews",
-   "status": "replaced",
-   "tg_message_id": 329,
-   "tg_file_id": "AgACAgUAAxkDAAIBSWrz_X3_XRUhiVXGHxGcpBWsPFo-AALSFGsbSxqhV3Ll941Ibu4UAQADAgADdwADPQQ",
-   "extra_msgs": [],
-   "cleared": true
-  },
-  "7da4161999": {
-   "id": "7da4161999",
-   "headline": "Donald Trump faces criticism after South Carolina midterm results",
-   "summary": "President Donald Trump received a failing grade from Representative Ralph Norman for his performance in South Carolina's midterm elections. Meanwhile, immigration arrests continued after Trump suggested his crackdown might have been too tough.",
-   "label": "ELECTIONS",
-   "hook": "Did President Trump bear responsibility for the Republican midterm outcomes in South Carolina?",
-   "key_points": [
-    "Rep. Ralph Norman gave Trump an F on midterms.",
-    "A Trump-backed Senate candidate lost the general election.",
-    "Trump suggested his immigration crackdown was too tough."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#Midterms",
-    "#DonaldTrump"
-   ],
-   "sources": [
-    "The Hill",
-    "The Independent"
-   ],
-   "link": "https://www.independent.co.uk/news/world/americas/donald-trump-gop-stephen-miller-los-angeles-united-states-b3082848.html",
-   "links": [
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/donald-trump-gop-stephen-miller-los-angeles-united-states-b3082848.html"
-    ],
-    [
-     "The Hill",
-     "https://thehill.com/homenews/campaign/6212326-norman-gives-trump-f-grade/"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Daniel Torok / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Donald Trump faces criticism after South Carolina midterm results",
-    "people": [
-     "Donald Trump"
-    ],
-    "image_query": "US Capitol dome",
-    "image_queries": [
-     "South Carolina State House",
-     "Senate chamber",
-     "voting booth",
-     "Capitol Hill"
-    ],
-    "image_style": "person",
-    "location": "South Carolina, US"
-   },
-   "created_at": "2026-11-11T05:30:38.771675+00:00",
-   "news_time": "2026-11-11T00:24:28+00:00",
-   "news_latest": "2026-11-11T05:03:03+00:00",
-   "caption": "Donald Trump faces criticism after South Carolina midterm results\n\nPresident Donald Trump received a failing grade from Representative Ralph Norman for his performance in South Carolina's midterm elections. Meanwhile, immigration arrests continued after Trump suggested his crackdown might have been too tough.\n\n💬 Did President Trump bear responsibility for the Republican midterm outcomes in South Carolina?\n\n📖 Read more: https://www.independent.co.uk/news/world/americas/donald-trump-gop-stephen-miller-los-angeles-united-states-b3082848.html\n\n#USPolitics #Midterms #DonaldTrump #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 330,
-   "tg_file_id": "AgACAgUAAxkDAAIBSmrz_YCvdHH84XbFEqkE3lKgGznrAALTFGsbSxqhV91kW5DXGwbOAQADAgADdwADPQQ",
-   "dup_ok": true,
-   "extra_msgs": [],
-   "queued_at": "2026-11-11T10:35:30.241599+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122098418451548584",
-   "posted_at": "2026-11-11T10:35:30.557686+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 11 · 5:35 AM New York · 4:05 PM Sri Lanka\n\n<b>Donald Trump faces criticism after South Carolina midterm results</b>\n<i>The Hill, The Independent</i>\n🔴 <b>Latest:</b> 10:33 AM Sri Lanka (5h 32m ago) · first reported 5:54 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098418451548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 165,
-   "log_photo": true,
-   "cleared": true,
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-14T10:31:11.674501+00:00"
-  },
   "6c235661bd": {
    "id": "6c235661bd",
    "headline": "Ukraine captures Indonesian prisoner of war in Zaporizhzhia region",
@@ -17989,17 +17847,13 @@
    "6f0bb5e135"
   ]
  ],
- "last_draft_at": "2026-11-15T05:15:44.041715+00:00",
+ "last_draft_at": "2026-11-15T05:30:41.687660+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-15T05:01:07.006973+00:00",
  "run_log": [
-  "11-15 03:00:46 run start",
-  "11-15 03:01:45 listening 11 min",
-  "11-15 03:12:13 listening done",
-  "11-15 03:12:13 run end after 686 s",
   "11-15 03:15:40 run start",
   "11-15 03:15:51 listening 11 min",
   "11-15 03:27:09 listening done",
@@ -18035,7 +17889,11 @@
   "11-15 05:15:43 run start",
   "11-15 05:15:52 listening 11 min",
   "11-15 05:27:10 listening done",
-  "11-15 05:27:10 run end after 687 s"
+  "11-15 05:27:10 run end after 687 s",
+  "11-15 05:30:41 run start",
+  "11-15 05:30:52 listening 11 min",
+  "11-15 05:42:11 listening done",
+  "11-15 05:42:11 run end after 689 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
