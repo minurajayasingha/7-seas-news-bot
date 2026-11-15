@@ -13853,6 +13853,97 @@
     "shares": 0
    },
    "stats_at": "2026-11-15T10:00:51.238418+00:00"
+  },
+  "0cc39d0390": {
+   "id": "0cc39d0390",
+   "headline": "Bowen Yang returns to Saturday Night Live to spoof Jensen Huang",
+   "summary": "Former Saturday Night Live repertory player and writer Bowen Yang returned to open the show. He appeared in a portrayal of former Nvidia CEO Jensen Huang amidst a spy scandal.",
+   "label": "WORLD",
+   "hook": "Will Bowen Yang continue appearing in future episodes?",
+   "key_points": [
+    "Bowen Yang is a former repertory player and writer.",
+    "The portrayal occurred during the show opening.",
+    "The segment touched upon the Nvidia spy scandal."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#SNL",
+    "#Nvidia",
+    "#BowenYang"
+   ],
+   "sources": [
+    "NBC News",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/opinion/editorials/4801532/nvidia-spy-scandal-underlines-china-threat/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/opinion/editorials/4801532/nvidia-spy-scandal-underlines-china-threat/"
+    ],
+    [
+     "NBC News",
+     "https://www.nbcnews.com/pop-culture/pop-culture-news/bowen-yang-returns-snl-ex-nvidia-ceo-jensen-huang-mary-todd-lincoln-rcna609381"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Bowen_Yang_Sundance_2025_4.jpg/1280px-Bowen_Yang_Sundance_2025_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "ReverendPoppins / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Jensen_Huang_%28cropped%29_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Photographer: Peter Dasilva / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Bowen Yang returns to Saturday Night Live to spoof Jensen Huang",
+    "people": [
+     "Bowen Yang",
+     "Jensen Huang"
+    ],
+    "image_query": "television studio stage",
+    "image_queries": [
+     "television broadcasting studio",
+     "comedy show stage",
+     "microphone on stage",
+     "broadcast production control room"
+    ],
+    "image_style": "person",
+    "location": "United States",
+    "nearby_city": "New York, New York",
+    "event_query": "Saturday Night Live studio",
+    "news_time": null,
+    "label": "WORLD"
+   },
+   "created_at": "2026-11-15T10:45:54.968192+00:00",
+   "news_time": "2026-11-15T07:14:35+00:00",
+   "news_latest": "2026-11-15T10:00:00+00:00",
+   "caption": "Bowen Yang returns to Saturday Night Live to spoof Jensen Huang\n\nFormer Saturday Night Live repertory player and writer Bowen Yang returned to open the show. He appeared in a portrayal of former Nvidia CEO Jensen Huang amidst a spy scandal.\n\n💬 Will Bowen Yang continue appearing in future episodes?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#SNL #Nvidia #BowenYang #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 576,
+   "tg_file_id": "AgACAgUAAxkDAAICQGr5jXNCNUhLaFyt7EJKBsD3lCpbAAL4E2sbT5fRV_Noucx6m9YRAQADAgADdwADPQQ",
+   "queued_at": "2026-11-15T10:46:11.744020+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-15T10:46:11.744047+00:00",
+   "post_label": "🤖 Auto-posting + Reel",
+   "fb_post_id": "1413030521900096_122102171319548584",
+   "posted_at": "2026-11-15T10:46:12.077314+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 15 · 5:46 AM New York · 4:16 PM Sri Lanka\n\n<b>Bowen Yang returns to Saturday Night Live to spoof Jensen Huang</b>\n<i>NBC News, Washington Examiner</i>\n🟢 <b>Latest:</b> 3:30 PM Sri Lanka (46 min ago) · first reported 12:44 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122102171319548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 376,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122102171319548584_1667308124968883",
+   "fb_reel_id": "1156338020487246",
+   "reel_status": "live"
   }
  },
  "seen_links": [
@@ -14835,7 +14926,9 @@
   "https://www.france24.com/en/africa/20261115-cape-verde-could-make-election-history-with-first-female-president",
   "https://abcnews.com/International/wireStory/cape-verde-elect-woman-president-gaining-independence-1975-138154009",
   "https://www.france24.com/en/middle-east/20261115-three-sentenced-to-death-over-jordan-church-attack",
-  "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss"
+  "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss",
+  "https://www.washingtonexaminer.com/opinion/editorials/4801532/nvidia-spy-scandal-underlines-china-threat/",
+  "https://www.nbcnews.com/pop-culture/pop-culture-news/bowen-yang-returns-snl-ex-nvidia-ceo-jensen-huang-mary-todd-lincoln-rcna609381"
  ],
  "recent_topics": [
   [
@@ -17291,19 +17384,34 @@
     "sentenc"
    ],
    "cf4a7f9609"
+  ],
+  [
+   "2026-11-15T10:46:11.741524+00:00",
+   [
+    "bowen",
+    "china",
+    "huang",
+    "jensen",
+    "nvidia",
+    "return",
+    "scandal",
+    "snl",
+    "spoof",
+    "spy",
+    "threat",
+    "underlin",
+    "yang"
+   ],
+   "0cc39d0390"
   ]
  ],
- "last_draft_at": "2026-11-15T10:30:41.201416+00:00",
+ "last_draft_at": "2026-11-15T10:45:39.967654+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-15T10:00:51.238418+00:00",
  "run_log": [
-  "11-15 08:15:41 run start",
-  "11-15 08:15:51 listening 11 min",
-  "11-15 08:27:11 listening done",
-  "11-15 08:27:11 run end after 690 s",
   "11-15 08:30:36 run start",
   "11-15 08:30:47 listening 11 min",
   "11-15 08:42:05 listening done",
@@ -17339,13 +17447,15 @@
   "11-15 10:30:40 run start",
   "11-15 10:30:50 listening 11 min",
   "11-15 10:42:09 listening done",
-  "11-15 10:42:09 run end after 689 s"
+  "11-15 10:42:09 run end after 689 s",
+  "11-15 10:45:39 run start",
+  "11-15 10:47:05 listening 10 min",
+  "11-15 10:57:08 listening done",
+  "11-15 10:57:08 run end after 689 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Moscow._Police_car%2C_Okhotny_Ryad-Mokhovaya.jpg/1920px-Moscow._Police_car%2C_Okhotny_Ryad-Mokhovaya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://live.staticflickr.com/3640/3547624867_2601ab85a7_b.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Federal_Aviation_Administration_-_Orville_Wright_Federal_Building_%2853830788072%29.jpg/1920px-Federal_Aviation_Administration_-_Orville_Wright_Federal_Building_%2853830788072%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/1280px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Vladimir_Putin_on_gala_match_%282014-05-10%29.jpg/1280px-Vladimir_Putin_on_gala_match_%282014-05-10%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -17383,19 +17493,11 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/The_FAA_air_traffic_control_tower_at_Philadelphia_International_Airport.jpg/1920px-The_FAA_air_traffic_control_tower_at_Philadelphia_International_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/SpaceX_Starbase_launch_facility_%2851438071556%29.jpg/1920px-SpaceX_Starbase_launch_facility_%2851438071556%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Early_Voting_0881_%2831735035208%29.jpg/1920px-Early_Voting_0881_%2831735035208%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/7/7b/Amman_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/7/7b/Amman_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Bowen_Yang_Sundance_2025_4.jpg/1280px-Bowen_Yang_Sundance_2025_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/5/59/Jensen_Huang_%28cropped%29_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   ],
   "pools": {
-   "scott colom": {
-    "t": "2026-11-09T23:00:39.654735+00:00",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Scott_Colom_2_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "The Contrarian / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
    "paul lepage": {
     "t": "2026-11-09T23:00:43.803589+00:00",
     "photos": [
@@ -20727,6 +20829,64 @@
       "portrait": false
      }
     ]
+   },
+   "bowen yang": {
+    "t": "2026-11-15T10:45:54.968025+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Bowen_Yang_in_2025_by_Andrew_Lipovsky_%28cropped%29.jpg/1280px-Bowen_Yang_in_2025_by_Andrew_Lipovsky_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Andrew Lipovsky / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Bowen_Yang_Sundance_2025_4.jpg/1280px-Bowen_Yang_Sundance_2025_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "ReverendPoppins / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Bowen_Yang.jpg/1280px-Bowen_Yang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "PostDocumentation / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Bowen_Yang_Sundance_2025_2.jpg/1280px-Bowen_Yang_Sundance_2025_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "ReverendPoppins / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Bowen_Yang_Sundance_2025.jpg/1280px-Bowen_Yang_Sundance_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "ReverendPoppins / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Bowen_Yang_Sundance_2025_3.jpg/1280px-Bowen_Yang_Sundance_2025_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "ReverendPoppins / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Bowen_Yang_Sundance_2025_3_%28cropped%29.jpg/1280px-Bowen_Yang_Sundance_2025_3_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "ReverendPoppins / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Bowen_Yang_Sundance_2025_2_%28cropped%29.jpg/1280px-Bowen_Yang_Sundance_2025_2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "ReverendPoppins / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Bowen_Yang_in_2025_by_Andrew_Lipovsky.jpg/1280px-Bowen_Yang_in_2025_by_Andrew_Lipovsky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Andrew Lipovsky / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     }
+    ]
    }
   },
   "recent_ideas": [
@@ -20749,14 +20909,14 @@
   "2026-11-12": 17,
   "2026-11-13": 34,
   "2026-11-14": 18,
-  "2026-11-15": 2
+  "2026-11-15": 3
  },
- "last_auto_at": "2026-11-15T09:02:16.445639+00:00",
- "last_post_at": "2026-11-15T09:11:33.149689+00:00",
+ "last_auto_at": "2026-11-15T10:46:12.077314+00:00",
+ "last_post_at": "2026-11-15T10:46:18.128498+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
   "2026-11-14": 8,
-  "2026-11-15": 2
+  "2026-11-15": 3
  }
 }
