@@ -1,5 +1,5 @@
 {
- "tg_offset": 495893048,
+ "tg_offset": 495893049,
  "drafts": {
   "8589cd79f0": {
    "id": "8589cd79f0",
@@ -13438,6 +13438,82 @@
     "shares": 0
    },
    "stats_at": "2026-11-15T12:00:50.886813+00:00"
+  },
+  "25dbc9e8bc": {
+   "id": "25dbc9e8bc",
+   "headline": "Southeast Asian leaders open annual summit in Manila",
+   "summary": "Southeast Asian leaders opened their annual summit in Manila, focusing on trade, energy, and conflict. Protesters gathered to condemn United States policies as attendees arrived.",
+   "label": "WORLD",
+   "hook": "How will energy disruptions from the conflict affect the import-dependent bloc?",
+   "key_points": [
+    "The summit lasts for three days.",
+    "Donald Trump is expected to arrive in Manila on Tuesday.",
+    "Energy disruptions stem from the US-Israel war on Iran."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#ASEAN",
+    "#Philippines",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "France 24"
+   ],
+   "link": "https://www.france24.com/en/the-philippines-and-australia-strengthen-joint-military-deterrence-at-asean-summit",
+   "links": [
+    [
+     "France 24",
+     "https://www.france24.com/en/the-philippines-and-australia-strengthen-joint-military-deterrence-at-asean-summit"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/15/protesters-condemn-us-policies-as-asean-summit-begins-in-manila?traffic_source=rss"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Manila_Cityscape_-_panoramio.jpg",
+      "credit": "Idawriter / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Southeast Asian leaders open annual summit in Manila",
+    "people": [],
+    "image_query": "Manila skyline",
+    "image_queries": [
+     "Manila cityscape",
+     "Philippine International Convention Center",
+     "Manila streets",
+     "Government buildings Manila"
+    ],
+    "image_style": "scene",
+    "location": "Manila, Philippines",
+    "nearby_city": "Manila, Philippines",
+    "event_query": "ASEAN summit Manila",
+    "news_time": null,
+    "label": "WORLD"
+   },
+   "created_at": "2026-11-15T12:31:00.717646+00:00",
+   "news_time": "2026-11-15T07:11:24+00:00",
+   "news_latest": "2026-11-15T12:18:35+00:00",
+   "caption": "Southeast Asian leaders open annual summit in Manila\n\nSoutheast Asian leaders opened their annual summit in Manila, focusing on trade, energy, and conflict. Protesters gathered to condemn United States policies as attendees arrived.\n\n💬 How will energy disruptions from the conflict affect the import-dependent bloc?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#ASEAN #Philippines #WorldNews #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 577,
+   "tg_file_id": "AgACAgUAAxkDAAICQWr5pgedomYeNwNo8SJk395cCFFjAAIVFGsbT5fRV5-LiIIXWZg6AQADAgADdwADPQQ",
+   "extra_msgs": [
+    578,
+    579
+   ],
+   "dup_ok": true
   }
  },
  "seen_links": [
@@ -14422,29 +14498,12 @@
   "https://www.france24.com/en/middle-east/20261115-three-sentenced-to-death-over-jordan-church-attack",
   "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss",
   "https://www.washingtonexaminer.com/opinion/editorials/4801532/nvidia-spy-scandal-underlines-china-threat/",
-  "https://www.nbcnews.com/pop-culture/pop-culture-news/bowen-yang-returns-snl-ex-nvidia-ceo-jensen-huang-mary-todd-lincoln-rcna609381"
+  "https://www.nbcnews.com/pop-culture/pop-culture-news/bowen-yang-returns-snl-ex-nvidia-ceo-jensen-huang-mary-todd-lincoln-rcna609381",
+  "https://www.france24.com/en/the-philippines-and-australia-strengthen-joint-military-deterrence-at-asean-summit",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/15/protesters-condemn-us-policies-as-asean-summit-begins-in-manila?traffic_source=rss",
+  "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss"
  ],
  "recent_topics": [
-  [
-   "2026-11-12T12:31:03.535708+00:00",
-   [
-    "approv",
-    "depend",
-    "duration",
-    "election",
-    "hous",
-    "hug",
-    "measur",
-    "million",
-    "protest",
-    "spain",
-    "street",
-    "tak",
-    "turn",
-    "ugly"
-   ],
-   "59deeaae7f"
-  ],
   [
    "2026-11-12T13:47:48.056509+00:00",
    [
@@ -16768,19 +16827,36 @@
     "yang"
    ],
    "0cc39d0390"
+  ],
+  [
+   "2026-11-15T12:31:04.120555+00:00",
+   [
+    "asean",
+    "attend",
+    "australia",
+    "begin",
+    "condemn",
+    "deterrenc",
+    "joint",
+    "manila",
+    "military",
+    "philippin",
+    "policy",
+    "protester",
+    "stak",
+    "strengthen",
+    "summit"
+   ],
+   "25dbc9e8bc"
   ]
  ],
- "last_draft_at": "2026-11-15T12:15:42.305128+00:00",
+ "last_draft_at": "2026-11-15T12:30:47.495594+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-15T12:00:50.886813+00:00",
  "run_log": [
-  "11-15 10:00:50 run start",
-  "11-15 10:01:53 listening 10 min",
-  "11-15 10:12:24 listening done",
-  "11-15 10:12:24 run end after 694 s",
   "11-15 10:15:41 run start",
   "11-15 10:15:51 listening 11 min",
   "11-15 10:27:09 listening done",
@@ -16816,12 +16892,15 @@
   "11-15 12:15:42 run start",
   "11-15 12:15:50 listening 11 min",
   "11-15 12:27:08 listening done",
-  "11-15 12:27:08 run end after 686 s"
+  "11-15 12:27:08 run end after 686 s",
+  "11-15 12:30:46 run start",
+  "11-15 12:31:04 listening 11 min",
+  "11-15 12:42:16 listening done",
+  "11-15 12:42:16 run end after 689 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Federal_Aviation_Administration_-_Orville_Wright_Federal_Building_%2853830788072%29.jpg/1920px-Federal_Aviation_Administration_-_Orville_Wright_Federal_Building_%2853830788072%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/1280px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Vladimir_Putin_on_gala_match_%282014-05-10%29.jpg/1280px-Vladimir_Putin_on_gala_match_%282014-05-10%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Official_portrait_of_the_United_States_Secretary_of_State_Marco_Rubio%2C_January_2025_%28cropped%29.jpg/1280px-Official_portrait_of_the_United_States_Secretary_of_State_Marco_Rubio%2C_January_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -16860,7 +16939,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Early_Voting_0881_%2831735035208%29.jpg/1920px-Early_Voting_0881_%2831735035208%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/7/7b/Amman_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Bowen_Yang_Sundance_2025_4.jpg/1280px-Bowen_Yang_Sundance_2025_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/5/59/Jensen_Huang_%28cropped%29_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/5/59/Jensen_Huang_%28cropped%29_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://upload.wikimedia.org/wikipedia/commons/4/43/Manila_Cityscape_-_panoramio.jpg"
   ],
   "pools": {
    "paul lepage": {
@@ -20255,7 +20335,6 @@
    }
   },
   "recent_ideas": [
-   "doha skyline",
    "turkey",
    "voting booth, united states",
    "bangkok city view",
@@ -20266,7 +20345,8 @@
    "federal aviation administration building",
    "air traffic control tower",
    "spacex launch facility",
-   "early voting, united states"
+   "early voting, united states",
+   "manila cityscape"
   ]
  },
  "comment_perm_told": true,
