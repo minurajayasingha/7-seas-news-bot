@@ -1,84 +1,6 @@
 {
  "tg_offset": 495893048,
  "drafts": {
-  "6bfd6e38b7": {
-   "id": "6bfd6e38b7",
-   "headline": "Iran designates Argentina navy and air force as terrorist organizations",
-   "summary": "Iran designated Argentina's navy and air force as terrorist organizations. Tehran claimed Buenos Aires is responsible for further consequences. This move follows an earlier designation.",
-   "label": "DIPLOMACY",
-   "hook": "How will diplomatic relations between Argentina and Iran develop after this mutual designation?",
-   "key_points": [
-    "Iran targeted Argentina's navy and air force.",
-    "Tehran warned of further consequences from Buenos Aires."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Iran",
-    "#Argentina",
-    "#WorldNews"
-   ],
-   "sources": [
-    "DW",
-    "UPI"
-   ],
-   "link": "https://www.dw.com/en/iran-classes-argentina-navy-air-force-as-terrorist-organizations/a-79916290?maca=en-rss-en-world-4025-rdf",
-   "links": [
-    [
-     "DW",
-     "https://www.dw.com/en/iran-classes-argentina-navy-air-force-as-terrorist-organizations/a-79916290?maca=en-rss-en-world-4025-rdf"
-    ],
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/World-News/2026/11/11/iran-desigantes-Argentina-navy-air-force-terrorist-organizations/7981794382830/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Buenos_Aires_Skyline_in_Color.jpg/1920px-Buenos_Aires_Skyline_in_Color.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Jimmy Baikovicius / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Iran designates Argentina navy and air force as terrorist organizations",
-    "people": [],
-    "image_query": "Buenos Aires skyline",
-    "image_queries": [
-     "Argentine naval ship",
-     "military aircraft",
-     "Tehran city",
-     "government building"
-    ],
-    "image_style": "scene",
-    "location": "Argentina"
-   },
-   "created_at": "2026-11-11T11:45:34.864896+00:00",
-   "news_time": "2026-11-11T08:39:50+00:00",
-   "news_latest": "2026-11-11T11:24:00+00:00",
-   "caption": "Iran designates Argentina navy and air force as terrorist organizations\n\nIran designated Argentina's navy and air force as terrorist organizations. Tehran claimed Buenos Aires is responsible for further consequences. This move follows an earlier designation.\n\n💬 How will diplomatic relations between Argentina and Iran develop after this mutual designation?\n\n📖 Read more: https://www.dw.com/en/iran-classes-argentina-navy-air-force-as-terrorist-organizations/a-79916290?maca=en-rss-en-world-4025-rdf\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Iran #Argentina #WorldNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 352,
-   "tg_file_id": "AgACAgUAAxkDAAIBYGr0VWB_HETJxZ8w7xK5Vg7KAqPkAAKOFWsbSxqhV8RDRYA9gU2gAQADAgADdwADPQQ",
-   "queued_at": "2026-11-11T12:15:22.145220+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122098482741548584",
-   "posted_at": "2026-11-11T12:15:22.447368+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 11 · 7:15 AM New York · 5:45 PM Sri Lanka\n\n<b>Iran designates Argentina navy and air force as terrorist organizations</b>\n<i>DW, UPI</i>\n🟢 <b>Latest:</b> 4:54 PM Sri Lanka (51 min ago) · first reported 2:09 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098482741548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 170,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-14T11:30:43.907331+00:00"
-  },
   "7f48bd7968": {
    "id": "7f48bd7968",
    "headline": "US charges three men for plotting UK airbase attack",
@@ -14582,27 +14504,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-12T11:45:42.407361+00:00",
-   [
-    "airstrik",
-    "fiv",
-    "gaza",
-    "hama",
-    "hospital",
-    "israel",
-    "israeli",
-    "kill",
-    "member",
-    "nasser",
-    "other",
-    "senior",
-    "strik",
-    "surgeon",
-    "target"
-   ],
-   "30b5b09dcb"
-  ],
-  [
    "2026-11-12T12:01:25.106903+00:00",
    [
     "140",
@@ -16980,17 +16881,13 @@
    "0cc39d0390"
   ]
  ],
- "last_draft_at": "2026-11-15T11:30:43.397611+00:00",
+ "last_draft_at": "2026-11-15T11:45:31.538529+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-15T11:00:47.528786+00:00",
  "run_log": [
-  "11-15 09:15:35 run start",
-  "11-15 09:15:46 listening 11 min",
-  "11-15 09:27:04 listening done",
-  "11-15 09:27:04 run end after 689 s",
   "11-15 09:30:40 run start",
   "11-15 09:30:49 listening 11 min",
   "11-15 09:42:08 listening done",
@@ -17026,7 +16923,11 @@
   "11-15 11:30:43 run start",
   "11-15 11:30:53 listening 11 min",
   "11-15 11:42:12 listening done",
-  "11-15 11:42:12 run end after 689 s"
+  "11-15 11:42:12 run end after 689 s",
+  "11-15 11:45:31 run start",
+  "11-15 11:45:41 listening 11 min",
+  "11-15 11:56:59 listening done",
+  "11-15 11:56:59 run end after 688 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
