@@ -14421,42 +14421,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-12T23:46:13.176510+00:00",
-   [
-    "angry",
-    "apartment",
-    "condition",
-    "condo",
-    "deadly",
-    "disput",
-    "doctor",
-    "fight",
-    "fir",
-    "four",
-    "gun",
-    "gunman",
-    "gym",
-    "himself",
-    "hoa",
-    "injur",
-    "kill",
-    "long-runn",
-    "manager",
-    "mold",
-    "mould",
-    "near",
-    "open",
-    "penthous",
-    "polic",
-    "ran",
-    "shoot",
-    "suspect",
-    "turn",
-    "washington"
-   ],
-   "0dca1b56a1"
-  ],
-  [
    "2026-11-13T02:04:52.411099+00:00",
    [
     "call",
@@ -16536,17 +16500,13 @@
    "17e4ee8ba1"
   ]
  ],
- "last_draft_at": "2026-11-15T23:30:48.912108+00:00",
+ "last_draft_at": "2026-11-15T23:45:39.268697+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-15T23:15:35.492330+00:00",
  "run_log": [
-  "11-15 21:15:40 run start",
-  "11-15 21:16:57 listening 10 min",
-  "11-15 21:27:25 listening done",
-  "11-15 21:27:25 run end after 704 s",
   "11-15 21:31:02 run start",
   "11-15 21:31:41 listening 11 min",
   "11-15 21:42:35 listening done",
@@ -16582,7 +16542,11 @@
   "11-15 23:30:48 run start",
   "11-15 23:30:59 listening 11 min",
   "11-15 23:42:17 listening done",
-  "11-15 23:42:17 run end after 688 s"
+  "11-15 23:42:17 run end after 688 s",
+  "11-15 23:45:38 run start",
+  "11-15 23:45:49 listening 11 min",
+  "11-15 23:57:08 listening done",
+  "11-15 23:57:08 run end after 690 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
