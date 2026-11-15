@@ -1,92 +1,6 @@
 {
  "tg_offset": 495893055,
  "drafts": {
-  "2182ce5439": {
-   "id": "2182ce5439",
-   "headline": "Trump visits Arlington National Cemetery for Veterans Day",
-   "summary": "President Trump travels to Arlington National Cemetery to attend a wreath laying ceremony and deliver remarks for Veterans Day. An expanding legal fight over the proposed site of his 250-foot triumphal arch looms over the visit.",
-   "label": "US POLITICS",
-   "hook": "Should the proposed triumphal arch be built near Arlington National Cemetery?",
-   "key_points": [
-    "President Trump attends Veterans Day events at Arlington National Cemetery.",
-    "A wreath laying ceremony and remarks are scheduled.",
-    "A legal fight continues over the proposed 250-foot triumphal arch site."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#VeteransDay",
-    "#ArlingtonNationalCemetery",
-    "#USPolitics"
-   ],
-   "sources": [
-    "NBC News",
-    "New York Times"
-   ],
-   "link": "https://www.nbcnews.com/video/watch-live-trump-attends-veterans-day-events-at-arlington-national-cemetery-273260613511",
-   "links": [
-    [
-     "NBC News",
-     "https://www.nbcnews.com/video/watch-live-trump-attends-veterans-day-events-at-arlington-national-cemetery-273260613511"
-    ],
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/11/us/politics/trump-arlington-cemetery-arch.html"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Spring_Time_at_Arlington_National_Cemetery%2C_Arlington%2C_Virginia_on_April_18%2C_2024_-_25.jpg/1920px-Spring_Time_at_Arlington_National_Cemetery%2C_Arlington%2C_Virginia_on_April_18%2C_2024_-_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Arlington National Cemetery / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ],
-    "inset": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg/1280px-Donald_Trump_in_Ypsilanti_%2833998674940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "credit": "The White House from Washington, DC / Wikimedia Commons (Public domain)",
-     "short": "WIKIMEDIA COMMONS"
-    }
-   },
-   "img_post": {
-    "headline": "Trump visits Arlington National Cemetery for Veterans Day",
-    "people": [
-     "Donald Trump"
-    ],
-    "image_query": "Arlington National Cemetery",
-    "image_queries": [
-     "Arlington National Cemetery graves",
-     "Tomb of the Unknown Soldier",
-     "memorial amphitheater Arlington",
-     "Arlington cemetery entrance"
-    ],
-    "image_style": "scene",
-    "location": "Arlington, US"
-   },
-   "created_at": "2026-11-11T16:01:30.106711+00:00",
-   "news_time": "2026-11-11T10:03:55+00:00",
-   "news_latest": "2026-11-11T14:38:44+00:00",
-   "caption": "Trump visits Arlington National Cemetery for Veterans Day\n\nPresident Trump travels to Arlington National Cemetery to attend a wreath laying ceremony and deliver remarks for Veterans Day. An expanding legal fight over the proposed site of his 250-foot triumphal arch looms over the visit.\n\n💬 Should the proposed triumphal arch be built near Arlington National Cemetery?\n\n📖 Read more: https://www.nbcnews.com/video/watch-live-trump-attends-veterans-day-events-at-arlington-national-cemetery-273260613511\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#VeteransDay #ArlingtonNationalCemetery #USPolitics #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 363,
-   "tg_file_id": "AgACAgUAAxkDAAIBa2r0kV335sk1zSJB7m1v0qRxqS4yAAIdFmsbSxqhV3tPPHs69cCKAQADAgADdwADPQQ",
-   "queued_at": "2026-11-11T16:04:48.991362+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122098642149548584",
-   "posted_at": "2026-11-11T16:04:49.326305+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 11 · 11:05 AM New York · 9:35 PM Sri Lanka\n\n<b>Trump visits Arlington National Cemetery for Veterans Day</b>\n<i>NBC News, New York Times</i>\n🟡 <b>Latest:</b> 8:08 PM Sri Lanka (1h 26m ago) · first reported 3:33 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122098642149548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 174,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-14T15:30:47.713263+00:00"
-  },
   "49175d8390": {
    "id": "49175d8390",
    "headline": "Brazil electoral court fines Meta 1.3 million dollars",
@@ -13726,6 +13640,94 @@
    "extra_msgs": [
     588
    ]
+  },
+  "48b9509c21": {
+   "id": "48b9509c21",
+   "headline": "Nearly 2200 migrants arrive in Canary Islands over weekend",
+   "summary": "Nearly 2,200 migrants arrived by boat in the Canary Islands over the weekend, according to officials. The islands serve as a primary entry point into Europe for migrants traveling from Africa. More than 13,000 arrivals were recorded between January and the end of last month.",
+   "label": "WORLD",
+   "hook": "Can EU migration and asylum laws stem the flow of arrivals to Spain?",
+   "key_points": [
+    "Spain's maritime rescue service reported the weekend arrivals.",
+    "The Spanish Interior Ministry tracked over 13,000 arrivals earlier this year.",
+    "The islands remain a main entry point for migrants from Africa."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#CanaryIslands",
+    "#Migration",
+    "#Spain"
+   ],
+   "sources": [
+    "ABC News",
+    "Al Jazeera",
+    "France 24"
+   ],
+   "link": "https://www.france24.com/en/video/20261115-canaries-urge-government-action-after-2-200-migrants-reach-the-islands-in-48h-1",
+   "links": [
+    [
+     "France 24",
+     "https://www.france24.com/en/video/20261115-canaries-urge-government-action-after-2-200-migrants-reach-the-islands-in-48h-1"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands?traffic_source=rss"
+    ],
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/spain-2200-migrants-reached-canary-islands-2-days-138155239"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Teide_Volcano%2C_Tenerife%2C_Canary_Islands%2C_Spain%2C_December_2025.jpg/1920px-Teide_Volcano%2C_Tenerife%2C_Canary_Islands%2C_Spain%2C_December_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Kawon Kez Sel / Wikimedia Commons (CC0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Nearly 2200 migrants arrive in Canary Islands over weekend",
+    "people": [],
+    "image_query": "Canary Islands coast",
+    "image_queries": [
+     "Spanish coastline",
+     "Atlantic Ocean boats",
+     "Canary Islands port",
+     "rescue boat at sea"
+    ],
+    "image_style": "scene",
+    "location": "Canary Islands, Spain",
+    "nearby_city": "Madrid, Spain",
+    "event_query": "Canary Islands migrant arrivals",
+    "news_time": null,
+    "label": "WORLD"
+   },
+   "created_at": "2026-11-15T16:01:16.115704+00:00",
+   "news_time": "2026-11-15T11:46:56+00:00",
+   "news_latest": "2026-11-15T15:24:58+00:00",
+   "caption": "Nearly 2200 migrants arrive in Canary Islands over weekend\n\nNearly 2,200 migrants arrived by boat in the Canary Islands over the weekend, according to officials. The islands serve as a primary entry point into Europe for migrants traveling from Africa. More than 13,000 arrivals were recorded between January and the end of last month.\n\n💬 Can EU migration and asylum laws stem the flow of arrivals to Spain?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#CanaryIslands #Migration #Spain #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 591,
+   "tg_file_id": "AgACAgUAAxkDAAICT2r511JFUtwQKfqfKFFJfsaA6NWBAAKFFGsbT5fRV0xAr8dfMHZwAQADAgADdwADPQQ",
+   "queued_at": "2026-11-15T16:01:23.197296+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-15T16:01:23.197341+00:00",
+   "post_label": "🤖 Auto-posting + Reel",
+   "fb_post_id": "1413030521900096_122102476149548584",
+   "posted_at": "2026-11-15T16:01:23.510468+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 15 · 11:01 AM New York · 9:31 PM Sri Lanka\n\n<b>Nearly 2200 migrants arrive in Canary Islands over weekend</b>\n<i>ABC News, Al Jazeera, France 24</i>\n🟢 <b>Latest:</b> 8:54 PM Sri Lanka (36 min ago) · first reported 5:16 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122102476149548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 386,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122102476149548584_1089386357484974",
+   "fb_reel_id": "30762572756695251",
+   "reel_status": "live"
   }
  },
  "seen_links": [
@@ -14729,7 +14731,10 @@
   "https://www.politico.com/news/2026/11/15/tpp-trump-coalition-maga-breaks-01164574",
   "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
   "https://www.washingtonexaminer.com/news/senate/4804139/van-hollen-schumer-misinformation-senate-majority-leader-votes/",
-  "https://thehill.com/the-120/6221313-senate-majority-leader-race-van-hollen/"
+  "https://thehill.com/the-120/6221313-senate-majority-leader-race-van-hollen/",
+  "https://www.france24.com/en/video/20261115-canaries-urge-government-action-after-2-200-migrants-reach-the-islands-in-48h-1",
+  "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands?traffic_source=rss",
+  "https://abcnews.com/International/wireStory/spain-2200-migrants-reached-canary-islands-2-days-138155239"
  ],
  "recent_topics": [
   [
@@ -17022,19 +17027,34 @@
     "voter"
    ],
    "0b57dc62c4"
+  ],
+  [
+   "2026-11-15T16:01:23.194300+00:00",
+   [
+    "2200",
+    "action",
+    "arriv",
+    "canary",
+    "government",
+    "island",
+    "migrant",
+    "nearly",
+    "number",
+    "reach",
+    "record",
+    "spain",
+    "urg"
+   ],
+   "48b9509c21"
   ]
  ],
- "last_draft_at": "2026-11-15T15:45:43.727553+00:00",
+ "last_draft_at": "2026-11-15T16:00:54.221863+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-15T15:06:44.882497+00:00",
  "run_log": [
-  "11-15 13:42:57 run end after 709 s",
-  "11-15 13:45:34 run start",
-  "11-15 13:45:43 listening 11 min",
-  "11-15 13:57:02 listening done",
   "11-15 13:57:02 run end after 688 s",
   "11-15 14:01:01 run start",
   "11-15 14:03:46 listening 9 min",
@@ -17070,12 +17090,15 @@
   "11-15 15:42:39 run end after 690 s",
   "11-15 15:45:43 run start",
   "11-15 15:46:54 run error: ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60)",
-  "11-15 15:46:55 run end after 72 s"
+  "11-15 15:46:55 run end after 72 s",
+  "11-15 16:00:53 run start",
+  "11-15 16:02:26 listening 10 min",
+  "11-15 16:12:29 listening done",
+  "11-15 16:12:29 run end after 696 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Manila_Skyline_from_Padre_Jacinto_Zamora_Bridge%2C_Pandacan%2C_October_2025.jpg/1920px-Manila_Skyline_from_Padre_Jacinto_Zamora_Bridge%2C_Pandacan%2C_October_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/An_Ariel_view_of_buildings_and_homes_in_Juba_city.jpg/1920px-An_Ariel_view_of_buildings_and_homes_in_Juba_city.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/White_House_South_Lawn_%28Is_that_Bo_the_dog%3F%29_%283452051226%29.jpg/1920px-White_House_South_Lawn_%28Is_that_Bo_the_dog%3F%29_%283452051226%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/The_east_garden_of_the_White_House_in_Washington%2C_D.C.jpg/1920px-The_east_garden_of_the_White_House_in_Washington%2C_D.C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -17114,7 +17137,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/National_Mall%2C_Washington%2C_D.C._%2820100325-DSC01342%29.jpg/1920px-National_Mall%2C_Washington%2C_D.C._%2820100325-DSC01342%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Chris_Van_Hollen_at_DNC_0612_%2827994323123%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0612_%2827994323123%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Senate_Democratic_Leader_Chuck_Schumer_%2850519807298%29.jpg/1280px-Senate_Democratic_Leader_Chuck_Schumer_%2850519807298%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Senate_Democratic_Leader_Chuck_Schumer_%2850519807298%29.jpg/1280px-Senate_Democratic_Leader_Chuck_Schumer_%2850519807298%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Teide_Volcano%2C_Tenerife%2C_Canary_Islands%2C_Spain%2C_December_2025.jpg/1920px-Teide_Volcano%2C_Tenerife%2C_Canary_Islands%2C_Spain%2C_December_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "paul lepage": {
@@ -20509,7 +20533,6 @@
    }
   },
   "recent_ideas": [
-   "bangkok city view",
    "us capitol building",
    "capitol at night",
    "washington d.c. skyline",
@@ -20520,7 +20543,8 @@
    "early voting, united states",
    "manila cityscape",
    "white house",
-   "national mall, washington"
+   "national mall, washington",
+   "canary islands, spain"
   ]
  },
  "comment_perm_told": true,
@@ -20528,14 +20552,14 @@
   "2026-11-12": 17,
   "2026-11-13": 34,
   "2026-11-14": 18,
-  "2026-11-15": 6
+  "2026-11-15": 7
  },
- "last_auto_at": "2026-11-15T14:02:31.858641+00:00",
- "last_post_at": "2026-11-15T14:03:00.261342+00:00",
+ "last_auto_at": "2026-11-15T16:01:23.510468+00:00",
+ "last_post_at": "2026-11-15T16:01:34.160649+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
   "2026-11-14": 8,
-  "2026-11-15": 6
+  "2026-11-15": 7
  }
 }
