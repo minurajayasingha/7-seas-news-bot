@@ -1,90 +1,6 @@
 {
  "tg_offset": 495893066,
  "drafts": {
-  "2ad045b59c": {
-   "id": "2ad045b59c",
-   "headline": "Xi Jinping calls for complete reunification with Taiwan",
-   "summary": "Chinese President Xi Jinping stated that reunification with Taiwan is inevitable and must happen. Taiwan quickly rejected Beijing's demands.",
-   "label": "WORLD",
-   "hook": "Will Taiwan accept Beijing's demands for reunification?",
-   "key_points": [
-    "Xi Jinping called for the peaceful reunification of Taiwan.",
-    "Taiwan rejected Beijing's demands and 'one country, two systems'."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#XiJinping",
-    "#Taiwan",
-    "#China"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "DW"
-   ],
-   "link": "https://www.dw.com/en/china-s-xi-jinping-renews-calls-for-reunification-with-taiwan/a-79929738?maca=en-rss-en-world-4025-rdf",
-   "links": [
-    [
-     "DW",
-     "https://www.dw.com/en/china-s-xi-jinping-renews-calls-for-reunification-with-taiwan/a-79929738?maca=en-rss-en-world-4025-rdf"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/12/xi-jinping-says-taiwans-complete-reunification-with-china-will-happen?traffic_source=rss"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Presiden_Indonesia_Prabowo_Subianto%2C_Presiden_Rusia_Vladimir_Putin%2C_Presiden_Tiongkok_Xi_Jinping%2C_Pemimpin_Tertinggi_Korea_Utara_Kim_Jong-un%2C_dan_Presiden_Kazakstan_Kassym-Jomart_Tokayev_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Biro Pers, Media dan Informasi Sekretariat Presiden - Kement / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Xi Jinping calls for complete reunification with Taiwan",
-    "people": [
-     "Xi Jinping"
-    ],
-    "image_query": "Tiananmen Square Beijing",
-    "image_queries": [
-     "Taipei city skyline",
-     "Beijing cityscape",
-     "Taiwan parliament building",
-     "Great Hall of the People"
-    ],
-    "image_style": "person",
-    "location": "Beijing, China"
-   },
-   "created_at": "2026-11-12T13:47:34.327667+00:00",
-   "news_time": "2026-11-12T08:34:45+00:00",
-   "news_latest": "2026-11-12T13:26:00+00:00",
-   "caption": "Xi Jinping calls for complete reunification with Taiwan\n\nChinese President Xi Jinping stated that reunification with Taiwan is inevitable and must happen. Taiwan quickly rejected Beijing's demands.\n\n💬 Will Taiwan accept Beijing's demands for reunification?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#XiJinping #Taiwan #China #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 407,
-   "tg_file_id": "AgACAgUAAxkDAAIBl2r1w4M9ffcwjhoD379f6gqn82HhAAJYFGsbSxqpV-4vI17krfn0AQADAgADdwADPQQ",
-   "queued_at": "2026-11-12T14:03:21.134034+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122099522949548584",
-   "posted_at": "2026-11-12T14:03:26.849596+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 12 · 9:03 AM New York · 7:33 PM Sri Lanka\n\n<b>Xi Jinping calls for complete reunification with Taiwan</b>\n<i>Al Jazeera, DW</i>\n🟢 <b>Latest:</b> 6:56 PM Sri Lanka (37 min ago) · first reported 2:04 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099522949548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 219,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-15T14:01:02.381279+00:00"
-  },
   "5a579197e7": {
    "id": "5a579197e7",
    "headline": "China says United States fabricates Nvidia spy claims",
@@ -16695,17 +16611,13 @@
    "9012ea9cee"
   ]
  ],
- "last_draft_at": "2026-11-16T13:31:28.228366+00:00",
+ "last_draft_at": "2026-11-16T13:45:46.617333+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-16T13:30:51.024699+00:00",
  "run_log": [
-  "11-16 11:15:35 run start",
-  "11-16 11:15:44 listening 11 min",
-  "11-16 11:27:04 listening done",
-  "11-16 11:27:04 run end after 689 s",
   "11-16 11:30:49 run start",
   "11-16 11:33:53 listening 8 min",
   "11-16 11:42:17 listening done",
@@ -16741,7 +16653,11 @@
   "11-16 13:30:50 run start",
   "11-16 13:32:24 listening 10 min",
   "11-16 13:42:29 listening done",
-  "11-16 13:42:29 run end after 698 s"
+  "11-16 13:42:29 run end after 698 s",
+  "11-16 13:45:46 run start",
+  "11-16 13:45:56 listening 11 min",
+  "11-16 13:57:16 listening done",
+  "11-16 13:57:16 run end after 689 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
