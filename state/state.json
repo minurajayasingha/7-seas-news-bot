@@ -1,85 +1,6 @@
 {
  "tg_offset": 495893066,
  "drafts": {
-  "85c1caff13": {
-   "id": "85c1caff13",
-   "headline": "European leaders meet in Dublin to discuss security",
-   "summary": "Leaders from more than 40 European countries gathered in Dublin for a summit about continental security. The meeting coincided with new U.S.-backed talks aimed at ending the Russia-Ukraine war.",
-   "label": "DIPLOMACY",
-   "hook": "Can these talks in Abu Dhabi end the fighting?",
-   "key_points": [
-    "Over 40 European nations attended the Dublin summit.",
-    "Volodymyr Zelensky arrived in Dublin for the meeting.",
-    "U.S.-backed talks take place in Abu Dhabi."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Europe",
-    "#Dublin",
-    "#Ukraine"
-   ],
-   "sources": [
-    "France 24",
-    "Newsweek"
-   ],
-   "link": "https://www.france24.com/en/video/20261112-european-leaders-gather-in-dublin-to-discuss-ukraine-s-security-and-their-own",
-   "links": [
-    [
-     "France 24",
-     "https://www.france24.com/en/video/20261112-european-leaders-gather-in-dublin-to-discuss-ukraine-s-security-and-their-own"
-    ],
-    [
-     "Newsweek",
-     "https://www.newsweek.com/europes-leaders-gather-after-weeks-of-bomb-threats-cyberattacks-12698209"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Government_Buildings%2C_Dublin%2C_Ireland.jpg/1920px-Government_Buildings%2C_Dublin%2C_Ireland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "David Kernan / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "European leaders meet in Dublin to discuss security",
-    "people": [],
-    "image_query": "Dublin city",
-    "image_queries": [
-     "European Parliament building",
-     "Abu Dhabi skyline",
-     "NATO headquarters",
-     "Ukrainian parliament building"
-    ],
-    "image_style": "scene",
-    "location": "Dublin, Ireland"
-   },
-   "created_at": "2026-11-12T12:15:39.700982+00:00",
-   "news_time": "2026-11-12T10:51:52+00:00",
-   "news_latest": "2026-11-12T11:19:28+00:00",
-   "caption": "European leaders meet in Dublin to discuss security\n\nLeaders from more than 40 European countries gathered in Dublin for a summit about continental security. The meeting coincided with new U.S.-backed talks aimed at ending the Russia-Ukraine war.\n\n💬 Can these talks in Abu Dhabi end the fighting?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Europe #Dublin #Ukraine #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 405,
-   "tg_file_id": "AgACAgUAAxkDAAIBlWr1re4GmXTLp-aIXS7yrS_VQjEMAAKdE2sbSxqpVwwCirp_N3bTAQADAgADdwADPQQ",
-   "queued_at": "2026-11-12T14:03:22.482849+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122099523609548584",
-   "posted_at": "2026-11-12T14:03:26.849596+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 12 · 9:04 AM New York · 7:34 PM Sri Lanka\n\n<b>European leaders meet in Dublin to discuss security</b>\n<i>France 24, Newsweek</i>\n🟡 <b>Latest:</b> 4:49 PM Sri Lanka (2h 44m ago) · first reported 4:21 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099523609548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 223,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-15T14:01:02.381279+00:00"
-  },
   "59deeaae7f": {
    "id": "59deeaae7f",
    "headline": "Spain ratifies housing measures after protests and arrests",
@@ -12960,6 +12881,96 @@
    "fb_comment_id": "122103289155548584_1183713660652073",
    "fb_reel_id": "1593506199441013",
    "reel_status": "live"
+  },
+  "108f1162b4": {
+   "id": "108f1162b4",
+   "headline": "Donald Trump travels to Asia for international summits",
+   "summary": "President Trump is embarking on a trip to Asia following midterm elections. He will stop in the Philippines for the Association of Southeast Asian Nations summit and meet with regional leaders, including Australia's prime minister.",
+   "label": "DIPLOMACY",
+   "hook": "Can this trip help shift focus to global affairs?",
+   "key_points": [
+    "Trump will meet with the Chinese and Russian leaders.",
+    "The trilateral summit takes place in Shenzhen.",
+    "Australia's prime minister called for conflict de-escalation."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#WorldNews",
+    "#Asia",
+    "#Diplomacy"
+   ],
+   "sources": [
+    "New York Times",
+    "The Guardian"
+   ],
+   "link": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
+   "links": [
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/TOP_OF_THE_DIWANG_BUILDING_SEE_SHENZHEN_SKYLINE_%2817%29.jpg/1920px-TOP_OF_THE_DIWANG_BUILDING_SEE_SHENZHEN_SKYLINE_%2817%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Dinkun Chen / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ],
+    "inset": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credit": "Daniel Torok / Wikimedia Commons (Public domain)",
+     "short": "WIKIMEDIA COMMONS"
+    }
+   },
+   "img_post": {
+    "headline": "Donald Trump travels to Asia for international summits",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "Shenzhen skyline",
+    "image_queries": [
+     "Manila cityscape",
+     "APEC summit venue",
+     "ASEAN summit venue",
+     "Australian Parliament House"
+    ],
+    "image_style": "scene",
+    "location": "Shenzhen, China",
+    "nearby_city": "Shenzhen, China",
+    "event_query": "APEC forum Shenzhen",
+    "news_time": null,
+    "label": "DIPLOMACY"
+   },
+   "created_at": "2026-11-16T12:16:19.164788+00:00",
+   "news_time": "2026-11-16T11:00:58+00:00",
+   "news_latest": "2026-11-16T11:26:58+00:00",
+   "caption": "Donald Trump travels to Asia for international summits\n\nPresident Trump is embarking on a trip to Asia following midterm elections. He will stop in the Philippines for the Association of Southeast Asian Nations summit and meet with regional leaders, including Australia's prime minister.\n\n💬 Can this trip help shift focus to global affairs?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WorldNews #Asia #Diplomacy #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 633,
+   "tg_file_id": "AgACAgUAAxkDAAICeWr69BeFtH8WuFbVsiVZBPVHIGifAAJzF2sbg6zYV2cIe8KzzMT0AQADAgADdwADPQQ",
+   "queued_at": "2026-11-16T12:16:23.486435+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-16T12:16:23.486462+00:00",
+   "post_label": "🤖 Auto-posting + Reel",
+   "fb_post_id": "1413030521900096_122103318057548584",
+   "posted_at": "2026-11-16T12:16:23.869553+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 16 · 7:16 AM New York · 5:46 PM Sri Lanka\n\n<b>Donald Trump travels to Asia for international summits</b>\n<i>New York Times, The Guardian</i>\n🟢 <b>Latest:</b> 4:56 PM Sri Lanka (49 min ago) · first reported 4:30 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122103318057548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 417,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122103318057548584_2186970615258752",
+   "fb_reel_id": "1889005349204421",
+   "reel_status": "live"
   }
  },
  "seen_links": [
@@ -14032,7 +14043,9 @@
   "https://www.euronews.com/2026/11/16/fewer-students-are-traveling-from-abroad-to-study-at-us-universities-new-report-shows",
   "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
   "https://www.independent.co.uk/news/world/europe/rwanda-asylum-seeker-deportation-eu-scheme-b3085455.html",
-  "https://www.france24.com/en/africa/20261116-eu-nations-to-unveil-rwanda-deal-for-migrant-return-hub"
+  "https://www.france24.com/en/africa/20261116-eu-nations-to-unveil-rwanda-deal-for-migrant-return-hub",
+  "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
+  "https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy"
  ],
  "recent_topics": [
   [
@@ -16098,19 +16111,32 @@
     "unlawful"
    ],
    "8d5a143784"
+  ],
+  [
+   "2026-11-16T12:16:23.484194+00:00",
+   [
+    "apparent",
+    "asia",
+    "embark",
+    "end",
+    "foreign",
+    "know",
+    "policy",
+    "push",
+    "term",
+    "trip",
+    "trump"
+   ],
+   "108f1162b4"
   ]
  ],
- "last_draft_at": "2026-11-16T12:00:45.217812+00:00",
+ "last_draft_at": "2026-11-16T12:15:57.693678+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-16T11:30:51.559015+00:00",
  "run_log": [
-  "11-16 09:45:41 run start",
-  "11-16 09:45:51 listening 11 min",
-  "11-16 09:57:10 listening done",
-  "11-16 09:57:10 run end after 688 s",
   "11-16 10:00:46 run start",
   "11-16 10:00:57 listening 11 min",
   "11-16 10:12:15 listening done",
@@ -16146,13 +16172,15 @@
   "11-16 12:00:44 run start",
   "11-16 12:00:55 listening 11 min",
   "11-16 12:12:14 listening done",
-  "11-16 12:12:14 run end after 689 s"
+  "11-16 12:12:14 run end after 689 s",
+  "11-16 12:15:57 run start",
+  "11-16 12:17:16 listening 10 min",
+  "11-16 12:27:46 listening done",
+  "11-16 12:27:46 run end after 709 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/7/7b/Amman_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Bowen_Yang_Sundance_2025_4.jpg/1280px-Bowen_Yang_Sundance_2025_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/5/59/Jensen_Huang_%28cropped%29_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://upload.wikimedia.org/wikipedia/commons/4/43/Manila_Cityscape_-_panoramio.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Miami_Skyline-02.jpg/1920px-Miami_Skyline-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -16190,7 +16218,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/South_African_Police_car_-_visible_division.JPG/1920px-South_African_Police_car_-_visible_division.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/4/4e/Amman_Skyline_at_Sunset_-_Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/View_of_Pomona_College%27s_Smith_Campus_Center_from_Marston_Quad.jpg/1920px-View_of_Pomona_College%27s_Smith_Campus_Center_from_Marston_Quad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/1/16/San_Ysidro_Port_of_Entry_Plaque.jpg"
+   "https://upload.wikimedia.org/wikipedia/commons/1/16/San_Ysidro_Port_of_Entry_Plaque.jpg",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/TOP_OF_THE_DIWANG_BUILDING_SEE_SHENZHEN_SKYLINE_%2817%29.jpg/1920px-TOP_OF_THE_DIWANG_BUILDING_SEE_SHENZHEN_SKYLINE_%2817%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "meghan markle": {
@@ -19518,7 +19548,6 @@
    }
   },
   "recent_ideas": [
-   "wenceslas square",
    "bab el-mandeb strait",
    "manila streets",
    "gaza city",
@@ -19529,7 +19558,8 @@
    "singapore skyline",
    "amman skyline",
    "college campus quad",
-   "san ysidro port of entry"
+   "san ysidro port of entry",
+   "shenzhen skyline"
   ]
  },
  "comment_perm_told": true,
@@ -19538,15 +19568,15 @@
   "2026-11-13": 34,
   "2026-11-14": 18,
   "2026-11-15": 19,
-  "2026-11-16": 6
+  "2026-11-16": 7
  },
- "last_auto_at": "2026-11-16T11:32:30.332571+00:00",
- "last_post_at": "2026-11-16T11:33:19.354709+00:00",
+ "last_auto_at": "2026-11-16T12:16:23.869553+00:00",
+ "last_post_at": "2026-11-16T12:16:30.923825+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
   "2026-11-14": 8,
   "2026-11-15": 8,
-  "2026-11-16": 6
+  "2026-11-16": 7
  }
 }
