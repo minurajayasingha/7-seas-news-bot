@@ -14072,7 +14072,9 @@
   "https://www.aljazeera.com/news/2026/11/16/british-actor-robert-pattinson-named-as-new-james-bond?traffic_source=rss",
   "https://www.france24.com/en/video/20261116-robert-pattinson-british-actor-will-be-the-next-james-bond",
   "https://www.france24.com/en/video/20261116-robert-pattinson-named-as-new-james-bond",
-  "https://thehill.com/blogs/in-the-know/6222851-robert-pattinson-james-bond/"
+  "https://thehill.com/blogs/in-the-know/6222851-robert-pattinson-james-bond/",
+  "https://www.foxnews.com/politics/senate-dem-challenging-sen-chuck-schumer-leadership-post-backs-hakeem-jeffries-house-speaker",
+  "https://thehill.com/opinion/congress-blog/6221572-democrats-need-new-leadership/"
  ],
  "recent_topics": [
   [
@@ -16065,17 +16067,13 @@
    "dcff3fbe38"
   ]
  ],
- "last_draft_at": "2026-11-16T18:46:30.774588+00:00",
+ "last_draft_at": "2026-11-16T19:00:55.814510+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-16T18:31:30.312240+00:00",
  "run_log": [
-  "11-16 16:31:31 run start",
-  "11-16 16:32:11 listening 11 min",
-  "11-16 16:43:06 listening done",
-  "11-16 16:43:06 run end after 695 s",
   "11-16 16:46:19 run start",
   "11-16 16:46:20 listening 11 min",
   "11-16 16:58:05 listening done",
@@ -16111,7 +16109,11 @@
   "11-16 18:46:30 run start",
   "11-16 18:46:31 listening 11 min",
   "11-16 18:58:16 listening done",
-  "11-16 18:58:16 run end after 706 s"
+  "11-16 18:58:16 run end after 706 s",
+  "11-16 19:00:55 run start",
+  "11-16 19:02:37 listening 10 min",
+  "11-16 19:12:40 listening done",
+  "11-16 19:12:40 run end after 704 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
