@@ -1,97 +1,6 @@
 {
  "tg_offset": 495893077,
  "drafts": {
-  "4d075733c6": {
-   "id": "4d075733c6",
-   "headline": "Gunman kills one and wounds four others in Washington",
-   "summary": "A shooting in Washington, D.C.'s Logan Circle neighborhood left one person dead and four others wounded. Police say the suspect is dead after shooting someone inside a fitness center and barricading himself in a nearby apartment.",
-   "label": "US POLITICS",
-   "hook": "",
-   "key_points": [
-    "PETA deleted a post tying the shooting to a foie gras dinner.",
-    "The suspect barricaded himself in a nearby apartment."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#LoganCircle",
-    "#WashingtonDC",
-    "#News"
-   ],
-   "sources": [
-    "The Hill",
-    "Washington Examiner"
-   ],
-   "link": "https://www.washingtonexaminer.com/news/crime/4801795/peta-deletes-post-logan-circle-shooting-foie-gras-controversy/",
-   "links": [
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/news/crime/4801795/peta-deletes-post-logan-circle-shooting-foie-gras-controversy/"
-    ],
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/news/crime/4801898/logan-circle-shooter-identity-what-to-know/"
-    ],
-    [
-     "The Hill",
-     "https://thehill.com/homenews/state-watch/6217017-dc-logan-circle-shooting-suspect/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://live.staticflickr.com/891/29072747178_ee2a674bd5_b.jpg",
-      "credit": "John Brighenti / Flickr (CC BY 2.0)",
-      "short": "FLICKR"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Gunman kills one and wounds four others in Washington",
-    "people": [],
-    "image_query": "Washington DC street",
-    "image_queries": [
-     "Logan Circle neighborhood",
-     "Washington police department",
-     "fitness center exterior",
-     "Washington apartment building"
-    ],
-    "image_style": "incident",
-    "location": "Washington, DC, US",
-    "nearby_city": "Washington, DC",
-    "event_query": "Logan Circle shooting",
-    "news_time": null,
-    "label": "US POLITICS"
-   },
-   "created_at": "2026-11-12T21:18:11.674751+00:00",
-   "news_time": "2026-11-12T19:45:04+00:00",
-   "news_latest": "2026-11-12T20:35:49+00:00",
-   "caption": "Gunman kills one and wounds four others in Washington\n\nA shooting in Washington, D.C.'s Logan Circle neighborhood left one person dead and four others wounded. Police say the suspect is dead after shooting someone inside a fitness center and barricading himself in a nearby apartment.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#LoganCircle #WashingtonDC #News #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 439,
-   "tg_file_id": "AgACAgUAAxkDAAIBt2r2LRUcPAWieYhwebYNht3KG97sAAIvE2sbFv2wV1-n1xpW26cuAQADAgADdwADPQQ",
-   "extra_msgs": [],
-   "dup_ok": true,
-   "queued_at": "2026-11-12T21:19:05.149259+00:00",
-   "post_now": true,
-   "post_at": "2026-11-12T21:19:09.493425+00:00",
-   "post_label": "🚀 Posting now",
-   "rush": true,
-   "fb_post_id": "1413030521900096_122099805861548584",
-   "posted_at": "2026-11-12T21:19:09.856851+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 12 · 4:19 PM New York · 2:49 AM Sri Lanka\n\n<b>Gunman kills one and wounds four others in Washington</b>\n<i>The Hill, Washington Examiner</i>\n🟢 <b>Latest:</b> 2:05 AM Sri Lanka (43 min ago) · first reported 1:15 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099805861548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 271,
-   "log_photo": true,
-   "cleared": true,
-   "fb_comment_id": "122099805861548584_1130293136398008",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-15T21:15:41.213574+00:00"
-  },
   "07f7523644": {
    "id": "07f7523644",
    "headline": "Trump urges Senate leadership to pass military funding package",
@@ -13230,6 +13139,101 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122103702927548584_1693422509169996"
+  },
+  "768e34cdff": {
+   "id": "768e34cdff",
+   "headline": "Customers report widespread outages at multiple US banks",
+   "summary": "Bank customers in the United States reported technical problems accessing accounts and online services on Monday afternoon. Companies including JPMorgan Chase, Bank of America, Wells Fargo, U.S. Bank, and Zelle experienced issues according to Downdetector and customer reports.",
+   "label": "ECONOMY",
+   "hook": "Were you able to access your bank account on Monday?",
+   "key_points": [
+    "A Chase spokesperson stated some transactions took longer than usual",
+    "Users reported trouble accessing funds and accounts",
+    "Technical problems affected multiple online banking services"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USNews",
+    "#Banking",
+    "#Economy"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "NBC News",
+    "Newsweek",
+    "The Hill",
+    "UPI",
+    "Washington Examiner"
+   ],
+   "link": "https://www.upi.com/Top_News/US/2026/11/16/bank-services-down-in-widespread-outage/4201794862167/",
+   "links": [
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/US/2026/11/16/bank-services-down-in-widespread-outage/4201794862167/"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/policy/technology/4805123/us-banks-service-outages-technical-problems/"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/policy/technology/6223551-chase-wells-fargo-boa-access-problems/"
+    ],
+    [
+     "Newsweek",
+     "https://www.newsweek.com/major-banks-down-america-everything-broken-microsoft-faa-outages-12723495"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Wall_Street_-_New_York_Stock_Exchange.jpg/1920px-Wall_Street_-_New_York_Stock_Exchange.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Carlos Delgado / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Customers report widespread outages at multiple US banks",
+    "people": [],
+    "image_query": "bank building exterior",
+    "image_queries": [
+     "ATM machine exterior",
+     "bank entrance",
+     "smartphone banking app",
+     "financial district street"
+    ],
+    "image_style": "scene",
+    "location": "United States",
+    "nearby_city": "Washington, DC",
+    "event_query": "bank customer service desk",
+    "topic_photo": "smartphone banking app",
+    "label": "ECONOMY",
+    "news_time": "2026-11-16T19:18:10+00:00"
+   },
+   "created_at": "2026-11-16T21:15:54.666764+00:00",
+   "news_time": "2026-11-16T19:18:10+00:00",
+   "news_latest": "2026-11-16T21:03:01+00:00",
+   "importance": 6,
+   "caption": "Customers report widespread outages at multiple US banks\n\nBank customers in the United States reported technical problems accessing accounts and online services on Monday afternoon. Companies including JPMorgan Chase, Bank of America, Wells Fargo, U.S. Bank, and Zelle experienced issues according to Downdetector and customer reports.\n\n💬 Were you able to access your bank account on Monday?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USNews #Banking #Economy #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 670,
+   "tg_file_id": "AgACAgUAAxkDAAICnmr7cowCj1sNehxmTjOy8-ns19RwAAJNE2sbg6zgV-jp33D0e6_DAQADAgADdwADPQQ",
+   "queued_at": "2026-11-16T21:15:57.042771+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-16T21:15:57.042813+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122103718605548584",
+   "posted_at": "2026-11-16T21:15:57.344384+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 16 · 4:16 PM New York · 2:46 AM Sri Lanka\n\n<b>Customers report widespread outages at multiple US banks</b>\n<i>Al Jazeera, NBC News, Newsweek, The Hill, UPI, Washington Examiner</i>\n🟢 <b>Latest:</b> 2:33 AM Sri Lanka (13 min ago) · first reported 12:48 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122103718605548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 445,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122103718605548584_2088080178513993"
   }
  },
  "seen_links": [
@@ -14415,26 +14419,16 @@
   "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
   "https://kyivindependent.com/i-havent-heard-that-trump-on-starshield-restrictions-after-zelenskys-repeated-warnings-2/",
   "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss",
-  "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis"
+  "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis",
+  "https://www.upi.com/Top_News/US/2026/11/16/bank-services-down-in-widespread-outage/4201794862167/",
+  "https://www.washingtonexaminer.com/policy/technology/4805123/us-banks-service-outages-technical-problems/",
+  "https://thehill.com/policy/technology/6223551-chase-wells-fargo-boa-access-problems/",
+  "https://www.newsweek.com/major-banks-down-america-everything-broken-microsoft-faa-outages-12723495",
+  "https://www.nbcnews.com/now/video/customers-report-difficulty-accessing-online-chase-accounts-273591877865",
+  "https://www.nbcnews.com/business/consumer/outages-chase-banking-online-branches-rcna609673",
+  "https://www.aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks?traffic_source=rss"
  ],
  "recent_topics": [
-  [
-   "2026-11-13T21:16:35.295422+00:00",
-   [
-    "airport",
-    "all",
-    "faa",
-    "flight",
-    "ground",
-    "impos",
-    "nationwid",
-    "order",
-    "reason",
-    "safety",
-    "stop"
-   ],
-   "9c247e0875"
-  ],
   [
    "2026-11-13T21:32:41.907431+00:00",
    [
@@ -16418,19 +16412,51 @@
     "yemen"
    ],
    "08ed79d7ae"
+  ],
+  [
+   "2026-11-16T21:15:57.042563+00:00",
+   [
+    "access",
+    "account",
+    "america",
+    "bank",
+    "branch",
+    "chas",
+    "customer",
+    "difficulty",
+    "down",
+    "email",
+    "era",
+    "everything-is-broken",
+    "fargo",
+    "flight",
+    "impact",
+    "major",
+    "multipl",
+    "nationwid",
+    "now",
+    "onlin",
+    "outag",
+    "problem",
+    "som",
+    "suffer",
+    "technical",
+    "then",
+    "thousand",
+    "troubl",
+    "well",
+    "widespread"
+   ],
+   "768e34cdff"
   ]
  ],
- "last_draft_at": "2026-11-16T21:00:56.644557+00:00",
+ "last_draft_at": "2026-11-16T21:15:39.252624+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-16T20:30:38.734486+00:00",
  "run_log": [
-  "11-16 18:46:30 run start",
-  "11-16 18:46:31 listening 11 min",
-  "11-16 18:58:16 listening done",
-  "11-16 18:58:16 run end after 706 s",
   "11-16 19:00:55 run start",
   "11-16 19:02:37 listening 10 min",
   "11-16 19:12:40 listening done",
@@ -16466,12 +16492,15 @@
   "11-16 21:00:56 run start",
   "11-16 21:01:16 listening 11 min",
   "11-16 21:12:35 listening done",
-  "11-16 21:12:35 run end after 699 s"
+  "11-16 21:12:35 run end after 699 s",
+  "11-16 21:15:38 run start",
+  "11-16 21:16:12 listening 11 min",
+  "11-16 21:27:05 listening done",
+  "11-16 21:27:05 run end after 687 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Skyline_of_the_Central_Business_District_of_Singapore_with_Esplanade_Bridge.jpg/1920px-Skyline_of_the_Central_Business_District_of_Singapore_with_Esplanade_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/1/13/Martine_Mo%C3%AFse_in_Lima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Street_fast_food_Patong_Thajsko_2018_1.jpg/1920px-Street_fast_food_Patong_Thajsko_2018_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/South_African_Police_car_-_visible_division.JPG/1920px-South_African_Police_car_-_visible_division.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -16510,7 +16539,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Police_Car_Bulgaria_Sofia_IMG_0379.jpg/1920px-Police_Car_Bulgaria_Sofia_IMG_0379.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/5/5d/21.09.26_-_Audi%C3%AAncia_ao_Prefeito_da_Cidade_de_Nova_York%2C_Zohran_Mamdani_-_55541336047_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/United_States_Treasury_building_2023.jpg/1920px-United_States_Treasury_building_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/6/60/Riyadh%2C_Saudi_Arabia._Qa%E1%B9%A3r_al-Badi%27ah%2C_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/6/60/Riyadh%2C_Saudi_Arabia._Qa%E1%B9%A3r_al-Badi%27ah%2C_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Wall_Street_-_New_York_Stock_Exchange.jpg/1920px-Wall_Street_-_New_York_Stock_Exchange.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "james talarico": {
@@ -19713,7 +19743,6 @@
    }
   },
   "recent_ideas": [
-   "container ship",
    "f-35 lightning",
    "french flag",
    "i voted sticker",
@@ -19724,7 +19753,8 @@
    "us capitol building",
    "supreme court of the united states",
    "treasury building, washington",
-   "riyadh, saudi arabia"
+   "riyadh, saudi arabia",
+   "wall street, new york"
   ]
  },
  "comment_perm_told": true,
@@ -19733,10 +19763,10 @@
   "2026-11-13": 34,
   "2026-11-14": 18,
   "2026-11-15": 19,
-  "2026-11-16": 28
+  "2026-11-16": 29
  },
- "last_auto_at": "2026-11-16T20:45:58.774979+00:00",
- "last_post_at": "2026-11-16T20:46:05.765975+00:00",
+ "last_auto_at": "2026-11-16T21:15:57.344384+00:00",
+ "last_post_at": "2026-11-16T21:16:02.620130+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
