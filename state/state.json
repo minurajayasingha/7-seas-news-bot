@@ -14115,26 +14115,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-13T22:16:07.781478+00:00",
-   [
-    "allegation",
-    "arm",
-    "campaign",
-    "congressman",
-    "democrat",
-    "elect",
-    "fac",
-    "harassment",
-    "hous",
-    "investigat",
-    "investigation",
-    "newly",
-    "poindexter",
-    "sexual"
-   ],
-   "c33e783284"
-  ],
-  [
    "2026-11-13T22:53:03.133604+00:00",
    [
     "alleg",
@@ -16129,17 +16109,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-16T22:01:12.499295+00:00",
+ "last_draft_at": "2026-11-16T22:15:42.865580+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-16T21:30:47.165828+00:00",
  "run_log": [
-  "11-16 19:45:59 run start",
-  "11-16 19:46:50 listening 11 min",
-  "11-16 19:57:43 listening done",
-  "11-16 19:57:43 run end after 703 s",
   "11-16 20:01:43 run start",
   "11-16 20:01:44 listening 11 min",
   "11-16 20:13:30 listening done",
@@ -16175,7 +16151,11 @@
   "11-16 22:01:12 run start",
   "11-16 22:01:13 listening 11 min",
   "11-16 22:12:56 listening done",
-  "11-16 22:12:56 run end after 704 s"
+  "11-16 22:12:56 run end after 704 s",
+  "11-16 22:15:42 run start",
+  "11-16 22:15:52 listening 11 min",
+  "11-16 22:27:10 listening done",
+  "11-16 22:27:10 run end after 687 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
