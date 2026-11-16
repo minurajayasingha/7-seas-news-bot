@@ -1,66 +1,6 @@
 {
  "tg_offset": 495893066,
  "drafts": {
-  "5b021b17f4": {
-   "id": "5b021b17f4",
-   "headline": "Brooklyn building collapse kills two and injures seventeen",
-   "summary": "A three-storey building partially collapsed into an open construction site in Brooklyn on Wednesday, November 11. Rescuers pulled four survivors from the rubble, including a pregnant woman, while firefighters continued searching for missing people.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "A three-storey building partially collapsed in Brooklyn",
-    "At least two people died and 17 were injured",
-    "Rescuers pulled four survivors from the rubble"
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#Brooklyn",
-    "#BuildingCollapse",
-    "#News"
-   ],
-   "sources": [
-    "Euronews",
-    "The Independent"
-   ],
-   "link": "https://www.independent.co.uk/news/world/americas/brooklyn-building-collapse-pregnant-woman-b3083626.html",
-   "links": [
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/brooklyn-building-collapse-pregnant-woman-b3083626.html"
-    ],
-    [
-     "Euronews",
-     "https://www.euronews.com/video/2026/11/12/us-survivor-pulled-alive-from-rubble-after-deadly-brooklyn-collapse"
-    ]
-   ],
-   "bg": {
-    "type": "incident",
-    "photos": [],
-    "location": "Brooklyn, US"
-   },
-   "img_post": {
-    "headline": "Brooklyn building collapse kills two and injures seventeen",
-    "people": [],
-    "image_query": "Brooklyn building collapse",
-    "image_queries": [
-     "Brooklyn street",
-     "construction site rubble",
-     "firefighters at emergency",
-     "New York rescue operation"
-    ],
-    "image_style": "incident",
-    "location": "Brooklyn, US"
-   },
-   "created_at": "2026-11-12T09:45:32.224730+00:00",
-   "news_time": "2026-11-12T08:55:47+00:00",
-   "news_latest": "2026-11-12T09:14:56+00:00",
-   "caption": "🚨 BREAKING: Brooklyn building collapse kills two and injures seventeen\n\nA three-storey building partially collapsed into an open construction site in Brooklyn on Wednesday, November 11. Rescuers pulled four survivors from the rubble, including a pregnant woman, while firefighters continued searching for missing people.\n\nWhat we know so far:\n• A three-storey building partially collapsed in Brooklyn\n• At least two people died and 17 were injured\n• Rescuers pulled four survivors from the rubble\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Brooklyn #BuildingCollapse #News #7SeasNews",
-   "status": "replaced",
-   "tg_message_id": 395,
-   "tg_file_id": "AgACAgUAAxkDAAIBi2r1iscnMxtLPk94t7JMlwXk81adAAJCE2sbSxqpV9tb0DohnQNOAQADAgADdwADPQQ",
-   "extra_msgs": [],
-   "cleared": true
-  },
   "5191357420": {
    "id": "5191357420",
    "headline": "House Republicans choose Jim Jordan as their leader",
@@ -13175,12 +13115,11 @@
    "news_time": "2026-11-15T23:49:10+00:00",
    "news_latest": "2026-11-16T01:47:57+00:00",
    "caption": "Singapore cloud computing company says suspected Chinese spy left in 2025\n\nMegaspeed says a director accused of being a Chinese spy left the business in late 2025. The cloud computing company described its operations as legitimate and lawful amid questions over whether advanced AI chips ended up in China.\n\n💬 Should Nvidia choose an external candidate for its next chief executive?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Nvidia #Megaspeed #ArtificialIntelligence #7SeasNews",
-   "status": "pending",
+   "status": "expired",
    "tg_message_id": 625,
    "tg_file_id": "AgACAgUAAxkDAAICcWr6gAiVLcGl0p8lPYY_5r9ClNknAAKGFmsbg6zYV_u_07fGU9hDAQADAgADdwADPQQ",
-   "extra_msgs": [
-    626
-   ]
+   "extra_msgs": [],
+   "cleared": true
   },
   "abfc3a1aac": {
    "id": "abfc3a1aac",
@@ -16615,17 +16554,13 @@
    "a21739bb6e"
   ]
  ],
- "last_draft_at": "2026-11-16T09:31:35.255945+00:00",
+ "last_draft_at": "2026-11-16T09:45:42.110222+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-16T09:30:52.430251+00:00",
  "run_log": [
-  "11-16 07:15:39 run start",
-  "11-16 07:15:48 listening 11 min",
-  "11-16 07:27:07 listening done",
-  "11-16 07:27:07 run end after 688 s",
   "11-16 07:33:03 run start",
   "11-16 07:34:18 listening 10 min",
   "11-16 07:44:47 listening done",
@@ -16661,7 +16596,11 @@
   "11-16 09:30:51 run start",
   "11-16 09:32:46 listening 10 min",
   "11-16 09:42:25 listening done",
-  "11-16 09:42:25 run end after 693 s"
+  "11-16 09:42:25 run end after 693 s",
+  "11-16 09:45:41 run start",
+  "11-16 09:45:51 listening 11 min",
+  "11-16 09:57:10 listening done",
+  "11-16 09:57:10 run end after 688 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
