@@ -1,87 +1,6 @@
 {
  "tg_offset": 495893066,
  "drafts": {
-  "eeea2b2bb2": {
-   "id": "eeea2b2bb2",
-   "headline": "Florida city cancels St Patricks parade and Pride event",
-   "summary": "Delray Beach canceled its 2027 St. Patrick's Day Parade and Pride event. The cancellation follows Florida Governor Ron DeSantis signing a new law restricting DEI-related funding.",
-   "label": "US POLITICS",
-   "hook": "Should local events be affected by state funding laws?",
-   "key_points": [
-    "Delray Beach canceled its 2027 St. Patrick's Day Parade.",
-    "The city also canceled its 2027 Pride event.",
-    "Gov. Ron DeSantis signed Florida's new DEI funding law."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Florida",
-    "#DelrayBeach",
-    "#USPolitics"
-   ],
-   "sources": [
-    "Fox News",
-    "The Independent"
-   ],
-   "link": "https://www.foxnews.com/politics/florida-city-gop-backed-dei-law-blocks-st-patricks-parade-pride-event",
-   "links": [
-    [
-     "Fox News",
-     "https://www.foxnews.com/politics/florida-city-gop-backed-dei-law-blocks-st-patricks-parade-pride-event"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/delray-beach-st-patricks-day-pride-b3083607.html"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Florida_State_Capitol_-_US27_February_2015_%2844033650502%29.jpg/1920px-Florida_State_Capitol_-_US27_February_2015_%2844033650502%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "formulanone from Huntsville, United States / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Florida city cancels St Patricks parade and Pride event",
-    "people": [
-     "Ron DeSantis"
-    ],
-    "image_query": "Delray Beach city",
-    "image_queries": [
-     "Florida State Capitol",
-     "Delray Beach downtown",
-     "Florida flag",
-     "government building"
-    ],
-    "image_style": "scene",
-    "location": "Florida, US"
-   },
-   "created_at": "2026-11-12T09:15:38.186388+00:00",
-   "news_time": "2026-11-12T07:47:28+00:00",
-   "news_latest": "2026-11-12T09:08:10+00:00",
-   "caption": "Florida city cancels St Patricks parade and Pride event\n\nDelray Beach canceled its 2027 St. Patrick's Day Parade and Pride event. The cancellation follows Florida Governor Ron DeSantis signing a new law restricting DEI-related funding.\n\n💬 Should local events be affected by state funding laws?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Florida #DelrayBeach #USPolitics #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 394,
-   "tg_file_id": "AgACAgUAAxkDAAIBimr1g76hVrlLW9xWmCwLNi6_9klVAAI0E2sbSxqpV_ked7mTfpr0AQADAgADdwADPQQ",
-   "queued_at": "2026-11-12T09:19:51.962265+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122099309319548584",
-   "posted_at": "2026-11-12T09:19:52.329027+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 12 · 4:19 AM New York · 2:49 PM Sri Lanka\n\n<b>Florida city cancels St Patricks parade and Pride event</b>\n<i>Fox News, The Independent</i>\n🟢 <b>Latest:</b> 2:38 PM Sri Lanka (11 min ago) · first reported 1:17 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099309319548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 215,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-15T09:00:57.041269+00:00"
-  },
   "5b021b17f4": {
    "id": "5b021b17f4",
    "headline": "Brooklyn building collapse kills two and injures seventeen",
@@ -16593,17 +16512,13 @@
    "d76ba2cdf6"
   ]
  ],
- "last_draft_at": "2026-11-16T09:01:27.586776+00:00",
+ "last_draft_at": "2026-11-16T09:15:45.092018+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-16T08:30:38.497553+00:00",
  "run_log": [
-  "11-16 06:46:23 run start",
-  "11-16 06:46:33 listening 11 min",
-  "11-16 06:57:51 listening done",
-  "11-16 06:57:51 run end after 687 s",
   "11-16 07:00:55 run start",
   "11-16 07:01:05 listening 11 min",
   "11-16 07:12:23 listening done",
@@ -16639,7 +16554,11 @@
   "11-16 09:01:27 run start",
   "11-16 09:01:28 listening 11 min",
   "11-16 09:13:13 listening done",
-  "11-16 09:13:13 run end after 706 s"
+  "11-16 09:13:13 run end after 706 s",
+  "11-16 09:15:44 run start",
+  "11-16 09:15:53 listening 11 min",
+  "11-16 09:27:12 listening done",
+  "11-16 09:27:12 run end after 688 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
