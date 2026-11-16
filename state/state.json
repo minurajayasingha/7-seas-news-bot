@@ -13855,33 +13855,13 @@
   "https://www.axios.com/2026/11/16/international-student-enrollment-decline-college-budgets",
   "https://www.upi.com/Top_News/US/2026/11/16/report-internation-students-in-united-states-drop-further/3831794856236/",
   "https://www.independent.co.uk/news/world/americas/crime/epstein-death-prison-forensic-expert-b3086005.html",
-  "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+  "https://www.newsweek.com/biden-reveals-private-warning-to-putin-before-russias-ukraine-invasion-12723556",
+  "https://www.foxnews.com/world/ukraine-hits-putins-prized-bridge-record-drone-blitz-kremlin-tells-lawmakers-prepare-victory",
+  "https://www.washingtonpost.com/politics/2026/11/16/trump-takes-less-secure-plane-china/",
+  "https://www.independent.co.uk/news/world/americas/us-politics/trump-qatar-jet-china-philippines-security-b3085840.html"
  ],
  "recent_topics": [
-  [
-   "2026-11-13T23:17:51.491947+00:00",
-   [
-    "attack",
-    "caus",
-    "dhs",
-    "faa",
-    "ground",
-    "head",
-    "indication",
-    "investigat",
-    "mark",
-    "mullin",
-    "nefariou",
-    "outag",
-    "root",
-    "stop",
-    "telecom",
-    "ther",
-    "threat",
-    "way"
-   ],
-   "09a77b01bd"
-  ],
   [
    "2026-11-14T01:32:38.191362+00:00",
    [
@@ -15786,19 +15766,58 @@
     "york"
    ],
    "901e21f714"
+  ],
+  [
+   "2026-11-16T23:16:12.130337+00:00",
+   [
+    "biden",
+    "blitz",
+    "bridg",
+    "dron",
+    "hit",
+    "invasion",
+    "kremlin",
+    "lawmaker",
+    "prepar",
+    "privat",
+    "priz",
+    "putin",
+    "record",
+    "reveal",
+    "russia",
+    "tell",
+    "ukrain",
+    "victory",
+    "warn"
+   ],
+   "skipped"
+  ],
+  [
+   "2026-11-16T23:16:13.146310+00:00",
+   [
+    "asia",
+    "china",
+    "doubt",
+    "less",
+    "max",
+    "plan",
+    "qatar-gift",
+    "remain",
+    "secur",
+    "security",
+    "tak",
+    "trump"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-16T23:00:53.264899+00:00",
+ "last_draft_at": "2026-11-16T23:16:09.784890+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-16T22:30:49.235889+00:00",
  "run_log": [
-  "11-16 20:45:36 run start",
-  "11-16 20:46:15 listening 11 min",
-  "11-16 20:57:08 listening done",
-  "11-16 20:57:08 run end after 692 s",
   "11-16 21:00:56 run start",
   "11-16 21:01:16 listening 11 min",
   "11-16 21:12:35 listening done",
@@ -15834,7 +15853,11 @@
   "11-16 23:00:52 run start",
   "11-16 23:01:12 listening 11 min",
   "11-16 23:12:31 listening done",
-  "11-16 23:12:31 run end after 699 s"
+  "11-16 23:12:31 run end after 699 s",
+  "11-16 23:16:09 run start",
+  "11-16 23:16:13 listening 11 min",
+  "11-16 23:27:55 listening done",
+  "11-16 23:27:55 run end after 706 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
