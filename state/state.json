@@ -1,99 +1,6 @@
 {
  "tg_offset": 495893077,
  "drafts": {
-  "d2d973a04c": {
-   "id": "d2d973a04c",
-   "headline": "Gunman kills one and injures four others in Washington",
-   "summary": "Police report a gunman killed one person and injured four others near a Washington, D.C. gym. Witnesses describe hearing gunfire and escaping the area during the incident.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "The shooting occurred Thursday morning local time.",
-    "The incident took place near Logan Circle.",
-    "The suspect is dead, according to police."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#WashingtonDC",
-    "#News",
-    "#BreakingNews"
-   ],
-   "sources": [
-    "BBC",
-    "NBC News",
-    "UPI"
-   ],
-   "link": "https://www.bbc.co.uk/news/videos/cv702w84r5l1o?at_medium=RSS&at_campaign=rss",
-   "links": [
-    [
-     "BBC",
-     "https://www.bbc.co.uk/news/videos/cv702w84r5l1o?at_medium=RSS&at_campaign=rss"
-    ],
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/US/2026/11/12/logan-circle-washington-dc-active-shooter/6221794498066/"
-    ],
-    [
-     "NBC News",
-     "https://www.nbcnews.com/video/witness-describes-horrific-scene-at-washington-d-c-gym-shooting-273343045703"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://live.staticflickr.com/7212/7042013351_d8dc4e9c8e_b.jpg",
-      "credit": "USDAgov / Flickr (Public Domain)",
-      "short": "FLICKR"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Gunman kills one and injures four others in Washington",
-    "people": [],
-    "image_query": "Washington DC street",
-    "image_queries": [
-     "Logan Circle Washington",
-     "Washington DC police",
-     "gym building exterior",
-     "Washington DC cityscape"
-    ],
-    "image_style": "incident",
-    "location": "Washington, D.C.",
-    "nearby_city": "Washington, D.C.",
-    "event_query": "Washington DC gym shooting",
-    "news_time": null,
-    "label": "WORLD"
-   },
-   "created_at": "2026-11-12T20:54:20.054600+00:00",
-   "news_time": "2026-11-12T16:36:49+00:00",
-   "news_latest": "2026-11-12T19:24:33+00:00",
-   "caption": "Gunman kills one and injures four others in Washington\n\nPolice report a gunman killed one person and injured four others near a Washington, D.C. gym. Witnesses describe hearing gunfire and escaping the area during the incident.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WashingtonDC #News #BreakingNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 437,
-   "tg_file_id": "AgACAgUAAxkDAAIBtWr2J4ppWEfhVdSHDl7VpStI6oezAAIsE2sbFv2wV-O6hTw9jm2PAQADAgADdwADPQQ",
-   "queued_at": "2026-11-12T20:54:34.584666+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-12T20:54:53.620685+00:00",
-   "post_label": "🤖 Auto-posting",
-   "rush": true,
-   "fb_post_id": "1413030521900096_122099793903548584",
-   "posted_at": "2026-11-12T20:54:53.921988+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 12 · 3:54 PM New York · 2:24 AM Sri Lanka\n\n<b>Gunman kills one and injures four others in Washington</b>\n<i>BBC, NBC News, UPI</i>\n🟡 <b>Latest:</b> 12:54 AM Sri Lanka (1h 30m ago) · first reported 10:06 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099793903548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 269,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122099793903548584_964245429779190",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-15T20:11:10.267359+00:00"
-  },
   "4d8b467c55": {
    "id": "4d8b467c55",
    "headline": "Chuck Schumer faces opposition from several Democratic lawmakers",
@@ -13330,6 +13237,89 @@
     "shares": 0
    },
    "stats_at": "2026-11-16T20:30:38.734486+00:00"
+  },
+  "08ed79d7ae": {
+   "id": "08ed79d7ae",
+   "headline": "Saudi Arabia dismisses coalition commander amid military repositioning in Yemen",
+   "summary": "Saudi Arabia dismissed the commander of coalition forces fighting the Houthis. Government forces withdrew from parts of the Red Sea coast, Marib, and the Bab al-Mandab strait, which the Saudi-backed government says aims to protect Aden and relieve the siege of Taiz.",
+   "label": "CONFLICT",
+   "hook": "Will these military repositionings help protect Aden and relieve the siege of Taiz?",
+   "key_points": [
+    "Anti-Houthi forces accused Saudi Arabia of military incompetence.",
+    "Forces pulled back from the strategic Bab al-Mandab strait.",
+    "Aden serves as the base for the UN-recognised government."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#SaudiArabia",
+    "#Yemen",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "The Guardian"
+   ],
+   "link": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Riyadh%2C_Saudi_Arabia._Qa%E1%B9%A3r_al-Badi%27ah%2C_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Shirazibustan / Wikimedia Commons (CC0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Saudi Arabia dismisses coalition commander amid military repositioning in Yemen",
+    "people": [],
+    "image_query": "Riyadh city skyline",
+    "image_queries": [
+     "Bab al-Mandab strait",
+     "Aden port city",
+     "Taiz city Yemen",
+     "Marib Yemen"
+    ],
+    "image_style": "scene",
+    "location": "Riyadh, Saudi Arabia",
+    "nearby_city": "Riyadh, Saudi Arabia",
+    "event_query": "Yemen military coalition repositioning",
+    "topic_photo": "military map",
+    "label": "CONFLICT",
+    "news_time": "2026-11-16T19:04:07+00:00"
+   },
+   "created_at": "2026-11-16T20:45:56.344201+00:00",
+   "news_time": "2026-11-16T19:04:07+00:00",
+   "news_latest": "2026-11-16T19:19:21+00:00",
+   "importance": 7,
+   "caption": "Saudi Arabia dismisses coalition commander amid military repositioning in Yemen\n\nSaudi Arabia dismissed the commander of coalition forces fighting the Houthis. Government forces withdrew from parts of the Red Sea coast, Marib, and the Bab al-Mandab strait, which the Saudi-backed government says aims to protect Aden and relieve the siege of Taiz.\n\n💬 Will these military repositionings help protect Aden and relieve the siege of Taiz?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#SaudiArabia #Yemen #WorldNews #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 669,
+   "tg_file_id": "AgACAgUAAxkDAAICnWr7a4auChJkF41EBFtOH9iKJEDmAAJLE2sbg6zgV3DWHU-Zy90TAQADAgADdwADPQQ",
+   "queued_at": "2026-11-16T20:45:58.464427+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-16T20:45:58.464473+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122103702927548584",
+   "posted_at": "2026-11-16T20:45:58.774979+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 16 · 3:46 PM New York · 2:16 AM Sri Lanka\n\n<b>Saudi Arabia dismisses coalition commander amid military repositioning in Yemen</b>\n<i>Al Jazeera, The Guardian</i>\n🟡 <b>Latest:</b> 12:49 AM Sri Lanka (1h 26m ago) · first reported 12:34 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122103702927548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 444,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122103702927548584_1693422509169996"
   }
  },
  "seen_links": [
@@ -14513,7 +14503,9 @@
   "https://www.washingtonexaminer.com/policy/technology/4805056/california-sues-openai-hugging-face-public-nuisance/",
   "https://www.nbcnews.com/tech/tech-news/california-sues-chatgpt-maker-openai-rogue-hacking-incidents-rcna609596",
   "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-  "https://kyivindependent.com/i-havent-heard-that-trump-on-starshield-restrictions-after-zelenskys-repeated-warnings-2/"
+  "https://kyivindependent.com/i-havent-heard-that-trump-on-starshield-restrictions-after-zelenskys-repeated-warnings-2/",
+  "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss",
+  "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis"
  ],
  "recent_topics": [
   [
@@ -16536,19 +16528,33 @@
     "theyr"
    ],
    "005864cce3"
+  ],
+  [
+   "2026-11-16T20:45:58.464233+00:00",
+   [
+    "anti-houthi",
+    "arabia",
+    "challeng",
+    "coalition",
+    "commander",
+    "dismiss",
+    "fight",
+    "forc",
+    "houthi",
+    "saudi",
+    "strategy",
+    "yemen"
+   ],
+   "08ed79d7ae"
   ]
  ],
- "last_draft_at": "2026-11-16T20:31:14.020120+00:00",
+ "last_draft_at": "2026-11-16T20:45:37.152820+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-16T20:30:38.734486+00:00",
  "run_log": [
-  "11-16 18:16:02 run start",
-  "11-16 18:16:13 listening 11 min",
-  "11-16 18:27:32 listening done",
-  "11-16 18:27:32 run end after 690 s",
   "11-16 18:31:29 run start",
   "11-16 18:34:24 listening 9 min",
   "11-16 18:43:13 listening done",
@@ -16584,12 +16590,15 @@
   "11-16 20:30:38 run start",
   "11-16 20:32:30 listening 10 min",
   "11-16 20:42:08 listening done",
-  "11-16 20:42:08 run end after 689 s"
+  "11-16 20:42:08 run end after 689 s",
+  "11-16 20:45:36 run start",
+  "11-16 20:46:15 listening 11 min",
+  "11-16 20:57:08 listening done",
+  "11-16 20:57:08 run end after 692 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Benjamin_Netanyahu_Receives_Hudson%27s_Herman_Kahn_Award_%2830498904601%29.jpg/1280px-Benjamin_Netanyahu_Receives_Hudson%27s_Herman_Kahn_Award_%2830498904601%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Skyline_of_the_Central_Business_District_of_Singapore_with_Esplanade_Bridge.jpg/1920px-Skyline_of_the_Central_Business_District_of_Singapore_with_Esplanade_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/1/13/Martine_Mo%C3%AFse_in_Lima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Street_fast_food_Patong_Thajsko_2018_1.jpg/1920px-Street_fast_food_Patong_Thajsko_2018_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -16628,7 +16637,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Ro_Khanna%2C_official_portrait%2C_115th_Congress_%283x4%29_%28cropped%29.jpg/1280px-Ro_Khanna%2C_official_portrait%2C_115th_Congress_%283x4%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Police_Car_Bulgaria_Sofia_IMG_0379.jpg/1920px-Police_Car_Bulgaria_Sofia_IMG_0379.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/5/5d/21.09.26_-_Audi%C3%AAncia_ao_Prefeito_da_Cidade_de_Nova_York%2C_Zohran_Mamdani_-_55541336047_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/United_States_Treasury_building_2023.jpg/1920px-United_States_Treasury_building_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/United_States_Treasury_building_2023.jpg/1920px-United_States_Treasury_building_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/6/60/Riyadh%2C_Saudi_Arabia._Qa%E1%B9%A3r_al-Badi%27ah%2C_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   ],
   "pools": {
    "james talarico": {
@@ -19831,7 +19841,6 @@
    }
   },
   "recent_ideas": [
-   "beijing skyline",
    "container ship",
    "f-35 lightning",
    "french flag",
@@ -19842,7 +19851,8 @@
    "nuclear waste storage",
    "us capitol building",
    "supreme court of the united states",
-   "treasury building, washington"
+   "treasury building, washington",
+   "riyadh, saudi arabia"
   ]
  },
  "comment_perm_told": true,
@@ -19851,10 +19861,10 @@
   "2026-11-13": 34,
   "2026-11-14": 18,
   "2026-11-15": 19,
-  "2026-11-16": 27
+  "2026-11-16": 28
  },
- "last_auto_at": "2026-11-16T20:16:10.621336+00:00",
- "last_post_at": "2026-11-16T20:16:15.413655+00:00",
+ "last_auto_at": "2026-11-16T20:45:58.774979+00:00",
+ "last_post_at": "2026-11-16T20:46:05.765975+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
