@@ -1,95 +1,6 @@
 {
  "tg_offset": 495893077,
  "drafts": {
-  "0dca1b56a1": {
-   "id": "0dca1b56a1",
-   "headline": "Doctor kills apartment manager in Washington DC shooting",
-   "summary": "A shooting in Washington DC leaves one person dead and four injured after a dispute over apartment conditions. Police state that the suspect is dead.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "The suspect had a long-running dispute over mould.",
-    "The apartment involved is valued at $1 million.",
-    "A witness saw a deceased person in a pool of blood."
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#WashingtonDC",
-    "#News",
-    "#US"
-   ],
-   "sources": [
-    "BBC",
-    "The Independent"
-   ],
-   "link": "https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo?at_medium=RSS&at_campaign=rss",
-   "links": [
-    [
-     "BBC",
-     "https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo?at_medium=RSS&at_campaign=rss"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/crime/shooting-dc-gym-doctor-hoa-fight-b3084137.html"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://live.staticflickr.com/3069/2294317201_2163349b4a_b.jpg",
-      "credit": "spakattacks / Flickr (CC BY 2.0)",
-      "short": "FLICKR"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Doctor kills apartment manager in Washington DC shooting",
-    "people": [],
-    "image_query": "Washington DC street",
-    "image_queries": [
-     "apartment building exterior",
-     "Washington DC skyline",
-     "police tape scene",
-     "city apartment complex"
-    ],
-    "image_style": "incident",
-    "location": "Washington DC, US",
-    "nearby_city": "Washington, District of Columbia",
-    "event_query": "Washington DC apartment shooting",
-    "news_time": null,
-    "label": "WORLD"
-   },
-   "created_at": "2026-11-12T23:46:07.244019+00:00",
-   "news_time": "2026-11-12T20:59:15+00:00",
-   "news_latest": "2026-11-12T23:39:04+00:00",
-   "caption": "🚨 BREAKING: Doctor kills apartment manager in Washington DC shooting\n\nA shooting in Washington DC leaves one person dead and four injured after a dispute over apartment conditions. Police state that the suspect is dead.\n\nWhat we know so far:\n• The suspect had a long-running dispute over mould.\n• The apartment involved is valued at $1 million.\n• A witness saw a deceased person in a pool of blood.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WashingtonDC #News #US #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 452,
-   "tg_file_id": "AgACAgUAAxkDAAIBxGr2T8T-TR3zg-w27opP51Z6g8BnAAJME2sbFv2wV_XvRmqSc78EAQADAgADdwADPQQ",
-   "queued_at": "2026-11-12T23:46:13.179635+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-12T23:46:13.179648+00:00",
-   "post_label": "🤖 Auto-posting + Reel",
-   "fb_post_id": "1413030521900096_122099879541548584",
-   "posted_at": "2026-11-12T23:46:13.483005+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 12 · 6:46 PM New York · 5:16 AM Sri Lanka\n\n<b>Doctor kills apartment manager in Washington DC shooting</b>\n<i>BBC, The Independent</i>\n🟢 <b>Latest:</b> 5:09 AM Sri Lanka (7 min ago) · first reported 2:29 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099879541548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 279,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122099879541548584_1598519548255254",
-   "fb_story_id": "4535297070119764",
-   "fb_reel_id": "1062664210125464",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-15T23:15:35.492330+00:00"
-  },
   "39669d2d6e": {
    "id": "39669d2d6e",
    "headline": "Critics say Howard Lutnick shielded Nvidia over chip sales",
@@ -13865,7 +13776,9 @@
   "https://www.newsweek.com/biden-reveals-private-warning-to-putin-before-russias-ukraine-invasion-12723556",
   "https://www.foxnews.com/world/ukraine-hits-putins-prized-bridge-record-drone-blitz-kremlin-tells-lawmakers-prepare-victory",
   "https://www.washingtonpost.com/politics/2026/11/16/trump-takes-less-secure-plane-china/",
-  "https://www.independent.co.uk/news/world/americas/us-politics/trump-qatar-jet-china-philippines-security-b3085840.html"
+  "https://www.independent.co.uk/news/world/americas/us-politics/trump-qatar-jet-china-philippines-security-b3085840.html",
+  "https://thehill.com/homenews/senate/6223162-whip-schumer-van-hollen-leadership-race/",
+  "https://www.foxnews.com/politics/follow-leader-democrats-face-party-battle-divisions-deepen"
  ],
  "recent_topics": [
   [
@@ -15817,17 +15730,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-16T23:31:30.873948+00:00",
+ "last_draft_at": "2026-11-16T23:45:39.807154+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-16T23:30:51.738503+00:00",
  "run_log": [
-  "11-16 21:15:38 run start",
-  "11-16 21:16:12 listening 11 min",
-  "11-16 21:27:05 listening done",
-  "11-16 21:27:05 run end after 687 s",
   "11-16 21:30:46 run start",
   "11-16 21:32:18 listening 10 min",
   "11-16 21:42:24 listening done",
@@ -15863,7 +15772,11 @@
   "11-16 23:30:51 run start",
   "11-16 23:31:50 listening 11 min",
   "11-16 23:42:19 listening done",
-  "11-16 23:42:19 run end after 688 s"
+  "11-16 23:42:19 run end after 688 s",
+  "11-16 23:45:39 run start",
+  "11-16 23:46:04 listening 11 min",
+  "11-16 23:57:23 listening done",
+  "11-16 23:57:23 run end after 704 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
