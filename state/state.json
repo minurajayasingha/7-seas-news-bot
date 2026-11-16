@@ -1,84 +1,6 @@
 {
  "tg_offset": 495893066,
  "drafts": {
-  "8ea6130c7c": {
-   "id": "8ea6130c7c",
-   "headline": "Ireland faces pressure to stop sending alumina to Russia",
-   "summary": "Ireland is facing pressure to stop sending alumina to Russia. According to experts, the cargo ship is set to leave Ireland with the white powder, which is likely used to make weapons for the war on Ukraine.",
-   "label": "CONFLICT",
-   "hook": "Should Ireland stop sending alumina shipments to Russia?",
-   "key_points": [
-    "Cargo ship set to leave Ireland for Russia",
-    "Alumina is a white powder used to make weapons"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Ireland",
-    "#Russia",
-    "#Ukraine"
-   ],
-   "sources": [
-    "ABC News",
-    "France 24"
-   ],
-   "link": "https://www.france24.com/en/russia-s-hidden-mobilization-the-expendable-lives-fueling-putin-s-war-on-ukraine",
-   "links": [
-    [
-     "France 24",
-     "https://www.france24.com/en/russia-s-hidden-mobilization-the-expendable-lives-fueling-putin-s-war-on-ukraine"
-    ],
-    [
-     "ABC News",
-     "https://abcnews.com/International/wireStory/ireland-faces-pressure-stop-sending-russia-ingredient-vital-138069912"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Ireland_Clonmacnoise_BW_2025-09-09_17-09-03_v2.jpg/1920px-Ireland_Clonmacnoise_BW_2025-09-09_17-09-03_v2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Berthold Werner / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Ireland faces pressure to stop sending alumina to Russia",
-    "people": [],
-    "image_query": "Irish port cargo ship",
-    "image_queries": [
-     "cargo ship port",
-     "industrial shipping docks",
-     "freighter at sea",
-     "industrial harbor"
-    ],
-    "image_style": "scene",
-    "location": "Ireland"
-   },
-   "created_at": "2026-11-12T07:45:50.462337+00:00",
-   "news_time": "2026-11-12T06:50:30+00:00",
-   "news_latest": "2026-11-12T07:39:55+00:00",
-   "caption": "Ireland faces pressure to stop sending alumina to Russia\n\nIreland is facing pressure to stop sending alumina to Russia. According to experts, the cargo ship is set to leave Ireland with the white powder, which is likely used to make weapons for the war on Ukraine.\n\n💬 Should Ireland stop sending alumina shipments to Russia?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Ireland #Russia #Ukraine #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 391,
-   "tg_file_id": "AgACAgUAAxkDAAIBh2r1brHdws_uQpUusPjGyGHJM-KSAAIXE2sbSxqpV9wqT5I-k1CkAQADAgADdwADPQQ",
-   "queued_at": "2026-11-12T07:46:07.450334+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122099250207548584",
-   "posted_at": "2026-11-12T07:46:07.816610+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 12 · 2:46 AM New York · 1:16 PM Sri Lanka\n\n<b>Ireland faces pressure to stop sending alumina to Russia</b>\n<i>ABC News, France 24</i>\n🟢 <b>Latest:</b> 1:09 PM Sri Lanka (6 min ago) · first reported 12:20 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099250207548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 205,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
-  },
   "f20ccf018a": {
    "id": "f20ccf018a",
    "headline": "Indonesian Vice President Gibran Rakabuming Raka resigns from office",
@@ -16791,17 +16713,13 @@
    "d76ba2cdf6"
   ]
  ],
- "last_draft_at": "2026-11-16T07:34:08.504527+00:00",
+ "last_draft_at": "2026-11-16T07:45:36.892141+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-16T07:33:04.473604+00:00",
  "run_log": [
-  "11-16 05:31:08 run start",
-  "11-16 05:31:42 listening 11 min",
-  "11-16 05:42:35 listening done",
-  "11-16 05:42:35 run end after 687 s",
   "11-16 05:45:36 run start",
   "11-16 05:46:45 listening 10 min",
   "11-16 05:57:13 listening done",
@@ -16837,7 +16755,11 @@
   "11-16 07:33:03 run start",
   "11-16 07:34:18 listening 10 min",
   "11-16 07:44:47 listening done",
-  "11-16 07:44:47 run end after 703 s"
+  "11-16 07:44:47 run end after 703 s",
+  "11-16 07:45:36 run start",
+  "11-16 07:45:47 listening 11 min",
+  "11-16 07:57:05 listening done",
+  "11-16 07:57:05 run end after 689 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
