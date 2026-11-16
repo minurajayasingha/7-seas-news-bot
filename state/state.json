@@ -1,86 +1,6 @@
 {
  "tg_offset": 495893066,
  "drafts": {
-  "bd96511b9d": {
-   "id": "bd96511b9d",
-   "headline": "Scott Colom becomes Mississippi senator after midterm race",
-   "summary": "Scott Colom takes a Senate seat in Mississippi. According to the reports, he is the first Black senator in the state in over 140 years.",
-   "label": "ELECTIONS",
-   "hook": "How long has it been since Mississippi last had a Black senator?",
-   "key_points": [
-    "Scott Colom secures Senate seat in Mississippi",
-    "First Black senator in the state in over 140 years"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Mississippi",
-    "#USPolitics",
-    "#Elections"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "France 24"
-   ],
-   "link": "https://www.aljazeera.com/news/2026/11/12/who-is-scott-colom-mississippis-first-black-senator-in-150-years?traffic_source=rss",
-   "links": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/12/who-is-scott-colom-mississippis-first-black-senator-in-150-years?traffic_source=rss"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/tv-shows/press-review/20261112-scott-colom-makes-history-in-mississippi-as-first-black-senator-in-more-than-140-years"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Scott_Colom_2_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "The Contrarian / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Scott Colom becomes Mississippi senator after midterm race",
-    "people": [
-     "Scott Colom"
-    ],
-    "image_query": "Mississippi State Capitol",
-    "image_queries": [
-     "US Senate chamber",
-     "Capitol building",
-     "voting booth",
-     "Mississippi state flag"
-    ],
-    "image_style": "person",
-    "location": "Mississippi, US"
-   },
-   "created_at": "2026-11-12T12:01:05.376092+00:00",
-   "news_time": "2026-11-12T10:50:31+00:00",
-   "news_latest": "2026-11-12T11:31:16+00:00",
-   "caption": "Scott Colom becomes Mississippi senator after midterm race\n\nScott Colom takes a Senate seat in Mississippi. According to the reports, he is the first Black senator in the state in over 140 years.\n\n💬 How long has it been since Mississippi last had a Black senator?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Mississippi #USPolitics #Elections #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 404,
-   "tg_file_id": "AgACAgUAAxkDAAIBlGr1qpRY3rwyDiDyq4U9uPgg_O1aAAKXE2sbSxqpVxdqBOHnp-aoAQADAgADdwADPQQ",
-   "queued_at": "2026-11-12T14:03:23.100829+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122099523939548584",
-   "posted_at": "2026-11-12T14:03:26.849596+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 12 · 9:04 AM New York · 7:34 PM Sri Lanka\n\n<b>Scott Colom becomes Mississippi senator after midterm race</b>\n<i>Al Jazeera, France 24</i>\n🟡 <b>Latest:</b> 5:01 PM Sri Lanka (2h 33m ago) · first reported 4:20 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099523939548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 225,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-15T14:01:02.381279+00:00"
-  },
   "85c1caff13": {
    "id": "85c1caff13",
    "headline": "European leaders meet in Dublin to discuss security",
@@ -16180,17 +16100,13 @@
    "8d5a143784"
   ]
  ],
- "last_draft_at": "2026-11-16T11:45:43.938308+00:00",
+ "last_draft_at": "2026-11-16T12:00:45.217812+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-16T11:30:51.559015+00:00",
  "run_log": [
-  "11-16 09:30:51 run start",
-  "11-16 09:32:46 listening 10 min",
-  "11-16 09:42:25 listening done",
-  "11-16 09:42:25 run end after 693 s",
   "11-16 09:45:41 run start",
   "11-16 09:45:51 listening 11 min",
   "11-16 09:57:10 listening done",
@@ -16226,7 +16142,11 @@
   "11-16 11:45:43 run start",
   "11-16 11:45:53 listening 11 min",
   "11-16 11:57:13 listening done",
-  "11-16 11:57:13 run end after 690 s"
+  "11-16 11:57:13 run end after 690 s",
+  "11-16 12:00:44 run start",
+  "11-16 12:00:55 listening 11 min",
+  "11-16 12:12:14 listening done",
+  "11-16 12:12:14 run end after 689 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
