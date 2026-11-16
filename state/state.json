@@ -1,66 +1,6 @@
 {
  "tg_offset": 495893077,
  "drafts": {
-  "46e8434cb8": {
-   "id": "46e8434cb8",
-   "headline": "Police respond to shooting incident in Washington DC neighbourhood",
-   "summary": "Police report multiple people shot in a Washington DC neighbourhood near the White House. Officers responded to a nearby apartment building where a suspect was barricaded.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "Police report multiple people shot in Washington DC",
-    "Officers responded to a nearby apartment building",
-    "A major police operation is underway"
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#WashingtonDC",
-    "#News",
-    "#WorldNews"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "France 24"
-   ],
-   "link": "https://www.france24.com/en/americas/20261112-at-least-five-people-shot-in-dc-neighbourhood-near-the-white-house",
-   "links": [
-    [
-     "France 24",
-     "https://www.france24.com/en/americas/20261112-at-least-five-people-shot-in-dc-neighbourhood-near-the-white-house"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss"
-    ]
-   ],
-   "bg": {
-    "type": "incident",
-    "photos": [],
-    "location": "Washington, DC, US"
-   },
-   "img_post": {
-    "headline": "Police respond to shooting incident in Washington DC neighbourhood",
-    "people": [],
-    "image_query": "Washington DC street",
-    "image_queries": [
-     "police car lights",
-     "Washington DC neighbourhood",
-     "apartment building exterior",
-     "Washington DC city view"
-    ],
-    "image_style": "incident",
-    "location": "Washington, DC, US"
-   },
-   "created_at": "2026-11-12T17:15:36.797764+00:00",
-   "news_time": "2026-11-12T15:42:07+00:00",
-   "news_latest": "2026-11-12T16:01:57+00:00",
-   "caption": "🚨 BREAKING: Police respond to shooting incident in Washington DC neighbourhood\n\nPolice report multiple people shot in a Washington DC neighbourhood near the White House. Officers responded to a nearby apartment building where a suspect was barricaded.\n\nWhat we know so far:\n• Police report multiple people shot in Washington DC\n• Officers responded to a nearby apartment building\n• A major police operation is underway\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WashingtonDC #News #WorldNews #7SeasNews",
-   "status": "skipped",
-   "tg_message_id": 423,
-   "tg_file_id": "AgACAgUAAxkDAAIBp2r19DqFQ-qXX1NJBO4GjhRpWbaZAAJCE2sbSxqxVyAj-Ge2FS0lAQADAgADdwADPQQ",
-   "extra_msgs": [],
-   "cleared": true
-  },
   "b4c2ddcd5c": {
    "id": "b4c2ddcd5c",
    "headline": "Antigua prime minister says U.S. pressure changed Cuba vote",
@@ -12298,7 +12238,7 @@
    "news_time": "2026-11-16T10:33:54+00:00",
    "news_latest": "2026-11-16T13:13:39+00:00",
    "caption": "Department of Homeland Security Secretary Markwayne Mullin addresses ground stop\n\nDepartment of Homeland Security Secretary Markwayne Mullin stated he does not expect anyone to lose their job over the equipment failure that caused a nationwide ground stop for flights. According to reports, the incident stemmed from efforts to operate a 50-year-old system using modern technology.\n\n💬 Should officials lose their jobs over major infrastructure failures?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Aviation #DHS #7SeasNews",
-   "status": "queued",
+   "status": "failed",
    "tg_message_id": 637,
    "tg_file_id": "AgACAgUAAxkDAAICfWr7ApLC7_XLIoIe4xsyOm3BfJGlAAKDF2sbg6zYVzqPVeXGSc9aAQADAgADdwADPQQ",
    "extra_msgs": [
@@ -12310,7 +12250,7 @@
    "post_now": true,
    "post_at": "2026-11-16T17:11:52.385095+00:00",
    "post_label": "🚀 Posting now",
-   "attempts": 1
+   "attempts": 3
   },
   "f3889c8954": {
    "id": "f3889c8954",
@@ -16300,17 +16240,13 @@
    "df672909a2"
   ]
  ],
- "last_draft_at": "2026-11-16T17:01:00.169438+00:00",
+ "last_draft_at": "2026-11-16T17:17:01.669293+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-16T16:31:32.403790+00:00",
  "run_log": [
-  "11-16 14:47:44 run end after 76 s",
-  "11-16 15:00:49 run start",
-  "11-16 15:01:29 listening 11 min",
-  "11-16 15:12:25 listening done",
   "11-16 15:12:25 run end after 695 s",
   "11-16 15:15:45 run start",
   "11-16 15:19:06 listening 8 min",
@@ -16346,7 +16282,11 @@
   "11-16 17:00:59 run start",
   "11-16 17:03:41 listening 9 min",
   "11-16 17:14:00 listening done",
-  "11-16 17:14:00 run end after 780 s"
+  "11-16 17:14:00 run end after 780 s",
+  "11-16 17:16:01 run start",
+  "11-16 17:18:03 listening 9 min",
+  "11-16 17:27:40 listening done",
+  "11-16 17:27:40 run end after 699 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
