@@ -14340,28 +14340,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-13T02:04:52.411099+00:00",
-   [
-    "call",
-    "china",
-    "chip",
-    "control",
-    "critic",
-    "cut",
-    "diversion",
-    "fail",
-    "grew",
-    "howard",
-    "lin",
-    "lutnick",
-    "nvidia",
-    "softer",
-    "took",
-    "tougher"
-   ],
-   "39669d2d6e"
-  ],
-  [
    "2026-11-13T02:45:49.040722+00:00",
    [
     "already",
@@ -16419,17 +16397,13 @@
    "17e4ee8ba1"
   ]
  ],
- "last_draft_at": "2026-11-16T01:45:47.539054+00:00",
+ "last_draft_at": "2026-11-16T02:00:58.130547+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-16T01:30:50.221363+00:00",
  "run_log": [
-  "11-15 23:42:17 run end after 688 s",
-  "11-15 23:45:38 run start",
-  "11-15 23:45:49 listening 11 min",
-  "11-15 23:57:08 listening done",
   "11-15 23:57:08 run end after 690 s",
   "11-15 23:57:45 run start",
   "11-15 23:57:55 listening 11 min",
@@ -16465,7 +16439,11 @@
   "11-16 01:45:47 run start",
   "11-16 01:45:48 listening 11 min",
   "11-16 01:57:31 listening done",
-  "11-16 01:57:31 run end after 703 s"
+  "11-16 01:57:31 run end after 703 s",
+  "11-16 02:00:57 run start",
+  "11-16 02:01:08 listening 11 min",
+  "11-16 02:12:28 listening done",
+  "11-16 02:12:28 run end after 690 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
