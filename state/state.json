@@ -14167,7 +14167,10 @@
   "https://www.washingtonexaminer.com/news/senate/4804520/bernie-sanders-endorses-chris-van-hollen-senate-majority-leader/",
   "https://thehill.com/homenews/editors-call/6222490-chuck-schumer-chris-van-hollen-democratic-leadership-battle-live-discussion/",
   "https://news.sky.com/story/head-of-french-football-to-stand-against-infantino-in-fifa-presidential-election-13612894",
-  "https://www.france24.com/en/video/20261116-french-presidential-election-should-centrists-hold-a-primary-to-challenge-far-right-and-left"
+  "https://www.france24.com/en/video/20261116-french-presidential-election-should-centrists-hold-a-primary-to-challenge-far-right-and-left",
+  "https://www.france24.com/en/culture/20261116-robert-pattinson-named-as-new-james-bond",
+  "https://www.nbcnews.com/pop-culture/movies/robert-pattinson-named-newest-james-bond-rcna607085",
+  "https://www.newsweek.com/entertainment/robert-pattinson-james-bond-007-cast-12720623"
  ],
  "recent_topics": [
   [
@@ -16297,17 +16300,13 @@
    "1af2f2874d"
   ]
  ],
- "last_draft_at": "2026-11-16T15:42:07.082162+00:00",
+ "last_draft_at": "2026-11-16T15:54:38.530868+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-16T15:28:29.499604+00:00",
  "run_log": [
-  "11-16 13:27:51 listening done",
-  "11-16 13:27:51 run end after 689 s",
-  "11-16 13:30:50 run start",
-  "11-16 13:32:24 listening 10 min",
   "11-16 13:42:29 listening done",
   "11-16 13:42:29 run end after 698 s",
   "11-16 13:45:46 run start",
@@ -16343,7 +16342,11 @@
   "11-16 15:42:06 run start",
   "11-16 15:45:07 listening 8 min",
   "11-16 15:53:55 listening done",
-  "11-16 15:53:55 run end after 709 s"
+  "11-16 15:53:55 run end after 709 s",
+  "11-16 15:54:37 run start",
+  "11-16 15:54:50 listening 11 min",
+  "11-16 16:06:10 listening done",
+  "11-16 16:06:10 run end after 692 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
