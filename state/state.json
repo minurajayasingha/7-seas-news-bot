@@ -14423,7 +14423,9 @@
   "https://www.foxnews.com/politics/speak-up-how-does-america-fix-its-air-travel-mess",
   "https://www.newsweek.com/poll-should-congress-give-donald-trump-50b-air-traffic-control-12719496",
   "https://www.today.com/video/trump-to-meet-with-chinese-president-amid-nvidia-spy-scandal-273573445560",
-  "https://thehill.com/homenews/administration/6219992-trump-xi-meeting-nvidia-scandals/"
+  "https://thehill.com/homenews/administration/6219992-trump-xi-meeting-nvidia-scandals/",
+  "https://www.france24.com/en/video/20261116-russia-says-intercepted-over-1-300-ukrainian-drones-in-a-major-attack",
+  "https://kyivindependent.com/record-number-of-ukrainian-drones-launched-at-russia-moscow-oblast-among-main-targets/"
  ],
  "recent_topics": [
   [
@@ -16533,17 +16535,13 @@
    "9012ea9cee"
   ]
  ],
- "last_draft_at": "2026-11-16T14:00:54.600416+00:00",
+ "last_draft_at": "2026-11-16T14:15:54.585093+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-16T13:30:51.024699+00:00",
  "run_log": [
-  "11-16 11:45:43 run start",
-  "11-16 11:45:53 listening 11 min",
-  "11-16 11:57:13 listening done",
-  "11-16 11:57:13 run end after 690 s",
   "11-16 12:00:44 run start",
   "11-16 12:00:55 listening 11 min",
   "11-16 12:12:14 listening done",
@@ -16579,7 +16577,11 @@
   "11-16 14:00:54 run start",
   "11-16 14:01:04 listening 11 min",
   "11-16 14:12:24 listening done",
-  "11-16 14:12:24 run end after 690 s"
+  "11-16 14:12:24 run end after 690 s",
+  "11-16 14:15:54 run start",
+  "11-16 14:16:10 listening 11 min",
+  "11-16 14:27:31 listening done",
+  "11-16 14:27:31 run end after 697 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
