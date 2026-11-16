@@ -13520,6 +13520,83 @@
     "shares": 0
    },
    "stats_at": "2026-11-16T03:30:43.800113+00:00"
+  },
+  "47a181927c": {
+   "id": "47a181927c",
+   "headline": "Trump travels to Asia for meetings with Xi and Putin",
+   "summary": "President Donald Trump plans to travel to Asia for meetings with Xi and Putin, focusing on nuclear arms and Iran. According to two U.S. officials, Trump is expected to take a Qatari-gifted jet, while questions remain regarding upgrades following a security threat in Turkey.",
+   "label": "DIPLOMACY",
+   "hook": "Will these meetings lead to progress on nuclear arms and Iran?",
+   "key_points": [
+    "Ukraine is left out of the discussions.",
+    "A security threat from Iran occurred in Turkey in July.",
+    "Trump flew home from Turkey on a secret military plane."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Trump",
+    "#Asia",
+    "#Diplomacy"
+   ],
+   "sources": [
+    "NBC News",
+    "Newsweek"
+   ],
+   "link": "https://www.newsweek.com/trump-heads-to-asia-for-historic-meeting-with-xi-and-putin-whats-at-stake-12718413",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/trump-heads-to-asia-for-historic-meeting-with-xi-and-putin-whats-at-stake-12718413"
+    ],
+    [
+     "NBC News",
+     "https://www.nbcnews.com/politics/trump-administration/trump-plans-take-qatari-jet-asia-s-unclear-whether-s-maxed-rcna609487"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Petrovskaya_Tower_of_Moscow_Kremlin.jpg",
+      "credit": "Dmitry Ivanov. / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ],
+    "inset": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Donald_Trump_at_Fort_Drum_2018_06.jpg/1280px-Donald_Trump_at_Fort_Drum_2018_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credit": "U.S. Army photo by Sgt. Thomas Scaggs / Wikimedia Commons (Public domain)",
+     "short": "WIKIMEDIA COMMONS"
+    }
+   },
+   "img_post": {
+    "headline": "Trump travels to Asia for meetings with Xi and Putin",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "White House",
+    "image_queries": [
+     "Air Force One",
+     "US Capitol building",
+     "Pentagon building",
+     "Department of State"
+    ],
+    "image_style": "scene",
+    "location": "Asia",
+    "nearby_city": "",
+    "event_query": "",
+    "news_time": null,
+    "label": "DIPLOMACY"
+   },
+   "created_at": "2026-11-16T03:45:53.319631+00:00",
+   "news_time": "2026-11-15T23:12:20+00:00",
+   "news_latest": "2026-11-16T03:29:49+00:00",
+   "caption": "Trump travels to Asia for meetings with Xi and Putin\n\nPresident Donald Trump plans to travel to Asia for meetings with Xi and Putin, focusing on nuclear arms and Iran. According to two U.S. officials, Trump is expected to take a Qatari-gifted jet, while questions remain regarding upgrades following a security threat in Turkey.\n\n💬 Will these meetings lead to progress on nuclear arms and Iran?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Trump #Asia #Diplomacy #7SeasNews",
+   "status": "pending",
+   "tg_message_id": 621,
+   "tg_file_id": "AgACAgUAAxkDAAICbWr6fHTOEcKRG9SOLIioB4h6N9B4AAJ3Fmsbg6zYVxfLGjIL7UqNAQADAgADdwADPQQ",
+   "extra_msgs": [
+    622
+   ]
   }
  },
  "seen_links": [
@@ -14572,7 +14649,9 @@
   "https://www.france24.com/en/europe/20261116-czechs-protest-prague-public-media-funding-plan",
   "https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss",
   "https://www.upi.com/Top_News/World-News/2026/11/15/-czech-massive-Prague-protest-targets-changes-Czech-public-broadcasting/3861794784481/",
-  "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+  "https://www.newsweek.com/trump-heads-to-asia-for-historic-meeting-with-xi-and-putin-whats-at-stake-12718413",
+  "https://www.nbcnews.com/politics/trump-administration/trump-plans-take-qatari-jet-asia-s-unclear-whether-s-maxed-rcna609487"
  ],
  "recent_topics": [
   [
@@ -16650,19 +16729,35 @@
     "threat"
    ],
    "4f2e859acf"
+  ],
+  [
+   "2026-11-16T03:45:57.050136+00:00",
+   [
+    "asia",
+    "head",
+    "historic",
+    "jet",
+    "max",
+    "meet",
+    "plan",
+    "putin",
+    "qatari",
+    "stak",
+    "tak",
+    "trump",
+    "unclear",
+    "whether"
+   ],
+   "47a181927c"
   ]
  ],
- "last_draft_at": "2026-11-16T03:31:28.160352+00:00",
+ "last_draft_at": "2026-11-16T03:45:40.222918+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-16T03:30:43.800113+00:00",
  "run_log": [
-  "11-16 01:12:19 run end after 685 s",
-  "11-16 01:15:33 run start",
-  "11-16 01:16:33 run error: ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60)",
-  "11-16 01:16:47 run end after 74 s",
   "11-16 01:30:49 run start",
   "11-16 01:31:41 listening 11 min",
   "11-16 01:42:36 listening done",
@@ -16698,13 +16793,15 @@
   "11-16 03:30:43 run start",
   "11-16 03:31:37 listening 11 min",
   "11-16 03:42:19 listening done",
-  "11-16 03:42:19 run end after 695 s"
+  "11-16 03:42:19 run end after 695 s",
+  "11-16 03:45:39 run start",
+  "11-16 03:45:57 listening 11 min",
+  "11-16 03:57:16 listening done",
+  "11-16 03:57:16 run end after 696 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
   "recent": [
-   "https://live.staticflickr.com/4566/38715631702_b325cf387b_b.jpg",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg/1920px-High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Little_Island%2C_Washington%2C_D.C.%2C_2009%2C_with_Rosslyn_skyline.jpg/1920px-Little_Island%2C_Washington%2C_D.C.%2C_2009%2C_with_Rosslyn_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Benjamin_Netanyahu_Receives_Hudson%27s_Herman_Kahn_Award_%2830287430110%29.jpg/1280px-Benjamin_Netanyahu_Receives_Hudson%27s_Herman_Kahn_Award_%2830287430110%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -16742,7 +16839,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Red_Deer%2C_Alberta_%2810%29_%2826310093276%29.jpg/1920px-Red_Deer%2C_Alberta_%2810%29_%2826310093276%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/7/7d/Mugshot_miguel_%C3%A1ngel_f%C3%A9lix_gallardo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Cropped_portrait_of_Helen_Haines_%E2%80%94_June_2022.jpg/1280px-Cropped_portrait_of_Helen_Haines_%E2%80%94_June_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Streets_of_Prague_6.jpg/1920px-Streets_of_Prague_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Streets_of_Prague_6.jpg/1920px-Streets_of_Prague_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/5/54/Petrovskaya_Tower_of_Moscow_Kremlin.jpg",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Donald_Trump_at_Fort_Drum_2018_06.jpg/1280px-Donald_Trump_at_Fort_Drum_2018_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "prince harry": {
@@ -20130,7 +20229,6 @@
    }
   },
   "recent_ideas": [
-   "manila cityscape",
    "white house",
    "national mall, washington",
    "canary islands, spain",
@@ -20141,7 +20239,8 @@
    "gaza city",
    "washington d.c. court",
    "red deer alberta",
-   "prague streets"
+   "prague streets",
+   "moscow kremlin"
   ]
  },
  "comment_perm_told": true,
