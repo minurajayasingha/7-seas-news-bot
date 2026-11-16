@@ -9,6 +9,11 @@ Never South Asia news. Real, verified news only: a story needs 2+ different outl
   cron-job.org triggers workflow_dispatch every 15 min with force_draft=false; manual "Run workflow" forces a news search.
 - After its work each run stays online LISTEN_MINUTES (12) long-polling Telegram, so taps/replies/Post now are
   handled within seconds; job timeout 20 min. /news searches news immediately.
+- Network: HTTP session retries connection errors (all methods) and read errors/429/5xx (GET/DELETE only, so a Facebook
+  POST is never resent by urllib3); tg() retries 3× and returns {"ok": False} instead of raising. publish_due: a failed
+  Telegram image download (tg_download) is retried quietly (note only at 8/40 fails); a Facebook connection error is
+  retried quietly 5×. Network errors in main() alert only after 3 runs in a row (state["net_errors"]).
+  draft_one() = one story; a failing story never stops the others.
 - News reading: all feeds fetched in parallel with a 45 s hard limit; story matching uses simple word roots (stem()).
 - `bot/main.py` does everything in one run:
   1. reads Telegram button taps/replies (getUpdates, no webhook)
@@ -16,10 +21,12 @@ Never South Asia news. Real, verified news only: a story needs 2+ different outl
   3. every `DRAFT_EVERY_MINUTES`: RSS → cluster stories → Gemini writes post (JSON) → image → Telegram draft
   4. AUTO_PUBLISH (default True): each new draft is auto-queued ("🤖 Auto-posting…", ↩️ Cancel) and published by
      publish_due without a tap — BREAKING at once, others one per AUTO_MIN_GAP_MINUTES, max AUTO_MAX_PER_DAY per NY day
-     (state["auto_count"], state["last_auto_at"]). Not auto: manual posts, look-alikes of recent posts, over the limit,
+     (state["auto_count"], state["last_auto_at"]). Not auto: manual posts, look-alikes only if SKIP_LOOKALIKES (default False:
+     look-alikes are posted and the log-channel message says "⚠️ Looks like an earlier post" → 🗑 Delete), over the limit,
      more than AUTO_MAX_WAITING auto posts waiting, no real photo when AUTO_NEEDS_PHOTO (default True:
-     brand/globe drafts wait in Telegram with "✋ Not auto-posted: no real photo found"). AUTO_REELS="more" = every BREAKING post gets a Reel (branded cover OK) + other real-photo posts while under
-     REELS_PER_DAY (10; last 2 kept for breaking) — auto_reel_wanted(). BREAKING_WITHOUT_PHOTO: breaking news auto-posts
+     brand/globe drafts wait in Telegram with "✋ Not auto-posted: no real photo found"). AUTO_REELS="breaking" (default) = only
+     BREAKING posts get a Reel (branded cover OK), max REELS_PER_DAY (3, the 🎬 button included); "more" = also real-photo
+     posts (last 2 kept for breaking) — auto_reel_wanted(). BREAKING_WITHOUT_PHOTO: breaking news auto-posts
      with the branded cover.
 - Memory is `state/state.json`, committed back by the workflow ("Save bot memory" step
   fetches + resets to origin/main before committing, so code pushes during a run don't break it).
@@ -74,8 +81,16 @@ optional PIXABAY_API_KEY / PEXELS_API_KEY / FLICKR_API_KEY. Never print or commi
   map card → brand globe. Never photos of an event (could be an older, different one). Before the city view,
   incident_photo(): INCIDENT_PHOTO_IDEAS (police car / ambulance / fire engine) of THAT city (need= city words,
   EVENT_WORDS in the title rejected), Commons only.
-- No photo chain (all stories): people/event/scene → place_photo (town → Gemini "nearby_city" → "<State> State Capitol")
-  → MAP_CARDS map_card(): Wikipedia geocode of location, must fall in the story's country; map_background() draws
+- TOPIC photo (topic_photo(): Gemini "topic_photo" + GENERIC_PHOTO_IDEAS in settings, e.g. rain → "rain street"):
+  Pexels → Pixabay → Flickr → Commons Quality images only; countries=AnyOrOwn(story countries) = photo may name no
+  country or only the story's; TOPIC_AVOID skips close-ups/events. Order: after scene ideas, before place_photo;
+  incidents: weather words first, else after the map card. place_ok() always rejects SOUTH_ASIA_PHOTO_WORDS.
+- send_draft: if the chosen photo won't download (render_image sets bg["_loaded"]), it re-chooses, then map, then brand
+  (never silently the globe). load_photo tries 1280/960 px Wikimedia sizes too.
+- No photo chain (all stories): people/event/scene → topic → place_photo (town → Gemini "nearby_city" → "<State> State Capitol")
+  → MAP_CARDS map_card(): MAP_REGIONS (Middle East, Red Sea… no pin), whole countries (map_country_named, highlighted,
+  pin only if tiny), US/CA/AU states by name, else Wikipedia geocode (location, nearby_city, its country part, story
+  country; nearest_country for coastal points), must fall in the story's country; map_background() draws
   assets/map_data.json (Natural Earth 1:50m countries + US/CA/AU states, public domain, rebuilt by rounding coords),
   country or state highlighted red, pin + city label, 📍 tag. bg type "map" counts as a real image for auto-posting
   (not for Reels). Only brand/globe drafts wait for the owner.

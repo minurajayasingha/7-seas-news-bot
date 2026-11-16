@@ -35,6 +35,8 @@ from zoneinfo import ZoneInfo
 
 import feedparser
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 from urllib.parse import urlparse
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
@@ -64,6 +66,15 @@ MAP_FILE = os.path.join(ROOT, "assets", "map_data.json")   # Natural Earth 1:50m
 
 HTTP = requests.Session()
 HTTP.headers["User-Agent"] = "Mozilla/5.0 (compatible; 7SeasNewsBot/1.0)"
+# Short network hiccups ("Connection reset by peer", busy servers) are retried by themselves.
+# Connection failures (nothing was sent yet) are retried for every request; read errors and busy answers
+# (429/5xx) only for GET/DELETE, so a Facebook post is never sent twice.
+_RETRY = Retry(total=3, connect=3, read=2, status=2, backoff_factor=1.5,
+               status_forcelist=(429, 500, 502, 503, 504), allowed_methods=frozenset({"GET", "HEAD", "DELETE"}),
+               raise_on_status=False, respect_retry_after_header=False)
+HTTP.mount("https://", HTTPAdapter(max_retries=_RETRY))
+HTTP.mount("http://", HTTPAdapter(max_retries=_RETRY))
+NET_ERRORS = (requests.exceptions.ConnectionError, requests.exceptions.Timeout)
 
 W, H = 1080, 1350  # Facebook portrait post
 
@@ -118,9 +129,20 @@ def tg(method, files=None, **data):
     for k, v in list(data.items()):
         if isinstance(v, (dict, list)):
             data[k] = json.dumps(v)
-    r = HTTP.post(f"https://api.telegram.org/bot{TG_TOKEN}/{method}",
-                  data=data, files=files, timeout=60)
-    j = r.json()
+    for attempt in range(3):                 # Telegram hiccups (reset / timeout / 5xx page): wait and try again
+        try:
+            r = HTTP.post(f"https://api.telegram.org/bot{TG_TOKEN}/{method}",
+                          data=data, files=files, timeout=60)
+            j = r.json()
+            if r.status_code < 500:
+                break
+        except NET_ERRORS + (ValueError,) as e:
+            if attempt == 2:
+                if method == "getFile":
+                    raise                    # tg_download handles it
+                log(f"Telegram {method} failed (network):", e)
+                return {"ok": False, "description": f"network: {e}"}
+        time.sleep(3 * (attempt + 1))
     if not j.get("ok"):
         log(f"Telegram {method} error:", j.get("description"))
     return j
@@ -254,6 +276,12 @@ def log_to_channel(state, d, fb_link):
             f"<i>{html.escape(', '.join(d['sources']))}</i>"
             + (f"\n{news_time_text(d)}" if d.get("news_time") else "")
             + (f"\n\n🔗 <a href=\"{fb_link}\">Open on Facebook</a>" if fb_link else ""))
+    try:
+        dup = find_duplicate(state, d, loose=True)
+    except Exception:
+        dup = None
+    if dup and dup.get("status") == "posted":    # posted anyway (SKIP_LOOKALIKES = False): 🗑 Delete if not wanted
+        text += f"\n\n⚠️ <i>Looks like an earlier post: “{html.escape(dup['headline'][:120])}”. Tap 🗑 Delete if it's the same news.</i>"
     d["log_text"] = text   # kept so the stats line can be added under it later
     if ch:
         j = tg("sendPhoto", chat_id=ch, photo=d["tg_file_id"], caption=text, parse_mode="HTML",
@@ -557,6 +585,8 @@ def set_commands_once(state):
 
 def tg_download(file_id):
     j = tg("getFile", file_id=file_id)
+    if not j.get("ok"):
+        raise requests.exceptions.ConnectionError(f"Telegram getFile: {j.get('description')}")
     path = j["result"]["file_path"]
     r = HTTP.get(f"https://api.telegram.org/file/bot{TG_TOKEN}/{path}", timeout=60)
     r.raise_for_status()
@@ -1476,6 +1506,8 @@ def find_duplicate(state, d, loose=False):
 
 def duplicate_blocked(state, d, button):
     """Stop the first tap if the same story is already queued/posted; a second tap goes ahead."""
+    if not SKIP_LOOKALIKES:
+        return False                    # post it; the log channel's 🗑 Delete removes it if needed
     o = find_duplicate(state, d)
     if not o or d.get("dup_ok"):
         return False
@@ -1553,6 +1585,14 @@ def publish_due(state):
             continue
         try:
             img = tg_download(d["tg_file_id"])
+        except Exception as e:      # Telegram didn't hand the image back: just try again next round (silently)
+            d["dl_fails"] = d.get("dl_fails", 0) + 1
+            log("Image download from Telegram failed:", e)
+            if d["dl_fails"] in (8, 40):   # only tell you when it keeps failing (~2 min of rounds / longer)
+                tg_text(f"⚠️ Telegram is slow: couldn't fetch the image for <b>{html.escape(d['headline'])}</b> yet. "
+                        "The bot keeps trying; nothing to do on your side.")
+            continue
+        try:
             post_id = facebook_post_photo(img, d["caption"])
             d["status"] = "posted"
             d["fb_post_id"] = post_id
@@ -1593,8 +1633,14 @@ def publish_due(state):
             if d.pop("make_reel", None) and REELS_ENABLED:
                 publish_reel(state, d)          # tells you itself if the daily limit is reached
         except Exception as e:
-            d["attempts"] = d.get("attempts", 0) + 1
             log("Facebook error:", e)
+            if d.get("status") == "posted":   # the post IS live; something after it failed (e.g. Telegram log)
+                continue
+            if isinstance(e, requests.exceptions.ConnectionError) and not isinstance(e, requests.exceptions.ReadTimeout):
+                d["net_fails"] = d.get("net_fails", 0) + 1   # network hiccup, not a Facebook "no": retry quietly
+                if d["net_fails"] < 6:
+                    continue
+            d["attempts"] = d.get("attempts", 0) + 1
             if d["attempts"] >= 3:
                 d["status"] = "failed"
                 if d.get("tg_message_id"):
@@ -1869,6 +1915,7 @@ Return ONLY JSON with these keys:
 "image_query": 2 to 4 words for a photo of the most relevant PLACE or landmark (never a person), as specific as possible, e.g. "Montevideo skyline", "US Capitol building", "Kyiv city", "United Nations Security Council". Pick the place that fits THIS story: Congress/party stories → "US Capitol dome", "Senate chamber", "House of Representatives chamber" or the state capitol/city involved; courts → "Supreme Court building"; military → "Pentagon building". Use "White House" only when the story really happens at the White House.
 "event_query": 2 to 4 words naming THIS exact event as a photographer would title a photo of it, place first, e.g. "Minneapolis church shooting", "Kyiv drone attack", "Texas Hill Country flood", "Senate vote government funding". Empty string if there is no specific event.
 "image_queries": a list of 4 OTHER, different photo ideas for this story (2 to 4 words each, places or things, never a person), e.g. for a story about Democrats in Congress: ["Senate chamber", "Capitol Hill", "Democratic National Convention", "voting booth"].
+"topic_photo": 1 to 3 words for a simple, generic stock photo of the main THING, WEATHER or ACTIVITY in this story that could be shown anywhere in the world: no place names, no people's names, and never something that looks like the actual event (no damage, victims, weapons firing, crash scenes), e.g. "heavy rain", "snowstorm", "airport terminal", "ballot box", "oil refinery", "hospital corridor", "judge gavel", "cargo ship". Empty string if nothing fits.
 "people": a list of 0 to 3 real people who are the MAIN subject of the story AND are named in your headline, full names exactly as written in the reports, e.g. ["Donald Trump", "Vladimir Putin"]. People who are only mentioned in the background must NOT be listed. Use [] if the headline names no person (for example a story about a country, party, vote or attack).
 "skip": true if this is about South Asia, is not hard news (opinion, sport, entertainment, live blog), or the reports describe different events. Otherwise false.
 {fix}"""
@@ -2387,6 +2434,50 @@ def place_photo(post, exclude=()):
     return None
 
 
+# ---------- topic photo: a simple photo of the THING the story is about (rain, airport, ballot box…) ----------
+WEATHER_WORDS = ("rain", "rains", "rainfall", "rainstorm", "downpour", "monsoon", "snowfall", "flood", "floods", "flooding", "flooded", "storm",
+                 "storms", "hurricane", "typhoon", "cyclone", "tornado", "tornadoes", "snow", "snowstorm", "blizzard",
+                 "heatwave", "heat wave", "drought", "wildfire", "wildfires")
+TOPIC_AVOID = ("victim", "victims", "memorial", "vigil", "funeral", "dead", "body", "bodies", "wreck", "wreckage",
+               "aftermath", "riot", "protest", "trump", "biden", "obama", "president", "minister", "senator",
+               # close-ups of small things are not news pictures ("mushrooms after the heavy rain")
+               "mushroom", "mushrooms", "fungi", "fungus", "flower", "flowers", "insect", "bird", "butterfly", "snail",
+               "spider", "frog", "leaf", "leaves", "plant", "dog", "cat", "toy", "model", "miniature", "lego",
+               "museum", "exhibit", "exhibition", "painting", "art", "macro")
+
+
+def topic_ideas(post):
+    """Photo ideas for the story's topic: the AI's "topic_photo" first, then GENERIC_PHOTO_IDEAS from the headline."""
+    text = " " + re.sub(r"[^a-z0-9]+", " ", plain(" ".join(
+        str(post.get(k) or "") for k in ("headline", "event_query", "topic_photo"))).lower()) + " "
+    ideas = []
+    tp = str(post.get("topic_photo") or "").strip()
+    if tp and len(tp.split()) <= 4 and not countries_in(tp):
+        ideas.append(tp)
+    for words, extra in GENERIC_PHOTO_IDEAS.items():
+        if has_any_word(text, words):
+            ideas += extra
+    ideas = list(dict.fromkeys(ideas))
+    recent = PHOTO_MEM.get("recent_ideas", [])
+    return sorted(ideas, key=lambda q: q.lower() in recent)      # ideas used lately go last
+
+
+def topic_photo(post, exclude=()):
+    """A free stock-style photo of the topic. It may show any country except another named one (a US rain story
+    never gets "rain in Paris"), and never a photo titled as another event."""
+    countries = AnyOrOwn(story_countries(post))
+    for q in topic_ideas(post)[:3]:
+        avoid = tuple(w for w in TOPIC_AVOID + EVENT_WORDS if w not in q.lower())
+        p = (pexels_photo(q, exclude, countries) or pixabay_photo(q, exclude, countries)
+             or flickr_photo(q, exclude, countries)
+             or wiki_search_photo(q, exclude, countries, avoid=avoid, quality_only=True))
+        if p:
+            PHOTO_MEM["recent_ideas"] = (PHOTO_MEM.get("recent_ideas", []) + [q.lower()])[-12:]
+            log("Topic photo:", q)
+            return p
+    return None
+
+
 # ---------- news map card (when there is no photo at all) ----------
 _MAP = {}
 
@@ -2439,25 +2530,124 @@ def area_at(lat, lon, items):
     return None, None
 
 
+# Regions and seas: map centred there (lat, lon, width in degrees), no pin, no country highlighted
+MAP_REGIONS = {
+    "middle east": (29, 45, 38), "persian gulf": (26.5, 52, 14), "arabian gulf": (26.5, 52, 14),
+    "gulf region": (26.5, 52, 18), "strait of hormuz": (26.6, 56.3, 8), "red sea": (20, 39, 22),
+    "black sea": (43.5, 34, 16), "mediterranean": (37, 17, 34), "mediterranean sea": (37, 17, 34),
+    "baltic": (57, 20, 18), "baltic sea": (57, 20, 18), "balkans": (43, 21, 14), "caribbean": (17, -72, 30),
+    "central america": (13.5, -86, 20), "latin america": (-10, -65, 70), "south america": (-20, -60, 60),
+    "north america": (45, -100, 70), "europe": (52, 12, 40), "eastern europe": (50, 28, 25),
+    "western europe": (48, 4, 22), "asia": (35, 95, 70), "east asia": (35, 120, 35), "southeast asia": (8, 110, 35),
+    "central asia": (43, 65, 30), "asia pacific": (10, 125, 60), "indo pacific": (5, 120, 70),
+    "africa": (5, 20, 75), "west africa": (11, -3, 30), "east africa": (2, 38, 25), "horn of africa": (8, 45, 18),
+    "sahel": (15, 5, 35), "north africa": (28, 12, 40), "south china sea": (13, 114, 26),
+    "taiwan strait": (24.5, 119.5, 8), "korean peninsula": (37.5, 127.5, 10), "pacific": (10, 160, 80),
+    "gulf of aden": (12.5, 48, 12), "bab el mandeb": (12.6, 43.4, 8), "english channel": (50.2, -1, 8),
+    "gulf of mexico": (25, -90, 22), "gulf of america": (25, -90, 22), "arctic": (72, 20, 60),
+}
+COUNTRY_ALIASES = {"us": "United States of America", "u s": "United States of America", "usa": "United States of America",
+                   "u s a": "United States of America", "america": "United States of America",
+                   "united states": "United States of America", "uk": "United Kingdom", "britain": "United Kingdom",
+                   "great britain": "United Kingdom", "czech republic": "Czechia", "cape verde": "Cabo Verde",
+                   "ivory coast": "Côte d'Ivoire", "dr congo": "Dem. Rep. Congo", "drc": "Dem. Rep. Congo",
+                   "democratic republic of the congo": "Dem. Rep. Congo", "south sudan": "S. Sudan",
+                   "dominican republic": "Dominican Rep.", "bosnia": "Bosnia and Herz.", "uae": "United Arab Emirates"}
+
+
+def _norm(text):
+    return re.sub(r"[^a-z0-9]+", " ", plain(str(text)).lower()).strip()
+
+
+def map_country_named(place):
+    """The map's country when `place` is just a country name ("Iran", "US", "Cape Verde"), else None."""
+    p = re.sub(r"^the ", "", _norm(place))
+    name = COUNTRY_ALIASES.get(p) or p
+    return next((c for c in map_data()["countries"] if _norm(c["n"]) == _norm(name)), None)
+
+
+def nearest_country(lat, lon, max_deg=0.6):
+    """Coastal cities can fall just outside the simple map outline: the closest country within max_deg."""
+    best, dist = None, max_deg
+    for c in map_data()["countries"]:
+        for ring in c["p"]:
+            for x, y in ring:
+                dd = math.hypot((x - lon) * math.cos(math.radians(lat)), y - lat)
+                if dd < dist:
+                    best, dist = c, dd
+    return best
+
+
+def _ring_center(ring):
+    xs, ys = [q[0] for q in ring], [q[1] for q in ring]
+    return (min(ys) + max(ys)) / 2, (min(xs) + max(xs)) / 2
+
+
 def map_card(post):
-    """bg for a news map, or None if the place can't be found (or is in the wrong country)."""
+    """bg for a news map: a city/state (pin), a whole country (highlighted), or a region/sea. None if no place fits
+    the story's country. Tries the location, the nearby city, the location's country, then the story's country."""
     if not MAP_CARDS:
         return None
     loc = str(post.get("location") or "").strip()
-    pos = geocode(loc)
-    if not pos:
-        return None
-    lat, lon = pos
-    country, ring = area_at(lat, lon, map_data()["countries"])
-    if not country:
-        return None
-    countries = story_countries(post)
-    if countries and not place_ok(country["n"], countries):
-        log("Map: geocoded to", country["n"], "but the story is about", countries)
-        return None
-    state, sring = area_at(lat, lon, [x for x in map_data()["states"] if x["a3"] == country["a3"]])
-    return {"type": "map", "photos": [], "location": loc[:40], "lat": lat, "lon": lon,
-            "country": country["n"], "state": state["n"] if state else ""}
+    key = re.sub(r"^the ", "", _norm(loc))
+    if key in MAP_REGIONS:
+        lat, lon, span = MAP_REGIONS[key]
+        return {"type": "map", "photos": [], "location": loc[:40], "lat": lat, "lon": lon, "country": "",
+                "state": "", "span": span, "pin": False}
+    want = story_countries(post)
+    parts = [x.strip() for x in loc.split(",") if x.strip()]
+    tries = [loc, str(post.get("nearby_city") or "").strip()]
+    tries += [", ".join(parts[i:]) for i in range(1, len(parts))]          # "Hammoud, Jordan" → "Jordan"
+    if len(want) == 1:
+        if len(parts) == 1 and not map_country_named(loc):
+            tries.insert(1, f"{loc}, {next(iter(want))}")                   # "Georgia" (US story) → "Georgia, United States"
+        tries.append(next(iter(want)))                                     # no usable place: the story's country
+    for place in dict.fromkeys(t for t in tries if t):
+        whole = map_country_named(place)
+        if whole and whole["n"] == "Georgia" and "United States" in want and "Georgia (country)" not in want:
+            whole = None                                   # the US state, not the country
+        # just a US state / Canadian province / Australian state ("Texas", "Ohio, US"): that whole state.
+        # Not "New York" / "Washington" (usually the city / D.C.).
+        pp = [_norm(x) for x in place.split(",") if x.strip()]
+        st = None
+        if not whole and len(pp) <= 2 and pp and pp[0] not in ("new york", "washington"):
+            st = next((x for x in map_data()["states"] if _norm(x["n"]) == pp[0]), None)
+        if st:
+            sc = next((c for c in map_data()["countries"] if c["a3"] == st["a3"]), None)
+            if sc and (not want or place_ok(sc["n"], want)):
+                lat, lon = _ring_center(max(st["p"], key=len))
+                return {"type": "map", "photos": [], "location": place.split(",")[0].strip()[:40], "lat": lat,
+                        "lon": lon, "country": sc["n"], "state": st["n"]}
+        if whole:
+            pos = geocode(place) or _ring_center(max(whole["p"], key=len))
+        else:
+            pos = geocode(place)
+        if not pos:
+            continue
+        lat, lon = pos
+        country, ring = area_at(lat, lon, map_data()["countries"])
+        if not country:
+            country = nearest_country(lat, lon)
+        if whole and country is not whole:                 # e.g. geocoded to a town named "Jordan" elsewhere
+            country = whole
+            lat, lon = _ring_center(max(whole["p"], key=len))
+        if not country:
+            continue
+        if country["n"] == "Georgia" and "United States" in want and "Georgia (country)" not in want:
+            continue                                           # the country Georgia for a US-state story
+        if want and not (place_ok(country["n"], want) or _norm(country["n"]) in _norm(loc)):
+            log("Map: geocoded", place, "to", country["n"], "but the story is about", want)
+            continue
+        if whole:
+            label = loc if map_country_named(loc) else place
+            big = max(len(r) for r in country["p"]) > 0 and max(
+                max(q[0] for q in r) - min(q[0] for q in r) for r in country["p"]) > 3
+            return {"type": "map", "photos": [], "location": label[:40], "lat": lat, "lon": lon,
+                    "country": country["n"], "state": "", "pin": not big, "fit": True}
+        state, sring = area_at(lat, lon, [x for x in map_data()["states"] if x["a3"] == country["a3"]])
+        return {"type": "map", "photos": [], "location": place[:40], "lat": lat, "lon": lon,
+                "country": country["n"], "state": state["n"] if state else ""}
+    return None
 
 
 def map_background(bg):
@@ -2481,9 +2671,13 @@ def map_background(bg):
         lo1, lo2, la1, la2 = lon0 - 4, lon0 + 4, lat0 - 3, lat0 + 3
     clat, clon = (la1 + la2) / 2, (lo1 + lo2) / 2
     span_la, span_lo = (la2 - la1) * 1.5, (lo2 - lo1) * 1.5
-    if max(span_la, span_lo) > 30 or max(span_la, span_lo) < 5:   # huge country / tiny place → around the pin
+    biggest = 80 if bg.get("fit") else 30                     # whole country: show all of it (up to 80°)
+    if bg.get("span"):                                        # a region / sea: fixed view around its centre
         clat, clon = lat0, lon0
-        span_la = span_lo = 30 if max(span_la, span_lo) > 30 else 6
+        span_lo, span_la = bg["span"], bg["span"] * 0.75
+    elif max(span_la, span_lo) > biggest or max(span_la, span_lo) < 5:   # huge country / tiny place → around the pin
+        clat, clon = lat0, lon0
+        span_la = span_lo = biggest if max(span_la, span_lo) > biggest else 6
     cosl = math.cos(math.radians(clat))
     box_w, box_h, box_cy = W * S, 1000 * S, 500 * S             # map area above the headline
     k = min(box_w * 0.9 / max(0.1, span_lo * cosl), box_h * 0.9 / max(0.1, span_la))
@@ -2526,16 +2720,22 @@ def map_background(bg):
             if pts:
                 d.line(pts + [pts[0]], fill=RED + (230,), width=4 * S, joint="curve")
     px, py = xy(lon0, lat0)
-    for rr, a in ((150, 40), (105, 70), (62, 110)):
-        d.ellipse([px - rr * S, py - rr * S, px + rr * S, py + rr * S], outline=RED + (a,), width=5 * S)
-    d.ellipse([px - 24 * S, py - 24 * S, px + 24 * S, py + 24 * S], fill=RED)
-    d.ellipse([px - 9 * S, py - 9 * S, px + 9 * S, py + 9 * S], fill=WHITE)
+    pin = bg.get("pin", True)
+    if pin:
+        for rr, a in ((150, 40), (105, 70), (62, 110)):
+            d.ellipse([px - rr * S, py - rr * S, px + rr * S, py + rr * S], outline=RED + (a,), width=5 * S)
+        d.ellipse([px - 24 * S, py - 24 * S, px + 24 * S, py + 24 * S], fill=RED)
+        d.ellipse([px - 9 * S, py - 9 * S, px + 9 * S, py + 9 * S], fill=WHITE)
     city = str(bg.get("location") or "").split(",")[0].strip().upper()
     if city:
-        f = font("Poppins-SemiBold.ttf", 34 * S)
+        f = font("Poppins-SemiBold.ttf", (34 if pin else 44) * S)
         tw = d.textlength(city, font=f)
-        tx = px + 44 * S if px + 44 * S + tw < W * S - 40 * S else px - 44 * S - tw
-        d.rounded_rectangle([tx - 16 * S, py - 30 * S, tx + tw + 16 * S, py + 30 * S], 10 * S, fill=(0, 0, 0, 170))
+        if not pin:                                           # country / region: name in the middle
+            tx = max(40 * S, min(W * S - 40 * S - tw, px - tw / 2))
+        else:
+            tx = px + 44 * S if px + 44 * S + tw < W * S - 40 * S else px - 44 * S - tw
+        bh = (30 if pin else 38) * S
+        d.rounded_rectangle([tx - 16 * S, py - bh, tx + tw + 16 * S, py + bh], 10 * S, fill=(0, 0, 0, 170))
         d.text((tx, py), city, font=f, fill=WHITE, anchor="lm")
     img = img.resize((W, H), Image.LANCZOS)
     black = Image.new("RGB", (W, H), BLACK)
@@ -2657,6 +2857,54 @@ COUNTRY_WORDS = {
     "Indonesia": "indonesia|indonesian|jakarta",
     "Vietnam": "vietnam|vietnamese|hanoi",
     "Thailand": "thailand|thai|bangkok",
+    "Bahrain": "bahrain|bahraini|manama",
+    "Kuwait": "kuwait|kuwaiti",
+    "Oman": "oman|omani|muscat",
+    "Cyprus": "cyprus|cypriot|nicosia",
+    "Malta": "malta|maltese|valletta",
+    "Iceland": "iceland|icelandic|reykjavik",
+    "Luxembourg": "luxembourg",
+    "Slovenia": "slovenia|slovenian|ljubljana",
+    "Bosnia": "bosnia|bosnian|sarajevo",
+    "Albania": "albania|albanian|tirana",
+    "North Macedonia": "north macedonia|macedonian|skopje",
+    "Montenegro": "montenegro|podgorica",
+    "Kosovo": "kosovo|pristina",
+    "Kazakhstan": "kazakhstan|kazakh|astana|almaty",
+    "Uzbekistan": "uzbekistan|uzbek|tashkent",
+    "Mongolia": "mongolia|mongolian|ulaanbaatar",
+    "Myanmar": "myanmar|burma|burmese|yangon|naypyidaw",
+    "Cambodia": "cambodia|cambodian|phnom penh",
+    "Laos": "laos|laotian|vientiane",
+    "Cape Verde": "cape verde|cabo verde|praia",
+    "Rwanda": "rwanda|rwandan|kigali",
+    "Uganda": "uganda|ugandan|kampala",
+    "Tanzania": "tanzania|tanzanian|dodoma|dar es salaam",
+    "Ghana": "ghana|ghanaian|accra",
+    "Senegal": "senegal|senegalese|dakar",
+    "Mali": "mali|malian|bamako",
+    "Niger": "niger|nigerien|niamey",
+    "Burkina Faso": "burkina faso|burkinabe|ouagadougou",
+    "Chad": "n djamena|chadian",
+    "Cameroon": "cameroon|cameroonian|yaounde",
+    "Ivory Coast": "ivory coast|cote d ivoire|ivorian|abidjan",
+    "Zimbabwe": "zimbabwe|zimbabwean|harare",
+    "Zambia": "zambia|zambian|lusaka",
+    "Mozambique": "mozambique|mozambican|maputo",
+    "Angola": "angola|angolan|luanda",
+    "Madagascar": "madagascar|malagasy|antananarivo",
+    "South Sudan": "south sudan|juba",
+    "Eritrea": "eritrea|eritrean|asmara",
+    "Djibouti": "djibouti",
+    "Guatemala": "guatemala|guatemalan",
+    "Honduras": "honduras|honduran|tegucigalpa",
+    "El Salvador": "el salvador|salvadoran|san salvador",
+    "Nicaragua": "nicaragua|nicaraguan|managua",
+    "Costa Rica": "costa rica|costa rican|san jose costa rica",
+    "Dominican Republic": "dominican republic|dominican rep|santo domingo",
+    "Jamaica": "jamaica|jamaican|kingston jamaica",
+    "Paraguay": "paraguay|paraguayan|asuncion",
+    "Puerto Rico": "puerto rico|puerto rican|san juan",
 }
 _COUNTRY_RE = {c: re.compile(r"(?<![a-z])(" + w + r")(?![a-z])") for c, w in COUNTRY_WORDS.items()}
 
@@ -2674,8 +2922,26 @@ def story_countries(post):
     return found
 
 
+class AnyOrOwn(frozenset):
+    """Story countries for a TOPIC photo (rain, ballot box…): fine if the photo names no country, or only these."""
+
+
+SOUTH_ASIA_PHOTO_WORDS = tuple(EXCLUDE_WORDS) + (
+    "bangla", "bengal", "chittagong", "sylhet", "khulna", "kolkata", "calcutta", "chennai", "madras", "bangalore",
+    "bengaluru", "hyderabad", "kerala", "kochi", "punjab", "rawalpindi", "peshawar", "quetta", "multan", "faisalabad",
+    "sindh", "kandy", "galle", "jaffna", "pokhara", "mangalore", "mangaluru", "karnataka", "goa", "gujarat",
+    "ahmedabad", "maharashtra", "pune", "tamil nadu", "rajasthan", "jaipur", "uttar pradesh", "lucknow", "agra",
+    "varanasi", "bihar", "patna", "assam", "odisha", "kashmir", "srinagar", "amritsar", "chandigarh", "noida",
+    "gurgaon", "gurugram", "thiruvananthapuram", "visakhapatnam", "nagpur", "indore", "bhopal", "surat")
+
+
 def place_ok(text, countries):
-    """STRICT_PHOTO_MATCH: the photo's text must name the story's country and no other country."""
+    """STRICT_PHOTO_MATCH: the photo's text must name the story's country and no other country.
+    countries = AnyOrOwn(...) (topic photos like "rain"): the photo may name no country at all, or only these."""
+    if has_any(plain(str(text)).replace("-", " ").replace("_", " "), SOUTH_ASIA_PHOTO_WORDS):
+        return False                                    # never a South Asia photo (e.g. "US-Bangla Airlines, Dhaka")
+    if isinstance(countries, AnyOrOwn):
+        return not (countries_in(text) - countries)
     if not STRICT_PHOTO_MATCH or not countries:
         return True
     named = countries_in(text)
@@ -2713,7 +2979,7 @@ def photo_quality(url):
         return -1                               # couldn't check it = don't use it (an old photo slipped through)
 
 
-def wiki_search_photo(query, exclude=(), countries=(), avoid=(), need=()):
+def wiki_search_photo(query, exclude=(), countries=(), avoid=(), need=(), quality_only=False):
     """Best free-licensed photo from Wikimedia Commons. No key needed.
     Looks at 'Quality images' first, skips old/black-and-white pictures, checks colour and sharpness."""
     if not query:
@@ -2729,7 +2995,8 @@ def wiki_search_photo(query, exclude=(), countries=(), avoid=(), need=()):
         search, banned = PHOTO_SEARCH_FIX[core]
         must = core
     rec = recent_photos()
-    for bonus, q in ((25, f"{search} incategory:Quality_images"), (0, search)):
+    passes = ((25, f"{search} incategory:Quality_images"),) + (() if quality_only else ((0, search),))
+    for bonus, q in passes:
         data = commons_api({
             "action": "query", "generator": "search", "gsrnamespace": 6,
             "gsrsearch": f"{q} filetype:bitmap filew:>1500", "gsrlimit": 15,
@@ -2838,11 +3105,22 @@ def _choose_background(post, exclude=(), prefer_scene=False):
         return {"type": "photo", "photos": [real]}
 
     if post.get("image_style") == "incident" and not found and not prefer_scene:
-        # no random photos for shootings/bombings: a photo of the place, else strong news design with a location tag
+        # no random photos for shootings/bombings: a photo of the place, else the news map with a pin.
+        # Weather news (rain, flood, storm…) gets a photo of that weather first.
+        weather = has_any_word(plain(str(post.get("headline") or "")), WEATHER_WORDS)
+        topic = topic_photo(post, exclude) if weather else None
+        if topic:
+            return {"type": "photo", "photos": [topic]}
         place = (incident_photo(post, exclude) or place_photo(post, exclude)) if INCIDENT_PLACE_PHOTO else None
         if place:
             return {"type": "photo", "photos": [place]}
-        return map_card(post) or {"type": "incident", "photos": [], "location": str(post.get("location") or "")[:40]}
+        m = map_card(post)
+        if m:
+            return m
+        topic = None if weather else topic_photo(post, exclude)
+        if topic:
+            return {"type": "photo", "photos": [topic]}
+        return {"type": "incident", "photos": [], "location": str(post.get("location") or "")[:40]}
 
     scene = None
     if prefer_scene or post.get("image_style") == "scene" or not found:
@@ -2857,6 +3135,8 @@ def _choose_background(post, exclude=(), prefer_scene=False):
             if scene:
                 PHOTO_MEM["recent_ideas"] = (PHOTO_MEM.get("recent_ideas", []) + [q.lower()])[-12:]
                 break
+        if not scene:
+            scene = topic_photo(post, exclude)          # e.g. rain news → a rain photo, flights → an airport
 
     if found and scene and len(found) == 1:
         # place photo in the background + the main person in a small circle
@@ -2887,9 +3167,18 @@ def load_photo(p):
     elif p.get("path"):
         data = open(p["path"], "rb").read()
     else:
-        r = HTTP.get(p["url"], headers=WIKI_HEADERS, timeout=60)
-        r.raise_for_status()
-        data = r.content
+        data, err = None, None
+        # the full size first; Wikimedia sometimes refuses big sizes when busy → its smaller standard sizes
+        for url in dict.fromkeys([p["url"], _small(p["url"], 1280), _small(p["url"], 960)]):
+            try:
+                r = HTTP.get(url, headers=WIKI_HEADERS, timeout=60)
+                r.raise_for_status()
+                data = r.content
+                break
+            except Exception as e:
+                err = e
+        if data is None:
+            raise err
     return Image.open(io.BytesIO(data)).convert("RGB")
 
 
@@ -3004,11 +3293,14 @@ def render_image(headline, label, sources, bg, hide_headline=False, layout=None)
     """The 1080x1350 post image. hide_headline=True leaves the headline out (for the Reel typing effect);
     layout (a dict) is filled with where the headline goes: lines, font size, x, y, line height."""
     imgs = []
+    bg.pop("_failed", None)
     for p in bg.get("photos", []):
         try:
             imgs.append(load_photo(p))
         except Exception as e:
             log("Photo load failed:", e)
+            bg.setdefault("_failed", []).append(p.get("url") or "")
+    bg["_loaded"] = len(imgs)        # send_draft checks this: a found photo that won't download → pick another
 
     black = Image.new("RGB", (W, H), BLACK)
     if bg.get("type") == "people" and len(imgs) >= 2:
@@ -3189,8 +3481,21 @@ def with_follow_line(lines):
 
 def send_draft(state, d):
     """Make the image, send it to Telegram with buttons, remember it."""
-    img = render_image(d["headline"], "BREAKING NEWS" if d.get("breaking") else d["label"],
-                       d["sources"], d["bg"])
+    label = "BREAKING NEWS" if d.get("breaking") else d["label"]
+    img = render_image(d["headline"], label, d["sources"], d["bg"])
+    failed = d["bg"].get("_failed")
+    if d["bg"].get("photos") and not d["bg"].get("_loaded") and d.get("img_post") and not d.get("manual"):
+        # the photo was found but would not download → don't fall back to the plain globe: pick another
+        # photo, else the news map
+        log("Photo would not download, choosing another:", failed)
+        bg = choose_background(d["img_post"], exclude=tuple(failed or ()))
+        img2 = render_image(d["headline"], label, d["sources"], bg)
+        if bg.get("photos") and not bg.get("_loaded"):
+            bg = map_card(d["img_post"]) or {"type": "brand", "photos": []}
+            img2 = render_image(d["headline"], label, d["sources"], bg)
+        d["bg"], img = bg, img2
+    for k in ("_loaded", "_failed"):
+        d["bg"].pop(k, None)
     d["caption"] = build_caption(d)
     links = "\n".join(f'• <a href="{html.escape(u)}">{html.escape(s)}</a>' for s, u in d["links"][:4])
     nt = news_time_text(d)
@@ -3233,49 +3538,64 @@ def draft_new_posts(state):
     for c in stories:
         if made >= DRAFTS_PER_RUN:
             break
-        state["seen_links"].extend(i["link"] for i in c["items"])  # never reconsider these
         try:
-            post = gemini_write_neutral(c)
-        except Exception as e:
-            log("Skipping story, Gemini failed:", e)
+            if draft_one(state, c):
+                made += 1
+        except Exception as e:      # one story's problem (network, photo…) never stops the others
+            log("Story failed:", type(e).__name__, e)
             if "429" in str(e):
                 break
-            continue
-        if post.get("skip"):
-            log("Gemini marked skip:", c["items"][0]["title"], post.get("skip_reason", ""))
-            if str(post.get("skip_reason", "")).startswith("sensitive"):
-                log_note(state, f"🚫 <b>Skipped (sensitive topic)</b>\n{html.escape(c['items'][0]['title'])}\n"
-                                f"<i>Still had: {html.escape(post['skip_reason'][17:])} after a rewrite.</i>")
-            continue
-        d = {
-            "id": hashlib.sha1(c["items"][0]["link"].encode()).hexdigest()[:10],
-            "headline": str(post["headline"]).strip().rstrip("."),
-            "summary": str(post["summary"]).strip(),
-            "label": str(post.get("label") or "WORLD").upper()[:18],
-            "hook": clean_hook(post),
-            "key_points": [str(k).strip() for k in (post.get("key_points") or []) if str(k).strip()][:3],
-            "breaking": bool(post.get("breaking")) and
-                        (now_utc() - min(i["published"] for i in c["items"])) <= timedelta(hours=BREAKING_MAX_HOURS),
-            "hashtags": [str(t) for t in (post.get("hashtags") or [])][:3],
-            "sources": c["sources"],
-            "link": c["items"][0]["link"],
-            "links": [[i["source"], i["link"]] for i in c["items"][:4]],
-            "bg": choose_background(dict(post, news_time=min(i["published"] for i in c["items"]).isoformat())),
-            "img_post": {k: post.get(k) for k in ("headline", "people", "image_query", "image_queries", "image_style",
-                                                  "location", "nearby_city", "event_query", "news_time", "label")},
-            "created_at": now_utc().isoformat(),
-            "news_time": min(i["published"] for i in c["items"]).isoformat(),
-            "news_latest": max(i["published"] for i in c["items"]).isoformat(),
-        }
-        if send_draft(state, d):
-            state["recent_topics"].append([now_utc().isoformat(), sorted(c["title_kw"]), d["id"]])
-            made += 1
-            log("Draft sent:", d["headline"], "| image:", d["bg"]["type"])
-            auto_queue(state, d)
     if made == 0:
         log("No new drafts this run")
     if AUTO_PUBLISH:
         publish_due(state)          # auto posts go out now, not on the next run
+
+
+def draft_one(state, c):
+    """Write, illustrate and send one story. True = a draft was sent."""
+    state["seen_links"].extend(i["link"] for i in c["items"])  # never reconsider these
+    try:
+        post = gemini_write_neutral(c)
+    except Exception as e:
+        log("Skipping story, Gemini failed:", e)
+        if "429" in str(e):
+            raise
+        return False
+    if post.get("skip"):
+        log("Gemini marked skip:", c["items"][0]["title"], post.get("skip_reason", ""))
+        if str(post.get("skip_reason", "")).startswith("sensitive"):
+            log_note(state, f"🚫 <b>Skipped (sensitive topic)</b>\n{html.escape(c['items'][0]['title'])}\n"
+                            f"<i>Still had: {html.escape(post['skip_reason'][17:])} after a rewrite.</i>")
+        return False
+    news_time = min(i["published"] for i in c["items"]).isoformat()
+    img_post = {k: post.get(k) for k in ("headline", "people", "image_query", "image_queries", "image_style",
+                                         "location", "nearby_city", "event_query", "topic_photo", "label")}
+    img_post["news_time"] = news_time
+    d = {
+        "id": hashlib.sha1(c["items"][0]["link"].encode()).hexdigest()[:10],
+        "headline": str(post["headline"]).strip().rstrip("."),
+        "summary": str(post["summary"]).strip(),
+        "label": str(post.get("label") or "WORLD").upper()[:18],
+        "hook": clean_hook(post),
+        "key_points": [str(k).strip() for k in (post.get("key_points") or []) if str(k).strip()][:3],
+        "breaking": bool(post.get("breaking")) and
+                    (now_utc() - min(i["published"] for i in c["items"])) <= timedelta(hours=BREAKING_MAX_HOURS),
+        "hashtags": [str(t) for t in (post.get("hashtags") or [])][:3],
+        "sources": c["sources"],
+        "link": c["items"][0]["link"],
+        "links": [[i["source"], i["link"]] for i in c["items"][:4]],
+        "bg": choose_background(dict(post, news_time=news_time)),
+        "img_post": img_post,
+        "created_at": now_utc().isoformat(),
+        "news_time": news_time,
+        "news_latest": max(i["published"] for i in c["items"]).isoformat(),
+    }
+    if not send_draft(state, d):
+        return False
+    state["recent_topics"].append([now_utc().isoformat(), sorted(c["title_kw"]), d["id"]])
+    log("Draft sent:", d["headline"], "| image:", d["bg"]["type"])
+    auto_queue(state, d)
+    return True
 
 
 def has_real_photo(d):
@@ -3294,7 +3614,7 @@ def auto_queue(state, d):
     why = ""
     if AUTO_NEEDS_PHOTO and not has_real_photo(d) and not (BREAKING_WITHOUT_PHOTO and d.get("breaking")):
         why = "no real photo found"
-    elif find_duplicate(state, d, loose=True):
+    elif SKIP_LOOKALIKES and find_duplicate(state, d, loose=True):
         why = "it looks similar to a recent post"
     elif auto_today(state) + sum(1 for x in state["drafts"].values()
                                  if x.get("auto") and x["status"] == "queued") >= AUTO_MAX_PER_DAY:
@@ -3313,17 +3633,15 @@ def auto_queue(state, d):
 
 
 def auto_reel_wanted(state, d):
-    """AUTO_REELS: "breaking" = BREAKING + real photo; "more" = every BREAKING post (branded cover is fine)
-    + other posts with a real photo while Reels are left today (the last 2 are kept for breaking news)."""
+    """AUTO_REELS: "breaking" = only BREAKING news (branded cover is fine), max REELS_PER_DAY a day;
+    "more" = every BREAKING post + other posts with a real photo while Reels are left (last 2 kept for breaking)."""
     if not REELS_ENABLED or AUTO_REELS not in ("breaking", "more"):
         return False
-    if AUTO_REELS == "breaking":
-        return bool(d.get("breaking")) and reel_allowed(d)
     planned = reels_today(state) + sum(1 for x in state["drafts"].values()
                                        if x is not d and x.get("status") == "queued" and x.get("make_reel"))
     if d.get("breaking"):
         return planned < REELS_PER_DAY
-    return reel_allowed(d) and planned < REELS_PER_DAY - 2
+    return AUTO_REELS == "more" and reel_allowed(d) and planned < REELS_PER_DAY - 2
 
 
 def skips_gap(d):
@@ -3479,11 +3797,21 @@ def main():
             draft_new_posts(state)
         save_state(state)
         listen(state, started + LISTEN_MINUTES * 60)
+        state.pop("net_errors", None)          # a good run: start counting internet problems from 0 again
     except BaseException as e:   # also catches stops like KeyboardInterrupt/SystemExit, so memory is saved
         traceback.print_exc()
         note(state, f"run error: {type(e).__name__}: {str(e)[:150]}")
         try:
-            tg_text(f"⚠️ Bot error:\n<code>{html.escape(str(e))[:800]}</code>")
+            if isinstance(e, NET_ERRORS):
+                # a short internet hiccup: the next run (in ≤15 min) carries on by itself. Only tell you
+                # if it keeps happening.
+                state["net_errors"] = state.get("net_errors", 0) + 1
+                if state["net_errors"] >= 3:
+                    state["net_errors"] = 0
+                    tg_text("⚠️ The bot had internet problems 3 runs in a row (Telegram/Facebook not answering). "
+                            "It keeps retrying by itself.\n<code>" + html.escape(str(e))[:300] + "</code>")
+            elif not isinstance(e, SystemExit):
+                tg_text(f"⚠️ Bot error:\n<code>{html.escape(str(e))[:800]}</code>")
         except Exception:
             pass
     finally:

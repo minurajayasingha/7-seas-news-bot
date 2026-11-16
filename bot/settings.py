@@ -23,11 +23,13 @@ AUTO_MAX_PER_DAY = 80        # max auto posts per New York day (more → normal 
 AUTO_MIN_GAP_MINUTES = 0     # at least this long between auto posts (BREAKING news doesn't wait)
 AUTO_NEEDS_PHOTO = True      # True = only news with a real photo is auto-posted; the rest waits in Telegram for you
                              # (reply with a photo, or 🚀 Post now / ❌ Skip). False = posted with the globe/brand design
-AUTO_REELS = "more"          # "more" = every BREAKING post gets a Reel (our branded cover if no photo) + other posts
-                             #          with a real photo, while under REELS_PER_DAY (2 kept free for breaking news)
-                             # "breaking" = only BREAKING news with a real photo; "off" = no automatic Reels
-BREAKING_WITHOUT_PHOTO = True   # True = BREAKING news is auto-posted even with no real photo (our branded cover)
+AUTO_REELS = "breaking"      # "breaking" = only BREAKING (emergency) news gets an automatic Reel, max REELS_PER_DAY
+                             # "more" = every BREAKING post + other posts with a real photo (2 kept free for breaking)
                              # "off" = Reels only when you tap 🎬 Reel
+BREAKING_WITHOUT_PHOTO = True   # True = BREAKING news is auto-posted even with no real photo (our branded cover)
+SKIP_LOOKALIKES = False      # False = news that looks like an earlier post is posted anyway (the log channel says
+                             #         "⚠️ Looks like an earlier post" and has 🗑 Delete if you don't want it).
+                             # True = old way: look-alikes wait in Telegram for you
 
 # ---------- Space out posts (posts close together get less reach) ----------
 MIN_MINUTES_BETWEEN_POSTS = 0    # every post (🚀 Post now, 🕒 Queue slots, auto) waits until this long after the last
@@ -124,7 +126,7 @@ ASK_QUESTION = "sometimes"
 
 # ---------- Single-story Reels (🎬 Reel button) ----------
 REELS_ENABLED = True         # True = drafts get a 🎬 Reel button: publishes the post AND a short Reel of it
-REELS_PER_DAY = 10           # max Reels per New York day (more taps → the post is published, no Reel, you're told)
+REELS_PER_DAY = 3            # max Reels (videos) per New York day, the 🎬 Reel button included (more → post only)
 REEL_SECONDS = 10            # length of each Reel (typing headline → hold → "Follow for more" end card)
 REELS_ONLY_GOOD_PHOTOS = True   # True = 🎬 Reel button only on drafts with a real photo (people/place),
                                 #        not on the plain brand / globe designs
@@ -143,6 +145,7 @@ INCIDENT_PLACE_PHOTO = True  # shootings/crashes/disasters: use a photo of the P
                              # design. Never a photo of an older, different event.
 MAP_CARDS = True             # no photo at all → the bot draws a news map: the country/state, borders and a red pin on
                              # the place (Natural Earth map data, public domain). These are auto-posted too.
+                             # Works for cities, states, whole countries and regions ("Middle East", "Red Sea"…).
 # Shootings, crashes, fires… : first try a photo of that city's emergency services (a "file photo"), then a city view.
 # Photos whose title mentions another event (shooting, crash, memorial…) are never used.
 INCIDENT_PHOTO_IDEAS = {
@@ -152,6 +155,48 @@ INCIDENT_PHOTO_IDEAS = {
     ("fire", "blaze", "wildfire", "burned"): ["fire engine", "fire truck", "firefighters"],
     ("explosion", "blast", "bomb", "bombing"): ["police car", "ambulance"],
     ("flood", "storm", "hurricane", "tornado", "earthquake"): ["ambulance", "fire engine"],
+}
+# No photo of the place/people? A simple photo of the TOPIC (any country, never another event):
+# "rain" news → a rain photo, airport news → an airport photo. Words on the left are looked for in the headline.
+# The AI also suggests one idea per story ("topic_photo"). Bombings/attacks get the news map instead.
+GENERIC_PHOTO_IDEAS = {
+    ("rain", "rains", "rainfall", "downpour", "rainstorm", "monsoon"): ["rain street", "rain umbrella", "rain window", "heavy rain"],
+    ("flood", "floods", "flooding", "flooded", "floodwaters"): ["flooded street", "flooding", "sandbags"],
+    ("storm", "storms", "hurricane", "hurricanes", "typhoon", "cyclone", "tornado", "tornadoes", "lightning"):
+        ["storm clouds", "lightning", "hurricane", "tornado"],
+    ("snow", "snowfall", "snowstorm", "snowstorms", "blizzard", "winter storm", "ice storm", "freezing"):
+        ["snow street", "snowstorm", "snow plow", "snowfall"],
+    ("heat", "heatwave", "heat wave", "drought"): ["heat wave", "drought cracked earth", "thermometer heat"],
+    ("wildfire", "wildfires", "bushfire", "forest fire"): ["wildfire smoke", "firefighters", "fire truck"],
+    ("earthquake", "quake", "tsunami", "volcano", "eruption"): ["seismograph", "rescue team", "volcano"],
+    ("flight", "flights", "airline", "airlines", "airport", "faa", "air traffic", "plane", "aircraft", "jet"):
+        ["airport terminal", "airplane taking off", "air traffic control tower", "airport departures board"],
+    ("oil", "opec", "gasoline", "gas prices", "fuel", "pipeline"): ["oil pumpjack", "oil refinery", "gas station"],
+    ("nuclear", "uranium", "reactor"): ["nuclear power plant", "cooling towers"],
+    ("vote", "votes", "voting", "voters", "ballot", "election", "elections", "polls", "referendum"):
+        ["ballot box", "voting booth", "polling station", "I voted sticker"],
+    ("court", "judge", "trial", "ruling", "lawsuit", "verdict", "sentenced", "jury"):
+        ["judge gavel", "courtroom", "scales of justice"],
+    ("stock", "stocks", "stock market", "dow", "nasdaq", "wall street"): ["stock market screen", "stock exchange"],
+    ("tariff", "tariffs", "trade", "exports", "imports"): ["shipping containers", "container ship", "cargo port"],
+    ("police", "arrest", "arrested", "shooting", "gunman", "stabbing", "suspect", "charged"):
+        ["police car lights", "police lights", "police tape"],
+    ("drone", "drones"): ["military drone", "drone flying"],
+    ("hospital", "health", "virus", "outbreak", "vaccine", "disease", "measles", "flu", "doctors"):
+        ["hospital corridor", "ambulance", "vaccine vial", "doctor stethoscope"],
+    ("ship", "vessel", "tanker", "cargo", "navy", "warship", "coast guard"): ["cargo ship", "oil tanker", "warship"],
+    ("train", "rail", "railway", "derail", "derailed", "subway"): ["train tracks", "freight train", "railway station"],
+    ("cyber", "hack", "hacker", "hackers", "outage", "microsoft", "google", "apple", "meta", "ai", "tech"):
+        ["computer code screen", "server room", "data center", "smartphone"],
+    ("school", "schools", "university", "universities", "students", "college"): ["university campus", "classroom"],
+    ("rocket", "spacex", "nasa", "space station", "astronaut", "satellite", "starship"): ["rocket launch", "space rocket", "night sky stars"],
+    ("food", "grocery", "groceries", "prices", "inflation", "cost of living"): ["supermarket shelves", "grocery store", "shopping cart"],
+    ("jobs", "unemployment", "workers", "layoffs", "labor union"): ["factory workers", "help wanted sign", "office building"],
+    ("housing", "mortgage", "rent", "homes"): ["houses for sale sign", "suburban houses", "apartment buildings"],
+    ("crypto", "bitcoin"): ["bitcoin coins", "cryptocurrency"],
+    ("prison", "inmate", "jail", "prisoner", "prisoners"): ["prison bars", "prison fence"],
+    ("farm", "farmers", "crops", "harvest"): ["farm field", "tractor", "wheat field"],
+    ("electric vehicle", "electric vehicles", "tesla", "automaker", "carmakers"): ["car factory", "electric car charging", "traffic jam"],
 }
 STRICT_PHOTO_MATCH = True    # True = a place photo must clearly be from the story's country (checked in the photo's
                              # name, description and categories); photos naming another country are rejected.
