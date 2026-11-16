@@ -13602,6 +13602,90 @@
    "extra_msgs": [
     626
    ]
+  },
+  "abfc3a1aac": {
+   "id": "abfc3a1aac",
+   "headline": "Martine Moise registers for Haiti presidential election",
+   "summary": "Martine Moise registers to run in Haiti's upcoming presidential election. She is among 33 candidates competing in the first election held in the country since 2021.",
+   "label": "ELECTIONS",
+   "hook": "Can Martine Moise win the presidency in Haiti's upcoming election?",
+   "key_points": [
+    "Martine Moise is the widow of the slain leader.",
+    "Jovenel Moise was assassinated in 2021."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Haiti",
+    "#Elections",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "BBC"
+   ],
+   "link": "https://www.aljazeera.com/news/2026/11/16/widow-of-haitis-slain-leader-moise-to-contest-presidential-vote?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/16/widow-of-haitis-slain-leader-moise-to-contest-presidential-vote?traffic_source=rss"
+    ],
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Martine_Mo%C3%AFse_in_Lima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Ministerio de Relaciones Exteriores / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Martine Moise registers for Haiti presidential election",
+    "people": [
+     "Martine Moise"
+    ],
+    "image_query": "Port au Prince street",
+    "image_queries": [
+     "Haitian flag",
+     "Port au Prince skyline",
+     "voting booth",
+     "election ballots"
+    ],
+    "image_style": "person",
+    "location": "Haiti",
+    "nearby_city": "Port-au-Prince, Haiti",
+    "event_query": "Haiti presidential election",
+    "news_time": null,
+    "label": "ELECTIONS"
+   },
+   "created_at": "2026-11-16T05:45:49.249731+00:00",
+   "news_time": "2026-11-16T05:06:59+00:00",
+   "news_latest": "2026-11-16T05:38:52+00:00",
+   "caption": "Martine Moise registers for Haiti presidential election\n\nMartine Moise registers to run in Haiti's upcoming presidential election. She is among 33 candidates competing in the first election held in the country since 2021.\n\n💬 Can Martine Moise win the presidency in Haiti's upcoming election?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Haiti #Elections #WorldNews #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 627,
+   "tg_file_id": "AgACAgUAAxkDAAICc2r6mJRWQrR7sqok0baCSY9ILkuIAAKlFmsbg6zYVxXNxYkWm1RAAQADAgADdwADPQQ",
+   "queued_at": "2026-11-16T05:45:57.096469+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-16T05:45:57.096500+00:00",
+   "post_label": "🤖 Auto-posting + Reel",
+   "fb_post_id": "1413030521900096_122103035877548584",
+   "posted_at": "2026-11-16T05:45:57.406350+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 16 · 12:46 AM New York · 11:16 AM Sri Lanka\n\n<b>Martine Moise registers for Haiti presidential election</b>\n<i>Al Jazeera, BBC</i>\n🟢 <b>Latest:</b> 11:08 AM Sri Lanka (7 min ago) · first reported 10:36 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122103035877548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 405,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122103035877548584_982785864439558",
+   "fb_reel_id": "2286707011886549",
+   "reel_status": "live"
   }
  },
  "seen_links": [
@@ -14661,7 +14745,9 @@
   "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling?traffic_source=rss",
   "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
   "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
-  "https://www.washingtonexaminer.com/news/white-house/4804325/bessent-nvidia-go-outside-company-next-ceo/"
+  "https://www.washingtonexaminer.com/news/white-house/4804325/bessent-nvidia-go-outside-company-next-ceo/",
+  "https://www.aljazeera.com/news/2026/11/16/widow-of-haitis-slain-leader-moise-to-contest-presidential-vote?traffic_source=rss",
+  "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss"
  ],
  "recent_topics": [
   [
@@ -16763,19 +16849,34 @@
     "suspect"
    ],
    "c6f717fdbe"
+  ],
+  [
+   "2026-11-16T05:45:57.093387+00:00",
+   [
+    "assassinat",
+    "contest",
+    "election",
+    "ex-haitian",
+    "haiti",
+    "leader",
+    "mois",
+    "presidential",
+    "register",
+    "slain",
+    "vot",
+    "widow",
+    "wif"
+   ],
+   "abfc3a1aac"
   ]
  ],
- "last_draft_at": "2026-11-16T05:31:41.559051+00:00",
+ "last_draft_at": "2026-11-16T05:45:37.176730+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-16T05:31:08.675572+00:00",
  "run_log": [
-  "11-16 03:15:41 run start",
-  "11-16 03:15:52 listening 11 min",
-  "11-16 03:27:13 listening done",
-  "11-16 03:27:13 run end after 691 s",
   "11-16 03:30:43 run start",
   "11-16 03:31:37 listening 11 min",
   "11-16 03:42:19 listening done",
@@ -16811,12 +16912,15 @@
   "11-16 05:31:08 run start",
   "11-16 05:31:42 listening 11 min",
   "11-16 05:42:35 listening done",
-  "11-16 05:42:35 run end after 687 s"
+  "11-16 05:42:35 run end after 687 s",
+  "11-16 05:45:36 run start",
+  "11-16 05:46:45 listening 10 min",
+  "11-16 05:57:13 listening done",
+  "11-16 05:57:13 run end after 696 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Donald_Trump_RNC_July_2016.jpg/1280px-Donald_Trump_RNC_July_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/1/1c/Vladimir_Putin_%282026_02_23%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Federal_Aviation_Administration_-_Wilbur_Wright_Federal_Building_%2853830788187%29.jpg/1920px-Federal_Aviation_Administration_-_Wilbur_Wright_Federal_Building_%2853830788187%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/The_FAA_air_traffic_control_tower_at_Philadelphia_International_Airport.jpg/1920px-The_FAA_air_traffic_control_tower_at_Philadelphia_International_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -16855,85 +16959,10 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Donald_Trump_at_Fort_Drum_2018_06.jpg/1280px-Donald_Trump_at_Fort_Drum_2018_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/0/0b/Gadi_Eisenkot_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Benjamin_Netanyahu_Receives_Hudson%27s_Herman_Kahn_Award_%2830498904601%29.jpg/1280px-Benjamin_Netanyahu_Receives_Hudson%27s_Herman_Kahn_Award_%2830498904601%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Skyline_of_the_Central_Business_District_of_Singapore_with_Esplanade_Bridge.jpg/1920px-Skyline_of_the_Central_Business_District_of_Singapore_with_Esplanade_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Skyline_of_the_Central_Business_District_of_Singapore_with_Esplanade_Bridge.jpg/1920px-Skyline_of_the_Central_Business_District_of_Singapore_with_Esplanade_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/1/13/Martine_Mo%C3%AFse_in_Lima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   ],
   "pools": {
-   "prince harry": {
-    "t": "2026-11-10T16:27:22.906452+00:00",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Prince_Harry_Visits_Arlington_National_Cemetery_%2855476826080%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "60564189@N06 / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Prince_Harry%2C_Mike_Baird_%2817191406437%29.jpg/1280px-Prince_Harry%2C_Mike_Baird_%2817191406437%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Eva Rinaldi from Sydney Australia / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Prince_Harry_at_Canterbury_University_%2817361399449%29.jpg/1280px-Prince_Harry_at_Canterbury_University_%2817361399449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "KoenbrNZ / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Prince_Harry_at_Canterbury_University_%2817361413549%29.jpg/1280px-Prince_Harry_at_Canterbury_University_%2817361413549%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "KoenbrNZ / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Prince_Harry_at_Canterbury_University_%2817547607621%29.jpg/1280px-Prince_Harry_at_Canterbury_University_%2817547607621%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "KoenbrNZ / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Prince_Harry_at_Canterbury_University_%2816925166074%29.jpg/1280px-Prince_Harry_at_Canterbury_University_%2816925166074%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "KoenbrNZ / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Prince_Harry_visits_University_of_Canterbury_07.jpg/1280px-Prince_Harry_visits_University_of_Canterbury_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "KoenbrNZ / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Prince_Harry_Arlington_visit_130510-A-VS818-144.jpg/1280px-Prince_Harry_Arlington_visit_130510-A-VS818-144.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Sgt. Laura Buchta / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Prince_Harry_%2817396840192%29.jpg/1280px-Prince_Harry_%2817396840192%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Eva Rinaldi from Sydney Australia / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Prince_Harry_at_Canterbury_University_%2817360139440%29.jpg/1280px-Prince_Harry_at_Canterbury_University_%2817360139440%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "KoenbrNZ / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Prince_Harry_at_Canterbury_University_%2817360144220%29.jpg/1280px-Prince_Harry_at_Canterbury_University_%2817360144220%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "KoenbrNZ / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Prince_Harry_%2817396840192%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Eva Rinaldi from Sydney Australia / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     }
-    ]
-   },
    "meghan markle": {
     "t": "2026-11-10T16:27:24.297831+00:00",
     "photos": [
@@ -20240,6 +20269,22 @@
       "portrait": true
      }
     ]
+   },
+   "martine moise": {
+    "t": "2026-11-16T05:45:49.249589+00:00",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Martine_Mo%C3%AFse_in_Lima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Ministerio de Relaciones Exteriores / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/C%C3%A9r%C3%A9monie_du_Projet_Plante_Kafe_de_la_1er_Dame_Martine_Moise_%C3%A0_Baptiste.jpg/1280px-C%C3%A9r%C3%A9monie_du_Projet_Plante_Kafe_de_la_1er_Dame_Martine_Moise_%C3%A0_Baptiste.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Jude Stanley ROY / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     }
+    ]
    }
   },
   "recent_ideas": [
@@ -20262,14 +20307,16 @@
   "2026-11-12": 17,
   "2026-11-13": 34,
   "2026-11-14": 18,
-  "2026-11-15": 19
+  "2026-11-15": 19,
+  "2026-11-16": 1
  },
- "last_auto_at": "2026-11-16T02:31:32.777653+00:00",
- "last_post_at": "2026-11-16T03:36:44.111254+00:00",
+ "last_auto_at": "2026-11-16T05:45:57.406350+00:00",
+ "last_post_at": "2026-11-16T05:46:03.753307+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
   "2026-11-14": 8,
-  "2026-11-15": 8
+  "2026-11-15": 8,
+  "2026-11-16": 1
  }
 }
