@@ -1,87 +1,6 @@
 {
  "tg_offset": 495893066,
  "drafts": {
-  "451840320f": {
-   "id": "451840320f",
-   "headline": "Nvidia board considers Jensen Huang future amid affair reports",
-   "summary": "The Nvidia board is weighing the future of Jensen Huang following reports of a second affair. US intelligence reportedly believes Alice Huang, a former tech executive who had a relationship with Jensen Huang, was recruited by Beijing.",
-   "label": "WORLD",
-   "hook": "Should tech company executives face security reviews regarding foreign intelligence ties?",
-   "key_points": [
-    "Nvidia board weighs Jensen Huang future.",
-    "US intelligence believes Alice Huang was recruited by Beijing."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Nvidia",
-    "#JensenHuang",
-    "#TechNews"
-   ],
-   "sources": [
-    "Euronews",
-    "The Guardian"
-   ],
-   "link": "https://www.euronews.com/2026/11/12/nvidia-board-weighs-jensen-huangs-future-as-reports-emerge-of-second-affair",
-   "links": [
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/12/nvidia-board-weighs-jensen-huangs-future-as-reports-emerge-of-second-affair"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Jensen_huang_stanford_2026-04-30_031.jpg/1280px-Jensen_huang_stanford_2026-04-30_031.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Anderseidesvik / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Nvidia board considers Jensen Huang future amid affair reports",
-    "people": [
-     "Jensen Huang"
-    ],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "corporate office building",
-     "silicon valley tech company",
-     "financial district skyline",
-     "data center server room"
-    ],
-    "image_style": "person",
-    "location": "US"
-   },
-   "created_at": "2026-11-12T07:15:36.670514+00:00",
-   "news_time": "2026-11-12T06:43:31+00:00",
-   "news_latest": "2026-11-12T07:03:21+00:00",
-   "caption": "Nvidia board considers Jensen Huang future amid affair reports\n\nThe Nvidia board is weighing the future of Jensen Huang following reports of a second affair. US intelligence reportedly believes Alice Huang, a former tech executive who had a relationship with Jensen Huang, was recruited by Beijing.\n\n💬 Should tech company executives face security reviews regarding foreign intelligence ties?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Nvidia #JensenHuang #TechNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 390,
-   "tg_file_id": "AgACAgUAAxkDAAIBhmr1Z5pi_CxgeUipVnFvM5L59K9oAAIKE2sbSxqpV0PN_OOXGsJRAQADAgADdwADPQQ",
-   "dup_ok": true,
-   "extra_msgs": [],
-   "queued_at": "2026-11-12T07:46:53.285740+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122099251107548584",
-   "posted_at": "2026-11-12T07:46:53.633856+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 12 · 2:46 AM New York · 1:16 PM Sri Lanka\n\n<b>Nvidia board considers Jensen Huang future amid affair reports</b>\n<i>Euronews, The Guardian</i>\n🟢 <b>Latest:</b> 12:33 PM Sri Lanka (43 min ago) · first reported 12:13 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099251107548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 211,
-   "log_photo": true,
-   "cleared": true,
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-15T07:00:17.930155+00:00"
-  },
   "8ea6130c7c": {
    "id": "8ea6130c7c",
    "headline": "Ireland faces pressure to stop sending alumina to Russia",
@@ -16888,17 +16807,13 @@
    "d76ba2cdf6"
   ]
  ],
- "last_draft_at": "2026-11-16T07:00:55.359267+00:00",
+ "last_draft_at": "2026-11-16T07:15:39.358982+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-16T06:34:09.652167+00:00",
  "run_log": [
-  "11-16 05:00:56 run start",
-  "11-16 05:01:44 listening 11 min",
-  "11-16 05:12:39 listening done",
-  "11-16 05:12:39 run end after 702 s",
   "11-16 05:15:42 run start",
   "11-16 05:15:52 listening 11 min",
   "11-16 05:27:11 listening done",
@@ -16934,7 +16849,11 @@
   "11-16 07:00:55 run start",
   "11-16 07:01:05 listening 11 min",
   "11-16 07:12:23 listening done",
-  "11-16 07:12:23 run end after 688 s"
+  "11-16 07:12:23 run end after 688 s",
+  "11-16 07:15:39 run start",
+  "11-16 07:15:48 listening 11 min",
+  "11-16 07:27:07 listening done",
+  "11-16 07:27:07 run end after 688 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
