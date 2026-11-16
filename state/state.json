@@ -14225,46 +14225,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-13T18:00:58.973025+00:00",
-   [
-    "allegation",
-    "author",
-    "comedian",
-    "david",
-    "investigat",
-    "investigation",
-    "launch",
-    "london",
-    "met",
-    "offens",
-    "personality",
-    "polic",
-    "rock",
-    "scandal",
-    "sex",
-    "walliam"
-   ],
-   "86aa12fd1f"
-  ],
-  [
-   "2026-11-13T18:01:02.896062+00:00",
-   [
-    "again",
-    "demand",
-    "doing",
-    "peac",
-    "peacekeeper",
-    "putin",
-    "rosenberg",
-    "rul",
-    "trump",
-    "ukrain",
-    "uncompromis",
-    "ups"
-   ],
-   "52e45b389b"
-  ],
-  [
    "2026-11-13T18:15:54.093455+00:00",
    [
     "alito",
@@ -16288,17 +16248,13 @@
    "3e8f4b649f"
   ]
  ],
- "last_draft_at": "2026-11-16T17:45:50.835188+00:00",
+ "last_draft_at": "2026-11-16T18:01:52.122604+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-16T17:30:43.708345+00:00",
  "run_log": [
-  "11-16 15:40:18 run end after 709 s",
-  "11-16 15:42:06 run start",
-  "11-16 15:45:07 listening 8 min",
-  "11-16 15:53:55 listening done",
   "11-16 15:53:55 run end after 709 s",
   "11-16 15:54:37 run start",
   "11-16 15:54:50 listening 11 min",
@@ -16334,7 +16290,11 @@
   "11-16 17:45:50 run start",
   "11-16 17:46:34 listening 11 min",
   "11-16 17:57:28 listening done",
-  "11-16 17:57:28 run end after 697 s"
+  "11-16 17:57:28 run end after 697 s",
+  "11-16 18:01:51 run start",
+  "11-16 18:01:52 listening 11 min",
+  "11-16 18:13:38 listening done",
+  "11-16 18:13:38 run end after 707 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
