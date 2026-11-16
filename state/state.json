@@ -1,84 +1,6 @@
 {
  "tg_offset": 495893066,
  "drafts": {
-  "5a579197e7": {
-   "id": "5a579197e7",
-   "headline": "China says United States fabricates Nvidia spy claims",
-   "summary": "China states that the United States is fabricating claims regarding Nvidia to justify a technology blockade. Megaspeed faces scrutiny over its global footprint and purchases of Nvidia computer chips.",
-   "label": "ECONOMY",
-   "hook": "Is the United States using these claims to justify a tech blockade against China?",
-   "key_points": [
-    "China accuses the US of fabricating spy claims",
-    "Megaspeed faces scrutiny over Nvidia chip purchases"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Nvidia",
-    "#China",
-    "#Technology"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "CBS News"
-   ],
-   "link": "https://www.cbsnews.com/news/megaspeed-nvidia-china-ties/",
-   "links": [
-    [
-     "CBS News",
-     "https://www.cbsnews.com/news/megaspeed-nvidia-china-ties/"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/12/china-says-us-fabricating-nvidia-spy-claims-to-justify-tech-blockade?traffic_source=rss"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/The_Great_Wall_of_China_in_Yanqing.jpg/1920px-The_Great_Wall_of_China_in_Yanqing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "TarnishedPath / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "China says United States fabricates Nvidia spy claims",
-    "people": [],
-    "image_query": "Nvidia headquarters",
-    "image_queries": [
-     "semiconductor factory",
-     "Beijing cityscape",
-     "tech conference room",
-     "computer processor chips"
-    ],
-    "image_style": "person",
-    "location": "China"
-   },
-   "created_at": "2026-11-12T14:03:17.958739+00:00",
-   "news_time": "2026-11-12T10:49:41+00:00",
-   "news_latest": "2026-11-12T13:51:10+00:00",
-   "caption": "China says United States fabricates Nvidia spy claims\n\nChina states that the United States is fabricating claims regarding Nvidia to justify a technology blockade. Megaspeed faces scrutiny over its global footprint and purchases of Nvidia computer chips.\n\n💬 Is the United States using these claims to justify a tech blockade against China?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Nvidia #China #Technology #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 408,
-   "tg_file_id": "AgACAgUAAxkDAAIBmGr1xyjFYmG2KPXYVOW7j7q1XDoFAAJ-FGsbSxqpVzCXPHLlT1lvAQADAgADdwADPQQ",
-   "queued_at": "2026-11-12T14:05:52.126622+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122099525247548584",
-   "posted_at": "2026-11-12T14:05:53.079373+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 12 · 9:05 AM New York · 7:35 PM Sri Lanka\n\n<b>China says United States fabricates Nvidia spy claims</b>\n<i>Al Jazeera, CBS News</i>\n🟢 <b>Latest:</b> 7:21 PM Sri Lanka (14 min ago) · first reported 4:19 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099525247548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 235,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-15T14:01:02.381279+00:00"
-  },
   "d4221e2d0d": {
    "id": "d4221e2d0d",
    "headline": "Iranian authorities target exiled journalists and dissidents across borders",
@@ -16611,17 +16533,13 @@
    "9012ea9cee"
   ]
  ],
- "last_draft_at": "2026-11-16T13:45:46.617333+00:00",
+ "last_draft_at": "2026-11-16T14:00:54.600416+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-16T13:30:51.024699+00:00",
  "run_log": [
-  "11-16 11:30:49 run start",
-  "11-16 11:33:53 listening 8 min",
-  "11-16 11:42:17 listening done",
-  "11-16 11:42:17 run end after 687 s",
   "11-16 11:45:43 run start",
   "11-16 11:45:53 listening 11 min",
   "11-16 11:57:13 listening done",
@@ -16657,7 +16575,11 @@
   "11-16 13:45:46 run start",
   "11-16 13:45:56 listening 11 min",
   "11-16 13:57:16 listening done",
-  "11-16 13:57:16 run end after 689 s"
+  "11-16 13:57:16 run end after 689 s",
+  "11-16 14:00:54 run start",
+  "11-16 14:01:04 listening 11 min",
+  "11-16 14:12:24 listening done",
+  "11-16 14:12:24 run end after 690 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
