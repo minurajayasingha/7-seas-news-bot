@@ -14508,34 +14508,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-13T08:43:21.877848+00:00",
-   [
-    "abus",
-    "amend",
-    "call",
-    "church",
-    "clergy",
-    "justic",
-    "lead",
-    "leo",
-    "lima",
-    "mak",
-    "meet",
-    "must",
-    "national",
-    "peru",
-    "pop",
-    "prayer",
-    "stadium",
-    "survivor",
-    "victim",
-    "vigil",
-    "xiv",
-    "youth"
-   ],
-   "817601941c"
-  ],
-  [
    "2026-11-13T10:17:14.071215+00:00",
    [
     "congress",
@@ -16621,17 +16593,13 @@
    "d76ba2cdf6"
   ]
  ],
- "last_draft_at": "2026-11-16T08:31:21.752183+00:00",
+ "last_draft_at": "2026-11-16T08:45:44.779363+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-16T08:30:38.497553+00:00",
  "run_log": [
-  "11-16 06:22:00 run start",
-  "11-16 06:22:11 listening 11 min",
-  "11-16 06:33:33 listening done",
-  "11-16 06:33:33 run end after 693 s",
   "11-16 06:34:09 run start",
   "11-16 06:35:43 listening 10 min",
   "11-16 06:45:45 listening done",
@@ -16667,7 +16635,11 @@
   "11-16 08:30:38 run start",
   "11-16 08:31:31 listening 11 min",
   "11-16 08:42:24 listening done",
-  "11-16 08:42:24 run end after 706 s"
+  "11-16 08:42:24 run end after 706 s",
+  "11-16 08:45:44 run start",
+  "11-16 08:45:54 listening 11 min",
+  "11-16 08:57:15 listening done",
+  "11-16 08:57:15 run end after 691 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
