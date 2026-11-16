@@ -1,158 +1,6 @@
 {
  "tg_offset": 495893066,
  "drafts": {
-  "9077d04a6f": {
-   "id": "9077d04a6f",
-   "headline": "Volodymyr Zelensky says Starshield disruptions impact Ukrainian military defenses",
-   "summary": "Ukrainian President Volodymyr Zelensky reported renewed disruptions to the Starshield satellite communications service along the front line. According to officials, these limitations affect military defenses and drone operations against Russian forces.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "Ukrainian military experienced significant Starshield service disruptions.",
-    "President Zelensky stated restrictions hamper defense efforts against Russia."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Ukraine",
-    "#Starshield",
-    "#WorldNews"
-   ],
-   "sources": [
-    "BBC",
-    "France 24",
-    "Kyiv Independent",
-    "NBC News",
-    "New York Times",
-    "Newsweek"
-   ],
-   "link": "https://kyivindependent.com/starshield-speed-restrictions-return-hampering-efforts-to-intercept-russian-drones-zelensky-says/",
-   "links": [
-    [
-     "Kyiv Independent",
-     "https://kyivindependent.com/starshield-speed-restrictions-return-hampering-efforts-to-intercept-russian-drones-zelensky-says/"
-    ],
-    [
-     "Newsweek",
-     "https://www.newsweek.com/ukraine-hit-by-new-systematic-starshield-restrictions-says-zelensky-12703360"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/europe/20261112-new-systematic-restrictions-starshield-network-kill-more-ukrainians-zelensky-says"
-    ],
-    [
-     "NBC News",
-     "https://www.nbcnews.com/world/ukraine/ukraine-starshield-limits-russia-war-trump-musk-rcna608938"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/New_Year%27s_Eve_from_President_of_Ukraine_Volodymyr_Zelensky_%2831-12-2025%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Press Service of the President of Ukraine / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Volodymyr Zelensky says Starshield disruptions impact Ukrainian military defenses",
-    "people": [
-     "Volodymyr Zelensky"
-    ],
-    "image_query": "Kyiv city",
-    "image_queries": [
-     "front line Ukraine",
-     "satellite dish antenna",
-     "Ukrainian flag",
-     "military drone"
-    ],
-    "image_style": "person",
-    "location": "Ukraine"
-   },
-   "created_at": "2026-11-12T11:01:40.138822+00:00",
-   "news_time": "2026-11-12T07:59:33+00:00",
-   "news_latest": "2026-11-12T10:47:13+00:00",
-   "caption": "Volodymyr Zelensky says Starshield disruptions impact Ukrainian military defenses\n\nUkrainian President Volodymyr Zelensky reported renewed disruptions to the Starshield satellite communications service along the front line. According to officials, these limitations affect military defenses and drone operations against Russian forces.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Ukraine #Starshield #WorldNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 400,
-   "tg_file_id": "AgACAgUAAxkDAAIBkGr1nJxcrQn2Pj8w1SHWm4z9OEzfAAJjE2sbSxqpVy55xy5pRfiAAQADAgADdwADPQQ",
-   "queued_at": "2026-11-12T14:03:24.343196+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122099524371548584",
-   "posted_at": "2026-11-12T14:03:26.849596+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 12 · 9:05 AM New York · 7:35 PM Sri Lanka\n\n<b>Volodymyr Zelensky says Starshield disruptions impact Ukrainian military defenses</b>\n<i>BBC, France 24, Kyiv Independent, NBC News, New York Times, Newsweek</i>\n🔴 <b>Latest:</b> 4:17 PM Sri Lanka (3h 17m ago) · first reported 1:29 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099524371548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 229,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-15T14:01:02.381279+00:00"
-  },
-  "c884bf50cf": {
-   "id": "c884bf50cf",
-   "headline": "Russian officer killed by car bomb in St Petersburg",
-   "summary": "A Russian colonel died in a car bomb explosion in St Petersburg. According to reports, Ukrainian forces have previously used similar attacks, though Kyiv rarely claims responsibility.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "A Russian colonel died in a St Petersburg explosion",
-    "Ukrainian forces previously used similar attacks",
-    "Kyiv rarely claims responsibility for these attacks"
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#Russia",
-    "#StPetersburg",
-    "#WorldNews"
-   ],
-   "sources": [
-    "Euronews",
-    "Newsweek"
-   ],
-   "link": "https://www.euronews.com/2026/11/12/russian-officer-killed-by-car-bomb-in-st-petersburg-as-murder-investigation-begins",
-   "links": [
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/12/russian-officer-killed-by-car-bomb-in-st-petersburg-as-murder-investigation-begins"
-    ],
-    [
-     "Newsweek",
-     "https://www.newsweek.com/russian-soldiers-blown-up-by-car-bombs-12703309"
-    ]
-   ],
-   "bg": {
-    "type": "incident",
-    "photos": [],
-    "location": "St Petersburg, Russia"
-   },
-   "img_post": {
-    "headline": "Russian officer killed by car bomb in St Petersburg",
-    "people": [],
-    "image_query": "St Petersburg street",
-    "image_queries": [
-     "St Petersburg city center",
-     "Russian military vehicle",
-     "police investigation scene",
-     "St Petersburg architecture"
-    ],
-    "image_style": "incident",
-    "location": "St Petersburg, Russia"
-   },
-   "created_at": "2026-11-12T11:01:50.534339+00:00",
-   "news_time": "2026-11-12T09:44:37+00:00",
-   "news_latest": "2026-11-12T10:48:52+00:00",
-   "caption": "🚨 BREAKING: Russian officer killed by car bomb in St Petersburg\n\nA Russian colonel died in a car bomb explosion in St Petersburg. According to reports, Ukrainian forces have previously used similar attacks, though Kyiv rarely claims responsibility.\n\nWhat we know so far:\n• A Russian colonel died in a St Petersburg explosion\n• Ukrainian forces previously used similar attacks\n• Kyiv rarely claims responsibility for these attacks\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Russia #StPetersburg #WorldNews #7SeasNews",
-   "status": "replaced",
-   "tg_message_id": 401,
-   "tg_file_id": "AgACAgUAAxkDAAIBkWr1nKFkjPSwv5C_mYEKuJD5-QZ2AAJkE2sbSxqpV9wYnhbdkRT1AQADAgADdwADPQQ",
-   "extra_msgs": [],
-   "cleared": true
-  },
   "9ba914a594": {
    "id": "9ba914a594",
    "headline": "Sviatlana Tsikhanouskaya demands Belarus inclusion in peace talks",
@@ -14231,60 +14079,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-13T11:01:38.833797+00:00",
-   [
-    "african",
-    "ban",
-    "beauty",
-    "bit",
-    "block",
-    "limbo",
-    "miss",
-    "pageant",
-    "queen",
-    "restriction",
-    "travel",
-    "trump",
-    "univers",
-    "visa"
-   ],
-   "4772fcbb80"
-  ],
-  [
-   "2026-11-13T11:01:51.838748+00:00",
-   [
-    "abus",
-    "bishop",
-    "call",
-    "city",
-    "clergy",
-    "fac",
-    "family",
-    "flock",
-    "justic",
-    "lead",
-    "leo",
-    "lima",
-    "meet",
-    "modern",
-    "national",
-    "peru",
-    "peruvian",
-    "pop",
-    "prayer",
-    "pressur",
-    "see",
-    "serv",
-    "stadium",
-    "survivor",
-    "vigil",
-    "warn",
-    "xiv",
-    "youth"
-   ],
-   "ea51dc48e4"
-  ],
-  [
    "2026-11-13T12:30:57.989139+00:00",
    [
     "colom",
@@ -16311,17 +16105,13 @@
    "fa56287cab"
   ]
  ],
- "last_draft_at": "2026-11-16T10:45:59.381267+00:00",
+ "last_draft_at": "2026-11-16T11:00:48.730374+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-16T10:30:46.074552+00:00",
  "run_log": [
-  "11-16 08:30:38 run start",
-  "11-16 08:31:31 listening 11 min",
-  "11-16 08:42:24 listening done",
-  "11-16 08:42:24 run end after 706 s",
   "11-16 08:45:44 run start",
   "11-16 08:45:54 listening 11 min",
   "11-16 08:57:15 listening done",
@@ -16357,7 +16147,11 @@
   "11-16 10:45:59 run start",
   "11-16 10:45:59 listening 11 min",
   "11-16 10:57:42 listening done",
-  "11-16 10:57:42 run end after 703 s"
+  "11-16 10:57:42 run end after 703 s",
+  "11-16 11:00:48 run start",
+  "11-16 11:00:58 listening 11 min",
+  "11-16 11:12:17 listening done",
+  "11-16 11:12:17 run end after 689 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
