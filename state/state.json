@@ -1,66 +1,6 @@
 {
  "tg_offset": 495893066,
  "drafts": {
-  "30b5b09dcb": {
-   "id": "30b5b09dcb",
-   "headline": "Israeli airstrike on Nasser hospital in Gaza kills six people",
-   "summary": "An Israeli airstrike in Khan Younis killed six people, including a surgeon. The Israeli military stated it targeted a Hamas commander, while Palestinian officials reported the dead also included a disabled man and patients awaiting surgery.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "Six people killed in Nasser hospital strike",
-    "Israeli military says it targeted Hamas commander",
-    "Surgeon and disabled man among the dead"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Gaza",
-    "#Israel",
-    "#WorldNews"
-   ],
-   "sources": [
-    "DW",
-    "The Guardian"
-   ],
-   "link": "https://www.dw.com/en/israel-targets-senior-hamas-member-in-gaza-hospital-strike/a-79927645?maca=en-rss-en-world-4025-rdf",
-   "links": [
-    [
-     "DW",
-     "https://www.dw.com/en/israel-targets-senior-hamas-member-in-gaza-hospital-strike/a-79927645?maca=en-rss-en-world-4025-rdf"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon"
-    ]
-   ],
-   "bg": {
-    "type": "incident",
-    "photos": [],
-    "location": "Khan Younis, Palestinian Territories"
-   },
-   "img_post": {
-    "headline": "Israeli airstrike on Nasser hospital in Gaza kills six people",
-    "people": [],
-    "image_query": "Nasser hospital Gaza",
-    "image_queries": [
-     "Khan Younis street view",
-     "Gaza medical facility",
-     "hospital building exterior",
-     "southern Gaza strip"
-    ],
-    "image_style": "incident",
-    "location": "Khan Younis, Palestinian Territories"
-   },
-   "created_at": "2026-11-12T11:45:34.937084+00:00",
-   "news_time": "2026-11-12T11:24:09+00:00",
-   "news_latest": "2026-11-12T11:27:00+00:00",
-   "caption": "Israeli airstrike on Nasser hospital in Gaza kills six people\n\nAn Israeli airstrike in Khan Younis killed six people, including a surgeon. The Israeli military stated it targeted a Hamas commander, while Palestinian officials reported the dead also included a disabled man and patients awaiting surgery.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Gaza #Israel #WorldNews #7SeasNews",
-   "status": "replaced",
-   "tg_message_id": 403,
-   "tg_file_id": "AgACAgUAAxkDAAIBk2r1pubNCdOA4sRr9drbzbq6a_TsAAKEE2sbSxqpV6djH_AT67yLAQADAgADdwADPQQ",
-   "extra_msgs": [],
-   "cleared": true
-  },
   "bd96511b9d": {
    "id": "bd96511b9d",
    "headline": "Scott Colom becomes Mississippi senator after midterm race",
@@ -12496,12 +12436,11 @@
    "news_time": "2026-11-16T00:01:45+00:00",
    "news_latest": "2026-11-16T03:47:28+00:00",
    "caption": "Gadi Eisenkot says Benjamin Netanyahu cannot remain prime minister\n\nGadi Eisenkot stated that Benjamin Netanyahu must leave office immediately following reports of electoral interference by an aide. The former army chief called Netanyahu and his entourage a threat to democracy. Meanwhile, representatives previously discussed forming a national unity government.\n\n💬 Should Benjamin Netanyahu leave office following these allegations?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Israel #WorldNews #Politics #7SeasNews",
-   "status": "pending",
+   "status": "expired",
    "tg_message_id": 623,
    "tg_file_id": "AgACAgUAAxkDAAICb2r6f_3TdSKVGu2JhPT2STNcntwcAAKFFmsbg6zYV6tqH1_Y27doAQADAgADdwADPQQ",
-   "extra_msgs": [
-    624
-   ]
+   "extra_msgs": [],
+   "cleared": true
   },
   "c6f717fdbe": {
    "id": "c6f717fdbe",
@@ -16241,17 +16180,13 @@
    "8d5a143784"
   ]
  ],
- "last_draft_at": "2026-11-16T11:31:29.230260+00:00",
+ "last_draft_at": "2026-11-16T11:45:43.938308+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-16T11:30:51.559015+00:00",
  "run_log": [
-  "11-16 09:15:44 run start",
-  "11-16 09:15:53 listening 11 min",
-  "11-16 09:27:12 listening done",
-  "11-16 09:27:12 run end after 688 s",
   "11-16 09:30:51 run start",
   "11-16 09:32:46 listening 10 min",
   "11-16 09:42:25 listening done",
@@ -16287,7 +16222,11 @@
   "11-16 11:30:49 run start",
   "11-16 11:33:53 listening 8 min",
   "11-16 11:42:17 listening done",
-  "11-16 11:42:17 run end after 687 s"
+  "11-16 11:42:17 run end after 687 s",
+  "11-16 11:45:43 run start",
+  "11-16 11:45:53 listening 11 min",
+  "11-16 11:57:13 listening done",
+  "11-16 11:57:13 run end after 690 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
