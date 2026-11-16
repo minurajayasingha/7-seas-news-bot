@@ -1,87 +1,6 @@
 {
  "tg_offset": 495893062,
  "drafts": {
-  "a805217306": {
-   "id": "a805217306",
-   "headline": "Rep Jeff Van Drew loses House seat in midterm elections",
-   "summary": "Rep. Jeff Van Drew lost his U.S. House seat in a midterm election against Zack Mullock. Van Drew plans to continue helping his district after leaving office. Meanwhile, House Minority Leader Hakeem Jeffries stated that zero House Democratic incumbents lost to a Republican.",
-   "label": "ELECTIONS",
-   "hook": "Should defeated lawmakers continue working in unofficial roles for their districts?",
-   "key_points": [
-    "Rep. Jeff Van Drew lost reelection in the midterms.",
-    "Zack Mullock won the House seat.",
-    "Van Drew plans to keep helping his district."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#Midterms",
-    "#Congress"
-   ],
-   "sources": [
-    "Washington Examiner",
-    "Washington Post"
-   ],
-   "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4800670/this-house-republican-just-lost-reelection-he-plans-to-keep-doing-the-job-for-another-two-years-anyway/",
-   "links": [
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/news/campaigns/congressional/4800670/this-house-republican-just-lost-reelection-he-plans-to-keep-doing-the-job-for-another-two-years-anyway/"
-    ],
-    [
-     "Washington Post",
-     "https://www.washingtonpost.com/elections/2026/11/11/zero-house-democratic-incumbents-lost-republican-midterms/"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Congressman_Jeff_Van_Drew_%28cropped%292.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Office of Congressman Jeff Van Drew / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Rep Jeff Van Drew loses House seat in midterm elections",
-    "people": [
-     "Jeff Van Drew"
-    ],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "House of Representatives chamber",
-     "voting booth",
-     "Capitol Hill",
-     "election ballot box"
-    ],
-    "image_style": "person",
-    "location": "New Jersey, US"
-   },
-   "created_at": "2026-11-12T00:04:23.181987+00:00",
-   "news_time": "2026-11-11T19:30:00+00:00",
-   "news_latest": "2026-11-11T23:57:42+00:00",
-   "caption": "Rep Jeff Van Drew loses House seat in midterm elections\n\nRep. Jeff Van Drew lost his U.S. House seat in a midterm election against Zack Mullock. Van Drew plans to continue helping his district after leaving office. Meanwhile, House Minority Leader Hakeem Jeffries stated that zero House Democratic incumbents lost to a Republican.\n\n💬 Should defeated lawmakers continue working in unofficial roles for their districts?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Midterms #Congress #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 384,
-   "tg_file_id": "AgACAgUAAxkDAAIBgGr1Aonprob7mKa93qtCEKhKg-voAAIsEmsbSxqpVy8YRuFhPGUFAQADAgADdwADPQQ",
-   "queued_at": "2026-11-12T03:06:39.214347+00:00",
-   "post_now": true,
-   "fb_post_id": "1413030521900096_122099099331548584",
-   "posted_at": "2026-11-12T03:06:39.574629+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 11 · 10:06 PM New York · 8:36 AM Sri Lanka\n\n<b>Rep Jeff Van Drew loses House seat in midterm elections</b>\n<i>Washington Examiner, Washington Post</i>\n🔴 <b>Latest:</b> 5:27 AM Sri Lanka (3h 9m ago) · first reported 1:00 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099099331548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 187,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "stats": {
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "stats_at": "2026-11-15T03:00:47.208586+00:00"
-  },
   "d3669c0f3c": {
    "id": "d3669c0f3c",
    "headline": "Republicans push to confirm federal judges as Democrats plan opposition",
@@ -16500,17 +16419,13 @@
    "17e4ee8ba1"
   ]
  ],
- "last_draft_at": "2026-11-15T23:45:39.268697+00:00",
+ "last_draft_at": "2026-11-15T23:57:46.339602+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-15T23:15:35.492330+00:00",
  "run_log": [
-  "11-15 21:31:02 run start",
-  "11-15 21:31:41 listening 11 min",
-  "11-15 21:42:35 listening done",
-  "11-15 21:42:35 run end after 692 s",
   "11-15 21:45:40 run start",
   "11-15 21:45:50 listening 11 min",
   "11-15 21:57:09 listening done",
@@ -16546,7 +16461,11 @@
   "11-15 23:45:38 run start",
   "11-15 23:45:49 listening 11 min",
   "11-15 23:57:08 listening done",
-  "11-15 23:57:08 run end after 690 s"
+  "11-15 23:57:08 run end after 690 s",
+  "11-15 23:57:45 run start",
+  "11-15 23:57:55 listening 11 min",
+  "11-16 00:09:14 listening done",
+  "11-16 00:09:14 run end after 688 s"
  ],
  "day_pack_done": "2026-11-14",
  "photo_memory": {
