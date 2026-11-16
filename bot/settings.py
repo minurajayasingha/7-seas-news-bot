@@ -73,6 +73,27 @@ WAR_WORDS = [
     "venezuela", "syria", "yemen", "houthi", "red sea",
 ]
 
+# ---------- Only important news (no filler, no repeats) ----------
+MIN_IMPORTANCE = 6           # the AI rates every story 1-10 for a US-first world-news audience
+                             # (10 = war / major attack / election result / leader change; 1 = poll, opinion,
+                             # "X discusses", media-about-media, gossip). Below this → skipped. BREAKING always passes.
+FILLER_TITLE_WORDS = [       # stories whose headline has one of these are skipped unless importance is 8+
+    "poll finds", "poll shows", "new poll", "survey", "asks readers", "ask readers", "discusses", "explores",
+    "opinions on", "what to know", "explainer", "explained",
+]                            # (not plain "poll": that would also catch "polls close in Virginia")
+FILLER_MIN_IMPORTANCE = 8
+FOLLOWUP_CHECK = True        # True = before writing a post, the AI checks it isn't the same story as one posted in the
+                             # last FOLLOWUP_HOURS. Same story is only posted again with a big new development
+                             # (e.g. "resigns" after "faces scandal"). One small AI call, only when headlines look alike.
+FOLLOWUP_HOURS = 36
+SKIPPED_TOPIC_HOURS = 12     # a story skipped as minor/repeated isn't looked at again for this long
+# Quiet days: if fewer than MIN_STORIES_PER_DAY posts by QUIET_DAY_HOUR_NY (New York), other world news
+# (outside the US/war focus) needs only QUIET_DAY_MIN_SOURCES outlets instead of OTHER_NEWS_MIN_SOURCES.
+# Still 2+ outlets and still the importance rule: better a few good posts than filler.
+MIN_STORIES_PER_DAY = 15
+QUIET_DAY_HOUR_NY = 18       # 18 = 6 PM New York
+QUIET_DAY_MIN_SOURCES = 2
+
 # Topics to always skip (South Asia). Matched against headline + summary.
 EXCLUDE_WORDS = [
     "india", "indian", "pakistan", "pakistani", "sri lanka", "sri lankan",
@@ -330,4 +351,5 @@ FEEDS = {
     "Newsweek": ["https://www.newsweek.com/rss"],
     "Washington Examiner": ["https://www.washingtonexaminer.com/feed/"],
     "UPI": ["https://rss.upi.com/news/top_news.rss"],
+    "Axios": ["https://api.axios.com/feed/"],   # (CNN's RSS feeds are dead since 2023: not used)
 }

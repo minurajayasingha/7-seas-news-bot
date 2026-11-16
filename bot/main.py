@@ -1843,8 +1843,20 @@ def pick_stories(state, items):
     now = now_utc()
     seen = set(state["seen_links"])
     # Topics already handled. A draft that expired without your choice doesn't block its topic.
-    recent = [{stem(w) for w in t[1]} for t in state["recent_topics"]
-              if topic_status(state, t) != "expired"]
+    skip_cut = now_utc() - timedelta(hours=SKIPPED_TOPIC_HOURS)
+    # Topics skipped as minor/repeated block only for SKIPPED_TOPIC_HOURS (Gemini isn't asked again every run).
+    recent = []
+    for t in state["recent_topics"]:
+        if len(t) >= 3 and t[2] == "skipped":
+            if datetime.fromisoformat(t[0]) <= skip_cut:
+                continue
+        elif topic_status(state, t) == "expired":
+            continue
+        recent.append({stem(w) for w in t[1]})
+    other_min = OTHER_NEWS_MIN_SOURCES
+    if quiet_day(state):
+        other_min = min(other_min, QUIET_DAY_MIN_SOURCES)
+        log(f"Quiet day ({posts_today(state)} posts so far): other world news needs {other_min} outlets")
     good = []
     for c in cluster(items):
         new_items = [i for i in c["items"] if i["link"] not in seen]   # articles not used before
@@ -1862,7 +1874,7 @@ def pick_stories(state, items):
             continue  # nobody has reported on it recently: old news
         text = " ".join(f"{i['title']} {i['summary']}" for i in c["items"])
         is_us, is_war = has_any(text, US_WORDS), has_any(text, WAR_WORDS)
-        if FOCUS_ONLY and not (is_us or is_war) and len(sources) < OTHER_NEWS_MIN_SOURCES:
+        if FOCUS_ONLY and not (is_us or is_war) and len(sources) < other_min:
             continue  # not our focus and not huge news
         # Fresh news wins: a new 2-source story beats an old 5-source one.
         c["score"] = (min(len(sources), 5) * 6 + (8 if is_us else 0) + (6 if is_war else 0)
@@ -1917,6 +1929,7 @@ Return ONLY JSON with these keys:
 "image_queries": a list of 4 OTHER, different photo ideas for this story (2 to 4 words each, places or things, never a person), e.g. for a story about Democrats in Congress: ["Senate chamber", "Capitol Hill", "Democratic National Convention", "voting booth"].
 "topic_photo": 1 to 3 words for a simple, generic stock photo of the main THING, WEATHER or ACTIVITY in this story that could be shown anywhere in the world: no place names, no people's names, and never something that looks like the actual event (no damage, victims, weapons firing, crash scenes), e.g. "heavy rain", "snowstorm", "airport terminal", "ballot box", "oil refinery", "hospital corridor", "judge gavel", "cargo ship". Empty string if nothing fits.
 "people": a list of 0 to 3 real people who are the MAIN subject of the story AND are named in your headline, full names exactly as written in the reports, e.g. ["Donald Trump", "Vladimir Putin"]. People who are only mentioned in the background must NOT be listed. Use [] if the headline names no person (for example a story about a country, party, vote or attack).
+"importance": a whole number 1 to 10: how important this story is for a US-first world-news audience. 10 = war, major attack, election result, a leader resigns/dies/is replaced; 8-9 = big decision, vote or law, major disaster, big military move; 6-7 = solid political or world news people will talk about; 3-5 = minor or local news, routine statements, small business news; 1-2 = a poll, survey, opinion, "X discusses/explores", media writing about media, celebrity gossip.
 "skip": true if this is about South Asia, is not hard news (opinion, sport, entertainment, live blog), or the reports describe different events. Otherwise false.
 {fix}"""
 
@@ -1983,9 +1996,16 @@ def gemini_write(c, fix=""):
         f"Outlet: {i['source']}\nTitle: {i['title']}\nSummary: {i['summary']}"
         for i in c["items"][:6]
     )
+    data = gemini_json(PROMPT.format(reports=reports, fix=fix), temperature=0.3,
+                       check=lambda d: d.get("headline") and d.get("summary"))
+    return data
+
+
+def gemini_json(prompt, temperature=0.2, check=None):
+    """Ask Gemini for a JSON answer (tries the models in order). check(data) False = try the next model."""
     body = {
-        "contents": [{"parts": [{"text": PROMPT.format(reports=reports, fix=fix)}]}],
-        "generationConfig": {"responseMimeType": "application/json", "temperature": 0.3},
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {"responseMimeType": "application/json", "temperature": temperature},
     }
     last_err = None
     for model in gemini_models():
@@ -2005,13 +2025,120 @@ def gemini_write(c, fix=""):
             data = json.loads(text)
             if isinstance(data, list):
                 data = data[0]
-            if not data.get("headline") or not data.get("summary"):
-                raise ValueError("missing headline/summary")
+            if check and not check(data):
+                raise ValueError("answer is missing keys")
             return data
         except Exception as e:
             last_err = f"{model}: {e}"
             log("Gemini error:", last_err)
     raise RuntimeError(last_err or "No Gemini model available")
+
+
+# ---------- Stage 1: is this story worth posting? ----------
+
+FOLLOWUP_PROMPT = """You check a news page so it does not post the same story twice.
+
+NEW STORY (headlines from different outlets):
+{titles}
+
+ALREADY POSTED by the page in the last {hours} hours:
+{posted}
+
+1. Is the NEW STORY the same news story as one already posted (same event or same topic about the same people),
+   even if it is worded differently?
+2. If yes: does it bring a big NEW DEVELOPMENT? Yes only for a new event, decision, result, vote outcome, arrest,
+   charge, resignation, death, a much higher death toll, or a new country taking part. More details, reactions,
+   analysis, interviews or the same facts again are NOT a new development.
+
+Return ONLY JSON: {{"same_story": true or false, "same_as": number of the posted headline (0 if none),
+"new_development": true or false, "why": "max 12 words"}}"""
+
+
+def recent_post_headlines(state, hours):
+    """Headlines posted / waiting to post in the last `hours` hours."""
+    cut = now_utc() - timedelta(hours=hours)
+    return [d for d in state["drafts"].values()
+            if d.get("status") in ("posted", "queued", "pending") and d.get("headline")
+            and datetime.fromisoformat(d["created_at"]) > cut]
+
+
+def same_story_check(state, c):
+    """Gemini compares the new story with recent posts. Returns a skip reason, or "" to go ahead.
+    Only asked when a recent headline shares 2+ word roots with the story (saves Gemini calls)."""
+    if not FOLLOWUP_CHECK:
+        return ""
+    roots = set(c["title_kw"])
+    near = []
+    for d in recent_post_headlines(state, FOLLOWUP_HOURS):
+        n = len(keywords(d["headline"]) & roots)
+        if n >= 2:
+            near.append((n, d["headline"]))
+    if not near:
+        return ""
+    near = [h for _, h in sorted(near, key=lambda x: -x[0])[:12]]
+    titles = "\n".join(f"- {i['source']}: {i['title']}" for i in c["items"][:6])
+    posted = "\n".join(f"{n}. {h}" for n, h in enumerate(near, 1))
+    try:
+        a = gemini_json(FOLLOWUP_PROMPT.format(titles=titles, hours=FOLLOWUP_HOURS, posted=posted),
+                        temperature=0.1, check=lambda d: "same_story" in d)
+    except Exception as e:
+        log("Same-story check failed (story allowed):", e)
+        if "429" in str(e):
+            raise
+        return ""
+    if a.get("same_story") is True and a.get("new_development") is not True:
+        try:
+            same = near[int(a.get("same_as") or 0) - 1] if int(a.get("same_as") or 0) > 0 else near[0]
+        except (ValueError, IndexError):
+            same = near[0]
+        return f"same story as \"{same}\" ({a.get('why', '')})"
+    if a.get("same_story") is True:
+        log("Follow-up allowed (new development):", a.get("why", ""), "|", c["items"][0]["title"])
+    return ""
+
+
+def filler_words_in(post, c):
+    """FILLER_TITLE_WORDS found in the AI headline, or in more than half of the outlets' titles."""
+    def found(text):
+        t = plain(text).lower()
+        return [w for w in FILLER_TITLE_WORDS
+                if re.search(r"(?<![a-z])" + re.escape(w.lower()) + r"(?![a-z])", t)]
+    hits = found(post.get("headline", ""))
+    titles = [found(i["title"]) for i in c["items"]]
+    if sum(1 for t in titles if t) * 2 > len(titles):
+        hits += [w for t in titles for w in t]
+    return sorted(set(hits))
+
+
+def importance_of(post):
+    try:
+        return max(1, min(10, int(round(float(post.get("importance"))))))
+    except (TypeError, ValueError):
+        return None             # Gemini gave no number: don't block the story
+
+
+def not_important_reason(post, c):
+    """Skip reason for a minor or filler story, "" = keep. BREAKING news always passes."""
+    if post.get("breaking"):
+        return ""
+    imp = importance_of(post)
+    if imp is not None and imp < MIN_IMPORTANCE:
+        return f"importance {imp}/10 (below {MIN_IMPORTANCE})"
+    filler = filler_words_in(post, c)
+    if filler and (imp is None or imp < FILLER_MIN_IMPORTANCE):
+        return f"filler words ({', '.join(filler)}), importance {imp}/10"
+    return ""
+
+
+def posts_today(state):
+    today = ny_now().date()
+    return sum(1 for d in state["drafts"].values()
+               if d.get("status") == "posted" and d.get("posted_at") and ny_day(d["posted_at"]) == today)
+
+
+def quiet_day(state):
+    """Few posts by the evening (New York) → other big world news needs fewer outlets for the rest of the day."""
+    return ny_now().hour >= QUIET_DAY_HOUR_NY and posts_today(state) < MIN_STORIES_PER_DAY
 
 
 # =============================================================================
@@ -3554,6 +3681,11 @@ def draft_new_posts(state):
 def draft_one(state, c):
     """Write, illustrate and send one story. True = a draft was sent."""
     state["seen_links"].extend(i["link"] for i in c["items"])  # never reconsider these
+    same = same_story_check(state, c)
+    if same:
+        log("Skipped,", same, "|", c["items"][0]["title"])
+        state["recent_topics"].append([now_utc().isoformat(), sorted(c["title_kw"]), "skipped"])
+        return False
     try:
         post = gemini_write_neutral(c)
     except Exception as e:
@@ -3566,6 +3698,11 @@ def draft_one(state, c):
         if str(post.get("skip_reason", "")).startswith("sensitive"):
             log_note(state, f"🚫 <b>Skipped (sensitive topic)</b>\n{html.escape(c['items'][0]['title'])}\n"
                             f"<i>Still had: {html.escape(post['skip_reason'][17:])} after a rewrite.</i>")
+        return False
+    minor = not_important_reason(post, c)
+    if minor:
+        log("Skipped, not important enough:", minor, "|", post.get("headline"))
+        state["recent_topics"].append([now_utc().isoformat(), sorted(c["title_kw"]), "skipped"])
         return False
     news_time = min(i["published"] for i in c["items"]).isoformat()
     img_post = {k: post.get(k) for k in ("headline", "people", "image_query", "image_queries", "image_style",
@@ -3589,6 +3726,7 @@ def draft_one(state, c):
         "created_at": now_utc().isoformat(),
         "news_time": news_time,
         "news_latest": max(i["published"] for i in c["items"]).isoformat(),
+        "importance": importance_of(post),
     }
     if not send_draft(state, d):
         return False

@@ -9,6 +9,12 @@ Never South Asia news. Real, verified news only: a story needs 2+ different outl
   cron-job.org triggers workflow_dispatch every 15 min with force_draft=false; manual "Run workflow" forces a news search.
 - After its work each run stays online LISTEN_MINUTES (12) long-polling Telegram, so taps/replies/Post now are
   handled within seconds; job timeout 20 min. /news searches news immediately.
+- News choice (Stage 1 of docs/AUTOMATION_PLAN.md): PROMPT returns "importance" 1–10; not_important_reason() skips
+  < MIN_IMPORTANCE, or FILLER_TITLE_WORDS (AI headline or most outlet titles) unless ≥ FILLER_MIN_IMPORTANCE; BREAKING
+  always passes; d["importance"] saved. same_story_check() (FOLLOWUP_CHECK) runs BEFORE writing: only when a post of the
+  last FOLLOWUP_HOURS shares 2+ word roots, Gemini (gemini_json helper) answers same_story/new_development; same without
+  a big development → skipped. Skipped stories go into recent_topics with id "skipped" (block SKIPPED_TOPIC_HOURS only).
+  quiet_day(): < MIN_STORIES_PER_DAY posts by QUIET_DAY_HOUR_NY → non-focus news needs QUIET_DAY_MIN_SOURCES outlets.
 - Network: HTTP session retries connection errors (all methods) and read errors/429/5xx (GET/DELETE only, so a Facebook
   POST is never resent by urllib3); tg() retries 3× and returns {"ok": False} instead of raising. publish_due: a failed
   Telegram image download (tg_download) is retried quietly (note only at 8/40 fails); a Facebook connection error is
