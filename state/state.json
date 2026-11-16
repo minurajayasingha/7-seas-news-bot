@@ -1,75 +1,6 @@
 {
  "tg_offset": 495893077,
  "drafts": {
-  "2cd33e9685": {
-   "id": "2cd33e9685",
-   "headline": "New members of Congress arrive for class photo",
-   "summary": "Newly elected House members arrived to pose for their class photo ahead of their swearing-in on January 3. Former House leaders advised incoming members to prioritize economic affordability issues.",
-   "label": "US POLITICS",
-   "hook": "Should new members of Congress prioritize economic affordability over partisan issues?",
-   "key_points": [
-    "New House members stepped off buses in the morning.",
-    "Cheri Bustos and Joe Crowley advised incoming members.",
-    "Affordability issues include energy costs and housing shortages."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#Congress",
-    "#HouseOfRepresentatives"
-   ],
-   "sources": [
-    "The Hill",
-    "Washington Post"
-   ],
-   "link": "https://www.washingtonpost.com/politics/2026/11/12/say-cheese-new-congress-members-pose-class-photo/",
-   "links": [
-    [
-     "Washington Post",
-     "https://www.washingtonpost.com/politics/2026/11/12/say-cheese-new-congress-members-pose-class-photo/"
-    ],
-    [
-     "The Hill",
-     "https://thehill.com/opinion/congress-blog/6214735-advice-new-members-congress/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg/1920px-High_rise_view_of_Capitol_Hill_at_night%2C_looking_east_from_Pine_and_9th.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Dllu / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "New members of Congress arrive for class photo",
-    "people": [],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "Capitol Hill",
-     "House of Representatives chamber",
-     "US Capitol steps",
-     "Senate chamber"
-    ],
-    "image_style": "scene",
-    "location": "US",
-    "event_query": "Congress class photo",
-    "news_time": null
-   },
-   "created_at": "2026-11-12T19:15:31.885838+00:00",
-   "news_time": "2026-11-12T18:00:00+00:00",
-   "news_latest": "2026-11-12T19:10:00+00:00",
-   "caption": "New members of Congress arrive for class photo\n\nNewly elected House members arrived to pose for their class photo ahead of their swearing-in on January 3. Former House leaders advised incoming members to prioritize economic affordability issues.\n\n💬 Should new members of Congress prioritize economic affordability over partisan issues?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Congress #HouseOfRepresentatives #7SeasNews",
-   "status": "failed",
-   "tg_message_id": 430,
-   "tg_file_id": "AgACAgUAAxkDAAIBrmr2EF9l_t05_XH4SUNVcjuDD5MHAAIhE2sbFv2wVy9PPY0Dg6sYAQADAgADdwADPQQ",
-   "queued_at": "2026-11-12T19:15:43.805861+00:00",
-   "post_now": true,
-   "auto": true,
-   "attempts": 3
-  },
   "223685c186": {
    "id": "223685c186",
    "headline": "Microsoft reports widespread Outlook outages in United States",
@@ -12917,6 +12848,175 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122103603381548584_1501604835119445"
+  },
+  "e392d5c6de": {
+   "id": "e392d5c6de",
+   "headline": "Trump administration explores nuclear fuel campuses across five states",
+   "summary": "The Trump administration is exploring the creation of Nuclear Lifecycle Innovation Campuses across five states. The project aims to modernize the management of used nuclear fuel through reprocessing and safer disposal alternatives.",
+   "label": "US POLITICS",
+   "hook": "Should the administration move forward with these nuclear fuel innovation campuses?",
+   "key_points": [
+    "Campuses are explored across five states",
+    "Project focuses on used nuclear fuel management",
+    "Plans include reprocessing and safer disposal"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#NuclearEnergy",
+    "#USPolitics",
+    "#Environment"
+   ],
+   "sources": [
+    "The Hill",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/americas/us-politics/house-democrats-trump-impeachment-fears-b3085893.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/us-politics/house-democrats-trump-impeachment-fears-b3085893.html"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/opinion/energy-environment/6221661-fear-fantasy-and-used-nuclear-fuel/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Figure_1_Examples_of_Nuclear_Waste_Storage_Systems_at_DOE_Sites_%285693475989%29.jpg/1920px-Figure_1_Examples_of_Nuclear_Waste_Storage_Systems_at_DOE_Sites_%285693475989%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Government Accountability Office from Washington, DC, U / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ],
+    "inset": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Donald_Trump_takes_the_oath_of_office_%282025%29.jpg/1280px-Donald_Trump_takes_the_oath_of_office_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credit": "Joint Congressional Committee on Inaugural Ceremonies / Wikimedia Commons (Public domain)",
+     "short": "WIKIMEDIA COMMONS"
+    }
+   },
+   "img_post": {
+    "headline": "Trump administration explores nuclear fuel campuses across five states",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "nuclear power plant",
+    "image_queries": [
+     "nuclear waste storage",
+     "cooling towers",
+     "nuclear facility",
+     "energy department building"
+    ],
+    "image_style": "scene",
+    "location": "US",
+    "nearby_city": "Washington, DC",
+    "event_query": "nuclear fuel management plan",
+    "news_time": null,
+    "label": "US POLITICS"
+   },
+   "created_at": "2026-11-16T19:16:07.204158+00:00",
+   "news_time": "2026-11-16T17:30:00+00:00",
+   "news_latest": "2026-11-16T19:10:40+00:00",
+   "caption": "Trump administration explores nuclear fuel campuses across five states\n\nThe Trump administration is exploring the creation of Nuclear Lifecycle Innovation Campuses across five states. The project aims to modernize the management of used nuclear fuel through reprocessing and safer disposal alternatives.\n\n💬 Should the administration move forward with these nuclear fuel innovation campuses?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#NuclearEnergy #USPolitics #Environment #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 662,
+   "tg_file_id": "AgACAgUAAxkDAAIClmr7Vnn2u_FiQtGnq_uT9kLZpG3kAAIzE2sbg6zgV-DSqGtKvaSDAQADAgADdwADPQQ",
+   "queued_at": "2026-11-16T19:16:09.459777+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-16T19:16:09.459806+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122103643497548584",
+   "posted_at": "2026-11-16T19:16:46.699197+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 16 · 2:17 PM New York · 12:47 AM Sri Lanka\n\n<b>Trump administration explores nuclear fuel campuses across five states</b>\n<i>The Hill, The Independent</i>\n🟢 <b>Latest:</b> 12:40 AM Sri Lanka (6 min ago) · first reported 11:00 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122103643497548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 437,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122103643497548584_1030973760056844"
+  },
+  "b3e14c34d6": {
+   "id": "b3e14c34d6",
+   "headline": "White House issues memorandum on agency testimony before Congress",
+   "summary": "The White House issued a memorandum requiring federal agencies to get approval before employees testify before Congress. President Donald Trump also denied responsibility for an FAA ground stop and addressed White House renovations.",
+   "label": "US POLITICS",
+   "hook": "Should federal agencies require White House approval before testifying before Congress?",
+   "key_points": [
+    "The directive was sent in a one-page memo to agency general counsels.",
+    "The administration tightened control over responses to Democratic investigations.",
+    "Republicans lost both chambers in the midterm elections."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#WhiteHouse",
+    "#Congress"
+   ],
+   "sources": [
+    "Fox News",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/news/white-house/4804846/white-house-tightens-grip-agency-testimony-ahead-of-democratic-investigations/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/white-house/4804846/white-house-tightens-grip-agency-testimony-ahead-of-democratic-investigations/"
+    ],
+    [
+     "Fox News",
+     "https://www.foxnews.com/politics/trump-tangles-reporter-beautifying-white-house-youre-so-pathetic"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Capitol_at_Dusk.JPG/1920px-Capitol_at_Dusk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Martin Falbisoner / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "White House issues memorandum on agency testimony before Congress",
+    "people": [],
+    "image_query": "White House",
+    "image_queries": [
+     "US Capitol building",
+     "Senate chamber",
+     "House of Representatives chamber",
+     "Capitol Hill"
+    ],
+    "image_style": "scene",
+    "location": "Washington, D.C., US",
+    "nearby_city": "Washington, D.C.",
+    "event_query": "White House press conference",
+    "news_time": null,
+    "label": "US POLITICS"
+   },
+   "created_at": "2026-11-16T19:16:13.320563+00:00",
+   "news_time": "2026-11-16T14:46:13+00:00",
+   "news_latest": "2026-11-16T19:13:06+00:00",
+   "caption": "White House issues memorandum on agency testimony before Congress\n\nThe White House issued a memorandum requiring federal agencies to get approval before employees testify before Congress. President Donald Trump also denied responsibility for an FAA ground stop and addressed White House renovations.\n\n💬 Should federal agencies require White House approval before testifying before Congress?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #WhiteHouse #Congress #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 663,
+   "tg_file_id": "AgACAgUAAxkDAAICl2r7Vp6U2PhGARlRWtaYRD9I4AevAAI0E2sbg6zgV7eXV5kvNMj8AQADAgADdwADPQQ",
+   "queued_at": "2026-11-16T19:16:46.403836+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-16T19:16:46.403863+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122103643779548584",
+   "posted_at": "2026-11-16T19:16:46.699197+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 16 · 2:17 PM New York · 12:47 AM Sri Lanka\n\n<b>White House issues memorandum on agency testimony before Congress</b>\n<i>Fox News, Washington Examiner</i>\n🟢 <b>Latest:</b> 12:43 AM Sri Lanka (4 min ago) · first reported 8:16 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122103643779548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 438,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122103643779548584_1143534104707602"
   }
  },
  "seen_links": [
@@ -14074,64 +14174,13 @@
   "https://www.france24.com/en/video/20261116-robert-pattinson-named-as-new-james-bond",
   "https://thehill.com/blogs/in-the-know/6222851-robert-pattinson-james-bond/",
   "https://www.foxnews.com/politics/senate-dem-challenging-sen-chuck-schumer-leadership-post-backs-hakeem-jeffries-house-speaker",
-  "https://thehill.com/opinion/congress-blog/6221572-democrats-need-new-leadership/"
+  "https://thehill.com/opinion/congress-blog/6221572-democrats-need-new-leadership/",
+  "https://www.independent.co.uk/news/world/americas/us-politics/house-democrats-trump-impeachment-fears-b3085893.html",
+  "https://thehill.com/opinion/energy-environment/6221661-fear-fantasy-and-used-nuclear-fuel/",
+  "https://www.washingtonexaminer.com/news/white-house/4804846/white-house-tightens-grip-agency-testimony-ahead-of-democratic-investigations/",
+  "https://www.foxnews.com/politics/trump-tangles-reporter-beautifying-white-house-youre-so-pathetic"
  ],
  "recent_topics": [
-  [
-   "2026-11-13T19:16:15.436193+00:00",
-   [
-    "access",
-    "asylum",
-    "ban",
-    "border",
-    "cas",
-    "court",
-    "decid",
-    "legal",
-    "restriction",
-    "rul",
-    "suprem",
-    "tak",
-    "trump"
-   ],
-   "6ddb761bdf"
-  ],
-  [
-   "2026-11-13T19:16:18.808280+00:00",
-   [
-    "corruption",
-    "daz",
-    "defeat",
-    "election",
-    "grappl",
-    "iran",
-    "midterm",
-    "penc",
-    "reckon",
-    "republican",
-    "result",
-    "rout",
-    "tariff",
-    "went",
-    "wrong"
-   ],
-   "161bac5f8e"
-  ],
-  [
-   "2026-11-13T19:16:54.762313+00:00",
-   [
-    "gam",
-    "iran",
-    "keep",
-    "now",
-    "signal",
-    "strategy",
-    "thing",
-    "trump",
-    "wait"
-   ],
-   "92fe297395"
-  ],
   [
    "2026-11-13T20:15:51.007585+00:00",
    [
@@ -16065,19 +16114,57 @@
     "whatever"
    ],
    "dcff3fbe38"
+  ],
+  [
+   "2026-11-16T19:16:09.457177+00:00",
+   [
+    "backfir",
+    "bas",
+    "democrat",
+    "fantasy",
+    "fear",
+    "fuel",
+    "giv",
+    "him",
+    "impeach",
+    "job",
+    "nuclear",
+    "rush",
+    "someth",
+    "trump",
+    "used"
+   ],
+   "e392d5c6de"
+  ],
+  [
+   "2026-11-16T19:16:46.401151+00:00",
+   [
+    "agency",
+    "ahead",
+    "beautify",
+    "democratic",
+    "grip",
+    "hous",
+    "investigation",
+    "pathetic",
+    "reporter",
+    "tangl",
+    "testimony",
+    "tighten",
+    "trump",
+    "whit",
+    "your"
+   ],
+   "b3e14c34d6"
   ]
  ],
- "last_draft_at": "2026-11-16T19:00:55.814510+00:00",
+ "last_draft_at": "2026-11-16T19:15:44.423081+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-16T18:31:30.312240+00:00",
  "run_log": [
-  "11-16 16:46:19 run start",
-  "11-16 16:46:20 listening 11 min",
-  "11-16 16:58:05 listening done",
-  "11-16 16:58:05 run end after 706 s",
   "11-16 17:00:59 run start",
   "11-16 17:03:41 listening 9 min",
   "11-16 17:14:00 listening done",
@@ -16113,14 +16200,15 @@
   "11-16 19:00:55 run start",
   "11-16 19:02:37 listening 10 min",
   "11-16 19:12:40 listening done",
-  "11-16 19:12:40 run end after 704 s"
+  "11-16 19:12:40 run end after 704 s",
+  "11-16 19:15:44 run start",
+  "11-16 19:17:53 listening 9 min",
+  "11-16 19:27:31 listening done",
+  "11-16 19:27:31 run end after 706 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Library_of_the_Supreme_Court_of_the_United_States%2C_Washington%2C_D.C._-_August%2C_2015.jpg/1920px-Library_of_the_Supreme_Court_of_the_United_States%2C_Washington%2C_D.C._-_August%2C_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Red_Deer%2C_Alberta_%2810%29_%2826310093276%29.jpg/1920px-Red_Deer%2C_Alberta_%2810%29_%2826310093276%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/7/7d/Mugshot_miguel_%C3%A1ngel_f%C3%A9lix_gallardo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Cropped_portrait_of_Helen_Haines_%E2%80%94_June_2022.jpg/1280px-Cropped_portrait_of_Helen_Haines_%E2%80%94_June_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Streets_of_Prague_6.jpg/1920px-Streets_of_Prague_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/5/54/Petrovskaya_Tower_of_Moscow_Kremlin.jpg",
@@ -16157,7 +16245,10 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Park_of_Odesa_Filatov_Research_Institute.JPG/1920px-Park_of_Odesa_Filatov_Research_Institute.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/US-Bangla_Airlines_Aircraft_at_Domestic_Terminal_of_Airport_Dhaka.jpg/1920px-US-Bangla_Airlines_Aircraft_at_Domestic_Terminal_of_Airport_Dhaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Kim_Jong-un_%282023-09-13%29_%28cropped%29.jpg/1280px-Kim_Jong-un_%282023-09-13%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Christmas_at_Chatham_2019_event._Exterior_of_house_overlooking_Fredericksburg_%28444cc3fb-813c-4140-ad72-d36030e2e174%29.jpg/1920px-Christmas_at_Chatham_2019_event._Exterior_of_house_overlooking_Fredericksburg_%28444cc3fb-813c-4140-ad72-d36030e2e174%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Christmas_at_Chatham_2019_event._Exterior_of_house_overlooking_Fredericksburg_%28444cc3fb-813c-4140-ad72-d36030e2e174%29.jpg/1920px-Christmas_at_Chatham_2019_event._Exterior_of_house_overlooking_Fredericksburg_%28444cc3fb-813c-4140-ad72-d36030e2e174%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Figure_1_Examples_of_Nuclear_Waste_Storage_Systems_at_DOE_Sites_%285693475989%29.jpg/1920px-Figure_1_Examples_of_Nuclear_Waste_Storage_Systems_at_DOE_Sites_%285693475989%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Donald_Trump_takes_the_oath_of_office_%282025%29.jpg/1280px-Donald_Trump_takes_the_oath_of_office_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Capitol_at_Dusk.JPG/1920px-Capitol_at_Dusk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "john cornyn": {
@@ -19360,8 +19451,6 @@
    }
   },
   "recent_ideas": [
-   "san ysidro port of entry",
-   "shenzhen skyline",
    "early voting, united states",
    "senate chamber",
    "beijing skyline",
@@ -19371,7 +19460,9 @@
    "i voted sticker",
    "odesa",
    "us airport terminal",
-   "chatham house exterior"
+   "chatham house exterior",
+   "nuclear waste storage",
+   "us capitol building"
   ]
  },
  "comment_perm_told": true,
@@ -19380,10 +19471,10 @@
   "2026-11-13": 34,
   "2026-11-14": 18,
   "2026-11-15": 19,
-  "2026-11-16": 20
+  "2026-11-16": 22
  },
- "last_auto_at": "2026-11-16T18:33:50.181145+00:00",
- "last_post_at": "2026-11-16T18:34:14.418501+00:00",
+ "last_auto_at": "2026-11-16T19:16:46.699197+00:00",
+ "last_post_at": "2026-11-16T19:17:43.844569+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
