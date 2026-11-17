@@ -1,80 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "443c703f0f": {
-   "id": "443c703f0f",
-   "headline": "Microsoft says network capacity upgrade causes global outage",
-   "summary": "Microsoft reports that a network capacity upgrade caused a global outage affecting Outlook, Teams, and Copilot. Workers worldwide experienced disruptions and some found humour in the situation. Microsoft apologized for the technical failure.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "Microsoft denies the outage was caused by a cyberattack.",
-    "The issue disrupted businesses across the world.",
-    "The company is still working on resolving the problem."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Microsoft",
-    "#Technology",
-    "#WorldNews"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "BBC",
-    "NBC News"
-   ],
-   "link": "https://www.nbcnews.com/now/video/microsoft-says-major-outage-was-due-to-a-network-capacity-upgrade-273461829847",
-   "links": [
-    [
-     "NBC News",
-     "https://www.nbcnews.com/now/video/microsoft-says-major-outage-was-due-to-a-network-capacity-upgrade-273461829847"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/video/newsfeed/2026/11/13/no-emails-no-problem-workers-joke-about-microsoft-outage?traffic_source=rss"
-    ],
-    [
-     "BBC",
-     "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Computer_Screen_with_software_error_at_Gate_11_%28SCL%29.jpg/1920px-Computer_Screen_with_software_error_at_Gate_11_%28SCL%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Lklundin / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Microsoft says network capacity upgrade causes global outage",
-    "people": [],
-    "image_query": "Microsoft office building",
-    "image_queries": [
-     "computer servers",
-     "office workers computers",
-     "software error screen",
-     "tech company headquarters"
-    ],
-    "image_style": "scene",
-    "location": "",
-    "nearby_city": "",
-    "event_query": "global Microsoft tech outage",
-    "news_time": null,
-    "label": "WORLD"
-   },
-   "created_at": "2026-11-13T21:02:05.234745+00:00",
-   "news_time": "2026-11-13T17:38:19+00:00",
-   "news_latest": "2026-11-13T19:01:03+00:00",
-   "caption": "Microsoft says network capacity upgrade causes global outage\n\nMicrosoft reports that a network capacity upgrade caused a global outage affecting Outlook, Teams, and Copilot. Workers worldwide experienced disruptions and some found humour in the situation. Microsoft apologized for the technical failure.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Microsoft #Technology #WorldNews #7SeasNews",
-   "status": "expired",
-   "tg_message_id": 513,
-   "tg_file_id": "AgACAgUAAxkDAAICAWr3et0YSAYAAZPazucGZA00KZ8SLAACORZrGxb9uFf-PdUwPRqubQEAAwIAA3cAAz0E",
-   "extra_msgs": [],
-   "cleared": true
-  },
   "9c247e0875": {
    "id": "9c247e0875",
    "headline": "Federal Aviation Administration orders nationwide ground stop on flights",
@@ -13243,7 +13169,9 @@
   "https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting?traffic_source=rss",
   "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
   "https://www.washingtonexaminer.com/news/white-house/4806333/karoline-leavitt-white-house-calm-outages/",
-  "https://www.independent.co.uk/news/world/americas/us-politics/trump-white-house-renovation-projects-latest-b3086517.html"
+  "https://www.independent.co.uk/news/world/americas/us-politics/trump-white-house-renovation-projects-latest-b3086517.html",
+  "https://www.aljazeera.com/economy/2026/11/17/kalshi-halts-trump-speech-bets-after-cftc-order?traffic_source=rss",
+  "https://thehill.com/policy/technology/6225878-kalshi-halts-mention-markets-donald-trump/"
  ],
  "recent_topics": [
   [
@@ -15788,17 +15716,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-17T20:46:44.899406+00:00",
+ "last_draft_at": "2026-11-17T21:00:59.051152+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-17T20:45:39.855616+00:00",
  "run_log": [
-  "11-17 18:30:43 run start",
-  "11-17 18:31:03 listening 11 min",
-  "11-17 18:42:24 listening done",
-  "11-17 18:42:24 run end after 701 s",
   "11-17 18:45:36 run start",
   "11-17 18:48:27 listening 9 min",
   "11-17 18:57:15 listening done",
@@ -15834,7 +15758,11 @@
   "11-17 20:45:39 run start",
   "11-17 20:48:07 listening 9 min",
   "11-17 20:57:21 listening done",
-  "11-17 20:57:21 run end after 701 s"
+  "11-17 20:57:21 run end after 701 s",
+  "11-17 21:00:58 run start",
+  "11-17 21:01:20 listening 11 min",
+  "11-17 21:12:40 listening done",
+  "11-17 21:12:40 run end after 701 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
