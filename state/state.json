@@ -1,97 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "0787c3f68b": {
-   "id": "0787c3f68b",
-   "headline": "Microsoft reports continued recovery from major global service outage",
-   "summary": "A global Microsoft outage disrupted services including Outlook, Teams, and Copilot for workplaces, schools, and government agencies. Microsoft stated that malicious activity was not involved and reported making progress toward restoring functionality.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "Services affected include Outlook and Teams",
-    "Microsoft reports no signs of a cyberattack",
-    "Users faced disruptions for several hours"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Microsoft",
-    "#TechNews",
-    "#WorldNews"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "CBS News",
-    "France 24",
-    "NBC News",
-    "UPI"
-   ],
-   "link": "https://www.cbsnews.com/news/microsoft-battling-major-outage/",
-   "links": [
-    [
-     "CBS News",
-     "https://www.cbsnews.com/news/microsoft-battling-major-outage/"
-    ],
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/World-News/2026/11/13/Microsoft-outage-continues/3861794562725/"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-microsoft-global-outage?traffic_source=rss"
-    ],
-    [
-     "NBC News",
-     "https://www.today.com/video/global-microsoft-outage-enters-its-2nd-day-how-long-will-it-last-273437765987"
-    ]
-   ],
-   "bg": {
-    "type": "brand",
-    "photos": []
-   },
-   "img_post": {
-    "headline": "Microsoft reports continued recovery from major global service outage",
-    "people": [],
-    "image_query": "Microsoft corporate headquarters",
-    "image_queries": [
-     "computer screen showing error",
-     "office workers using computers",
-     "server room hardware",
-     "Microsoft logo sign"
-    ],
-    "image_style": "scene",
-    "location": "",
-    "nearby_city": "",
-    "event_query": "Global Microsoft service outage",
-    "news_time": null,
-    "label": "WORLD"
-   },
-   "created_at": "2026-11-13T16:31:40.178264+00:00",
-   "news_time": "2026-11-13T10:53:41+00:00",
-   "news_latest": "2026-11-13T15:48:09+00:00",
-   "caption": "Microsoft reports continued recovery from major global service outage\n\nA global Microsoft outage disrupted services including Outlook, Teams, and Copilot for workplaces, schools, and government agencies. Microsoft stated that malicious activity was not involved and reported making progress toward restoring functionality.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Microsoft #TechNews #WorldNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 491,
-   "tg_file_id": "AgACAgUAAxkDAAIB62r3O20S1nN-_ij2Ql8KLzPpDofmAALxFWsbFv24V8Etn6scJVrEAQADAgADdwADPQQ",
-   "extra_msgs": [],
-   "queued_at": "2026-11-13T18:02:06.735422+00:00",
-   "post_now": true,
-   "post_at": "2026-11-13T18:02:06.735435+00:00",
-   "post_label": "🚀 Posting now",
-   "fb_post_id": "1413030521900096_122100572793548584",
-   "posted_at": "2026-11-13T18:02:07.040266+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 13 · 1:02 PM New York · 11:32 PM Sri Lanka\n\n<b>Microsoft reports continued recovery from major global service outage</b>\n<i>Al Jazeera, CBS News, France 24, NBC News, UPI</i>\n🟡 <b>Latest:</b> 9:18 PM Sri Lanka (2h 14m ago) · first reported 4:23 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122100572793548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 317,
-   "log_photo": true,
-   "cleared": true,
-   "fb_comment_id": "122100572793548584_1525581176063465",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-16T17:30:43.708345+00:00"
-  },
   "1b086bb8d9": {
    "id": "1b086bb8d9",
    "headline": "Donald Trump defends midterm losses during interview with Stephen A Smith",
@@ -3932,7 +3841,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "5be441503d": {
    "id": "5be441503d",
@@ -4021,7 +3930,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "3fd0b8f781": {
    "id": "3fd0b8f781",
@@ -4116,7 +4025,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "03eb88a9ba": {
    "id": "03eb88a9ba",
@@ -4219,7 +4128,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "adc7c44a21": {
    "id": "adc7c44a21",
@@ -4310,7 +4219,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "8ded58a7f4": {
    "id": "8ded58a7f4",
@@ -4465,7 +4374,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "a34f168e06": {
    "id": "a34f168e06",
@@ -4551,7 +4460,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "25b47eac9f": {
    "id": "25b47eac9f",
@@ -4715,7 +4624,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "8ac95fcee5": {
    "id": "8ac95fcee5",
@@ -4954,7 +4863,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "a499e979fc": {
    "id": "a499e979fc",
@@ -5041,7 +4950,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "ec22847783": {
    "id": "ec22847783",
@@ -5130,7 +5039,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "cf4a7f9609": {
    "id": "cf4a7f9609",
@@ -5220,7 +5129,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "0cc39d0390": {
    "id": "0cc39d0390",
@@ -5317,7 +5226,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "25dbc9e8bc": {
    "id": "25dbc9e8bc",
@@ -5408,7 +5317,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "34add3e14f": {
    "id": "34add3e14f",
@@ -5502,7 +5411,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "ed001dc001": {
    "id": "ed001dc001",
@@ -5586,7 +5495,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "3c65072ae9": {
    "id": "3c65072ae9",
@@ -5672,7 +5581,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "3a3e4b6bc2": {
    "id": "3a3e4b6bc2",
@@ -5761,7 +5670,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "0b57dc62c4": {
    "id": "0b57dc62c4",
@@ -5936,7 +5845,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "31ae6bbb8e": {
    "id": "31ae6bbb8e",
@@ -6025,7 +5934,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "2b743f026f": {
    "id": "2b743f026f",
@@ -6108,7 +6017,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "09f8cf7a0f": {
    "id": "09f8cf7a0f",
@@ -6203,7 +6112,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "4457075b0a": {
    "id": "4457075b0a",
@@ -6292,7 +6201,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "585f28a769": {
    "id": "585f28a769",
@@ -6384,7 +6293,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "c3586948d6": {
    "id": "c3586948d6",
@@ -6473,7 +6382,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "849f5726c4": {
    "id": "849f5726c4",
@@ -6561,7 +6470,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "37af219a26": {
    "id": "37af219a26",
@@ -6653,7 +6562,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "356a3b4606": {
    "id": "356a3b4606",
@@ -6740,7 +6649,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "d5b59389d4": {
    "id": "d5b59389d4",
@@ -6828,7 +6737,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "735bc3150e": {
    "id": "735bc3150e",
@@ -6915,7 +6824,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "9f8483996b": {
    "id": "9f8483996b",
@@ -7002,7 +6911,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "17e4ee8ba1": {
    "id": "17e4ee8ba1",
@@ -7088,7 +6997,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "86a4e525de": {
    "id": "86a4e525de",
@@ -7187,7 +7096,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "6050451047": {
    "id": "6050451047",
@@ -7275,7 +7184,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "4f2e859acf": {
    "id": "4f2e859acf",
@@ -7371,7 +7280,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "47a181927c": {
    "id": "47a181927c",
@@ -7687,7 +7596,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "d76ba2cdf6": {
    "id": "d76ba2cdf6",
@@ -7776,7 +7685,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "a21739bb6e": {
    "id": "a21739bb6e",
@@ -7866,7 +7775,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "fa56287cab": {
    "id": "fa56287cab",
@@ -7954,7 +7863,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "371b0757f1": {
    "id": "371b0757f1",
@@ -8042,7 +7951,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "8d5a143784": {
    "id": "8d5a143784",
@@ -8135,7 +8044,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "108f1162b4": {
    "id": "108f1162b4",
@@ -8231,7 +8140,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "b6316acb5c": {
    "id": "b6316acb5c",
@@ -8327,7 +8236,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "096f00872a": {
    "id": "096f00872a",
@@ -8421,7 +8330,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "f3b5c143f4": {
    "id": "f3b5c143f4",
@@ -8515,7 +8424,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "be3b453136": {
    "id": "be3b453136",
@@ -8687,7 +8596,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "242d1c5c88": {
    "id": "242d1c5c88",
@@ -8774,7 +8683,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "9012ea9cee": {
    "id": "9012ea9cee",
@@ -8861,7 +8770,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "f78254b9b3": {
    "id": "f78254b9b3",
@@ -8947,7 +8856,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "d7de5c46f1": {
    "id": "d7de5c46f1",
@@ -9033,7 +8942,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "789464eb26": {
    "id": "789464eb26",
@@ -9135,7 +9044,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "1af2f2874d": {
    "id": "1af2f2874d",
@@ -9224,7 +9133,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "6b6f4d2ec9": {
    "id": "6b6f4d2ec9",
@@ -9310,7 +9219,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "df672909a2": {
    "id": "df672909a2",
@@ -9410,7 +9319,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "3e8f4b649f": {
    "id": "3e8f4b649f",
@@ -9502,7 +9411,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "47b9ab7870": {
    "id": "47b9ab7870",
@@ -9591,7 +9500,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "dcff3fbe38": {
    "id": "dcff3fbe38",
@@ -9678,7 +9587,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "e392d5c6de": {
    "id": "e392d5c6de",
@@ -9772,7 +9681,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "b3e14c34d6": {
    "id": "b3e14c34d6",
@@ -9859,7 +9768,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "0794df5dda": {
    "id": "0794df5dda",
@@ -9958,7 +9867,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "c4170fc727": {
    "id": "c4170fc727",
@@ -10046,7 +9955,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "3e2a4fcd98": {
    "id": "3e2a4fcd98",
@@ -10133,7 +10042,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "e5fa793a18": {
    "id": "e5fa793a18",
@@ -10227,7 +10136,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "005864cce3": {
    "id": "005864cce3",
@@ -10315,7 +10224,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "08ed79d7ae": {
    "id": "08ed79d7ae",
@@ -10404,7 +10313,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "768e34cdff": {
    "id": "768e34cdff",
@@ -10505,7 +10414,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "901e21f714": {
    "id": "901e21f714",
@@ -10594,7 +10503,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "4dd0009e16": {
    "id": "4dd0009e16",
@@ -10685,7 +10594,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "49b016b81c": {
    "id": "49b016b81c",
@@ -10777,7 +10686,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "9efce15ccb": {
    "id": "9efce15ccb",
@@ -10878,7 +10787,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "cfacadb87b": {
    "id": "cfacadb87b",
@@ -10970,7 +10879,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "0970bc76ea": {
    "id": "0970bc76ea",
@@ -11063,7 +10972,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "acd506f96e": {
    "id": "acd506f96e",
@@ -11160,7 +11069,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "68ce77760c": {
    "id": "68ce77760c",
@@ -11252,7 +11161,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "b7fa157ba8": {
    "id": "b7fa157ba8",
@@ -11345,7 +11254,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "ebb2a14e94": {
    "id": "ebb2a14e94",
@@ -11448,7 +11357,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "f2e281de5b": {
    "id": "f2e281de5b",
@@ -11540,7 +11449,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "814979608f": {
    "id": "814979608f",
@@ -11633,7 +11542,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "349863c869": {
    "id": "349863c869",
@@ -11726,7 +11635,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "0ebbd69b97": {
    "id": "0ebbd69b97",
@@ -11820,7 +11729,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "69f16d5ee6": {
    "id": "69f16d5ee6",
@@ -11917,7 +11826,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "ae54e42c45": {
    "id": "ae54e42c45",
@@ -12010,7 +11919,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-17T15:30:53.418612+00:00"
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "f53bf1b32d": {
    "id": "f53bf1b32d",
@@ -12098,7 +12007,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_comment_id": "122104470897548584_1146338877890542"
+   "fb_comment_id": "122104470897548584_1146338877890542",
+   "stats": {
+    "likes": 0,
+    "comments": 1,
+    "shares": 0
+   },
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "64916d6055": {
    "id": "64916d6055",
@@ -12185,7 +12100,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_comment_id": "122104505331548584_1661099442321536"
+   "fb_comment_id": "122104505331548584_1661099442321536",
+   "stats": {
+    "likes": 0,
+    "comments": 1,
+    "shares": 0
+   },
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   },
   "b96a78eea8": {
    "id": "b96a78eea8",
@@ -12272,7 +12193,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_comment_id": "122104506489548584_2394992244600102"
+   "fb_comment_id": "122104506489548584_2394992244600102",
+   "stats": {
+    "likes": 0,
+    "comments": 1,
+    "shares": 0
+   },
+   "stats_at": "2026-11-17T16:30:49.409721+00:00"
   }
  },
  "seen_links": [
@@ -15788,17 +15715,13 @@
    "b96a78eea8"
   ]
  ],
- "last_draft_at": "2026-11-17T16:15:43.777910+00:00",
+ "last_draft_at": "2026-11-17T16:31:25.516918+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-17T15:30:53.418612+00:00",
+ "last_stats_at": "2026-11-17T16:30:49.409721+00:00",
  "run_log": [
-  "11-17 14:00:45 run start",
-  "11-17 14:02:05 listening 10 min",
-  "11-17 14:12:33 listening done",
-  "11-17 14:12:33 run end after 708 s",
   "11-17 14:15:47 run start",
   "11-17 14:20:15 listening 7 min",
   "11-17 14:27:23 listening done",
@@ -15834,7 +15757,11 @@
   "11-17 16:15:43 run start",
   "11-17 16:23:01 listening 4 min",
   "11-17 16:27:13 listening done",
-  "11-17 16:27:13 run end after 690 s"
+  "11-17 16:27:13 run end after 690 s",
+  "11-17 16:30:48 run start",
+  "11-17 16:31:58 listening 10 min",
+  "11-17 16:42:28 listening done",
+  "11-17 16:42:28 run end after 699 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -19637,6 +19564,7 @@
   "yttest:1",
   "roundup_test:2026-11-16b",
   "roundup_real:2026-11-16",
-  "roundup_preview:2026-11-16"
+  "roundup_preview:2026-11-16",
+  "roundup_preview:2026-11-16b"
  ]
 }
