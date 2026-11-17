@@ -1,106 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "05e6c9dbf6": {
-   "id": "05e6c9dbf6",
-   "headline": "James Talarico discusses working with Donald Trump in Denver",
-   "summary": "Sen.-elect James Talarico spoke at a conference in Denver about working with President Donald Trump. Meanwhile, President Trump stated in an interview that he could take military action against Cuba before leaving office.",
-   "label": "US POLITICS",
-   "hook": "Should lawmakers work with President Trump on economic relief and political reform?",
-   "key_points": [
-    "Talarico spoke at the What’s Next conference in Denver.",
-    "Talarico mentioned plaques, portraits, and busts compared to LBJ.",
-    "President Trump discussed getting Cuba done using military force."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#JamesTalarico",
-    "#DonaldTrump"
-   ],
-   "sources": [
-    "NBC News",
-    "The Hill",
-    "The Independent"
-   ],
-   "link": "https://www.independent.co.uk/news/world/americas/us-politics/talarico-trump-democrats-congress-b3084545.html",
-   "links": [
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/us-politics/talarico-trump-democrats-congress-b3084545.html"
-    ],
-    [
-     "The Hill",
-     "https://thehill.com/the-120/6218440-talarico-democrats-trump-bipartisanship/"
-    ],
-    [
-     "NBC News",
-     "https://www.nbcnews.com/politics/white-house/trump-cuba-military-force-rubio-rcna609138"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/James_Talarico_Open_Congress_Austin_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Larry D. Moore / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Daniel Torok / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "James Talarico discusses working with Donald Trump in Denver",
-    "people": [
-     "James Talarico",
-     "Donald Trump"
-    ],
-    "image_query": "US Capitol dome",
-    "image_queries": [
-     "Senate chamber",
-     "Capitol Hill",
-     "White House",
-     "Cuban flag"
-    ],
-    "image_style": "person",
-    "location": "Denver, United States",
-    "nearby_city": "Denver, Colorado",
-    "event_query": "Denver political conference",
-    "news_time": null,
-    "label": "US POLITICS"
-   },
-   "created_at": "2026-11-13T15:01:39.955921+00:00",
-   "news_time": "2026-11-13T14:27:50+00:00",
-   "news_latest": "2026-11-13T14:53:54+00:00",
-   "caption": "James Talarico discusses working with Donald Trump in Denver\n\nSen.-elect James Talarico spoke at a conference in Denver about working with President Donald Trump. Meanwhile, President Trump stated in an interview that he could take military action against Cuba before leaving office.\n\n💬 Should lawmakers work with President Trump on economic relief and political reform?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #JamesTalarico #DonaldTrump #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 487,
-   "tg_file_id": "AgACAgUAAxkDAAIB52r3JmHgBU972Q25fj28NkAJjWH-AAK_FWsbFv24VwABY-mpXVKiYAEAAwIAA3cAAz0E",
-   "extra_msgs": [],
-   "dup_ok": true,
-   "queued_at": "2026-11-13T15:02:37.441535+00:00",
-   "post_now": true,
-   "post_at": "2026-11-13T15:02:37.441553+00:00",
-   "post_label": "🚀 Posting now",
-   "fb_post_id": "1413030521900096_122100443529548584",
-   "posted_at": "2026-11-13T15:02:38.277304+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 13 · 10:02 AM New York · 8:32 PM Sri Lanka\n\n<b>James Talarico discusses working with Donald Trump in Denver</b>\n<i>NBC News, The Hill, The Independent</i>\n🟢 <b>Latest:</b> 8:23 PM Sri Lanka (8 min ago) · first reported 7:57 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122100443529548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 308,
-   "log_photo": true,
-   "cleared": true,
-   "fb_comment_id": "122100443529548584_2827872957644366",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-16T14:31:23.235532+00:00"
-  },
   "01b966c646": {
    "id": "01b966c646",
    "headline": "Democrats discuss potential cooperation during conference in Denver",
@@ -15715,17 +15615,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-17T14:45:38.830124+00:00",
+ "last_draft_at": "2026-11-17T15:01:25.879339+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-17T14:31:11.938142+00:00",
  "run_log": [
-  "11-17 12:30:39 run start",
-  "11-17 12:32:49 listening 9 min",
-  "11-17 12:42:27 listening done",
-  "11-17 12:42:27 run end after 707 s",
   "11-17 12:45:43 run start",
   "11-17 12:50:02 listening 7 min",
   "11-17 12:57:09 listening done",
@@ -15761,7 +15657,11 @@
   "11-17 14:45:38 run start",
   "11-17 14:47:31 listening 10 min",
   "11-17 14:57:10 listening done",
-  "11-17 14:57:10 run end after 692 s"
+  "11-17 14:57:10 run end after 692 s",
+  "11-17 15:01:25 run start",
+  "11-17 15:01:26 listening 11 min",
+  "11-17 15:13:13 listening done",
+  "11-17 15:13:13 run end after 707 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
