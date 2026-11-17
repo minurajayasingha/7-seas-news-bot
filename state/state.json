@@ -13514,26 +13514,12 @@
   "https://www.independent.co.uk/news/uk/politics/uk-ukraine-missiles-russia-winter-b3086602.html",
   "https://kyivindependent.com/uk-pledges-over-1-000-short-range-missiles-for-ukraine-in-240-million-pound-air-defense-package-2/",
   "https://thehill.com/policy/defense/6225047-iran-bahrain-us-base-strikes/",
-  "https://www.foxnews.com/world/bahrain-intercepts-iranian-drones-targeting-us-radar-after-2-month-lull-gulf-strikes"
+  "https://www.foxnews.com/world/bahrain-intercepts-iranian-drones-targeting-us-radar-after-2-month-lull-gulf-strikes",
+  "https://www.cbsnews.com/news/craig-trainor-justice-department-civil-rights-division/",
+  "https://www.aljazeera.com/news/2026/11/17/cair-defends-civil-rights-work-against-trumps-smear?traffic_source=rss",
+  "https://www.nbcnews.com/politics/donald-trump/trump-downplays-bank-email-travel-outages-faa-ground-stop-microsoft-rcna609796"
  ],
  "recent_topics": [
-  [
-   "2026-11-14T17:31:18.544085+00:00",
-   [
-    "cas",
-    "critical",
-    "deal",
-    "divid",
-    "fallout",
-    "huang",
-    "lost",
-    "musk",
-    "nvidia",
-    "washington",
-    "without"
-   ],
-   "3fd0b8f781"
-  ],
   [
    "2026-11-14T18:16:33.847954+00:00",
    [
@@ -15754,19 +15740,38 @@
     "target"
    ],
    "b852e402bf"
+  ],
+  [
+   "2026-11-17T17:25:31.993495+00:00",
+   [
+    "asid",
+    "brush",
+    "cair",
+    "chief",
+    "civil",
+    "concern",
+    "defend",
+    "division",
+    "doj",
+    "group",
+    "lif",
+    "outag",
+    "rais",
+    "right",
+    "smear",
+    "trump",
+    "work"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-17T17:12:31.367593+00:00",
+ "last_draft_at": "2026-11-17T17:24:52.985134+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-17T16:30:49.409721+00:00",
  "run_log": [
-  "11-17 15:01:25 run start",
-  "11-17 15:01:26 listening 11 min",
-  "11-17 15:13:13 listening done",
-  "11-17 15:13:13 run end after 707 s",
   "11-17 15:15:36 run start",
   "11-17 15:15:56 listening 11 min",
   "11-17 15:27:15 listening done",
@@ -15802,7 +15807,11 @@
   "11-17 17:12:31 run start",
   "11-17 17:15:30 listening 9 min",
   "11-17 17:24:18 listening done",
-  "11-17 17:24:18 run end after 707 s"
+  "11-17 17:24:18 run end after 707 s",
+  "11-17 17:24:52 run start",
+  "11-17 17:25:32 listening 11 min",
+  "11-17 17:36:27 listening done",
+  "11-17 17:36:27 run end after 695 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
