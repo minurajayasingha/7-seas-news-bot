@@ -187,22 +187,25 @@ def story_frame(d, day, k, total):
         clean = Image.open(io.BytesIO(M.tg_download(d["tg_file_id"]))).convert("RGB").resize((W, H))
         lay = None
     frame = Image.new("RGB", (RW, RH), BLACK)
-    # top: blurred (r 34), 45 % darker zoom of the photo area (post rows 170–900), feathered into the post
-    area = clean.crop((0, 170, W, 900))
+    # top: blurred (r 34), 45 % darker zoom of the photo area (post rows 170–900), feathered into the post.
+    # Rows 170+ skip the logo; the bottom stops above the label / location tag so no text gets in.
+    bottom = 900 if not lay else max(560, min(900, lay["y"] - 140))
+    area = clean.crop((0, 170, W, bottom))
     top = M.cover(area, RW, POST_Y + FEATHER, 0.5).filter(ImageFilter.GaussianBlur(34))
     top = Image.blend(top, Image.new("RGB", top.size, BLACK), 0.45)
     frame.paste(top, (0, 0))
     strip = clean.crop((0, H - 6, W, H)).resize((1, 1), Image.LANCZOS).getpixel((0, 0))
     frame.paste(Image.new("RGB", (RW, RH - POST_Y - H), strip), (0, POST_Y + H))
     frame.paste(clean, (0, POST_Y), feather_mask())
-    # counter pill "01 / 13" top-right
-    dr = ImageDraw.Draw(frame)
+    # counter pill "01 / 06" top-right: see-through black (~55 %), rounded ends, white text, no border
     pf = M.font("Poppins-Bold.ttf", 34)
-    txt = f"{k:02d} / {total}"
-    tw = dr.textlength(txt, font=pf)
+    txt = f"{k:02d} / {total:02d}"
+    tw = ImageDraw.Draw(frame).textlength(txt, font=pf)
     x1, y1 = RW - 48, 48
-    dr.rounded_rectangle([x1 - tw - 48, y1, x1, y1 + 66], radius=33, fill=(0, 0, 0), outline=(255, 255, 255), width=2)
-    dr.text((x1 - tw - 24, y1 + 12), txt, font=pf, fill=WHITE)
+    pill = Image.new("RGBA", frame.size, (0, 0, 0, 0))
+    ImageDraw.Draw(pill).rounded_rectangle([x1 - tw - 48, y1, x1, y1 + 66], radius=33, fill=(0, 0, 0, 140))
+    frame = Image.alpha_composite(frame.convert("RGBA"), pill).convert("RGB")
+    ImageDraw.Draw(frame).text((x1 - tw - 24, y1 + 12), txt, font=pf, fill=WHITE)
     return frame, lay
 
 
@@ -708,6 +711,34 @@ def yt_test():
                            "deleted": deleted, "parts": []})
 
 
+def design_check(day_s):
+    """Design check only: Part 1 of a day that has a plan → its video, the 1080x1920 cover and the first 3 TikTok
+    slides to the bot chat. Nothing is uploaded and nothing is saved."""
+    state = M.load_state()
+    M.PHOTO_MEM = state.setdefault("photo_memory", {})
+    plan = (state.get("roundup", {}).get(day_s) or {}).get("plan")
+    if not plan:
+        raise RuntimeError(f"no roundup plan for {day_s} in state.json")
+    day = datetime.fromisoformat(day_s).date()
+    ids, drafts, part = plan["ids"], state["drafts"], plan["parts"][0]
+    posts = [drafts[ids[k - 1]] for k in part["stories"] if k - 1 < len(ids) and ids[k - 1] in drafts]
+    cover = make_cover(day, 1, part)
+    video, seconds = make_part_video(day, 1, part, posts, cover)
+    slides = [("01_cover.jpg", jpg(cover))] + [(f"{k:02d}.jpg", M.tg_download(d["tg_file_id"]))
+                                               for k, d in enumerate(posts[:2], 2)]
+    M.tg_text(f"🎨 <b>Design check</b> · Part 1/3 · {esc(part['name'])} · {day:%A, %b} {day.day} · "
+              f"{len(posts)} stories · {seconds:.0f} s (nothing uploaded)")
+    M.tg("sendVideo", chat_id=M.TG_CHAT, supports_streaming="true", width=RW, height=RH, duration=int(seconds),
+         caption="🎬 Part 1 video (1080x1920)",
+         files={"video": (f"7seas_{day_s}_part1.mp4", video, "video/mp4")})
+    M.tg("sendDocument", chat_id=M.TG_CHAT, caption="🖼 1080x1920 cover (full quality)",
+         files={"document": ("part1_cover_9x16.jpg", jpg(tall(cover)), "image/jpeg")})
+    media = [{"type": "document", "media": f"attach://s{k}",
+              "caption": f"TikTok slide {k + 1} (1080x1350)"} for k in range(len(slides))]
+    M.tg("sendMediaGroup", chat_id=M.TG_CHAT, media=media,
+         files={f"s{k}": (name, data, "image/jpeg") for k, (name, data) in enumerate(slides)})
+
+
 def cli():
     ap = argparse.ArgumentParser()
     ap.add_argument("--day", required=True)
@@ -716,10 +747,15 @@ def cli():
     try:
         if a.day == "yttest":
             return yt_test()
+        if a.day.startswith("check"):                  # "check" = yesterday (NY), or "check 2026-11-16"
+            day_s = a.day[5:].strip() or str(M.ny_now().date() - timedelta(days=1))
+            return design_check(day_s[:10])
         run(a.day[:10], a.test)
     except Exception as e:
         traceback.print_exc()
         M.tg_text(f"⚠️ Roundup videos for {a.day} failed: <code>{M.html.escape(str(e))[:500]}</code>")
+        if a.day.startswith("check"):
+            sys.exit(1)
         save_result(a.day[:10], {"built_at": M.now_utc().isoformat(), "error": str(e)[:300], "parts": []})
         sys.exit(1)
 
