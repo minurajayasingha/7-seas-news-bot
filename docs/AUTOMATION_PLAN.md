@@ -98,17 +98,27 @@ Then a live dry run (`DRY_RUN` that renders but doesn't publish) on 10 fresh sto
 ### Daily roundup rules (approved by the owner, keep them exactly)
 - 3 parts per day; names may change with the day's news. Never "TODAY'S" (posts go out the next US morning);
   use the weekday ("Wednesday's top stories") + date. Weekday is computed, never guessed.
-- Cover: label "PART n/3 · PART NAME" → huge "NOV 11" (day number red) → "TOP STORIES" (no count) → hook line with
-  red bar (2 short sentences, wraps to 2 lines) → small "WEDNESDAY · 2026"; globe background, logo top-left, footer
-  "VERIFIED WORLD NEWS · EVERY DAY" + "SWIPE →". 1080×1920 version: cover in the middle, top filled (25,25,27),
-  bottom (8,8,8).
-- Video: post at y=285; above it a blurred (r≈34), 45%-darkened zoom of the photo area (post rows 170–900),
-  feathered over ~120 px; below it the post's bottom colour. Progress line at the very top (y 0–8). Opening cover
-  held 1.3 s with a low boom, then red swipe. Each story: headline typed letter by letter in Poppins Bold at the
-  bot's layout (size 80 → down by 4 until ≤4 lines, wrap 952, line height size×1.2, bottom at y=1238-40 in post
-  coords), red cursor, typing clicks, hold ~2.2 s. Transition: red full-frame swipe with white edge + whoosh.
-  "01 / 13" counter pill top-right. Ending on every part: logo + "FOLLOW FOR MORE" + "VERIFIED WORLD NEWS ·
-  EVERY DAY". Never "Follow for Part 2".
+- Design = the owner's manual package, exactly (bot/roundup.py; only the design, never the timing/posting):
+  - Cover (every part): same branded globe background as the posts, real logo top-left. Top to bottom: label
+    "PART 1/3 · WAR & CONFLICT" → huge "NOV 16" (day number red #CE0000) → "TOP STORIES" (never "TODAY'S", no
+    story count) → hook line with a red bar on its left (2 short sentences from the biggest stories of that part,
+    wraps to 2 lines) → small "SUNDAY · 2026" (weekday computed from the date). Footer "VERIFIED WORLD NEWS ·
+    EVERY DAY" + "SWIPE →". 1080×1920 cover = the 1080×1350 cover in the middle, top filled (25,25,27), bottom
+    (8,8,8), seamless. TikTok cover = the 1080×1350 version.
+  - Video 1080×1920, 30 fps, H.264 + AAC. Opening: 1080×1920 cover held only 1.3 s with a low boom, then red swipe.
+    Each story: post image at y=285; above it a zoom of that story's photo area (post rows 170–900, no logo or text:
+    the crop stops above the label/location tag), blurred (r≈34), 45 % darker, feathered into the sharp post over
+    ~120 px; below it the post's bottom colour. Headline typed letter by letter in Poppins Bold at the bot's post
+    layout (size 80 → down by 4 until ≤4 lines, wrap width 952, line height size×1.2, bottom at y=1238-40 in post
+    coords), red cursor, typing clicks, then hold ~2.2 s. Between stories: red full-frame swipe with a white leading
+    edge + whoosh. Thin red progress line at the very top edge (y 0–8) across the whole video.
+  - Story counter top-right: both numbers always 2 digits ("01 / 06", "05 / 07"), see-through black pill (~55 %
+    opacity, rounded ends), white Poppins Bold, NO border/outline.
+  - Ending on every part: logo + "FOLLOW FOR MORE" + "VERIFIED WORLD NEWS · EVERY DAY". Never "Follow for Part 2"
+    or "next part". Logo = the real 7 Seas News logo (assets/logo.png: 7 mark + "Seas" white + "News" #CE0000).
+  - TikTok slides: all 1080×1350 — cover first, then the full post images (with headline) in story order.
+  - Design check: run roundup.yml by hand with day "check" (yesterday) or "check 2026-11-16" → Part 1 video, the
+    1080×1920 cover and the first 3 TikTok slides go to the bot chat; nothing uploaded or saved.
 - Text: headlines exactly as published, no added claims. Hashtags and tags always lowercase.
   TikTok title ≤90 chars; caption = hook, "Part n/3", "Follow 7 Seas News for more 🔔", a question, hashtags incl.
   #7seasnews #newstok. YouTube title ≤100 chars with date + "(Part n/3) #shorts"; description lists headlines,

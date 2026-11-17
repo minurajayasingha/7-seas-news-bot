@@ -57,6 +57,13 @@ Never South Asia news. Real, verified news only: a story needs 2+ different outl
   private + publishAt, category 25, thumbnail best effort; ROUNDUP_YOUTUBE + YT_* secrets). Each retried once.
   Telegram to the content channel: per part text (title/caption in <code>), sendMediaGroup albums (≥2 per album),
   slides zip; then the 3 mp4s + backup zip (covers + DESCRIPTIONS-AND-TIMES.txt); report to the bot chat.
+- Roundup DESIGN = the owner's manual package exactly (full rules in docs/AUTOMATION_PLAN.md "Daily roundup rules"):
+  cover top→bottom PART n/3 · NAME → huge "NOV 16" (day red) → TOP STORIES (never TODAY'S, no count) → hook with red
+  bar (≤2 lines) → "MONDAY · 2026" (computed); footer VERIFIED WORLD NEWS · EVERY DAY + SWIPE →. Counter pill
+  "01 / 06" (both 2 digits), black ~55 % see-through, rounded, NO border. Top zoom crop stops above label text.
+  End card logo + FOLLOW FOR MORE (never "Part 2"). TikTok slides 1080×1350: cover, then full posts in order.
+  Design check: roundup.yml day "check" / "check YYYY-MM-DD" → design_check(): Part 1 video + 9:16 cover + first 3
+  slides to the bot chat, nothing uploaded/saved.
 - tools/youtube_token.py = one-time local OAuth helper (loopback) → refresh token. README has the owner steps.
 
 ## Secrets (GitHub Actions)## Secrets (GitHub Actions)
