@@ -1,92 +1,6 @@
 {
  "tg_offset": 495893077,
  "drafts": {
-  "071dea6cce": {
-   "id": "071dea6cce",
-   "headline": "Texas and Oklahoma execute two men on Thursday",
-   "summary": "Texas and Oklahoma executed James Pavatt and John Allen Rubio on Thursday. Rubio was convicted of the 2003 killing of three children in Brownsville.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "Texas executed its eighth death row inmate of the year.",
-    "Rubio beheaded three children in 2003."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Texas",
-    "#Oklahoma",
-    "#News"
-   ],
-   "sources": [
-    "Newsweek",
-    "UPI"
-   ],
-   "link": "https://www.upi.com/Top_News/US/2026/11/12/Texas-executes-John-Allen-Rubio/6201794534694/",
-   "links": [
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/US/2026/11/12/Texas-executes-John-Allen-Rubio/6201794534694/"
-    ],
-    [
-     "Newsweek",
-     "https://www.newsweek.com/james-pavatt-john-rubio-executed-12708299"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Prison_Ship_Martyrs_Monument_Exterior.JPG/1920px-Prison_Ship_Martyrs_Monument_Exterior.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Steven Bornholtz / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Texas and Oklahoma execute two men on Thursday",
-    "people": [],
-    "image_query": "Texas State Capitol building",
-    "image_queries": [
-     "prison exterior",
-     "courtroom interior",
-     "Brownsville street view",
-     "Oklahoma State Capitol"
-    ],
-    "image_style": "person",
-    "location": "Texas, US",
-    "nearby_city": "Austin, Texas",
-    "event_query": "Texas execution death row",
-    "news_time": null,
-    "label": "WORLD"
-   },
-   "created_at": "2026-11-13T03:16:12.468603+00:00",
-   "news_time": "2026-11-13T02:44:21+00:00",
-   "news_latest": "2026-11-13T03:13:23+00:00",
-   "caption": "Texas and Oklahoma execute two men on Thursday\n\nTexas and Oklahoma executed James Pavatt and John Allen Rubio on Thursday. Rubio was convicted of the 2003 killing of three children in Brownsville.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Texas #Oklahoma #News #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 457,
-   "tg_file_id": "AgACAgUAAxkDAAIByWr2gP55wFu67N-3kBO12twUvBVYAALGE2sbFv2wV20HU3nNOPfLAQADAgADdwADPQQ",
-   "queued_at": "2026-11-13T03:16:15.002620+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-13T03:16:15.002627+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122099965413548584",
-   "posted_at": "2026-11-13T03:16:15.310489+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 12 · 10:16 PM New York · 8:46 AM Sri Lanka\n\n<b>Texas and Oklahoma execute two men on Thursday</b>\n<i>Newsweek, UPI</i>\n🟢 <b>Latest:</b> 8:43 AM Sri Lanka (2 min ago) · first reported 8:14 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122099965413548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 282,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122099965413548584_1491727442825795",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-16T02:30:43.285095+00:00"
-  },
   "20e5086465": {
    "id": "20e5086465",
    "headline": "Zelensky meets Trump envoys in Dublin following Putin summit",
@@ -15773,17 +15687,13 @@
    "49b016b81c"
   ]
  ],
- "last_draft_at": "2026-11-17T03:01:34.175081+00:00",
+ "last_draft_at": "2026-11-17T03:15:37.742069+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-17T02:31:02.877122+00:00",
  "run_log": [
-  "11-17 00:46:27 run start",
-  "11-17 00:47:27 listening 11 min",
-  "11-17 00:57:55 listening done",
-  "11-17 00:57:55 run end after 688 s",
   "11-17 01:00:51 run start",
   "11-17 01:01:09 listening 11 min",
   "11-17 01:12:30 listening done",
@@ -15819,7 +15729,11 @@
   "11-17 03:01:33 run start",
   "11-17 03:01:37 listening 11 min",
   "11-17 03:12:58 listening done",
-  "11-17 03:12:58 run end after 685 s"
+  "11-17 03:12:58 run end after 685 s",
+  "11-17 03:15:37 run start",
+  "11-17 03:15:47 listening 11 min",
+  "11-17 03:27:05 listening done",
+  "11-17 03:27:05 run end after 688 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
