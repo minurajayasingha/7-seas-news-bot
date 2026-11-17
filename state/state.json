@@ -15682,17 +15682,13 @@
    "f53bf1b32d"
   ]
  ],
- "last_draft_at": "2026-11-17T15:31:33.535922+00:00",
+ "last_draft_at": "2026-11-17T15:45:40.544566+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-17T15:30:53.418612+00:00",
  "run_log": [
-  "11-17 13:15:43 run start",
-  "11-17 13:15:52 listening 11 min",
-  "11-17 13:27:12 listening done",
-  "11-17 13:27:12 run end after 689 s",
   "11-17 13:31:11 run start",
   "11-17 13:34:12 listening 8 min",
   "11-17 13:43:00 listening done",
@@ -15728,7 +15724,11 @@
   "11-17 15:30:53 run start",
   "11-17 15:33:21 listening 9 min",
   "11-17 15:42:34 listening done",
-  "11-17 15:42:34 run end after 701 s"
+  "11-17 15:42:34 run end after 701 s",
+  "11-17 15:45:40 run start",
+  "11-17 15:46:00 listening 11 min",
+  "11-17 15:57:19 listening done",
+  "11-17 15:57:19 run end after 699 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -19482,8 +19482,8 @@
    "msg_id": 698,
    "approved_by": "test",
    "approved_at": "2026-11-17T09:15:54.646085+00:00",
-   "dispatch_at": "2026-11-17T14:15:51.084554+00:00",
-   "dispatch_tries": 1,
+   "dispatch_at": "2026-11-17T15:45:40.544276+00:00",
+   "dispatch_tries": 2,
    "headlines": [
     "Ukraine strikes Crimea bridge as President Zelensky discusses Starshield limits",
     "Ukraine strikes key oil refinery in southern Russia",
