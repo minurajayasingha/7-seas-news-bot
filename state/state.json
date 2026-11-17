@@ -12116,6 +12116,92 @@
     "shares": 0
    },
    "stats_at": "2026-11-17T08:30:35.822271+00:00"
+  },
+  "cfacadb87b": {
+   "id": "cfacadb87b",
+   "headline": "Japan scrambles jets after suspected Russian aircraft airspace violation",
+   "summary": "Japan protested to Moscow after two suspected Russian warplanes temporarily entered Japanese airspace off the southwestern coast. Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.",
+   "label": "WORLD",
+   "hook": "Should Japan take stronger military action against airspace violations?",
+   "key_points": [
+    "Two suspected Russian aircraft entered Japanese airspace.",
+    "The incident occurred off Japan's southwestern coast.",
+    "Taiwan and South Korea also responded to Russian aircraft."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Japan",
+    "#Russia",
+    "#WorldNews"
+   ],
+   "sources": [
+    "ABC News",
+    "BBC"
+   ],
+   "link": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
+   "links": [
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/tokyo-protests-after-suspected-russian-aircraft-violate-japanese-138201049"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Tokyo_Metropolitan_Government_Building_Morning2_cropped.jpg",
+      "credit": "Tokyo_Metropolitan_Government_Building_Morning2.jpg: Wiiii derivative work: 0607crp (talk) / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "Tokyo Metropolitan Government Building"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Japan scrambles jets after suspected Russian aircraft airspace violation",
+    "people": [],
+    "image_query": "Tokyo skyline",
+    "image_queries": [
+     "Japanese military jets",
+     "Tokyo government building",
+     "Russian military aircraft",
+     "South Korea airspace"
+    ],
+    "image_style": "scene",
+    "location": "Tokyo, Japan",
+    "nearby_city": "Tokyo, Japan",
+    "event_query": "Japan airspace incident",
+    "topic_photo": "military jet",
+    "label": "WORLD",
+    "news_time": "2026-11-17T06:57:20+00:00"
+   },
+   "created_at": "2026-11-17T09:03:00.719616+00:00",
+   "news_time": "2026-11-17T06:57:20+00:00",
+   "news_latest": "2026-11-17T07:44:17+00:00",
+   "importance": 7,
+   "caption": "Japan scrambles jets after suspected Russian aircraft airspace violation\n\nJapan protested to Moscow after two suspected Russian warplanes temporarily entered Japanese airspace off the southwestern coast. Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.\n\n💬 Should Japan take stronger military action against airspace violations?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Japan #Russia #WorldNews #7SeasNews",
+   "photo_line": "📷 10/10 Tokyo Metropolitan Government Building",
+   "status": "posted",
+   "tg_message_id": 697,
+   "tg_file_id": "AgACAgUAAxkDAAICuWr8GEY3Y2oI6axIF2cdSCpLtlrnAAJcFmsbguzgV9S4--xi7DmGAQADAgADdwADPQQ",
+   "queued_at": "2026-11-17T09:03:03.082743+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-17T09:03:03.082788+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122104105689548584",
+   "posted_at": "2026-11-17T09:03:03.439494+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 17 · 4:03 AM New York · 2:33 PM Sri Lanka\n\n<b>Japan scrambles jets after suspected Russian aircraft airspace violation</b>\n<i>ABC News, BBC</i>\n🟡 <b>Latest:</b> 1:14 PM Sri Lanka (1h 18m ago) · first reported 12:27 PM\n📷 10/10 Tokyo Metropolitan Government Building\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122104105689548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 450,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122104105689548584_1495216199190165"
   }
  },
  "seen_links": [
@@ -13346,7 +13432,9 @@
   "https://www.euronews.com/2026/11/17/japan-scrambles-jets-after-suspected-russian-planes-enter-airspace-tokyo-says",
   "https://kyivindependent.com/south-korea-scrambles-fighter-jets-after-russian-military-aircraft-enter-air-defense-zone/",
   "https://www.nytimes.com/2026/11/17/world/asia/trump-manila-asean-late.html",
-  "https://www.independent.co.uk/news/world/americas/taiwan-donald-trump-china-xi-jinping-beijing-b3086149.html"
+  "https://www.independent.co.uk/news/world/americas/taiwan-donald-trump-china-xi-jinping-beijing-b3086149.html",
+  "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
+  "https://abcnews.com/International/wireStory/tokyo-protests-after-suspected-russian-aircraft-violate-japanese-138201049"
  ],
  "recent_topics": [
   [
@@ -15379,19 +15467,44 @@
     "trump"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-17T09:03:03.082522+00:00",
+   [
+    "air",
+    "aircraft",
+    "airspac",
+    "alleg",
+    "defens",
+    "enter",
+    "fighter",
+    "incursion",
+    "japan",
+    "japanes",
+    "jet",
+    "korea",
+    "military",
+    "plan",
+    "protest",
+    "russian",
+    "scrambl",
+    "send",
+    "south",
+    "suspect",
+    "tokyo",
+    "violat",
+    "zon"
+   ],
+   "cfacadb87b"
   ]
  ],
- "last_draft_at": "2026-11-17T08:45:51.305368+00:00",
+ "last_draft_at": "2026-11-17T09:01:39.784796+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 10,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-17T08:30:35.822271+00:00",
  "run_log": [
-  "11-17 06:45:30 run start",
-  "11-17 06:46:35 listening 10 min",
-  "11-17 06:57:03 listening done",
-  "11-17 06:57:03 run end after 692 s",
   "11-17 07:00:46 run start",
   "11-17 07:01:22 listening 11 min",
   "11-17 07:12:16 listening done",
@@ -15427,12 +15540,15 @@
   "11-17 08:45:50 run start",
   "11-17 08:46:23 listening 11 min",
   "11-17 08:57:18 listening done",
-  "11-17 08:57:18 run end after 687 s"
+  "11-17 08:57:18 run end after 687 s",
+  "11-17 09:01:39 run start",
+  "11-17 09:03:17 listening 10 min",
+  "11-17 09:13:21 listening done",
+  "11-17 09:13:21 run end after 702 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Pope_Leo_XIV_childhood_home_3.jpg/1280px-Pope_Leo_XIV_childhood_home_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Lumi%C3%A8re_de_G%C3%A9rard_Depardieu.jpg/1280px-Lumi%C3%A8re_de_G%C3%A9rard_Depardieu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Stephen_Miller_%2854361384084%29.jpg/1280px-Stephen_Miller_%2854361384084%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -15471,7 +15587,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Intel_microchip_manufacturing_plant_Hudson_MA.JPG/1920px-Intel_microchip_manufacturing_plant_Hudson_MA.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/9/91/Aerial_view_of_Manila%27s_city_center_area_%28Padre_Burgos_area%29_in_Ermita%2C_Manila.jpg",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/4/4c/Tokyo_Metropolitan_Government_Building_Morning2_cropped.jpg"
   ],
   "pools": {
    "michael abramowitz": {
@@ -18779,7 +18896,6 @@
    }
   },
   "recent_ideas": [
-   "us capitol building",
    "supreme court of the united states",
    "treasury building, washington",
    "riyadh, saudi arabia",
@@ -18790,7 +18906,8 @@
    "thurgood marshall federal judiciary building",
    "california state capitol",
    "port of long beach",
-   "manila city center"
+   "manila city center",
+   "tokyo government building"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -18867,6 +18984,11 @@
     "s": 9,
     "w": "Manila city center aerial view",
     "p": ""
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/4/4c/Tokyo_Metropolitan_Government_Building_Morning2_cropped.jpg|d274fdf4": {
+    "s": 10,
+    "w": "Tokyo Metropolitan Government Building",
+    "p": ""
    }
   }
  },
@@ -18877,10 +18999,10 @@
   "2026-11-14": 18,
   "2026-11-15": 19,
   "2026-11-16": 32,
-  "2026-11-17": 1
+  "2026-11-17": 2
  },
- "last_auto_at": "2026-11-17T06:46:20.435499+00:00",
- "last_post_at": "2026-11-17T06:46:25.762896+00:00",
+ "last_auto_at": "2026-11-17T09:03:03.439494+00:00",
+ "last_post_at": "2026-11-17T09:03:08.911340+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
