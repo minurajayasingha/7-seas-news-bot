@@ -15575,17 +15575,13 @@
    "49b016b81c"
   ]
  ],
- "last_draft_at": "2026-11-17T04:00:46.398677+00:00",
+ "last_draft_at": "2026-11-17T04:21:13.874825+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
- "commands_set": 8,
+ "commands_set": 9,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-17T03:30:47.754905+00:00",
  "run_log": [
-  "11-17 01:46:20 run start",
-  "11-17 01:46:22 listening 11 min",
-  "11-17 01:58:07 listening done",
-  "11-17 01:58:07 run end after 706 s",
   "11-17 02:00:49 run start",
   "11-17 02:00:59 listening 11 min",
   "11-17 02:12:18 listening done",
@@ -15621,7 +15617,11 @@
   "11-17 04:00:46 run start",
   "11-17 04:00:55 listening 11 min",
   "11-17 04:12:14 listening done",
-  "11-17 04:12:14 run end after 688 s"
+  "11-17 04:12:14 run end after 688 s",
+  "11-17 04:15:56 run start",
+  "11-17 04:21:32 listening 6 min",
+  "11-17 04:27:24 listening done",
+  "11-17 04:27:24 run end after 687 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
@@ -18572,7 +18572,7 @@
     ]
    },
    "zohran mamdani": {
-    "t": "2026-11-16T14:46:42.509530+00:00",
+    "t": "2026-11-17T04:17:04.897825+00:00",
     "photos": [
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Zohran_Mamdani_05.25.25_%28b%29_%28cropped%29.jpg/1280px-Zohran_Mamdani_05.25.25_%28b%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -18580,72 +18580,84 @@
       "short": "WIKIMEDIA COMMONS"
      },
      {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Zohran_Mamdani_Congestion_Relief_One-Year_Anniversary.jpg/1280px-Zohran_Mamdani_Congestion_Relief_One-Year_Anniversary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Metropolitan Transportation Authority / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/21.09.26_-_Audi%C3%AAncia_ao_Prefeito_da_Cidade_de_Nova_York%2C_Zohran_Mamdani_-_55542523679.jpg/1280px-21.09.26_-_Audi%C3%AAncia_ao_Prefeito_da_Cidade_de_Nova_York%2C_Zohran_Mamdani_-_55542523679.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Lula Oficial / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Zohran_Mamdani_Congestion_Relief_One-Year_Anniversary_%28cropped%29.jpg/1280px-Zohran_Mamdani_Congestion_Relief_One-Year_Anniversary_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Metropolitan Transportation Authority / Wikimedia Commons (CC BY 4.0)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/21.09.26_-_Audi%C3%AAncia_ao_Prefeito_da_Cidade_de_Nova_York%2C_Zohran_Mamdani_%2855542670684%29.jpg/1280px-21.09.26_-_Audi%C3%AAncia_ao_Prefeito_da_Cidade_de_Nova_York%2C_Zohran_Mamdani_%2855542670684%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Lula Oficial / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/21.09.26_-_Audi%C3%AAncia_ao_Prefeito_da_Cidade_de_Nova_York%2C_Zohran_Mamdani_%2855542670649%29.jpg/1280px-21.09.26_-_Audi%C3%AAncia_ao_Prefeito_da_Cidade_de_Nova_York%2C_Zohran_Mamdani_%2855542670649%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Lula Oficial / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
+      "portrait": true,
+      "only": true
      },
      {
       "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/21.09.26_-_Audi%C3%AAncia_ao_Prefeito_da_Cidade_de_Nova_York%2C_Zohran_Mamdani_-_55541336047_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "credit": "Lula Oficial / Wikimedia Commons (CC BY-SA 4.0)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/21.09.26_-_Audi%C3%AAncia_ao_Prefeito_da_Cidade_de_Nova_York%2C_Zohran_Mamdani_-_55542619373.jpg/1280px-21.09.26_-_Audi%C3%AAncia_ao_Prefeito_da_Cidade_de_Nova_York%2C_Zohran_Mamdani_-_55542619373.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Lula Oficial / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Zohran_Mamdani_at_Caveat_5.25.25_6.jpg/1280px-Zohran_Mamdani_at_Caveat_5.25.25_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Bryan Berlin / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Zohran_Mamdani_05.25.25_%28c%29.jpg/1280px-Zohran_Mamdani_05.25.25_%28c%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Dmitryshein / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/21.09.26_-_Audi%C3%AAncia_ao_Prefeito_da_Cidade_de_Nova_York%2C_Zohran_Mamdani_-_55542474478.jpg/1280px-21.09.26_-_Audi%C3%AAncia_ao_Prefeito_da_Cidade_de_Nova_York%2C_Zohran_Mamdani_-_55542474478.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Lula Oficial / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
+      "portrait": true,
+      "only": true
      },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Zohran_Mamdani_05.25.25_%28rotated_cropped%29.jpg/1280px-Zohran_Mamdani_05.25.25_%28rotated_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Dmitryshein / Wikimedia Commons (CC BY-SA 4.0)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Zohran_Mamdani_at_Caveat_5.25.25_4.jpg/1280px-Zohran_Mamdani_at_Caveat_5.25.25_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Bryan Berlin / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Zohran_Mamdani_at_Caveat_5.25.25_6.jpg/1280px-Zohran_Mamdani_at_Caveat_5.25.25_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Bryan Berlin / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Zohran_Mamdani.jpg/1280px-Zohran_Mamdani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Metropolitan Transportation Authority / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Zohran_Mamdani_05.25.25_%28c%29.jpg/1280px-Zohran_Mamdani_05.25.25_%28c%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Dmitryshein / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Zohran_Mamdani_05.25.25_%28b%29_%28cropped%29_%28cropped%29.jpg/1280px-Zohran_Mamdani_05.25.25_%28b%29_%28cropped%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Dmitryshein / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Zohran_Mamdani_at_Caveat_5.25.25_2.jpg/1280px-Zohran_Mamdani_at_Caveat_5.25.25_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Bryan Berlin / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Zohran_Mamdani_Congestion_Relief_One_Year_Anniversary_%28cropped%29.jpg/1280px-Zohran_Mamdani_Congestion_Relief_One_Year_Anniversary_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Metropolitan Transportation Authority / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Zohran_Mamdani_05.25.25_%28cropped%29_%28cropped%29.jpg/1280px-Zohran_Mamdani_05.25.25_%28cropped%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Dmitryshein / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
      }
-    ]
+    ],
+    "v": 2
    },
    "lindsay clancy": {
     "t": "2026-11-16T15:42:11.581075+00:00",
@@ -18775,7 +18787,7 @@
     ]
    },
    "ro khanna": {
-    "t": "2026-11-16T19:32:04.935566+00:00",
+    "t": "2026-11-17T04:16:35.985248+00:00",
     "photos": [
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Ro_Khanna%2C_official_portrait%2C_115th_Congress_%283x4%29.jpg/1280px-Ro_Khanna%2C_official_portrait%2C_115th_Congress_%283x4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -18786,72 +18798,84 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Ro_khanna_2026-02-20_002.jpg/1280px-Ro_khanna_2026-02-20_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Anderseidesvik / Wikimedia Commons (CC BY-SA 4.0)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Ro_Khanna_talks_about_congregate_care_outside_the_US_Capitol.jpg/1280px-Ro_Khanna_talks_about_congregate_care_outside_the_US_Capitol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Office of Congressman Ro Khanna / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
+      "portrait": true,
+      "only": true
      },
      {
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Ro_Khanna_doing_the_2020_challenge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "credit": "Ro Khanna / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Ro_Khanna_town_hall%2C_Santa_Clara%2C_California_%28February_21%2C_2020%29_01.jpg/1280px-Ro_Khanna_town_hall%2C_Santa_Clara%2C_California_%28February_21%2C_2020%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Ro Khanna / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Ro_khanna_2026-02-21_005.jpg/1280px-Ro_khanna_2026-02-21_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Anderseidesvik / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
+      "portrait": true,
+      "only": true
      },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Ro_khanna_2026-02-20_002_%28cropped%29.jpg/1280px-Ro_khanna_2026-02-20_002_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Anderseidesvik / Wikimedia Commons (CC BY-SA 4.0)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Ro_Khanna_town_hall%2C_Santa_Clara%2C_California_%28February_21%2C_2020%29_03.jpg/1280px-Ro_Khanna_town_hall%2C_Santa_Clara%2C_California_%28February_21%2C_2020%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Ro Khanna / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
+      "portrait": true,
+      "only": true
      },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Ro_Khanna%2C_official_portrait%2C_115th_Congress_%282x3_cropped%29.jpg/1280px-Ro_Khanna%2C_official_portrait%2C_115th_Congress_%282x3_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "U.S. Congress/Eric Connolly / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Ro_Khanna%2C_official_portrait%2C_115th_Congress_%283x4%29_%28cropped%29.jpg/1280px-Ro_Khanna%2C_official_portrait%2C_115th_Congress_%283x4%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "U.S. Congress/Eric Connolly / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
+      "portrait": true,
+      "only": true
      },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Ro_Khanna_completing_2020_US_Census_01.jpg/1280px-Ro_Khanna_completing_2020_US_Census_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Ro Khanna / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Ro_Khanna_at_Duke_November_2025_%28cropped%29.jpg/1280px-Ro_Khanna_at_Duke_November_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "NetwonsBucket / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Ro_Khanna%2C_official_portrait%2C_115th_Congress_%283x4%29_%28cropped%29.jpg/1280px-Ro_Khanna%2C_official_portrait%2C_115th_Congress_%283x4%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Congress/Eric Connolly / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Ro_Khanna%2C_official_portrait%2C_115th_Congress_%28crop%29.jpg/1280px-Ro_Khanna%2C_official_portrait%2C_115th_Congress_%28crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Congress/Eric Connolly / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Ro_Khanna%2C_official_portrait%2C_115th_Congress_%28cropped%29.jpg/1280px-Ro_Khanna%2C_official_portrait%2C_115th_Congress_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Congress/Eric Connolly / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Ro_khanna_2026-02-21_005.jpg/1280px-Ro_khanna_2026-02-21_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Anderseidesvik / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
      },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Ro_Khanna_-_Bernie_Sanders_rally_-_1.jpg/1280px-Ro_Khanna_-_Bernie_Sanders_rally_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Σ / Wikimedia Commons (CC BY-SA 4.0)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": false
+      "portrait": false,
+      "only": true
      }
-    ]
+    ],
+    "v": 2
    },
    "james comer": {
-    "t": "2026-11-17T00:46:56.671972+00:00",
+    "t": "2026-11-17T04:20:29.087335+00:00",
     "photos": [
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/James_Comer_official_photo_%28cropped%29.jpg/1280px-James_Comer_official_photo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -18862,75 +18886,84 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/James_Comer_official_congressional_photo_%28cropped%29.jpg/1280px-James_Comer_official_congressional_photo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "United States Congress / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
+      "portrait": true,
+      "only": true
      },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/James_Comer_official_congressional_photo.jpg/1280px-James_Comer_official_congressional_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "United States Congress / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
+      "portrait": true,
+      "only": true
      },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/2025_James_Comer_%28cropped%29.jpg/1280px-2025_James_Comer_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
+      "portrait": true,
+      "only": true
      },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/James_Comer_official_photo.jpg/1280px-James_Comer_official_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "United States Congress / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
+      "portrait": true,
+      "only": true
      },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/James_Comer_%2854346937894%29%28cropped%29.jpg/1280px-James_Comer_%2854346937894%29%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY 2.0)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/James_Comer_by_Gage_Skidmore.jpg/1280px-James_Comer_by_Gage_Skidmore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Wikimedia user Gage - Gage Skidmore from Peoria, AZ, United  / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
      },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/James_Comer_%2854346937894%29.jpg/1280px-James_Comer_%2854346937894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": false
+      "portrait": false,
+      "only": true
      },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/James_Comer_%288406738416%29.jpg/1280px-James_Comer_%288406738416%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Kentucky National Guard Public Affairs Office / Wikimedia Commons (CC BY 2.0)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/James_Comer_%288406738212%29.jpg/1280px-James_Comer_%288406738212%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Kentucky National Guard Public Affairs Office / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
+      "portrait": false,
+      "only": true
      },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/James_Comer_%2815234169993%29.jpg/1280px-James_Comer_%2815234169993%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": false
+      "portrait": false,
+      "only": true
      },
      {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/James_Comer_%2815666357840%29.jpg/1280px-James_Comer_%2815666357840%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/James_Comer_%288406738212%29.jpg/1280px-James_Comer_%288406738212%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Kentucky National Guard Public Affairs Office / Wikimedia Commons (CC BY 2.0)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": false
+      "portrait": false,
+      "only": true
      },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/James_Comer_%288406738650%29.jpg/1280px-James_Comer_%288406738650%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Kentucky National Guard Public Affairs Office / Wikimedia Commons (CC BY 2.0)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": false
+      "portrait": false,
+      "only": true
      }
-    ]
+    ],
+    "v": 2
    }
   },
   "recent_ideas": [
-   "odesa",
-   "us airport terminal",
-   "chatham house exterior",
    "nuclear waste storage",
    "us capitol building",
    "supreme court of the united states",
@@ -18939,8 +18972,78 @@
    "wall street, new york",
    "prison exterior",
    "voting booth",
-   "microchip manufacturing"
-  ]
+   "microchip manufacturing",
+   "thurgood marshall federal judiciary building",
+   "california state capitol",
+   "port of long beach"
+  ],
+  "checked": {
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "s": 10,
+    "w": "Thurgood Marshall Federal Judiciary Buil",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Ro_khanna_2026-02-20_002_%28cropped%29.jpg/1280px-Ro_khanna_2026-02-20_002_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Ro Khanna": {
+    "s": 10,
+    "w": "Ro Khanna speaking into microphone",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Border_police_car_PD_2011_3646.JPG/1920px-Border_police_car_PD_2011_3646.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "s": 0,
+    "w": "Bulgarian border police car",
+    "p": "photo is about a police car, story is about a cargo ship"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Haskovska_reka%2C_Haskovo_downtown%2C_Bulgaria.jpg/1920px-Haskovska_reka%2C_Haskovo_downtown%2C_Bulgaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "s": 7,
+    "w": "Bulgaria downtown riverbed",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Zohran_Mamdani_Congestion_Relief_One-Year_Anniversary_%28cropped%29.jpg/1280px-Zohran_Mamdani_Congestion_Relief_One-Year_Anniversary_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Zohran Mamdani": {
+    "s": 10,
+    "w": "Zohran Mamdani laughing",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/FBI_Headquarters_-_J._Edgar_Hoover_Building_%2853840035941%29.jpg/1920px-FBI_Headquarters_-_J._Edgar_Hoover_Building_%2853840035941%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "s": 0,
+    "w": "J. Edgar Hoover Building",
+    "p": "Location is in Washington D.C., not California"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/California_State_Capitol_during_blue_hour.jpg/1920px-California_State_Capitol_during_blue_hour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "s": 10,
+    "w": "California State Capitol dome",
+    "p": ""
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/a/af/Boulevard_Riyadh_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "s": 0,
+    "w": "cable car and lit buildings",
+    "p": "location mismatch, shows Qatar not Riyadh"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Incense_souk_in_downtown_Riyadh_%2812754047044%29.jpg/1920px-Incense_souk_in_downtown_Riyadh_%2812754047044%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "s": 7,
+    "w": "street market in Riyadh",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Mile_Rocks_Light_with_Container_ship_Sealand_Balboa_outside_the_Golden_Gate.jpg/1920px-Mile_Rocks_Light_with_Container_ship_Sealand_Balboa_outside_the_Golden_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "s": 0,
+    "w": "container ship",
+    "p": "irrelevant to bank outages"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/The_port_of_Long_Beach_by_Don_Ramey_Logan.jpg/1920px-The_port_of_Long_Beach_by_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "s": 10,
+    "w": "Port of Long Beach",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Central_Marin_Police_Station%2C_250_Doherty_Dr%2C_Larkspur%2C_CA.jpg/1920px-Central_Marin_Police_Station%2C_250_Doherty_Dr%2C_Larkspur%2C_CA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "s": 6,
+    "w": "Central Marin Police Station",
+    "p": "Generic police station stock photo, not related to Epstein"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/James_Comer_official_photo_%28cropped%29.jpg/1280px-James_Comer_official_photo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: James Comer": {
+    "s": 10,
+    "w": "James Comer",
+    "p": ""
+   }
+  }
  },
  "comment_perm_told": true,
  "auto_count": {
@@ -18958,5 +19061,9 @@
   "2026-11-14": 8,
   "2026-11-15": 8,
   "2026-11-16": 10
- }
+ },
+ "roundup": {},
+ "run_once_done": [
+  "phototest:2026-11-17"
+ ]
 }
