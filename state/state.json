@@ -1,102 +1,6 @@
 {
  "tg_offset": 495893081,
  "drafts": {
-  "817601941c": {
-   "id": "817601941c",
-   "headline": "Pope Leo XIV meets clergy abuse survivors in Peru",
-   "summary": "Pope Leo XIV met six clerical abuse survivors in Peru, including individuals linked to the disbanded Sodalitium Christianae Vitae. He also led a youth prayer vigil at Lima's National Stadium.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "The pontiff urged the Church to make amends.",
-    "Thousands gathered at the stadium in Lima.",
-    "Hundreds of survivors say they remain excluded."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#WorldNews",
-    "#PopeLeo",
-    "#Peru"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "Euronews",
-    "France 24"
-   ],
-   "link": "https://www.euronews.com/video/2026/11/13/peru-pope-leo-xiv-leads-youth-prayer-vigil-at-limas-national-stadium",
-   "links": [
-    [
-     "Euronews",
-     "https://www.euronews.com/video/2026/11/13/peru-pope-leo-xiv-leads-youth-prayer-vigil-at-limas-national-stadium"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_pope-leo-meets-clergy-abuse-survivors-in-peru-121126?traffic_source=rss"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/americas/20261113-pope-leo-xiv-meets-abuse-victims-in-peru-says-church-must-make-amends"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Pope_Leo_XIV_3_%283x4_cropped%29_%282%29.jpg/1280px-Pope_Leo_XIV_3_%283x4_cropped%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Edgar Beltrán , The Pillar / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Pope Leo XIV meets clergy abuse survivors in Peru",
-    "people": [
-     "Pope Leo XIV"
-    ],
-    "image_query": "Lima National Stadium",
-    "image_queries": [
-     "Lima National Stadium",
-     "cathedral in Lima",
-     "streets of Lima",
-     "Peru capital skyline"
-    ],
-    "image_style": "person",
-    "location": "Lima, Peru",
-    "nearby_city": "Lima, Peru",
-    "event_query": "Lima prayer vigil Pope",
-    "news_time": null,
-    "label": "WORLD"
-   },
-   "created_at": "2026-11-13T08:43:18.674270+00:00",
-   "news_time": "2026-11-13T02:58:33+00:00",
-   "news_latest": "2026-11-13T08:11:29+00:00",
-   "caption": "Pope Leo XIV meets clergy abuse survivors in Peru\n\nPope Leo XIV met six clerical abuse survivors in Peru, including individuals linked to the disbanded Sodalitium Christianae Vitae. He also led a youth prayer vigil at Lima's National Stadium.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WorldNews #PopeLeo #Peru #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 465,
-   "tg_file_id": "AgACAgUAAxkDAAIB0Wr2zakE6YmTs7-8CRrE4gAB3wtW6gACJBRrGxb9uFcZt4Abfpzl-AEAAwIAA3cAAz0E",
-   "queued_at": "2026-11-13T08:43:21.880505+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-13T08:43:21.880538+00:00",
-   "post_label": "🤖 Auto-posting + Reel",
-   "fb_post_id": "1413030521900096_122100165357548584",
-   "posted_at": "2026-11-13T08:43:22.232482+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 13 · 3:43 AM New York · 2:13 PM Sri Lanka\n\n<b>Pope Leo XIV meets clergy abuse survivors in Peru</b>\n<i>Al Jazeera, Euronews, France 24</i>\n🟢 <b>Latest:</b> 1:41 PM Sri Lanka (32 min ago) · first reported 8:28 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122100165357548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 288,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122100165357548584_2330823414437104",
-   "fb_reel_id": "1607685747350767",
-   "reel_status": "live",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-16T08:30:38.497553+00:00"
-  },
   "cf995999d6": {
    "id": "cf995999d6",
    "headline": "US Congress summons former Nvidia CEO Jensen Huang to testify",
@@ -15477,17 +15381,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-17T08:31:14.080974+00:00",
+ "last_draft_at": "2026-11-17T08:45:51.305368+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 10,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-17T08:30:35.822271+00:00",
  "run_log": [
-  "11-17 06:30:42 run start",
-  "11-17 06:32:07 listening 10 min",
-  "11-17 06:42:10 listening done",
-  "11-17 06:42:10 run end after 688 s",
   "11-17 06:45:30 run start",
   "11-17 06:46:35 listening 10 min",
   "11-17 06:57:03 listening done",
@@ -15523,7 +15423,11 @@
   "11-17 08:30:35 run start",
   "11-17 08:31:45 listening 10 min",
   "11-17 08:42:13 listening done",
-  "11-17 08:42:13 run end after 698 s"
+  "11-17 08:42:13 run end after 698 s",
+  "11-17 08:45:50 run start",
+  "11-17 08:46:23 listening 11 min",
+  "11-17 08:57:18 listening done",
+  "11-17 08:57:18 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
