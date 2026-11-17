@@ -13869,7 +13869,12 @@
   "https://thehill.com/homenews/administration/6223947-trump-reroutes-air-force-one/",
   "https://www.foxnews.com/politics/trumps-asia-trip-takes-alaska-detour-weather-forces-refueling-stop-change",
   "https://www.washingtonexaminer.com/news/campaigns/state/4805073/james-comer-launches-campaign-governor-andy-beshear-kentucky/",
-  "https://www.foxnews.com/politics/james-comer-launches-bid-kentucky-governor"
+  "https://www.foxnews.com/politics/james-comer-launches-bid-kentucky-governor",
+  "https://thehill.com/newsletters/energy-environment/6223994-senate-clears-hurdle-for-bipartisan-permitting-reform-package/",
+  "https://www.washingtonexaminer.com/policy/energy-and-environment/4805403/republicans-transmission-reforms-permitting-bill/",
+  "https://thehill.com/homenews/senate/6223468-senate-advances-baja-permitting-reform/",
+  "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+  "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
  ],
  "recent_topics": [
   [
@@ -15857,17 +15862,13 @@
    "4dd0009e16"
   ]
  ],
- "last_draft_at": "2026-11-17T01:00:51.573874+00:00",
+ "last_draft_at": "2026-11-17T01:18:51.649568+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-17T00:34:18.192856+00:00",
  "run_log": [
-  "11-16 23:00:52 run start",
-  "11-16 23:01:12 listening 11 min",
-  "11-16 23:12:31 listening done",
-  "11-16 23:12:31 run end after 699 s",
   "11-16 23:16:09 run start",
   "11-16 23:16:13 listening 11 min",
   "11-16 23:27:55 listening done",
@@ -15903,13 +15904,15 @@
   "11-17 01:00:51 run start",
   "11-17 01:01:09 listening 11 min",
   "11-17 01:12:30 listening done",
-  "11-17 01:12:30 run end after 699 s"
+  "11-17 01:12:30 run end after 699 s",
+  "11-17 01:15:41 run start",
+  "11-17 01:25:40 listening 2 min",
+  "11-17 01:27:21 listening done",
+  "11-17 01:27:21 run end after 700 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/South_African_Police_car_-_visible_division.JPG/1920px-South_African_Police_car_-_visible_division.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/4/4e/Amman_Skyline_at_Sunset_-_Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/View_of_Pomona_College%27s_Smith_Campus_Center_from_Marston_Quad.jpg/1920px-View_of_Pomona_College%27s_Smith_Campus_Center_from_Marston_Quad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/1/16/San_Ysidro_Port_of_Entry_Plaque.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/TOP_OF_THE_DIWANG_BUILDING_SEE_SHENZHEN_SKYLINE_%2817%29.jpg/1920px-TOP_OF_THE_DIWANG_BUILDING_SEE_SHENZHEN_SKYLINE_%2817%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -15947,7 +15950,9 @@
    "https://upload.wikimedia.org/wikipedia/commons/6/60/Riyadh%2C_Saudi_Arabia._Qa%E1%B9%A3r_al-Badi%27ah%2C_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Wall_Street_-_New_York_Stock_Exchange.jpg/1920px-Wall_Street_-_New_York_Stock_Exchange.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Prison_Ship_Martyrs_Monument_Exterior.JPG/1920px-Prison_Ship_Martyrs_Monument_Exterior.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/James_Comer_official_congressional_photo_%28cropped%29.jpg/1280px-James_Comer_official_congressional_photo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/James_Comer_official_congressional_photo_%28cropped%29.jpg/1280px-James_Comer_official_congressional_photo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Voting_booth_at_the_Madison_Parish_Courthouse.jpg/1920px-Voting_booth_at_the_Madison_Parish_Courthouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "michael abramowitz": {
@@ -19210,7 +19215,6 @@
    }
   },
   "recent_ideas": [
-   "french flag",
    "i voted sticker",
    "odesa",
    "us airport terminal",
@@ -19221,7 +19225,8 @@
    "treasury building, washington",
    "riyadh, saudi arabia",
    "wall street, new york",
-   "prison exterior"
+   "prison exterior",
+   "voting booth"
   ]
  },
  "comment_perm_told": true,
