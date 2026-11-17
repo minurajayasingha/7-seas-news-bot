@@ -1,6 +1,7 @@
 """One-time helper: get the YouTube refresh token for the bot (run it on your own computer, once).
 
-    python3 tools/youtube_token.py
+    python3 tools/youtube_token.py                         (asks for the Client ID + secret)
+    python3 tools/youtube_token.py ~/Downloads/client_secret_….json   (reads them from the downloaded file)
 
 It asks for your OAuth "Client ID" and "Client secret" (Google Cloud → APIs & Services → Credentials →
 your "Desktop app" client), opens Google in your browser, you log in with the account that owns the
@@ -29,8 +30,16 @@ def free_port():
 
 
 def main():
-    cid = input("Client ID: ").strip()
-    csec = input("Client secret: ").strip()
+    import sys
+    if len(sys.argv) > 1:                       # the JSON file downloaded from Google Cloud (Clients → Download JSON)
+        with open(sys.argv[1], encoding="utf-8") as f:
+            j = json.load(f)
+        j = j.get("installed") or j.get("web") or j
+        cid, csec = j["client_id"], j["client_secret"]
+        print("Read the Client ID + secret from", sys.argv[1])
+    else:
+        cid = input("Client ID: ").strip()
+        csec = input("Client secret: ").strip()
     port = free_port()
     redirect = f"http://127.0.0.1:{port}"
     state = secrets.token_urlsafe(16)

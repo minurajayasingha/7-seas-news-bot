@@ -1,2 +1,6 @@
 .DS_Store
 __pycache__/
+
+# Google OAuth files and tokens: never commit
+client_secret*.json
+*token*.json
