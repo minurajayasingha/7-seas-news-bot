@@ -1,92 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "b440bc09d8": {
-   "id": "b440bc09d8",
-   "headline": "China warns United States against fresh export controls",
-   "summary": "China has issued a warning to the United States regarding new export controls on computer chips. The warning follows a scandal involving AI chip giant Nvidia and its former CEO Jensen Huang.",
-   "label": "ECONOMY",
-   "hook": "Will these warnings prevent new export controls on computer chips?",
-   "key_points": [
-    "China warns against additional semiconductor curbs.",
-    "Export controls target AI chips.",
-    "Nvidia and former CEO Jensen Huang involved."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#China",
-    "#US",
-    "#Semiconductors"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "CBS News"
-   ],
-   "link": "https://www.cbsnews.com/news/china-us-export-controls-chips-nvidia-huang-scandal/",
-   "links": [
-    [
-     "CBS News",
-     "https://www.cbsnews.com/news/china-us-export-controls-chips-nvidia-huang-scandal/"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/video/newsfeed/2026/11/13/china-warns-against-fresh-us-chip-curbs?traffic_source=rss"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Beijing_skyline_from_northeast_4th_ring_road.jpg/1920px-Beijing_skyline_from_northeast_4th_ring_road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Picrazy2 / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "China warns United States against fresh export controls",
-    "people": [],
-    "image_query": "Beijing skyline",
-    "image_queries": [
-     "computer chips",
-     "semiconductor factory",
-     "technology circuit board",
-     "AI microchip"
-    ],
-    "image_style": "scene",
-    "location": "China",
-    "nearby_city": "Beijing, China",
-    "event_query": "semiconductor export controls",
-    "news_time": null,
-    "label": "ECONOMY"
-   },
-   "created_at": "2026-11-13T17:12:12.240534+00:00",
-   "news_time": "2026-11-13T13:42:49+00:00",
-   "news_latest": "2026-11-13T16:23:15+00:00",
-   "caption": "China warns United States against fresh export controls\n\nChina has issued a warning to the United States regarding new export controls on computer chips. The warning follows a scandal involving AI chip giant Nvidia and its former CEO Jensen Huang.\n\n💬 Will these warnings prevent new export controls on computer chips?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#China #US #Semiconductors #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 496,
-   "tg_file_id": "AgACAgUAAxkDAAIB8Gr3RPrzkwKztljjarkafgAB8NLwIAACAhZrGxb9uFffqXdhg-F8kAEAAwIAA3cAAz0E",
-   "extra_msgs": [],
-   "queued_at": "2026-11-13T18:01:37.957530+00:00",
-   "post_now": true,
-   "post_at": "2026-11-13T18:01:37.957541+00:00",
-   "post_label": "🚀 Posting now",
-   "fb_post_id": "1413030521900096_122100572421548584",
-   "posted_at": "2026-11-13T18:01:38.266187+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 13 · 1:01 PM New York · 11:31 PM Sri Lanka\n\n<b>China warns United States against fresh export controls</b>\n<i>Al Jazeera, CBS News</i>\n🟡 <b>Latest:</b> 9:53 PM Sri Lanka (1h 38m ago) · first reported 7:12 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122100572421548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 315,
-   "log_photo": true,
-   "cleared": true,
-   "fb_comment_id": "122100572421548584_1680183416846391",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-16T17:30:43.708345+00:00"
-  },
   "288e8142aa": {
    "id": "288e8142aa",
    "headline": "Mary Peltola leads Dan Sullivan in uncalled Alaska Senate race",
@@ -12117,6 +12031,181 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122104540947548584_1456597960009084"
+  },
+  "be90c4546d": {
+   "id": "be90c4546d",
+   "headline": "UK pledges over one thousand short-range missiles for Ukraine",
+   "summary": "The United Kingdom announces it will send over 1,000 short-range missiles to Ukraine. The funding is part of a 500 million pound military package announced in the government's budget.",
+   "label": "CONFLICT",
+   "hook": "Will these new air defense supplies help protect Ukraine through the winter?",
+   "key_points": [
+    "Support aims to address urgent air defense gaps.",
+    "Package announced in the UK government budget."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#UK",
+    "#Ukraine",
+    "#MilitaryAid"
+   ],
+   "sources": [
+    "Kyiv Independent",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/uk/politics/uk-ukraine-missiles-russia-winter-b3086602.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/uk/politics/uk-ukraine-missiles-russia-winter-b3086602.html"
+    ],
+    [
+     "Kyiv Independent",
+     "https://kyivindependent.com/uk-pledges-over-1-000-short-range-missiles-for-ukraine-in-240-million-pound-air-defense-package-2/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Antelope_Air_Defense_System_Display_at_Tainan_Air_Froce_Base_Apron_20130810.jpg/1920px-Antelope_Air_Defense_System_Display_at_Tainan_Air_Froce_Base_Apron_20130810.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "玄史生 / Wikimedia Commons (CC0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 9,
+      "shows": "air defense missile system truck"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "UK pledges over one thousand short-range missiles for Ukraine",
+    "people": [],
+    "image_query": "UK parliament building",
+    "image_queries": [
+     "Big Ben London",
+     "Downing Street London",
+     "Kyiv cityscape",
+     "military equipment"
+    ],
+    "image_style": "scene",
+    "location": "London, United Kingdom",
+    "nearby_city": "London, United Kingdom",
+    "event_query": "",
+    "topic_photo": "missiles",
+    "label": "CONFLICT",
+    "action_subject": "missile",
+    "news_time": "2026-11-17T16:21:09+00:00"
+   },
+   "created_at": "2026-11-17T17:13:21.400480+00:00",
+   "news_time": "2026-11-17T16:21:09+00:00",
+   "news_latest": "2026-11-17T17:01:10+00:00",
+   "importance": 7,
+   "caption": "UK pledges over one thousand short-range missiles for Ukraine\n\nThe United Kingdom announces it will send over 1,000 short-range missiles to Ukraine. The funding is part of a 500 million pound military package announced in the government's budget.\n\n💬 Will these new air defense supplies help protect Ukraine through the winter?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#UK #Ukraine #MilitaryAid #7SeasNews",
+   "photo_line": "📷 9/10 air defense missile system truck · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 753,
+   "tg_file_id": "AgACAgUAAxkDAAIC8Wr8i0qci-QXBHKq6KRv5O38qJhvAAI_FGsbguzoVzKWdTgd00WMAQADAgADdwADPQQ",
+   "queued_at": "2026-11-17T17:13:46.398058+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-17T17:13:46.398097+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122104548153548584",
+   "posted_at": "2026-11-17T17:14:17.381749+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 17 · 12:14 PM New York · 10:44 PM Sri Lanka\n\n<b>UK pledges over one thousand short-range missiles for Ukraine</b>\n<i>Kyiv Independent, The Independent</i>\n🟢 <b>Latest:</b> 10:31 PM Sri Lanka (13 min ago) · first reported 9:51 PM\n📷 9/10 air defense missile system truck · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122104548153548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 468,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122104548153548584_1134869959298680"
+  },
+  "b852e402bf": {
+   "id": "b852e402bf",
+   "headline": "Iran targets US radar facility in Bahrain with drones",
+   "summary": "Iran launched multiple one-way attack drones toward a U.S. radar facility in Bahrain. According to U.S. Central Command, the drones were intercepted without causing damage to equipment or injuries to personnel.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "The attack follows a two-month pause in strikes.",
+    "The IRGC claims it struck a radar system at Sheikh Isa base.",
+    "The base is home to the U.S. Fifth Fleet."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Iran",
+    "#Bahrain",
+    "#USMilitary"
+   ],
+   "sources": [
+    "Fox News",
+    "The Hill"
+   ],
+   "link": "https://thehill.com/policy/defense/6225047-iran-bahrain-us-base-strikes/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/policy/defense/6225047-iran-bahrain-us-base-strikes/"
+    ],
+    [
+     "Fox News",
+     "https://www.foxnews.com/world/bahrain-intercepts-iranian-drones-targeting-us-radar-after-2-month-lull-gulf-strikes"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Chief_of_Defence_Staff_Visits_Barbuda_Radar_Facility_%282%29.jpg/1920px-Chief_of_Defence_Staff_Visits_Barbuda_Radar_Facility_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Government of Antigua and Barbuda / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 8,
+      "shows": "soldiers inspecting a radar facility"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "Iran targets US radar facility in Bahrain with drones",
+    "people": [],
+    "image_query": "Bahrain military base",
+    "image_queries": [
+     "US Fifth Fleet Bahrain",
+     "Manama skyline",
+     "radar installation",
+     "military radar station"
+    ],
+    "image_style": "incident",
+    "location": "Bahrain",
+    "nearby_city": "Manama, Bahrain",
+    "event_query": "Bahrain drone interception",
+    "topic_photo": "radar station",
+    "label": "CONFLICT",
+    "action_subject": "military radar facility",
+    "news_time": "2026-11-17T12:42:29+00:00"
+   },
+   "created_at": "2026-11-17T17:14:04.179723+00:00",
+   "news_time": "2026-11-17T12:42:29+00:00",
+   "news_latest": "2026-11-17T15:33:17+00:00",
+   "importance": 9,
+   "caption": "Iran targets US radar facility in Bahrain with drones\n\nIran launched multiple one-way attack drones toward a U.S. radar facility in Bahrain. According to U.S. Central Command, the drones were intercepted without causing damage to equipment or injuries to personnel.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Iran #Bahrain #USMilitary #7SeasNews",
+   "photo_line": "📷 8/10 soldiers inspecting a radar facility · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 754,
+   "tg_file_id": "AgACAgUAAxkDAAIC8mr8i2j29RRKvJS_nHQpkev4qt05AAJAFGsbguzoV5uyu9OFwcpdAQADAgADdwADPQQ",
+   "queued_at": "2026-11-17T17:14:17.066839+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-17T17:14:17.066873+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122104548363548584",
+   "posted_at": "2026-11-17T17:14:17.381749+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 17 · 12:15 PM New York · 10:45 PM Sri Lanka\n\n<b>Iran targets US radar facility in Bahrain with drones</b>\n<i>Fox News, The Hill</i>\n🟡 <b>Latest:</b> 9:03 PM Sri Lanka (1h 42m ago) · first reported 6:12 PM\n📷 8/10 soldiers inspecting a radar facility · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122104548363548584\">Open on Facebook</a>\n\n⚠️ <i>Looks like an earlier post: “Iran launches drone attacks against US military base in Bahrain”. Tap 🗑 Delete if it's the same news.</i>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 469,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122104548363548584_1907049803818545"
   }
  },
  "seen_links": [
@@ -13421,47 +13510,13 @@
   "https://www.independent.co.uk/news/world/americas/federal-reserve-lisa-cook-white-house-hearing-b3086543.html",
   "https://www.newsweek.com/faa-ground-stop-has-exposed-just-how-vulnerable-us-is-to-sabotage-12728637",
   "https://www.aljazeera.com/news/2026/11/17/us-senators-demand-faa-pause-upgrades-linked-to-nationwide-ground-stop?traffic_source=rss",
-  "https://www.independent.co.uk/news/world/americas/us-politics/faa-flight-ground-stop-reason-why-trump-b3086471.html"
+  "https://www.independent.co.uk/news/world/americas/us-politics/faa-flight-ground-stop-reason-why-trump-b3086471.html",
+  "https://www.independent.co.uk/news/uk/politics/uk-ukraine-missiles-russia-winter-b3086602.html",
+  "https://kyivindependent.com/uk-pledges-over-1-000-short-range-missiles-for-ukraine-in-240-million-pound-air-defense-package-2/",
+  "https://thehill.com/policy/defense/6225047-iran-bahrain-us-base-strikes/",
+  "https://www.foxnews.com/world/bahrain-intercepts-iranian-drones-targeting-us-radar-after-2-month-lull-gulf-strikes"
  ],
  "recent_topics": [
-  [
-   "2026-11-14T17:16:31.281624+00:00",
-   [
-    "alaska",
-    "american",
-    "couldnt",
-    "dan",
-    "decoy",
-    "dont",
-    "election",
-    "ranked-choic",
-    "sour",
-    "sullivan",
-    "trust",
-    "vot"
-   ],
-   "b53246ad7e"
-  ],
-  [
-   "2026-11-14T17:16:34.484821+00:00",
-   [
-    "30",
-    "alaska",
-    "blow",
-    "democrat",
-    "democratic",
-    "elect",
-    "governor",
-    "major",
-    "nearly",
-    "seat",
-    "sinc",
-    "tim",
-    "trump",
-    "win"
-   ],
-   "5be441503d"
-  ],
   [
    "2026-11-14T17:31:18.544085+00:00",
    [
@@ -15655,19 +15710,59 @@
     "vulnerabl"
    ],
    "b89511598c"
+  ],
+  [
+   "2026-11-17T17:13:46.397896+00:00",
+   [
+    "1000",
+    "240",
+    "air",
+    "defend",
+    "defens",
+    "help",
+    "itself",
+    "million-pound",
+    "missil",
+    "packag",
+    "pledg",
+    "russia",
+    "send",
+    "short-rang",
+    "ukrain",
+    "winter"
+   ],
+   "be90c4546d"
+  ],
+  [
+   "2026-11-17T17:14:17.066654+00:00",
+   [
+    "another",
+    "attack",
+    "bahrain",
+    "claim",
+    "dron",
+    "gulf",
+    "intercept",
+    "iran",
+    "iranian",
+    "lull",
+    "month",
+    "paus",
+    "radar",
+    "sit",
+    "strik",
+    "target"
+   ],
+   "b852e402bf"
   ]
  ],
- "last_draft_at": "2026-11-17T17:00:13.510107+00:00",
+ "last_draft_at": "2026-11-17T17:12:31.367593+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-17T16:30:49.409721+00:00",
  "run_log": [
-  "11-17 14:45:38 run start",
-  "11-17 14:47:31 listening 10 min",
-  "11-17 14:57:10 listening done",
-  "11-17 14:57:10 run end after 692 s",
   "11-17 15:01:25 run start",
   "11-17 15:01:26 listening 11 min",
   "11-17 15:13:13 listening done",
@@ -15703,13 +15798,15 @@
   "11-17 17:00:13 run start",
   "11-17 17:03:55 listening 8 min",
   "11-17 17:11:52 listening done",
-  "11-17 17:11:52 run end after 699 s"
+  "11-17 17:11:52 run end after 699 s",
+  "11-17 17:12:31 run start",
+  "11-17 17:15:30 listening 9 min",
+  "11-17 17:24:18 listening done",
+  "11-17 17:24:18 run end after 707 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/%22I_Voted%22_sticker%3B_2026_New_York_State_elections.jpg/1920px-%22I_Voted%22_sticker%3B_2026_New_York_State_elections.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Park_of_Odesa_Filatov_Research_Institute.JPG/1920px-Park_of_Odesa_Filatov_Research_Institute.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/US-Bangla_Airlines_Aircraft_at_Domestic_Terminal_of_Airport_Dhaka.jpg/1920px-US-Bangla_Airlines_Aircraft_at_Domestic_Terminal_of_Airport_Dhaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Kim_Jong-un_%282023-09-13%29_%28cropped%29.jpg/1280px-Kim_Jong-un_%282023-09-13%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Christmas_at_Chatham_2019_event._Exterior_of_house_overlooking_Fredericksburg_%28444cc3fb-813c-4140-ad72-d36030e2e174%29.jpg/1920px-Christmas_at_Chatham_2019_event._Exterior_of_house_overlooking_Fredericksburg_%28444cc3fb-813c-4140-ad72-d36030e2e174%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -15747,7 +15844,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg/1920px-Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Capitol_Washington_October_2016-3.jpg/1920px-Capitol_Washington_October_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Lisa_D._Cook%2C_Federal_Reserve_Governor.jpg/1280px-Lisa_D._Cook%2C_Federal_Reserve_Governor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Cabina_de_Control_para_tr%C3%A1fico_a%C3%A9reo_-_A742589.jpg/1920px-Cabina_de_Control_para_tr%C3%A1fico_a%C3%A9reo_-_A742589.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Cabina_de_Control_para_tr%C3%A1fico_a%C3%A9reo_-_A742589.jpg/1920px-Cabina_de_Control_para_tr%C3%A1fico_a%C3%A9reo_-_A742589.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Antelope_Air_Defense_System_Display_at_Tainan_Air_Froce_Base_Apron_20130810.jpg/1920px-Antelope_Air_Defense_System_Display_at_Tainan_Air_Froce_Base_Apron_20130810.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Chief_of_Defence_Staff_Visits_Barbuda_Radar_Facility_%282%29.jpg/1920px-Chief_of_Defence_Staff_Visits_Barbuda_Radar_Facility_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "lee rudofsky": {
@@ -19055,8 +19154,6 @@
    }
   },
   "recent_ideas": [
-   "early voting, united states",
-   "protest march",
    "house chamber, united states capitol",
    "marriner s. eccles federal reserve board building",
    "air traffic control facility",
@@ -19066,7 +19163,9 @@
    "courtroom",
    "judge gavel",
    "us capitol building",
-   "air traffic control"
+   "air traffic control",
+   "air defense system",
+   "military radar facility"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -19253,6 +19352,16 @@
     "s": 7,
     "w": "air traffic control tower exhibit",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Antelope_Air_Defense_System_Display_at_Tainan_Air_Froce_Base_Apron_20130810.jpg/1920px-Antelope_Air_Defense_System_Display_at_Tainan_Air_Froce_Base_Apron_20130810.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|c1256681": {
+    "s": 9,
+    "w": "air defense missile system truck",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Chief_of_Defence_Staff_Visits_Barbuda_Radar_Facility_%282%29.jpg/1920px-Chief_of_Defence_Staff_Visits_Barbuda_Radar_Facility_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|70c48238": {
+    "s": 8,
+    "w": "soldiers inspecting a radar facility",
+    "p": ""
    }
   }
  },
@@ -19263,10 +19372,10 @@
   "2026-11-14": 18,
   "2026-11-15": 19,
   "2026-11-16": 32,
-  "2026-11-17": 17
+  "2026-11-17": 19
  },
- "last_auto_at": "2026-11-17T17:03:22.939868+00:00",
- "last_post_at": "2026-11-17T17:03:45.739721+00:00",
+ "last_auto_at": "2026-11-17T17:14:17.381749+00:00",
+ "last_post_at": "2026-11-17T17:15:19.725380+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
@@ -19277,7 +19386,7 @@
  },
  "roundup": {
   "2026-11-16": {
-   "status": "building",
+   "status": "built",
    "plan": {
     "parts": [
      {
