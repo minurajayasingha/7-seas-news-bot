@@ -51,24 +51,35 @@ def lower_tags(xs):
     return [t for t in dict.fromkeys("#" + re.sub(r"[^a-z0-9]", "", str(x).lower().lstrip("#")) for x in xs) if len(t) > 1]
 
 
+def part_tag(part):
+    """The part's fixed hashtag (#warnews / #usnews / #worldnews), also for plans made before it was stored."""
+    if part.get("tag"):
+        return part["tag"]
+    names = list(ROUNDUP_PART_NAMES)
+    return ROUNDUP_PART_HASHTAGS[names.index(part["name"])] if part.get("name") in names else "#news"
+
+
 def part_texts(day, n, part, posts, post_at):
-    """All words for one part: TikTok title/caption, YouTube title/description/tags, Facebook caption."""
+    """All words for one part: TikTok title/caption, YouTube title/description/tags, Facebook caption.
+    The fixed part name (WAR & CONFLICT / US NEWS / WORLD NEWS) is in every title, its hashtag in every caption."""
     weekday, mon = f"{day:%A}", f"{day:%b} {day.day}"
+    of, name = part.get("of", 3), part["name"]
     title = part.get("title") or posts[0]["headline"]
     hook = part.get("hook") or ""
     q = part.get("question") or ""
-    tags_tt = lower_tags(part.get("hashtags", []) + ["#7seasnews", "#newstok", "#news", "#worldnews"])[:7]
-    tags_fb = lower_tags(part.get("hashtags", [])[:2] + ["#7seasnews", "#news", "#worldnews"])[:5]
-    tags_yt = lower_tags(part.get("hashtags", []) + ["#7seasnews", "#news", "#shorts"])[:6]
+    fixed = part_tag(part)
+    tags_tt = lower_tags([fixed] + part.get("hashtags", []) + ["#7seasnews", "#newstok", "#news"])[:7]
+    tags_fb = lower_tags([fixed] + part.get("hashtags", [])[:1] + ["#7seasnews", "#news"])[:5]
+    tags_yt = lower_tags([fixed] + part.get("hashtags", []) + ["#7seasnews", "#news", "#shorts"])[:6]
 
-    end = f" · {weekday}'s top stories (Part {n}/3)"
-    tiktok_title = trim(title, 90 - len(end)) + end
-    tiktok_caption = "\n".join(x for x in [hook, "", f"Part {n}/3 · {weekday}, {mon}", "Follow 7 Seas News for more 🔔",
-                                           "", q, "", " ".join(tags_tt)])
+    end = f" · {weekday}'s top stories (Part {n}/{of})"
+    tiktok_title = f"{name}: " + trim(title, 90 - len(end) - len(name) - 2) + end
+    tiktok_caption = "\n".join(x for x in [hook, "", f"{name} · Part {n}/{of} · {weekday}, {mon}",
+                                           "Follow 7 Seas News for more 🔔", "", q, "", " ".join(tags_tt)])
     tiktok_caption = re.sub(r"\n{3,}", "\n\n", tiktok_caption)
-    yt_end = f" | {weekday}'s Top Stories, {mon} (Part {n}/3) #shorts"
-    yt_title = trim(title, 100 - len(yt_end)) + yt_end
-    yt_desc = "\n".join([hook, "", f"{weekday}'s top stories, {mon}, {day.year} — Part {n}/3 · {part['name']}", ""]
+    yt_end = f" | {weekday}'s Top Stories, {mon} (Part {n}/{of}) #shorts"
+    yt_title = f"{name}: " + trim(title, 100 - len(yt_end) - len(name) - 2) + yt_end
+    yt_desc = "\n".join([hook, "", f"{weekday}'s top stories, {mon}, {day.year} — Part {n}/{of} · {name}", ""]
                         + [f"{k}. {d['headline']}" for k, d in enumerate(posts, 1)]
                         + ["", "Real News. No Noise.", "Follow 7 Seas News for verified world news every day.", "",
                            " ".join(tags_yt)])
@@ -79,7 +90,7 @@ def part_texts(day, n, part, posts, post_at):
         if t and t not in yt_tags and total + len(t) + 1 < 450:
             yt_tags.append(t)
             total += len(t) + 1
-    fb_caption = "\n\n".join(x for x in [hook, f"{weekday}'s top stories · Part {n}/3", FOLLOW_LINE,
+    fb_caption = "\n\n".join(x for x in [hook, f"{name} · {weekday}'s top stories · Part {n}/{of}", FOLLOW_LINE,
                                          " ".join(tags_fb)] if x)
     return {"tiktok_title": tiktok_title, "tiktok_caption": tiktok_caption.strip(), "yt_title": yt_title,
             "yt_description": yt_desc[:4900], "yt_tags": yt_tags, "fb_caption": fb_caption,
@@ -91,7 +102,7 @@ def part_texts(day, n, part, posts, post_at):
 # =============================================================================
 
 def make_cover(day, n, part):
-    """1080x1350 cover: PART n/3 · NAME → huge NOV 16 (day red) → TOP STORIES → hook with red bar → MONDAY · 2026."""
+    """1080x1350 cover: PART n/3 (or n/2) · NAME → huge NOV 16 (day red) → TOP STORIES → hook with red bar → MONDAY · 2026."""
     img = M.branded_background()
     d = ImageDraw.Draw(img)
     X = 64
@@ -100,7 +111,7 @@ def make_cover(day, n, part):
         lw = 330
         logo = logo.resize((lw, int(logo.height * lw / logo.width)), Image.LANCZOS)
         img.paste(logo, (X, 64), logo)
-    label = f"PART {n}/3 · {part['name']}"
+    label = f"PART {n}/{part.get('of', 3)} · {part['name']}"
     lf = M.font("Poppins-SemiBold.ttf", 30)
     lw = M.spaced_width(d, label, lf, 3)
     y = 420
@@ -509,7 +520,7 @@ def send_tiktok(ch, n, part, texts, slides, post_at, day):
     """a) text with time + title + caption to copy  b) the numbered slides as photo albums
     (the full-quality slides are in the one backup zip)."""
     M.tg("sendMessage", chat_id=ch, parse_mode="HTML", disable_web_page_preview="true", text=(
-        f"📲 <b>TikTok Part {n}/3</b> · {esc(part['name'])}\n"
+        f"📲 <b>TikTok Part {n}/{part.get('of', 3)}</b> · {esc(part['name'])}\n"
         f"🕒 Post at <b>{when(post_at)}</b> · {M.ny_date_text(post_at)} (New York date for TikTok Studio)\n\n"
         f"<b>Title</b> (tap to copy):\n<code>{esc(texts['tiktok_title'])}</code>\n\n"
         f"<b>Caption</b> (tap to copy):\n<code>{esc(texts['tiktok_caption'])}</code>\n\n"
@@ -534,7 +545,7 @@ def descriptions_txt(day, parts_out):
     out = [f"7 SEAS NEWS — ROUNDUP OF {day:%A, %B} {day.day}, {day.year} (New York)", "=" * 60, ""]
     for n, p in enumerate(parts_out, 1):
         t, at = p["texts"], datetime.fromisoformat(p["texts"]["post_at"])
-        out += [f"PART {n}/3 · {p['name']} · {len(p['posts'])} stories · {p['seconds']:.0f} s",
+        out += [f"PART {n}/{p['part'].get('of', 3)} · {p['name']} · {len(p['posts'])} stories · {p['seconds']:.0f} s",
                 f"Post at: {when(at)} · {M.ny_date_text(at)} (New York date)", "",
                 "TIKTOK TITLE:", t["tiktok_title"], "", "TIKTOK CAPTION:", t["tiktok_caption"], "",
                 "YOUTUBE TITLE:", t["yt_title"], "", "YOUTUBE DESCRIPTION:", t["yt_description"], "",
@@ -603,7 +614,7 @@ def run(day_s, test=False):
     # uploads (not in a test)
     results = []
     for p in parts_out:
-        r = {"name": p["name"], "post_at": p["at"].isoformat(), "stories": len(p["posts"]),
+        r = {"name": p["name"], "of": len(parts_out), "post_at": p["at"].isoformat(), "stories": len(p["posts"]),
              "seconds": round(p["seconds"], 1)}
         cover_tall = jpg(tall(p["cover"]), 88)
         if test:
@@ -668,7 +679,7 @@ def run(day_s, test=False):
         if test or "error" in states or not uploaded:
             why = "test" if test else "upload failed — post it by hand" if "error" in states else "not uploaded anywhere"
             M.tg("sendDocument", chat_id=M.TG_CHAT,
-                 caption=f"🎬 Part {p['n']}/3 · {p['name']} · {p['seconds']:.0f} s · {when(p['at'])} ({why})",
+                 caption=f"🎬 Part {p['n']}/{p['part'].get('of', 3)} · {p['name']} · {p['seconds']:.0f} s · {when(p['at'])} ({why})",
                  files={"document": (f"7seas_{day:%Y-%m-%d}_part{p['n']}.mp4", p["video"], "video/mp4")})
 
     # report
@@ -679,7 +690,7 @@ def run(day_s, test=False):
     for p, r, tt in zip(parts_out, results, tt_ok):
         def show(x):
             return icon.get(x.get("state"), "") or ("❌ " + esc(x.get("error", x.get("state", "?")))[:150])
-        rows.append(f"\n<b>Part {p['n']}/3 · {esc(p['name'])}</b> · {len(p['posts'])} stories · {p['seconds']:.0f} s · "
+        rows.append(f"\n<b>Part {p['n']}/{p['part'].get('of', 3)} · {esc(p['name'])}</b> · {len(p['posts'])} stories · {p['seconds']:.0f} s · "
                     f"{when(p['at'])}\nFacebook: {show(r['fb'])}\nYouTube: {show(r['yt'])}"
                     + (f" <a href=\"{r['yt']['url']}\">link</a>" if r["yt"].get("url") else "")
                     + f"\nTikTok slides: {'✅ sent to ' + ('your content channel' if ch != M.TG_CHAT else 'this chat') if tt == 'sent' else esc(tt)}")
@@ -738,7 +749,7 @@ def design_check(day_s):
     video, seconds = make_part_video(day, 1, part, posts, cover)
     slides = [("01_cover.jpg", jpg(cover))] + [(f"{k:02d}.jpg", M.tg_download(d["tg_file_id"]))
                                                for k, d in enumerate(posts[:2], 2)]
-    M.tg_text(f"🎨 <b>Design check</b> · Part 1/3 · {esc(part['name'])} · {day:%A, %b} {day.day} · "
+    M.tg_text(f"🎨 <b>Design check</b> · Part 1/{part.get('of', 3)} · {esc(part['name'])} · {day:%A, %b} {day.day} · "
               f"{len(posts)} stories · {seconds:.0f} s (nothing uploaded)")
     M.tg("sendVideo", chat_id=M.TG_CHAT, supports_streaming="true", width=RW, height=RH, duration=int(seconds),
          caption="🎬 Part 1 video (1080x1920)",

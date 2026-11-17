@@ -3962,20 +3962,25 @@ These are the {count} posts published on {weekday}, {date} (number. [label] head
 Stories already used in yesterday's roundup (drop them unless there is clearly new news in the headline):
 {yesterday}
 
-Make a plan of exactly 3 parts. Default parts, in this order: "{p1}", "{p2}", "{p3}" (you may rename a part
-if the day's news fits better, e.g. "ELECTIONS", "MIDDLE EAST"; short, ALL CAPS, max 18 characters).
+Make a plan of exactly 3 parts with these FIXED names, always in this order (never rename them, never add others):
+  part 1 = "{p1}": wars, attacks, military action, security threats, tensions between countries. On a day with
+           no war stories, put the biggest conflict/security stories here (it may have fewer stories then).
+  part 2 = "{p2}": US politics, elections, Congress, courts and other US news (not war/conflict).
+  part 3 = "{p3}": all other world news.
+You only choose which stories go in each part, their order, and the texts below.
 Rules:
 - Drop duplicates (the same story posted twice: keep the most complete headline), minor or filler items
   (polls, "X discusses", media about media, gossip) and stories from yesterday's roundup.
-- 6 to {max_part} stories per part, {min_total} to {max_total} in total (if there are fewer good posts, use all good ones).
+- 6 to {max_part} stories in parts 2 and 3 (part 1 may have fewer), {min_total} to {max_total} in total
+  (if there are fewer good posts, use all good ones).
 - Inside a part: the most important story first.
 - "hook": 2 very short sentences (max 95 characters together) with ONLY facts from the headlines of that part. No opinions.
 - "title": max 60 characters, plain facts of the biggest 1-2 stories of the part. Never "today" or "today's".
 - "question": one short neutral question about the part's top story, for comments. "" if it is about deaths or a tragedy.
-- "hashtags": 3 lowercase hashtags for the part, e.g. ["#ukraine", "#uspolitics", "#worldnews"].
+- "hashtags": 2 lowercase topic hashtags for the part, e.g. ["#ukraine", "#congress"].
 - "tags": 6 lowercase YouTube search tags (words, no #), e.g. ["ukraine war", "us news"].
-Return ONLY JSON: {{"parts": [{{"name": "...", "stories": [numbers], "hook": "...", "title": "...",
-"question": "...", "hashtags": [...], "tags": [...]}}, ... 3 parts], "dropped": [{{"n": number, "why": "max 6 words"}}]}}
+Return ONLY JSON: {{"parts": [{{"part": 1, "stories": [numbers], "hook": "...", "title": "...",
+"question": "...", "hashtags": [...], "tags": [...]}}, ... parts 1, 2, 3], "dropped": [{{"n": number, "why": "max 6 words"}}]}}
 {change}"""
 
 
@@ -3989,16 +3994,31 @@ def roundup_fallback_plan(posts):
     for i, g in enumerate(groups):
         g = g[:ROUNDUP_MAX_PER_PART]
         heads = [posts[n - 1]["headline"] for n in g[:2]]
-        parts.append({"name": ROUNDUP_PARTS[i], "stories": g, "hook": ". ".join(heads)[:95],
-                      "title": heads[0][:60] if heads else ROUNDUP_PARTS[i].title(), "question": "",
+        parts.append({"part": i + 1, "stories": g, "hook": ". ".join(heads)[:95],
+                      "title": heads[0][:60] if heads else ROUNDUP_PART_NAMES[i].title(), "question": "",
                       "hashtags": [], "tags": []})
     return {"parts": parts, "dropped": []}
 
 
 def roundup_clean_plan(raw, posts):
-    """Check the AI's plan: 3 parts, valid story numbers, each story once, limits, lowercase tags."""
-    used, parts = set(), []
+    """Check the AI's plan: FIXED names (ROUNDUP_PART_NAMES, by "part" number or position), valid story numbers,
+    each story once, limits, lowercase tags. Fewer than ROUNDUP_MIN_CONFLICT_STORIES in part 1 → 2 parts
+    (US NEWS + WORLD NEWS; the conflict stories join the US part if they are about the US, else the world part)."""
+    slots = [None, None, None]
     for i, p in enumerate((raw.get("parts") or [])[:3]):
+        if not isinstance(p, dict):
+            continue
+        try:
+            k = int(p.get("part")) - 1
+        except (TypeError, ValueError):
+            k = i
+        if not 0 <= k <= 2 or slots[k] is not None:
+            k = next((j for j in range(3) if slots[j] is None), None)
+        if k is not None:
+            slots[k] = p
+    used, parts = set(), []
+    for i, p in enumerate(slots):
+        p = p or {}
         nums = []
         for n in p.get("stories") or []:
             try:
@@ -4008,11 +4028,11 @@ def roundup_clean_plan(raw, posts):
             if 1 <= n <= len(posts) and n not in used:
                 used.add(n)
                 nums.append(n)
-        nums = nums[:ROUNDUP_MAX_PER_PART]
         tags = lambda xs, hash_: [("#" if hash_ else "") + re.sub(r"[^a-z0-9 ]" if not hash_ else r"[^a-z0-9]", "",
                                                                    str(x).lower().lstrip("#")).strip() for x in xs or []]
         parts.append({
-            "name": re.sub(r"\s+", " ", str(p.get("name") or ROUNDUP_PARTS[min(i, 2)])).upper().strip()[:18],
+            "name": ROUNDUP_PART_NAMES[i],              # fixed: the AI never renames a part
+            "tag": ROUNDUP_PART_HASHTAGS[i],
             "stories": nums,
             "hook": str(p.get("hook") or "").strip()[:140],
             "title": re.sub(r"(?i)\btoday'?s?\b", "", str(p.get("title") or "")).strip(" :-")[:70],
@@ -4020,8 +4040,16 @@ def roundup_clean_plan(raw, posts):
             "hashtags": [t for t in tags(p.get("hashtags"), True) if len(t) > 1][:4],
             "tags": [t for t in tags(p.get("tags"), False) if t][:8],
         })
-    if len(parts) != 3 or any(len(p["stories"]) < 2 for p in parts):
-        raise ValueError("plan needs 3 parts with stories")
+    if len(parts[0]["stories"]) < ROUNDUP_MIN_CONFLICT_STORIES:      # too little war/conflict news → 2 parts
+        for n in parts[0]["stories"]:
+            us = "United States" in countries_in(posts[n - 1]["headline"])
+            parts[1 if us else 2]["stories"].append(n)
+        parts = parts[1:]
+    for p in parts:
+        p["stories"] = p["stories"][:ROUNDUP_MAX_PER_PART]
+        p["of"] = len(parts)
+    if any(len(p["stories"]) < 2 for p in parts):
+        raise ValueError("plan needs parts with stories")
     dropped = [x for x in raw.get("dropped") or [] if isinstance(x, dict)]
     return {"parts": parts, "dropped": dropped[:40]}
 
@@ -4037,7 +4065,7 @@ def roundup_make_plan(state, day, change="", old=None):
               f"The owner asks for this change: \"{change}\"\nMake the change, keep the rest the same, same JSON format.")
     prompt = ROUNDUP_PROMPT.format(count=len(posts), weekday=f"{day:%A}", date=f"{day:%B} {day.day}, {day.year}",
                                    posts=lines, yesterday="\n".join(f"- {h}" for h in prev_heads[:40]) or "(none)",
-                                   p1=ROUNDUP_PARTS[0], p2=ROUNDUP_PARTS[1], p3=ROUNDUP_PARTS[2],
+                                   p1=ROUNDUP_PART_NAMES[0], p2=ROUNDUP_PART_NAMES[1], p3=ROUNDUP_PART_NAMES[2],
                                    max_part=ROUNDUP_MAX_PER_PART, min_total=min(25, len(posts)),
                                    max_total=35, change=ch)
     try:
@@ -4061,7 +4089,7 @@ def roundup_plan_text(day, info):
            f"Posts on {ny_date_text(times[0])} (New York date)", ""]
     for i, p in enumerate(plan["parts"], 1):
         at = f" · {both_times(times[i - 1])}" if i <= len(times) else ""
-        out.append(f"<b>PART {i}/3 · {html.escape(p['name'])}</b> ({len(p['stories'])}){at}")
+        out.append(f"<b>PART {i}/{len(plan['parts'])} · {html.escape(p['name'])}</b> ({len(p['stories'])}){at}")
         out.append(f"<i>{html.escape(p['hook'])}</i>")
         for k, n in enumerate(p["stories"], 1):
             out.append(f"{k}. {html.escape(info['heads'][n - 1][:90])}")
@@ -4173,13 +4201,16 @@ def handle_roundup_tap(state, action, day_s):
     elif action == "rchg":
         tg_text("✏️ <b>Reply to the plan message</b> with what to change, e.g.\n"
                 "• <i>move the Gaza story to Part 1</i>\n• <i>drop number 5 in Part 3</i>\n"
-                "• <i>call Part 2 ELECTIONS</i>")
+                "• <i>put the Senate vote first in Part 2</i>\n(Part names are fixed.)")
 
 
 def roundup_change(state, day_s, text):
     info = state["roundup"][day_s]
     day = datetime.fromisoformat(day_s).date()
     old = {k: v for k, v in info["plan"].items() if k != "ids"}
+    old["parts"] = [dict({k: v for k, v in p.items() if k not in ("tag", "of")},
+                         part=ROUNDUP_PART_NAMES.index(p["name"]) + 1 if p.get("name") in ROUNDUP_PART_NAMES else i + 1)
+                    for i, p in enumerate(old.get("parts") or [])]
     try:
         info["plan"] = roundup_make_plan(state, day, change=text[:500], old=old)
     except Exception as e:
@@ -4252,7 +4283,7 @@ def roundup_part_due(state, day_s, info, n, part):
     if ROUNDUP_TIKTOK and not done.get(f"tt{n}"):
         done[f"tt{n}"] = True
         tg("sendMessage", chat_id=TG_CHAT, parse_mode="HTML",
-           text=(f"⏰ <b>Time to post TikTok Part {n}/3</b> ({html.escape(part.get('name', ''))})\n"
+           text=(f"⏰ <b>Time to post TikTok Part {n}/{part.get('of', 3)}</b> ({html.escape(part.get('name', ''))})\n"
                  f"{both_times(at)} · {ny_date_text(at)} (New York date for TikTok Studio)\n"
                  "The slides + title + caption are in your 📦 content channel.\n"
                  "☑️ TikTok's \"AI-generated content\" label: not needed (no AI images in the slides)."),
@@ -4265,7 +4296,7 @@ def roundup_part_due(state, day_s, info, n, part):
             fb["state"] = "published"
         except Exception as e:
             fb["state"] = "error"
-            tg_text(f"⚠️ Facebook roundup Part {n}/3 could not be published: <code>{html.escape(str(e))[:200]}</code>\n"
+            tg_text(f"⚠️ Facebook roundup Part {n}/{part.get('of', 3)} could not be published: <code>{html.escape(str(e))[:200]}</code>\n"
                     "It is saved as a draft in Meta Business Suite → Content → Drafts (publish it by hand).")
     if not done.get(f"log{n}"):                       # one line per part in the published-posts channel
         done[f"log{n}"] = True
@@ -4284,7 +4315,7 @@ def roundup_part_line(n, part, at):
         links.append(f'<a href="{yt["url"]}">YouTube</a>')
     elif yt.get("state") == "error":
         links.append("YouTube ❌")
-    return (f"🎬 <b>Roundup Part {n}/3 · {html.escape(part.get('name', ''))}</b> · {both_times(at)}"
+    return (f"🎬 <b>Roundup Part {n}/{part.get('of', 3)} · {html.escape(part.get('name', ''))}</b> · {both_times(at)}"
             + (" · " + " · ".join(links) if links else ""))
 
 
@@ -4332,7 +4363,7 @@ def daily_report_text(state, day_s, info, res):
         out.append("\n🎬 <b>Roundup</b>")
         for n, p in enumerate((res or {}).get("parts") or [], 1):
             at = datetime.fromisoformat(p["post_at"])
-            out.append(f"<b>Part {n}/3 · {html.escape(p.get('name', ''))}</b> · {p.get('stories', '?')} stories · "
+            out.append(f"<b>Part {n}/{p.get('of', 3)} · {html.escape(p.get('name', ''))}</b> · {p.get('stories', '?')} stories · "
                        f"{both_times(at)} · {ny_date_text(at)}\n"
                        f"    YouTube {platform_text(p.get('yt'))}\n    Facebook {platform_text(p.get('fb'))}\n"
                        f"    TikTok {platform_text(p.get('tt', 'sent' if ROUNDUP_TIKTOK else 'off'))}")

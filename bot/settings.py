@@ -380,7 +380,11 @@ ROUNDUP_TIMES_NY = ["07:55", "09:55", "11:55"]   # posting times (New York) of P
                                      # Sri Lanka time is worked out by itself and follows US summer/winter time:
                                      # NY winter = 6:25 / 8:25 / 10:25 PM SL, NY summer = 5:25 / 7:25 / 9:25 PM SL.
                                      # Late? All three move together.
-ROUNDUP_PARTS = ["WAR & CONFLICT", "US NEWS", "WORLD NEWS"]   # default part names (the AI may rename for the day)
+ROUNDUP_PART_NAMES = ["WAR & CONFLICT", "US NEWS", "WORLD NEWS"]   # FIXED part names, always this order. The AI
+                                     # only picks the stories (and hooks) for each part, it never renames them.
+ROUNDUP_PART_HASHTAGS = ["#warnews", "#usnews", "#worldnews"]      # one per part, in every caption of that part
+ROUNDUP_MIN_CONFLICT_STORIES = 4     # fewer war/conflict/security stories than this → only 2 parts that day:
+                                     # "US NEWS" and "WORLD NEWS" (the few conflict stories go into those)
 ROUNDUP_MAX_PER_PART = 14            # max stories per part (keeps each video under Facebook's 90 s)
 ROUNDUP_MIN_POSTS = 9                # fewer posts that day → no roundup
 ROUNDUP_MUSIC = "off"                # "off" = only the bot's own sounds; or a folder, e.g. "assets/music", of

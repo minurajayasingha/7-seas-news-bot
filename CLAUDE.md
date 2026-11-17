@@ -42,8 +42,14 @@ Never South Asia news. Real, verified news only: a story needs 2+ different outl
 ## Daily roundup videos (Stages 3–4, docs/AUTOMATION_PLAN.md)
 - main.py (owns Telegram + state.json): roundup_due() each run → after NY midnight (day ≥ ROUNDUP_START_DAY, NY hour < 11)
   roundup_start(): Gemini plan (ROUNDUP_PROMPT → roundup_clean_plan; AI down → roundup_fallback_plan by label) in
-  state["roundup"][day] {status asked/building/built/failed/skipped, plan{parts[name,stories(1-based into ids),hook,title,
-  question,hashtags,tags],ids,dropped}, heads, msg_id, asked_at, test}. Buttons rok/rchg/rskip:<day>; a text reply to the
+  state["roundup"][day] {status asked/building/built/failed/skipped, plan{parts[name,tag,of,stories(1-based into ids),
+  hook,title,question,hashtags,tags],ids,dropped}, heads, msg_id, asked_at, test}.
+  Part names are FIXED (ROUNDUP_PART_NAMES = WAR & CONFLICT, US NEWS, WORLD NEWS, always this order; hashtags
+  ROUNDUP_PART_HASHTAGS #warnews #usnews #worldnews): Gemini returns "part": 1-3 and only picks stories/hooks/texts;
+  roundup_clean_plan() sets name/tag by part number (Gemini's names ignored). Part 1 < ROUNDUP_MIN_CONFLICT_STORIES (4)
+  → 2 parts (US NEWS + WORLD NEWS; conflict stories go to US NEWS if countries_in(headline) has the US, else WORLD
+  NEWS), part["of"] = 2 → "Part n/2" everywhere, times = first 2 of ROUNDUP_TIMES_NY. Names are in every TikTok/YouTube
+  title ("US NEWS: … (Part 1/3)") and cover label; the part hashtag is first in every caption (roundup.part_tag()). Buttons rok/rchg/rskip:<day>; a text reply to the
   plan message = change (Gemini edits, plan resent, 3 h restart); ROUNDUP_AUTO_APPROVE_HOURS → roundup_approve("auto").
   Approve writes /tmp/7seas_roundup_dispatch.json; bot.yml's last step (after Save bot memory, permissions actions: write)
   dispatches roundup.yml with GITHUB_TOKEN. No result in state/roundup.json after 80 min → asked again once, then failed.

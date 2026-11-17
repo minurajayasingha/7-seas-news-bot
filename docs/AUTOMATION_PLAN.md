@@ -84,7 +84,7 @@ Then a live dry run (`DRY_RUN` that renders but doesn't publish) on 10 fresh sto
    (headline, label, bg, sources, created_at). Re-render each post at 1080×1350 with `render_image()` from the saved
    `bg` (`hide_headline=True` for the typing effect, as `make_reel()` does).
 3. **Plan** with Gemini: drop duplicates/minor items and stories used the day before, group into 3 parts
-   (default WAR & CONFLICT → US NEWS → WORLD NEWS, ~6–14 stories each, 25–35 total), write 2-sentence cover hooks
+   (FIXED names WAR & CONFLICT → US NEWS → WORLD NEWS, ~6–14 stories each, 25–35 total), write 2-sentence cover hooks
    (only facts from the headlines), and all titles/captions/tags (rules below).
 4. **Approval in Telegram**: plan with buttons ✅ Approve · ✏️ Change · ⏭ Skip today. Reply text = change request
    (Gemini edits the plan, bot sends it again). `ROUNDUP_APPROVAL = "ask"` with `ROUNDUP_AUTO_APPROVE_HOURS = 3`:
@@ -97,7 +97,13 @@ Then a live dry run (`DRY_RUN` that renders but doesn't publish) on 10 fresh sto
 7. Report in Telegram: since the clean-up = ONE daily report in the bot chat (see "Clean-up decisions").
 
 ### Daily roundup rules (approved by the owner, keep them exactly)
-- 3 parts per day; names may change with the day's news. Never "TODAY'S" (posts go out the next US morning);
+- 3 parts per day with FIXED names, always this order: Part 1 "WAR & CONFLICT", Part 2 "US NEWS", Part 3 "WORLD NEWS"
+  (`ROUNDUP_PART_NAMES`). The AI only chooses which stories go in each part (and the hooks/texts), never the names.
+  No war stories that day → Part 1 keeps its name and takes the biggest conflict/security stories (attacks, military,
+  tensions); fewer than 4 (`ROUNDUP_MIN_CONFLICT_STORIES`) → only 2 parts, "US NEWS" and "WORLD NEWS" ("Part 1/2",
+  "Part 2/2"; the conflict stories join US NEWS if about the US, else WORLD NEWS). The same names are used on the
+  covers, YouTube titles and TikTok titles ("US NEWS: … (Part 2/3)"), and each part's fixed hashtag
+  (#warnews / #usnews / #worldnews, `ROUNDUP_PART_HASHTAGS`) is in all its captions. Never "TODAY'S" (posts go out the next US morning);
   use the weekday ("Wednesday's top stories") + date. Weekday is computed, never guessed.
 - Design = the owner's manual package, exactly (bot/roundup.py; only the design, never the timing/posting):
   - Cover (every part): same branded globe background as the posts, real logo top-left. Top to bottom: label
@@ -189,3 +195,5 @@ Never print or commit secrets. Keep `python -c "import ast; ast.parse(open('bot/
    - Content channel: only the 3 TikTok parts (time, title, caption, numbered slides) + ONE backup zip (texts, covers,
      full-quality slides). The automatic daily image pack is gone; `/day` (today so far) and `/day yesterday` still
      work on request and answer in the bot chat.
+5. **Fixed part names** (added 17 Nov 2026): see "Daily roundup rules" — WAR & CONFLICT / US NEWS / WORLD NEWS,
+   never renamed; fewer than 4 conflict stories → 2 parts (US NEWS + WORLD NEWS); #warnews #usnews #worldnews.

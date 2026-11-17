@@ -92,7 +92,9 @@ focus topics (US / war words), excluded topics and news sources. You never need 
 ## Daily roundup videos (made by the bot)
 
 Every day after **midnight New York** the bot plans 3 roundup videos of the day's posts
-(default: WAR & CONFLICT → US NEWS → WORLD NEWS) and sends you the **plan** in Telegram:
+with FIXED names, always in this order: **WAR & CONFLICT → US NEWS → WORLD NEWS** (`ROUNDUP_PART_NAMES`; the AI only
+picks the stories, never the names; on a day with fewer than 4 conflict stories there are only 2 parts: US NEWS +
+WORLD NEWS) and sends you the **plan** in Telegram:
 
 - **✅ Approve** → it makes the videos (about 10–20 min) and schedules them
 - **✏️ Change** → reply to the plan message with what to change, e.g. *"move the Gaza story to Part 1"*
