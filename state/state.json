@@ -13562,7 +13562,9 @@
   "https://thehill.com/homenews/administration/6224270-jd-vance-trump-administration-tech-outages-crisis-response/",
   "https://www.independent.co.uk/news/world/americas/us-politics/vance-supplies-food-water-tech-outages-b3086279.html",
   "https://www.aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe?traffic_source=rss",
-  "https://www.france24.com/en/video/20261117-uefa-backs-bid-by-france-s-diallo-to-take-on-infantino-as-fifa-chief"
+  "https://www.france24.com/en/video/20261117-uefa-backs-bid-by-france-s-diallo-to-take-on-infantino-as-fifa-chief",
+  "https://www.independent.co.uk/news/world/americas/us-politics/trump-philippines-president-asia-trip-b3086428.html",
+  "https://www.cbsnews.com/video/trump-arrives-in-the-philippines-amid-protests/"
  ],
  "recent_topics": [
   [
@@ -15768,19 +15770,35 @@
     "uefa"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-17T13:46:19.896250+00:00",
+   [
+    "advis",
+    "arriv",
+    "genetic",
+    "get",
+    "good",
+    "leader",
+    "magnet",
+    "philippin",
+    "president",
+    "protest",
+    "rambl",
+    "speech",
+    "tell",
+    "trump"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-17T13:32:02.828514+00:00",
+ "last_draft_at": "2026-11-17T13:45:51.700351+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-17T13:31:12.111356+00:00",
  "run_log": [
-  "11-17 11:16:04 run start",
-  "11-17 11:18:48 listening 9 min",
-  "11-17 11:27:35 listening done",
-  "11-17 11:27:35 run end after 690 s",
   "11-17 11:31:02 run start",
   "11-17 11:32:16 listening 10 min",
   "11-17 11:42:46 listening done",
@@ -15816,7 +15834,11 @@
   "11-17 13:31:11 run start",
   "11-17 13:34:12 listening 8 min",
   "11-17 13:43:00 listening done",
-  "11-17 13:43:00 run end after 709 s"
+  "11-17 13:43:00 run end after 709 s",
+  "11-17 13:45:51 run start",
+  "11-17 13:46:19 listening 11 min",
+  "11-17 13:57:40 listening done",
+  "11-17 13:57:40 run end after 708 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
