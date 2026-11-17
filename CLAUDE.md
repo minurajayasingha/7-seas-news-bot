@@ -38,9 +38,30 @@ Never South Asia news. Real, verified news only: a story needs 2+ different outl
   fetches + resets to origin/main before committing, so code pushes during a run don't break it).
 - **All user settings live in `bot/settings.py`** (colors, feeds, focus words, slots, counts). Prefer editing there.
 
-## Secrets (GitHub Actions)
+## Daily roundup videos (Stages 3–4, docs/AUTOMATION_PLAN.md)
+- main.py (owns Telegram + state.json): roundup_due() each run → after NY midnight (day ≥ ROUNDUP_START_DAY, NY hour < 11)
+  roundup_start(): Gemini plan (ROUNDUP_PROMPT → roundup_clean_plan; AI down → roundup_fallback_plan by label) in
+  state["roundup"][day] {status asked/building/built/failed/skipped, plan{parts[name,stories(1-based into ids),hook,title,
+  question,hashtags,tags],ids,dropped}, heads, msg_id, asked_at, test}. Buttons rok/rchg/rskip:<day>; a text reply to the
+  plan message = change (Gemini edits, plan resent, 3 h restart); ROUNDUP_AUTO_APPROVE_HOURS → roundup_approve("auto").
+  Approve writes /tmp/7seas_roundup_dispatch.json; bot.yml's last step (after Save bot memory, permissions actions: write)
+  dispatches roundup.yml with GITHUB_TOKEN. No result in state/roundup.json after 80 min → asked again once, then failed.
+  At each part's post_at: TikTok reminder with ✅ Posted (rdone:day:n), and Facebook "draft" parts are published
+  (fb_reel_finish PUBLISHED). /roundup = status, /roundup test = test of yesterday.
+- bot/roundup.py (roundup.yml, 45 min, ffmpeg; reads state.json, writes ONLY state/roundup.json): per part make_cover()
+  (1080x1350, branded globe), slides = cover + published images (tg_download), make_part_video() 1080x1920: cover 1.3 s +
+  boom, red swipe with white edge + whoosh, per story story_frame() (render_image hide_headline, date=day; top = blurred r34
+  45 % dark zoom of rows 170–900 feathered 120 px; counter pill) typed headline + clicks, hold 2.2 s (shortened so ≤ 88 s),
+  end card; progress line y 0–8. post_times(): 8/10/12 NY next morning, shifted together if late (not in test).
+  Uploads (not test): facebook_upload (fb_reel_upload → finish SCHEDULED, refused → DRAFT), youtube_upload (resumable,
+  private + publishAt, category 25, thumbnail best effort; ROUNDUP_YOUTUBE + YT_* secrets). Each retried once.
+  Telegram to the content channel: per part text (title/caption in <code>), sendMediaGroup albums (≥2 per album),
+  slides zip; then the 3 mp4s + backup zip (covers + DESCRIPTIONS-AND-TIMES.txt); report to the bot chat.
+- tools/youtube_token.py = one-time local OAuth helper (loopback) → refresh token. README has the owner steps.
+
+## Secrets (GitHub Actions)## Secrets (GitHub Actions)
 TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, GEMINI_API_KEY, FB_PAGE_ID, FB_PAGE_TOKEN (never-expiring Page token),
-optional PIXABAY_API_KEY / PEXELS_API_KEY / FLICKR_API_KEY. Never print or commit secrets.
+optional PIXABAY_API_KEY / PEXELS_API_KEY / FLICKR_API_KEY, YT_CLIENT_ID / YT_CLIENT_SECRET / YT_REFRESH_TOKEN (roundup YouTube). Never print or commit secrets.
 
 ## Telegram UX
 - Spacing: MIN_MINUTES_BETWEEN_POSTS (0 = owner wants news out at once; AUTO_MIN_GAP_MINUTES 0, DRAFTS_PER_RUN 5, AUTO_MAX_PER_DAY 80) between ALL Facebook posts (state["last_post_at"]). 🚀 Post now / 🎬 Reel /

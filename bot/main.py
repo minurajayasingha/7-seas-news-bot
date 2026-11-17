@@ -566,7 +566,7 @@ def when_text(t):
 
 
 def set_commands_once(state):
-    if state.get("commands_set") == 8:
+    if state.get("commands_set") == 9:
         return
     tg("setMyCommands", commands=[
         {"command": "news", "description": "Look for fresh news right now"},
@@ -575,6 +575,7 @@ def set_commands_once(state):
         {"command": "status", "description": "Bot summary"},
         {"command": "stats", "description": "Likes, comments, shares (last 24h)"},
         {"command": "reels", "description": "Status of the last Reels on Facebook"},
+        {"command": "roundup", "description": "Daily roundup videos (status, test)"},
         {"command": "new", "description": "Make your own post"},
         {"command": "pause", "description": "Stop automatic news"},
         {"command": "resume", "description": "Start automatic news again"},
@@ -582,7 +583,7 @@ def set_commands_once(state):
         {"command": "tiktok", "description": "Link the TikTok files channel"},
         {"command": "help", "description": "How to use the bot"},
     ])
-    state["commands_set"] = 8
+    state["commands_set"] = 9
 
 
 def tg_download(file_id):
@@ -771,6 +772,13 @@ def process_telegram(state, wait=0):
             if ":" not in data:
                 continue
             action, pid = data.split(":", 1)
+            if action in ("rok", "rchg", "rskip", "rdone"):          # daily roundup buttons
+                if chat_id == TG_CHAT:
+                    if action == "rdone":
+                        tg("editMessageReplyMarkup", chat_id=TG_CHAT, message_id=cq["message"]["message_id"],
+                           reply_markup={"inline_keyboard": [[{"text": "✅ Done", "callback_data": "x"}]]})
+                    handle_roundup_tap(state, action, pid.split(":")[0])
+                continue
             d = state["drafts"].get(pid)
             if not d:
                 continue
@@ -864,6 +872,9 @@ def process_telegram(state, wait=0):
             continue
 
         rep = msg.get("reply_to_message")
+        if rep and msg.get("text") and find_roundup_by_message(state, rep.get("message_id")):
+            roundup_change(state, find_roundup_by_message(state, rep.get("message_id")), msg["text"])
+            continue
         if rep:
             d = find_draft_by_message(state, rep.get("message_id"), rep.get("caption") or rep.get("text") or "")
             if d:
@@ -956,6 +967,25 @@ def process_telegram(state, wait=0):
                 icon = {"live": "✅ live", "processing": "⏳ still processing / not published",
                         "error": "❌ rejected", "unknown": "❓ unknown"}[st_]
                 tg_text(f"🎬 <b>{html.escape(d['headline'][:80])}</b>\n{icon}\n<i>{html.escape(detail)}</i>")
+        elif text.startswith("/roundup"):
+            rs = state.get("roundup", {})
+            if "test" in text:
+                day_s = (ny_now().date() - timedelta(days=1)).isoformat()
+                tg_text(f"🧪 Making a TEST roundup of {day_s} (Telegram only, no uploads)…")
+                roundup_start(state, day_s, test=True)
+            elif not rs:
+                tg_text("🎬 No roundups yet. The first plan comes after midnight New York.")
+            else:
+                res = load_roundup_file()
+                rows = []
+                for day_s in sorted(rs)[-4:]:
+                    i = rs[day_s]
+                    line = f"<b>{day_s}</b>: {i.get('status')}" + (" (test)" if i.get("test") else "")
+                    for n, p in enumerate((res.get(day_s) or {}).get("parts") or [], 1):
+                        line += (f"\n  Part {n}: YouTube {p.get('yt', {}).get('state', '-')} · "
+                                 f"Facebook {p.get('fb', {}).get('state', '-')}")
+                    rows.append(line)
+                tg_text("🎬 <b>Roundups</b>\n" + "\n".join(rows) + "\n\n/roundup test = a test of yesterday now")
         elif text.startswith("/status"):
             q = [d for d in state["drafts"].values() if d["status"] == "queued"]
             p = [d for d in state["drafts"].values() if d["status"] == "pending"]
@@ -984,6 +1014,7 @@ def process_telegram(state, wait=0):
                     "/stats – likes, comments and shares of the last 24 hours\n"
                     "/stats week – posts per day vs likes/reach per post (find the best number of posts)\n"
                     "/reels – what Facebook did with the last Reels (live / processing / rejected and why)\n"
+                    "/roundup – daily roundup videos (status · /roundup test)\n"
                     "/status – bot summary")
 
 
@@ -1334,6 +1365,44 @@ def reel_caption(d):
     tags = [t for t in dict.fromkeys(tags) if len(t) > 1][:5]
     head = f"🚨 BREAKING: {d['headline']}" if d.get("breaking") else d["headline"]
     return "\n\n".join(x for x in with_follow_line([head, first]) + [" ".join(tags)] if x)
+
+
+def fb_reel_upload(video_bytes):
+    """Reels step 1+2: start → upload the video to rupload.facebook.com. Returns the video id."""
+    base = f"https://graph.facebook.com/{GRAPH_VERSION}/{FB_PAGE_ID}/video_reels"
+    j = HTTP.post(base, data={"upload_phase": "start", "access_token": FB_TOKEN}, timeout=60).json()
+    if "error" in j or not j.get("video_id"):
+        raise RuntimeError("Reel start: " + str(j.get("error", {}).get("message", j)))
+    vid = j["video_id"]
+    up = j.get("upload_url") or f"https://rupload.facebook.com/video-upload/{GRAPH_VERSION}/{vid}"
+    r = HTTP.post(up, data=video_bytes, timeout=300, headers={
+        "Authorization": f"OAuth {FB_TOKEN}", "offset": "0", "file_size": str(len(video_bytes))})
+    u = r.json() if r.text.strip().startswith("{") else {"error": {"message": r.text[:200]}}
+    if not u.get("success"):
+        raise RuntimeError("Reel upload: " + str(u.get("error", {}).get("message", u)))
+    return vid
+
+
+def fb_reel_finish(vid, caption, video_state="PUBLISHED", publish_at=None):
+    """Reels step 3: PUBLISHED now, SCHEDULED (publish_at = UTC datetime, 10 min–30 days ahead) or DRAFT."""
+    data = {"upload_phase": "finish", "video_id": vid, "video_state": video_state,
+            "description": caption, "access_token": FB_TOKEN}
+    if video_state == "SCHEDULED":
+        data["scheduled_publish_time"] = str(int(publish_at.timestamp()))
+    j = HTTP.post(f"https://graph.facebook.com/{GRAPH_VERSION}/{FB_PAGE_ID}/video_reels", timeout=60, data=data).json()
+    if "error" in j or not j.get("success", True):
+        raise RuntimeError("Reel finish: " + str(j.get("error", {}).get("message", j)))
+    return j
+
+
+def fb_reel_cover(vid, jpg):
+    try:
+        t = HTTP.post(f"https://graph.facebook.com/{GRAPH_VERSION}/{vid}/thumbnails", timeout=60,
+                      data={"is_preferred": "true", "access_token": FB_TOKEN},
+                      files={"source": ("cover.jpg", jpg, "image/jpeg")}).json()
+        log("Reel cover:", "set" if not t.get("error") else t["error"].get("message"))
+    except Exception as e:
+        log("Reel cover failed:", e)
 
 
 def facebook_post_reel(video_bytes, caption):
@@ -3586,7 +3655,7 @@ def people_strips(imgs):
     return base
 
 
-def render_image(headline, label, sources, bg, hide_headline=False, layout=None):
+def render_image(headline, label, sources, bg, hide_headline=False, layout=None, date=None):
     """The 1080x1350 post image. hide_headline=True leaves the headline out (for the Reel typing effect);
     layout (a dict) is filled with where the headline goes: lines, font size, x, y, line height."""
     imgs = []
@@ -3710,7 +3779,7 @@ def render_image(headline, label, sources, bg, hide_headline=False, layout=None)
                               ([bg["inset"]] if bg.get("inset") else []))
     ty = footer_top + (20 if has_credit else 30)
     d.text((M, ty), src, font=sf, fill=SOFT)
-    d.text((W - M, ty), ny_now().strftime("%b %d, %Y").upper(), font=sf, fill=SOFT, anchor="ra")  # US date
+    d.text((W - M, ty), (date or ny_now()).strftime("%b %d, %Y").upper(), font=sf, fill=SOFT, anchor="ra")  # US date
     if has_credit:
         cf = font("Poppins-Medium.ttf", 17)
         credit = "PHOTO: " + " · ".join(re.sub(r"\s*/\s*Wikimedia Commons", " / WIKIMEDIA", p["credit"]).upper()
@@ -3830,6 +3899,347 @@ def send_draft(state, d):
     return True
 
 
+# =============================================================================
+# DAILY ROUNDUP (Stage 3/4): plan → your OK in Telegram → videos (roundup.yml) → reminders
+# This part runs inside the normal bot (it owns Telegram and state.json). The videos are made by
+# bot/roundup.py in its own job (.github/workflows/roundup.yml), which writes only state/roundup.json.
+# =============================================================================
+
+ROUNDUP_FILE = os.path.join(ROOT, "state", "roundup.json")
+ROUNDUP_DISPATCH_FILE = os.environ.get("ROUNDUP_DISPATCH_FILE", "/tmp/7seas_roundup_dispatch.json")
+
+
+def load_roundup_file():
+    try:
+        with open(ROUNDUP_FILE, encoding="utf-8") as f:
+            return json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {}
+
+
+def roundup_day_posts(state, day):
+    """Posts published on New York day `day` (a date), in posting order."""
+    return sorted([d for d in state["drafts"].values()
+                   if d.get("status") == "posted" and d.get("posted_at") and ny_day(d["posted_at"]) == day],
+                  key=lambda d: d["posted_at"])
+
+
+def roundup_times(day, shift=timedelta(0)):
+    """Posting times (UTC datetimes) on the morning after `day`, New York time."""
+    tz = ZoneInfo(SLOT_TIMEZONE)
+    nxt = day + timedelta(days=1)
+    out = []
+    for t in ROUNDUP_TIMES_NY:
+        h, m = (int(x) for x in t.split(":"))
+        out.append(datetime(nxt.year, nxt.month, nxt.day, h, m, tzinfo=tz).astimezone(timezone.utc) + shift)
+    return out
+
+
+ROUNDUP_PROMPT = """You plan the daily video roundup of "7 Seas News", a neutral news page (US first, then the world).
+These are the {count} posts published on {weekday}, {date} (number. [label] headline):
+
+{posts}
+
+Stories already used in yesterday's roundup (drop them unless there is clearly new news in the headline):
+{yesterday}
+
+Make a plan of exactly 3 parts. Default parts, in this order: "{p1}", "{p2}", "{p3}" (you may rename a part
+if the day's news fits better, e.g. "ELECTIONS", "MIDDLE EAST"; short, ALL CAPS, max 18 characters).
+Rules:
+- Drop duplicates (the same story posted twice: keep the most complete headline), minor or filler items
+  (polls, "X discusses", media about media, gossip) and stories from yesterday's roundup.
+- 6 to {max_part} stories per part, {min_total} to {max_total} in total (if there are fewer good posts, use all good ones).
+- Inside a part: the most important story first.
+- "hook": 2 very short sentences (max 95 characters together) with ONLY facts from the headlines of that part. No opinions.
+- "title": max 60 characters, plain facts of the biggest 1-2 stories of the part. Never "today" or "today's".
+- "question": one short neutral question about the part's top story, for comments. "" if it is about deaths or a tragedy.
+- "hashtags": 3 lowercase hashtags for the part, e.g. ["#ukraine", "#uspolitics", "#worldnews"].
+- "tags": 6 lowercase YouTube search tags (words, no #), e.g. ["ukraine war", "us news"].
+Return ONLY JSON: {{"parts": [{{"name": "...", "stories": [numbers], "hook": "...", "title": "...",
+"question": "...", "hashtags": [...], "tags": [...]}}, ... 3 parts], "dropped": [{{"n": number, "why": "max 6 words"}}]}}
+{change}"""
+
+
+def roundup_fallback_plan(posts):
+    """No AI answer: group by label (conflict → US → world), hooks from the first headlines."""
+    groups = [[], [], []]
+    for n, d in enumerate(posts, 1):
+        lab = d.get("label", "")
+        groups[0 if lab == "CONFLICT" else 1 if lab in ("US POLITICS", "ELECTIONS") else 2].append(n)
+    parts = []
+    for i, g in enumerate(groups):
+        g = g[:ROUNDUP_MAX_PER_PART]
+        heads = [posts[n - 1]["headline"] for n in g[:2]]
+        parts.append({"name": ROUNDUP_PARTS[i], "stories": g, "hook": ". ".join(heads)[:95],
+                      "title": heads[0][:60] if heads else ROUNDUP_PARTS[i].title(), "question": "",
+                      "hashtags": [], "tags": []})
+    return {"parts": parts, "dropped": []}
+
+
+def roundup_clean_plan(raw, posts):
+    """Check the AI's plan: 3 parts, valid story numbers, each story once, limits, lowercase tags."""
+    used, parts = set(), []
+    for i, p in enumerate((raw.get("parts") or [])[:3]):
+        nums = []
+        for n in p.get("stories") or []:
+            try:
+                n = int(n)
+            except (TypeError, ValueError):
+                continue
+            if 1 <= n <= len(posts) and n not in used:
+                used.add(n)
+                nums.append(n)
+        nums = nums[:ROUNDUP_MAX_PER_PART]
+        tags = lambda xs, hash_: [("#" if hash_ else "") + re.sub(r"[^a-z0-9 ]" if not hash_ else r"[^a-z0-9]", "",
+                                                                   str(x).lower().lstrip("#")).strip() for x in xs or []]
+        parts.append({
+            "name": re.sub(r"\s+", " ", str(p.get("name") or ROUNDUP_PARTS[min(i, 2)])).upper().strip()[:18],
+            "stories": nums,
+            "hook": str(p.get("hook") or "").strip()[:140],
+            "title": re.sub(r"(?i)\btoday'?s?\b", "", str(p.get("title") or "")).strip(" :-")[:70],
+            "question": str(p.get("question") or "").strip()[:150],
+            "hashtags": [t for t in tags(p.get("hashtags"), True) if len(t) > 1][:4],
+            "tags": [t for t in tags(p.get("tags"), False) if t][:8],
+        })
+    if len(parts) != 3 or any(len(p["stories"]) < 2 for p in parts):
+        raise ValueError("plan needs 3 parts with stories")
+    dropped = [x for x in raw.get("dropped") or [] if isinstance(x, dict)]
+    return {"parts": parts, "dropped": dropped[:40]}
+
+
+def roundup_make_plan(state, day, change="", old=None):
+    posts = roundup_day_posts(state, day)
+    prev = state.get("roundup", {}).get((day - timedelta(days=1)).isoformat(), {})
+    prev_heads = prev.get("headlines") or []
+    lines = "\n".join(f"{n}. [{d.get('label', '')}] {d['headline']}" for n, d in enumerate(posts, 1))
+    ch = ""
+    if change:
+        ch = (f"\nThe owner already saw this plan:\n{json.dumps(old, ensure_ascii=False)}\n"
+              f"The owner asks for this change: \"{change}\"\nMake the change, keep the rest the same, same JSON format.")
+    prompt = ROUNDUP_PROMPT.format(count=len(posts), weekday=f"{day:%A}", date=f"{day:%B} {day.day}, {day.year}",
+                                   posts=lines, yesterday="\n".join(f"- {h}" for h in prev_heads[:40]) or "(none)",
+                                   p1=ROUNDUP_PARTS[0], p2=ROUNDUP_PARTS[1], p3=ROUNDUP_PARTS[2],
+                                   max_part=ROUNDUP_MAX_PER_PART, min_total=min(25, len(posts)),
+                                   max_total=35, change=ch)
+    try:
+        plan = roundup_clean_plan(gemini_json(prompt, temperature=0.3, check=lambda d: d.get("parts")), posts)
+    except Exception as e:
+        log("Roundup plan: AI failed, using the simple plan:", e)
+        if change:
+            raise
+        plan = roundup_clean_plan(roundup_fallback_plan(posts), posts)
+    plan["ids"] = [d["id"] for d in posts]          # story number n = ids[n-1]
+    return plan
+
+
+def roundup_plan_text(day, info):
+    plan = info["plan"]
+    posts = {d_id: n for n, d_id in enumerate(plan["ids"], 1)}
+    times = roundup_times(day)
+    head = "🧪 <b>TEST roundup</b> (no uploads)" if info.get("test") else "🎬 <b>Daily roundup</b>"
+    total = sum(len(p["stories"]) for p in plan["parts"])
+    out = [f"{head} · {day:%A}, {day:%b} {day.day} (New York) · {total} stories",
+           "Posts at " + " / ".join(f"{ny_time(t)}" for t in times) + " NY ("
+           + " / ".join(lk_time(t) for t in times) + " SL)", ""]
+    for i, p in enumerate(plan["parts"], 1):
+        out.append(f"<b>PART {i}/3 · {html.escape(p['name'])}</b> ({len(p['stories'])})")
+        out.append(f"<i>{html.escape(p['hook'])}</i>")
+        for k, n in enumerate(p["stories"], 1):
+            out.append(f"{k}. {html.escape(info['heads'][n - 1][:90])}")
+        out.append("")
+    if plan.get("dropped"):
+        out.append(f"🗑 Left out: {len(plan['dropped'])} (" + html.escape(", ".join(
+            str(x.get("why", ""))[:30] for x in plan["dropped"][:4])) + ")")
+    if not info.get("test"):
+        if ROUNDUP_APPROVAL == "ask":
+            auto = datetime.fromisoformat(info["asked_at"]) + timedelta(hours=ROUNDUP_AUTO_APPROVE_HOURS)
+            out.append(f"\nNo answer by {lk_time(auto)} SL → approved by itself.")
+        out.append("✏️ To change it: tap ✏️ Change, or reply to this message with what to change.")
+    text = "\n".join(out)
+    while len(text) > 4000:                          # Telegram limit: shorten the headlines
+        out = [ln[:70] + "…" if re.match(r"\d+\. ", ln) and len(ln) > 72 else ln for ln in out]
+        text = "\n".join(out)
+        if all(len(ln) <= 72 for ln in out if re.match(r"\d+\. ", ln)):
+            text = text[:4000]
+    return text
+
+
+def roundup_buttons(day):
+    return {"inline_keyboard": [[{"text": "✅ Approve", "callback_data": f"rok:{day}"},
+                                 {"text": "✏️ Change", "callback_data": f"rchg:{day}"},
+                                 {"text": "⏭ Skip today", "callback_data": f"rskip:{day}"}]]}
+
+
+def roundup_send_plan(state, day_s):
+    info = state["roundup"][day_s]
+    day = datetime.fromisoformat(day_s).date()
+    j = tg("sendMessage", chat_id=TG_CHAT, text=roundup_plan_text(day, info), parse_mode="HTML",
+           disable_web_page_preview="true",
+           **({} if info.get("test") or info["status"] != "asked" else {"reply_markup": roundup_buttons(day_s)}))
+    if j.get("ok"):
+        info["msg_id"] = j["result"]["message_id"]
+
+
+def roundup_start(state, day_s, test=False):
+    """Make the plan for New York day day_s and send it to Telegram (test = no uploads, approved at once)."""
+    day = datetime.fromisoformat(day_s).date()
+    posts = roundup_day_posts(state, day)
+    rs = state.setdefault("roundup", {})
+    if len(posts) < ROUNDUP_MIN_POSTS:
+        rs[day_s] = {"status": "skipped", "why": f"only {len(posts)} posts"}
+        tg_text(f"🎬 No roundup for {day:%A, %b} {day.day}: only {len(posts)} posts.")
+        return
+    plan = roundup_make_plan(state, day)
+    rs[day_s] = {"status": "asked", "plan": plan, "heads": [d["headline"] for d in posts],
+                 "asked_at": now_utc().isoformat(), "test": bool(test)}
+    if test or ROUNDUP_APPROVAL != "ask":
+        rs[day_s]["status"] = "approved"
+        roundup_send_plan(state, day_s)
+        roundup_approve(state, day_s, "test" if test else "auto")
+    else:
+        roundup_send_plan(state, day_s)
+    log("Roundup plan sent:", day_s, "test" if test else "")
+
+
+def roundup_request_build(day_s, test):
+    """Ask the workflow (bot.yml, after the memory is saved) to start the video job roundup.yml."""
+    try:
+        reqs = json.load(open(ROUNDUP_DISPATCH_FILE)) if os.path.exists(ROUNDUP_DISPATCH_FILE) else []
+    except Exception:
+        reqs = []
+    reqs.append({"day": day_s, "test": "true" if test else "false"})
+    with open(ROUNDUP_DISPATCH_FILE, "w") as f:
+        json.dump(reqs, f)
+
+
+def roundup_approve(state, day_s, by):
+    info = state["roundup"][day_s]
+    sel = [n for p in info["plan"]["parts"] for n in p["stories"]]
+    info.update(status="building", approved_by=by, approved_at=now_utc().isoformat(),
+                dispatch_at=now_utc().isoformat(), dispatch_tries=1,
+                headlines=[info["heads"][n - 1] for n in sel])
+    roundup_request_build(day_s, info.get("test"))
+    if info.get("msg_id") and not info.get("test"):
+        tg("editMessageReplyMarkup", chat_id=TG_CHAT, message_id=info["msg_id"], reply_markup={"inline_keyboard": []})
+    who = {"owner": "✅ Approved", "auto": "✅ Approved automatically (no answer in "
+                                         f"{ROUNDUP_AUTO_APPROVE_HOURS} h)", "test": "🧪 Test"}.get(by, "✅ Approved")
+    tg_text(f"{who} — making the roundup videos now (about 10–20 min). I'll send everything when ready.")
+
+
+def handle_roundup_tap(state, action, day_s):
+    info = state.get("roundup", {}).get(day_s)
+    if not info:
+        return
+    if action == "rdone":                           # ✅ Posted (TikTok reminder): day:n
+        return
+    if info.get("status") != "asked":
+        tg_text("That roundup was already " + ("approved" if info.get("status") in ("building", "built") else
+                                               info.get("status", "handled")) + ".")
+        return
+    if action == "rok":
+        roundup_approve(state, day_s, "owner")
+    elif action == "rskip":
+        info["status"] = "skipped"
+        tg("editMessageReplyMarkup", chat_id=TG_CHAT, message_id=info.get("msg_id"), reply_markup={"inline_keyboard": []})
+        tg_text("⏭ No roundup videos for that day.")
+    elif action == "rchg":
+        tg_text("✏️ <b>Reply to the plan message</b> with what to change, e.g.\n"
+                "• <i>move the Gaza story to Part 1</i>\n• <i>drop number 5 in Part 3</i>\n"
+                "• <i>call Part 2 ELECTIONS</i>")
+
+
+def roundup_change(state, day_s, text):
+    info = state["roundup"][day_s]
+    day = datetime.fromisoformat(day_s).date()
+    old = {k: v for k, v in info["plan"].items() if k != "ids"}
+    try:
+        info["plan"] = roundup_make_plan(state, day, change=text[:500], old=old)
+    except Exception as e:
+        tg_text(f"⚠️ I couldn't change the plan ({html.escape(str(e))[:150]}). Try other words, or ✅ Approve.")
+        return
+    if info.get("msg_id"):
+        tg("editMessageReplyMarkup", chat_id=TG_CHAT, message_id=info["msg_id"], reply_markup={"inline_keyboard": []})
+    info["asked_at"] = now_utc().isoformat()          # the 3 hours start again
+    roundup_send_plan(state, day_s)
+
+
+def find_roundup_by_message(state, message_id):
+    for day_s, info in state.get("roundup", {}).items():
+        if info.get("msg_id") == message_id and info.get("status") == "asked":
+            return day_s
+    return None
+
+
+def roundup_due(state):
+    """Every run: start the plan after New York midnight, approve by itself after ROUNDUP_AUTO_APPROVE_HOURS,
+    restart a video job that never answered, TikTok reminders and the Facebook fallback at posting time."""
+    if not ROUNDUP_ENABLED:
+        return
+    rs = state.setdefault("roundup", {})
+    now = now_utc()
+    yesterday = ny_now().date() - timedelta(days=1)
+    ys = yesterday.isoformat()
+    if ys >= ROUNDUP_START_DAY and ys not in rs and ny_now().hour < 11:
+        roundup_start(state, ys)
+    results = load_roundup_file()
+    for day_s, info in list(rs.items()):
+        st = info.get("status")
+        if st == "asked" and ROUNDUP_APPROVAL == "ask" and \
+                now - datetime.fromisoformat(info["asked_at"]) >= timedelta(hours=ROUNDUP_AUTO_APPROVE_HOURS):
+            roundup_approve(state, day_s, "auto")
+        elif st == "building":
+            res = results.get(day_s)
+            if res and res.get("built_at") and res["built_at"] >= info.get("dispatch_at", ""):
+                info["status"] = "built" if not res.get("error") else "failed"
+            elif now - datetime.fromisoformat(info["dispatch_at"]) > timedelta(minutes=80):
+                if info.get("dispatch_tries", 1) < 2:
+                    info.update(dispatch_at=now.isoformat(), dispatch_tries=2)
+                    roundup_request_build(day_s, info.get("test"))
+                    log("Roundup job didn't answer, asking again:", day_s)
+                else:
+                    info["status"] = "failed"
+                    tg_text(f"⚠️ The roundup videos for {day_s} were not made (the video job didn't run twice). "
+                            "Check GitHub → Actions → 7 Seas Roundup Videos.")
+        if info.get("status") == "built" and not info.get("test"):
+            res = results.get(day_s) or {}
+            for n, part in enumerate(res.get("parts") or [], 1):
+                try:
+                    roundup_part_due(state, day_s, info, n, part)
+                except Exception as e:
+                    log("Roundup reminder/publish error:", day_s, n, e)
+    for day_s in sorted(rs)[:-8]:                    # keep about a week
+        rs.pop(day_s, None)
+
+
+def roundup_part_due(state, day_s, info, n, part):
+    """At a part's posting time: TikTok reminder (✅ Posted button) and, if Facebook didn't accept the schedule,
+    publish the Reel draft now."""
+    if not part.get("post_at"):
+        return
+    at = datetime.fromisoformat(part["post_at"])
+    now = now_utc()
+    if now < at or now > at + timedelta(hours=6):
+        return
+    done = info.setdefault("done", {})
+    if ROUNDUP_TIKTOK and not done.get(f"tt{n}"):
+        done[f"tt{n}"] = True
+        tg("sendMessage", chat_id=TG_CHAT, parse_mode="HTML",
+           text=(f"⏰ <b>Time to post TikTok Part {n}/3</b> ({html.escape(part.get('name', ''))})\n"
+                 "The slides + title + caption are in your content channel.\n"
+                 "☑️ TikTok's \"AI-generated content\" label: not needed (no AI images in the slides)."),
+           reply_markup={"inline_keyboard": [[{"text": "✅ Posted", "callback_data": f"rdone:{day_s}:{n}"}]]})
+    fb = part.get("fb") or {}
+    if fb.get("state") == "draft" and fb.get("id") and not done.get(f"fb{n}"):
+        done[f"fb{n}"] = True
+        try:
+            fb_reel_finish(fb["id"], fb.get("caption", ""), "PUBLISHED")
+            tg_text(f"✅ Facebook roundup Part {n}/3 published.")
+        except Exception as e:
+            tg_text(f"⚠️ Facebook roundup Part {n}/3 could not be published: <code>{html.escape(str(e))[:200]}</code>\n"
+                    "It is saved as a draft in Meta Business Suite → Content → Drafts (publish it by hand), "
+                    "and the video is in your content channel.")
+
+
 def photo_test(state, n=10):
     """Live dry run of the photo check: choose new backgrounds for the last n posts and send the images
     to the bot chat with the AI's score. Nothing is published or changed."""
@@ -3860,6 +4270,8 @@ def run_once_jobs(state):
     for job in RUN_ONCE:
         if job in done:
             continue
+        if job.startswith("roundup_test:") and job.split(":", 1)[1][:10] >= ny_now().date().isoformat():
+            continue                                 # that New York day isn't over yet: wait
         done.append(job)
         log("Run-once job:", job)
         try:
@@ -4136,6 +4548,11 @@ def main():
             day_packs_due(state)
         except Exception as e:
             log("Day pack error:", e)
+        try:
+            roundup_due(state)
+        except Exception as e:
+            log("Roundup error:", e)
+            traceback.print_exc()
         try:
             run_once_jobs(state)
         except Exception as e:

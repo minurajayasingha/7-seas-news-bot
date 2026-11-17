@@ -14,6 +14,7 @@ on:
 
 permissions:
   contents: write
+  actions: write            # lets the bot start the roundup video job (roundup.yml)
 
 concurrency:
   group: news-bot
@@ -75,3 +76,23 @@ jobs:
             sleep 5
           done
           exit 1
+
+      # The bot asks for the daily roundup videos by writing this file. Started only AFTER the memory is saved,
+      # so the video job reads the approved plan.
+      - name: Start roundup video job (if the bot asked for it)
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          f=/tmp/7seas_roundup_dispatch.json
+          [ -f "$f" ] || exit 0
+          python - "$f" <<'PY'
+          import json, os, sys, requests
+          for r in json.load(open(sys.argv[1])):
+              res = requests.post(f"https://api.github.com/repos/{os.environ['REPO']}/actions/workflows/roundup.yml/dispatches",
+                                  headers={"Authorization": f"Bearer {os.environ['GH_TOKEN']}",
+                                           "Accept": "application/vnd.github+json"},
+                                  json={"ref": "main", "inputs": {"day": r["day"], "test": r["test"]}}, timeout=30)
+              print("roundup job", r, "->", res.status_code, res.text[:200])
+          PY

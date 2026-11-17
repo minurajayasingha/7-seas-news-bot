@@ -88,3 +88,53 @@ focus topics (US / war words), excluded topics and news sources. You never need 
 - **"Invalid token" from Facebook** → new Page token → update `FB_PAGE_TOKEN`.
 - Check the **Actions** tab → latest run → logs.
 - In VS Code, always **Sync Changes before** you edit, because the bot saves its memory to GitHub every run.
+
+## Daily roundup videos (made by the bot)
+
+Every day after **midnight New York** the bot plans 3 roundup videos of the day's posts
+(default: WAR & CONFLICT → US NEWS → WORLD NEWS) and sends you the **plan** in Telegram:
+
+- **✅ Approve** → it makes the videos (about 10–20 min) and schedules them
+- **✏️ Change** → reply to the plan message with what to change, e.g. *"move the Gaza story to Part 1"*
+- **⏭ Skip today** → no videos that day
+- **No answer within 3 hours** → the bot approves by itself (`ROUNDUP_AUTO_APPROVE_HOURS` in settings)
+
+Posting times: **8:00 / 10:00 / 12:00 New York** (6:30 / 8:30 / 10:30 PM Sri Lanka in winter).
+`/roundup` shows what happened; `/roundup test` makes a test of yesterday (Telegram only, nothing uploaded).
+
+What happens after approval:
+- **Facebook** – each part is uploaded as a Reel, scheduled at its time (`ROUNDUP_FACEBOOK`).
+  If Facebook refuses scheduling, it is saved as a draft and the bot publishes it at the time.
+- **YouTube** – each part becomes a scheduled Short (`ROUNDUP_YOUTUBE`, needs the setup below).
+- **TikTok** – you post it yourself with a trending sound. In your content channel (`/tiktok`) you get, per part:
+  the title + caption (tap a grey box to copy it), the slides as photo albums (cover first) and a zip of the slides.
+  At each posting time the bot reminds you ("⏰ Time to post TikTok Part n/3") with a ✅ Posted button.
+- **Backup** – the 3 videos, the covers and `DESCRIPTIONS-AND-TIMES.txt` (all titles, captions, tags, times)
+  are always sent to the content channel too, so you can post by hand if something fails.
+
+### Save a Telegram album to your phone (for TikTok)
+- **Android:** open the album → tap the first photo → ⋮ (top right) → **Save to gallery**.
+  Do it for each photo, or long-press one photo in the chat → select the others → ⋮ → **Save to gallery**.
+- **iPhone:** long-press one photo in the chat → **Select** → tap all photos of the album → **Save** (share icon → Save N images).
+- In TikTok: **＋** → **Upload** → **Photos** → tap the slides in order **1, 2, 3…** (the number is in each photo's caption)
+  → add a trending sound → paste the title + caption. Turn on TikTok's "AI-generated content" label **only** if a slide
+  uses an AI image (the bot never makes AI images).
+
+### YouTube setup (one time, about 15 minutes)
+1. Go to **console.cloud.google.com** → create a project (e.g. "7 Seas Bot").
+2. **APIs & Services → Library** → search **YouTube Data API v3** → **Enable**.
+3. **APIs & Services → OAuth consent screen** → External → fill in the app name + your email → add yourself as a
+   test user → then **Publish app** so the status is **"In production"**
+   (in "Testing" the login stops working after 7 days).
+4. **APIs & Services → Credentials → Create credentials → OAuth client ID → Desktop app** → copy the
+   **Client ID** and **Client secret**.
+5. On your computer, in this repo folder: `python3 tools/youtube_token.py` → paste the two values → log in with the
+   Google account of the **YouTube channel** → allow → it prints the **refresh token**. (Google may say the app is
+   "unverified": click *Advanced → Go to 7 Seas Bot*. It's your own app.)
+6. GitHub → repo → **Settings → Secrets and variables → Actions** → add `YT_CLIENT_ID`, `YT_CLIENT_SECRET`,
+   `YT_REFRESH_TOKEN`.
+7. In `bot/settings.py` set `ROUNDUP_YOUTUBE = True` → commit → sync.
+8. After the first day, open YouTube Studio → Content: the 3 Shorts should say **Scheduled**. If Google keeps them
+   **locked as private** ("unverified API project"), fill in YouTube's API audit form for the project
+   (search "YouTube API Services Audit and Quota Extension Form"); until then they can be published by hand in Studio.
+   Custom thumbnails need a **verified channel** (YouTube Studio → Settings → Channel → Feature eligibility).

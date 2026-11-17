@@ -2,7 +2,7 @@
 
 Status: **Stage 1 done (17 Nov 2026)** — watch 2 days of posts before Stage 2.
 **Stage 2 done (17 Nov 2026)** — the AI looks at every photo.
-Stage 3 (roundup videos) · Stage 4 (uploads): in progress.
+**Stages 3 + 4 done (17 Nov 2026)** — roundup videos, TikTok slides to Telegram, Facebook Reels scheduled; YouTube coded but off until the owner adds the YT_ secrets.
 
 Written 17 Nov 2026 after reading the repo and the bot memory (posts from 12–16 Nov).
 

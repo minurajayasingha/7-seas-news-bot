@@ -360,8 +360,29 @@ FEEDS = {
     "Axios": ["https://api.axios.com/feed/"],   # (CNN's RSS feeds are dead since 2023: not used)
 }
 
+# ---------- Daily roundup videos (3 parts, made by the bot after midnight New York) ----------
+# After NY midnight the bot sends you the PLAN in Telegram (✅ Approve · ✏️ Change · ⏭ Skip today).
+# Reply to the plan with words to change it ("move the Gaza story to Part 1"). Then it makes the 3 videos,
+# uploads them (scheduled) and sends the TikTok slides + captions to your content channel (/tiktok).
+ROUNDUP_ENABLED = True
+ROUNDUP_START_DAY = "2026-11-17"     # first New York day that gets real roundup videos (older days: none)
+ROUNDUP_APPROVAL = "ask"             # "ask" = send the plan and wait for you; "auto" = never ask
+ROUNDUP_AUTO_APPROVE_HOURS = 3       # "ask": no answer within this many hours → the bot approves by itself
+ROUNDUP_TIMES_NY = ["08:00", "10:00", "12:00"]   # posting times (New York) of Part 1/2/3, the next morning.
+                                     # (= 6:30 / 8:30 / 10:30 PM Sri Lanka in winter). Late? All three move together.
+ROUNDUP_PARTS = ["WAR & CONFLICT", "US NEWS", "WORLD NEWS"]   # default part names (the AI may rename for the day)
+ROUNDUP_MAX_PER_PART = 14            # max stories per part (keeps each video under Facebook's 90 s)
+ROUNDUP_MIN_POSTS = 9                # fewer posts that day → no roundup
+ROUNDUP_MUSIC = "off"                # "off" = only the bot's own sounds; or a folder, e.g. "assets/music", of
+                                     # royalty-free tracks you add (played quietly under the sounds)
+ROUNDUP_FACEBOOK = True              # upload each part as a Facebook Reel, scheduled at its time
+ROUNDUP_YOUTUBE = False              # upload each part as a YouTube Short (needs the YT_… secrets, see README)
+ROUNDUP_TIKTOK = True                # send the TikTok slides + title + caption to your content channel
+                                     # (you post them in the TikTok app with a trending sound)
+TIKTOK_SLIDES_AS = "photos"          # "photos" = albums you can save on your phone; "files" = full quality files
+
 # ---------- One-time test jobs ----------
 # Each id runs ONCE on the next bot run (the bot remembers it). Change the id (e.g. add "b") to run it again.
 #   "phototest:<id>"           = new photos for the last 10 posts, sent to Telegram with the AI's score (nothing published)
 #   "roundup_test:YYYY-MM-DD"  = the daily roundup of that New York day, sent to Telegram only (no uploads)
-RUN_ONCE = ["phototest:2026-11-17"]
+RUN_ONCE = ["phototest:2026-11-17", "roundup_test:2026-11-16"]
