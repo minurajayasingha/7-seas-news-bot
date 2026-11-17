@@ -13518,7 +13518,11 @@
   "https://www.newsweek.com/jd-vance-slams-neoconservatives-over-iran-forever-war-12724399",
   "https://www.washingtonexaminer.com/news/white-house/4805575/vance-neoconservatives-forever-war-iran/",
   "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
-  "https://www.cbsnews.com/news/protests-philippines-trump-visit-ai-hub/"
+  "https://www.cbsnews.com/news/protests-philippines-trump-visit-ai-hub/",
+  "https://www.euronews.com/2026/11/17/japan-scrambles-jets-after-suspected-russian-planes-enter-airspace-tokyo-says",
+  "https://kyivindependent.com/south-korea-scrambles-fighter-jets-after-russian-military-aircraft-enter-air-defense-zone/",
+  "https://www.nytimes.com/2026/11/17/world/asia/trump-manila-asean-late.html",
+  "https://www.independent.co.uk/news/world/americas/taiwan-donald-trump-china-xi-jinping-beijing-b3086149.html"
  ],
  "recent_topics": [
   [
@@ -15533,19 +15537,33 @@
     "war"
    ],
    "9efce15ccb"
+  ],
+  [
+   "2026-11-17T07:01:22.323045+00:00",
+   [
+    "apec",
+    "asean",
+    "backseat",
+    "meet",
+    "miss",
+    "most",
+    "summit",
+    "taiwan",
+    "tak",
+    "third",
+    "tim",
+    "trump"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-17T06:45:30.992254+00:00",
+ "last_draft_at": "2026-11-17T07:00:46.451782+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 10,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-17T06:30:42.619311+00:00",
  "run_log": [
-  "11-17 04:31:17 run start",
-  "11-17 04:31:52 listening 11 min",
-  "11-17 04:42:46 listening done",
-  "11-17 04:42:46 run end after 689 s",
   "11-17 04:45:37 run start",
   "11-17 04:45:46 listening 11 min",
   "11-17 04:57:05 listening done",
@@ -15581,7 +15599,11 @@
   "11-17 06:45:30 run start",
   "11-17 06:46:35 listening 10 min",
   "11-17 06:57:03 listening done",
-  "11-17 06:57:03 run end after 692 s"
+  "11-17 06:57:03 run end after 692 s",
+  "11-17 07:00:46 run start",
+  "11-17 07:01:22 listening 11 min",
+  "11-17 07:12:16 listening done",
+  "11-17 07:12:16 run end after 690 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
