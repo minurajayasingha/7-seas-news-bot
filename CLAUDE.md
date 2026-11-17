@@ -61,7 +61,9 @@ Never South Asia news. Real, verified news only: a story needs 2+ different outl
   45 % dark zoom of rows 170–900 feathered 120 px; counter pill) typed headline + clicks, hold 2.2 s (shortened so ≤ 88 s),
   end card; progress line y 0–8. post_times(): ROUNDUP_TIMES_NY 7:55/9:55/11:55 NY next morning, shifted together if
   late (not in test).
-  Uploads (not test): facebook_upload (fb_reel_upload → finish SCHEDULED, refused → DRAFT), youtube_upload (resumable,
+  Uploads (not test): facebook_upload (fb_reel_upload → fb_reel_cover BEFORE finish (+1 retry after) → finish SCHEDULED,
+  refused → DRAFT); fb/yt results carry "thumb" ("set" or reason); not set → bot chat gets the 9:16 cover + Studio/
+  Business Suite link + reason per part (manual thumbnail reminder); youtube_upload (resumable,
   private + publishAt, category 25, thumbnail best effort; ROUNDUP_YOUTUBE + YT_* secrets). Each retried once.
   Telegram to the content channel: per part text (both times + NY date, title/caption in <code>), sendMediaGroup
   albums (≥2 per album); then ONE backup zip (texts, covers, full slides). results[n]["tt"] = TikTok status.

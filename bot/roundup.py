@@ -261,6 +261,7 @@ def facebook_upload(video, cover_jpg, texts, post_at):
     """Reel scheduled for post_at. If Facebook refuses to schedule Reels: saved as a draft, and the normal bot
     publishes it at the time."""
     vid = retry_once("Facebook upload", lambda: M.fb_reel_upload(video))
+    thumb = M.fb_reel_cover(vid, cover_jpg)          # before scheduling: Facebook takes it best then
     try:
         retry_once("Facebook schedule", lambda: M.fb_reel_finish(vid, texts["fb_caption"], "SCHEDULED", post_at))
         st = "scheduled"
@@ -268,8 +269,9 @@ def facebook_upload(video, cover_jpg, texts, post_at):
         log("Facebook won't schedule the Reel, saving it as a draft:", e)
         M.fb_reel_finish(vid, texts["fb_caption"], "DRAFT")
         st = "draft"
-    M.fb_reel_cover(vid, cover_jpg)
-    return {"id": vid, "state": st, "caption": texts["fb_caption"]}
+    if thumb != "set":
+        thumb = M.fb_reel_cover(vid, cover_jpg)
+    return {"id": vid, "state": st, "caption": texts["fb_caption"], "thumb": thumb}
 
 
 def yt_token():
@@ -305,15 +307,20 @@ def youtube_upload(video, thumb_jpg, texts, post_at):
     j = retry_once("YouTube upload", go)
     vid = j["id"]
     status = (j.get("status") or {})
+    thumb = "set"
     try:
         t = M.HTTP.post(f"https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId={vid}", data=thumb_jpg,
                         timeout=60, headers={"Authorization": f"Bearer {tok}", "Content-Type": "image/jpeg"})
         if t.status_code >= 300:
-            log("YouTube thumbnail not set (needs a verified channel):", t.text[:200])
+            try:
+                thumb = str(t.json()["error"]["message"])[:200]
+            except Exception:
+                thumb = f"HTTP {t.status_code}: {t.text[:150]}"
     except Exception as e:
-        log("YouTube thumbnail failed:", e)
+        thumb = str(e)[:200]
+    log("YouTube thumbnail:", thumb)
     return {"id": vid, "state": "scheduled" if status.get("publishAt") else status.get("privacyStatus", "uploaded"),
-            "url": f"https://youtube.com/shorts/{vid}"}
+            "url": f"https://youtube.com/shorts/{vid}", "thumb": thumb}
 
 
 # =============================================================================
@@ -501,6 +508,26 @@ def run(day_s, test=False):
     M.tg("sendDocument", chat_id=ch, caption="📦 TikTok zip: one folder per part (slides in order + CAPTION.txt)"
                                               + ("" if full else " — slides too big, only covers + captions"),
          files={"document": (f"7seas_roundup_{day:%Y-%m-%d}.zip", data, "application/zip")})
+
+    # thumbnails the bot could not set → ONE reminder per part in the bot chat: the cover + where to set it
+    if not test:
+        for p, r in zip(parts_out, results):
+            todo = []
+            yt, fb = r.get("yt") or {}, r.get("fb") or {}
+            if yt.get("id") and yt.get("thumb", "set") != "set":
+                hint = (" → verify the channel once at youtube.com/verify (custom thumbnails need it)"
+                        if "permission" in yt["thumb"].lower() or "forbidden" in yt["thumb"].lower() else "")
+                todo.append(f'▶️ <a href="https://studio.youtube.com/video/{yt["id"]}/edit">YouTube Studio</a> → '
+                            f"Thumbnail → Upload file\n<i>Why: {esc(yt['thumb'])}{hint}</i>")
+            if fb.get("id") and fb.get("thumb", "set") != "set":
+                todo.append(f'📘 <a href="https://business.facebook.com/latest/content_calendar">Meta Business Suite</a>'
+                            f" → Planner → this Reel → Edit → Cover → Upload\n<i>Why: {esc(fb['thumb'])}</i>")
+            if todo:
+                M.tg("sendDocument", chat_id=M.TG_CHAT, parse_mode="HTML",
+                     caption=(f"🖼 <b>Set the thumbnail by hand</b> · Part {p['n']}/{p['part'].get('of', 3)} · "
+                              f"{esc(p['name'])} · goes live {when(p['at'])}\n\n" + "\n\n".join(todo))[:1024],
+                     files={"document": (f"thumbnail_part{p['n']}_1080x1920.jpg", jpg(RD.cover_9x16(p["cover"])),
+                                         "image/jpeg")})
 
     # a video goes to the bot chat only when you must post it by hand (an upload failed / nothing uploaded) or in a test
     for p, r in zip(parts_out, results):

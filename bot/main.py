@@ -1432,13 +1432,16 @@ def fb_reel_finish(vid, caption, video_state="PUBLISHED", publish_at=None):
 
 
 def fb_reel_cover(vid, jpg):
+    """Custom cover (thumbnail) of a Reel. Returns "set" or the reason it failed (never raises)."""
     try:
         t = HTTP.post(f"https://graph.facebook.com/{GRAPH_VERSION}/{vid}/thumbnails", timeout=60,
                       data={"is_preferred": "true", "access_token": FB_TOKEN},
                       files={"source": ("cover.jpg", jpg, "image/jpeg")}).json()
-        log("Reel cover:", "set" if not t.get("error") else t["error"].get("message"))
+        res = "set" if not t.get("error") else str(t["error"].get("message") or t["error"])[:200]
     except Exception as e:
-        log("Reel cover failed:", e)
+        res = str(e)[:200]
+    log("Reel cover:", res)
+    return res
 
 
 def facebook_post_reel(video_bytes, caption):
