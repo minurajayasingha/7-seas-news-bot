@@ -13487,27 +13487,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-14T16:00:42.005454+00:00",
-   [
-    "brief",
-    "call",
-    "conferenc",
-    "duffy",
-    "faa",
-    "green",
-    "hold",
-    "money",
-    "mullin",
-    "outag",
-    "press",
-    "sean",
-    "secretary",
-    "shakedown",
-    "transportation"
-   ],
-   "3e31ede6e1"
-  ],
-  [
    "2026-11-14T17:16:31.281624+00:00",
    [
     "alaska",
@@ -15682,17 +15661,13 @@
    "f53bf1b32d"
   ]
  ],
- "last_draft_at": "2026-11-17T15:45:40.544566+00:00",
+ "last_draft_at": "2026-11-17T16:00:48.269072+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-17T15:30:53.418612+00:00",
  "run_log": [
-  "11-17 13:31:11 run start",
-  "11-17 13:34:12 listening 8 min",
-  "11-17 13:43:00 listening done",
-  "11-17 13:43:00 run end after 709 s",
   "11-17 13:45:51 run start",
   "11-17 13:46:19 listening 11 min",
   "11-17 13:57:40 listening done",
@@ -15728,7 +15703,11 @@
   "11-17 15:45:40 run start",
   "11-17 15:46:00 listening 11 min",
   "11-17 15:57:19 listening done",
-  "11-17 15:57:19 run end after 699 s"
+  "11-17 15:57:19 run end after 699 s",
+  "11-17 16:00:47 run start",
+  "11-17 16:01:07 listening 11 min",
+  "11-17 16:12:26 listening done",
+  "11-17 16:12:26 run end after 698 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
