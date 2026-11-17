@@ -13395,50 +13395,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-14T15:16:15.099174+00:00",
-   [
-    "around",
-    "bomb",
-    "credibl",
-    "deem",
-    "devic",
-    "ethanol",
-    "evacuation",
-    "fbi",
-    "forc",
-    "found",
-    "illinoi",
-    "investigat",
-    "mass",
-    "peoria",
-    "plant",
-    "threat",
-    "trigger"
-   ],
-   "75239d1ff5"
-  ],
-  [
-   "2026-11-14T15:16:36.128796+00:00",
-   [
-    "auto",
-    "canada",
-    "carney",
-    "conclud",
-    "deal",
-    "draw",
-    "fre",
-    "job",
-    "lin",
-    "mark",
-    "philippin",
-    "red",
-    "talk",
-    "trad",
-    "trump"
-   ],
-   "7ddbfe2749"
-  ],
-  [
    "2026-11-14T16:00:42.005454+00:00",
    [
     "brief",
@@ -15615,17 +15571,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-17T15:01:25.879339+00:00",
+ "last_draft_at": "2026-11-17T15:15:37.423984+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-17T14:31:11.938142+00:00",
  "run_log": [
-  "11-17 12:45:43 run start",
-  "11-17 12:50:02 listening 7 min",
-  "11-17 12:57:09 listening done",
-  "11-17 12:57:09 run end after 686 s",
   "11-17 13:00:45 run start",
   "11-17 13:05:20 listening 7 min",
   "11-17 13:12:15 listening done",
@@ -15661,7 +15613,11 @@
   "11-17 15:01:25 run start",
   "11-17 15:01:26 listening 11 min",
   "11-17 15:13:13 listening done",
-  "11-17 15:13:13 run end after 707 s"
+  "11-17 15:13:13 run end after 707 s",
+  "11-17 15:15:36 run start",
+  "11-17 15:15:56 listening 11 min",
+  "11-17 15:27:15 listening done",
+  "11-17 15:27:15 run end after 698 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -19443,6 +19399,7 @@
   "roundup_test:2026-11-16",
   "yttest:1",
   "roundup_test:2026-11-16b",
-  "roundup_real:2026-11-16"
+  "roundup_real:2026-11-16",
+  "roundup_preview:2026-11-16"
  ]
 }
