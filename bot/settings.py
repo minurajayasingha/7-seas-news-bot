@@ -396,4 +396,4 @@ TIKTOK_SLIDES_AS = "photos"          # "photos" = albums you can save on your ph
 #   "phototest:<id>"           = new photos for the last 10 posts, sent to Telegram with the AI's score (nothing published)
 #   "roundup_test:YYYY-MM-DD"  = the daily roundup of that New York day, sent to Telegram only (no uploads)
 #   "yttest:<id>"              = YouTube check: private 3 s video, read back if scheduling works, then deleted
-RUN_ONCE = ["phototest:2026-11-17", "roundup_test:2026-11-16", "yttest:1"]
+RUN_ONCE = ["phototest:2026-11-17", "roundup_test:2026-11-16", "yttest:1", "roundup_test:2026-11-16b"]
