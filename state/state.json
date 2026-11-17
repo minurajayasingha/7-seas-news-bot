@@ -12197,6 +12197,101 @@
     "shares": 0
    },
    "stats_at": "2026-11-17T06:30:42.619311+00:00"
+  },
+  "9efce15ccb": {
+   "id": "9efce15ccb",
+   "headline": "Hundreds arrested in Manila protests over Donald Trump visit",
+   "summary": "Hundreds of people have been arrested in Manila during demonstrations against Donald Trump. Organisers report that up to 10,000 people could participate in upcoming protests ahead of the US president's arrival for the Asean summit.",
+   "label": "DIPLOMACY",
+   "hook": "Will the planned protests disrupt the upcoming Asean summit in Manila?",
+   "key_points": [
+    "Demonstrations focus on anger over the Iran war and an AI pact.",
+    "Protesters are criticizing a Trump administration project to build an artificial intelligence hub.",
+    "Crowds are expected to try to walk to the summit site."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Philippines",
+    "#DonaldTrump",
+    "#AseanSummit"
+   ],
+   "sources": [
+    "CBS News",
+    "The Guardian"
+   ],
+   "link": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
+   "links": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/news/protests-philippines-trump-visit-ai-hub/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Aerial_view_of_Manila%27s_city_center_area_%28Padre_Burgos_area%29_in_Ermita%2C_Manila.jpg",
+      "credit": "Patrick Roque (talk) (Uploads) / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 9,
+      "shows": "Manila city center aerial view"
+     }
+    ],
+    "inset": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credit": "Shealeah Craighead / Wikimedia Commons (Public domain)",
+     "short": "WIKIMEDIA COMMONS",
+     "score": 10,
+     "shows": "Donald Trump smiling"
+    }
+   },
+   "img_post": {
+    "headline": "Hundreds arrested in Manila protests over Donald Trump visit",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "Manila skyline",
+    "image_queries": [
+     "Manila street protest",
+     "Asean summit venue",
+     "Manila city center",
+     "protest signs crowd"
+    ],
+    "image_style": "scene",
+    "location": "Manila, Philippines",
+    "nearby_city": "Manila, Philippines",
+    "event_query": "Manila anti Trump protest",
+    "topic_photo": "protest crowd",
+    "label": "DIPLOMACY",
+    "news_time": "2026-11-17T03:39:00+00:00"
+   },
+   "created_at": "2026-11-17T06:46:09.398829+00:00",
+   "news_time": "2026-11-17T03:39:00+00:00",
+   "news_latest": "2026-11-17T06:37:35+00:00",
+   "importance": 7,
+   "caption": "Hundreds arrested in Manila protests over Donald Trump visit\n\nHundreds of people have been arrested in Manila during demonstrations against Donald Trump. Organisers report that up to 10,000 people could participate in upcoming protests ahead of the US president's arrival for the Asean summit.\n\n💬 Will the planned protests disrupt the upcoming Asean summit in Manila?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Philippines #DonaldTrump #AseanSummit #7SeasNews",
+   "photo_line": "📷 9/10 Manila city center aerial view",
+   "status": "posted",
+   "tg_message_id": 694,
+   "tg_file_id": "AgACAgUAAxkDAAICtmr7-DtfWp187lpctl4KDjvpMUB1AAIDFmsbguzgV89W3mzQspi-AQADAgADdwADPQQ",
+   "queued_at": "2026-11-17T06:46:20.090973+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-17T06:46:20.090995+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122104014069548584",
+   "posted_at": "2026-11-17T06:46:20.435499+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 17 · 1:46 AM New York · 12:16 PM Sri Lanka\n\n<b>Hundreds arrested in Manila protests over Donald Trump visit</b>\n<i>CBS News, The Guardian</i>\n🟢 <b>Latest:</b> 12:07 PM Sri Lanka (8 min ago) · first reported 9:09 AM\n📷 9/10 Manila city center aerial view\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122104014069548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 449,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122104014069548584_995335306974755"
   }
  },
  "seen_links": [
@@ -13421,7 +13516,9 @@
   "https://www.washingtonexaminer.com/news/white-house/4805587/jd-vance-abdul-el-sayed-work-together/",
   "https://www.nbcnews.com/politics/jd-vance/vance-says-no-daylight-trump-iran-war-rcna609681",
   "https://www.newsweek.com/jd-vance-slams-neoconservatives-over-iran-forever-war-12724399",
-  "https://www.washingtonexaminer.com/news/white-house/4805575/vance-neoconservatives-forever-war-iran/"
+  "https://www.washingtonexaminer.com/news/white-house/4805575/vance-neoconservatives-forever-war-iran/",
+  "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
+  "https://www.cbsnews.com/news/protests-philippines-trump-visit-ai-hub/"
  ],
  "recent_topics": [
   [
@@ -15401,19 +15498,50 @@
     "work"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-17T06:46:20.090815+00:00",
+   [
+    "accus",
+    "advocat",
+    "anger",
+    "anti-trump",
+    "arrest",
+    "back",
+    "china",
+    "daylight",
+    "democrat",
+    "flar",
+    "forever",
+    "him",
+    "hit",
+    "hub",
+    "hundr",
+    "iran",
+    "mock",
+    "neoconservativ",
+    "pact",
+    "philippin",
+    "plann",
+    "protest",
+    "slam",
+    "soft",
+    "ther",
+    "trump",
+    "vanc",
+    "visit",
+    "war"
+   ],
+   "9efce15ccb"
   ]
  ],
- "last_draft_at": "2026-11-17T06:31:48.532675+00:00",
+ "last_draft_at": "2026-11-17T06:45:30.992254+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 10,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-17T06:30:42.619311+00:00",
  "run_log": [
-  "11-17 04:15:56 run start",
-  "11-17 04:21:32 listening 6 min",
-  "11-17 04:27:24 listening done",
-  "11-17 04:27:24 run end after 687 s",
   "11-17 04:31:17 run start",
   "11-17 04:31:52 listening 11 min",
   "11-17 04:42:46 listening done",
@@ -15449,13 +15577,15 @@
   "11-17 06:30:42 run start",
   "11-17 06:32:07 listening 10 min",
   "11-17 06:42:10 listening done",
-  "11-17 06:42:10 run end after 688 s"
+  "11-17 06:42:10 run end after 688 s",
+  "11-17 06:45:30 run start",
+  "11-17 06:46:35 listening 10 min",
+  "11-17 06:57:03 listening done",
+  "11-17 06:57:03 run end after 692 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/1/16/San_Ysidro_Port_of_Entry_Plaque.jpg",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/TOP_OF_THE_DIWANG_BUILDING_SEE_SHENZHEN_SKYLINE_%2817%29.jpg/1920px-TOP_OF_THE_DIWANG_BUILDING_SEE_SHENZHEN_SKYLINE_%2817%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Pope_Leo_XIV_childhood_home_3.jpg/1280px-Pope_Leo_XIV_childhood_home_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Lumi%C3%A8re_de_G%C3%A9rard_Depardieu.jpg/1280px-Lumi%C3%A8re_de_G%C3%A9rard_Depardieu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -15493,7 +15623,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/James_Comer_official_congressional_photo_%28cropped%29.jpg/1280px-James_Comer_official_congressional_photo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Voting_booth_at_the_Madison_Parish_Courthouse.jpg/1920px-Voting_booth_at_the_Madison_Parish_Courthouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Intel_microchip_manufacturing_plant_Hudson_MA.JPG/1920px-Intel_microchip_manufacturing_plant_Hudson_MA.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Intel_microchip_manufacturing_plant_Hudson_MA.JPG/1920px-Intel_microchip_manufacturing_plant_Hudson_MA.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/9/91/Aerial_view_of_Manila%27s_city_center_area_%28Padre_Burgos_area%29_in_Ermita%2C_Manila.jpg",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "michael abramowitz": {
@@ -16572,7 +16704,7 @@
     ]
    },
    "donald trump": {
-    "t": "2026-11-13T02:45:46.478977+00:00",
+    "t": "2026-11-17T06:45:56.801714+00:00",
     "photos": [
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -16583,51 +16715,60 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Shealeah Craighead / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
+      "portrait": true,
+      "only": true
      },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Shealeah Craighead / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
+      "portrait": true,
+      "only": true
      },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/1280px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Daniel Torok / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
+      "portrait": true,
+      "only": true
      },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Donald_Trump_at_Fort_Drum_2018_06.jpg/1280px-Donald_Trump_at_Fort_Drum_2018_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "U.S. Army photo by Sgt. Thomas Scaggs / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": false
+      "portrait": false,
+      "only": true
      },
      {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Donald_Trump_takes_the_oath_of_office_%282025%29.jpg/1280px-Donald_Trump_takes_the_oath_of_office_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Joint Congressional Committee on Inaugural Ceremonies / Wikimedia Commons (Public domain)",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Donald_Trump_at_Inaugural_parade_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Air Force Staff Sgt. Logan Carlson / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Donald_Trump_New_Hampshire_Town_Hall.jpg/1280px-Donald_Trump_New_Hampshire_Town_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Michael Vadon / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Donald_Trump_RNC_July_2016.jpg/1280px-Donald_Trump_RNC_July_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Ali Shaker/VOA / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
+      "portrait": false,
+      "only": true
      },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Master Sgt. Michel Sauret / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": false
+      "portrait": false,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Donald_Trump_takes_the_oath_of_office_%282025%29.jpg/1280px-Donald_Trump_takes_the_oath_of_office_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Joint Congressional Committee on Inaugural Ceremonies / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Donald_Trump_New_Hampshire_Town_Hall.jpg/1280px-Donald_Trump_New_Hampshire_Town_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Michael Vadon / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
      }
-    ]
+    ],
+    "v": 2
    },
    "pope leo": {
     "t": "2026-11-13T11:01:42.947703+00:00",
@@ -18792,7 +18933,6 @@
    }
   },
   "recent_ideas": [
-   "nuclear waste storage",
    "us capitol building",
    "supreme court of the united states",
    "treasury building, washington",
@@ -18803,7 +18943,8 @@
    "microchip manufacturing",
    "thurgood marshall federal judiciary building",
    "california state capitol",
-   "port of long beach"
+   "port of long beach",
+   "manila city center"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -18870,6 +19011,16 @@
     "s": 10,
     "w": "James Comer",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Donald Trump": {
+    "s": 10,
+    "w": "Donald Trump smiling",
+    "p": ""
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/9/91/Aerial_view_of_Manila%27s_city_center_area_%28Padre_Burgos_area%29_in_Ermita%2C_Manila.jpg|79cb12f2": {
+    "s": 9,
+    "w": "Manila city center aerial view",
+    "p": ""
    }
   }
  },
@@ -18879,10 +19030,11 @@
   "2026-11-13": 34,
   "2026-11-14": 18,
   "2026-11-15": 19,
-  "2026-11-16": 32
+  "2026-11-16": 32,
+  "2026-11-17": 1
  },
- "last_auto_at": "2026-11-17T02:31:48.353064+00:00",
- "last_post_at": "2026-11-17T02:31:54.152552+00:00",
+ "last_auto_at": "2026-11-17T06:46:20.435499+00:00",
+ "last_post_at": "2026-11-17T06:46:25.762896+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
