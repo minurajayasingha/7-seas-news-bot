@@ -12973,7 +12973,10 @@
   "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
   "https://www.nytimes.com/2026/11/17/world/middleeast/israel-opposition-selects-parliamentary-speaker.html",
   "https://www.france24.com/en/middle-east/20261117-%F0%9F%94%B4-israeli-parliament-elects-eisenkot-ally-matan-kahana-as-speaker",
-  "https://www.france24.com/en/major-setbacks-for-netanyahu-ahead-of-vote-to-name-new-knesset-speaker"
+  "https://www.france24.com/en/major-setbacks-for-netanyahu-ahead-of-vote-to-name-new-knesset-speaker",
+  "https://www.nytimes.com/2026/11/17/us/politics/jeffries-medicare-expansion.html",
+  "https://www.washingtonpost.com/politics/2026/11/17/jeffries-seeks-shore-up-support-ahead-vote-democratic-speaker-nominee/",
+  "https://www.nbcnews.com/politics/congress/jeffries-endorses-lowering-medicare-age-adding-benefits-universal-cove-rcna609843"
  ],
  "recent_topics": [
   [
@@ -15701,19 +15704,46 @@
     "vot"
    ],
    "39b570cca8"
+  ],
+  [
+   "2026-11-17T23:46:21.032929+00:00",
+   [
+    "agenda",
+    "ahead",
+    "car",
+    "congress",
+    "democratic",
+    "division",
+    "embrac",
+    "endors",
+    "eve",
+    "expansion",
+    "expansiv",
+    "grow",
+    "hakeem",
+    "health",
+    "hous",
+    "jeffry",
+    "medicar",
+    "nomine",
+    "seek",
+    "shift",
+    "shor",
+    "speaker",
+    "strategy",
+    "support",
+    "vot"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-17T23:30:45.825980+00:00",
+ "last_draft_at": "2026-11-17T23:45:43.389417+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-17T22:51:20.893101+00:00",
  "run_log": [
-  "11-17 21:12:40 listening done",
-  "11-17 21:12:40 run end after 701 s",
-  "11-17 21:16:00 run start",
-  "11-17 21:16:02 listening 11 min",
   "11-17 21:27:47 listening done",
   "11-17 21:27:47 run end after 706 s",
   "11-17 21:30:41 run start",
@@ -15749,7 +15779,11 @@
   "11-17 23:30:45 run start",
   "11-17 23:31:28 listening 11 min",
   "11-17 23:42:21 listening done",
-  "11-17 23:42:21 run end after 696 s"
+  "11-17 23:42:21 run end after 696 s",
+  "11-17 23:45:43 run start",
+  "11-17 23:46:21 listening 11 min",
+  "11-17 23:57:14 listening done",
+  "11-17 23:57:14 run end after 691 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
