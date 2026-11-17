@@ -1,93 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "01b966c646": {
-   "id": "01b966c646",
-   "headline": "Democrats discuss potential cooperation during conference in Denver",
-   "summary": "Strategists and lawmakers gathered in Denver for a conference following election gains. Participants discussed whether to work with President Donald Trump's administration or confront specific officials.",
-   "label": "US POLITICS",
-   "hook": "Should Democrats attempt to work with the administration on common ground?",
-   "key_points": [
-    "The event was a two-day gathering in Denver.",
-    "Discussions focused on the final two years of the administration.",
-    "Some members see opportunities regarding food and environmental issues."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#Democrats",
-    "#Denver"
-   ],
-   "sources": [
-    "New York Times",
-    "Washington Examiner"
-   ],
-   "link": "https://www.washingtonexaminer.com/news/campaigns/4802635/working-with-trump-democrats-dare-each-other-to-try/",
-   "links": [
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/news/campaigns/4802635/working-with-trump-democrats-dare-each-other-to-try/"
-    ],
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/12/us/politics/rfk-jr-democrats-impeach.html"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Mount_Evans_and_Denver_skyline_from_City_Park_Golf_Course.jpg/1920px-Mount_Evans_and_Denver_skyline_from_City_Park_Golf_Course.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "David Herrera from Albuquerque, NM, Bernalillo / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Democrats discuss potential cooperation during conference in Denver",
-    "people": [],
-    "image_query": "Denver city skyline",
-    "image_queries": [
-     "Capitol Hill",
-     "Democratic party meeting",
-     "US voting booth",
-     "Senate chamber"
-    ],
-    "image_style": "scene",
-    "location": "Denver, US",
-    "nearby_city": "Denver, Colorado",
-    "event_query": "Denver political conference",
-    "news_time": null,
-    "label": "US POLITICS"
-   },
-   "created_at": "2026-11-13T16:17:46.273349+00:00",
-   "news_time": "2026-11-13T14:38:10+00:00",
-   "news_latest": "2026-11-13T16:10:16+00:00",
-   "caption": "Democrats discuss potential cooperation during conference in Denver\n\nStrategists and lawmakers gathered in Denver for a conference following election gains. Participants discussed whether to work with President Donald Trump's administration or confront specific officials.\n\n💬 Should Democrats attempt to work with the administration on common ground?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Democrats #Denver #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 490,
-   "tg_file_id": "AgACAgUAAxkDAAIB6mr3OC_opqcyAryNUsNO36L329D8AALqFWsbFv24VzCNnUPu6ZJDAQADAgADdwADPQQ",
-   "queued_at": "2026-11-13T16:17:52.270432+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-13T16:17:52.270468+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122100510831548584",
-   "posted_at": "2026-11-13T16:17:52.554410+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 13 · 11:18 AM New York · 9:48 PM Sri Lanka\n\n<b>Democrats discuss potential cooperation during conference in Denver</b>\n<i>New York Times, Washington Examiner</i>\n🟢 <b>Latest:</b> 9:40 PM Sri Lanka (7 min ago) · first reported 8:08 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122100510831548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 310,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122100510831548584_1709638817185693",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-16T15:28:29.499604+00:00"
-  },
   "0787c3f68b": {
    "id": "0787c3f68b",
    "headline": "Microsoft reports continued recovery from major global service outage",
@@ -12186,6 +12099,180 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122104470897548584_1146338877890542"
+  },
+  "64916d6055": {
+   "id": "64916d6055",
+   "headline": "US loses measles elimination status after 26 years",
+   "summary": "The US has officially lost its measles elimination status for the first time in over 25 years. States reported over 5,400 cases and 10 measles-related deaths in one period, alongside a count of more than 7,700 cases over the past two years, according to reports.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "The Pan American Health Organization made the announcement.",
+    "States reported over 5,400 cases for the first time since the early 1990s.",
+    "More than 10 deaths were reported by states in 2026 alone."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Measles",
+    "#USNews",
+    "#PublicHealth"
+   ],
+   "sources": [
+    "BBC",
+    "The Hill"
+   ],
+   "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+   "links": [
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/policy/healthcare/6225090-us-loses-measles-elimination-status/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Capitol_Washington_October_2016-3.jpg/1920px-Capitol_Washington_October_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Alvesgaspar / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 6,
+      "shows": "US Capitol building"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "US loses measles elimination status after 26 years",
+    "people": [],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Centers for Disease Control and Prevention",
+     "hospital building",
+     "public health clinic",
+     "medical laboratory"
+    ],
+    "image_style": "scene",
+    "location": "United States",
+    "nearby_city": "Washington, D.C.",
+    "event_query": "",
+    "topic_photo": "hospital corridor",
+    "label": "WORLD",
+    "action_subject": "",
+    "news_time": "2026-11-17T16:10:14+00:00"
+   },
+   "created_at": "2026-11-17T16:18:30.473555+00:00",
+   "news_time": "2026-11-17T16:10:14+00:00",
+   "news_latest": "2026-11-17T16:13:18+00:00",
+   "importance": 7,
+   "caption": "US loses measles elimination status after 26 years\n\nThe US has officially lost its measles elimination status for the first time in over 25 years. States reported over 5,400 cases and 10 measles-related deaths in one period, alongside a count of more than 7,700 cases over the past two years, according to reports.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Measles #USNews #PublicHealth #7SeasNews",
+   "photo_line": "📷 6/10 US Capitol building",
+   "status": "posted",
+   "tg_message_id": 738,
+   "tg_file_id": "AgACAgUAAxkDAAIC4mr8fp3FpwgCh_DTFysoqZqOqQAB1QACNRRrG4Ls6FcV5Y5fJQGfSwEAAwIAA3cAAz0E",
+   "queued_at": "2026-11-17T16:19:41.572622+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-17T16:19:41.572656+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122104505331548584",
+   "posted_at": "2026-11-17T16:21:25.011562+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 17 · 11:21 AM New York · 9:51 PM Sri Lanka\n\n<b>US loses measles elimination status after 26 years</b>\n<i>BBC, The Hill</i>\n🟢 <b>Latest:</b> 9:43 PM Sri Lanka (8 min ago) · first reported 9:40 PM\n📷 6/10 US Capitol building\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122104505331548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 465,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122104505331548584_1661099442321536"
+  },
+  "b96a78eea8": {
+   "id": "b96a78eea8",
+   "headline": "Federal Reserve Governor Lisa Cook avoids White House hearing",
+   "summary": "Federal Reserve Governor Lisa Cook is not expected to attend a White House committee hearing regarding mortgage fraud allegations. Officials have threatened to proceed with the hearing without her presence.",
+   "label": "US POLITICS",
+   "hook": "Should a White House committee hold a hearing without the accused official present?",
+   "key_points": [
+    "Facing mortgage fraud allegations",
+    "Trump committee holds hearing"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#FederalReserve",
+    "#USPolitics",
+    "#WhiteHouse"
+   ],
+   "sources": [
+    "The Independent",
+    "UPI"
+   ],
+   "link": "https://www.upi.com/Top_News/US/2026/11/17/lisa-cook-federal-reserve-governor-white-house-hearing/7471794930518/",
+   "links": [
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/US/2026/11/17/lisa-cook-federal-reserve-governor-white-house-hearing/7471794930518/"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/federal-reserve-lisa-cook-white-house-hearing-b3086543.html"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Lisa_D._Cook%2C_Federal_Reserve_Governor.jpg/1280px-Lisa_D._Cook%2C_Federal_Reserve_Governor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Federalreserve / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": null
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Federal Reserve Governor Lisa Cook avoids White House hearing",
+    "people": [
+     "Lisa Cook"
+    ],
+    "image_query": "White House",
+    "image_queries": [
+     "US Capitol dome",
+     "Senate chamber",
+     "Federal Reserve building",
+     "Supreme Court building"
+    ],
+    "image_style": "person",
+    "location": "Washington, DC, US",
+    "nearby_city": "Washington, DC",
+    "event_query": "White House committee hearing",
+    "topic_photo": "judge gavel",
+    "label": "US POLITICS",
+    "action_subject": "",
+    "news_time": "2026-11-17T15:58:11+00:00"
+   },
+   "created_at": "2026-11-17T16:21:22.700785+00:00",
+   "news_time": "2026-11-17T15:58:11+00:00",
+   "news_latest": "2026-11-17T15:59:49+00:00",
+   "importance": 7,
+   "caption": "Federal Reserve Governor Lisa Cook avoids White House hearing\n\nFederal Reserve Governor Lisa Cook is not expected to attend a White House committee hearing regarding mortgage fraud allegations. Officials have threatened to proceed with the hearing without her presence.\n\n💬 Should a White House committee hold a hearing without the accused official present?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#FederalReserve #USPolitics #WhiteHouse #7SeasNews",
+   "photo_line": "📷 photo not checked",
+   "status": "posted",
+   "tg_message_id": 739,
+   "tg_file_id": "AgACAgUAAxkDAAIC42r8fwRplS1WbtftQJAYa8tUyd6cAAI2FGsbguzoV_MUw6RpFvmHAQADAgADdwADPQQ",
+   "queued_at": "2026-11-17T16:21:24.676254+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-17T16:21:24.676298+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122104506489548584",
+   "posted_at": "2026-11-17T16:21:25.011562+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 17 · 11:22 AM New York · 9:52 PM Sri Lanka\n\n<b>Federal Reserve Governor Lisa Cook avoids White House hearing</b>\n<i>The Independent, UPI</i>\n🟢 <b>Latest:</b> 9:29 PM Sri Lanka (23 min ago) · first reported 9:28 PM\n📷 photo not checked\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122104506489548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 466,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122104506489548584_2394992244600102"
   }
  },
  "seen_links": [
@@ -13483,7 +13570,11 @@
   "https://www.upi.com/Top_News/World-News/2026/11/17/government-sanctions-israeli-west-bank-developers/9441794928072/",
   "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
   "https://thehill.com/homenews/education/6224779-foreign-student-visas-trump-dhs/",
-  "https://www.washingtonexaminer.com/policy/immigration/4805745/judge-throws-out-dhs-rule-student-visa/"
+  "https://www.washingtonexaminer.com/policy/immigration/4805745/judge-throws-out-dhs-rule-student-visa/",
+  "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+  "https://thehill.com/policy/healthcare/6225090-us-loses-measles-elimination-status/",
+  "https://www.upi.com/Top_News/US/2026/11/17/lisa-cook-federal-reserve-governor-white-house-hearing/7471794930518/",
+  "https://www.independent.co.uk/news/world/americas/federal-reserve-lisa-cook-white-house-hearing-b3086543.html"
  ],
  "recent_topics": [
   [
@@ -15659,19 +15750,51 @@
     "visa"
    ],
    "f53bf1b32d"
+  ],
+  [
+   "2026-11-17T16:19:41.572416+00:00",
+   [
+    "25",
+    "26",
+    "cas",
+    "elimination",
+    "los",
+    "measl",
+    "number",
+    "record",
+    "statu"
+   ],
+   "64916d6055"
+  ],
+  [
+   "2026-11-17T16:21:24.676074+00:00",
+   [
+    "attend",
+    "committe",
+    "cook",
+    "expect",
+    "fed",
+    "federal",
+    "gov",
+    "governor",
+    "hear",
+    "hous",
+    "lisa",
+    "refus",
+    "reserv",
+    "trump",
+    "whit"
+   ],
+   "b96a78eea8"
   ]
  ],
- "last_draft_at": "2026-11-17T16:00:48.269072+00:00",
+ "last_draft_at": "2026-11-17T16:15:43.777910+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-17T15:30:53.418612+00:00",
  "run_log": [
-  "11-17 13:45:51 run start",
-  "11-17 13:46:19 listening 11 min",
-  "11-17 13:57:40 listening done",
-  "11-17 13:57:40 run end after 708 s",
   "11-17 14:00:45 run start",
   "11-17 14:02:05 listening 10 min",
   "11-17 14:12:33 listening done",
@@ -15707,13 +15830,15 @@
   "11-17 16:00:47 run start",
   "11-17 16:01:07 listening 11 min",
   "11-17 16:12:26 listening done",
-  "11-17 16:12:26 run end after 698 s"
+  "11-17 16:12:26 run end after 698 s",
+  "11-17 16:15:43 run start",
+  "11-17 16:23:01 listening 4 min",
+  "11-17 16:27:13 listening done",
+  "11-17 16:27:13 run end after 690 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/French_flag_in_front_of_the_sanctuary%2C_%C3%89glise_Saint-Laurent%2C_Mouthier-Haute-Pierre%2C_2026.jpg/1920px-French_flag_in_front_of_the_sanctuary%2C_%C3%89glise_Saint-Laurent%2C_Mouthier-Haute-Pierre%2C_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Rostov-on-Don%2C_Skyline_2%2C_Russia.jpg/1920px-Rostov-on-Don%2C_Skyline_2%2C_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Pointe_d%27Orange_%28Anse-La-Raye%29.jpg/1280px-Pointe_d%27Orange_%28Anse-La-Raye%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/%22I_Voted%22_sticker%3B_2026_New_York_State_elections.jpg/1920px-%22I_Voted%22_sticker%3B_2026_New_York_State_elections.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Park_of_Odesa_Filatov_Research_Institute.JPG/1920px-Park_of_Odesa_Filatov_Research_Institute.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -15751,20 +15876,11 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/1280px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Race_Trac_gas_pump_Louisiana_14_May_2025.jpg/1920px-Race_Trac_gas_pump_Louisiana_14_May_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Za%27tara_Checkpoint_001.jpeg/1920px-Za%27tara_Checkpoint_001.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg/1920px-Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg/1920px-Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Capitol_Washington_October_2016-3.jpg/1920px-Capitol_Washington_October_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Lisa_D._Cook%2C_Federal_Reserve_Governor.jpg/1280px-Lisa_D._Cook%2C_Federal_Reserve_Governor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
-   "michael abramowitz": {
-    "t": "2026-11-10T23:15:37.988265+00:00",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/VOA_Director_Michael_Abramowitz_at_2024_RNC_GSozbcQacAAPq9z.jpg/1280px-VOA_Director_Michael_Abramowitz_at_2024_RNC_GSozbcQacAAPq9z.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Voice of America Director / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     }
-    ]
-   },
    "lee rudofsky": {
     "t": "2026-11-11T00:01:01.630256+00:00",
     "photos": [
@@ -19056,10 +19172,20 @@
      }
     ],
     "v": 2
+   },
+   "lisa cook": {
+    "t": "2026-11-17T16:20:02.423897+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Lisa_D._Cook%2C_Federal_Reserve_Governor.jpg/1280px-Lisa_D._Cook%2C_Federal_Reserve_Governor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Federalreserve / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ],
+    "v": 2
    }
   },
   "recent_ideas": [
-   "military jet",
    "kuala lumpur skyline",
    "early voting, united states",
    "protest march",
@@ -19070,7 +19196,8 @@
    "gas station fuel pumps",
    "military checkpoint",
    "courtroom",
-   "judge gavel"
+   "judge gavel",
+   "us capitol building"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -19247,6 +19374,11 @@
     "s": 8,
     "w": "judge gavel on rainbow flag",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Capitol_Washington_October_2016-3.jpg/1920px-Capitol_Washington_October_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|33222da3": {
+    "s": 6,
+    "w": "US Capitol building",
+    "p": "Generic Washington DC symbol for a national health story"
    }
   }
  },
@@ -19257,10 +19389,10 @@
   "2026-11-14": 18,
   "2026-11-15": 19,
   "2026-11-16": 32,
-  "2026-11-17": 14
+  "2026-11-17": 16
  },
- "last_auto_at": "2026-11-17T15:33:07.197882+00:00",
- "last_post_at": "2026-11-17T15:33:12.956796+00:00",
+ "last_auto_at": "2026-11-17T16:21:25.011562+00:00",
+ "last_post_at": "2026-11-17T16:22:52.586820+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
