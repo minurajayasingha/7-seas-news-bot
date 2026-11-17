@@ -13417,7 +13417,11 @@
   "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
   "https://thehill.com/homenews/administration/6224034-vance-mocks-china-softness-accusations/",
   "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html",
-  "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html"
+  "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html",
+  "https://www.washingtonexaminer.com/news/white-house/4805587/jd-vance-abdul-el-sayed-work-together/",
+  "https://www.nbcnews.com/politics/jd-vance/vance-says-no-daylight-trump-iran-war-rcna609681",
+  "https://www.newsweek.com/jd-vance-slams-neoconservatives-over-iran-forever-war-12724399",
+  "https://www.washingtonexaminer.com/news/white-house/4805575/vance-neoconservatives-forever-war-iran/"
  ],
  "recent_topics": [
   [
@@ -15372,19 +15376,40 @@
     "view"
    ],
    "49b016b81c"
+  ],
+  [
+   "2026-11-17T05:46:13.821162+00:00",
+   [
+    "advocat",
+    "back",
+    "daylight",
+    "democrat",
+    "forever",
+    "him",
+    "hit",
+    "iran",
+    "let",
+    "liken",
+    "neoconservativ",
+    "pitch",
+    "slam",
+    "ther",
+    "together",
+    "trump",
+    "vanc",
+    "war",
+    "work"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-17T05:31:18.823922+00:00",
+ "last_draft_at": "2026-11-17T05:45:42.067086+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 9,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-17T05:30:41.538215+00:00",
  "run_log": [
-  "11-17 03:15:37 run start",
-  "11-17 03:15:47 listening 11 min",
-  "11-17 03:27:05 listening done",
-  "11-17 03:27:05 run end after 688 s",
   "11-17 03:30:47 run start",
   "11-17 03:31:46 listening 11 min",
   "11-17 03:42:30 listening done",
@@ -15420,7 +15445,11 @@
   "11-17 05:30:41 run start",
   "11-17 05:31:52 listening 10 min",
   "11-17 05:42:21 listening done",
-  "11-17 05:42:21 run end after 700 s"
+  "11-17 05:42:21 run end after 700 s",
+  "11-17 05:45:41 run start",
+  "11-17 05:46:13 listening 11 min",
+  "11-17 05:57:08 listening done",
+  "11-17 05:57:08 run end after 686 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
