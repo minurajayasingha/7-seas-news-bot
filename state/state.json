@@ -1,271 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "fa66eb00f7": {
-   "id": "fa66eb00f7",
-   "headline": "Van Hollen challenges Schumer as Democrats face midterm fallout",
-   "summary": "Senator Van Hollen stated that the midterm results show Americans want change in Washington. According to reports, he challenged Chuck Schumer and said Democrats need new leadership.",
-   "label": "US POLITICS",
-   "hook": "Do Democrats need new leadership following the midterm results?",
-   "key_points": [
-    "Van Hollen released a statement announcing his challenge.",
-    "Reports indicate midterm results prompted discussions on party leadership."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#Democrats",
-    "#Congress"
-   ],
-   "sources": [
-    "The Guardian",
-    "The Independent"
-   ],
-   "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-   "links": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/us-politics/van-hollen-schumer-senate-leader-b3084383.html"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Vice_President_Kamala_Harris_swears_in_Senator_Chris_Van_Hollen_for_a_second_term.jpg/1280px-Vice_President_Kamala_Harris_swears_in_Senator_Chris_Van_Hollen_for_a_second_term.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Office of Senator Chris Van Hollen / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Senate_Democratic_Leader_Chuck_Schumer_%2850520530086%29.jpg/1280px-Senate_Democratic_Leader_Chuck_Schumer_%2850520530086%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Senate Democrats / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Van Hollen challenges Schumer as Democrats face midterm fallout",
-    "people": [
-     "Van Hollen",
-     "Chuck Schumer"
-    ],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "Capitol Hill",
-     "Senate chamber",
-     "voting booth",
-     "Washington DC street"
-    ],
-    "image_style": "person",
-    "location": "US",
-    "nearby_city": "Washington, DC",
-    "event_query": "US Senate chamber",
-    "news_time": null,
-    "label": "US POLITICS"
-   },
-   "created_at": "2026-11-13T13:17:13.302081+00:00",
-   "news_time": "2026-11-13T09:18:57+00:00",
-   "news_latest": "2026-11-13T12:58:47+00:00",
-   "caption": "Van Hollen challenges Schumer as Democrats face midterm fallout\n\nSenator Van Hollen stated that the midterm results show Americans want change in Washington. According to reports, he challenged Chuck Schumer and said Democrats need new leadership.\n\n💬 Do Democrats need new leadership following the midterm results?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Democrats #Congress #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 479,
-   "tg_file_id": "AgACAgUAAxkDAAIB32r3Dd3UutVJpMcMwqEoIXPPKebqAAINFWsbFv24V-4V1r_NrjAEAQADAgADdwADPQQ",
-   "queued_at": "2026-11-13T13:17:17.843486+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-13T13:17:17.843515+00:00",
-   "post_label": "🤖 Auto-posting + Reel",
-   "fb_post_id": "1413030521900096_122100360219548584",
-   "posted_at": "2026-11-13T13:18:39.302839+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 13 · 8:18 AM New York · 6:48 PM Sri Lanka\n\n<b>Van Hollen challenges Schumer as Democrats face midterm fallout</b>\n<i>The Guardian, The Independent</i>\n🟢 <b>Latest:</b> 6:28 PM Sri Lanka (19 min ago) · first reported 2:48 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122100360219548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 301,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122100360219548584_1123875696953966",
-   "fb_reel_id": "1431971899095238",
-   "reel_status": "live",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-16T12:30:49.265443+00:00"
-  },
-  "6a28082571": {
-   "id": "6a28082571",
-   "headline": "Democratic wins advance movement to sidestep electoral college",
-   "summary": "A way to bypass the electoral college in presidential races comes closer after Democrats secure full control of additional state governments. Democratic victories in North Carolina and other states contribute to this shift.",
-   "label": "ELECTIONS",
-   "hook": "Will these state government wins lead to bypassing the Electoral College?",
-   "key_points": [
-    "North Carolina Democrats won after 16 years.",
-    "Full control of more state governments achieved last week."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#ElectoralCollege",
-    "#USPolitics",
-    "#DemocratWins"
-   ],
-   "sources": [
-    "The Hill",
-    "Washington Post"
-   ],
-   "link": "https://thehill.com/newsletters/whole-hog-politics/6217447-national-popular-vote-compact-plans/",
-   "links": [
-    [
-     "The Hill",
-     "https://thehill.com/newsletters/whole-hog-politics/6217447-national-popular-vote-compact-plans/"
-    ],
-    [
-     "Washington Post",
-     "https://www.washingtonpost.com/politics/2026/11/13/movement-end-electoral-college-gets-boost-after-democratic-wins/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/US_Capitol_west_side_at_dusk.JPG/1920px-US_Capitol_west_side_at_dusk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Martin Falbisoner / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Democratic wins advance movement to sidestep electoral college",
-    "people": [],
-    "image_query": "US Capitol dome",
-    "image_queries": [
-     "state capitol building",
-     "voting booth",
-     "election ballots",
-     "North Carolina state house"
-    ],
-    "image_style": "scene",
-    "location": "North Carolina, US",
-    "nearby_city": "Raleigh, North Carolina",
-    "event_query": "state government election results",
-    "news_time": null,
-    "label": "ELECTIONS"
-   },
-   "created_at": "2026-11-13T13:17:47.465725+00:00",
-   "news_time": "2026-11-13T10:00:00+00:00",
-   "news_latest": "2026-11-13T13:00:00+00:00",
-   "caption": "Democratic wins advance movement to sidestep electoral college\n\nA way to bypass the electoral college in presidential races comes closer after Democrats secure full control of additional state governments. Democratic victories in North Carolina and other states contribute to this shift.\n\n💬 Will these state government wins lead to bypassing the Electoral College?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#ElectoralCollege #USPolitics #DemocratWins #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 480,
-   "tg_file_id": "AgACAgUAAxkDAAIB4Gr3DgHzKax_q_t4E2vwZKybtAGgAAIOFWsbFv24V00I01hxQjQVAQADAgADdwADPQQ",
-   "queued_at": "2026-11-13T13:17:54.030727+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-13T13:17:54.030757+00:00",
-   "post_label": "🤖 Auto-posting + Reel",
-   "fb_post_id": "1413030521900096_122100360867548584",
-   "posted_at": "2026-11-13T13:18:39.302839+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 13 · 8:19 AM New York · 6:49 PM Sri Lanka\n\n<b>Democratic wins advance movement to sidestep electoral college</b>\n<i>The Hill, Washington Post</i>\n🟢 <b>Latest:</b> 6:30 PM Sri Lanka (19 min ago) · first reported 3:30 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122100360867548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 303,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122100360867548584_1450309140518120",
-   "fb_reel_id": "1499951575330789",
-   "reel_status": "live",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-16T12:30:49.265443+00:00"
-  },
-  "bdd0e45929": {
-   "id": "bdd0e45929",
-   "headline": "Iran states Revolutionary Guard targets US military radar in Bahrain",
-   "summary": "Iran's Revolutionary Guard states it targeted a US early-warning radar in Bahrain. According to the reports, the action follows a US airstrike on a communications tower in Sirik.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "The action is Iran's first direct attack on US military installations for months.",
-    "The IRGC says the strike responds to aerial mischief and oil smuggling.",
-    "The IRGC aerospace force remains on full alert."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Iran",
-    "#Bahrain",
-    "#USMilitary"
-   ],
-   "sources": [
-    "ABC News",
-    "The Guardian"
-   ],
-   "link": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
-   "links": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz"
-    ],
-    [
-     "ABC News",
-     "https://abcnews.com/International/wireStory/irans-revolutionary-guard-destroyed-us-radar-bahrain-mideast-138102943"
-    ]
-   ],
-   "bg": {
-    "type": "incident",
-    "photos": [],
-    "location": "Bahrain"
-   },
-   "img_post": {
-    "headline": "Iran states Revolutionary Guard targets US military radar in Bahrain",
-    "people": [],
-    "image_query": "Manama skyline",
-    "image_queries": [
-     "US military radar",
-     "Strait of Hormuz",
-     "Persian Gulf coastline",
-     "military installation"
-    ],
-    "image_style": "incident",
-    "location": "Bahrain",
-    "nearby_city": "Manama, Bahrain",
-    "event_query": "Bahrain US military radar",
-    "news_time": null,
-    "label": "CONFLICT"
-   },
-   "created_at": "2026-11-13T13:18:34.164979+00:00",
-   "news_time": "2026-11-13T09:44:52+00:00",
-   "news_latest": "2026-11-13T12:07:13+00:00",
-   "caption": "Iran states Revolutionary Guard targets US military radar in Bahrain\n\nIran's Revolutionary Guard states it targeted a US early-warning radar in Bahrain. According to the reports, the action follows a US airstrike on a communications tower in Sirik.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Iran #Bahrain #USMilitary #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 481,
-   "tg_file_id": "AgACAgUAAxkDAAIB4Wr3Di7A83BzCp-ZHsdVedG2N1yiAAIPFWsbFv24V1e85TuxS6yEAQADAgADdwADPQQ",
-   "extra_msgs": [],
-   "queued_at": "2026-11-13T15:02:37.988288+00:00",
-   "post_now": true,
-   "post_at": "2026-11-13T15:02:37.988305+00:00",
-   "post_label": "🚀 Posting now",
-   "fb_post_id": "1413030521900096_122100443889548584",
-   "posted_at": "2026-11-13T15:02:38.277304+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 13 · 10:03 AM New York · 8:33 PM Sri Lanka\n\n<b>Iran states Revolutionary Guard targets US military radar in Bahrain</b>\n<i>ABC News, The Guardian</i>\n🟡 <b>Latest:</b> 5:37 PM Sri Lanka (2h 55m ago) · first reported 3:14 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122100443889548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 309,
-   "log_photo": true,
-   "cleared": true,
-   "fb_comment_id": "122100443889548584_2487974978394768",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-16T14:31:23.235532+00:00"
-  },
   "e4984fea08": {
    "id": "e4984fea08",
    "headline": "Chuck Schumer faces potential challenge for Senate Democratic leadership",
@@ -15999,17 +15734,13 @@
    "69f16d5ee6"
   ]
  ],
- "last_draft_at": "2026-11-17T13:00:45.810565+00:00",
+ "last_draft_at": "2026-11-17T13:15:43.808763+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-17T12:30:40.255711+00:00",
  "run_log": [
-  "11-17 10:45:34 run start",
-  "11-17 10:46:14 listening 11 min",
-  "11-17 10:57:08 listening done",
-  "11-17 10:57:08 run end after 693 s",
   "11-17 11:00:46 run start",
   "11-17 11:04:30 listening 8 min",
   "11-17 11:12:28 listening done",
@@ -16045,7 +15776,11 @@
   "11-17 13:00:45 run start",
   "11-17 13:05:20 listening 7 min",
   "11-17 13:12:15 listening done",
-  "11-17 13:12:15 run end after 689 s"
+  "11-17 13:12:15 run end after 689 s",
+  "11-17 13:15:43 run start",
+  "11-17 13:15:52 listening 11 min",
+  "11-17 13:27:12 listening done",
+  "11-17 13:27:12 run end after 689 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
