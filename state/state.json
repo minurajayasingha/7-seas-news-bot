@@ -13780,7 +13780,9 @@
   "https://thehill.com/homenews/senate/6223162-whip-schumer-van-hollen-leadership-race/",
   "https://www.foxnews.com/politics/follow-leader-democrats-face-party-battle-divisions-deepen",
   "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
-  "https://abcnews.com/International/wireStory/paraguays-ousted-president-moved-military-prison-after-reports-138186878"
+  "https://abcnews.com/International/wireStory/paraguays-ousted-president-moved-military-prison-after-reports-138186878",
+  "https://thehill.com/homenews/administration/6223947-trump-reroutes-air-force-one/",
+  "https://www.foxnews.com/politics/trumps-asia-trip-takes-alaska-detour-weather-forces-refueling-stop-change"
  ],
  "recent_topics": [
   [
@@ -15730,19 +15732,35 @@
     "trump"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-17T00:22:54.670362+00:00",
+   [
+    "air",
+    "alaska",
+    "asia",
+    "chang",
+    "detour",
+    "extrem",
+    "forc",
+    "refuel",
+    "rerout",
+    "stop",
+    "tak",
+    "trip",
+    "trump",
+    "weather"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-17T00:10:19.975497+00:00",
+ "last_draft_at": "2026-11-17T00:22:21.455262+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-16T23:30:51.738503+00:00",
  "run_log": [
-  "11-16 22:01:12 run start",
-  "11-16 22:01:13 listening 11 min",
-  "11-16 22:12:56 listening done",
-  "11-16 22:12:56 run end after 704 s",
   "11-16 22:15:42 run start",
   "11-16 22:15:52 listening 11 min",
   "11-16 22:27:10 listening done",
@@ -15778,7 +15796,11 @@
   "11-17 00:10:19 run start",
   "11-17 00:12:07 listening 10 min",
   "11-17 00:21:46 listening done",
-  "11-17 00:21:46 run end after 687 s"
+  "11-17 00:21:46 run end after 687 s",
+  "11-17 00:22:20 run start",
+  "11-17 00:22:54 listening 11 min",
+  "11-17 00:33:47 listening done",
+  "11-17 00:33:47 run end after 686 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
