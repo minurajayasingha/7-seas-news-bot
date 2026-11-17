@@ -4282,6 +4282,9 @@ def run_once_jobs(state):
         try:
             if job.startswith("phototest"):
                 photo_test(state)
+            elif job.startswith("yttest"):
+                roundup_request_build("yttest", False)      # bot/roundup.py yt_test() in the video job
+                tg_text("🧪 Starting the YouTube connection test (a private 3-second video, deleted right after).")
             elif job.startswith("roundup_test:"):
                 roundup_start(state, job.split(":", 1)[1][:10], test=True)
         except Exception as e:

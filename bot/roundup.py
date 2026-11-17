@@ -673,12 +673,49 @@ def run(day_s, test=False):
     save_result(day_s, {"built_at": M.now_utc().isoformat(), "test": test, "parts": results})
 
 
+def yt_test():
+    """One-time YouTube check: upload a 3 s PRIVATE video scheduled 7 days ahead, read back what YouTube did with
+    it (scheduled? locked private?), report it, then delete the test video."""
+    from datetime import date
+    if not (YT_CLIENT_ID and YT_CLIENT_SECRET and YT_REFRESH_TOKEN):
+        raise RuntimeError("the YT_CLIENT_ID / YT_CLIENT_SECRET / YT_REFRESH_TOKEN secrets are missing")
+    cover = tall(make_cover(date.today(), 1, {"name": "TEST", "hook": "YouTube connection test. Deleted right away."}))
+    with tempfile.TemporaryDirectory() as tmp:
+        img, out = os.path.join(tmp, "c.jpg"), os.path.join(tmp, "t.mp4")
+        cover.save(img, "JPEG", quality=90)
+        subprocess.run([M.ffmpeg_exe(), "-y", "-loglevel", "error", "-loop", "1", "-i", img, "-f", "lavfi", "-i",
+                        "anullsrc=r=48000:cl=stereo", "-t", "3", "-r", "30", "-c:v", "libx264", "-pix_fmt", "yuv420p",
+                        "-c:a", "aac", "-shortest", out], check=True)
+        video = open(out, "rb").read()
+    at = (M.now_utc() + timedelta(days=7)).replace(minute=0, second=0, microsecond=0)
+    texts = {"yt_title": "7 Seas News connection test (private, will be deleted)", "yt_description": "Test upload.",
+             "yt_tags": ["test"]}
+    up = youtube_upload(video, jpg(cover, 85), texts, at)
+    tok = yt_token()
+    j = M.HTTP.get("https://www.googleapis.com/youtube/v3/videos", timeout=30, params={"part": "status", "id": up["id"]},
+                   headers={"Authorization": f"Bearer {tok}"}).json()
+    st = ((j.get("items") or [{}])[0]).get("status", {})
+    d = M.HTTP.delete("https://www.googleapis.com/youtube/v3/videos", params={"id": up["id"]}, timeout=30,
+                      headers={"Authorization": f"Bearer {tok}"})
+    deleted = d.status_code in (200, 204)
+    scheduled = bool(st.get("publishAt"))
+    M.tg_text("🧪 <b>YouTube connection test</b>\n"
+              f"Upload: ✅ worked (login OK)\n"
+              f"Scheduling: {'✅ kept — Shorts will go public at their times' if scheduled else '⚠️ YouTube removed the schedule (new apps are locked private until Google reviews them) — the bot will still upload, you publish in YouTube Studio'}\n"
+              f"Privacy: {esc(st.get('privacyStatus', '?'))} · upload: {esc(st.get('uploadStatus', '?'))}\n"
+              f"Test video deleted: {'✅' if deleted else '❌ please delete it in YouTube Studio'}")
+    save_result("yttest", {"built_at": M.now_utc().isoformat(), "status": st, "scheduled": scheduled,
+                           "deleted": deleted, "parts": []})
+
+
 def cli():
     ap = argparse.ArgumentParser()
     ap.add_argument("--day", required=True)
     ap.add_argument("--test", action="store_true")
     a = ap.parse_args()
     try:
+        if a.day == "yttest":
+            return yt_test()
         run(a.day[:10], a.test)
     except Exception as e:
         traceback.print_exc()

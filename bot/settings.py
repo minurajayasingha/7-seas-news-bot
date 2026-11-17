@@ -376,7 +376,7 @@ ROUNDUP_MIN_POSTS = 9                # fewer posts that day → no roundup
 ROUNDUP_MUSIC = "off"                # "off" = only the bot's own sounds; or a folder, e.g. "assets/music", of
                                      # royalty-free tracks you add (played quietly under the sounds)
 ROUNDUP_FACEBOOK = True              # upload each part as a Facebook Reel, scheduled at its time
-ROUNDUP_YOUTUBE = False              # upload each part as a YouTube Short (needs the YT_… secrets, see README)
+ROUNDUP_YOUTUBE = True               # upload each part as a YouTube Short (needs the YT_… secrets, see README)
 ROUNDUP_TIKTOK = True                # send the TikTok slides + title + caption to your content channel
                                      # (you post them in the TikTok app with a trending sound)
 TIKTOK_SLIDES_AS = "photos"          # "photos" = albums you can save on your phone; "files" = full quality files
@@ -385,4 +385,5 @@ TIKTOK_SLIDES_AS = "photos"          # "photos" = albums you can save on your ph
 # Each id runs ONCE on the next bot run (the bot remembers it). Change the id (e.g. add "b") to run it again.
 #   "phototest:<id>"           = new photos for the last 10 posts, sent to Telegram with the AI's score (nothing published)
 #   "roundup_test:YYYY-MM-DD"  = the daily roundup of that New York day, sent to Telegram only (no uploads)
-RUN_ONCE = ["phototest:2026-11-17", "roundup_test:2026-11-16"]
+#   "yttest:<id>"              = YouTube check: private 3 s video, read back if scheduling works, then deleted
+RUN_ONCE = ["phototest:2026-11-17", "roundup_test:2026-11-16", "yttest:1"]
