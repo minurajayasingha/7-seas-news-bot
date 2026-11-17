@@ -106,7 +106,7 @@ What happens after approval:
 - **Facebook** – each part is uploaded as a Reel, scheduled at its time (`ROUNDUP_FACEBOOK`).
   If Facebook refuses scheduling, it is saved as a draft and the bot publishes it at the time.
 - **YouTube** – each part becomes a scheduled Short (`ROUNDUP_YOUTUBE`, needs the setup below).
-- **TikTok** – you post it yourself with a trending sound. In your content channel (`/tiktok`) you get, per part:
+- **TikTok** – you post it yourself with a trending sound. In your content channel (`/content`) you get, per part:
   the title + caption (tap a grey box to copy it), the slides as photo albums (cover first) and a zip of the slides.
   At each posting time the bot reminds you ("⏰ Time to post TikTok Part n/3") with a ✅ Posted button.
 - **Backup** – the 3 videos, the covers and `DESCRIPTIONS-AND-TIMES.txt` (all titles, captions, tags, times)

@@ -441,7 +441,7 @@ def tiktok_caption(d):
 
 
 def send_to_tiktok_channel(state, d, image_bytes):
-    """Send the post as a full-quality 1080x1920 file + caption to your TikTok channel (if linked)."""
+    """Send the post as a full-quality 1080x1920 file + caption to your content channel (if linked)."""
     ch = state.get("tiktok_channel")
     if not ch:
         return False
@@ -566,11 +566,11 @@ def when_text(t):
 
 
 def set_commands_once(state):
-    if state.get("commands_set") == 9:
+    if state.get("commands_set") == 10:
         return
     tg("setMyCommands", commands=[
         {"command": "news", "description": "Look for fresh news right now"},
-        {"command": "day", "description": "Today's posts as one TikTok pack"},
+        {"command": "day", "description": "Today's posts as one pack (content channel)"},
         {"command": "queue", "description": "What's queued and when it posts"},
         {"command": "status", "description": "Bot summary"},
         {"command": "stats", "description": "Likes, comments, shares (last 24h)"},
@@ -580,10 +580,10 @@ def set_commands_once(state):
         {"command": "pause", "description": "Stop automatic news"},
         {"command": "resume", "description": "Start automatic news again"},
         {"command": "channel", "description": "Link the published-posts channel"},
-        {"command": "tiktok", "description": "Link the TikTok files channel"},
+        {"command": "content", "description": "Link the content channel (videos, slides, packs)"},
         {"command": "help", "description": "How to use the bot"},
     ])
-    state["commands_set"] = 9
+    state["commands_set"] = 10
 
 
 def tg_download(file_id):
@@ -856,15 +856,16 @@ def process_telegram(state, wait=0):
 
         fwd = msg.get("forward_from_chat") or (msg.get("forward_origin") or {}).get("chat")
         if fwd and fwd.get("type") == "channel":
-            kind = "tiktok_channel" if state.pop("linking", None) == "tiktok" else "log_channel"
+            kind = "tiktok_channel" if state.pop("linking", None) in ("tiktok", "content") else "log_channel"
             state[kind] = fwd["id"]
-            what = ("TikTok files (9:16) + captions" if kind == "tiktok_channel" else "Published posts")
+            what = ("Roundup videos, slides, captions and daily packs" if kind == "tiktok_channel" else "Published posts")
             t = tg("sendMessage", chat_id=fwd["id"],
                    text=f"✅ 7 Seas News bot connected. {what} will appear here.")
             if t.get("ok"):
                 tg_text(f"✅ Channel <b>{html.escape(fwd.get('title', ''))}</b> linked. "
-                        + ("Every published post will be sent there as a TikTok-size file with its caption."
-                           if kind == "tiktok_channel" else "Every published post will be logged there."))
+                        + ("It is your <b>content channel</b>: the daily roundup videos, the slides + captions to post, "
+                           "and the daily pack go there." if kind == "tiktok_channel"
+                           else "Every published post will be logged there."))
             else:
                 state.pop(kind, None)
                 tg_text("⚠️ I can't post in that channel yet. Add me to the channel as an "
@@ -929,20 +930,23 @@ def process_telegram(state, wait=0):
                     "2. Channel info → Administrators → Add admin → add this bot\n"
                     "3. Post any message in the channel and <b>forward it to me</b>\n\n"
                     + ("Currently linked ✅" if state.get("log_channel") else "Not linked yet."))
-        elif text.startswith("/tiktok"):
+        elif text.startswith("/content") or text.startswith("/tiktok"):
             if "off" in text.lower():
                 state.pop("tiktok_channel", None)
                 state.pop("linking", None)
-                tg_text("🎵 TikTok channel unlinked. Posts won't be sent there any more.")
+                tg_text("📦 Content channel unlinked. Videos, slides and packs come to this chat instead.")
             else:
-                state["linking"] = "tiktok"
-                tg_text("🎵 <b>Content channel</b>\n"
-                        "After midnight New York, the day's pack is sent there: the list of titles "
-                        "+ ONE zip file with a folder of all the day's images.\n\n"
-                        "1. Create a Telegram channel (e.g. '7 Seas – TikTok')\n"
+                state["linking"] = "content"
+                tg_text("📦 <b>Content channel</b>\n"
+                        "Everything you post on other platforms goes there:\n"
+                        "• the daily roundup videos (YouTube / Facebook / TikTok)\n"
+                        "• the TikTok slides + title + caption to copy\n"
+                        "• the backup package and the daily pack of images\n\n"
+                        "To link a channel:\n"
+                        "1. Create a Telegram channel (e.g. '7 Seas – Content')\n"
                         "2. Channel info → Administrators → Add admin → add this bot\n"
                         "3. Post any message in the channel and <b>forward it to me</b> now\n\n"
-                        + ("Currently linked ✅ (send /tiktok off to unlink)"
+                        + ("Currently linked ✅ (send /content off to unlink)"
                            if state.get("tiktok_channel") else "Not linked yet."))
         elif text.startswith("/day"):
             tg_text("📦 Sending today's pack so far" + (" to your content channel…" if state.get("tiktok_channel") else "…"))
@@ -1006,11 +1010,11 @@ def process_telegram(state, wait=0):
                     "I send back the new version to approve.\n\n"
                     "✍️ <b>Your own post:</b> send a news link, or a photo with a headline (/new)\n\n"
                     "/news – look for fresh news right now\n"
-                    "/day – today's posts (New York day) as one pack for TikTok\n"
+                    "/day – today's posts (New York day) as one pack, sent to the content channel\n"
                     "/queue – what's queued and when it posts\n"
                     "/pause · /resume – stop/start automatic news\n"
                     "/channel – link a channel that logs every published post\n"
-                    "/tiktok – link a content channel that gets the daily pack (titles + 1 zip file)\n"
+                    "/content – link the content channel (roundup videos, slides + captions, daily packs)\n"
                     "/stats – likes, comments and shares of the last 24 hours\n"
                     "/stats week – posts per day vs likes/reach per post (find the best number of posts)\n"
                     "/reels – what Facebook did with the last Reels (live / processing / rejected and why)\n"
@@ -1698,9 +1702,9 @@ def publish_due(state):
                                 "Set SHARE_TO_STORY = \"off\" in settings.py to turn Stories off.")
             try:
                 if SEND_EACH_POST_TO_CONTENT_CHANNEL and send_to_tiktok_channel(state, d, img):
-                    log("Sent to TikTok channel", d["id"])
+                    log("Sent to content channel", d["id"])
             except Exception as e:  # never block publishing because of this
-                log("TikTok channel error:", e)
+                log("Content channel error:", e)
             if d.pop("make_reel", None) and REELS_ENABLED:
                 publish_reel(state, d)          # tells you itself if the daily limit is reached
         except Exception as e:
@@ -4226,7 +4230,7 @@ def roundup_part_due(state, day_s, info, n, part):
         done[f"tt{n}"] = True
         tg("sendMessage", chat_id=TG_CHAT, parse_mode="HTML",
            text=(f"⏰ <b>Time to post TikTok Part {n}/3</b> ({html.escape(part.get('name', ''))})\n"
-                 "The slides + title + caption are in your content channel.\n"
+                 "The slides + title + caption are in your 📦 content channel.\n"
                  "☑️ TikTok's \"AI-generated content\" label: not needed (no AI images in the slides)."),
            reply_markup={"inline_keyboard": [[{"text": "✅ Posted", "callback_data": f"rdone:{day_s}:{n}"}]]})
     fb = part.get("fb") or {}

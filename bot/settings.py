@@ -135,7 +135,7 @@ LINK_IN_FIRST_COMMENT = True # True = no URL in the caption ("🔗 Source in the
 SHARE_TO_STORY = "breaking"  # Facebook Story: "breaking" = only BREAKING news, "all" = every post, "off" = never
 FOLLOW_LINE = "Follow 7 Seas News for US & world news every day 🇺🇸🌍"   # in every caption, before the hashtags ("" = none)
 TIKTOK_HASHTAGS = "#news #worldnews #fyp"   # added to the caption sent to your TikTok channel (/tiktok)
-SEND_EACH_POST_TO_CONTENT_CHANNEL = False   # True = also send every post one by one to the /tiktok channel.
+SEND_EACH_POST_TO_CONTENT_CHANNEL = False   # True = also send every post one by one to the content channel (/content).
                                             # False = only the daily pack (titles + ONE zip file with all images)
 DAY_PACK_SIZE = "9x16"       # images in the daily zip: "9x16" = TikTok size (1080x1920), "4x5" = the post itself (1080x1350)
 
@@ -363,7 +363,7 @@ FEEDS = {
 # ---------- Daily roundup videos (3 parts, made by the bot after midnight New York) ----------
 # After NY midnight the bot sends you the PLAN in Telegram (✅ Approve · ✏️ Change · ⏭ Skip today).
 # Reply to the plan with words to change it ("move the Gaza story to Part 1"). Then it makes the 3 videos,
-# uploads them (scheduled) and sends the TikTok slides + captions to your content channel (/tiktok).
+# uploads them (scheduled) and sends the TikTok slides + captions to your content channel (/content).
 ROUNDUP_ENABLED = True
 ROUNDUP_START_DAY = "2026-11-17"     # first New York day that gets real roundup videos (older days: none)
 ROUNDUP_APPROVAL = "ask"             # "ask" = send the plan and wait for you; "auto" = never ask
