@@ -138,18 +138,39 @@ optional PIXABAY_API_KEY / PEXELS_API_KEY / FLICKR_API_KEY, YT_CLIENT_ID / YT_CL
 - Footer: "SOURCES: …" + date; small grey photo credit line only for CC BY licences.
 - People photos only for people named in the headline (Wikipedia page image, free licence only), up to 3,
   blended side by side (no divider lines). One person + place story → place photo + person in a circle.
-- Shootings/bombings/disasters ("incident") → INCIDENT_PLACE_PHOTO: place_photo() = a city view of the location
-  ("<city> skyline/downtown/city center/street/square, <rest>", NATURE_WORDS avoided, country-checked); none →
-  map card → brand globe. Never photos of an event (could be an older, different one). Before the city view,
-  incident_photo(): INCIDENT_PHOTO_IDEAS (police car / ambulance / fire engine) of THAT city (need= city words,
+- PHOTO ORDER for ALL news (_choose_background): the image must show the ACTION / main thing, not a calm city view.
+  1) official_event_photo(): REAL photo of THIS event from OFFICIAL_PHOTO_SOURCES (settings: DVIDS/DoD, Japan MoD/Joint
+     Staff, Ukraine SES (DSNS), Ukrainian Armed Forces, IDF, NATO, UN, government press offices; matched by words in
+     Commons Artist/Credit(raw, keeps hrefs)/"Files from…" categories, or the Flickr account name). Commons search
+     event_query, gsrsort=create_timestamp_desc, upload ≥ news_time − 1 day, DateTimeOriginal not older, licences
+     OFFICIAL_LICENSES, half the event words in title/desc/categories; country check = South Asia only (war photos
+     name both sides). Flickr official=True (needs FLICKR_API_KEY). Vetted with kind "event: …" (not this event = 0-4).
+     bg["event_photo"] = True, no tag.
+  2) action_photo(): ACTION FILE PHOTO. Ideas = Gemini "action_subject" (new PROMPT field) first, then ACTION_PHOTO_IDEAS
+     (settings, words in headline/subject/event_query); incidents try incident_photo(vetted=False) (that city's police /
+     ambulance / fire crews, INCIDENT_PHOTO_IDEAS) first. Per idea "<idea>, <location country>" then "<idea>";
+     sources Commons (wiki_search_photo loose=True: half the words in title/desc/categories) → Pexels → Pixabay → Flickr,
+     one candidate per search; names_dated_event() (year or month+day AND HARM_WORDS in title/desc) and looks_ai()
+     rejected BEFORE the AI sees it; vet kind "file: …"; best score wins (9+ at once, max ACTION_LOOKS=3 looks, 8+ stops
+     ideas); none → topic_photo(). bg["file_photo"] = True → render_image draws a "FILE PHOTO" tag top-right level with
+     the logo (dark 150-alpha rounded box, red left bar, Poppins SemiBold 22 spaced). With exactly 1 person in the
+     headline, steps 1-2 add the person in a circle (inset).
+  3) people (person_photo_checked) → scene ideas (not for incidents) → place_photo() → map_card() → incident globe /
+     brand. Scene and place photos need only PLACE_MIN_SCORE (5).
+  Candidates carry "about" (title/desc/tags, ≤300 chars) for these checks; choose_background() strips it before saving.
+- place_photo() = a city view of the location ("<city> skyline/downtown/city center/street/square, <rest>",
+  NATURE_WORDS avoided, country-checked). incident_photo(): INCIDENT_PHOTO_IDEAS of THAT city (need= city words,
   EVENT_WORDS in the title rejected), Commons only.
 - TOPIC photo (topic_photo(): Gemini "topic_photo" + GENERIC_PHOTO_IDEAS in settings, e.g. rain → "rain street"):
   Pexels → Pixabay → Flickr → Commons Quality images only; countries=AnyOrOwn(story countries) = photo may name no
-  country or only the story's; TOPIC_AVOID skips close-ups/events. Order: after scene ideas, before place_photo;
-  incidents: weather words first, else after the map card. place_ok() always rejects SOUTH_ASIA_PHOTO_WORDS.
+  country or only the story's; TOPIC_AVOID skips close-ups/events. Used at the end of step 2 (counts as a FILE PHOTO).
+  place_ok() always rejects SOUTH_ASIA_PHOTO_WORDS.
 - PHOTO_VISION_CHECK (Stage 2): vet(post, photo, kind) → photo_fits() sends a ≤640 px preview to Gemini
-  (gemini_json(image=…), VISION_PROMPT: wrong person/extra main person/wrong city/same-name place/car/food/beach/scan/
-  sign/logo/map/other event = 0, generic fitting 6–7, exact 9–10). Used for person photos (person_photo_checked, 3 tries),
+  (gemini_json(image=…), VISION_PROMPT scores how well it shows the ACTION ({action} = action_subject/event_query):
+  wrong person/extra main person/wrong city/same-name place/car/food/beach/scan/sign/logo/map/drawing/AI image = 0;
+  {event_rule} per kind (event: not this event 0-4; file/topic: only a clearly identifiable different event = 0;
+  others: any other event = 0); calm skyline/building/landscape for an action story max 5; generic fitting 6–7;
+  shows the action 8–10). vet(min_score=…) default PHOTO_MIN_SCORE (7); vet() also drops looks_ai(about). Used for person photos (person_photo_checked, 3 tries),
   event, scene (each source), incident, place and topic photos; score < PHOTO_MIN_SCORE → that URL is excluded and the
   next idea/source is tried, max PHOTO_CHECKS_PER_POST looks, then map → brand. Cache state["photo_memory"]["checked"]
   (url|headline-hash → {s,w,p}, last 500; person checks keyed url|kind; no global exclusion). Not checkable: people photos kept, others dropped; 429 → stop
@@ -160,7 +181,7 @@ optional PIXABAY_API_KEY / PEXELS_API_KEY / FLICKR_API_KEY, YT_CLIENT_ID / YT_CL
   photos for the last 10 posts and sends them to the bot chat (nothing published).
 - send_draft: if the chosen photo won't download (render_image sets bg["_loaded"]), it re-chooses, then map, then brand
   (never silently the globe). load_photo tries 1280/960 px Wikimedia sizes too.
-- No photo chain (all stories): people/event/scene → topic → place_photo (town → Gemini "nearby_city" → "<State> State Capitol")
+- Last steps of the chain: place_photo (town → Gemini "nearby_city" → "<State> State Capitol")
   → MAP_CARDS map_card(): MAP_REGIONS (Middle East, Red Sea… no pin), whole countries (map_country_named, highlighted,
   pin only if tiny), US/CA/AU states by name, else Wikipedia geocode (location, nearby_city, its country part, story
   country; nearest_country for coastal points), must fall in the story's country; map_background() draws
@@ -176,8 +197,8 @@ optional PIXABAY_API_KEY / PEXELS_API_KEY / FLICKR_API_KEY, YT_CLIENT_ID / YT_CL
   user's own photos only.
 - photo_quality() checks every Commons/Openverse photo (colour, not B&W/sepia) on a 500 px preview (Wikimedia only
   serves set widths: 250/330/500/960…); a photo that can't be checked is NOT used. Archive scans (LCCN, Bain News…) skipped.
-- Real event photos first: Gemini "event_query" → event_photo() = Flickr uploads since 1 day before the news, country-checked;
-  Flickr is also tried first for scene ideas. Needs FLICKR_API_KEY (Flickr Pro only; not set → skipped).
+- Flickr (FLICKR_API_KEY, Flickr Pro only; not set → skipped) is used for official event photos, action ideas and
+  scene ideas. AI_IMAGE_WORDS / looks_ai() filter every source (Pixabay also isAiGenerated). No AI-generated images.
 - USE_OPENVERSE: openverse_photo() (api.openverse.org, no key, ~15 s, often 504 → one retry; max 2 calls per story,
   stops after 3 failures per run). Licences by/by-sa/cc0/pdm, JPEG ≥1000 px, words before the comma in title/tags,
   NOT_A_PLACE_PHOTO skips people/event/vehicle photos (no date filter). wrong_capitol(): no state capitols for Congress.

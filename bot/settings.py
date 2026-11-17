@@ -173,6 +173,66 @@ INCIDENT_PLACE_PHOTO = True  # shootings/crashes/disasters: use a photo of the P
 MAP_CARDS = True             # no photo at all → the bot draws a news map: the country/state, borders and a red pin on
                              # the place (Natural Earth map data, public domain). These are auto-posted too.
                              # Works for cities, states, whole countries and regions ("Middle East", "Red Sea"…).
+# ---------- Photo ORDER for every story (the image must show the ACTION / main thing, not a calm city view) ----------
+# 1) A REAL photo of this event from an OFFICIAL free source (Wikimedia Commons uploads since the news started, or
+#    Flickr uploads from these accounts). The AI must confirm it shows this event.
+# 2) An ACTION FILE PHOTO of the story's main thing (fighter jets, rescuers at a collapsed building, firefighters…),
+#    from the story's country when possible. The image gets a small "FILE PHOTO" tag (top right).
+#    A file photo whose title names another dated event (e.g. "2023 Turkey earthquake rescue") is never used.
+# 3) Only then: the person's photo, a place/city view, the news map.
+# No AI-generated images, ever.
+#
+# Official sources: words that must be in the photo's author / credit / source (Commons) or the Flickr account name.
+OFFICIAL_PHOTO_SOURCES = {
+    "DVIDS / US Department of Defense": ["dvidshub", "dvids", "defense.gov", "department of defense", "army.mil",
+                                         "navy.mil", "af.mil", "marines.mil", "u.s. army", "u.s. navy", "u.s. air force",
+                                         "u.s. marine corps", "u.s. coast guard", "national guard", "spacecom"],
+    "Japan Ministry of Defense / Joint Staff": ["mod.go.jp", "ministry of defense (japan)", "japan ministry of defense",
+                                                "joint staff office", "防衛省", "統合幕僚監部"],
+    "Ukraine State Emergency Service": ["dsns.gov.ua", "state emergency service of ukraine", "дснс"],
+    "Ukrainian Armed Forces": ["mil.gov.ua", "armed forces of ukraine", "general staff of the armed forces",
+                               "ministry of defence of ukraine", "ministry of defense of ukraine", "зсу"],
+    "Israel Defense Forces": ["idf spokesperson", "israel defense forces", "idf.il"],
+    "NATO": ["nato.int", "nato photo", "north atlantic treaty organization"],
+    "United Nations": ["un photo", "united nations photo", "un.org", "unicef", "unhcr", "un ocha"],
+    "Government press offices": ["president.gov.ua", "office of the president of ukraine", "kremlin.ru",
+                                 "whitehouse.gov", "official white house photo", "fema.gov", "fema", "state.gov",
+                                 "gov.uk", "number 10", "bundesregierung", "elysee.fr", "gov.il", "gpo israel"],
+}
+# Action file photo ideas: if the headline (or the AI's "action_subject") has a word on the left, these ideas are
+# searched (after the AI's own action_subject). 2-5 words each, a thing or an activity, never a named event.
+ACTION_PHOTO_IDEAS = {
+    ("jet", "jets", "fighter", "fighters", "scramble", "scrambles", "scrambled", "airspace", "warplane", "warplanes",
+     "bomber", "bombers", "air force", "f-15", "f-16", "f-35"):
+        ["fighter jet", "fighter jets in flight", "fighter jet takeoff", "military aircraft intercept"],
+    ("navy", "naval", "warship", "warships", "destroyer", "frigate", "aircraft carrier", "submarine", "fleet"):
+        ["warship at sea", "navy destroyer", "aircraft carrier", "naval ship"],
+    ("troops", "soldiers", "army", "military", "infantry", "frontline", "front line", "offensive"):
+        ["soldiers", "troops on patrol", "army soldiers training", "military vehicles"],
+    ("tank", "tanks", "armored", "armoured"): ["main battle tank", "tank", "armored vehicle"],
+    ("missile", "missiles", "ballistic", "air defense", "air defence", "interceptor", "patriot"):
+        ["missile launch", "air defense system", "missile test launch"],
+    ("drone", "drones", "uav"): ["military drone", "drone in flight"],
+    ("earthquake", "quake", "collapse", "collapsed", "rubble", "landslide"):
+        ["search and rescue team", "rescue workers rubble", "collapsed building rescue", "urban search and rescue"],
+    ("fire", "fires", "blaze", "wildfire", "wildfires", "burning", "bushfire"):
+        ["firefighters fighting fire", "firefighters at work", "fire truck", "wildfire firefighters"],
+    ("flood", "floods", "flooding", "flooded"): ["flood rescue boat", "flooded street", "rescuers in flood water"],
+    ("storm", "hurricane", "typhoon", "cyclone", "tornado"): ["emergency crews storm", "hurricane clouds", "storm clouds"],
+    ("explosion", "blast", "exploded", "bomb", "bombing", "airstrike", "airstrikes", "shelling", "strike", "strikes"):
+        ["rescue workers", "emergency responders", "firefighters at work", "ambulance crew"],
+    ("shooting", "shot", "gunman", "gunmen", "gunfire", "stabbing", "hostage"):
+        ["police officers at work", "police cordon", "ambulance crew", "police car"],
+    ("protest", "protests", "protesters", "protestors", "demonstration", "demonstrators"):
+        ["protest crowd with flags", "demonstrators with flags", "protest march"],
+    ("court", "judge", "judges", "trial", "ruling", "verdict", "supreme court", "lawsuit", "jury"):
+        ["courtroom", "judge gavel", "court building"],
+    ("election", "elections", "vote", "voting", "voters", "ballot", "polls", "referendum"):
+        ["voters at polling station", "ballot box", "voting booth"],
+    ("economy", "inflation", "tariff", "tariffs", "stocks", "stock market", "trade", "recession", "interest rates"):
+        ["stock exchange trading floor", "container port cranes", "shipping containers", "supermarket shoppers"],
+}
+
 # Shootings, crashes, fires… : first try a photo of that city's emergency services (a "file photo"), then a city view.
 # Photos whose title mentions another event (shooting, crash, memorial…) are never used.
 INCIDENT_PHOTO_IDEAS = {
@@ -231,8 +291,11 @@ STRICT_PHOTO_MATCH = True    # True = a place photo must clearly be from the sto
 PHOTO_VISION_CHECK = True    # True = the AI LOOKS at every photo before it is used (wrong person, wrong city, a car,
                              # a beach, an old scan… → rejected) and the next photo idea is tried. The draft shows the
                              # score, e.g. "📷 9/10 Kyiv city". No photo good enough → the news map (always correct).
-PHOTO_MIN_SCORE = 7          # 0-10: photos below this score are not used (6-7 = generic but fitting, 9-10 = exact)
-PHOTO_CHECKS_PER_POST = 6    # max photos the AI looks at per post (keeps inside the free Gemini limit)
+PHOTO_MIN_SCORE = 7          # 0-10: event and action photos below this score are not used
+                             # (8-10 = shows the story's action, e.g. jets for a jets story; 10 = this exact event)
+PLACE_MIN_SCORE = 5          # the last-resort place/city view may score lower (a calm city view for an action story
+                             # gets at most 5 from the AI), so it is still better than the plain map
+PHOTO_CHECKS_PER_POST = 8    # max photos the AI looks at per post (keeps inside the free Gemini limit)
 GEMINI_GAP_SECONDS = 4       # wait at least this long between AI calls (free limit is about 15 per minute)
 PHOTOS_PER_PERSON = 12       # how many different free photos the bot collects per person (e.g. Trump)
 NO_REPEAT_PHOTOS = 40        # a photo is not used again until this many other photos were used
