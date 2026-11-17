@@ -117,7 +117,7 @@ optional PIXABAY_API_KEY / PEXELS_API_KEY / FLICKR_API_KEY, YT_CLIENT_ID / YT_CL
   sign/logo/map/other event = 0, generic fitting 6–7, exact 9–10). Used for person photos (person_photo_checked, 3 tries),
   event, scene (each source), incident, place and topic photos; score < PHOTO_MIN_SCORE → that URL is excluded and the
   next idea/source is tried, max PHOTO_CHECKS_PER_POST looks, then map → brand. Cache state["photo_memory"]["checked"]
-  (url → {s,w,p}, last 500; person checks keyed url|kind). Not checkable: people photos kept, others dropped; 429 → stop
+  (url|headline-hash → {s,w,p}, last 500; person checks keyed url|kind; no global exclusion). Not checkable: people photos kept, others dropped; 429 → stop
   for this post (checks_out()). Draft + log channel show photo_score_line ("📷 9/10 Kyiv city", d["photo_line"]).
   GEMINI_GAP_SECONDS between all Gemini calls. NOT_A_PHOTO_TITLE (scans, LCCN, signs…) for Commons, Openverse, Flickr.
   Person pools v2: BAD_PERSON_TITLE (met, swears in, childhood home…), portraits/"only this person" first.

@@ -3325,10 +3325,12 @@ def photo_preview(url):
 
 
 def photo_fits(post, url, kind):
-    """The AI's verdict on one photo: {"s": score, "w": what it shows, "p": problem}, cached by URL.
+    """The AI's verdict on one photo FOR THIS STORY: {"s": score, "w": what it shows, "p": problem}, cached by
+    URL + headline (a photo that fits one story can be wrong for another).
     None = could not check (no checks left this post, AI busy, photo didn't download)."""
     cache = PHOTO_MEM.setdefault("checked", {})
-    key = f"{url}|{kind}" if kind.startswith("person") else url
+    key = f"{url}|{kind}" if kind.startswith("person") else \
+        f"{url}|{hashlib.sha1(str(post.get('headline', '')).encode()).hexdigest()[:8]}"
     if key in cache:
         return cache[key]
     if PHOTO_CHECK["stop"] or PHOTO_CHECK["left"] <= 0:
@@ -3455,8 +3457,7 @@ def _choose_background(post, exclude=(), prefer_scene=False):
     """1) photos of the people in the story  2) best matching photo  3) news map  4) brand design.
     Every photo is looked at by the AI first (vet). prefer_scene=True is used by the 🔄 Other photo button."""
     OV["calls"] = 0
-    exclude = set(exclude) | {u for u, r in PHOTO_MEM.get("checked", {}).items()
-                              if "|" not in u and r.get("s", 10) < PHOTO_MIN_SCORE}
+    exclude = set(exclude)
     PHOTO_CHECK.update(left=PHOTO_CHECKS_PER_POST, stop=False, ex=exclude, seen=[])
     found = [x for x in (person_photo_checked(post, p, exclude) for p in person_names_in_headline(post)) if x]
 
