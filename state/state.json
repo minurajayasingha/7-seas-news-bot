@@ -1,95 +1,6 @@
 {
  "tg_offset": 495893077,
  "drafts": {
-  "5ac71e580a": {
-   "id": "5ac71e580a",
-   "headline": "Trump considers Cuba action and shifts Vice President focus",
-   "summary": "US President Trump calls Cuba a failed nation and hints at potential action before his term ends. The remarks follow an order for Vice President JD Vance to halt ceasefire negotiations with Tehran and investigate alleged fraud in Democratic-led states.",
-   "label": "US POLITICS",
-   "hook": "",
-   "key_points": [
-    "President Trump calls Cuba a failed nation.",
-    "Vice President JD Vance receives new investigation orders.",
-    "Ceasefire negotiations with Tehran are abandoned."
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#USPolitics",
-    "#WorldNews",
-    "#Cuba"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "The Independent"
-   ],
-   "link": "https://www.aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office?traffic_source=rss",
-   "links": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office?traffic_source=rss"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/us-politics/trump-cuba-military-force-iran-war-b3084238.html"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Master Sgt. Michel Sauret / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Trump considers Cuba action and shifts Vice President focus",
-    "people": [
-     "Donald Trump"
-    ],
-    "image_query": "White House",
-    "image_queries": [
-     "US Capitol building",
-     "Oval Office",
-     "Havana skyline",
-     "State Department building"
-    ],
-    "image_style": "person",
-    "location": "Washington, DC, US",
-    "nearby_city": "Washington, DC",
-    "event_query": "Trump press conference",
-    "news_time": null,
-    "label": "US POLITICS"
-   },
-   "created_at": "2026-11-13T02:45:46.479100+00:00",
-   "news_time": "2026-11-13T01:36:57+00:00",
-   "news_latest": "2026-11-13T02:33:28+00:00",
-   "caption": "🚨 BREAKING: Trump considers Cuba action and shifts Vice President focus\n\nUS President Trump calls Cuba a failed nation and hints at potential action before his term ends. The remarks follow an order for Vice President JD Vance to halt ceasefire negotiations with Tehran and investigate alleged fraud in Democratic-led states.\n\nWhat we know so far:\n• President Trump calls Cuba a failed nation.\n• Vice President JD Vance receives new investigation orders.\n• Ceasefire negotiations with Tehran are abandoned.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #WorldNews #Cuba #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 455,
-   "tg_file_id": "AgACAgUAAxkDAAIBx2r2edxwOVTw_iza3vtXkIRgsSW5AAK1E2sbFv2wV1jedTJ1v8WTAQADAgADdwADPQQ",
-   "extra_msgs": [],
-   "queued_at": "2026-11-13T04:30:46.234698+00:00",
-   "post_now": true,
-   "post_at": "2026-11-13T04:30:46.234714+00:00",
-   "post_label": "🚀 Posting now",
-   "fb_post_id": "1413030521900096_122100009927548584",
-   "posted_at": "2026-11-13T04:30:46.529865+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 12 · 11:30 PM New York · 10:00 AM Sri Lanka\n\n<b>Trump considers Cuba action and shifts Vice President focus</b>\n<i>Al Jazeera, The Independent</i>\n🟡 <b>Latest:</b> 8:03 AM Sri Lanka (1h 57m ago) · first reported 7:06 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122100009927548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 284,
-   "log_photo": true,
-   "cleared": true,
-   "fb_comment_id": "122100009927548584_1439000694969560",
-   "fb_story_id": "1909648167067448",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-16T03:30:43.800113+00:00"
-  },
   "071dea6cce": {
    "id": "071dea6cce",
    "headline": "Texas and Oklahoma execute two men on Thursday",
@@ -15862,17 +15773,13 @@
    "49b016b81c"
   ]
  ],
- "last_draft_at": "2026-11-17T02:31:35.121131+00:00",
+ "last_draft_at": "2026-11-17T02:45:51.126603+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-17T02:31:02.877122+00:00",
  "run_log": [
-  "11-17 00:22:20 run start",
-  "11-17 00:22:54 listening 11 min",
-  "11-17 00:33:47 listening done",
-  "11-17 00:33:47 run end after 686 s",
   "11-17 00:34:17 run start",
   "11-17 00:35:04 listening 11 min",
   "11-17 00:45:58 listening done",
@@ -15908,7 +15815,11 @@
   "11-17 02:31:02 run start",
   "11-17 02:32:04 listening 10 min",
   "11-17 02:42:33 listening done",
-  "11-17 02:42:33 run end after 691 s"
+  "11-17 02:42:33 run end after 691 s",
+  "11-17 02:45:50 run start",
+  "11-17 02:46:24 listening 11 min",
+  "11-17 02:57:17 listening done",
+  "11-17 02:57:17 run end after 686 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
