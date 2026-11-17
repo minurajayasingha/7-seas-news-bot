@@ -67,8 +67,10 @@ Never South Asia news. Real, verified news only: a story needs 2+ different outl
   albums (≥2 per album); then ONE backup zip (texts, covers, full slides). results[n]["tt"] = TikTok status.
   mp4s → bot chat only on upload failure or test; report → bot chat only in tests (main sends the daily report).
 - Roundup DESIGN = the owner's manual package exactly (full rules in docs/AUTOMATION_PLAN.md "Daily roundup rules"):
-  cover top→bottom PART n/3 · NAME → huge "NOV 16" (day red) → TOP STORIES (never TODAY'S, no count) → hook with red
-  bar (≤2 lines) → "MONDAY · 2026" (computed); footer VERIFIED WORLD NEWS · EVERY DAY + SWIPE →. Counter pill
+  cover (measured from the owner's Nov 15 cover; text block built bottom-up, sits just above the footer; globe gets
+  4 red pulse dots COVER_HOTSPOTS) top→bottom PART n/3 · NAME → "NOV 16" 190 px (day red) → TOP STORIES (never
+  TODAY'S, no count) → hook with red bar (≤2 lines, 2 sentences = 1 per line) → "MONDAY · 2026" SemiBold 36
+  (computed); footer VERIFIED WORLD NEWS · EVERY DAY (not spaced) + spaced SWIPE + red arrow. Counter pill
   "01 / 06" (both 2 digits), black ~55 % see-through, rounded, NO border. Top zoom crop stops above label text.
   End card logo + FOLLOW FOR MORE (never "Part 2"). TikTok slides 1080×1350: cover, then full posts in order.
   Design check: roundup.yml day "check" / "check YYYY-MM-DD" → design_check(): Part 1 video + 9:16 cover + first 3

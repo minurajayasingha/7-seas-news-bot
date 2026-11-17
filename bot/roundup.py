@@ -102,9 +102,34 @@ def part_texts(day, n, part, posts, post_at):
 # PICTURES: cover, story frames
 # =============================================================================
 
+def _spaced_ls(d, x, base, text, f, fill, spacing):
+    """Letter-spaced text drawn on a baseline (anchor "ls")."""
+    for ch in text:
+        d.text((x, base), ch, font=f, fill=fill, anchor="ls")
+        x += d.textlength(ch, font=f) + spacing
+    return x
+
+
+COVER_HOTSPOTS = [(660, 290), (850, 350), (580, 460), (740, 580)]   # red pulse dots on the globe (owner's design)
+
+
+def cover_hotspots(img):
+    layer = Image.new("RGBA", img.size, (0, 0, 0, 0))
+    g = ImageDraw.Draw(layer)
+    for x, y in COVER_HOTSPOTS:
+        for r, a in ((46, 70), (30, 120)):
+            g.ellipse([x - r, y - r, x + r, y + r], outline=RED + (a,), width=2)
+        g.ellipse([x - 10, y - 10, x + 10, y + 10], fill=RED + (255,))
+        g.ellipse([x - 4, y - 4, x + 4, y + 4], fill=(255, 255, 255, 255))
+    img.paste(layer, (0, 0), layer)
+
+
 def make_cover(day, n, part):
-    """1080x1350 cover: PART n/3 (or n/2) · NAME → huge NOV 16 (day red) → TOP STORIES → hook with red bar → MONDAY · 2026."""
+    """1080x1350 cover = the owner's design (measured from the Nov 15 cover). The text block sits LOW, ending just
+    above the footer: PART n/3 · NAME → NOV 16 (day red) → TOP STORIES → hook with red bar (≤2 lines) →
+    SUNDAY · 2026. Built from the bottom up so a 1-line hook moves everything down, not leaving a gap."""
     img = M.branded_background()
+    cover_hotspots(img)
     d = ImageDraw.Draw(img)
     X = 64
     if os.path.exists(M.LOGO_FILE):
@@ -112,50 +137,61 @@ def make_cover(day, n, part):
         lw = 330
         logo = logo.resize((lw, int(logo.height * lw / logo.width)), Image.LANCZOS)
         img.paste(logo, (X, 64), logo)
-    label = f"PART {n}/{part.get('of', 3)} · {part['name']}"
-    lf = M.font("Poppins-SemiBold.ttf", 30)
-    lw = M.spaced_width(d, label, lf, 3)
-    y = 420
-    d.rectangle([X, y, X + lw + 44, y + 60], fill=RED)
-    M.spaced(d, (X + 22, y + 11), label, lf, WHITE, 3)
-    # huge date: month white, day number red
-    mon, num = f"{day:%b}".upper() + " ", str(day.day)
-    size = 230
-    while True:
-        df = M.font("Poppins-Bold.ttf", size)
-        if d.textlength(mon + num, font=df) <= W - 2 * X or size <= 120:
-            break
-        size -= 10
-    y += 80
-    d.text((X, y), mon, font=df, fill=WHITE)
-    d.text((X + d.textlength(mon, font=df), y), num, font=df, fill=RED)
-    y += int(size * 1.08)
-    tf = M.font("Poppins-Bold.ttf", 92)
-    d.text((X, y), "TOP STORIES", font=tf, fill=WHITE)
-    y += 140
+    ft = H - 112                                          # footer red line (y 1238)
+    # hook lines (≤ 2), 44 px, line height 55
     hf = M.font("Poppins-SemiBold.ttf", 44)
     lines = M.wrap(d, part.get("hook") or "", hf, W - 2 * X - 40)
     while len(lines) > 2 and hf.size > 32:
         hf = M.font("Poppins-SemiBold.ttf", hf.size - 3)
         lines = M.wrap(d, part.get("hook") or "", hf, W - 2 * X - 40)
-    lines = lines[:2]
-    lh = int(hf.size * 1.3)
-    d.rectangle([X, y + 4, X + 10, y + lh * len(lines) - 6], fill=RED)
+    sents = re.findall(r"[^.!?]+[.!?]*", part.get("hook") or "")
+    sents = [x.strip() for x in sents if x.strip()]
+    if len(sents) == 2 and all(d.textlength(x, font=hf) <= W - 2 * X - 40 for x in sents):
+        lines = sents                                     # one sentence per line, like the owner's covers
+    lines = lines[:2] or [""]
+    lh = int(hf.size * 1.25)
+    # baselines, from the bottom up
+    wd_base = ft - 28                                     # SUNDAY · 2026
+    hook_last = wd_base - 94                              # last hook line
+    hook_first = hook_last - lh * (len(lines) - 1)
+    top_base = hook_first - 86                            # TOP STORIES
+    date_base = top_base - 105                            # NOV 16
+    mon, num = f"{day:%b}".upper() + " ", str(day.day)
+    size = 190
+    while True:
+        df = M.font("Poppins-Bold.ttf", size)
+        if d.textlength(mon + num, font=df) <= W - 2 * X or size <= 120:
+            break
+        size -= 8
+    cap = int(size * 0.70)                               # Poppins cap height ≈ 0.70 em
+    label_bot = date_base - cap - 83
+    # label box PART n/3 · NAME
+    label = f"PART {n}/{part.get('of', 3)} · {part['name']}"
+    lf = M.font("Poppins-SemiBold.ttf", 27)
+    lw = M.spaced_width(d, label, lf, 4)
+    d.rectangle([X, label_bot - 52, X + lw + 42, label_bot], fill=RED)
+    _spaced_ls(d, X + 21, label_bot - 16, label, lf, WHITE, 4)
+    # date, TOP STORIES
+    d.text((X, date_base), mon, font=df, fill=WHITE, anchor="ls")
+    d.text((X + d.textlength(mon, font=df), date_base), num, font=df, fill=RED, anchor="ls")
+    d.text((X, top_base), "TOP STORIES", font=M.font("Poppins-Bold.ttf", 86), fill=WHITE, anchor="ls")
+    # hook with red bar
+    d.rectangle([X, hook_first - 51, X + 9, hook_last + 21], fill=RED)
     for k, ln in enumerate(lines):
-        d.text((X + 36, y + k * lh), ln, font=hf, fill=WHITE)
-    y += lh * max(1, len(lines)) + 34
-    sf = M.font("Poppins-Medium.ttf", 30)
-    M.spaced(d, (X, y), f"{day:%A} · {day.year}".upper(), sf, SOFT, 4)
+        d.text((X + 30, hook_first + k * lh), ln, font=hf, fill=WHITE, anchor="ls")
+    # weekday · year
+    d.text((X, wd_base), f"{day:%A} · {day.year}".upper(), font=M.font("Poppins-SemiBold.ttf", 36),
+           fill=SOFT, anchor="ls")
     # footer
-    ft = H - 112
     d.rectangle([X, ft, W - X, ft + 3], fill=RED)
-    ff = M.font("Poppins-Medium.ttf", 24)
-    M.spaced(d, (X, ft + 30), "VERIFIED WORLD NEWS · EVERY DAY", ff, SOFT, 3)
-    sw = M.font("Poppins-Bold.ttf", 28)
-    ax, ay = W - X, ft + 47                              # arrow drawn (Poppins has no → sign)
-    d.line([(ax - 34, ay), (ax - 2, ay)], fill=WHITE, width=4)
-    d.polygon([(ax, ay), (ax - 13, ay - 10), (ax - 13, ay + 10)], fill=WHITE)
-    d.text((ax - 48, ft + 26), "SWIPE", font=sw, fill=WHITE, anchor="ra")
+    d.text((X, ft + 56), "VERIFIED WORLD NEWS · EVERY DAY", font=M.font("Poppins-Medium.ttf", 24), fill=SOFT,
+           anchor="ls")
+    ax, ay = W - X, ft + 47                              # red arrow drawn (Poppins has no → sign)
+    d.line([(ax - 50, ay), (ax - 4, ay)], fill=RED, width=6)
+    d.polygon([(ax, ay), (ax - 18, ay - 13), (ax - 18, ay + 13)], fill=RED)
+    sw = M.font("Poppins-SemiBold.ttf", 28)
+    sx = ax - 70 - M.spaced_width(d, "SWIPE", sw, 5)
+    _spaced_ls(d, sx, ft + 57, "SWIPE", sw, WHITE, 5)
     return img
 
 
