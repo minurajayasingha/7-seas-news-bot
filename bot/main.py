@@ -4644,6 +4644,15 @@ def run_once_jobs(state):
                 tg_text("🧪 Starting the YouTube connection test (a private 3-second video, deleted right after).")
             elif job.startswith("roundup_test:"):
                 roundup_start(state, job.split(":", 1)[1][:10], test=True)
+            elif job.startswith("roundup_real:"):           # one-off real roundup at ROUNDUP_MANUAL_TIMES
+                day_s = job.split(":", 1)[1][:10]
+                info = state.get("roundup", {}).get(day_s)
+                if not info or not info.get("plan"):
+                    raise RuntimeError(f"no roundup plan for {day_s}")
+                info.update(test=False, status="building", dispatch_at=now_utc().isoformat(), dispatch_tries=1,
+                            done={})
+                roundup_request_build(day_s, False)
+                tg_text(f"🎬 Making the {day_s} roundup for real now (Facebook + YouTube at your times, ~15–20 min).")
         except Exception as e:
             log("Run-once job failed:", job, e)
             tg_text(f"⚠️ Test job {html.escape(job)} failed: <code>{html.escape(str(e))[:300]}</code>")

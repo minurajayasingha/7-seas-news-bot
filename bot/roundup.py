@@ -23,6 +23,7 @@ import time
 import traceback
 import zipfile
 from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import main as M                                   # noqa: E402  (all the bot's tools: images, Telegram, Facebook)
@@ -587,7 +588,8 @@ def run(day_s, test=False):
     info = state.get("roundup", {}).get(day_s)
     if not info or not info.get("plan"):
         raise RuntimeError(f"no approved plan for {day_s} in state.json")
-    test = test or bool(info.get("test"))
+    manual = ROUNDUP_MANUAL_TIMES.get(day_s)
+    test = test or (bool(info.get("test")) and not manual)
     day = datetime.fromisoformat(day_s).date()
     plan = info["plan"]
     drafts = state["drafts"]
@@ -598,6 +600,8 @@ def run(day_s, test=False):
                  if k - 1 < len(plan["ids"]) and plan["ids"][k - 1] in drafts]
         if not posts:
             continue
+        if manual and len(plan["parts"]) == 3:   # plans made before the fixed part names
+            part = dict(part, name=ROUNDUP_PART_NAMES[n - 1], tag=ROUNDUP_PART_HASHTAGS[n - 1])
         cover = make_cover(day, n, part)
         slides = [(f"{1:02d}_cover.jpg", jpg(cover), "cover")]
         for k, d in enumerate(posts, 2):
@@ -607,6 +611,10 @@ def run(day_s, test=False):
                           "slides": slides, "video": video, "seconds": seconds})
 
     times = post_times(day, test)
+    if manual and not test:
+        sl, earliest = ZoneInfo("Asia/Colombo"), M.now_utc() + timedelta(minutes=15)
+        times = [max(datetime.strptime(t, "%Y-%m-%d %H:%M").replace(tzinfo=sl).astimezone(timezone.utc), earliest)
+                 for t in manual]
     for p, at in zip(parts_out, times):
         p["texts"] = part_texts(day, p["n"], p["part"], p["posts"], at)
         p["at"] = at
@@ -641,7 +649,7 @@ def run(day_s, test=False):
     # content channel: per part the TikTok text + numbered slides, then ONE backup zip
     tt_ok = []
     for p in parts_out:
-        if not ROUNDUP_TIKTOK:
+        if not ROUNDUP_TIKTOK or manual:
             tt_ok.append("off")
             continue
         try:
@@ -668,9 +676,10 @@ def run(day_s, test=False):
     data, full = backup_zip(True), True
     if len(data) > 48 * 1024 * 1024:               # Telegram bots can send files up to 50 MB
         data, full = backup_zip(False), False
-    M.tg("sendDocument", chat_id=ch, caption="📦 Backup: DESCRIPTIONS-AND-TIMES.txt (titles, captions, tags, times), "
-                                              "covers" + (" and full-quality TikTok slides" if full else ""),
-         files={"document": (f"7seas_roundup_{day:%Y-%m-%d}.zip", data, "application/zip")})
+    if not manual:                                 # a one-off manual day: you already have the slides
+        M.tg("sendDocument", chat_id=ch, caption="📦 Backup: DESCRIPTIONS-AND-TIMES.txt (titles, captions, tags, "
+                                                  "times), covers" + (" and full-quality TikTok slides" if full else ""),
+             files={"document": (f"7seas_roundup_{day:%Y-%m-%d}.zip", data, "application/zip")})
 
     # a video goes to the bot chat only when you must post it by hand (an upload failed / nothing uploaded) or in a test
     for p, r in zip(parts_out, results):

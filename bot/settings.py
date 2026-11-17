@@ -463,4 +463,11 @@ TIKTOK_SLIDES_AS = "photos"          # "photos" = albums you can save on your ph
 #   "phototest:<id>"           = new photos for the last 10 posts, sent to Telegram with the AI's score (nothing published)
 #   "roundup_test:YYYY-MM-DD"  = the daily roundup of that New York day, sent to Telegram only (no uploads)
 #   "yttest:<id>"              = YouTube check: private 3 s video, read back if scheduling works, then deleted
-RUN_ONCE = ["phototest:2026-11-17", "roundup_test:2026-11-16", "yttest:1", "roundup_test:2026-11-16b"]
+#   "roundup_real:YYYY-MM-DD"  = make that day's roundup for REAL (Facebook + YouTube uploads) at the times in
+#                                ROUNDUP_MANUAL_TIMES below (no TikTok slides: you do TikTok yourself)
+RUN_ONCE = ["phototest:2026-11-17", "roundup_test:2026-11-16", "yttest:1", "roundup_test:2026-11-16b",
+            "roundup_real:2026-11-16"]
+
+# One-off posting times for a roundup day (Sri Lanka time, "YYYY-MM-DD HH:MM"), Part 1/2/3.
+# A time that is already too close is moved to ~15 min after the videos are ready.
+ROUNDUP_MANUAL_TIMES = {"2026-11-16": ["2026-11-17 20:00", "2026-11-17 22:00", "2026-11-17 23:55"]}
