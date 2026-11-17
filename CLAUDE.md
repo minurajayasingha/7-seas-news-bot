@@ -66,15 +66,16 @@ Never South Asia news. Real, verified news only: a story needs 2+ different outl
   Telegram to the content channel: per part text (both times + NY date, title/caption in <code>), sendMediaGroup
   albums (≥2 per album); then ONE backup zip (texts, covers, full slides). results[n]["tt"] = TikTok status.
   mp4s → bot chat only on upload failure or test; report → bot chat only in tests (main sends the daily report).
-- Roundup DESIGN = the owner's manual package exactly (full rules in docs/AUTOMATION_PLAN.md "Daily roundup rules"):
-  cover (measured from the owner's Nov 15 cover; text block built bottom-up, sits just above the footer; globe gets
-  4 red pulse dots COVER_HOTSPOTS) top→bottom PART n/3 · NAME → "NOV 16" 190 px (day red) → TOP STORIES (never
-  TODAY'S, no count) → hook with red bar (≤2 lines, 2 sentences = 1 per line) → "MONDAY · 2026" SemiBold 36
-  (computed); footer VERIFIED WORLD NEWS · EVERY DAY (not spaced) + spaced SWIPE + red arrow. Counter pill
-  "01 / 06" (both 2 digits), black ~55 % see-through, rounded, NO border. Top zoom crop stops above label text.
-  End card logo + FOLLOW FOR MORE (never "Part 2"). TikTok slides 1080×1350: cover, then full posts in order.
-  Design check: roundup.yml day "check" / "check YYYY-MM-DD" → design_check(): Part 1 video + 9:16 cover + first 3
-  slides to the bot chat, nothing uploaded/saved.
+- Roundup design: see `docs/ROUNDUP_DESIGN.md` + `bot/roundup_design.py` (the ONLY place for roundup look/size/timing
+  numbers: covers, cover_9x16, story_canvas, draw_counter, typing_frame, wipe, end_frame, build_audio, TIMING; never
+  copy its numbers elsewhere, never "improve" them). roundup.py only calls it; story typing uses render_image's own
+  layout (+OY 285). Golden test must pass: `python tests/test_roundup_design.py` (pixel-exact vs tests/golden/, needs
+  Pillow with raqm — Mac: brew install fribidi + DYLD_FALLBACK_LIBRARY_PATH=/opt/homebrew/lib); roundup.yml runs it
+  before making anything. Hook rule: 2 sentences, each fits one line (split_hook, ~32 chars); roundup_fit_hooks()
+  asks Gemini once for shorter hooks, then roundup_safe_hook() (first sentence, else second, never wrapped/shrunk).
+  Cover date + weekday from the NEWS day via strftime. TikTok slides = cover + the bot's normal post images.
+  Design preview (dry run): RUN_ONCE "roundup_preview:YYYY-MM-DD" or roundup.yml day "preview YYYY-MM-DD" →
+  design_preview(): 3 TikTok covers, 3 video covers, a mid-typing frame, last frame, Part 1 video to the bot chat.
 - tools/youtube_token.py = one-time local OAuth helper (loopback) → refresh token. README has the owner steps.
 
 ## Secrets (GitHub Actions)

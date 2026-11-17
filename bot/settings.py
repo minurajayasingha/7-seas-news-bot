@@ -465,7 +465,9 @@ TIKTOK_SLIDES_AS = "photos"          # "photos" = albums you can save on your ph
 #   "yttest:<id>"              = YouTube check: private 3 s video, read back if scheduling works, then deleted
 #   "roundup_real:YYYY-MM-DD"  = make that day's roundup for REAL (Facebook + YouTube uploads) at the times in
 #                                ROUNDUP_MANUAL_TIMES below (no TikTok slides: you do TikTok yourself)
-RUN_ONCE = ["phototest:2026-11-17", "roundup_test:2026-11-16", "yttest:1", "roundup_test:2026-11-16b"]
+#   "roundup_preview:YYYY-MM-DD" = design dry run of that day → bot chat (covers, frames, Part 1 video), no uploads
+RUN_ONCE = ["phototest:2026-11-17", "roundup_test:2026-11-16", "yttest:1", "roundup_test:2026-11-16b",
+            "roundup_preview:2026-11-16"]
 # ON HOLD: add "roundup_real:2026-11-16" back here (and remove the day from ROUNDUP_HOLD_DAYS) to publish it.
 ROUNDUP_HOLD_DAYS = ["2026-11-16"]   # roundup days that must NOT be made/uploaded for real (safety hold)
 

@@ -4193,7 +4193,8 @@ Rules:
 - 6 to {max_part} stories in parts 2 and 3 (part 1 may have fewer), {min_total} to {max_total} in total
   (if there are fewer good posts, use all good ones).
 - Inside a part: the most important story first.
-- "hook": 2 very short sentences (max 95 characters together) with ONLY facts from the headlines of that part. No opinions.
+- "hook": 2 very short sentences, EACH max 30 characters (each sentence must fit ONE line on the cover), with
+  ONLY facts from the headlines of that part. No opinions. Example: "Iran targets US base in Bahrain. Houthis advance."
 - "title": max 60 characters, plain facts of the biggest 1-2 stories of the part. Never "today" or "today's".
 - "question": one short neutral question about the part's top story, for comments. "" if it is about deaths or a tragedy.
 - "hashtags": 2 lowercase topic hashtags for the part, e.g. ["#ukraine", "#congress"].
@@ -4273,6 +4274,66 @@ def roundup_clean_plan(raw, posts):
     return {"parts": parts, "dropped": dropped[:40]}
 
 
+def roundup_hook_ok(hook):
+    """The cover rule (roundup_design.split_hook): 2 short sentences, each fits one line, never wrapped/shrunk."""
+    import roundup_design as RD
+    font("Poppins-SemiBold.ttf", 10)                  # makes sure the font file is there
+    RD.set_font_dir(FONT_DIR)
+    try:
+        RD.split_hook(hook)
+        return bool(hook.strip())
+    except ValueError:
+        return False
+
+
+def roundup_safe_hook(hook):
+    """Last resort without the AI: the hook if it fits, else only its first sentence (words dropped from the
+    end only if even that is too long)."""
+    hook = re.sub(r"\s+", " ", str(hook or "")).strip()
+    if roundup_hook_ok(hook):
+        return hook
+    sents = [x.strip() for x in re.split(r"(?<=[.!?])\s+", hook) if x.strip()]
+    for x in sents[:2]:                              # the first sentence, else the second one, if it fits
+        x = x if x[-1] in ".!?" else x + "."
+        if roundup_hook_ok(x):
+            return x
+    first = sents[0] if sents else ""
+    words = first.rstrip(".!?").split()
+    small = {"and", "or", "but", "the", "a", "an", "of", "in", "on", "at", "to", "for", "with", "by", "from", "its"}
+    while words and (not roundup_hook_ok(" ".join(words) + ".") or words[-1].lower().strip(",") in small):
+        words.pop()
+    cut = [k for k, w in enumerate(words) if w.lower().strip(",") in small and k >= len(words) - 3 and k >= 2]
+    if cut and len(words) < len(first.rstrip(".!?").split()):     # shortened: end before "and oil" etc.
+        words = words[:cut[0]]
+    return " ".join(words).rstrip(",") + "." if words else ""
+
+
+def roundup_fit_hooks(plan, heads=None):
+    """Every part's hook must pass the cover rule. Too long → ask Gemini ONCE for shorter hooks;
+    still too long → only the first sentence."""
+    bad = [i for i, p in enumerate(plan.get("parts") or []) if not roundup_hook_ok(p.get("hook") or "")]
+    if not bad:
+        return plan
+    asks = []
+    for i in bad:
+        p = plan["parts"][i]
+        hl = "; ".join((heads or [])[n - 1][:90] for n in p.get("stories", [])[:4] if heads and n - 1 < len(heads))
+        asks.append(f'{i + 1}. old hook: "{p.get("hook", "")}"' + (f" — top headlines: {hl}" if hl else ""))
+    prompt = ("Rewrite these video cover hooks of a neutral news page. Each hook = 2 very short sentences, EACH "
+              "sentence max 30 characters, only facts, no opinions. Example: \"FAA ground stop. SpaceX catches "
+              "Starship.\"\n" + "\n".join(asks) + '\nReturn ONLY JSON: {"hooks": {"<number>": "<hook>", ...}}')
+    new = {}
+    try:
+        new = gemini_json(prompt, temperature=0.3, check=lambda d: isinstance(d.get("hooks"), dict)).get("hooks") or {}
+    except Exception as e:
+        log("Roundup hooks: AI failed:", e)
+    for i in bad:
+        p = plan["parts"][i]
+        h = str(new.get(str(i + 1)) or "").strip()
+        p["hook"] = h if roundup_hook_ok(h) else roundup_safe_hook(h or p.get("hook") or "")
+    return plan
+
+
 def roundup_make_plan(state, day, change="", old=None):
     posts = roundup_day_posts(state, day)
     prev = state.get("roundup", {}).get((day - timedelta(days=1)).isoformat(), {})
@@ -4295,7 +4356,7 @@ def roundup_make_plan(state, day, change="", old=None):
             raise
         plan = roundup_clean_plan(roundup_fallback_plan(posts), posts)
     plan["ids"] = [d["id"] for d in posts]          # story number n = ids[n-1]
-    return plan
+    return roundup_fit_hooks(plan, [d["headline"] for d in posts])
 
 
 def roundup_plan_text(day, info):
@@ -4644,6 +4705,9 @@ def run_once_jobs(state):
                 tg_text("🧪 Starting the YouTube connection test (a private 3-second video, deleted right after).")
             elif job.startswith("roundup_test:"):
                 roundup_start(state, job.split(":", 1)[1][:10], test=True)
+            elif job.startswith("roundup_preview:"):        # design dry run → bot chat, nothing uploaded
+                roundup_request_build("preview " + job.split(":", 1)[1][:10], False)
+                tg_text("🎨 Making a roundup design preview (covers, frames, Part 1 video) — about 10–15 min.")
             elif job.startswith("roundup_real:"):           # one-off real roundup at ROUNDUP_MANUAL_TIMES
                 day_s = job.split(":", 1)[1][:10]
                 info = state.get("roundup", {}).get(day_s)

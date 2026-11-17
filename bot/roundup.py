@@ -27,12 +27,9 @@ from zoneinfo import ZoneInfo
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import main as M                                   # noqa: E402  (all the bot's tools: images, Telegram, Facebook)
-from main import Image, ImageDraw, ImageFilter     # noqa: E402
+from main import Image                             # noqa: E402
 from settings import *                             # noqa: E402,F401,F403
-
-RW, RH, FPS, W, H = M.RW, M.RH, M.FPS, M.W, M.H
-POST_Y = M.REEL_IMG_Y                              # 285: where the 1080x1350 post sits in the 9:16 frame
-TOP_FILL, BOTTOM_FILL = (25, 25, 27), (8, 8, 8)
+import roundup_design as RD                        # noqa: E402  (THE design: covers, frames, swipes, sounds, timing)
 YT_CLIENT_ID = os.environ.get("YT_CLIENT_ID", "").strip()
 YT_CLIENT_SECRET = os.environ.get("YT_CLIENT_SECRET", "").strip()
 YT_REFRESH_TOKEN = os.environ.get("YT_REFRESH_TOKEN", "").strip()
@@ -102,105 +99,20 @@ def part_texts(day, n, part, posts, post_at):
 # PICTURES: cover, story frames
 # =============================================================================
 
-def _spaced_ls(d, x, base, text, f, fill, spacing):
-    """Letter-spaced text drawn on a baseline (anchor "ls")."""
-    for ch in text:
-        d.text((x, base), ch, font=f, fill=fill, anchor="ls")
-        x += d.textlength(ch, font=f) + spacing
-    return x
+# =============================================================================
+# DRAWING — every look/size/timing number lives in roundup_design.py (docs/ROUNDUP_DESIGN.md). Nothing here.
+# =============================================================================
 
-
-COVER_HOTSPOTS = [(660, 290), (850, 350), (580, 460), (740, 580)]   # red pulse dots on the globe (owner's design)
-
-
-def cover_hotspots(img):
-    layer = Image.new("RGBA", img.size, (0, 0, 0, 0))
-    g = ImageDraw.Draw(layer)
-    for x, y in COVER_HOTSPOTS:
-        for r, a in ((46, 70), (30, 120)):
-            g.ellipse([x - r, y - r, x + r, y + r], outline=RED + (a,), width=2)
-        g.ellipse([x - 10, y - 10, x + 10, y + 10], fill=RED + (255,))
-        g.ellipse([x - 4, y - 4, x + 4, y + 4], fill=(255, 255, 255, 255))
-    img.paste(layer, (0, 0), layer)
+def use_design_fonts():
+    for name in ("Poppins-Bold.ttf", "Poppins-SemiBold.ttf", "Poppins-Medium.ttf"):
+        M.font(name, 10)                              # downloads the bot's Poppins files if missing
+    RD.set_font_dir(M.FONT_DIR)
 
 
 def make_cover(day, n, part):
-    """1080x1350 cover = the owner's design (measured from the Nov 15 cover). The text block sits LOW, ending just
-    above the footer: PART n/3 · NAME → NOV 16 (day red) → TOP STORIES → hook with red bar (≤2 lines) →
-    SUNDAY · 2026. Built from the bottom up so a 1-line hook moves everything down, not leaving a gap."""
-    img = M.branded_background()
-    cover_hotspots(img)
-    d = ImageDraw.Draw(img)
-    X = 64
-    if os.path.exists(M.LOGO_FILE):
-        logo = Image.open(M.LOGO_FILE).convert("RGBA")
-        lw = 330
-        logo = logo.resize((lw, int(logo.height * lw / logo.width)), Image.LANCZOS)
-        img.paste(logo, (X, 64), logo)
-    ft = H - 112                                          # footer red line (y 1238)
-    # hook lines (≤ 2), 44 px, line height 55
-    hf = M.font("Poppins-SemiBold.ttf", 44)
-    lines = M.wrap(d, part.get("hook") or "", hf, W - 2 * X - 40)
-    while len(lines) > 2 and hf.size > 32:
-        hf = M.font("Poppins-SemiBold.ttf", hf.size - 3)
-        lines = M.wrap(d, part.get("hook") or "", hf, W - 2 * X - 40)
-    sents = re.findall(r"[^.!?]+[.!?]*", part.get("hook") or "")
-    sents = [x.strip() for x in sents if x.strip()]
-    if len(sents) == 2 and all(d.textlength(x, font=hf) <= W - 2 * X - 40 for x in sents):
-        lines = sents                                     # one sentence per line, like the owner's covers
-    lines = lines[:2] or [""]
-    lh = int(hf.size * 1.25)
-    # baselines, from the bottom up
-    wd_base = ft - 28                                     # SUNDAY · 2026
-    hook_last = wd_base - 94                              # last hook line
-    hook_first = hook_last - lh * (len(lines) - 1)
-    top_base = hook_first - 86                            # TOP STORIES
-    date_base = top_base - 105                            # NOV 16
-    mon, num = f"{day:%b}".upper() + " ", str(day.day)
-    size = 190
-    while True:
-        df = M.font("Poppins-Bold.ttf", size)
-        if d.textlength(mon + num, font=df) <= W - 2 * X or size <= 120:
-            break
-        size -= 8
-    cap = int(size * 0.70)                               # Poppins cap height ≈ 0.70 em
-    label_bot = date_base - cap - 83
-    # label box PART n/3 · NAME
-    label = f"PART {n}/{part.get('of', 3)} · {part['name']}"
-    lf = M.font("Poppins-SemiBold.ttf", 27)
-    lw = M.spaced_width(d, label, lf, 4)
-    d.rectangle([X, label_bot - 52, X + lw + 42, label_bot], fill=RED)
-    _spaced_ls(d, X + 21, label_bot - 16, label, lf, WHITE, 4)
-    # date, TOP STORIES
-    d.text((X, date_base), mon, font=df, fill=WHITE, anchor="ls")
-    d.text((X + d.textlength(mon, font=df), date_base), num, font=df, fill=RED, anchor="ls")
-    d.text((X, top_base), "TOP STORIES", font=M.font("Poppins-Bold.ttf", 86), fill=WHITE, anchor="ls")
-    # hook with red bar
-    d.rectangle([X, hook_first - 51, X + 9, hook_last + 21], fill=RED)
-    for k, ln in enumerate(lines):
-        d.text((X + 30, hook_first + k * lh), ln, font=hf, fill=WHITE, anchor="ls")
-    # weekday · year
-    d.text((X, wd_base), f"{day:%A} · {day.year}".upper(), font=M.font("Poppins-SemiBold.ttf", 36),
-           fill=SOFT, anchor="ls")
-    # footer
-    d.rectangle([X, ft, W - X, ft + 3], fill=RED)
-    d.text((X, ft + 56), "VERIFIED WORLD NEWS · EVERY DAY", font=M.font("Poppins-Medium.ttf", 24), fill=SOFT,
-           anchor="ls")
-    ax, ay = W - X, ft + 47                              # red arrow drawn (Poppins has no → sign)
-    d.line([(ax - 50, ay), (ax - 4, ay)], fill=RED, width=6)
-    d.polygon([(ax, ay), (ax - 18, ay - 13), (ax - 18, ay + 13)], fill=RED)
-    sw = M.font("Poppins-SemiBold.ttf", 28)
-    sx = ax - 70 - M.spaced_width(d, "SWIPE", sw, 5)
-    _spaced_ls(d, sx, ft + 57, "SWIPE", sw, WHITE, 5)
-    return img
-
-
-def tall(img_4x5):
-    """1080x1350 picture in the middle of a 1080x1920 frame: top (25,25,27), bottom (8,8,8)."""
-    frame = Image.new("RGB", (RW, RH), BOTTOM_FILL)
-    frame.paste(Image.new("RGB", (RW, POST_Y), TOP_FILL), (0, 0))
-    frame.paste(img_4x5, (0, POST_Y))
-    return frame
+    """TikTok cover 1080x1350. day = the NEWS day (New York date)."""
+    return RD.make_cover(day, n, part.get("of", 3), part["name"], M.roundup_safe_hook(part.get("hook") or ""),
+                         M.LOGO_FILE)
 
 
 def jpg(img, q=92):
@@ -209,96 +121,115 @@ def jpg(img, q=92):
     return out.getvalue()
 
 
-FEATHER = 120
-_FEATHER_MASK = {}
-
-
-def feather_mask():
-    if "m" not in _FEATHER_MASK:
-        m = Image.new("L", (W, H), 255)
-        dr = ImageDraw.Draw(m)
-        for y in range(FEATHER):
-            k = y / FEATHER
-            dr.line([(0, y), (W, y)], fill=int(255 * (k * k * (3 - 2 * k))))      # smooth 0 → 255
-        _FEATHER_MASK["m"] = m
-    return _FEATHER_MASK["m"]
-
-
-def story_frame(d, day, k, total):
-    """(frame without headline, layout) for one story. layout None = the headline is already in the picture
+def story_base(d, day, k, total):
+    """(1080x1920 frame without headline + counter, layout). layout None = the headline is already in the picture
     (the photo would not download: the published image is used as it is)."""
     label = "BREAKING NEWS" if d.get("breaking") else d.get("label", "WORLD")
     lay, bg = {}, copy.deepcopy(d.get("bg") or {"type": "brand", "photos": []})
     clean = Image.open(io.BytesIO(M.render_image(d["headline"], label, d.get("sources", []), bg,
                                                  hide_headline=True, layout=lay, date=day))).convert("RGB")
     if bg.get("photos") and not bg.get("_loaded"):
-        clean = Image.open(io.BytesIO(M.tg_download(d["tg_file_id"]))).convert("RGB").resize((W, H))
+        clean = Image.open(io.BytesIO(M.tg_download(d["tg_file_id"]))).convert("RGB").resize((RD.W, RD.POST_H))
         lay = None
-    frame = Image.new("RGB", (RW, RH), BLACK)
-    # top: blurred (r 34), 45 % darker zoom of the photo area (post rows 170–900), feathered into the post.
-    # Rows 170+ skip the logo; the bottom stops above the label / location tag so no text gets in.
-    bottom = 900 if not lay else max(560, min(900, lay["y"] - 140))
-    area = clean.crop((0, 170, W, bottom))
-    top = M.cover(area, RW, POST_Y + FEATHER, 0.5).filter(ImageFilter.GaussianBlur(34))
-    top = Image.blend(top, Image.new("RGB", top.size, BLACK), 0.45)
-    frame.paste(top, (0, 0))
-    strip = clean.crop((0, H - 6, W, H)).resize((1, 1), Image.LANCZOS).getpixel((0, 0))
-    frame.paste(Image.new("RGB", (RW, RH - POST_Y - H), strip), (0, POST_Y + H))
-    frame.paste(clean, (0, POST_Y), feather_mask())
-    # counter pill "01 / 06" top-right: see-through black (~55 %), rounded ends, white text, no border
-    pf = M.font("Poppins-Bold.ttf", 34)
-    txt = f"{k:02d} / {total:02d}"
-    tw = ImageDraw.Draw(frame).textlength(txt, font=pf)
-    x1, y1 = RW - 48, 48
-    pill = Image.new("RGBA", frame.size, (0, 0, 0, 0))
-    ImageDraw.Draw(pill).rounded_rectangle([x1 - tw - 48, y1, x1, y1 + 66], radius=33, fill=(0, 0, 0, 140))
-    frame = Image.alpha_composite(frame.convert("RGBA"), pill).convert("RGB")
-    ImageDraw.Draw(frame).text((x1 - tw - 24, y1 + 12), txt, font=pf, fill=WHITE)
-    return frame, lay
+    return RD.draw_counter(RD.story_canvas(clean), k, total), lay
 
 
-def end_card():
-    return M.reel_end_card()                      # logo + FOLLOW FOR MORE + VERIFIED WORLD NEWS · EVERY DAY
+MAX_SECONDS = 88                                   # Facebook Reels: max 90 s (safety only)
 
 
-# =============================================================================
-# SOUND
-# =============================================================================
+def make_part_video(day, n, part, posts, cover_4x5):
+    """MP4 bytes of one part (1080x1920, 30 fps, H.264 + AAC) — exactly roundup_design.py."""
+    t0 = time.time()
+    T, FR, NW = RD.TIMING, RD.FPS, RD.TIMING["wipe_frames"]
+    bases = [story_base(d, day, k, len(posts)) for k, d in enumerate(posts, 1)]
+    cover_t = RD.cover_9x16(cover_4x5)
+    end = RD.end_frame(M.LOGO_FILE)
+    hfonts = {}
 
-def _boom():
-    import math
-    n = int(1.2 * M.AUDIO_SR)
-    out = []
-    for k in range(n):
-        t = k / M.AUDIO_SR
-        f = 42 + 30 * math.exp(-t / 0.15)
-        out.append(math.sin(2 * math.pi * f * t) * math.exp(-t / 0.45) * min(1.0, t / 0.01) * 0.95)
-    return out
+    def hfont(size):
+        if size not in hfonts:
+            hfonts[size] = M.font("Poppins-Bold.ttf", size)
+        return hfonts[size]
 
+    def frame_at(i, nchars, cursor):
+        base, lay = bases[i]
+        if not lay:
+            return base
+        return RD.typing_frame(base, lay["lines"], hfont(lay["size"]), lay["size"], lay["y"] + RD.OY,
+                               lay["line_h"], nchars, cursor)
 
-def part_audio(seconds, keys, whooshes):
-    import wave
-    import array
-    buf = [0.0] * int(seconds * M.AUDIO_SR)
-    rng = random.Random(len(keys))
-    M._add(buf, 0.0, _boom())
-    if REEL_TYPING_SOUND:
-        click = {False: [M._key_click(rng) for _ in range(6)], True: [M._key_click(rng, True) for _ in range(3)]}
-        for t, ch in keys:
-            M._add(buf, t + rng.uniform(-0.006, 0.006), rng.choice(click[ch == " "]))
-    wh = M._whoosh(0.5)
-    for t in whooshes:
-        M._add(buf, max(0.0, t - 0.1), wh)
-    peak = max(1e-9, max(abs(v) for v in buf))
-    gain = min(1.0, 0.89 / peak) * max(0.0, min(1.0, REEL_SOUND_VOLUME))
-    pcm = array.array("h", (int(max(-1.0, min(1.0, v * gain)) * 32767) for v in buf))
-    mem = io.BytesIO()
-    with wave.open(mem, "wb") as w:
-        w.setnchannels(1)
-        w.setsampwidth(2)
-        w.setframerate(M.AUDIO_SR)
-        w.writeframes(pcm.tobytes())
-    return mem.getvalue()
+    type_n = [RD.typing_frame_count(lay["lines"]) if lay else 0 for _, lay in bases]
+    hold_n = int(T["hold_s"] * FR)
+    fixed = int(T["cover_hold_s"] * FR) + 2 * NW * (len(posts) + 1) + int(T["end_hold_s"] * FR) + sum(type_n)
+    if (fixed + hold_n * len(posts)) / FR > MAX_SECONDS:
+        hold_n = max(FR, int((MAX_SECONDS * FR - fixed) / len(posts)))
+
+    # the timeline as a list of frame makers; events for the sound
+    plan, events = [], [(0.0, "boom")]
+
+    def wipe_out(still):
+        events.append((len(plan) / FR, "whoosh"))
+        for k in range(1, NW + 1):
+            plan.append(lambda k=k, s=still: RD.wipe(s(), k, "out"))
+
+    def wipe_in(still):
+        for k in range(1, NW + 1):
+            plan.append(lambda k=k, s=still: RD.wipe(s(), k, "in"))
+
+    plan += [lambda: cover_t] * int(T["cover_hold_s"] * FR)
+    prev = lambda: cover_t
+    for i, (base, lay) in enumerate(bases):
+        wipe_out(prev)
+        wipe_in(lambda i=i: frame_at(i, 0, True))
+        if lay:
+            text = "".join(lay["lines"])
+            total_c, tn = len(text), type_n[i]
+            for f in range(tn):
+                shown = min(total_c, int((f + 1) / tn * total_c))
+                before = min(total_c, int(f / tn * total_c))
+                for c in range(before, shown):
+                    if not text[c].isspace():
+                        events.append(((len(plan) + (c - before) / max(1, shown - before)) / FR, "key"))
+                plan.append(lambda i=i, s=shown: frame_at(i, s, True))
+            full = total_c
+        else:
+            full = 0
+        for f in range(hold_n):
+            on = f < T["cursor_blink_until"] and (f // T["cursor_blink_frames"]) % 2 == 0
+            plan.append(lambda i=i, on=on, full=full: frame_at(i, full, on))
+        prev = lambda i=i, full=full: frame_at(i, full, False)
+    wipe_out(prev)
+    wipe_in(lambda: end)
+    plan += [lambda: end] * int(T["end_hold_s"] * FR)
+    seconds = len(plan) / FR
+
+    ff = M.ffmpeg_exe()
+    with tempfile.TemporaryDirectory() as tmp:
+        wav, out = os.path.join(tmp, "sound.wav"), os.path.join(tmp, "part.mp4")
+        RD.build_audio(events, seconds, wav)
+        cmd = [ff, "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{RD.W}x{RD.VID_H}",
+               "-r", str(FR), "-i", "-", "-i", wav]
+        mus = music_file()
+        if mus:
+            cmd += ["-stream_loop", "-1", "-i", mus, "-filter_complex",
+                    "[2:a]volume=0.12[m];[1:a][m]amix=inputs=2:duration=first:normalize=0[a]", "-map", "0:v", "-map", "[a]"]
+        cmd += ["-c:v", "libx264", "-preset", "veryfast", "-crf", "21", "-maxrate", "3500k", "-bufsize", "7000k",
+                "-pix_fmt", "yuv420p", "-profile:v", "high", "-c:a", "aac", "-b:a", "128k", "-ac", "2", "-ar", "48000",
+                "-t", f"{seconds:.2f}", "-movflags", "+faststart", out]
+        proc = subprocess.Popen(cmd, stdin=subprocess.PIPE, stderr=subprocess.PIPE)
+        try:
+            for make in plan:
+                proc.stdin.write(make().convert("RGB").tobytes())
+            proc.stdin.close()
+            err = proc.stderr.read().decode(errors="ignore")
+            if proc.wait() != 0:
+                raise RuntimeError("ffmpeg failed: " + err[-300:])
+        except BrokenPipeError:
+            proc.wait()
+            raise RuntimeError("ffmpeg stopped: " + proc.stderr.read().decode(errors="ignore")[-300:])
+        data = open(out, "rb").read()
+    log(f"Part {n}: {len(posts)} stories, {seconds:.1f} s, {len(data) / 1e6:.1f} MB, made in {time.time() - t0:.0f} s")
+    return data, seconds
 
 
 def music_file():
@@ -311,162 +242,6 @@ def music_file():
     except FileNotFoundError:
         return None
     return random.choice(files) if files else None
-
-
-# =============================================================================
-# VIDEO
-# =============================================================================
-
-COVER_S, SWIPE_S, HOLD_S, END_S = 1.3, 0.4, 2.2, 2.4
-MAX_SECONDS = 88                                   # Facebook Reels: max 90 s
-
-
-def make_part_video(day, n, part, posts, cover_4x5):
-    """MP4 bytes of one part (1080x1920, 30 fps, H.264 + AAC)."""
-    t0 = time.time()
-    frames = [story_frame(d, day, k, len(posts)) for k, d in enumerate(posts, 1)]
-    cover_t = tall(cover_4x5)
-    end = end_card()
-    hfonts = {}
-
-    def typing_s(lay):
-        chars = sum(len(x) for x in lay["lines"]) if lay else 0
-        return min(3.0, max(1.2, chars * 0.042)) if lay else 0.6
-
-    hold = HOLD_S
-    fixed = COVER_S + END_S + SWIPE_S * (len(posts) + 1) + sum(typing_s(l) for _, l in frames)
-    if fixed + hold * len(posts) > MAX_SECONDS:
-        hold = max(1.2, (MAX_SECONDS - fixed) / len(posts))
-    # timeline: ("cover", f0, f1) ("swipe", f0, f1, from, to) ("story", f0, f1, i, type_frames)
-    segs, f = [], 0
-
-    def add(kind, seconds, *extra):
-        nonlocal f
-        nf = max(1, int(round(seconds * FPS)))
-        segs.append((kind, f, f + nf) + extra)
-        f += nf
-    add("cover", COVER_S)
-    prev = ("cover", None)
-    for i, (img, lay) in enumerate(frames):
-        add("swipe", SWIPE_S, prev, ("story", i))
-        ts = typing_s(lay)
-        add("story", ts + hold, i, int(ts * FPS))
-        prev = ("story", i)
-    add("swipe", SWIPE_S, prev, ("end", None))
-    add("end", END_S)
-    total = f
-    seconds = total / FPS
-
-    # sounds: one click per letter, a whoosh per swipe
-    keys, whooshes = [], []
-    for s in segs:
-        if s[0] == "swipe":
-            whooshes.append(s[1] / FPS)
-        if s[0] == "story":
-            lay = frames[s[3]][1]
-            if lay:
-                text = "".join(lay["lines"])
-                for c in range(len(text)):
-                    keys.append(((s[1] + s[4] * (c + 1) / len(text)) / FPS, text[c]))
-    measure = ImageDraw.Draw(Image.new("RGB", (8, 8)))
-
-    def still(which, typed=None, blink=True):
-        kind, i = which
-        if kind == "cover":
-            return cover_t
-        if kind == "end":
-            return end
-        img, lay = frames[i]
-        if not lay:
-            return img
-        lines, size = lay["lines"], lay["size"]
-        if size not in hfonts:
-            hfonts[size] = M.font("Poppins-Bold.ttf", size)
-        hf = hfonts[size]
-        total_c = sum(len(x) for x in lines)
-        shown = total_c if typed is None else typed
-        out = img.copy()
-        dr = ImageDraw.Draw(out)
-        x0, y, lh = lay["x"], lay["y"] + POST_Y, lay["line_h"]
-        left, cx, cy = shown, x0, y
-        for ln in lines:
-            part_ = ln[:max(0, left)]
-            if part_:
-                dr.text((x0 + 2, y + 3), part_, font=hf, fill=(0, 0, 0))
-                dr.text((x0, y), part_, font=hf, fill=WHITE)
-            if left > 0:
-                cx, cy = x0 + measure.textlength(part_, font=hf), y
-            left -= len(ln)
-            y += lh
-            if left <= 0:
-                break
-        if blink:
-            dr.rectangle([cx + 6, cy + int(size * 0.18), cx + 6 + max(5, size // 12), cy + int(size * 1.12)], fill=RED)
-        return out
-
-    ff = M.ffmpeg_exe()
-    with tempfile.TemporaryDirectory() as tmp:
-        wav, out = os.path.join(tmp, "sound.wav"), os.path.join(tmp, "part.mp4")
-        with open(wav, "wb") as fh:
-            fh.write(part_audio(seconds + 0.5, keys, whooshes))
-        cmd = [ff, "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{RW}x{RH}",
-               "-r", str(FPS), "-i", "-", "-i", wav]
-        mus = music_file()
-        if mus:
-            cmd += ["-stream_loop", "-1", "-i", mus, "-filter_complex",
-                    "[2:a]volume=0.12[m];[1:a][m]amix=inputs=2:duration=first:normalize=0[a]", "-map", "0:v", "-map", "[a]"]
-        cmd += ["-c:v", "libx264", "-preset", "veryfast", "-crf", "21", "-maxrate", "3500k", "-bufsize", "7000k",
-                "-pix_fmt", "yuv420p", "-profile:v", "high", "-c:a", "aac", "-b:a", "128k", "-ac", "2", "-ar", "48000",
-                "-t", f"{seconds:.2f}", "-movflags", "+faststart", out]
-        proc = subprocess.Popen(cmd, stdin=subprocess.PIPE, stderr=subprocess.PIPE)
-        cache = {}
-        try:
-            for s in segs:
-                kind, a, b = s[0], s[1], s[2]
-                for fr in range(a, b):
-                    if kind in ("cover", "end"):
-                        img = still((kind, None))
-                    elif kind == "story":
-                        i, tf = s[3], s[4]
-                        lay = frames[i][1]
-                        total_c = sum(len(x) for x in lay["lines"]) if lay else 0
-                        typed = min(total_c, int((fr - a + 1) / max(1, tf) * total_c)) if fr - a < tf else total_c
-                        blink = typed < total_c or ((fr - a) // 15) % 2 == 0
-                        key = (i, typed, blink)
-                        if key not in cache:
-                            cache = {key: still(("story", i), typed, blink)}
-                        img = cache[key]
-                    else:                                       # red swipe with a white edge
-                        p = (fr - a + 1) / (b - a)
-                        src, dst = s[3], s[4]
-                        if p <= 0.5:
-                            base = still(src) if src[0] != "story" else still(src)
-                            img = base.copy()
-                            x = int(RW * p * 2)
-                            dr = ImageDraw.Draw(img)
-                            dr.rectangle([0, 0, x, RH], fill=RED)
-                            dr.rectangle([x, 0, x + 12, RH], fill=WHITE)
-                        else:
-                            base = still(dst, 0, True) if dst[0] == "story" else still(dst)
-                            img = base.copy()
-                            x = int(RW * (p - 0.5) * 2)
-                            dr = ImageDraw.Draw(img)
-                            dr.rectangle([x, 0, RW, RH], fill=RED)
-                            dr.rectangle([x - 12, 0, x, RH], fill=WHITE)
-                    if kind != "swipe":
-                        img = img.copy()
-                    ImageDraw.Draw(img).rectangle([0, 0, int(RW * (fr + 1) / total), 8], fill=RED)   # progress
-                    proc.stdin.write(img.tobytes())
-            proc.stdin.close()
-            err = proc.stderr.read().decode(errors="ignore")
-            if proc.wait() != 0:
-                raise RuntimeError("ffmpeg failed: " + err[-300:])
-        except BrokenPipeError:
-            proc.wait()
-            raise RuntimeError("ffmpeg stopped: " + proc.stderr.read().decode(errors="ignore")[-300:])
-        data = open(out, "rb").read()
-    log(f"Part {n}: {len(posts)} stories, {seconds:.1f} s, {len(data) / 1e6:.1f} MB, made in {time.time() - t0:.0f} s")
-    return data, seconds
 
 
 # =============================================================================
@@ -630,7 +405,7 @@ def run(day_s, test=False):
     manual = ROUNDUP_MANUAL_TIMES.get(day_s)
     test = test or (bool(info.get("test")) and not manual)
     day = datetime.fromisoformat(day_s).date()
-    plan = info["plan"]
+    plan = M.roundup_fit_hooks(copy.deepcopy(info["plan"]), info.get("heads"))
     drafts = state["drafts"]
     ch = state.get("tiktok_channel") or M.TG_CHAT
     parts_out = []
@@ -641,6 +416,7 @@ def run(day_s, test=False):
             continue
         if manual and len(plan["parts"]) == 3:   # plans made before the fixed part names
             part = dict(part, name=ROUNDUP_PART_NAMES[n - 1], tag=ROUNDUP_PART_HASHTAGS[n - 1])
+        part = dict(part, hook=M.roundup_safe_hook(part.get("hook") or ""))
         cover = make_cover(day, n, part)
         slides = [(f"{1:02d}_cover.jpg", jpg(cover), "cover")]
         for k, d in enumerate(posts, 2):
@@ -663,7 +439,7 @@ def run(day_s, test=False):
     for p in parts_out:
         r = {"name": p["name"], "of": len(parts_out), "post_at": p["at"].isoformat(), "stories": len(p["posts"]),
              "seconds": round(p["seconds"], 1)}
-        cover_tall = jpg(tall(p["cover"]), 88)
+        cover_tall = jpg(RD.cover_9x16(p["cover"]), 88)
         if test:
             r["fb"] = r["yt"] = {"state": "test"}
         else:
@@ -707,7 +483,7 @@ def run(day_s, test=False):
         with zipfile.ZipFile(buf, "w", zipfile.ZIP_DEFLATED) as z:
             z.writestr("DESCRIPTIONS-AND-TIMES.txt", descriptions_txt(day, parts_out))
             for p in parts_out:
-                z.writestr(f"part{p['n']}_cover_9x16.jpg", jpg(tall(p["cover"])))
+                z.writestr(f"part{p['n']}_cover_9x16.jpg", jpg(RD.cover_9x16(p["cover"])))
                 z.writestr(f"part{p['n']}_cover_4x5.jpg", jpg(p["cover"]))
                 for name, data, _ in (p["slides"] if with_slides else []):
                     z.writestr(f"part{p['n']}_slides/{name}", data)
@@ -753,7 +529,7 @@ def yt_test():
     from datetime import date
     if not (YT_CLIENT_ID and YT_CLIENT_SECRET and YT_REFRESH_TOKEN):
         raise RuntimeError("the YT_CLIENT_ID / YT_CLIENT_SECRET / YT_REFRESH_TOKEN secrets are missing")
-    cover = tall(make_cover(date.today(), 1, {"name": "TEST", "hook": "YouTube connection test. Deleted right away."}))
+    cover = RD.cover_9x16(make_cover(date.today(), 1, {"name": "TEST", "hook": "YouTube test. Deleted soon."}))
     with tempfile.TemporaryDirectory() as tmp:
         img, out = os.path.join(tmp, "c.jpg"), os.path.join(tmp, "t.mp4")
         cover.save(img, "JPEG", quality=90)
@@ -782,32 +558,53 @@ def yt_test():
                            "deleted": deleted, "parts": []})
 
 
-def design_check(day_s):
-    """Design check only: Part 1 of a day that has a plan → its video, the 1080x1920 cover and the first 3 TikTok
-    slides to the bot chat. Nothing is uploaded and nothing is saved."""
+def design_preview(day_s):
+    """Dry run (nothing uploaded, nothing saved): for a day that has a plan → the 3 TikTok covers, the 3 video
+    covers, one story frame mid-typing, the last frame and the full Part 1 video, all to the bot chat."""
     state = M.load_state()
     M.PHOTO_MEM = state.setdefault("photo_memory", {})
     plan = (state.get("roundup", {}).get(day_s) or {}).get("plan")
     if not plan:
         raise RuntimeError(f"no roundup plan for {day_s} in state.json")
     day = datetime.fromisoformat(day_s).date()
-    ids, drafts, part = plan["ids"], state["drafts"], plan["parts"][0]
-    posts = [drafts[ids[k - 1]] for k in part["stories"] if k - 1 < len(ids) and ids[k - 1] in drafts]
-    cover = make_cover(day, 1, part)
-    video, seconds = make_part_video(day, 1, part, posts, cover)
-    slides = [("01_cover.jpg", jpg(cover))] + [(f"{k:02d}.jpg", M.tg_download(d["tg_file_id"]))
-                                               for k, d in enumerate(posts[:2], 2)]
-    M.tg_text(f"🎨 <b>Design check</b> · Part 1/{part.get('of', 3)} · {esc(part['name'])} · {day:%A, %b} {day.day} · "
-              f"{len(posts)} stories · {seconds:.0f} s (nothing uploaded)")
-    M.tg("sendVideo", chat_id=M.TG_CHAT, supports_streaming="true", width=RW, height=RH, duration=int(seconds),
-         caption="🎬 Part 1 video (1080x1920)",
+    plan = M.roundup_fit_hooks(copy.deepcopy(plan), (state["roundup"][day_s]).get("heads"))
+    ids, drafts = plan["ids"], state["drafts"]
+    parts = []
+    for n, part in enumerate(plan["parts"], 1):
+        if len(plan["parts"]) == 3:                # plans made before the fixed part names
+            part = dict(part, name=ROUNDUP_PART_NAMES[n - 1], tag=ROUNDUP_PART_HASHTAGS[n - 1])
+        part = dict(part, hook=M.roundup_safe_hook(part.get("hook") or ""))
+        posts = [drafts[ids[k - 1]] for k in part["stories"] if k - 1 < len(ids) and ids[k - 1] in drafts]
+        parts.append((n, part, posts, make_cover(day, n, part)))
+    M.tg_text(f"🎨 <b>Roundup design preview</b> · {day:%A, %b} {day.day} (New York) · nothing uploaded\n"
+              "Compare with tests/golden/. Hooks used: " + " | ".join(esc(p["hook"]) for _, p, _, _ in parts))
+
+    def album(items):
+        M.tg("sendMediaGroup", chat_id=M.TG_CHAT,
+             media=[{"type": "document", "media": f"attach://f{k}", "caption": cap} for k, (_, _, cap) in enumerate(items)],
+             files={f"f{k}": (name, data, "image/png") for k, (name, data, _) in enumerate(items)})
+
+    def png(img):
+        out = io.BytesIO()
+        img.convert("RGB").save(out, "PNG", optimize=True)
+        return out.getvalue()
+    album([(f"tiktok_cover_p{n}_1080x1350.png", png(c), f"TikTok cover Part {n} (1080x1350)") for n, _, _, c in parts])
+    album([(f"video_cover_p{n}_1080x1920.png", png(RD.cover_9x16(c)), f"Video cover Part {n} (1080x1920)")
+           for n, _, _, c in parts])
+    n, part, posts, cover = parts[0]
+    base, lay = story_base(posts[0], day, 1, len(posts))
+    if lay:
+        half = sum(len(x) for x in lay["lines"]) // 2
+        typing = RD.typing_frame(base, lay["lines"], M.font("Poppins-Bold.ttf", lay["size"]), lay["size"],
+                                 lay["y"] + RD.OY, lay["line_h"], half, True)
+    else:
+        typing = base
+    album([("story_typing_1080x1920.png", png(typing), "Story frame mid-typing (1080x1920)"),
+           ("end_1080x1920.png", png(RD.end_frame(M.LOGO_FILE)), "Last frame (1080x1920)")])
+    video, seconds = make_part_video(day, n, part, posts, cover)
+    M.tg("sendVideo", chat_id=M.TG_CHAT, supports_streaming="true", width=RD.W, height=RD.VID_H,
+         duration=int(seconds), caption=f"🎬 Part 1 video · {len(posts)} stories · {seconds:.0f} s (1080x1920)",
          files={"video": (f"7seas_{day_s}_part1.mp4", video, "video/mp4")})
-    M.tg("sendDocument", chat_id=M.TG_CHAT, caption="🖼 1080x1920 cover (full quality)",
-         files={"document": ("part1_cover_9x16.jpg", jpg(tall(cover)), "image/jpeg")})
-    media = [{"type": "document", "media": f"attach://s{k}",
-              "caption": f"TikTok slide {k + 1} (1080x1350)"} for k in range(len(slides))]
-    M.tg("sendMediaGroup", chat_id=M.TG_CHAT, media=media,
-         files={f"s{k}": (name, data, "image/jpeg") for k, (name, data) in enumerate(slides)})
 
 
 def cli():
@@ -816,16 +613,17 @@ def cli():
     ap.add_argument("--test", action="store_true")
     a = ap.parse_args()
     try:
+        use_design_fonts()
         if a.day == "yttest":
             return yt_test()
-        if a.day.startswith("check"):                  # "check" = yesterday (NY), or "check 2026-11-16"
-            day_s = a.day[5:].strip() or str(M.ny_now().date() - timedelta(days=1))
-            return design_check(day_s[:10])
+        if a.day.startswith(("check", "preview")):      # "preview" = yesterday (NY), or "preview 2026-11-16"
+            day_s = a.day.split(" ", 1)[1].strip() if " " in a.day else str(M.ny_now().date() - timedelta(days=1))
+            return design_preview(day_s[:10])
         run(a.day[:10], a.test)
     except Exception as e:
         traceback.print_exc()
         M.tg_text(f"⚠️ Roundup videos for {a.day} failed: <code>{M.html.escape(str(e))[:500]}</code>")
-        if a.day.startswith("check"):
+        if a.day.startswith(("check", "preview")):
             sys.exit(1)
         save_result(a.day[:10], {"built_at": M.now_utc().isoformat(), "error": str(e)[:300], "parts": []})
         sys.exit(1)

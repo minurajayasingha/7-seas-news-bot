@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       day:
-        description: "New York day of the posts (YYYY-MM-DD) — needs an approved plan in the bot memory"
+        description: "New York day (YYYY-MM-DD) with an approved plan · or \"preview YYYY-MM-DD\" = design dry run to Telegram"
         required: true
       test:
         description: "Test only: send everything to Telegram, upload nothing"
@@ -36,13 +36,21 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Install ffmpeg
-        run: command -v ffmpeg || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)
+      - name: Install ffmpeg + fribidi (text kerning, needed for the exact design)
+        run: |
+          if ! command -v ffmpeg >/dev/null || ! ldconfig -p | grep -q libfribidi; then
+            sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg libfribidi0
+          fi
+
+      # The roundup must look exactly like the approved design (tests/golden). If not, nothing is made.
+      - name: Golden design test
+        run: python tests/test_roundup_design.py
 
       - name: Make and post the roundup videos
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
           YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
