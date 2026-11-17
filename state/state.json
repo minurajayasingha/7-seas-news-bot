@@ -12572,6 +12572,91 @@
     "shares": 0
    },
    "stats_at": "2026-11-17T00:34:18.192856+00:00"
+  },
+  "4dd0009e16": {
+   "id": "4dd0009e16",
+   "headline": "James Comer launches campaign for Kentucky governor",
+   "summary": "Rep. James Comer plans to announce Monday evening that he will run for governor of Kentucky. According to a source familiar with the plan, the House Oversight Committee Chairman is entering the primary as the immediate front-runner.",
+   "label": "ELECTIONS",
+   "hook": "",
+   "key_points": [
+    "Comer gained notoriety on Capitol Hill as chairman.",
+    "He has been teasing a bid for the office."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Kentucky",
+    "#Elections",
+    "#USPolitics"
+   ],
+   "sources": [
+    "Fox News",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/news/campaigns/state/4805073/james-comer-launches-campaign-governor-andy-beshear-kentucky/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/campaigns/state/4805073/james-comer-launches-campaign-governor-andy-beshear-kentucky/"
+    ],
+    [
+     "Fox News",
+     "https://www.foxnews.com/politics/james-comer-launches-bid-kentucky-governor"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/James_Comer_official_congressional_photo_%28cropped%29.jpg/1280px-James_Comer_official_congressional_photo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Congress / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "James Comer launches campaign for Kentucky governor",
+    "people": [
+     "James Comer"
+    ],
+    "image_query": "Frankfort Kentucky state capitol",
+    "image_queries": [
+     "US Capitol building",
+     "voting booth",
+     "election campaign",
+     "political rally"
+    ],
+    "image_style": "person",
+    "location": "Kentucky, US",
+    "nearby_city": "Frankfort, Kentucky",
+    "event_query": "James Comer campaign announcement",
+    "topic_photo": "ballot box",
+    "label": "ELECTIONS",
+    "news_time": "2026-11-17T00:14:04+00:00"
+   },
+   "created_at": "2026-11-17T00:46:56.672118+00:00",
+   "news_time": "2026-11-17T00:14:04+00:00",
+   "news_latest": "2026-11-17T00:38:03+00:00",
+   "importance": 7,
+   "caption": "🚨 BREAKING: James Comer launches campaign for Kentucky governor\n\nRep. James Comer plans to announce Monday evening that he will run for governor of Kentucky. According to a source familiar with the plan, the House Oversight Committee Chairman is entering the primary as the immediate front-runner.\n\nWhat we know so far:\n• Comer gained notoriety on Capitol Hill as chairman.\n• He has been teasing a bid for the office.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Kentucky #Elections #USPolitics #7SeasNews",
+   "status": "posted",
+   "tg_message_id": 672,
+   "tg_file_id": "AgACAgUAAxkDAAICoGr7pAgwJPIrPYnAQKXNORiqZrIAA2wTaxuDrOBXS43ZUBxwU4IBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-17T00:47:04.340656+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-17T00:47:04.340690+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122103818217548584",
+   "posted_at": "2026-11-17T00:47:04.655967+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 16 · 7:47 PM New York · 6:17 AM Sri Lanka\n\n<b>James Comer launches campaign for Kentucky governor</b>\n<i>Fox News, Washington Examiner</i>\n🟢 <b>Latest:</b> 6:08 AM Sri Lanka (9 min ago) · first reported 5:44 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122103818217548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 447,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122103818217548584_993323390498054",
+   "fb_story_id": "2657664181335513"
   }
  },
  "seen_links": [
@@ -13782,7 +13867,9 @@
   "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
   "https://abcnews.com/International/wireStory/paraguays-ousted-president-moved-military-prison-after-reports-138186878",
   "https://thehill.com/homenews/administration/6223947-trump-reroutes-air-force-one/",
-  "https://www.foxnews.com/politics/trumps-asia-trip-takes-alaska-detour-weather-forces-refueling-stop-change"
+  "https://www.foxnews.com/politics/trumps-asia-trip-takes-alaska-detour-weather-forces-refueling-stop-change",
+  "https://www.washingtonexaminer.com/news/campaigns/state/4805073/james-comer-launches-campaign-governor-andy-beshear-kentucky/",
+  "https://www.foxnews.com/politics/james-comer-launches-bid-kentucky-governor"
  ],
  "recent_topics": [
   [
@@ -15752,19 +15839,31 @@
     "weather"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-17T00:47:04.340501+00:00",
+   [
+    "andy",
+    "beshear",
+    "bid",
+    "campaign",
+    "comer",
+    "governor",
+    "jam",
+    "kentucky",
+    "launch",
+    "succ"
+   ],
+   "4dd0009e16"
   ]
  ],
- "last_draft_at": "2026-11-17T00:34:55.650635+00:00",
+ "last_draft_at": "2026-11-17T00:46:27.748722+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-17T00:34:18.192856+00:00",
  "run_log": [
-  "11-16 22:30:48 run start",
-  "11-16 22:32:18 listening 10 min",
-  "11-16 22:42:22 listening done",
-  "11-16 22:42:22 run end after 693 s",
   "11-16 22:45:51 run start",
   "11-16 22:46:10 listening 11 min",
   "11-16 22:57:28 listening done",
@@ -15800,12 +15899,15 @@
   "11-17 00:34:17 run start",
   "11-17 00:35:04 listening 11 min",
   "11-17 00:45:58 listening done",
-  "11-17 00:45:58 run end after 700 s"
+  "11-17 00:45:58 run end after 700 s",
+  "11-17 00:46:27 run start",
+  "11-17 00:47:27 listening 11 min",
+  "11-17 00:57:55 listening done",
+  "11-17 00:57:55 run end after 688 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Street_fast_food_Patong_Thajsko_2018_1.jpg/1920px-Street_fast_food_Patong_Thajsko_2018_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/South_African_Police_car_-_visible_division.JPG/1920px-South_African_Police_car_-_visible_division.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/4/4e/Amman_Skyline_at_Sunset_-_Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/View_of_Pomona_College%27s_Smith_Campus_Center_from_Marston_Quad.jpg/1920px-View_of_Pomona_College%27s_Smith_Campus_Center_from_Marston_Quad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -15844,25 +15946,10 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/United_States_Treasury_building_2023.jpg/1920px-United_States_Treasury_building_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/6/60/Riyadh%2C_Saudi_Arabia._Qa%E1%B9%A3r_al-Badi%27ah%2C_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Wall_Street_-_New_York_Stock_Exchange.jpg/1920px-Wall_Street_-_New_York_Stock_Exchange.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Prison_Ship_Martyrs_Monument_Exterior.JPG/1920px-Prison_Ship_Martyrs_Monument_Exterior.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Prison_Ship_Martyrs_Monument_Exterior.JPG/1920px-Prison_Ship_Martyrs_Monument_Exterior.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/James_Comer_official_congressional_photo_%28cropped%29.jpg/1280px-James_Comer_official_congressional_photo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
-   "james talarico": {
-    "t": "2026-11-10T22:09:26.598512+00:00",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/James_Talarico_Press_Conference_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Antonioaesparza / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/James_Talarico_Open_Congress_Austin_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Larry D. Moore / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     }
-    ]
-   },
    "michael abramowitz": {
     "t": "2026-11-10T23:15:37.988265+00:00",
     "photos": [
@@ -19044,6 +19131,82 @@
       "portrait": false
      }
     ]
+   },
+   "james comer": {
+    "t": "2026-11-17T00:46:56.671972+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/James_Comer_official_photo_%28cropped%29.jpg/1280px-James_Comer_official_photo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Congress / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/James_Comer_official_congressional_photo_%28cropped%29.jpg/1280px-James_Comer_official_congressional_photo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Congress / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/James_Comer_official_congressional_photo.jpg/1280px-James_Comer_official_congressional_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Congress / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/2025_James_Comer_%28cropped%29.jpg/1280px-2025_James_Comer_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/James_Comer_official_photo.jpg/1280px-James_Comer_official_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Congress / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/James_Comer_%2854346937894%29%28cropped%29.jpg/1280px-James_Comer_%2854346937894%29%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/James_Comer_%2854346937894%29.jpg/1280px-James_Comer_%2854346937894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/James_Comer_%288406738416%29.jpg/1280px-James_Comer_%288406738416%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Kentucky National Guard Public Affairs Office / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/James_Comer_%288406738212%29.jpg/1280px-James_Comer_%288406738212%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Kentucky National Guard Public Affairs Office / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/James_Comer_%2815234169993%29.jpg/1280px-James_Comer_%2815234169993%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/James_Comer_%2815666357840%29.jpg/1280px-James_Comer_%2815666357840%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/James_Comer_%288406738650%29.jpg/1280px-James_Comer_%288406738650%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Kentucky National Guard Public Affairs Office / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false
+     }
+    ]
    }
   },
   "recent_ideas": [
@@ -19067,10 +19230,10 @@
   "2026-11-13": 34,
   "2026-11-14": 18,
   "2026-11-15": 19,
-  "2026-11-16": 30
+  "2026-11-16": 31
  },
- "last_auto_at": "2026-11-16T22:31:55.862833+00:00",
- "last_post_at": "2026-11-16T22:32:07.724187+00:00",
+ "last_auto_at": "2026-11-17T00:47:04.655967+00:00",
+ "last_post_at": "2026-11-17T00:47:11.265716+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
