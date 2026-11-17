@@ -464,7 +464,7 @@ def run(day_s, test=False):
     # content channel: per part the TikTok text + numbered slides, then ONE backup zip
     tt_ok = []
     for p in parts_out:
-        if not ROUNDUP_TIKTOK or manual:
+        if not ROUNDUP_TIKTOK:
             tt_ok.append("off")
             continue
         try:
@@ -479,22 +479,28 @@ def run(day_s, test=False):
 
     # ONE backup zip in the content channel: texts + covers + full-quality slides (no videos: they are uploaded)
     def backup_zip(with_slides):
+        """ONE zip: a folder per part ("Part 1 - WAR & CONFLICT/") with the TikTok slides in order (01_cover, 02…)
+        and CAPTION.txt (time, title, caption to copy); DESCRIPTIONS-AND-TIMES.txt (all texts) at the top."""
         buf = io.BytesIO()
         with zipfile.ZipFile(buf, "w", zipfile.ZIP_DEFLATED) as z:
             z.writestr("DESCRIPTIONS-AND-TIMES.txt", descriptions_txt(day, parts_out))
             for p in parts_out:
-                z.writestr(f"part{p['n']}_cover_9x16.jpg", jpg(RD.cover_9x16(p["cover"])))
-                z.writestr(f"part{p['n']}_cover_4x5.jpg", jpg(p["cover"]))
-                for name, data, _ in (p["slides"] if with_slides else []):
-                    z.writestr(f"part{p['n']}_slides/{name}", data)
+                folder = f"Part {p['n']} - {p['name']}".replace("/", "-")
+                t = p["texts"]
+                z.writestr(f"{folder}/CAPTION.txt", "\n".join([
+                    f"TIKTOK PART {p['n']}/{p['part'].get('of', 3)} · {p['name']}",
+                    f"Post at: {when(p['at'])} · {M.ny_date_text(p['at'])} (New York date)", "",
+                    "TITLE:", t["tiktok_title"], "", "CAPTION:", t["tiktok_caption"], ""]))
+                z.writestr(f"{folder}/cover_9x16.jpg", jpg(RD.cover_9x16(p["cover"])))
+                for name, data, _ in (p["slides"] if with_slides else p["slides"][:1]):
+                    z.writestr(f"{folder}/{name}", data)
         return buf.getvalue()
     data, full = backup_zip(True), True
     if len(data) > 48 * 1024 * 1024:               # Telegram bots can send files up to 50 MB
         data, full = backup_zip(False), False
-    if not manual:                                 # a one-off manual day: you already have the slides
-        M.tg("sendDocument", chat_id=ch, caption="📦 Backup: DESCRIPTIONS-AND-TIMES.txt (titles, captions, tags, "
-                                                  "times), covers" + (" and full-quality TikTok slides" if full else ""),
-             files={"document": (f"7seas_roundup_{day:%Y-%m-%d}.zip", data, "application/zip")})
+    M.tg("sendDocument", chat_id=ch, caption="📦 TikTok zip: one folder per part (slides in order + CAPTION.txt)"
+                                              + ("" if full else " — slides too big, only covers + captions"),
+         files={"document": (f"7seas_roundup_{day:%Y-%m-%d}.zip", data, "application/zip")})
 
     # a video goes to the bot chat only when you must post it by hand (an upload failed / nothing uploaded) or in a test
     for p, r in zip(parts_out, results):
