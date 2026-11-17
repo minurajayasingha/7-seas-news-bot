@@ -1,0 +1,44 @@
+{
+ "2026-11-16": {
+  "built_at": "2026-11-17T05:14:57.911815+00:00",
+  "test": true,
+  "parts": [
+   {
+    "name": "WAR & CONFLICT",
+    "post_at": "2026-11-17T13:00:00+00:00",
+    "stories": 6,
+    "seconds": 33.8,
+    "fb": {
+     "state": "test"
+    },
+    "yt": {
+     "state": "test"
+    }
+   },
+   {
+    "name": "US NEWS",
+    "post_at": "2026-11-17T15:00:00+00:00",
+    "stories": 10,
+    "seconds": 55.0,
+    "fb": {
+     "state": "test"
+    },
+    "yt": {
+     "state": "test"
+    }
+   },
+   {
+    "name": "WORLD NEWS",
+    "post_at": "2026-11-17T17:00:00+00:00",
+    "stories": 11,
+    "seconds": 59.1,
+    "fb": {
+     "state": "test"
+    },
+    "yt": {
+     "state": "test"
+    }
+   }
+  ]
+ }
+}
