@@ -1,101 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "288e8142aa": {
-   "id": "288e8142aa",
-   "headline": "Mary Peltola leads Dan Sullivan in uncalled Alaska Senate race",
-   "summary": "Former Democratic Representative Mary Peltola leads Republican Senator Dan Sullivan by 5,800 votes in Alaska's uncalled Senate race. Election officials are continuing to count absentee ballots and preparing for a ranked choice tabulation.",
-   "label": "ELECTIONS",
-   "hook": "How will the ranked choice tabulation affect the final outcome in Alaska?",
-   "key_points": [
-    "Eighty-eight percent of the vote was counted as of the reports.",
-    "Peltola gained 5,000 newly counted votes.",
-    "This is the last uncalled Senate race of 2026."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#AlaskaSenate",
-    "#Elections2026",
-    "#USPolitics"
-   ],
-   "sources": [
-    "The Hill",
-    "Washington Examiner"
-   ],
-   "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4802812/alaska-still-counting-votes-2026-elections-what-to-know/",
-   "links": [
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/news/campaigns/congressional/4802812/alaska-still-counting-votes-2026-elections-what-to-know/"
-    ],
-    [
-     "The Hill",
-     "https://thehill.com/the-120/6218667-mary-peltola-alaska-senate-lead/"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Rep._Mary_Peltola_headshot_%28cropped%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "U.S. Rep. Mary Peltola / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Dan_Sullivan_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Office of Senator Dan Sullivan / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Mary Peltola leads Dan Sullivan in uncalled Alaska Senate race",
-    "people": [
-     "Mary Peltola",
-     "Dan Sullivan"
-    ],
-    "image_query": "Alaska State Capitol",
-    "image_queries": [
-     "voting booth",
-     "election ballots",
-     "ballot counting",
-     "Alaska landscape"
-    ],
-    "image_style": "scene",
-    "location": "Alaska, US",
-    "nearby_city": "Anchorage, Alaska",
-    "event_query": "Alaska Senate vote counting",
-    "news_time": null,
-    "label": "ELECTIONS"
-   },
-   "created_at": "2026-11-13T17:48:51.530913+00:00",
-   "news_time": "2026-11-13T15:34:05+00:00",
-   "news_latest": "2026-11-13T17:42:09+00:00",
-   "caption": "Mary Peltola leads Dan Sullivan in uncalled Alaska Senate race\n\nFormer Democratic Representative Mary Peltola leads Republican Senator Dan Sullivan by 5,800 votes in Alaska's uncalled Senate race. Election officials are continuing to count absentee ballots and preparing for a ranked choice tabulation.\n\n💬 How will the ranked choice tabulation affect the final outcome in Alaska?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#AlaskaSenate #Elections2026 #USPolitics #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 498,
-   "tg_file_id": "AgACAgUAAxkDAAIB8mr3TYW_WSGRwk7h_5T78qnxP1VSAAIKFmsbFv24V8WEi40Rh7XXAQADAgADdwADPQQ",
-   "queued_at": "2026-11-13T17:48:53.991296+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-13T17:48:53.991346+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122100567921548584",
-   "posted_at": "2026-11-13T17:48:54.331358+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 13 · 12:48 PM New York · 11:18 PM Sri Lanka\n\n<b>Mary Peltola leads Dan Sullivan in uncalled Alaska Senate race</b>\n<i>The Hill, Washington Examiner</i>\n🟢 <b>Latest:</b> 11:12 PM Sri Lanka (6 min ago) · first reported 9:04 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122100567921548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 312,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122100567921548584_1112845514718330",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-16T17:30:43.708345+00:00"
-  },
   "86aa12fd1f": {
    "id": "86aa12fd1f",
    "headline": "London police launch sexual offense investigation into David Walliams",
@@ -12224,6 +12129,199 @@
     "shares": 0
    },
    "stats_at": "2026-11-17T17:37:01.001642+00:00"
+  },
+  "affca0a648": {
+   "id": "affca0a648",
+   "headline": "Pope Leo comments on Catholic priest celibacy rules",
+   "summary": "Pope Leo stated he will not remove celibacy rules for Catholic priests at this time. The U.S.-born leader discussed the topic following a major tour of Latin America.",
+   "label": "WORLD",
+   "hook": "Should the Catholic Church remove the celibacy rule for priests?",
+   "key_points": [
+    "The leader addressed American unity during his remarks.",
+    "He spoke about his health after traveling."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#PopeLeo",
+    "#CatholicChurch",
+    "#Vatican"
+   ],
+   "sources": [
+    "CBS News",
+    "Newsweek"
+   ],
+   "link": "https://www.newsweek.com/pope-leo-wont-change-marriage-rules-for-catholic-priests-12728684",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/pope-leo-wont-change-marriage-rules-for-catholic-priests-12728684"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/news/pope-leo-less-war-less-us-division-married-priests-debate/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Lu%C3%9Fberg_Church_Altar_17RM4260_-HDR.jpg/1920px-Lu%C3%9Fberg_Church_Altar_17RM4260_-HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Ermell / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 7,
+      "shows": "church interior with altar"
+     }
+    ],
+    "file_photo": true,
+    "inset": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Pope_Leo_XIV_2_%28cropped%29.png/1280px-Pope_Leo_XIV_2_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credit": "Edgar Beltrán , The Pillar / Wikimedia Commons (CC BY-SA 4.0)",
+     "short": "WIKIMEDIA COMMONS",
+     "score": 10,
+     "shows": "Pope Leo"
+    }
+   },
+   "img_post": {
+    "headline": "Pope Leo comments on Catholic priest celibacy rules",
+    "people": [
+     "Pope Leo"
+    ],
+    "image_query": "Vatican City",
+    "image_queries": [
+     "Saint Peters Basilica",
+     "Vatican dome",
+     "Catholic church interior",
+     "Rome skyline"
+    ],
+    "image_style": "person",
+    "location": "",
+    "nearby_city": "",
+    "event_query": "",
+    "topic_photo": "church altar",
+    "label": "WORLD",
+    "action_subject": "",
+    "news_time": "2026-11-17T16:02:10+00:00"
+   },
+   "created_at": "2026-11-17T17:49:33.360452+00:00",
+   "news_time": "2026-11-17T16:02:10+00:00",
+   "news_latest": "2026-11-17T17:41:51+00:00",
+   "importance": 6,
+   "caption": "Pope Leo comments on Catholic priest celibacy rules\n\nPope Leo stated he will not remove celibacy rules for Catholic priests at this time. The U.S.-born leader discussed the topic following a major tour of Latin America.\n\n💬 Should the Catholic Church remove the celibacy rule for priests?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#PopeLeo #CatholicChurch #Vatican #7SeasNews",
+   "photo_line": "📷 7/10 church interior with altar · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 756,
+   "tg_file_id": "AgACAgUAAxkDAAIC9Gr8k8a0i0rSRI8uDuxs5w0o6GOwAAJHFGsbguzoV2-Y3iJGB2myAQADAgADdwADPQQ",
+   "queued_at": "2026-11-17T17:49:59.081510+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-17T17:49:59.081543+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122104581951548584",
+   "posted_at": "2026-11-17T17:52:20.499714+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 17 · 12:52 PM New York · 11:22 PM Sri Lanka\n\n<b>Pope Leo comments on Catholic priest celibacy rules</b>\n<i>CBS News, Newsweek</i>\n🟢 <b>Latest:</b> 11:11 PM Sri Lanka (10 min ago) · first reported 9:32 PM\n📷 7/10 church interior with altar · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122104581951548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 471,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122104581951548584_2281918715874379"
+  },
+  "0bdec7468a": {
+   "id": "0bdec7468a",
+   "headline": "California prosecutors sue to block Governor Gavin Newsom commutation plan",
+   "summary": "Law enforcement organizations and relatives of murder victims filed a lawsuit asking the state Supreme Court to block Governor Gavin Newsom's plan to commute death sentences. The coalition accuses the governor of abusing executive clemency powers.",
+   "label": "US POLITICS",
+   "hook": "",
+   "key_points": [
+    "The lawsuit was filed on Monday in California.",
+    "The plan involves commuting 548 death sentences.",
+    "Plaintiffs include victims' families and prosecutors."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#California",
+    "#USPolitics",
+    "#DeathPenalty"
+   ],
+   "sources": [
+    "NBC News",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/news/justice/4805948/california-sue-newsom-death-sentence-commute/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/justice/4805948/california-sue-newsom-death-sentence-commute/"
+    ],
+    [
+     "NBC News",
+     "https://www.nbcnews.com/news/us-news/gavin-newsom-sued-prosecutors-victim-rights-group-stop-mass-death-row-rcna609801"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Courtroom_at_the_United_States_Courthouse_in_Augusta%2C_GA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Carol M. Highsmith / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 7,
+      "shows": "courtroom"
+     }
+    ],
+    "file_photo": true,
+    "inset": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/COP31_-_Gavin_Newsom_04.jpg/1280px-COP31_-_Gavin_Newsom_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credit": "Xuthoria / Wikimedia Commons (CC BY-SA 4.0)",
+     "short": "WIKIMEDIA COMMONS",
+     "score": 7,
+     "shows": "Gavin Newsom speaking"
+    }
+   },
+   "img_post": {
+    "headline": "California prosecutors sue to block Governor Gavin Newsom commutation plan",
+    "people": [
+     "Gavin Newsom"
+    ],
+    "image_query": "California Supreme Court building",
+    "image_queries": [
+     "California State Capitol",
+     "courtroom gavel",
+     "California Supreme Court",
+     "law enforcement badge"
+    ],
+    "image_style": "scene",
+    "location": "California, US",
+    "nearby_city": "Sacramento, California",
+    "event_query": "California death row commutation lawsuit",
+    "topic_photo": "judge gavel",
+    "label": "US POLITICS",
+    "action_subject": "courtroom",
+    "news_time": "2026-11-17T17:42:18+00:00"
+   },
+   "created_at": "2026-11-17T17:52:12.130294+00:00",
+   "news_time": "2026-11-17T17:42:18+00:00",
+   "news_latest": "2026-11-17T17:45:48+00:00",
+   "importance": 7,
+   "caption": "California prosecutors sue to block Governor Gavin Newsom commutation plan\n\nLaw enforcement organizations and relatives of murder victims filed a lawsuit asking the state Supreme Court to block Governor Gavin Newsom's plan to commute death sentences. The coalition accuses the governor of abusing executive clemency powers.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#California #USPolitics #DeathPenalty #7SeasNews",
+   "photo_line": "📷 7/10 courtroom · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 757,
+   "tg_file_id": "AgACAgUAAxkDAAIC9Wr8lFPm5saR97QWT8NkB4_7LWS4AAJIFGsbguzoV2obfavM1UCgAQADAgADdwADPQQ",
+   "queued_at": "2026-11-17T17:52:20.196228+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-17T17:52:20.196250+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122104582467548584",
+   "posted_at": "2026-11-17T17:52:20.499714+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 17 · 12:52 PM New York · 11:22 PM Sri Lanka\n\n<b>California prosecutors sue to block Governor Gavin Newsom commutation plan</b>\n<i>NBC News, Washington Examiner</i>\n🟢 <b>Latest:</b> 11:15 PM Sri Lanka (7 min ago) · first reported 11:12 PM\n📷 7/10 courtroom · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122104582467548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 472,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122104582467548584_1122018507395486"
   }
  },
  "seen_links": [
@@ -13535,7 +13633,14 @@
   "https://www.foxnews.com/world/bahrain-intercepts-iranian-drones-targeting-us-radar-after-2-month-lull-gulf-strikes",
   "https://www.cbsnews.com/news/craig-trainor-justice-department-civil-rights-division/",
   "https://www.aljazeera.com/news/2026/11/17/cair-defends-civil-rights-work-against-trumps-smear?traffic_source=rss",
-  "https://www.nbcnews.com/politics/donald-trump/trump-downplays-bank-email-travel-outages-faa-ground-stop-microsoft-rcna609796"
+  "https://www.nbcnews.com/politics/donald-trump/trump-downplays-bank-email-travel-outages-faa-ground-stop-microsoft-rcna609796",
+  "https://www.newsweek.com/pope-leo-wont-change-marriage-rules-for-catholic-priests-12728684",
+  "https://www.cbsnews.com/news/pope-leo-less-war-less-us-division-married-priests-debate/",
+  "https://kyivindependent.com/15-ukrainians-among-46-injured-in-prague-train-collision-2/",
+  "https://www.independent.co.uk/news/world/europe/two-trains-crash-prague-station-rush-hour-b3086207.html",
+  "https://news.sky.com/story/prague-train-crash-leaves-46-people-injured-13613217",
+  "https://www.washingtonexaminer.com/news/justice/4805948/california-sue-newsom-death-sentence-commute/",
+  "https://www.nbcnews.com/news/us-news/gavin-newsom-sued-prosecutors-victim-rights-group-stop-mass-death-row-rcna609801"
  ],
  "recent_topics": [
   [
@@ -15781,19 +15886,59 @@
     "work"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-17T17:49:59.081330+00:00",
+   [
+    "call",
+    "catholic",
+    "chang",
+    "controversy",
+    "division",
+    "leo",
+    "less",
+    "marriag",
+    "pop",
+    "priest",
+    "rul",
+    "war",
+    "won't"
+   ],
+   "affca0a648"
+  ],
+  [
+   "2026-11-17T17:52:20.196085+00:00",
+   [
+    "all",
+    "block",
+    "california",
+    "commut",
+    "commutation",
+    "death",
+    "gavin",
+    "group",
+    "mass",
+    "newsom",
+    "plan",
+    "prosecutor",
+    "right",
+    "row",
+    "sentenc",
+    "stop",
+    "sue",
+    "sued",
+    "victim"
+   ],
+   "0bdec7468a"
   ]
  ],
- "last_draft_at": "2026-11-17T17:37:40.990164+00:00",
+ "last_draft_at": "2026-11-17T17:49:00.645998+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-17T17:37:01.001642+00:00",
  "run_log": [
-  "11-17 15:30:53 run start",
-  "11-17 15:33:21 listening 9 min",
-  "11-17 15:42:34 listening done",
-  "11-17 15:42:34 run end after 701 s",
   "11-17 15:45:40 run start",
   "11-17 15:46:00 listening 11 min",
   "11-17 15:57:19 listening done",
@@ -15829,15 +15974,15 @@
   "11-17 17:36:59 run start",
   "11-17 17:38:00 listening 10 min",
   "11-17 17:48:29 listening done",
-  "11-17 17:48:29 run end after 689 s"
+  "11-17 17:48:29 run end after 689 s",
+  "11-17 17:49:00 run start",
+  "11-17 17:53:09 listening 7 min",
+  "11-17 18:00:44 listening done",
+  "11-17 18:00:44 run end after 704 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/US-Bangla_Airlines_Aircraft_at_Domestic_Terminal_of_Airport_Dhaka.jpg/1920px-US-Bangla_Airlines_Aircraft_at_Domestic_Terminal_of_Airport_Dhaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Kim_Jong-un_%282023-09-13%29_%28cropped%29.jpg/1280px-Kim_Jong-un_%282023-09-13%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Christmas_at_Chatham_2019_event._Exterior_of_house_overlooking_Fredericksburg_%28444cc3fb-813c-4140-ad72-d36030e2e174%29.jpg/1920px-Christmas_at_Chatham_2019_event._Exterior_of_house_overlooking_Fredericksburg_%28444cc3fb-813c-4140-ad72-d36030e2e174%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Figure_1_Examples_of_Nuclear_Waste_Storage_Systems_at_DOE_Sites_%285693475989%29.jpg/1920px-Figure_1_Examples_of_Nuclear_Waste_Storage_Systems_at_DOE_Sites_%285693475989%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Donald_Trump_takes_the_oath_of_office_%282025%29.jpg/1280px-Donald_Trump_takes_the_oath_of_office_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Capitol_at_Dusk.JPG/1920px-Capitol_at_Dusk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Supreme_Court_of_the_United_States_%28swag%29.jpg/1920px-Supreme_Court_of_the_United_States_%28swag%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -15873,19 +16018,13 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Lisa_D._Cook%2C_Federal_Reserve_Governor.jpg/1280px-Lisa_D._Cook%2C_Federal_Reserve_Governor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Cabina_de_Control_para_tr%C3%A1fico_a%C3%A9reo_-_A742589.jpg/1920px-Cabina_de_Control_para_tr%C3%A1fico_a%C3%A9reo_-_A742589.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Antelope_Air_Defense_System_Display_at_Tainan_Air_Froce_Base_Apron_20130810.jpg/1920px-Antelope_Air_Defense_System_Display_at_Tainan_Air_Froce_Base_Apron_20130810.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Chief_of_Defence_Staff_Visits_Barbuda_Radar_Facility_%282%29.jpg/1920px-Chief_of_Defence_Staff_Visits_Barbuda_Radar_Facility_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Chief_of_Defence_Staff_Visits_Barbuda_Radar_Facility_%282%29.jpg/1920px-Chief_of_Defence_Staff_Visits_Barbuda_Radar_Facility_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Lu%C3%9Fberg_Church_Altar_17RM4260_-HDR.jpg/1920px-Lu%C3%9Fberg_Church_Altar_17RM4260_-HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Pope_Leo_XIV_2_%28cropped%29.png/1280px-Pope_Leo_XIV_2_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/0/0a/Courtroom_at_the_United_States_Courthouse_in_Augusta%2C_GA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/COP31_-_Gavin_Newsom_04.jpg/1280px-COP31_-_Gavin_Newsom_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
-   "lee rudofsky": {
-    "t": "2026-11-11T00:01:01.630256+00:00",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Lee_Philip_Rudofsky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "US Senate Judiciary Committee / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
    "ben ferguson": {
     "t": "2026-11-11T00:01:11.860960+00:00",
     "photos": [
@@ -17008,81 +17147,45 @@
     "v": 2
    },
    "pope leo": {
-    "t": "2026-11-13T11:01:42.947703+00:00",
+    "t": "2026-11-17T17:49:31.185171+00:00",
     "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Pope_Leo_XIV_childhood_home_4.jpg/1280px-Pope_Leo_XIV_childhood_home_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Maximilian775 / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_01.jpg/1280px-Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Diario de Madrid / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_04.jpg/1280px-Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Diario de Madrid / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Pope_Leo_XIV_2_%284x5_cropped%29.png/1280px-Pope_Leo_XIV_2_%284x5_cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Edgar Beltrán , The Pillar / Wikimedia Commons (CC BY-SA 4.0)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Pope_Leo_XIV_childhood_home_2.jpg/1280px-Pope_Leo_XIV_childhood_home_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Maximilian775 / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Pope_Leo_XIV_childhood_home_3.jpg/1280px-Pope_Leo_XIV_childhood_home_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Maximilian775 / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Pope_Leo_XIV_childhood_home_5.jpg/1280px-Pope_Leo_XIV_childhood_home_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Maximilian775 / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Sant%27Anselmo_Pope_Leo_XIII_Dedication.jpg/1280px-Sant%27Anselmo_Pope_Leo_XIII_Dedication.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "ElijahOwens / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_03.jpg/1280px-Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Diario de Madrid / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
+      "portrait": true,
+      "only": true
      },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Pope_Leo_XIV_3_%28cropped%29.jpg/1280px-Pope_Leo_XIV_3_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Edgar Beltrán , The Pillar / Wikimedia Commons (CC BY-SA 4.0)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
+      "portrait": true,
+      "only": true
      },
      {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_05.jpg/1280px-Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Diario de Madrid / Wikimedia Commons (CC BY 4.0)",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Pope_Leo_XIV_2_%28cropped%29.png/1280px-Pope_Leo_XIV_2_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Edgar Beltrán , The Pillar / Wikimedia Commons (CC BY-SA 4.0)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": false
+      "portrait": true,
+      "only": true
      },
      {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_02.jpg/1280px-Pope_Leo_XIV_receives_the_Golden_Key_of_Madrid_from_mayor_Jos%C3%A9_Luis_Mart%C3%ADnez-Almeida_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Diario de Madrid / Wikimedia Commons (CC BY 4.0)",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Sant%27Anselmo_Pope_Leo_XIII_Dedication.jpg/1280px-Sant%27Anselmo_Pope_Leo_XIII_Dedication.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "ElijahOwens / Wikimedia Commons (CC BY-SA 4.0)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": false
+      "portrait": true,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Pope_Leo_X_-_Santa_Maria_in_Aracoeli_-_Rome_2016.jpg/1280px-Pope_Leo_X_-_Santa_Maria_in_Aracoeli_-_Rome_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "José Luiz / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": false
      }
-    ]
+    ],
+    "v": 2
    },
    "van hollen": {
     "t": "2026-11-13T13:17:13.301914+00:00",
@@ -19178,11 +19281,97 @@
      }
     ],
     "v": 2
+   },
+   "gavin newsom": {
+    "t": "2026-11-17T17:52:10.470574+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Governor_of_California_Gavin_Newsom_%28cropped_3x4%29.jpg/1280px-Governor_of_California_Gavin_Newsom_%28cropped_3x4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Charles Ommanney – Office of the Governor of California / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Gavin_Newsom_2025.jpg/1280px-Gavin_Newsom_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "UK Government / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Governor_of_California_Gavin_Newsom%2C_2026_Official_Portrait_2.jpg/1280px-Governor_of_California_Gavin_Newsom%2C_2026_Official_Portrait_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Charles Ommanney – Office of the Governor of California / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/COP31_-_Gavin_Newsom_13.jpg/1280px-COP31_-_Gavin_Newsom_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Xuthoria / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/COP31_-_Gavin_Newsom_04.jpg/1280px-COP31_-_Gavin_Newsom_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Xuthoria / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/COP31_-_Gavin_Newsom_06.jpg/1280px-COP31_-_Gavin_Newsom_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Xuthoria / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Gavin_Newsom_%2844640121381%29.jpg/1280px-Gavin_Newsom_%2844640121381%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Daniel Nesbitt / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/COP31_-_Gavin_Newsom_02.jpg/1280px-COP31_-_Gavin_Newsom_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Xuthoria / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Governor_Gavin_Newsom_of_California%2C_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Office of the Governor of California / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Gavin_Newsom_%2843921321124%29.jpg/1280px-Gavin_Newsom_%2843921321124%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Daniel Nesbitt / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Governor_of_California_Gavin_Newsom_%28cropped_3x4%29_%282%29.jpg/1280px-Governor_of_California_Gavin_Newsom_%28cropped_3x4%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Charles Ommanney – Office of the Governor of California / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Governor_of_California_Gavin_Newsom%2C_2026_Official_Portrait_2_%28cropped%29.jpg/1280px-Governor_of_California_Gavin_Newsom%2C_2026_Official_Portrait_2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Charles Ommanney – Office of the Governor of California / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     }
+    ],
+    "v": 2
    }
   },
   "recent_ideas": [
-   "house chamber, united states capitol",
-   "marriner s. eccles federal reserve board building",
    "air traffic control facility",
    "serbian parliament building",
    "gas station fuel pumps",
@@ -19192,7 +19381,9 @@
    "us capitol building",
    "air traffic control",
    "air defense system",
-   "military radar facility"
+   "military radar facility",
+   "church altar",
+   "courtroom"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -19389,6 +19580,36 @@
     "s": 8,
     "w": "soldiers inspecting a radar facility",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Lu%C3%9Fberg_Church_Altar_17RM4260_-HDR.jpg/1920px-Lu%C3%9Fberg_Church_Altar_17RM4260_-HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|c6804982": {
+    "s": 7,
+    "w": "church interior with altar",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Pope_Leo_XIV_2_%28cropped%29.png/1280px-Pope_Leo_XIV_2_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Pope Leo": {
+    "s": 10,
+    "w": "Pope Leo",
+    "p": ""
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/0/0a/Courtroom_at_the_United_States_Courthouse_in_Augusta%2C_GA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled|6bb5e648": {
+    "s": 7,
+    "w": "courtroom",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_02.jpg/1920px-A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|6bb5e648": {
+    "s": 7,
+    "w": "empty courtroom",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/SW_Main_Building_Pano_Taliesin_West_Mar23_R16_07189-90_Pano.jpg/1920px-SW_Main_Building_Pano_Taliesin_West_Mar23_R16_07189-90_Pano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|6bb5e648": {
+    "s": 0,
+    "w": "Taliesin West building in Arizona",
+    "p": "Photo shows a building in Arizona, not a court building in California."
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/COP31_-_Gavin_Newsom_04.jpg/1280px-COP31_-_Gavin_Newsom_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Gavin Newsom": {
+    "s": 7,
+    "w": "Gavin Newsom speaking",
+    "p": ""
    }
   }
  },
@@ -19399,10 +19620,10 @@
   "2026-11-14": 18,
   "2026-11-15": 19,
   "2026-11-16": 32,
-  "2026-11-17": 19
+  "2026-11-17": 21
  },
- "last_auto_at": "2026-11-17T17:14:17.381749+00:00",
- "last_post_at": "2026-11-17T17:15:19.725380+00:00",
+ "last_auto_at": "2026-11-17T17:52:20.499714+00:00",
+ "last_post_at": "2026-11-17T17:52:58.145581+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
