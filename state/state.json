@@ -1,100 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "9eb78b77eb": {
-   "id": "9eb78b77eb",
-   "headline": "Gadi Eisenkot criticizes Benjamin Netanyahu over Arab hostility",
-   "summary": "Gadi Eisenkot criticized Prime Minister Benjamin Netanyahu following a speech by the Israeli leader about Arab lawmakers. The prime ministerial hopeful described attempts to marginalize Palestinian citizens of Israel as an anti-state act.",
-   "label": "WORLD",
-   "hook": "Can political rhetoric surrounding minority communities affect national stability?",
-   "key_points": [
-    "Eisenkot criticized Netanyahu days after a divisive speech.",
-    "The prime ministerial hopeful spoke about Palestinian citizens of Israel."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#WorldNews",
-    "#Israel",
-    "#Politics"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "New York Times"
-   ],
-   "link": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-accuses-netanyahu-of-inciting-hatred-against-arabs.html",
-   "links": [
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-accuses-netanyahu-of-inciting-hatred-against-arabs.html"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/13/eisenkot-slams-netanyahus-racist-campaign-against-palestinian-israelis?traffic_source=rss"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Gadi_Eisenkot_2_%28cropped%29.jpg/1280px-Gadi_Eisenkot_2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "יהב טרודלר (Yahav Trudler - Yahav Studio‬‏) / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Benjamin_Netanyahu_Receives_Hudson%27s_Herman_Kahn_Award_%2830287430110%29.jpg/1280px-Benjamin_Netanyahu_Receives_Hudson%27s_Herman_Kahn_Award_%2830287430110%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Hudson Institute / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Gadi Eisenkot criticizes Benjamin Netanyahu over Arab hostility",
-    "people": [
-     "Gadi Eisenkot",
-     "Benjamin Netanyahu"
-    ],
-    "image_query": "Knesset building Jerusalem",
-    "image_queries": [
-     "Knesset building Jerusalem",
-     "Israeli flag",
-     "Jerusalem street view",
-     "Government offices Jerusalem"
-    ],
-    "image_style": "person",
-    "location": "Israel",
-    "nearby_city": "Tel Aviv, Israel",
-    "event_query": "Israeli parliament building",
-    "news_time": null,
-    "label": "WORLD"
-   },
-   "created_at": "2026-11-13T18:32:19.202119+00:00",
-   "news_time": "2026-11-13T18:04:22+00:00",
-   "news_latest": "2026-11-13T18:26:46+00:00",
-   "caption": "Gadi Eisenkot criticizes Benjamin Netanyahu over Arab hostility\n\nGadi Eisenkot criticized Prime Minister Benjamin Netanyahu following a speech by the Israeli leader about Arab lawmakers. The prime ministerial hopeful described attempts to marginalize Palestinian citizens of Israel as an anti-state act.\n\n💬 Can political rhetoric surrounding minority communities affect national stability?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WorldNews #Israel #Politics #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 505,
-   "tg_file_id": "AgACAgUAAxkDAAIB-Wr3V7WnO-lrJLBcD4yiPSU-ChS9AAIUFmsbFv24V-fXTQ1FjT-_AQADAgADdwADPQQ",
-   "queued_at": "2026-11-13T18:32:21.975996+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-13T18:32:21.976045+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122100594051548584",
-   "posted_at": "2026-11-13T18:32:22.729828+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 13 · 1:32 PM New York · 12:02 AM Sri Lanka\n\n<b>Gadi Eisenkot criticizes Benjamin Netanyahu over Arab hostility</b>\n<i>Al Jazeera, New York Times</i>\n🟢 <b>Latest:</b> 11:56 PM Sri Lanka (5 min ago) · first reported 11:34 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122100594051548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 320,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122100594051548584_1470984635147292",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-16T18:31:30.312240+00:00"
-  },
   "6ddb761bdf": {
    "id": "6ddb761bdf",
    "headline": "Supreme Court agrees to decide legality of Trump asylum restrictions",
@@ -15712,17 +15618,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-17T18:15:42.511494+00:00",
+ "last_draft_at": "2026-11-17T18:30:45.170638+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-17T17:37:01.001642+00:00",
  "run_log": [
-  "11-17 16:15:43 run start",
-  "11-17 16:23:01 listening 4 min",
-  "11-17 16:27:13 listening done",
-  "11-17 16:27:13 run end after 690 s",
   "11-17 16:30:48 run start",
   "11-17 16:31:58 listening 10 min",
   "11-17 16:42:28 listening done",
@@ -15758,7 +15660,11 @@
   "11-17 18:15:42 run start",
   "11-17 18:19:04 listening 8 min",
   "11-17 18:27:28 listening done",
-  "11-17 18:27:28 run end after 705 s"
+  "11-17 18:27:28 run end after 705 s",
+  "11-17 18:30:43 run start",
+  "11-17 18:31:03 listening 11 min",
+  "11-17 18:42:24 listening done",
+  "11-17 18:42:24 run end after 701 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -19658,7 +19564,9 @@
     "tt1": true,
     "log1": true,
     "tt2": true,
-    "log2": true
+    "log2": true,
+    "tt3": true,
+    "log3": true
    }
   }
  },
