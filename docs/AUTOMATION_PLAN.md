@@ -1,7 +1,8 @@
 # 7 Seas News — Automation plan
 
 Status: **Stage 1 done (17 Nov 2026)** — watch 2 days of posts before Stage 2.
-Stage 2 (photos) · Stage 3 (roundup videos) · Stage 4 (uploads): not started.
+**Stage 2 done (17 Nov 2026)** — the AI looks at every photo.
+Stage 3 (roundup videos) · Stage 4 (uploads): in progress.
 
 Written 17 Nov 2026 after reading the repo and the bot memory (posts from 12–16 Nov).
 
@@ -47,7 +48,7 @@ Owner prefers simple step-by-step English.
 4. Quiet days: fewer than `MIN_STORIES_PER_DAY` by NY 6 PM → non-focus news needs 2 outlets instead of 3.
 5. Feeds: Axios added. CNN RSS feeds are dead (newest items 2022/2023). AP and Reuters have no RSS.
 
-## Stage 2 — Photos that match (the "accuracy" fix)
+## Stage 2 — Photos that match (the "accuracy" fix) ✅ DONE 17 Nov 2026
 
 1. **Gemini looks at the photo (vision check).** New function `photo_fits(post, photo_url, kind)`:
    download the 500 px preview (`_small()`), send it to Gemini (image part, base64 JPEG) with the headline,

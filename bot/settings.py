@@ -222,6 +222,12 @@ GENERIC_PHOTO_IDEAS = {
 STRICT_PHOTO_MATCH = True    # True = a place photo must clearly be from the story's country (checked in the photo's
                              # name, description and categories); photos naming another country are rejected.
                              # No safe photo → the branded globe design instead of a random photo.
+PHOTO_VISION_CHECK = True    # True = the AI LOOKS at every photo before it is used (wrong person, wrong city, a car,
+                             # a beach, an old scan… → rejected) and the next photo idea is tried. The draft shows the
+                             # score, e.g. "📷 9/10 Kyiv city". No photo good enough → the news map (always correct).
+PHOTO_MIN_SCORE = 7          # 0-10: photos below this score are not used (6-7 = generic but fitting, 9-10 = exact)
+PHOTO_CHECKS_PER_POST = 6    # max photos the AI looks at per post (keeps inside the free Gemini limit)
+GEMINI_GAP_SECONDS = 4       # wait at least this long between AI calls (free limit is about 15 per minute)
 PHOTOS_PER_PERSON = 12       # how many different free photos the bot collects per person (e.g. Trump)
 NO_REPEAT_PHOTOS = 40        # a photo is not used again until this many other photos were used
 PHOTO_POOL_DAYS = 7          # refresh each person's photo collection after this many days
@@ -353,3 +359,9 @@ FEEDS = {
     "UPI": ["https://rss.upi.com/news/top_news.rss"],
     "Axios": ["https://api.axios.com/feed/"],   # (CNN's RSS feeds are dead since 2023: not used)
 }
+
+# ---------- One-time test jobs ----------
+# Each id runs ONCE on the next bot run (the bot remembers it). Change the id (e.g. add "b") to run it again.
+#   "phototest:<id>"           = new photos for the last 10 posts, sent to Telegram with the AI's score (nothing published)
+#   "roundup_test:YYYY-MM-DD"  = the daily roundup of that New York day, sent to Telegram only (no uploads)
+RUN_ONCE = ["phototest:2026-11-17"]

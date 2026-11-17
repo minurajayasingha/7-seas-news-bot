@@ -13,6 +13,7 @@ All settings you might want to change are in the CONFIG section below.
 """
 
 import io
+import base64
 import zipfile
 import shutil
 import subprocess
@@ -275,6 +276,7 @@ def log_to_channel(state, d, fb_link):
             f"<b>{html.escape(d['headline'])}</b>\n"
             f"<i>{html.escape(', '.join(d['sources']))}</i>"
             + (f"\n{news_time_text(d)}" if d.get("news_time") else "")
+            + (f"\n{html.escape(d['photo_line'])}" if d.get("photo_line") else "")
             + (f"\n\n🔗 <a href=\"{fb_link}\">Open on Facebook</a>" if fb_link else ""))
     try:
         dup = find_duplicate(state, d, loose=True)
@@ -2001,15 +2003,24 @@ def gemini_write(c, fix=""):
     return data
 
 
-def gemini_json(prompt, temperature=0.2, check=None):
-    """Ask Gemini for a JSON answer (tries the models in order). check(data) False = try the next model."""
+GEMINI_LAST = [0.0]
+
+
+def gemini_json(prompt, temperature=0.2, check=None, image=None):
+    """Ask Gemini for a JSON answer (tries the models in order). check(data) False = try the next model.
+    image = JPEG bytes the AI should look at (photo check)."""
+    parts = [{"text": prompt}]
+    if image:
+        parts.insert(0, {"inline_data": {"mime_type": "image/jpeg", "data": base64.b64encode(image).decode()}})
     body = {
-        "contents": [{"parts": [{"text": prompt}]}],
+        "contents": [{"parts": parts}],
         "generationConfig": {"responseMimeType": "application/json", "temperature": temperature},
     }
     last_err = None
     for model in gemini_models():
         try:
+            time.sleep(max(0.0, GEMINI_LAST[0] + GEMINI_GAP_SECONDS - time.time()))
+            GEMINI_LAST[0] = time.time()
             r = HTTP.post(
                 f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
                 params={"key": GEMINI_KEY}, json=body, timeout=90)
@@ -2231,9 +2242,13 @@ def wiki_main_photo(name):
 # Memory of photos (pools per person + recently used photos). Points into state["photo_memory"].
 PHOTO_MEM = {}
 
-BAD_PERSON_TITLE = (" and ", " with ", " meets ", " meeting", "&", " signing", "signature", "logo", "caricature",
+BAD_PERSON_TITLE = (" and ", " with ", " meets ", " met ", " meeting", "&", " signing", "signature", "logo", "caricature",
                     "cartoon", "mural", "statue", "wax", "painting", "drawing", "poster", "flag", "coin", "stamp",
-                    "mask", "graffiti", "sign ", "crowd", "protest", "supporters", "tweet", "screenshot")
+                    "mask", "graffiti", "sign ", "crowd", "protest", "supporters", "tweet", "screenshot",
+                    "swears in", "sworn in", "swearing", "greets", "welcomes", "receives", "hosts", "bilateral",
+                    "delegation", " talks", " visit", "childhood", "birthplace", "residence", "home of", " house of",
+                    " tomb", " grave", "funeral", "wedding", "family", " car ", "motorcade", " vs ", " v. ", "debate")
+PERSON_PORTRAIT_WORDS = ("official portrait", "portrait", "cropped", "headshot", "official photo")
 
 
 def recent_photos():
@@ -2278,8 +2293,14 @@ def commons_person_photos(name, limit):
         if yr and int(yr.group(1)) < 2012:             # recent looks only
             continue
         artist = clean_html(meta.get("Artist", {}).get("value", ""))[:60] or "Unknown author"
+        # "only this person": title is the name + date/place words, or an (official) portrait / cropped file
+        rest = re.sub(r"\b(19|20)\d\d\b|\.(jpe?g|png)\b|file:|\(.*?\)|[^a-z ]", " ", title)
+        for t in name.lower().split():
+            rest = rest.replace(f" {t} ", " ")
+        only = any(w in title for w in PERSON_PORTRAIT_WORDS) or len(rest.split()) <= 3
         cands.append({"url": url, "credit": f"{artist} / Wikimedia Commons ({lic})", "short": "WIKIMEDIA COMMONS",
-                      "portrait": h >= w})
+                      "portrait": h >= w, "only": only})
+    cands.sort(key=lambda c: (not c["only"], not c["portrait"]))      # portraits of only this person first
     good = []
     for c in cands[:limit * 2]:                         # check colours/quality, keep the good ones
         if photo_quality(c["url"]) >= 0:
@@ -2294,7 +2315,8 @@ def person_photo_pool(name):
     pools = PHOTO_MEM.setdefault("pools", {})
     key = name.lower().strip()
     p = pools.get(key)
-    if p and p.get("photos") and now_utc() - datetime.fromisoformat(p["t"]) < timedelta(days=PHOTO_POOL_DAYS):
+    if p and p.get("photos") and p.get("v") == 2 and \
+            now_utc() - datetime.fromisoformat(p["t"]) < timedelta(days=PHOTO_POOL_DAYS):
         return p["photos"]
     photos = []
     main_photo = wiki_main_photo(name)
@@ -2306,7 +2328,7 @@ def person_photo_pool(name):
         if len(photos) >= PHOTOS_PER_PERSON:
             break
     if photos:
-        pools[key] = {"t": now_utc().isoformat(), "photos": photos}
+        pools[key] = {"t": now_utc().isoformat(), "photos": photos, "v": 2}
         if len(pools) > 60:                             # forget the oldest people
             for k in sorted(pools, key=lambda k: pools[k]["t"])[:len(pools) - 60]:
                 pools.pop(k)
@@ -2327,7 +2349,7 @@ def wiki_person_photo(name, exclude=()):
     if not fresh:
         return None
     pick = random.choice(fresh)
-    return {k: v for k, v in pick.items() if k != "portrait"}
+    return {k: v for k, v in pick.items() if k not in ("portrait", "only")}
 
 
 def pexels_photo(query, exclude=(), countries=()):
@@ -2403,7 +2425,8 @@ def flickr_photo(query, exclude=(), countries=(), since=None):
                               ph.get("tags", "")])
             t = " " + re.sub(r"[^a-z0-9]+", " ", plain(about).lower()) + " "
             hits = sum(1 for w in words if f" {w}" in t)
-            if hits < max(1, (len(words) + 1) // 2) or not place_ok(about, countries):
+            if hits < max(1, (len(words) + 1) // 2) or not place_ok(about, countries) \
+                    or any(w in f" {plain(ph.get('title', '')).lower()} " for w in NOT_A_PHOTO_TITLE):
                 continue
             score = hits * 10 + max(0, 20 - rank) - (60 if url in rec else 0)
             owner = ph.get("ownername") or "Flickr user"
@@ -2430,6 +2453,15 @@ NOT_A_PLACE_PHOTO = ("old ", "historic", "postcard", "vintage", "engraving", "pa
 # incidents: a calm city view, not a holiday photo
 NATURE_WORDS = ("dam", "lake", "beach", "sunset", "sunrise", "waterfall", "flower", "mountain", "river", "forest",
                 "garden", "park", "valley", "canyon", "sea", "coast", "island", "zoo", "festival", "concert", "wedding")
+
+
+# Titles of files that are not a usable news photo (old scans, graphics, signs, other people) — all sources.
+NOT_A_PHOTO_TITLE = ("old ", "historic", "postcard", "vintage", "engraving", "painting", "drawing", "map",
+                     "lithograph", "sepia", "diagram", "logo", "flag of", " sign", "sign.", "closure", "chart",
+                     "graph", "screenshot", "poster", "obama", "biden", "bush", "clinton", "reagan", "speech by",
+                     "meeting with", "lccn", "bain news", "library of congress", "harris & ewing", "glass negative",
+                     "black and white", "monochrome", "b&w", "archive", "archival", "scan", "negative", "loc.gov",
+                     "national archives", "nara ", "photochrom")
 
 
 def wrong_capitol(title, query):
@@ -2475,6 +2507,7 @@ def openverse_photo(query, exclude=(), countries=(), avoid=()):
             if not has_words(t, must) or not place_ok(about, countries):
                 continue
             if re.search(r"(?<!\d)(1[0-8]\d\d|19[0-8]\d)(?!\d)", title) or any(w in f" {title}" for w in NOT_A_PLACE_PHOTO) \
+                    or any(w in f" {title} " for w in NOT_A_PHOTO_TITLE) \
                     or has_any_word(t, avoid) or wrong_capitol(title, query):
                 continue
             score = (20 if f" {must} " in f" {re.sub(r'[^a-z0-9]+', ' ', title)} " else 5) + max(0, 20 - rank) \
@@ -2528,7 +2561,8 @@ def incident_photo(post, exclude=()):
     countries = story_countries(post)
     for idea in ideas[:3]:
         avoid = tuple(w for w in EVENT_WORDS if w not in idea)
-        p = wiki_search_photo(f"{idea}, {loc}", exclude, countries, avoid=avoid, need=need)
+        p = vet(post, wiki_search_photo(f"{idea}, {loc}", exclude, countries, avoid=avoid, need=need),
+                f"place: {idea} in {loc}")
         if p:
             return p
     return None
@@ -2554,10 +2588,12 @@ def place_photo(post, exclude=()):
     if state and state.lower() not in ("washington", "new york"):
         tries.append(f"{state} State Capitol")          # last: the state's capitol building
     for q in dict.fromkeys(tries):
-        p = openverse_photo(q, exclude, countries, avoid=NATURE_WORDS) or \
-            wiki_search_photo(q, exclude, countries, avoid=NATURE_WORDS)
-        if p:
-            return p
+        for src in (openverse_photo, wiki_search_photo):
+            p = vet(post, src(q, exclude, countries, avoid=NATURE_WORDS), f"place: {q} (the story is in {loc})")
+            if p:
+                return p
+        if checks_out():
+            break
     return None
 
 
@@ -2595,9 +2631,13 @@ def topic_photo(post, exclude=()):
     countries = AnyOrOwn(story_countries(post))
     for q in topic_ideas(post)[:3]:
         avoid = tuple(w for w in TOPIC_AVOID + EVENT_WORDS if w not in q.lower())
-        p = (pexels_photo(q, exclude, countries) or pixabay_photo(q, exclude, countries)
-             or flickr_photo(q, exclude, countries)
-             or wiki_search_photo(q, exclude, countries, avoid=avoid, quality_only=True))
+        p = None
+        for get in (lambda: pexels_photo(q, exclude, countries), lambda: pixabay_photo(q, exclude, countries),
+                    lambda: flickr_photo(q, exclude, countries),
+                    lambda: wiki_search_photo(q, exclude, countries, avoid=avoid, quality_only=True)):
+            p = vet(post, get(), f"topic: a generic photo of {q} (any place, no other event)")
+            if p or checks_out():
+                break
         if p:
             PHOTO_MEM["recent_ideas"] = (PHOTO_MEM.get("recent_ideas", []) + [q.lower()])[-12:]
             log("Topic photo:", q)
@@ -3141,13 +3181,7 @@ def wiki_search_photo(query, exclude=(), countries=(), avoid=(), need=(), qualit
             if not lic.lower().startswith(FREE_LICENSES):
                 continue
             title = page.get("title", "").lower()
-            if re.search(r"(?<!\d)(1[0-8]\d\d|19[0-8]\d)(?!\d)", title) or any(
-                    w in title for w in ("old ", "historic", "postcard", "vintage", "engraving", "painting",
-                                         "drawing", "map", "lithograph", "sepia", "diagram", "logo", "flag of",
-                                         " sign", "sign.", "closure", "chart", "graph", "screenshot", "poster",
-                                         "obama", "biden", "bush", "clinton", "reagan", "speech by", "meeting with",
-                                         "lccn", "bain news", "library of congress", "harris & ewing", "glass negative",
-                                         "black and white", "monochrome", "b&w")) \
+            if re.search(r"(?<!\d)(1[0-8]\d\d|19[0-8]\d)(?!\d)", title) or any(w in title for w in NOT_A_PHOTO_TITLE) \
                     or wrong_capitol(title, query) or has_any_word(re.sub(r"[^a-z]+", " ", title), avoid):
                 continue
             yr = re.search(r"(1[89]\d\d|20\d\d)", clean_html(meta.get("DateTimeOriginal", {}).get("value", "")))
@@ -3180,6 +3214,124 @@ def wiki_search_photo(query, exclude=(), countries=(), avoid=(), need=(), qualit
     good.sort(key=lambda x: -x[0])
     close = [c for sc, c in good[:4] if sc >= good[0][0] - 20]      # one of the best few = variety
     return random.choice(close)
+
+
+# ---------- Stage 2: the AI LOOKS at every photo before it is used ----------
+PHOTO_CHECK = {"left": 0, "stop": False, "ex": set(), "seen": []}
+
+VISION_PROMPT = """You check whether a photo fits a post on a neutral news page. Look at the PHOTO itself.
+Headline: {headline}
+Story location: {location}
+Label: {label}
+The photo should show: {kind}
+
+Give a score from 0 to 10:
+- 0 = wrong person; or another person is the main subject; or {person_rule}
+- 0 = wrong country or wrong city; or a different place that only has the same name
+- 0 = a car, food, a beach or holiday snap, an old / black-and-white / archive scan, a text sign, a logo, a map,
+      a screenshot, a drawing or painting, or a close-up of a small object
+- 0 = it shows a different event (damage, crash, fire, protest, victims) that readers could mistake for this news
+- 6-7 = generic but fitting (e.g. the US Capitol for a Congress story, an airport terminal for a flights story)
+- 9-10 = clearly the actual person or the actual place of the story
+Return ONLY JSON: {{"score": 0-10, "shows": "max 5 words: what the photo shows", "people_visible": number,
+"main_person_ok": true/false, "problem": "short, or empty"}}"""
+
+
+def checks_out():
+    """No more photo checks for this post (limit reached or the AI is busy): stop searching, use the map."""
+    return PHOTO_VISION_CHECK and (PHOTO_CHECK["left"] <= 0 or PHOTO_CHECK["stop"])
+
+
+def photo_preview(url):
+    """A small JPEG (≤640 px) of the photo for the AI to look at."""
+    r = HTTP.get(_small(url), headers=WIKI_HEADERS, timeout=25)
+    if r.status_code != 200 and _small(url) != url:
+        r = HTTP.get(url, headers=WIKI_HEADERS, timeout=40)
+    r.raise_for_status()
+    im = Image.open(io.BytesIO(r.content)).convert("RGB")
+    im.thumbnail((640, 640))
+    out = io.BytesIO()
+    im.save(out, "JPEG", quality=82)
+    return out.getvalue()
+
+
+def photo_fits(post, url, kind):
+    """The AI's verdict on one photo: {"s": score, "w": what it shows, "p": problem}, cached by URL.
+    None = could not check (no checks left this post, AI busy, photo didn't download)."""
+    cache = PHOTO_MEM.setdefault("checked", {})
+    key = f"{url}|{kind}" if kind.startswith("person") else url
+    if key in cache:
+        return cache[key]
+    if PHOTO_CHECK["stop"] or PHOTO_CHECK["left"] <= 0:
+        return None
+    PHOTO_CHECK["left"] -= 1
+    try:
+        img = photo_preview(url)
+    except Exception as e:
+        log("Photo check: preview failed:", e)
+        return None
+    name = kind.split(":", 1)[1].strip() if kind.startswith("person") else ""
+    person_rule = (f"{name} is not clearly the main person (people_visible > 1 and {name} is not the main one)"
+                   if name else "the photo is about a person when it should show a place or thing")
+    try:
+        a = gemini_json(VISION_PROMPT.format(headline=post.get("headline", ""), location=post.get("location") or "?",
+                                             label=post.get("label") or "", kind=kind, person_rule=person_rule),
+                        temperature=0.1, image=img, check=lambda d: "score" in d)
+    except Exception as e:
+        log("Photo check failed:", e)
+        if "429" in str(e) or "No Gemini" in str(e):
+            PHOTO_CHECK["stop"] = True               # AI busy: don't keep asking for this post
+        return None
+    try:
+        score = max(0, min(10, int(round(float(a.get("score"))))))
+    except (TypeError, ValueError):
+        return None
+    if name and a.get("main_person_ok") is False:
+        score = 0
+    res = {"s": score, "w": str(a.get("shows") or "")[:40], "p": str(a.get("problem") or "")[:80]}
+    cache[key] = res
+    while len(cache) > 500:                          # keep the last 500
+        cache.pop(next(iter(cache)))
+    return res
+
+
+def vet(post, p, kind):
+    """p if the AI says the photo fits the story (score ≥ PHOTO_MIN_SCORE), else None (and never offered again
+    for this post). A photo that could not be checked: people photos are kept (Wikipedia portraits are nearly
+    always right), other photos are not used — the news map is better than a wrong photo."""
+    if not p or not PHOTO_VISION_CHECK:
+        return p
+    r = photo_fits(post, p["url"], kind)
+    PHOTO_CHECK["ex"].add(p["url"])                  # don't offer the same photo twice for this post
+    if r is None:
+        if kind.startswith("person"):
+            p["score"] = None
+            return p
+        PHOTO_CHECK["seen"].append(f"? unchecked ({kind})")
+        return None
+    if r["s"] >= PHOTO_MIN_SCORE:
+        p["score"], p["shows"] = r["s"], r["w"]
+        return p
+    log(f"Photo rejected {r['s']}/10 ({kind}): shows {r['w']!r}", f"· {r['p']}" if r["p"] else "", "|", p["url"][-80:])
+    PHOTO_CHECK["seen"].append(f"✗ {r['s']}/10 {r['w']}")
+    return None
+
+
+def photo_score_line(bg):
+    """'📷 9/10 Kyiv city' for the draft message."""
+    if not bg:
+        return ""
+    t = bg.get("type")
+    if t == "map":
+        return "📷 news map (no fitting photo)"
+    if t in ("brand", "incident"):
+        return "📷 no fitting photo (brand design)"
+    ps = [x for x in bg.get("photos", []) + ([bg["inset"]] if bg.get("inset") else []) if x]
+    scored = [x for x in ps if x.get("score") is not None]
+    if not scored:
+        return "📷 photo not checked" if PHOTO_VISION_CHECK else ""
+    low = min(scored, key=lambda x: x["score"])
+    return f"📷 {low['score']}/10 {low.get('shows', '')}".strip()
 
 
 def person_names_in_headline(post):
@@ -3218,13 +3370,28 @@ def photo_ideas(post):
     return sorted(ideas, key=lambda q: q.lower() in recent)   # fresh ideas first
 
 
-def _choose_background(post, exclude=(), prefer_scene=False):
-    """1) photos of the people in the story  2) best matching photo  3) brand design.
-    prefer_scene=True is used by the 🔄 Other photo button."""
-    OV["calls"] = 0
-    found = [x for x in (wiki_person_photo(p, exclude) for p in person_names_in_headline(post)) if x]
+def person_photo_checked(post, name, exclude):
+    """A photo of this person that the AI agrees shows them (up to 3 tries from their pool)."""
+    for _ in range(3):
+        p = wiki_person_photo(name, exclude)
+        if not p:
+            return None
+        p = vet(post, p, f"person: {name}")
+        if p:
+            return p
+    return None
 
-    real = event_photo(post, exclude)          # a real photo of the event itself beats everything else
+
+def _choose_background(post, exclude=(), prefer_scene=False):
+    """1) photos of the people in the story  2) best matching photo  3) news map  4) brand design.
+    Every photo is looked at by the AI first (vet). prefer_scene=True is used by the 🔄 Other photo button."""
+    OV["calls"] = 0
+    exclude = set(exclude) | {u for u, r in PHOTO_MEM.get("checked", {}).items()
+                              if "|" not in u and r.get("s", 10) < PHOTO_MIN_SCORE}
+    PHOTO_CHECK.update(left=PHOTO_CHECKS_PER_POST, stop=False, ex=exclude, seen=[])
+    found = [x for x in (person_photo_checked(post, p, exclude) for p in person_names_in_headline(post)) if x]
+
+    real = vet(post, event_photo(post, exclude), f"event: {post.get('event_query')}")   # a real photo of the event
     if real:
         PHOTO_MEM["recent_ideas"] = (PHOTO_MEM.get("recent_ideas", []) + [str(post.get("event_query")).lower()])[-12:]
         if len(found) == 1:
@@ -3256,11 +3423,14 @@ def _choose_background(post, exclude=(), prefer_scene=False):
         countries = story_countries(post)
         for q in dict.fromkeys(tries):
             if q:
-                scene = (flickr_photo(q, exclude, countries) or openverse_photo(q, exclude, countries)
-                         or pexels_photo(q, exclude, countries)
-                         or pixabay_photo(q, exclude, countries) or wiki_search_photo(q, exclude, countries))
+                for src in (flickr_photo, openverse_photo, pexels_photo, pixabay_photo, wiki_search_photo):
+                    scene = vet(post, src(q, exclude, countries), f"scene: {q}")
+                    if scene or checks_out():
+                        break
             if scene:
                 PHOTO_MEM["recent_ideas"] = (PHOTO_MEM.get("recent_ideas", []) + [q.lower()])[-12:]
+                break
+            if checks_out():
                 break
         if not scene:
             scene = topic_photo(post, exclude)          # e.g. rain news → a rain photo, flights → an airport
@@ -3632,8 +3802,10 @@ def send_draft(state, d):
     if dup:
         nt = (f"⚠️ <b>Similar to a post you already {'published' if dup['status'] == 'posted' else 'queued'}:</b> "
               f"“{html.escape(dup['headline'])}”" + (f"\n{nt}" if nt else ""))
+    d["photo_line"] = photo_score_line(d["bg"])
     preview = (f"<b>{html.escape(d['headline'])}</b>\n"
-               + (f"{nt}\n" if nt else "") + "\n"
+               + (f"{nt}\n" if nt else "")
+               + (f"<i>{html.escape(d['photo_line'])}</i>\n" if d["photo_line"] else "") + "\n"
                f"{html.escape(d['summary'])}\n"
                + ("".join(f"• {html.escape(k)}\n" for k in d.get("key_points", [])) if d.get("breaking") else "")
                + (f"💬 {html.escape(d['hook'])}\n" if d.get("hook") else "")
@@ -3656,6 +3828,48 @@ def send_draft(state, d):
     d.setdefault("created_at", now_utc().isoformat())
     state["drafts"][d["id"]] = d
     return True
+
+
+def photo_test(state, n=10):
+    """Live dry run of the photo check: choose new backgrounds for the last n posts and send the images
+    to the bot chat with the AI's score. Nothing is published or changed."""
+    posts = sorted([d for d in state["drafts"].values() if d.get("status") == "posted" and d.get("img_post")],
+                   key=lambda d: d.get("posted_at", ""))[-n:]
+    tg_text(f"🧪 <b>Photo check test</b>: new photos for the last {len(posts)} posts. "
+            "Nothing is published. Each image shows the AI's score.")
+    for k, d in enumerate(posts, 1):
+        try:
+            post = dict(d["img_post"], headline=d["headline"])
+            bg = _choose_background(post)
+            img = render_image(d["headline"], d.get("label", "WORLD"), d.get("sources", []), bg)
+            old = ", ".join(p.get("credit", "")[:50] for p in d.get("bg", {}).get("photos", [])) or d["bg"].get("type")
+            tried = "\n".join(PHOTO_CHECK["seen"][:5])
+            tg("sendPhoto", chat_id=TG_CHAT, parse_mode="HTML",
+               caption=(f"🧪 {k}/{len(posts)} <b>{html.escape(d['headline'])}</b>\n"
+                        f"{html.escape(photo_score_line(bg))}\n<i>Before: {html.escape(old)}</i>"
+                        + (f"\n<i>Rejected:\n{html.escape(tried)}</i>" if tried else ""))[:1000],
+               files={"photo": ("test.jpg", img, "image/jpeg")})
+        except Exception as e:
+            log("Photo test failed:", d["headline"], e)
+            tg_text(f"🧪 {k}: failed ({html.escape(str(e))[:200]})")
+
+
+def run_once_jobs(state):
+    """One-time jobs from RUN_ONCE in settings.py (each id runs once; change the id to run it again)."""
+    done = state.setdefault("run_once_done", [])
+    for job in RUN_ONCE:
+        if job in done:
+            continue
+        done.append(job)
+        log("Run-once job:", job)
+        try:
+            if job.startswith("phototest"):
+                photo_test(state)
+            elif job.startswith("roundup_test:"):
+                roundup_start(state, job.split(":", 1)[1][:10], test=True)
+        except Exception as e:
+            log("Run-once job failed:", job, e)
+            tg_text(f"⚠️ Test job {html.escape(job)} failed: <code>{html.escape(str(e))[:300]}</code>")
 
 
 def draft_new_posts(state):
@@ -3922,6 +4136,10 @@ def main():
             day_packs_due(state)
         except Exception as e:
             log("Day pack error:", e)
+        try:
+            run_once_jobs(state)
+        except Exception as e:
+            log("Run-once error:", e)
         try:
             update_post_stats(state)
         except Exception as e:  # numbers are a bonus: never stop the bot because of them

@@ -91,6 +91,17 @@ optional PIXABAY_API_KEY / PEXELS_API_KEY / FLICKR_API_KEY. Never print or commi
   Pexels → Pixabay → Flickr → Commons Quality images only; countries=AnyOrOwn(story countries) = photo may name no
   country or only the story's; TOPIC_AVOID skips close-ups/events. Order: after scene ideas, before place_photo;
   incidents: weather words first, else after the map card. place_ok() always rejects SOUTH_ASIA_PHOTO_WORDS.
+- PHOTO_VISION_CHECK (Stage 2): vet(post, photo, kind) → photo_fits() sends a ≤640 px preview to Gemini
+  (gemini_json(image=…), VISION_PROMPT: wrong person/extra main person/wrong city/same-name place/car/food/beach/scan/
+  sign/logo/map/other event = 0, generic fitting 6–7, exact 9–10). Used for person photos (person_photo_checked, 3 tries),
+  event, scene (each source), incident, place and topic photos; score < PHOTO_MIN_SCORE → that URL is excluded and the
+  next idea/source is tried, max PHOTO_CHECKS_PER_POST looks, then map → brand. Cache state["photo_memory"]["checked"]
+  (url → {s,w,p}, last 500; person checks keyed url|kind). Not checkable: people photos kept, others dropped; 429 → stop
+  for this post (checks_out()). Draft + log channel show photo_score_line ("📷 9/10 Kyiv city", d["photo_line"]).
+  GEMINI_GAP_SECONDS between all Gemini calls. NOT_A_PHOTO_TITLE (scans, LCCN, signs…) for Commons, Openverse, Flickr.
+  Person pools v2: BAD_PERSON_TITLE (met, swears in, childhood home…), portraits/"only this person" first.
+- RUN_ONCE (settings): one-time jobs by id, done ids in state["run_once_done"]: "phototest:…" = photo_test() re-chooses
+  photos for the last 10 posts and sends them to the bot chat (nothing published).
 - send_draft: if the chosen photo won't download (render_image sets bg["_loaded"]), it re-chooses, then map, then brand
   (never silently the globe). load_photo tries 1280/960 px Wikimedia sizes too.
 - No photo chain (all stories): people/event/scene → topic → place_photo (town → Gemini "nearby_city" → "<State> State Capitol")
