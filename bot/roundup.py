@@ -588,6 +588,9 @@ def run(day_s, test=False):
     info = state.get("roundup", {}).get(day_s)
     if not info or not info.get("plan"):
         raise RuntimeError(f"no approved plan for {day_s} in state.json")
+    if not test and day_s in ROUNDUP_HOLD_DAYS:
+        M.tg_text(f"⏸ Roundup {day_s} is on hold (ROUNDUP_HOLD_DAYS) — nothing was uploaded.")
+        return
     manual = ROUNDUP_MANUAL_TIMES.get(day_s)
     test = test or (bool(info.get("test")) and not manual)
     day = datetime.fromisoformat(day_s).date()
