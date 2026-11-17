@@ -1,194 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "f184753370": {
-   "id": "f184753370",
-   "headline": "Lauren Boebert loses Colorado congressional election to Eileen Laubacher",
-   "summary": "Republican Representative Lauren Boebert lost her reelection bid in Colorado to Democratic challenger Eileen Laubacher. Boebert previously changed to a more conservative district after a close race in 2022.",
-   "label": "ELECTIONS",
-   "hook": "",
-   "key_points": [
-    "Laubacher won by a margin of less than one percent.",
-    "Boebert previously served three terms in Congress."
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#LaurenBoebert",
-    "#ColoradoElections",
-    "#USPolitics"
-   ],
-   "sources": [
-    "NBC News",
-    "The Guardian",
-    "Washington Examiner"
-   ],
-   "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4803266/boebert-lose-reelection-despite-move-district/",
-   "links": [
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/news/campaigns/congressional/4803266/boebert-lose-reelection-despite-move-district/"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/us-news/2026/nov/13/trump-maga-lauren-boebert-colorado"
-    ],
-    [
-     "NBC News",
-     "https://www.nbcnews.com/politics/2026-election/rep-lauren-boebert-conservative-firebrand-colorado-loses-race-re-elect-rcna607652"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Lauren_Boebert_%2851327710110%29_%28cropped%29.jpg/1280px-Lauren_Boebert_%2851327710110%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Lauren Boebert loses Colorado congressional election to Eileen Laubacher",
-    "people": [
-     "Lauren Boebert"
-    ],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "House of Representatives chamber",
-     "Colorado state capitol",
-     "voting booth",
-     "Capitol Hill"
-    ],
-    "image_style": "person",
-    "location": "Colorado, US",
-    "nearby_city": "Denver, Colorado",
-    "event_query": "Colorado congressional election",
-    "news_time": null,
-    "label": "ELECTIONS"
-   },
-   "created_at": "2026-11-13T20:32:28.648973+00:00",
-   "news_time": "2026-11-13T19:58:19+00:00",
-   "news_latest": "2026-11-13T20:25:18+00:00",
-   "caption": "🚨 BREAKING: Lauren Boebert loses Colorado congressional election to Eileen Laubacher\n\nRepublican Representative Lauren Boebert lost her reelection bid in Colorado to Democratic challenger Eileen Laubacher. Boebert previously changed to a more conservative district after a close race in 2022.\n\nWhat we know so far:\n• Laubacher won by a margin of less than one percent.\n• Boebert previously served three terms in Congress.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#LaurenBoebert #ColoradoElections #USPolitics #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 511,
-   "tg_file_id": "AgACAgUAAxkDAAIB_2r3c_KFj3okvB6abH_9TQjY5pgdAAIxFmsbFv24V21XEl3YUyANAQADAgADdwADPQQ",
-   "queued_at": "2026-11-13T20:32:50.444663+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-13T20:32:50.444701+00:00",
-   "post_label": "🤖 Auto-posting + Reel",
-   "fb_post_id": "1413030521900096_122100655227548584",
-   "posted_at": "2026-11-13T20:33:20.930343+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 13 · 3:33 PM New York · 2:03 AM Sri Lanka\n\n<b>Lauren Boebert loses Colorado congressional election to Eileen Laubacher</b>\n<i>NBC News, The Guardian, Washington Examiner</i>\n🟢 <b>Latest:</b> 1:55 AM Sri Lanka (8 min ago) · first reported 1:28 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122100655227548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 327,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122100655227548584_1076870192027108",
-   "fb_story_id": "2060385931123762",
-   "fb_reel_id": "999418689881876",
-   "reel_status": "live",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-16T20:30:38.734486+00:00"
-  },
-  "964a05aa78": {
-   "id": "964a05aa78",
-   "headline": "Tanker collides with passenger ship on Mississippi River in New Orleans",
-   "summary": "An Atlantic Asphalt tanker collided with an American Cruise Lines passenger ship on the Mississippi River. The incident occurred in New Orleans.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "The crash happened Friday afternoon.",
-    "The passenger vessel was docked at the port."
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#NewOrleans",
-    "#MississippiRiver",
-    "#News"
-   ],
-   "sources": [
-    "Newsweek",
-    "The Hill",
-    "The Independent"
-   ],
-   "link": "https://www.newsweek.com/mississippi-river-collision-cruise-ship-tanker-new-orleans-12713679",
-   "links": [
-    [
-     "Newsweek",
-     "https://www.newsweek.com/mississippi-river-collision-cruise-ship-tanker-new-orleans-12713679"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/new-orleans-river-boat-crash-129-passengers-b3084807.html"
-    ],
-    [
-     "The Hill",
-     "https://thehill.com/policy/transportation/6219491-tanker-collides-with-riverboat-on-mississippi-river-at-port-of-new-orleans/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/New_Orleans_skyline-02_%28cropped%29.jpg/1920px-New_Orleans_skyline-02_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "thepipe26 / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Tanker collides with passenger ship on Mississippi River in New Orleans",
-    "people": [],
-    "image_query": "Mississippi River New Orleans",
-    "image_queries": [
-     "Port of New Orleans",
-     "Mississippi River waterfront",
-     "New Orleans skyline",
-     "river cruise ship"
-    ],
-    "image_style": "incident",
-    "location": "New Orleans, US",
-    "nearby_city": "Baton Rouge, Louisiana",
-    "event_query": "New Orleans riverboat tanker collision",
-    "news_time": null,
-    "label": "WORLD"
-   },
-   "created_at": "2026-11-13T20:33:16.751080+00:00",
-   "news_time": "2026-11-13T20:13:12+00:00",
-   "news_latest": "2026-11-13T20:27:00+00:00",
-   "caption": "🚨 BREAKING: Tanker collides with passenger ship on Mississippi River in New Orleans\n\nAn Atlantic Asphalt tanker collided with an American Cruise Lines passenger ship on the Mississippi River. The incident occurred in New Orleans.\n\nWhat we know so far:\n• The crash happened Friday afternoon.\n• The passenger vessel was docked at the port.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#NewOrleans #MississippiRiver #News #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 512,
-   "tg_file_id": "AgACAgUAAxkDAAICAAFq93QQyAOHyvIomjJjb38GO__VvgACMhZrGxb9uFcctk5CAAFeo3wBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-13T20:33:20.640230+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-13T20:33:20.640266+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122100656313548584",
-   "posted_at": "2026-11-13T20:33:20.930343+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 13 · 3:34 PM New York · 2:04 AM Sri Lanka\n\n<b>Tanker collides with passenger ship on Mississippi River in New Orleans</b>\n<i>Newsweek, The Hill, The Independent</i>\n🟢 <b>Latest:</b> 1:57 AM Sri Lanka (7 min ago) · first reported 1:43 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122100656313548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 329,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122100656313548584_1594436669112071",
-   "fb_story_id": "29045350641774713",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-16T20:30:38.734486+00:00"
-  },
   "443c703f0f": {
    "id": "443c703f0f",
    "headline": "Microsoft says network capacity upgrade causes global outage",
@@ -11881,6 +11693,182 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122104690779548584_1134092152713662"
+  },
+  "08b988c418": {
+   "id": "08b988c418",
+   "headline": "Sixteen Ecuadorian fishermen sue United States over boat strike",
+   "summary": "Sixteen Ecuadorian fishermen filed a lawsuit against the Trump administration regarding a boat strike in March. The legal action targets a United States military campaign.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Sixteen fishermen filed the lawsuit",
+    "The strike occurred in March",
+    "The campaign has killed over 240 people"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#WorldNews",
+    "#USMilitary",
+    "#Ecuador"
+   ],
+   "sources": [
+    "New York Times",
+    "UPI"
+   ],
+   "link": "https://www.upi.com/Top_News/World-News/2026/11/17/latam-ecuador-us-fishermen-lawsuit/5281794945951/",
+   "links": [
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/World-News/2026/11/17/latam-ecuador-us-fishermen-lawsuit/5281794945951/"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/17/world/americas/trump-us-boat-strikes-lawsuit-ecuador-fishermen.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Fishing_Vessel_FH19%2C_Hooe_Lake%2C_Plymouth.jpg/1920px-Fishing_Vessel_FH19%2C_Hooe_Lake%2C_Plymouth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": ".mw-parser-output .messagebox{margin:4px 0;width:auto;border / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 7,
+      "shows": "small blue fishing boat"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "Sixteen Ecuadorian fishermen sue United States over boat strike",
+    "people": [],
+    "image_query": "Supreme Court building",
+    "image_queries": [
+     "Pentagon building",
+     "Pacific Ocean",
+     "fishing boat",
+     "courtroom"
+    ],
+    "image_style": "incident",
+    "location": "Quito, Ecuador",
+    "nearby_city": "Quito, Ecuador",
+    "event_query": "Ecuadorian fishermen lawsuit",
+    "topic_photo": "fishing boat",
+    "label": "CONFLICT",
+    "action_subject": "fishing vessel",
+    "news_time": "2026-11-17T18:26:38+00:00"
+   },
+   "created_at": "2026-11-17T20:32:01.525547+00:00",
+   "news_time": "2026-11-17T18:26:38+00:00",
+   "news_latest": "2026-11-17T20:20:43+00:00",
+   "importance": 6,
+   "caption": "Sixteen Ecuadorian fishermen sue United States over boat strike\n\nSixteen Ecuadorian fishermen filed a lawsuit against the Trump administration regarding a boat strike in March. The legal action targets a United States military campaign.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WorldNews #USMilitary #Ecuador #7SeasNews",
+   "photo_line": "📷 7/10 small blue fishing boat · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 765,
+   "tg_file_id": "AgACAgUAAxkDAAIC_Wr8ucPQtGZJy9eeh3jYFd0NhGsoAAJbFGsbguzoV4cpk8aE9qzSAQADAgADdwADPQQ",
+   "queued_at": "2026-11-17T20:32:04.321538+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-17T20:32:04.321569+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122104715385548584",
+   "posted_at": "2026-11-17T20:32:52.946462+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 17 · 3:33 PM New York · 2:03 AM Sri Lanka\n\n<b>Sixteen Ecuadorian fishermen sue United States over boat strike</b>\n<i>New York Times, UPI</i>\n🟢 <b>Latest:</b> 1:50 AM Sri Lanka (12 min ago) · first reported 11:56 PM\n📷 7/10 small blue fishing boat · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122104715385548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 480,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122104715385548584_1676006644016658"
+  },
+  "399fd9cdcf": {
+   "id": "399fd9cdcf",
+   "headline": "Israeli settlers shoot and kill Palestinian woman near Jericho",
+   "summary": "A 72-year-old Palestinian woman was shot dead by Israeli settlers outside her home in the West Bank. Residents report that settlers fired toward houses, wounding several other people.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "The incident occurred in al-Duyuk al-Tahta near Jericho",
+    "The victim was identified as Fadha Wadha or Fadda Mohammed Fheidat",
+    "Several other Palestinians including her son were wounded"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#WestBank",
+    "#Jericho",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "The Guardian"
+   ],
+   "link": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say",
+   "links": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/17/jerusalem-daily-deadly-settler-pogroms-persist?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "map",
+    "photos": [],
+    "location": "Jericho, West Bank",
+    "lat": 31.85611111,
+    "lon": 35.46,
+    "country": "Palestine",
+    "state": ""
+   },
+   "img_post": {
+    "headline": "Israeli settlers shoot and kill Palestinian woman near Jericho",
+    "people": [],
+    "image_query": "Jericho landscape",
+    "image_queries": [
+     "West Bank landscape",
+     "Jericho street",
+     "West Bank road",
+     "Palestinian village"
+    ],
+    "image_style": "incident",
+    "location": "Jericho, West Bank",
+    "nearby_city": "Jerusalem, Israel",
+    "event_query": "West Bank village shooting",
+    "topic_photo": "hospital corridor",
+    "label": "CONFLICT",
+    "action_subject": "police officers at work",
+    "news_time": "2026-11-17T15:49:11+00:00"
+   },
+   "created_at": "2026-11-17T20:32:51.211533+00:00",
+   "news_time": "2026-11-17T15:49:11+00:00",
+   "news_latest": "2026-11-17T20:21:48+00:00",
+   "importance": 7,
+   "caption": "Israeli settlers shoot and kill Palestinian woman near Jericho\n\nA 72-year-old Palestinian woman was shot dead by Israeli settlers outside her home in the West Bank. Residents report that settlers fired toward houses, wounding several other people.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WestBank #Jericho #WorldNews #7SeasNews",
+   "photo_line": "📷 news map (no fitting photo)",
+   "status": "posted",
+   "tg_message_id": 766,
+   "tg_file_id": "AgACAgUAAxkDAAIC_mr8ufQEJhtiGcthMKfb_atOjHQvAAJcFGsbguzoV2-3g6k4wgmBAQADAgADdwADPQQ",
+   "queued_at": "2026-11-17T20:32:52.589367+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-17T20:32:52.589390+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122104715547548584",
+   "posted_at": "2026-11-17T20:32:52.946462+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 17 · 3:33 PM New York · 2:03 AM Sri Lanka\n\n<b>Israeli settlers shoot and kill Palestinian woman near Jericho</b>\n<i>Al Jazeera, The Guardian</i>\n🟢 <b>Latest:</b> 1:51 AM Sri Lanka (11 min ago) · first reported 9:19 PM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122104715547548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 481,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122104715547548584_3387565251633967"
   }
  },
  "seen_links": [
@@ -13226,7 +13214,14 @@
   "https://www.aljazeera.com/news/2026/11/17/jeffries-shifts-strategy-amid-growing-democratic-divisions-in-us-house?traffic_source=rss",
   "https://www.axios.com/2026/11/17/hakeem-jeffries-speaker-vote-house-democrats",
   "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests?traffic_source=rss",
-  "https://www.france24.com/en/france/20261117-new-french-pay-protests-bring-tens-of-thousands-onto-the-streets"
+  "https://www.france24.com/en/france/20261117-new-french-pay-protests-bring-tens-of-thousands-onto-the-streets",
+  "https://www.upi.com/Top_News/World-News/2026/11/17/latam-ecuador-us-fishermen-lawsuit/5281794945951/",
+  "https://www.nytimes.com/2026/11/17/world/americas/trump-us-boat-strikes-lawsuit-ecuador-fishermen.html",
+  "https://www.nytimes.com/2026/11/17/us/politics/ukraine-russia-europe-trump.html",
+  "https://www.nbcnews.com/world/europe/europe-danger-vladimir-putin-ukraine-war-nato-security-architecture-rcna609558",
+  "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say",
+  "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/17/jerusalem-daily-deadly-settler-pogroms-persist?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -15672,19 +15667,88 @@
     "suspect"
    ],
    "f283b74baa"
+  ],
+  [
+   "2026-11-17T20:32:04.321387+00:00",
+   [
+    "administration",
+    "alleg",
+    "boat",
+    "dron",
+    "ecuadorean",
+    "ecuadorian",
+    "fishermen",
+    "pacific",
+    "strik",
+    "sue",
+    "surviv",
+    "trump"
+   ],
+   "08b988c418"
+  ],
+  [
+   "2026-11-17T20:32:06.750025+00:00",
+   [
+    "danger",
+    "deep",
+    "demand",
+    "enmity",
+    "europ",
+    "kremlin",
+    "putin",
+    "run",
+    "russia",
+    "see",
+    "talk",
+    "trap",
+    "ukrain",
+    "vladimir"
+   ],
+   "skipped"
+  ],
+  [
+   "2026-11-17T20:32:52.589234+00:00",
+   [
+    "10",
+    "72",
+    "bank",
+    "british",
+    "daily",
+    "dead",
+    "deadly",
+    "developer",
+    "firm",
+    "government",
+    "health",
+    "israeli",
+    "jericho",
+    "jerusalem",
+    "kill",
+    "ministry",
+    "near",
+    "palestinian",
+    "peopl",
+    "persist",
+    "pogrom",
+    "sanction",
+    "settlement",
+    "settler",
+    "shot",
+    "west",
+    "witness",
+    "woman",
+    "wound"
+   ],
+   "399fd9cdcf"
   ]
  ],
- "last_draft_at": "2026-11-17T20:16:00.794356+00:00",
+ "last_draft_at": "2026-11-17T20:31:27.274170+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-17T19:46:11.612430+00:00",
  "run_log": [
-  "11-17 18:01:15 run start",
-  "11-17 18:07:21 listening 5 min",
-  "11-17 18:12:47 listening done",
-  "11-17 18:12:47 run end after 692 s",
   "11-17 18:15:42 run start",
   "11-17 18:19:04 listening 8 min",
   "11-17 18:27:28 listening done",
@@ -15720,12 +15784,15 @@
   "11-17 20:16:00 run start",
   "11-17 20:16:10 listening 11 min",
   "11-17 20:27:30 listening done",
-  "11-17 20:27:30 run end after 689 s"
+  "11-17 20:27:30 run end after 689 s",
+  "11-17 20:31:26 run start",
+  "11-17 20:33:36 listening 9 min",
+  "11-17 20:42:51 listening done",
+  "11-17 20:42:51 run end after 685 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Ro_Khanna%2C_official_portrait%2C_115th_Congress_%283x4%29_%28cropped%29.jpg/1280px-Ro_Khanna%2C_official_portrait%2C_115th_Congress_%283x4%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Police_Car_Bulgaria_Sofia_IMG_0379.jpg/1920px-Police_Car_Bulgaria_Sofia_IMG_0379.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/5/5d/21.09.26_-_Audi%C3%AAncia_ao_Prefeito_da_Cidade_de_Nova_York%2C_Zohran_Mamdani_-_55541336047_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/United_States_Treasury_building_2023.jpg/1920px-United_States_Treasury_building_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -15764,7 +15831,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/COP31_-_Gavin_Newsom_04.jpg/1280px-COP31_-_Gavin_Newsom_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/d/da/Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/3/37/US_Capitol_Dome_High_Res_Jan_2006.jpg",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/WikimediaServersOct07_1.JPG/1920px-WikimediaServersOct07_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/WikimediaServersOct07_1.JPG/1920px-WikimediaServersOct07_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Fishing_Vessel_FH19%2C_Hooe_Lake%2C_Plymouth.jpg/1920px-Fishing_Vessel_FH19%2C_Hooe_Lake%2C_Plymouth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "ben ferguson": {
@@ -19114,7 +19182,6 @@
    }
   },
   "recent_ideas": [
-   "military checkpoint",
    "courtroom",
    "judge gavel",
    "us capitol building",
@@ -19125,7 +19192,8 @@
    "courtroom",
    "supreme court building",
    "us capitol dome",
-   "computer servers"
+   "computer servers",
+   "fishing vessel"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -19402,6 +19470,36 @@
     "s": 3,
     "w": "London skyline",
     "p": "shows a city skyline instead of the military personnel"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Fishing_Vessel_FH19%2C_Hooe_Lake%2C_Plymouth.jpg/1920px-Fishing_Vessel_FH19%2C_Hooe_Lake%2C_Plymouth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|f80ab589": {
+    "s": 7,
+    "w": "small blue fishing boat",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/IMG7218_Notarzteinsatzfahrzeug_Wei%C3%9Fes_Kreuz_Bozen%2C_Mercedes-Benz_M-Class%2C_WK419%2C_Front_Left%2C_2019.jpg/1920px-IMG7218_Notarzteinsatzfahrzeug_Wei%C3%9Fes_Kreuz_Bozen%2C_Mercedes-Benz_M-Class%2C_WK419%2C_Front_Left%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|f80ab589": {
+    "s": 0,
+    "w": "emergency response vehicle",
+    "p": "photo is a car, not a fishing vessel"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Cptn._%28B%29_Msc._Giovanni_Zamora_Orbe.jpg/1920px-Cptn._%28B%29_Msc._Giovanni_Zamora_Orbe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|f80ab589": {
+    "s": 0,
+    "w": "military officer in red uniform",
+    "p": "shows a person instead of the fishing vessel or firefighters from the story"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Bruneian_police_officer_in_Belait.jpg/1920px-Bruneian_police_officer_in_Belait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|cdf4f101": {
+    "s": 0,
+    "w": "man in police uniform",
+    "p": "photo is of an individual officer, unrelated to the conflict in Jericho"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Red-cheeked_cordon-bleu_%28Uraeginthus_bengalus_bengalus%29_female.jpg/1920px-Red-cheeked_cordon-bleu_%28Uraeginthus_bengalus_bengalus%29_female.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|cdf4f101": {
+    "s": 0,
+    "w": "bird on the ground",
+    "p": "photo shows a bird instead of police officers or the story action"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Lincs_%26_Notts_Air_Ambulance_Crew.jpg/1920px-Lincs_%26_Notts_Air_Ambulance_Crew.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|cdf4f101": {
+    "s": 0,
+    "w": "ambulance crew with helicopter",
+    "p": "wrong context/event and location"
    }
   }
  },
@@ -19412,10 +19510,10 @@
   "2026-11-14": 18,
   "2026-11-15": 19,
   "2026-11-16": 32,
-  "2026-11-17": 26
+  "2026-11-17": 28
  },
- "last_auto_at": "2026-11-17T19:48:44.163393+00:00",
- "last_post_at": "2026-11-17T19:49:10.195549+00:00",
+ "last_auto_at": "2026-11-17T20:32:52.946462+00:00",
+ "last_post_at": "2026-11-17T20:33:26.365929+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
