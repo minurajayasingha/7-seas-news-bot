@@ -13778,7 +13778,9 @@
   "https://www.washingtonpost.com/politics/2026/11/16/trump-takes-less-secure-plane-china/",
   "https://www.independent.co.uk/news/world/americas/us-politics/trump-qatar-jet-china-philippines-security-b3085840.html",
   "https://thehill.com/homenews/senate/6223162-whip-schumer-van-hollen-leadership-race/",
-  "https://www.foxnews.com/politics/follow-leader-democrats-face-party-battle-divisions-deepen"
+  "https://www.foxnews.com/politics/follow-leader-democrats-face-party-battle-divisions-deepen",
+  "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
+  "https://abcnews.com/International/wireStory/paraguays-ousted-president-moved-military-prison-after-reports-138186878"
  ],
  "recent_topics": [
   [
@@ -15730,17 +15732,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-16T23:57:49.350320+00:00",
+ "last_draft_at": "2026-11-17T00:10:19.975497+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 8,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-16T23:30:51.738503+00:00",
  "run_log": [
-  "11-16 21:45:38 run start",
-  "11-16 21:45:48 listening 11 min",
-  "11-16 21:57:08 listening done",
-  "11-16 21:57:08 run end after 689 s",
   "11-16 22:01:12 run start",
   "11-16 22:01:13 listening 11 min",
   "11-16 22:12:56 listening done",
@@ -15776,7 +15774,11 @@
   "11-16 23:57:49 run start",
   "11-16 23:58:08 listening 11 min",
   "11-17 00:09:27 listening done",
-  "11-17 00:09:27 run end after 698 s"
+  "11-17 00:09:27 run end after 698 s",
+  "11-17 00:10:19 run start",
+  "11-17 00:12:07 listening 10 min",
+  "11-17 00:21:46 listening done",
+  "11-17 00:21:46 run end after 687 s"
  ],
  "day_pack_done": "2026-11-15",
  "photo_memory": {
