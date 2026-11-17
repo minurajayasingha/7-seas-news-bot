@@ -1,18 +1,23 @@
 {
  "2026-11-16": {
-  "built_at": "2026-11-17T09:31:31.682248+00:00",
-  "test": true,
+  "built_at": "2026-11-17T17:06:10.196214+00:00",
+  "test": false,
   "parts": [
    {
-    "name": "CONFLICT & DIPLOMA",
-    "post_at": "2026-11-17T12:55:00+00:00",
+    "name": "WAR & CONFLICT",
+    "of": 3,
+    "post_at": "2026-11-17T17:25:00+00:00",
     "stories": 9,
-    "seconds": 49.8,
+    "seconds": 44.6,
     "fb": {
-     "state": "test"
+     "id": "2201202817416642",
+     "state": "scheduled",
+     "caption": "Ukraine strikes oil refinery. US deploys third carrier.\n\nWAR & CONFLICT · Monday's top stories · Part 1/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#warnews #ukraine #7seasnews #news"
     },
     "yt": {
-     "state": "test"
+     "id": "kTN7osGJsPE",
+     "state": "scheduled",
+     "url": "https://youtube.com/shorts/kTN7osGJsPE"
     },
     "tt": {
      "state": "sent"
@@ -20,14 +25,19 @@
    },
    {
     "name": "US NEWS",
-    "post_at": "2026-11-17T14:55:00+00:00",
+    "of": 3,
+    "post_at": "2026-11-17T17:55:00+00:00",
     "stories": 12,
-    "seconds": 65.4,
+    "seconds": 57.2,
     "fb": {
-     "state": "test"
+     "id": "2678690815981090",
+     "state": "scheduled",
+     "caption": "Miller and Rubio ally. California sues OpenAI.\n\nUS NEWS · Monday's top stories · Part 2/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#usnews #7seasnews #news"
     },
     "yt": {
-     "state": "test"
+     "id": "LnpO2TW_dUg",
+     "state": "scheduled",
+     "url": "https://youtube.com/shorts/LnpO2TW_dUg"
     },
     "tt": {
      "state": "sent"
@@ -35,14 +45,19 @@
    },
    {
     "name": "WORLD NEWS",
-    "post_at": "2026-11-17T16:55:00+00:00",
+    "of": 3,
+    "post_at": "2026-11-17T18:25:00+00:00",
     "stories": 10,
-    "seconds": 53.5,
+    "seconds": 47.2,
     "fb": {
-     "state": "test"
+     "id": "2280374765865785",
+     "state": "scheduled",
+     "caption": "Seventeen killed in SA. Jordan bans Telegram.\n\nWORLD NEWS · Monday's top stories · Part 3/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#worldnews #7seasnews #news"
     },
     "yt": {
-     "state": "test"
+     "id": "COICAcjoAkY",
+     "state": "scheduled",
+     "url": "https://youtube.com/shorts/COICAcjoAkY"
     },
     "tt": {
      "state": "sent"
