@@ -68,9 +68,10 @@ Rows 1635–1919 are filled with (8,8,8).
 
 Never use "Follow for Part 2" or "next part".
 
-## Sounds (synthesized, `build_audio`)
+## Sounds (the bot's own Reel sounds, `main.roundup_audio`)
 - boom: at the cover
-- key: one click per typed letter
-- whoosh: at every swipe out
+- key: the Reel typing click for every typed letter (a softer click for spaces)
+- whoosh: the Reel whoosh at every swipe to the next story
 
-The mix is normalised to peak 0.9, stereo, 44.1 kHz. Music is not built in (the owner adds it in the apps).
+Same sounds as the single-story Reels (REEL_TYPING_SOUND / REEL_SOUND_VOLUME in settings.py). Music is not built in
+(the owner adds it in the apps).

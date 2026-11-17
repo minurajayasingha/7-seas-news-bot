@@ -9,7 +9,7 @@ This file is the single source of truth for how the daily roundup looks:
   - typing_frame()      headline typed so far + red cursor
   - wipe()              red swipe transition
   - end_frame()         last frame "FOLLOW FOR MORE", 1080×1920
-  - build_audio()       boom / typing clicks / whoosh (synthesized, no music files)
+  - sounds: the bot's own Reel sounds, main.roundup_audio() (not in this file)
   - TIMING              all durations
 
 Everything is drawn with Pillow at the final size. Fonts: Poppins Bold / SemiBold / Medium (.ttf).
@@ -17,9 +17,7 @@ Everything is drawn with Pillow at the final size. Fonts: Poppins Bold / SemiBol
 import math
 import os
 import random
-import wave
 
-import numpy as np
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 # ---------------------------------------------------------------- sizes & colours
@@ -339,55 +337,8 @@ def end_frame(logo_path):
 
 
 # ---------------------------------------------------------------- sounds
-SR = 44100
-
-
-def _bandnoise(n, lo, hi, rng):
-    x = rng.standard_normal(n)
-    X = np.fft.rfft(x)
-    fq = np.fft.rfftfreq(n, 1 / SR)
-    X[(fq < lo) | (fq > hi)] = 0
-    return np.fft.irfft(X, n)
-
-
-def build_audio(events, duration_s, path):
-    """events: list of (seconds, 'boom' | 'key' | 'whoosh').
-    boom = at the cover; key = one per typed non-space character; whoosh = at the start of every swipe-out
-    (played 0.12 s early). Writes a 44.1 kHz stereo WAV."""
-    rng = np.random.default_rng(7)
-    a = np.zeros(int((duration_s + 1) * SR))
-    for t, kind in events:
-        s0 = int(t * SR)
-        if kind == "key":
-            n = int(0.035 * SR)
-            c = _bandnoise(n, 1800, 6000, rng) * np.exp(-np.linspace(0, 9, n))
-            c = c / (np.abs(c).max() + 1e-9) * rng.uniform(0.10, 0.17)
-            s0 += int(rng.uniform(0, 0.01) * SR)
-        elif kind == "whoosh":
-            n = int(0.55 * SR)
-            out = np.zeros(n)
-            for b in range(0, n, 1024):
-                fc = 300 + 2600 * np.sin(np.pi * b / n) ** 2
-                seg = _bandnoise(min(1024, n - b), fc * 0.6, fc * 1.6, rng)
-                out[b:b + len(seg)] = seg
-            c = out * np.sin(np.pi * np.linspace(0, 1, n)) ** 1.5
-            c = c / (np.abs(c).max() + 1e-9) * 0.42
-            s0 -= int(0.12 * SR)
-        else:  # boom
-            n = int(1.2 * SR)
-            tt = np.linspace(0, 1.2, n)
-            c = np.sin(2 * np.pi * (55 * tt + 25 * np.exp(-tt * 6))) * np.exp(-tt * 3.5) * 0.6
-            c += _bandnoise(n, 60, 400, rng) * np.exp(-tt * 12) * 0.02
-        s0 = max(0, s0)
-        a[s0:s0 + len(c)] += c[: len(a) - s0]
-    a = a[: int(duration_s * SR)]
-    a = np.clip(a / max(1.0, np.abs(a).max() / 0.9), -1, 1)
-    st = np.repeat((a * 32767).astype(np.int16)[:, None], 2, axis=1)
-    with wave.open(path, "wb") as w:
-        w.setnchannels(2)
-        w.setsampwidth(2)
-        w.setframerate(SR)
-        w.writeframes(st.tobytes())
+# The roundup uses the bot's OWN Reel sounds (owner's choice, Nov 17 2026): main.roundup_audio() — boom at the
+# cover, the Reel key click per typed character, the Reel whoosh at every swipe. No second set of sounds here.
 
 
 # ---------------------------------------------------------------- golden images (self-test)

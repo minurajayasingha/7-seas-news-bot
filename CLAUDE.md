@@ -67,7 +67,8 @@ Never South Asia news. Real, verified news only: a story needs 2+ different outl
   albums (≥2 per album); then ONE backup zip (texts, covers, full slides). results[n]["tt"] = TikTok status.
   mp4s → bot chat only on upload failure or test; report → bot chat only in tests (main sends the daily report).
 - Roundup design: see `docs/ROUNDUP_DESIGN.md` + `bot/roundup_design.py` (the ONLY place for roundup look/size/timing
-  numbers: covers, cover_9x16, story_canvas, draw_counter, typing_frame, wipe, end_frame, build_audio, TIMING; never
+  numbers: covers, cover_9x16, story_canvas, draw_counter, typing_frame, wipe, end_frame, TIMING; sounds = the bot's own Reel
+  sounds via main.roundup_audio (boom, Reel key click per letter, Reel whoosh per swipe); never
   copy its numbers elsewhere, never "improve" them). roundup.py only calls it; story typing uses render_image's own
   layout (+OY 285). Golden test must pass: `python tests/test_roundup_design.py` (pixel-exact vs tests/golden/, needs
   Pillow with raqm — Mac: brew install fribidi + DYLD_FALLBACK_LIBRARY_PATH=/opt/homebrew/lib); roundup.yml runs it

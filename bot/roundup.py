@@ -188,8 +188,8 @@ def make_part_video(day, n, part, posts, cover_4x5):
                 shown = min(total_c, int((f + 1) / tn * total_c))
                 before = min(total_c, int(f / tn * total_c))
                 for c in range(before, shown):
-                    if not text[c].isspace():
-                        events.append(((len(plan) + (c - before) / max(1, shown - before)) / FR, "key"))
+                    events.append(((len(plan) + (c - before) / max(1, shown - before)) / FR,
+                                   "space" if text[c].isspace() else "key"))
                 plan.append(lambda i=i, s=shown: frame_at(i, s, True))
             full = total_c
         else:
@@ -206,7 +206,7 @@ def make_part_video(day, n, part, posts, cover_4x5):
     ff = M.ffmpeg_exe()
     with tempfile.TemporaryDirectory() as tmp:
         wav, out = os.path.join(tmp, "sound.wav"), os.path.join(tmp, "part.mp4")
-        RD.build_audio(events, seconds, wav)
+        M.roundup_audio(events, seconds, wav)           # the bot's own Reel sounds
         cmd = [ff, "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{RD.W}x{RD.VID_H}",
                "-r", str(FR), "-i", "-", "-i", wav]
         mus = music_file()

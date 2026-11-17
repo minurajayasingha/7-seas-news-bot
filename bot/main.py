@@ -1267,6 +1267,40 @@ def reel_audio(seconds, key_times, breaking, whoosh_at):
     return mem.getvalue()
 
 
+def _boom():
+    """Low boom under the roundup's opening cover."""
+    n = int(1.2 * AUDIO_SR)
+    return [math.sin(2 * math.pi * (42 + 30 * math.exp(-(k / AUDIO_SR) / 0.15)) * (k / AUDIO_SR))
+            * math.exp(-(k / AUDIO_SR) / 0.45) * min(1.0, (k / AUDIO_SR) / 0.01) * 0.95 for k in range(n)]
+
+
+def roundup_audio(events, seconds, path):
+    """Roundup video sound = the bot's own Reel sounds (owner's choice): boom at the cover, the Reel key click per
+    typed character (softer for spaces), the Reel whoosh at every swipe. events: (seconds, "boom"|"key"|"space"|
+    "whoosh"). Writes a mono 16-bit WAV."""
+    import wave
+    import array
+    buf = [0.0] * int(seconds * AUDIO_SR)
+    rng = random.Random(len(events))
+    click = {False: [_key_click(rng) for _ in range(6)], True: [_key_click(rng, True) for _ in range(3)]}
+    wh = _whoosh(0.5)
+    for t, kind in events:
+        if kind == "boom":
+            _add(buf, t, _boom())
+        elif kind in ("key", "space") and REEL_TYPING_SOUND:
+            _add(buf, t + rng.uniform(-0.006, 0.006), rng.choice(click[kind == "space"]))
+        elif kind == "whoosh":
+            _add(buf, max(0.0, t - 0.1), wh)
+    peak = max(1e-9, max(abs(v) for v in buf))
+    gain = min(1.0, 0.89 / peak) * max(0.0, min(1.0, REEL_SOUND_VOLUME))
+    pcm = array.array("h", (int(max(-1.0, min(1.0, v * gain)) * 32767) for v in buf))
+    with wave.open(path, "wb") as w:
+        w.setnchannels(1)
+        w.setsampwidth(2)
+        w.setframerate(AUDIO_SR)
+        w.writeframes(pcm.tobytes())
+
+
 REEL_COVER = {}      # cover picture (full headline) of the last Reel made, sent to Facebook as its thumbnail
 COVER_FRAMES = 3     # the first 0.1 s shows the full headline: Facebook's default cover is the first frame
 
