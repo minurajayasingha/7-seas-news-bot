@@ -1,278 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "6f13c1c292": {
-   "id": "6f13c1c292",
-   "headline": "Supreme Court Justice Samuel Alito warns about congressional funding power",
-   "summary": "Supreme Court Justice Samuel Alito stated in Washington, D.C., that Congress holds the power to defund the high court and halt its operations. Alito expressed concern regarding the potential use of this financial authority against the judiciary.",
-   "label": "US POLITICS",
-   "hook": "Should Congress have the power to defund the Supreme Court?",
-   "key_points": [
-    "Alito spoke at an event in Washington, D.C.",
-    "He mentioned some lower court judges have gone far astray"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#SupremeCourt",
-    "#USCongress",
-    "#USPolitics"
-   ],
-   "sources": [
-    "Fox News",
-    "NBC News"
-   ],
-   "link": "https://www.nbcnews.com/politics/supreme-court/alito-trump-congress-emergency-docket-funding-midterms-rcna609169",
-   "links": [
-    [
-     "NBC News",
-     "https://www.nbcnews.com/politics/supreme-court/alito-trump-congress-emergency-docket-funding-midterms-rcna609169"
-    ],
-    [
-     "Fox News",
-     "https://www.foxnews.com/politics/alito-warns-against-congressional-supreme-court-meddling-says-some-lower-court-judges-have-gone-far-astray"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Samuel_Alito_official_photo.jpg/1280px-Samuel_Alito_official_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Collection of the Supreme Court of the United States, Photog / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Supreme Court Justice Samuel Alito warns about congressional funding power",
-    "people": [
-     "Samuel Alito"
-    ],
-    "image_query": "Supreme Court building",
-    "image_queries": [
-     "US Capitol building",
-     "Senate chamber",
-     "Supreme Court courtroom",
-     "Capitol Hill"
-    ],
-    "image_style": "person",
-    "location": "Washington, D.C., US",
-    "nearby_city": "Washington, D.C.",
-    "event_query": "Supreme Court building Washington DC",
-    "news_time": null,
-    "label": "US POLITICS"
-   },
-   "created_at": "2026-11-13T18:15:48.762345+00:00",
-   "news_time": "2026-11-13T14:35:53+00:00",
-   "news_latest": "2026-11-13T17:56:25+00:00",
-   "caption": "Supreme Court Justice Samuel Alito warns about congressional funding power\n\nSupreme Court Justice Samuel Alito stated in Washington, D.C., that Congress holds the power to defund the high court and halt its operations. Alito expressed concern regarding the potential use of this financial authority against the judiciary.\n\n💬 Should Congress have the power to defund the Supreme Court?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#SupremeCourt #USCongress #USPolitics #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 501,
-   "tg_file_id": "AgACAgUAAxkDAAIB9Wr3U9ng3OdU7tXdg1MFnTACaowYAAIPFmsbFv24V8PpmrWp8HZJAQADAgADdwADPQQ",
-   "queued_at": "2026-11-13T18:15:54.097735+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-13T18:15:54.097784+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122100581997548584",
-   "posted_at": "2026-11-13T18:16:57.904601+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 13 · 1:17 PM New York · 11:47 PM Sri Lanka\n\n<b>Supreme Court Justice Samuel Alito warns about congressional funding power</b>\n<i>Fox News, NBC News</i>\n🟢 <b>Latest:</b> 11:26 PM Sri Lanka (20 min ago) · first reported 8:05 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122100581997548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 318,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122100581997548584_1132917485896597",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-16T17:30:43.708345+00:00"
-  },
-  "8d4419d1ea": {
-   "id": "8d4419d1ea",
-   "headline": "Jensen Huang resigns from Nvidia following reported affairs",
-   "summary": "Nvidia CEO Jensen Huang resigned after reported affairs with an executive and a woman alleged to be a Chinese spy. US lawmakers summoned Huang to answer questions in December regarding his relationship with President Donald Trump and lobbying efforts concerning advanced AI chip sales to China.",
-   "label": "ECONOMY",
-   "hook": "",
-   "key_points": [
-    "Huang served as a close informal adviser to Donald Trump.",
-    "US lawmakers scheduled questioning for Huang in December.",
-    "Criticism focuses on the response from US commerce secretary Howard Lutnick."
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#Nvidia",
-    "#JensenHuang",
-    "#TechNews"
-   ],
-   "sources": [
-    "France 24",
-    "The Guardian"
-   ],
-   "link": "https://www.theguardian.com/news/audio/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest",
-   "links": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/news/audio/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/video/20261113-nvidia-scandal-how-close-was-ex-ceo-to-trump"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Jensen_Huang_20231109_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "總統府 / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Jensen Huang resigns from Nvidia following reported affairs",
-    "people": [
-     "Jensen Huang"
-    ],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "White House",
-     "Senate chamber",
-     "corporate headquarters",
-     "technology center"
-    ],
-    "image_style": "person",
-    "location": "United States",
-    "nearby_city": "Washington, D.C.",
-    "event_query": "US Congress hearing",
-    "news_time": null,
-    "label": "ECONOMY"
-   },
-   "created_at": "2026-11-13T18:15:58.112953+00:00",
-   "news_time": "2026-11-13T15:50:41+00:00",
-   "news_latest": "2026-11-13T17:43:20+00:00",
-   "caption": "🚨 BREAKING: Jensen Huang resigns from Nvidia following reported affairs\n\nNvidia CEO Jensen Huang resigned after reported affairs with an executive and a woman alleged to be a Chinese spy. US lawmakers summoned Huang to answer questions in December regarding his relationship with President Donald Trump and lobbying efforts concerning advanced AI chip sales to China.\n\nWhat we know so far:\n• Huang served as a close informal adviser to Donald Trump.\n• US lawmakers scheduled questioning for Huang in December.\n• Criticism focuses on the response from US commerce secretary Howard Lutnick.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Nvidia #JensenHuang #TechNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 502,
-   "tg_file_id": "AgACAgUAAxkDAAIB9mr3U-9_fuK0SvglW2v1bCOYbArQAAIQFmsbFv24Vw1kXrm854i4AQADAgADdwADPQQ",
-   "extra_msgs": [],
-   "dup_ok": true,
-   "queued_at": "2026-11-13T18:55:23.140988+00:00",
-   "post_now": true,
-   "post_at": "2026-11-13T18:55:23.141002+00:00",
-   "post_label": "🚀 Posting now",
-   "fb_post_id": "1413030521900096_122100605055548584",
-   "posted_at": "2026-11-13T18:55:23.448398+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 13 · 1:55 PM New York · 12:25 AM Sri Lanka\n\n<b>Jensen Huang resigns from Nvidia following reported affairs</b>\n<i>France 24, The Guardian</i>\n🟡 <b>Latest:</b> 11:13 PM Sri Lanka (1h 12m ago) · first reported 9:20 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122100605055548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 321,
-   "log_photo": true,
-   "cleared": true,
-   "fb_comment_id": "122100605055548584_1148234441220604",
-   "fb_story_id": "1174893525046650",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-16T18:31:30.312240+00:00"
-  },
-  "095af91c8b": {
-   "id": "095af91c8b",
-   "headline": "Protesters interrupt Hakeem Jeffries at Denver Democratic conference",
-   "summary": "Protesters interrupted House Minority Leader Hakeem Jeffries during a panel discussion at a Democratic conference in Denver. Audience members questioned his decisions regarding progressive priorities and a possible impeachment of President Trump.",
-   "label": "US POLITICS",
-   "hook": "Should congressional leaders prioritize progressive policies during party conferences?",
-   "key_points": [
-    "The event was the 'What's Next' conference in Denver.",
-    "Jessica Tarlov moderated the panel discussion.",
-    "Protesters shouted questions about progressive priorities."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#HakeemJeffries",
-    "#USPolitics",
-    "#Denver"
-   ],
-   "sources": [
-    "NBC News",
-    "Washington Examiner"
-   ],
-   "link": "https://www.washingtonexaminer.com/news/house/4802890/hakeem-jeffries-panel-disrupted-progressive-protesters/",
-   "links": [
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/news/house/4802890/hakeem-jeffries-panel-disrupted-progressive-protesters/"
-    ],
-    [
-     "NBC News",
-     "https://www.nbcnews.com/video/protesters-interrupt-rep-jeffries-at-democrats-what-s-next-conference-273458245517"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Denver_Convention_Center_%284931093135%29.jpg/1920px-Denver_Convention_Center_%284931093135%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Paul Sableman / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ],
-    "inset": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Hakeem_Jeffries_%2854105691671%29.jpg/1280px-Hakeem_Jeffries_%2854105691671%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-     "short": "WIKIMEDIA COMMONS"
-    }
-   },
-   "img_post": {
-    "headline": "Protesters interrupt Hakeem Jeffries at Denver Democratic conference",
-    "people": [
-     "Hakeem Jeffries"
-    ],
-    "image_query": "Denver convention center",
-    "image_queries": [
-     "Capitol Hill",
-     "Democratic conference stage",
-     "Denver skyline",
-     "political podium"
-    ],
-    "image_style": "scene",
-    "location": "Denver, US",
-    "nearby_city": "Denver, Colorado",
-    "event_query": "Denver Democratic conference protest",
-    "news_time": null,
-    "label": "US POLITICS"
-   },
-   "created_at": "2026-11-13T18:16:55.819176+00:00",
-   "news_time": "2026-11-13T17:44:17+00:00",
-   "news_latest": "2026-11-13T17:45:46+00:00",
-   "caption": "Protesters interrupt Hakeem Jeffries at Denver Democratic conference\n\nProtesters interrupted House Minority Leader Hakeem Jeffries during a panel discussion at a Democratic conference in Denver. Audience members questioned his decisions regarding progressive priorities and a possible impeachment of President Trump.\n\n💬 Should congressional leaders prioritize progressive policies during party conferences?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#HakeemJeffries #USPolitics #Denver #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 504,
-   "tg_file_id": "AgACAgUAAxkDAAIB-Gr3VBkEAQUVSmOa16ngW7KK6GZIAAIRFmsbFv24V2Orp_hgzvW-AQADAgADdwADPQQ",
-   "queued_at": "2026-11-13T18:16:57.607305+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-13T18:16:57.607351+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122100582687548584",
-   "posted_at": "2026-11-13T18:16:57.904601+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 13 · 1:17 PM New York · 11:47 PM Sri Lanka\n\n<b>Protesters interrupt Hakeem Jeffries at Denver Democratic conference</b>\n<i>NBC News, Washington Examiner</i>\n🟢 <b>Latest:</b> 11:15 PM Sri Lanka (31 min ago) · first reported 11:14 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122100582687548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 319,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122100582687548584_1515994060590061",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-16T17:30:43.708345+00:00"
-  },
   "9eb78b77eb": {
    "id": "9eb78b77eb",
    "headline": "Gadi Eisenkot criticizes Benjamin Netanyahu over Arab hostility",
@@ -12222,6 +11950,90 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122104592637548584_1153310937279424"
+  },
+  "102e0e684e": {
+   "id": "102e0e684e",
+   "headline": "Iran-backed group warns Iraqi forces against entering Baghdad stronghold",
+   "summary": "Kataib Hezbollah has warned Iraqi government forces against entering its stronghold near Baghdad. Meanwhile, Iraqi Prime Minister ordered a crackdown on the militia, where Israeli-Russian researcher Elizabeth Tsurkov was previously held captive.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Kataib Hezbollah is an Iran-backed armed group",
+    "Elizabeth Tsurkov is an Israeli-Russian researcher",
+    "The stronghold is located near Baghdad"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Iraq",
+    "#MiddleEast",
+    "#WorldNews"
+   ],
+   "sources": [
+    "ABC News",
+    "Fox News"
+   ],
+   "link": "https://www.foxnews.com/world/ex-hostage-recounts-captivity-iran-backed-militia-stronghold-now-targeted-iraqi-prime-minister",
+   "links": [
+    [
+     "Fox News",
+     "https://www.foxnews.com/world/ex-hostage-recounts-captivity-iran-backed-militia-stronghold-now-targeted-iraqi-prime-minister"
+    ],
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/iran-backed-group-warns-iraqi-forces-entering-stronghold-138213451"
+    ]
+   ],
+   "bg": {
+    "type": "map",
+    "photos": [],
+    "location": "Baghdad, Iraq",
+    "lat": 33.31527778,
+    "lon": 44.36611111,
+    "country": "Iraq",
+    "state": ""
+   },
+   "img_post": {
+    "headline": "Iran-backed group warns Iraqi forces against entering Baghdad stronghold",
+    "people": [],
+    "image_query": "Baghdad city skyline",
+    "image_queries": [
+     "Baghdad streets",
+     "Iraqi government building",
+     "military vehicle",
+     "city outskirts"
+    ],
+    "image_style": "incident",
+    "location": "Baghdad, Iraq",
+    "nearby_city": "Baghdad, Iraq",
+    "event_query": "Iraqi military checkpoint",
+    "topic_photo": "military checkpoint",
+    "label": "CONFLICT",
+    "action_subject": "military forces with vehicles",
+    "news_time": "2026-11-17T15:20:52+00:00"
+   },
+   "created_at": "2026-11-17T18:18:37.557146+00:00",
+   "news_time": "2026-11-17T15:20:52+00:00",
+   "news_latest": "2026-11-17T18:04:00+00:00",
+   "importance": 7,
+   "caption": "Iran-backed group warns Iraqi forces against entering Baghdad stronghold\n\nKataib Hezbollah has warned Iraqi government forces against entering its stronghold near Baghdad. Meanwhile, Iraqi Prime Minister ordered a crackdown on the militia, where Israeli-Russian researcher Elizabeth Tsurkov was previously held captive.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Iraq #MiddleEast #WorldNews #7SeasNews",
+   "photo_line": "📷 news map (no fitting photo)",
+   "status": "posted",
+   "tg_message_id": 760,
+   "tg_file_id": "AgACAgUAAxkDAAIC-Gr8mn8yjud0-kB45u244Drz5pi3AAJNFGsbguzoV73vpZStqxNDAQADAgADdwADPQQ",
+   "queued_at": "2026-11-17T18:18:39.751889+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-17T18:18:39.751952+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122104604481548584",
+   "posted_at": "2026-11-17T18:18:41.626154+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 17 · 1:18 PM New York · 11:48 PM Sri Lanka\n\n<b>Iran-backed group warns Iraqi forces against entering Baghdad stronghold</b>\n<i>ABC News, Fox News</i>\n🟢 <b>Latest:</b> 11:34 PM Sri Lanka (14 min ago) · first reported 8:50 PM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122104604481548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 475,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122104604481548584_1882063406303080"
   }
  },
  "seen_links": [
@@ -13542,40 +13354,14 @@
   "https://www.washingtonexaminer.com/news/justice/4805948/california-sue-newsom-death-sentence-commute/",
   "https://www.nbcnews.com/news/us-news/gavin-newsom-sued-prosecutors-victim-rights-group-stop-mass-death-row-rcna609801",
   "https://www.foxnews.com/politics/mamdani-takes-swipe-trump-administrations-response-tech-outages-far-from-what-many-wanted-hear",
-  "https://thehill.com/homenews/administration/6225277-labor-proposes-perm-rule-changes/"
+  "https://thehill.com/homenews/administration/6225277-labor-proposes-perm-rule-changes/",
+  "https://www.foxnews.com/world/ex-hostage-recounts-captivity-iran-backed-militia-stronghold-now-targeted-iraqi-prime-minister",
+  "https://abcnews.com/International/wireStory/iran-backed-group-warns-iraqi-forces-entering-stronghold-138213451",
+  "https://www.washingtonexaminer.com/news/white-house/4805941/mullin-flew-private-to-football-game-as-millions-were-affected-by-faa-ground-stop-we-still-gotta-live-our-life/",
+  "https://www.independent.co.uk/news/world/americas/us-politics/markwayne-mullin-flight-college-football-b3086604.html",
+  "https://www.foxnews.com/politics/mullin-took-government-plane-lsu-texas-football-game-americans-stranded-wake-faa-outage-report"
  ],
  "recent_topics": [
-  [
-   "2026-11-14T18:16:33.847954+00:00",
-   [
-    "asia",
-    "asian",
-    "ballad",
-    "bangkok",
-    "carmell",
-    "contest",
-    "debut",
-    "edition",
-    "eurovision",
-    "fan",
-    "filipino",
-    "formula",
-    "geopolitic",
-    "loom",
-    "lov",
-    "meet",
-    "philippin",
-    "singer",
-    "song",
-    "storm",
-    "test",
-    "travel",
-    "victory",
-    "win",
-    "winn"
-   ],
-   "03eb88a9ba"
-  ],
   [
    "2026-11-14T19:01:47.848767+00:00",
    [
@@ -15865,19 +15651,74 @@
     "want"
    ],
    "162452e3fe"
+  ],
+  [
+   "2026-11-17T18:18:39.751689+00:00",
+   [
+    "baghdad",
+    "captivity",
+    "enter",
+    "ex-hostag",
+    "forc",
+    "group",
+    "iran-back",
+    "iraqi",
+    "militia",
+    "minister",
+    "near",
+    "now",
+    "prim",
+    "recount",
+    "stronghold",
+    "target",
+    "warn"
+   ],
+   "102e0e684e"
+  ],
+  [
+   "2026-11-17T18:18:41.626134+00:00",
+   [
+    "affect",
+    "american",
+    "chief",
+    "colleg",
+    "dhs",
+    "expos",
+    "faa",
+    "flew",
+    "football",
+    "gam",
+    "gotta",
+    "government",
+    "ground",
+    "lif",
+    "liv",
+    "lsu-texa",
+    "million",
+    "mullin",
+    "our",
+    "outag",
+    "plan",
+    "privat",
+    "recover",
+    "sabotag",
+    "still",
+    "stop",
+    "strand",
+    "took",
+    "vulnerabl",
+    "wak"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-17T18:01:16.631405+00:00",
+ "last_draft_at": "2026-11-17T18:15:42.511494+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-17T17:37:01.001642+00:00",
  "run_log": [
-  "11-17 16:00:47 run start",
-  "11-17 16:01:07 listening 11 min",
-  "11-17 16:12:26 listening done",
-  "11-17 16:12:26 run end after 698 s",
   "11-17 16:15:43 run start",
   "11-17 16:23:01 listening 4 min",
   "11-17 16:27:13 listening done",
@@ -15913,7 +15754,11 @@
   "11-17 18:01:15 run start",
   "11-17 18:07:21 listening 5 min",
   "11-17 18:12:47 listening done",
-  "11-17 18:12:47 run end after 692 s"
+  "11-17 18:12:47 run end after 692 s",
+  "11-17 18:15:42 run start",
+  "11-17 18:19:04 listening 8 min",
+  "11-17 18:27:28 listening done",
+  "11-17 18:27:28 run end after 705 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -19555,6 +19400,11 @@
     "s": 10,
     "w": "Supreme Court building",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Mitsubishi_L200_in_Bruneian_military_police_service.jpg/1920px-Mitsubishi_L200_in_Bruneian_military_police_service.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|22007386": {
+    "s": 0,
+    "w": "Malaysian military police vehicle",
+    "p": "wrong country"
    }
   }
  },
@@ -19565,10 +19415,10 @@
   "2026-11-14": 18,
   "2026-11-15": 19,
   "2026-11-16": 32,
-  "2026-11-17": 22
+  "2026-11-17": 23
  },
- "last_auto_at": "2026-11-17T18:06:59.480112+00:00",
- "last_post_at": "2026-11-17T18:07:11.468543+00:00",
+ "last_auto_at": "2026-11-17T18:18:41.626154+00:00",
+ "last_post_at": "2026-11-17T18:18:54.207810+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
