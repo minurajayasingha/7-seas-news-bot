@@ -15498,17 +15498,13 @@
    "cfacadb87b"
   ]
  ],
- "last_draft_at": "2026-11-17T09:01:39.784796+00:00",
+ "last_draft_at": "2026-11-17T09:15:54.944690+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
- "commands_set": 10,
+ "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-17T08:30:35.822271+00:00",
  "run_log": [
-  "11-17 07:00:46 run start",
-  "11-17 07:01:22 listening 11 min",
-  "11-17 07:12:16 listening done",
-  "11-17 07:12:16 run end after 690 s",
   "11-17 07:15:33 run start",
   "11-17 07:16:06 listening 11 min",
   "11-17 07:26:59 listening done",
@@ -15544,7 +15540,11 @@
   "11-17 09:01:39 run start",
   "11-17 09:03:17 listening 10 min",
   "11-17 09:13:21 listening done",
-  "11-17 09:13:21 run end after 702 s"
+  "11-17 09:13:21 run end after 702 s",
+  "11-17 09:15:50 run start",
+  "11-17 09:16:04 listening 11 min",
+  "11-17 09:27:23 listening done",
+  "11-17 09:27:23 run end after 693 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -19012,128 +19012,116 @@
  },
  "roundup": {
   "2026-11-16": {
-   "status": "built",
+   "status": "building",
    "plan": {
     "parts": [
      {
-      "name": "WAR & CONFLICT",
+      "name": "CONFLICT & DIPLOMA",
       "stories": [
        13,
        16,
        12,
        30,
        27,
-       3
+       7,
+       19,
+       6,
+       22
       ],
-      "hook": "Ukraine strikes Crimea bridge and Russian oil refinery. A third US carrier arrives in the Middle East.",
-      "title": "Ukraine strikes Crimea bridge and refinery as US carrier arrives",
-      "question": "How will these military developments impact the conflict in Ukraine?",
+      "hook": "Ukraine strikes a Crimea bridge and oil refinery. US deploys a third aircraft carrier.",
+      "title": "Ukraine Strikes Crimea Bridge And Russia Refinery",
+      "question": "What are the broader security implications of the latest strikes in Ukraine?",
       "hashtags": [
        "#ukraine",
        "#middleeast",
-       "#conflict"
+       "#diplomacy"
       ],
       "tags": [
        "ukraine war",
        "crimea bridge",
-       "russia oil refinery",
-       "middle east conflict",
+       "russia refinery",
        "us aircraft carrier",
-       "military news"
+       "donald trump",
+       "international diplomacy"
       ]
      },
      {
       "name": "US NEWS",
       "stories": [
-       29,
-       26,
-       23,
-       28,
-       34,
        10,
+       28,
+       29,
+       23,
+       26,
        25,
        24,
-       33,
-       11
+       11,
+       20,
+       5,
+       31,
+       33
       ],
-      "hook": "California sues OpenAI over public safety. Trump explores nuclear fuel campuses across five states.",
-      "title": "California sues OpenAI and Trump explores nuclear fuel campuses",
-      "question": "What measures should be taken to regulate artificial intelligence development?",
+      "hook": "Stephen Miller and Marco Rubio form an alliance. California sues OpenAI.",
+      "title": "California Sues OpenAI And NYC Mayor Disbands NYPD Unit",
+      "question": "How will the lawsuit against OpenAI impact artificial intelligence regulation?",
       "hashtags": [
-       "#uspolitics",
-       "#openai",
-       "#energy"
+       "#usnews",
+       "#politics",
+       "#economy"
       ],
       "tags": [
-       "openai lawsuit",
-       "trump administration",
+       "us politics",
+       "california openai",
+       "new york city mayor",
        "nuclear fuel",
-       "artificial intelligence",
-       "california news",
-       "us politics"
+       "air traffic control",
+       "bank outages"
       ]
      },
      {
       "name": "WORLD NEWS",
       "stories": [
+       3,
+       2,
        4,
-       19,
        18,
        1,
-       6,
        8,
        21,
        17,
-       15,
-       2,
-       9
+       9,
+       15
       ],
-      "hook": "Jordan bans Telegram app over security concerns. Donald Trump travels to Asia for international summits.",
-      "title": "Jordan bans Telegram and Trump travels to Asia for summits",
+      "hook": "Seventeen people are killed in South Africa shootings. Jordan bans Telegram.",
+      "title": "Shootings In South Africa And Building Fire In Thailand",
       "question": "",
       "hashtags": [
        "#worldnews",
-       "#diplomacy",
-       "#asia"
+       "#elections",
+       "#global"
       ],
       "tags": [
+       "south africa shootings",
+       "thailand fire",
        "jordan telegram ban",
-       "donald trump asia",
        "cape verde election",
-       "haiti president",
-       "international news",
-       "world events"
+       "haiti election",
+       "grammy nominations"
       ]
      }
     ],
     "dropped": [
      {
-      "n": 5,
-      "why": "Minor education enrollment trend."
-     },
-     {
-      "n": 7,
-      "why": "Duplicate of story 19."
-     },
-     {
       "n": 14,
-      "why": "Local judicial proceeding."
-     },
-     {
-      "n": 20,
-      "why": "Routine travel normalization."
-     },
-     {
-      "n": 22,
-      "why": "Expert discussion and commentary."
-     },
-     {
-      "n": 31,
-      "why": "Unverified temporary bank outages."
+      "why": "Minor local legal proceeding"
      },
      {
       "n": 32,
-      "why": "Speculative opinion on past case."
+      "why": "Speculative expert commentary"
+     },
+     {
+      "n": 34,
+      "why": "Redundant technical rules mention"
      }
     ],
     "ids": [
@@ -19209,12 +19197,12 @@
     "James Comer launches campaign for Kentucky governor",
     "Trump administration addresses advanced A.I. chip rules"
    ],
-   "asked_at": "2026-11-17T05:01:44.661650+00:00",
+   "asked_at": "2026-11-17T09:15:54.320555+00:00",
    "test": true,
-   "msg_id": 691,
+   "msg_id": 698,
    "approved_by": "test",
-   "approved_at": "2026-11-17T05:01:45.207579+00:00",
-   "dispatch_at": "2026-11-17T05:01:45.207596+00:00",
+   "approved_at": "2026-11-17T09:15:54.646085+00:00",
+   "dispatch_at": "2026-11-17T09:15:54.646100+00:00",
    "dispatch_tries": 1,
    "headlines": [
     "Ukraine strikes Crimea bridge as President Zelensky discusses Starshield limits",
@@ -19222,34 +19210,39 @@
     "Third US aircraft carrier arrives in Middle East",
     "Saudi Arabia dismisses coalition commander amid military repositioning in Yemen",
     "Cargo ship sinks in Bulgaria Black Sea after attack",
-    "At least 17 people killed in South Africa shootings",
-    "California sues OpenAI over public safety and hacking incidents",
-    "Ro Khanna proposes one thousand seven hundred dollar Iran war refund checks",
-    "Trump administration explores nuclear fuel campuses across five states",
-    "New York City Mayor Zohran Mamdani disbands NYPD unit",
-    "Trump administration addresses advanced A.I. chip rules",
+    "Donald Trump travels to Asia for international summits",
+    "Trump travels to Asia for meetings with Xi Jinping and Vladimir Putin",
+    "Five EU nations plan migrant deportation centre in Rwanda",
+    "Chatham House director discusses European and American positions on Ukraine peace talks",
     "Stephen Miller and Marco Rubio form new political alliance",
+    "New York City Mayor Zohran Mamdani disbands NYPD unit",
+    "California sues OpenAI over public safety and hacking incidents",
+    "Trump administration explores nuclear fuel campuses across five states",
+    "Ro Khanna proposes one thousand seven hundred dollar Iran war refund checks",
     "Supreme Court declines Trump appeal on university research grants",
     "White House issues memorandum on agency testimony before Congress",
-    "James Comer launches campaign for Kentucky governor",
     "Media outlets ask readers about funding US air traffic control",
+    "US flights return to normal after weekend of travel disruption",
+    "US universities report decline in international student enrollment",
+    "Customers report widespread outages at multiple US banks",
+    "James Comer launches campaign for Kentucky governor",
+    "At least 17 people killed in South Africa shootings",
+    "Building fire in southern Thailand kills eleven people",
     "Jordan bans Telegram app over national security concerns",
-    "Trump travels to Asia for meetings with Xi Jinping and Vladimir Putin",
     "José Maria Neves wins Cape Verde presidential election",
     "Martine Moise registers for Haiti presidential election",
-    "Five EU nations plan migrant deportation centre in Rwanda",
     "Pope Leo concludes South America tour following surgery",
     "Kim Jong Un alters North Korea flag during constitutional changes",
     "British artist Raye leads Grammy nominations with 11 nods",
-    "French football chief challenges Gianni Infantino in FIFA election",
-    "Building fire in southern Thailand kills eleven people",
-    "French actor Gerard Depardieu drops sexual assault conviction appeal"
+    "French actor Gerard Depardieu drops sexual assault conviction appeal",
+    "French football chief challenges Gianni Infantino in FIFA election"
    ]
   }
  },
  "run_once_done": [
   "phototest:2026-11-17",
   "roundup_test:2026-11-16",
-  "yttest:1"
+  "yttest:1",
+  "roundup_test:2026-11-16b"
  ]
 }
