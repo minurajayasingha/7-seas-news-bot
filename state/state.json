@@ -13440,7 +13440,10 @@
   "https://www.nytimes.com/2026/11/17/world/asia/trump-manila-asean-late.html",
   "https://www.independent.co.uk/news/world/americas/taiwan-donald-trump-china-xi-jinping-beijing-b3086149.html",
   "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
-  "https://abcnews.com/International/wireStory/tokyo-protests-after-suspected-russian-aircraft-violate-japanese-138201049"
+  "https://abcnews.com/International/wireStory/tokyo-protests-after-suspected-russian-aircraft-violate-japanese-138201049",
+  "https://www.euronews.com/2026/11/17/melbourne-cup-runner-so-you-are-found-dumped-in-sydney-rubbish-bin",
+  "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
+  "https://www.theguardian.com/australia-news/2026/nov/17/disgusted-by-it-body-of-melbourne-cup-horse-found-dumped-in-sydney-skip-bin-ntwnfb"
  ],
  "recent_topics": [
   [
@@ -15502,19 +15505,34 @@
     "zon"
    ],
    "cfacadb87b"
+  ],
+  [
+   "2026-11-17T10:01:18.142013+00:00",
+   [
+    "bin",
+    "body",
+    "cup",
+    "disgust",
+    "dump",
+    "found",
+    "hors",
+    "melbourn",
+    "rac",
+    "rubbish",
+    "runner",
+    "skip",
+    "sydney"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-17T09:45:33.861947+00:00",
+ "last_draft_at": "2026-11-17T10:00:50.536858+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-17T09:31:25.502635+00:00",
  "run_log": [
-  "11-17 07:39:22 run start",
-  "11-17 07:39:55 listening 11 min",
-  "11-17 07:50:48 listening done",
-  "11-17 07:50:48 run end after 686 s",
   "11-17 07:51:24 run start",
   "11-17 07:51:43 listening 11 min",
   "11-17 08:03:03 listening done",
@@ -15550,7 +15568,11 @@
   "11-17 09:45:33 run start",
   "11-17 09:46:06 listening 11 min",
   "11-17 09:57:01 listening done",
-  "11-17 09:57:01 run end after 687 s"
+  "11-17 09:57:01 run end after 687 s",
+  "11-17 10:00:49 run start",
+  "11-17 10:01:18 listening 11 min",
+  "11-17 10:12:38 listening done",
+  "11-17 10:12:38 run end after 708 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
