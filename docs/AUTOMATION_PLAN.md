@@ -3,6 +3,7 @@
 Status: **Stage 1 done (17 Nov 2026)** — watch 2 days of posts before Stage 2.
 **Stage 2 done (17 Nov 2026)** — the AI looks at every photo.
 **Stages 3 + 4 done (17 Nov 2026)** — roundup videos, TikTok slides to Telegram, Facebook Reels scheduled; YouTube coded but off until the owner adds the YT_ secrets.
+**Clean-up done (17 Nov 2026)** — see "Clean-up decisions" at the end.
 
 Written 17 Nov 2026 after reading the repo and the bot memory (posts from 12–16 Nov).
 
@@ -93,7 +94,7 @@ Then a live dry run (`DRY_RUN` that renders but doesn't publish) on 10 fresh sto
    Max ~1.5 min render per part on Actions.
 6. **Post** (Stage 4) and always also send the package zip + DESCRIPTIONS-AND-TIMES.txt to the content channel as a
    backup.
-7. Report in Telegram: "✅ Part 1 scheduled YouTube 8:00 AM NY / Facebook ✅ / TikTok slides sent to Telegram", or the error.
+7. Report in Telegram: since the clean-up = ONE daily report in the bot chat (see "Clean-up decisions").
 
 ### Daily roundup rules (approved by the owner, keep them exactly)
 - 3 parts per day; names may change with the day's news. Never "TODAY'S" (posts go out the next US morning);
@@ -123,8 +124,9 @@ Then a live dry run (`DRY_RUN` that renders but doesn't publish) on 10 fresh sto
   TikTok title ≤90 chars; caption = hook, "Part n/3", "Follow 7 Seas News for more 🔔", a question, hashtags incl.
   #7seasnews #newstok. YouTube title ≤100 chars with date + "(Part n/3) #shorts"; description lists headlines,
   "Real News. No Noise.", hashtags; lowercase tags list. Facebook: short hook + follow line, 3–5 hashtags.
-- Times: 8 AM / 10 AM / 12 PM New York (= 6:30 / 8:30 / 10:30 PM Sri Lanka in EST).
-  `ROUNDUP_TIMES_NY = ["08:00", "10:00", "12:00"]`. If approval/rendering is late, shift all three by the same amount.
+- Times: 7:55 / 9:55 / 11:55 AM New York (= 6:25 / 8:25 / 10:25 PM Sri Lanka in NY winter, 5:25 / 7:25 / 9:25 PM in
+  NY summer). `ROUNDUP_TIMES_NY = ["07:55", "09:55", "11:55"]`. If approval/rendering is late, shift all three by the
+  same amount.
 - Music: `ROUNDUP_MUSIC`: "off" (only the synthesized sounds, default) or a folder `assets/music/` of royalty-free
   tracks the owner adds (low volume under the sounds).
 
@@ -144,10 +146,10 @@ Settings `ROUNDUP_YOUTUBE`, `ROUNDUP_FACEBOOK`, `ROUNDUP_TIKTOK`. Owner does the
    Reels API limit 30 per 24 h (single-story Reels + 3 roundups).
 3. **TikTok — DECIDED (17 Nov): photo slideshow posted by the owner by hand. NO TikTok API.** Per part, to the content
    channel (`state["tiktok_channel"]`, else bot chat):
-   a) text: "📲 TikTok Part n/3 · post at 8:00 AM NY (6:30 PM SL) · <NY date>", then title and caption each in `<code>`;
+   a) text: "📲 TikTok Part n/3 · post at 6:25 PM SL · 7:55 AM NY · <NY date>", then title and caption each in `<code>`;
    b) MOBILE FIRST: slides in order (cover first, 1080×1350) as Telegram photos in albums of max 10 (`sendMediaGroup`),
       each captioned "1/14 · cover", "2/14 · Ukraine strikes…";
-   c) one zip of the full-quality slides.
+   c) (since the clean-up: no per-part zip; the full-quality slides are in the one backup zip).
    `TIKTOK_SLIDES_AS = "photos"` (default) or "files". README: how to save a Telegram album on Android and iPhone.
    Sent right after approval; at each posting time "⏰ Time to post TikTok Part n/3" with ✅ Posted button.
    Checklist reminds: TikTok "AI-generated content" label only if a slide uses an AI image.
@@ -162,3 +164,28 @@ Settings `ROUNDUP_YOUTUBE`, `ROUNDUP_FACEBOOK`, `ROUNDUP_TIKTOK`. Owner does the
 4. Stage 4 one platform at a time: TikTok slides to Telegram → YouTube → Facebook.
 
 Never print or commit secrets. Keep `python -c "import ast; ast.parse(open('bot/main.py').read())"` clean.
+
+---
+
+## Clean-up decisions (owner, 17 Nov 2026) ✅ DONE 17 Nov 2026
+
+1. **Times = New York.** `ROUNDUP_TIMES_NY = ["07:55", "09:55", "11:55"]`; there is no Sri Lanka times setting.
+   Every Telegram message shows both, e.g. "6:25 PM SL · 7:55 AM NY" (`both_times()`), and TikTok messages also show
+   the New York date for TikTok Studio (`ny_date_text()`). Both zones come from `zoneinfo` (never a fixed offset), so
+   Sri Lanka time follows US summer/winter time by itself (NY summer: 5:25 PM SL).
+2. **Facebook soft limit.** `FB_SOFT_CAP = 30`: after 30 Facebook posts (published + queued) in a New York day, only
+   BREAKING news and stories with importance ≥ `FB_SOFT_CAP_MIN_IMPORTANCE` (8) are still made and auto-posted;
+   smaller ones are skipped quietly (no draft). `AUTO_MAX_PER_DAY = 80` stays the absolute limit.
+3. **Single-story Reels** only for BREAKING news, max 3 a day: `AUTO_REELS = "breaking"`, `REELS_PER_DAY = 3`.
+4. **Clean Telegram.**
+   - Bot chat: only things to act on — the roundup plan (approve/skip change its buttons into a label, no extra
+     message), drafts without a good photo (and other drafts that won't auto-post), TikTok "Time to post" reminders,
+     errors — plus ONE daily report after yesterday's roundup is scheduled (at the latest NY noon): post count,
+     top 3 posts, roundup status per platform (YouTube / Facebook / TikTok). No routine "posted" messages; drafts that
+     will auto-post arrive without a notification and disappear once live. A roundup video comes here only if its
+     upload failed.
+   - Published channel: only the log of live posts (stats + 🗑 Delete) + one line per roundup part with its Facebook
+     and YouTube links, sent at its posting time.
+   - Content channel: only the 3 TikTok parts (time, title, caption, numbered slides) + ONE backup zip (texts, covers,
+     full-quality slides). The automatic daily image pack is gone; `/day` (today so far) and `/day yesterday` still
+     work on request and answer in the bot chat.

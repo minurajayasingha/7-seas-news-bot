@@ -461,10 +461,11 @@ def ny_day(iso):
 
 
 def send_day_pack(state, day, so_far=False):
-    """All posts published on one New York day, sent as just 2 messages to the content channel:
+    """/day only (no automatic pack any more). All posts published on one New York day, sent as just
+    2 messages to the bot chat:
     1) the list of titles (+ "End of <day>")   2) ONE zip file: a folder named after the day
        (e.g. "2026-11-10 Tuesday") with every image of the day in order (DAY_PACK_SIZE)."""
-    ch = state.get("tiktok_channel") or TG_CHAT
+    ch = TG_CHAT
     posts = sorted([d for d in state["drafts"].values()
                     if d.get("status") == "posted" and d.get("posted_at") and ny_day(d["posted_at"]) == day],
                    key=lambda d: d["posted_at"])
@@ -511,26 +512,23 @@ def send_day_pack(state, day, so_far=False):
                                buf.getvalue(), "application/zip")})
 
 
-def day_packs_due(state):
-    """After midnight in New York, send the pack of the day that just ended (once)."""
-    yesterday = ny_now().date() - timedelta(days=1)
-    done = state.get("day_pack_done")
-    if not done:   # first time: start with yesterday
-        done = (yesterday - timedelta(days=1)).isoformat()
-    day = datetime.fromisoformat(done).date() + timedelta(days=1)
-    while day <= yesterday:
-        if day >= yesterday - timedelta(days=2):   # posts older than that are no longer in memory
-            send_day_pack(state, day)
-        state["day_pack_done"] = day.isoformat()
-        day += timedelta(days=1)
-
-
 def lk_time(t):
     return t.astimezone(ZoneInfo("Asia/Colombo")).strftime("%I:%M %p").lstrip("0")
 
 
 def ny_time(t):
     return t.astimezone(ZoneInfo(SLOT_TIMEZONE)).strftime("%I:%M %p").lstrip("0")
+
+
+def both_times(t):
+    """"6:25 PM SL · 7:55 AM NY". Both zones come from zoneinfo, so US summer/winter time is followed by itself."""
+    return f"{lk_time(t)} SL · {ny_time(t)} NY"
+
+
+def ny_date_text(t):
+    """New York date of t, e.g. "Tue, Nov 18, 2026" (the date to pick in TikTok Studio)."""
+    n = t.astimezone(ZoneInfo(SLOT_TIMEZONE))
+    return f"{n:%a, %b} {n.day}, {n.year}"
 
 
 def ago_text(t):
@@ -566,11 +564,11 @@ def when_text(t):
 
 
 def set_commands_once(state):
-    if state.get("commands_set") == 10:
+    if state.get("commands_set") == 11:
         return
     tg("setMyCommands", commands=[
         {"command": "news", "description": "Look for fresh news right now"},
-        {"command": "day", "description": "Today's posts as one pack (content channel)"},
+        {"command": "day", "description": "Today's posts as one zip (/day yesterday)"},
         {"command": "queue", "description": "What's queued and when it posts"},
         {"command": "status", "description": "Bot summary"},
         {"command": "stats", "description": "Likes, comments, shares (last 24h)"},
@@ -580,10 +578,10 @@ def set_commands_once(state):
         {"command": "pause", "description": "Stop automatic news"},
         {"command": "resume", "description": "Start automatic news again"},
         {"command": "channel", "description": "Link the published-posts channel"},
-        {"command": "content", "description": "Link the content channel (videos, slides, packs)"},
+        {"command": "content", "description": "Link the content channel (TikTok roundup parts)"},
         {"command": "help", "description": "How to use the bot"},
     ])
-    state["commands_set"] = 10
+    state["commands_set"] = 11
 
 
 def tg_download(file_id):
@@ -858,13 +856,13 @@ def process_telegram(state, wait=0):
         if fwd and fwd.get("type") == "channel":
             kind = "tiktok_channel" if state.pop("linking", None) in ("tiktok", "content") else "log_channel"
             state[kind] = fwd["id"]
-            what = ("Roundup videos, slides, captions and daily packs" if kind == "tiktok_channel" else "Published posts")
+            what = ("The TikTok roundup parts and the backup zip" if kind == "tiktok_channel" else "Published posts")
             t = tg("sendMessage", chat_id=fwd["id"],
                    text=f"✅ 7 Seas News bot connected. {what} will appear here.")
             if t.get("ok"):
                 tg_text(f"✅ Channel <b>{html.escape(fwd.get('title', ''))}</b> linked. "
-                        + ("It is your <b>content channel</b>: the daily roundup videos, the slides + captions to post, "
-                           "and the daily pack go there." if kind == "tiktok_channel"
+                        + ("It is your <b>content channel</b>: the 3 TikTok roundup parts (time, title, caption, "
+                           "slides) and one backup zip go there." if kind == "tiktok_channel"
                            else "Every published post will be logged there."))
             else:
                 state.pop(kind, None)
@@ -934,14 +932,13 @@ def process_telegram(state, wait=0):
             if "off" in text.lower():
                 state.pop("tiktok_channel", None)
                 state.pop("linking", None)
-                tg_text("📦 Content channel unlinked. Videos, slides and packs come to this chat instead.")
+                tg_text("📦 Content channel unlinked. The TikTok roundup parts come to this chat instead.")
             else:
                 state["linking"] = "content"
                 tg_text("📦 <b>Content channel</b>\n"
-                        "Everything you post on other platforms goes there:\n"
-                        "• the daily roundup videos (YouTube / Facebook / TikTok)\n"
-                        "• the TikTok slides + title + caption to copy\n"
-                        "• the backup package and the daily pack of images\n\n"
+                        "Only what you post on TikTok goes there:\n"
+                        "• the 3 roundup parts (time, title + caption to copy, numbered slides)\n"
+                        "• one backup zip (texts, covers, full-quality slides)\n\n"
                         "To link a channel:\n"
                         "1. Create a Telegram channel (e.g. '7 Seas – Content')\n"
                         "2. Channel info → Administrators → Add admin → add this bot\n"
@@ -949,8 +946,10 @@ def process_telegram(state, wait=0):
                         + ("Currently linked ✅ (send /content off to unlink)"
                            if state.get("tiktok_channel") else "Not linked yet."))
         elif text.startswith("/day"):
-            tg_text("📦 Sending today's pack so far" + (" to your content channel…" if state.get("tiktok_channel") else "…"))
-            send_day_pack(state, ny_now().date(), so_far=True)
+            if "yesterday" in text.lower():
+                send_day_pack(state, ny_now().date() - timedelta(days=1))
+            else:
+                send_day_pack(state, ny_now().date(), so_far=True)
         elif text.startswith("/news"):
             state["news_now"] = True
             tg_text("🔎 Looking for fresh news now…")
@@ -1010,11 +1009,11 @@ def process_telegram(state, wait=0):
                     "I send back the new version to approve.\n\n"
                     "✍️ <b>Your own post:</b> send a news link, or a photo with a headline (/new)\n\n"
                     "/news – look for fresh news right now\n"
-                    "/day – today's posts (New York day) as one pack, sent to the content channel\n"
+                    "/day – today's posts (New York day) as one zip, here · /day yesterday = the whole of yesterday\n"
                     "/queue – what's queued and when it posts\n"
                     "/pause · /resume – stop/start automatic news\n"
                     "/channel – link a channel that logs every published post\n"
-                    "/content – link the content channel (roundup videos, slides + captions, daily packs)\n"
+                    "/content – link the content channel (the 3 TikTok roundup parts + backup zip)\n"
                     "/stats – likes, comments and shares of the last 24 hours\n"
                     "/stats week – posts per day vs likes/reach per post (find the best number of posts)\n"
                     "/reels – what Facebook did with the last Reels (live / processing / rejected and why)\n"
@@ -1089,14 +1088,11 @@ def post_first_comment(state, d, post_id):
     except Exception as e:
         err = str(e)
         log("First comment error:", err)
-        text = (f"⚠️ <b>Link comment failed</b> (the post is live)\n<b>{html.escape(d['headline'])}</b>\n"
-                f"<code>{html.escape(err)[:300]}</code>\n\n📖 {html.escape(d['link'])}")
-        ch = state.get("log_channel")
-        if not (ch and tg("sendMessage", chat_id=ch, text=text, parse_mode="HTML",
-                          disable_web_page_preview="true").get("ok")):
-            tg_text(text)
-        if re.search(r"permission|\(#200\)|\(#10\)|pages_manage_engagement|not authorized", err, re.I) \
-                and not state.get("comment_perm_told"):
+        perm = re.search(r"permission|\(#200\)|\(#10\)|pages_manage_engagement|not authorized", err, re.I)
+        if not perm:                               # an error → bot chat (the published channel only logs posts)
+            tg_text(f"⚠️ <b>Link comment failed</b> (the post is live)\n<b>{html.escape(d['headline'])}</b>\n"
+                    f"<code>{html.escape(err)[:300]}</code>\n\n📖 {html.escape(d['link'])}")
+        if perm and not state.get("comment_perm_told"):
             state["comment_perm_told"] = True
             tg_text("⚠️ <b>The bot can't comment as the Page.</b> Your Page token is missing the "
                     "<b>pages_manage_engagement</b> permission.\n\n"
@@ -1633,8 +1629,7 @@ def publish_due(state):
         if now > news_age_limit(d):
             d["status"] = "expired"
             tg_clear(d)
-            tg_text(f"🗑 Removed from the queue: <b>{html.escape(d['headline'])}</b>\n"
-                    f"The news is now more than {QUEUE_EXPIRE_HOURS} hours old, so it wasn't posted.")
+            log(f"Removed from the queue (news older than {QUEUE_EXPIRE_HOURS} h):", d["headline"])
     queued = [d for d in queued if d["status"] == "queued"]
 
     # 🚀 Post now / auto posts whose time has come (BREAKING first), then the 🕒 Queue slot post.
@@ -1663,7 +1658,7 @@ def publish_due(state):
         except Exception as e:      # Telegram didn't hand the image back: just try again next round (silently)
             d["dl_fails"] = d.get("dl_fails", 0) + 1
             log("Image download from Telegram failed:", e)
-            if d["dl_fails"] in (8, 40):   # only tell you when it keeps failing (~2 min of rounds / longer)
+            if d["dl_fails"] == 40:        # only tell you when it keeps failing for a long time
                 tg_text(f"⚠️ Telegram is slow: couldn't fetch the image for <b>{html.escape(d['headline'])}</b> yet. "
                         "The bot keeps trying; nothing to do on your side.")
             continue
@@ -2218,6 +2213,24 @@ def posts_today(state):
     today = ny_now().date()
     return sum(1 for d in state["drafts"].values()
                if d.get("status") == "posted" and d.get("posted_at") and ny_day(d["posted_at"]) == today)
+
+
+def fb_posts_today(state):
+    """Facebook posts of this New York day: published + already lined up to post."""
+    return posts_today(state) + sum(1 for d in state["drafts"].values() if d.get("status") == "queued")
+
+
+def soft_cap_reason(state, post, c):
+    """FB_SOFT_CAP: after that many posts in a New York day only BREAKING news and importance
+    FB_SOFT_CAP_MIN_IMPORTANCE+ stories are still made (smaller ones are skipped quietly). "" = keep."""
+    if not (AUTO_PUBLISH and FB_SOFT_CAP) or fb_posts_today(state) < FB_SOFT_CAP:
+        return ""
+    breaking = bool(post.get("breaking")) and \
+        (now_utc() - min(i["published"] for i in c["items"])) <= timedelta(hours=BREAKING_MAX_HOURS)
+    imp = importance_of(post)
+    if breaking or (imp is not None and imp >= FB_SOFT_CAP_MIN_IMPORTANCE):
+        return ""
+    return f"soft limit ({FB_SOFT_CAP} posts today), importance {imp}/10 (needs {FB_SOFT_CAP_MIN_IMPORTANCE}+)"
 
 
 def quiet_day(state):
@@ -3890,9 +3903,10 @@ def send_draft(state, d):
                   f"<i>Confirmed by: {html.escape(', '.join(d['sources']))}</i>\n{links}\n\n")
                +
                "✏️ <i>Reply with a photo to change the image, or with text to change the headline.</i>")
+    quiet = will_auto_post(state, d)   # posts by itself → no phone ping (it leaves the chat once it is live)
     j = tg("sendPhoto", chat_id=TG_CHAT, caption=preview, parse_mode="HTML",
            files={"photo": ("post.jpg", img, "image/jpeg")},
-           reply_markup=draft_buttons(d["id"], d))
+           reply_markup=draft_buttons(d["id"], d), **({"disable_notification": "true"} if quiet else {}))
     if not j.get("ok"):
         return False
     res = j["result"]
@@ -4044,10 +4058,10 @@ def roundup_plan_text(day, info):
     head = "🧪 <b>TEST roundup</b> (no uploads)" if info.get("test") else "🎬 <b>Daily roundup</b>"
     total = sum(len(p["stories"]) for p in plan["parts"])
     out = [f"{head} · {day:%A}, {day:%b} {day.day} (New York) · {total} stories",
-           "Posts at " + " / ".join(f"{ny_time(t)}" for t in times) + " NY ("
-           + " / ".join(lk_time(t) for t in times) + " SL)", ""]
+           f"Posts on {ny_date_text(times[0])} (New York date)", ""]
     for i, p in enumerate(plan["parts"], 1):
-        out.append(f"<b>PART {i}/3 · {html.escape(p['name'])}</b> ({len(p['stories'])})")
+        at = f" · {both_times(times[i - 1])}" if i <= len(times) else ""
+        out.append(f"<b>PART {i}/3 · {html.escape(p['name'])}</b> ({len(p['stories'])}){at}")
         out.append(f"<i>{html.escape(p['hook'])}</i>")
         for k, n in enumerate(p["stories"], 1):
             out.append(f"{k}. {html.escape(info['heads'][n - 1][:90])}")
@@ -4058,7 +4072,7 @@ def roundup_plan_text(day, info):
     if not info.get("test"):
         if ROUNDUP_APPROVAL == "ask":
             auto = datetime.fromisoformat(info["asked_at"]) + timedelta(hours=ROUNDUP_AUTO_APPROVE_HOURS)
-            out.append(f"\nNo answer by {lk_time(auto)} SL → approved by itself.")
+            out.append(f"\nNo answer by {both_times(auto)} → approved by itself.")
         out.append("✏️ To change it: tap ✏️ Change, or reply to this message with what to change.")
     text = "\n".join(out)
     while len(text) > 4000:                          # Telegram limit: shorten the headlines
@@ -4091,9 +4105,12 @@ def roundup_start(state, day_s, test=False):
     posts = roundup_day_posts(state, day)
     rs = state.setdefault("roundup", {})
     if len(posts) < ROUNDUP_MIN_POSTS:
-        rs[day_s] = {"status": "skipped", "why": f"only {len(posts)} posts"}
-        tg_text(f"🎬 No roundup for {day:%A, %b} {day.day}: only {len(posts)} posts.")
-        return
+        rs[day_s] = {"status": "skipped", "why": f"only {len(posts)} posts", "test": bool(test)}
+        if test:
+            tg_text(f"🧪 No test roundup for {day:%A, %b} {day.day}: only {len(posts)} posts.")
+        return                                         # the daily report says it
+
+
     plan = roundup_make_plan(state, day)
     rs[day_s] = {"status": "asked", "plan": plan, "heads": [d["headline"] for d in posts],
                  "asked_at": now_utc().isoformat(), "test": bool(test)}
@@ -4124,11 +4141,18 @@ def roundup_approve(state, day_s, by):
                 dispatch_at=now_utc().isoformat(), dispatch_tries=1,
                 headlines=[info["heads"][n - 1] for n in sel])
     roundup_request_build(day_s, info.get("test"))
-    if info.get("msg_id") and not info.get("test"):
-        tg("editMessageReplyMarkup", chat_id=TG_CHAT, message_id=info["msg_id"], reply_markup={"inline_keyboard": []})
-    who = {"owner": "✅ Approved", "auto": "✅ Approved automatically (no answer in "
-                                         f"{ROUNDUP_AUTO_APPROVE_HOURS} h)", "test": "🧪 Test"}.get(by, "✅ Approved")
-    tg_text(f"{who} — making the roundup videos now (about 10–20 min). I'll send everything when ready.")
+    if info.get("test"):
+        tg_text("🧪 Test — making the roundup videos now (about 10–20 min).")
+        return
+    who = {"owner": "✅ Approved", "auto": f"✅ Approved by itself ({ROUNDUP_AUTO_APPROVE_HOURS} h)"}.get(by, "✅ Approved")
+    roundup_plan_label(info, f"{who} · making the videos")   # no new message: the daily report follows
+
+
+def roundup_plan_label(info, label):
+    """Swap the plan's buttons for a status label (keeps the bot chat to one roundup message)."""
+    if info.get("msg_id"):
+        tg("editMessageReplyMarkup", chat_id=TG_CHAT, message_id=info["msg_id"],
+           reply_markup={"inline_keyboard": [[{"text": label, "callback_data": "noop"}]]})
 
 
 def handle_roundup_tap(state, action, day_s):
@@ -4144,9 +4168,8 @@ def handle_roundup_tap(state, action, day_s):
     if action == "rok":
         roundup_approve(state, day_s, "owner")
     elif action == "rskip":
-        info["status"] = "skipped"
-        tg("editMessageReplyMarkup", chat_id=TG_CHAT, message_id=info.get("msg_id"), reply_markup={"inline_keyboard": []})
-        tg_text("⏭ No roundup videos for that day.")
+        info.update(status="skipped", why="skipped by you")
+        roundup_plan_label(info, "⏭ Skipped · no roundup videos for that day")
     elif action == "rchg":
         tg_text("✏️ <b>Reply to the plan message</b> with what to change, e.g.\n"
                 "• <i>move the Gaza story to Part 1</i>\n• <i>drop number 5 in Part 3</i>\n"
@@ -4230,6 +4253,7 @@ def roundup_part_due(state, day_s, info, n, part):
         done[f"tt{n}"] = True
         tg("sendMessage", chat_id=TG_CHAT, parse_mode="HTML",
            text=(f"⏰ <b>Time to post TikTok Part {n}/3</b> ({html.escape(part.get('name', ''))})\n"
+                 f"{both_times(at)} · {ny_date_text(at)} (New York date for TikTok Studio)\n"
                  "The slides + title + caption are in your 📦 content channel.\n"
                  "☑️ TikTok's \"AI-generated content\" label: not needed (no AI images in the slides)."),
            reply_markup={"inline_keyboard": [[{"text": "✅ Posted", "callback_data": f"rdone:{day_s}:{n}"}]]})
@@ -4238,11 +4262,94 @@ def roundup_part_due(state, day_s, info, n, part):
         done[f"fb{n}"] = True
         try:
             fb_reel_finish(fb["id"], fb.get("caption", ""), "PUBLISHED")
-            tg_text(f"✅ Facebook roundup Part {n}/3 published.")
+            fb["state"] = "published"
         except Exception as e:
+            fb["state"] = "error"
             tg_text(f"⚠️ Facebook roundup Part {n}/3 could not be published: <code>{html.escape(str(e))[:200]}</code>\n"
-                    "It is saved as a draft in Meta Business Suite → Content → Drafts (publish it by hand), "
-                    "and the video is in your content channel.")
+                    "It is saved as a draft in Meta Business Suite → Content → Drafts (publish it by hand).")
+    if not done.get(f"log{n}"):                       # one line per part in the published-posts channel
+        done[f"log{n}"] = True
+        log_note(state, roundup_part_line(n, part, at))
+
+
+def roundup_part_line(n, part, at):
+    """"🎬 Roundup Part 1/3 · WAR & CONFLICT · 6:25 PM SL · 7:55 AM NY · Facebook · YouTube" with links."""
+    fb, yt = part.get("fb") or {}, part.get("yt") or {}
+    links = []
+    if fb.get("id") and fb.get("state") in ("scheduled", "draft", "published"):
+        links.append(f'<a href="https://www.facebook.com/reel/{fb["id"]}">Facebook</a>')
+    elif fb.get("state") == "error":
+        links.append("Facebook ❌")
+    if yt.get("url"):
+        links.append(f'<a href="{yt["url"]}">YouTube</a>')
+    elif yt.get("state") == "error":
+        links.append("YouTube ❌")
+    return (f"🎬 <b>Roundup Part {n}/3 · {html.escape(part.get('name', ''))}</b> · {both_times(at)}"
+            + (" · " + " · ".join(links) if links else ""))
+
+
+PLATFORM_TEXT = {"scheduled": "✅ scheduled", "draft": "🕒 saved, the bot publishes it at the time",
+                 "published": "✅ live", "off": "off", "no secrets": "not set up yet", "sent": "📲 slides in the content channel"}
+
+
+def platform_text(x):
+    st = (x or {}).get("state", "-") if isinstance(x, dict) else str(x or "-")
+    if st in PLATFORM_TEXT:
+        return PLATFORM_TEXT[st]
+    err = (x or {}).get("error", st) if isinstance(x, dict) else st
+    return "❌ " + html.escape(str(err))[:150]
+
+
+def daily_report_text(state, day_s, info, res):
+    """ONE message a day: yesterday's posts, the top 3, and the roundup status per platform."""
+    day = datetime.fromisoformat(day_s).date()
+    posts = roundup_day_posts(state, day)
+    score = lambda d: sum((d.get("stats") or {}).get(k, 0) for k in ("likes", "comments", "shares"))
+    out = [f"📋 <b>Daily report</b> · {day:%A, %b} {day.day} (New York)",
+           f"📰 {len(posts)} posts on Facebook · {sum(1 for d in posts if d.get('breaking'))} breaking · "
+           f"{state.get('reels_count', {}).get(day_s, 0)} Reels"]
+    top = sorted(posts, key=score, reverse=True)[:3]
+    if top:
+        out.append("\n🏆 <b>Top 3</b>")
+        for k, d in enumerate(top, 1):
+            title = html.escape(d["headline"][:80])
+            link = f"https://www.facebook.com/{d['fb_post_id']}" if d.get("fb_post_id") else ""
+            out.append(f"{k}. " + (f'<a href="{link}">{title}</a>' if link else title) + "\n    "
+                       + (stats_line(d["stats"]) if d.get("stats") else "📊 no numbers yet"))
+    st = (info or {}).get("status")
+    if not ROUNDUP_ENABLED:
+        out.append("\n🎬 Roundup: off (ROUNDUP_ENABLED)")
+    elif not info or info.get("test"):
+        out.append("\n🎬 Roundup: not made")
+    elif st == "skipped":
+        out.append(f"\n🎬 Roundup: ⏭ skipped ({html.escape(info.get('why', ''))})")
+    elif st == "failed" or (res or {}).get("error"):
+        out.append("\n🎬 Roundup: ❌ not made — " + html.escape(str((res or {}).get("error") or info.get("why")
+                                                                     or "the video job didn't run"))[:200])
+    elif st != "built":
+        out.append("\n🎬 Roundup: ⏳ still being made")
+    else:
+        out.append("\n🎬 <b>Roundup</b>")
+        for n, p in enumerate((res or {}).get("parts") or [], 1):
+            at = datetime.fromisoformat(p["post_at"])
+            out.append(f"<b>Part {n}/3 · {html.escape(p.get('name', ''))}</b> · {p.get('stories', '?')} stories · "
+                       f"{both_times(at)} · {ny_date_text(at)}\n"
+                       f"    YouTube {platform_text(p.get('yt'))}\n    Facebook {platform_text(p.get('fb'))}\n"
+                       f"    TikTok {platform_text(p.get('tt', 'sent' if ROUNDUP_TIKTOK else 'off'))}")
+    return "\n".join(out)[:4000]
+
+
+def daily_report_due(state):
+    """After the roundup of yesterday is scheduled (or skipped/failed; at the latest NY noon): the daily report."""
+    ys = (ny_now().date() - timedelta(days=1)).isoformat()
+    if ys < ROUNDUP_START_DAY or state.get("report_done", "") >= ys:
+        return
+    info = state.get("roundup", {}).get(ys)
+    waiting = ROUNDUP_ENABLED and (not info or info.get("status") in ("asked", "building"))
+    if waiting and ny_now().hour < 12:
+        return
+    tg_text(daily_report_text(state, ys, info, load_roundup_file().get(ys)))
+    state["report_done"] = ys
 
 
 def photo_test(state, n=10):
@@ -4330,10 +4437,9 @@ def draft_one(state, c):
     if post.get("skip"):
         log("Gemini marked skip:", c["items"][0]["title"], post.get("skip_reason", ""))
         if str(post.get("skip_reason", "")).startswith("sensitive"):
-            log_note(state, f"🚫 <b>Skipped (sensitive topic)</b>\n{html.escape(c['items'][0]['title'])}\n"
-                            f"<i>Still had: {html.escape(post['skip_reason'][17:])} after a rewrite.</i>")
+            note(state, f"skipped (sensitive): {c['items'][0]['title'][:80]} | {post['skip_reason'][17:60]}")
         return False
-    minor = not_important_reason(post, c)
+    minor = not_important_reason(post, c) or soft_cap_reason(state, post, c)
     if minor:
         log("Skipped, not important enough:", minor, "|", post.get("headline"))
         state["recent_topics"].append([now_utc().isoformat(), sorted(c["title_kw"]), "skipped"])
@@ -4379,10 +4485,8 @@ def auto_today(state):
     return state.get("auto_count", {}).get(f"{ny_now():%Y-%m-%d}", 0)
 
 
-def auto_queue(state, d):
-    """AUTO_PUBLISH: line the new draft up to post by itself (you can still ↩️ Cancel it in Telegram)."""
-    if not AUTO_PUBLISH or d.get("manual") or state.get("paused"):
-        return
+def auto_block_reason(state, d):
+    """Why d would NOT be auto-posted ("" = it will be)."""
     why = ""
     if AUTO_NEEDS_PHOTO and not has_real_photo(d) and not (BREAKING_WITHOUT_PHOTO and d.get("breaking")):
         why = "no real photo found"
@@ -4394,6 +4498,18 @@ def auto_queue(state, d):
     elif not skips_gap(d) and sum(1 for x in state["drafts"].values() if x.get("auto") and x["status"] == "queued"
                                   and not skips_gap(x)) >= AUTO_MAX_WAITING:
         why = f"{AUTO_MAX_WAITING} auto posts are already waiting for their turn ({MIN_MINUTES_BETWEEN_POSTS}-min gap)"
+    return why
+
+
+def will_auto_post(state, d):
+    return bool(AUTO_PUBLISH and not d.get("manual") and not state.get("paused") and not auto_block_reason(state, d))
+
+
+def auto_queue(state, d):
+    """AUTO_PUBLISH: line the new draft up to post by itself (you can still ↩️ Cancel it in Telegram)."""
+    if not AUTO_PUBLISH or d.get("manual") or state.get("paused"):
+        return
+    why = auto_block_reason(state, d)
     if why:
         tg_reply(d, f"✋ Not auto-posted: {why}. Choose with the buttons.")
         return
@@ -4512,7 +4628,6 @@ def listen(state, until):
             process_telegram(state, wait=25)   # returns as soon as you tap or send something
             publish_due(state)                 # 🚀 Post now / queue times
             expire_pending(state)
-            day_packs_due(state)               # New York midnight → daily pack
             if state.pop("news_now", None):    # /news command
                 state["last_draft_at"] = now_utc().isoformat()
                 draft_new_posts(state)
@@ -4553,14 +4668,14 @@ def main():
         publish_due(state)
         expire_pending(state)
         try:
-            day_packs_due(state)
-        except Exception as e:
-            log("Day pack error:", e)
-        try:
             roundup_due(state)
         except Exception as e:
             log("Roundup error:", e)
             traceback.print_exc()
+        try:
+            daily_report_due(state)
+        except Exception as e:
+            log("Daily report error:", e)
         try:
             run_once_jobs(state)
         except Exception as e:

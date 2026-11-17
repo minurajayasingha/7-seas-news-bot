@@ -18,12 +18,16 @@ SOFT = (205, 205, 210)     # small grey text
 AUTO_PUBLISH = True          # True = verified news (MIN_SOURCES outlets) is posted to Facebook by itself.
                              # Telegram shows "🤖 Auto-posting" (↩️ Cancel to stop it), then the log channel gets
                              # the post with a 🗑 Delete button. False = old way: you tap 🚀 Post now / 🕒 Queue.
-AUTO_MAX_PER_DAY = 80        # max auto posts per New York day (more → normal drafts for you to choose).
+AUTO_MAX_PER_DAY = 80        # ABSOLUTE max auto posts per New York day (more → normal drafts for you to choose).
                              # Send /stats week to see posts per day vs likes/reach per post and pick the best.
+FB_SOFT_CAP = 30             # soft limit: after this many Facebook posts in a New York day, only BREAKING news and
+                             # stories the AI rates FB_SOFT_CAP_MIN_IMPORTANCE or more are still posted; smaller
+                             # stories are skipped quietly (no draft in Telegram). 0 = no soft limit.
+FB_SOFT_CAP_MIN_IMPORTANCE = 8
 AUTO_MIN_GAP_MINUTES = 0     # at least this long between auto posts (BREAKING news doesn't wait)
 AUTO_NEEDS_PHOTO = True      # True = only news with a real photo is auto-posted; the rest waits in Telegram for you
                              # (reply with a photo, or 🚀 Post now / ❌ Skip). False = posted with the globe/brand design
-AUTO_REELS = "breaking"      # "breaking" = only BREAKING (emergency) news gets an automatic Reel, max REELS_PER_DAY
+AUTO_REELS = "breaking"      # "breaking" = only BREAKING (emergency) news gets an automatic Reel, max REELS_PER_DAY (3)
                              # "more" = every BREAKING post + other posts with a real photo (2 kept free for breaking)
                              # "off" = Reels only when you tap 🎬 Reel
 BREAKING_WITHOUT_PHOTO = True   # True = BREAKING news is auto-posted even with no real photo (our branded cover)
@@ -136,8 +140,9 @@ SHARE_TO_STORY = "breaking"  # Facebook Story: "breaking" = only BREAKING news, 
 FOLLOW_LINE = "Follow 7 Seas News for US & world news every day 🇺🇸🌍"   # in every caption, before the hashtags ("" = none)
 TIKTOK_HASHTAGS = "#news #worldnews #fyp"   # added to the caption sent to your TikTok channel (/tiktok)
 SEND_EACH_POST_TO_CONTENT_CHANNEL = False   # True = also send every post one by one to the content channel (/content).
-                                            # False = only the daily pack (titles + ONE zip file with all images)
-DAY_PACK_SIZE = "9x16"       # images in the daily zip: "9x16" = TikTok size (1080x1920), "4x5" = the post itself (1080x1350)
+                                            # False = the content channel only gets the 3 TikTok roundup parts + backup zip
+DAY_PACK_SIZE = "9x16"       # /day (only when you ask; no automatic daily pack): images in the zip,
+                             # "9x16" = TikTok size (1080x1920), "4x5" = the post itself (1080x1350)
 
 # Question at the end of the post (to get comments):
 #   "always"    = every post
@@ -147,7 +152,8 @@ ASK_QUESTION = "sometimes"
 
 # ---------- Single-story Reels (🎬 Reel button) ----------
 REELS_ENABLED = True         # True = drafts get a 🎬 Reel button: publishes the post AND a short Reel of it
-REELS_PER_DAY = 3            # max Reels (videos) per New York day, the 🎬 Reel button included (more → post only)
+REELS_PER_DAY = 3            # max single-story Reels per New York day, the 🎬 Reel button included (more → post only).
+                             # The 3 daily roundup videos don't count here.
 REEL_SECONDS = 10            # length of each Reel (typing headline → hold → "Follow for more" end card)
 REELS_ONLY_GOOD_PHOTOS = True   # True = 🎬 Reel button only on drafts with a real photo (people/place),
                                 #        not on the plain brand / globe designs
@@ -364,12 +370,16 @@ FEEDS = {
 # After NY midnight the bot sends you the PLAN in Telegram (✅ Approve · ✏️ Change · ⏭ Skip today).
 # Reply to the plan with words to change it ("move the Gaza story to Part 1"). Then it makes the 3 videos,
 # uploads them (scheduled) and sends the TikTok slides + captions to your content channel (/content).
+# When it is scheduled you get ONE daily report in the bot chat (yesterday's posts, top 3, roundup status), and
+# at each posting time the published-posts channel gets one line with that part's Facebook + YouTube links.
 ROUNDUP_ENABLED = True
 ROUNDUP_START_DAY = "2026-11-17"     # first New York day that gets real roundup videos (older days: none)
 ROUNDUP_APPROVAL = "ask"             # "ask" = send the plan and wait for you; "auto" = never ask
 ROUNDUP_AUTO_APPROVE_HOURS = 3       # "ask": no answer within this many hours → the bot approves by itself
-ROUNDUP_TIMES_NY = ["08:00", "10:00", "12:00"]   # posting times (New York) of Part 1/2/3, the next morning.
-                                     # (= 6:30 / 8:30 / 10:30 PM Sri Lanka in winter). Late? All three move together.
+ROUNDUP_TIMES_NY = ["07:55", "09:55", "11:55"]   # posting times (New York) of Part 1/2/3, the next morning.
+                                     # Sri Lanka time is worked out by itself and follows US summer/winter time:
+                                     # NY winter = 6:25 / 8:25 / 10:25 PM SL, NY summer = 5:25 / 7:25 / 9:25 PM SL.
+                                     # Late? All three move together.
 ROUNDUP_PARTS = ["WAR & CONFLICT", "US NEWS", "WORLD NEWS"]   # default part names (the AI may rename for the day)
 ROUNDUP_MAX_PER_PART = 14            # max stories per part (keeps each video under Facebook's 90 s)
 ROUNDUP_MIN_POSTS = 9                # fewer posts that day → no roundup

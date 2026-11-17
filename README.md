@@ -99,7 +99,9 @@ Every day after **midnight New York** the bot plans 3 roundup videos of the day'
 - **⏭ Skip today** → no videos that day
 - **No answer within 3 hours** → the bot approves by itself (`ROUNDUP_AUTO_APPROVE_HOURS` in settings)
 
-Posting times: **8:00 / 10:00 / 12:00 New York** (6:30 / 8:30 / 10:30 PM Sri Lanka in winter).
+Posting times: **7:55 / 9:55 / 11:55 New York** (`ROUNDUP_TIMES_NY`). Sri Lanka time is worked out by itself and
+follows US summer/winter time: 6:25 / 8:25 / 10:25 PM SL in NY winter, 5:25 / 7:25 / 9:25 PM SL in NY summer.
+Every message shows both, e.g. "6:25 PM SL · 7:55 AM NY", plus the New York date to pick in TikTok Studio.
 `/roundup` shows what happened; `/roundup test` makes a test of yesterday (Telegram only, nothing uploaded).
 
 What happens after approval:
@@ -107,7 +109,11 @@ What happens after approval:
   If Facebook refuses scheduling, it is saved as a draft and the bot publishes it at the time.
 - **YouTube** – each part becomes a scheduled Short (`ROUNDUP_YOUTUBE`, needs the setup below).
 - **TikTok** – you post it yourself with a trending sound. In your content channel (`/content`) you get, per part:
-  the title + caption (tap a grey box to copy it), the slides as photo albums (cover first) and a zip of the slides.
+  the time, the title + caption (tap a grey box to copy it) and the numbered slides as photo albums (cover first).
+  After the 3 parts comes ONE backup zip (texts, covers, full-quality slides).
+- **Bot chat** – ONE daily report once the roundup is scheduled: yesterday's post count, top 3 posts and the
+  roundup status per platform. A video is sent here only if an upload failed (post it by hand).
+- **Published-posts channel** – at each posting time one line per part with its Facebook and YouTube links.
   At each posting time the bot reminds you ("⏰ Time to post TikTok Part n/3") with a ✅ Posted button.
 - **Backup** – the 3 videos, the covers and `DESCRIPTIONS-AND-TIMES.txt` (all titles, captions, tags, times)
   are always sent to the content channel too, so you can post by hand if something fails.

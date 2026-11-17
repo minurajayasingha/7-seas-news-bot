@@ -30,7 +30,8 @@ Never South Asia news. Real, verified news only: a story needs 2+ different outl
      (state["auto_count"], state["last_auto_at"]). Not auto: manual posts, look-alikes only if SKIP_LOOKALIKES (default False:
      look-alikes are posted and the log-channel message says "⚠️ Looks like an earlier post" → 🗑 Delete), over the limit,
      more than AUTO_MAX_WAITING auto posts waiting, no real photo when AUTO_NEEDS_PHOTO (default True:
-     brand/globe drafts wait in Telegram with "✋ Not auto-posted: no real photo found"). AUTO_REELS="breaking" (default) = only
+     brand/globe drafts wait in Telegram with "✋ Not auto-posted: no real photo found"); FB_SOFT_CAP (30) → after that only
+     BREAKING / importance 8+ news. AUTO_REELS="breaking" (default) = only
      BREAKING posts get a Reel (branded cover OK), max REELS_PER_DAY (3, the 🎬 button included); "more" = also real-photo
      posts (last 2 kept for breaking) — auto_reel_wanted(). BREAKING_WITHOUT_PHOTO: breaking news auto-posts
      with the branded cover.
@@ -46,17 +47,19 @@ Never South Asia news. Real, verified news only: a story needs 2+ different outl
   plan message = change (Gemini edits, plan resent, 3 h restart); ROUNDUP_AUTO_APPROVE_HOURS → roundup_approve("auto").
   Approve writes /tmp/7seas_roundup_dispatch.json; bot.yml's last step (after Save bot memory, permissions actions: write)
   dispatches roundup.yml with GITHUB_TOKEN. No result in state/roundup.json after 80 min → asked again once, then failed.
-  At each part's post_at: TikTok reminder with ✅ Posted (rdone:day:n), and Facebook "draft" parts are published
-  (fb_reel_finish PUBLISHED). /roundup = status, /roundup test = test of yesterday.
+  At each part's post_at: TikTok reminder with ✅ Posted (rdone:day:n) in the bot chat, Facebook "draft" parts are
+  published (fb_reel_finish PUBLISHED), and roundup_part_line() goes to the published channel. Then daily_report_due(). /roundup = status, /roundup test = test of yesterday.
 - bot/roundup.py (roundup.yml, 45 min, ffmpeg; reads state.json, writes ONLY state/roundup.json): per part make_cover()
   (1080x1350, branded globe), slides = cover + published images (tg_download), make_part_video() 1080x1920: cover 1.3 s +
   boom, red swipe with white edge + whoosh, per story story_frame() (render_image hide_headline, date=day; top = blurred r34
   45 % dark zoom of rows 170–900 feathered 120 px; counter pill) typed headline + clicks, hold 2.2 s (shortened so ≤ 88 s),
-  end card; progress line y 0–8. post_times(): 8/10/12 NY next morning, shifted together if late (not in test).
+  end card; progress line y 0–8. post_times(): ROUNDUP_TIMES_NY 7:55/9:55/11:55 NY next morning, shifted together if
+  late (not in test).
   Uploads (not test): facebook_upload (fb_reel_upload → finish SCHEDULED, refused → DRAFT), youtube_upload (resumable,
   private + publishAt, category 25, thumbnail best effort; ROUNDUP_YOUTUBE + YT_* secrets). Each retried once.
-  Telegram to the content channel: per part text (title/caption in <code>), sendMediaGroup albums (≥2 per album),
-  slides zip; then the 3 mp4s + backup zip (covers + DESCRIPTIONS-AND-TIMES.txt); report to the bot chat.
+  Telegram to the content channel: per part text (both times + NY date, title/caption in <code>), sendMediaGroup
+  albums (≥2 per album); then ONE backup zip (texts, covers, full slides). results[n]["tt"] = TikTok status.
+  mp4s → bot chat only on upload failure or test; report → bot chat only in tests (main sends the daily report).
 - Roundup DESIGN = the owner's manual package exactly (full rules in docs/AUTOMATION_PLAN.md "Daily roundup rules"):
   cover top→bottom PART n/3 · NAME → huge "NOV 16" (day red) → TOP STORIES (never TODAY'S, no count) → hook with red
   bar (≤2 lines) → "MONDAY · 2026" (computed); footer VERIFIED WORLD NEWS · EVERY DAY + SWIPE →. Counter pill
@@ -66,7 +69,7 @@ Never South Asia news. Real, verified news only: a story needs 2+ different outl
   slides to the bot chat, nothing uploaded/saved.
 - tools/youtube_token.py = one-time local OAuth helper (loopback) → refresh token. README has the owner steps.
 
-## Secrets (GitHub Actions)## Secrets (GitHub Actions)
+## Secrets (GitHub Actions)
 TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, GEMINI_API_KEY, FB_PAGE_ID, FB_PAGE_TOKEN (never-expiring Page token),
 optional PIXABAY_API_KEY / PEXELS_API_KEY / FLICKR_API_KEY, YT_CLIENT_ID / YT_CLIENT_SECRET / YT_REFRESH_TOKEN (roundup YouTube). Never print or commit secrets.
 
@@ -98,12 +101,31 @@ optional PIXABAY_API_KEY / PEXELS_API_KEY / FLICKR_API_KEY, YT_CLIENT_ID / YT_CL
 - Post stats: every STATS_EVERY_MINUTES the bot reads reactions/comments/shares (+ reach if the token allows)
   for posts of the last STATS_DAYS and edits the matching log-channel message; /stats = last 24 h ranking.
 - Posts go to the Page Story per SHARE_TO_STORY ("breaking" = only BREAKING posts, "all", "off"). The content channel (/content, old name /tiktok; state key tiktok_channel) gets
-  posts one by one only if SEND_EACH_POST_TO_CONTENT_CHANNEL = True (default False: daily pack only).
+  posts one by one only if SEND_EACH_POST_TO_CONTENT_CHANNEL = True (default False).
 
-- Dates for the audience use New York time (image date, published log, TikTok file names). After NY midnight the bot
-  sends a daily pack to the content channel (or bot chat) as 2 messages: titles + "End of <day>", and ONE zip
-  with one folder named after the day ("2026-11-10 Tuesday") holding the day's images in order
-  (DAY_PACK_SIZE "9x16" or "4x5"; split into parts above 45 MB).
+- Dates for the audience use New York time (image date, published log, TikTok file names). NO automatic daily pack:
+  /day (today so far) and /day yesterday send_day_pack() to the bot chat: titles + ONE zip with one folder named
+  after the day ("2026-11-10 Tuesday") holding the day's images in order (DAY_PACK_SIZE "9x16" or "4x5"; >45 MB split).
+
+## Clean Telegram (docs/AUTOMATION_PLAN.md "Clean-up decisions")
+- Bot chat = only things to act on: roundup plan (approve/skip only swap its buttons for a label via
+  roundup_plan_label, no new message), drafts that won't auto-post (no good photo, look-alike, limits), errors, TikTok
+  "Time to post" reminders, replies to commands. Drafts that will auto-post (will_auto_post / auto_block_reason) are sent
+  with disable_notification and vanish once live. No routine "posted"/"removed from queue"/"Telegram slow" notes
+  (download note only at 40 fails); sensitive skips go to the run diary (note()); non-permission link-comment
+  errors → bot chat. daily_report_due(): ONE report per NY day (state["report_done"]) once yesterday's roundup is
+  built/skipped/failed (latest NY noon): post count, breaking, Reels, top 3 (likes+comments+shares), per part
+  YouTube/Facebook/TikTok status (platform_text). roundup.py sends no report except in tests.
+- Published channel = log of live posts (stats + 🗑 Delete, Reels) + roundup_part_line() at each part's post_at:
+  "🎬 Roundup Part n/3 · NAME · 6:25 PM SL · 7:55 AM NY · Facebook · YouTube" (links).
+- Content channel = per part: time (both + NY date), title, caption, numbered album; then ONE backup zip
+  (DESCRIPTIONS-AND-TIMES.txt, covers, partN_slides/; slides dropped if >48 MB). mp4s go to the bot chat only when an
+  upload failed / nothing was uploaded, or in tests.
+- Times: both_times(t) = "6:25 PM SL · 7:55 AM NY", ny_date_text(t) = "Wed, Nov 18, 2026"; both zones via zoneinfo
+  (never a fixed offset). ROUNDUP_TIMES_NY = 07:55/09:55/11:55; there is no SL times setting.
+- FB_SOFT_CAP (30): soft_cap_reason() in draft_one (with not_important_reason) — when fb_posts_today (posted +
+  queued, NY day) ≥ cap, only BREAKING or importance ≥ FB_SOFT_CAP_MIN_IMPORTANCE (8) stories are made; others are
+  skipped quietly (recent_topics "skipped"). AUTO_MAX_PER_DAY 80 stays the absolute limit.
 
 ## Design rules (image 1080×1350)
 - Brand: black background, white text, red **#CE0000**, Poppins font, logo `assets/logo.png` top-left.

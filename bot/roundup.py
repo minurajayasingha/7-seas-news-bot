@@ -6,7 +6,7 @@ Run by .github/workflows/roundup.yml after you approve the plan in Telegram (or 
 1. reads the approved plan + the day's posts from state/state.json (read only: the normal bot owns that file)
 2. per part: the TikTok slides (1080x1350 cover + each post), the 1080x1920 video and its cover
 3. uploads: Facebook Reel (scheduled), YouTube Short (scheduled) — not in --test
-4. sends the TikTok slides + texts and a backup package to Telegram
+4. content channel: per part the TikTok text + numbered slides, then ONE backup zip (texts, covers, full slides)
 5. writes the results to state/roundup.json (the normal bot reads it for the reminders)
 """
 import argparse
@@ -502,15 +502,15 @@ def esc(t):
 
 
 def when(post_at):
-    return f"{M.ny_time(post_at)} NY ({M.lk_time(post_at)} SL)"
+    return M.both_times(post_at)                   # "6:25 PM SL · 7:55 AM NY"
 
 
 def send_tiktok(ch, n, part, texts, slides, post_at, day):
-    """a) text with title + caption to copy  b) the slides as photo albums  c) one zip of full-quality slides."""
-    ny_date = post_at.astimezone(M.ZoneInfo(SLOT_TIMEZONE))
+    """a) text with time + title + caption to copy  b) the numbered slides as photo albums
+    (the full-quality slides are in the one backup zip)."""
     M.tg("sendMessage", chat_id=ch, parse_mode="HTML", disable_web_page_preview="true", text=(
-        f"📲 <b>TikTok Part {n}/3</b> · {esc(part['name'])} · post at {when(post_at)} · "
-        f"{ny_date:%b} {ny_date.day}, {ny_date.year} (New York, for TikTok Studio)\n\n"
+        f"📲 <b>TikTok Part {n}/3</b> · {esc(part['name'])}\n"
+        f"🕒 Post at <b>{when(post_at)}</b> · {M.ny_date_text(post_at)} (New York date for TikTok Studio)\n\n"
         f"<b>Title</b> (tap to copy):\n<code>{esc(texts['tiktok_title'])}</code>\n\n"
         f"<b>Caption</b> (tap to copy):\n<code>{esc(texts['tiktok_caption'])}</code>\n\n"
         f"📱 Open the album below → ⋮ → <b>Save to gallery</b> → TikTok ＋ → Photos → tap 1, 2, 3… in order."))
@@ -528,12 +528,6 @@ def send_tiktok(ch, n, part, texts, slides, post_at, day):
         j = M.tg("sendMediaGroup", chat_id=ch, media=media, files=files)
         if not j.get("ok"):
             raise RuntimeError("Telegram album: " + str(j.get("description")))
-    buf = io.BytesIO()
-    with zipfile.ZipFile(buf, "w", zipfile.ZIP_STORED) as z:
-        for name, data, _ in slides:
-            z.writestr(f"part{n}/{name}", data)
-    M.tg("sendDocument", chat_id=ch, caption=f"🗂 TikTok Part {n}/3 slides, full quality ({total} images)",
-         files={"document": (f"tiktok_{day:%Y-%m-%d}_part{n}.zip", buf.getvalue(), "application/zip")})
 
 
 def descriptions_txt(day, parts_out):
@@ -541,7 +535,7 @@ def descriptions_txt(day, parts_out):
     for n, p in enumerate(parts_out, 1):
         t, at = p["texts"], datetime.fromisoformat(p["texts"]["post_at"])
         out += [f"PART {n}/3 · {p['name']} · {len(p['posts'])} stories · {p['seconds']:.0f} s",
-                f"Post at: {when(at)}", "",
+                f"Post at: {when(at)} · {M.ny_date_text(at)} (New York date)", "",
                 "TIKTOK TITLE:", t["tiktok_title"], "", "TIKTOK CAPTION:", t["tiktok_caption"], "",
                 "YOUTUBE TITLE:", t["yt_title"], "", "YOUTUBE DESCRIPTION:", t["yt_description"], "",
                 "YOUTUBE TAGS:", ", ".join(t["yt_tags"]), "", "FACEBOOK CAPTION:", t["fb_caption"], "", "-" * 60, ""]
@@ -553,7 +547,8 @@ def descriptions_txt(day, parts_out):
 # =============================================================================
 
 def post_times(day, test):
-    """8 / 10 / 12 New York the next morning; if we are late, all three move by the same amount."""
+    """ROUNDUP_TIMES_NY (7:55 / 9:55 / 11:55 New York) the next morning; if we are late, all three move by the
+    same amount."""
     times = M.roundup_times(day)
     if test:
         return times
@@ -632,7 +627,7 @@ def run(day_s, test=False):
                 r["yt"] = {"state": "off" if not ROUNDUP_YOUTUBE else "no secrets"}
         results.append(r)
 
-    # Telegram: TikTok slides per part, then the backup package (videos + covers + texts)
+    # content channel: per part the TikTok text + numbered slides, then ONE backup zip
     tt_ok = []
     for p in parts_out:
         if not ROUNDUP_TIKTOK:
@@ -644,18 +639,37 @@ def run(day_s, test=False):
         except Exception as e:
             log("TikTok slides failed:", e)
             tt_ok.append("error: " + str(e)[:100])
-    for p in parts_out:
-        M.tg("sendDocument", chat_id=ch, caption=f"🎬 Part {p['n']}/3 · {p['name']} · video ({p['seconds']:.0f} s) "
-                                                  f"for YouTube / Facebook / TikTok",
-             files={"document": (f"7seas_{day:%Y-%m-%d}_part{p['n']}.mp4", p["video"], "video/mp4")})
-    buf = io.BytesIO()
-    with zipfile.ZipFile(buf, "w", zipfile.ZIP_DEFLATED) as z:
-        z.writestr("DESCRIPTIONS-AND-TIMES.txt", descriptions_txt(day, parts_out))
-        for p in parts_out:
-            z.writestr(f"part{p['n']}_cover_9x16.jpg", jpg(tall(p["cover"])))
-            z.writestr(f"part{p['n']}_cover_4x5.jpg", jpg(p["cover"]))
-    M.tg("sendDocument", chat_id=ch, caption="📦 Backup: covers + DESCRIPTIONS-AND-TIMES.txt (titles, captions, tags, times)",
-         files={"document": (f"7seas_roundup_{day:%Y-%m-%d}.zip", buf.getvalue(), "application/zip")})
+    for r, tt in zip(results, tt_ok):
+        r["tt"] = {"state": "sent"} if tt == "sent" else ({"state": "off"} if tt == "off" else
+                                                           {"state": "error", "error": tt[7:]})
+
+    # ONE backup zip in the content channel: texts + covers + full-quality slides (no videos: they are uploaded)
+    def backup_zip(with_slides):
+        buf = io.BytesIO()
+        with zipfile.ZipFile(buf, "w", zipfile.ZIP_DEFLATED) as z:
+            z.writestr("DESCRIPTIONS-AND-TIMES.txt", descriptions_txt(day, parts_out))
+            for p in parts_out:
+                z.writestr(f"part{p['n']}_cover_9x16.jpg", jpg(tall(p["cover"])))
+                z.writestr(f"part{p['n']}_cover_4x5.jpg", jpg(p["cover"]))
+                for name, data, _ in (p["slides"] if with_slides else []):
+                    z.writestr(f"part{p['n']}_slides/{name}", data)
+        return buf.getvalue()
+    data, full = backup_zip(True), True
+    if len(data) > 48 * 1024 * 1024:               # Telegram bots can send files up to 50 MB
+        data, full = backup_zip(False), False
+    M.tg("sendDocument", chat_id=ch, caption="📦 Backup: DESCRIPTIONS-AND-TIMES.txt (titles, captions, tags, times), "
+                                              "covers" + (" and full-quality TikTok slides" if full else ""),
+         files={"document": (f"7seas_roundup_{day:%Y-%m-%d}.zip", data, "application/zip")})
+
+    # a video goes to the bot chat only when you must post it by hand (an upload failed / nothing uploaded) or in a test
+    for p, r in zip(parts_out, results):
+        states = [r["fb"].get("state"), r["yt"].get("state")]
+        uploaded = any(x in ("scheduled", "draft") for x in states)
+        if test or "error" in states or not uploaded:
+            why = "test" if test else "upload failed — post it by hand" if "error" in states else "not uploaded anywhere"
+            M.tg("sendDocument", chat_id=M.TG_CHAT,
+                 caption=f"🎬 Part {p['n']}/3 · {p['name']} · {p['seconds']:.0f} s · {when(p['at'])} ({why})",
+                 files={"document": (f"7seas_{day:%Y-%m-%d}_part{p['n']}.mp4", p["video"], "video/mp4")})
 
     # report
     icon = {"scheduled": "✅ scheduled", "draft": "🕒 saved, the bot publishes it at the time", "off": "off",
@@ -669,10 +683,8 @@ def run(day_s, test=False):
                     f"{when(p['at'])}\nFacebook: {show(r['fb'])}\nYouTube: {show(r['yt'])}"
                     + (f" <a href=\"{r['yt']['url']}\">link</a>" if r["yt"].get("url") else "")
                     + f"\nTikTok slides: {'✅ sent to ' + ('your content channel' if ch != M.TG_CHAT else 'this chat') if tt == 'sent' else esc(tt)}")
-    if any(r["fb"].get("state") == "error" or r["yt"].get("state") == "error" for r in results):
-        rows.append("\n⚠️ Something failed (after one retry). The videos + texts are in the content channel — "
-                    "you can post them by hand.")
-    M.tg_text("\n".join(rows))
+    if test:                       # a real roundup is reported by the normal bot in ONE daily report
+        M.tg_text("\n".join(rows))
     save_result(day_s, {"built_at": M.now_utc().isoformat(), "test": test, "parts": results})
 
 
