@@ -1,95 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "6c4d0f6c73": {
-   "id": "6c4d0f6c73",
-   "headline": "Marco Rubio addresses Federalist Society convention in Washington",
-   "summary": "Secretary of State Marco Rubio delivered a lecture at the Federalist Society’s National Lawyers Convention on Friday. He discussed conservative ideology and addressed Republican midterm losses during the event.",
-   "label": "US POLITICS",
-   "hook": "How should conservatives approach building long-term political movements?",
-   "key_points": [
-    "Rubio spoke at the Barbara K. Olson Memorial Lecture.",
-    "He downplayed Republican midterm losses during his remarks.",
-    "Rubio addressed rumors regarding his political future."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#MarcoRubio",
-    "#USPolitics",
-    "#FederalistSociety"
-   ],
-   "sources": [
-    "NBC News",
-    "Washington Examiner"
-   ],
-   "link": "https://www.nbcnews.com/politics/trump-administration/rubio-urges-conservatives-uplift-ideology-brushes-republicans-midterm-rcna609284",
-   "links": [
-    [
-     "NBC News",
-     "https://www.nbcnews.com/politics/trump-administration/rubio-urges-conservatives-uplift-ideology-brushes-republicans-midterm-rcna609284"
-    ],
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/news/white-house/4803550/rubio-buoys-conservative-spirits-federalist-society-speech/"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Official_portrait_of_the_United_States_Secretary_of_State_Marco_Rubio%2C_January_2025_%28cropped%29.jpg/1280px-Official_portrait_of_the_United_States_Secretary_of_State_Marco_Rubio%2C_January_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "U.S. Department of State / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Marco Rubio addresses Federalist Society convention in Washington",
-    "people": [
-     "Marco Rubio"
-    ],
-    "image_query": "US Capitol dome",
-    "image_queries": [
-     "Senate chamber",
-     "Capitol Hill",
-     "Department of State building",
-     "Washington convention center"
-    ],
-    "image_style": "person",
-    "location": "Washington, US",
-    "nearby_city": "Washington, DC",
-    "event_query": "Federalist Society National Lawyers Convention",
-    "news_time": null,
-    "label": "US POLITICS"
-   },
-   "created_at": "2026-11-14T03:45:51.644613+00:00",
-   "news_time": "2026-11-14T00:19:24+00:00",
-   "news_latest": "2026-11-14T03:38:33+00:00",
-   "caption": "Marco Rubio addresses Federalist Society convention in Washington\n\nSecretary of State Marco Rubio delivered a lecture at the Federalist Society’s National Lawyers Convention on Friday. He discussed conservative ideology and addressed Republican midterm losses during the event.\n\n💬 How should conservatives approach building long-term political movements?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#MarcoRubio #USPolitics #FederalistSociety #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 529,
-   "tg_file_id": "AgACAgUAAxkDAAICEWr32XTYrYcwZCuIsgIIEcRlurc_AAJTFGsbFv3AV-uZw_FtVy-GAQADAgADdwADPQQ",
-   "extra_msgs": [],
-   "dup_ok": true,
-   "queued_at": "2026-11-14T03:46:11.076302+00:00",
-   "post_now": true,
-   "post_at": "2026-11-14T03:46:11.076317+00:00",
-   "post_label": "🚀 Posting now",
-   "fb_post_id": "1413030521900096_122100862431548584",
-   "posted_at": "2026-11-14T03:46:11.380198+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 13 · 10:46 PM New York · 9:16 AM Sri Lanka\n\n<b>Marco Rubio addresses Federalist Society convention in Washington</b>\n<i>NBC News, Washington Examiner</i>\n🟢 <b>Latest:</b> 9:08 AM Sri Lanka (7 min ago) · first reported 5:49 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122100862431548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 339,
-   "log_photo": true,
-   "cleared": true,
-   "fb_comment_id": "122100862431548584_1128108846888760",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-17T03:30:47.754905+00:00"
-  },
   "86dd73c14b": {
    "id": "86dd73c14b",
    "headline": "Josh Shapiro states plans for minimum wage and abortion rights",
@@ -15709,17 +15620,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-18T03:30:48.410100+00:00",
+ "last_draft_at": "2026-11-18T03:45:37.441197+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T03:01:51.836192+00:00",
  "run_log": [
-  "11-18 01:18:58 run start",
-  "11-18 01:19:31 listening 11 min",
-  "11-18 01:30:25 listening done",
-  "11-18 01:30:25 run end after 686 s",
   "11-18 01:31:00 run start",
   "11-18 01:31:10 listening 11 min",
   "11-18 01:42:29 listening done",
@@ -15755,7 +15662,11 @@
   "11-18 03:30:47 run start",
   "11-18 03:31:22 listening 11 min",
   "11-18 03:42:17 listening done",
-  "11-18 03:42:17 run end after 689 s"
+  "11-18 03:42:17 run end after 689 s",
+  "11-18 03:45:37 run start",
+  "11-18 03:45:56 listening 11 min",
+  "11-18 03:57:15 listening done",
+  "11-18 03:57:15 run end after 698 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
