@@ -12844,27 +12844,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-15T12:31:04.120555+00:00",
-   [
-    "asean",
-    "attend",
-    "australia",
-    "begin",
-    "condemn",
-    "deterrenc",
-    "joint",
-    "manila",
-    "military",
-    "philippin",
-    "policy",
-    "protester",
-    "stak",
-    "strengthen",
-    "summit"
-   ],
-   "25dbc9e8bc"
-  ],
-  [
    "2026-11-15T12:46:09.912756+00:00",
    [
     "aircraft",
@@ -15766,17 +15745,13 @@
    "d2dd1e13d0"
   ]
  ],
- "last_draft_at": "2026-11-18T12:16:32.865134+00:00",
+ "last_draft_at": "2026-11-18T12:30:59.579281+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T12:15:43.626712+00:00",
  "run_log": [
-  "11-18 10:08:43 run start",
-  "11-18 10:10:59 listening 9 min",
-  "11-18 10:20:13 listening done",
-  "11-18 10:20:13 run end after 690 s",
   "11-18 10:20:41 run start",
   "11-18 10:22:01 listening 10 min",
   "11-18 10:32:29 listening done",
@@ -15812,7 +15787,11 @@
   "11-18 12:15:43 run start",
   "11-18 12:16:42 listening 11 min",
   "11-18 12:27:11 listening done",
-  "11-18 12:27:11 run end after 688 s"
+  "11-18 12:27:11 run end after 688 s",
+  "11-18 12:30:59 run start",
+  "11-18 12:31:19 listening 11 min",
+  "11-18 12:42:39 listening done",
+  "11-18 12:42:39 run end after 700 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
