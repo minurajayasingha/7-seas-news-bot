@@ -12524,7 +12524,12 @@
   "https://www.aljazeera.com/news/2026/11/18/crimea-is-turning-into-an-island-how-ukraine-hit-putins-prized-bridge?traffic_source=rss",
   "https://kyivindependent.com/new-video-shows-damage-to-crimean-bridge-as-train-traffic-resumes/",
   "https://www.euronews.com/2026/11/18/israeli-military-launches-new-operation-on-central-gaza-despite-ceasefire",
-  "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza?traffic_source=rss"
+  "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza?traffic_source=rss",
+  "https://thehill.com/policy/transportation/6227655-waymo-freeway-rides-safety-hazards-suspension/",
+  "https://www.washingtonexaminer.com/policy/technology/4807170/waymo-removes-driverless-vehicles-freeways-nationwide-public-safety/",
+  "https://www.upi.com/Top_News/US/2026/11/18/california-bans-waymo-freeways/4251795009922/",
+  "https://www.france24.com/en/europe/20261118-russia-new-low-cost-munitions-threat-ukraine",
+  "https://kyivindependent.com/exclusive-trumps-envoys-warn-russia-that-time-is-running-out-to-secure-a-deal-on-ukraine/"
  ],
  "recent_topics": [
   [
@@ -15448,19 +15453,37 @@
     "york"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-18T16:24:24.794867+00:00",
+   [
+    "ban",
+    "california",
+    "cit",
+    "driverless",
+    "freeway",
+    "hazard",
+    "imminent",
+    "public",
+    "pull",
+    "remov",
+    "rid",
+    "safety",
+    "suspend",
+    "taxi",
+    "vehicl",
+    "waymo"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-18T16:12:28.646211+00:00",
+ "last_draft_at": "2026-11-18T16:23:56.856136+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T16:11:31.992023+00:00",
  "run_log": [
-  "11-18 13:45:48 run start",
-  "11-18 13:48:27 listening 9 min",
-  "11-18 13:57:14 listening done",
-  "11-18 13:57:14 run end after 686 s",
   "11-18 14:00:44 run start",
   "11-18 14:00:53 listening 11 min",
   "11-18 14:12:11 listening done",
@@ -15496,7 +15519,11 @@
   "11-18 16:11:31 run start",
   "11-18 16:13:13 listening 10 min",
   "11-18 16:23:17 listening done",
-  "11-18 16:23:17 run end after 705 s"
+  "11-18 16:23:17 run end after 705 s",
+  "11-18 16:23:56 run start",
+  "11-18 16:24:46 listening 11 min",
+  "11-18 16:35:39 listening done",
+  "11-18 16:35:39 run end after 703 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
