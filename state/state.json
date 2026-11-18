@@ -12623,7 +12623,10 @@
   "https://abcnews.com/International/wireStory/ukraine-hit-2-russian-oil-refineries-zelenskyy-hails-138250394",
   "https://kyivindependent.com/why-ukraines-strike-on-crimean-bridge-is-such-a-big-deal/",
   "https://abcnews.com/International/wireStory/el-salvadors-president-confirms-celebrates-attack-home-key-138251283",
-  "https://www.upi.com/Top_News/World-News/2026/11/18/latam-haiti-bukele-marches/5511795014914/"
+  "https://www.upi.com/Top_News/World-News/2026/11/18/latam-haiti-bukele-marches/5511795014914/",
+  "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
+  "https://www.independent.co.uk/news/world/europe/julio-iglesias-accusations-court-spain-b3087226.html",
+  "https://www.theguardian.com/world/2026/nov/18/spanish-court-investigates-julio-iglesias-two-women-allegations"
  ],
  "recent_topics": [
   [
@@ -15623,19 +15626,37 @@
     "zelenskyy"
    ],
    "c69a55dc25"
+  ],
+  [
+   "2026-11-18T16:48:49.873446+00:00",
+   [
+    "abus",
+    "alleg",
+    "claim",
+    "court",
+    "fac",
+    "high",
+    "iglesia",
+    "investigat",
+    "investigation",
+    "julio",
+    "offenc",
+    "open",
+    "prob",
+    "sexual",
+    "spain",
+    "spanish"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-18T16:36:21.689198+00:00",
+ "last_draft_at": "2026-11-18T16:48:38.864251+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T16:11:31.992023+00:00",
  "run_log": [
-  "11-18 14:15:39 run start",
-  "11-18 14:18:26 listening 9 min",
-  "11-18 14:28:07 listening done",
-  "11-18 14:28:07 run end after 747 s",
   "11-18 14:44:08 run start",
   "11-18 14:47:19 listening 8 min",
   "11-18 14:51:08 run start",
@@ -15671,7 +15692,11 @@
   "11-18 16:36:21 run start",
   "11-18 16:40:26 listening 7 min",
   "11-18 16:47:59 listening done",
-  "11-18 16:47:59 run end after 698 s"
+  "11-18 16:47:59 run end after 698 s",
+  "11-18 16:48:38 run start",
+  "11-18 16:48:49 listening 11 min",
+  "11-18 17:00:08 listening done",
+  "11-18 17:00:08 run end after 690 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
