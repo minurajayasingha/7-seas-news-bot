@@ -12601,7 +12601,14 @@
   "https://thehill.com/homenews/senate/6227288-us-philippines-economic-cooperation/",
   "https://www.nytimes.com/2026/11/18/world/asia/trump-imelda-marcos.html",
   "https://thehill.com/opinion/technology/6225538-airport-perimeter-vulnerabilities-drones/",
-  "https://www.washingtonexaminer.com/pentagon-posture/4805605/dhs-tests-counter-drone-weapons-choctaw-nation-reservation/"
+  "https://www.washingtonexaminer.com/pentagon-posture/4805605/dhs-tests-counter-drone-weapons-choctaw-nation-reservation/",
+  "https://www.upi.com/Top_News/US/2026/11/18/house-democrats-letters-investigations/1061795013341/",
+  "https://thehill.com/homenews/house/6227378-ted-lieu-house-democrat-caucus-chair/",
+  "https://www.aljazeera.com/news/2026/11/18/how-the-us-house-of-representatives-chooses-its-leaders-a-visual-guide?traffic_source=rss",
+  "https://thehill.com/homenews/media/6227543-vance-nyt-dealbook-summit-tech-outages/",
+  "https://www.washingtonexaminer.com/news/white-house/4807195/vance-skip-new-york-times-event/",
+  "https://www.dw.com/en/north-korea-expanded-uranium-enrichment-plant-says-iaea-head/a-79982758?maca=en-rss-en-world-4025-rdf",
+  "https://www.france24.com/en/asia-pacific/20261118-north-korea-completes-external-works-on-enrichment-facility-extension-says-iaea"
  ],
  "recent_topics": [
   [
@@ -15490,19 +15497,69 @@
     "weapon"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-18T15:30:58.547413+00:00",
+   [
+    "administration",
+    "becom",
+    "begin",
+    "caucu",
+    "chairman",
+    "choos",
+    "clinch",
+    "democrat",
+    "election",
+    "expect",
+    "fac",
+    "guid",
+    "hakeem",
+    "hous",
+    "investigat",
+    "jeffry",
+    "leader",
+    "leadership",
+    "lieu",
+    "liv",
+    "nomination",
+    "pois",
+    "prepar",
+    "representativ",
+    "speaker",
+    "tap",
+    "ted",
+    "test",
+    "visual"
+   ],
+   "skipped"
+  ],
+  [
+   "2026-11-18T15:31:05.886474+00:00",
+   [
+    "appearanc",
+    "attend",
+    "cancel",
+    "dealbook",
+    "event",
+    "meet",
+    "nyt",
+    "outag",
+    "skip",
+    "tech",
+    "tim",
+    "vanc",
+    "york"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-18T15:16:10.103279+00:00",
+ "last_draft_at": "2026-11-18T15:30:40.987981+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T15:15:21.657775+00:00",
  "run_log": [
-  "11-18 12:45:50 run start",
-  "11-18 12:52:03 listening 5 min",
-  "11-18 12:57:30 listening done",
-  "11-18 12:57:30 run end after 699 s",
   "11-18 13:00:52 run start",
   "11-18 13:04:12 listening 8 min",
   "11-18 13:12:35 listening done",
@@ -15538,7 +15595,11 @@
   "11-18 15:16:59 run start",
   "11-18 15:16:59 listening 11 min",
   "11-18 15:28:43 listening done",
-  "11-18 15:28:43 run end after 704 s"
+  "11-18 15:28:43 run end after 704 s",
+  "11-18 15:30:40 run start",
+  "11-18 15:31:22 listening 11 min",
+  "11-18 15:42:16 listening done",
+  "11-18 15:42:16 run end after 695 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
