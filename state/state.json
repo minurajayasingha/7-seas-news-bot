@@ -11535,6 +11535,190 @@
    "fb_story_id": "1069993952762808",
    "fb_reel_id": "1338850978290301",
    "reel_status": "live"
+  },
+  "58e1b97b70": {
+   "id": "58e1b97b70",
+   "headline": "House Democrats investigate Howard Lutnick and Nvidia policies",
+   "summary": "House Democrats are launching investigations into President Trump, his family, and top officials. Lawmakers have asked Commerce Secretary Howard Lutnick's family business to preserve records concerning Nvidia and China policy.",
+   "label": "US POLITICS",
+   "hook": "Will these document requests uncover conflicts of interest between family businesses and government policy?",
+   "key_points": [
+    "Inquiries focus on Trump, his family, and administration officials.",
+    "Democrats sent a letter to Brandon Lutnick requesting documents.",
+    "Lawmakers are probing potential ties between Cantwell Fitzgerald and Nvidia."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#HouseDemocrats",
+    "#CommerceDepartment"
+   ],
+   "sources": [
+    "New York Times",
+    "The Hill"
+   ],
+   "link": "https://www.nytimes.com/2026/11/18/us/politics/democrats-cast-investigative-net.html",
+   "links": [
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/18/us/politics/democrats-cast-investigative-net.html"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/homenews/house/6226793-house-investigates-commerce-secretary-conflicts/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Virginia_House_of_Delegates_chamber_2017.jpg",
+      "credit": "Antony-22 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 7,
+      "shows": "Virginia House of Delegates chamber"
+     }
+    ],
+    "inset": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Howard_Lutnick_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "credit": "The White House / Wikimedia Commons (Public domain)",
+     "short": "WIKIMEDIA COMMONS",
+     "score": 10,
+     "shows": "Howard Lutnick smiling in suit"
+    }
+   },
+   "img_post": {
+    "headline": "House Democrats investigate Howard Lutnick and Nvidia policies",
+    "people": [
+     "Howard Lutnick"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "Department of Commerce building",
+     "voting booth"
+    ],
+    "image_style": "scene",
+    "location": "Washington, United States",
+    "nearby_city": "Washington, D.C.",
+    "event_query": "House of Representatives chamber",
+    "topic_photo": "government documents",
+    "label": "US POLITICS",
+    "action_subject": "documents and records",
+    "news_time": "2026-11-18T09:45:00+00:00"
+   },
+   "created_at": "2026-11-18T10:21:08.618574+00:00",
+   "news_time": "2026-11-18T09:45:00+00:00",
+   "news_latest": "2026-11-18T10:04:14+00:00",
+   "importance": 7,
+   "caption": "House Democrats investigate Howard Lutnick and Nvidia policies\n\nHouse Democrats are launching investigations into President Trump, his family, and top officials. Lawmakers have asked Commerce Secretary Howard Lutnick's family business to preserve records concerning Nvidia and China policy.\n\n💬 Will these document requests uncover conflicts of interest between family businesses and government policy?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #HouseDemocrats #CommerceDepartment #7SeasNews",
+   "photo_line": "📷 7/10 Virginia House of Delegates chamber",
+   "status": "posted",
+   "tg_message_id": 778,
+   "tg_file_id": "AgACAgUAAxkDAAIDCmr9fB2dHnwtbEr7wAioxrjKgwq1AAIoFGsbguzwV1Hao9coT76wAQADAgADdwADPQQ",
+   "queued_at": "2026-11-18T10:21:18.137352+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-18T10:21:18.137381+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122105189841548584",
+   "posted_at": "2026-11-18T10:21:29.803390+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 18 · 5:21 AM New York · 3:51 PM Sri Lanka\n\n<b>House Democrats investigate Howard Lutnick and Nvidia policies</b>\n<i>New York Times, The Hill</i>\n🟢 <b>Latest:</b> 3:34 PM Sri Lanka (17 min ago) · first reported 3:15 PM\n📷 7/10 Virginia House of Delegates chamber\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122105189841548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 493,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122105189841548584_1803215664121732"
+  },
+  "a9cefeb130": {
+   "id": "a9cefeb130",
+   "headline": "US faces potential sanctions concerns over upcoming ICJ genocide ruling",
+   "summary": "Fears are growing that the US could impose sanctions on International Court of Justice judges, including Nobel peace prize winner Navi Pillay. The court prepares to rule on whether the Myanmar government committed genocide against the Rohingya, while refugees in exile await the verdict.",
+   "label": "WORLD",
+   "hook": "Will the International Court of Justice rule that Myanmar committed genocide against the Rohingya?",
+   "key_points": [
+    "The ICJ has never found a state responsible for committing genocide.",
+    "Proving intent remains a significant factor in previous cases.",
+    "Rohingya refugees have spent almost a decade in exile."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#ICJ",
+    "#Myanmar",
+    "#Rohingya"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "The Guardian"
+   ],
+   "link": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+   "links": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/features/2026/11/18/we-want-to-go-back-rohingya-refugees-pin-hopes-on-icj-genocide-verdict?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Dutch_courtroom_during_COVID-19_pandemic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "MartinD / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "judges in courtroom"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "US faces potential sanctions concerns over upcoming ICJ genocide ruling",
+    "people": [],
+    "image_query": "Peace Palace The Hague",
+    "image_queries": [
+     "International Court of Justice",
+     "Peace Palace exterior",
+     "courtroom interior",
+     "UN judicial organ"
+    ],
+    "image_style": "scene",
+    "location": "The Hague, Netherlands",
+    "nearby_city": "Amsterdam, Netherlands",
+    "event_query": "International Court of Justice building",
+    "topic_photo": "judge gavel",
+    "label": "WORLD",
+    "action_subject": "courtroom",
+    "news_time": "2026-11-18T08:55:40+00:00"
+   },
+   "created_at": "2026-11-18T10:21:27.781674+00:00",
+   "news_time": "2026-11-18T08:55:40+00:00",
+   "news_latest": "2026-11-18T09:58:28+00:00",
+   "importance": 7,
+   "caption": "US faces potential sanctions concerns over upcoming ICJ genocide ruling\n\nFears are growing that the US could impose sanctions on International Court of Justice judges, including Nobel peace prize winner Navi Pillay. The court prepares to rule on whether the Myanmar government committed genocide against the Rohingya, while refugees in exile await the verdict.\n\n💬 Will the International Court of Justice rule that Myanmar committed genocide against the Rohingya?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#ICJ #Myanmar #Rohingya #7SeasNews",
+   "photo_line": "📷 10/10 judges in courtroom · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 779,
+   "tg_file_id": "AgACAgUAAxkDAAIDC2r9fCmGzOSKkUdc5oOLpTJrVb6UAAIpFGsbguzwVypVV92LDn1QAQADAgADdwADPQQ",
+   "queued_at": "2026-11-18T10:21:29.508638+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-18T10:21:29.508669+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122105189991548584",
+   "posted_at": "2026-11-18T10:21:29.803390+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 18 · 5:21 AM New York · 3:51 PM Sri Lanka\n\n<b>US faces potential sanctions concerns over upcoming ICJ genocide ruling</b>\n<i>Al Jazeera, The Guardian</i>\n🟢 <b>Latest:</b> 3:28 PM Sri Lanka (23 min ago) · first reported 2:25 PM\n📷 10/10 judges in courtroom · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122105189991548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 494,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122105189991548584_875461305648709"
   }
  },
  "seen_links": [
@@ -12951,7 +13135,11 @@
   "https://www.foxnews.com/politics/house-dems-target-trump-family-jd-vance-sweeping-new-investigation-push",
   "https://www.washingtonpost.com/politics/2026/11/18/leading-house-democrat-targets-trumps-inner-circle-first-investigations/",
   "https://www.aljazeera.com/news/2026/11/18/why-democrat-mary-peltolas-us-senate-win-in-alaska-matters?traffic_source=rss",
-  "https://www.euronews.com/2026/11/18/cheers-and-reactions-in-alaska-after-mary-peltolas-senate-win"
+  "https://www.euronews.com/2026/11/18/cheers-and-reactions-in-alaska-after-mary-peltolas-senate-win",
+  "https://www.nytimes.com/2026/11/18/us/politics/democrats-cast-investigative-net.html",
+  "https://thehill.com/homenews/house/6226793-house-investigates-commerce-secretary-conflicts/",
+  "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+  "https://www.aljazeera.com/features/2026/11/18/we-want-to-go-back-rohingya-refugees-pin-hopes-on-icj-genocide-verdict?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -15772,19 +15960,59 @@
     "win"
    ],
    "51cc2eeb8d"
+  ],
+  [
+   "2026-11-18T10:21:18.137203+00:00",
+   [
+    "all",
+    "business",
+    "cast",
+    "democrat",
+    "family",
+    "hous",
+    "investigation",
+    "lutnick",
+    "net",
+    "nvidia",
+    "prepar",
+    "preserv",
+    "record",
+    "trump",
+    "warn",
+    "wid"
+   ],
+   "58e1b97b70"
+  ],
+  [
+   "2026-11-18T10:21:29.508477+00:00",
+   [
+    "ahead",
+    "back",
+    "fear",
+    "genocid",
+    "grow",
+    "hop",
+    "icj",
+    "judg",
+    "myanmar",
+    "pin",
+    "refuge",
+    "rohingya",
+    "rul",
+    "sanction",
+    "verdict",
+    "want"
+   ],
+   "a9cefeb130"
   ]
  ],
- "last_draft_at": "2026-11-18T10:09:17.960923+00:00",
+ "last_draft_at": "2026-11-18T10:20:41.651723+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T10:08:44.306692+00:00",
  "run_log": [
-  "11-18 07:45:52 run start",
-  "11-18 07:46:02 listening 11 min",
-  "11-18 07:57:21 listening done",
-  "11-18 07:57:21 run end after 689 s",
   "11-18 08:00:49 run start",
   "11-18 08:02:12 listening 10 min",
   "11-18 08:12:16 listening done",
@@ -15820,13 +16048,15 @@
   "11-18 10:08:43 run start",
   "11-18 10:10:59 listening 9 min",
   "11-18 10:20:13 listening done",
-  "11-18 10:20:13 run end after 690 s"
+  "11-18 10:20:13 run end after 690 s",
+  "11-18 10:20:41 run start",
+  "11-18 10:22:01 listening 10 min",
+  "11-18 10:32:29 listening done",
+  "11-18 10:32:29 run end after 708 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Intel_microchip_manufacturing_plant_Hudson_MA.JPG/1920px-Intel_microchip_manufacturing_plant_Hudson_MA.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/9/91/Aerial_view_of_Manila%27s_city_center_area_%28Padre_Burgos_area%29_in_Ermita%2C_Manila.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/4/4c/Tokyo_Metropolitan_Government_Building_Morning2_cropped.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/5/59/United_States_Department_of_State_headquarters.jpg",
@@ -15835,7 +16065,6 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Early_Voting_0135_%2830620206795%29.jpg/1920px-Early_Voting_0135_%2830620206795%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Trillion_Peso_March_at_EDSA_Shrine_in_September_2025_16.jpg/1920px-Trillion_Peso_March_at_EDSA_Shrine_in_September_2025_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/6/67/Virginia_House_of_Delegates_chamber_2017.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/US_Navy_040221-N-4936C-032_Air_Traffic_Controller_1st_Class_Marcella_Klauser%2C_a_Facility_Watch_Supervisor_with_the_Air_Operations_Department%2C_communicates_with_an_aircraft_while_on_duty.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/The_building_of_Serbian_Parliament_at_night%2C_October_13%2C_2012.jpg/1920px-The_building_of_Serbian_Parliament_at_night%2C_October_13%2C_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -15864,7 +16093,10 @@
    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Donald_Trump_signs_an_Executive_Order_regarding_childhood_vaccines_in_the_Oval_Office%2C_Monday%2C_August_10%2C_2026_-_5_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Jensen_huang_stanford_2026-04-09_034.jpg/1280px-Jensen_huang_stanford_2026-04-09_034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Madison_August_2022_099_%28Official_Absentee_Ballot_Drop_Box%29.jpg/1920px-Madison_August_2022_099_%28Official_Absentee_Ballot_Drop_Box%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Mary_Peltola_Congressional_Member_Portrait_%282%29.jpeg/1280px-Mary_Peltola_Congressional_Member_Portrait_%282%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Mary_Peltola_Congressional_Member_Portrait_%282%29.jpeg/1280px-Mary_Peltola_Congressional_Member_Portrait_%282%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/6/67/Virginia_House_of_Delegates_chamber_2017.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/c/c9/Howard_Lutnick_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://upload.wikimedia.org/wikipedia/commons/9/96/Dutch_courtroom_during_COVID-19_pandemic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   ],
   "pools": {
    "richard ojeda": {
@@ -16774,7 +17006,7 @@
     ]
    },
    "howard lutnick": {
-    "t": "2026-11-13T02:04:48.895886+00:00",
+    "t": "2026-11-18T10:21:03.627009+00:00",
     "photos": [
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Howard_Lutnick_2025.jpg/1280px-Howard_Lutnick_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -16782,48 +17014,56 @@
       "short": "WIKIMEDIA COMMONS"
      },
      {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/JD_Vance_administers_the_oath_of_Howard_Lutnick_as_Commerce_Secretary_%282025%29.jpg/1280px-JD_Vance_administers_the_oath_of_Howard_Lutnick_as_Commerce_Secretary_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "The White House / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Howard_Lutnick_2025_%28cropped1%29.jpg/1280px-Howard_Lutnick_2025_%28cropped1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Daniel Torok / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Howard_Lutnick_interviewed_in_Nothing_Left_Unsaid_Podcast_%282024%29_01.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Tim Green - Nothing Left Unsaid / Wikimedia Commons (CC BY 3.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
+      "portrait": true,
+      "only": true
      },
      {
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Howard_Lutnick_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "credit": "The White House / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Howard_Lutnick_interviewed_in_Nothing_Left_Unsaid_Podcast_%282024%29_02.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Tim Green - Nothing Left Unsaid / Wikimedia Commons (CC BY 3.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Howard_Lutnick_2025_%28cropped%29_2.jpg/1280px-Howard_Lutnick_2025_%28cropped%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Daniel Torok / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
+      "portrait": true,
+      "only": true
      },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Howard_Lutnick_2025_%28cropped%29.jpg/1280px-Howard_Lutnick_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Daniel Torok / Wikimedia Commons (CC BY 3.0)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Howard_Lutnick_2025_%28cropped%29_2.jpg/1280px-Howard_Lutnick_2025_%28cropped%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Daniel Torok / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Howard_Lutnick_interviewed_in_Nothing_Left_Unsaid_Podcast_%282024%29_01.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Tim Green - Nothing Left Unsaid / Wikimedia Commons (CC BY 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": false
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Howard_Lutnick_interviewed_in_Nothing_Left_Unsaid_Podcast_%282024%29_02.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Tim Green - Nothing Left Unsaid / Wikimedia Commons (CC BY 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/JD_Vance_administers_the_oath_of_Howard_Lutnick_as_Commerce_Secretary_%282025%29.jpg/1280px-JD_Vance_administers_the_oath_of_Howard_Lutnick_as_Commerce_Secretary_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "The White House / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
      }
-    ]
+    ],
+    "v": 2
    },
    "donald trump": {
     "t": "2026-11-17T06:45:56.801714+00:00",
@@ -19205,8 +19445,6 @@
    }
   },
   "recent_ideas": [
-   "church altar",
-   "courtroom",
    "supreme court building",
    "us capitol dome",
    "computer servers",
@@ -19216,7 +19454,9 @@
    "washington dc skyline",
    "parliament members voting",
    "ballot boxes",
-   "ballot boxes"
+   "ballot boxes",
+   "house chamber, united states capitol",
+   "courtroom"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -19638,6 +19878,21 @@
     "s": 10,
     "w": "Mary Peltola official portrait",
     "p": ""
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/c/c9/Howard_Lutnick_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled|person: Howard Lutnick": {
+    "s": 10,
+    "w": "Howard Lutnick smiling in suit",
+    "p": ""
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/6/67/Virginia_House_of_Delegates_chamber_2017.jpg|ed4a6f18": {
+    "s": 7,
+    "w": "Virginia House of Delegates chamber",
+    "p": ""
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/9/96/Dutch_courtroom_during_COVID-19_pandemic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled|ab74e930": {
+    "s": 10,
+    "w": "judges in courtroom",
+    "p": ""
    }
   }
  },
@@ -19649,10 +19904,10 @@
   "2026-11-15": 19,
   "2026-11-16": 32,
   "2026-11-17": 35,
-  "2026-11-18": 2
+  "2026-11-18": 4
  },
- "last_auto_at": "2026-11-18T10:10:10.471799+00:00",
- "last_post_at": "2026-11-18T10:10:18.231278+00:00",
+ "last_auto_at": "2026-11-18T10:21:29.803390+00:00",
+ "last_post_at": "2026-11-18T10:21:50.693086+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
