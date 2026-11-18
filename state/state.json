@@ -12917,7 +12917,9 @@
   "https://www.washingtonpost.com/health/2026/11/17/white-house-pulls-fda-nominee-amid-bipartisan-pushback/",
   "https://www.nbcnews.com/health/health-care/white-house-drops-dr-heidi-overton-fda-nomination-commissioner-rcna609883",
   "https://www.newsweek.com/california-bans-waymo-on-freeways-amid-imminent-hazard-warning-12730346",
-  "https://www.nbcnews.com/news/us-news/waymo-robotaxis-banned-california-freeways-rcna609917"
+  "https://www.nbcnews.com/news/us-news/waymo-robotaxis-banned-california-freeways-rcna609917",
+  "https://www.france24.com/en/americas/20261118-haitians-rally-behind-bukele-as-salvadoran-troops-battle-gangs",
+  "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -15687,19 +15689,34 @@
     "waymo"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-18T02:46:01.338748+00:00",
+   [
+    "anti-gang",
+    "battl",
+    "behind",
+    "bukel",
+    "deployment",
+    "gang",
+    "haitian",
+    "protest",
+    "rally",
+    "salvador",
+    "salvadoran",
+    "support",
+    "troop"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-18T02:30:44.975566+00:00",
+ "last_draft_at": "2026-11-18T02:45:51.675115+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T02:05:08.943990+00:00",
  "run_log": [
-  "11-18 00:09:47 run start",
-  "11-18 00:10:24 listening 11 min",
-  "11-18 00:18:02 run start",
-  "11-18 00:18:02 listening 11 min",
   "11-18 00:29:46 listening done",
   "11-18 00:29:46 run end after 704 s",
   "11-18 00:30:47 run start",
@@ -15735,7 +15752,11 @@
   "11-18 02:30:44 run start",
   "11-18 02:30:55 listening 11 min",
   "11-18 02:42:14 listening done",
-  "11-18 02:42:14 run end after 690 s"
+  "11-18 02:42:14 run end after 690 s",
+  "11-18 02:45:51 run start",
+  "11-18 02:46:01 listening 11 min",
+  "11-18 02:57:21 listening done",
+  "11-18 02:57:21 run end after 690 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
