@@ -1,84 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "f74e3c9e03": {
-   "id": "f74e3c9e03",
-   "headline": "Trump, Xi and Putin to hold unprecedented meeting",
-   "summary": "The White House announced that the leaders of the US, China and Russia will hold an unprecedented meeting. The gathering is scheduled for the sidelines of a major economic summit.",
-   "label": "DIPLOMACY",
-   "hook": "",
-   "key_points": [
-    "The meeting involves the leaders of the US, China and Russia.",
-    "The gathering will take place on the sidelines of an economic summit.",
-    "The announcement was made by the White House."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#WhiteHouse",
-    "#Diplomacy",
-    "#WorldNews"
-   ],
-   "sources": [
-    "DW",
-    "Sky News",
-    "The Independent"
-   ],
-   "link": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-world-4025-rdf",
-   "links": [
-    [
-     "DW",
-     "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-world-4025-rdf"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/europe/ukraine-nato-russia-kyiv-moscow-b3084955.html"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-diesel-deal-vladimir-putin-b3084408.html"
-    ],
-    [
-     "Sky News",
-     "https://news.sky.com/story/trump-xi-and-putin-to-hold-unprecedented-meeting-white-house-says-13612124"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/White_House_South_Lawn_%28Is_that_Bo_the_dog%3F%29_%283452051226%29.jpg/1920px-White_House_South_Lawn_%28Is_that_Bo_the_dog%3F%29_%283452051226%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Francisco Anzola / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Trump, Xi and Putin to hold unprecedented meeting",
-    "people": [],
-    "image_query": "White House",
-    "image_queries": [
-     "Washington D.C. skyline",
-     "economic summit venue",
-     "White House exterior",
-     "international conference hall"
-    ],
-    "image_style": "scene",
-    "location": "Washington, D.C., US",
-    "nearby_city": "Washington, D.C.",
-    "event_query": "White House summit meeting",
-    "news_time": null,
-    "label": "DIPLOMACY"
-   },
-   "created_at": "2026-11-14T12:01:56.764918+00:00",
-   "news_time": "2026-11-14T08:19:00+00:00",
-   "news_latest": "2026-11-14T11:40:00+00:00",
-   "caption": "Trump, Xi and Putin to hold unprecedented meeting\n\nThe White House announced that the leaders of the US, China and Russia will hold an unprecedented meeting. The gathering is scheduled for the sidelines of a major economic summit.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WhiteHouse #Diplomacy #WorldNews #7SeasNews",
-   "status": "expired",
-   "tg_message_id": 539,
-   "tg_file_id": "AgACAgUAAxkDAAICG2r4TcdWmPDpQ2j8Yx4XXan1WRTxAAJpE2sbT5fJVxJpBRZl0NPzAQADAgADdwADPQQ",
-   "extra_msgs": [],
-   "cleared": true
-  },
   "97e76fab97": {
    "id": "97e76fab97",
    "headline": "Persian Gulf monarchies brace for potential Democratic corruption scrutiny",
@@ -11377,6 +11299,195 @@
     "shares": 0
    },
    "stats_at": "2026-11-18T11:15:33.189502+00:00"
+  },
+  "4b1632ddd3": {
+   "id": "4b1632ddd3",
+   "headline": "UK inflation rises to 3.6 percent in October",
+   "summary": "Office for National Statistics figures show the UK headline inflation rate rose to 3.6 percent in October, up from 3.5 percent in September. The increase follows higher petrol and diesel prices amid fallout from the war in the Middle East.",
+   "label": "ECONOMY",
+   "hook": "Will rising fuel costs continue to push up inflation rates in the coming months?",
+   "key_points": [
+    "Inflation reached its highest level for a year.",
+    "Petrol and diesel prices hit record highs.",
+    "Energy bills in Great Britain are forecast to rise."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#UKInflation",
+    "#Economy",
+    "#WorldNews"
+   ],
+   "sources": [
+    "ABC News",
+    "The Guardian"
+   ],
+   "link": "https://abcnews.com/International/wireStory/uk-inflation-rises-year-high-possibility-straight-rate-138242229",
+   "links": [
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/uk-inflation-rises-year-high-possibility-straight-rate-138242229"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Sign-20260829_203518%2C_Isle_of_Skye%2C_Scotland.jpg/1920px-Sign-20260829_203518%2C_Isle_of_Skye%2C_Scotland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Mucklagh / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "petrol station price display"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "UK inflation rises to 3.6 percent in October",
+    "people": [],
+    "image_query": "London city skyline",
+    "image_queries": [
+     "London financial district",
+     "gas station petrol prices",
+     "Bank of England building",
+     "London street traffic"
+    ],
+    "image_style": "scene",
+    "location": "London, United Kingdom",
+    "nearby_city": "London, United Kingdom",
+    "event_query": "Office for National Statistics building London",
+    "topic_photo": "gas station pump",
+    "label": "ECONOMY",
+    "action_subject": "petrol station price display",
+    "news_time": "2026-11-18T10:14:26+00:00"
+   },
+   "created_at": "2026-11-18T12:02:37.216562+00:00",
+   "news_time": "2026-11-18T10:14:26+00:00",
+   "news_latest": "2026-11-18T11:50:15+00:00",
+   "importance": 6,
+   "caption": "UK inflation rises to 3.6 percent in October\n\nOffice for National Statistics figures show the UK headline inflation rate rose to 3.6 percent in October, up from 3.5 percent in September. The increase follows higher petrol and diesel prices amid fallout from the war in the Middle East.\n\n💬 Will rising fuel costs continue to push up inflation rates in the coming months?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#UKInflation #Economy #WorldNews #7SeasNews",
+   "photo_line": "📷 10/10 petrol station price display · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 782,
+   "tg_file_id": "AgACAgUAAxkDAAIDDGr9lHuokrUqSO5sNIMD8KglMtkmAAJTFGsbguzwVy5PD4rTRfq5AQADAgADdwADPQQ",
+   "queued_at": "2026-11-18T12:05:25.696644+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-18T12:05:25.696669+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122105264883548584",
+   "posted_at": "2026-11-18T12:08:06.294588+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 18 · 7:08 AM New York · 5:38 PM Sri Lanka\n\n<b>UK inflation rises to 3.6 percent in October</b>\n<i>ABC News, The Guardian</i>\n🟢 <b>Latest:</b> 5:20 PM Sri Lanka (18 min ago) · first reported 3:44 PM\n📷 10/10 petrol station price display · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122105264883548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 495,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122105264883548584_1877215176741580"
+  },
+  "d2dd1e13d0": {
+   "id": "d2dd1e13d0",
+   "headline": "House Democrats meet to nominate Hakeem Jeffries for speaker",
+   "summary": "House Minority Leader Hakeem Jeffries faces a leadership vote on Wednesday. Democrats are expected to officially elect him as speaker in a floor vote in January.",
+   "label": "ELECTIONS",
+   "hook": "Will House Democrats unite behind Hakeem Jeffries for speaker?",
+   "key_points": [
+    "Caucus leadership elections take place on Wednesday.",
+    "The Democratic coalition secured at least 257 House seats in the 2026 midterm elections."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#HouseDemocrats",
+    "#HakeemJeffries"
+   ],
+   "sources": [
+    "ABC News",
+    "CBS News",
+    "Washington Examiner"
+   ],
+   "link": "https://www.cbsnews.com/news/house-democrats-hakeem-jeffries-speaker-nomination-progressives/",
+   "links": [
+    [
+     "CBS News",
+     "https://www.cbsnews.com/news/house-democrats-hakeem-jeffries-speaker-nomination-progressives/"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/house/4806931/hakeem-jeffries-speaker-test-democrats-united/"
+    ],
+    [
+     "ABC News",
+     "https://abcnews.com/Politics/wireStory/democrat-hakeem-jeffries-faces-test-becoming-house-speaker-138238553"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/US_Navy_041102-N-5134H-001_Master_Chief_Aviation_Electronics_Mate_Edward_Betz_departs_a_voters_polling_place_at_Oak_Harbor_School_District_Administration_Building_201.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Navy photo by Photographer's Mate 2nd Class Michael D.  / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 8,
+      "shows": "voter at polling station"
+     }
+    ],
+    "file_photo": true,
+    "inset": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Hakeem_Jeffries_official_portrait_%28cropped%29.jpg/1280px-Hakeem_Jeffries_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credit": "United States Congress / Wikimedia Commons (Public domain)",
+     "short": "WIKIMEDIA COMMONS",
+     "score": 10,
+     "shows": "portrait of Hakeem Jeffries"
+    }
+   },
+   "img_post": {
+    "headline": "House Democrats meet to nominate Hakeem Jeffries for speaker",
+    "people": [
+     "Hakeem Jeffries"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "House of Representatives chamber",
+     "Capitol Hill",
+     "voting booth",
+     "US Capitol dome"
+    ],
+    "image_style": "scene",
+    "location": "Washington, US",
+    "nearby_city": "Washington, D.C.",
+    "event_query": "House leadership elections",
+    "topic_photo": "ballot box",
+    "label": "ELECTIONS",
+    "action_subject": "voting session",
+    "news_time": "2026-11-18T06:43:46+00:00"
+   },
+   "created_at": "2026-11-18T12:05:54.276517+00:00",
+   "news_time": "2026-11-18T06:43:46+00:00",
+   "news_latest": "2026-11-18T11:00:11+00:00",
+   "importance": 7,
+   "caption": "House Democrats meet to nominate Hakeem Jeffries for speaker\n\nHouse Minority Leader Hakeem Jeffries faces a leadership vote on Wednesday. Democrats are expected to officially elect him as speaker in a floor vote in January.\n\n💬 Will House Democrats unite behind Hakeem Jeffries for speaker?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #HouseDemocrats #HakeemJeffries #7SeasNews",
+   "photo_line": "📷 8/10 voter at polling station · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 785,
+   "tg_file_id": "AgACAgUAAxkDAAIDD2r9lPd5NwAB-8JYErsgIRLp1f3XbQACVhRrG4Ls8Ffrw7Hw3MOlKwEAAwIAA3cAAz0E",
+   "queued_at": "2026-11-18T12:08:05.944187+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-18T12:08:05.944218+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122105265249548584",
+   "posted_at": "2026-11-18T12:08:06.294588+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 18 · 7:08 AM New York · 5:38 PM Sri Lanka\n\n<b>House Democrats meet to nominate Hakeem Jeffries for speaker</b>\n<i>ABC News, CBS News, Washington Examiner</i>\n🟡 <b>Latest:</b> 4:30 PM Sri Lanka (1h 8m ago) · first reported 12:13 PM\n📷 8/10 voter at polling station · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122105265249548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 496,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122105265249548584_29757280650629691"
   }
  },
  "seen_links": [
@@ -12799,7 +12910,14 @@
   "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
   "https://www.aljazeera.com/features/2026/11/18/we-want-to-go-back-rohingya-refugees-pin-hopes-on-icj-genocide-verdict?traffic_source=rss",
   "https://www.aljazeera.com/sports/2026/11/18/venezuelan-boxer-linares-detained-in-us-and-faces-deportation-ice-confirms?traffic_source=rss",
-  "https://www.bbc.co.uk/sport/boxing/articles/cknv4q197dymo?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/sport/boxing/articles/cknv4q197dymo?at_medium=RSS&at_campaign=rss",
+  "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+  "https://www.newsweek.com/alaska-map-areas-flip-red-blue-peltola-win-12732368",
+  "https://abcnews.com/International/wireStory/uk-inflation-rises-year-high-possibility-straight-rate-138242229",
+  "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
+  "https://www.cbsnews.com/news/house-democrats-hakeem-jeffries-speaker-nomination-progressives/",
+  "https://www.washingtonexaminer.com/news/house/4806931/hakeem-jeffries-speaker-test-democrats-united/",
+  "https://abcnews.com/Politics/wireStory/democrat-hakeem-jeffries-faces-test-becoming-house-speaker-138238553"
  ],
  "recent_topics": [
   [
@@ -15660,19 +15778,78 @@
     "venezuelan"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-18T12:01:13.718112+00:00",
+   [
+    "alaska",
+    "all",
+    "america",
+    "area",
+    "blu",
+    "flipp",
+    "gift",
+    "liv",
+    "map",
+    "peltola",
+    "politic",
+    "red",
+    "schumer",
+    "show",
+    "win"
+   ],
+   "skipped"
+  ],
+  [
+   "2026-11-18T12:05:25.696471+00:00",
+   [
+    "aliv",
+    "diesel",
+    "high",
+    "hik",
+    "hit",
+    "inflation",
+    "keep",
+    "petrol",
+    "pric",
+    "rat",
+    "record",
+    "ris",
+    "risk",
+    "second",
+    "straight"
+   ],
+   "4b1632ddd3"
+  ],
+  [
+   "2026-11-18T12:08:05.944030+00:00",
+   [
+    "appear",
+    "becom",
+    "choos",
+    "democrat",
+    "election",
+    "expect",
+    "fac",
+    "hakeem",
+    "hous",
+    "internal",
+    "jeffry",
+    "leadership",
+    "speaker",
+    "test",
+    "unit"
+   ],
+   "d2dd1e13d0"
   ]
  ],
- "last_draft_at": "2026-11-18T11:45:34.178816+00:00",
+ "last_draft_at": "2026-11-18T12:00:50.632329+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T11:15:33.189502+00:00",
  "run_log": [
-  "11-18 09:30:41 run start",
-  "11-18 09:30:50 listening 11 min",
-  "11-18 09:42:08 listening done",
-  "11-18 09:42:08 run end after 687 s",
   "11-18 09:45:39 run start",
   "11-18 09:45:58 listening 11 min",
   "11-18 09:57:18 listening done",
@@ -15708,14 +15885,15 @@
   "11-18 11:45:33 run start",
   "11-18 11:45:53 listening 11 min",
   "11-18 11:57:12 listening done",
-  "11-18 11:57:12 run end after 698 s"
+  "11-18 11:57:12 run end after 698 s",
+  "11-18 12:00:50 run start",
+  "11-18 12:09:01 listening 3 min",
+  "11-18 12:12:22 listening done",
+  "11-18 12:12:22 run end after 692 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/4/4c/Tokyo_Metropolitan_Government_Building_Morning2_cropped.jpg",
-   "https://upload.wikimedia.org/wikipedia/commons/5/59/United_States_Department_of_State_headquarters.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/J-21_Jastreb_Aerotehni%C4%8Dki_institut_MF_BG_3.jpg/1920px-J-21_Jastreb_Aerotehni%C4%8Dki_institut_MF_BG_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Istana_Negara_with_Kuala_Lumpur_skyline_in_the_background.jpg/1920px-Istana_Negara_with_Kuala_Lumpur_skyline_in_the_background.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Early_Voting_0135_%2830620206795%29.jpg/1920px-Early_Voting_0135_%2830620206795%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -15752,7 +15930,10 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Mary_Peltola_Congressional_Member_Portrait_%282%29.jpeg/1280px-Mary_Peltola_Congressional_Member_Portrait_%282%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/6/67/Virginia_House_of_Delegates_chamber_2017.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/c/c9/Howard_Lutnick_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://upload.wikimedia.org/wikipedia/commons/9/96/Dutch_courtroom_during_COVID-19_pandemic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/9/96/Dutch_courtroom_during_COVID-19_pandemic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Sign-20260829_203518%2C_Isle_of_Skye%2C_Scotland.jpg/1920px-Sign-20260829_203518%2C_Isle_of_Skye%2C_Scotland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/US_Navy_041102-N-5134H-001_Master_Chief_Aviation_Electronics_Mate_Edward_Betz_departs_a_voters_polling_place_at_Oak_Harbor_School_District_Administration_Building_201.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Hakeem_Jeffries_official_portrait_%28cropped%29.jpg/1280px-Hakeem_Jeffries_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "richard ojeda": {
@@ -17167,7 +17348,7 @@
     "v": 2
    },
    "hakeem jeffries": {
-    "t": "2026-11-13T18:16:19.338826+00:00",
+    "t": "2026-11-18T12:05:51.709195+00:00",
     "photos": [
      {
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Rep-Hakeem-Jeffries-Official-Portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -17175,72 +17356,84 @@
       "short": "WIKIMEDIA COMMONS"
      },
      {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Hakeem_Jeffries_%2854105951898%29.jpg/1280px-Hakeem_Jeffries_%2854105951898%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Rep-Hakeem-Jeffries-Official-Portrait.jpg/1280px-Rep-Hakeem-Jeffries-Official-Portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Office of Representative Hakeem Jeffries / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Hakeem_Jeffries_%2854105690876%29.jpg/1280px-Hakeem_Jeffries_%2854105690876%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Hakeem_Jeffries_%2854106146715%29.jpg/1280px-Hakeem_Jeffries_%2854106146715%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Hakeem_Jeffries_%2854106144640%29.jpg/1280px-Hakeem_Jeffries_%2854106144640%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Hakeem_Jeffries_%2854105949193%29.jpg/1280px-Hakeem_Jeffries_%2854105949193%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Hakeem_Jeffries_%2854106030079%29.jpg/1280px-Hakeem_Jeffries_%2854106030079%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
+      "portrait": true,
+      "only": true
      },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Hakeem_Jeffries_official_portrait_%28cropped%29.jpg/1280px-Hakeem_Jeffries_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "United States Congress / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
+      "portrait": true,
+      "only": true
      },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Rep-Hakeem-Jeffries-Official-Portrait-1638x2048_%28cropped%29.jpg/1280px-Rep-Hakeem-Jeffries-Official-Portrait-1638x2048_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Office of Representative Hakeem Jeffries / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
+      "portrait": true,
+      "only": true
      },
      {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Hakeem_Jeffries_%2854105691671%29.jpg/1280px-Hakeem_Jeffries_%2854105691671%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Hakeem_Jeffries_official_portrait.jpg/1280px-Hakeem_Jeffries_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Congress / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Hakeem_Jeffries_%2854105951898%29.jpg/1280px-Hakeem_Jeffries_%2854105951898%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": false
+      "portrait": false,
+      "only": true
      },
      {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/JDCA_2024_Leadership_Summit_-_Hakeem_Jeffries_%2853815290346%29.jpg/1280px-JDCA_2024_Leadership_Summit_-_Hakeem_Jeffries_%2853815290346%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Jewish Democratic Council of America / Wikimedia Commons (CC BY 2.0)",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Hakeem_Jeffries_%2854105690876%29.jpg/1280px-Hakeem_Jeffries_%2854105690876%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": false
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Hakeem_Jeffries_%2854106146715%29.jpg/1280px-Hakeem_Jeffries_%2854106146715%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Hakeem_Jeffries_%2854106030079%29.jpg/1280px-Hakeem_Jeffries_%2854106030079%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Hakeem_Jeffries_%2854105949193%29.jpg/1280px-Hakeem_Jeffries_%2854105949193%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Hakeem_Jeffries_%2854106144640%29.jpg/1280px-Hakeem_Jeffries_%2854106144640%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Hakeem_Jeffries_%2854104825027%29.jpg/1280px-Hakeem_Jeffries_%2854104825027%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
      }
-    ]
+    ],
+    "v": 2
    },
    "gadi eisenkot": {
     "t": "2026-11-13T18:32:15.035213+00:00",
@@ -19101,8 +19294,6 @@
    }
   },
   "recent_ideas": [
-   "supreme court building",
-   "us capitol dome",
    "computer servers",
    "fishing vessel",
    "soldiers",
@@ -19112,7 +19303,9 @@
    "ballot boxes",
    "ballot boxes",
    "house chamber, united states capitol",
-   "courtroom"
+   "courtroom",
+   "petrol station price display",
+   "voters at polling station"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -19549,6 +19742,31 @@
     "s": 10,
     "w": "judges in courtroom",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Sign-20260829_203518%2C_Isle_of_Skye%2C_Scotland.jpg/1920px-Sign-20260829_203518%2C_Isle_of_Skye%2C_Scotland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|fa368f79": {
+    "s": 10,
+    "w": "petrol station price display",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/CFP2006_Voting_Databases_Concurrent_Session_%28146450368%29.jpg/1920px-CFP2006_Voting_Databases_Concurrent_Session_%28146450368%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|6c58066f": {
+    "s": 6,
+    "w": "people at conference table",
+    "p": "unrelated meeting, not Hakeem Jeffries"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/EP_Plenary_session_-_Voting_session_-_53866909104.jpg/1920px-EP_Plenary_session_-_Voting_session_-_53866909104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|6c58066f": {
+    "s": 3,
+    "w": "person giving thumbs up",
+    "p": "does not show a voting session or Hakeem Jeffries"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/US_Navy_041102-N-5134H-001_Master_Chief_Aviation_Electronics_Mate_Edward_Betz_departs_a_voters_polling_place_at_Oak_Harbor_School_District_Administration_Building_201.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|6c58066f": {
+    "s": 8,
+    "w": "voter at polling station",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Hakeem_Jeffries_official_portrait_%28cropped%29.jpg/1280px-Hakeem_Jeffries_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Hakeem Jeffries": {
+    "s": 10,
+    "w": "portrait of Hakeem Jeffries",
+    "p": ""
    }
   }
  },
@@ -19560,10 +19778,10 @@
   "2026-11-15": 19,
   "2026-11-16": 32,
   "2026-11-17": 35,
-  "2026-11-18": 4
+  "2026-11-18": 6
  },
- "last_auto_at": "2026-11-18T10:21:29.803390+00:00",
- "last_post_at": "2026-11-18T10:21:50.693086+00:00",
+ "last_auto_at": "2026-11-18T12:08:06.294588+00:00",
+ "last_post_at": "2026-11-18T12:08:50.783937+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
