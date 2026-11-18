@@ -12919,7 +12919,9 @@
   "https://www.newsweek.com/california-bans-waymo-on-freeways-amid-imminent-hazard-warning-12730346",
   "https://www.nbcnews.com/news/us-news/waymo-robotaxis-banned-california-freeways-rcna609917",
   "https://www.france24.com/en/americas/20261118-haitians-rally-behind-bukele-as-salvadoran-troops-battle-gangs",
-  "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss"
+  "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss",
+  "https://www.newsweek.com/fbi-arrests-one-in-illinois-ethanol-plant-bomb-12731164",
+  "https://www.washingtonexaminer.com/news/justice/4806438/arrest-peoria-illinois-ethanol-plant-bomb-threat/"
  ],
  "recent_topics": [
   [
@@ -15710,17 +15712,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-18T03:02:39.730766+00:00",
+ "last_draft_at": "2026-11-18T03:15:35.896834+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T03:01:51.836192+00:00",
  "run_log": [
-  "11-18 00:42:16 listening done",
-  "11-18 00:42:16 run end after 689 s",
-  "11-18 00:56:53 run start",
-  "11-18 00:56:54 listening 11 min",
   "11-18 01:06:38 run start",
   "11-18 01:08:29 listening 10 min",
   "11-18 01:18:25 listening done",
@@ -15756,7 +15754,11 @@
   "11-18 03:01:51 run start",
   "11-18 03:02:58 listening 10 min",
   "11-18 03:13:28 listening done",
-  "11-18 03:13:28 run end after 697 s"
+  "11-18 03:13:28 run end after 697 s",
+  "11-18 03:15:35 run start",
+  "11-18 03:15:54 listening 11 min",
+  "11-18 03:27:13 listening done",
+  "11-18 03:27:13 run end after 697 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
