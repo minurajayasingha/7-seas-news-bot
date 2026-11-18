@@ -1,75 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "8ded58a7f4": {
-   "id": "8ded58a7f4",
-   "headline": "Car bomb kills two people near Syria capital Damascus",
-   "summary": "Two people, including a man and a child, died in a car bomb explosion in Jaramana. A device was placed inside a vehicle located in the Damascus suburb.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "Device placed inside a car",
-    "Incident occurred in Jaramana",
-    "Victims include a young girl"
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#Syria",
-    "#Damascus",
-    "#WorldNews"
-   ],
-   "sources": [
-    "ABC News",
-    "Al Jazeera"
-   ],
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss",
-   "links": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss"
-    ],
-    [
-     "ABC News",
-     "https://abcnews.com/International/wireStory/bomb-rips-damascus-suburb-killing-2-including-child-138145860"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Skyline_of_Jaramana_Refugee_Camp.jpg/1920px-Skyline_of_Jaramana_Refugee_Camp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Anobel Odisho / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Car bomb kills two people near Syria capital Damascus",
-    "people": [],
-    "image_query": "Damascus suburb street",
-    "image_queries": [
-     "Damascus cityscape",
-     "Syrian flag",
-     "Damascus outskirts",
-     "Middle East city street"
-    ],
-    "image_style": "incident",
-    "location": "Jaramana, Syria",
-    "nearby_city": "Damascus, Syria",
-    "event_query": "Jaramana car bomb attack",
-    "news_time": null,
-    "label": "CONFLICT"
-   },
-   "created_at": "2026-11-14T20:16:05.222712+00:00",
-   "news_time": "2026-11-14T19:30:08+00:00",
-   "news_latest": "2026-11-14T19:46:36+00:00",
-   "caption": "🚨 BREAKING: Car bomb kills two people near Syria capital Damascus\n\nTwo people, including a man and a child, died in a car bomb explosion in Jaramana. A device was placed inside a vehicle located in the Damascus suburb.\n\nWhat we know so far:\n• Device placed inside a car\n• Incident occurred in Jaramana\n• Victims include a young girl\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Syria #Damascus #WorldNews #7SeasNews",
-   "status": "expired",
-   "tg_message_id": 557,
-   "tg_file_id": "AgACAgUAAxkDAAICLWr4wYgHM3HGJgIgywFaUVQ4d-aCAAKKFGsbT5fJV57gZ_kJ9PoUAQADAgADdwADPQQ",
-   "extra_msgs": [],
-   "cleared": true
-  },
   "b1ee1ef8be": {
    "id": "b1ee1ef8be",
    "headline": "House Speaker Mike Johnson backs aviation upgrade funding demand",
@@ -15737,17 +15668,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-18T19:48:18.181861+00:00",
+ "last_draft_at": "2026-11-18T20:06:30.341882+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T19:15:29.935446+00:00",
  "run_log": [
-  "11-18 17:13:47 run start",
-  "11-18 17:14:30 listening 11 min",
-  "11-18 17:21:06 run start",
-  "11-18 17:21:07 listening 11 min",
   "11-18 17:32:52 listening done",
   "11-18 17:32:52 run end after 705 s",
   "11-18 17:43:19 run start",
@@ -15783,7 +15710,11 @@
   "11-18 19:53:46 run start",
   "11-18 19:53:47 listening 11 min",
   "11-18 20:05:35 listening done",
-  "11-18 20:05:35 run end after 708 s"
+  "11-18 20:05:35 run end after 708 s",
+  "11-18 20:06:29 run start",
+  "11-18 20:06:39 listening 11 min",
+  "11-18 20:18:00 listening done",
+  "11-18 20:18:00 run end after 690 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
