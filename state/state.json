@@ -11430,6 +11430,95 @@
     "shares": 0
    },
    "stats_at": "2026-11-18T06:00:47.021658+00:00"
+  },
+  "6e01c3a20f": {
+   "id": "6e01c3a20f",
+   "headline": "Former Nvidia chief Jensen Huang agrees to testify to Congress",
+   "summary": "Former Nvidia CEO Jensen Huang will appear before the Senate Banking Committee after Republicans threatened a subpoena. The hearings follow scrutiny regarding an alleged affair with a suspect Chinese spy.",
+   "label": "US POLITICS",
+   "hook": "Will these hearings address the security concerns raised by lawmakers?",
+   "key_points": [
+    "Huang agreed to both public and closed-door hearings.",
+    "A spokesperson for Chair Tim Scott confirmed the agreement.",
+    "The investigation involves a former Megaspeed executive."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Congress",
+    "#Nvidia",
+    "#Senate"
+   ],
+   "sources": [
+    "CBS News",
+    "The Hill"
+   ],
+   "link": "https://thehill.com/homenews/senate/6227038-jensen-huang-senate-testify/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/homenews/senate/6227038-jensen-huang-senate-testify/"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/news/house-republicans-nvidia-jensen-huang-testimony/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Jensen_huang_stanford_2026-04-09_034.jpg/1280px-Jensen_huang_stanford_2026-04-09_034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Anders Eidesvik / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 7,
+      "shows": "Jensen Huang sitting"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Former Nvidia chief Jensen Huang agrees to testify to Congress",
+    "people": [
+     "Jensen Huang"
+    ],
+    "image_query": "US Capitol dome",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "United States Capitol",
+     "congressional hearing room"
+    ],
+    "image_style": "person",
+    "location": "Washington, D.C., US",
+    "nearby_city": "Washington, D.C.",
+    "event_query": "Senate Banking Committee hearing",
+    "topic_photo": "judge gavel",
+    "label": "US POLITICS",
+    "action_subject": "",
+    "news_time": "2026-11-18T02:44:50+00:00"
+   },
+   "created_at": "2026-11-18T06:16:00.886748+00:00",
+   "news_time": "2026-11-18T02:44:50+00:00",
+   "news_latest": "2026-11-18T03:48:10+00:00",
+   "importance": 7,
+   "caption": "Former Nvidia chief Jensen Huang agrees to testify to Congress\n\nFormer Nvidia CEO Jensen Huang will appear before the Senate Banking Committee after Republicans threatened a subpoena. The hearings follow scrutiny regarding an alleged affair with a suspect Chinese spy.\n\n💬 Will these hearings address the security concerns raised by lawmakers?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Congress #Nvidia #Senate #7SeasNews",
+   "photo_line": "📷 7/10 Jensen Huang sitting",
+   "status": "posted",
+   "tg_message_id": 775,
+   "tg_file_id": "AgACAgUAAxkDAAIDB2r9QqKikgvEesEeRInDHwh4q_XpAAIuFWsbguzoV2C9qsYD78apAQADAgADdwADPQQ",
+   "queued_at": "2026-11-18T06:16:02.781282+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-18T06:16:02.781342+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122105013537548584",
+   "posted_at": "2026-11-18T06:16:03.061229+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 18 · 1:16 AM New York · 11:46 AM Sri Lanka\n\n<b>Former Nvidia chief Jensen Huang agrees to testify to Congress</b>\n<i>CBS News, The Hill</i>\n🟡 <b>Latest:</b> 9:18 AM Sri Lanka (2h 28m ago) · first reported 8:14 AM\n📷 7/10 Jensen Huang sitting\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122105013537548584\">Open on Facebook</a>\n\n⚠️ <i>Looks like an earlier post: “Jensen Huang agrees to testify before United States Congress”. Tap 🗑 Delete if it's the same news.</i>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 490,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122105013537548584_1152415167699496"
   }
  },
  "seen_links": [
@@ -12840,7 +12929,9 @@
   "https://thehill.com/homenews/6226621-video-shows-ice-agent-pepper-spraying-pregnant-u-s-citizen/",
   "https://www.aljazeera.com/video/newsfeed/2026/11/18/ice-agents-shove-and-pepper-spray-pregnant-woman?traffic_source=rss",
   "https://www.nbcnews.com/video/rubio-says-tech-outages-are-not-connected-or-cyber-criminal-linked-273700933587",
-  "https://www.aljazeera.com/video/newsfeed/2026/11/18/rubio-rules-out-cyberattacks-or-links-between-tech-outages?traffic_source=rss"
+  "https://www.aljazeera.com/video/newsfeed/2026/11/18/rubio-rules-out-cyberattacks-or-links-between-tech-outages?traffic_source=rss",
+  "https://thehill.com/homenews/senate/6227038-jensen-huang-senate-testify/",
+  "https://www.cbsnews.com/news/house-republicans-nvidia-jensen-huang-testimony/"
  ],
  "recent_topics": [
   [
@@ -15678,19 +15769,32 @@
     "zero"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-18T06:16:02.781112+00:00",
+   [
+    "affair",
+    "agre",
+    "bank",
+    "ceo",
+    "congress",
+    "ex-nvidia",
+    "huang",
+    "panel",
+    "prob",
+    "senat",
+    "testify"
+   ],
+   "6e01c3a20f"
   ]
  ],
- "last_draft_at": "2026-11-18T06:01:37.444959+00:00",
+ "last_draft_at": "2026-11-18T06:15:35.541445+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T06:00:47.021658+00:00",
  "run_log": [
-  "11-18 03:42:17 listening done",
-  "11-18 03:42:17 run end after 689 s",
-  "11-18 03:45:37 run start",
-  "11-18 03:45:56 listening 11 min",
   "11-18 03:57:15 listening done",
   "11-18 03:57:15 run end after 698 s",
   "11-18 04:00:50 run start",
@@ -15726,12 +15830,15 @@
   "11-18 06:00:46 run start",
   "11-18 06:01:56 listening 10 min",
   "11-18 06:12:24 listening done",
-  "11-18 06:12:24 run end after 697 s"
+  "11-18 06:12:24 run end after 697 s",
+  "11-18 06:15:35 run start",
+  "11-18 06:16:21 listening 11 min",
+  "11-18 06:27:14 listening done",
+  "11-18 06:27:14 run end after 699 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/James_Comer_official_congressional_photo_%28cropped%29.jpg/1280px-James_Comer_official_congressional_photo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Voting_booth_at_the_Madison_Parish_Courthouse.jpg/1920px-Voting_booth_at_the_Madison_Parish_Courthouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Intel_microchip_manufacturing_plant_Hudson_MA.JPG/1920px-Intel_microchip_manufacturing_plant_Hudson_MA.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -15770,7 +15877,8 @@
    "https://upload.wikimedia.org/wikipedia/commons/4/4d/Washington_DC_Skyline.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Constitution_of_the_9th_legislature_of_the_European_Parliament_%2848180139716%29.jpg/1920px-Constitution_of_the_9th_legislature_of_the_European_Parliament_%2848180139716%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/f/f1/MatanK-DSC_0053a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://upload.wikimedia.org/wikipedia/commons/1/1b/Donald_Trump_signs_an_Executive_Order_regarding_childhood_vaccines_in_the_Oval_Office%2C_Monday%2C_August_10%2C_2026_-_5_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/1/1b/Donald_Trump_signs_an_Executive_Order_regarding_childhood_vaccines_in_the_Oval_Office%2C_Monday%2C_August_10%2C_2026_-_5_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Jensen_huang_stanford_2026-04-09_034.jpg/1280px-Jensen_huang_stanford_2026-04-09_034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "alexander darchiev": {
@@ -17105,7 +17213,7 @@
     ]
    },
    "jensen huang": {
-    "t": "2026-11-13T18:15:58.112797+00:00",
+    "t": "2026-11-18T06:15:59.493527+00:00",
     "photos": [
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/1280px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -17116,69 +17224,81 @@
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Jensen_Huang_20231109_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "credit": "總統府 / Wikimedia Commons (CC BY 2.0)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
+      "portrait": true,
+      "only": true
      },
      {
       "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Jensen_Huang_%28cropped%29_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "credit": "Photographer: Peter Dasilva / Wikimedia Commons (CC BY 4.0)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
+      "portrait": true,
+      "only": true
      },
      {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Jensen_huang_stanford_2026-04-30_027.jpg/1280px-Jensen_huang_stanford_2026-04-30_027.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Jensen_huang_stanford_2026-04-30_036.jpg/1280px-Jensen_huang_stanford_2026-04-30_036.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Anders Eidesvik / Wikimedia Commons (CC BY 4.0)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": false
+      "portrait": true,
+      "only": true
      },
      {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Jensen_huang_stanford_2026-04-30_034.jpg/1280px-Jensen_huang_stanford_2026-04-30_034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Anders Eidesvik / Wikimedia Commons (CC BY 4.0)",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Jensen_Huang_20231109.jpg/1280px-Jensen_Huang_20231109.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "總統府 / Wikimedia Commons (CC BY 2.0)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Jensen_huang_stanford_2026-04-09_030.jpg/1280px-Jensen_huang_stanford_2026-04-09_030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Anders Eidesvik / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Jensen_Huang_-_Nvidia_Keynote_-_CES_2025_Las_Vegas_%281%29.jpg/1280px-Jensen_Huang_-_Nvidia_Keynote_-_CES_2025_Las_Vegas_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Pronoia / Wikimedia Commons (CC0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Jensen_huang_stanford_2026-04-30_030.jpg/1280px-Jensen_huang_stanford_2026-04-30_030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Anders Eidesvik / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Jensen_Huang_-_RTX_5070_Laptop_-_Nvidia_Keynote_-_CES_2025_Las_Vegas.jpg/1280px-Jensen_Huang_-_RTX_5070_Laptop_-_Nvidia_Keynote_-_CES_2025_Las_Vegas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Pronoia / Wikimedia Commons (CC0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Jensen_huang_stanford_2026-04-30_038.jpg/1280px-Jensen_huang_stanford_2026-04-30_038.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Anders Eidesvik / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
+      "portrait": true,
+      "only": true
      },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Jensen_huang_stanford_2026-04-09_034.jpg/1280px-Jensen_huang_stanford_2026-04-09_034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Anders Eidesvik / Wikimedia Commons (CC BY 4.0)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Jensen_huang_stanford_2026-04-09_030.jpg/1280px-Jensen_huang_stanford_2026-04-09_030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Anders Eidesvik / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
      },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Jensen_huang_stanford_2026-04-09_033.jpg/1280px-Jensen_huang_stanford_2026-04-09_033.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Anders Eidesvik / Wikimedia Commons (CC BY 4.0)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Jensen_huang_stanford_2026-04-30_009_%28cropped%29.jpg/1280px-Jensen_huang_stanford_2026-04-30_009_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Anders Eidesvik / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Jensen_huang_stanford_2026-04-09_044.jpg/1280px-Jensen_huang_stanford_2026-04-09_044.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Anders Eidesvik / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Jensen_huang_stanford_2026-04-30_006.jpg/1280px-Jensen_huang_stanford_2026-04-30_006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Anders Eidesvik / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Jensen_huang_stanford_2026-04-30_010_%28cropped%29.jpg/1280px-Jensen_huang_stanford_2026-04-30_010_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Anders Eidesvik / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
      }
-    ]
+    ],
+    "v": 2
    },
    "hakeem jeffries": {
     "t": "2026-11-13T18:16:19.338826+00:00",
@@ -19489,6 +19609,11 @@
     "s": 10,
     "w": "Heidi Overton",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Jensen_huang_stanford_2026-04-09_034.jpg/1280px-Jensen_huang_stanford_2026-04-09_034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Jensen Huang": {
+    "s": 7,
+    "w": "Jensen Huang sitting",
+    "p": ""
    }
   }
  },
@@ -19499,10 +19624,11 @@
   "2026-11-14": 18,
   "2026-11-15": 19,
   "2026-11-16": 32,
-  "2026-11-17": 35
+  "2026-11-17": 35,
+  "2026-11-18": 1
  },
- "last_auto_at": "2026-11-18T01:08:08.731781+00:00",
- "last_post_at": "2026-11-18T01:08:16.451247+00:00",
+ "last_auto_at": "2026-11-18T06:16:03.061229+00:00",
+ "last_post_at": "2026-11-18T06:16:11.374480+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
