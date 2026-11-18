@@ -12601,43 +12601,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-15T19:59:09.161665+00:00",
-   [
-    "ambition",
-    "bad",
-    "europ",
-    "glar",
-    "gop",
-    "grow",
-    "lutnick",
-    "nvidia",
-    "scandal"
-   ],
-   "c3586948d6"
-  ],
-  [
-   "2026-11-15T19:59:21.859280+00:00",
-   [
-    "bid",
-    "candidat",
-    "doesn't",
-    "father",
-    "former",
-    "futur",
-    "gov",
-    "huckabe",
-    "offic",
-    "oval",
-    "presidential",
-    "rul",
-    "run",
-    "sander",
-    "sur",
-    "want"
-   ],
-   "849f5726c4"
-  ],
-  [
    "2026-11-15T20:35:26.978075+00:00",
    [
     "agenda",
@@ -15781,10 +15744,6 @@
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T19:15:29.935446+00:00",
  "run_log": [
-  "11-18 16:48:38 run start",
-  "11-18 16:48:49 listening 11 min",
-  "11-18 17:00:08 listening done",
-  "11-18 17:00:08 run end after 690 s",
   "11-18 17:13:47 run start",
   "11-18 17:14:30 listening 11 min",
   "11-18 17:21:06 run start",
@@ -15820,7 +15779,11 @@
   "11-18 19:32:56 listening done",
   "11-18 19:32:56 run end after 707 s",
   "11-18 19:48:17 run start",
-  "11-18 19:48:19 listening 11 min"
+  "11-18 19:48:19 listening 11 min",
+  "11-18 19:53:46 run start",
+  "11-18 19:53:47 listening 11 min",
+  "11-18 20:05:35 listening done",
+  "11-18 20:05:35 run end after 708 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
