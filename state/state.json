@@ -13004,31 +13004,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-15T00:40:13.339967+00:00",
-   [
-    "age",
-    "blam",
-    "broken",
-    "contractor",
-    "duffy",
-    "finger",
-    "flight",
-    "ground",
-    "issu",
-    "kept",
-    "old",
-    "outag",
-    "point",
-    "resum",
-    "sight",
-    "stop",
-    "stuff",
-    "technology",
-    "trump"
-   ],
-   "e0b2b3e102"
-  ],
-  [
    "2026-11-15T03:31:30.996702+00:00",
    [
     "administration",
@@ -15745,17 +15720,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-18T00:10:23.948570+00:00",
+ "last_draft_at": "2026-11-18T00:30:47.804470+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T00:09:48.451191+00:00",
  "run_log": [
-  "11-17 21:46:04 run start",
-  "11-17 21:49:17 listening 8 min",
-  "11-17 21:57:40 listening done",
-  "11-17 21:57:40 run end after 696 s",
   "11-17 22:00:49 run start",
   "11-17 22:01:22 listening 11 min",
   "11-17 22:12:18 listening done",
@@ -15791,7 +15762,11 @@
   "11-18 00:18:02 run start",
   "11-18 00:18:02 listening 11 min",
   "11-18 00:29:46 listening done",
-  "11-18 00:29:46 run end after 704 s"
+  "11-18 00:29:46 run end after 704 s",
+  "11-18 00:30:47 run start",
+  "11-18 00:30:57 listening 11 min",
+  "11-18 00:42:16 listening done",
+  "11-18 00:42:16 run end after 689 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
