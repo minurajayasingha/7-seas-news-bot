@@ -12838,7 +12838,9 @@
   "https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html",
   "https://www.cbsnews.com/news/marco-rubio-tech-outages-not-connected/",
   "https://thehill.com/homenews/6226621-video-shows-ice-agent-pepper-spraying-pregnant-u-s-citizen/",
-  "https://www.aljazeera.com/video/newsfeed/2026/11/18/ice-agents-shove-and-pepper-spray-pregnant-woman?traffic_source=rss"
+  "https://www.aljazeera.com/video/newsfeed/2026/11/18/ice-agents-shove-and-pepper-spray-pregnant-woman?traffic_source=rss",
+  "https://www.nbcnews.com/video/rubio-says-tech-outages-are-not-connected-or-cyber-criminal-linked-273700933587",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/18/rubio-rules-out-cyberattacks-or-links-between-tech-outages?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -15656,19 +15658,35 @@
     "woman"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-18T05:18:20.910342+00:00",
+   [
+    "connect",
+    "criminal",
+    "cyber",
+    "cyberattack",
+    "evidenc",
+    "link",
+    "outag",
+    "recent",
+    "relat",
+    "rubio",
+    "rul",
+    "tech",
+    "ther",
+    "zero"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-18T04:57:06.292785+00:00",
+ "last_draft_at": "2026-11-18T05:18:11.012809+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T04:56:16.817803+00:00",
  "run_log": [
-  "11-18 02:42:14 listening done",
-  "11-18 02:42:14 run end after 690 s",
-  "11-18 02:45:51 run start",
-  "11-18 02:46:01 listening 11 min",
   "11-18 02:57:21 listening done",
   "11-18 02:57:21 run end after 690 s",
   "11-18 03:01:51 run start",
@@ -15704,7 +15722,11 @@
   "11-18 05:05:51 run start",
   "11-18 05:05:54 listening 11 min",
   "11-18 05:17:37 listening done",
-  "11-18 05:17:37 run end after 706 s"
+  "11-18 05:17:37 run end after 706 s",
+  "11-18 05:18:10 run start",
+  "11-18 05:18:20 listening 11 min",
+  "11-18 05:29:40 listening done",
+  "11-18 05:29:40 run end after 689 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
