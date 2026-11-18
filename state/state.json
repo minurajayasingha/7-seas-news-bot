@@ -11068,6 +11068,94 @@
     "shares": 0
    },
    "stats_at": "2026-11-18T16:11:31.992023+00:00"
+  },
+  "c69a55dc25": {
+   "id": "c69a55dc25",
+   "headline": "Ukraine strikes two Russian oil refineries and Crimean Bridge",
+   "summary": "Ukraine states it conducted strikes on two oil refineries in southern Russia. The operation also targeted the Crimean Bridge, highlighting the growth of domestically produced weapons and long-range strike capabilities.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Strikes targeted southern Russia's oil refineries",
+    "Crimean Bridge is a heavily defended target",
+    "Domestically produced weapons play a growing role"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Ukraine",
+    "#Russia",
+    "#Conflict"
+   ],
+   "sources": [
+    "ABC News",
+    "Kyiv Independent"
+   ],
+   "link": "https://abcnews.com/International/wireStory/ukraine-hit-2-russian-oil-refineries-zelenskyy-hails-138250394",
+   "links": [
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/ukraine-hit-2-russian-oil-refineries-zelenskyy-hails-138250394"
+    ],
+    [
+     "Kyiv Independent",
+     "https://kyivindependent.com/why-ukraines-strike-on-crimean-bridge-is-such-a-big-deal/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Naval_Strike_Missile_%28NSM%29_3.jpg/1920px-Naval_Strike_Missile_%28NSM%29_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Peterdx / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 8,
+      "shows": "missile model on display"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "Ukraine strikes two Russian oil refineries and Crimean Bridge",
+    "people": [],
+    "image_query": "Crimean Bridge",
+    "image_queries": [
+     "oil refinery",
+     "military infrastructure",
+     "bridge crossing",
+     "industrial facility"
+    ],
+    "image_style": "incident",
+    "location": "Crimea",
+    "nearby_city": "Simferopol, Crimea",
+    "event_query": "Crimean Bridge strike",
+    "topic_photo": "oil refinery",
+    "label": "CONFLICT",
+    "action_subject": "missile strike",
+    "news_time": "2026-11-18T16:00:18+00:00"
+   },
+   "created_at": "2026-11-18T16:38:16.029822+00:00",
+   "news_time": "2026-11-18T16:00:18+00:00",
+   "news_latest": "2026-11-18T16:26:07+00:00",
+   "importance": 8,
+   "caption": "Ukraine strikes two Russian oil refineries and Crimean Bridge\n\nUkraine states it conducted strikes on two oil refineries in southern Russia. The operation also targeted the Crimean Bridge, highlighting the growth of domestically produced weapons and long-range strike capabilities.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Ukraine #Russia #Conflict #7SeasNews",
+   "photo_line": "📷 8/10 missile model on display · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 795,
+   "tg_file_id": "AgACAgUAAxkDAAIDG2r91HqHT4ZW16UKBueVl575OYzxAAIfFmsbguzwV67LkBvr7m-3AQADAgADdwADPQQ",
+   "queued_at": "2026-11-18T16:38:18.808989+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-18T16:38:18.809025+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122105464215548584",
+   "posted_at": "2026-11-18T16:40:01.098004+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 18 · 11:40 AM New York · 10:10 PM Sri Lanka\n\n<b>Ukraine strikes two Russian oil refineries and Crimean Bridge</b>\n<i>ABC News, Kyiv Independent</i>\n🟢 <b>Latest:</b> 9:56 PM Sri Lanka (14 min ago) · first reported 9:30 PM\n📷 8/10 missile model on display · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122105464215548584\">Open on Facebook</a>\n\n⚠️ <i>Looks like an earlier post: “Ukraine strikes Crimea bridge as President Zelensky discusses Starshield limits”. Tap 🗑 Delete if it's the same news.</i>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 503,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122105464215548584_2156406664974791"
   }
  },
  "seen_links": [
@@ -12529,7 +12617,13 @@
   "https://www.washingtonexaminer.com/policy/technology/4807170/waymo-removes-driverless-vehicles-freeways-nationwide-public-safety/",
   "https://www.upi.com/Top_News/US/2026/11/18/california-bans-waymo-freeways/4251795009922/",
   "https://www.france24.com/en/europe/20261118-russia-new-low-cost-munitions-threat-ukraine",
-  "https://kyivindependent.com/exclusive-trumps-envoys-warn-russia-that-time-is-running-out-to-secure-a-deal-on-ukraine/"
+  "https://kyivindependent.com/exclusive-trumps-envoys-warn-russia-that-time-is-running-out-to-secure-a-deal-on-ukraine/",
+  "https://www.washingtonexaminer.com/news/justice/4807324/kash-patel-bipartisan-criticism-after-annual-global-threats-hearing-no-show/",
+  "https://thehill.com/homenews/house/6227622-fbi-director-skips-threats-hearing/",
+  "https://abcnews.com/International/wireStory/ukraine-hit-2-russian-oil-refineries-zelenskyy-hails-138250394",
+  "https://kyivindependent.com/why-ukraines-strike-on-crimean-bridge-is-such-a-big-deal/",
+  "https://abcnews.com/International/wireStory/el-salvadors-president-confirms-celebrates-attack-home-key-138251283",
+  "https://www.upi.com/Top_News/World-News/2026/11/18/latam-haiti-bukele-marches/5511795014914/"
  ],
  "recent_topics": [
   [
@@ -15475,19 +15569,69 @@
     "waymo"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-18T16:36:36.385593+00:00",
+   [
+    "annual",
+    "bipartisan",
+    "blast",
+    "chair",
+    "criticism",
+    "fac",
+    "global",
+    "gop",
+    "hear",
+    "no-show",
+    "patel",
+    "skipp",
+    "threat",
+    "worldwid"
+   ],
+   "skipped"
+  ],
+  [
+   "2026-11-18T16:38:18.808848+00:00",
+   [
+    "bridg",
+    "country",
+    "crimea",
+    "crimean",
+    "damag",
+    "flam",
+    "hail",
+    "hit",
+    "island",
+    "oil",
+    "priz",
+    "produc",
+    "putin",
+    "rebuild",
+    "refinery",
+    "resum",
+    "russia",
+    "russian",
+    "show",
+    "took",
+    "traffic",
+    "train",
+    "turn",
+    "ukrain",
+    "video",
+    "vow",
+    "weapon",
+    "zelenskyy"
+   ],
+   "c69a55dc25"
   ]
  ],
- "last_draft_at": "2026-11-18T16:23:56.856136+00:00",
+ "last_draft_at": "2026-11-18T16:36:21.689198+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T16:11:31.992023+00:00",
  "run_log": [
-  "11-18 14:00:44 run start",
-  "11-18 14:00:53 listening 11 min",
-  "11-18 14:12:11 listening done",
-  "11-18 14:12:11 run end after 687 s",
   "11-18 14:15:39 run start",
   "11-18 14:18:26 listening 9 min",
   "11-18 14:28:07 listening done",
@@ -15523,12 +15667,15 @@
   "11-18 16:23:56 run start",
   "11-18 16:24:46 listening 11 min",
   "11-18 16:35:39 listening done",
-  "11-18 16:35:39 run end after 703 s"
+  "11-18 16:35:39 run end after 703 s",
+  "11-18 16:36:21 run start",
+  "11-18 16:40:26 listening 7 min",
+  "11-18 16:47:59 listening done",
+  "11-18 16:47:59 run end after 698 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Trillion_Peso_March_at_EDSA_Shrine_in_September_2025_16.jpg/1920px-Trillion_Peso_March_at_EDSA_Shrine_in_September_2025_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/US_Navy_040221-N-4936C-032_Air_Traffic_Controller_1st_Class_Marcella_Klauser%2C_a_Facility_Watch_Supervisor_with_the_Air_Operations_Department%2C_communicates_with_an_aircraft_while_on_duty.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -15567,7 +15714,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Hakeem_Jeffries_official_portrait_%28cropped%29.jpg/1280px-Hakeem_Jeffries_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Tour_et_Taxis_-_Brussels_Skyline_%28cropped%29.jpg/1920px-Tour_et_Taxis_-_Brussels_Skyline_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Skyline_of_China-ASEAN_Business_Center_in_Qingxiu_District.jpg/1920px-Skyline_of_China-ASEAN_Business_Center_in_Qingxiu_District.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Cebu_Port_Pier_6_cranes%2C_containers_drone_%28Cebu_City%3B_01-20-2026%29.jpg/1920px-Cebu_Port_Pier_6_cranes%2C_containers_drone_%28Cebu_City%3B_01-20-2026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Cebu_Port_Pier_6_cranes%2C_containers_drone_%28Cebu_City%3B_01-20-2026%29.jpg/1920px-Cebu_Port_Pier_6_cranes%2C_containers_drone_%28Cebu_City%3B_01-20-2026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Naval_Strike_Missile_%28NSM%29_3.jpg/1920px-Naval_Strike_Missile_%28NSM%29_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "richard ojeda": {
@@ -18928,7 +19076,6 @@
    }
   },
   "recent_ideas": [
-   "fishing vessel",
    "soldiers",
    "missile launch",
    "washington dc skyline",
@@ -18939,7 +19086,8 @@
    "courtroom",
    "petrol station price display",
    "voters at polling station",
-   "container port cranes"
+   "container port cranes",
+   "missile strike"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -19461,6 +19609,16 @@
     "s": 0,
     "w": "Donald Trump waving behind glass",
     "p": "wrong event and location, headline mentions Marcos in Manila"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Missile_strike_on_Kharkiv%2C_30_December_2023_04.jpg/1920px-Missile_strike_on_Kharkiv%2C_30_December_2023_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|115ec026": {
+    "s": 0,
+    "w": "people and emergency workers outdoors",
+    "p": "specific different event with victims, wrong context"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Naval_Strike_Missile_%28NSM%29_3.jpg/1920px-Naval_Strike_Missile_%28NSM%29_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|115ec026": {
+    "s": 8,
+    "w": "missile model on display",
+    "p": ""
    }
   }
  },
@@ -19472,10 +19630,10 @@
   "2026-11-15": 19,
   "2026-11-16": 32,
   "2026-11-17": 35,
-  "2026-11-18": 8
+  "2026-11-18": 9
  },
- "last_auto_at": "2026-11-18T13:03:55.245306+00:00",
- "last_post_at": "2026-11-18T13:04:03.444092+00:00",
+ "last_auto_at": "2026-11-18T16:40:01.098004+00:00",
+ "last_post_at": "2026-11-18T16:40:14.264882+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
