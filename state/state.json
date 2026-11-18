@@ -1,94 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "e864e28c56": {
-   "id": "e864e28c56",
-   "headline": "South Sudan postpones national elections until February 2027",
-   "summary": "South Sudan has delayed its first national elections since its 2011 independence. The vote, previously expected in 2022, is now scheduled for February 11 according to the country's election commission.",
-   "label": "ELECTIONS",
-   "hook": "Will these elections take place in February 2027 as currently scheduled?",
-   "key_points": [
-    "The vote was moved from December.",
-    "These are the first national elections since 2011."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#SouthSudan",
-    "#WorldNews",
-    "#Elections"
-   ],
-   "sources": [
-    "ABC News",
-    "Al Jazeera"
-   ],
-   "link": "https://abcnews.com/International/wireStory/south-sudan-postpones-national-elections-february-2027-138138151",
-   "links": [
-    [
-     "ABC News",
-     "https://abcnews.com/International/wireStory/south-sudan-postpones-national-elections-february-2027-138138151"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february?traffic_source=rss"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/An_Ariel_view_of_buildings_and_homes_in_Juba_city.jpg/1920px-An_Ariel_view_of_buildings_and_homes_in_Juba_city.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Lomoraronald / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "South Sudan postpones national elections until February 2027",
-    "people": [],
-    "image_query": "Juba city",
-    "image_queries": [
-     "voting booth",
-     "election commission building",
-     "Juba street",
-     "ballot box"
-    ],
-    "image_style": "scene",
-    "location": "South Sudan",
-    "nearby_city": "Juba, South Sudan",
-    "event_query": "South Sudan election vote",
-    "news_time": null,
-    "label": "ELECTIONS"
-   },
-   "created_at": "2026-11-14T11:32:14.672784+00:00",
-   "news_time": "2026-11-14T10:30:32+00:00",
-   "news_latest": "2026-11-14T11:20:38+00:00",
-   "caption": "South Sudan postpones national elections until February 2027\n\nSouth Sudan has delayed its first national elections since its 2011 independence. The vote, previously expected in 2022, is now scheduled for February 11 according to the country's election commission.\n\n💬 Will these elections take place in February 2027 as currently scheduled?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#SouthSudan #WorldNews #Elections #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 538,
-   "tg_file_id": "AgACAgUAAxkDAAICGmr4RsBYffAzBRVr89AuCIH6jXgsAAJNE2sbT5fJV0fZjorJtkbzAQADAgADdwADPQQ",
-   "queued_at": "2026-11-14T11:32:17.216420+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-14T11:32:17.216453+00:00",
-   "post_label": "🤖 Auto-posting + Reel",
-   "fb_post_id": "1413030521900096_122101165419548584",
-   "posted_at": "2026-11-14T11:32:17.509779+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 14 · 6:32 AM New York · 5:02 PM Sri Lanka\n\n<b>South Sudan postpones national elections until February 2027</b>\n<i>ABC News, Al Jazeera</i>\n🟢 <b>Latest:</b> 4:50 PM Sri Lanka (11 min ago) · first reported 4:00 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122101165419548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 348,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122101165419548584_2281334252731357",
-   "fb_reel_id": "2656635221441129",
-   "reel_status": "live",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-17T11:31:03.378059+00:00"
-  },
   "f74e3c9e03": {
    "id": "f74e3c9e03",
    "headline": "Trump, Xi and Putin to hold unprecedented meeting",
@@ -15750,17 +15662,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-18T11:16:20.530453+00:00",
+ "last_draft_at": "2026-11-18T11:30:40.952624+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T11:15:33.189502+00:00",
  "run_log": [
-  "11-18 09:00:50 run start",
-  "11-18 09:01:37 listening 11 min",
-  "11-18 09:12:31 listening done",
-  "11-18 09:12:31 run end after 700 s",
   "11-18 09:15:35 run start",
   "11-18 09:15:45 listening 11 min",
   "11-18 09:27:03 listening done",
@@ -15796,7 +15704,11 @@
   "11-18 11:15:32 run start",
   "11-18 11:16:31 listening 11 min",
   "11-18 11:26:59 listening done",
-  "11-18 11:26:59 run end after 686 s"
+  "11-18 11:26:59 run end after 686 s",
+  "11-18 11:30:40 run start",
+  "11-18 11:30:50 listening 11 min",
+  "11-18 11:42:08 listening done",
+  "11-18 11:42:08 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
