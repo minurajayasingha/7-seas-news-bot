@@ -80,5 +80,77 @@
   "scheduled": true,
   "deleted": true,
   "parts": []
+ },
+ "2026-11-17": {
+  "built_at": "2026-11-18T08:30:50.861379+00:00",
+  "test": false,
+  "parts": [
+   {
+    "name": "WAR & CONFLICT",
+    "of": 3,
+    "post_at": "2026-11-18T12:55:00+00:00",
+    "stories": 9,
+    "seconds": 43.5,
+    "fb": {
+     "id": "1130866803088705",
+     "state": "scheduled",
+     "caption": "US strikes Iran after drones. UK pledges missiles.\n\nWAR & CONFLICT · Tuesday's top stories · Part 1/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#warnews #conflict #7seasnews #news",
+     "thumb": "set"
+    },
+    "yt": {
+     "id": "x2WE-Yfdgd4",
+     "state": "scheduled",
+     "url": "https://youtube.com/shorts/x2WE-Yfdgd4",
+     "thumb": "set"
+    },
+    "tt": {
+     "state": "sent"
+    }
+   },
+   {
+    "name": "US NEWS",
+    "of": 3,
+    "post_at": "2026-11-18T14:55:00+00:00",
+    "stories": 12,
+    "seconds": 56.7,
+    "fb": {
+     "id": "1806595817219929",
+     "state": "scheduled",
+     "caption": "FAA ground stop hits flights. Democrats prep control.\n\nUS NEWS · Tuesday's top stories · Part 2/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#usnews #uspolitics #7seasnews #news",
+     "thumb": "set"
+    },
+    "yt": {
+     "id": "QU34pDGaFhs",
+     "state": "scheduled",
+     "url": "https://youtube.com/shorts/QU34pDGaFhs",
+     "thumb": "set"
+    },
+    "tt": {
+     "state": "sent"
+    }
+   },
+   {
+    "name": "WORLD NEWS",
+    "of": 3,
+    "post_at": "2026-11-18T16:55:00+00:00",
+    "stories": 12,
+    "seconds": 55.5,
+    "fb": {
+     "id": "4212129895585745",
+     "state": "scheduled",
+     "caption": "Trump arrives in Philippines. Manila protests.\n\nWORLD NEWS · Tuesday's top stories · Part 3/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#worldnews #7seasnews #news",
+     "thumb": "set"
+    },
+    "yt": {
+     "id": "uc84Bl6HxjI",
+     "state": "scheduled",
+     "url": "https://youtube.com/shorts/uc84Bl6HxjI",
+     "thumb": "set"
+    },
+    "tt": {
+     "state": "sent"
+    }
+   }
+  ]
  }
 }
