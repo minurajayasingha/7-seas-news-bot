@@ -10892,6 +10892,102 @@
     "shares": 0
    },
    "stats_at": "2026-11-18T17:13:48.300970+00:00"
+  },
+  "36b2013679": {
+   "id": "36b2013679",
+   "headline": "Markwayne Mullin testifies before House Homeland Security Committee",
+   "summary": "Homeland Security Director Markwayne Mullin testifies before Congress on the status of global threats against the United States. Mullin appears at the congressional hearing amid questions concerning flight disruptions, a football trip, and immigration.",
+   "label": "US POLITICS",
+   "hook": "What are the primary global threats currently facing the United States?",
+   "key_points": [
+    "Mullin appeared at the congressional hearing on Wednesday morning.",
+    "Questions were raised regarding flight disruptions and a football trip.",
+    "Immigration was also a topic surrounding the hearing."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#HomelandSecurity",
+    "#Congress"
+   ],
+   "sources": [
+    "The Independent",
+    "UPI"
+   ],
+   "link": "https://www.upi.com/Top_News/US/2026/11/18/markwayne-mullin-homeland-security-testimony/9831795017264/",
+   "links": [
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/US/2026/11/18/markwayne-mullin-homeland-security-testimony/9831795017264/"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/markwayne-mullin-donald-trump-democrats-microsoft-homeland-security-b3087121.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/US_Capitol_west_side_at_dusk.JPG/1920px-US_Capitol_west_side_at_dusk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Martin Falbisoner / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 6,
+      "shows": "US Capitol building"
+     }
+    ],
+    "inset": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Markwayne_Mullin_Official_Photo_%283x4%29_%28cropped%29.jpg/1280px-Markwayne_Mullin_Official_Photo_%283x4%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credit": "US Congressman Markwayne Mullin's office / Wikimedia Commons (Public domain)",
+     "short": "WIKIMEDIA COMMONS",
+     "score": 10,
+     "shows": "Markwayne Mullin portrait"
+    }
+   },
+   "img_post": {
+    "headline": "Markwayne Mullin testifies before House Homeland Security Committee",
+    "people": [
+     "Markwayne Mullin"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "House of Representatives chamber",
+     "US Capitol dome"
+    ],
+    "image_style": "scene",
+    "location": "Washington, D.C., US",
+    "nearby_city": "Washington, D.C.",
+    "event_query": "House Homeland Security Committee hearing",
+    "topic_photo": "congressional hearing",
+    "label": "US POLITICS",
+    "action_subject": "",
+    "news_time": "2026-11-18T12:03:00+00:00"
+   },
+   "created_at": "2026-11-18T17:46:03.787725+00:00",
+   "news_time": "2026-11-18T12:03:00+00:00",
+   "news_latest": "2026-11-18T16:08:06+00:00",
+   "importance": 6,
+   "caption": "Markwayne Mullin testifies before House Homeland Security Committee\n\nHomeland Security Director Markwayne Mullin testifies before Congress on the status of global threats against the United States. Mullin appears at the congressional hearing amid questions concerning flight disruptions, a football trip, and immigration.\n\n💬 What are the primary global threats currently facing the United States?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #HomelandSecurity #Congress #7SeasNews",
+   "photo_line": "📷 6/10 US Capitol building",
+   "status": "posted",
+   "tg_message_id": 797,
+   "tg_file_id": "AgACAgUAAxkDAAIDHWr95GLGLl14K0bf9FDs9LkyWPk5AAJFFmsbguzwV3YRM8bsasnUAQADAgADdwADPQQ",
+   "queued_at": "2026-11-18T17:46:10.576140+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-18T17:46:10.576167+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122105518137548584",
+   "posted_at": "2026-11-18T17:46:10.853880+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 18 · 12:46 PM New York · 11:16 PM Sri Lanka\n\n<b>Markwayne Mullin testifies before House Homeland Security Committee</b>\n<i>The Independent, UPI</i>\n🟡 <b>Latest:</b> 9:38 PM Sri Lanka (1h 38m ago) · first reported 5:33 PM\n📷 6/10 US Capitol building\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122105518137548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 505,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122105518137548584_1452515897030209"
   }
  },
  "seen_links": [
@@ -12367,7 +12463,13 @@
   "https://www.nbcnews.com/pop-culture/pop-culture-news/grand-theft-auto-six-release-rockstar-games-what-to-know-rcna609644",
   "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
   "https://thehill.com/opinion/congress-blog/6227128-traceability-risk-political-power/",
-  "https://www.france24.com/en/video/20261118-senate-leadership-challenge-exposes-divisions-among-democrat"
+  "https://www.france24.com/en/video/20261118-senate-leadership-challenge-exposes-divisions-among-democrat",
+  "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
+  "https://www.independent.co.uk/news/world/americas/us-politics/karoline-leavitt-white-house-tech-outages-b3087129.html",
+  "https://www.independent.co.uk/news/world/americas/us-politics/markwayne-mullin-lsu-game-ground-stop-b3087297.html",
+  "https://www.washingtonexaminer.com/news/house/4807291/dhs-secretary-markwayne-mullin-private-luxury-jet-lsu-football-game/",
+  "https://www.upi.com/Top_News/US/2026/11/18/markwayne-mullin-homeland-security-testimony/9831795017264/",
+  "https://www.independent.co.uk/news/world/americas/markwayne-mullin-donald-trump-democrats-microsoft-homeland-security-b3087121.html"
  ],
  "recent_topics": [
   [
@@ -15410,17 +15512,71 @@
     "won"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-18T17:45:21.737759+00:00",
+   [
+    "air",
+    "didnt",
+    "faa",
+    "fear",
+    "fly",
+    "follow",
+    "gam",
+    "goe",
+    "government",
+    "ground",
+    "jet",
+    "lsu",
+    "markwayn",
+    "mullin",
+    "offens",
+    "peopl",
+    "stop",
+    "traffic",
+    "using"
+   ],
+   "skipped"
+  ],
+  [
+   "2026-11-18T17:46:10.576009+00:00",
+   [
+    "committe",
+    "congress",
+    "defend",
+    "disruption",
+    "flight",
+    "football",
+    "gam",
+    "government",
+    "head",
+    "homeland",
+    "hous",
+    "immigration",
+    "liv",
+    "markwayn",
+    "mov",
+    "mullin",
+    "plan",
+    "politic",
+    "question",
+    "security",
+    "stoppag",
+    "swirl",
+    "tak",
+    "testify",
+    "trip"
+   ],
+   "36b2013679"
   ]
  ],
- "last_draft_at": "2026-11-18T17:14:18.322902+00:00",
+ "last_draft_at": "2026-11-18T17:43:19.718975+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T17:13:48.300970+00:00",
  "run_log": [
-  "11-18 15:04:49 run start",
-  "11-18 15:16:28 run end after 698 s",
   "11-18 15:16:59 run start",
   "11-18 15:16:59 listening 11 min",
   "11-18 15:28:43 listening done",
@@ -15458,13 +15614,13 @@
   "11-18 17:21:06 run start",
   "11-18 17:21:07 listening 11 min",
   "11-18 17:32:52 listening done",
-  "11-18 17:32:52 run end after 705 s"
+  "11-18 17:32:52 run end after 705 s",
+  "11-18 17:43:19 run start",
+  "11-18 17:46:31 listening 8 min"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/US_Navy_040221-N-4936C-032_Air_Traffic_Controller_1st_Class_Marcella_Klauser%2C_a_Facility_Watch_Supervisor_with_the_Air_Operations_Department%2C_communicates_with_an_aircraft_while_on_duty.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/The_building_of_Serbian_Parliament_at_night%2C_October_13%2C_2012.jpg/1920px-The_building_of_Serbian_Parliament_at_night%2C_October_13%2C_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/1280px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -15502,7 +15658,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Tour_et_Taxis_-_Brussels_Skyline_%28cropped%29.jpg/1920px-Tour_et_Taxis_-_Brussels_Skyline_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Skyline_of_China-ASEAN_Business_Center_in_Qingxiu_District.jpg/1920px-Skyline_of_China-ASEAN_Business_Center_in_Qingxiu_District.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Cebu_Port_Pier_6_cranes%2C_containers_drone_%28Cebu_City%3B_01-20-2026%29.jpg/1920px-Cebu_Port_Pier_6_cranes%2C_containers_drone_%28Cebu_City%3B_01-20-2026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Naval_Strike_Missile_%28NSM%29_3.jpg/1920px-Naval_Strike_Missile_%28NSM%29_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Naval_Strike_Missile_%28NSM%29_3.jpg/1920px-Naval_Strike_Missile_%28NSM%29_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/US_Capitol_west_side_at_dusk.JPG/1920px-US_Capitol_west_side_at_dusk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Markwayne_Mullin_Official_Photo_%283x4%29_%28cropped%29.jpg/1280px-Markwayne_Mullin_Official_Photo_%283x4%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "richard ojeda": {
@@ -18145,7 +18303,7 @@
     ]
    },
    "markwayne mullin": {
-    "t": "2026-11-16T13:18:08.122717+00:00",
+    "t": "2026-11-18T17:45:42.003195+00:00",
     "photos": [
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/DHS_Secretary_Markwayne_Mullin_Official_Portrait_%2855166865268%29.jpg/1280px-DHS_Secretary_Markwayne_Mullin_Official_Portrait_%2855166865268%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -18156,69 +18314,81 @@
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Markwayne_Mullin_official_Senate_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "credit": "United States Senate / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Markwayne_Mullin_official_congressional_photo_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "United States Congress / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
+      "portrait": true,
+      "only": true
      },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/2026_Markwayne_Mullin_%28cropped%29.jpg/1280px-2026_Markwayne_Mullin_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "DHSgov / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
+      "portrait": true,
+      "only": true
      },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Markwayne_Mullin_Official_Photo_%283x4%29_%28cropped%29.jpg/1280px-Markwayne_Mullin_Official_Photo_%283x4%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "US Congressman Markwayne Mullin's office / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Markwayne_Mullin_Official_Photo_%283x4_cropped%29.jpg/1280px-Markwayne_Mullin_Official_Photo_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "US Congressman Markwayne Mullin's office / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Markwayne_Mullin_Official_Photo_%283x4%29.jpg/1280px-Markwayne_Mullin_Official_Photo_%283x4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "US Congressman Markwayne Mullin's office / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Markwayne_Mullin_%2854233803657%29.jpg/1280px-Markwayne_Mullin_%2854233803657%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Markwayne_Mullin_%2854235117625%29.jpg/1280px-Markwayne_Mullin_%2854235117625%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Markwayne_Mullin_%2854234939173%29.jpg/1280px-Markwayne_Mullin_%2854234939173%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Congressman_Markwayne_Mullin_Official_Photo.jpg/1280px-Congressman_Markwayne_Mullin_Official_Photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "US Congressman Markwayne Mullin's office / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
+      "portrait": true,
+      "only": true
      },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Markwayne_Mullin_official_congressional_photo_%28cropped%29.jpg/1280px-Markwayne_Mullin_official_congressional_photo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "United States Congress / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Markwayne_Mullin_official_congressional_photo_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "United States Congress / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Markwayne_Mullin_Official_Photo_%283x4%29.jpg/1280px-Markwayne_Mullin_Official_Photo_%283x4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "US Congressman Markwayne Mullin's office / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Congressman_Markwayne_Mullin_Official_Photo.jpg/1280px-Congressman_Markwayne_Mullin_Official_Photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "US Congressman Markwayne Mullin's office / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Markwayne_Mullin_Official_Photo_%283x4_cropped%29.jpg/1280px-Markwayne_Mullin_Official_Photo_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "US Congressman Markwayne Mullin's office / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Markwayne_Mullin%2C_117th_Congress_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "United States House of Representatives / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Markwayne_Mullin_official_photo_%28cropped%29.jpg/1280px-Markwayne_Mullin_official_photo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "US House Office of Photography / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Markwayne_Mullin%2C_official_portrait%2C_113th_Congress.jpg/1280px-Markwayne_Mullin%2C_official_portrait%2C_113th_Congress.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Congress / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
      }
-    ]
+    ],
+    "v": 2
    },
    "josé maria neves": {
     "t": "2026-11-16T13:18:20.113578+00:00",
@@ -18863,7 +19033,6 @@
    }
   },
   "recent_ideas": [
-   "soldiers",
    "missile launch",
    "washington dc skyline",
    "parliament members voting",
@@ -18874,7 +19043,8 @@
    "petrol station price display",
    "voters at polling station",
    "container port cranes",
-   "missile strike"
+   "missile strike",
+   "us capitol building"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -19406,6 +19576,16 @@
     "s": 8,
     "w": "missile model on display",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Markwayne_Mullin_Official_Photo_%283x4%29_%28cropped%29.jpg/1280px-Markwayne_Mullin_Official_Photo_%283x4%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Markwayne Mullin": {
+    "s": 10,
+    "w": "Markwayne Mullin portrait",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/US_Capitol_west_side_at_dusk.JPG/1920px-US_Capitol_west_side_at_dusk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|50bfa227": {
+    "s": 6,
+    "w": "US Capitol building",
+    "p": ""
    }
   }
  },
@@ -19417,10 +19597,10 @@
   "2026-11-15": 19,
   "2026-11-16": 32,
   "2026-11-17": 35,
-  "2026-11-18": 9
+  "2026-11-18": 10
  },
- "last_auto_at": "2026-11-18T16:40:01.098004+00:00",
- "last_post_at": "2026-11-18T16:40:14.264882+00:00",
+ "last_auto_at": "2026-11-18T17:46:10.853880+00:00",
+ "last_post_at": "2026-11-18T17:46:22.231820+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
