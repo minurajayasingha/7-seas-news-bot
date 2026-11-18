@@ -15682,10 +15682,6 @@
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T14:17:29.318121+00:00",
  "run_log": [
-  "11-18 12:12:22 listening done",
-  "11-18 12:12:22 run end after 692 s",
-  "11-18 12:15:43 run start",
-  "11-18 12:16:42 listening 11 min",
   "11-18 12:27:11 listening done",
   "11-18 12:27:11 run end after 688 s",
   "11-18 12:30:59 run start",
@@ -15721,7 +15717,11 @@
   "11-18 14:28:07 listening done",
   "11-18 14:28:07 run end after 747 s",
   "11-18 14:44:08 run start",
-  "11-18 14:47:19 listening 8 min"
+  "11-18 14:47:19 listening 8 min",
+  "11-18 14:51:08 run start",
+  "11-18 14:54:18 listening 8 min",
+  "11-18 15:03:47 listening done",
+  "11-18 15:03:47 run end after 759 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
