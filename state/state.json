@@ -12601,28 +12601,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-15T19:45:51.485604+00:00",
-   [
-    "aden",
-    "advanc",
-    "al-mandeb",
-    "bab",
-    "capital",
-    "defend",
-    "forc",
-    "government",
-    "houthi",
-    "red",
-    "redeploy",
-    "retreat",
-    "saudi-back",
-    "sea",
-    "yemen",
-    "yemeni"
-   ],
-   "585f28a769"
-  ],
-  [
    "2026-11-15T19:59:09.161665+00:00",
    [
     "ambition",
@@ -15796,15 +15774,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-18T19:16:01.529615+00:00",
+ "last_draft_at": "2026-11-18T19:48:18.181861+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T19:15:29.935446+00:00",
  "run_log": [
-  "11-18 16:47:59 listening done",
-  "11-18 16:47:59 run end after 698 s",
   "11-18 16:48:38 run start",
   "11-18 16:48:49 listening 11 min",
   "11-18 17:00:08 listening done",
@@ -15842,7 +15818,9 @@
   "11-18 19:21:09 run start",
   "11-18 19:21:10 listening 11 min",
   "11-18 19:32:56 listening done",
-  "11-18 19:32:56 run end after 707 s"
+  "11-18 19:32:56 run end after 707 s",
+  "11-18 19:48:17 run start",
+  "11-18 19:48:19 listening 11 min"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
