@@ -13041,7 +13041,12 @@
   "https://www.today.com/video/trump-lands-in-china-ahead-of-historic-meeting-with-xi-and-putin-273718341601",
   "https://www.independent.co.uk/news/world/crime/thomas-markle-child-sexual-abuse-philippines-b3086938.html",
   "https://www.nbcnews.com/world/united-kingdom/meghan-markle-father-thomas-new-child-sex-abuse-charges-philippines-rcna609831",
-  "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+  "https://abcnews.com/International/wireStory/philippine-president-jollibee-fried-chicken-delivered-trump-late-138241588",
+  "https://www.nytimes.com/2026/11/18/world/asia/trump-marcos-philippines-fried-chicken-jollibee.html",
+  "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/fried-chicken-and-a-chat-with-an-old-friend-how-marcos-catered-to-trump",
+  "https://thehill.com/homenews/senate/6227288-us-philippines-economic-cooperation/",
+  "https://www.nytimes.com/2026/11/18/world/asia/trump-imelda-marcos.html"
  ],
  "recent_topics": [
   [
@@ -15959,17 +15964,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-18T13:30:39.372467+00:00",
+ "last_draft_at": "2026-11-18T13:45:48.337723+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T13:15:51.672475+00:00",
  "run_log": [
-  "11-18 11:15:32 run start",
-  "11-18 11:16:31 listening 11 min",
-  "11-18 11:26:59 listening done",
-  "11-18 11:26:59 run end after 686 s",
   "11-18 11:30:40 run start",
   "11-18 11:30:50 listening 11 min",
   "11-18 11:42:08 listening done",
@@ -16005,12 +16006,15 @@
   "11-18 13:30:39 run start",
   "11-18 13:30:58 listening 11 min",
   "11-18 13:42:17 listening done",
-  "11-18 13:42:17 run end after 698 s"
+  "11-18 13:42:17 run end after 698 s",
+  "11-18 13:45:48 run start",
+  "11-18 13:48:27 listening 9 min",
+  "11-18 13:57:14 listening done",
+  "11-18 13:57:14 run end after 686 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Early_Voting_0135_%2830620206795%29.jpg/1920px-Early_Voting_0135_%2830620206795%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Trillion_Peso_March_at_EDSA_Shrine_in_September_2025_16.jpg/1920px-Trillion_Peso_March_at_EDSA_Shrine_in_September_2025_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -16049,7 +16053,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/US_Navy_041102-N-5134H-001_Master_Chief_Aviation_Electronics_Mate_Edward_Betz_departs_a_voters_polling_place_at_Oak_Harbor_School_District_Administration_Building_201.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Hakeem_Jeffries_official_portrait_%28cropped%29.jpg/1280px-Hakeem_Jeffries_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Tour_et_Taxis_-_Brussels_Skyline_%28cropped%29.jpg/1920px-Tour_et_Taxis_-_Brussels_Skyline_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Skyline_of_China-ASEAN_Business_Center_in_Qingxiu_District.jpg/1920px-Skyline_of_China-ASEAN_Business_Center_in_Qingxiu_District.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Skyline_of_China-ASEAN_Business_Center_in_Qingxiu_District.jpg/1920px-Skyline_of_China-ASEAN_Business_Center_in_Qingxiu_District.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Cebu_Port_Pier_6_cranes%2C_containers_drone_%28Cebu_City%3B_01-20-2026%29.jpg/1920px-Cebu_Port_Pier_6_cranes%2C_containers_drone_%28Cebu_City%3B_01-20-2026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "richard ojeda": {
@@ -19410,7 +19415,6 @@
    }
   },
   "recent_ideas": [
-   "computer servers",
    "fishing vessel",
    "soldiers",
    "missile launch",
@@ -19421,7 +19425,8 @@
    "house chamber, united states capitol",
    "courtroom",
    "petrol station price display",
-   "voters at polling station"
+   "voters at polling station",
+   "container port cranes"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -19923,6 +19928,26 @@
     "s": 5,
     "w": "China skyline",
     "p": "shows a calm skyline instead of leaders meeting"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Fried_chicken_and_rice_ball_lunch_box_of_NewDays.jpg/1920px-Fried_chicken_and_rice_ball_lunch_box_of_NewDays.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|25cdb0f5": {
+    "s": 0,
+    "w": "fried chicken and onigiri",
+    "p": "photo shows food instead of a diplomatic meeting"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Cebu_Port_Pier_6_cranes%2C_containers_drone_%28Cebu_City%3B_01-20-2026%29.jpg/1920px-Cebu_Port_Pier_6_cranes%2C_containers_drone_%28Cebu_City%3B_01-20-2026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|25cdb0f5": {
+    "s": 10,
+    "w": "container port cranes",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Donald Trump": {
+    "s": 0,
+    "w": "portrait of Donald Trump",
+    "p": "AI-generated image"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Donald Trump": {
+    "s": 0,
+    "w": "Donald Trump waving behind glass",
+    "p": "wrong event and location, headline mentions Marcos in Manila"
    }
   }
  },
