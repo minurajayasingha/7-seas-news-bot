@@ -15665,10 +15665,6 @@
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T04:56:16.817803+00:00",
  "run_log": [
-  "11-18 02:29:20 listening done",
-  "11-18 02:29:20 run end after 698 s",
-  "11-18 02:30:44 run start",
-  "11-18 02:30:55 listening 11 min",
   "11-18 02:42:14 listening done",
   "11-18 02:42:14 run end after 690 s",
   "11-18 02:45:51 run start",
@@ -15704,7 +15700,11 @@
   "11-18 04:42:05 listening done",
   "11-18 04:42:05 run end after 685 s",
   "11-18 04:56:16 run start",
-  "11-18 04:57:07 listening 11 min"
+  "11-18 04:57:07 listening 11 min",
+  "11-18 05:05:51 run start",
+  "11-18 05:05:54 listening 11 min",
+  "11-18 05:17:37 listening done",
+  "11-18 05:17:37 run end after 706 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -19724,6 +19724,199 @@
     "tt3": true,
     "log3": true
    }
+  },
+  "2026-11-17": {
+   "status": "asked",
+   "plan": {
+    "parts": [
+     {
+      "name": "WAR & CONFLICT",
+      "tag": "#warnews",
+      "stories": [
+       19,
+       31,
+       18,
+       4,
+       30,
+       28,
+       23,
+       27,
+       33
+      ],
+      "hook": "US strikes Iran after drones. UK pledges missiles.",
+      "title": "US strikes Iran following Bahrain drone attack",
+      "question": "How will regional tensions unfold next?",
+      "hashtags": [
+       "#conflict",
+       "#middleeast"
+      ],
+      "tags": [
+       "middle east conflict",
+       "iran strikes",
+       "ukraine war",
+       "military news",
+       "us military",
+       "world news"
+      ],
+      "of": 3
+     },
+     {
+      "name": "US NEWS",
+      "tag": "#usnews",
+      "stories": [
+       11,
+       6,
+       9,
+       14,
+       21,
+       17,
+       22,
+       29,
+       35,
+       24,
+       16,
+       13
+      ],
+      "hook": "FAA ground stop hits flights. Democrats prep control.",
+      "title": "Nationwide FAA ground stop halts US flights",
+      "question": "What caused the nationwide FAA ground stop?",
+      "hashtags": [
+       "#uspolitics",
+       "#aviation"
+      ],
+      "tags": [
+       "us politics",
+       "faa ground stop",
+       "democrats",
+       "congress",
+       "us news",
+       "trump administration"
+      ],
+      "of": 3
+     },
+     {
+      "name": "WORLD NEWS",
+      "tag": "#worldnews",
+      "stories": [
+       7,
+       1,
+       2,
+       15,
+       10,
+       8,
+       26,
+       32,
+       5,
+       12,
+       20,
+       34
+      ],
+      "hook": "Trump arrives in Philippines. Manila protests.",
+      "title": "Donald Trump arrives in Philippines for Asia trip",
+      "question": "How will international relations shift during the Asia trip?",
+      "hashtags": [
+       "#worldnews",
+       "#diplomacy"
+      ],
+      "tags": [
+       "world news",
+       "donald trump",
+       "asia trip",
+       "philippines",
+       "japan jets",
+       "international news"
+      ],
+      "of": 3
+     }
+    ],
+    "dropped": [
+     {
+      "n": 3,
+      "why": "Covered by main strike story"
+     },
+     {
+      "n": 25,
+      "why": "Minor outage detail"
+     }
+    ],
+    "ids": [
+     "9efce15ccb",
+     "cfacadb87b",
+     "0970bc76ea",
+     "acd506f96e",
+     "68ce77760c",
+     "b7fa157ba8",
+     "ebb2a14e94",
+     "f2e281de5b",
+     "814979608f",
+     "349863c869",
+     "0ebbd69b97",
+     "69f16d5ee6",
+     "ae54e42c45",
+     "f53bf1b32d",
+     "64916d6055",
+     "b96a78eea8",
+     "b89511598c",
+     "be90c4546d",
+     "b852e402bf",
+     "affca0a648",
+     "0bdec7468a",
+     "162452e3fe",
+     "102e0e684e",
+     "bfd3abb005",
+     "bfb56870c0",
+     "f283b74baa",
+     "08b988c418",
+     "399fd9cdcf",
+     "fb21c5e2e2",
+     "31c7e24129",
+     "5704c193c8",
+     "95b34d308e",
+     "448bf69df2",
+     "39b570cca8",
+     "1f15f8755e"
+    ]
+   },
+   "heads": [
+    "Hundreds arrested in Manila protests over Donald Trump visit",
+    "Japan scrambles jets after suspected Russian aircraft airspace violation",
+    "White House responds to intelligence reports regarding Iran threat",
+    "Military jet crashes in Serbia and pilot is killed",
+    "France and Malaysia agree rare earths project for 2027",
+    "Democrats prepare for control of Congress after midterms",
+    "Donald Trump arrives in Philippines for Asia trip",
+    "Data leak exposes Deutsche Bank ties to Russian oligarchs",
+    "Senate Democrats face leadership contest between Van Hollen and Schumer",
+    "Nvidia creates new committee to oversee national security",
+    "Nationwide FAA ground stop halts flights across the United States",
+    "Serbia Student List candidates take office in parliament",
+    "Gas prices drop following the 2026 midterm elections",
+    "Federal judge blocks Trump administration student visa rule",
+    "US loses measles elimination status after 26 years",
+    "Federal Reserve Governor Lisa Cook avoids White House hearing",
+    "US senators demand FAA pause upgrades linked to ground stop",
+    "UK pledges over one thousand short-range missiles for Ukraine",
+    "Iran targets US radar facility in Bahrain with drones",
+    "Pope Leo comments on Catholic priest celibacy rules",
+    "California prosecutors sue to block Governor Gavin Newsom commutation plan",
+    "Department of Labor proposes stricter rules for green cards",
+    "Iran-backed group warns Iraqi forces against entering Baghdad stronghold",
+    "Hung Cao faces questions during Senate Armed Services Committee hearing",
+    "NSA and Apple experience technology outages in the US",
+    "American soldier suspected of spying handed to US authorities",
+    "Sixteen Ecuadorian fishermen sue United States over boat strike",
+    "Israeli settlers shoot and kill Palestinian woman near Jericho",
+    "Trump nominates Chris LaNeve as Army chief of staff",
+    "Russian military plane crash in Siberia kills nineteen people",
+    "US strikes Iran again following discussions with officials",
+    "FBI issues warning over AI tool used by hackers",
+    "US officials assess reported dirty bomb threat in Washington",
+    "Israeli parliament elects Matan Kahana as new Knesset speaker",
+    "White House drops Heidi Overton nomination for FDA"
+   ],
+   "asked_at": "2026-11-18T05:05:53.881134+00:00",
+   "test": false,
+   "msg_id": 774
   }
  },
  "run_once_done": [
