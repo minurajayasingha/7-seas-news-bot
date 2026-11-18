@@ -12704,7 +12704,9 @@
   "https://www.washingtonpost.com/world/2026/11/18/hegseth-makes-surprise-appearance-venezuela-renews-military-partnership/",
   "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
   "https://www.nbcnews.com/meet-the-press/video/gop-rep-says-americans-want-to-stop-immigration-overreach-after-midterm-backlash-273763909879",
-  "https://www.independent.co.uk/news/world/americas/us-politics/trump-cabinet-officials-americans-poll-b3087503.html"
+  "https://www.independent.co.uk/news/world/americas/us-politics/trump-cabinet-officials-americans-poll-b3087503.html",
+  "https://abcnews.com/International/wireStory/uks-prince-harry-sees-big-separation-us-administration-138263585",
+  "https://www.independent.co.uk/news/world/americas/ukraine-russia-california-british-army-london-b3087564.html"
  ],
  "recent_topics": [
   [
@@ -15946,19 +15948,30 @@
     "want"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-18T23:31:16.880756+00:00",
+   [
+    "administration",
+    "big",
+    "harry",
+    "princ",
+    "public",
+    "see",
+    "separation",
+    "support",
+    "ukrain"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-18T23:18:05.543826+00:00",
+ "last_draft_at": "2026-11-18T23:30:44.791043+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T23:01:01.403042+00:00",
  "run_log": [
-  "11-18 20:50:56 run start",
-  "11-18 20:51:05 listening 11 min",
-  "11-18 21:02:25 listening done",
-  "11-18 21:02:25 run end after 689 s",
   "11-18 21:03:00 run start",
   "11-18 21:03:09 listening 11 min",
   "11-18 21:14:28 listening done",
@@ -15994,7 +16007,11 @@
   "11-18 23:18:05 run start",
   "11-18 23:18:15 listening 11 min",
   "11-18 23:29:33 listening done",
-  "11-18 23:29:33 run end after 688 s"
+  "11-18 23:29:33 run end after 688 s",
+  "11-18 23:30:44 run start",
+  "11-18 23:31:16 listening 11 min",
+  "11-18 23:42:10 listening done",
+  "11-18 23:42:10 run end after 686 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
