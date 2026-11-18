@@ -15759,17 +15759,13 @@
    "6e01c3a20f"
   ]
  ],
- "last_draft_at": "2026-11-18T08:01:53.624265+00:00",
+ "last_draft_at": "2026-11-18T08:15:49.543924+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T08:00:49.995864+00:00",
  "run_log": [
-  "11-18 05:42:25 listening done",
-  "11-18 05:42:25 run end after 698 s",
-  "11-18 05:45:50 run start",
-  "11-18 05:46:00 listening 11 min",
   "11-18 05:57:20 listening done",
   "11-18 05:57:20 run end after 690 s",
   "11-18 06:00:46 run start",
@@ -15805,7 +15801,11 @@
   "11-18 08:00:49 run start",
   "11-18 08:02:12 listening 10 min",
   "11-18 08:12:16 listening done",
-  "11-18 08:12:16 run end after 686 s"
+  "11-18 08:12:16 run end after 686 s",
+  "11-18 08:15:48 run start",
+  "11-18 08:16:20 listening 11 min",
+  "11-18 08:27:16 listening done",
+  "11-18 08:27:16 run end after 688 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -19845,7 +19845,7 @@
    }
   },
   "2026-11-17": {
-   "status": "asked",
+   "status": "building",
    "plan": {
     "parts": [
      {
@@ -20035,7 +20035,46 @@
    ],
    "asked_at": "2026-11-18T05:05:53.881134+00:00",
    "test": false,
-   "msg_id": 774
+   "msg_id": 774,
+   "approved_by": "auto",
+   "approved_at": "2026-11-18T08:15:48.973477+00:00",
+   "dispatch_at": "2026-11-18T08:15:48.973483+00:00",
+   "dispatch_tries": 1,
+   "headlines": [
+    "Iran targets US radar facility in Bahrain with drones",
+    "US strikes Iran again following discussions with officials",
+    "UK pledges over one thousand short-range missiles for Ukraine",
+    "Military jet crashes in Serbia and pilot is killed",
+    "Russian military plane crash in Siberia kills nineteen people",
+    "Israeli settlers shoot and kill Palestinian woman near Jericho",
+    "Iran-backed group warns Iraqi forces against entering Baghdad stronghold",
+    "Sixteen Ecuadorian fishermen sue United States over boat strike",
+    "US officials assess reported dirty bomb threat in Washington",
+    "Nationwide FAA ground stop halts flights across the United States",
+    "Democrats prepare for control of Congress after midterms",
+    "Senate Democrats face leadership contest between Van Hollen and Schumer",
+    "Federal judge blocks Trump administration student visa rule",
+    "California prosecutors sue to block Governor Gavin Newsom commutation plan",
+    "US senators demand FAA pause upgrades linked to ground stop",
+    "Department of Labor proposes stricter rules for green cards",
+    "Trump nominates Chris LaNeve as Army chief of staff",
+    "White House drops Heidi Overton nomination for FDA",
+    "Hung Cao faces questions during Senate Armed Services Committee hearing",
+    "Federal Reserve Governor Lisa Cook avoids White House hearing",
+    "Gas prices drop following the 2026 midterm elections",
+    "Donald Trump arrives in Philippines for Asia trip",
+    "Hundreds arrested in Manila protests over Donald Trump visit",
+    "Japan scrambles jets after suspected Russian aircraft airspace violation",
+    "US loses measles elimination status after 26 years",
+    "Nvidia creates new committee to oversee national security",
+    "Data leak exposes Deutsche Bank ties to Russian oligarchs",
+    "American soldier suspected of spying handed to US authorities",
+    "FBI issues warning over AI tool used by hackers",
+    "France and Malaysia agree rare earths project for 2027",
+    "Serbia Student List candidates take office in parliament",
+    "Pope Leo comments on Catholic priest celibacy rules",
+    "Israeli parliament elects Matan Kahana as new Knesset speaker"
+   ]
   }
  },
  "run_once_done": [
