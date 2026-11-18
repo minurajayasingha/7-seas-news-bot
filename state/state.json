@@ -1,81 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "25b47eac9f": {
-   "id": "25b47eac9f",
-   "headline": "Donald Trump announces discount for Washington residents at golf course",
-   "summary": "Donald Trump announced that local residents will receive a fifty percent discount at the renovated East Potomac Golf Links. The project forms part of a broader effort to renovate prominent sites in Washington, D.C.",
-   "label": "US POLITICS",
-   "hook": "Would a fifty percent discount encourage more local residents to visit the renovated golf course?",
-   "key_points": [
-    "Trump criticized the current state of the East Potomac Golf Links course.",
-    "The announcement was made on Saturday afternoon."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#WashingtonDC",
-    "#GolfCourse"
-   ],
-   "sources": [
-    "Newsweek",
-    "Washington Examiner"
-   ],
-   "link": "https://www.newsweek.com/trump-vows-50-discount-for-locals-amid-dc-golf-course-renovation-battle-12716478",
-   "links": [
-    [
-     "Newsweek",
-     "https://www.newsweek.com/trump-vows-50-discount-for-locals-amid-dc-golf-course-renovation-battle-12716478"
-    ],
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/news/white-house/4804018/trump-dc-residents-50-percent-discount-golf-course/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Little_Island%2C_Washington%2C_D.C.%2C_2009%2C_with_Rosslyn_skyline.jpg/1920px-Little_Island%2C_Washington%2C_D.C.%2C_2009%2C_with_Rosslyn_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "WorldIslandInfo.com / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ],
-    "inset": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "credit": "Shealeah Craighead / Wikimedia Commons (Public domain)",
-     "short": "WIKIMEDIA COMMONS"
-    }
-   },
-   "img_post": {
-    "headline": "Donald Trump announces discount for Washington residents at golf course",
-    "people": [
-     "Donald Trump"
-    ],
-    "image_query": "East Potomac Golf Links",
-    "image_queries": [
-     "Washington D.C. skyline",
-     "Potomac golf course",
-     "Washington D.C. landmarks",
-     "golf course renovation"
-    ],
-    "image_style": "scene",
-    "location": "Washington, D.C., US",
-    "nearby_city": "Washington, D.C.",
-    "event_query": "East Potomac Golf Links renovation",
-    "news_time": null,
-    "label": "US POLITICS"
-   },
-   "created_at": "2026-11-14T22:31:15.481129+00:00",
-   "news_time": "2026-11-14T21:42:45+00:00",
-   "news_latest": "2026-11-14T22:29:24+00:00",
-   "caption": "Donald Trump announces discount for Washington residents at golf course\n\nDonald Trump announced that local residents will receive a fifty percent discount at the renovated East Potomac Golf Links. The project forms part of a broader effort to renovate prominent sites in Washington, D.C.\n\n💬 Would a fifty percent discount encourage more local residents to visit the renovated golf course?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #WashingtonDC #GolfCourse #7SeasNews",
-   "status": "expired",
-   "tg_message_id": 561,
-   "tg_file_id": "AgACAgUAAxkDAAICMWr44TfyQqZijgeC7c23vfdxKP0PAAKXFGsbT5fJV0r_EQXklRhfAQADAgADdwADPQQ",
-   "extra_msgs": [],
-   "cleared": true
-  },
   "8c85dd6c8c": {
    "id": "8c85dd6c8c",
    "headline": "Benjamin Netanyahu calls for Israeli national unity government",
@@ -15688,17 +15613,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-18T22:18:09.403036+00:00",
+ "last_draft_at": "2026-11-18T22:30:44.878737+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T22:01:52.059142+00:00",
  "run_log": [
-  "11-18 19:48:17 run start",
-  "11-18 19:48:19 listening 11 min",
-  "11-18 19:53:46 run start",
-  "11-18 19:53:47 listening 11 min",
   "11-18 20:05:35 listening done",
   "11-18 20:05:35 run end after 708 s",
   "11-18 20:06:29 run start",
@@ -15734,7 +15655,11 @@
   "11-18 22:18:09 run start",
   "11-18 22:19:28 listening 10 min",
   "11-18 22:29:57 listening done",
-  "11-18 22:29:57 run end after 708 s"
+  "11-18 22:29:57 run end after 708 s",
+  "11-18 22:30:44 run start",
+  "11-18 22:30:54 listening 11 min",
+  "11-18 22:42:15 listening done",
+  "11-18 22:42:15 run end after 690 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
