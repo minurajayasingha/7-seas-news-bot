@@ -10938,6 +10938,97 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122105734077548584_1484470817220786"
+  },
+  "fd4500fa37": {
+   "id": "fd4500fa37",
+   "headline": "US indicts alleged Russian agent for spying on defense firm",
+   "summary": "Federal authorities say a Russian man allegedly surveilled employees at a technology and defense firm in California. Officials state the spying was tied to the firm's support of Ukraine.",
+   "label": "WORLD",
+   "hook": "Should the US increase security measures for employees at defense companies?",
+   "key_points": [
+    "The company has offices across the US, including in Palo Alto.",
+    "Federal authorities announced the indictment of the Russian man."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USNews",
+    "#Espionage",
+    "#Russia"
+   ],
+   "sources": [
+    "CBS News",
+    "Euronews",
+    "Newsweek"
+   ],
+   "link": "https://www.euronews.com/2026/11/18/alleged-russian-agent-arrested-for-spying-on-silicon-valley-tech-firm",
+   "links": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/18/alleged-russian-agent-arrested-for-spying-on-silicon-valley-tech-firm"
+    ],
+    [
+     "Newsweek",
+     "https://www.newsweek.com/russian-accused-of-surveilling-us-tech-company-over-its-support-of-ukraine-12735985"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/news/russia-agent-charges-spying-silicon-valley/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/FBI_Building_in_Washington_D.C._-_J._Edgar_Hoover_Federal_Bureau_of_Investigation_Building_%2854271901364%29.jpg",
+      "credit": "Tony Webster / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 6,
+      "shows": "J. Edgar Hoover FBI Building"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "US indicts alleged Russian agent for spying on defense firm",
+    "people": [],
+    "image_query": "Palo Alto California street",
+    "image_queries": [
+     "Silicon Valley tech building",
+     "California courthouse",
+     "Federal Bureau of Investigation building",
+     "San Francisco skyline"
+    ],
+    "image_style": "person",
+    "location": "California, US",
+    "nearby_city": "San Francisco, California",
+    "event_query": "US Department of Justice building",
+    "topic_photo": "judge gavel",
+    "label": "WORLD",
+    "action_subject": "law enforcement officers at work",
+    "news_time": "2026-11-18T20:35:00+00:00"
+   },
+   "created_at": "2026-11-18T22:19:00.461185+00:00",
+   "news_time": "2026-11-18T20:35:00+00:00",
+   "news_latest": "2026-11-18T22:05:07+00:00",
+   "importance": 7,
+   "caption": "US indicts alleged Russian agent for spying on defense firm\n\nFederal authorities say a Russian man allegedly surveilled employees at a technology and defense firm in California. Officials state the spying was tied to the firm's support of Ukraine.\n\n💬 Should the US increase security measures for employees at defense companies?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USNews #Espionage #Russia #7SeasNews",
+   "photo_line": "📷 6/10 J. Edgar Hoover FBI Building",
+   "status": "posted",
+   "tg_message_id": 802,
+   "tg_file_id": "AgACAgUAAxkDAAIDImr-JFt3J3UM06CjK-3xUku3GedYAAKcFGsb3mnwV-07f1NcuvCKAQADAgADdwADPQQ",
+   "queued_at": "2026-11-18T22:19:07.438964+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-18T22:19:07.438992+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122105742183548584",
+   "posted_at": "2026-11-18T22:19:13.320424+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 18 · 5:19 PM New York · 3:49 AM Sri Lanka\n\n<b>US indicts alleged Russian agent for spying on defense firm</b>\n<i>CBS News, Euronews, Newsweek</i>\n🟢 <b>Latest:</b> 3:35 AM Sri Lanka (14 min ago) · first reported 2:05 AM\n📷 6/10 J. Edgar Hoover FBI Building\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122105742183548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 511,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122105742183548584_1142409374846791"
   }
  },
  "seen_links": [
@@ -12458,7 +12549,12 @@
   "https://www.independent.co.uk/news/world/americas/us-politics/john-cornyn-trump-elliot-gaiser-texas-b3087547.html",
   "https://www.nytimes.com/2026/11/18/us/politics/bill-cassidy-jim-oneill-science.html",
   "https://www.washingtonexaminer.com/news/house/4807967/cybersecurity-attack-outages-worldwide-threats-house-hearing-congress/",
-  "https://www.cbsnews.com/news/network-outages-cyber-malicious-activity-homeland-security-hearing/"
+  "https://www.cbsnews.com/news/network-outages-cyber-malicious-activity-homeland-security-hearing/",
+  "https://www.euronews.com/2026/11/18/alleged-russian-agent-arrested-for-spying-on-silicon-valley-tech-firm",
+  "https://www.newsweek.com/russian-accused-of-surveilling-us-tech-company-over-its-support-of-ukraine-12735985",
+  "https://www.cbsnews.com/news/russia-agent-charges-spying-silicon-valley/",
+  "https://thehill.com/regulation/court-battles/6228830-trump-arch-construction-halted-december/",
+  "https://www.washingtonpost.com/politics/2026/11/18/judge-rules-trump-arch/"
  ],
  "recent_topics": [
   [
@@ -15555,19 +15651,50 @@
     "threat"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-18T22:19:07.438801+00:00",
+   [
+    "accus",
+    "agent",
+    "alleg",
+    "arrest",
+    "company",
+    "defens",
+    "firm",
+    "indict",
+    "russian",
+    "silicon",
+    "spy",
+    "support",
+    "surveill",
+    "tech",
+    "ukrain",
+    "valley"
+   ],
+   "fd4500fa37"
+  ],
+  [
+   "2026-11-18T22:19:13.320404+00:00",
+   [
+    "arch",
+    "block",
+    "construction",
+    "extend",
+    "federal",
+    "judg",
+    "trump"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-18T22:02:28.325637+00:00",
+ "last_draft_at": "2026-11-18T22:18:09.403036+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T22:01:52.059142+00:00",
  "run_log": [
-  "11-18 19:21:09 run start",
-  "11-18 19:21:10 listening 11 min",
-  "11-18 19:32:56 listening done",
-  "11-18 19:32:56 run end after 707 s",
   "11-18 19:48:17 run start",
   "11-18 19:48:19 listening 11 min",
   "11-18 19:53:46 run start",
@@ -15603,12 +15730,15 @@
   "11-18 22:05:55 run start",
   "11-18 22:05:55 listening 11 min",
   "11-18 22:17:40 listening done",
-  "11-18 22:17:40 run end after 704 s"
+  "11-18 22:17:40 run end after 704 s",
+  "11-18 22:18:09 run start",
+  "11-18 22:19:28 listening 10 min",
+  "11-18 22:29:57 listening done",
+  "11-18 22:29:57 run end after 708 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Race_Trac_gas_pump_Louisiana_14_May_2025.jpg/1920px-Race_Trac_gas_pump_Louisiana_14_May_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Za%27tara_Checkpoint_001.jpeg/1920px-Za%27tara_Checkpoint_001.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg/1920px-Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Capitol_Washington_October_2016-3.jpg/1920px-Capitol_Washington_October_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -15647,7 +15777,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Markwayne_Mullin_Official_Photo_%283x4%29_%28cropped%29.jpg/1280px-Markwayne_Mullin_Official_Photo_%283x4%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Marco_Rubio_town_hall_Belknap_Mill_25_Beacon_Street_East_Laconia_NH_February_2016.jpg/1280px-Marco_Rubio_town_hall_Belknap_Mill_25_Beacon_Street_East_Laconia_NH_February_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Ron_Johnson_portrait_117th_Congress_%28crop%29.jpg/1280px-Ron_Johnson_portrait_117th_Congress_%28crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg/1920px-Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg/1920px-Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/d/d1/FBI_Building_in_Washington_D.C._-_J._Edgar_Hoover_Federal_Bureau_of_Investigation_Building_%2854271901364%29.jpg"
   ],
   "pools": {
    "chris van hollen": {
@@ -19104,7 +19235,6 @@
    }
   },
   "recent_ideas": [
-   "washington dc skyline",
    "parliament members voting",
    "ballot boxes",
    "ballot boxes",
@@ -19115,7 +19245,8 @@
    "container port cranes",
    "missile strike",
    "us capitol building",
-   "judge gavel"
+   "judge gavel",
+   "federal bureau of investigation building"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -19682,6 +19813,21 @@
     "s": 8,
     "w": "judge gavel",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Officers%27_Club_--_2022_--_3126.jpg/1920px-San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Officers%27_Club_--_2022_--_3126.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|7a0fdfd7": {
+    "s": 0,
+    "w": "rusted electrical boxes",
+    "p": "Photo shows rusted electrical boxes instead of law enforcement officers at work."
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Officers%27_Club_--_2022_--_3124.jpg/1920px-San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Officers%27_Club_--_2022_--_3124.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|7a0fdfd7": {
+    "s": 0,
+    "w": "ruined building by water",
+    "p": "photo shows a ruined building instead of law enforcement officers at work"
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/d/d1/FBI_Building_in_Washington_D.C._-_J._Edgar_Hoover_Federal_Bureau_of_Investigation_Building_%2854271901364%29.jpg|7a0fdfd7": {
+    "s": 6,
+    "w": "J. Edgar Hoover FBI Building",
+    "p": ""
    }
   }
  },
@@ -19693,10 +19839,10 @@
   "2026-11-15": 19,
   "2026-11-16": 32,
   "2026-11-17": 35,
-  "2026-11-18": 14
+  "2026-11-18": 15
  },
- "last_auto_at": "2026-11-18T22:02:46.632549+00:00",
- "last_post_at": "2026-11-18T22:02:51.362216+00:00",
+ "last_auto_at": "2026-11-18T22:19:13.320424+00:00",
+ "last_post_at": "2026-11-18T22:19:19.026671+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
