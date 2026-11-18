@@ -12921,31 +12921,11 @@
   "https://www.france24.com/en/americas/20261118-haitians-rally-behind-bukele-as-salvadoran-troops-battle-gangs",
   "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss",
   "https://www.newsweek.com/fbi-arrests-one-in-illinois-ethanol-plant-bomb-12731164",
-  "https://www.washingtonexaminer.com/news/justice/4806438/arrest-peoria-illinois-ethanol-plant-bomb-threat/"
+  "https://www.washingtonexaminer.com/news/justice/4806438/arrest-peoria-illinois-ethanol-plant-bomb-threat/",
+  "https://www.france24.com/en/asia-pacific/20261118-xi-jinping-calls-for-global-cooperation-on-ai-and-free-trade-at-apec-summit",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/18/why-chinas-shenzhen-was-chosen-for-apec-summit?traffic_source=rss"
  ],
  "recent_topics": [
-  [
-   "2026-11-15T03:31:30.996702+00:00",
-   [
-    "administration",
-    "air",
-    "chronic",
-    "faa",
-    "flight",
-    "ground",
-    "highlight",
-    "issu",
-    "kept",
-    "respond",
-    "sight",
-    "stop",
-    "system",
-    "traffic",
-    "trump",
-    "vulnerability"
-   ],
-   "6f0bb5e135"
-  ],
   [
    "2026-11-15T07:01:37.140818+00:00",
    [
@@ -15710,19 +15690,32 @@
     "troop"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-18T03:31:22.427951+00:00",
+   [
+    "apec",
+    "call",
+    "china",
+    "chosen",
+    "cooperation",
+    "fre",
+    "global",
+    "jinp",
+    "shenzhen",
+    "summit",
+    "trad"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-18T03:15:35.896834+00:00",
+ "last_draft_at": "2026-11-18T03:30:48.410100+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T03:01:51.836192+00:00",
  "run_log": [
-  "11-18 01:06:38 run start",
-  "11-18 01:08:29 listening 10 min",
-  "11-18 01:18:25 listening done",
-  "11-18 01:18:25 run end after 706 s",
   "11-18 01:18:58 run start",
   "11-18 01:19:31 listening 11 min",
   "11-18 01:30:25 listening done",
@@ -15758,7 +15751,11 @@
   "11-18 03:15:35 run start",
   "11-18 03:15:54 listening 11 min",
   "11-18 03:27:13 listening done",
-  "11-18 03:27:13 run end after 697 s"
+  "11-18 03:27:13 run end after 697 s",
+  "11-18 03:30:47 run start",
+  "11-18 03:31:22 listening 11 min",
+  "11-18 03:42:17 listening done",
+  "11-18 03:42:17 run end after 689 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
