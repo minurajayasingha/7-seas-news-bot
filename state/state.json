@@ -12671,27 +12671,13 @@
   "https://thehill.com/homenews/senate/6228225-ron-johnson-social-security-ponzi/",
   "https://www.foxnews.com/politics/americans-misled-social-security-decades-clock-counts-benefits-explosive-report-reveals",
   "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl",
-  "https://thehill.com/homenews/campaign/6227832-trump-voters-expectations-2028/"
+  "https://thehill.com/homenews/campaign/6227832-trump-voters-expectations-2028/",
+  "https://www.independent.co.uk/news/world/americas/us-politics/trump-putin-xi-meeting-cyberattacks-analysis-b3087424.html",
+  "https://www.cbsnews.com/news/china-humanoid-robot-development-global-edge/",
+  "https://www.cbsnews.com/video/a-look-inside-chinas-robot-revolution/",
+  "https://www.euronews.com/video/2026/11/18/robots-serve-ice-cream-and-coffee-in-chinas-tech-hub"
  ],
  "recent_topics": [
-  [
-   "2026-11-15T18:45:59.733234+00:00",
-   [
-    "gam",
-    "harry",
-    "hopeful",
-    "invictu",
-    "lviv",
-    "meet",
-    "princ",
-    "support",
-    "ukrain",
-    "ukrainian",
-    "veteran",
-    "visit"
-   ],
-   "4457075b0a"
-  ],
   [
    "2026-11-15T19:45:51.485604+00:00",
    [
@@ -15848,19 +15834,53 @@
     "whit"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-18T18:46:22.293626+00:00",
+   [
+    "all",
+    "beg",
+    "china",
+    "coffe",
+    "cream",
+    "get",
+    "helper",
+    "hom",
+    "hous",
+    "hub",
+    "humanoid",
+    "ice",
+    "insid",
+    "karolin",
+    "leavitt",
+    "look",
+    "our",
+    "outag",
+    "panic",
+    "putin",
+    "rac",
+    "revolution",
+    "robot",
+    "serv",
+    "smil",
+    "speak",
+    "tech",
+    "trigger",
+    "trump",
+    "unusual",
+    "welcom",
+    "whit"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-18T18:30:44.503302+00:00",
+ "last_draft_at": "2026-11-18T18:45:49.520317+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T18:17:46.780171+00:00",
  "run_log": [
-  "11-18 16:11:31 run start",
-  "11-18 16:13:13 listening 10 min",
-  "11-18 16:23:17 listening done",
-  "11-18 16:23:17 run end after 705 s",
   "11-18 16:23:56 run start",
   "11-18 16:24:46 listening 11 min",
   "11-18 16:35:39 listening done",
@@ -15896,7 +15916,11 @@
   "11-18 18:30:44 run start",
   "11-18 18:32:17 listening 10 min",
   "11-18 18:42:21 listening done",
-  "11-18 18:42:21 run end after 697 s"
+  "11-18 18:42:21 run end after 697 s",
+  "11-18 18:45:49 run start",
+  "11-18 18:46:22 listening 11 min",
+  "11-18 18:57:16 listening done",
+  "11-18 18:57:16 run end after 686 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
