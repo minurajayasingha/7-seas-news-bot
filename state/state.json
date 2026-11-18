@@ -12462,42 +12462,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-15T22:17:11.910180+00:00",
-   [
-    "ahead",
-    "aid",
-    "allow",
-    "australia",
-    "canada",
-    "critical",
-    "gaza",
-    "israel",
-    "italy",
-    "urg",
-    "winter"
-   ],
-   "735bc3150e"
-  ],
-  [
-   "2026-11-15T22:17:18.507582+00:00",
-   [
-    "appeal",
-    "block",
-    "clos",
-    "cours",
-    "delay",
-    "golf",
-    "historic",
-    "interior",
-    "judg",
-    "renovation",
-    "rul",
-    "temporarily",
-    "trump"
-   ],
-   "9f8483996b"
-  ],
-  [
    "2026-11-15T23:01:11.598309+00:00",
    [
     "bar",
@@ -15600,10 +15564,6 @@
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T22:01:52.059142+00:00",
  "run_log": [
-  "11-18 18:57:16 listening done",
-  "11-18 18:57:16 run end after 686 s",
-  "11-18 19:15:29 run start",
-  "11-18 19:17:07 listening 10 min",
   "11-18 19:21:09 run start",
   "11-18 19:21:10 listening 11 min",
   "11-18 19:32:56 listening done",
@@ -15639,7 +15599,11 @@
   "11-18 21:42:19 listening done",
   "11-18 21:42:19 run end after 699 s",
   "11-18 22:01:51 run start",
-  "11-18 22:03:00 listening 10 min"
+  "11-18 22:03:00 listening 10 min",
+  "11-18 22:05:55 run start",
+  "11-18 22:05:55 listening 11 min",
+  "11-18 22:17:40 listening done",
+  "11-18 22:17:40 run end after 704 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
