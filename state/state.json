@@ -1,92 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "992b6af1d7": {
-   "id": "992b6af1d7",
-   "headline": "Republicans face midterm losses following ninth month of Iran war",
-   "summary": "According to reports, Republicans lost House and Senate majorities due to the Iran war. Despite this, GOP critics remain averse to forcing an end to the conflict as a government funding brawl approaches.",
-   "label": "US POLITICS",
-   "hook": "Should Congress force an end to the conflict with Iran?",
-   "key_points": [
-    "GOP avoids more House losses from redistricting",
-    "Government funding brawl awaits to avoid December shutdown",
-    "Republicans dig in against Democratic demands to defund"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#IranWar",
-    "#Midterms"
-   ],
-   "sources": [
-    "New York Times",
-    "Washington Examiner"
-   ],
-   "link": "https://www.washingtonexaminer.com/news/senate/4802824/republicans-iran-war-midterm-beating/",
-   "links": [
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/news/senate/4802824/republicans-iran-war-midterm-beating/"
-    ],
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/13/upshot/gerrymanders-midterm-elections-republicans.html"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Capitol_Washington_October_2016-1.jpg/1920px-Capitol_Washington_October_2016-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Alvesgaspar / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Republicans face midterm losses following ninth month of Iran war",
-    "people": [],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "Senate chamber",
-     "Capitol Hill",
-     "voting booth",
-     "white house"
-    ],
-    "image_style": "scene",
-    "location": "US",
-    "nearby_city": "Washington, DC",
-    "event_query": "House of Representatives chamber",
-    "news_time": null,
-    "label": "US POLITICS"
-   },
-   "created_at": "2026-11-14T11:02:23.583048+00:00",
-   "news_time": "2026-11-14T05:14:26+00:00",
-   "news_latest": "2026-11-14T11:00:00+00:00",
-   "caption": "Republicans face midterm losses following ninth month of Iran war\n\nAccording to reports, Republicans lost House and Senate majorities due to the Iran war. Despite this, GOP critics remain averse to forcing an end to the conflict as a government funding brawl approaches.\n\n💬 Should Congress force an end to the conflict with Iran?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #IranWar #Midterms #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 535,
-   "tg_file_id": "AgACAgUAAxkDAAICF2r4P8W-UZ5nrZchEK_MS-jQyUNxAAJFE2sbT5fJVzBQNNogAAGoUwEAAwIAA3cAAz0E",
-   "extra_msgs": [],
-   "queued_at": "2026-11-14T11:46:17.858023+00:00",
-   "post_now": true,
-   "post_at": "2026-11-14T11:46:17.858038+00:00",
-   "post_label": "🚀 Posting now",
-   "fb_post_id": "1413030521900096_122101177443548584",
-   "posted_at": "2026-11-14T11:46:18.158050+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 14 · 6:46 AM New York · 5:16 PM Sri Lanka\n\n<b>Republicans face midterm losses following ninth month of Iran war</b>\n<i>New York Times, Washington Examiner</i>\n🟢 <b>Latest:</b> 4:30 PM Sri Lanka (46 min ago) · first reported 10:44 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122101177443548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 350,
-   "log_photo": true,
-   "cleared": true,
-   "fb_comment_id": "122101177443548584_2278885846301111",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-17T11:31:03.378059+00:00"
-  },
   "87d75b8efa": {
    "id": "87d75b8efa",
    "headline": "Southeast Asian leaders gather for annual summit in Philippines",
@@ -15889,17 +15803,13 @@
    "a9cefeb130"
   ]
  ],
- "last_draft_at": "2026-11-18T10:45:39.718217+00:00",
+ "last_draft_at": "2026-11-18T11:00:44.325585+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T10:08:44.306692+00:00",
  "run_log": [
-  "11-18 08:30:44 run start",
-  "11-18 08:31:18 listening 11 min",
-  "11-18 08:42:11 listening done",
-  "11-18 08:42:11 run end after 687 s",
   "11-18 08:45:55 run start",
   "11-18 08:46:29 listening 11 min",
   "11-18 08:57:23 listening done",
@@ -15935,7 +15845,11 @@
   "11-18 10:45:39 run start",
   "11-18 10:46:12 listening 11 min",
   "11-18 10:57:05 listening done",
-  "11-18 10:57:05 run end after 686 s"
+  "11-18 10:57:05 run end after 686 s",
+  "11-18 11:00:43 run start",
+  "11-18 11:00:53 listening 11 min",
+  "11-18 11:12:12 listening done",
+  "11-18 11:12:12 run end after 688 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
