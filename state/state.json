@@ -1,95 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "8c85dd6c8c": {
-   "id": "8c85dd6c8c",
-   "headline": "Benjamin Netanyahu calls for Israeli national unity government",
-   "summary": "Israeli caretaker Prime Minister Benjamin Netanyahu renewed his call for a national unity government. Gadi Eisenkot dismissed the appeal as a political ploy during ongoing negotiations to form a new administration.",
-   "label": "WORLD",
-   "hook": "Can government unity talks succeed during these negotiations?",
-   "key_points": [
-    "Netanyahu made the appeal on Saturday.",
-    "Eisenkot is in charge of forming a government.",
-    "A Knesset speaker vote is looming."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Israel",
-    "#WorldNews",
-    "#Politics"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "France 24"
-   ],
-   "link": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
-   "links": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/middle-east/20261114-netanyahu-renews-call-for-israeli-government-unity-as-eisenkot-dismisses-tricks"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Benjamin_Netanyahu_Receives_Hudson%27s_Herman_Kahn_Award_%2830287430110%29.jpg/1280px-Benjamin_Netanyahu_Receives_Hudson%27s_Herman_Kahn_Award_%2830287430110%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Hudson Institute / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Benjamin Netanyahu calls for Israeli national unity government",
-    "people": [
-     "Benjamin Netanyahu"
-    ],
-    "image_query": "Knesset building",
-    "image_queries": [
-     "Israeli parliament",
-     "Jerusalem street",
-     "Government offices Israel",
-     "Knesset chamber"
-    ],
-    "image_style": "person",
-    "location": "Israel",
-    "nearby_city": "Jerusalem, Israel",
-    "event_query": "Israel government formation talks",
-    "news_time": null,
-    "label": "WORLD"
-   },
-   "created_at": "2026-11-14T23:15:51.045577+00:00",
-   "news_time": "2026-11-14T20:35:22+00:00",
-   "news_latest": "2026-11-14T23:01:30+00:00",
-   "caption": "Benjamin Netanyahu calls for Israeli national unity government\n\nIsraeli caretaker Prime Minister Benjamin Netanyahu renewed his call for a national unity government. Gadi Eisenkot dismissed the appeal as a political ploy during ongoing negotiations to form a new administration.\n\n💬 Can government unity talks succeed during these negotiations?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Israel #WorldNews #Politics #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 563,
-   "tg_file_id": "AgACAgUAAxkDAAICM2r467HYgRthlYb-RIv10IcRQaOdAAKZFGsbT5fJV6MmsOU1heJtAQADAgADdwADPQQ",
-   "queued_at": "2026-11-14T23:16:01.792765+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-14T23:16:01.792801+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122101653687548584",
-   "posted_at": "2026-11-14T23:16:02.084717+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 14 · 6:16 PM New York · 4:46 AM Sri Lanka\n\n<b>Benjamin Netanyahu calls for Israeli national unity government</b>\n<i>Al Jazeera, France 24</i>\n🟢 <b>Latest:</b> 4:31 AM Sri Lanka (14 min ago) · first reported 2:05 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122101653687548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 369,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122101653687548584_4620891461485374",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-17T22:51:20.893101+00:00"
-  },
   "8ac95fcee5": {
    "id": "8ac95fcee5",
    "headline": "Trump to meet Putin and Xi in China",
@@ -16044,10 +15955,6 @@
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T23:01:01.403042+00:00",
  "run_log": [
-  "11-18 20:06:29 run start",
-  "11-18 20:06:39 listening 11 min",
-  "11-18 20:18:00 listening done",
-  "11-18 20:18:00 run end after 690 s",
   "11-18 20:38:49 run start",
   "11-18 20:40:50 listening 9 min",
   "11-18 20:50:29 listening done",
@@ -16083,7 +15990,11 @@
   "11-18 22:42:15 listening done",
   "11-18 22:42:15 run end after 690 s",
   "11-18 23:01:01 run start",
-  "11-18 23:03:55 listening 9 min"
+  "11-18 23:03:55 listening 9 min",
+  "11-18 23:05:54 run start",
+  "11-18 23:05:54 listening 11 min",
+  "11-18 23:17:38 listening done",
+  "11-18 23:17:38 run end after 703 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
