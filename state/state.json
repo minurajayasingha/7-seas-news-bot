@@ -1,102 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "6d22b6117e": {
-   "id": "6d22b6117e",
-   "headline": "Trump, Putin and Xi to hold first trilateral meeting",
-   "summary": "President Donald Trump plans to meet with Russian President Vladimir Putin and Chinese President Xi Jinping next week. The White House stated the gathering will take place near the end of Trump's Asia trip.",
-   "label": "DIPLOMACY",
-   "hook": "Can this first meeting between the three leaders lead to new diplomatic agreements?",
-   "key_points": [
-    "Meeting scheduled for next week",
-    "Gathering planned near the end of Asia trip",
-    "First-ever trilateral meeting between the leaders"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Trump",
-    "#Putin",
-    "#XiJinping"
-   ],
-   "sources": [
-    "The Hill",
-    "Washington Post"
-   ],
-   "link": "https://thehill.com/homenews/administration/6220278-trump-putin-xi-trilateral-meeting/",
-   "links": [
-    [
-     "The Hill",
-     "https://thehill.com/homenews/administration/6220278-trump-putin-xi-trilateral-meeting/"
-    ],
-    [
-     "Washington Post",
-     "https://www.washingtonpost.com/politics/2026/11/13/trump-meet-with-putin-xi-jinping/"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/1280px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Daniel Torok / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Vladimir_Putin_on_gala_match_%282014-05-10%29.jpg/1280px-Vladimir_Putin_on_gala_match_%282014-05-10%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Пресс-служба Президента России / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Trump, Putin and Xi to hold first trilateral meeting",
-    "people": [
-     "Donald Trump",
-     "Vladimir Putin",
-     "Xi Jinping"
-    ],
-    "image_query": "APEC summit venue China",
-    "image_queries": [
-     "Beijing skyline",
-     "Asia Pacific summit hall",
-     "White House exterior",
-     "international conference room"
-    ],
-    "image_style": "scene",
-    "location": "China",
-    "nearby_city": "Beijing, China",
-    "event_query": "trilateral meeting Trump Putin Xi",
-    "news_time": null,
-    "label": "DIPLOMACY"
-   },
-   "created_at": "2026-11-14T01:32:28.138333+00:00",
-   "news_time": "2026-11-14T00:47:36+00:00",
-   "news_latest": "2026-11-14T01:30:55+00:00",
-   "caption": "Trump, Putin and Xi to hold first trilateral meeting\n\nPresident Donald Trump plans to meet with Russian President Vladimir Putin and Chinese President Xi Jinping next week. The White House stated the gathering will take place near the end of Trump's Asia trip.\n\n💬 Can this first meeting between the three leaders lead to new diplomatic agreements?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Trump #Putin #XiJinping #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 526,
-   "tg_file_id": "AgACAgUAAxkDAAICDmr3ujVHYs5eTD40iAOCjw6jG23PAAKAFmsbFv24Vx0D6crNL9S8AQADAgADdwADPQQ",
-   "extra_msgs": [],
-   "dup_ok": true,
-   "queued_at": "2026-11-14T03:46:26.928632+00:00",
-   "post_now": true,
-   "post_at": "2026-11-14T03:46:26.928651+00:00",
-   "post_label": "🚀 Posting now",
-   "fb_post_id": "1413030521900096_122100862701548584",
-   "posted_at": "2026-11-14T03:46:27.224588+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 13 · 10:46 PM New York · 9:16 AM Sri Lanka\n\n<b>Trump, Putin and Xi to hold first trilateral meeting</b>\n<i>The Hill, Washington Post</i>\n🟡 <b>Latest:</b> 7:00 AM Sri Lanka (2h 15m ago) · first reported 6:17 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122100862701548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 340,
-   "log_photo": true,
-   "cleared": true,
-   "fb_comment_id": "122100862701548584_1170950082022975",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-17T03:30:47.754905+00:00"
-  },
   "35e78aae02": {
    "id": "35e78aae02",
    "headline": "SpaceX launches Starship rocket and aborts booster catch",
@@ -15849,17 +15753,13 @@
    "1f15f8755e"
   ]
  ],
- "last_draft_at": "2026-11-18T01:18:59.347011+00:00",
+ "last_draft_at": "2026-11-18T01:31:01.013621+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-18T01:06:38.959182+00:00",
  "run_log": [
-  "11-17 22:51:20 run start",
-  "11-17 22:52:38 listening 10 min",
-  "11-17 23:03:07 listening done",
-  "11-17 23:03:07 run end after 707 s",
   "11-17 23:03:35 run start",
   "11-17 23:06:10 listening 9 min",
   "11-17 23:15:23 listening done",
@@ -15895,7 +15795,11 @@
   "11-18 01:18:58 run start",
   "11-18 01:19:31 listening 11 min",
   "11-18 01:30:25 listening done",
-  "11-18 01:30:25 run end after 686 s"
+  "11-18 01:30:25 run end after 686 s",
+  "11-18 01:31:00 run start",
+  "11-18 01:31:10 listening 11 min",
+  "11-18 01:42:29 listening done",
+  "11-18 01:42:29 run end after 688 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
