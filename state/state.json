@@ -13208,36 +13208,16 @@
   "https://www.independent.co.uk/news/world/americas/us-politics/trump-doj-midterms-election-fraud-cases-b3088073.html",
   "https://www.nytimes.com/2026/11/19/us/politics/trump-mar-a-lago-search-bill-essayli.html",
   "https://www.independent.co.uk/news/world/americas/crime/susan-smith-sons-car-south-carolina-lake-b3088099.html",
-  "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
+  "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
+  "https://www.france24.com/en/xi-demonstrating-china-s-global-status-occupying-central-position-in-relation-to-trump-putin",
+  "https://www.newsweek.com/united-states-lose-status-largest-christian-country-12741422",
+  "https://www.euronews.com/2026/11/19/islam-to-become-worlds-largest-religion-by-2035-as-christianity-also-grows-study-says",
+  "https://www.upi.com/Top_News/World-News/2026/11/19/eu-European-Commission-confirms-cyberattack-investigation-underway/7441795103450/",
+  "https://www.dw.com/en/eu-commission-confirms-it-was-targeted-in-cyberattack-using-ai-tools/a-79993016?maca=en-rss-en-world-4025-rdf",
+  "https://abcnews.com/International/wireStory/cyberattack-artificial-intelligence-targeted-eu-october-official-138284407"
  ],
  "recent_topics": [
-  [
-   "2026-11-16T17:02:41.010160+00:00",
-   [
-    "11",
-    "artist",
-    "british",
-    "category",
-    "dolly",
-    "dominat",
-    "grammy",
-    "king",
-    "lead",
-    "major",
-    "nod",
-    "nomination",
-    "nomine",
-    "parton",
-    "protest",
-    "ray",
-    "recognis",
-    "rosalia",
-    "scor",
-    "song",
-    "women"
-   ],
-   "df672909a2"
-  ],
   [
    "2026-11-16T17:46:18.194648+00:00",
    [
@@ -16558,19 +16538,74 @@
     "work"
    ],
    "a5d8540347"
+  ],
+  [
+   "2026-11-19T17:01:53.651000+00:00",
+   [
+    "central",
+    "china",
+    "demonstrat",
+    "global",
+    "occupy",
+    "position",
+    "power",
+    "project",
+    "putin",
+    "relation",
+    "seek",
+    "statu",
+    "summit",
+    "trump"
+   ],
+   "skipped"
+  ],
+  [
+   "2026-11-19T17:03:20.153129+00:00",
+   [
+    "becom",
+    "christian",
+    "christianity",
+    "country",
+    "grow",
+    "islam",
+    "largest",
+    "los",
+    "religion",
+    "stat",
+    "statu",
+    "study",
+    "unit",
+    "world"
+   ],
+   "skipped"
+  ],
+  [
+   "2026-11-19T17:03:52.458668+00:00",
+   [
+    "artificial",
+    "commission",
+    "confirm",
+    "cyberattack",
+    "european",
+    "intelligenc",
+    "investigation",
+    "october",
+    "official",
+    "target",
+    "tool",
+    "underway",
+    "using"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-19T16:46:02.509671+00:00",
+ "last_draft_at": "2026-11-19T17:00:55.573407+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T16:30:57.361596+00:00",
  "run_log": [
-  "11-19 14:38:02 run start",
-  "11-19 14:38:20 listening 11 min",
-  "11-19 14:49:39 listening done",
-  "11-19 14:49:39 run end after 696 s",
   "11-19 14:50:15 run start",
   "11-19 14:50:24 listening 11 min",
   "11-19 15:01:43 listening done",
@@ -16606,7 +16641,11 @@
   "11-19 16:46:02 run start",
   "11-19 16:47:18 listening 10 min",
   "11-19 16:57:49 listening done",
-  "11-19 16:57:49 run end after 706 s"
+  "11-19 16:57:49 run end after 706 s",
+  "11-19 17:00:54 run start",
+  "11-19 17:03:52 listening 9 min",
+  "11-19 17:12:27 listening done",
+  "11-19 17:12:27 run end after 693 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -21611,7 +21650,9 @@
     "tt1": true,
     "log1": true,
     "tt2": true,
-    "log2": true
+    "log2": true,
+    "tt3": true,
+    "log3": true
    }
   }
  },
