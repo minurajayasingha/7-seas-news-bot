@@ -1,103 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "0cc39d0390": {
-   "id": "0cc39d0390",
-   "headline": "Bowen Yang returns to Saturday Night Live to spoof Jensen Huang",
-   "summary": "Former Saturday Night Live repertory player and writer Bowen Yang returned to open the show. He appeared in a portrayal of former Nvidia CEO Jensen Huang amidst a spy scandal.",
-   "label": "WORLD",
-   "hook": "Will Bowen Yang continue appearing in future episodes?",
-   "key_points": [
-    "Bowen Yang is a former repertory player and writer.",
-    "The portrayal occurred during the show opening.",
-    "The segment touched upon the Nvidia spy scandal."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#SNL",
-    "#Nvidia",
-    "#BowenYang"
-   ],
-   "sources": [
-    "NBC News",
-    "Washington Examiner"
-   ],
-   "link": "https://www.washingtonexaminer.com/opinion/editorials/4801532/nvidia-spy-scandal-underlines-china-threat/",
-   "links": [
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/opinion/editorials/4801532/nvidia-spy-scandal-underlines-china-threat/"
-    ],
-    [
-     "NBC News",
-     "https://www.nbcnews.com/pop-culture/pop-culture-news/bowen-yang-returns-snl-ex-nvidia-ceo-jensen-huang-mary-todd-lincoln-rcna609381"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Bowen_Yang_Sundance_2025_4.jpg/1280px-Bowen_Yang_Sundance_2025_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "ReverendPoppins / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Jensen_Huang_%28cropped%29_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Photographer: Peter Dasilva / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Bowen Yang returns to Saturday Night Live to spoof Jensen Huang",
-    "people": [
-     "Bowen Yang",
-     "Jensen Huang"
-    ],
-    "image_query": "television studio stage",
-    "image_queries": [
-     "television broadcasting studio",
-     "comedy show stage",
-     "microphone on stage",
-     "broadcast production control room"
-    ],
-    "image_style": "person",
-    "location": "United States",
-    "nearby_city": "New York, New York",
-    "event_query": "Saturday Night Live studio",
-    "news_time": null,
-    "label": "WORLD"
-   },
-   "created_at": "2026-11-15T10:45:54.968192+00:00",
-   "news_time": "2026-11-15T07:14:35+00:00",
-   "news_latest": "2026-11-15T10:00:00+00:00",
-   "caption": "Bowen Yang returns to Saturday Night Live to spoof Jensen Huang\n\nFormer Saturday Night Live repertory player and writer Bowen Yang returned to open the show. He appeared in a portrayal of former Nvidia CEO Jensen Huang amidst a spy scandal.\n\n💬 Will Bowen Yang continue appearing in future episodes?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#SNL #Nvidia #BowenYang #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 576,
-   "tg_file_id": "AgACAgUAAxkDAAICQGr5jXNCNUhLaFyt7EJKBsD3lCpbAAL4E2sbT5fRV_Noucx6m9YRAQADAgADdwADPQQ",
-   "queued_at": "2026-11-15T10:46:11.744020+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-15T10:46:11.744047+00:00",
-   "post_label": "🤖 Auto-posting + Reel",
-   "fb_post_id": "1413030521900096_122102171319548584",
-   "posted_at": "2026-11-15T10:46:12.077314+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 15 · 5:46 AM New York · 4:16 PM Sri Lanka\n\n<b>Bowen Yang returns to Saturday Night Live to spoof Jensen Huang</b>\n<i>NBC News, Washington Examiner</i>\n🟢 <b>Latest:</b> 3:30 PM Sri Lanka (46 min ago) · first reported 12:44 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122102171319548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 376,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122102171319548584_1667308124968883",
-   "fb_reel_id": "1156338020487246",
-   "reel_status": "live",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-18T10:08:44.306692+00:00"
-  },
   "25dbc9e8bc": {
    "id": "25dbc9e8bc",
    "headline": "Southeast Asian leaders open annual summit in Manila",
@@ -11531,6 +11434,93 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122106174915548584_1894682305035587"
+  },
+  "2b9a45734f": {
+   "id": "2b9a45734f",
+   "headline": "Denmark parliament ratifies security deal involving Greenland and United States",
+   "summary": "Denmark's parliament has ratified a security deal involving Greenland and the United States. The vote follows months of pressure by the Trump administration over the Arctic island's future.",
+   "label": "DIPLOMACY",
+   "hook": "Will expanded US military access change the future of Greenland?",
+   "key_points": [
+    "Denmark approved the security deal on Thursday.",
+    "The agreement expands US military access in the territory.",
+    "US, Denmark and Greenland previously signed the agreement."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Greenland",
+    "#Denmark",
+    "#USPolitics"
+   ],
+   "sources": [
+    "France 24",
+    "Newsweek"
+   ],
+   "link": "https://www.france24.com/en/europe/20261119-denmark-ratifies-greenland-security-deal-after-months-of-pressure-by-trump",
+   "links": [
+    [
+     "France 24",
+     "https://www.france24.com/en/europe/20261119-denmark-ratifies-greenland-security-deal-after-months-of-pressure-by-trump"
+    ],
+    [
+     "Newsweek",
+     "https://www.newsweek.com/trump-secures-greenland-military-deal-what-changes-denmark-12738676"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Danish_flag_at_stern_of_ship_Gunnar_Thorson.jpg/1920px-Danish_flag_at_stern_of_ship_Gunnar_Thorson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "W.carter / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 5,
+      "shows": "Danish flag on boat"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Denmark parliament ratifies security deal involving Greenland and United States",
+    "people": [],
+    "image_query": "Danish parliament building",
+    "image_queries": [
+     "Greenland landscape",
+     "US Capitol building",
+     "Arctic island map",
+     "Danish flag"
+    ],
+    "image_style": "scene",
+    "location": "Copenhagen, Denmark",
+    "nearby_city": "Copenhagen, Denmark",
+    "event_query": "Copenhagen parliament vote",
+    "topic_photo": "parliament building",
+    "label": "DIPLOMACY",
+    "action_subject": "parliament voting chamber",
+    "news_time": "2026-11-19T09:11:18+00:00"
+   },
+   "created_at": "2026-11-19T10:44:03.734376+00:00",
+   "news_time": "2026-11-19T09:11:18+00:00",
+   "news_latest": "2026-11-19T10:08:04+00:00",
+   "importance": 7,
+   "caption": "Denmark parliament ratifies security deal involving Greenland and United States\n\nDenmark's parliament has ratified a security deal involving Greenland and the United States. The vote follows months of pressure by the Trump administration over the Arctic island's future.\n\n💬 Will expanded US military access change the future of Greenland?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Greenland #Denmark #USPolitics #7SeasNews",
+   "photo_line": "📷 5/10 Danish flag on boat",
+   "status": "posted",
+   "tg_message_id": 820,
+   "tg_file_id": "AgACAgUAAxkDAAIDNGr-0vcOMxAncQ4Cb3cvhXT2HZyLAAJ5Fmsb3mnwV6Rz3QtIrxUxAQADAgADdwADPQQ",
+   "queued_at": "2026-11-19T10:44:07.478979+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-19T10:44:07.479016+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122106185301548584",
+   "posted_at": "2026-11-19T10:46:01.972362+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 19 · 5:46 AM New York · 4:16 PM Sri Lanka\n\n<b>Denmark parliament ratifies security deal involving Greenland and United States</b>\n<i>France 24, Newsweek</i>\n🟢 <b>Latest:</b> 3:38 PM Sri Lanka (38 min ago) · first reported 2:41 PM\n📷 5/10 Danish flag on boat\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122106185301548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 527,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122106185301548584_1464336639158717"
   }
  },
  "seen_links": [
@@ -13119,7 +13109,11 @@
   "https://www.france24.com/en/middle-east/20261119-skyscraper-in-riyadh-damaged-as-saudi-arabia-reports-surge-in-new-houthi-attacks",
   "https://www.independent.co.uk/news/world/middle-east/riyadh-explosion-blast-airport-saudi-arabia-houthis-missile-b3087628.html",
   "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-  "https://www.aljazeera.com/news/2026/11/19/far-from-trump-putin-meeting-europe-to-count-cost-of-ukraines-defence?traffic_source=rss"
+  "https://www.aljazeera.com/news/2026/11/19/far-from-trump-putin-meeting-europe-to-count-cost-of-ukraines-defence?traffic_source=rss",
+  "https://www.france24.com/en/europe/20261119-denmark-ratifies-greenland-security-deal-after-months-of-pressure-by-trump",
+  "https://www.newsweek.com/trump-secures-greenland-military-deal-what-changes-denmark-12738676",
+  "https://www.washingtonpost.com/politics/2026/11/19/trump-calls-putin-xi-friends-they-have-other-plans/",
+  "https://www.independent.co.uk/news/world/americas/us-politics/trump-putin-apec-china-meeting-b3087735.html"
  ],
  "recent_topics": [
   [
@@ -16536,19 +16530,32 @@
     "ukrain"
    ],
    "5ac6485bd7"
+  ],
+  [
+   "2026-11-19T10:44:07.478777+00:00",
+   [
+    "chang",
+    "deal",
+    "denmark",
+    "greenland",
+    "military",
+    "month",
+    "pressur",
+    "ratify",
+    "secur",
+    "security",
+    "trump"
+   ],
+   "2b9a45734f"
   ]
  ],
- "last_draft_at": "2026-11-19T10:30:31.820895+00:00",
+ "last_draft_at": "2026-11-19T10:42:17.343645+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T10:30:04.214234+00:00",
  "run_log": [
-  "11-19 08:01:04 run start",
-  "11-19 08:05:24 listening 7 min",
-  "11-19 08:12:31 listening done",
-  "11-19 08:12:31 run end after 686 s",
   "11-19 08:13:04 run start",
   "11-19 08:14:51 listening 10 min",
   "11-19 08:24:30 listening done",
@@ -16584,12 +16591,15 @@
   "11-19 10:30:03 run start",
   "11-19 10:32:10 listening 9 min",
   "11-19 10:41:48 listening done",
-  "11-19 10:41:48 run end after 704 s"
+  "11-19 10:41:48 run end after 704 s",
+  "11-19 10:42:16 run start",
+  "11-19 10:46:17 listening 7 min",
+  "11-19 10:53:50 listening done",
+  "11-19 10:53:50 run end after 693 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/WikimediaServersOct07_1.JPG/1920px-WikimediaServersOct07_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Fishing_Vessel_FH19%2C_Hooe_Lake%2C_Plymouth.jpg/1920px-Fishing_Vessel_FH19%2C_Hooe_Lake%2C_Plymouth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/SSG_Desiree_Palacios_makes_final_settings_on_her_camera_before_a_sortie_in_a_F-16D_Fighting_Falcon.jpg/1920px-SSG_Desiree_Palacios_makes_final_settings_on_her_camera_before_a_sortie_in_a_F-16D_Fighting_Falcon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Almas_missile_launch_and_impact.jpg/1920px-Almas_missile_launch_and_impact.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -16628,7 +16638,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Elbridge_A._Colby_%282%29.jpg/1280px-Elbridge_A._Colby_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/%D0%A0%D0%B0%D1%84%D0%B8%D0%BD%D0%B5%D1%80%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0%D1%84%D1%82%D0%B5_%D0%91%D1%80%D0%BE%D0%B4_%28Oil_refinery_Brod%2C_Republika_Srpska%29.jpg/1920px-%D0%A0%D0%B0%D1%84%D0%B8%D0%BD%D0%B5%D1%80%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0%D1%84%D1%82%D0%B5_%D0%91%D1%80%D0%BE%D0%B4_%28Oil_refinery_Brod%2C_Republika_Srpska%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Loppusijoituskapseli.jpg/1920px-Loppusijoituskapseli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Regierungsviertel%2C_Berlin-Mitte%2C_170325%2C_ako.jpg/1920px-Regierungsviertel%2C_Berlin-Mitte%2C_170325%2C_ako.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Regierungsviertel%2C_Berlin-Mitte%2C_170325%2C_ako.jpg/1920px-Regierungsviertel%2C_Berlin-Mitte%2C_170325%2C_ako.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Danish_flag_at_stern_of_ship_Gunnar_Thorson.jpg/1920px-Danish_flag_at_stern_of_ship_Gunnar_Thorson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "wes moore": {
@@ -20068,7 +20079,6 @@
    }
   },
   "recent_ideas": [
-   "judge gavel",
    "federal bureau of investigation building",
    "courtroom",
    "courtroom",
@@ -20079,7 +20089,8 @@
    "nato headquarters brussels",
    "oil refinery",
    "nuclear facility",
-   "berlin, germany"
+   "berlin, germany",
+   "danish flag"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -20801,6 +20812,26 @@
     "s": 6,
     "w": "Reichstag building in Berlin",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Parliament_to_vote_on_new_European_Commission_%2849131896912%29.jpg/1920px-Parliament_to_vote_on_new_European_Commission_%2849131896912%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|90c787c6": {
+    "s": 0,
+    "w": "Ursula von der Leyen",
+    "p": "shows an EU politician instead of the Danish parliament"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Vote-case-9982.jpg/1920px-Vote-case-9982.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|90c787c6": {
+    "s": 6,
+    "w": "ballot box",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Isunngua-highlands-landscape-greenland.jpg/1920px-Isunngua-highlands-landscape-greenland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|90c787c6": {
+    "s": 0,
+    "w": "Greenland landscape",
+    "p": "shows a landscape instead of the parliament voting chamber"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Danish_flag_at_stern_of_ship_Gunnar_Thorson.jpg/1920px-Danish_flag_at_stern_of_ship_Gunnar_Thorson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|90c787c6": {
+    "s": 5,
+    "w": "Danish flag on boat",
+    "p": "shows a boat with a Danish flag instead of parliament chamber"
    }
   }
  },
@@ -20812,10 +20843,10 @@
   "2026-11-16": 32,
   "2026-11-17": 35,
   "2026-11-18": 22,
-  "2026-11-19": 5
+  "2026-11-19": 6
  },
- "last_auto_at": "2026-11-19T10:31:52.263534+00:00",
- "last_post_at": "2026-11-19T10:32:01.211624+00:00",
+ "last_auto_at": "2026-11-19T10:46:01.972362+00:00",
+ "last_post_at": "2026-11-19T10:46:07.716588+00:00",
  "reels_count": {
   "2026-11-13": 10,
   "2026-11-14": 8,
