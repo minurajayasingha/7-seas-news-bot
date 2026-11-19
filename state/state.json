@@ -11270,6 +11270,104 @@
     "shares": 0
    },
    "stats_at": "2026-11-19T13:26:26.431527+00:00"
+  },
+  "ec70ec531b": {
+   "id": "ec70ec531b",
+   "headline": "Trump, Xi and Putin hold historic three-way summit",
+   "summary": "Leaders described the unprecedented meeting as historic. Discussions during the three-way summit covered topics ranging from nuclear risks to energy flows.",
+   "label": "DIPLOMACY",
+   "hook": "What are the main goals of this three-way summit?",
+   "key_points": [
+    "Leaders hailed the unprecedented meeting as historic.",
+    "Conversations spanned nuclear risks to energy flows.",
+    "Trump touted his friendships with Xi and Putin."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#WorldNews",
+    "#Summit",
+    "#Diplomacy"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "NBC News"
+   ],
+   "link": "https://www.aljazeera.com/news/2026/11/19/groundbreaking-trump-xi-putin-summit-five-key-takeaways?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/19/groundbreaking-trump-xi-putin-summit-five-key-takeaways?traffic_source=rss"
+    ],
+    [
+     "NBC News",
+     "https://www.nbcnews.com/news/us-news/trilateral-meeting-trump-xi-putin-gta-vice-city-morning-rundown-rcna610168"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Shealeah Craighead / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "Donald Trump portrait smiling"
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Vladimir_Putin_%282026_02_23%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Kremlin.ru / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "Putin close-up portrait"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Trump, Xi and Putin hold historic three-way summit",
+    "people": [
+     "Donald Trump",
+     "Xi",
+     "Putin"
+    ],
+    "image_query": "United Nations summit",
+    "image_queries": [
+     "international summit",
+     "diplomatic meeting",
+     "global leaders",
+     "conference hall"
+    ],
+    "image_style": "scene",
+    "location": "",
+    "nearby_city": "",
+    "event_query": "Trump Xi Putin summit",
+    "topic_photo": "conference table",
+    "label": "DIPLOMACY",
+    "action_subject": "",
+    "news_time": "2026-11-19T12:36:50+00:00"
+   },
+   "created_at": "2026-11-19T13:41:54.763707+00:00",
+   "news_time": "2026-11-19T12:36:50+00:00",
+   "news_latest": "2026-11-19T13:13:53+00:00",
+   "importance": 7,
+   "caption": "Trump, Xi and Putin hold historic three-way summit\n\nLeaders described the unprecedented meeting as historic. Discussions during the three-way summit covered topics ranging from nuclear risks to energy flows.\n\n💬 What are the main goals of this three-way summit?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WorldNews #Summit #Diplomacy #7SeasNews",
+   "photo_line": "📷 10/10 Donald Trump portrait smiling",
+   "status": "posted",
+   "tg_message_id": 823,
+   "tg_file_id": "AgACAgUAAxkDAAIDN2r-_KmjimGqV8K2qcamrKKyWueQAAIeFGsb3mn4VwJanrhy9RhtAQADAgADdwADPQQ",
+   "queued_at": "2026-11-19T13:42:01.920759+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-19T13:42:01.920802+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122106326937548584",
+   "posted_at": "2026-11-19T13:43:40.307039+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 19 · 8:43 AM New York · 7:13 PM Sri Lanka\n\n<b>Trump, Xi and Putin hold historic three-way summit</b>\n<i>Al Jazeera, NBC News</i>\n🟢 <b>Latest:</b> 6:43 PM Sri Lanka (29 min ago) · first reported 6:06 PM\n📷 10/10 Donald Trump portrait smiling\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122106326937548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 530,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122106326937548584_1007239935117418"
   }
  },
  "seen_links": [
@@ -12870,7 +12968,11 @@
   "https://www.newsweek.com/map-shows-states-gas-prices-falling-fastest-since-midterms-12739722",
   "https://www.washingtonexaminer.com/policy/energy-and-environment/4808136/why-gas-diesel-prices-declined-after-midterms/",
   "https://www.washingtonexaminer.com/news/world/4808457/china-remove-reporter-summit-shouting-question-jensen-huang/",
-  "https://thehill.com/homenews/media/6229710-china-blocks-bloomberg-reporter-trump-question/"
+  "https://thehill.com/homenews/media/6229710-china-blocks-bloomberg-reporter-trump-question/",
+  "https://www.aljazeera.com/news/2026/11/19/groundbreaking-trump-xi-putin-summit-five-key-takeaways?traffic_source=rss",
+  "https://www.nbcnews.com/news/us-news/trilateral-meeting-trump-xi-putin-gta-vice-city-morning-rundown-rcna610168",
+  "https://www.aljazeera.com/news/2026/11/19/south-korean-court-orders-retrial-for-ex-pm-han-over-martial-law-attempt?traffic_source=rss",
+  "https://abcnews.com/International/wireStory/south-koreas-top-court-overturns-charges-prime-minister-138280095"
  ],
  "recent_topics": [
   [
@@ -16191,19 +16293,33 @@
     "trump"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-19T13:42:01.920585+00:00",
+   [
+    "fiv",
+    "groundbreak",
+    "gta",
+    "key",
+    "launch",
+    "morn",
+    "rav",
+    "review",
+    "rundown",
+    "summit",
+    "takeaway",
+    "trump-xi-putin"
+   ],
+   "ec70ec531b"
   ]
  ],
- "last_draft_at": "2026-11-19T13:27:29.575847+00:00",
+ "last_draft_at": "2026-11-19T13:39:49.836121+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T13:26:26.431527+00:00",
  "run_log": [
-  "11-19 10:42:16 run start",
-  "11-19 10:46:17 listening 7 min",
-  "11-19 10:53:50 listening done",
-  "11-19 10:53:50 run end after 693 s",
   "11-19 11:05:25 run start",
   "11-19 11:07:12 listening 10 min",
   "11-19 11:14:44 run start",
@@ -16239,13 +16355,15 @@
   "11-19 13:26:26 run start",
   "11-19 13:27:38 listening 10 min",
   "11-19 13:38:07 listening done",
-  "11-19 13:38:07 run end after 701 s"
+  "11-19 13:38:07 run end after 701 s",
+  "11-19 13:39:49 run start",
+  "11-19 13:43:59 listening 7 min",
+  "11-19 13:51:32 listening done",
+  "11-19 13:51:32 run end after 703 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/SSG_Desiree_Palacios_makes_final_settings_on_her_camera_before_a_sortie_in_a_F-16D_Fighting_Falcon.jpg/1920px-SSG_Desiree_Palacios_makes_final_settings_on_her_camera_before_a_sortie_in_a_F-16D_Fighting_Falcon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Almas_missile_launch_and_impact.jpg/1920px-Almas_missile_launch_and_impact.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/4/4d/Washington_DC_Skyline.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Constitution_of_the_9th_legislature_of_the_European_Parliament_%2848180139716%29.jpg/1920px-Constitution_of_the_9th_legislature_of_the_European_Parliament_%2848180139716%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/f/f1/MatanK-DSC_0053a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -16283,73 +16401,11 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Loppusijoituskapseli.jpg/1920px-Loppusijoituskapseli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Regierungsviertel%2C_Berlin-Mitte%2C_170325%2C_ako.jpg/1920px-Regierungsviertel%2C_Berlin-Mitte%2C_170325%2C_ako.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Danish_flag_at_stern_of_ship_Gunnar_Thorson.jpg/1920px-Danish_flag_at_stern_of_ship_Gunnar_Thorson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Skyline_downtown_Des_Moines.jpg/1920px-Skyline_downtown_Des_Moines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Skyline_downtown_Des_Moines.jpg/1920px-Skyline_downtown_Des_Moines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/1/1c/Vladimir_Putin_%282026_02_23%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   ],
   "pools": {
-   "wes moore": {
-    "t": "2026-11-11T23:15:34.228130+00:00",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Wes_Moore_Official_Governor_Portrait.jpg/1280px-Wes_Moore_Official_Governor_Portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Maryland State Government / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Governor-Elect_Wes_Moore_-_52490803024.jpg/1280px-Governor-Elect_Wes_Moore_-_52490803024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Maryland GovPics / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Governor-Elect_Wes_Moore_-_52491070773.jpg/1280px-Governor-Elect_Wes_Moore_-_52491070773.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Maryland GovPics / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Governor_Wes_Moore_signs_the_ENOUGH_Act_%2853710535742%29.jpg/1280px-Governor_Wes_Moore_signs_the_ENOUGH_Act_%2853710535742%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Maryland GovPics / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Governor-Elect_Wes_Moore_-_52490521186.jpg/1280px-Governor-Elect_Wes_Moore_-_52490521186.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Maryland GovPics / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Governor_Wes_Moore_%28Maryland%29_Signs_the_Digital_Infrastructure_Group_%28DIG%29_Executive_Order.jpg/1280px-Governor_Wes_Moore_%28Maryland%29_Signs_the_Digital_Infrastructure_Group_%28DIG%29_Executive_Order.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Maryland GovPics / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Governor_Wes_Moore_signs_the_PORT_Act_%2853645046684%29.jpg/1280px-Governor_Wes_Moore_signs_the_PORT_Act_%2853645046684%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Maryland GovPics / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Governor-Elect_Wes_Moore_-_52490034002.jpg/1280px-Governor-Elect_Wes_Moore_-_52490034002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Maryland GovPics / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Governor-Elect_Wes_Moore_-_52491071413.jpg/1280px-Governor-Elect_Wes_Moore_-_52491071413.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Maryland GovPics / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/2024_UNCF_Luncheon_Honoring_MD_Governor_Wes_Moore_%2854072457675%29.jpg/1280px-2024_UNCF_Luncheon_Honoring_MD_Governor_Wes_Moore_%2854072457675%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Maryland GovPics / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     }
-    ]
-   },
    "jeff van drew": {
     "t": "2026-11-12T00:04:23.181887+00:00",
     "photos": [
@@ -19720,10 +19776,48 @@
      }
     ],
     "v": 2
+   },
+   "putin": {
+    "t": "2026-11-19T13:40:59.187767+00:00",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Vladimir_Putin_%282026_02_23%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Kremlin.ru / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2018_inauguration_of_Vladimir_Putin_60.jpg/1280px-2018_inauguration_of_Vladimir_Putin_60.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Presidential Press and Information Service of Russia / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Putin_sem_Putin_tam.JPG/1280px-Putin_sem_Putin_tam.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "01x07x2022000 / Wikimedia Commons (CC0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/2022_Reuni%C3%A3o_com_o_Presidente_da_Federa%C3%A7%C3%A3o_Russa%2C_Vladimir_Putin_05.jpg/1280px-2022_Reuni%C3%A3o_com_o_Presidente_da_Federa%C3%A7%C3%A3o_Russa%2C_Vladimir_Putin_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Palácio do Planalto / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/2022_Reuni%C3%A3o_com_o_Presidente_da_Federa%C3%A7%C3%A3o_Russa%2C_Vladimir_Putin_04.jpg/1280px-2022_Reuni%C3%A3o_com_o_Presidente_da_Federa%C3%A7%C3%A3o_Russa%2C_Vladimir_Putin_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Palácio do Planalto / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     }
+    ],
+    "v": 2
    }
   },
   "recent_ideas": [
-   "federal bureau of investigation building",
    "courtroom",
    "courtroom",
    "oval office",
@@ -19734,7 +19828,8 @@
    "oil refinery",
    "nuclear facility",
    "berlin, germany",
-   "danish flag"
+   "danish flag",
+   "red square, moscow"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -20516,6 +20611,41 @@
     "s": 5,
     "w": "Des Moines skyline and bridge",
     "p": "City skyline for an ammunition plant story"
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/7/70/China-US-Russia_trilateral_meeting_at_APEC_%282026%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled|148a1ae1": {
+    "s": 0,
+    "w": "AI-generated image of Trump, Xi, Putin",
+    "p": "AI-generated or deepfake image, not a real photo of the event"
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/b/bb/China-US-Russia_trilateral_meeting_at_APEC_%282026%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled|148a1ae1": {
+    "s": 0,
+    "w": "AI-generated image of world leaders",
+    "p": "AI-generated image depicting an event that never occurred"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Donald_Trump_at_Inaugural_parade_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Donald Trump": {
+    "s": 0,
+    "w": "Donald Trump waving indoors",
+    "p": "Wrong event, Xi and Putin are not present"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/2022_Reuni%C3%A3o_com_o_Presidente_da_Federa%C3%A7%C3%A3o_Russa%2C_Vladimir_Putin_05.jpg/1280px-2022_Reuni%C3%A3o_com_o_Presidente_da_Federa%C3%A7%C3%A3o_Russa%2C_Vladimir_Putin_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Putin": {
+    "s": 0,
+    "w": "Vladimir Putin sitting indoors",
+    "p": "shows Putin alone, not a three-way summit with Trump and Xi"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Putin_sem_Putin_tam.JPG/1280px-Putin_sem_Putin_tam.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Putin": {
+    "s": 0,
+    "w": "tote bag with text",
+    "p": "shows a tote bag, not Putin"
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/1/1c/Vladimir_Putin_%282026_02_23%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled|person: Putin": {
+    "s": 10,
+    "w": "Putin close-up portrait",
+    "p": ""
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/b/b6/OMON_soldiers_in_Red_Square%2C_Moscow.jpg|148a1ae1": {
+    "s": 10,
+    "w": "OMON officers in Red Square",
+    "p": ""
    }
   }
  },
@@ -20527,10 +20657,10 @@
   "2026-11-16": 32,
   "2026-11-17": 35,
   "2026-11-18": 22,
-  "2026-11-19": 7
+  "2026-11-19": 8
  },
- "last_auto_at": "2026-11-19T11:06:57.111103+00:00",
- "last_post_at": "2026-11-19T11:07:02.901565+00:00",
+ "last_auto_at": "2026-11-19T13:43:40.307039+00:00",
+ "last_post_at": "2026-11-19T13:43:47.454039+00:00",
  "reels_count": {
   "2026-11-13": 10,
   "2026-11-14": 8,
