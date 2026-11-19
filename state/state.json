@@ -1,92 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "17e4ee8ba1": {
-   "id": "17e4ee8ba1",
-   "headline": "Canada bars Russia from Junior World Championships in Edmonton",
-   "summary": "Canada announced it will block Russian athletes from the Junior Ice Hockey World Championships because of the war in Ukraine. The International Ice Hockey Federation confirmed that Canada remains the host for the tournament.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "Games are scheduled for Dec 26, 2026, through Jan 5, 2027",
-    "Matches will take place in Edmonton and Red Deer, Alberta"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#WorldNews",
-    "#Canada",
-    "#IceHockey"
-   ],
-   "sources": [
-    "BBC",
-    "Kyiv Independent"
-   ],
-   "link": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
-   "links": [
-    [
-     "BBC",
-     "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss"
-    ],
-    [
-     "Kyiv Independent",
-     "https://kyivindependent.com/iihf-confirms-russia-out-of-2027-world-juniors-canada-to-remain-host/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Red_Deer%2C_Alberta_%2810%29_%2826310093276%29.jpg/1920px-Red_Deer%2C_Alberta_%2810%29_%2826310093276%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Daniel from Glasgow, United Kingdom / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Canada bars Russia from Junior World Championships in Edmonton",
-    "people": [],
-    "image_query": "Edmonton skyline",
-    "image_queries": [
-     "ice hockey arena",
-     "Red Deer Alberta",
-     "Edmonton Alberta",
-     "hockey rink"
-    ],
-    "image_style": "scene",
-    "location": "Edmonton, Canada",
-    "nearby_city": "Calgary, Canada",
-    "event_query": "Junior Ice Hockey World Championships",
-    "news_time": null,
-    "label": "WORLD"
-   },
-   "created_at": "2026-11-15T23:01:06.307745+00:00",
-   "news_time": "2026-11-15T19:10:12+00:00",
-   "news_latest": "2026-11-15T22:01:16+00:00",
-   "caption": "Canada bars Russia from Junior World Championships in Edmonton\n\nCanada announced it will block Russian athletes from the Junior Ice Hockey World Championships because of the war in Ukraine. The International Ice Hockey Federation confirmed that Canada remains the host for the tournament.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WorldNews #Canada #IceHockey #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 614,
-   "tg_file_id": "AgACAgUAAxkDAAICZmr6ObcsXP4R8uOlAUs_2HcnUcdoAAI3F2sbg6zQVyZD9KoF1gblAQADAgADdwADPQQ",
-   "queued_at": "2026-11-15T23:01:11.601732+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-15T23:01:11.601791+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122102802813548584",
-   "posted_at": "2026-11-15T23:01:11.944881+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 15 · 6:01 PM New York · 4:31 AM Sri Lanka\n\n<b>Canada bars Russia from Junior World Championships in Edmonton</b>\n<i>BBC, Kyiv Independent</i>\n🟡 <b>Latest:</b> 3:31 AM Sri Lanka (1h ago) · first reported 12:40 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122102802813548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 399,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122102802813548584_2171578556728406",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-18T23:01:01.403042+00:00"
-  },
   "86a4e525de": {
    "id": "86a4e525de",
    "headline": "Mexican drug lord Miguel Angel Felix Gallardo dies at 80",
@@ -16693,17 +16607,13 @@
    "8a3271186d"
   ]
  ],
- "last_draft_at": "2026-11-19T22:49:41.786282+00:00",
+ "last_draft_at": "2026-11-19T23:00:54.514557+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T22:48:57.505492+00:00",
  "run_log": [
-  "11-19 20:27:26 listening done",
-  "11-19 20:27:26 run end after 701 s",
-  "11-19 20:30:53 run start",
-  "11-19 20:31:37 listening 11 min",
   "11-19 20:42:30 listening done",
   "11-19 20:42:30 run end after 697 s",
   "11-19 20:45:35 run start",
@@ -16739,7 +16649,11 @@
   "11-19 22:48:57 run start",
   "11-19 22:50:43 listening 10 min",
   "11-19 23:00:22 listening done",
-  "11-19 23:00:22 run end after 685 s"
+  "11-19 23:00:22 run end after 685 s",
+  "11-19 23:00:54 run start",
+  "11-19 23:01:02 listening 11 min",
+  "11-19 23:12:21 listening done",
+  "11-19 23:12:21 run end after 686 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
