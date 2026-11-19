@@ -12895,7 +12895,9 @@
   "https://www.newsweek.com/trump-tells-americans-relax-after-wave-of-tech-chaos-12737828",
   "https://www.independent.co.uk/news/world/americas/doomsday-prepping-costco-tech-outages-b3087532.html",
   "https://thehill.com/policy/international/6229395-colby-criticizes-ukraine-long-range-strikes/",
-  "https://www.independent.co.uk/news/world/europe/pentagon-elbridge-colby-walks-out-nato-talks-ukraine-b3087554.html"
+  "https://www.independent.co.uk/news/world/europe/pentagon-elbridge-colby-walks-out-nato-talks-ukraine-b3087554.html",
+  "https://thehill.com/homenews/senate/6229401-slotkin-slams-reitz-investigation/",
+  "https://www.nbcnews.com/politics/congress/elissa-slotkin-fires-back-aaron-reitz-investigation-political-speech-rcna610133"
  ],
  "recent_topics": [
   [
@@ -16214,19 +16216,39 @@
     "walk"
    ],
    "68abf1524d"
+  ],
+  [
+   "2026-11-19T04:25:39.131025+00:00",
+   [
+    "ambition",
+    "attorney",
+    "back",
+    "doj",
+    "elissa",
+    "fir",
+    "investigation",
+    "lawmaker",
+    "official",
+    "political",
+    "prob",
+    "publicity",
+    "sen",
+    "slam",
+    "slotkin",
+    "speech",
+    "stunt",
+    "your"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-19T04:12:58.191515+00:00",
+ "last_draft_at": "2026-11-19T04:25:17.815579+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T04:00:43.756912+00:00",
  "run_log": [
-  "11-19 01:57:00 listening done",
-  "11-19 01:57:00 run end after 686 s",
-  "11-19 02:00:56 run start",
-  "11-19 02:02:07 listening 10 min",
   "11-19 02:12:36 listening done",
   "11-19 02:12:36 run end after 700 s",
   "11-19 02:29:59 run start",
@@ -16262,7 +16284,11 @@
   "11-19 04:12:57 run start",
   "11-19 04:14:08 listening 10 min",
   "11-19 04:24:36 listening done",
-  "11-19 04:24:36 run end after 699 s"
+  "11-19 04:24:36 run end after 699 s",
+  "11-19 04:25:17 run start",
+  "11-19 04:25:39 listening 11 min",
+  "11-19 04:36:59 listening done",
+  "11-19 04:36:59 run end after 702 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
