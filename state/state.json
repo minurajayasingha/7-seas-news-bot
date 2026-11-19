@@ -11377,6 +11377,96 @@
     "shares": 0
    },
    "stats_at": "2026-11-19T14:25:43.473391+00:00"
+  },
+  "83b3c49710": {
+   "id": "83b3c49710",
+   "headline": "European Commission hit by AI assisted cyberattack",
+   "summary": "The European Union executive body was targeted by international hackers using an artificial intelligence tool. Officials stated the cyber campaign was detected on October 22 and could have compromised staff personal data.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "A publicly available tool called ARTEX aided the attack.",
+    "Internal services were disrupted for over a period."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#EuropeanUnion",
+    "#CyberSecurity",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Newsweek",
+    "Washington Examiner"
+   ],
+   "link": "https://www.newsweek.com/european-union-hit-by-ai-generated-cyber-attack-12740975",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/european-union-hit-by-ai-generated-cyber-attack-12740975"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/world/4808482/european-commission-ai-cyberattack-artex/"
+    ],
+    [
+     "Newsweek",
+     "https://www.newsweek.com/cyberattack-map-countries-november-full-list-12739233"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Grand-Place%2C_Brussels_-_Wide_view_of_the_cobblestone_square_with_the_House_of_the_Dukes_of_Brabant_on_the_right.jpg/1920px-Grand-Place%2C_Brussels_-_Wide_view_of_the_cobblestone_square_with_the_House_of_the_Dukes_of_Brabant_on_the_right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "iMahesh / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 5,
+      "shows": "Grand Place Brussels square"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "European Commission hit by AI assisted cyberattack",
+    "people": [],
+    "image_query": "European Commission building",
+    "image_queries": [
+     "European Union flag",
+     "cyber security server",
+     "digital code screen",
+     "Brussels skyline"
+    ],
+    "image_style": "incident",
+    "location": "Brussels, Belgium",
+    "nearby_city": "Brussels, Belgium",
+    "event_query": "European Commission cyber attack",
+    "topic_photo": "computer servers",
+    "label": "WORLD",
+    "action_subject": "computer servers",
+    "news_time": "2026-11-19T12:04:38+00:00"
+   },
+   "created_at": "2026-11-19T15:07:05.533131+00:00",
+   "news_time": "2026-11-19T12:04:38+00:00",
+   "news_latest": "2026-11-19T14:54:43+00:00",
+   "importance": 7,
+   "caption": "European Commission hit by AI assisted cyberattack\n\nThe European Union executive body was targeted by international hackers using an artificial intelligence tool. Officials stated the cyber campaign was detected on October 22 and could have compromised staff personal data.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#EuropeanUnion #CyberSecurity #WorldNews #7SeasNews",
+   "photo_line": "📷 5/10 Grand Place Brussels square",
+   "status": "posted",
+   "tg_message_id": 826,
+   "tg_file_id": "AgACAgUAAxkDAAIDOmr_EKKxKu5avfhsXC9rp43d6qHJAAJ3FGsb3mn4V2M4J50muEuzAQADAgADdwADPQQ",
+   "queued_at": "2026-11-19T15:07:15.081821+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-19T15:07:15.081846+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122106416169548584",
+   "posted_at": "2026-11-19T15:07:15.399322+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 19 · 10:07 AM New York · 8:37 PM Sri Lanka\n\n<b>European Commission hit by AI assisted cyberattack</b>\n<i>Newsweek, Washington Examiner</i>\n🟢 <b>Latest:</b> 8:24 PM Sri Lanka (12 min ago) · first reported 5:34 PM\n📷 5/10 Grand Place Brussels square\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122106416169548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 533,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122106416169548584_3380330762153030"
   }
  },
  "seen_links": [
@@ -12985,7 +13075,10 @@
   "https://abcnews.com/International/wireStory/migrant-boat-capsizes-off-senegals-coast-leaving-1-138286309",
   "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
   "https://www.upi.com/Top_News/World-News/2026/11/19/Ukraine-strikes-Kerch-Bridge-again/4411795088239/",
-  "https://www.newsweek.com/kerch-bridge-strike-future-of-war-drones-uforce-12725365"
+  "https://www.newsweek.com/kerch-bridge-strike-future-of-war-drones-uforce-12725365",
+  "https://www.newsweek.com/european-union-hit-by-ai-generated-cyber-attack-12740975",
+  "https://www.washingtonexaminer.com/news/world/4808482/european-commission-ai-cyberattack-artex/",
+  "https://www.newsweek.com/cyberattack-map-countries-november-full-list-12739233"
  ],
  "recent_topics": [
   [
@@ -16361,19 +16454,34 @@
     "war"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-19T15:07:15.081650+00:00",
+   [
+    "ai-assist",
+    "ai-generat",
+    "attack",
+    "commission",
+    "country",
+    "cyber",
+    "cyberattack",
+    "european",
+    "hit",
+    "map",
+    "month",
+    "show",
+    "union"
+   ],
+   "83b3c49710"
   ]
  ],
- "last_draft_at": "2026-11-19T14:50:16.286776+00:00",
+ "last_draft_at": "2026-11-19T15:02:15.969130+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T14:25:43.473391+00:00",
  "run_log": [
-  "11-19 12:45:34 run start",
-  "11-19 12:45:44 listening 11 min",
-  "11-19 12:57:03 listening done",
-  "11-19 12:57:03 run end after 688 s",
   "11-19 13:00:57 run start",
   "11-19 13:01:18 listening 11 min",
   "11-19 13:12:38 listening done",
@@ -16409,12 +16517,15 @@
   "11-19 14:50:15 run start",
   "11-19 14:50:24 listening 11 min",
   "11-19 15:01:43 listening done",
-  "11-19 15:01:43 run end after 687 s"
+  "11-19 15:01:43 run end after 687 s",
+  "11-19 15:02:14 run start",
+  "11-19 15:07:30 listening 6 min",
+  "11-19 15:13:47 listening done",
+  "11-19 15:13:47 run end after 692 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/4/4d/Washington_DC_Skyline.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Constitution_of_the_9th_legislature_of_the_European_Parliament_%2848180139716%29.jpg/1920px-Constitution_of_the_9th_legislature_of_the_European_Parliament_%2848180139716%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/f/f1/MatanK-DSC_0053a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Donald_Trump_signs_an_Executive_Order_regarding_childhood_vaccines_in_the_Oval_Office%2C_Monday%2C_August_10%2C_2026_-_5_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -16453,7 +16564,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Danish_flag_at_stern_of_ship_Gunnar_Thorson.jpg/1920px-Danish_flag_at_stern_of_ship_Gunnar_Thorson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Skyline_downtown_Des_Moines.jpg/1920px-Skyline_downtown_Des_Moines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/1/1c/Vladimir_Putin_%282026_02_23%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/1/1c/Vladimir_Putin_%282026_02_23%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Grand-Place%2C_Brussels_-_Wide_view_of_the_cobblestone_square_with_the_House_of_the_Dukes_of_Brabant_on_the_right.jpg/1920px-Grand-Place%2C_Brussels_-_Wide_view_of_the_cobblestone_square_with_the_House_of_the_Dukes_of_Brabant_on_the_right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "jeff van drew": {
@@ -20701,6 +20813,26 @@
     "s": 2,
     "w": "horse carriage on street",
     "p": "photo shows a street scene from a carriage, not a migrant boat capsizing or resc"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Tour_et_Taxis_-_Brussels_Skyline.jpg/1920px-Tour_et_Taxis_-_Brussels_Skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|15417f96": {
+    "s": 3,
+    "w": "Brussels skyline",
+    "p": "shows a skyline instead of the cyberattack"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/The_city_center_of_Brussels%2C_Brussels%2C_Belgium.JPG/1920px-The_city_center_of_Brussels%2C_Brussels%2C_Belgium.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|15417f96": {
+    "s": 3,
+    "w": "Brussels city center skyline",
+    "p": "shows city skyline instead of cyberattack"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Street_art_in_the_tunnel_at_Rue_des_Tanneurs_under_the_railway_%28Brussels%2C_Belgium%29.jpg/1920px-Street_art_in_the_tunnel_at_Rue_des_Tanneurs_under_the_railway_%28Brussels%2C_Belgium%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|15417f96": {
+    "s": 0,
+    "w": "graffiti on a street wall",
+    "p": "photo does not show computer servers or an AI cyberattack"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Grand-Place%2C_Brussels_-_Wide_view_of_the_cobblestone_square_with_the_House_of_the_Dukes_of_Brabant_on_the_right.jpg/1920px-Grand-Place%2C_Brussels_-_Wide_view_of_the_cobblestone_square_with_the_House_of_the_Dukes_of_Brabant_on_the_right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|15417f96": {
+    "s": 5,
+    "w": "Grand Place Brussels square",
+    "p": "Shows a square in Brussels instead of computer servers"
    }
   }
  },
@@ -20712,10 +20844,10 @@
   "2026-11-16": 32,
   "2026-11-17": 35,
   "2026-11-18": 22,
-  "2026-11-19": 9
+  "2026-11-19": 10
  },
- "last_auto_at": "2026-11-19T14:16:51.106093+00:00",
- "last_post_at": "2026-11-19T14:16:56.287590+00:00",
+ "last_auto_at": "2026-11-19T15:07:15.399322+00:00",
+ "last_post_at": "2026-11-19T15:07:20.440209+00:00",
  "reels_count": {
   "2026-11-13": 10,
   "2026-11-14": 8,
@@ -21377,7 +21509,9 @@
    ],
    "done": {
     "tt1": true,
-    "log1": true
+    "log1": true,
+    "tt2": true,
+    "log2": true
    }
   }
  },
