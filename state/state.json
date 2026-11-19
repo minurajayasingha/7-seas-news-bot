@@ -1,80 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "e0b2b3e102": {
-   "id": "e0b2b3e102",
-   "headline": "US flights resume after Federal Aviation Administration ground stop",
-   "summary": "US flights have resumed following a rare nationwide ground stop issued by the Federal Aviation Administration. Officials are investigating whether ageing technology, a faulty router, or contractor incompetence caused the outage.",
-   "label": "US POLITICS",
-   "hook": "What caused the nationwide flight ground stop?",
-   "key_points": [
-    "The Federal Aviation Administration ordered a nationwide halt on flights.",
-    "Officials investigated contractor incompetence and faulty technology.",
-    "US flights have since resumed normal operations."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USFlights",
-    "#FAA",
-    "#Travel"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "New York Times",
-    "The Independent"
-   ],
-   "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-blames-ground-stop-old-equipment-b3084980.html",
-   "links": [
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/us-politics/trump-blames-ground-stop-old-equipment-b3084980.html"
-    ],
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/14/us/politics/trump-flights-air-traffic-social-media.html"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-flights-resume-after-ageing-technology-blamed-for-outage?traffic_source=rss"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Federal_Aviation_Administration_-_Wilbur_Wright_Federal_Building_%2853830788187%29.jpg/1920px-Federal_Aviation_Administration_-_Wilbur_Wright_Federal_Building_%2853830788187%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "ajay_suresh / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "US flights resume after Federal Aviation Administration ground stop",
-    "people": [],
-    "image_query": "Federal Aviation Administration building",
-    "image_queries": [
-     "airport terminal",
-     "airplane on tarmac",
-     "control tower",
-     "control room"
-    ],
-    "image_style": "scene",
-    "location": "US",
-    "nearby_city": "Washington, DC",
-    "event_query": "US flight ground stop",
-    "news_time": null,
-    "label": "US POLITICS"
-   },
-   "created_at": "2026-11-15T00:40:11.211600+00:00",
-   "news_time": "2026-11-14T21:36:19+00:00",
-   "news_latest": "2026-11-15T00:09:57+00:00",
-   "caption": "US flights resume after Federal Aviation Administration ground stop\n\nUS flights have resumed following a rare nationwide ground stop issued by the Federal Aviation Administration. Officials are investigating whether ageing technology, a faulty router, or contractor incompetence caused the outage.\n\n💬 What caused the nationwide flight ground stop?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USFlights #FAA #Travel #7SeasNews",
-   "status": "expired",
-   "tg_message_id": 566,
-   "tg_file_id": "AgACAgUAAxkDAAICNmr4_22432ZdPx_CUkldKkU0O19NAAKmFGsbT5fJV2YcGeHBDwpwAQADAgADdwADPQQ",
-   "extra_msgs": [],
-   "cleared": true
-  },
   "6f0bb5e135": {
    "id": "6f0bb5e135",
    "headline": "Federal Aviation Administration imposes nationwide ground stop",
@@ -12646,7 +12572,11 @@
   "https://www.nbcnews.com/meet-the-press/video/gop-rep-says-americans-want-to-stop-immigration-overreach-after-midterm-backlash-273763909879",
   "https://www.independent.co.uk/news/world/americas/us-politics/trump-cabinet-officials-americans-poll-b3087503.html",
   "https://abcnews.com/International/wireStory/uks-prince-harry-sees-big-separation-us-administration-138263585",
-  "https://www.independent.co.uk/news/world/americas/ukraine-russia-california-british-army-london-b3087564.html"
+  "https://www.independent.co.uk/news/world/americas/ukraine-russia-california-british-army-london-b3087564.html",
+  "https://www.newsweek.com/tech-outages-are-gentle-compared-to-what-could-come-ex-pentagon-official-12737488",
+  "https://thehill.com/homenews/administration/6228962-trump-officials-seek-to-ease-anxiety-over-sweeping-tech-outages/",
+  "https://www.nbcnews.com/politics/2026-election/high-school-valedictorians-get-nike-shoes-request-mississippis-incomin-rcna610116",
+  "https://www.axios.com/2026/11/18/air-force-ones-nike-colom-valedictorians"
  ],
  "recent_topics": [
   [
@@ -15903,19 +15833,58 @@
     "ukrain"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-19T00:30:53.212258+00:00",
+   [
+    "anxiety",
+    "com",
+    "compar",
+    "cyberattack",
+    "eas",
+    "ex-pentagon",
+    "gentl",
+    "indication",
+    "official",
+    "outag",
+    "relat",
+    "seek",
+    "sweep",
+    "tech",
+    "trump"
+   ],
+   "skipped"
+  ],
+  [
+   "2026-11-19T00:30:57.979696+00:00",
+   [
+    "get",
+    "high",
+    "historic",
+    "incom",
+    "mississippi",
+    "nationwid",
+    "nik",
+    "offer",
+    "request",
+    "school",
+    "senator",
+    "senator-elect",
+    "sho",
+    "turn",
+    "valedictorian",
+    "win"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-19T00:15:36.393842+00:00",
+ "last_draft_at": "2026-11-19T00:30:44.367454+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T00:00:50.415411+00:00",
  "run_log": [
-  "11-18 22:01:51 run start",
-  "11-18 22:03:00 listening 10 min",
-  "11-18 22:05:55 run start",
-  "11-18 22:05:55 listening 11 min",
   "11-18 22:17:40 listening done",
   "11-18 22:17:40 run end after 704 s",
   "11-18 22:18:09 run start",
@@ -15951,7 +15920,11 @@
   "11-19 00:15:35 run start",
   "11-19 00:15:54 listening 11 min",
   "11-19 00:27:13 listening done",
-  "11-19 00:27:13 run end after 697 s"
+  "11-19 00:27:13 run end after 697 s",
+  "11-19 00:30:43 run start",
+  "11-19 00:30:57 listening 11 min",
+  "11-19 00:42:16 listening done",
+  "11-19 00:42:16 run end after 692 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
