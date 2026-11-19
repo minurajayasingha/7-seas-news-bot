@@ -1,183 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "c3586948d6": {
-   "id": "c3586948d6",
-   "headline": "Jensen Huang agrees to testify before United States Congress",
-   "summary": "Former Nvidia CEO Jensen Huang agreed to testify before Congress in a closed-door meeting. Reports note Huang previously poured money into open-source AI and fought Washington's attempts to restrict it.",
-   "label": "ECONOMY",
-   "hook": "Will these congressional meetings change United States policy on artificial intelligence?",
-   "key_points": [
-    "Jensen Huang agreed to a closed-door congressional meeting.",
-    "Huang previously supported open-source AI in Europe.",
-    "Reports question the future of Europe's AI ambitions."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Nvidia",
-    "#Congress",
-    "#ArtificialIntelligence"
-   ],
-   "sources": [
-    "France 24",
-    "Washington Post"
-   ],
-   "link": "https://www.washingtonpost.com/politics/2026/11/15/gop-glare-lutnick-grows-amid-nvidia-scandal/",
-   "links": [
-    [
-     "Washington Post",
-     "https://www.washingtonpost.com/politics/2026/11/15/gop-glare-lutnick-grows-amid-nvidia-scandal/"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/tv-shows/tech-24/20261115-why-the-nvidia-scandal-is-bad-news-for-europe-s-ai-ambitions"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/1280px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Anderseidesvik / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Jensen Huang agrees to testify before United States Congress",
-    "people": [
-     "Jensen Huang"
-    ],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "House of Representatives chamber",
-     "Senate chamber",
-     "Capitol Hill",
-     "Washington D.C. skyline"
-    ],
-    "image_style": "person",
-    "location": "Washington, D.C., US",
-    "nearby_city": "Washington, D.C.",
-    "event_query": "US Capitol congressional hearing",
-    "news_time": null,
-    "label": "ECONOMY"
-   },
-   "created_at": "2026-11-15T19:59:05.052608+00:00",
-   "news_time": "2026-11-15T14:16:24+00:00",
-   "news_latest": "2026-11-15T19:47:01+00:00",
-   "caption": "Jensen Huang agrees to testify before United States Congress\n\nFormer Nvidia CEO Jensen Huang agreed to testify before Congress in a closed-door meeting. Reports note Huang previously poured money into open-source AI and fought Washington's attempts to restrict it.\n\n💬 Will these congressional meetings change United States policy on artificial intelligence?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Nvidia #Congress #ArtificialIntelligence #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 605,
-   "tg_file_id": "AgACAgUAAxkDAAICXWr6DwyHtlOxgPCt8jqGuu5K5PAYAAIXF2sbg6zQV8vfMM27mZYBAQADAgADdwADPQQ",
-   "extra_msgs": [],
-   "dup_ok": true,
-   "queued_at": "2026-11-16T03:36:39.927789+00:00",
-   "post_now": true,
-   "post_at": "2026-11-16T03:36:39.927803+00:00",
-   "post_label": "🚀 Posting now",
-   "fb_post_id": "1413030521900096_122102955303548584",
-   "posted_at": "2026-11-16T03:36:40.209167+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 15 · 10:36 PM New York · 9:06 AM Sri Lanka\n\n<b>Jensen Huang agrees to testify before United States Congress</b>\n<i>France 24, Washington Post</i>\n🔴 <b>Latest:</b> 1:17 AM Sri Lanka (7h 49m ago) · first reported 7:46 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122102955303548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 404,
-   "log_photo": true,
-   "cleared": true,
-   "fb_comment_id": "122102955303548584_1191199969912699",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-19T03:00:52.763727+00:00"
-  },
-  "849f5726c4": {
-   "id": "849f5726c4",
-   "headline": "Arkansas Governor Sarah Huckabee Sanders discusses potential future presidential run",
-   "summary": "Arkansas Governor Sarah Huckabee Sanders has not ruled out a 2028 presidential bid. During a television interview, she stated that she is focused on her current role leading her state.",
-   "label": "US POLITICS",
-   "hook": "Would Sarah Huckabee Sanders make a strong presidential candidate in 2028?",
-   "key_points": [
-    "Sanders addressed her political future on CNN.",
-    "She mentioned her father might not wish that role on her."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#SarahHuckabeeSanders",
-    "#Elections"
-   ],
-   "sources": [
-    "The Hill",
-    "Washington Examiner"
-   ],
-   "link": "https://www.washingtonexaminer.com/news/campaigns/presidential/4804263/gov-sanders-father-want-her-run-oval-office/",
-   "links": [
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/news/campaigns/presidential/4804263/gov-sanders-father-want-her-run-oval-office/"
-    ],
-    [
-     "The Hill",
-     "https://thehill.com/homenews/campaign/6221423-sanders-leaves-presidential-run-open/"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Sarah_Huckabee_Sanders_%2855159800080%29.jpg/1280px-Sarah_Huckabee_Sanders_%2855159800080%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Arkansas Governor Sarah Huckabee Sanders discusses potential future presidential run",
-    "people": [
-     "Sarah Huckabee Sanders"
-    ],
-    "image_query": "Arkansas State Capitol",
-    "image_queries": [
-     "US Capitol building",
-     "Republican National Committee",
-     "campaign rally stage",
-     "television news studio"
-    ],
-    "image_style": "person",
-    "location": "Arkansas, US",
-    "nearby_city": "Little Rock, Arkansas",
-    "event_query": "",
-    "news_time": null,
-    "label": "US POLITICS"
-   },
-   "created_at": "2026-11-15T19:59:15.543218+00:00",
-   "news_time": "2026-11-15T17:43:05+00:00",
-   "news_latest": "2026-11-15T19:54:30+00:00",
-   "caption": "Arkansas Governor Sarah Huckabee Sanders discusses potential future presidential run\n\nArkansas Governor Sarah Huckabee Sanders has not ruled out a 2028 presidential bid. During a television interview, she stated that she is focused on her current role leading her state.\n\n💬 Would Sarah Huckabee Sanders make a strong presidential candidate in 2028?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #SarahHuckabeeSanders #Elections #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 607,
-   "tg_file_id": "AgACAgUAAxkDAAICX2r6DxkRBspy_orLBHniqog76pnXAAIYF2sbg6zQV-d6Zv28JP3EAQADAgADdwADPQQ",
-   "queued_at": "2026-11-15T19:59:21.861597+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-15T19:59:21.861631+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122102643441548584",
-   "posted_at": "2026-11-15T19:59:22.171926+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 15 · 2:59 PM New York · 1:29 AM Sri Lanka\n\n<b>Arkansas Governor Sarah Huckabee Sanders discusses potential future presidential run</b>\n<i>The Hill, Washington Examiner</i>\n🟢 <b>Latest:</b> 1:24 AM Sri Lanka (4 min ago) · first reported 11:13 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122102643441548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 394,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122102643441548584_1365331985551174",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-18T19:15:29.935446+00:00"
-  },
   "37af219a26": {
    "id": "37af219a26",
    "headline": "Southeast Asian leaders hold summit and extend Myanmar ban",
@@ -13076,7 +12899,9 @@
   "https://www.washingtonexaminer.com/news/justice/4808742/doj-taps-bill-essayli-to-investigate-fbi-mar-a-lago-raid-sign-of-life-for-grand-conspiracy/",
   "https://www.theguardian.com/us-news/2026/nov/19/bill-essayli-mar-a-lago-raid",
   "https://www.washingtonexaminer.com/news/white-house/4808992/trump-warns-elon-musk-over-maga-comment/",
-  "https://www.axios.com/2026/11/19/trump-elon-musk-not-maga-friend"
+  "https://www.axios.com/2026/11/19/trump-elon-musk-not-maga-friend",
+  "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders",
+  "https://www.washingtonpost.com/sports/2026/11/19/arts-panel-asks-trump-administration-rethink-east-potomac-golf-courses-scope/"
  ],
  "recent_topics": [
   [
@@ -16359,19 +16184,38 @@
     "warn"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-19T20:01:23.198568+00:00",
+   [
+    "administration",
+    "arch",
+    "art",
+    "ask",
+    "cours",
+    "east",
+    "golf",
+    "hold",
+    "judg",
+    "matter",
+    "only",
+    "panel",
+    "potomac",
+    "put",
+    "rethink",
+    "scop",
+    "trump"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-19T19:46:18.458562+00:00",
+ "last_draft_at": "2026-11-19T20:00:58.505455+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T19:34:04.857992+00:00",
  "run_log": [
-  "11-19 17:30:48 run start",
-  "11-19 17:32:45 listening 10 min",
-  "11-19 17:42:25 listening done",
-  "11-19 17:42:25 run end after 696 s",
   "11-19 17:45:34 run start",
   "11-19 17:46:17 listening 11 min",
   "11-19 17:57:12 listening done",
@@ -16407,7 +16251,11 @@
   "11-19 19:46:18 run start",
   "11-19 19:46:38 listening 11 min",
   "11-19 19:57:57 listening done",
-  "11-19 19:57:57 run end after 699 s"
+  "11-19 19:57:57 run end after 699 s",
+  "11-19 20:00:58 run start",
+  "11-19 20:01:23 listening 11 min",
+  "11-19 20:12:41 listening done",
+  "11-19 20:12:41 run end after 703 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
