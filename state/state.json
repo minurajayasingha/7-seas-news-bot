@@ -1,95 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "3a3e4b6bc2": {
-   "id": "3a3e4b6bc2",
-   "headline": "Singapore company states Alice Huang left firm in 2025",
-   "summary": "The Singapore-based company Megaspeed reports that Chinese businesswoman Alice Huang departed the firm in 2025. Huang is linked to an investigation regarding chip smuggling and a relationship with former Nvidia CEO Jensen Huang. Meanwhile, the White House faces growing pressure regarding the fallout.",
-   "label": "US POLITICS",
-   "hook": "Will the White House address the Nvidia crisis following meetings with President Xi?",
-   "key_points": [
-    "Megaspeed announced the departure of Alice Huang.",
-    "Trump was allegedly warned about the affair.",
-    "Kristen Welker discussed the crisis on Sunday TODAY."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Nvidia",
-    "#WhiteHouse",
-    "#USPolitics"
-   ],
-   "sources": [
-    "France 24",
-    "NBC News"
-   ],
-   "link": "https://www.france24.com/en/chinese-spy-chip-sales-trump-ties-the-nvidia-scandal-deepens",
-   "links": [
-    [
-     "France 24",
-     "https://www.france24.com/en/chinese-spy-chip-sales-trump-ties-the-nvidia-scandal-deepens"
-    ],
-    [
-     "NBC News",
-     "https://www.today.com/video/how-the-white-house-is-reacting-to-nvidia-scandal-fallout-273546821997"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://live.staticflickr.com/3237/2770838680_cd002e04a5_b.jpg",
-      "credit": "~MVI~ (warped) / Flickr (CC BY 2.0)",
-      "short": "FLICKR"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Singapore company states Alice Huang left firm in 2025",
-    "people": [],
-    "image_query": "White House",
-    "image_queries": [
-     "US Capitol building",
-     "Nvidia headquarters",
-     "Singapore skyline",
-     "West Wing exterior"
-    ],
-    "image_style": "person",
-    "location": "Washington, DC, US",
-    "nearby_city": "Washington, DC",
-    "event_query": "White House press briefing",
-    "news_time": null,
-    "label": "US POLITICS"
-   },
-   "created_at": "2026-11-15T14:02:18.603147+00:00",
-   "news_time": "2026-11-15T13:21:30+00:00",
-   "news_latest": "2026-11-15T14:00:56+00:00",
-   "caption": "Singapore company states Alice Huang left firm in 2025\n\nThe Singapore-based company Megaspeed reports that Chinese businesswoman Alice Huang departed the firm in 2025. Huang is linked to an investigation regarding chip smuggling and a relationship with former Nvidia CEO Jensen Huang. Meanwhile, the White House faces growing pressure regarding the fallout.\n\n💬 Will the White House address the Nvidia crisis following meetings with President Xi?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Nvidia #WhiteHouse #USPolitics #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 586,
-   "tg_file_id": "AgACAgUAAxkDAAICSmr5u3cRBg3Gp9fU11z3TSWC-007AAJLFGsbT5fRV72EBxkjfNNjAQADAgADdwADPQQ",
-   "queued_at": "2026-11-15T14:02:31.362259+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-15T14:02:31.362288+00:00",
-   "post_label": "🤖 Auto-posting + Reel",
-   "fb_post_id": "1413030521900096_122102334135548584",
-   "posted_at": "2026-11-15T14:02:31.858641+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 15 · 9:03 AM New York · 7:33 PM Sri Lanka\n\n<b>Singapore company states Alice Huang left firm in 2025</b>\n<i>France 24, NBC News</i>\n🟢 <b>Latest:</b> 7:30 PM Sri Lanka (2 min ago) · first reported 6:51 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122102334135548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 384,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122102334135548584_2387616192054839",
-   "fb_reel_id": "1119601717498657",
-   "reel_status": "live",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-18T13:15:51.672475+00:00"
-  },
   "0b57dc62c4": {
    "id": "0b57dc62c4",
    "headline": "Midterm losses challenge Donald Trump and Republican leaders",
@@ -16313,17 +16224,13 @@
    "ec70ec531b"
   ]
  ],
- "last_draft_at": "2026-11-19T13:39:49.836121+00:00",
+ "last_draft_at": "2026-11-19T13:59:41.938796+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T13:26:26.431527+00:00",
  "run_log": [
-  "11-19 11:05:25 run start",
-  "11-19 11:07:12 listening 10 min",
-  "11-19 11:14:44 run start",
-  "11-19 11:14:45 listening 11 min",
   "11-19 11:26:30 listening done",
   "11-19 11:26:30 run end after 705 s",
   "11-19 11:35:47 run start",
@@ -16359,7 +16266,11 @@
   "11-19 13:39:49 run start",
   "11-19 13:43:59 listening 7 min",
   "11-19 13:51:32 listening done",
-  "11-19 13:51:32 run end after 703 s"
+  "11-19 13:51:32 run end after 703 s",
+  "11-19 13:59:41 run start",
+  "11-19 13:59:42 listening 11 min",
+  "11-19 14:11:25 listening done",
+  "11-19 14:11:25 run end after 704 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
