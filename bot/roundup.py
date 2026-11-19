@@ -34,6 +34,8 @@ YT_CLIENT_ID = os.environ.get("YT_CLIENT_ID", "").strip()
 YT_CLIENT_SECRET = os.environ.get("YT_CLIENT_SECRET", "").strip()
 YT_REFRESH_TOKEN = os.environ.get("YT_REFRESH_TOKEN", "").strip()
 log = M.log
+JOB_START = time.time()
+JOB_SAFE_MINUTES = 38                              # roundup.yml stops the job at 45 min: never wait past this
 
 
 # =============================================================================
@@ -284,8 +286,9 @@ def yt_token():
     return j["access_token"]
 
 
-def youtube_upload(video, thumb_jpg, texts, post_at):
-    """YouTube Data API v3: resumable upload as private + publishAt (= scheduled), then the thumbnail."""
+def youtube_upload(video, texts, post_at):
+    """YouTube Data API v3: resumable upload as private + publishAt (= scheduled).
+    The thumbnail comes later (youtube_thumbnails): YouTube ignores it on a Short that is still processing."""
     tok = yt_token()
     body = {"snippet": {"title": texts["yt_title"], "description": texts["yt_description"], "tags": texts["yt_tags"],
                         "categoryId": "25", "defaultLanguage": "en-US", "defaultAudioLanguage": "en-US"},
@@ -307,20 +310,65 @@ def youtube_upload(video, thumb_jpg, texts, post_at):
     j = retry_once("YouTube upload", go)
     vid = j["id"]
     status = (j.get("status") or {})
-    thumb = "set"
-    try:
-        t = M.HTTP.post(f"https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId={vid}", data=thumb_jpg,
-                        timeout=60, headers={"Authorization": f"Bearer {tok}", "Content-Type": "image/jpeg"})
-        if t.status_code >= 300:
+    return {"id": vid, "state": "scheduled" if status.get("publishAt") else status.get("privacyStatus", "uploaded"),
+            "url": f"https://youtube.com/shorts/{vid}", "thumb": "not set yet"}
+
+
+def youtube_set_thumbnail(tok, vid, thumb_jpg):
+    """Send one thumbnail (one retry). Returns "set" or the reason it failed (never raises)."""
+    thumb = "not sent"
+    for attempt in range(2):
+        if attempt:
+            time.sleep(20)
+        try:
+            t = M.HTTP.post(f"https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId={vid}",
+                            data=thumb_jpg, timeout=60,
+                            headers={"Authorization": f"Bearer {tok}", "Content-Type": "image/jpeg"})
+            if t.status_code < 300:
+                return "set"
             try:
                 thumb = str(t.json()["error"]["message"])[:200]
             except Exception:
                 thumb = f"HTTP {t.status_code}: {t.text[:150]}"
-    except Exception as e:
-        thumb = str(e)[:200]
-    log("YouTube thumbnail:", thumb)
-    return {"id": vid, "state": "scheduled" if status.get("publishAt") else status.get("privacyStatus", "uploaded"),
-            "url": f"https://youtube.com/shorts/{vid}", "thumb": thumb}
+        except Exception as e:
+            thumb = str(e)[:200]
+    return thumb
+
+
+def youtube_thumbnails(waiting):
+    """waiting = [(the part's result["yt"], cover jpg)]. Waits until YouTube has finished processing each Short, then
+    sets its thumbnail. Anything not set keeps a reason in yt["thumb"], so the bot chat gets the by-hand reminder."""
+    todo = {yt["id"]: (yt, cover) for yt, cover in waiting if yt.get("id")}
+    wait = ROUNDUP_YT_THUMB_WAIT_MINUTES * 60
+    deadline = min(time.time() + wait, JOB_START + JOB_SAFE_MINUTES * 60)
+    tok = None
+    while todo:
+        found = {}
+        try:
+            tok = tok or yt_token()
+            r = M.HTTP.get("https://www.googleapis.com/youtube/v3/videos", timeout=30,
+                           params={"part": "processingDetails", "id": ",".join(todo)},
+                           headers={"Authorization": f"Bearer {tok}"})
+            found = {i["id"]: (i.get("processingDetails") or {}).get("processingStatus")
+                     for i in r.json().get("items", [])}
+        except Exception as e:
+            log("YouTube processing check failed:", e)
+        for vid, status in found.items():
+            if vid not in todo:
+                continue
+            if status == "succeeded":
+                yt, cover = todo.pop(vid)
+                yt["thumb"] = youtube_set_thumbnail(tok, vid, cover)
+                log("YouTube thumbnail:", vid, yt["thumb"])
+            elif status in ("failed", "terminated"):
+                todo.pop(vid)[0]["thumb"] = f"YouTube could not process this video ({status})"
+        if todo and time.time() >= deadline:
+            for yt, _ in todo.values():
+                yt["thumb"] = "YouTube was still processing this video when the bot stopped waiting"
+            log("YouTube thumbnails: gave up waiting for", ", ".join(todo))
+            return
+        if todo:
+            time.sleep(20)
 
 
 # =============================================================================
@@ -442,7 +490,7 @@ def run(day_s, test=False):
         p["at"] = at
 
     # uploads (not in a test)
-    results = []
+    results, yt_waiting = [], []
     for p in parts_out:
         r = {"name": p["name"], "of": len(parts_out), "post_at": p["at"].isoformat(), "stories": len(p["posts"]),
              "seconds": round(p["seconds"], 1)}
@@ -460,7 +508,8 @@ def run(day_s, test=False):
                 r["fb"] = {"state": "off"}
             if ROUNDUP_YOUTUBE and YT_REFRESH_TOKEN:
                 try:
-                    r["yt"] = youtube_upload(p["video"], cover_tall, p["texts"], p["at"])
+                    r["yt"] = youtube_upload(p["video"], p["texts"], p["at"])
+                    yt_waiting.append((r["yt"], cover_tall))
                 except Exception as e:
                     log("YouTube roundup failed:", e)
                     r["yt"] = {"state": "error", "error": str(e)[:300]}
@@ -508,6 +557,10 @@ def run(day_s, test=False):
     M.tg("sendDocument", chat_id=ch, caption="📦 TikTok zip: one folder per part (slides in order + CAPTION.txt)"
                                               + ("" if full else " — slides too big, only covers + captions"),
          files={"document": (f"7seas_roundup_{day:%Y-%m-%d}.zip", data, "application/zip")})
+
+    # YouTube thumbnails last: the Shorts need time to process, and everything above is already safely sent
+    if yt_waiting:
+        youtube_thumbnails(yt_waiting)
 
     # thumbnails the bot could not set → ONE reminder per part in the bot chat: the cover + where to set it
     if not test:
@@ -573,7 +626,7 @@ def yt_test():
     at = (M.now_utc() + timedelta(days=7)).replace(minute=0, second=0, microsecond=0)
     texts = {"yt_title": "7 Seas News connection test (private, will be deleted)", "yt_description": "Test upload.",
              "yt_tags": ["test"]}
-    up = youtube_upload(video, jpg(cover, 85), texts, at)
+    up = youtube_upload(video, texts, at)
     tok = yt_token()
     j = M.HTTP.get("https://www.googleapis.com/youtube/v3/videos", timeout=30, params={"part": "status", "id": up["id"]},
                    headers={"Authorization": f"Bearer {tok}"}).json()

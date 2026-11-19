@@ -454,6 +454,7 @@ ROUNDUP_MUSIC = "off"                # "off" = only the bot's own sounds; or a f
                                      # royalty-free tracks you add (played quietly under the sounds)
 ROUNDUP_FACEBOOK = True              # upload each part as a Facebook Reel, scheduled at its time
 ROUNDUP_YOUTUBE = True               # upload each part as a YouTube Short (needs the YT_… secrets, see README)
+ROUNDUP_YT_THUMB_WAIT_MINUTES = 12   # wait up to this long for YouTube to finish processing, then set the thumbnails
 ROUNDUP_TIKTOK = True                # send the TikTok slides + title + caption to your content channel
                                      # (you post them in the TikTok app with a trending sound)
 TIKTOK_SLIDES_AS = "photos"          # "photos" = albums you can save on your phone; "files" = full quality files
