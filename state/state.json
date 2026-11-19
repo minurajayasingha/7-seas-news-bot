@@ -13178,7 +13178,13 @@
   "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
   "https://www.independent.co.uk/news/world/americas/crime/thomas-markle-fit-for-trial-mentally-competen-b3088332.html",
   "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
-  "https://www.theguardian.com/us-news/2026/nov/19/thomas-markle-mentally-competent"
+  "https://www.theguardian.com/us-news/2026/nov/19/thomas-markle-mentally-competent",
+  "https://www.newsweek.com/what-trump-has-said-about-ai-kill-switch-as-democrats-take-congress-12743122",
+  "https://www.axios.com/2026/11/19/gregory-meeks-congress-powers-trump-foreign-policy",
+  "https://www.foxnews.com/world/zelenskyy-presses-us-expanded-russia-talks-kushner-announces-breakthrough",
+  "https://www.washingtonexaminer.com/news/world/4809281/kushner-russia-comfortable-ukraine-security-guarantees-article-5-collective-defense/",
+  "https://abcnews.com/Politics/wireStory/judge-agriculture-secretarys-religious-emails-unconstitutional-138305215",
+  "https://www.nytimes.com/2026/11/19/us/politics/rollins-christian-messages.html"
  ],
  "recent_topics": [
   [
@@ -16626,17 +16632,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-19T23:22:20.447374+00:00",
+ "last_draft_at": "2026-11-19T23:34:37.899678+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T22:48:57.505492+00:00",
  "run_log": [
-  "11-19 20:57:13 listening done",
-  "11-19 20:57:13 run end after 697 s",
-  "11-19 21:00:41 run start",
-  "11-19 21:00:52 listening 11 min",
   "11-19 21:12:10 listening done",
   "11-19 21:12:10 run end after 688 s",
   "11-19 21:16:28 run start",
@@ -16672,7 +16674,11 @@
   "11-19 23:22:20 run start",
   "11-19 23:22:26 listening 11 min",
   "11-19 23:34:09 listening done",
-  "11-19 23:34:09 run end after 709 s"
+  "11-19 23:34:09 run end after 709 s",
+  "11-19 23:34:37 run start",
+  "11-19 23:38:41 listening 7 min",
+  "11-19 23:46:14 listening done",
+  "11-19 23:46:14 run end after 697 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
