@@ -1,98 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "585f28a769": {
-   "id": "585f28a769",
-   "headline": "Yemeni forces retreat from Bab el-Mandeb as Houthis advance",
-   "summary": "Military and government sources report that Houthi forces advanced to within 60 kilometres of Aden. The government withdrew its remaining forces from the Bab el-Mandeb Strait to defend its temporary southern capital.",
-   "label": "CONFLICT",
-   "hook": "Can government forces defend Aden against the advancing Houthi militia?",
-   "key_points": [
-    "Forces repositioned from Dhubab airport and surrounding areas.",
-    "The civil war balance tilts toward the Houthi militia.",
-    "The retreat affects the Yemeni government and Saudi Arabia."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Yemen",
-    "#Aden",
-    "#WorldNews"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "France 24",
-    "New York Times"
-   ],
-   "link": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say",
-   "links": [
-    [
-     "France 24",
-     "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden?traffic_source=rss"
-    ],
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Bab-el-Mandeb_Strait%2C_Red_Sea.jpg/1920px-Bab-el-Mandeb_Strait%2C_Red_Sea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Coordenação-Geral de Observação da Terra/INPE / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Yemeni forces retreat from Bab el-Mandeb as Houthis advance",
-    "people": [],
-    "image_query": "Aden coastline",
-    "image_queries": [
-     "Red Sea coast Yemen",
-     "Bab el-Mandeb Strait",
-     "Aden city view",
-     "Yemeni landscape"
-    ],
-    "image_style": "scene",
-    "location": "Aden, Yemen",
-    "nearby_city": "Sana'a, Yemen",
-    "event_query": "Bab el-Mandeb Strait military retreat",
-    "news_time": null,
-    "label": "CONFLICT"
-   },
-   "created_at": "2026-11-15T19:45:46.982931+00:00",
-   "news_time": "2026-11-15T15:42:25+00:00",
-   "news_latest": "2026-11-15T19:28:54+00:00",
-   "caption": "Yemeni forces retreat from Bab el-Mandeb as Houthis advance\n\nMilitary and government sources report that Houthi forces advanced to within 60 kilometres of Aden. The government withdrew its remaining forces from the Bab el-Mandeb Strait to defend its temporary southern capital.\n\n💬 Can government forces defend Aden against the advancing Houthi militia?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Yemen #Aden #WorldNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 604,
-   "tg_file_id": "AgACAgUAAxkDAAICXGr6C--KGx16i7p29nKIYuaiRDoLAAIMF2sbg6zQV-46ciP9jD1UAQADAgADdwADPQQ",
-   "queued_at": "2026-11-15T19:45:51.488457+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-15T19:45:51.488487+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122102634207548584",
-   "posted_at": "2026-11-15T19:45:51.810435+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 15 · 2:46 PM New York · 1:16 AM Sri Lanka\n\n<b>Yemeni forces retreat from Bab el-Mandeb as Houthis advance</b>\n<i>Al Jazeera, France 24, New York Times</i>\n🟢 <b>Latest:</b> 12:58 AM Sri Lanka (17 min ago) · first reported 9:12 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122102634207548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 393,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122102634207548584_3077321672616972",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-18T19:15:29.935446+00:00"
-  },
   "c3586948d6": {
    "id": "c3586948d6",
    "headline": "Jensen Huang agrees to testify before United States Congress",
@@ -13172,31 +13080,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-16T19:46:33.709630+00:00",
-   [
-    "accus",
-    "announc",
-    "axing",
-    "condemn",
-    "disband",
-    "disbandment",
-    "elit",
-    "excessiv",
-    "forc",
-    "group",
-    "mamdani",
-    "mayor",
-    "nypd",
-    "polic",
-    "respons",
-    "strategic",
-    "unit",
-    "using",
-    "zohran"
-   ],
-   "e5fa793a18"
-  ],
-  [
    "2026-11-16T20:16:10.312752+00:00",
    [
     "california",
@@ -16478,17 +16361,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-19T19:34:28.150425+00:00",
+ "last_draft_at": "2026-11-19T19:46:18.458562+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T19:34:04.857992+00:00",
  "run_log": [
-  "11-19 17:15:36 run start",
-  "11-19 17:15:54 listening 11 min",
-  "11-19 17:27:13 listening done",
-  "11-19 17:27:13 run end after 697 s",
   "11-19 17:30:48 run start",
   "11-19 17:32:45 listening 10 min",
   "11-19 17:42:25 listening done",
@@ -16524,7 +16403,11 @@
   "11-19 19:34:04 run start",
   "11-19 19:34:29 listening 11 min",
   "11-19 19:45:46 listening done",
-  "11-19 19:45:46 run end after 702 s"
+  "11-19 19:45:46 run end after 702 s",
+  "11-19 19:46:18 run start",
+  "11-19 19:46:38 listening 11 min",
+  "11-19 19:57:57 listening done",
+  "11-19 19:57:57 run end after 699 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
