@@ -11231,6 +11231,102 @@
     "shares": 0
    },
    "stats_at": "2026-11-19T04:00:43.756912+00:00"
+  },
+  "68abf1524d": {
+   "id": "68abf1524d",
+   "headline": "Elbridge Colby criticizes Ukraine long range strikes at NATO",
+   "summary": "U.S. under secretary of defense Elbridge Colby criticized Ukraine for long-range strikes against Russia during high-level talks in Brussels. Colby stated the strikes are ineffective and do not help blunt Russian advances. The remarks drew a rebuke from allies and sparked alarm.",
+   "label": "DIPLOMACY",
+   "hook": "Should the US criticize Ukrainian strikes against Russia during international talks?",
+   "key_points": [
+    "Colby spoke at NATO headquarters on Tuesday.",
+    "The Pentagon strategist reportedly walked out of NATO talks.",
+    "Brussels meetings involved high-level discussions."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#NATO",
+    "#Ukraine",
+    "#USPolitics"
+   ],
+   "sources": [
+    "The Hill",
+    "The Independent"
+   ],
+   "link": "https://thehill.com/policy/international/6229395-colby-criticizes-ukraine-long-range-strikes/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/policy/international/6229395-colby-criticizes-ukraine-long-range-strikes/"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/europe/pentagon-elbridge-colby-walks-out-nato-talks-ukraine-b3087554.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Brussels_NATO_Headquarters.jpg/1920px-Brussels_NATO_Headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Ad Meskens / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "NATO headquarters Brussels aerial view"
+     }
+    ],
+    "inset": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Elbridge_A._Colby_%282%29.jpg/1280px-Elbridge_A._Colby_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credit": "U.S. Department of Defense / Wikimedia Commons (Public domain)",
+     "short": "WIKIMEDIA COMMONS",
+     "score": 10,
+     "shows": "Elbridge Colby portrait"
+    }
+   },
+   "img_post": {
+    "headline": "Elbridge Colby criticizes Ukraine long range strikes at NATO",
+    "people": [
+     "Elbridge Colby"
+    ],
+    "image_query": "NATO headquarters Brussels",
+    "image_queries": [
+     "NATO building",
+     "Brussels cityscape",
+     "EU headquarters",
+     "Pentagon building"
+    ],
+    "image_style": "scene",
+    "location": "Brussels, Belgium",
+    "nearby_city": "Brussels, Belgium",
+    "event_query": "NATO headquarters Brussels talks",
+    "topic_photo": "conference room",
+    "label": "DIPLOMACY",
+    "action_subject": "",
+    "news_time": "2026-11-18T23:00:27+00:00"
+   },
+   "created_at": "2026-11-19T04:13:50.214746+00:00",
+   "news_time": "2026-11-18T23:00:27+00:00",
+   "news_latest": "2026-11-19T03:59:49+00:00",
+   "importance": 7,
+   "caption": "Elbridge Colby criticizes Ukraine long range strikes at NATO\n\nU.S. under secretary of defense Elbridge Colby criticized Ukraine for long-range strikes against Russia during high-level talks in Brussels. Colby stated the strikes are ineffective and do not help blunt Russian advances. The remarks drew a rebuke from allies and sparked alarm.\n\n💬 Should the US criticize Ukrainian strikes against Russia during international talks?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#NATO #Ukraine #USPolitics #7SeasNews",
+   "photo_line": "📷 10/10 NATO headquarters Brussels aerial view",
+   "status": "posted",
+   "tg_message_id": 812,
+   "tg_file_id": "AgACAgUAAxkDAAIDLGr-d4BrCllSo4UboLrwHcbT9sXKAAI0FWsb3mnwV8WGjEtNHQTZAQADAgADdwADPQQ",
+   "queued_at": "2026-11-19T04:13:53.185058+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-19T04:13:53.185093+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122105933559548584",
+   "posted_at": "2026-11-19T04:13:53.575778+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 18 · 11:13 PM New York · 9:43 AM Sri Lanka\n\n<b>Elbridge Colby criticizes Ukraine long range strikes at NATO</b>\n<i>The Hill, The Independent</i>\n🟢 <b>Latest:</b> 9:29 AM Sri Lanka (14 min ago) · first reported 4:30 AM\n📷 10/10 NATO headquarters Brussels aerial view\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122105933559548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 519,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122105933559548584_1937892890705837"
   }
  },
  "seen_links": [
@@ -12794,7 +12890,12 @@
   "https://thehill.com/homenews/campaign/6184657-nick-begich-alaska-house-district/",
   "https://www.nbcnews.com/video/grand-theft-auto-vi-launches-after-13-years-of-development-273781317952",
   "https://www.aljazeera.com/video/newsfeed/2026/11/18/gta-6-launches-after-13-year-wait-breaking-pre-order-records?traffic_source=rss",
-  "https://www.nytimes.com/2026/11/18/world/europe/grand-theft-auto-america-scotland-global-reaction.html"
+  "https://www.nytimes.com/2026/11/18/world/europe/grand-theft-auto-america-scotland-global-reaction.html",
+  "https://thehill.com/homenews/administration/6229375-trump-downplays-outage-concerns/",
+  "https://www.newsweek.com/trump-tells-americans-relax-after-wave-of-tech-chaos-12737828",
+  "https://www.independent.co.uk/news/world/americas/doomsday-prepping-costco-tech-outages-b3087532.html",
+  "https://thehill.com/policy/international/6229395-colby-criticizes-ukraine-long-range-strikes/",
+  "https://www.independent.co.uk/news/world/europe/pentagon-elbridge-colby-walks-out-nato-talks-ukraine-b3087554.html"
  ],
  "recent_topics": [
   [
@@ -16066,19 +16167,62 @@
     "wait"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-19T04:13:13.072567+00:00",
+   [
+    "american",
+    "chao",
+    "doomsday",
+    "food",
+    "outag",
+    "peopl",
+    "prep",
+    "recent",
+    "relax",
+    "rush",
+    "stockpil",
+    "stor",
+    "str",
+    "surplu",
+    "tech",
+    "tell",
+    "trump",
+    "water",
+    "wav"
+   ],
+   "skipped"
+  ],
+  [
+   "2026-11-19T04:13:53.184879+00:00",
+   [
+    "chid",
+    "colby",
+    "draw",
+    "elbridg",
+    "german",
+    "insid",
+    "long-rang",
+    "nato",
+    "pentagon",
+    "rebuk",
+    "russia",
+    "strategist",
+    "strik",
+    "talk",
+    "ukrain",
+    "walk"
+   ],
+   "68abf1524d"
   ]
  ],
- "last_draft_at": "2026-11-19T04:01:22.694365+00:00",
+ "last_draft_at": "2026-11-19T04:12:58.191515+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T04:00:43.756912+00:00",
  "run_log": [
-  "11-19 01:42:53 listening done",
-  "11-19 01:42:53 run end after 690 s",
-  "11-19 01:45:34 run start",
-  "11-19 01:46:06 listening 11 min",
   "11-19 01:57:00 listening done",
   "11-19 01:57:00 run end after 686 s",
   "11-19 02:00:56 run start",
@@ -16114,13 +16258,15 @@
   "11-19 04:00:43 run start",
   "11-19 04:01:31 listening 11 min",
   "11-19 04:12:25 listening done",
-  "11-19 04:12:25 run end after 701 s"
+  "11-19 04:12:25 run end after 701 s",
+  "11-19 04:12:57 run start",
+  "11-19 04:14:08 listening 10 min",
+  "11-19 04:24:36 listening done",
+  "11-19 04:24:36 run end after 699 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Pope_Leo_XIV_2_%28cropped%29.png/1280px-Pope_Leo_XIV_2_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/0/0a/Courtroom_at_the_United_States_Courthouse_in_Augusta%2C_GA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/COP31_-_Gavin_Newsom_04.jpg/1280px-COP31_-_Gavin_Newsom_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/d/da/Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/3/37/US_Capitol_Dome_High_Res_Jan_2006.jpg",
@@ -16158,61 +16304,11 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Code_on_computer_monitor_%28Unsplash%29.jpg/1920px-Code_on_computer_monitor_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Elon_Musk_Colorado_2022.jpg/1280px-Elon_Musk_Colorado_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Example_voting_booth_from_USA_%28Connecticut%29.jpg/1920px-Example_voting_booth_from_USA_%28Connecticut%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Downtown_Port_au_Prince_%284311459711%29.jpg/1920px-Downtown_Port_au_Prince_%284311459711%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Downtown_Port_au_Prince_%284311459711%29.jpg/1920px-Downtown_Port_au_Prince_%284311459711%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Brussels_NATO_Headquarters.jpg/1920px-Brussels_NATO_Headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Elbridge_A._Colby_%282%29.jpg/1280px-Elbridge_A._Colby_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
-   "trump": {
-    "t": "2026-11-11T22:45:32.278741+00:00",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Daniel Torok / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Donald_J._Trump_Presidential_Twitter_Library_%2881262%29.jpg/1280px-Donald_J._Trump_Presidential_Twitter_Library_%2881262%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Rhododendrites / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Shealeah Craighead / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/President_Trump_Visits_St._John%27s_Episcopal_Church_%2849963649028%29.jpg/1280px-President_Trump_Visits_St._John%27s_Episcopal_Church_%2849963649028%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "The White House from Washington, DC / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Trump_Tower_Vancouver%2C_August_2016.jpg/1280px-Trump_Tower_Vancouver%2C_August_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "SounderBruce / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Gantry_Plaza_td_%282019-06-08%29_128_-_Stage_II%2C_Trump_World_Tower_%28Crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Tdorante10 / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/President_Trump_Returns_to_D.C._%2848579923202%29.jpg/1280px-President_Trump_Returns_to_D.C._%2848579923202%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "The White House from Washington, DC / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Master Sgt. Michel Sauret / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     }
-    ]
-   },
    "wes moore": {
     "t": "2026-11-11T23:15:34.228130+00:00",
     "photos": [
@@ -19636,10 +19732,20 @@
      }
     ],
     "v": 2
+   },
+   "elbridge colby": {
+    "t": "2026-11-19T04:13:38.922063+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Elbridge_A._Colby_%282%29.jpg/1280px-Elbridge_A._Colby_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Department of Defense / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ],
+    "v": 2
    }
   },
   "recent_ideas": [
-   "voters at polling station",
    "container port cranes",
    "missile strike",
    "us capitol building",
@@ -19650,7 +19756,8 @@
    "oval office",
    "soldiers",
    "computer code on screen",
-   "voting booth"
+   "voting booth",
+   "nato headquarters brussels"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -20297,6 +20404,26 @@
     "s": 5,
     "w": "street view in haiti",
     "p": "shows a street scene rather than specific airstrike damage"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/IMG7218_Notarzteinsatzfahrzeug_Wei%C3%9Fes_Kreuz_Bozen%2C_Mercedes-Benz_M-Class%2C_WK419%2C_Front_Left%2C_2019.jpg/1920px-IMG7218_Notarzteinsatzfahrzeug_Wei%C3%9Fes_Kreuz_Bozen%2C_Mercedes-Benz_M-Class%2C_WK419%2C_Front_Left%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|bf3df969": {
+    "s": 0,
+    "w": "emergency response vehicle",
+    "p": "does not show NATO headquarters or Brussels talks"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Lincs_%26_Notts_Air_Ambulance_Crew.jpg/1920px-Lincs_%26_Notts_Air_Ambulance_Crew.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|bf3df969": {
+    "s": 0,
+    "w": "emergency medical crew and helicopter",
+    "p": "Unrelated to NATO headquarters Brussels talks"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Elbridge_A._Colby_%282%29.jpg/1280px-Elbridge_A._Colby_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Elbridge Colby": {
+    "s": 10,
+    "w": "Elbridge Colby portrait",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Brussels_NATO_Headquarters.jpg/1920px-Brussels_NATO_Headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|bf3df969": {
+    "s": 10,
+    "w": "NATO headquarters Brussels aerial view",
+    "p": ""
    }
   }
  },
@@ -20308,10 +20435,10 @@
   "2026-11-15": 19,
   "2026-11-16": 32,
   "2026-11-17": 35,
-  "2026-11-18": 21
+  "2026-11-18": 22
  },
- "last_auto_at": "2026-11-19T02:31:16.627896+00:00",
- "last_post_at": "2026-11-19T02:31:33.989038+00:00",
+ "last_auto_at": "2026-11-19T04:13:53.575778+00:00",
+ "last_post_at": "2026-11-19T04:13:57.959109+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
