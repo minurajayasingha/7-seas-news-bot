@@ -11434,6 +11434,94 @@
    "fb_story_id": "1027434100377828",
    "fb_reel_id": "1174200681744964",
    "reel_status": "live"
+  },
+  "dab98dd23c": {
+   "id": "dab98dd23c",
+   "headline": "Skyscraper damaged in Riyadh as Saudi Arabia reports Houthi attacks",
+   "summary": "A skyscraper in the capital of Saudi Arabia sustained damage following reported attacks by Yemen's Houthis. Witnesses stated that the Public Investment Fund Tower suffered damage across multiple floors with blown-out windows.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Explosions and smoke were reported near the airport.",
+    "Authorities warned of a potential aerial threat.",
+    "The Public Investment Fund Tower showcases economic ambitions."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#WorldNews",
+    "#SaudiArabia",
+    "#Yemen"
+   ],
+   "sources": [
+    "France 24",
+    "The Independent"
+   ],
+   "link": "https://www.france24.com/en/middle-east/20261119-skyscraper-in-riyadh-damaged-as-saudi-arabia-reports-surge-in-new-houthi-attacks",
+   "links": [
+    [
+     "France 24",
+     "https://www.france24.com/en/middle-east/20261119-skyscraper-in-riyadh-damaged-as-saudi-arabia-reports-surge-in-new-houthi-attacks"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/middle-east/riyadh-explosion-blast-airport-saudi-arabia-houthis-missile-b3087628.html"
+    ]
+   ],
+   "bg": {
+    "type": "map",
+    "photos": [],
+    "location": "Riyadh, Saudi Arabia",
+    "lat": 24.6383,
+    "lon": 46.715,
+    "country": "Saudi Arabia",
+    "state": "",
+    "_loaded": 0
+   },
+   "img_post": {
+    "headline": "Skyscraper damaged in Riyadh as Saudi Arabia reports Houthi attacks",
+    "people": [],
+    "image_query": "Riyadh skyline",
+    "image_queries": [
+     "Public Investment Fund Tower",
+     "Riyadh airport",
+     "Saudi Arabia capital",
+     "Riyadh city"
+    ],
+    "image_style": "incident",
+    "location": "Riyadh, Saudi Arabia",
+    "nearby_city": "Riyadh, Saudi Arabia",
+    "event_query": "Riyadh skyscraper damage",
+    "topic_photo": "skyscraper building",
+    "label": "CONFLICT",
+    "action_subject": "damaged skyscraper",
+    "news_time": "2026-11-19T05:15:24+00:00"
+   },
+   "created_at": "2026-11-19T08:14:10.946540+00:00",
+   "news_time": "2026-11-19T05:15:24+00:00",
+   "news_latest": "2026-11-19T07:58:16+00:00",
+   "importance": 8,
+   "caption": "🚨 BREAKING: Skyscraper damaged in Riyadh as Saudi Arabia reports Houthi attacks\n\nA skyscraper in the capital of Saudi Arabia sustained damage following reported attacks by Yemen's Houthis. Witnesses stated that the Public Investment Fund Tower suffered damage across multiple floors with blown-out windows.\n\nWhat we know so far:\n• Explosions and smoke were reported near the airport.\n• Authorities warned of a potential aerial threat.\n• The Public Investment Fund Tower showcases economic ambitions.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WorldNews #SaudiArabia #Yemen #7SeasNews",
+   "photo_line": "📷 news map (no fitting photo)",
+   "status": "posted",
+   "tg_message_id": 817,
+   "tg_file_id": "AgACAgUAAxkDAAIDMWr-r9W_OBp9wIF48qM9UmHX-4EQAALYFWsb3mnwV0lJ4NlvWaiDAQADAgADdwADPQQ",
+   "queued_at": "2026-11-19T08:14:13.376183+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-19T08:14:13.376216+00:00",
+   "post_label": "🤖 Auto-posting + Reel",
+   "fb_post_id": "1413030521900096_122106081777548584",
+   "posted_at": "2026-11-19T08:14:13.712362+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 19 · 3:14 AM New York · 1:44 PM Sri Lanka\n\n<b>Skyscraper damaged in Riyadh as Saudi Arabia reports Houthi attacks</b>\n<i>France 24, The Independent</i>\n🟢 <b>Latest:</b> 1:28 PM Sri Lanka (16 min ago) · first reported 10:45 AM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122106081777548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 524,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122106081777548584_1678088233724811",
+   "fb_story_id": "1841768707161374",
+   "fb_reel_id": "1186329490388986",
+   "reel_status": "live"
   }
  },
  "seen_links": [
@@ -13018,7 +13106,9 @@
   "https://abcnews.com/International/wireStory/north-korea-expanding-original-uranium-enrichment-facility-nuclear-138276975",
   "https://www.euronews.com/2026/11/19/north-korea-expanding-original-uranium-enrichment-facility-un-nuclear-watchdog-says",
   "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-  "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-crimea-bridge-putin-zelensky-b3087642.html"
+  "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-crimea-bridge-putin-zelensky-b3087642.html",
+  "https://www.france24.com/en/middle-east/20261119-skyscraper-in-riyadh-damaged-as-saudi-arabia-reports-surge-in-new-houthi-attacks",
+  "https://www.independent.co.uk/news/world/middle-east/riyadh-explosion-blast-airport-saudi-arabia-houthis-missile-b3087628.html"
  ],
  "recent_topics": [
   [
@@ -16420,19 +16510,39 @@
     "without"
    ],
    "8944b9bf2f"
+  ],
+  [
+   "2026-11-19T08:14:13.376032+00:00",
+   [
+    "airport",
+    "alert",
+    "arabia",
+    "attack",
+    "damag",
+    "explosion",
+    "extremely",
+    "houthi",
+    "loud",
+    "missil",
+    "near",
+    "riyadh",
+    "saudi",
+    "skyscraper",
+    "smok",
+    "surg",
+    "threat",
+    "trigger"
+   ],
+   "dab98dd23c"
   ]
  ],
- "last_draft_at": "2026-11-19T08:01:31.968500+00:00",
+ "last_draft_at": "2026-11-19T08:13:05.038044+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T08:01:04.980386+00:00",
  "run_log": [
-  "11-19 05:15:49 run start",
-  "11-19 05:16:22 listening 11 min",
-  "11-19 05:27:16 listening done",
-  "11-19 05:27:16 run end after 687 s",
   "11-19 05:30:44 run start",
   "11-19 05:31:03 listening 11 min",
   "11-19 05:42:22 listening done",
@@ -16468,7 +16578,11 @@
   "11-19 08:01:04 run start",
   "11-19 08:05:24 listening 7 min",
   "11-19 08:12:31 listening done",
-  "11-19 08:12:31 run end after 686 s"
+  "11-19 08:12:31 run end after 686 s",
+  "11-19 08:13:04 run start",
+  "11-19 08:14:51 listening 10 min",
+  "11-19 08:24:30 listening done",
+  "11-19 08:24:30 run end after 686 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -20660,6 +20774,21 @@
     "s": 0,
     "w": "streetcar on city street",
     "p": "shows a tram on a street, not the Crimean Bridge"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/One_57_Hurricane_Sandy.jpg/1920px-One_57_Hurricane_Sandy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|95a57575": {
+    "s": 0,
+    "w": "damaged crane and skyscraper",
+    "p": "Wrong specific event / different context"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Incense_souk_in_downtown_Riyadh_%2812754047044%29.jpg/1920px-Incense_souk_in_downtown_Riyadh_%2812754047044%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|95a57575": {
+    "s": 0,
+    "w": "street market in Riyadh",
+    "p": "shows a street market instead of a damaged skyscraper"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Batha_Street%2C_Riyadh%2C_Saudi_Arabia.JPG/1920px-Batha_Street%2C_Riyadh%2C_Saudi_Arabia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|95a57575": {
+    "s": 3,
+    "w": "street in Riyadh with tall building",
+    "p": "shows calm street instead of attack damage"
    }
   }
  },
@@ -20671,10 +20800,10 @@
   "2026-11-16": 32,
   "2026-11-17": 35,
   "2026-11-18": 22,
-  "2026-11-19": 3
+  "2026-11-19": 4
  },
- "last_auto_at": "2026-11-19T08:04:34.340944+00:00",
- "last_post_at": "2026-11-19T08:04:38.791730+00:00",
+ "last_auto_at": "2026-11-19T08:14:13.712362+00:00",
+ "last_post_at": "2026-11-19T08:14:17.701527+00:00",
  "reels_count": {
   "2026-11-13": 10,
   "2026-11-14": 8,
@@ -20682,7 +20811,7 @@
   "2026-11-16": 10,
   "2026-11-17": 3,
   "2026-11-18": 3,
-  "2026-11-19": 1
+  "2026-11-19": 2
  },
  "roundup": {
   "2026-11-16": {
@@ -21161,7 +21290,7 @@
    }
   },
   "2026-11-18": {
-   "status": "asked",
+   "status": "building",
    "plan": {
     "parts": [
      {
@@ -21305,7 +21434,35 @@
    ],
    "asked_at": "2026-11-19T05:01:48.479793+00:00",
    "test": false,
-   "msg_id": 813
+   "msg_id": 813,
+   "approved_by": "auto",
+   "approved_at": "2026-11-19T08:13:04.506049+00:00",
+   "dispatch_at": "2026-11-19T08:13:04.506055+00:00",
+   "dispatch_tries": 1,
+   "headlines": [
+    "Ukraine strikes two Russian oil refineries and Crimean Bridge",
+    "Israeli military launches ground operation across Gaza cease-fire line",
+    "Thousands rally in Haiti following Salvadoran troop deployment",
+    "US faces potential sanctions concerns over upcoming ICJ genocide ruling",
+    "Democrat Mary Peltola wins Alaska Senate race",
+    "Former Nvidia chief Jensen Huang agrees to testify to Congress",
+    "House Democrats meet to nominate Hakeem Jeffries for speaker",
+    "House Democrats investigate Howard Lutnick and Nvidia policies",
+    "US Defence Secretary Pete Hegseth visits Caracas and announces military cooperation",
+    "White House rejects Democratic demands for Trump circle oversight",
+    "Sen Ron Johnson calls Social Security a Ponzi scheme",
+    "Markwayne Mullin testifies before House Homeland Security Committee",
+    "Marco Rubio says recent US tech outages lack nefarious links",
+    "Senators block presidential nominees for court and science agency",
+    "Department of Justice issues subpoenas in Alaska election investigation",
+    "Trump arrives in China for meeting with Putin and Xi",
+    "Anthropic sets initial public offering price at 83 dollars a share",
+    "UK inflation rises to 3.6 percent in October",
+    "European Commission proposes additional financial support to Ukraine",
+    "US indicts alleged Russian agent for spying on defense firm",
+    "Florida pastor convicted in plot to kill Haitian president",
+    "Elbridge Colby criticizes Ukraine long range strikes at NATO"
+   ]
   }
  },
  "run_once_done": [
