@@ -1,90 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "ed001dc001": {
-   "id": "ed001dc001",
-   "headline": "Iran launches air attacks against Bahrain territory",
-   "summary": "Bahrain accuses Iran of targeting its territory to settle scores with the United States. According to Tehran, the air attacks against nations cooperating with the US comply with international law.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "Attacks resume following a two-month lull.",
-    "US and Iran peace talks appear stalled."
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#Bahrain",
-    "#Iran",
-    "#WorldNews"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "New York Times"
-   ],
-   "link": "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us?traffic_source=rss",
-   "links": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us?traffic_source=rss"
-    ],
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html"
-    ]
-   ],
-   "bg": {
-    "type": "incident",
-    "photos": [],
-    "location": "Bahrain"
-   },
-   "img_post": {
-    "headline": "Iran launches air attacks against Bahrain territory",
-    "people": [],
-    "image_query": "Manama skyline",
-    "image_queries": [
-     "Manama cityscape",
-     "Bahrain capital",
-     "Persian Gulf",
-     "Tehran skyline"
-    ],
-    "image_style": "incident",
-    "location": "Bahrain",
-    "nearby_city": "Manama, Bahrain",
-    "event_query": "Bahrain air attack",
-    "news_time": null,
-    "label": "CONFLICT"
-   },
-   "created_at": "2026-11-15T13:02:02.592445+00:00",
-   "news_time": "2026-11-15T12:07:04+00:00",
-   "news_latest": "2026-11-15T12:36:19+00:00",
-   "caption": "🚨 BREAKING: Iran launches air attacks against Bahrain territory\n\nBahrain accuses Iran of targeting its territory to settle scores with the United States. According to Tehran, the air attacks against nations cooperating with the US comply with international law.\n\nWhat we know so far:\n• Attacks resume following a two-month lull.\n• US and Iran peace talks appear stalled.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Bahrain #Iran #WorldNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 581,
-   "tg_file_id": "AgACAgUAAxkDAAICRWr5rU_ZrIHzU97_SKSV69UUXRs7AAIhFGsbT5fRV_AdLRtiM0vvAQADAgADdwADPQQ",
-   "queued_at": "2026-11-15T13:02:07.520309+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-15T13:02:07.520339+00:00",
-   "post_label": "🤖 Auto-posting + Reel",
-   "fb_post_id": "1413030521900096_122102285553548584",
-   "posted_at": "2026-11-15T13:02:07.888592+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 15 · 8:02 AM New York · 6:32 PM Sri Lanka\n\n<b>Iran launches air attacks against Bahrain territory</b>\n<i>Al Jazeera, New York Times</i>\n🟢 <b>Latest:</b> 6:06 PM Sri Lanka (26 min ago) · first reported 5:37 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122102285553548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 380,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122102285553548584_2643081059484064",
-   "fb_story_id": "1608961267174619",
-   "fb_reel_id": "1850994843698091",
-   "reel_status": "live",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-18T12:15:43.626712+00:00"
-  },
   "3c65072ae9": {
    "id": "3c65072ae9",
    "headline": "Israeli strike in Gaza kills Hamas commander Samir Abu Younis",
@@ -13036,26 +12952,11 @@
   "https://www.newsweek.com/army-issues-evacuation-warning-massive-toxic-lead-dust-cloud-12735122",
   "https://www.independent.co.uk/news/world/americas/army-iowa-middletown-des-moines-environmental-protection-agency-b3087658.html",
   "https://www.newsweek.com/scientists-discover-lost-ancient-emperor-arch-echoing-trumps-dc-design-12733092",
-  "https://www.foxnews.com/politics/trumps-massive-dc-triumphal-arch-project-dealt-another-blow-federal-judge"
+  "https://www.foxnews.com/politics/trumps-massive-dc-triumphal-arch-project-dealt-another-blow-federal-judge",
+  "https://www.newsweek.com/map-shows-states-gas-prices-falling-fastest-since-midterms-12739722",
+  "https://www.washingtonexaminer.com/policy/energy-and-environment/4808136/why-gas-diesel-prices-declined-after-midterms/"
  ],
  "recent_topics": [
-  [
-   "2026-11-16T13:01:19.726978+00:00",
-   [
-    "allianc",
-    "fac",
-    "maha-maga",
-    "marco",
-    "matter",
-    "miller",
-    "rubio",
-    "stephen",
-    "surpris",
-    "trump",
-    "voter"
-   ],
-   "f3b5c143f4"
-  ],
   [
    "2026-11-16T13:18:11.106135+00:00",
    [
@@ -16418,19 +16319,33 @@
     "trump"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-19T13:01:18.071156+00:00",
+   [
+    "declin",
+    "diesel",
+    "election",
+    "fall",
+    "fastest",
+    "gas",
+    "map",
+    "midterm",
+    "pric",
+    "show",
+    "sinc",
+    "stat"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-19T12:45:34.785301+00:00",
+ "last_draft_at": "2026-11-19T13:00:58.623100+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T12:30:52.831312+00:00",
  "run_log": [
-  "11-19 09:40:03 run start",
-  "11-19 09:40:13 listening 11 min",
-  "11-19 09:51:33 listening done",
-  "11-19 09:51:33 run end after 689 s",
   "11-19 09:52:13 run start",
   "11-19 09:52:23 listening 11 min",
   "11-19 10:03:43 listening done",
@@ -16466,7 +16381,11 @@
   "11-19 12:45:34 run start",
   "11-19 12:45:44 listening 11 min",
   "11-19 12:57:03 listening done",
-  "11-19 12:57:03 run end after 688 s"
+  "11-19 12:57:03 run end after 688 s",
+  "11-19 13:00:57 run start",
+  "11-19 13:01:18 listening 11 min",
+  "11-19 13:12:38 listening done",
+  "11-19 13:12:38 run end after 701 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -21416,7 +21335,11 @@
     "US indicts alleged Russian agent for spying on defense firm",
     "Florida pastor convicted in plot to kill Haitian president",
     "Elbridge Colby criticizes Ukraine long range strikes at NATO"
-   ]
+   ],
+   "done": {
+    "tt1": true,
+    "log1": true
+   }
   }
  },
  "run_once_done": [
