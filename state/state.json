@@ -1,95 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "4457075b0a": {
-   "id": "4457075b0a",
-   "headline": "Prince Harry meets wounded veterans in Ukraine",
-   "summary": "Prince Harry traveled to Ukraine for his fourth visit since 2022 to meet wounded veterans. During the trip, he attended wheelchair rugby competitions and met participants involved with the Invictus Games.",
-   "label": "WORLD",
-   "hook": "Will these adaptive sports programs expand further for recovering veterans?",
-   "key_points": [
-    "The royal made a surprise visit.",
-    "He stated he took a risk.",
-    "Events included wheelchair rugby matches."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#PrinceHarry",
-    "#Ukraine",
-    "#InvictusGames"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "Kyiv Independent"
-   ],
-   "link": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss",
-   "links": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss"
-    ],
-    [
-     "Kyiv Independent",
-     "https://kyivindependent.com/prince-harry-visits-lviv-to-support-ukrainian-veterans-at-invictus-games/"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Prince_Harry_at_Canterbury_University_%2817361413549%29.jpg/1280px-Prince_Harry_at_Canterbury_University_%2817361413549%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "KoenbrNZ / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Prince Harry meets wounded veterans in Ukraine",
-    "people": [
-     "Prince Harry"
-    ],
-    "image_query": "Lviv city street",
-    "image_queries": [
-     "sports arena interior",
-     "rehabilitation center building",
-     "Lviv cityscape",
-     "adaptive sports equipment"
-    ],
-    "image_style": "person",
-    "location": "Lviv, Ukraine",
-    "nearby_city": "Kyiv, Ukraine",
-    "event_query": "Invictus Games wheelchair rugby",
-    "news_time": null,
-    "label": "WORLD"
-   },
-   "created_at": "2026-11-15T18:45:53.083100+00:00",
-   "news_time": "2026-11-15T17:05:00+00:00",
-   "news_latest": "2026-11-15T18:31:52+00:00",
-   "caption": "Prince Harry meets wounded veterans in Ukraine\n\nPrince Harry traveled to Ukraine for his fourth visit since 2022 to meet wounded veterans. During the trip, he attended wheelchair rugby competitions and met participants involved with the Invictus Games.\n\n💬 Will these adaptive sports programs expand further for recovering veterans?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#PrinceHarry #Ukraine #InvictusGames #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 601,
-   "tg_file_id": "AgACAgUAAxkDAAICWWr5_edJAaXYPGmQbKYEj_-e2PnCAALoFmsbg6zQVyIe_ltqpgS1AQADAgADdwADPQQ",
-   "queued_at": "2026-11-15T18:45:59.735429+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-15T18:45:59.735454+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122102589459548584",
-   "posted_at": "2026-11-15T18:46:00.034875+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 15 · 1:46 PM New York · 12:16 AM Sri Lanka\n\n<b>Prince Harry meets wounded veterans in Ukraine</b>\n<i>Al Jazeera, Kyiv Independent</i>\n🟢 <b>Latest:</b> 12:01 AM Sri Lanka (14 min ago) · first reported 10:35 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122102589459548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 390,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122102589459548584_1682381140353872",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-18T18:17:46.780171+00:00"
-  },
   "585f28a769": {
    "id": "585f28a769",
    "headline": "Yemeni forces retreat from Bab el-Mandeb as Houthis advance",
@@ -16656,17 +16567,13 @@
    "94c3d50906"
   ]
  ],
- "last_draft_at": "2026-11-19T18:31:41.832589+00:00",
+ "last_draft_at": "2026-11-19T18:45:35.975512+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T18:31:02.534170+00:00",
  "run_log": [
-  "11-19 16:18:31 run start",
-  "11-19 16:21:02 listening 9 min",
-  "11-19 16:30:16 listening done",
-  "11-19 16:30:16 run end after 705 s",
   "11-19 16:30:56 run start",
   "11-19 16:33:38 listening 9 min",
   "11-19 16:42:26 listening done",
@@ -16702,7 +16609,11 @@
   "11-19 18:31:02 run start",
   "11-19 18:35:02 listening 7 min",
   "11-19 18:42:35 listening done",
-  "11-19 18:42:35 run end after 693 s"
+  "11-19 18:42:35 run end after 693 s",
+  "11-19 18:45:35 run start",
+  "11-19 18:45:44 listening 11 min",
+  "11-19 18:57:02 listening done",
+  "11-19 18:57:02 run end after 686 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
