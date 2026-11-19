@@ -13203,7 +13203,12 @@
   "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
   "https://kyivindependent.com/breaking-dutch-embassy-damaged-in-russian-drone-strike-on-kyiv/",
   "https://www.washingtonpost.com/nation/2026/11/19/new-proposed-change-snap-threatens-free-school-meals-17-million-children/",
-  "https://www.nytimes.com/2026/11/19/us/politics/kirkland-ellis-law-firm-trump.html"
+  "https://www.nytimes.com/2026/11/19/us/politics/kirkland-ellis-law-firm-trump.html",
+  "https://www.cbsnews.com/news/bill-essayli-justice-department-mar-a-lago-trump-documents-case/",
+  "https://www.independent.co.uk/news/world/americas/us-politics/trump-doj-midterms-election-fraud-cases-b3088073.html",
+  "https://www.nytimes.com/2026/11/19/us/politics/trump-mar-a-lago-search-bill-essayli.html",
+  "https://www.independent.co.uk/news/world/americas/crime/susan-smith-sons-car-south-carolina-lake-b3088099.html",
+  "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss"
  ],
  "recent_topics": [
   [
@@ -16555,17 +16560,13 @@
    "a5d8540347"
   ]
  ],
- "last_draft_at": "2026-11-19T16:31:40.196231+00:00",
+ "last_draft_at": "2026-11-19T16:46:02.509671+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T16:30:57.361596+00:00",
  "run_log": [
-  "11-19 14:25:42 run start",
-  "11-19 14:26:21 listening 11 min",
-  "11-19 14:37:16 listening done",
-  "11-19 14:37:16 run end after 693 s",
   "11-19 14:38:02 run start",
   "11-19 14:38:20 listening 11 min",
   "11-19 14:49:39 listening done",
@@ -16601,7 +16602,11 @@
   "11-19 16:30:56 run start",
   "11-19 16:33:38 listening 9 min",
   "11-19 16:42:26 listening done",
-  "11-19 16:42:26 run end after 689 s"
+  "11-19 16:42:26 run end after 689 s",
+  "11-19 16:46:02 run start",
+  "11-19 16:47:18 listening 10 min",
+  "11-19 16:57:49 listening done",
+  "11-19 16:57:49 run end after 706 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
