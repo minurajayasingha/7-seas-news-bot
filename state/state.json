@@ -13134,35 +13134,11 @@
   "https://www.dw.com/en/eu-commission-confirms-it-was-targeted-in-cyberattack-using-ai-tools/a-79993016?maca=en-rss-en-world-4025-rdf",
   "https://abcnews.com/International/wireStory/cyberattack-artificial-intelligence-targeted-eu-october-official-138284407",
   "https://www.theguardian.com/us-news/2026/nov/19/trump-apec-asleep-china",
-  "https://www.independent.co.uk/news/world/americas/us-politics/trump-escalator-holding-hands-china-xi-jinping-b3088089.html"
+  "https://www.independent.co.uk/news/world/americas/us-politics/trump-escalator-holding-hands-china-xi-jinping-b3088089.html",
+  "https://www.washingtonexaminer.com/sports/4808788/interior-department-deal-makeover-rock-creek-tennis-center-dc/",
+  "https://thehill.com/policy/sports-gaming/6230532-mark-ein-rock-creek-renovation/"
  ],
  "recent_topics": [
-  [
-   "2026-11-16T17:46:18.194648+00:00",
-   [
-    "airport",
-    "arkansa",
-    "ban",
-    "caus",
-    "chao",
-    "disruption",
-    "down",
-    "flight",
-    "level",
-    "nation",
-    "normal",
-    "return",
-    "router",
-    "shut",
-    "singl",
-    "sky",
-    "slowly",
-    "take-off",
-    "travel",
-    "weekend"
-   ],
-   "3e8f4b649f"
-  ],
   [
    "2026-11-16T18:32:52.170079+00:00",
    [
@@ -16516,19 +16492,39 @@
     "using"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-19T17:46:17.650732+00:00",
+   [
+    "25",
+    "60",
+    "admin",
+    "center",
+    "creek",
+    "deal",
+    "department",
+    "ein",
+    "interior",
+    "makeover",
+    "mark",
+    "million",
+    "revamp",
+    "rock",
+    "sign",
+    "strik",
+    "tenni",
+    "trump"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-19T17:31:58.440871+00:00",
+ "last_draft_at": "2026-11-19T17:45:34.605548+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T17:30:48.903641+00:00",
  "run_log": [
-  "11-19 15:15:46 run start",
-  "11-19 15:16:20 listening 11 min",
-  "11-19 15:27:15 listening done",
-  "11-19 15:27:15 run end after 689 s",
   "11-19 15:31:05 run start",
   "11-19 15:35:37 listening 7 min",
   "11-19 15:42:46 listening done",
@@ -16564,7 +16560,11 @@
   "11-19 17:30:48 run start",
   "11-19 17:32:45 listening 10 min",
   "11-19 17:42:25 listening done",
-  "11-19 17:42:25 run end after 696 s"
+  "11-19 17:42:25 run end after 696 s",
+  "11-19 17:45:34 run start",
+  "11-19 17:46:17 listening 11 min",
+  "11-19 17:57:12 listening done",
+  "11-19 17:57:12 run end after 697 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
