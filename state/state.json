@@ -13050,7 +13050,11 @@
   "https://www.upi.com/Top_News/US/2026/11/19/pentagon-munitions/5241795122345/",
   "https://www.axios.com/2026/11/19/joni-ernst-hegseth-iran-war",
   "https://www.independent.co.uk/news/world/americas/us-politics/katie-zacharia-under-investigation-over-legal-work-in-california-state-bar-says-b3088281.html",
-  "https://www.newsweek.com/california-state-bar-investigates-former-trump-press-secretary-katie-zacharia-12743336"
+  "https://www.newsweek.com/california-state-bar-investigates-former-trump-press-secretary-katie-zacharia-12743336",
+  "https://www.washingtonexaminer.com/news/white-house/4809324/vance-kevin-stitt-disastrous-immigration-reform/",
+  "https://www.politico.com/news/2026/11/19/jd-vance-slams-republican-governor-immigration-01175617",
+  "https://www.newsweek.com/trump-white-house-press-secretary-outages-12741361",
+  "https://www.washingtonpost.com/politics/2026/11/19/white-house-offers-little-information-summit-outcome/"
  ],
  "recent_topics": [
   [
@@ -16421,19 +16425,55 @@
     "zacharia"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-19T22:19:11.538856+00:00",
+   [
+    "call",
+    "disastrou",
+    "electorally",
+    "gop",
+    "governor",
+    "immigration",
+    "morally",
+    "oklahoma",
+    "reform",
+    "slam",
+    "trash",
+    "vanc"
+   ],
+   "skipped"
+  ],
+  [
+   "2026-11-19T22:19:14.761209+00:00",
+   [
+    "act",
+    "admin",
+    "aftermath",
+    "historic",
+    "hous",
+    "largely",
+    "messag",
+    "mum",
+    "outag",
+    "press",
+    "secretary",
+    "summit",
+    "test",
+    "three-way",
+    "trump",
+    "whit"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-19T22:06:20.053472+00:00",
+ "last_draft_at": "2026-11-19T22:18:50.658264+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T21:42:03.079310+00:00",
  "run_log": [
-  "11-19 19:45:46 listening done",
-  "11-19 19:45:46 run end after 702 s",
-  "11-19 19:46:18 run start",
-  "11-19 19:46:38 listening 11 min",
   "11-19 19:57:57 listening done",
   "11-19 19:57:57 run end after 699 s",
   "11-19 20:00:58 run start",
@@ -16469,7 +16509,11 @@
   "11-19 22:06:19 run start",
   "11-19 22:07:39 listening 10 min",
   "11-19 22:18:06 listening done",
-  "11-19 22:18:06 run end after 707 s"
+  "11-19 22:18:06 run end after 707 s",
+  "11-19 22:18:50 run start",
+  "11-19 22:19:14 listening 11 min",
+  "11-19 22:30:34 listening done",
+  "11-19 22:30:34 run end after 704 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
