@@ -13001,7 +13001,9 @@
   "https://www.nbcnews.com/video/trump-touts-u-s-trade-deals-inflation-despite-increased-rates-273785413517",
   "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs?traffic_source=rss",
   "https://www.france24.com/en/middle-east/20261119-middle-east-crisis-energy-security-iea",
-  "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns"
+  "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
+  "https://www.independent.co.uk/news/world/australasia/australia-spitfire-warship-wreck-found-queensland-b3087663.html",
+  "https://www.theguardian.com/environment/2026/nov/19/first-australian-built-warship-wreck-discovered"
  ],
  "recent_topics": [
   [
@@ -16366,19 +16368,34 @@
     "warn"
    ],
    "972d7dbe83"
+  ],
+  [
+   "2026-11-19T06:16:15.261393+00:00",
+   [
+    "128",
+    "australia",
+    "australian-built",
+    "built",
+    "discover",
+    "domestically",
+    "exactly",
+    "found",
+    "luck",
+    "remarkabl",
+    "sink",
+    "warship",
+    "wreck"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-19T06:01:18.069490+00:00",
+ "last_draft_at": "2026-11-19T06:15:36.549653+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T06:00:50.130247+00:00",
  "run_log": [
-  "11-19 04:00:43 run start",
-  "11-19 04:01:31 listening 11 min",
-  "11-19 04:12:25 listening done",
-  "11-19 04:12:25 run end after 701 s",
   "11-19 04:12:57 run start",
   "11-19 04:14:08 listening 10 min",
   "11-19 04:24:36 listening done",
@@ -16414,7 +16431,11 @@
   "11-19 06:00:49 run start",
   "11-19 06:01:36 listening 11 min",
   "11-19 06:12:29 listening done",
-  "11-19 06:12:29 run end after 699 s"
+  "11-19 06:12:29 run end after 699 s",
+  "11-19 06:15:36 run start",
+  "11-19 06:16:15 listening 11 min",
+  "11-19 06:27:09 listening done",
+  "11-19 06:27:09 run end after 693 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
