@@ -11279,6 +11279,92 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122106326937548584_1007239935117418"
+  },
+  "8d4538a5bc": {
+   "id": "8d4538a5bc",
+   "headline": "Migrant boat capsizes off Senegal coast leaving several missing",
+   "summary": "A boat carrying migrants has sunk off the coast of Senegal. Local officials report one person died and several are missing.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Local media report at least four bodies recovered",
+    "The boat was carrying around 100 migrants",
+    "Officials confirm one death and several missing"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Senegal",
+    "#WorldNews",
+    "#Migration"
+   ],
+   "sources": [
+    "ABC News",
+    "BBC"
+   ],
+   "link": "https://abcnews.com/International/wireStory/migrant-boat-capsizes-off-senegals-coast-leaving-1-138286309",
+   "links": [
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/migrant-boat-capsizes-off-senegals-coast-leaving-1-138286309"
+    ],
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss"
+    ]
+   ],
+   "bg": {
+    "type": "map",
+    "photos": [],
+    "location": "Senegal",
+    "lat": 14.0,
+    "lon": -14.0,
+    "country": "Senegal",
+    "state": "",
+    "pin": false,
+    "fit": true
+   },
+   "img_post": {
+    "headline": "Migrant boat capsizes off Senegal coast leaving several missing",
+    "people": [],
+    "image_query": "Senegal coastline",
+    "image_queries": [
+     "Atlantic ocean view",
+     "Senegal beach",
+     "fishing boat",
+     "rescue operation"
+    ],
+    "image_style": "incident",
+    "location": "Senegal",
+    "nearby_city": "Dakar, Senegal",
+    "event_query": "Senegal migrant boat capsizes",
+    "topic_photo": "cargo ship",
+    "label": "WORLD",
+    "action_subject": "rescue boat",
+    "news_time": "2026-11-19T09:02:52+00:00"
+   },
+   "created_at": "2026-11-19T14:16:33.431669+00:00",
+   "news_time": "2026-11-19T09:02:52+00:00",
+   "news_latest": "2026-11-19T14:03:39+00:00",
+   "importance": 7,
+   "caption": "Migrant boat capsizes off Senegal coast leaving several missing\n\nA boat carrying migrants has sunk off the coast of Senegal. Local officials report one person died and several are missing.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Senegal #WorldNews #Migration #7SeasNews",
+   "photo_line": "📷 news map (no fitting photo)",
+   "status": "posted",
+   "tg_message_id": 824,
+   "tg_file_id": "AgACAgUAAxkDAAIDOGr_BNL3d9fgr-8unbgMjg_D4W4zAAJhFGsb3mn4V2Ccdcl76XPwAQADAgADdwADPQQ",
+   "queued_at": "2026-11-19T14:16:50.753347+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-19T14:16:50.753408+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122106379281548584",
+   "posted_at": "2026-11-19T14:16:51.106093+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 19 · 9:16 AM New York · 7:46 PM Sri Lanka\n\n<b>Migrant boat capsizes off Senegal coast leaving several missing</b>\n<i>ABC News, BBC</i>\n🟢 <b>Latest:</b> 7:33 PM Sri Lanka (13 min ago) · first reported 2:32 PM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122106379281548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 531,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122106379281548584_1448400434133146"
   }
  },
  "seen_links": [
@@ -12883,7 +12969,9 @@
   "https://www.aljazeera.com/news/2026/11/19/groundbreaking-trump-xi-putin-summit-five-key-takeaways?traffic_source=rss",
   "https://www.nbcnews.com/news/us-news/trilateral-meeting-trump-xi-putin-gta-vice-city-morning-rundown-rcna610168",
   "https://www.aljazeera.com/news/2026/11/19/south-korean-court-orders-retrial-for-ex-pm-han-over-martial-law-attempt?traffic_source=rss",
-  "https://abcnews.com/International/wireStory/south-koreas-top-court-overturns-charges-prime-minister-138280095"
+  "https://abcnews.com/International/wireStory/south-koreas-top-court-overturns-charges-prime-minister-138280095",
+  "https://abcnews.com/International/wireStory/migrant-boat-capsizes-off-senegals-coast-leaving-1-138286309",
+  "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss"
  ],
  "recent_topics": [
   [
@@ -16222,19 +16310,35 @@
     "trump-xi-putin"
    ],
    "ec70ec531b"
+  ],
+  [
+   "2026-11-19T14:16:50.753177+00:00",
+   [
+    "100",
+    "boat",
+    "capsiz",
+    "carry",
+    "coast",
+    "dead",
+    "dozen",
+    "leav",
+    "migrant",
+    "miss",
+    "person",
+    "senegal",
+    "several",
+    "sink"
+   ],
+   "8d4538a5bc"
   ]
  ],
- "last_draft_at": "2026-11-19T13:59:41.938796+00:00",
+ "last_draft_at": "2026-11-19T14:12:00.048927+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T13:26:26.431527+00:00",
  "run_log": [
-  "11-19 11:26:30 listening done",
-  "11-19 11:26:30 run end after 705 s",
-  "11-19 11:35:47 run start",
-  "11-19 11:36:54 listening 10 min",
   "11-19 11:51:40 run start",
   "11-19 11:51:50 listening 11 min",
   "11-19 12:03:08 listening done",
@@ -16270,7 +16374,11 @@
   "11-19 13:59:41 run start",
   "11-19 13:59:42 listening 11 min",
   "11-19 14:11:25 listening done",
-  "11-19 14:11:25 run end after 704 s"
+  "11-19 14:11:25 run end after 704 s",
+  "11-19 14:11:59 run start",
+  "11-19 14:17:07 listening 6 min",
+  "11-19 14:23:25 listening done",
+  "11-19 14:23:25 run end after 685 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -20557,6 +20665,11 @@
     "s": 10,
     "w": "OMON officers in Red Square",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Saint-Louis%2C_Senegal_-_Street_scene.jpg/1920px-Saint-Louis%2C_Senegal_-_Street_scene.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|e94460cd": {
+    "s": 2,
+    "w": "horse carriage on street",
+    "p": "photo shows a street scene from a carriage, not a migrant boat capsizing or resc"
    }
   }
  },
@@ -20568,10 +20681,10 @@
   "2026-11-16": 32,
   "2026-11-17": 35,
   "2026-11-18": 22,
-  "2026-11-19": 8
+  "2026-11-19": 9
  },
- "last_auto_at": "2026-11-19T13:43:40.307039+00:00",
- "last_post_at": "2026-11-19T13:43:47.454039+00:00",
+ "last_auto_at": "2026-11-19T14:16:51.106093+00:00",
+ "last_post_at": "2026-11-19T14:16:56.287590+00:00",
  "reels_count": {
   "2026-11-13": 10,
   "2026-11-14": 8,
