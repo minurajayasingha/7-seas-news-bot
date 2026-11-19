@@ -11333,6 +11333,94 @@
     "shares": 0
    },
    "stats_at": "2026-11-19T05:01:48.838838+00:00"
+  },
+  "972d7dbe83": {
+   "id": "972d7dbe83",
+   "headline": "IEA warns Middle East crisis and datacentres threaten energy security",
+   "summary": "The International Energy Agency reported that the Middle East crisis presents the largest threat to energy security in history due to disruptions from US and Israeli strikes on Iran. Additionally, the watchdog warned that global datacentres will increase carbon emissions by 70 percent by 2030 as the US and China use fossil fuels for artificial intelligence.",
+   "label": "ECONOMY",
+   "hook": "Will rising artificial intelligence demands force countries to rely more on fossil fuels?",
+   "key_points": [
+    "Iran's blockade of the Strait of Hormuz disrupted oil shipments.",
+    "Consumers bear more costs during the energy security threat.",
+    "Datacentres will consume twice as much electricity by 2030."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#EnergySecurity",
+    "#IEA",
+    "#ArtificialIntelligence"
+   ],
+   "sources": [
+    "France 24",
+    "The Guardian"
+   ],
+   "link": "https://www.france24.com/en/middle-east/20261119-middle-east-crisis-energy-security-iea",
+   "links": [
+    [
+     "France 24",
+     "https://www.france24.com/en/middle-east/20261119-middle-east-crisis-energy-security-iea"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/%D0%A0%D0%B0%D1%84%D0%B8%D0%BD%D0%B5%D1%80%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0%D1%84%D1%82%D0%B5_%D0%91%D1%80%D0%BE%D0%B4_%28Oil_refinery_Brod%2C_Republika_Srpska%29.jpg/1920px-%D0%A0%D0%B0%D1%84%D0%B8%D0%BD%D0%B5%D1%80%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0%D1%84%D1%82%D0%B5_%D0%91%D1%80%D0%BE%D0%B4_%28Oil_refinery_Brod%2C_Republika_Srpska%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "oil refinery"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "IEA warns Middle East crisis and datacentres threaten energy security",
+    "people": [],
+    "image_query": "oil refinery",
+    "image_queries": [
+     "cargo ship",
+     "server room",
+     "oil tanker",
+     "power plant"
+    ],
+    "image_style": "scene",
+    "location": "",
+    "nearby_city": "",
+    "event_query": "",
+    "topic_photo": "server room",
+    "label": "ECONOMY",
+    "action_subject": "oil refinery",
+    "news_time": "2026-11-19T05:00:18+00:00"
+   },
+   "created_at": "2026-11-19T05:16:03.857481+00:00",
+   "news_time": "2026-11-19T05:00:18+00:00",
+   "news_latest": "2026-11-19T05:11:59+00:00",
+   "importance": 7,
+   "caption": "IEA warns Middle East crisis and datacentres threaten energy security\n\nThe International Energy Agency reported that the Middle East crisis presents the largest threat to energy security in history due to disruptions from US and Israeli strikes on Iran. Additionally, the watchdog warned that global datacentres will increase carbon emissions by 70 percent by 2030 as the US and China use fossil fuels for artificial intelligence.\n\n💬 Will rising artificial intelligence demands force countries to rely more on fossil fuels?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#EnergySecurity #IEA #ArtificialIntelligence #7SeasNews",
+   "photo_line": "📷 10/10 oil refinery · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 814,
+   "tg_file_id": "AgACAgUAAxkDAAIDLmr-hhY4u86RW2ZsqOSAD-jLrXWFAAJVFWsb3mnwV_IEZjLhc40GAQADAgADdwADPQQ",
+   "queued_at": "2026-11-19T05:16:06.525720+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-19T05:16:06.525752+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122105967939548584",
+   "posted_at": "2026-11-19T05:16:06.858943+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 19 · 12:16 AM New York · 10:46 AM Sri Lanka\n\n<b>IEA warns Middle East crisis and datacentres threaten energy security</b>\n<i>France 24, The Guardian</i>\n🟢 <b>Latest:</b> 10:41 AM Sri Lanka (4 min ago) · first reported 10:30 AM\n📷 10/10 oil refinery · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122105967939548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 520,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122105967939548584_1664488725286513"
   }
  },
  "seen_links": [
@@ -12905,7 +12993,9 @@
   "https://thehill.com/homenews/senate/6229401-slotkin-slams-reitz-investigation/",
   "https://www.nbcnews.com/politics/congress/elissa-slotkin-fires-back-aaron-reitz-investigation-political-speech-rcna610133",
   "https://www.nbcnews.com/video/trump-touts-u-s-trade-deals-inflation-despite-increased-rates-273785413517",
-  "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs?traffic_source=rss"
+  "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs?traffic_source=rss",
+  "https://www.france24.com/en/middle-east/20261119-middle-east-crisis-energy-security-iea",
+  "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns"
  ],
  "recent_topics": [
   [
@@ -16267,19 +16357,37 @@
     "trump"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-19T05:16:06.525566+00:00",
+   [
+    "70",
+    "carbon",
+    "creat",
+    "crisi",
+    "datacentr",
+    "east",
+    "emission",
+    "energy",
+    "history",
+    "iea",
+    "largest",
+    "middl",
+    "pos",
+    "security",
+    "threat",
+    "warn"
+   ],
+   "972d7dbe83"
   ]
  ],
- "last_draft_at": "2026-11-19T05:02:47.704788+00:00",
+ "last_draft_at": "2026-11-19T05:15:50.010726+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T05:01:48.838838+00:00",
  "run_log": [
-  "11-19 03:00:52 run start",
-  "11-19 03:01:47 listening 11 min",
-  "11-19 03:12:40 listening done",
-  "11-19 03:12:40 run end after 708 s",
   "11-19 03:15:36 run start",
   "11-19 03:15:47 listening 11 min",
   "11-19 03:27:06 listening done",
@@ -16315,12 +16423,15 @@
   "11-19 05:01:41 run start",
   "11-19 05:02:57 listening 10 min",
   "11-19 05:13:27 listening done",
-  "11-19 05:13:27 run end after 705 s"
+  "11-19 05:13:27 run end after 705 s",
+  "11-19 05:15:49 run start",
+  "11-19 05:16:22 listening 11 min",
+  "11-19 05:27:16 listening done",
+  "11-19 05:27:16 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/COP31_-_Gavin_Newsom_04.jpg/1280px-COP31_-_Gavin_Newsom_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/d/da/Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/3/37/US_Capitol_Dome_High_Res_Jan_2006.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/WikimediaServersOct07_1.JPG/1920px-WikimediaServersOct07_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -16359,7 +16470,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Example_voting_booth_from_USA_%28Connecticut%29.jpg/1920px-Example_voting_booth_from_USA_%28Connecticut%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Downtown_Port_au_Prince_%284311459711%29.jpg/1920px-Downtown_Port_au_Prince_%284311459711%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Brussels_NATO_Headquarters.jpg/1920px-Brussels_NATO_Headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Elbridge_A._Colby_%282%29.jpg/1280px-Elbridge_A._Colby_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Elbridge_A._Colby_%282%29.jpg/1280px-Elbridge_A._Colby_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/%D0%A0%D0%B0%D1%84%D0%B8%D0%BD%D0%B5%D1%80%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0%D1%84%D1%82%D0%B5_%D0%91%D1%80%D0%BE%D0%B4_%28Oil_refinery_Brod%2C_Republika_Srpska%29.jpg/1920px-%D0%A0%D0%B0%D1%84%D0%B8%D0%BD%D0%B5%D1%80%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0%D1%84%D1%82%D0%B5_%D0%91%D1%80%D0%BE%D0%B4_%28Oil_refinery_Brod%2C_Republika_Srpska%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "wes moore": {
@@ -19799,7 +19911,6 @@
    }
   },
   "recent_ideas": [
-   "container port cranes",
    "missile strike",
    "us capitol building",
    "judge gavel",
@@ -19810,7 +19921,8 @@
    "soldiers",
    "computer code on screen",
    "voting booth",
-   "nato headquarters brussels"
+   "nato headquarters brussels",
+   "oil refinery"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -20477,21 +20589,26 @@
     "s": 10,
     "w": "NATO headquarters Brussels aerial view",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/%D0%A0%D0%B0%D1%84%D0%B8%D0%BD%D0%B5%D1%80%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0%D1%84%D1%82%D0%B5_%D0%91%D1%80%D0%BE%D0%B4_%28Oil_refinery_Brod%2C_Republika_Srpska%29.jpg/1920px-%D0%A0%D0%B0%D1%84%D0%B8%D0%BD%D0%B5%D1%80%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0%D1%84%D1%82%D0%B5_%D0%91%D1%80%D0%BE%D0%B4_%28Oil_refinery_Brod%2C_Republika_Srpska%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|015062ad": {
+    "s": 10,
+    "w": "oil refinery",
+    "p": ""
    }
   }
  },
  "comment_perm_told": true,
  "auto_count": {
-  "2026-11-12": 17,
   "2026-11-13": 34,
   "2026-11-14": 18,
   "2026-11-15": 19,
   "2026-11-16": 32,
   "2026-11-17": 35,
-  "2026-11-18": 22
+  "2026-11-18": 22,
+  "2026-11-19": 1
  },
- "last_auto_at": "2026-11-19T04:13:53.575778+00:00",
- "last_post_at": "2026-11-19T04:13:57.959109+00:00",
+ "last_auto_at": "2026-11-19T05:16:06.858943+00:00",
+ "last_post_at": "2026-11-19T05:16:11.692400+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
