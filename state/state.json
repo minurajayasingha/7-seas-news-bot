@@ -11131,6 +11131,181 @@
     "shares": 0
    },
    "stats_at": "2026-11-19T02:00:56.461500+00:00"
+  },
+  "4837317b49": {
+   "id": "4837317b49",
+   "headline": "Department of Justice issues subpoenas in Alaska election investigation",
+   "summary": "The Justice Department has issued more than 200 subpoenas in a criminal investigation regarding the recruitment of a second Dan Sullivan in Alaska. The probe continues across multiple states following the Senate race won by Mary Peltola against Dan Sullivan.",
+   "label": "US POLITICS",
+   "hook": "How will the ongoing investigation affect future election procedures in Alaska?",
+   "key_points": [
+    "The criminal probe involves multiple targets.",
+    "Mary Peltola defeated Republican Senator Dan Sullivan.",
+    "Law enforcement confirmed the subpoenas on Wednesday."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#AlaskaNews",
+    "#DepartmentOfJustice"
+   ],
+   "sources": [
+    "Newsweek",
+    "Washington Examiner"
+   ],
+   "link": "https://www.newsweek.com/dojs-other-dan-sullivan-criminal-probe-widens-after-peltola-win-12737508",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/dojs-other-dan-sullivan-criminal-probe-widens-after-peltola-win-12737508"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/justice/4808208/doj-subpoenas-alaska-decoy-dan-investigation/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Example_voting_booth_from_USA_%28Connecticut%29.jpg/1920px-Example_voting_booth_from_USA_%28Connecticut%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Kenneth C. Zirkel / Wikimedia Commons (CC0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 8,
+      "shows": "voting booth"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "Department of Justice issues subpoenas in Alaska election investigation",
+    "people": [],
+    "image_query": "Alaska State Capitol building",
+    "image_queries": [
+     "Department of Justice building",
+     "voting booth",
+     "ballot box",
+     "US Senate chamber"
+    ],
+    "image_style": "scene",
+    "location": "Alaska, US",
+    "nearby_city": "Anchorage, Alaska",
+    "event_query": "Alaska Senate race election",
+    "topic_photo": "ballot box",
+    "label": "US POLITICS",
+    "action_subject": "subpoena documents",
+    "news_time": "2026-11-19T00:24:22+00:00"
+   },
+   "created_at": "2026-11-19T02:30:35.109761+00:00",
+   "news_time": "2026-11-19T00:24:22+00:00",
+   "news_latest": "2026-11-19T02:14:06+00:00",
+   "importance": 6,
+   "caption": "Department of Justice issues subpoenas in Alaska election investigation\n\nThe Justice Department has issued more than 200 subpoenas in a criminal investigation regarding the recruitment of a second Dan Sullivan in Alaska. The probe continues across multiple states following the Senate race won by Mary Peltola against Dan Sullivan.\n\n💬 How will the ongoing investigation affect future election procedures in Alaska?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #AlaskaNews #DepartmentOfJustice #7SeasNews",
+   "photo_line": "📷 8/10 voting booth · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 810,
+   "tg_file_id": "AgACAgUAAxkDAAIDKmr-X09Bb0KdqcPFbA440x0oZB29AALdFGsb3mnwV2KiS61ljmV5AQADAgADdwADPQQ",
+   "queued_at": "2026-11-19T02:30:39.443541+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-19T02:30:39.443570+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122105870733548584",
+   "posted_at": "2026-11-19T02:31:16.627896+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 18 · 9:31 PM New York · 8:01 AM Sri Lanka\n\n<b>Department of Justice issues subpoenas in Alaska election investigation</b>\n<i>Newsweek, Washington Examiner</i>\n🟢 <b>Latest:</b> 7:44 AM Sri Lanka (17 min ago) · first reported 5:54 AM\n📷 8/10 voting booth · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122105870733548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 517,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122105870733548584_1765844227811596"
+  },
+  "9726d16929": {
+   "id": "9726d16929",
+   "headline": "Thousands rally in Haiti following Salvadoran troop deployment",
+   "summary": "Thousands of people marched in Haiti to thank Salvadoran President Nayib Cardoso for sending troops to combat gangs. Meanwhile, the Salvadoran president confirmed an airstrike on the luxury mansion of Haitian crime leader Jeff Larose.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Salvadoran troops were sent to battle gangs in Haiti.",
+    "Airstrike targeted the mansion of gang leader Jeff Larose.",
+    "It remains unclear if Jeff Larose was inside during the bombing."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Haiti",
+    "#ElSalvador",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Euronews",
+    "Fox News"
+   ],
+   "link": "https://www.foxnews.com/world/bukele-gets-heros-welcome-thousands-rally-haiti-gang-crackdown",
+   "links": [
+    [
+     "Fox News",
+     "https://www.foxnews.com/world/bukele-gets-heros-welcome-thousands-rally-haiti-gang-crackdown"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/18/bukele-confirms-airstrike-on-haitian-gang-leader-jeffs-luxury-mansion"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Downtown_Port_au_Prince_%284311459711%29.jpg/1920px-Downtown_Port_au_Prince_%284311459711%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "USAID U.S. Agency for International Development / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 5,
+      "shows": "street view in haiti"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Thousands rally in Haiti following Salvadoran troop deployment",
+    "people": [],
+    "image_query": "Port-au-Prince street",
+    "image_queries": [
+     "Haiti street scene",
+     "Port-au-Prince cityscape",
+     "luxury mansion exterior",
+     "police patrol Haiti"
+    ],
+    "image_style": "incident",
+    "location": "Port-au-Prince, Haiti",
+    "nearby_city": "Port-au-Prince, Haiti",
+    "event_query": "Haiti gang crackdown rally",
+    "topic_photo": "luxury mansion",
+    "label": "CONFLICT",
+    "action_subject": "military airstrike damage",
+    "news_time": "2026-11-18T21:58:48+00:00"
+   },
+   "created_at": "2026-11-19T02:31:14.682951+00:00",
+   "news_time": "2026-11-18T21:58:48+00:00",
+   "news_latest": "2026-11-19T02:12:36+00:00",
+   "importance": 7,
+   "caption": "Thousands rally in Haiti following Salvadoran troop deployment\n\nThousands of people marched in Haiti to thank Salvadoran President Nayib Cardoso for sending troops to combat gangs. Meanwhile, the Salvadoran president confirmed an airstrike on the luxury mansion of Haitian crime leader Jeff Larose.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Haiti #ElSalvador #WorldNews #7SeasNews",
+   "photo_line": "📷 5/10 street view in haiti",
+   "status": "posted",
+   "tg_message_id": 811,
+   "tg_file_id": "AgACAgUAAxkDAAIDK2r-X3SywBwMuHAFZsk9bZPdz8zCAALeFGsb3mnwV3vvaATHCRRPAQADAgADdwADPQQ",
+   "queued_at": "2026-11-19T02:31:16.351212+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-19T02:31:16.351240+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122105870967548584",
+   "posted_at": "2026-11-19T02:31:16.627896+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 18 · 9:31 PM New York · 8:01 AM Sri Lanka\n\n<b>Thousands rally in Haiti following Salvadoran troop deployment</b>\n<i>Euronews, Fox News</i>\n🟢 <b>Latest:</b> 7:42 AM Sri Lanka (18 min ago) · first reported 3:28 AM\n📷 5/10 street view in haiti\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122105870967548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 518,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122105870967548584_1499803078629288"
   }
  },
  "seen_links": [
@@ -12685,79 +12860,13 @@
   "https://www.nbcnews.com/video/elon-musk-says-he-feels-foolish-after-spending-hundreds-of-millions-backing-republicans-273776709737",
   "https://www.washingtonpost.com/politics/2026/11/18/elon-musk-says-he-regrets-midterm-spending/",
   "https://www.nytimes.com/2026/11/18/us/politics/tech-outages-trump-national-security.html",
-  "https://thehill.com/policy/technology/6228963-krebs-tech-outages-good-news/"
+  "https://thehill.com/policy/technology/6228963-krebs-tech-outages-good-news/",
+  "https://www.newsweek.com/dojs-other-dan-sullivan-criminal-probe-widens-after-peltola-win-12737508",
+  "https://www.washingtonexaminer.com/news/justice/4808208/doj-subpoenas-alaska-decoy-dan-investigation/",
+  "https://www.foxnews.com/world/bukele-gets-heros-welcome-thousands-rally-haiti-gang-crackdown",
+  "https://www.euronews.com/2026/11/18/bukele-confirms-airstrike-on-haitian-gang-leader-jeffs-luxury-mansion"
  ],
  "recent_topics": [
-  [
-   "2026-11-16T02:16:05.073053+00:00",
-   [
-    "80",
-    "age",
-    "angel",
-    "architect",
-    "cartel",
-    "decad",
-    "die",
-    "drug",
-    "felix",
-    "founder",
-    "gallardo",
-    "guadalajara",
-    "hospital",
-    "lord",
-    "mexican",
-    "mexico",
-    "miguel",
-    "prison",
-    "trad"
-   ],
-   "86a4e525de"
-  ],
-  [
-   "2026-11-16T02:16:08.784952+00:00",
-   [
-    "alleg",
-    "amputation",
-    "attack",
-    "australian",
-    "both",
-    "car",
-    "discharg",
-    "doubl",
-    "four",
-    "hain",
-    "helen",
-    "hospital",
-    "leav",
-    "leg",
-    "lost"
-   ],
-   "6050451047"
-  ],
-  [
-   "2026-11-16T02:31:32.461091+00:00",
-   [
-    "broadcast",
-    "chang",
-    "czech",
-    "fund",
-    "govt",
-    "hundr",
-    "independenc",
-    "massiv",
-    "media",
-    "plan",
-    "pragu",
-    "protest",
-    "public",
-    "rally",
-    "switch",
-    "target",
-    "thousand",
-    "threat"
-   ],
-   "4f2e859acf"
-  ],
   [
    "2026-11-16T03:45:57.050136+00:00",
    [
@@ -16024,17 +16133,59 @@
     "widespread"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-19T02:30:39.443386+00:00",
+   [
+    "200",
+    "alaska",
+    "criminal",
+    "dan",
+    "decoy",
+    "doj",
+    "investigation",
+    "issu",
+    "other",
+    "peltola",
+    "prob",
+    "subpoena",
+    "sullivan",
+    "widen",
+    "win"
+   ],
+   "4837317b49"
+  ],
+  [
+   "2026-11-19T02:31:16.351085+00:00",
+   [
+    "afar",
+    "airstrik",
+    "bukel",
+    "confirm",
+    "crackdown",
+    "gang",
+    "get",
+    "haiti",
+    "haitian",
+    "hero",
+    "jeff",
+    "leader",
+    "luxury",
+    "mansion",
+    "rally",
+    "thousand",
+    "welcom"
+   ],
+   "9726d16929"
   ]
  ],
- "last_draft_at": "2026-11-19T02:01:57.781997+00:00",
+ "last_draft_at": "2026-11-19T02:30:00.008063+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T02:00:56.461500+00:00",
  "run_log": [
-  "11-18 23:45:39 run start",
-  "11-18 23:45:59 listening 11 min",
   "11-18 23:57:18 listening done",
   "11-18 23:57:18 run end after 698 s",
   "11-19 00:00:49 run start",
@@ -16072,13 +16223,13 @@
   "11-19 02:00:56 run start",
   "11-19 02:02:07 listening 10 min",
   "11-19 02:12:36 listening done",
-  "11-19 02:12:36 run end after 700 s"
+  "11-19 02:12:36 run end after 700 s",
+  "11-19 02:29:59 run start",
+  "11-19 02:31:43 listening 10 min"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Chief_of_Defence_Staff_Visits_Barbuda_Radar_Facility_%282%29.jpg/1920px-Chief_of_Defence_Staff_Visits_Barbuda_Radar_Facility_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Lu%C3%9Fberg_Church_Altar_17RM4260_-HDR.jpg/1920px-Lu%C3%9Fberg_Church_Altar_17RM4260_-HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Pope_Leo_XIV_2_%28cropped%29.png/1280px-Pope_Leo_XIV_2_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/0/0a/Courtroom_at_the_United_States_Courthouse_in_Augusta%2C_GA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/COP31_-_Gavin_Newsom_04.jpg/1280px-COP31_-_Gavin_Newsom_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -16116,7 +16267,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Woman_of_Bolivarian_Armed_Forces_in_a_presidential_meeting.jpg/1920px-Woman_of_Bolivarian_Armed_Forces_in_a_presidential_meeting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Pete_Hegseth_%2852252449115%29.jpg/1280px-Pete_Hegseth_%2852252449115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Code_on_computer_monitor_%28Unsplash%29.jpg/1920px-Code_on_computer_monitor_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Elon_Musk_Colorado_2022.jpg/1280px-Elon_Musk_Colorado_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Elon_Musk_Colorado_2022.jpg/1280px-Elon_Musk_Colorado_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Example_voting_booth_from_USA_%28Connecticut%29.jpg/1920px-Example_voting_booth_from_USA_%28Connecticut%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Downtown_Port_au_Prince_%284311459711%29.jpg/1920px-Downtown_Port_au_Prince_%284311459711%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "trump": {
@@ -19597,7 +19750,6 @@
    }
   },
   "recent_ideas": [
-   "petrol station price display",
    "voters at polling station",
    "container port cranes",
    "missile strike",
@@ -19608,7 +19760,8 @@
    "courtroom",
    "oval office",
    "soldiers",
-   "computer code on screen"
+   "computer code on screen",
+   "voting booth"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -20225,6 +20378,36 @@
     "s": 10,
     "w": "Elon Musk sitting in chair",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Ballot_box_in_Denver%2C_October_2020.jpg/1920px-Ballot_box_in_Denver%2C_October_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|4b36d447": {
+    "s": 6,
+    "w": "ballot drop box",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Official_Ballot_Box_Town_of_Wilmington_2_East_Main_Street_downtown_Wilmington_VT_April_2026.jpg/1920px-Official_Ballot_Box_Town_of_Wilmington_2_East_Main_Street_downtown_Wilmington_VT_April_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|4b36d447": {
+    "s": 0,
+    "w": "ballot box",
+    "p": "wrong country"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Example_voting_booth_from_USA_%28Connecticut%29.jpg/1920px-Example_voting_booth_from_USA_%28Connecticut%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|4b36d447": {
+    "s": 8,
+    "w": "voting booth",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Mitsubishi_L200_in_Bruneian_military_police_service.jpg/1920px-Mitsubishi_L200_in_Bruneian_military_police_service.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|f0ed2c30": {
+    "s": 0,
+    "w": "military police pickup truck",
+    "p": "Wrong country: photo shows a Malaysian military police vehicle (Polis Tentera), "
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/e/e3/Downtown_Port_au_Prince_after_earthquake.jpg|f0ed2c30": {
+    "s": 0,
+    "w": "earthquake damage in Port-au-Prince",
+    "p": "shows earthquake aftermath instead of troops deployment"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Downtown_Port_au_Prince_%284311459711%29.jpg/1920px-Downtown_Port_au_Prince_%284311459711%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|f0ed2c30": {
+    "s": 5,
+    "w": "street view in haiti",
+    "p": "shows a street scene rather than specific airstrike damage"
    }
   }
  },
@@ -20236,10 +20419,10 @@
   "2026-11-15": 19,
   "2026-11-16": 32,
   "2026-11-17": 35,
-  "2026-11-18": 19
+  "2026-11-18": 21
  },
- "last_auto_at": "2026-11-19T01:01:45.654970+00:00",
- "last_post_at": "2026-11-19T01:01:50.486579+00:00",
+ "last_auto_at": "2026-11-19T02:31:16.627896+00:00",
+ "last_post_at": "2026-11-19T02:31:33.989038+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
