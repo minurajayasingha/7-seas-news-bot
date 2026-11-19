@@ -12672,7 +12672,14 @@
   "https://www.axios.com/2026/11/18/air-force-ones-nike-colom-valedictorians",
   "https://www.upi.com/Top_News/US/2026/11/18/anthropic-prices-IPO-higher-than-expected/5261795048834/",
   "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-  "https://news.sky.com/story/ai-giant-anthropic-raises-more-money-than-any-other-company-when-going-public-13613708"
+  "https://news.sky.com/story/ai-giant-anthropic-raises-more-money-than-any-other-company-when-going-public-13613708",
+  "https://thehill.com/homenews/campaign/6229195-musk-regrets-gop-spending/",
+  "https://www.nytimes.com/2026/11/18/business/dealbook/elon-musk-midterms.html",
+  "https://www.independent.co.uk/news/world/americas/us-politics/elon-musk-maga-trump-midterms-donations-b3087611.html",
+  "https://www.nbcnews.com/video/elon-musk-says-he-feels-foolish-after-spending-hundreds-of-millions-backing-republicans-273776709737",
+  "https://www.washingtonpost.com/politics/2026/11/18/elon-musk-says-he-regrets-midterm-spending/",
+  "https://www.nytimes.com/2026/11/18/us/politics/tech-outages-trump-national-security.html",
+  "https://thehill.com/policy/technology/6228963-krebs-tech-outages-good-news/"
  ],
  "recent_topics": [
   [
@@ -15990,19 +15997,36 @@
     "stock"
    ],
    "b5cb2f5ca4"
+  ],
+  [
+   "2026-11-19T01:19:52.631926+00:00",
+   [
+    "cut",
+    "cybersecurity",
+    "director",
+    "focu",
+    "former",
+    "good",
+    "national",
+    "outag",
+    "put",
+    "security",
+    "story",
+    "tech",
+    "trump",
+    "ultimately",
+    "widespread"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-19T01:01:20.807771+00:00",
+ "last_draft_at": "2026-11-19T01:16:20.349053+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T01:00:53.705072+00:00",
  "run_log": [
-  "11-18 22:42:15 listening done",
-  "11-18 22:42:15 run end after 690 s",
-  "11-18 23:01:01 run start",
-  "11-18 23:03:55 listening 9 min",
   "11-18 23:05:54 run start",
   "11-18 23:05:54 listening 11 min",
   "11-18 23:17:38 listening done",
@@ -16038,12 +16062,15 @@
   "11-19 01:00:53 run start",
   "11-19 01:01:58 listening 10 min",
   "11-19 01:12:26 listening done",
-  "11-19 01:12:26 run end after 693 s"
+  "11-19 01:12:26 run end after 693 s",
+  "11-19 01:16:19 run start",
+  "11-19 01:19:52 listening 8 min",
+  "11-19 01:27:51 listening done",
+  "11-19 01:27:51 run end after 691 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Antelope_Air_Defense_System_Display_at_Tainan_Air_Froce_Base_Apron_20130810.jpg/1920px-Antelope_Air_Defense_System_Display_at_Tainan_Air_Froce_Base_Apron_20130810.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Chief_of_Defence_Staff_Visits_Barbuda_Radar_Facility_%282%29.jpg/1920px-Chief_of_Defence_Staff_Visits_Barbuda_Radar_Facility_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Lu%C3%9Fberg_Church_Altar_17RM4260_-HDR.jpg/1920px-Lu%C3%9Fberg_Church_Altar_17RM4260_-HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Pope_Leo_XIV_2_%28cropped%29.png/1280px-Pope_Leo_XIV_2_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -16082,7 +16109,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/View_of_Oval_Office_in_2017.jpg/1920px-View_of_Oval_Office_in_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Woman_of_Bolivarian_Armed_Forces_in_a_presidential_meeting.jpg/1920px-Woman_of_Bolivarian_Armed_Forces_in_a_presidential_meeting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Pete_Hegseth_%2852252449115%29.jpg/1280px-Pete_Hegseth_%2852252449115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Code_on_computer_monitor_%28Unsplash%29.jpg/1920px-Code_on_computer_monitor_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Code_on_computer_monitor_%28Unsplash%29.jpg/1920px-Code_on_computer_monitor_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Elon_Musk_Colorado_2022.jpg/1280px-Elon_Musk_Colorado_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "trump": {
@@ -18208,80 +18236,92 @@
     ]
    },
    "elon musk": {
-    "t": "2026-11-14T17:31:03.728513+00:00",
+    "t": "2026-11-19T01:16:37.052732+00:00",
     "photos": [
      {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Elon_Musk_-_54820081119_%28cropped%29.jpg/1280px-Elon_Musk_-_54820081119_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Elon_Musk_-_54820081119_%283x4_cropped%2C_Rule_of_thirds%29.jpg/1280px-Elon_Musk_-_54820081119_%283x4_cropped%2C_Rule_of_thirds%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
       "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/President_Donald_Trump_signs_executive_orders_alongside_Elon_Musk_in_the_Oval_Office_%2854321919928%29_%28Elon_Musk_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "The White House / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Conectividade_e_Prote%C3%A7%C3%A3o_da_Amaz%C3%B4nia_com_Elon_Musk_-_52090119989.png/1280px-Conectividade_e_Prote%C3%A7%C3%A3o_da_Amaz%C3%B4nia_com_Elon_Musk_-_52090119989.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Ministério Das Comunicações / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
      },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg/1280px-Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/20_05_2022_Conectividade_e_Prote%C3%A7%C3%A3o_da_Amaz%C3%B4nia_com_Elon_Musk_%2852089904608%29.png/1280px-20_05_2022_Conectividade_e_Prote%C3%A7%C3%A3o_da_Amaz%C3%B4nia_com_Elon_Musk_%2852089904608%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "MINISTÉRIO DAS COMUNICAÇÕES / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Elon_Musk_%2812271225556%29.jpg/1280px-Elon_Musk_%2812271225556%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Tesla Owners Club Belgium / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Elon_Musk_Colorado_2022.jpg/1280px-Elon_Musk_Colorado_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Trevor Cokley / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Elon_Musk_%2812271217906%29.jpg/1280px-Elon_Musk_%2812271217906%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Tesla Owners Club Belgium / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Happy_Elon_Musk_%2852005460639%29.jpg/1280px-Happy_Elon_Musk_%2852005460639%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Steve Jurvetson from Los Altos, USA / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/20_05_2022_-_Conectividade_e_Prote%C3%A7%C3%A3o_da_Amaz%C3%B4nia_com_Elon_Muskdade_e_Prote%C3%A7%C3%A3o_da_Amaz%C3%B4nia_com_Elon_Musk_%2852094905032%29.jpg/1280px-20_05_2022_-_Conectividade_e_Prote%C3%A7%C3%A3o_da_Amaz%C3%B4nia_com_Elon_Muskdade_e_Prote%C3%A7%C3%A3o_da_Amaz%C3%B4nia_com_Elon_Musk_%2852094905032%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "MINISTÉRIO DAS COMUNICAÇÕES / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Meet_the_new_boss..._Same_as_the_News_boss..._The_Elon_Musk_Twitter_Interview_at_TED_2022_%2852004185747%29.jpg/1280px-Meet_the_new_boss..._Same_as_the_News_boss..._The_Elon_Musk_Twitter_Interview_at_TED_2022_%2852004185747%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Steve Jurvetson from Los Altos, USA / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
+      "portrait": true,
+      "only": true
      },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Elon_Musk_Royal_Society.jpg/1280px-Elon_Musk_Royal_Society.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Duncan.Hull / Wikimedia Commons (CC BY-SA 4.0)",
       "short": "WIKIMEDIA COMMONS",
-      "portrait": true
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Elon_Musk_%2854817940189%29.jpg/1280px-Elon_Musk_%2854817940189%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Elon_Musk_%2854816836217%29_%28cropped_4%29.jpg/1280px-Elon_Musk_%2854816836217%29_%28cropped_4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/President_Donald_Trump_signs_executive_orders_alongside_Elon_Musk_in_the_Oval_Office_%2854321919928%29_%28Elon_Musk_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "The White House / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Elon_Musk_%2812271225556%29.jpg/1280px-Elon_Musk_%2812271225556%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Tesla Owners Club Belgium / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Elon_Musk_Colorado_2022.jpg/1280px-Elon_Musk_Colorado_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Trevor Cokley / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Elon_Musk_%2812271217906%29.jpg/1280px-Elon_Musk_%2812271217906%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Tesla Owners Club Belgium / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Elon_Musk_%2854348704457%29.jpg/1280px-Elon_Musk_%2854348704457%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Happy_Elon_Musk_%2852005460639%29.jpg/1280px-Happy_Elon_Musk_%2852005460639%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Steve Jurvetson from Los Altos, USA / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Elon_Musk_at_TED_2017.jpeg/1280px-Elon_Musk_at_TED_2017.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Steve Jurvetson from Menlo Park, USA / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
      }
-    ]
+    ],
+    "v": 2
    },
    "carmelle": {
     "t": "2026-11-14T18:15:58.345828+00:00",
@@ -20173,6 +20213,11 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Code_on_computer_monitor_%28Unsplash%29.jpg/1920px-Code_on_computer_monitor_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|426c91ff": {
     "s": 7,
     "w": "computer code on screen",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Elon_Musk_Colorado_2022.jpg/1280px-Elon_Musk_Colorado_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Elon Musk": {
+    "s": 10,
+    "w": "Elon Musk sitting in chair",
     "p": ""
    }
   }
