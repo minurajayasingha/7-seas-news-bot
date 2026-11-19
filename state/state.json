@@ -12999,25 +12999,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-16T05:45:57.093387+00:00",
-   [
-    "assassinat",
-    "contest",
-    "election",
-    "ex-haitian",
-    "haiti",
-    "leader",
-    "mois",
-    "presidential",
-    "register",
-    "slain",
-    "vot",
-    "widow",
-    "wif"
-   ],
-   "abfc3a1aac"
-  ],
-  [
    "2026-11-16T06:34:58.232857+00:00",
    [
     "11",
@@ -16381,17 +16362,13 @@
    "972d7dbe83"
   ]
  ],
- "last_draft_at": "2026-11-19T05:30:44.488994+00:00",
+ "last_draft_at": "2026-11-19T05:45:38.279438+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T05:01:48.838838+00:00",
  "run_log": [
-  "11-19 03:30:41 run start",
-  "11-19 03:31:01 listening 11 min",
-  "11-19 03:42:19 listening done",
-  "11-19 03:42:19 run end after 698 s",
   "11-19 03:45:41 run start",
   "11-19 03:45:50 listening 11 min",
   "11-19 03:57:10 listening done",
@@ -16427,7 +16404,11 @@
   "11-19 05:30:44 run start",
   "11-19 05:31:03 listening 11 min",
   "11-19 05:42:22 listening done",
-  "11-19 05:42:22 run end after 697 s"
+  "11-19 05:42:22 run end after 697 s",
+  "11-19 05:45:37 run start",
+  "11-19 05:46:10 listening 11 min",
+  "11-19 05:57:04 listening done",
+  "11-19 05:57:04 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
