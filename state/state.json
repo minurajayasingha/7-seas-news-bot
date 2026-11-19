@@ -1,89 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "2b743f026f": {
-   "id": "2b743f026f",
-   "headline": "Iran launches drone attacks against US military base in Bahrain",
-   "summary": "Iran launched drone attacks against a US military base in Bahrain. The incidents follow US strikes in Iran and affect peace talks between Tehran and Washington.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "Bahrain issued two alerts of potential threats.",
-    "Negotiations to end the conflict remain at a stalemate.",
-    "The US maintains a naval blockade."
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#Bahrain",
-    "#Iran",
-    "#USMilitary"
-   ],
-   "sources": [
-    "France 24",
-    "The Guardian"
-   ],
-   "link": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
-   "links": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain"
-    ]
-   ],
-   "bg": {
-    "type": "incident",
-    "photos": [],
-    "location": "Manama, Bahrain"
-   },
-   "img_post": {
-    "headline": "Iran launches drone attacks against US military base in Bahrain",
-    "people": [],
-    "image_query": "Manama skyline",
-    "image_queries": [
-     "US military base",
-     "Persian Gulf",
-     "Manama capital",
-     "strait of Hormuz"
-    ],
-    "image_style": "incident",
-    "location": "Manama, Bahrain",
-    "nearby_city": "Manama, Bahrain",
-    "event_query": "Bahrain drone attack",
-    "news_time": null,
-    "label": "CONFLICT"
-   },
-   "created_at": "2026-11-15T18:01:00.116203+00:00",
-   "news_time": "2026-11-15T15:29:22+00:00",
-   "news_latest": "2026-11-15T17:36:09+00:00",
-   "caption": "🚨 BREAKING: Iran launches drone attacks against US military base in Bahrain\n\nIran launched drone attacks against a US military base in Bahrain. The incidents follow US strikes in Iran and affect peace talks between Tehran and Washington.\n\nWhat we know so far:\n• Bahrain issued two alerts of potential threats.\n• Negotiations to end the conflict remain at a stalemate.\n• The US maintains a naval blockade.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Bahrain #Iran #USMilitary #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 598,
-   "tg_file_id": "AgACAgUAAxkDAAICVmr581-U3Az0rmXaSqTzTwTJcT2SAAKcFGsbT5fRV55MzZe6N_hRAQADAgADdwADPQQ",
-   "extra_msgs": [],
-   "dup_ok": true,
-   "queued_at": "2026-11-15T19:07:15.147944+00:00",
-   "post_now": true,
-   "post_at": "2026-11-15T19:07:15.147962+00:00",
-   "post_label": "🚀 Posting now",
-   "fb_post_id": "1413030521900096_122102604381548584",
-   "posted_at": "2026-11-15T19:07:15.455037+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 15 · 2:07 PM New York · 12:37 AM Sri Lanka\n\n<b>Iran launches drone attacks against US military base in Bahrain</b>\n<i>France 24, The Guardian</i>\n🟡 <b>Latest:</b> 11:06 PM Sri Lanka (1h 31m ago) · first reported 8:59 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122102604381548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 391,
-   "log_photo": true,
-   "cleared": true,
-   "fb_comment_id": "122102604381548584_1590527229787507",
-   "fb_story_id": "1830061631517831",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-18T18:17:46.780171+00:00"
-  },
   "09f8cf7a0f": {
    "id": "09f8cf7a0f",
    "headline": "Scott Colom discusses healthcare and leadership race after Mississippi win",
@@ -16518,17 +16435,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-19T17:45:34.605548+00:00",
+ "last_draft_at": "2026-11-19T18:00:45.899867+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T17:30:48.903641+00:00",
  "run_log": [
-  "11-19 15:31:05 run start",
-  "11-19 15:35:37 listening 7 min",
-  "11-19 15:42:46 listening done",
-  "11-19 15:42:46 run end after 700 s",
   "11-19 15:45:45 run start",
   "11-19 15:50:54 listening 6 min",
   "11-19 15:57:11 listening done",
@@ -16564,7 +16477,11 @@
   "11-19 17:45:34 run start",
   "11-19 17:46:17 listening 11 min",
   "11-19 17:57:12 listening done",
-  "11-19 17:57:12 run end after 697 s"
+  "11-19 17:57:12 run end after 697 s",
+  "11-19 18:00:45 run start",
+  "11-19 18:01:05 listening 11 min",
+  "11-19 18:12:24 listening done",
+  "11-19 18:12:24 run end after 699 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
