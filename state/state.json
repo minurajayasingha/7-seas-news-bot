@@ -1,93 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "6f0bb5e135": {
-   "id": "6f0bb5e135",
-   "headline": "Federal Aviation Administration imposes nationwide ground stop",
-   "summary": "The Federal Aviation Administration imposed a nationwide ground stop. U.S. officials stated that President Trump was informed within 30 minutes. According to officials, the air traffic system has experienced disruptive failures recently.",
-   "label": "US POLITICS",
-   "hook": "Should the federal government increase upgrades for the air traffic system?",
-   "key_points": [
-    "President Trump was informed within 30 minutes.",
-    "The air traffic control infrastructure is aging.",
-    "Officials have sought to make system upgrades."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#FAA",
-    "#Aviation",
-    "#USNews"
-   ],
-   "sources": [
-    "CBS News",
-    "New York Times"
-   ],
-   "link": "https://www.cbsnews.com/news/faa-ground-stop-trump-admin-response/",
-   "links": [
-    [
-     "CBS News",
-     "https://www.cbsnews.com/news/faa-ground-stop-trump-admin-response/"
-    ],
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/The_FAA_air_traffic_control_tower_at_Philadelphia_International_Airport.jpg/1920px-The_FAA_air_traffic_control_tower_at_Philadelphia_International_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Harrison Keely / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Federal Aviation Administration imposes nationwide ground stop",
-    "people": [],
-    "image_query": "Federal Aviation Administration building",
-    "image_queries": [
-     "air traffic control tower",
-     "airplane cockpit instruments",
-     "commercial airliner in flight",
-     "airport terminal interior"
-    ],
-    "image_style": "scene",
-    "location": "US",
-    "nearby_city": "Washington, DC",
-    "event_query": "FAA nationwide ground stop",
-    "news_time": null,
-    "label": "US POLITICS"
-   },
-   "created_at": "2026-11-15T03:31:28.730796+00:00",
-   "news_time": "2026-11-14T23:14:32+00:00",
-   "news_latest": "2026-11-15T03:16:17+00:00",
-   "caption": "Federal Aviation Administration imposes nationwide ground stop\n\nThe Federal Aviation Administration imposed a nationwide ground stop. U.S. officials stated that President Trump was informed within 30 minutes. According to officials, the air traffic system has experienced disruptive failures recently.\n\n💬 Should the federal government increase upgrades for the air traffic system?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#FAA #Aviation #USNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 568,
-   "tg_file_id": "AgACAgUAAxkDAAICOGr5J5KxjhgwDUHupXB_CK7KTLLFAAJFE2sbT5fRV_3Vmg71UtWmAQADAgADdwADPQQ",
-   "extra_msgs": [],
-   "dup_ok": true,
-   "queued_at": "2026-11-15T09:11:23.038558+00:00",
-   "post_now": true,
-   "post_at": "2026-11-15T09:11:23.038573+00:00",
-   "post_label": "🚀 Posting now",
-   "fb_post_id": "1413030521900096_122102095569548584",
-   "posted_at": "2026-11-15T09:11:24.024555+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 15 · 4:11 AM New York · 2:41 PM Sri Lanka\n\n<b>Federal Aviation Administration imposes nationwide ground stop</b>\n<i>CBS News, New York Times</i>\n🔴 <b>Latest:</b> 8:46 AM Sri Lanka (5h 55m ago) · first reported 4:44 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122102095569548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 375,
-   "log_photo": true,
-   "cleared": true,
-   "fb_comment_id": "122102095569548584_2064028900934620",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-18T09:00:50.416792+00:00"
-  },
   "a499e979fc": {
    "id": "a499e979fc",
    "headline": "SpaceX catches Starship spacecraft in South Texas",
@@ -16217,17 +16130,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-19T03:15:37.429851+00:00",
+ "last_draft_at": "2026-11-19T03:30:41.563996+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T03:00:52.763727+00:00",
  "run_log": [
-  "11-19 00:57:23 listening done",
-  "11-19 00:57:23 run end after 689 s",
-  "11-19 01:00:53 run start",
-  "11-19 01:01:58 listening 10 min",
   "11-19 01:12:26 listening done",
   "11-19 01:12:26 run end after 693 s",
   "11-19 01:16:19 run start",
@@ -16263,7 +16172,11 @@
   "11-19 03:15:36 run start",
   "11-19 03:15:47 listening 11 min",
   "11-19 03:27:06 listening done",
-  "11-19 03:27:06 run end after 689 s"
+  "11-19 03:27:06 run end after 689 s",
+  "11-19 03:30:41 run start",
+  "11-19 03:31:01 listening 11 min",
+  "11-19 03:42:19 listening done",
+  "11-19 03:42:19 run end after 698 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
