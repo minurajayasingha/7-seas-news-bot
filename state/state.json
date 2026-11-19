@@ -11340,6 +11340,93 @@
     "shares": 0
    },
    "stats_at": "2026-11-19T07:04:50.410385+00:00"
+  },
+  "bc659a943d": {
+   "id": "bc659a943d",
+   "headline": "UN nuclear watchdog says North Korea expands uranium enrichment facility",
+   "summary": "According to the UN nuclear watchdog, North Korea has been expanding its original uranium enrichment facility at the Yongbyon nuclear complex. The IAEA has not had access to the site or other locations in the country since inspectors were expelled in 2009.",
+   "label": "WORLD",
+   "hook": "Will the IAEA regain access to nuclear sites in North Korea?",
+   "key_points": [
+    "Expansion reported at the Yongbyon nuclear complex",
+    "Inspectors were expelled from North Korea in 2009"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#NorthKorea",
+    "#IAEA",
+    "#WorldNews"
+   ],
+   "sources": [
+    "ABC News",
+    "Euronews"
+   ],
+   "link": "https://abcnews.com/International/wireStory/north-korea-expanding-original-uranium-enrichment-facility-nuclear-138276975",
+   "links": [
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/north-korea-expanding-original-uranium-enrichment-facility-nuclear-138276975"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/19/north-korea-expanding-original-uranium-enrichment-facility-un-nuclear-watchdog-says"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Loppusijoituskapseli.jpg/1920px-Loppusijoituskapseli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "kallerna / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 8,
+      "shows": "nuclear waste canisters with fuel"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "UN nuclear watchdog says North Korea expands uranium enrichment facility",
+    "people": [],
+    "image_query": "Yongbyon nuclear complex",
+    "image_queries": [
+     "nuclear power plant",
+     "industrial facility",
+     "cooling towers",
+     "uranium processing"
+    ],
+    "image_style": "scene",
+    "location": "Yongbyon, North Korea",
+    "nearby_city": "Pyongyang, North Korea",
+    "event_query": "North Korea uranium enrichment expansion",
+    "topic_photo": "nuclear facility",
+    "label": "WORLD",
+    "action_subject": "nuclear facility",
+    "news_time": "2026-11-19T07:00:42+00:00"
+   },
+   "created_at": "2026-11-19T07:41:58.471905+00:00",
+   "news_time": "2026-11-19T07:00:42+00:00",
+   "news_latest": "2026-11-19T07:29:33+00:00",
+   "importance": 7,
+   "caption": "UN nuclear watchdog says North Korea expands uranium enrichment facility\n\nAccording to the UN nuclear watchdog, North Korea has been expanding its original uranium enrichment facility at the Yongbyon nuclear complex. The IAEA has not had access to the site or other locations in the country since inspectors were expelled in 2009.\n\n💬 Will the IAEA regain access to nuclear sites in North Korea?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#NorthKorea #IAEA #WorldNews #7SeasNews",
+   "photo_line": "📷 8/10 nuclear waste canisters with fuel · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 815,
+   "tg_file_id": "AgACAgUAAxkDAAIDL2r-qEs5TiHfGlytcPbKG75tRm32AALEFWsb3mnwV1dei9XblR10AQADAgADdwADPQQ",
+   "queued_at": "2026-11-19T07:42:03.751361+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-19T07:42:03.751397+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122106059379548584",
+   "posted_at": "2026-11-19T07:42:04.080719+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 19 · 2:42 AM New York · 1:12 PM Sri Lanka\n\n<b>UN nuclear watchdog says North Korea expands uranium enrichment facility</b>\n<i>ABC News, Euronews</i>\n🟢 <b>Latest:</b> 12:59 PM Sri Lanka (12 min ago) · first reported 12:30 PM\n📷 8/10 nuclear waste canisters with fuel · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122106059379548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 521,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122106059379548584_1846858896735940"
   }
  },
  "seen_links": [
@@ -12920,7 +13007,9 @@
   "https://www.aljazeera.com/news/2026/11/19/elon-musk-says-he-feels-pretty-foolish-about-us-midterm-spending?traffic_source=rss",
   "https://www.cbsnews.com/news/elon-musk-not-maga-midterm-spending-trump/",
   "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-  "https://www.nbcnews.com/politics/2026-election/elon-musk-says-not-maga-spending-millions-trump-allies-rcna610129"
+  "https://www.nbcnews.com/politics/2026-election/elon-musk-says-not-maga-spending-millions-trump-allies-rcna610129",
+  "https://abcnews.com/International/wireStory/north-korea-expanding-original-uranium-enrichment-facility-nuclear-138276975",
+  "https://www.euronews.com/2026/11/19/north-korea-expanding-original-uranium-enrichment-facility-un-nuclear-watchdog-says"
  ],
  "recent_topics": [
   [
@@ -16288,19 +16377,30 @@
     "wreck"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-19T07:42:03.751162+00:00",
+   [
+    "enrichment",
+    "expand",
+    "facility",
+    "korea",
+    "north",
+    "nuclear",
+    "original",
+    "uranium",
+    "watchdog"
+   ],
+   "bc659a943d"
   ]
  ],
- "last_draft_at": "2026-11-19T07:29:32.250182+00:00",
+ "last_draft_at": "2026-11-19T07:41:32.853044+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T07:04:50.410385+00:00",
  "run_log": [
-  "11-19 04:49:41 run start",
-  "11-19 04:49:53 listening 11 min",
-  "11-19 05:01:11 listening done",
-  "11-19 05:01:11 run end after 690 s",
   "11-19 05:01:41 run start",
   "11-19 05:02:57 listening 10 min",
   "11-19 05:13:27 listening done",
@@ -16336,12 +16436,15 @@
   "11-19 07:29:31 run start",
   "11-19 07:29:41 listening 11 min",
   "11-19 07:41:00 listening done",
-  "11-19 07:41:00 run end after 688 s"
+  "11-19 07:41:00 run end after 688 s",
+  "11-19 07:41:32 run start",
+  "11-19 07:42:19 listening 11 min",
+  "11-19 07:53:13 listening done",
+  "11-19 07:53:13 run end after 700 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/d/da/Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/3/37/US_Capitol_Dome_High_Res_Jan_2006.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/WikimediaServersOct07_1.JPG/1920px-WikimediaServersOct07_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Fishing_Vessel_FH19%2C_Hooe_Lake%2C_Plymouth.jpg/1920px-Fishing_Vessel_FH19%2C_Hooe_Lake%2C_Plymouth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -16380,7 +16483,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Downtown_Port_au_Prince_%284311459711%29.jpg/1920px-Downtown_Port_au_Prince_%284311459711%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Brussels_NATO_Headquarters.jpg/1920px-Brussels_NATO_Headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Elbridge_A._Colby_%282%29.jpg/1280px-Elbridge_A._Colby_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/%D0%A0%D0%B0%D1%84%D0%B8%D0%BD%D0%B5%D1%80%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0%D1%84%D1%82%D0%B5_%D0%91%D1%80%D0%BE%D0%B4_%28Oil_refinery_Brod%2C_Republika_Srpska%29.jpg/1920px-%D0%A0%D0%B0%D1%84%D0%B8%D0%BD%D0%B5%D1%80%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0%D1%84%D1%82%D0%B5_%D0%91%D1%80%D0%BE%D0%B4_%28Oil_refinery_Brod%2C_Republika_Srpska%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/%D0%A0%D0%B0%D1%84%D0%B8%D0%BD%D0%B5%D1%80%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0%D1%84%D1%82%D0%B5_%D0%91%D1%80%D0%BE%D0%B4_%28Oil_refinery_Brod%2C_Republika_Srpska%29.jpg/1920px-%D0%A0%D0%B0%D1%84%D0%B8%D0%BD%D0%B5%D1%80%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0%D1%84%D1%82%D0%B5_%D0%91%D1%80%D0%BE%D0%B4_%28Oil_refinery_Brod%2C_Republika_Srpska%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Loppusijoituskapseli.jpg/1920px-Loppusijoituskapseli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "wes moore": {
@@ -19820,7 +19924,6 @@
    }
   },
   "recent_ideas": [
-   "missile strike",
    "us capitol building",
    "judge gavel",
    "federal bureau of investigation building",
@@ -19831,7 +19934,8 @@
    "computer code on screen",
    "voting booth",
    "nato headquarters brussels",
-   "oil refinery"
+   "oil refinery",
+   "nuclear facility"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -20503,6 +20607,16 @@
     "s": 10,
     "w": "oil refinery",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Can_we_make_a_Star%3F_%284196928046%29.jpg/1920px-Can_we_make_a_Star%3F_%284196928046%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|9bb834a9": {
+    "s": 0,
+    "w": "people posing at facility poster",
+    "p": "contains drawings, text graphics, and specific date/event branding"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Loppusijoituskapseli.jpg/1920px-Loppusijoituskapseli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|9bb834a9": {
+    "s": 8,
+    "w": "nuclear waste canisters with fuel",
+    "p": ""
    }
   }
  },
@@ -20514,10 +20628,10 @@
   "2026-11-16": 32,
   "2026-11-17": 35,
   "2026-11-18": 22,
-  "2026-11-19": 1
+  "2026-11-19": 2
  },
- "last_auto_at": "2026-11-19T05:16:06.858943+00:00",
- "last_post_at": "2026-11-19T05:16:11.692400+00:00",
+ "last_auto_at": "2026-11-19T07:42:04.080719+00:00",
+ "last_post_at": "2026-11-19T07:42:08.508503+00:00",
  "reels_count": {
   "2026-11-12": 2,
   "2026-11-13": 10,
