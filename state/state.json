@@ -11412,6 +11412,93 @@
     "shares": 0
    },
    "stats_at": "2026-11-19T17:30:48.903641+00:00"
+  },
+  "25be5e34a5": {
+   "id": "25be5e34a5",
+   "headline": "Anthropic reaches one point five trillion dollar valuation in Nasdaq debut",
+   "summary": "Anthropic made its Nasdaq debut with a record-breaking IPO valuing the company at $1.5 trillion. Outside the New York exchange, police detained three protesters warning of financial risks regarding an AI bubble.",
+   "label": "ECONOMY",
+   "hook": "",
+   "key_points": [
+    "Anthropic shares began trading on the Nasdaq.",
+    "Three protesters were detained outside the New York exchange."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Anthropic",
+    "#Nasdaq",
+    "#Economy"
+   ],
+   "sources": [
+    "Euronews",
+    "NBC News"
+   ],
+   "link": "https://www.nbcnews.com/video/markets-react-to-anthropic-s-ipo-273822277818",
+   "links": [
+    [
+     "NBC News",
+     "https://www.nbcnews.com/video/markets-react-to-anthropic-s-ipo-273822277818"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/video/2026/11/19/us-protesters-warn-of-ai-bubble-as-anthropic-makes-stock-market-history"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Wall_Street_-_New_York_Stock_Exchange.jpg/1920px-Wall_Street_-_New_York_Stock_Exchange.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Carlos Delgado / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 7,
+      "shows": "Wall Street building in New York"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Anthropic reaches one point five trillion dollar valuation in Nasdaq debut",
+    "people": [],
+    "image_query": "New York Stock Exchange",
+    "image_queries": [
+     "Nasdaq building",
+     "Wall Street New York",
+     "Stock market board",
+     "Financial district protesters"
+    ],
+    "image_style": "scene",
+    "location": "New York, US",
+    "nearby_city": "New York, New York",
+    "event_query": "Anthropic Nasdaq IPO",
+    "topic_photo": "stock market board",
+    "label": "ECONOMY",
+    "action_subject": "protest crowd with signs",
+    "news_time": "2026-11-19T17:32:29+00:00"
+   },
+   "created_at": "2026-11-19T18:16:44.263829+00:00",
+   "news_time": "2026-11-19T17:32:29+00:00",
+   "news_latest": "2026-11-19T17:50:54+00:00",
+   "importance": 7,
+   "caption": "🚨 BREAKING: Anthropic reaches one point five trillion dollar valuation in Nasdaq debut\n\nAnthropic made its Nasdaq debut with a record-breaking IPO valuing the company at $1.5 trillion. Outside the New York exchange, police detained three protesters warning of financial risks regarding an AI bubble.\n\nWhat we know so far:\n• Anthropic shares began trading on the Nasdaq.\n• Three protesters were detained outside the New York exchange.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Anthropic #Nasdaq #Economy #7SeasNews",
+   "photo_line": "📷 7/10 Wall Street building in New York",
+   "status": "posted",
+   "tg_message_id": 831,
+   "tg_file_id": "AgACAgUAAxkDAAIDP2r_PRVfunIKR7xV3iALdBlvMcizAAKtFGsb3mn4V5n450_5YCgvAQADAgADdwADPQQ",
+   "queued_at": "2026-11-19T18:16:54.030654+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-19T18:16:54.030699+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122106553035548584",
+   "posted_at": "2026-11-19T18:16:54.327176+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 19 · 1:16 PM New York · 11:46 PM Sri Lanka\n\n<b>Anthropic reaches one point five trillion dollar valuation in Nasdaq debut</b>\n<i>Euronews, NBC News</i>\n🟢 <b>Latest:</b> 11:20 PM Sri Lanka (26 min ago) · first reported 11:02 PM\n📷 7/10 Wall Street building in New York\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122106553035548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 539,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122106553035548584_1082572404824166",
+   "fb_story_id": "2432153150868937"
   }
  },
  "seen_links": [
@@ -13053,7 +13140,9 @@
   "https://www.theguardian.com/us-news/2026/nov/19/trump-apec-asleep-china",
   "https://www.independent.co.uk/news/world/americas/us-politics/trump-escalator-holding-hands-china-xi-jinping-b3088089.html",
   "https://www.washingtonexaminer.com/sports/4808788/interior-department-deal-makeover-rock-creek-tennis-center-dc/",
-  "https://thehill.com/policy/sports-gaming/6230532-mark-ein-rock-creek-renovation/"
+  "https://thehill.com/policy/sports-gaming/6230532-mark-ein-rock-creek-renovation/",
+  "https://www.nbcnews.com/video/markets-react-to-anthropic-s-ipo-273822277818",
+  "https://www.euronews.com/video/2026/11/19/us-protesters-warn-of-ai-bubble-as-anthropic-makes-stock-market-history"
  ],
  "recent_topics": [
   [
@@ -16433,19 +16522,31 @@
     "trump"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-19T18:16:54.030511+00:00",
+   [
+    "anthropic",
+    "bubbl",
+    "history",
+    "ipo",
+    "mak",
+    "market",
+    "protester",
+    "react",
+    "stock",
+    "warn"
+   ],
+   "25be5e34a5"
   ]
  ],
- "last_draft_at": "2026-11-19T18:00:45.899867+00:00",
+ "last_draft_at": "2026-11-19T18:15:38.928171+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T17:30:48.903641+00:00",
  "run_log": [
-  "11-19 15:45:45 run start",
-  "11-19 15:50:54 listening 6 min",
-  "11-19 15:57:11 listening done",
-  "11-19 15:57:11 run end after 686 s",
   "11-19 16:06:16 run start",
   "11-19 16:06:17 listening 11 min",
   "11-19 16:18:00 listening done",
@@ -16481,12 +16582,15 @@
   "11-19 18:00:45 run start",
   "11-19 18:01:05 listening 11 min",
   "11-19 18:12:24 listening done",
-  "11-19 18:12:24 run end after 699 s"
+  "11-19 18:12:24 run end after 699 s",
+  "11-19 18:15:38 run start",
+  "11-19 18:17:13 listening 10 min",
+  "11-19 18:27:16 listening done",
+  "11-19 18:27:16 run end after 698 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Jensen_huang_stanford_2026-04-09_034.jpg/1280px-Jensen_huang_stanford_2026-04-09_034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Madison_August_2022_099_%28Official_Absentee_Ballot_Drop_Box%29.jpg/1920px-Madison_August_2022_099_%28Official_Absentee_Ballot_Drop_Box%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Mary_Peltola_Congressional_Member_Portrait_%282%29.jpeg/1280px-Mary_Peltola_Congressional_Member_Portrait_%282%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/6/67/Virginia_House_of_Delegates_chamber_2017.jpg",
@@ -16525,7 +16629,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Grand-Place%2C_Brussels_-_Wide_view_of_the_cobblestone_square_with_the_House_of_the_Dukes_of_Brabant_on_the_right.jpg/1920px-Grand-Place%2C_Brussels_-_Wide_view_of_the_cobblestone_square_with_the_House_of_the_Dukes_of_Brabant_on_the_right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/4/42/Mogadishu_Skyline_1st_picture.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/DJI_-_Drohne_Mavic_Air_2.JPG/1920px-DJI_-_Drohne_Mavic_Air_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Wall_Street_-_New_York_Stock_Exchange.jpg/1920px-Wall_Street_-_New_York_Stock_Exchange.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "jeff van drew": {
@@ -19940,7 +20045,6 @@
    }
   },
   "recent_ideas": [
-   "oval office",
    "soldiers",
    "computer code on screen",
    "voting booth",
@@ -19951,7 +20055,8 @@
    "danish flag",
    "red square, moscow",
    "mogadishu skyline",
-   "drone in flight"
+   "drone in flight",
+   "wall street, new york"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -20808,6 +20913,31 @@
     "s": 3,
     "w": "law office building",
     "p": "building exterior, not specific to Trump administration"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Protest_march_Summit_New_Jersey_Black_Lives_Matter_June_2_2020_10_of_12.jpg/1920px-Protest_march_Summit_New_Jersey_Black_Lives_Matter_June_2_2020_10_of_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|2f164bc5": {
+    "s": 0,
+    "w": "person with face mask",
+    "p": "selfie in foreground blocking the protest scene"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Capitol_with_crowd_and_cameras.jpg/1920px-Capitol_with_crowd_and_cameras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|2f164bc5": {
+    "s": 0,
+    "w": "protest crowd in front of building",
+    "p": "protest photo used for an economy valuation story"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Reversed_American_flag_and_crowd_at_the_ICE_OUT_protest_in_San_Francisco_on_January_30_2026.jpg/1920px-Reversed_American_flag_and_crowd_at_the_ICE_OUT_protest_in_San_Francisco_on_January_30_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|2f164bc5": {
+    "s": 0,
+    "w": "protest crowd in park",
+    "p": "wrong location or unrelated protest photo for financial news"
+   },
+   "https://live.staticflickr.com/3213/2932134237_4dbd75079b_b.jpg|2f164bc5": {
+    "s": 4,
+    "w": "crowd on Wall Street",
+    "p": "shows Wall Street street scene instead of Nasdaq debut or company valuation"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Wall_Street_-_New_York_Stock_Exchange.jpg/1920px-Wall_Street_-_New_York_Stock_Exchange.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|2f164bc5": {
+    "s": 7,
+    "w": "Wall Street building in New York",
+    "p": ""
    }
   }
  },
@@ -20819,10 +20949,10 @@
   "2026-11-16": 32,
   "2026-11-17": 35,
   "2026-11-18": 22,
-  "2026-11-19": 13
+  "2026-11-19": 14
  },
- "last_auto_at": "2026-11-19T16:33:18.638319+00:00",
- "last_post_at": "2026-11-19T16:33:27.906013+00:00",
+ "last_auto_at": "2026-11-19T18:16:54.327176+00:00",
+ "last_post_at": "2026-11-19T18:16:59.163118+00:00",
  "reels_count": {
   "2026-11-13": 10,
   "2026-11-14": 8,
