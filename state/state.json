@@ -12983,7 +12983,9 @@
   "https://www.aljazeera.com/news/2026/11/19/south-korean-court-orders-retrial-for-ex-pm-han-over-martial-law-attempt?traffic_source=rss",
   "https://abcnews.com/International/wireStory/south-koreas-top-court-overturns-charges-prime-minister-138280095",
   "https://abcnews.com/International/wireStory/migrant-boat-capsizes-off-senegals-coast-leaving-1-138286309",
-  "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+  "https://www.upi.com/Top_News/World-News/2026/11/19/Ukraine-strikes-Kerch-Bridge-again/4411795088239/",
+  "https://www.newsweek.com/kerch-bridge-strike-future-of-war-drones-uforce-12725365"
  ],
  "recent_topics": [
   [
@@ -16342,19 +16344,32 @@
     "sink"
    ],
    "8d4538a5bc"
+  ],
+  [
+   "2026-11-19T14:38:20.116022+00:00",
+   [
+    "bridg",
+    "evolution",
+    "forc",
+    "kerch",
+    "rail",
+    "road",
+    "strik",
+    "suspension",
+    "traffic",
+    "ukrain",
+    "war"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-19T14:26:20.538371+00:00",
+ "last_draft_at": "2026-11-19T14:38:03.295524+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T14:25:43.473391+00:00",
  "run_log": [
-  "11-19 12:15:43 run start",
-  "11-19 12:15:53 listening 11 min",
-  "11-19 12:27:13 listening done",
-  "11-19 12:27:13 run end after 689 s",
   "11-19 12:30:52 run start",
   "11-19 12:32:09 listening 10 min",
   "11-19 12:42:38 listening done",
@@ -16390,7 +16405,11 @@
   "11-19 14:25:42 run start",
   "11-19 14:26:21 listening 11 min",
   "11-19 14:37:16 listening done",
-  "11-19 14:37:16 run end after 693 s"
+  "11-19 14:37:16 run end after 693 s",
+  "11-19 14:38:02 run start",
+  "11-19 14:38:20 listening 11 min",
+  "11-19 14:49:39 listening done",
+  "11-19 14:49:39 run end after 696 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
