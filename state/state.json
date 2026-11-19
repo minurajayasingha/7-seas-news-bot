@@ -12916,7 +12916,11 @@
   "https://www.france24.com/en/middle-east/20261119-middle-east-crisis-energy-security-iea",
   "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
   "https://www.independent.co.uk/news/world/australasia/australia-spitfire-warship-wreck-found-queensland-b3087663.html",
-  "https://www.theguardian.com/environment/2026/nov/19/first-australian-built-warship-wreck-discovered"
+  "https://www.theguardian.com/environment/2026/nov/19/first-australian-built-warship-wreck-discovered",
+  "https://www.aljazeera.com/news/2026/11/19/elon-musk-says-he-feels-pretty-foolish-about-us-midterm-spending?traffic_source=rss",
+  "https://www.cbsnews.com/news/elon-musk-not-maga-midterm-spending-trump/",
+  "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+  "https://www.nbcnews.com/politics/2026-election/elon-musk-says-not-maga-spending-millions-trump-allies-rcna610129"
  ],
  "recent_topics": [
   [
@@ -16286,15 +16290,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-19T07:05:31.137339+00:00",
+ "last_draft_at": "2026-11-19T07:17:07.613225+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T07:04:50.410385+00:00",
  "run_log": [
-  "11-19 04:36:59 listening done",
-  "11-19 04:36:59 run end after 702 s",
   "11-19 04:37:35 run start",
   "11-19 04:37:54 listening 11 min",
   "11-19 04:49:14 listening done",
@@ -16332,7 +16334,9 @@
   "11-19 06:48:06 listening done",
   "11-19 06:48:06 run end after 697 s",
   "11-19 07:04:49 run start",
-  "11-19 07:05:40 listening 11 min"
+  "11-19 07:05:40 listening 11 min",
+  "11-19 07:17:07 run start",
+  "11-19 07:17:31 listening 11 min"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
