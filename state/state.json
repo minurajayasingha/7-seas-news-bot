@@ -12864,7 +12864,9 @@
   "https://www.newsweek.com/dojs-other-dan-sullivan-criminal-probe-widens-after-peltola-win-12737508",
   "https://www.washingtonexaminer.com/news/justice/4808208/doj-subpoenas-alaska-decoy-dan-investigation/",
   "https://www.foxnews.com/world/bukele-gets-heros-welcome-thousands-rally-haiti-gang-crackdown",
-  "https://www.euronews.com/2026/11/18/bukele-confirms-airstrike-on-haitian-gang-leader-jeffs-luxury-mansion"
+  "https://www.euronews.com/2026/11/18/bukele-confirms-airstrike-on-haitian-gang-leader-jeffs-luxury-mansion",
+  "https://www.nytimes.com/2026/11/18/us/politics/alaska-nick-begich-wins-house-race.html",
+  "https://thehill.com/homenews/campaign/6184657-nick-begich-alaska-house-district/"
  ],
  "recent_topics": [
   [
@@ -16179,17 +16181,13 @@
    "9726d16929"
   ]
  ],
- "last_draft_at": "2026-11-19T02:30:00.008063+00:00",
+ "last_draft_at": "2026-11-19T02:48:24.721091+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-19T02:00:56.461500+00:00",
  "run_log": [
-  "11-19 00:12:15 listening done",
-  "11-19 00:12:15 run end after 685 s",
-  "11-19 00:15:35 run start",
-  "11-19 00:15:54 listening 11 min",
   "11-19 00:27:13 listening done",
   "11-19 00:27:13 run end after 697 s",
   "11-19 00:30:43 run start",
@@ -16225,7 +16223,11 @@
   "11-19 02:35:54 run start",
   "11-19 02:35:54 listening 11 min",
   "11-19 02:47:37 listening done",
-  "11-19 02:47:37 run end after 703 s"
+  "11-19 02:47:37 run end after 703 s",
+  "11-19 02:48:24 run start",
+  "11-19 02:49:09 listening 11 min",
+  "11-19 03:00:04 listening done",
+  "11-19 03:00:04 run end after 700 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
