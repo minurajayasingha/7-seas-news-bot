@@ -1,193 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "86a4e525de": {
-   "id": "86a4e525de",
-   "headline": "Mexican drug lord Miguel Angel Felix Gallardo dies at 80",
-   "summary": "Miguel Angel Felix Gallardo, head of the Guadalajara Cartel in the 1980s, has died in hospital at age 80. He was imprisoned since 1989 following his conviction for the murder of a US drug enforcement agent.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "He was known as the boss of bosses.",
-    "He suffered multiple organ failure.",
-    "He was transferred to a hospital before his death."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#WorldNews",
-    "#Mexico",
-    "#DrugCartel"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "BBC",
-    "France 24",
-    "New York Times"
-   ],
-   "link": "https://www.nytimes.com/2026/11/15/world/americas/felix-gallardo-mexico-dead.html",
-   "links": [
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/15/world/americas/felix-gallardo-mexico-dead.html"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison?traffic_source=rss"
-    ],
-    [
-     "BBC",
-     "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/americas/20261115-miguel-angel-felix-gallardo-mexican-drug-lord-dies"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Mugshot_miguel_%C3%A1ngel_f%C3%A9lix_gallardo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "US Federal Government / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Mexican drug lord Miguel Angel Felix Gallardo dies at 80",
-    "people": [
-     "Miguel Angel Felix Gallardo"
-    ],
-    "image_query": "Guadalajara city",
-    "image_queries": [
-     "Guadalajara cityscape",
-     "Jalisco security ministry",
-     "Mexican court building",
-     "Mexico City street"
-    ],
-    "image_style": "person",
-    "location": "Jalisco, Mexico",
-    "nearby_city": "Guadalajara, Mexico",
-    "event_query": "Miguel Angel Felix Gallardo death",
-    "news_time": null,
-    "label": "WORLD"
-   },
-   "created_at": "2026-11-16T02:16:02.427590+00:00",
-   "news_time": "2026-11-15T22:48:31+00:00",
-   "news_latest": "2026-11-16T02:11:17+00:00",
-   "caption": "Mexican drug lord Miguel Angel Felix Gallardo dies at 80\n\nMiguel Angel Felix Gallardo, head of the Guadalajara Cartel in the 1980s, has died in hospital at age 80. He was imprisoned since 1989 following his conviction for the murder of a US drug enforcement agent.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WorldNews #Mexico #DrugCartel #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 616,
-   "tg_file_id": "AgACAgUAAxkDAAICaGr6Z2TIhJB1D3ThVehc7WL2krM-AAJEFmsbg6zYVwABdA0JL4CaWAEAAwIAA3cAAz0E",
-   "queued_at": "2026-11-16T02:16:05.075998+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-16T02:16:05.076029+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122102906577548584",
-   "posted_at": "2026-11-16T02:16:09.069750+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 15 · 9:16 PM New York · 7:46 AM Sri Lanka\n\n<b>Mexican drug lord Miguel Angel Felix Gallardo dies at 80</b>\n<i>Al Jazeera, BBC, France 24, New York Times</i>\n🟢 <b>Latest:</b> 7:41 AM Sri Lanka (4 min ago) · first reported 4:18 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122102906577548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 400,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122102906577548584_1123740590250011",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-19T02:00:56.461500+00:00"
-  },
-  "6050451047": {
-   "id": "6050451047",
-   "headline": "Independent Australian MP Helen Haines leaves hospital after four weeks",
-   "summary": "Independent Australian MP Helen Haines has left hospital four weeks after an alleged car attack outside her electorate office in regional Victoria. The Alfred hospital in Melbourne confirmed her discharge on Monday.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "The MP lost both of her legs in the incident.",
-    "The hospital provided no further detail upon her discharge."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Australia",
-    "#WorldNews",
-    "#Politics"
-   ],
-   "sources": [
-    "BBC",
-    "The Guardian"
-   ],
-   "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
-   "links": [
-    [
-     "BBC",
-     "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Cropped_portrait_of_Helen_Haines_%E2%80%94_June_2022.jpg/1280px-Cropped_portrait_of_Helen_Haines_%E2%80%94_June_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Alison Newman / Wikimedia Commons (CC0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Independent Australian MP Helen Haines leaves hospital after four weeks",
-    "people": [
-     "Helen Haines"
-    ],
-    "image_query": "Melbourne skyline",
-    "image_queries": [
-     "Victorian Parliament House",
-     "regional Victoria office",
-     "Melbourne street",
-     "Australian Parliament"
-    ],
-    "image_style": "person",
-    "location": "Melbourne, Australia",
-    "nearby_city": "Melbourne, Australia",
-    "event_query": "The Alfred hospital Melbourne",
-    "news_time": null,
-    "label": "WORLD"
-   },
-   "created_at": "2026-11-16T02:16:07.131688+00:00",
-   "news_time": "2026-11-16T01:36:54+00:00",
-   "news_latest": "2026-11-16T01:53:19+00:00",
-   "caption": "Independent Australian MP Helen Haines leaves hospital after four weeks\n\nIndependent Australian MP Helen Haines has left hospital four weeks after an alleged car attack outside her electorate office in regional Victoria. The Alfred hospital in Melbourne confirmed her discharge on Monday.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Australia #WorldNews #Politics #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 617,
-   "tg_file_id": "AgACAgUAAxkDAAICaWr6Z2i0LuEVJUXu_OsavyNM1OxRAAJFFmsbg6zYVyZ7DqwdAd4VAQADAgADdwADPQQ",
-   "queued_at": "2026-11-16T02:16:08.787660+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-16T02:16:08.787688+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122102907273548584",
-   "posted_at": "2026-11-16T02:16:09.069750+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 15 · 9:16 PM New York · 7:46 AM Sri Lanka\n\n<b>Independent Australian MP Helen Haines leaves hospital after four weeks</b>\n<i>BBC, The Guardian</i>\n🟢 <b>Latest:</b> 7:23 AM Sri Lanka (23 min ago) · first reported 7:06 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122102907273548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 401,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122102907273548584_2564600184029390",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-19T02:00:56.461500+00:00"
-  },
   "4f2e859acf": {
    "id": "4f2e859acf",
    "headline": "Hundreds of thousands of Czechs protest public media funding in Prague",
@@ -17189,17 +17002,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-20T02:00:52.887051+00:00",
+ "last_draft_at": "2026-11-20T02:15:39.819754+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T01:45:36.060377+00:00",
  "run_log": [
-  "11-19 23:46:45 run start",
-  "11-19 23:47:30 listening 11 min",
-  "11-19 23:58:24 listening done",
-  "11-19 23:58:24 run end after 699 s",
   "11-20 00:00:56 run start",
   "11-20 00:01:28 listening 11 min",
   "11-20 00:12:21 listening done",
@@ -17235,7 +17044,11 @@
   "11-20 02:00:52 run start",
   "11-20 02:01:02 listening 11 min",
   "11-20 02:12:21 listening done",
-  "11-20 02:12:21 run end after 688 s"
+  "11-20 02:12:21 run end after 688 s",
+  "11-20 02:15:39 run start",
+  "11-20 02:15:59 listening 11 min",
+  "11-20 02:27:17 listening done",
+  "11-20 02:27:17 run end after 698 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
