@@ -13211,24 +13211,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-17T07:01:22.323045+00:00",
-   [
-    "apec",
-    "asean",
-    "backseat",
-    "meet",
-    "miss",
-    "most",
-    "summit",
-    "taiwan",
-    "tak",
-    "third",
-    "tim",
-    "trump"
-   ],
-   "skipped"
-  ],
-  [
    "2026-11-17T09:03:03.082522+00:00",
    [
     "air",
@@ -16789,17 +16771,13 @@
    "5c6961b5ad"
   ]
  ],
- "last_draft_at": "2026-11-20T06:46:06.342380+00:00",
+ "last_draft_at": "2026-11-20T07:01:00.342404+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T06:45:41.625382+00:00",
  "run_log": [
-  "11-20 04:36:19 run start",
-  "11-20 04:36:29 listening 11 min",
-  "11-20 04:47:49 listening done",
-  "11-20 04:47:49 run end after 689 s",
   "11-20 04:48:30 run start",
   "11-20 04:49:26 listening 11 min",
   "11-20 04:59:56 listening done",
@@ -16835,7 +16813,11 @@
   "11-20 06:45:41 run start",
   "11-20 06:46:15 listening 11 min",
   "11-20 06:57:08 listening done",
-  "11-20 06:57:08 run end after 687 s"
+  "11-20 06:57:08 run end after 687 s",
+  "11-20 07:00:59 run start",
+  "11-20 07:01:19 listening 11 min",
+  "11-20 07:12:38 listening done",
+  "11-20 07:12:38 run end after 698 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
