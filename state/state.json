@@ -11126,6 +11126,91 @@
     "shares": 0
    },
    "stats_at": "2026-11-20T17:51:17.444831+00:00"
+  },
+  "4f1d9bc8cb": {
+   "id": "4f1d9bc8cb",
+   "headline": "Denmark accuses Russian intelligence of plotting attack",
+   "summary": "Authorities in Denmark state they thwarted the attempted killing of an American Ukrainian citizen on their soil. According to officials, the plot was allegedly orchestrated by Russian intelligence services.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Target was an American Ukrainian citizen",
+    "Plot took place on Danish soil"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Denmark",
+    "#Russia",
+    "#WorldNews"
+   ],
+   "sources": [
+    "ABC News",
+    "The Independent"
+   ],
+   "link": "https://abcnews.com/International/wireStory/denmark-accuses-russian-intelligence-plotting-kill-american-ukrainian-138323497",
+   "links": [
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/denmark-accuses-russian-intelligence-plotting-kill-american-ukrainian-138323497"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/europe/american-copenhagen-denmark-poland-europe-b3088896.html"
+    ]
+   ],
+   "bg": {
+    "type": "map",
+    "photos": [],
+    "location": "Denmark",
+    "lat": 56.0,
+    "lon": 10.0,
+    "country": "Denmark",
+    "state": "",
+    "pin": true,
+    "fit": true
+   },
+   "img_post": {
+    "headline": "Denmark accuses Russian intelligence of plotting attack",
+    "people": [],
+    "image_query": "Copenhagen street",
+    "image_queries": [
+     "Danish flag",
+     "police tape",
+     "city street",
+     "government building"
+    ],
+    "image_style": "incident",
+    "location": "Denmark",
+    "nearby_city": "Copenhagen, Denmark",
+    "event_query": "Denmark police investigation",
+    "topic_photo": "police car",
+    "label": "CONFLICT",
+    "action_subject": "police officers at work",
+    "news_time": "2026-11-20T17:24:22+00:00"
+   },
+   "created_at": "2026-11-20T18:08:59.352611+00:00",
+   "news_time": "2026-11-20T17:24:22+00:00",
+   "news_latest": "2026-11-20T17:59:38+00:00",
+   "importance": 7,
+   "caption": "Denmark accuses Russian intelligence of plotting attack\n\nAuthorities in Denmark state they thwarted the attempted killing of an American Ukrainian citizen on their soil. According to officials, the plot was allegedly orchestrated by Russian intelligence services.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Denmark #Russia #WorldNews #7SeasNews",
+   "photo_line": "📷 news map (no fitting photo)",
+   "status": "posted",
+   "tg_message_id": 869,
+   "tg_file_id": "AgACAgUAAxkDAAIDZWsAAYy9FvccBUzyRIWwAzoQa--qlAACmhNrG_07CFSG9jQ1A6idkQEAAwIAA3cAAz0E",
+   "queued_at": "2026-11-20T18:09:01.343013+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-20T18:09:01.343047+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122107742373548584",
+   "posted_at": "2026-11-20T18:09:01.667082+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 20 · 1:09 PM New York · 11:39 PM Sri Lanka\n\n<b>Denmark accuses Russian intelligence of plotting attack</b>\n<i>ABC News, The Independent</i>\n🟢 <b>Latest:</b> 11:29 PM Sri Lanka (9 min ago) · first reported 10:54 PM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122107742373548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 576,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122107742373548584_2060379394625919"
   }
  },
  "seen_links": [
@@ -12916,42 +13001,14 @@
   "https://www.independent.co.uk/news/world/americas/trump-arch-dc-triumphal-rush-job-b3088885.html",
   "https://www.theguardian.com/us-news/2026/nov/20/trump-arch-blocked-judge",
   "https://www.nytimes.com/2026/11/20/arts/television/melania-the-series-takeaways.html",
-  "https://www.independent.co.uk/news/world/europe/melania-trump-donald-trump-new-york-brett-ratner-kellyanne-conway-b3088718.html"
+  "https://www.independent.co.uk/news/world/europe/melania-trump-donald-trump-new-york-brett-ratner-kellyanne-conway-b3088718.html",
+  "https://www.nbcnews.com/now/video/trump-says-he-won-t-allow-u-s-companies-to-build-data-centers-outside-the-country-273905221775",
+  "https://www.newsweek.com/trump-tax-us-data-centers-overseas-12748825",
+  "https://www.newsweek.com/americas-biggest-data-centers-use-as-much-power-as-entire-countries-12748493",
+  "https://abcnews.com/International/wireStory/denmark-accuses-russian-intelligence-plotting-kill-american-ukrainian-138323497",
+  "https://www.independent.co.uk/news/world/europe/american-copenhagen-denmark-poland-europe-b3088896.html"
  ],
  "recent_topics": [
-  [
-   "2026-11-17T18:06:59.130343+00:00",
-   [
-    "administration",
-    "asid",
-    "brush",
-    "card",
-    "concern",
-    "earlier",
-    "employer-sponsor",
-    "expert",
-    "far",
-    "gas",
-    "green",
-    "hear",
-    "help",
-    "lif",
-    "mamdani",
-    "many",
-    "mov",
-    "outag",
-    "plummet",
-    "pric",
-    "respons",
-    "restrict",
-    "swip",
-    "tak",
-    "tech",
-    "trump",
-    "want"
-   ],
-   "162452e3fe"
-  ],
   [
    "2026-11-17T18:18:39.751689+00:00",
    [
@@ -16488,19 +16545,30 @@
     "trump"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-20T18:09:01.342874+00:00",
+   [
+    "accus",
+    "american",
+    "denmark",
+    "intelligenc",
+    "kill",
+    "plott",
+    "russian",
+    "soil",
+    "ukrainian"
+   ],
+   "4f1d9bc8cb"
   ]
  ],
- "last_draft_at": "2026-11-20T17:51:46.170057+00:00",
+ "last_draft_at": "2026-11-20T18:03:11.494281+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T17:51:17.444831+00:00",
  "run_log": [
-  "11-20 14:45:42 run start",
-  "11-20 14:49:16 listening 8 min",
-  "11-20 14:57:14 listening done",
-  "11-20 14:57:14 run end after 692 s",
   "11-20 15:00:49 run start",
   "11-20 15:02:59 listening 9 min",
   "11-20 15:12:37 listening done",
@@ -16536,7 +16604,11 @@
   "11-20 17:51:17 run start",
   "11-20 17:52:17 listening 10 min",
   "11-20 18:02:46 listening done",
-  "11-20 18:02:46 run end after 689 s"
+  "11-20 18:02:46 run end after 689 s",
+  "11-20 18:03:11 run start",
+  "11-20 18:09:22 listening 5 min",
+  "11-20 18:14:49 listening done",
+  "11-20 18:14:49 run end after 698 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -21253,6 +21325,31 @@
     "s": 7,
     "w": "the US Supreme Court",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Female_police_officer_of_Denmark.jpg/1920px-Female_police_officer_of_Denmark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|0611fb67": {
+    "s": 6,
+    "w": "danish police officer on street",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Cityscape_and_skyline_by_the_Copenhagen_Lakes%2C_Denmark_-_%2836018109956%29.jpg/1920px-Cityscape_and_skyline_by_the_Copenhagen_Lakes%2C_Denmark_-_%2836018109956%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|0611fb67": {
+    "s": 2,
+    "w": "Copenhagen skyline at night",
+    "p": "shows a calm skyline instead of the action (attack plot)"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Denmark_Street_15_June_2016_01.jpg/1920px-Denmark_Street_15_June_2016_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|0611fb67": {
+    "s": 0,
+    "w": "Denmark Street guitar shop in London",
+    "p": "Wrong country: photo shows Denmark Street in London, UK, not Denmark."
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Yellow_timber_frammed_house_Roskilde_cathedral_square_Denmark.jpg/1920px-Yellow_timber_frammed_house_Roskilde_cathedral_square_Denmark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|0611fb67": {
+    "s": 0,
+    "w": "yellow half-timbered house in Denmark",
+    "p": "Photo shows a building, not the police or action related to the headline."
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Copenhagen_Lakes%2C_Denmark_-_K%C3%B8benhavn_S%C3%B8erne%2C_Danmark_-_Copenhagen_Skyline_Cityscape_-_Taken_with_Fotodiox_Rhinocam_-_Mamiya_80mm_f2.8_lens%2C_super_high_resolution_-_Flickr_-_Kristoffer_Trolle.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|0611fb67": {
+    "s": 0,
+    "w": "Copenhagen skyline at dusk",
+    "p": "shows city skyline instead of police or attack action"
    }
   }
  },
@@ -21264,10 +21361,10 @@
   "2026-11-17": 35,
   "2026-11-18": 22,
   "2026-11-19": 30,
-  "2026-11-20": 15
+  "2026-11-20": 16
  },
- "last_auto_at": "2026-11-20T17:39:56.056689+00:00",
- "last_post_at": "2026-11-20T17:40:02.137164+00:00",
+ "last_auto_at": "2026-11-20T18:09:01.667082+00:00",
+ "last_post_at": "2026-11-20T18:09:06.943543+00:00",
  "reels_count": {
   "2026-11-14": 8,
   "2026-11-15": 8,
