@@ -10799,6 +10799,284 @@
     "shares": 0
    },
    "stats_at": "2026-11-20T22:00:57.832568+00:00"
+  },
+  "9cd1260ee6": {
+   "id": "9cd1260ee6",
+   "headline": "Trump holds press conference after returning from China",
+   "summary": "President Donald Trump held a press conference Friday afternoon following his return from China. During the event, Trump stated that his 2020 election loss caused the war in Ukraine.",
+   "label": "US POLITICS",
+   "hook": "Would Stephen Miller make a successful presidential candidate?",
+   "key_points": [
+    "Trump floated Stephen Miller as a potential presidential candidate.",
+    "Vice President JD Vance declined to endorse the Iran war.",
+    "Vance stated that the president makes the decision on war."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#DonaldTrump",
+    "#WhiteHouse"
+   ],
+   "sources": [
+    "The Hill",
+    "UPI",
+    "Washington Examiner",
+    "Washington Post"
+   ],
+   "link": "https://www.washingtonpost.com/politics/2026/11/20/vice-president-jd-vance-declines-say-iran-war-was-worth-it-supports-trump/",
+   "links": [
+    [
+     "Washington Post",
+     "https://www.washingtonpost.com/politics/2026/11/20/vice-president-jd-vance-declines-say-iran-war-was-worth-it-supports-trump/"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/white-house/4810641/vance-decline-back-trump-iran-war/"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/homenews/administration/6234343-trump-asks-stephen-miller-run-presidency/"
+    ],
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/US/2026/11/20/trump-ukraine-putin-xi-2020-election/4991795207663/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/White_House_%28South_Lawn%29.jpeg/1920px-White_House_%28South_Lawn%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Mark Skrobola (MCS@flickr) / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 7,
+      "shows": "the White House south lawn"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Trump holds press conference after returning from China",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "White House exterior",
+    "image_queries": [
+     "US Capitol building",
+     "West Wing press briefing room",
+     "Oval Office desk",
+     "Washington D.C. skyline"
+    ],
+    "image_style": "person",
+    "location": "Washington, D.C., US",
+    "nearby_city": "Washington, D.C.",
+    "event_query": "White House press conference",
+    "topic_photo": "podium microphone",
+    "label": "US POLITICS",
+    "action_subject": "",
+    "news_time": "2026-11-20T21:17:54+00:00"
+   },
+   "created_at": "2026-11-20T22:49:11.001677+00:00",
+   "news_time": "2026-11-20T21:17:54+00:00",
+   "news_latest": "2026-11-20T22:09:32+00:00",
+   "importance": 6,
+   "caption": "Trump holds press conference after returning from China\n\nPresident Donald Trump held a press conference Friday afternoon following his return from China. During the event, Trump stated that his 2020 election loss caused the war in Ukraine.\n\n💬 Would Stephen Miller make a successful presidential candidate?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #DonaldTrump #WhiteHouse #7SeasNews",
+   "photo_line": "📷 7/10 the White House south lawn",
+   "status": "posted",
+   "tg_message_id": 877,
+   "tg_file_id": "AgACAgUAAxkDAAIDbWsAAc5pgVWuKMQ0FWfTnqMLYaTVGAACzRNrG_07CFQZMB_TuNGNdgEAAwIAA3cAAz0E",
+   "queued_at": "2026-11-20T22:49:13.586721+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-20T22:49:13.586755+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122107919751548584",
+   "posted_at": "2026-11-20T22:50:03.850855+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 20 · 5:50 PM New York · 4:20 AM Sri Lanka\n\n<b>Trump holds press conference after returning from China</b>\n<i>The Hill, UPI, Washington Examiner, Washington Post</i>\n🟢 <b>Latest:</b> 3:39 AM Sri Lanka (40 min ago) · first reported 2:47 AM\n📷 7/10 the White House south lawn\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122107919751548584\">Open on Facebook</a>\n\n⚠️ <i>Looks like an earlier post: “Trump, Putin and Xi hold summit in China”. Tap 🗑 Delete if it's the same news.</i>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 585,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122107919751548584_3551584405021078"
+  },
+  "de9e9b9d72": {
+   "id": "de9e9b9d72",
+   "headline": "US lawmakers push for tougher AI chip rules",
+   "summary": "Washington has implemented new rules restricting remote access to advanced US AI chips. Meanwhile, Treasury Secretary Scott Bessent states that no further restrictions on older Nvidia chips to China are required.",
+   "label": "ECONOMY",
+   "hook": "Should the US place stricter limits on AI chip exports to China?",
+   "key_points": [
+    "Washington restricted remote access to advanced chips.",
+    "Treasury Secretary Scott Bessent addressed older Nvidia chips."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#TechPolicy",
+    "#Semiconductors"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/americas/nvidia-donald-trump-scott-bessent-amd-chinese-b3089013.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/nvidia-donald-trump-scott-bessent-amd-chinese-b3089013.html"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Capitol_Washington_October_2016-3.jpg/1920px-Capitol_Washington_October_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Alvesgaspar / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 7,
+      "shows": "US Capitol building"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "US lawmakers push for tougher AI chip rules",
+    "people": [],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "microchip manufacturing",
+     "US Treasury building"
+    ],
+    "image_style": "person",
+    "location": "Washington, US",
+    "nearby_city": "Washington, DC",
+    "event_query": "",
+    "topic_photo": "microchip",
+    "label": "ECONOMY",
+    "action_subject": "",
+    "news_time": "2026-11-20T22:15:07+00:00"
+   },
+   "created_at": "2026-11-20T22:49:24.476580+00:00",
+   "news_time": "2026-11-20T22:15:07+00:00",
+   "news_latest": "2026-11-20T22:36:47+00:00",
+   "importance": 7,
+   "caption": "US lawmakers push for tougher AI chip rules\n\nWashington has implemented new rules restricting remote access to advanced US AI chips. Meanwhile, Treasury Secretary Scott Bessent states that no further restrictions on older Nvidia chips to China are required.\n\n💬 Should the US place stricter limits on AI chip exports to China?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #TechPolicy #Semiconductors #7SeasNews",
+   "photo_line": "📷 7/10 US Capitol building",
+   "status": "posted",
+   "tg_message_id": 878,
+   "tg_file_id": "AgACAgUAAxkDAAIDbmsAAc525BERKaiLU6yFQ4f60aJteQACzhNrG_07CFRZ7wMoLVTC9QEAAwIAA3cAAz0E",
+   "queued_at": "2026-11-20T22:49:26.640014+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-20T22:49:26.640058+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122107920165548584",
+   "posted_at": "2026-11-20T22:50:03.850855+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 20 · 5:50 PM New York · 4:20 AM Sri Lanka\n\n<b>US lawmakers push for tougher AI chip rules</b>\n<i>Al Jazeera, The Independent</i>\n🟢 <b>Latest:</b> 4:06 AM Sri Lanka (13 min ago) · first reported 3:45 AM\n📷 7/10 US Capitol building\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122107920165548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 586,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122107920165548584_1714502136706038"
+  },
+  "f926c87686": {
+   "id": "f926c87686",
+   "headline": "French court sentences police officers over beating of music producer",
+   "summary": "A Paris court sentenced three police officers to prison over the 2020 beating of Black music producer Michel Zecler. The assault, which was captured on security cameras, was upheld by the court as an aggravated circumstance of racism.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "The 2020 assault sparked outrage over police brutality.",
+    "The beating took place in a building in Paris.",
+    "Police stated the producer was not wearing a face mask."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#France",
+    "#Police",
+    "#WorldNews"
+   ],
+   "sources": [
+    "BBC",
+    "France 24",
+    "The Guardian"
+   ],
+   "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+   "links": [
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/france/20261120-paris-police-officers-sentenced-to-prison-over-2020-beating-of-black-man-michel-zecler"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing"
+    ]
+   ],
+   "bg": {
+    "type": "map",
+    "photos": [],
+    "location": "Paris, France",
+    "lat": 48.8567,
+    "lon": 2.3522,
+    "country": "France",
+    "state": ""
+   },
+   "img_post": {
+    "headline": "French court sentences police officers over beating of music producer",
+    "people": [],
+    "image_query": "Paris courthouse building",
+    "image_queries": [
+     "French police vehicle",
+     "Paris street",
+     "security camera",
+     "Paris cityscape"
+    ],
+    "image_style": "incident",
+    "location": "Paris, France",
+    "nearby_city": "Paris, France",
+    "event_query": "Paris police trial",
+    "topic_photo": "judge gavel",
+    "label": "WORLD",
+    "action_subject": "police officers at work",
+    "news_time": "2026-11-20T19:00:11+00:00"
+   },
+   "created_at": "2026-11-20T22:50:01.640576+00:00",
+   "news_time": "2026-11-20T19:00:11+00:00",
+   "news_latest": "2026-11-20T22:37:09+00:00",
+   "importance": 6,
+   "caption": "French court sentences police officers over beating of music producer\n\nA Paris court sentenced three police officers to prison over the 2020 beating of Black music producer Michel Zecler. The assault, which was captured on security cameras, was upheld by the court as an aggravated circumstance of racism.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#France #Police #WorldNews #7SeasNews",
+   "photo_line": "📷 news map (no fitting photo)",
+   "status": "posted",
+   "tg_message_id": 879,
+   "tg_file_id": "AgACAgUAAxkDAAIDb2sAAc6b61g4x6YbUqUnaRvkwmvIGQACzxNrG_07CFSG7mptWUNeegEAAwIAA3cAAz0E",
+   "queued_at": "2026-11-20T22:50:03.500684+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-20T22:50:03.500717+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122107920369548584",
+   "posted_at": "2026-11-20T22:50:03.850855+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 20 · 5:50 PM New York · 4:20 AM Sri Lanka\n\n<b>French court sentences police officers over beating of music producer</b>\n<i>BBC, France 24, The Guardian</i>\n🟢 <b>Latest:</b> 4:07 AM Sri Lanka (13 min ago) · first reported 12:30 AM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122107920369548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 587,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122107920369548584_1668068058398681"
   }
  },
  "seen_links": [
@@ -12622,29 +12900,21 @@
   "https://www.nbcnews.com/meet-the-press/video/former-biden-security-adviser-calls-for-urgency-to-stay-ahead-of-ai-cyberattacks-273923141739",
   "https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss",
   "https://www.washingtonexaminer.com/news/white-house/4810707/trump-dana-white-marine-band-bonus/",
-  "https://www.nbcnews.com/video/trump-dana-white-honor-marine-corps-band-with-500-000-273926725836"
+  "https://www.nbcnews.com/video/trump-dana-white-honor-marine-corps-band-with-500-000-273926725836",
+  "https://www.washingtonpost.com/politics/2026/11/20/vice-president-jd-vance-declines-say-iran-war-was-worth-it-supports-trump/",
+  "https://www.washingtonexaminer.com/news/white-house/4810641/vance-decline-back-trump-iran-war/",
+  "https://thehill.com/homenews/administration/6234343-trump-asks-stephen-miller-run-presidency/",
+  "https://www.upi.com/Top_News/US/2026/11/20/trump-ukraine-putin-xi-2020-election/4991795207663/",
+  "https://www.independent.co.uk/news/world/americas/nvidia-donald-trump-scott-bessent-amd-chinese-b3089013.html",
+  "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
+  "https://www.washingtonexaminer.com/news/supreme-court/4810673/ron-desantis-shoots-down-supreme-court-prospect/",
+  "https://thehill.com/homenews/state-watch/6234014-ron-desantis-supreme-court-denial/",
+  "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+  "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
+  "https://www.france24.com/en/france/20261120-paris-police-officers-sentenced-to-prison-over-2020-beating-of-black-man-michel-zecler",
+  "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing"
  ],
  "recent_topics": [
-  [
-   "2026-11-17T22:52:38.035763+00:00",
-   [
-    "ahead",
-    "arriv",
-    "asia",
-    "asian",
-    "chines",
-    "end",
-    "loom",
-    "president",
-    "russian",
-    "southeast",
-    "still",
-    "summit",
-    "talk",
-    "trump"
-   ],
-   "skipped"
-  ],
   [
    "2026-11-17T23:04:09.681771+00:00",
    [
@@ -16016,19 +16286,107 @@
     "whit"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-20T22:49:13.586579+00:00",
+   [
+    "ask",
+    "back",
+    "becaus",
+    "decision",
+    "declin",
+    "election",
+    "happen",
+    "iran",
+    "lost",
+    "mak",
+    "miller",
+    "president",
+    "run",
+    "stephen",
+    "support",
+    "trump",
+    "ukrain",
+    "vanc",
+    "want",
+    "war",
+    "worth"
+   ],
+   "9cd1260ee6"
+  ],
+  [
+   "2026-11-20T22:49:26.639820+00:00",
+   [
+    "china",
+    "chip",
+    "crackdown",
+    "export",
+    "further",
+    "lawmaker",
+    "need",
+    "nvidia",
+    "push",
+    "restriction",
+    "rul",
+    "secretary",
+    "tougher",
+    "treasury"
+   ],
+   "de9e9b9d72"
+  ],
+  [
+   "2026-11-20T22:49:28.481161+00:00",
+   [
+    "call",
+    "court",
+    "desanti",
+    "down",
+    "justic",
+    "plant",
+    "pott",
+    "prospect",
+    "shoot",
+    "sitt",
+    "suprem"
+   ],
+   "skipped"
+  ],
+  [
+   "2026-11-20T22:50:03.500518+00:00",
+   [
+    "arrest",
+    "assault",
+    "beat",
+    "black",
+    "conviction",
+    "found",
+    "french",
+    "guilty",
+    "indecent",
+    "man",
+    "michel",
+    "miss",
+    "music",
+    "officer",
+    "pari",
+    "polic",
+    "prison",
+    "producer",
+    "racist",
+    "sentenc",
+    "teacher",
+    "zecler"
+   ],
+   "f926c87686"
   ]
  ],
- "last_draft_at": "2026-11-20T22:36:23.360334+00:00",
+ "last_draft_at": "2026-11-20T22:48:51.134756+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T22:00:57.832568+00:00",
  "run_log": [
-  "11-20 20:00:50 run start",
-  "11-20 20:02:01 listening 10 min",
-  "11-20 20:12:31 listening done",
-  "11-20 20:12:31 run end after 700 s",
   "11-20 20:15:46 run start",
   "11-20 20:16:25 listening 11 min",
   "11-20 20:27:20 listening done",
@@ -16064,13 +16422,15 @@
   "11-20 22:36:22 run start",
   "11-20 22:36:25 listening 11 min",
   "11-20 22:48:10 listening done",
-  "11-20 22:48:10 run end after 707 s"
+  "11-20 22:48:10 run end after 707 s",
+  "11-20 22:48:50 run start",
+  "11-20 22:50:44 listening 10 min",
+  "11-20 23:00:23 listening done",
+  "11-20 23:00:23 run end after 693 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Wall_Street_-_New_York_Stock_Exchange.jpg/1920px-Wall_Street_-_New_York_Stock_Exchange.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/1280px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/0/0a/Courtroom_at_the_United_States_Courthouse_in_Augusta%2C_GA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Bill_Essayli_Headshot.jpg/1280px-Bill_Essayli_Headshot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Capitol_Washington_October_2016-1.jpg/1920px-Capitol_Washington_October_2016-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -16108,7 +16468,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Belgian_Army%2C_BAS_24%2C_Brussels_%28P1170134-RR%29.jpg/1920px-Belgian_Army%2C_BAS_24%2C_Brussels_%28P1170134-RR%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Door_to_Senate_Chamber_MN_State_Capitol.jpg/1920px-Door_to_Senate_Chamber_MN_State_Capitol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Director_Petraeus_rings_opening_bell_at_NY_Stock_Exchange_-_Flickr_-_The_Central_Intelligence_Agency.jpg/1920px-Director_Petraeus_rings_opening_bell_at_NY_Stock_Exchange_-_Flickr_-_The_Central_Intelligence_Agency.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Congressional_Hearing_-_Jul._24%2C_2012_%287748554726%29.jpg/1920px-Congressional_Hearing_-_Jul._24%2C_2012_%287748554726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Congressional_Hearing_-_Jul._24%2C_2012_%287748554726%29.jpg/1920px-Congressional_Hearing_-_Jul._24%2C_2012_%287748554726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/White_House_%28South_Lawn%29.jpeg/1920px-White_House_%28South_Lawn%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Capitol_Washington_October_2016-3.jpg/1920px-Capitol_Washington_October_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "sviatlana tsikhanouskaya": {
@@ -19503,8 +19865,6 @@
    }
   },
   "recent_ideas": [
-   "horse-drawn carriage",
-   "ambulance",
    "tallinn cityscape",
    "fighter jet",
    "courtroom",
@@ -19514,7 +19874,9 @@
    "senate chamber, united states capitol",
    "stock exchange trading floor",
    "congressional hearing",
-   "congressional hearing"
+   "congressional hearing",
+   "white house south lawn",
+   "us capitol building"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -20886,6 +21248,41 @@
     "s": 8,
     "w": "congressional hearing file photo",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/White_House_%28South_Lawn%29.jpeg/1920px-White_House_%28South_Lawn%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|9c96fb31": {
+    "s": 7,
+    "w": "the White House south lawn",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Magna_Carta_replica_and_display_in_the_rotunda_of_the_United_States_Capitol%2C_Washington%2C_DC_-_20070517.jpg/1920px-Magna_Carta_replica_and_display_in_the_rotunda_of_the_United_States_Capitol%2C_Washington%2C_DC_-_20070517.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|0af28bbf": {
+    "s": 0,
+    "w": "gold box exhibit",
+    "p": "photo shows an unrelated museum exhibit or artifact"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Capitol_Washington_October_2016-3.jpg/1920px-Capitol_Washington_October_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|0af28bbf": {
+    "s": 7,
+    "w": "US Capitol building",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/%C3%89charpe_tricolore_de_commissaire_de_police%2C_symbole_de_la_Nation_%28ancien_mod%C3%A8le%29.jpg/1920px-%C3%89charpe_tricolore_de_commissaire_de_police%2C_symbole_de_la_Nation_%28ancien_mod%C3%A8le%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|69047093": {
+    "s": 0,
+    "w": "french tricolour sash",
+    "p": "photo shows an object instead of police officers at work"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Bruneian_police_officer_in_Belait.jpg/1920px-Bruneian_police_officer_in_Belait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|69047093": {
+    "s": 0,
+    "w": "police officer in uniform",
+    "p": "wrong country"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg/1920px-Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|69047093": {
+    "s": 0,
+    "w": "judge gavel on rainbow flag",
+    "p": "shows judge gavel on LGBT flag instead of police officers"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Plaque%2C_square_des_%C3%89crivains-Combattants-Morts-pour-la-France%2C_Paris_16e_1.jpg/1920px-Plaque%2C_square_des_%C3%89crivains-Combattants-Morts-pour-la-France%2C_Paris_16e_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|69047093": {
+    "s": 0,
+    "w": "Paris street sign",
+    "p": "photo is a text sign, not police officers"
    }
   }
  },
@@ -20897,10 +21294,10 @@
   "2026-11-17": 35,
   "2026-11-18": 22,
   "2026-11-19": 30,
-  "2026-11-20": 23
+  "2026-11-20": 26
  },
- "last_auto_at": "2026-11-20T21:04:07.927517+00:00",
- "last_post_at": "2026-11-20T21:04:14.670938+00:00",
+ "last_auto_at": "2026-11-20T22:50:03.850855+00:00",
+ "last_post_at": "2026-11-20T22:50:36.411951+00:00",
  "reels_count": {
   "2026-11-14": 8,
   "2026-11-15": 8,
