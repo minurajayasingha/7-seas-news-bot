@@ -224,5 +224,77 @@
     }
    }
   ]
+ },
+ "2026-11-19": {
+  "built_at": "2026-11-20T08:16:02.117519+00:00",
+  "test": false,
+  "parts": [
+   {
+    "name": "WAR & CONFLICT",
+    "of": 3,
+    "post_at": "2026-11-20T12:55:00+00:00",
+    "stories": 6,
+    "seconds": 30.5,
+    "fb": {
+     "id": "2588517498306622",
+     "state": "scheduled",
+     "caption": "Crimean Bridge attacked. Saudi skyscraper hit.\n\nWAR & CONFLICT · Thursday's top stories · Part 1/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#warnews #conflict #7seasnews #news",
+     "thumb": "set"
+    },
+    "yt": {
+     "id": "digOxd3Tesw",
+     "state": "scheduled",
+     "url": "https://youtube.com/shorts/digOxd3Tesw",
+     "thumb": "set"
+    },
+    "tt": {
+     "state": "sent"
+    }
+   },
+   {
+    "name": "US NEWS",
+    "of": 3,
+    "post_at": "2026-11-20T14:55:00+00:00",
+    "stories": 9,
+    "seconds": 42.8,
+    "fb": {
+     "id": "3896806600473030",
+     "state": "scheduled",
+     "caption": "Army plans Iowa blast. DOJ assigns inquiry.\n\nUS NEWS · Thursday's top stories · Part 2/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#usnews #uspolitics #7seasnews #news",
+     "thumb": "set"
+    },
+    "yt": {
+     "id": "5OxqOAMvfUA",
+     "state": "scheduled",
+     "url": "https://youtube.com/shorts/5OxqOAMvfUA",
+     "thumb": "set"
+    },
+    "tt": {
+     "state": "sent"
+    }
+   },
+   {
+    "name": "WORLD NEWS",
+    "of": 3,
+    "post_at": "2026-11-20T16:55:00+00:00",
+    "stories": 14,
+    "seconds": 66.0,
+    "fb": {
+     "id": "1798159921237151",
+     "state": "scheduled",
+     "caption": "Historic three-way summit. North Korea expands.\n\nWORLD NEWS · Thursday's top stories · Part 3/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#worldnews #7seasnews #news",
+     "thumb": "set"
+    },
+    "yt": {
+     "id": "f9ZAUbqXBGM",
+     "state": "scheduled",
+     "url": "https://youtube.com/shorts/f9ZAUbqXBGM",
+     "thumb": "set"
+    },
+    "tt": {
+     "state": "sent"
+    }
+   }
+  ]
  }
 }
