@@ -1,96 +1,6 @@
 {
  "tg_offset": 495893087,
  "drafts": {
-  "a21739bb6e": {
-   "id": "a21739bb6e",
-   "headline": "At least 17 people killed in South Africa shootings",
-   "summary": "Police report that at least 17 people died during separate shootings over the weekend in South Africa. The killings occurred in Jeffsville and Pietermaritzburg, while authorities have not yet established a motive.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "Incidents occurred in Jeffsville and Pietermaritzburg",
-    "Two separate shootings took place over the weekend",
-    "Police have not yet established a motive"
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#SouthAfrica",
-    "#WorldNews",
-    "#News"
-   ],
-   "sources": [
-    "ABC News",
-    "The Independent"
-   ],
-   "link": "https://www.independent.co.uk/news/world/africa/south-africa-mass-shootings-jeffsville-pietermaritzburg-b3085492.html",
-   "links": [
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/africa/south-africa-mass-shootings-jeffsville-pietermaritzburg-b3085492.html"
-    ],
-    [
-     "ABC News",
-     "https://abcnews.com/International/wireStory/17-people-killed-separate-shootings-south-africa-138171068"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/South_African_Police_car_-_visible_division.JPG/1920px-South_African_Police_car_-_visible_division.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Dickelbers / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "At least 17 people killed in South Africa shootings",
-    "people": [],
-    "image_query": "South Africa police",
-    "image_queries": [
-     "Pietermaritzburg city",
-     "South Africa flag",
-     "police tape crime scene",
-     "urban neighborhood South Africa"
-    ],
-    "image_style": "incident",
-    "location": "South Africa",
-    "nearby_city": "Pretoria, South Africa",
-    "event_query": "South Africa mass shooting",
-    "news_time": null,
-    "label": "WORLD"
-   },
-   "created_at": "2026-11-16T09:31:50.630734+00:00",
-   "news_time": "2026-11-16T08:46:14+00:00",
-   "news_latest": "2026-11-16T09:17:25+00:00",
-   "caption": "🚨 BREAKING: At least 17 people killed in South Africa shootings\n\nPolice report that at least 17 people died during separate shootings over the weekend in South Africa. The killings occurred in Jeffsville and Pietermaritzburg, while authorities have not yet established a motive.\n\nWhat we know so far:\n• Incidents occurred in Jeffsville and Pietermaritzburg\n• Two separate shootings took place over the weekend\n• Police have not yet established a motive\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#SouthAfrica #WorldNews #News #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 629,
-   "tg_file_id": "AgACAgUAAxkDAAICdWr6zYkhUv1lGXY_1bS9aIWe_H-FAAIiF2sbg6zYV4Trnn27BIYRAQADAgADdwADPQQ",
-   "queued_at": "2026-11-16T09:31:53.562856+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-16T09:31:53.562880+00:00",
-   "post_label": "🤖 Auto-posting + Reel",
-   "fb_post_id": "1413030521900096_122103199749548584",
-   "posted_at": "2026-11-16T09:31:53.926635+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 16 · 4:32 AM New York · 3:02 PM Sri Lanka\n\n<b>At least 17 people killed in South Africa shootings</b>\n<i>ABC News, The Independent</i>\n🟢 <b>Latest:</b> 2:47 PM Sri Lanka (14 min ago) · first reported 2:16 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122103199749548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 409,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122103199749548584_1143946698128124",
-   "fb_story_id": "1525187482997437",
-   "fb_reel_id": "1196587802941164",
-   "reel_status": "live",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-19T08:59:16.287954+00:00"
-  },
   "fa56287cab": {
    "id": "fa56287cab",
    "headline": "Jordan bans Telegram app over national security concerns",
@@ -17075,17 +16985,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-20T09:15:37.173784+00:00",
+ "last_draft_at": "2026-11-20T09:30:42.618294+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T08:45:40.932182+00:00",
  "run_log": [
-  "11-20 07:00:59 run start",
-  "11-20 07:01:19 listening 11 min",
-  "11-20 07:12:38 listening done",
-  "11-20 07:12:38 run end after 698 s",
   "11-20 07:15:37 run start",
   "11-20 07:15:52 listening 11 min",
   "11-20 07:27:12 listening done",
@@ -17121,7 +17027,11 @@
   "11-20 09:15:36 run start",
   "11-20 09:15:56 listening 11 min",
   "11-20 09:27:14 listening done",
-  "11-20 09:27:14 run end after 697 s"
+  "11-20 09:27:14 run end after 697 s",
+  "11-20 09:30:42 run start",
+  "11-20 09:31:02 listening 11 min",
+  "11-20 09:42:20 listening done",
+  "11-20 09:42:20 run end after 698 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
