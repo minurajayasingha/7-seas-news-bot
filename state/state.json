@@ -1,107 +1,6 @@
 {
  "tg_offset": 495893087,
  "drafts": {
-  "768e34cdff": {
-   "id": "768e34cdff",
-   "headline": "Customers report widespread outages at multiple US banks",
-   "summary": "Bank customers in the United States reported technical problems accessing accounts and online services on Monday afternoon. Companies including JPMorgan Chase, Bank of America, Wells Fargo, U.S. Bank, and Zelle experienced issues according to Downdetector and customer reports.",
-   "label": "ECONOMY",
-   "hook": "Were you able to access your bank account on Monday?",
-   "key_points": [
-    "A Chase spokesperson stated some transactions took longer than usual",
-    "Users reported trouble accessing funds and accounts",
-    "Technical problems affected multiple online banking services"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USNews",
-    "#Banking",
-    "#Economy"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "NBC News",
-    "Newsweek",
-    "The Hill",
-    "UPI",
-    "Washington Examiner"
-   ],
-   "link": "https://www.upi.com/Top_News/US/2026/11/16/bank-services-down-in-widespread-outage/4201794862167/",
-   "links": [
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/US/2026/11/16/bank-services-down-in-widespread-outage/4201794862167/"
-    ],
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/policy/technology/4805123/us-banks-service-outages-technical-problems/"
-    ],
-    [
-     "The Hill",
-     "https://thehill.com/policy/technology/6223551-chase-wells-fargo-boa-access-problems/"
-    ],
-    [
-     "Newsweek",
-     "https://www.newsweek.com/major-banks-down-america-everything-broken-microsoft-faa-outages-12723495"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Wall_Street_-_New_York_Stock_Exchange.jpg/1920px-Wall_Street_-_New_York_Stock_Exchange.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Carlos Delgado / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Customers report widespread outages at multiple US banks",
-    "people": [],
-    "image_query": "bank building exterior",
-    "image_queries": [
-     "ATM machine exterior",
-     "bank entrance",
-     "smartphone banking app",
-     "financial district street"
-    ],
-    "image_style": "scene",
-    "location": "United States",
-    "nearby_city": "Washington, DC",
-    "event_query": "bank customer service desk",
-    "topic_photo": "smartphone banking app",
-    "label": "ECONOMY",
-    "news_time": "2026-11-16T19:18:10+00:00"
-   },
-   "created_at": "2026-11-16T21:15:54.666764+00:00",
-   "news_time": "2026-11-16T19:18:10+00:00",
-   "news_latest": "2026-11-16T21:03:01+00:00",
-   "importance": 6,
-   "caption": "Customers report widespread outages at multiple US banks\n\nBank customers in the United States reported technical problems accessing accounts and online services on Monday afternoon. Companies including JPMorgan Chase, Bank of America, Wells Fargo, U.S. Bank, and Zelle experienced issues according to Downdetector and customer reports.\n\n💬 Were you able to access your bank account on Monday?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USNews #Banking #Economy #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 670,
-   "tg_file_id": "AgACAgUAAxkDAAICnmr7cowCj1sNehxmTjOy8-ns19RwAAJNE2sbg6zgV-jp33D0e6_DAQADAgADdwADPQQ",
-   "queued_at": "2026-11-16T21:15:57.042771+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-16T21:15:57.042813+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122103718605548584",
-   "posted_at": "2026-11-16T21:15:57.344384+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 16 · 4:16 PM New York · 2:46 AM Sri Lanka\n\n<b>Customers report widespread outages at multiple US banks</b>\n<i>Al Jazeera, NBC News, Newsweek, The Hill, UPI, Washington Examiner</i>\n🟢 <b>Latest:</b> 2:33 AM Sri Lanka (13 min ago) · first reported 12:48 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122103718605548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 445,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122103718605548584_2088080178513993",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-19T20:30:53.619251+00:00"
-  },
   "901e21f714": {
    "id": "901e21f714",
    "headline": "Forensic expert says autopsy photos suggest Epstein was killed",
@@ -16281,15 +16180,13 @@
    "7768cf111c"
   ]
  ],
- "last_draft_at": "2026-11-20T21:03:16.969212+00:00",
+ "last_draft_at": "2026-11-20T21:26:18.455796+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T21:02:37.527237+00:00",
  "run_log": [
-  "11-20 18:57:49 run start",
-  "11-20 18:58:52 listening 10 min",
   "11-20 19:09:21 listening done",
   "11-20 19:09:21 run end after 691 s",
   "11-20 19:10:51 run start",
@@ -16327,7 +16224,9 @@
   "11-20 21:02:36 run start",
   "11-20 21:04:23 listening 10 min",
   "11-20 21:14:03 listening done",
-  "11-20 21:14:03 run end after 686 s"
+  "11-20 21:14:03 run end after 686 s",
+  "11-20 21:26:17 run start",
+  "11-20 21:26:37 listening 11 min"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
