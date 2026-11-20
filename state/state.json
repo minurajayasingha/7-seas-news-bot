@@ -11568,6 +11568,98 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122107584087548584_928159883595458"
+  },
+  "acf404f6e9": {
+   "id": "acf404f6e9",
+   "headline": "Poland investigates suspected Russian airspace violation during attack",
+   "summary": "Poland is investigating a suspected Russian violation of its airspace after objects entered the NATO member's territory during a Russian attack on Ukraine. Warsaw described the incident as a provocation from Moscow, though no injuries or damage have been reported.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Three objects entered Polish territory during the attack",
+    "Objects included two missiles and a drone",
+    "Defense Minister Wladyslaw Kosiniak-Kamysz accused Moscow of provocation"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Poland",
+    "#Ukraine",
+    "#WorldNews"
+   ],
+   "sources": [
+    "BBC",
+    "Washington Examiner"
+   ],
+   "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+   "links": [
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/world/4809740/poland-investigating-suspected-russian-violation-airspace/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Decommissioned_jet_fighter_%2823449021489%29.jpg/1920px-Decommissioned_jet_fighter_%2823449021489%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Thomas Quine / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 7,
+      "shows": "fighter jet parked on ground"
+     }
+    ],
+    "file_photo": true,
+    "_loaded": 1
+   },
+   "img_post": {
+    "headline": "Poland investigates suspected Russian airspace violation during attack",
+    "people": [],
+    "image_query": "Warsaw city skyline",
+    "image_queries": [
+     "Polish flag",
+     "NATO headquarters",
+     "military radar screen",
+     "defence ministry building"
+    ],
+    "image_style": "incident",
+    "location": "Warsaw, Poland",
+    "nearby_city": "Warsaw, Poland",
+    "event_query": "Warsaw military airspace violation",
+    "topic_photo": "radar screen",
+    "label": "CONFLICT",
+    "action_subject": "military radar screen",
+    "news_time": "2026-11-20T13:51:15+00:00"
+   },
+   "created_at": "2026-11-20T15:01:56.178428+00:00",
+   "news_time": "2026-11-20T13:51:15+00:00",
+   "news_latest": "2026-11-20T13:52:04+00:00",
+   "importance": 8,
+   "caption": "🚨 BREAKING: Poland investigates suspected Russian airspace violation during attack\n\nPoland is investigating a suspected Russian violation of its airspace after objects entered the NATO member's territory during a Russian attack on Ukraine. Warsaw described the incident as a provocation from Moscow, though no injuries or damage have been reported.\n\nWhat we know so far:\n• Three objects entered Polish territory during the attack\n• Objects included two missiles and a drone\n• Defense Minister Wladyslaw Kosiniak-Kamysz accused Moscow of provocation\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Poland #Ukraine #WorldNews #7SeasNews",
+   "photo_line": "📷 7/10 fighter jet parked on ground · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 866,
+   "tg_file_id": "AgACAgUAAxkDAAIDYmsAAWDtP99xdsCOVyjDxV2nJ5dr9wACYxNrG_07CFR4deH57lG0gQEAAwIAA3cAAz0E",
+   "queued_at": "2026-11-20T15:02:06.238745+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-20T15:02:06.238772+00:00",
+   "post_label": "🤖 Auto-posting + Reel",
+   "fb_post_id": "1413030521900096_122107593153548584",
+   "posted_at": "2026-11-20T15:02:06.559740+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 20 · 10:02 AM New York · 8:32 PM Sri Lanka\n\n<b>Poland investigates suspected Russian airspace violation during attack</b>\n<i>BBC, Washington Examiner</i>\n🟡 <b>Latest:</b> 7:22 PM Sri Lanka (1h 10m ago) · first reported 7:21 PM\n📷 7/10 fighter jet parked on ground · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122107593153548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 572,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122107593153548584_1649321176688844",
+   "fb_story_id": "1609118310529563",
+   "fb_reel_id": "1449153210662835",
+   "reel_status": "live"
   }
  },
  "seen_links": [
@@ -13336,7 +13428,9 @@
   "https://www.euronews.com/2026/11/20/estonia-to-shut-border-with-russia-over-gru-linked-sabotage-attack",
   "https://www.independent.co.uk/news/world/europe/russia-estonia-iron-curtain-border-closure-b3088663.html",
   "https://www.washingtonexaminer.com/news/house/4809758/jamie-raskin-investigates-government-agencies-use-messaging-apps/",
-  "https://www.independent.co.uk/news/world/americas/jamie-raskin-white-house-fbi-washington-donald-trump-b3088626.html"
+  "https://www.independent.co.uk/news/world/americas/jamie-raskin-white-house-fbi-washington-donald-trump-b3088626.html",
+  "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+  "https://www.washingtonexaminer.com/news/world/4809740/poland-investigating-suspected-russian-violation-airspace/"
  ],
  "recent_topics": [
   [
@@ -16936,19 +17030,37 @@
     "use"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-20T15:02:06.238618+00:00",
+   [
+    "airspac",
+    "ally",
+    "defens",
+    "exercis",
+    "hit",
+    "hold",
+    "investigat",
+    "military",
+    "minister",
+    "missil",
+    "poland",
+    "russian",
+    "suspect",
+    "tusk",
+    "ukrain",
+    "violation"
+   ],
+   "acf404f6e9"
   ]
  ],
- "last_draft_at": "2026-11-20T14:46:26.441109+00:00",
+ "last_draft_at": "2026-11-20T15:00:50.297299+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T14:45:42.885344+00:00",
  "run_log": [
-  "11-20 12:27:25 listening done",
-  "11-20 12:27:25 run end after 688 s",
-  "11-20 12:39:59 run start",
-  "11-20 12:41:59 listening 9 min",
   "11-20 12:51:06 run start",
   "11-20 12:52:09 listening 10 min",
   "11-20 13:02:38 listening done",
@@ -16984,12 +17096,15 @@
   "11-20 14:45:42 run start",
   "11-20 14:49:16 listening 8 min",
   "11-20 14:57:14 listening done",
-  "11-20 14:57:14 run end after 692 s"
+  "11-20 14:57:14 run end after 692 s",
+  "11-20 15:00:49 run start",
+  "11-20 15:02:59 listening 9 min",
+  "11-20 15:12:37 listening done",
+  "11-20 15:12:37 run end after 707 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Regierungsviertel%2C_Berlin-Mitte%2C_170325%2C_ako.jpg/1920px-Regierungsviertel%2C_Berlin-Mitte%2C_170325%2C_ako.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Danish_flag_at_stern_of_ship_Gunnar_Thorson.jpg/1920px-Danish_flag_at_stern_of_ship_Gunnar_Thorson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Skyline_downtown_Des_Moines.jpg/1920px-Skyline_downtown_Des_Moines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -17028,7 +17143,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Horse-drawn_carriage_charleston.jpg/1920px-Horse-drawn_carriage_charleston.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Zohran_Mamdani.jpg/1280px-Zohran_Mamdani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/DSC00714_Iveco_LMV_MedEvac_Ambulance%2C_Esercito_Italiano%2C_Front_Left.jpg/1920px-DSC00714_Iveco_LMV_MedEvac_Ambulance%2C_Esercito_Italiano%2C_Front_Left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Tallinn_Cityscape_%2843174892144%29.jpg/1920px-Tallinn_Cityscape_%2843174892144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Tallinn_Cityscape_%2843174892144%29.jpg/1920px-Tallinn_Cityscape_%2843174892144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Decommissioned_jet_fighter_%2823449021489%29.jpg/1920px-Decommissioned_jet_fighter_%2823449021489%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "sviatlana tsikhanouskaya": {
@@ -20423,7 +20539,6 @@
    }
   },
   "recent_ideas": [
-   "berlin skyline",
    "united states capitol rotunda",
    "judge gavel",
    "european commission building",
@@ -20434,7 +20549,8 @@
    "house chamber, united states capitol",
    "horse-drawn carriage",
    "ambulance",
-   "tallinn cityscape"
+   "tallinn cityscape",
+   "fighter jet"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -21676,6 +21792,16 @@
     "s": 5,
     "w": "Tallinn cityscape",
     "p": "Cityscape is generic for a border closure story"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Decommissioned_jet_fighter_%2823449021489%29.jpg/1920px-Decommissioned_jet_fighter_%2823449021489%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|0bfc6671": {
+    "s": 7,
+    "w": "fighter jet parked on ground",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Mikoyan-Gurevich_Polish_Lim-6R_%28MiG-17F%29_Fresco_C_-_51166798612.jpg/1920px-Mikoyan-Gurevich_Polish_Lim-6R_%28MiG-17F%29_Fresco_C_-_51166798612.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|0bfc6671": {
+    "s": 6,
+    "w": "fighter jet in hangar",
+    "p": ""
    }
   }
  },
@@ -21687,10 +21813,10 @@
   "2026-11-17": 35,
   "2026-11-18": 22,
   "2026-11-19": 30,
-  "2026-11-20": 13
+  "2026-11-20": 14
  },
- "last_auto_at": "2026-11-20T14:49:03.007637+00:00",
- "last_post_at": "2026-11-20T14:49:07.776078+00:00",
+ "last_auto_at": "2026-11-20T15:02:06.559740+00:00",
+ "last_post_at": "2026-11-20T15:02:12.634540+00:00",
  "reels_count": {
   "2026-11-14": 8,
   "2026-11-15": 8,
@@ -21698,7 +21824,7 @@
   "2026-11-17": 3,
   "2026-11-18": 3,
   "2026-11-19": 3,
-  "2026-11-20": 1
+  "2026-11-20": 2
  },
  "roundup": {
   "2026-11-16": {
@@ -22570,7 +22696,9 @@
    ],
    "done": {
     "tt1": true,
-    "log1": true
+    "log1": true,
+    "tt2": true,
+    "log2": true
    }
   }
  },
