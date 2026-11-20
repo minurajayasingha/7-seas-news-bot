@@ -1,82 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "47a181927c": {
-   "id": "47a181927c",
-   "headline": "Trump travels to Asia for meetings with Xi and Putin",
-   "summary": "President Donald Trump plans to travel to Asia for meetings with Xi and Putin, focusing on nuclear arms and Iran. According to two U.S. officials, Trump is expected to take a Qatari-gifted jet, while questions remain regarding upgrades following a security threat in Turkey.",
-   "label": "DIPLOMACY",
-   "hook": "Will these meetings lead to progress on nuclear arms and Iran?",
-   "key_points": [
-    "Ukraine is left out of the discussions.",
-    "A security threat from Iran occurred in Turkey in July.",
-    "Trump flew home from Turkey on a secret military plane."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Trump",
-    "#Asia",
-    "#Diplomacy"
-   ],
-   "sources": [
-    "NBC News",
-    "Newsweek"
-   ],
-   "link": "https://www.newsweek.com/trump-heads-to-asia-for-historic-meeting-with-xi-and-putin-whats-at-stake-12718413",
-   "links": [
-    [
-     "Newsweek",
-     "https://www.newsweek.com/trump-heads-to-asia-for-historic-meeting-with-xi-and-putin-whats-at-stake-12718413"
-    ],
-    [
-     "NBC News",
-     "https://www.nbcnews.com/politics/trump-administration/trump-plans-take-qatari-jet-asia-s-unclear-whether-s-maxed-rcna609487"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Petrovskaya_Tower_of_Moscow_Kremlin.jpg",
-      "credit": "Dmitry Ivanov. / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ],
-    "inset": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Donald_Trump_at_Fort_Drum_2018_06.jpg/1280px-Donald_Trump_at_Fort_Drum_2018_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "credit": "U.S. Army photo by Sgt. Thomas Scaggs / Wikimedia Commons (Public domain)",
-     "short": "WIKIMEDIA COMMONS"
-    }
-   },
-   "img_post": {
-    "headline": "Trump travels to Asia for meetings with Xi and Putin",
-    "people": [
-     "Donald Trump"
-    ],
-    "image_query": "White House",
-    "image_queries": [
-     "Air Force One",
-     "US Capitol building",
-     "Pentagon building",
-     "Department of State"
-    ],
-    "image_style": "scene",
-    "location": "Asia",
-    "nearby_city": "",
-    "event_query": "",
-    "news_time": null,
-    "label": "DIPLOMACY"
-   },
-   "created_at": "2026-11-16T03:45:53.319631+00:00",
-   "news_time": "2026-11-15T23:12:20+00:00",
-   "news_latest": "2026-11-16T03:29:49+00:00",
-   "caption": "Trump travels to Asia for meetings with Xi and Putin\n\nPresident Donald Trump plans to travel to Asia for meetings with Xi and Putin, focusing on nuclear arms and Iran. According to two U.S. officials, Trump is expected to take a Qatari-gifted jet, while questions remain regarding upgrades following a security threat in Turkey.\n\n💬 Will these meetings lead to progress on nuclear arms and Iran?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Trump #Asia #Diplomacy #7SeasNews",
-   "status": "expired",
-   "tg_message_id": 621,
-   "tg_file_id": "AgACAgUAAxkDAAICbWr6fHTOEcKRG9SOLIioB4h6N9B4AAJ3Fmsbg6zYVxfLGjIL7UqNAQADAgADdwADPQQ",
-   "extra_msgs": [],
-   "cleared": true
-  },
   "5fbd9b66b7": {
    "id": "5fbd9b66b7",
    "headline": "Gadi Eisenkot says Benjamin Netanyahu cannot remain prime minister",
@@ -17102,17 +17026,13 @@
    "4ad22076bd"
   ]
  ],
- "last_draft_at": "2026-11-20T03:24:43.546587+00:00",
+ "last_draft_at": "2026-11-20T03:36:53.566199+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T02:44:03.344942+00:00",
  "run_log": [
-  "11-20 01:15:34 run start",
-  "11-20 01:15:54 listening 11 min",
-  "11-20 01:27:12 listening done",
-  "11-20 01:27:12 run end after 697 s",
   "11-20 01:30:55 run start",
   "11-20 01:31:14 listening 11 min",
   "11-20 01:42:33 listening done",
@@ -17148,7 +17068,11 @@
   "11-20 03:24:43 run start",
   "11-20 03:24:52 listening 11 min",
   "11-20 03:36:11 listening done",
-  "11-20 03:36:11 run end after 688 s"
+  "11-20 03:36:11 run end after 688 s",
+  "11-20 03:36:53 run start",
+  "11-20 03:37:02 listening 11 min",
+  "11-20 03:48:22 listening done",
+  "11-20 03:48:22 run end after 688 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
