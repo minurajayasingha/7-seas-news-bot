@@ -1,182 +1,6 @@
 {
  "tg_offset": 495893087,
  "drafts": {
-  "47b9ab7870": {
-   "id": "47b9ab7870",
-   "headline": "Kim Jong Un alters North Korea flag during constitutional changes",
-   "summary": "North Korea changes its flag for the first time since 1948 during constitutional changes, according to reports. Meanwhile, President Trump states he may meet with North Korean leader Kim Jong Un during a trip to China.",
-   "label": "WORLD",
-   "hook": "Will a meeting between President Trump and Kim Jong Un take place in China?",
-   "key_points": [
-    "North Korea alters its flag for the first time since 1948.",
-    "Constitutional changes include the flag modification.",
-    "President Trump mentions a potential meeting in China."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#NorthKorea",
-    "#WorldNews",
-    "#Diplomacy"
-   ],
-   "sources": [
-    "CBS News",
-    "Newsweek"
-   ],
-   "link": "https://www.newsweek.com/north-korea-changes-flag-for-first-time-in-78-years-12722101",
-   "links": [
-    [
-     "Newsweek",
-     "https://www.newsweek.com/north-korea-changes-flag-for-first-time-in-78-years-12722101"
-    ],
-    [
-     "CBS News",
-     "https://www.cbsnews.com/news/trump-says-may-meet-kim-jong-un-china/"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Kim_Jong-un_%282023-09-13%29_%28cropped%29.jpg/1280px-Kim_Jong-un_%282023-09-13%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Владимир Смирнов / ТАСС / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Kim Jong Un alters North Korea flag during constitutional changes",
-    "people": [
-     "Kim Jong Un"
-    ],
-    "image_query": "Pyongyang skyline",
-    "image_queries": [
-     "North Korea flag",
-     "Pyongyang architecture",
-     "Border between North and South Korea",
-     "Chinese capital city"
-    ],
-    "image_style": "person",
-    "location": "North Korea",
-    "nearby_city": "Pyongyang, North Korea",
-    "event_query": "",
-    "news_time": null,
-    "label": "WORLD"
-   },
-   "created_at": "2026-11-16T18:32:05.769228+00:00",
-   "news_time": "2026-11-16T15:11:50+00:00",
-   "news_latest": "2026-11-16T18:30:14+00:00",
-   "caption": "Kim Jong Un alters North Korea flag during constitutional changes\n\nNorth Korea changes its flag for the first time since 1948 during constitutional changes, according to reports. Meanwhile, President Trump states he may meet with North Korean leader Kim Jong Un during a trip to China.\n\n💬 Will a meeting between President Trump and Kim Jong Un take place in China?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#NorthKorea #WorldNews #Diplomacy #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 660,
-   "tg_file_id": "AgACAgUAAxkDAAIClGr7TFNsicosl0ZMUX0X7cheaQNLAAIfGGsbg6zYVzs_pAlGRpRZAQADAgADdwADPQQ",
-   "queued_at": "2026-11-16T18:32:52.171883+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-16T18:32:52.171909+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122103603009548584",
-   "posted_at": "2026-11-16T18:33:50.181145+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 16 · 1:33 PM New York · 12:03 AM Sri Lanka\n\n<b>Kim Jong Un alters North Korea flag during constitutional changes</b>\n<i>CBS News, Newsweek</i>\n🟢 <b>Latest:</b> 12:00 AM Sri Lanka (3 min ago) · first reported 8:41 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122103603009548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 435,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122103603009548584_1094005513651991",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-19T18:31:02.534170+00:00"
-  },
-  "dcff3fbe38": {
-   "id": "dcff3fbe38",
-   "headline": "Chatham House director discusses European and American positions on Ukraine peace talks",
-   "summary": "European countries prepare for upcoming Ukraine peace talks. According to Chatham House director Grégoire Roos, American and European governments differ on negotiations with Russia.",
-   "label": "DIPLOMACY",
-   "hook": "Should Europe have multiple representatives in peace negotiations?",
-   "key_points": [
-    "Ukraine has used Starlink and Starshield services for years.",
-    "Grégoire Roos questions the negotiating position of European representatives.",
-    "Finnish President Alexander Stubb is proposed as a possible representative."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Ukraine",
-    "#Europe",
-    "#Diplomacy"
-   ],
-   "sources": [
-    "France 24",
-    "Newsweek"
-   ],
-   "link": "https://www.newsweek.com/real-cost-ukraine-starshield-limits-12718947",
-   "links": [
-    [
-     "Newsweek",
-     "https://www.newsweek.com/real-cost-ukraine-starshield-limits-12718947"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/russia-s-war-on-ukraine-americans-want-to-have-a-deal-whatever-the-cost-for-both-ukraine-europe"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Christmas_at_Chatham_2019_event._Exterior_of_house_overlooking_Fredericksburg_%28444cc3fb-813c-4140-ad72-d36030e2e174%29.jpg/1920px-Christmas_at_Chatham_2019_event._Exterior_of_house_overlooking_Fredericksburg_%28444cc3fb-813c-4140-ad72-d36030e2e174%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Mary O'Neill / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Chatham House director discusses European and American positions on Ukraine peace talks",
-    "people": [],
-    "image_query": "Chatham House building London",
-    "image_queries": [
-     "European Union flag",
-     "Chatham House exterior",
-     "Brussels European headquarters",
-     "Starlink satellite dish"
-    ],
-    "image_style": "person",
-    "location": "Europe",
-    "nearby_city": "London, United Kingdom",
-    "event_query": "Ukraine peace talks",
-    "news_time": null,
-    "label": "DIPLOMACY"
-   },
-   "created_at": "2026-11-16T18:32:58.486156+00:00",
-   "news_time": "2026-11-16T16:22:49+00:00",
-   "news_latest": "2026-11-16T17:46:10+00:00",
-   "caption": "Chatham House director discusses European and American positions on Ukraine peace talks\n\nEuropean countries prepare for upcoming Ukraine peace talks. According to Chatham House director Grégoire Roos, American and European governments differ on negotiations with Russia.\n\n💬 Should Europe have multiple representatives in peace negotiations?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Ukraine #Europe #Diplomacy #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 661,
-   "tg_file_id": "AgACAgUAAxkDAAIClWr7TF4vkY6ig-HkPiVg0QogqSHwAAIgGGsbg6zYV3l65HerRJlnAQADAgADdwADPQQ",
-   "queued_at": "2026-11-16T18:33:03.028570+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-16T18:33:03.028595+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122103603381548584",
-   "posted_at": "2026-11-16T18:33:50.181145+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 16 · 1:34 PM New York · 12:04 AM Sri Lanka\n\n<b>Chatham House director discusses European and American positions on Ukraine peace talks</b>\n<i>France 24, Newsweek</i>\n🟢 <b>Latest:</b> 11:16 PM Sri Lanka (48 min ago) · first reported 9:52 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122103603381548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 436,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122103603381548584_1501604835119445",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-19T18:31:02.534170+00:00"
-  },
   "e392d5c6de": {
    "id": "e392d5c6de",
    "headline": "Trump administration explores nuclear fuel campuses across five states",
@@ -11211,6 +11035,189 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122107742373548584_2060379394625919"
+  },
+  "1b03632f32": {
+   "id": "1b03632f32",
+   "headline": "Trump announces plans to tax US companies building data centers overseas",
+   "summary": "President Trump stated at a White House briefing that he will block U.S. companies from constructing data centers abroad. He threatened a significant tax on firms that fail to comply with the directive.",
+   "label": "US POLITICS",
+   "hook": "",
+   "key_points": [
+    "Trump acknowledged he had not yet discussed the plan with officials.",
+    "Data center expansion recently became a midterm election flashpoint.",
+    "Voters have raised environmental and financial concerns about data centers."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#USPolitics",
+    "#DataCenters",
+    "#Economy"
+   ],
+   "sources": [
+    "Axios",
+    "The Hill"
+   ],
+   "link": "https://thehill.com/homenews/administration/6233765-trump-threatens-data-center-tax-overseas/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/homenews/administration/6233765-trump-threatens-data-center-tax-overseas/"
+    ],
+    [
+     "Axios",
+     "https://www.axios.com/2026/11/20/us-ai-trump-data-centers-overseas"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Eisenhower_Executive_Office_Building_exterior_from_the_southeast.jpg/1920px-Eisenhower_Executive_Office_Building_exterior_from_the_southeast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Sdkb / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "Eisenhower Executive Office Building"
+     }
+    ],
+    "_loaded": 1
+   },
+   "img_post": {
+    "headline": "Trump announces plans to tax US companies building data centers overseas",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "White House",
+    "image_queries": [
+     "server room",
+     "datacenter facility",
+     "computer servers",
+     "technology infrastructure"
+    ],
+    "image_style": "person",
+    "location": "Washington, D.C., US",
+    "nearby_city": "Washington, D.C.",
+    "event_query": "White House press briefing",
+    "topic_photo": "computer servers",
+    "label": "US POLITICS",
+    "action_subject": "",
+    "news_time": "2026-11-20T18:13:32+00:00"
+   },
+   "created_at": "2026-11-20T18:32:12.779293+00:00",
+   "news_time": "2026-11-20T18:13:32+00:00",
+   "news_latest": "2026-11-20T18:16:33+00:00",
+   "importance": 7,
+   "caption": "🚨 BREAKING: Trump announces plans to tax US companies building data centers overseas\n\nPresident Trump stated at a White House briefing that he will block U.S. companies from constructing data centers abroad. He threatened a significant tax on firms that fail to comply with the directive.\n\nWhat we know so far:\n• Trump acknowledged he had not yet discussed the plan with officials.\n• Data center expansion recently became a midterm election flashpoint.\n• Voters have raised environmental and financial concerns about data centers.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #DataCenters #Economy #7SeasNews",
+   "photo_line": "📷 10/10 Eisenhower Executive Office Building",
+   "status": "posted",
+   "tg_message_id": 870,
+   "tg_file_id": "AgACAgUAAxkDAAIDZmsAAZI8abtIroLOL-PeTRyrB5tlBQACoxNrG_07CFQppzVJ_odDSAEAAwIAA3cAAz0E",
+   "queued_at": "2026-11-20T18:32:28.632805+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-20T18:32:28.632829+00:00",
+   "post_label": "🤖 Auto-posting + Reel",
+   "fb_post_id": "1413030521900096_122107764099548584",
+   "posted_at": "2026-11-20T18:32:36.265704+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 20 · 1:32 PM New York · 12:02 AM Sri Lanka\n\n<b>Trump announces plans to tax US companies building data centers overseas</b>\n<i>Axios, The Hill</i>\n🟢 <b>Latest:</b> 11:46 PM Sri Lanka (16 min ago) · first reported 11:43 PM\n📷 10/10 Eisenhower Executive Office Building\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122107764099548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 577,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122107764099548584_1749022229917402",
+   "fb_story_id": "4644280485888404",
+   "fb_reel_id": "1208552698500715",
+   "reel_status": "live"
+  },
+  "7474b8d00e": {
+   "id": "7474b8d00e",
+   "headline": "Alibaba sued over links to chip network spying suspect",
+   "summary": "Alibaba faces a lawsuit alleging the company concealed connections to Megaspeed to artificially inflate its share price. According to reports, companies linked to Alice Huang are part of a network of Chinese tech firms and defense contractors requiring advanced computing power.",
+   "label": "ECONOMY",
+   "hook": "Should tech conglomerates face legal action over concealed supplier links?",
+   "key_points": [
+    "The conglomerate faces accusations of concealing links to Megaspeed.",
+    "Companies tied to Alice Huang require advanced computing power.",
+    "The network includes Chinese tech firms and defense contractors."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Alibaba",
+    "#Nvidia",
+    "#BusinessNews"
+   ],
+   "sources": [
+    "New York Times",
+    "Newsweek"
+   ],
+   "link": "https://www.newsweek.com/nvidia-fallout-grows-as-alibaba-sued-over-suspected-spy-link-12747521",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/nvidia-fallout-grows-as-alibaba-sued-over-suspected-spy-link-12747521"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Wikimedia_Foundation_Servers-8055_35.jpg/1920px-Wikimedia_Foundation_Servers-8055_35.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Victor Grigas / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "computer servers in racks"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "Alibaba sued over links to chip network spying suspect",
+    "people": [
+     "Alice Huang"
+    ],
+    "image_query": "corporate headquarters building",
+    "image_queries": [
+     "corporate office building",
+     "financial district",
+     "computer servers",
+     "stock market board"
+    ],
+    "image_style": "person",
+    "location": "",
+    "nearby_city": "",
+    "event_query": "",
+    "topic_photo": "computer servers",
+    "label": "ECONOMY",
+    "action_subject": "computer servers",
+    "news_time": "2026-11-20T18:05:36+00:00"
+   },
+   "created_at": "2026-11-20T18:32:34.185913+00:00",
+   "news_time": "2026-11-20T18:05:36+00:00",
+   "news_latest": "2026-11-20T18:23:13+00:00",
+   "importance": 6,
+   "caption": "Alibaba sued over links to chip network spying suspect\n\nAlibaba faces a lawsuit alleging the company concealed connections to Megaspeed to artificially inflate its share price. According to reports, companies linked to Alice Huang are part of a network of Chinese tech firms and defense contractors requiring advanced computing power.\n\n💬 Should tech conglomerates face legal action over concealed supplier links?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Alibaba #Nvidia #BusinessNews #7SeasNews",
+   "photo_line": "📷 10/10 computer servers in racks · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 871,
+   "tg_file_id": "AgACAgUAAxkDAAIDZ2sAAZJD2H8KUrRIeax80mTQwhC9HAACpBNrG_07CFSphTbaih8VLgEAAwIAA3cAAz0E",
+   "queued_at": "2026-11-20T18:32:35.983294+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_label": "🤖 Auto-posting",
+   "post_at": "2026-11-20T18:32:42.254784+00:00",
+   "fb_post_id": "1413030521900096_122107765047548584",
+   "posted_at": "2026-11-20T18:32:36.265704+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 20 · 1:33 PM New York · 12:03 AM Sri Lanka\n\n<b>Alibaba sued over links to chip network spying suspect</b>\n<i>New York Times, Newsweek</i>\n🟢 <b>Latest:</b> 11:53 PM Sri Lanka (10 min ago) · first reported 11:35 PM\n📷 10/10 computer servers in racks · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122107765047548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 579,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122107765047548584_29113362598312751"
   }
  },
  "seen_links": [
@@ -13006,7 +13013,13 @@
   "https://www.newsweek.com/trump-tax-us-data-centers-overseas-12748825",
   "https://www.newsweek.com/americas-biggest-data-centers-use-as-much-power-as-entire-countries-12748493",
   "https://abcnews.com/International/wireStory/denmark-accuses-russian-intelligence-plotting-kill-american-ukrainian-138323497",
-  "https://www.independent.co.uk/news/world/europe/american-copenhagen-denmark-poland-europe-b3088896.html"
+  "https://www.independent.co.uk/news/world/europe/american-copenhagen-denmark-poland-europe-b3088896.html",
+  "https://www.washingtonexaminer.com/news/campaigns/presidential/4810140/hawley-leave-door-open-2028-presidential-campaign/",
+  "https://www.foxnews.com/politics/republican-senator-opens-door-possibility-presidential-bid-shift-past-position",
+  "https://thehill.com/homenews/administration/6233765-trump-threatens-data-center-tax-overseas/",
+  "https://www.axios.com/2026/11/20/us-ai-trump-data-centers-overseas",
+  "https://www.newsweek.com/nvidia-fallout-grows-as-alibaba-sued-over-suspected-spy-link-12747521",
+  "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html"
  ],
  "recent_topics": [
   [
@@ -16501,19 +16514,65 @@
     "ukrainian"
    ],
    "4f1d9bc8cb"
+  ],
+  [
+   "2026-11-20T18:32:28.632675+00:00",
+   [
+    "allow",
+    "america",
+    "biggest",
+    "build",
+    "center",
+    "company",
+    "construct",
+    "country",
+    "curb",
+    "data",
+    "entir",
+    "float",
+    "major",
+    "massiv",
+    "much",
+    "outsid",
+    "oversea",
+    "power",
+    "seek",
+    "tax",
+    "threaten",
+    "trump",
+    "use",
+    "won't"
+   ],
+   "1b03632f32"
+  ],
+  [
+   "2026-11-20T18:32:35.983150+00:00",
+   [
+    "alibaba",
+    "chines",
+    "chip",
+    "fallout",
+    "grow",
+    "link",
+    "military",
+    "network",
+    "nvidia",
+    "spy",
+    "sued",
+    "supplier",
+    "suspect",
+    "tie"
+   ],
+   "7474b8d00e"
   ]
  ],
- "last_draft_at": "2026-11-20T18:16:18.241533+00:00",
+ "last_draft_at": "2026-11-20T18:30:57.122610+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T17:51:17.444831+00:00",
  "run_log": [
-  "11-20 15:15:35 run start",
-  "11-20 15:17:59 listening 9 min",
-  "11-20 15:27:12 listening done",
-  "11-20 15:27:12 run end after 697 s",
   "11-20 15:51:36 run start",
   "11-20 15:54:17 listening 9 min",
   "11-20 16:03:06 listening done",
@@ -16549,13 +16608,15 @@
   "11-20 18:16:17 run start",
   "11-20 18:16:19 listening 11 min",
   "11-20 18:28:04 listening done",
-  "11-20 18:28:04 run end after 706 s"
+  "11-20 18:28:04 run end after 706 s",
+  "11-20 18:30:56 run start",
+  "11-20 18:33:51 listening 9 min",
+  "11-20 18:42:38 listening done",
+  "11-20 18:42:38 run end after 701 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Skyline_downtown_Des_Moines.jpg/1920px-Skyline_downtown_Des_Moines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/1/1c/Vladimir_Putin_%282026_02_23%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Grand-Place%2C_Brussels_-_Wide_view_of_the_cobblestone_square_with_the_House_of_the_Dukes_of_Brabant_on_the_right.jpg/1920px-Grand-Place%2C_Brussels_-_Wide_view_of_the_cobblestone_square_with_the_House_of_the_Dukes_of_Brabant_on_the_right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/4/42/Mogadishu_Skyline_1st_picture.jpg",
@@ -16593,7 +16654,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/DSC00714_Iveco_LMV_MedEvac_Ambulance%2C_Esercito_Italiano%2C_Front_Left.jpg/1920px-DSC00714_Iveco_LMV_MedEvac_Ambulance%2C_Esercito_Italiano%2C_Front_Left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Tallinn_Cityscape_%2843174892144%29.jpg/1920px-Tallinn_Cityscape_%2843174892144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Decommissioned_jet_fighter_%2823449021489%29.jpg/1920px-Decommissioned_jet_fighter_%2823449021489%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_02.jpg/1920px-A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_02.jpg/1920px-A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Eisenhower_Executive_Office_Building_exterior_from_the_southeast.jpg/1920px-Eisenhower_Executive_Office_Building_exterior_from_the_southeast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Wikimedia_Foundation_Servers-8055_35.jpg/1920px-Wikimedia_Foundation_Servers-8055_35.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "sviatlana tsikhanouskaya": {
@@ -19988,8 +20051,6 @@
    }
   },
   "recent_ideas": [
-   "judge gavel",
-   "european commission building",
    "shenzhen skyline",
    "judge gavel",
    "iraqi flag",
@@ -19999,7 +20060,9 @@
    "ambulance",
    "tallinn cityscape",
    "fighter jet",
-   "courtroom"
+   "courtroom",
+   "eisenhower executive office building",
+   "computer servers"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -21291,6 +21354,16 @@
     "s": 0,
     "w": "Copenhagen skyline at dusk",
     "p": "shows city skyline instead of police or attack action"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Eisenhower_Executive_Office_Building_exterior_from_the_southeast.jpg/1920px-Eisenhower_Executive_Office_Building_exterior_from_the_southeast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|7fcddead": {
+    "s": 10,
+    "w": "Eisenhower Executive Office Building",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Wikimedia_Foundation_Servers-8055_35.jpg/1920px-Wikimedia_Foundation_Servers-8055_35.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|729884ed": {
+    "s": 10,
+    "w": "computer servers in racks",
+    "p": ""
    }
   }
  },
@@ -21302,10 +21375,10 @@
   "2026-11-17": 35,
   "2026-11-18": 22,
   "2026-11-19": 30,
-  "2026-11-20": 16
+  "2026-11-20": 18
  },
- "last_auto_at": "2026-11-20T18:09:01.667082+00:00",
- "last_post_at": "2026-11-20T18:09:06.943543+00:00",
+ "last_auto_at": "2026-11-20T18:32:36.265704+00:00",
+ "last_post_at": "2026-11-20T18:33:41.337694+00:00",
  "reels_count": {
   "2026-11-14": 8,
   "2026-11-15": 8,
@@ -21313,7 +21386,7 @@
   "2026-11-17": 3,
   "2026-11-18": 3,
   "2026-11-19": 3,
-  "2026-11-20": 2
+  "2026-11-20": 3
  },
  "roundup": {
   "2026-11-16": {
