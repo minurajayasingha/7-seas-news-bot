@@ -12934,53 +12934,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-17T23:30:56.305472+00:00",
-   [
-    "40",
-    "asia",
-    "concern",
-    "depos",
-    "dictator",
-    "family",
-    "father",
-    "legacy",
-    "manila",
-    "marco",
-    "marcoss",
-    "prais",
-    "president",
-    "shrugg",
-    "start",
-    "trip",
-    "trump"
-   ],
-   "skipped"
-  ],
-  [
-   "2026-11-17T23:31:13.546048+00:00",
-   [
-    "ahead",
-    "ally",
-    "back",
-    "eisenkot",
-    "elect",
-    "israel",
-    "israeli",
-    "kahana",
-    "knesset",
-    "major",
-    "matan",
-    "nam",
-    "netanyahu",
-    "opponent",
-    "parliament",
-    "setback",
-    "speaker",
-    "vot"
-   ],
-   "39b570cca8"
-  ],
-  [
    "2026-11-17T23:46:21.032929+00:00",
    [
     "agenda",
@@ -16321,17 +16274,13 @@
    "f926c87686"
   ]
  ],
- "last_draft_at": "2026-11-20T23:15:33.284247+00:00",
+ "last_draft_at": "2026-11-20T23:30:42.116737+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T23:01:09.492249+00:00",
  "run_log": [
-  "11-20 20:45:38 run start",
-  "11-20 20:45:49 listening 11 min",
-  "11-20 20:57:07 listening done",
-  "11-20 20:57:07 run end after 689 s",
   "11-20 21:02:36 run start",
   "11-20 21:04:23 listening 10 min",
   "11-20 21:14:03 listening done",
@@ -16367,7 +16316,11 @@
   "11-20 23:15:32 run start",
   "11-20 23:15:42 listening 11 min",
   "11-20 23:27:01 listening done",
-  "11-20 23:27:01 run end after 688 s"
+  "11-20 23:27:01 run end after 688 s",
+  "11-20 23:30:41 run start",
+  "11-20 23:30:51 listening 11 min",
+  "11-20 23:42:10 listening done",
+  "11-20 23:42:10 run end after 688 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
