@@ -1,94 +1,6 @@
 {
  "tg_offset": 495893087,
  "drafts": {
-  "005864cce3": {
-   "id": "005864cce3",
-   "headline": "California sues OpenAI over public safety and hacking incidents",
-   "summary": "California Attorney General Rob Bonta filed a lawsuit against OpenAI. The state alleges the artificial intelligence giant developed advanced models without adequate safeguards, putting the public at risk of cybersecurity threats.",
-   "label": "US POLITICS",
-   "hook": "Should states have the power to regulate artificial intelligence development?",
-   "key_points": [
-    "Lawsuit filed by California Attorney General Rob Bonta",
-    "OpenAI accused of creating a public nuisance",
-    "Firms alleged to lack necessary safety monitoring"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#California",
-    "#OpenAI",
-    "#ArtificialIntelligence"
-   ],
-   "sources": [
-    "NBC News",
-    "Washington Examiner"
-   ],
-   "link": "https://www.washingtonexaminer.com/policy/technology/4805056/california-sues-openai-hugging-face-public-nuisance/",
-   "links": [
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/policy/technology/4805056/california-sues-openai-hugging-face-public-nuisance/"
-    ],
-    [
-     "NBC News",
-     "https://www.nbcnews.com/tech/tech-news/california-sues-chatgpt-maker-openai-rogue-hacking-incidents-rcna609596"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/United_States_Treasury_building_2023.jpg/1920px-United_States_Treasury_building_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Wisneyykarin / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "California sues OpenAI over public safety and hacking incidents",
-    "people": [],
-    "image_query": "California State Capitol",
-    "image_queries": [
-     "artificial intelligence server",
-     "computer code screen",
-     "courtroom gavel",
-     "technology headquarters"
-    ],
-    "image_style": "person",
-    "location": "California, US",
-    "nearby_city": "Sacramento, California",
-    "event_query": "California suing OpenAI",
-    "topic_photo": "judge gavel",
-    "label": "US POLITICS",
-    "news_time": "2026-11-16T18:52:09+00:00"
-   },
-   "created_at": "2026-11-16T20:16:08.017576+00:00",
-   "news_time": "2026-11-16T18:52:09+00:00",
-   "news_latest": "2026-11-16T20:14:33+00:00",
-   "caption": "California sues OpenAI over public safety and hacking incidents\n\nCalifornia Attorney General Rob Bonta filed a lawsuit against OpenAI. The state alleges the artificial intelligence giant developed advanced models without adequate safeguards, putting the public at risk of cybersecurity threats.\n\n💬 Should states have the power to regulate artificial intelligence development?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#California #OpenAI #ArtificialIntelligence #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 668,
-   "tg_file_id": "AgACAgUAAxkDAAICnGr7ZIp7Z2F7j2MxcAraP7bC-X_yAAJHE2sbg6zgV4u47M-eRbGiAQADAgADdwADPQQ",
-   "queued_at": "2026-11-16T20:16:10.312904+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-16T20:16:10.312945+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122103683781548584",
-   "posted_at": "2026-11-16T20:16:10.621336+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 16 · 3:16 PM New York · 1:46 AM Sri Lanka\n\n<b>California sues OpenAI over public safety and hacking incidents</b>\n<i>NBC News, Washington Examiner</i>\n🟢 <b>Latest:</b> 1:44 AM Sri Lanka (1 min ago) · first reported 12:22 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122103683781548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 443,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122103683781548584_1710023074123189",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-19T19:34:04.857992+00:00"
-  },
   "08ed79d7ae": {
    "id": "08ed79d7ae",
    "headline": "Saudi Arabia dismisses coalition commander amid military repositioning in Yemen",
@@ -16283,17 +16195,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-20T20:01:46.658102+00:00",
+ "last_draft_at": "2026-11-20T20:15:52.124099+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T20:00:50.990894+00:00",
  "run_log": [
-  "11-20 18:03:11 run start",
-  "11-20 18:09:22 listening 5 min",
-  "11-20 18:14:49 listening done",
-  "11-20 18:14:49 run end after 698 s",
   "11-20 18:16:17 run start",
   "11-20 18:16:19 listening 11 min",
   "11-20 18:28:04 listening done",
@@ -16329,7 +16237,11 @@
   "11-20 20:00:50 run start",
   "11-20 20:02:01 listening 10 min",
   "11-20 20:12:31 listening done",
-  "11-20 20:12:31 run end after 700 s"
+  "11-20 20:12:31 run end after 700 s",
+  "11-20 20:15:46 run start",
+  "11-20 20:16:25 listening 11 min",
+  "11-20 20:27:20 listening done",
+  "11-20 20:27:20 run end after 694 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
