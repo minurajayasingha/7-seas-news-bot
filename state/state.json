@@ -1,5 +1,5 @@
 {
- "tg_offset": 495893084,
+ "tg_offset": 495893087,
  "drafts": {
   "a21739bb6e": {
    "id": "a21739bb6e",
@@ -13210,7 +13210,9 @@
   "https://www.france24.com/en/tv-shows/sports/20261120-fifa-infantino-tashima-and-diallo-enter-presidential-race",
   "https://www.independent.co.uk/news/world/americas/us-politics/trump-falls-asleep-summit-xi-speech-b3088429.html",
   "https://www.independent.co.uk/news/world/americas/us-politics/trump-escalator-china-xi-jinping-holding-hands-b3088418.html",
-  "https://thehill.com/blogs/in-the-know/6232403-melania-trump-prime-video-series/"
+  "https://thehill.com/blogs/in-the-know/6232403-melania-trump-prime-video-series/",
+  "https://abcnews.com/International/wireStory/xi-projects-chinas-global-influence-after-hosting-trump-138313749",
+  "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html"
  ],
  "recent_topics": [
   [
@@ -16799,19 +16801,33 @@
     "yet"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-20T08:01:17.014664+00:00",
+   [
+    "apec",
+    "camaraderi",
+    "china",
+    "flaunt",
+    "global",
+    "host",
+    "influenc",
+    "littl",
+    "project",
+    "putin",
+    "show",
+    "trump"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-20T07:46:44.474237+00:00",
+ "last_draft_at": "2026-11-20T08:00:51.965955+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T07:45:51.000995+00:00",
  "run_log": [
-  "11-20 05:30:43 run start",
-  "11-20 05:30:52 listening 11 min",
-  "11-20 05:42:11 listening done",
-  "11-20 05:42:11 run end after 687 s",
   "11-20 05:45:38 run start",
   "11-20 05:46:54 listening 10 min",
   "11-20 05:57:24 listening done",
@@ -16847,7 +16863,11 @@
   "11-20 07:45:50 run start",
   "11-20 07:47:16 listening 10 min",
   "11-20 07:57:21 listening done",
-  "11-20 07:57:21 run end after 691 s"
+  "11-20 07:57:21 run end after 691 s",
+  "11-20 08:00:50 run start",
+  "11-20 08:01:17 listening 11 min",
+  "11-20 08:12:37 listening done",
+  "11-20 08:12:37 run end after 707 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -22027,7 +22047,7 @@
    }
   },
   "2026-11-19": {
-   "status": "asked",
+   "status": "building",
    "plan": {
     "parts": [
      {
@@ -22199,7 +22219,42 @@
    ],
    "asked_at": "2026-11-20T05:00:46.738034+00:00",
    "test": false,
-   "msg_id": 848
+   "msg_id": 848,
+   "approved_by": "owner",
+   "approved_at": "2026-11-20T08:00:50.967364+00:00",
+   "dispatch_at": "2026-11-20T08:00:50.967371+00:00",
+   "dispatch_tries": 1,
+   "headlines": [
+    "Crimean Bridge attacked again as traffic is suspended",
+    "Skyscraper damaged in Riyadh as Saudi Arabia reports Houthi attacks",
+    "Trump states Iran may be working on weapons",
+    "Dutch embassy compound hit by projectile during Kyiv attacks",
+    "IEA warns Middle East crisis and datacentres threaten energy security",
+    "Haitian security forces kill 34 suspected gang members in raid",
+    "Army plans to detonate 5 tons of chemicals in Iowa",
+    "Department of Justice assigns prosecutor Bill Essayli to Mar-a-Lago raid inquiry",
+    "Trump CISA nominee Michael LoSapio questions Jan 6 attack",
+    "US appeals court halts order restoring Venezuelan deportation protections",
+    "President Trump posthumously pardons baseball player Pete Rose",
+    "Watchdog says Pentagon lacks plan to address munitions shortfall",
+    "House Republicans face leadership choices for Oversight Committee",
+    "White House national cyber director Sean Cairncross steps down",
+    "Senate passes bill to speed up energy and infrastructure projects",
+    "Trump, Xi and Putin hold historic three-way summit",
+    "UN nuclear watchdog says North Korea expands uranium enrichment facility",
+    "European leaders meet in Berlin as Ukraine faces financing gap",
+    "Denmark parliament ratifies security deal involving Greenland and United States",
+    "Migrant boat capsizes off Senegal coast leaving several missing",
+    "European Commission hit by AI assisted cyberattack",
+    "Somalia orders United Arab Emirates ambassador to leave the country",
+    "Anthropic reaches one point five trillion dollar valuation in Nasdaq debut",
+    "Four men convicted of sexual assault of British woman",
+    "Cincinnati Zoo announces death of Fiona the hippo",
+    "Wetstone US Ventures acquires two ocean leases off American Samoa",
+    "Senator Elissa Slotkin endorses Chris Van Hollen for Senate leadership",
+    "European leaders meet in Berlin for talks on ending Ukraine war",
+    "Justice Department drops appeal in Alaska Senate race"
+   ]
   }
  },
  "run_once_done": [
