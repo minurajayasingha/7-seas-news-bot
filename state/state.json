@@ -10882,6 +10882,99 @@
     "shares": 0
    },
    "stats_at": "2026-11-20T20:00:50.990894+00:00"
+  },
+  "7abcb9e67a": {
+   "id": "7abcb9e67a",
+   "headline": "Anthropic shares fall on second day of trading amid tech sell-off",
+   "summary": "Anthropic shares dropped on the second day of trading following its record-breaking IPO. The decline coincided with a broader technology sector sell-off that saw the Nasdaq erase its gains for 2026.",
+   "label": "ECONOMY",
+   "hook": "Are huge financial investments in artificial intelligence starting to worry investors?",
+   "key_points": [
+    "Nasdaq erases all gains for 2026",
+    "Asian markets record worst week since 2020",
+    "Dow Jones and S&P 500 briefly entered correction territory"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Anthropic",
+    "#Nasdaq",
+    "#TechNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "BBC",
+    "The Guardian"
+   ],
+   "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+   "links": [
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Director_Petraeus_rings_opening_bell_at_NY_Stock_Exchange_-_Flickr_-_The_Central_Intelligence_Agency.jpg/1920px-Director_Petraeus_rings_opening_bell_at_NY_Stock_Exchange_-_Flickr_-_The_Central_Intelligence_Agency.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "The Central Intelligence Agency / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "stock exchange trading floor"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "Anthropic shares fall on second day of trading amid tech sell-off",
+    "people": [],
+    "image_query": "Nasdaq stock exchange",
+    "image_queries": [
+     "Wall Street sign",
+     "New York Stock Exchange",
+     "stock market trading floor",
+     "financial district skyline"
+    ],
+    "image_style": "scene",
+    "location": "US",
+    "nearby_city": "New York, New York",
+    "event_query": "stock market drop",
+    "topic_photo": "stock exchange board",
+    "label": "ECONOMY",
+    "action_subject": "stock market chart",
+    "news_time": "2026-11-20T16:26:07+00:00"
+   },
+   "created_at": "2026-11-20T20:31:19.015303+00:00",
+   "news_time": "2026-11-20T16:26:07+00:00",
+   "news_latest": "2026-11-20T20:00:53+00:00",
+   "importance": 7,
+   "caption": "Anthropic shares fall on second day of trading amid tech sell-off\n\nAnthropic shares dropped on the second day of trading following its record-breaking IPO. The decline coincided with a broader technology sector sell-off that saw the Nasdaq erase its gains for 2026.\n\n💬 Are huge financial investments in artificial intelligence starting to worry investors?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Anthropic #Nasdaq #TechNews #7SeasNews",
+   "photo_line": "📷 10/10 stock exchange trading floor · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 875,
+   "tg_file_id": "AgACAgUAAxkDAAIDa2sAAa4fGqkcT4_hnjyyTNDad4ovWgACvRNrG_07CFSjeeF65GChLAEAAwIAA3cAAz0E",
+   "queued_at": "2026-11-20T20:31:27.892464+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-20T20:31:27.892494+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122107845261548584",
+   "posted_at": "2026-11-20T20:31:28.229373+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 20 · 3:31 PM New York · 2:01 AM Sri Lanka\n\n<b>Anthropic shares fall on second day of trading amid tech sell-off</b>\n<i>Al Jazeera, BBC, The Guardian</i>\n🟢 <b>Latest:</b> 1:30 AM Sri Lanka (30 min ago) · first reported 9:56 PM\n📷 10/10 stock exchange trading floor · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122107845261548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 583,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122107845261548584_2233245304253716"
   }
  },
  "seen_links": [
@@ -12691,82 +12784,12 @@
   "https://www.washingtonexaminer.com/news/white-house/4810240/what-trump-work-on-with-democratic-congress-final-two-years/",
   "https://thehill.com/homenews/administration/6233986-trump-open-democrat-cooperation-healthcare/",
   "https://thehill.com/homenews/house/6234013-house-democrats-reup-support-lamonica-mciver/",
-  "https://www.upi.com/Top_News/US/2026/11/20/appeals-court-denies-lamonica-mciver-full-panel-review-delaney-hall/5931795185830/"
+  "https://www.upi.com/Top_News/US/2026/11/20/appeals-court-denies-lamonica-mciver-full-panel-review-delaney-hall/5931795185830/",
+  "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+  "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss",
+  "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
  ],
  "recent_topics": [
-  [
-   "2026-11-17T20:32:04.321387+00:00",
-   [
-    "administration",
-    "alleg",
-    "boat",
-    "dron",
-    "ecuadorean",
-    "ecuadorian",
-    "fishermen",
-    "pacific",
-    "strik",
-    "sue",
-    "surviv",
-    "trump"
-   ],
-   "08b988c418"
-  ],
-  [
-   "2026-11-17T20:32:06.750025+00:00",
-   [
-    "danger",
-    "deep",
-    "demand",
-    "enmity",
-    "europ",
-    "kremlin",
-    "putin",
-    "run",
-    "russia",
-    "see",
-    "talk",
-    "trap",
-    "ukrain",
-    "vladimir"
-   ],
-   "skipped"
-  ],
-  [
-   "2026-11-17T20:32:52.589234+00:00",
-   [
-    "10",
-    "72",
-    "bank",
-    "british",
-    "daily",
-    "dead",
-    "deadly",
-    "developer",
-    "firm",
-    "government",
-    "health",
-    "israeli",
-    "jericho",
-    "jerusalem",
-    "kill",
-    "ministry",
-    "near",
-    "palestinian",
-    "peopl",
-    "persist",
-    "pogrom",
-    "sanction",
-    "settlement",
-    "settler",
-    "shot",
-    "west",
-    "witness",
-    "woman",
-    "wound"
-   ],
-   "399fd9cdcf"
-  ],
   [
    "2026-11-17T20:48:07.798464+00:00",
    [
@@ -16193,19 +16216,38 @@
     "support"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-20T20:31:27.892321+00:00",
+   [
+    "anthropic",
+    "blockbuster",
+    "continu",
+    "fall",
+    "ipo",
+    "market",
+    "mega",
+    "open",
+    "reel",
+    "second",
+    "sell-off",
+    "shar",
+    "slump",
+    "tech",
+    "trad",
+    "tumbl",
+    "wider"
+   ],
+   "7abcb9e67a"
   ]
  ],
- "last_draft_at": "2026-11-20T20:15:52.124099+00:00",
+ "last_draft_at": "2026-11-20T20:30:49.159208+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T20:00:50.990894+00:00",
  "run_log": [
-  "11-20 18:16:17 run start",
-  "11-20 18:16:19 listening 11 min",
-  "11-20 18:28:04 listening done",
-  "11-20 18:28:04 run end after 706 s",
   "11-20 18:30:56 run start",
   "11-20 18:33:51 listening 9 min",
   "11-20 18:42:38 listening done",
@@ -16241,12 +16283,15 @@
   "11-20 20:15:46 run start",
   "11-20 20:16:25 listening 11 min",
   "11-20 20:27:20 listening done",
-  "11-20 20:27:20 run end after 694 s"
+  "11-20 20:27:20 run end after 694 s",
+  "11-20 20:30:48 run start",
+  "11-20 20:31:45 listening 11 min",
+  "11-20 20:42:14 listening done",
+  "11-20 20:42:14 run end after 685 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/DJI_-_Drohne_Mavic_Air_2.JPG/1920px-DJI_-_Drohne_Mavic_Air_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Wall_Street_-_New_York_Stock_Exchange.jpg/1920px-Wall_Street_-_New_York_Stock_Exchange.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/1280px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -16285,7 +16330,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Wikimedia_Foundation_Servers-8055_35.jpg/1920px-Wikimedia_Foundation_Servers-8055_35.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Madrid_-_Madrid_skyline_-_140314_195825.jpg/1920px-Madrid_-_Madrid_skyline_-_140314_195825.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Belgian_Army%2C_BAS_24%2C_Brussels_%28P1170134-RR%29.jpg/1920px-Belgian_Army%2C_BAS_24%2C_Brussels_%28P1170134-RR%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Door_to_Senate_Chamber_MN_State_Capitol.jpg/1920px-Door_to_Senate_Chamber_MN_State_Capitol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Door_to_Senate_Chamber_MN_State_Capitol.jpg/1920px-Door_to_Senate_Chamber_MN_State_Capitol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Director_Petraeus_rings_opening_bell_at_NY_Stock_Exchange_-_Flickr_-_The_Central_Intelligence_Agency.jpg/1920px-Director_Petraeus_rings_opening_bell_at_NY_Stock_Exchange_-_Flickr_-_The_Central_Intelligence_Agency.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "sviatlana tsikhanouskaya": {
@@ -19680,7 +19726,6 @@
    }
   },
   "recent_ideas": [
-   "iraqi flag",
    "naypyidaw, myanmar",
    "house chamber, united states capitol",
    "horse-drawn carriage",
@@ -19691,7 +19736,8 @@
    "eisenhower executive office building",
    "computer servers",
    "military vehicles",
-   "senate chamber, united states capitol"
+   "senate chamber, united states capitol",
+   "stock exchange trading floor"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -21048,6 +21094,11 @@
     "s": 6,
     "w": "Senate chamber doors",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Director_Petraeus_rings_opening_bell_at_NY_Stock_Exchange_-_Flickr_-_The_Central_Intelligence_Agency.jpg/1920px-Director_Petraeus_rings_opening_bell_at_NY_Stock_Exchange_-_Flickr_-_The_Central_Intelligence_Agency.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|958a7796": {
+    "s": 10,
+    "w": "stock exchange trading floor",
+    "p": ""
    }
   }
  },
@@ -21059,10 +21110,10 @@
   "2026-11-17": 35,
   "2026-11-18": 22,
   "2026-11-19": 30,
-  "2026-11-20": 21
+  "2026-11-20": 22
  },
- "last_auto_at": "2026-11-20T19:48:20.587511+00:00",
- "last_post_at": "2026-11-20T19:48:24.845792+00:00",
+ "last_auto_at": "2026-11-20T20:31:28.229373+00:00",
+ "last_post_at": "2026-11-20T20:31:34.402190+00:00",
  "reels_count": {
   "2026-11-14": 8,
   "2026-11-15": 8,
