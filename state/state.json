@@ -12934,37 +12934,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-17T23:46:21.032929+00:00",
-   [
-    "agenda",
-    "ahead",
-    "car",
-    "congress",
-    "democratic",
-    "division",
-    "embrac",
-    "endors",
-    "eve",
-    "expansion",
-    "expansiv",
-    "grow",
-    "hakeem",
-    "health",
-    "hous",
-    "jeffry",
-    "medicar",
-    "nomine",
-    "seek",
-    "shift",
-    "shor",
-    "speaker",
-    "strategy",
-    "support",
-    "vot"
-   ],
-   "skipped"
-  ],
-  [
    "2026-11-18T01:07:54.338438+00:00",
    [
     "ability",
@@ -16274,17 +16243,13 @@
    "f926c87686"
   ]
  ],
- "last_draft_at": "2026-11-20T23:30:42.116737+00:00",
+ "last_draft_at": "2026-11-20T23:45:51.607106+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T23:01:09.492249+00:00",
  "run_log": [
-  "11-20 21:02:36 run start",
-  "11-20 21:04:23 listening 10 min",
-  "11-20 21:14:03 listening done",
-  "11-20 21:14:03 run end after 686 s",
   "11-20 21:26:17 run start",
   "11-20 21:26:37 listening 11 min",
   "11-20 21:36:31 run start",
@@ -16320,7 +16285,11 @@
   "11-20 23:30:41 run start",
   "11-20 23:30:51 listening 11 min",
   "11-20 23:42:10 listening done",
-  "11-20 23:42:10 run end after 688 s"
+  "11-20 23:42:10 run end after 688 s",
+  "11-20 23:45:51 run start",
+  "11-20 23:45:52 listening 11 min",
+  "11-20 23:57:35 listening done",
+  "11-20 23:57:35 run end after 704 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
