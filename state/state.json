@@ -1,95 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "d76ba2cdf6": {
-   "id": "d76ba2cdf6",
-   "headline": "Building fire in southern Thailand kills eleven people",
-   "summary": "A fire in southern Thailand kills 11 people. The incident takes place in buildings located in the tourist town of Patong.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "Fire engulfs buildings in Patong",
-    "Multiple people sustain injuries"
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#Thailand",
-    "#WorldNews",
-    "#BreakingNews"
-   ],
-   "sources": [
-    "ABC News",
-    "Al Jazeera"
-   ],
-   "link": "https://abcnews.com/International/wireStory/fire-building-southern-thailand-kills-11-people-138170386",
-   "links": [
-    [
-     "ABC News",
-     "https://abcnews.com/International/wireStory/fire-building-southern-thailand-kills-11-people-138170386"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/video/newsfeed/2026/11/16/shophouse-fire-kills-at-least-11-in-phuket?traffic_source=rss"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Street_fast_food_Patong_Thajsko_2018_1.jpg/1920px-Street_fast_food_Patong_Thajsko_2018_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Karelj / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Building fire in southern Thailand kills eleven people",
-    "people": [],
-    "image_query": "Patong Phuket Thailand",
-    "image_queries": [
-     "Phuket street view",
-     "Thailand resort town",
-     "Patong beach area",
-     "Southern Thailand town"
-    ],
-    "image_style": "incident",
-    "location": "Patong, Thailand",
-    "nearby_city": "Phuket, Thailand",
-    "event_query": "Patong building fire Thailand",
-    "news_time": null,
-    "label": "WORLD"
-   },
-   "created_at": "2026-11-16T06:34:55.828367+00:00",
-   "news_time": "2026-11-16T03:51:43+00:00",
-   "news_latest": "2026-11-16T06:34:29+00:00",
-   "caption": "🚨 BREAKING: Building fire in southern Thailand kills eleven people\n\nA fire in southern Thailand kills 11 people. The incident takes place in buildings located in the tourist town of Patong.\n\nWhat we know so far:\n• Fire engulfs buildings in Patong\n• Multiple people sustain injuries\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Thailand #WorldNews #BreakingNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 628,
-   "tg_file_id": "AgACAgUAAxkDAAICdGr6pBG0Nptb-Mg_mrn_6T64hS3OAAK4Fmsbg6zYV6a7vzBgChCJAQADAgADdwADPQQ",
-   "queued_at": "2026-11-16T06:34:58.235632+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-16T06:34:58.235670+00:00",
-   "post_label": "🤖 Auto-posting + Reel",
-   "fb_post_id": "1413030521900096_122103069303548584",
-   "posted_at": "2026-11-16T06:34:58.521351+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 16 · 1:35 AM New York · 12:05 PM Sri Lanka\n\n<b>Building fire in southern Thailand kills eleven people</b>\n<i>ABC News, Al Jazeera</i>\n🟢 <b>Latest:</b> 12:04 PM Sri Lanka (just now) · first reported 9:21 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122103069303548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 407,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122103069303548584_1841262640243678",
-   "fb_story_id": "1668214498024881",
-   "fb_reel_id": "1652230289694754",
-   "reel_status": "live",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-19T06:00:50.130247+00:00"
-  },
   "a21739bb6e": {
    "id": "a21739bb6e",
    "headline": "At least 17 people killed in South Africa shootings",
@@ -11481,6 +11392,94 @@
     "shares": 0
    },
    "stats_at": "2026-11-20T05:45:38.498599+00:00"
+  },
+  "5c6961b5ad": {
+   "id": "5c6961b5ad",
+   "headline": "Three candidates enter upcoming FIFA presidential election",
+   "summary": "Three candidates have submitted bids for the FIFA presidency ahead of the March election. Gianni Infantino seeks a fourth consecutive term, while Philippe Diallo and Kohzo Tashima also enter the race.",
+   "label": "ELECTIONS",
+   "hook": "Will Gianni Infantino secure a fourth consecutive term as FIFA president?",
+   "key_points": [
+    "The election takes place on March 18, 2027.",
+    "The event is scheduled in Rabat, Morocco.",
+    "Philippe Diallo is backed by UEFA."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#FIFA",
+    "#WorldNews",
+    "#Elections"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "France 24"
+   ],
+   "link": "https://www.aljazeera.com/sports/2026/11/20/kozo-tashima-japan-fifa-president-election-balogun-red-card-world-cup-infantino?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/sports/2026/11/20/kozo-tashima-japan-fifa-president-election-balogun-red-card-world-cup-infantino?traffic_source=rss"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/tv-shows/sports/20261120-fifa-infantino-tashima-and-diallo-enter-presidential-race"
+    ]
+   ],
+   "bg": {
+    "type": "map",
+    "photos": [],
+    "location": "Rabat, Morocco",
+    "lat": 34.02111111,
+    "lon": -6.84138889,
+    "country": "Morocco",
+    "state": ""
+   },
+   "img_post": {
+    "headline": "Three candidates enter upcoming FIFA presidential election",
+    "people": [
+     "Gianni Infantino",
+     "Kohzo Tashima",
+     "Philippe Diallo"
+    ],
+    "image_query": "Rabat skyline",
+    "image_queries": [
+     "ballot box",
+     "soccer stadium",
+     "trophy",
+     "meeting room"
+    ],
+    "image_style": "person",
+    "location": "Rabat, Morocco",
+    "nearby_city": "Rabat, Morocco",
+    "event_query": "FIFA presidential election",
+    "topic_photo": "ballot box",
+    "label": "ELECTIONS",
+    "action_subject": "",
+    "news_time": "2026-11-20T06:14:03+00:00"
+   },
+   "created_at": "2026-11-20T06:32:16.149519+00:00",
+   "news_time": "2026-11-20T06:14:03+00:00",
+   "news_latest": "2026-11-20T06:15:06+00:00",
+   "importance": 6,
+   "caption": "Three candidates enter upcoming FIFA presidential election\n\nThree candidates have submitted bids for the FIFA presidency ahead of the March election. Gianni Infantino seeks a fourth consecutive term, while Philippe Diallo and Kohzo Tashima also enter the race.\n\n💬 Will Gianni Infantino secure a fourth consecutive term as FIFA president?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#FIFA #WorldNews #Elections #7SeasNews",
+   "photo_line": "📷 news map (no fitting photo)",
+   "status": "posted",
+   "tg_message_id": 849,
+   "tg_file_id": "AgACAgUAAxkDAAIDUWr_6XLviQABs2LGF5vmfoPVdJYbbQACNhRrG95pAAFUMPNLK5M1YDUBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-20T06:32:18.490511+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-20T06:32:18.490538+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122107159173548584",
+   "posted_at": "2026-11-20T06:32:18.780653+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 20 · 1:32 AM New York · 12:02 PM Sri Lanka\n\n<b>Three candidates enter upcoming FIFA presidential election</b>\n<i>Al Jazeera, France 24</i>\n🟢 <b>Latest:</b> 11:45 AM Sri Lanka (17 min ago) · first reported 11:44 AM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122107159173548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 556,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122107159173548584_1632345978630469"
   }
  },
  "seen_links": [
@@ -13200,7 +13199,9 @@
   "https://www.nbcnews.com/politics/2026-election/doj-seeks-dismissal-lawsuit-alaska-senate-dan-sullivan-mary-peltola-rcna610343",
   "https://www.washingtonpost.com/national-security/2026/11/19/justice-dept-drops-appeal-bid-delay-certification-alaska-senate-win/",
   "https://abcnews.com/International/wireStory/el-salvador-president-nayib-bukele-seeks-term-attacking-138309430",
-  "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-expected-to-formalise-bid-for-third-presidential-term?traffic_source=rss"
+  "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-expected-to-formalise-bid-for-third-presidential-term?traffic_source=rss",
+  "https://www.aljazeera.com/sports/2026/11/20/kozo-tashima-japan-fifa-president-election-balogun-red-card-world-cup-infantino?traffic_source=rss",
+  "https://www.france24.com/en/tv-shows/sports/20261120-fifa-infantino-tashima-and-diallo-enter-presidential-race"
  ],
  "recent_topics": [
   [
@@ -16793,19 +16794,37 @@
     "third"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-20T06:32:18.490371+00:00",
+   [
+    "balogun",
+    "bid",
+    "card",
+    "cup",
+    "diallo",
+    "enter",
+    "fifa",
+    "infantino",
+    "presidency",
+    "presidential",
+    "prompt",
+    "rac",
+    "red",
+    "row",
+    "tashima",
+    "world"
+   ],
+   "5c6961b5ad"
   ]
  ],
- "last_draft_at": "2026-11-20T06:15:42.214676+00:00",
+ "last_draft_at": "2026-11-20T06:30:44.400355+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T05:45:38.498599+00:00",
  "run_log": [
-  "11-20 04:00:34 listening done",
-  "11-20 04:00:34 run end after 703 s",
-  "11-20 04:13:45 run start",
-  "11-20 04:13:47 listening 11 min",
   "11-20 04:23:58 run start",
   "11-20 04:23:59 listening 11 min",
   "11-20 04:35:42 listening done",
@@ -16841,7 +16860,11 @@
   "11-20 06:15:41 run start",
   "11-20 06:16:15 listening 11 min",
   "11-20 06:27:09 listening done",
-  "11-20 06:27:09 run end after 688 s"
+  "11-20 06:27:09 run end after 688 s",
+  "11-20 06:30:44 run start",
+  "11-20 06:32:32 listening 10 min",
+  "11-20 06:42:10 listening done",
+  "11-20 06:42:10 run end after 686 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -21327,21 +21350,31 @@
     "s": 10,
     "w": "judge gavel on rainbow flag",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Logan_Heights_ballot_box.jpg/1920px-Logan_Heights_ballot_box.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|ca5f4489": {
+    "s": 0,
+    "w": "ballot drop box outdoors",
+    "p": "shows an outdoor ballot drop box instead of FIFA election context"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Bab_al_Soufara%2C_Remparts_of_Almohad%2C_Rabat_%28%D8%A8%D8%A7%D8%A8_%D8%A7%D9%84%D8%B3%D9%81%D8%B1%D8%A7%D8%A1%D8%8C_%D8%A8%D8%A7%D8%A8_%D8%A7%D9%84%D8%B3%D9%81%D8%A7%D8%B1%D8%A9_-_%D8%A7%D9%84%D8%B1%D8%A8%D8%A7%D8%B7%29.jpg/1920px-Bab_al_Soufara%2C_Remparts_of_Almohad%2C_Rabat_%28%D8%A8%D8%A7%D8%A8_%D8%A7%D9%84%D8%B3%D9%81%D8%B1%D8%A7%D8%A1%D8%8C_%D8%A8%D8%A7%D8%A8_%D8%A7%D9%84%D8%B3%D9%81%D8%A7%D8%B1%D8%A9_-_%D8%A7%D9%84%D8%B1%D8%A8%D8%A7%D8%B7%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|ca5f4489": {
+    "s": 0,
+    "w": "Bab Rouah gate in Rabat",
+    "p": "photo is unrelated to the FIFA presidential election story"
    }
   }
  },
  "comment_perm_told": true,
  "auto_count": {
-  "2026-11-13": 34,
   "2026-11-14": 18,
   "2026-11-15": 19,
   "2026-11-16": 32,
   "2026-11-17": 35,
   "2026-11-18": 22,
-  "2026-11-19": 30
+  "2026-11-19": 30,
+  "2026-11-20": 1
  },
- "last_auto_at": "2026-11-20T03:13:45.811462+00:00",
- "last_post_at": "2026-11-20T03:14:03.282601+00:00",
+ "last_auto_at": "2026-11-20T06:32:18.780653+00:00",
+ "last_post_at": "2026-11-20T06:32:24.126476+00:00",
  "reels_count": {
   "2026-11-13": 10,
   "2026-11-14": 8,
