@@ -11614,6 +11614,184 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122107399173548584_1881359349540684"
+  },
+  "ced106d019": {
+   "id": "ced106d019",
+   "headline": "Russian missile and drone attacks kill several in Ukraine",
+   "summary": "Russia launched a series of missile and drone strikes targeting Kyiv, Lviv, and other Ukrainian regions. The attacks resulted in multiple deaths and injuries while cutting power and damaging bridges.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Attacks hit Kyiv and Lviv",
+    "Power supplies were cut",
+    "Bridges were damaged"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Ukraine",
+    "#Russia",
+    "#WorldNews"
+   ],
+   "sources": [
+    "ABC News",
+    "UPI"
+   ],
+   "link": "https://www.upi.com/Top_News/World-News/2026/11/20/Ukraine-Russia-mounts-deadly-missile-drone-assault/8421795165920/",
+   "links": [
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/World-News/2026/11/20/Ukraine-Russia-mounts-deadly-missile-drone-assault/8421795165920/"
+    ],
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/russian-attacks-kyiv-kill-3-cripple-bridges-cut-138313948"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Kyiv_skyline_%2815688086793%29.jpg/1920px-Kyiv_skyline_%2815688086793%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Sergey Galyonkin from Raleigh, USA / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 5,
+      "shows": "Kyiv skyline at dawn"
+     }
+    ],
+    "_loaded": 1
+   },
+   "img_post": {
+    "headline": "Russian missile and drone attacks kill several in Ukraine",
+    "people": [],
+    "image_query": "Kyiv city",
+    "image_queries": [
+     "Lviv city",
+     "damaged bridge",
+     "power lines",
+     "Ukrainian city street"
+    ],
+    "image_style": "incident",
+    "location": "Kyiv, Ukraine",
+    "nearby_city": "Kyiv, Ukraine",
+    "event_query": "Kyiv missile attack",
+    "topic_photo": "damaged building",
+    "label": "CONFLICT",
+    "action_subject": "missile strike damage",
+    "news_time": "2026-11-20T08:51:45+00:00"
+   },
+   "created_at": "2026-11-20T11:36:37.071097+00:00",
+   "news_time": "2026-11-20T08:51:45+00:00",
+   "news_latest": "2026-11-20T11:21:00+00:00",
+   "importance": 10,
+   "caption": "🚨 BREAKING: Russian missile and drone attacks kill several in Ukraine\n\nRussia launched a series of missile and drone strikes targeting Kyiv, Lviv, and other Ukrainian regions. The attacks resulted in multiple deaths and injuries while cutting power and damaging bridges.\n\nWhat we know so far:\n• Attacks hit Kyiv and Lviv\n• Power supplies were cut\n• Bridges were damaged\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Ukraine #Russia #WorldNews #7SeasNews",
+   "photo_line": "📷 5/10 Kyiv skyline at dawn",
+   "status": "posted",
+   "tg_message_id": 857,
+   "tg_file_id": "AgACAgUAAxkDAAIDWWsAATDJ6lcJEBQ0NBkPSM40PYp5YgAC8RRrG_07AAFUOxylc2ebbSwBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-20T11:36:41.615390+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-20T11:36:41.615420+00:00",
+   "post_label": "🤖 Auto-posting + Reel",
+   "fb_post_id": "1413030521900096_122107415091548584",
+   "posted_at": "2026-11-20T11:37:55.236063+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 20 · 6:38 AM New York · 5:08 PM Sri Lanka\n\n<b>Russian missile and drone attacks kill several in Ukraine</b>\n<i>ABC News, UPI</i>\n🟢 <b>Latest:</b> 4:51 PM Sri Lanka (17 min ago) · first reported 2:21 PM\n📷 5/10 Kyiv skyline at dawn\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122107415091548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 562,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122107415091548584_1799350587845448",
+   "fb_story_id": "4120975834875695",
+   "fb_reel_id": "1000434179792714",
+   "reel_status": "live"
+  },
+  "11cb4e9aad": {
+   "id": "11cb4e9aad",
+   "headline": "Iraqi security forces deploy in Jurf al-Sakhar",
+   "summary": "Iraqi security forces deployed in the Kataib Hezbollah stronghold of Jurf al-Sakhar under a compromise deal brokered by Shi'ite politicians. State media reported the deployment following a security intervention ordered by Iraq's prime minister after allegations of state-owned oil smuggling.",
+   "label": "CONFLICT",
+   "hook": "Will this compromise deal end the standoff in Jurf al-Sakhar?",
+   "key_points": [
+    "Kataib Hezbollah faced a deadline to leave its stronghold.",
+    "The prime minister ordered a security intervention earlier this week.",
+    "The militia was accused of smuggling state-owned oil worth hundreds of millions of dollars."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Iraq",
+    "#KataibHezbollah",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "France 24"
+   ],
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kataib-hezbollah-faces-deadline-to-leave-iraqi-stronghold?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/20/kataib-hezbollah-faces-deadline-to-leave-iraqi-stronghold?traffic_source=rss"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/middle-east/20261120-iraqi-security-forces-to-deploy-in-hezbollah-stronghold-under-compromise-deal"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Views_of_Iraqi_flag_over_the_Aghawat_Mosque_in_Mosul_in_summer_of_2019%2C_after_its_destruction_in_the_war_with_the_Islamic_State_12.jpg",
+      "credit": "Levi Clancy / Wikimedia Commons (CC0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 5,
+      "shows": "Iraqi flag"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Iraqi security forces deploy in Jurf al-Sakhar",
+    "people": [],
+    "image_query": "Baghdad street scene",
+    "image_queries": [
+     "Iraqi flag",
+     "Baghdad cityscape",
+     "state media building",
+     "government office"
+    ],
+    "image_style": "scene",
+    "location": "Jurf al-Sakhar, Iraq",
+    "nearby_city": "Baghdad, Iraq",
+    "event_query": "Iraqi security forces deployment",
+    "topic_photo": "police officers at work",
+    "label": "CONFLICT",
+    "action_subject": "Iraqi security forces",
+    "news_time": "2026-11-20T08:37:27+00:00"
+   },
+   "created_at": "2026-11-20T11:37:52.920469+00:00",
+   "news_time": "2026-11-20T08:37:27+00:00",
+   "news_latest": "2026-11-20T11:10:06+00:00",
+   "importance": 6,
+   "caption": "Iraqi security forces deploy in Jurf al-Sakhar\n\nIraqi security forces deployed in the Kataib Hezbollah stronghold of Jurf al-Sakhar under a compromise deal brokered by Shi'ite politicians. State media reported the deployment following a security intervention ordered by Iraq's prime minister after allegations of state-owned oil smuggling.\n\n💬 Will this compromise deal end the standoff in Jurf al-Sakhar?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Iraq #KataibHezbollah #WorldNews #7SeasNews",
+   "photo_line": "📷 5/10 Iraqi flag",
+   "status": "posted",
+   "tg_message_id": 858,
+   "tg_file_id": "AgACAgUAAxkDAAIDWmsAATESPgwZ1tj3KsmeTlp4kH4k7QAC8hRrG_07AAFUW8BeLYmOErMBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-20T11:37:54.947984+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_label": "🤖 Auto-posting",
+   "post_at": "2026-11-20T11:38:00.894724+00:00",
+   "fb_post_id": "1413030521900096_122107416525548584",
+   "posted_at": "2026-11-20T11:37:55.236063+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 20 · 6:39 AM New York · 5:09 PM Sri Lanka\n\n<b>Iraqi security forces deploy in Jurf al-Sakhar</b>\n<i>Al Jazeera, France 24</i>\n🟢 <b>Latest:</b> 4:40 PM Sri Lanka (28 min ago) · first reported 2:07 PM\n📷 5/10 Iraqi flag\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122107416525548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 564,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122107416525548584_1149445191003382"
   }
  },
  "seen_links": [
@@ -13359,7 +13537,11 @@
   "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
   "https://www.independent.co.uk/news/world/americas/us-politics/brooke-rollins-usda-religious-emails-b3088541.html",
   "https://www.nytimes.com/2026/11/20/podcasts/the-daily/trump-putin-xi-summit-ai.html",
-  "https://www.independent.co.uk/news/world/donald-trump-vladimir-putin-xi-jinping-un-icc-b3088430.html"
+  "https://www.independent.co.uk/news/world/donald-trump-vladimir-putin-xi-jinping-un-icc-b3088430.html",
+  "https://www.upi.com/Top_News/World-News/2026/11/20/Ukraine-Russia-mounts-deadly-missile-drone-assault/8421795165920/",
+  "https://abcnews.com/International/wireStory/russian-attacks-kyiv-kill-3-cripple-bridges-cut-138313948",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/20/kataib-hezbollah-faces-deadline-to-leave-iraqi-stronghold?traffic_source=rss",
+  "https://www.france24.com/en/middle-east/20261120-iraqi-security-forces-to-deploy-in-hezbollah-stronghold-under-compromise-deal"
  ],
  "recent_topics": [
   [
@@ -16921,19 +17103,53 @@
     "war"
    ],
    "ce7c2b9efb"
+  ],
+  [
+   "2026-11-20T11:36:41.615241+00:00",
+   [
+    "23",
+    "attack",
+    "bridg",
+    "crippl",
+    "cut",
+    "hurt",
+    "kill",
+    "kyiv",
+    "least",
+    "power",
+    "retaliatory",
+    "russian",
+    "strik",
+    "ukrain"
+   ],
+   "ced106d019"
+  ],
+  [
+   "2026-11-20T11:37:54.947834+00:00",
+   [
+    "compromis",
+    "deadlin",
+    "deal",
+    "deploy",
+    "fac",
+    "forc",
+    "hezbollah",
+    "iraqi",
+    "kataib",
+    "leav",
+    "security",
+    "stronghold"
+   ],
+   "11cb4e9aad"
   ]
  ],
- "last_draft_at": "2026-11-20T11:20:48.437197+00:00",
+ "last_draft_at": "2026-11-20T11:32:59.204566+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T10:43:28.877927+00:00",
  "run_log": [
-  "11-20 09:15:36 run start",
-  "11-20 09:15:56 listening 11 min",
-  "11-20 09:27:14 listening done",
-  "11-20 09:27:14 run end after 697 s",
   "11-20 09:30:42 run start",
   "11-20 09:31:02 listening 11 min",
   "11-20 09:42:20 listening done",
@@ -16969,13 +17185,15 @@
   "11-20 11:20:48 run start",
   "11-20 11:24:33 listening 8 min",
   "11-20 11:32:31 listening done",
-  "11-20 11:32:31 run end after 703 s"
+  "11-20 11:32:31 run end after 703 s",
+  "11-20 11:32:58 run start",
+  "11-20 11:39:10 listening 5 min",
+  "11-20 11:44:37 listening done",
+  "11-20 11:44:37 run end after 698 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Code_on_computer_monitor_%28Unsplash%29.jpg/1920px-Code_on_computer_monitor_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Elon_Musk_Colorado_2022.jpg/1280px-Elon_Musk_Colorado_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Example_voting_booth_from_USA_%28Connecticut%29.jpg/1920px-Example_voting_booth_from_USA_%28Connecticut%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Downtown_Port_au_Prince_%284311459711%29.jpg/1920px-Downtown_Port_au_Prince_%284311459711%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Brussels_NATO_Headquarters.jpg/1920px-Brussels_NATO_Headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -17013,7 +17231,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Official_portrait_of_Andy_Burnham_MP_2026_%28cropped_3x4%29.jpg/1280px-Official_portrait_of_Andy_Burnham_MP_2026_%28cropped_3x4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/TOP_OF_THE_DIWANG_BUILDING_SEE_SHENZHEN_SKYLINE_%2819%29.jpg/1920px-TOP_OF_THE_DIWANG_BUILDING_SEE_SHENZHEN_SKYLINE_%2819%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg/1920px-Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Brooke_Rollins_%2851248109168%29.jpg/1280px-Brooke_Rollins_%2851248109168%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Brooke_Rollins_%2851248109168%29.jpg/1280px-Brooke_Rollins_%2851248109168%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Kyiv_skyline_%2815688086793%29.jpg/1920px-Kyiv_skyline_%2815688086793%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/9/91/Views_of_Iraqi_flag_over_the_Aghawat_Mosque_in_Mosul_in_summer_of_2019%2C_after_its_destruction_in_the_war_with_the_Islamic_State_12.jpg"
   ],
   "pools": {
    "sviatlana tsikhanouskaya": {
@@ -20408,7 +20628,6 @@
    }
   },
   "recent_ideas": [
-   "courtroom",
    "white house",
    "f-35 lightning",
    "ocean research vessel",
@@ -20419,7 +20638,8 @@
    "judge gavel",
    "european commission building",
    "shenzhen skyline",
-   "judge gavel"
+   "judge gavel",
+   "iraqi flag"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -21581,6 +21801,26 @@
     "s": 0,
     "w": "Olympic rings sculpture in China",
     "p": "photo does not show Trump, Putin or Xi at a summit"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Stugna_100mm_guided_missile_01.jpg/1920px-Stugna_100mm_guided_missile_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|266a192b": {
+    "s": 0,
+    "w": "missile on display at exhibition",
+    "p": "close-up of a small object / exhibition item"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Antelope_Air_Defense_System_Display_at_Tainan_Air_Froce_Base_Apron_20130810.jpg/1920px-Antelope_Air_Defense_System_Display_at_Tainan_Air_Froce_Base_Apron_20130810.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|266a192b": {
+    "s": 0,
+    "w": "air defense system",
+    "p": "wrong location, unrelated military display photo"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Kyiv_skyline_%2815688086793%29.jpg/1920px-Kyiv_skyline_%2815688086793%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|266a192b": {
+    "s": 5,
+    "w": "Kyiv skyline at dawn",
+    "p": "calm city skyline for attack story"
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/9/91/Views_of_Iraqi_flag_over_the_Aghawat_Mosque_in_Mosul_in_summer_of_2019%2C_after_its_destruction_in_the_war_with_the_Islamic_State_12.jpg|efd61e55": {
+    "s": 5,
+    "w": "Iraqi flag",
+    "p": "shows flag instead of deploying security forces"
    }
   }
  },
@@ -21592,18 +21832,18 @@
   "2026-11-17": 35,
   "2026-11-18": 22,
   "2026-11-19": 30,
-  "2026-11-20": 6
+  "2026-11-20": 8
  },
- "last_auto_at": "2026-11-20T11:24:15.547885+00:00",
- "last_post_at": "2026-11-20T11:24:21.820731+00:00",
+ "last_auto_at": "2026-11-20T11:37:55.236063+00:00",
+ "last_post_at": "2026-11-20T11:39:01.005772+00:00",
  "reels_count": {
-  "2026-11-13": 10,
   "2026-11-14": 8,
   "2026-11-15": 8,
   "2026-11-16": 10,
   "2026-11-17": 3,
   "2026-11-18": 3,
-  "2026-11-19": 3
+  "2026-11-19": 3,
+  "2026-11-20": 1
  },
  "roundup": {
   "2026-11-16": {
