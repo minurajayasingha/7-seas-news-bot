@@ -13085,7 +13085,9 @@
   "https://www.france24.com/en/france/20261120-france-probes-suspected-leak-confidential-information-le-pen-far-right-party",
   "https://abcnews.com/International/wireStory/france-probes-suspected-leaks-confidential-information-le-pens-138315239",
   "https://www.france24.com/en/video/20261120-gen-z-protests-spread-across-europe-mass-rallies-over-cost-of-living-in-spain",
-  "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living"
+  "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living",
+  "https://thehill.com/homenews/house/6233228-mike-johnson-urges-gop-attendance/",
+  "https://www.washingtonexaminer.com/news/house/4809876/mike-johnson-urges-house-gop-show-up-lame-duck-session/"
  ],
  "recent_topics": [
   [
@@ -16708,19 +16710,33 @@
     "win"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-20T16:04:04.090710+00:00",
+   [
+    "absenc",
+    "gop",
+    "hous",
+    "johnson",
+    "lame-duck",
+    "member",
+    "mik",
+    "session",
+    "show",
+    "significant",
+    "urg",
+    "vot"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-20T15:52:26.252416+00:00",
+ "last_draft_at": "2026-11-20T16:03:44.871648+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T15:51:37.524004+00:00",
  "run_log": [
-  "11-20 13:15:38 run start",
-  "11-20 13:15:49 listening 11 min",
-  "11-20 13:27:07 listening done",
-  "11-20 13:27:07 run end after 688 s",
   "11-20 13:38:09 run start",
   "11-20 13:39:20 listening 10 min",
   "11-20 13:49:50 listening done",
@@ -16756,7 +16772,11 @@
   "11-20 15:51:36 run start",
   "11-20 15:54:17 listening 9 min",
   "11-20 16:03:06 listening done",
-  "11-20 16:03:06 run end after 689 s"
+  "11-20 16:03:06 run end after 689 s",
+  "11-20 16:03:44 run start",
+  "11-20 16:04:04 listening 11 min",
+  "11-20 16:15:23 listening done",
+  "11-20 16:15:23 run end after 698 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
