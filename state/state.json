@@ -1,102 +1,6 @@
 {
  "tg_offset": 495893087,
  "drafts": {
-  "108f1162b4": {
-   "id": "108f1162b4",
-   "headline": "Donald Trump travels to Asia for international summits",
-   "summary": "President Trump is embarking on a trip to Asia following midterm elections. He will stop in the Philippines for the Association of Southeast Asian Nations summit and meet with regional leaders, including Australia's prime minister.",
-   "label": "DIPLOMACY",
-   "hook": "Can this trip help shift focus to global affairs?",
-   "key_points": [
-    "Trump will meet with the Chinese and Russian leaders.",
-    "The trilateral summit takes place in Shenzhen.",
-    "Australia's prime minister called for conflict de-escalation."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#WorldNews",
-    "#Asia",
-    "#Diplomacy"
-   ],
-   "sources": [
-    "New York Times",
-    "The Guardian"
-   ],
-   "link": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
-   "links": [
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/TOP_OF_THE_DIWANG_BUILDING_SEE_SHENZHEN_SKYLINE_%2817%29.jpg/1920px-TOP_OF_THE_DIWANG_BUILDING_SEE_SHENZHEN_SKYLINE_%2817%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Dinkun Chen / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ],
-    "inset": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "credit": "Daniel Torok / Wikimedia Commons (Public domain)",
-     "short": "WIKIMEDIA COMMONS"
-    }
-   },
-   "img_post": {
-    "headline": "Donald Trump travels to Asia for international summits",
-    "people": [
-     "Donald Trump"
-    ],
-    "image_query": "Shenzhen skyline",
-    "image_queries": [
-     "Manila cityscape",
-     "APEC summit venue",
-     "ASEAN summit venue",
-     "Australian Parliament House"
-    ],
-    "image_style": "scene",
-    "location": "Shenzhen, China",
-    "nearby_city": "Shenzhen, China",
-    "event_query": "APEC forum Shenzhen",
-    "news_time": null,
-    "label": "DIPLOMACY"
-   },
-   "created_at": "2026-11-16T12:16:19.164788+00:00",
-   "news_time": "2026-11-16T11:00:58+00:00",
-   "news_latest": "2026-11-16T11:26:58+00:00",
-   "caption": "Donald Trump travels to Asia for international summits\n\nPresident Trump is embarking on a trip to Asia following midterm elections. He will stop in the Philippines for the Association of Southeast Asian Nations summit and meet with regional leaders, including Australia's prime minister.\n\n💬 Can this trip help shift focus to global affairs?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WorldNews #Asia #Diplomacy #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 633,
-   "tg_file_id": "AgACAgUAAxkDAAICeWr69BeFtH8WuFbVsiVZBPVHIGifAAJzF2sbg6zYV2cIe8KzzMT0AQADAgADdwADPQQ",
-   "queued_at": "2026-11-16T12:16:23.486435+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-16T12:16:23.486462+00:00",
-   "post_label": "🤖 Auto-posting + Reel",
-   "fb_post_id": "1413030521900096_122103318057548584",
-   "posted_at": "2026-11-16T12:16:23.869553+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 16 · 7:16 AM New York · 5:46 PM Sri Lanka\n\n<b>Donald Trump travels to Asia for international summits</b>\n<i>New York Times, The Guardian</i>\n🟢 <b>Latest:</b> 4:56 PM Sri Lanka (49 min ago) · first reported 4:30 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122103318057548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 417,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122103318057548584_2186970615258752",
-   "fb_reel_id": "1889005349204421",
-   "reel_status": "live",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-19T11:35:48.176368+00:00"
-  },
   "b6316acb5c": {
    "id": "b6316acb5c",
    "headline": "Pope Leo concludes South America tour following surgery",
@@ -11816,6 +11720,93 @@
     "shares": 0
    },
    "stats_at": "2026-11-20T11:45:33.272194+00:00"
+  },
+  "1deeaf75e4": {
+   "id": "1deeaf75e4",
+   "headline": "UN court rules Myanmar committed genocide against Rohingya minority",
+   "summary": "The UN's highest court has ruled that Myanmar conducted state-sponsored genocide against its Rohingya minority. Myanmar branded the decision unfair, while the US reacted cautiously and China raised concerns about judicial overreach.",
+   "label": "WORLD",
+   "hook": "Will this ruling set a precedent for future genocide claims at the international court?",
+   "key_points": [
+    "The international court of justice has never previously found a state responsible for genocide.",
+    "The decision could set a precedent for future genocide claims.",
+    "The EU praised the critical role of the UN's top court."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Myanmar",
+    "#UN",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Sky News",
+    "The Guardian"
+   ],
+   "link": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law",
+   "links": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law"
+    ],
+    [
+     "Sky News",
+     "https://news.sky.com/story/myanmar-rejects-un-courts-rohingya-genocide-guilty-verdict-as-unfair-13614272"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Naypyidaw_--_Zoo.JPG/1920px-Naypyidaw_--_Zoo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Hybernator / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 5,
+      "shows": "zoological garden in naypyidaw"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "UN court rules Myanmar committed genocide against Rohingya minority",
+    "people": [],
+    "image_query": "United Nations International Court of Justice",
+    "image_queries": [
+     "UN headquarters",
+     "international court",
+     "court building",
+     "United Nations flag"
+    ],
+    "image_style": "person",
+    "location": "Naypyidaw, Myanmar",
+    "nearby_city": "Yangon, Myanmar",
+    "event_query": "International Court of Justice building",
+    "topic_photo": "judge gavel",
+    "label": "WORLD",
+    "action_subject": "courtroom",
+    "news_time": "2026-11-20T09:15:00+00:00"
+   },
+   "created_at": "2026-11-20T12:19:21.445044+00:00",
+   "news_time": "2026-11-20T09:15:00+00:00",
+   "news_latest": "2026-11-20T11:57:43+00:00",
+   "importance": 8,
+   "caption": "UN court rules Myanmar committed genocide against Rohingya minority\n\nThe UN's highest court has ruled that Myanmar conducted state-sponsored genocide against its Rohingya minority. Myanmar branded the decision unfair, while the US reacted cautiously and China raised concerns about judicial overreach.\n\n💬 Will this ruling set a precedent for future genocide claims at the international court?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Myanmar #UN #WorldNews #7SeasNews",
+   "photo_line": "📷 5/10 zoological garden in naypyidaw",
+   "status": "posted",
+   "tg_message_id": 859,
+   "tg_file_id": "AgACAgUAAxkDAAIDW2sAATrYKvxSxx7Qu7hmNIJpAAF2cRMAAgYVaxv9OwABVFozc18UYXXmAQADAgADdwADPQQ",
+   "queued_at": "2026-11-20T12:19:36.768948+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-20T12:19:36.768982+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122107457631548584",
+   "posted_at": "2026-11-20T12:19:37.115484+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 20 · 7:19 AM New York · 5:49 PM Sri Lanka\n\n<b>UN court rules Myanmar committed genocide against Rohingya minority</b>\n<i>Sky News, The Guardian</i>\n🟢 <b>Latest:</b> 5:27 PM Sri Lanka (21 min ago) · first reported 2:45 PM\n📷 5/10 zoological garden in naypyidaw\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122107457631548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 565,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122107457631548584_1498364505525703"
   }
  },
  "seen_links": [
@@ -13565,49 +13556,11 @@
   "https://www.upi.com/Top_News/World-News/2026/11/20/Ukraine-Russia-mounts-deadly-missile-drone-assault/8421795165920/",
   "https://abcnews.com/International/wireStory/russian-attacks-kyiv-kill-3-cripple-bridges-cut-138313948",
   "https://www.aljazeera.com/video/newsfeed/2026/11/20/kataib-hezbollah-faces-deadline-to-leave-iraqi-stronghold?traffic_source=rss",
-  "https://www.france24.com/en/middle-east/20261120-iraqi-security-forces-to-deploy-in-hezbollah-stronghold-under-compromise-deal"
+  "https://www.france24.com/en/middle-east/20261120-iraqi-security-forces-to-deploy-in-hezbollah-stronghold-under-compromise-deal",
+  "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law",
+  "https://news.sky.com/story/myanmar-rejects-un-courts-rohingya-genocide-guilty-verdict-as-unfair-13614272"
  ],
  "recent_topics": [
-  [
-   "2026-11-17T12:16:27.542875+00:00",
-   [
-    "007",
-    "bond",
-    "donald",
-    "everyth",
-    "paper",
-    "pattinson",
-    "react",
-    "robert",
-    "specialist",
-    "trump",
-    "weirdo"
-   ],
-   "skipped"
-  ],
-  [
-   "2026-11-17T12:19:14.207728+00:00",
-   [
-    "abrupt",
-    "accountability",
-    "ceo",
-    "committe",
-    "departur",
-    "establish",
-    "huang",
-    "jensen",
-    "national",
-    "nvidia",
-    "overse",
-    "push",
-    "reinstat",
-    "security",
-    "superstar",
-    "tech",
-    "test"
-   ],
-   "349863c869"
-  ],
   [
    "2026-11-17T12:32:30.191894+00:00",
    [
@@ -17165,19 +17118,33 @@
     "stronghold"
    ],
    "11cb4e9aad"
+  ],
+  [
+   "2026-11-20T12:19:36.768722+00:00",
+   [
+    "cautiously",
+    "court",
+    "critical",
+    "genocid",
+    "myanmar",
+    "prais",
+    "react",
+    "reject",
+    "rol",
+    "rul",
+    "unfair",
+    "uns"
+   ],
+   "1deeaf75e4"
   ]
  ],
- "last_draft_at": "2026-11-20T12:01:20.562301+00:00",
+ "last_draft_at": "2026-11-20T12:15:57.304335+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T11:45:33.272194+00:00",
  "run_log": [
-  "11-20 10:00:51 run start",
-  "11-20 10:01:07 listening 11 min",
-  "11-20 10:12:27 listening done",
-  "11-20 10:12:27 run end after 695 s",
   "11-20 10:15:39 run start",
   "11-20 10:15:59 listening 11 min",
   "11-20 10:27:18 listening done",
@@ -17213,12 +17180,15 @@
   "11-20 12:01:20 run start",
   "11-20 12:01:21 listening 11 min",
   "11-20 12:13:11 listening done",
-  "11-20 12:13:11 run end after 711 s"
+  "11-20 12:13:11 run end after 711 s",
+  "11-20 12:15:56 run start",
+  "11-20 12:19:52 listening 8 min",
+  "11-20 12:27:25 listening done",
+  "11-20 12:27:25 run end after 688 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Example_voting_booth_from_USA_%28Connecticut%29.jpg/1920px-Example_voting_booth_from_USA_%28Connecticut%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Downtown_Port_au_Prince_%284311459711%29.jpg/1920px-Downtown_Port_au_Prince_%284311459711%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Brussels_NATO_Headquarters.jpg/1920px-Brussels_NATO_Headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Elbridge_A._Colby_%282%29.jpg/1280px-Elbridge_A._Colby_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -17257,7 +17227,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg/1920px-Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Brooke_Rollins_%2851248109168%29.jpg/1280px-Brooke_Rollins_%2851248109168%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Kyiv_skyline_%2815688086793%29.jpg/1920px-Kyiv_skyline_%2815688086793%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/9/91/Views_of_Iraqi_flag_over_the_Aghawat_Mosque_in_Mosul_in_summer_of_2019%2C_after_its_destruction_in_the_war_with_the_Islamic_State_12.jpg"
+   "https://upload.wikimedia.org/wikipedia/commons/9/91/Views_of_Iraqi_flag_over_the_Aghawat_Mosque_in_Mosul_in_summer_of_2019%2C_after_its_destruction_in_the_war_with_the_Islamic_State_12.jpg",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Naypyidaw_--_Zoo.JPG/1920px-Naypyidaw_--_Zoo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "sviatlana tsikhanouskaya": {
@@ -20652,7 +20623,6 @@
    }
   },
   "recent_ideas": [
-   "white house",
    "f-35 lightning",
    "ocean research vessel",
    "voting booth",
@@ -20663,7 +20633,8 @@
    "european commission building",
    "shenzhen skyline",
    "judge gavel",
-   "iraqi flag"
+   "iraqi flag",
+   "naypyidaw, myanmar"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -21845,6 +21816,26 @@
     "s": 5,
     "w": "Iraqi flag",
     "p": "shows flag instead of deploying security forces"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Myanmar_Police_outside_Insein_Township_courtroom_%28Aung_Naing_Soe-VOA%29.jpg/1920px-Myanmar_Police_outside_Insein_Township_courtroom_%28Aung_Naing_Soe-VOA%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|7f511242": {
+    "s": 4,
+    "w": "police officers standing guard",
+    "p": "Photo shows police instead of a courtroom or legal proceeding."
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Stained-glass_window_-_The_Courts%2C_Bristol_-_DSC_7655.jpg/1920px-Stained-glass_window_-_The_Courts%2C_Bristol_-_DSC_7655.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|7f511242": {
+    "s": 0,
+    "w": "stained glass window",
+    "p": "drawing, painting, illustration, 3D render or AI-generated image, or a close-up "
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/2016_Rangun%2C_Dawny_budynek_S%C4%85du_Najwy%C5%BCszego_%2806%29.jpg/1920px-2016_Rangun%2C_Dawny_budynek_S%C4%85du_Najwy%C5%BCszego_%2806%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|7f511242": {
+    "s": 5,
+    "w": "historic clock tower building",
+    "p": "Generic public building photo, not a courtroom or specific court building associ"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Naypyidaw_--_Zoo.JPG/1920px-Naypyidaw_--_Zoo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|7f511242": {
+    "s": 5,
+    "w": "zoological garden in naypyidaw",
+    "p": "city landmark instead of courtroom"
    }
   }
  },
@@ -21856,10 +21847,10 @@
   "2026-11-17": 35,
   "2026-11-18": 22,
   "2026-11-19": 30,
-  "2026-11-20": 8
+  "2026-11-20": 9
  },
- "last_auto_at": "2026-11-20T11:37:55.236063+00:00",
- "last_post_at": "2026-11-20T11:39:01.005772+00:00",
+ "last_auto_at": "2026-11-20T12:19:37.115484+00:00",
+ "last_post_at": "2026-11-20T12:19:42.850048+00:00",
  "reels_count": {
   "2026-11-14": 8,
   "2026-11-15": 8,
