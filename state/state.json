@@ -13350,40 +13350,11 @@
   "https://www.independent.co.uk/news/world/australasia/china-australia-apec-xi-jinping-anthony-albanese-b3088419.html",
   "https://www.dw.com/en/china-s-xi-praises-turnaround-in-relationship-with-australia/a-79999229?maca=en-rss-en-world-4025-rdf",
   "https://www.independent.co.uk/news/world/americas/us-politics/lauren-boebert-colorado-congress-loss-b3088539.html",
-  "https://abcnews.com/Politics/wireStory/maga-stardom-haul-lauren-boebert-considers-gops-losses-138305606"
+  "https://abcnews.com/Politics/wireStory/maga-stardom-haul-lauren-boebert-considers-gops-losses-138305606",
+  "https://www.france24.com/en/asia-pacific/20261120-was-the-historic-shenzhen-summit-political-win-or-humiliation-for-putin",
+  "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html"
  ],
  "recent_topics": [
-  [
-   "2026-11-17T11:01:54.189264+00:00",
-   [
-    "arriv",
-    "asia",
-    "kick",
-    "philippin",
-    "trip",
-    "trump"
-   ],
-   "ebb2a14e94"
-  ],
-  [
-   "2026-11-17T11:04:00.691368+00:00",
-   [
-    "bank",
-    "court",
-    "data",
-    "deutsch",
-    "epstein",
-    "expos",
-    "leak",
-    "oligarch",
-    "record",
-    "russian",
-    "show",
-    "tie",
-    "trump"
-   ],
-   "f2e281de5b"
-  ],
   [
    "2026-11-17T11:18:19.326107+00:00",
    [
@@ -16953,19 +16924,33 @@
     "van"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-20T10:56:12.085289+00:00",
+   [
+    "crav",
+    "equal",
+    "giv",
+    "historic",
+    "humiliation",
+    "political",
+    "putin",
+    "shenzhen",
+    "statur",
+    "summit",
+    "superpower",
+    "win"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-20T10:44:02.314661+00:00",
+ "last_draft_at": "2026-11-20T10:56:04.578719+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T10:43:28.877927+00:00",
  "run_log": [
-  "11-20 08:30:47 run start",
-  "11-20 08:30:57 listening 11 min",
-  "11-20 08:42:16 listening done",
-  "11-20 08:42:16 run end after 688 s",
   "11-20 08:45:40 run start",
   "11-20 08:47:10 listening 10 min",
   "11-20 08:57:16 listening done",
@@ -17001,7 +16986,11 @@
   "11-20 10:43:28 run start",
   "11-20 10:44:03 listening 11 min",
   "11-20 10:54:58 listening done",
-  "11-20 10:54:58 run end after 690 s"
+  "11-20 10:54:58 run end after 690 s",
+  "11-20 10:56:04 run start",
+  "11-20 10:56:12 listening 11 min",
+  "11-20 11:07:32 listening done",
+  "11-20 11:07:32 run end after 688 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
