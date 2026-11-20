@@ -12901,75 +12901,15 @@
   "https://www.france24.com/en/video/20261120-gen-z-protests-spread-across-europe-mass-rallies-over-cost-of-living-in-spain",
   "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living",
   "https://thehill.com/homenews/house/6233228-mike-johnson-urges-gop-attendance/",
-  "https://www.washingtonexaminer.com/news/house/4809876/mike-johnson-urges-house-gop-show-up-lame-duck-session/"
+  "https://www.washingtonexaminer.com/news/house/4809876/mike-johnson-urges-house-gop-show-up-lame-duck-session/",
+  "https://www.newsweek.com/laura-loomer-takes-aim-at-white-house-worker-over-watermelon-emoji-12748149",
+  "https://www.washingtonexaminer.com/news/washington-secrets/4808782/white-house-report-card-trump-jets-across-world-home-burns/",
+  "https://www.washingtonexaminer.com/news/campaigns/congressional/4809995/fetterman-considers-reelection-bid-as-he-fundraises/",
+  "https://thehill.com/homenews/senate/6233243-boyle-predicts-fetterman-primary-loss/",
+  "https://www.theguardian.com/film/2026/nov/20/gerard-depardieu-michel-houellebecq-investigated-allegations",
+  "https://www.france24.com/en/france/20261120-france-investigates-gerard-depardieu-writer-houellebecq-over-alleged-gang-rape"
  ],
  "recent_topics": [
-  [
-   "2026-11-17T17:03:22.595661+00:00",
-   [
-    "aviation",
-    "demand",
-    "expert",
-    "explain",
-    "expos",
-    "faa",
-    "ground",
-    "link",
-    "nationwid",
-    "paus",
-    "preventabl",
-    "sabotag",
-    "senator",
-    "stop",
-    "upgrad",
-    "vulnerabl"
-   ],
-   "b89511598c"
-  ],
-  [
-   "2026-11-17T17:13:46.397896+00:00",
-   [
-    "1000",
-    "240",
-    "air",
-    "defend",
-    "defens",
-    "help",
-    "itself",
-    "million-pound",
-    "missil",
-    "packag",
-    "pledg",
-    "russia",
-    "send",
-    "short-rang",
-    "ukrain",
-    "winter"
-   ],
-   "be90c4546d"
-  ],
-  [
-   "2026-11-17T17:14:17.066654+00:00",
-   [
-    "another",
-    "attack",
-    "bahrain",
-    "claim",
-    "dron",
-    "gulf",
-    "intercept",
-    "iran",
-    "iranian",
-    "lull",
-    "month",
-    "paus",
-    "radar",
-    "sit",
-    "strik",
-    "target"
-   ],
-   "b852e402bf"
-  ],
   [
    "2026-11-17T17:25:31.993495+00:00",
    [
@@ -16506,19 +16446,55 @@
     "vot"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-20T17:07:01.657548+00:00",
+   [
+    "boyl",
+    "consider",
+    "democratic",
+    "fetterman",
+    "finish",
+    "last",
+    "opposition",
+    "party",
+    "primary",
+    "probably",
+    "rebel",
+    "reelection",
+    "ris",
+    "runn"
+   ],
+   "skipped"
+  ],
+  [
+   "2026-11-20T17:07:10.590672+00:00",
+   [
+    "actor",
+    "alleg",
+    "allegation",
+    "assault",
+    "depardieu",
+    "franc",
+    "gang",
+    "gerard",
+    "houellebecq",
+    "investigat",
+    "michel",
+    "on-set",
+    "rap",
+    "writer"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-20T16:52:25.022500+00:00",
+ "last_draft_at": "2026-11-20T17:04:52.200174+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T16:51:40.162708+00:00",
  "run_log": [
-  "11-20 14:02:20 run start",
-  "11-20 14:02:30 listening 11 min",
-  "11-20 14:13:50 listening done",
-  "11-20 14:13:50 run end after 690 s",
   "11-20 14:15:39 run start",
   "11-20 14:16:42 listening 10 min",
   "11-20 14:27:10 listening done",
@@ -16554,7 +16530,11 @@
   "11-20 16:51:39 run start",
   "11-20 16:52:43 listening 10 min",
   "11-20 17:03:13 listening done",
-  "11-20 17:03:13 run end after 693 s"
+  "11-20 17:03:13 run end after 693 s",
+  "11-20 17:04:51 run start",
+  "11-20 17:07:10 listening 9 min",
+  "11-20 17:16:24 listening done",
+  "11-20 17:16:24 run end after 693 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -22152,7 +22132,9 @@
     "tt1": true,
     "log1": true,
     "tt2": true,
-    "log2": true
+    "log2": true,
+    "tt3": true,
+    "log3": true
    }
   }
  },
