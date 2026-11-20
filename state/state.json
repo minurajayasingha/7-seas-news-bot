@@ -1,180 +1,6 @@
 {
  "tg_offset": 495893087,
  "drafts": {
-  "242d1c5c88": {
-   "id": "242d1c5c88",
-   "headline": "Media outlets ask readers about funding US air traffic control",
-   "summary": "News outlets published polls asking readers and voters whether Congress should approve funding for American air traffic control. Fox News and Newsweek asked participants how to fix the air travel infrastructure and prevent ground stops.",
-   "label": "US POLITICS",
-   "hook": "Should Congress approve fifty billion dollars for America's air traffic control?",
-   "key_points": [
-    "Fox News asked readers how to fix air travel infrastructure.",
-    "Newsweek polled readers regarding a fifty billion dollar request.",
-    "The Trump administration requested funds for air traffic control."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#AirTravel",
-    "#Congress",
-    "#USPolitics"
-   ],
-   "sources": [
-    "Fox News",
-    "Newsweek"
-   ],
-   "link": "https://www.foxnews.com/politics/speak-up-how-does-america-fix-its-air-travel-mess",
-   "links": [
-    [
-     "Fox News",
-     "https://www.foxnews.com/politics/speak-up-how-does-america-fix-its-air-travel-mess"
-    ],
-    [
-     "Newsweek",
-     "https://www.newsweek.com/poll-should-congress-give-donald-trump-50b-air-traffic-control-12719496"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/California_Senate_chamber_p1080899.jpg",
-      "credit": "David Monniaux / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Media outlets ask readers about funding US air traffic control",
-    "people": [],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "Senate chamber",
-     "Capitol Hill",
-     "airplane on runway",
-     "air traffic control tower"
-    ],
-    "image_style": "scene",
-    "location": "US",
-    "nearby_city": "Washington, D.C.",
-    "event_query": "air traffic control funding debate",
-    "news_time": null,
-    "label": "US POLITICS"
-   },
-   "created_at": "2026-11-16T13:31:44.877376+00:00",
-   "news_time": "2026-11-16T12:11:30+00:00",
-   "news_latest": "2026-11-16T13:18:32+00:00",
-   "caption": "Media outlets ask readers about funding US air traffic control\n\nNews outlets published polls asking readers and voters whether Congress should approve funding for American air traffic control. Fox News and Newsweek asked participants how to fix the air travel infrastructure and prevent ground stops.\n\n💬 Should Congress approve fifty billion dollars for America's air traffic control?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#AirTravel #Congress #USPolitics #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 641,
-   "tg_file_id": "AgACAgUAAxkDAAICgWr7BcWATAySaBxywdCw-Ep9nmpWAAKIF2sbg6zYVxMAAdD71Z2kXAEAAwIAA3cAAz0E",
-   "queued_at": "2026-11-16T13:31:49.746980+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-16T13:31:49.747026+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122103372921548584",
-   "posted_at": "2026-11-16T13:32:08.914698+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 16 · 8:32 AM New York · 7:02 PM Sri Lanka\n\n<b>Media outlets ask readers about funding US air traffic control</b>\n<i>Fox News, Newsweek</i>\n🟢 <b>Latest:</b> 6:48 PM Sri Lanka (13 min ago) · first reported 5:41 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122103372921548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 423,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122103372921548584_1508290377779083",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-19T13:26:26.431527+00:00"
-  },
-  "9012ea9cee": {
-   "id": "9012ea9cee",
-   "headline": "Trump travels to Asia for meetings with Xi Jinping and Vladimir Putin",
-   "summary": "President Donald Trump is traveling to Asia for the Association of Southeast Asian Nations Summit and meetings with Chinese premier Xi Jinping and Russian President Vladimir Putin. Meanwhile, espionage and extramarital affairs involving Nvidia and founder Jensen Huang threaten to impact the meeting with Xi Jinping.",
-   "label": "DIPLOMACY",
-   "hook": "Will the Nvidia controversies impact the upcoming discussions with Chinese premier Xi Jinping?",
-   "key_points": [
-    "Trump is scheduled to visit the Philippines and China.",
-    "The trip includes the Association of Southeast Asian Nations Summit.",
-    "Jensen Huang is the fallen founder of Nvidia."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#WorldNews",
-    "#AsiaSummit",
-    "#GlobalDiplomacy"
-   ],
-   "sources": [
-    "NBC News",
-    "The Hill"
-   ],
-   "link": "https://www.today.com/video/trump-to-meet-with-chinese-president-amid-nvidia-spy-scandal-273573445560",
-   "links": [
-    [
-     "NBC News",
-     "https://www.today.com/video/trump-to-meet-with-chinese-president-amid-nvidia-spy-scandal-273573445560"
-    ],
-    [
-     "The Hill",
-     "https://thehill.com/homenews/administration/6219992-trump-xi-meeting-nvidia-scandals/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Skyline_of_Beijing_CBD_from_the_southeast_%2820210907094201%29.jpg/1920px-Skyline_of_Beijing_CBD_from_the_southeast_%2820210907094201%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "N509FZ / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Trump travels to Asia for meetings with Xi Jinping and Vladimir Putin",
-    "people": [],
-    "image_query": "Beijing skyline",
-    "image_queries": [
-     "ASEAN summit venue",
-     "Great Hall of the People",
-     "Manila cityscape",
-     "Nvidia headquarters"
-    ],
-    "image_style": "scene",
-    "location": "China",
-    "nearby_city": "Beijing, China",
-    "event_query": "Association of Southeast Asian Nations Summit",
-    "news_time": null,
-    "label": "DIPLOMACY"
-   },
-   "created_at": "2026-11-16T13:32:02.859528+00:00",
-   "news_time": "2026-11-16T11:00:00+00:00",
-   "news_latest": "2026-11-16T12:23:55+00:00",
-   "caption": "Trump travels to Asia for meetings with Xi Jinping and Vladimir Putin\n\nPresident Donald Trump is traveling to Asia for the Association of Southeast Asian Nations Summit and meetings with Chinese premier Xi Jinping and Russian President Vladimir Putin. Meanwhile, espionage and extramarital affairs involving Nvidia and founder Jensen Huang threaten to impact the meeting with Xi Jinping.\n\n💬 Will the Nvidia controversies impact the upcoming discussions with Chinese premier Xi Jinping?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WorldNews #AsiaSummit #GlobalDiplomacy #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 642,
-   "tg_file_id": "AgACAgUAAxkDAAICgmr7BdjGiu3JhdaRbhWXr21uSd6XAAKJF2sbg6zYV_L05a0mWRhcAQADAgADdwADPQQ",
-   "extra_msgs": [],
-   "dup_ok": true,
-   "queued_at": "2026-11-16T17:11:50.930912+00:00",
-   "post_now": true,
-   "post_at": "2026-11-16T17:11:50.930923+00:00",
-   "post_label": "🚀 Posting now",
-   "fb_post_id": "1413030521900096_122103547707548584",
-   "posted_at": "2026-11-16T17:11:52.689307+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 16 · 12:12 PM New York · 10:42 PM Sri Lanka\n\n<b>Trump travels to Asia for meetings with Xi Jinping and Vladimir Putin</b>\n<i>NBC News, The Hill</i>\n🔴 <b>Latest:</b> 5:53 PM Sri Lanka (4h 48m ago) · first reported 4:30 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122103547707548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 433,
-   "log_photo": true,
-   "cleared": true,
-   "fb_comment_id": "122103547707548584_1838524804238188",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-19T16:30:57.361596+00:00"
-  },
   "f78254b9b3": {
    "id": "f78254b9b3",
    "headline": "Third US aircraft carrier arrives in Middle East",
@@ -11450,6 +11276,112 @@
     "shares": 0
    },
    "stats_at": "2026-11-20T12:51:07.322549+00:00"
+  },
+  "7617761c95": {
+   "id": "7617761c95",
+   "headline": "Mayor Zohran Mamdani signs ban on Central Park horse carriages",
+   "summary": "New York City Mayor Zohran Mamdani signed a bill to ban Central Park horse-drawn carriages, prompting a lawsuit from drivers. Meanwhile, city officials announced plans to transfer the Rikers Island jail population to smaller facilities by the end of 2032.",
+   "label": "US POLITICS",
+   "hook": "",
+   "key_points": [
+    "Drivers filed a lawsuit minutes after the signing.",
+    "Rikers Island has faced years of overcrowding and violence.",
+    "City officials plan to move jails off Rikers Island."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#NewYorkCity",
+    "#USPolitics",
+    "#LocalNews"
+   ],
+   "sources": [
+    "NPR",
+    "Newsweek",
+    "The Independent"
+   ],
+   "link": "https://www.newsweek.com/zohran-mamdani-announces-plan-close-notorious-rikers-island-jail-12746612",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/zohran-mamdani-announces-plan-close-notorious-rikers-island-jail-12746612"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/mamdani-rikers-island-jail-closing-b3088549.html"
+    ],
+    [
+     "NPR",
+     "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/central-park-horse-carriage-lawsuit-b3088443.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Horse-drawn_carriage_charleston.jpg/1920px-Horse-drawn_carriage_charleston.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "scourmont77 / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "horse-drawn carriage"
+     }
+    ],
+    "file_photo": true,
+    "inset": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Zohran_Mamdani.jpg/1280px-Zohran_Mamdani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credit": "Metropolitan Transportation Authority / Wikimedia Commons (CC BY 2.0)",
+     "short": "WIKIMEDIA COMMONS",
+     "score": 10,
+     "shows": "Zohran Mamdani smiling"
+    }
+   },
+   "img_post": {
+    "headline": "Mayor Zohran Mamdani signs ban on Central Park horse carriages",
+    "people": [
+     "Zohran Mamdani"
+    ],
+    "image_query": "Central Park New York",
+    "image_queries": [
+     "Rikers Island jail complex",
+     "New York City hall",
+     "Central Park carriage",
+     "Manhattan skyline"
+    ],
+    "image_style": "scene",
+    "location": "New York, United States",
+    "nearby_city": "New York, New York",
+    "event_query": "Central Park horse carriage ban",
+    "topic_photo": "judge gavel",
+    "label": "US POLITICS",
+    "action_subject": "horse-drawn carriage",
+    "news_time": "2026-11-20T07:57:36+00:00"
+   },
+   "created_at": "2026-11-20T13:39:02.320090+00:00",
+   "news_time": "2026-11-20T07:57:36+00:00",
+   "news_latest": "2026-11-20T13:34:53+00:00",
+   "importance": 7,
+   "caption": "Mayor Zohran Mamdani signs ban on Central Park horse carriages\n\nNew York City Mayor Zohran Mamdani signed a bill to ban Central Park horse-drawn carriages, prompting a lawsuit from drivers. Meanwhile, city officials announced plans to transfer the Rikers Island jail population to smaller facilities by the end of 2032.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#NewYorkCity #USPolitics #LocalNews #7SeasNews",
+   "photo_line": "📷 10/10 horse-drawn carriage · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 862,
+   "tg_file_id": "AgACAgUAAxkDAAIDXmsAAU14KzqZuMZJeunFZfcnCfCMOwACQRNrG_07CFRDixzekyw0DgEAAwIAA3cAAz0E",
+   "queued_at": "2026-11-20T13:39:05.231642+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-20T13:39:05.231673+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122107524609548584",
+   "posted_at": "2026-11-20T13:39:05.584895+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 20 · 8:39 AM New York · 7:09 PM Sri Lanka\n\n<b>Mayor Zohran Mamdani signs ban on Central Park horse carriages</b>\n<i>NPR, Newsweek, The Independent</i>\n🟢 <b>Latest:</b> 7:04 PM Sri Lanka (4 min ago) · first reported 1:27 PM\n📷 10/10 horse-drawn carriage · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122107524609548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 568,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122107524609548584_1733184644819354"
   }
  },
  "seen_links": [
@@ -13205,49 +13137,16 @@
   "https://www.cbsnews.com/news/iran-war-democrats-congress-trump/",
   "https://www.washingtonpost.com/politics/2026/11/20/democrats-eye-continued-focus-nvidia-after-taking-control-congress/",
   "https://www.independent.co.uk/news/world/americas/us-politics/trump-putin-apec-summit-geraldo-rivera-b3088568.html",
-  "https://www.newsweek.com/was-putin-banished-to-table-away-from-trump-and-xi-truth-behind-claim-12745491"
+  "https://www.newsweek.com/was-putin-banished-to-table-away-from-trump-and-xi-truth-behind-claim-12745491",
+  "https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6232602-gop-shift-2028-presidential-race-marco-rubio-jd-vance-discussion/",
+  "https://www.independent.co.uk/news/world/americas/us-politics/jd-vance-republicans-trump-2028-president-race-b3088494.html",
+  "https://thehill.com/homenews/campaign/6231607-marco-rubio-trump-successor-buzz/",
+  "https://www.newsweek.com/zohran-mamdani-announces-plan-close-notorious-rikers-island-jail-12746612",
+  "https://www.independent.co.uk/news/world/americas/mamdani-rikers-island-jail-closing-b3088549.html",
+  "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
+  "https://www.independent.co.uk/news/world/americas/central-park-horse-carriage-lawsuit-b3088443.html"
  ],
  "recent_topics": [
-  [
-   "2026-11-17T13:34:12.913448+00:00",
-   [
-    "back",
-    "beyond",
-    "bid",
-    "challenger",
-    "chief",
-    "claim",
-    "diallo",
-    "europ",
-    "fifa",
-    "franc",
-    "infantino",
-    "support",
-    "tak",
-    "uefa"
-   ],
-   "skipped"
-  ],
-  [
-   "2026-11-17T13:46:19.896250+00:00",
-   [
-    "advis",
-    "arriv",
-    "genetic",
-    "get",
-    "good",
-    "leader",
-    "magnet",
-    "philippin",
-    "president",
-    "protest",
-    "rambl",
-    "speech",
-    "tell",
-    "trump"
-   ],
-   "skipped"
-  ],
   [
    "2026-11-17T14:01:41.734321+00:00",
    [
@@ -16787,19 +16686,64 @@
     "truth"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-20T13:38:35.930872+00:00",
+   [
+    "buzz",
+    "clear",
+    "falter",
+    "fortun",
+    "frontrunner",
+    "gain",
+    "gop",
+    "poll",
+    "rac",
+    "republican",
+    "rubio",
+    "shift",
+    "vanc"
+   ],
+   "skipped"
+  ],
+  [
+   "2026-11-20T13:39:05.231469+00:00",
+   [
+    "announc",
+    "ban",
+    "bold",
+    "carriag",
+    "central",
+    "city",
+    "clos",
+    "driver",
+    "horse-drawn",
+    "island",
+    "jail",
+    "mamdani",
+    "mayor",
+    "minut",
+    "mov",
+    "notoriou",
+    "park",
+    "plan",
+    "riker",
+    "sign",
+    "sue",
+    "unveil",
+    "york",
+    "zohran"
+   ],
+   "7617761c95"
   ]
  ],
- "last_draft_at": "2026-11-20T13:15:39.032856+00:00",
+ "last_draft_at": "2026-11-20T13:38:10.269694+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T12:51:07.322549+00:00",
  "run_log": [
-  "11-20 11:07:32 listening done",
-  "11-20 11:07:32 run end after 688 s",
-  "11-20 11:08:36 run start",
-  "11-20 11:09:44 listening 10 min",
   "11-20 11:20:14 listening done",
   "11-20 11:20:14 run end after 697 s",
   "11-20 11:20:48 run start",
@@ -16835,13 +16779,15 @@
   "11-20 13:15:38 run start",
   "11-20 13:15:49 listening 11 min",
   "11-20 13:27:07 listening done",
-  "11-20 13:27:07 run end after 688 s"
+  "11-20 13:27:07 run end after 688 s",
+  "11-20 13:38:09 run start",
+  "11-20 13:39:20 listening 10 min",
+  "11-20 13:49:50 listening done",
+  "11-20 13:49:50 run end after 700 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Brussels_NATO_Headquarters.jpg/1920px-Brussels_NATO_Headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Elbridge_A._Colby_%282%29.jpg/1280px-Elbridge_A._Colby_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/%D0%A0%D0%B0%D1%84%D0%B8%D0%BD%D0%B5%D1%80%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0%D1%84%D1%82%D0%B5_%D0%91%D1%80%D0%BE%D0%B4_%28Oil_refinery_Brod%2C_Republika_Srpska%29.jpg/1920px-%D0%A0%D0%B0%D1%84%D0%B8%D0%BD%D0%B5%D1%80%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0%D1%84%D1%82%D0%B5_%D0%91%D1%80%D0%BE%D0%B4_%28Oil_refinery_Brod%2C_Republika_Srpska%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Loppusijoituskapseli.jpg/1920px-Loppusijoituskapseli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Regierungsviertel%2C_Berlin-Mitte%2C_170325%2C_ako.jpg/1920px-Regierungsviertel%2C_Berlin-Mitte%2C_170325%2C_ako.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -16879,7 +16825,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Kyiv_skyline_%2815688086793%29.jpg/1920px-Kyiv_skyline_%2815688086793%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/9/91/Views_of_Iraqi_flag_over_the_Aghawat_Mosque_in_Mosul_in_summer_of_2019%2C_after_its_destruction_in_the_war_with_the_Islamic_State_12.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Naypyidaw_--_Zoo.JPG/1920px-Naypyidaw_--_Zoo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Tennessee_State_Capitol_house_chamber_gallery.jpg/1920px-Tennessee_State_Capitol_house_chamber_gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Tennessee_State_Capitol_house_chamber_gallery.jpg/1920px-Tennessee_State_Capitol_house_chamber_gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Horse-drawn_carriage_charleston.jpg/1920px-Horse-drawn_carriage_charleston.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Zohran_Mamdani.jpg/1280px-Zohran_Mamdani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "sviatlana tsikhanouskaya": {
@@ -20274,7 +20222,6 @@
    }
   },
   "recent_ideas": [
-   "ocean research vessel",
    "voting booth",
    "white house, washington",
    "berlin skyline",
@@ -20285,7 +20232,8 @@
    "judge gavel",
    "iraqi flag",
    "naypyidaw, myanmar",
-   "house chamber, united states capitol"
+   "house chamber, united states capitol",
+   "horse-drawn carriage"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -21492,6 +21440,16 @@
     "s": 7,
     "w": "interior of House chamber",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Horse-drawn_carriage_charleston.jpg/1920px-Horse-drawn_carriage_charleston.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|6ff38dd9": {
+    "s": 10,
+    "w": "horse-drawn carriage",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Zohran_Mamdani.jpg/1280px-Zohran_Mamdani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Zohran Mamdani": {
+    "s": 10,
+    "w": "Zohran Mamdani smiling",
+    "p": ""
    }
   }
  },
@@ -21503,10 +21461,10 @@
   "2026-11-17": 35,
   "2026-11-18": 22,
   "2026-11-19": 30,
-  "2026-11-20": 10
+  "2026-11-20": 11
  },
- "last_auto_at": "2026-11-20T12:41:41.641497+00:00",
- "last_post_at": "2026-11-20T12:41:51.048422+00:00",
+ "last_auto_at": "2026-11-20T13:39:05.584895+00:00",
+ "last_post_at": "2026-11-20T13:39:10.975422+00:00",
  "reels_count": {
   "2026-11-14": 8,
   "2026-11-15": 8,
