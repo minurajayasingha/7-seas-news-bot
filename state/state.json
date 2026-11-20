@@ -1,92 +1,6 @@
 {
  "tg_offset": 495893087,
  "drafts": {
-  "6b6f4d2ec9": {
-   "id": "6b6f4d2ec9",
-   "headline": "Ukraine strikes key oil refinery in southern Russia",
-   "summary": "Ukraine's General Staff reports strikes on three primary oil-processing units and a gasoline production complex at a Russian refinery. Meanwhile, according to reports, Russia has initiated a bombing campaign targeting heating, water, and sanitation systems in Kyiv and other cities.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "Strikes hit three primary oil-processing units.",
-    "Russia targets Ukrainian heating and water infrastructure."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Ukraine",
-    "#Russia",
-    "#WorldNews"
-   ],
-   "sources": [
-    "Kyiv Independent",
-    "New York Times"
-   ],
-   "link": "https://kyivindependent.com/ukraine-strikes-key-oil-refinery-in-southern-russia-hitting-3-processing-units-general-staff-says/",
-   "links": [
-    [
-     "Kyiv Independent",
-     "https://kyivindependent.com/ukraine-strikes-key-oil-refinery-in-southern-russia-hitting-3-processing-units-general-staff-says/"
-    ],
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Rostov-on-Don%2C_Skyline_2%2C_Russia.jpg/1920px-Rostov-on-Don%2C_Skyline_2%2C_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Ukraine strikes key oil refinery in southern Russia",
-    "people": [],
-    "image_query": "oil refinery facility",
-    "image_queries": [
-     "processing units",
-     "industrial refinery",
-     "Kyiv cityscape",
-     "energy infrastructure"
-    ],
-    "image_style": "incident",
-    "location": "Russia",
-    "nearby_city": "Moscow, Russia",
-    "event_query": "oil refinery strike",
-    "news_time": null,
-    "label": "CONFLICT"
-   },
-   "created_at": "2026-11-16T16:16:01.564768+00:00",
-   "news_time": "2026-11-16T12:50:08+00:00",
-   "news_latest": "2026-11-16T13:54:20+00:00",
-   "caption": "Ukraine strikes key oil refinery in southern Russia\n\nUkraine's General Staff reports strikes on three primary oil-processing units and a gasoline production complex at a Russian refinery. Meanwhile, according to reports, Russia has initiated a bombing campaign targeting heating, water, and sanitation systems in Kyiv and other cities.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Ukraine #Russia #WorldNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 653,
-   "tg_file_id": "AgACAgUAAxkDAAICjWr7LEUlGUOFknk4FE2JAwhKtaLjAAIHGGsbg6zYV0l4lYJLHogWAQADAgADdwADPQQ",
-   "queued_at": "2026-11-16T16:16:05.570088+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-16T16:16:05.570117+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122103502467548584",
-   "posted_at": "2026-11-16T16:16:05.938074+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 16 · 11:16 AM New York · 9:46 PM Sri Lanka\n\n<b>Ukraine strikes key oil refinery in southern Russia</b>\n<i>Kyiv Independent, New York Times</i>\n🟡 <b>Latest:</b> 7:24 PM Sri Lanka (2h 22m ago) · first reported 6:20 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122103502467548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 430,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122103502467548584_1874693133543471",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-19T15:31:06.046355+00:00"
-  },
   "df672909a2": {
    "id": "df672909a2",
    "headline": "British artist Raye leads Grammy nominations with 11 nods",
@@ -13091,42 +13005,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-17T16:19:41.572416+00:00",
-   [
-    "25",
-    "26",
-    "cas",
-    "elimination",
-    "los",
-    "measl",
-    "number",
-    "record",
-    "statu"
-   ],
-   "64916d6055"
-  ],
-  [
-   "2026-11-17T16:21:24.676074+00:00",
-   [
-    "attend",
-    "committe",
-    "cook",
-    "expect",
-    "fed",
-    "federal",
-    "gov",
-    "governor",
-    "hear",
-    "hous",
-    "lisa",
-    "refus",
-    "reserv",
-    "trump",
-    "whit"
-   ],
-   "b96a78eea8"
-  ],
-  [
    "2026-11-17T17:03:22.595661+00:00",
    [
     "aviation",
@@ -16730,17 +16608,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-20T16:03:44.871648+00:00",
+ "last_draft_at": "2026-11-20T16:16:36.679755+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T15:51:37.524004+00:00",
  "run_log": [
-  "11-20 13:38:09 run start",
-  "11-20 13:39:20 listening 10 min",
-  "11-20 13:49:50 listening done",
-  "11-20 13:49:50 run end after 700 s",
   "11-20 13:50:19 run start",
   "11-20 13:50:53 listening 11 min",
   "11-20 14:01:46 listening done",
@@ -16776,7 +16650,11 @@
   "11-20 16:03:44 run start",
   "11-20 16:04:04 listening 11 min",
   "11-20 16:15:23 listening done",
-  "11-20 16:15:23 run end after 698 s"
+  "11-20 16:15:23 run end after 698 s",
+  "11-20 16:16:36 run start",
+  "11-20 16:17:08 listening 11 min",
+  "11-20 16:28:03 listening done",
+  "11-20 16:28:03 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
