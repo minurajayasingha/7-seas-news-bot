@@ -13207,7 +13207,10 @@
   "https://abcnews.com/International/wireStory/el-salvador-president-nayib-bukele-seeks-term-attacking-138309430",
   "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-expected-to-formalise-bid-for-third-presidential-term?traffic_source=rss",
   "https://www.aljazeera.com/sports/2026/11/20/kozo-tashima-japan-fifa-president-election-balogun-red-card-world-cup-infantino?traffic_source=rss",
-  "https://www.france24.com/en/tv-shows/sports/20261120-fifa-infantino-tashima-and-diallo-enter-presidential-race"
+  "https://www.france24.com/en/tv-shows/sports/20261120-fifa-infantino-tashima-and-diallo-enter-presidential-race",
+  "https://www.independent.co.uk/news/world/americas/us-politics/trump-falls-asleep-summit-xi-speech-b3088429.html",
+  "https://www.independent.co.uk/news/world/americas/us-politics/trump-escalator-china-xi-jinping-holding-hands-b3088418.html",
+  "https://thehill.com/blogs/in-the-know/6232403-melania-trump-prime-video-series/"
  ],
  "recent_topics": [
   [
@@ -16769,19 +16772,42 @@
     "world"
    ],
    "5c6961b5ad"
+  ],
+  [
+   "2026-11-20T07:15:52.874542+00:00",
+   [
+    "another",
+    "asleep",
+    "china",
+    "docusery",
+    "embrac",
+    "escalator",
+    "fall",
+    "leader",
+    "mark",
+    "meet",
+    "melania",
+    "mock",
+    "moment",
+    "premier",
+    "prim",
+    "tim",
+    "trump",
+    "video",
+    "viral",
+    "world",
+    "yet"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-20T07:01:00.342404+00:00",
+ "last_draft_at": "2026-11-20T07:15:38.144658+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T06:45:41.625382+00:00",
  "run_log": [
-  "11-20 04:48:30 run start",
-  "11-20 04:49:26 listening 11 min",
-  "11-20 04:59:56 listening done",
-  "11-20 04:59:56 run end after 685 s",
   "11-20 05:00:44 run start",
   "11-20 05:01:06 listening 11 min",
   "11-20 05:12:24 listening done",
@@ -16817,7 +16843,11 @@
   "11-20 07:00:59 run start",
   "11-20 07:01:19 listening 11 min",
   "11-20 07:12:38 listening done",
-  "11-20 07:12:38 run end after 698 s"
+  "11-20 07:12:38 run end after 698 s",
+  "11-20 07:15:37 run start",
+  "11-20 07:15:52 listening 11 min",
+  "11-20 07:27:12 listening done",
+  "11-20 07:27:12 run end after 694 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
