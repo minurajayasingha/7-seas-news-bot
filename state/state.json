@@ -12703,24 +12703,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-17T21:47:44.925370+00:00",
-   [
-    "april",
-    "army",
-    "chief",
-    "chri",
-    "fir",
-    "hegseth",
-    "lanev",
-    "nominat",
-    "ouster",
-    "predecessor",
-    "staff",
-    "trump"
-   ],
-   "fb21c5e2e2"
-  ],
-  [
    "2026-11-17T21:48:37.072475+00:00",
    [
     "12",
@@ -16180,17 +16162,13 @@
    "7768cf111c"
   ]
  ],
- "last_draft_at": "2026-11-20T21:26:18.455796+00:00",
+ "last_draft_at": "2026-11-20T21:36:31.734804+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T21:02:37.527237+00:00",
  "run_log": [
-  "11-20 19:09:21 listening done",
-  "11-20 19:09:21 run end after 691 s",
-  "11-20 19:10:51 run start",
-  "11-20 19:11:00 listening 11 min",
   "11-20 19:22:19 listening done",
   "11-20 19:22:19 run end after 688 s",
   "11-20 19:23:02 run start",
@@ -16226,7 +16204,11 @@
   "11-20 21:14:03 listening done",
   "11-20 21:14:03 run end after 686 s",
   "11-20 21:26:17 run start",
-  "11-20 21:26:37 listening 11 min"
+  "11-20 21:26:37 listening 11 min",
+  "11-20 21:36:31 run start",
+  "11-20 21:36:32 listening 11 min",
+  "11-20 21:48:15 listening done",
+  "11-20 21:48:15 run end after 704 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
