@@ -13154,21 +13154,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-17T14:01:50.227727+00:00",
-   [
-    "china",
-    "giv",
-    "hold",
-    "messag",
-    "putin",
-    "separat",
-    "speak",
-    "talk",
-    "trump"
-   ],
-   "skipped"
-  ],
-  [
    "2026-11-17T14:16:51.300875+00:00",
    [
     "bank",
@@ -16722,17 +16707,13 @@
    "7617761c95"
   ]
  ],
- "last_draft_at": "2026-11-20T13:50:45.299995+00:00",
+ "last_draft_at": "2026-11-20T14:02:21.317826+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T13:50:19.733944+00:00",
  "run_log": [
-  "11-20 11:32:31 listening done",
-  "11-20 11:32:31 run end after 703 s",
-  "11-20 11:32:58 run start",
-  "11-20 11:39:10 listening 5 min",
   "11-20 11:44:37 listening done",
   "11-20 11:44:37 run end after 698 s",
   "11-20 11:45:32 run start",
@@ -16768,7 +16749,11 @@
   "11-20 13:50:19 run start",
   "11-20 13:50:53 listening 11 min",
   "11-20 14:01:46 listening done",
-  "11-20 14:01:46 run end after 687 s"
+  "11-20 14:01:46 run end after 687 s",
+  "11-20 14:02:20 run start",
+  "11-20 14:02:30 listening 11 min",
+  "11-20 14:13:50 listening done",
+  "11-20 14:13:50 run end after 690 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
