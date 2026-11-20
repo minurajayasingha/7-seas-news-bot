@@ -1,102 +1,6 @@
 {
  "tg_offset": 495893084,
  "drafts": {
-  "4f2e859acf": {
-   "id": "4f2e859acf",
-   "headline": "Hundreds of thousands of Czechs protest public media funding in Prague",
-   "summary": "Hundreds of thousands of demonstrators rallied in Prague to oppose government plans to replace public media fees with direct state funding. Protesters state the change threatens broadcaster independence and freedom, while the government asserts the move is necessary to cut costs.",
-   "label": "WORLD",
-   "hook": "Will these protests lead the government to alter its public media funding plans?",
-   "key_points": [
-    "Turnout exceeded a previous March protest of over 200,000.",
-    "The demonstration may be the largest since the 1989 Velvet Revolution."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#CzechRepublic",
-    "#MediaFreedom",
-    "#Prague"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "BBC",
-    "France 24",
-    "UPI"
-   ],
-   "link": "https://www.france24.com/en/europe/20261116-czechs-protest-prague-public-media-funding-plan",
-   "links": [
-    [
-     "France 24",
-     "https://www.france24.com/en/europe/20261116-czechs-protest-prague-public-media-funding-plan"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss"
-    ],
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/World-News/2026/11/15/-czech-massive-Prague-protest-targets-changes-Czech-public-broadcasting/3861794784481/"
-    ],
-    [
-     "BBC",
-     "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Streets_of_Prague_6.jpg/1920px-Streets_of_Prague_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Slyronit / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Hundreds of thousands of Czechs protest public media funding in Prague",
-    "people": [],
-    "image_query": "Prague city",
-    "image_queries": [
-     "Prague streets",
-     "Prague historical center",
-     "Czech public broadcaster building",
-     "Prague central square"
-    ],
-    "image_style": "scene",
-    "location": "Prague, Czech Republic",
-    "nearby_city": "Prague, Czech Republic",
-    "event_query": "Prague media funding protest",
-    "news_time": null,
-    "label": "WORLD"
-   },
-   "created_at": "2026-11-16T02:31:26.321620+00:00",
-   "news_time": "2026-11-15T21:03:40+00:00",
-   "news_latest": "2026-11-16T02:28:13+00:00",
-   "caption": "Hundreds of thousands of Czechs protest public media funding in Prague\n\nHundreds of thousands of demonstrators rallied in Prague to oppose government plans to replace public media fees with direct state funding. Protesters state the change threatens broadcaster independence and freedom, while the government asserts the move is necessary to cut costs.\n\n💬 Will these protests lead the government to alter its public media funding plans?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#CzechRepublic #MediaFreedom #Prague #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 618,
-   "tg_file_id": "AgACAgUAAxkDAAICamr6awRu7DF0tQiMGkT3lSJfTsaPAAJJFmsbg6zYV9PRwuKIPP_aAQADAgADdwADPQQ",
-   "queued_at": "2026-11-16T02:31:32.463337+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-16T02:31:32.463361+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122102918223548584",
-   "posted_at": "2026-11-16T02:31:32.777653+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 15 · 9:31 PM New York · 8:01 AM Sri Lanka\n\n<b>Hundreds of thousands of Czechs protest public media funding in Prague</b>\n<i>Al Jazeera, BBC, France 24, UPI</i>\n🟢 <b>Latest:</b> 7:58 AM Sri Lanka (3 min ago) · first reported 2:33 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122102918223548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 402,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122102918223548584_2402165980622242",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-19T02:00:56.461500+00:00"
-  },
   "47a181927c": {
    "id": "47a181927c",
    "headline": "Trump travels to Asia for meetings with Xi and Putin",
@@ -13424,31 +13328,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-17T02:31:48.004505+00:00",
-   [
-    "accus",
-    "administration",
-    "ahead",
-    "break",
-    "china",
-    "chip",
-    "clos",
-    "democrat",
-    "divid",
-    "loophol",
-    "mock",
-    "mov",
-    "policy",
-    "public",
-    "soft",
-    "trip",
-    "trump",
-    "vanc",
-    "view"
-   ],
-   "49b016b81c"
-  ],
-  [
    "2026-11-17T05:46:13.821162+00:00",
    [
     "advocat",
@@ -17002,17 +16881,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-20T02:15:39.819754+00:00",
+ "last_draft_at": "2026-11-20T02:30:48.322282+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T01:45:36.060377+00:00",
  "run_log": [
-  "11-20 00:00:56 run start",
-  "11-20 00:01:28 listening 11 min",
-  "11-20 00:12:21 listening done",
-  "11-20 00:12:21 run end after 685 s",
   "11-20 00:15:44 run start",
   "11-20 00:17:15 listening 10 min",
   "11-20 00:27:18 listening done",
@@ -17048,7 +16923,11 @@
   "11-20 02:15:39 run start",
   "11-20 02:15:59 listening 11 min",
   "11-20 02:27:17 listening done",
-  "11-20 02:27:17 run end after 698 s"
+  "11-20 02:27:17 run end after 698 s",
+  "11-20 02:30:47 run start",
+  "11-20 02:31:21 listening 11 min",
+  "11-20 02:42:16 listening done",
+  "11-20 02:42:16 run end after 689 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
