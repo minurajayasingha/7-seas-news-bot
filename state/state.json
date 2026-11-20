@@ -1,5 +1,5 @@
 {
- "tg_offset": 495893087,
+ "tg_offset": 495893090,
  "drafts": {
   "901e21f714": {
    "id": "901e21f714",
@@ -12699,28 +12699,11 @@
   "https://thehill.com/homenews/senate/6233790-tillis-blocks-cisa-nominee/",
   "https://thehill.com/homenews/senate/6233748-senate-undecided-eric-ualand-gao/",
   "https://www.newsweek.com/trump-jensen-huang-nvidia-congressional-inquiry-12749752",
-  "https://www.washingtonpost.com/politics/2026/11/20/trump-defends-jensen-huang-after-alleged-chinese-spy-affair/"
+  "https://www.washingtonpost.com/politics/2026/11/20/trump-defends-jensen-huang-after-alleged-chinese-spy-affair/",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss",
+  "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html"
  ],
  "recent_topics": [
-  [
-   "2026-11-17T21:48:37.072475+00:00",
-   [
-    "12",
-    "17",
-    "19",
-    "all",
-    "board",
-    "crash",
-    "kill",
-    "military",
-    "plan",
-    "russian",
-    "siberia",
-    "ukraine-russia",
-    "war"
-   ],
-   "31c7e24129"
-  ],
   [
    "2026-11-17T22:01:22.449457+00:00",
    [
@@ -16160,19 +16143,34 @@
     "urg"
    ],
    "7768cf111c"
+  ],
+  [
+   "2026-11-20T21:49:21.643610+00:00",
+   [
+    "assert",
+    "bid",
+    "control",
+    "enter",
+    "forc",
+    "iran-back",
+    "iraq",
+    "iraqi",
+    "militia",
+    "powerful",
+    "stat",
+    "stronghold",
+    "target"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-20T21:36:31.734804+00:00",
+ "last_draft_at": "2026-11-20T21:48:48.623941+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T21:02:37.527237+00:00",
  "run_log": [
-  "11-20 19:22:19 listening done",
-  "11-20 19:22:19 run end after 688 s",
-  "11-20 19:23:02 run start",
-  "11-20 19:23:22 listening 11 min",
   "11-20 19:34:42 listening done",
   "11-20 19:34:42 run end after 699 s",
   "11-20 19:35:14 run start",
@@ -16208,7 +16206,11 @@
   "11-20 21:36:31 run start",
   "11-20 21:36:32 listening 11 min",
   "11-20 21:48:15 listening done",
-  "11-20 21:48:15 run end after 704 s"
+  "11-20 21:48:15 run end after 704 s",
+  "11-20 21:48:48 run start",
+  "11-20 21:49:21 listening 11 min",
+  "11-20 22:00:29 listening done",
+  "11-20 22:00:29 run end after 700 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
