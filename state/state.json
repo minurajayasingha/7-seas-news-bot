@@ -13010,65 +13010,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-17T18:18:39.751689+00:00",
-   [
-    "baghdad",
-    "captivity",
-    "enter",
-    "ex-hostag",
-    "forc",
-    "group",
-    "iran-back",
-    "iraqi",
-    "militia",
-    "minister",
-    "near",
-    "now",
-    "prim",
-    "recount",
-    "stronghold",
-    "target",
-    "warn"
-   ],
-   "102e0e684e"
-  ],
-  [
-   "2026-11-17T18:18:41.626134+00:00",
-   [
-    "affect",
-    "american",
-    "chief",
-    "colleg",
-    "dhs",
-    "expos",
-    "faa",
-    "flew",
-    "football",
-    "gam",
-    "gotta",
-    "government",
-    "ground",
-    "lif",
-    "liv",
-    "lsu-texa",
-    "million",
-    "mullin",
-    "our",
-    "outag",
-    "plan",
-    "privat",
-    "recover",
-    "sabotag",
-    "still",
-    "stop",
-    "strand",
-    "took",
-    "vulnerabl",
-    "wak"
-   ],
-   "skipped"
-  ],
-  [
    "2026-11-17T18:46:32.893679+00:00",
    [
     "caus",
@@ -16562,17 +16503,13 @@
    "4f1d9bc8cb"
   ]
  ],
- "last_draft_at": "2026-11-20T18:03:11.494281+00:00",
+ "last_draft_at": "2026-11-20T18:16:18.241533+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T17:51:17.444831+00:00",
  "run_log": [
-  "11-20 15:00:49 run start",
-  "11-20 15:02:59 listening 9 min",
-  "11-20 15:12:37 listening done",
-  "11-20 15:12:37 run end after 707 s",
   "11-20 15:15:35 run start",
   "11-20 15:17:59 listening 9 min",
   "11-20 15:27:12 listening done",
@@ -16608,7 +16545,11 @@
   "11-20 18:03:11 run start",
   "11-20 18:09:22 listening 5 min",
   "11-20 18:14:49 listening done",
-  "11-20 18:14:49 run end after 698 s"
+  "11-20 18:14:49 run end after 698 s",
+  "11-20 18:16:17 run start",
+  "11-20 18:16:19 listening 11 min",
+  "11-20 18:28:04 listening done",
+  "11-20 18:28:04 run end after 706 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
