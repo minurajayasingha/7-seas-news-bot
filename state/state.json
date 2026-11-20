@@ -16961,17 +16961,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-20T12:51:50.598255+00:00",
+ "last_draft_at": "2026-11-20T13:03:06.944607+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T12:51:07.322549+00:00",
  "run_log": [
-  "11-20 10:42:15 listening done",
-  "11-20 10:42:15 run end after 689 s",
-  "11-20 10:43:28 run start",
-  "11-20 10:44:03 listening 11 min",
   "11-20 10:54:58 listening done",
   "11-20 10:54:58 run end after 690 s",
   "11-20 10:56:04 run start",
@@ -17007,7 +17003,11 @@
   "11-20 12:51:06 run start",
   "11-20 12:52:09 listening 10 min",
   "11-20 13:02:38 listening done",
-  "11-20 13:02:38 run end after 691 s"
+  "11-20 13:02:38 run end after 691 s",
+  "11-20 13:03:05 run start",
+  "11-20 13:03:16 listening 11 min",
+  "11-20 13:14:35 listening done",
+  "11-20 13:14:35 run end after 689 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -22555,7 +22555,11 @@
     "Senator Elissa Slotkin endorses Chris Van Hollen for Senate leadership",
     "European leaders meet in Berlin for talks on ending Ukraine war",
     "Justice Department drops appeal in Alaska Senate race"
-   ]
+   ],
+   "done": {
+    "tt1": true,
+    "log1": true
+   }
   }
  },
  "run_once_done": [
