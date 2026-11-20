@@ -16910,17 +16910,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-20T04:49:17.262650+00:00",
+ "last_draft_at": "2026-11-20T05:00:47.039469+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T04:48:31.145202+00:00",
  "run_log": [
-  "11-20 02:42:16 listening done",
-  "11-20 02:42:16 run end after 689 s",
-  "11-20 02:44:02 run start",
-  "11-20 02:45:04 listening 10 min",
   "11-20 02:55:34 listening done",
   "11-20 02:55:34 run end after 691 s",
   "11-20 02:59:49 run start",
@@ -16956,7 +16952,11 @@
   "11-20 04:48:30 run start",
   "11-20 04:49:26 listening 11 min",
   "11-20 04:59:56 listening done",
-  "11-20 04:59:56 run end after 685 s"
+  "11-20 04:59:56 run end after 685 s",
+  "11-20 05:00:44 run start",
+  "11-20 05:01:06 listening 11 min",
+  "11-20 05:12:24 listening done",
+  "11-20 05:12:24 run end after 700 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -22124,6 +22124,181 @@
     "tt3": true,
     "log3": true
    }
+  },
+  "2026-11-19": {
+   "status": "asked",
+   "plan": {
+    "parts": [
+     {
+      "name": "WAR & CONFLICT",
+      "tag": "#warnews",
+      "stories": [
+       3,
+       4,
+       15,
+       12,
+       1,
+       24
+      ],
+      "hook": "Crimean Bridge attacked. Saudi skyscraper hit.",
+      "title": "Crimean Bridge attacked again and Saudi skyscraper hit by Houthi strik",
+      "question": "Will the attacks on infrastructure escalate the conflict further?",
+      "hashtags": [
+       "#conflict",
+       "#security"
+      ],
+      "tags": [
+       "crimean bridge",
+       "saudi arabia",
+       "houthi attacks",
+       "ukraine conflict",
+       "middle east",
+       "security threats"
+      ],
+      "of": 3
+     },
+     {
+      "name": "US NEWS",
+      "tag": "#usnews",
+      "stories": [
+       7,
+       16,
+       17,
+       20,
+       21,
+       22,
+       25,
+       26,
+       29
+      ],
+      "hook": "Army plans Iowa blast. DOJ assigns inquiry.",
+      "title": "Army plans 5-ton chemical detonation in Iowa as Pentagon faces munitio",
+      "question": "How will the Pentagon address the reported munitions shortfall?",
+      "hashtags": [
+       "#uspolitics",
+       "#pentagon"
+      ],
+      "tags": [
+       "us politics",
+       "pentagon",
+       "department of justice",
+       "trump administration",
+       "senate",
+       "house republicans"
+      ],
+      "of": 3
+     },
+     {
+      "name": "WORLD NEWS",
+      "tag": "#worldnews",
+      "stories": [
+       8,
+       2,
+       5,
+       6,
+       9,
+       10,
+       11,
+       14,
+       18,
+       19,
+       23,
+       27,
+       28,
+       30
+      ],
+      "hook": "Historic three-way summit. North Korea expands.",
+      "title": "Trump, Xi and Putin hold historic summit as North Korea expands uraniu",
+      "question": "",
+      "hashtags": [
+       "#worldnews",
+       "#diplomacy"
+      ],
+      "tags": [
+       "world news",
+       "diplomacy",
+       "north korea",
+       "ukraine war",
+       "anthropic valuation",
+       "european leaders"
+      ],
+      "of": 3
+     }
+    ],
+    "dropped": [
+     {
+      "n": 13,
+      "why": "Minor political news item"
+     }
+    ],
+    "ids": [
+     "972d7dbe83",
+     "bc659a943d",
+     "8944b9bf2f",
+     "dab98dd23c",
+     "5ac6485bd7",
+     "2b9a45734f",
+     "dcd20f14d3",
+     "ec70ec531b",
+     "8d4538a5bc",
+     "83b3c49710",
+     "66e1b4360f",
+     "f88a3502ca",
+     "a5d8540347",
+     "25be5e34a5",
+     "7ab40838ae",
+     "94c3d50906",
+     "e9a904bba1",
+     "3f75a9b734",
+     "c492951e0f",
+     "47cd5f1547",
+     "cc8d78234c",
+     "90a29bc059",
+     "4607bb64dc",
+     "8a3271186d",
+     "003d5d2199",
+     "584d3e7253",
+     "bbcf186f1b",
+     "42a9728713",
+     "378b25a5bd",
+     "4ad22076bd"
+    ]
+   },
+   "heads": [
+    "IEA warns Middle East crisis and datacentres threaten energy security",
+    "UN nuclear watchdog says North Korea expands uranium enrichment facility",
+    "Crimean Bridge attacked again as traffic is suspended",
+    "Skyscraper damaged in Riyadh as Saudi Arabia reports Houthi attacks",
+    "European leaders meet in Berlin as Ukraine faces financing gap",
+    "Denmark parliament ratifies security deal involving Greenland and United States",
+    "Army plans to detonate 5 tons of chemicals in Iowa",
+    "Trump, Xi and Putin hold historic three-way summit",
+    "Migrant boat capsizes off Senegal coast leaving several missing",
+    "European Commission hit by AI assisted cyberattack",
+    "Somalia orders United Arab Emirates ambassador to leave the country",
+    "Dutch embassy compound hit by projectile during Kyiv attacks",
+    "Law firm does free work for Trump administration",
+    "Anthropic reaches one point five trillion dollar valuation in Nasdaq debut",
+    "Trump states Iran may be working on weapons",
+    "Department of Justice assigns prosecutor Bill Essayli to Mar-a-Lago raid inquiry",
+    "Trump CISA nominee Michael LoSapio questions Jan 6 attack",
+    "Four men convicted of sexual assault of British woman",
+    "Cincinnati Zoo announces death of Fiona the hippo",
+    "US appeals court halts order restoring Venezuelan deportation protections",
+    "President Trump posthumously pardons baseball player Pete Rose",
+    "Watchdog says Pentagon lacks plan to address munitions shortfall",
+    "Wetstone US Ventures acquires two ocean leases off American Samoa",
+    "Haitian security forces kill 34 suspected gang members in raid",
+    "House Republicans face leadership choices for Oversight Committee",
+    "White House national cyber director Sean Cairncross steps down",
+    "Senator Elissa Slotkin endorses Chris Van Hollen for Senate leadership",
+    "European leaders meet in Berlin for talks on ending Ukraine war",
+    "Senate passes bill to speed up energy and infrastructure projects",
+    "Justice Department drops appeal in Alaska Senate race"
+   ],
+   "asked_at": "2026-11-20T05:00:46.738034+00:00",
+   "test": false,
+   "msg_id": 848
   }
  },
  "run_once_done": [
