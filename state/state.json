@@ -1,100 +1,6 @@
 {
  "tg_offset": 495893087,
  "drafts": {
-  "e5fa793a18": {
-   "id": "e5fa793a18",
-   "headline": "New York City Mayor Zohran Mamdani disbands NYPD unit",
-   "summary": "New York City Mayor Zohran Mamdani announced the disbandment of the NYPD's Strategic Response Group. Police union leaders condemned the move, while civil rights groups previously criticized the unit over excessive force allegations.",
-   "label": "US POLITICS",
-   "hook": "",
-   "key_points": [
-    "The unit handled counterterrorism, protests, and riots.",
-    "The mayor announced the decision in a video.",
-    "A new community safety division is planned."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#NewYorkCity",
-    "#NYPD",
-    "#USPolitics"
-   ],
-   "sources": [
-    "Fox News",
-    "The Guardian",
-    "UPI"
-   ],
-   "link": "https://www.foxnews.com/politics/police-groups-condemn-mamdani-axing-elite-nypd-unit",
-   "links": [
-    [
-     "Fox News",
-     "https://www.foxnews.com/politics/police-groups-condemn-mamdani-axing-elite-nypd-unit"
-    ],
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/US/2026/11/16/nyc-nypd-strategic-response-group-mamdani/4821794844155/"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/us-news/2026/nov/16/nypd-strategic-response-group-mamdani"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/21.09.26_-_Audi%C3%AAncia_ao_Prefeito_da_Cidade_de_Nova_York%2C_Zohran_Mamdani_-_55541336047_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Lula Oficial / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "New York City Mayor Zohran Mamdani disbands NYPD unit",
-    "people": [
-     "Zohran Mamdani"
-    ],
-    "image_query": "New York City skyline",
-    "image_queries": [
-     "New York Police Department headquarters",
-     "Manhattan street view",
-     "New York City police car",
-     "City Hall New York"
-    ],
-    "image_style": "person",
-    "location": "New York, US",
-    "nearby_city": "New York, New York",
-    "event_query": "New York City Hall press conference",
-    "news_time": null,
-    "label": "US POLITICS"
-   },
-   "created_at": "2026-11-16T19:46:21.793200+00:00",
-   "news_time": "2026-11-16T14:57:26+00:00",
-   "news_latest": "2026-11-16T19:36:53+00:00",
-   "caption": "New York City Mayor Zohran Mamdani disbands NYPD unit\n\nNew York City Mayor Zohran Mamdani announced the disbandment of the NYPD's Strategic Response Group. Police union leaders condemned the move, while civil rights groups previously criticized the unit over excessive force allegations.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#NewYorkCity #NYPD #USPolitics #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 667,
-   "tg_file_id": "AgACAgUAAxkDAAICm2r7XZkwm720W01xhEX_vC2V3mrhAAI-E2sbg6zgV-kkKh1sypd7AQADAgADdwADPQQ",
-   "queued_at": "2026-11-16T19:46:33.712362+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-16T19:46:33.712392+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122103662529548584",
-   "posted_at": "2026-11-16T19:46:33.992293+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 16 · 2:46 PM New York · 1:16 AM Sri Lanka\n\n<b>New York City Mayor Zohran Mamdani disbands NYPD unit</b>\n<i>Fox News, The Guardian, UPI</i>\n🟢 <b>Latest:</b> 1:06 AM Sri Lanka (9 min ago) · first reported 8:27 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122103662529548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 442,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122103662529548584_1128247449996622",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-19T19:34:04.857992+00:00"
-  },
   "005864cce3": {
    "id": "005864cce3",
    "headline": "California sues OpenAI over public safety and hacking incidents",
@@ -16250,17 +16156,13 @@
    "6e0948d976"
   ]
  ],
- "last_draft_at": "2026-11-20T19:23:03.268099+00:00",
+ "last_draft_at": "2026-11-20T19:35:14.523531+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T18:57:50.294800+00:00",
  "run_log": [
-  "11-20 17:04:51 run start",
-  "11-20 17:07:10 listening 9 min",
-  "11-20 17:16:24 listening done",
-  "11-20 17:16:24 run end after 693 s",
   "11-20 17:38:11 run start",
   "11-20 17:40:13 listening 9 min",
   "11-20 17:49:51 listening done",
@@ -16296,7 +16198,11 @@
   "11-20 19:23:02 run start",
   "11-20 19:23:22 listening 11 min",
   "11-20 19:34:42 listening done",
-  "11-20 19:34:42 run end after 699 s"
+  "11-20 19:34:42 run end after 699 s",
+  "11-20 19:35:14 run start",
+  "11-20 19:35:47 listening 11 min",
+  "11-20 19:46:41 listening done",
+  "11-20 19:46:41 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
