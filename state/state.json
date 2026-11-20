@@ -1,95 +1,6 @@
 {
  "tg_offset": 495893090,
  "drafts": {
-  "901e21f714": {
-   "id": "901e21f714",
-   "headline": "Forensic expert says autopsy photos suggest Epstein was killed",
-   "summary": "A leading forensic expert states that analysis of autopsy photos indicates the convicted sex offender was strangled. Professor Michael Freeman shared his assessment following a year of examining the evidence.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "Professor Michael Freeman shared his analysis with BBC Newsnight.",
-    "The expert spent a year examining the evidence.",
-    "Injuries were described as consistent with a homicide."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#WorldNews",
-    "#Forensics",
-    "#News"
-   ],
-   "sources": [
-    "BBC",
-    "The Independent"
-   ],
-   "link": "https://www.independent.co.uk/news/world/americas/crime/epstein-death-prison-forensic-expert-b3086005.html",
-   "links": [
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/crime/epstein-death-prison-forensic-expert-b3086005.html"
-    ],
-    [
-     "BBC",
-     "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Prison_Ship_Martyrs_Monument_Exterior.JPG/1920px-Prison_Ship_Martyrs_Monument_Exterior.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Steven Bornholtz / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Forensic expert says autopsy photos suggest Epstein was killed",
-    "people": [],
-    "image_query": "New York prison building",
-    "image_queries": [
-     "prison exterior",
-     "courtroom gavel",
-     "police station",
-     "investigation files"
-    ],
-    "image_style": "person",
-    "location": "New York, US",
-    "nearby_city": "New York City, New York",
-    "event_query": "",
-    "topic_photo": "judge gavel",
-    "label": "WORLD",
-    "news_time": "2026-11-16T20:33:57+00:00"
-   },
-   "created_at": "2026-11-16T22:31:52.979490+00:00",
-   "news_time": "2026-11-16T20:33:57+00:00",
-   "news_latest": "2026-11-16T22:16:38+00:00",
-   "importance": 6,
-   "caption": "Forensic expert says autopsy photos suggest Epstein was killed\n\nA leading forensic expert states that analysis of autopsy photos indicates the convicted sex offender was strangled. Professor Michael Freeman shared his assessment following a year of examining the evidence.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WorldNews #Forensics #News #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 671,
-   "tg_file_id": "AgACAgUAAxkDAAICn2r7hFsN_2E8HvpeNrZ6X4pXXVvvAAJVE2sbg6zgV21roh0hiLDlAQADAgADdwADPQQ",
-   "queued_at": "2026-11-16T22:31:55.528095+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-16T22:31:55.528139+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122103759405548584",
-   "posted_at": "2026-11-16T22:31:55.862833+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 16 · 5:32 PM New York · 4:02 AM Sri Lanka\n\n<b>Forensic expert says autopsy photos suggest Epstein was killed</b>\n<i>BBC, The Independent</i>\n🟢 <b>Latest:</b> 3:46 AM Sri Lanka (15 min ago) · first reported 2:03 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122103759405548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 446,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122103759405548584_1415143554033024",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-19T21:42:03.079310+00:00"
-  },
   "4dd0009e16": {
    "id": "4dd0009e16",
    "headline": "James Comer launches campaign for Kentucky governor",
@@ -16149,15 +16060,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-20T22:01:34.605569+00:00",
+ "last_draft_at": "2026-11-20T22:23:56.272961+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T22:00:57.832568+00:00",
  "run_log": [
-  "11-20 19:46:41 listening done",
-  "11-20 19:46:41 run end after 687 s",
   "11-20 19:47:17 run start",
   "11-20 19:48:33 listening 10 min",
   "11-20 19:59:01 listening done",
@@ -16195,7 +16104,9 @@
   "11-20 22:00:57 run start",
   "11-20 22:02:08 listening 10 min",
   "11-20 22:12:37 listening done",
-  "11-20 22:12:37 run end after 699 s"
+  "11-20 22:12:37 run end after 699 s",
+  "11-20 22:23:55 run start",
+  "11-20 22:24:14 listening 11 min"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
