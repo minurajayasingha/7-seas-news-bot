@@ -1,178 +1,6 @@
 {
  "tg_offset": 495893087,
  "drafts": {
-  "f78254b9b3": {
-   "id": "f78254b9b3",
-   "headline": "Third US aircraft carrier arrives in Middle East",
-   "summary": "A third US aircraft carrier has arrived in the Middle East amid tensions with Iran. The USS Theodore Roosevelt departed California in late September.",
-   "label": "CONFLICT",
-   "hook": "Will this military buildup help ease tensions in the region?",
-   "key_points": [
-    "The USS Theodore Roosevelt arrived in the Middle East.",
-    "The carrier departed California in late September."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USMilitary",
-    "#MiddleEast",
-    "#Iran"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "Newsweek"
-   ],
-   "link": "https://www.newsweek.com/map-shows-us-military-buildup-iran-third-carrier-arrives-12719335",
-   "links": [
-    [
-     "Newsweek",
-     "https://www.newsweek.com/map-shows-us-military-buildup-iran-third-carrier-arrives-12719335"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/56th_Fighter_Wing_F-35_Lightning_II.jpg/1920px-56th_Fighter_Wing_F-35_Lightning_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Airman 1st Class Mason Hargrove / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Third US aircraft carrier arrives in Middle East",
-    "people": [],
-    "image_query": "Pentagon building",
-    "image_queries": [
-     "aircraft carrier at sea",
-     "naval fleet deployment",
-     "USS Theodore Roosevelt",
-     "military ship ocean"
-    ],
-    "image_style": "scene",
-    "location": "Middle East",
-    "nearby_city": "",
-    "event_query": "USS Theodore Roosevelt arrival",
-    "news_time": null,
-    "label": "CONFLICT"
-   },
-   "created_at": "2026-11-16T15:16:04.492942+00:00",
-   "news_time": "2026-11-16T09:31:36+00:00",
-   "news_latest": "2026-11-16T15:11:29+00:00",
-   "caption": "Third US aircraft carrier arrives in Middle East\n\nA third US aircraft carrier has arrived in the Middle East amid tensions with Iran. The USS Theodore Roosevelt departed California in late September.\n\n💬 Will this military buildup help ease tensions in the region?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USMilitary #MiddleEast #Iran #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 648,
-   "tg_file_id": "AgACAgUAAxkDAAICiGr7Hjdqg2PkswG5XkyWhuf4zLEXAALvF2sbg6zYV7uy6uIk48vuAQADAgADdwADPQQ",
-   "queued_at": "2026-11-16T15:16:07.438937+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-16T15:16:07.438964+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122103452955548584",
-   "posted_at": "2026-11-16T15:18:16.616185+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 16 · 10:18 AM New York · 8:48 PM Sri Lanka\n\n<b>Third US aircraft carrier arrives in Middle East</b>\n<i>Al Jazeera, Newsweek</i>\n🟢 <b>Latest:</b> 8:41 PM Sri Lanka (6 min ago) · first reported 3:01 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122103452955548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 424,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122103452955548584_2042854507118231",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-19T14:25:43.473391+00:00"
-  },
-  "d7de5c46f1": {
-   "id": "d7de5c46f1",
-   "headline": "Ukraine strikes Crimea bridge as President Zelensky discusses Starshield limits",
-   "summary": "Ukraine struck the bridge linking Russia and Crimea across the Kerch strait, limiting traffic, according to governor Sergei Aksyonov. President Volodymyr Zelensky stated that Russian attacks over the weekend were partly made possible by restrictions on Ukraine's use of SpaceX's Starshield service.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "Russia struck energy and railway infrastructure across Ukraine over the weekend.",
-    "Ukraine's military has relied on the internet service since December 2024 to intercept drones."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Ukraine",
-    "#Crimea",
-    "#Russia"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "France 24"
-   ],
-   "link": "https://www.aljazeera.com/news/2026/11/16/why-starshield-limits-are-hurting-ukraine-against-jet-powered-drones?traffic_source=rss",
-   "links": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/16/why-starshield-limits-are-hurting-ukraine-against-jet-powered-drones?traffic_source=rss"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/video/20261116-ukraine-strikes-crimea-bridge-as-zelensky-says-starshield-caps-helping-russian-attacks"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Crimea._Yevpatoria._Revolution_street_P9161359_2600.jpg/1920px-Crimea._Yevpatoria._Revolution_street_P9161359_2600.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Alexxx1979 / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Ukraine strikes Crimea bridge as President Zelensky discusses Starshield limits",
-    "people": [],
-    "image_query": "Kerch Strait bridge",
-    "image_queries": [
-     "Kerch Strait",
-     "Crimea landscape",
-     "Ukraine infrastructure",
-     "Black Sea region"
-    ],
-    "image_style": "incident",
-    "location": "Crimea",
-    "nearby_city": "Simferopol, Crimea",
-    "event_query": "Crimea bridge strike",
-    "news_time": null,
-    "label": "CONFLICT"
-   },
-   "created_at": "2026-11-16T15:16:20.721708+00:00",
-   "news_time": "2026-11-16T11:18:47+00:00",
-   "news_latest": "2026-11-16T14:58:30+00:00",
-   "caption": "Ukraine strikes Crimea bridge as President Zelensky discusses Starshield limits\n\nUkraine struck the bridge linking Russia and Crimea across the Kerch strait, limiting traffic, according to governor Sergei Aksyonov. President Volodymyr Zelensky stated that Russian attacks over the weekend were partly made possible by restrictions on Ukraine's use of SpaceX's Starshield service.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Ukraine #Crimea #Russia #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 649,
-   "tg_file_id": "AgACAgUAAxkDAAICiWr7HltEKCuXY8QPOB4aq0KbeH88AALwF2sbg6zYV7IS1pzNBQIhAQADAgADdwADPQQ",
-   "queued_at": "2026-11-16T15:16:43.900398+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-16T15:16:43.900424+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122103453381548584",
-   "posted_at": "2026-11-16T15:18:16.616185+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 16 · 10:18 AM New York · 8:48 PM Sri Lanka\n\n<b>Ukraine strikes Crimea bridge as President Zelensky discusses Starshield limits</b>\n<i>Al Jazeera, France 24</i>\n🟢 <b>Latest:</b> 8:28 PM Sri Lanka (20 min ago) · first reported 4:48 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122103453381548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 425,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122103453381548584_1789547618974191",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-19T14:25:43.473391+00:00"
-  },
   "789464eb26": {
    "id": "789464eb26",
    "headline": "Lindsay Clancy faces retrial in March for children deaths",
@@ -13430,7 +13258,11 @@
   "https://www.washingtonexaminer.com/news/house/4809758/jamie-raskin-investigates-government-agencies-use-messaging-apps/",
   "https://www.independent.co.uk/news/world/americas/jamie-raskin-white-house-fbi-washington-donald-trump-b3088626.html",
   "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-  "https://www.washingtonexaminer.com/news/world/4809740/poland-investigating-suspected-russian-violation-airspace/"
+  "https://www.washingtonexaminer.com/news/world/4809740/poland-investigating-suspected-russian-violation-airspace/",
+  "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
+  "https://thehill.com/policy/international/6232720-john-bolton-trump-putin-xi-trilateral-meeting/",
+  "https://www.france24.com/en/france/20261120-france-probes-suspected-leak-confidential-information-le-pen-far-right-party",
+  "https://abcnews.com/International/wireStory/france-probes-suspected-leaks-confidential-information-le-pens-138315239"
  ],
  "recent_topics": [
   [
@@ -17052,19 +16884,35 @@
     "violation"
    ],
    "acf404f6e9"
+  ],
+  [
+   "2026-11-20T15:16:17.135009+00:00",
+   [
+    "bolton",
+    "conferenc",
+    "exit",
+    "hold",
+    "meet",
+    "press",
+    "putin",
+    "shar",
+    "substanc",
+    "summit",
+    "symbolic",
+    "trump",
+    "valu",
+    "win"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-20T15:00:50.297299+00:00",
+ "last_draft_at": "2026-11-20T15:15:35.456541+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T14:45:42.885344+00:00",
  "run_log": [
-  "11-20 12:51:06 run start",
-  "11-20 12:52:09 listening 10 min",
-  "11-20 13:02:38 listening done",
-  "11-20 13:02:38 run end after 691 s",
   "11-20 13:03:05 run start",
   "11-20 13:03:16 listening 11 min",
   "11-20 13:14:35 listening done",
@@ -17100,7 +16948,11 @@
   "11-20 15:00:49 run start",
   "11-20 15:02:59 listening 9 min",
   "11-20 15:12:37 listening done",
-  "11-20 15:12:37 run end after 707 s"
+  "11-20 15:12:37 run end after 707 s",
+  "11-20 15:15:35 run start",
+  "11-20 15:17:59 listening 9 min",
+  "11-20 15:27:12 listening done",
+  "11-20 15:27:12 run end after 697 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
