@@ -11796,6 +11796,98 @@
     "shares": 0
    },
    "stats_at": "2026-11-20T00:45:33.587219+00:00"
+  },
+  "42a9728713": {
+   "id": "42a9728713",
+   "headline": "European leaders meet in Berlin for talks on ending Ukraine war",
+   "summary": "European allies of Ukraine stated they share a united negotiating position at a summit in Berlin. Zelensky told reporters that stopping trade with Russia would end the war.",
+   "label": "DIPLOMACY",
+   "hook": "Can a halt to trade with Russia end the war?",
+   "key_points": [
+    "Kushner says Russia is comfortable with NATO-like guarantees",
+    "Leaders met after a Trump summit with Putin and Xi",
+    "Putin vowed retaliation for Kerch Bridge strikes"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#UkraineWar",
+    "#BerlinSummit",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "BBC",
+    "Kyiv Independent"
+   ],
+   "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+   "links": [
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "Kyiv Independent",
+     "https://kyivindependent.com/zelensky-tells-world-superpowers-how-they-can-end-russias-war-against-ukraine-2/"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Berlin_Skyline_Fernsehturm_02.jpg",
+      "credit": "H.Helmlechner / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "Berlin skyline"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "European leaders meet in Berlin for talks on ending Ukraine war",
+    "people": [],
+    "image_query": "Berlin summit venue",
+    "image_queries": [
+     "Berlin skyline",
+     "European flag",
+     "government building Berlin",
+     "conference room"
+    ],
+    "image_style": "scene",
+    "location": "Berlin, Germany",
+    "nearby_city": "Berlin, Germany",
+    "event_query": "Berlin Ukraine summit",
+    "topic_photo": "conference room",
+    "label": "DIPLOMACY",
+    "action_subject": "",
+    "news_time": "2026-11-19T19:40:23+00:00"
+   },
+   "created_at": "2026-11-20T01:01:47.041161+00:00",
+   "news_time": "2026-11-19T19:40:23+00:00",
+   "news_latest": "2026-11-20T00:50:24+00:00",
+   "importance": 8,
+   "caption": "European leaders meet in Berlin for talks on ending Ukraine war\n\nEuropean allies of Ukraine stated they share a united negotiating position at a summit in Berlin. Zelensky told reporters that stopping trade with Russia would end the war.\n\n💬 Can a halt to trade with Russia end the war?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#UkraineWar #BerlinSummit #WorldNews #7SeasNews",
+   "photo_line": "📷 10/10 Berlin skyline",
+   "status": "posted",
+   "tg_message_id": 845,
+   "tg_file_id": "AgACAgUAAxkDAAIDTWr_m_yPtfv26iMQDaXUsvIlC1yGAALZGGsb3mn4Vwud0fNvGLasAQADAgADdwADPQQ",
+   "queued_at": "2026-11-20T01:01:49.267703+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-20T01:01:49.267729+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122106919905548584",
+   "posted_at": "2026-11-20T01:01:54.985594+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 19 · 8:02 PM New York · 6:32 AM Sri Lanka\n\n<b>European leaders meet in Berlin for talks on ending Ukraine war</b>\n<i>Al Jazeera, BBC, Kyiv Independent</i>\n🟢 <b>Latest:</b> 6:20 AM Sri Lanka (11 min ago) · first reported 1:10 AM\n📷 10/10 Berlin skyline\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122106919905548584\">Open on Facebook</a>\n\n⚠️ <i>Looks like an earlier post: “European leaders meet in Berlin as Ukraine faces financing gap”. Tap 🗑 Delete if it's the same news.</i>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 553,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122106919905548584_1407814931428576"
   }
  },
  "seen_links": [
@@ -13504,7 +13596,12 @@
   "https://www.politico.com/news/2026/11/19/after-texas-triumph-daga-chief-steps-aside-01176340",
   "https://www.washingtonexaminer.com/news/senate/4809591/slotkin-snubs-schumer-chris-van-hollen-leader-endorsement/",
   "https://thehill.com/homenews/senate/6232111-senate-leadership-race-updates/",
-  "https://thehill.com/newsletters/business-economy/6231869-van-hollen-backs-populism-in-challenge-to-schumer/"
+  "https://thehill.com/newsletters/business-economy/6231869-van-hollen-backs-populism-in-challenge-to-schumer/",
+  "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+  "https://kyivindependent.com/zelensky-tells-world-superpowers-how-they-can-end-russias-war-against-ukraine-2/",
+  "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss",
+  "https://www.cbsnews.com/news/army-lead-azide-detonation-iowa-toxic-dust-plume/",
+  "https://thehill.com/homenews/state-watch/6231845-iowa-lawmakers-urge-army-postponement/"
  ],
  "recent_topics": [
   [
@@ -17036,19 +17133,63 @@
     "van"
    ],
    "bbcf186f1b"
+  ],
+  [
+   "2026-11-20T01:01:49.267540+00:00",
+   [
+    "announc",
+    "breakthrough",
+    "can",
+    "comfortabl",
+    "end",
+    "europ",
+    "expand",
+    "guarante",
+    "kushner",
+    "leader",
+    "nato-lik",
+    "press",
+    "ready",
+    "russia",
+    "superpower",
+    "talk",
+    "tell",
+    "ukrain",
+    "war",
+    "world",
+    "zelensky",
+    "zelenskyy"
+   ],
+   "42a9728713"
+  ],
+  [
+   "2026-11-20T01:01:54.985575+00:00",
+   [
+    "army",
+    "cit",
+    "communication",
+    "delay",
+    "detonation",
+    "explosiv",
+    "iowa",
+    "lat",
+    "lawmaker",
+    "lead",
+    "plann",
+    "postpon",
+    "unstabl",
+    "urg"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-20T00:46:03.117549+00:00",
+ "last_draft_at": "2026-11-20T01:01:14.234301+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T00:45:33.587219+00:00",
  "run_log": [
-  "11-19 22:31:13 run start",
-  "11-19 22:32:01 listening 11 min",
-  "11-19 22:42:54 listening done",
-  "11-19 22:42:54 run end after 701 s",
   "11-19 22:48:57 run start",
   "11-19 22:50:43 listening 10 min",
   "11-19 23:00:22 listening done",
@@ -17084,12 +17225,15 @@
   "11-20 00:45:33 run start",
   "11-20 00:46:13 listening 11 min",
   "11-20 00:57:06 listening done",
-  "11-20 00:57:06 run end after 693 s"
+  "11-20 00:57:06 run end after 693 s",
+  "11-20 01:01:13 run start",
+  "11-20 01:02:10 listening 11 min",
+  "11-20 01:12:39 listening done",
+  "11-20 01:12:39 run end after 685 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Markwayne_Mullin_Official_Photo_%283x4%29_%28cropped%29.jpg/1280px-Markwayne_Mullin_Official_Photo_%283x4%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Marco_Rubio_town_hall_Belknap_Mill_25_Beacon_Street_East_Laconia_NH_February_2016.jpg/1280px-Marco_Rubio_town_hall_Belknap_Mill_25_Beacon_Street_East_Laconia_NH_February_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Ron_Johnson_portrait_117th_Congress_%28crop%29.jpg/1280px-Ron_Johnson_portrait_117th_Congress_%28crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg/1920px-Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -17128,7 +17272,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/2024-09-11_01_RA-4D_-_IMO_8835619_%E2%80%93_Port_Angeles_WA_USA.jpg/1920px-2024-09-11_01_RA-4D_-_IMO_8835619_%E2%80%93_Port_Angeles_WA_USA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Example_voting_booth.jpg/1920px-Example_voting_booth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://live.staticflickr.com/3237/2770838680_cd002e04a5_b.jpg",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Elissa_Slotkin_20190202_153059.jpg/1280px-Elissa_Slotkin_20190202_153059.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Elissa_Slotkin_20190202_153059.jpg/1280px-Elissa_Slotkin_20190202_153059.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/0/02/Berlin_Skyline_Fernsehturm_02.jpg"
   ],
   "pools": {
    "jared kushner": {
@@ -20497,7 +20642,6 @@
    }
   },
   "recent_ideas": [
-   "wall street, new york",
    "courtroom",
    "us capitol building",
    "courtroom",
@@ -20508,7 +20652,8 @@
    "f-35 lightning",
    "ocean research vessel",
    "voting booth",
-   "white house, washington"
+   "white house, washington",
+   "berlin skyline"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -21530,6 +21675,11 @@
     "s": 10,
     "w": "Elissa Slotkin speaking at podium",
     "p": ""
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/0/02/Berlin_Skyline_Fernsehturm_02.jpg|5c8ff0e6": {
+    "s": 10,
+    "w": "Berlin skyline",
+    "p": ""
    }
   }
  },
@@ -21541,10 +21691,10 @@
   "2026-11-16": 32,
   "2026-11-17": 35,
   "2026-11-18": 22,
-  "2026-11-19": 27
+  "2026-11-19": 28
  },
- "last_auto_at": "2026-11-20T00:33:09.686309+00:00",
- "last_post_at": "2026-11-20T00:33:40.255077+00:00",
+ "last_auto_at": "2026-11-20T01:01:54.985594+00:00",
+ "last_post_at": "2026-11-20T01:02:01.366618+00:00",
  "reels_count": {
   "2026-11-13": 10,
   "2026-11-14": 8,
