@@ -1,95 +1,6 @@
 {
  "tg_offset": 495893087,
  "drafts": {
-  "08ed79d7ae": {
-   "id": "08ed79d7ae",
-   "headline": "Saudi Arabia dismisses coalition commander amid military repositioning in Yemen",
-   "summary": "Saudi Arabia dismissed the commander of coalition forces fighting the Houthis. Government forces withdrew from parts of the Red Sea coast, Marib, and the Bab al-Mandab strait, which the Saudi-backed government says aims to protect Aden and relieve the siege of Taiz.",
-   "label": "CONFLICT",
-   "hook": "Will these military repositionings help protect Aden and relieve the siege of Taiz?",
-   "key_points": [
-    "Anti-Houthi forces accused Saudi Arabia of military incompetence.",
-    "Forces pulled back from the strategic Bab al-Mandab strait.",
-    "Aden serves as the base for the UN-recognised government."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#SaudiArabia",
-    "#Yemen",
-    "#WorldNews"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "The Guardian"
-   ],
-   "link": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss",
-   "links": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Riyadh%2C_Saudi_Arabia._Qa%E1%B9%A3r_al-Badi%27ah%2C_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Shirazibustan / Wikimedia Commons (CC0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Saudi Arabia dismisses coalition commander amid military repositioning in Yemen",
-    "people": [],
-    "image_query": "Riyadh city skyline",
-    "image_queries": [
-     "Bab al-Mandab strait",
-     "Aden port city",
-     "Taiz city Yemen",
-     "Marib Yemen"
-    ],
-    "image_style": "scene",
-    "location": "Riyadh, Saudi Arabia",
-    "nearby_city": "Riyadh, Saudi Arabia",
-    "event_query": "Yemen military coalition repositioning",
-    "topic_photo": "military map",
-    "label": "CONFLICT",
-    "news_time": "2026-11-16T19:04:07+00:00"
-   },
-   "created_at": "2026-11-16T20:45:56.344201+00:00",
-   "news_time": "2026-11-16T19:04:07+00:00",
-   "news_latest": "2026-11-16T19:19:21+00:00",
-   "importance": 7,
-   "caption": "Saudi Arabia dismisses coalition commander amid military repositioning in Yemen\n\nSaudi Arabia dismissed the commander of coalition forces fighting the Houthis. Government forces withdrew from parts of the Red Sea coast, Marib, and the Bab al-Mandab strait, which the Saudi-backed government says aims to protect Aden and relieve the siege of Taiz.\n\n💬 Will these military repositionings help protect Aden and relieve the siege of Taiz?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#SaudiArabia #Yemen #WorldNews #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 669,
-   "tg_file_id": "AgACAgUAAxkDAAICnWr7a4auChJkF41EBFtOH9iKJEDmAAJLE2sbg6zgV3DWHU-Zy90TAQADAgADdwADPQQ",
-   "queued_at": "2026-11-16T20:45:58.464427+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-16T20:45:58.464473+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122103702927548584",
-   "posted_at": "2026-11-16T20:45:58.774979+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 16 · 3:46 PM New York · 2:16 AM Sri Lanka\n\n<b>Saudi Arabia dismisses coalition commander amid military repositioning in Yemen</b>\n<i>Al Jazeera, The Guardian</i>\n🟡 <b>Latest:</b> 12:49 AM Sri Lanka (1h 26m ago) · first reported 12:34 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122103702927548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 444,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122103702927548584_1693422509169996",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-19T20:30:53.619251+00:00"
-  },
   "768e34cdff": {
    "id": "768e34cdff",
    "headline": "Customers report widespread outages at multiple US banks",
@@ -12787,33 +12698,12 @@
   "https://www.upi.com/Top_News/US/2026/11/20/appeals-court-denies-lamonica-mciver-full-panel-review-delaney-hall/5931795185830/",
   "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
   "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss",
-  "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+  "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+  "https://www.washingtonexaminer.com/news/senate/4810383/tillis-losapio-trump-cybersecurity-nomination-jan-6/",
+  "https://thehill.com/homenews/senate/6233790-tillis-blocks-cisa-nominee/",
+  "https://thehill.com/homenews/senate/6233748-senate-undecided-eric-ualand-gao/"
  ],
  "recent_topics": [
-  [
-   "2026-11-17T20:48:07.798464+00:00",
-   [
-    "asid",
-    "brush",
-    "calm",
-    "concern",
-    "hous",
-    "karolin",
-    "leavitt",
-    "loss",
-    "midterm",
-    "outag",
-    "plann",
-    "project",
-    "renovation",
-    "seeth",
-    "temperatur",
-    "trump",
-    "urg",
-    "whit"
-   ],
-   "skipped"
-  ],
   [
    "2026-11-17T21:47:44.925370+00:00",
    [
@@ -16239,19 +16129,37 @@
     "wider"
    ],
    "7abcb9e67a"
+  ],
+  [
+   "2026-11-20T20:45:49.152296+00:00",
+   [
+    "acknowledg",
+    "attack",
+    "block",
+    "cybersecurity",
+    "denial",
+    "hold",
+    "jan",
+    "nomination",
+    "nomine",
+    "outag",
+    "post",
+    "refus",
+    "tilli",
+    "trump",
+    "watchdog",
+    "wav"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-20T20:30:49.159208+00:00",
+ "last_draft_at": "2026-11-20T20:45:38.968554+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T20:00:50.990894+00:00",
  "run_log": [
-  "11-20 18:30:56 run start",
-  "11-20 18:33:51 listening 9 min",
-  "11-20 18:42:38 listening done",
-  "11-20 18:42:38 run end after 701 s",
   "11-20 18:45:44 run start",
   "11-20 18:47:38 listening 10 min",
   "11-20 18:57:16 listening done",
@@ -16287,7 +16195,11 @@
   "11-20 20:30:48 run start",
   "11-20 20:31:45 listening 11 min",
   "11-20 20:42:14 listening done",
-  "11-20 20:42:14 run end after 685 s"
+  "11-20 20:42:14 run end after 685 s",
+  "11-20 20:45:38 run start",
+  "11-20 20:45:49 listening 11 min",
+  "11-20 20:57:07 listening done",
+  "11-20 20:57:07 run end after 689 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
