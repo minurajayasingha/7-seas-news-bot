@@ -1,98 +1,6 @@
 {
  "tg_offset": 495893087,
  "drafts": {
-  "3e8f4b649f": {
-   "id": "3e8f4b649f",
-   "headline": "US flights return to normal after weekend of travel disruption",
-   "summary": "US airlines experienced widespread disruption after a technical failure and router shutdown caused a nationwide ground stop. Airports slowly returned to normal operation as flights resumed.",
-   "label": "WORLD",
-   "hook": "Have your travel plans been affected by recent airline disruptions?",
-   "key_points": [
-    "Every US airline was affected by the Friday ground stop.",
-    "A single router in Arkansas shut down the skies.",
-    "Stranded passengers waited in chaotic airports over the weekend."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USFlights",
-    "#TravelChaos",
-    "#Aviation"
-   ],
-   "sources": [
-    "BBC",
-    "Euronews",
-    "The Independent"
-   ],
-   "link": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
-   "links": [
-    [
-     "BBC",
-     "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/faa-flight-disruptions-arkansas-router-b3085759.html"
-    ],
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/16/us-airports-slowly-return-to-normal-after-three-days-of-disruption-caused-by-take-off-ban"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/US-Bangla_Airlines_Aircraft_at_Domestic_Terminal_of_Airport_Dhaka.jpg/1920px-US-Bangla_Airlines_Aircraft_at_Domestic_Terminal_of_Airport_Dhaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Cayambe / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "US flights return to normal after weekend of travel disruption",
-    "people": [],
-    "image_query": "US airport terminal",
-    "image_queries": [
-     "airline boarding gate",
-     "airport check in counter",
-     "passenger waiting area",
-     "airplane on tarmac"
-    ],
-    "image_style": "scene",
-    "location": "US",
-    "nearby_city": "Washington, DC",
-    "event_query": "US flight disruption",
-    "news_time": null,
-    "label": "WORLD"
-   },
-   "created_at": "2026-11-16T17:46:15.140918+00:00",
-   "news_time": "2026-11-16T12:11:16+00:00",
-   "news_latest": "2026-11-16T17:34:22+00:00",
-   "caption": "US flights return to normal after weekend of travel disruption\n\nUS airlines experienced widespread disruption after a technical failure and router shutdown caused a nationwide ground stop. Airports slowly returned to normal operation as flights resumed.\n\n💬 Have your travel plans been affected by recent airline disruptions?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USFlights #TravelChaos #Aviation #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 659,
-   "tg_file_id": "AgACAgUAAxkDAAICk2r7QWm3x2qRa6TWZgqk4rA1TyYOAAIZGGsbg6zYV3O_cjLMw3v3AQADAgADdwADPQQ",
-   "queued_at": "2026-11-16T17:46:18.196336+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-16T17:46:18.196356+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122103572475548584",
-   "posted_at": "2026-11-16T17:46:18.533500+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 16 · 12:46 PM New York · 11:16 PM Sri Lanka\n\n<b>US flights return to normal after weekend of travel disruption</b>\n<i>BBC, Euronews, The Independent</i>\n🟢 <b>Latest:</b> 11:04 PM Sri Lanka (12 min ago) · first reported 5:41 PM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122103572475548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 434,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122103572475548584_961492796771212",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-19T17:30:48.903641+00:00"
-  },
   "47b9ab7870": {
    "id": "47b9ab7870",
    "headline": "Kim Jong Un alters North Korea flag during constitutional changes",
@@ -11123,6 +11031,95 @@
     "shares": 0
    },
    "stats_at": "2026-11-20T16:51:40.162708+00:00"
+  },
+  "da2d74bebf": {
+   "id": "da2d74bebf",
+   "headline": "Judge blocks Donald Trump proposed triumphal arch in Virginia",
+   "summary": "A federal judge in Virginia said she will issue a preliminary injunction to block construction of Donald Trump's proposed triumphal arch. Judge Leonie Brinkema called the project a rushed job that lacks a legal basis, citing airport safety concerns.",
+   "label": "US POLITICS",
+   "hook": "Should courts have the authority to block projects like this?",
+   "key_points": [
+    "The proposed arch would sit 3,000 feet from Reagan National Airport.",
+    "The decision was announced during a Friday hearing in Alexandria, Virginia."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#DonaldTrump",
+    "#Virginia"
+   ],
+   "sources": [
+    "The Guardian",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/americas/trump-arch-dc-triumphal-rush-job-b3088885.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/trump-arch-dc-triumphal-rush-job-b3088885.html"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/2026/nov/20/trump-arch-blocked-judge"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_02.jpg/1920px-A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Harrison Keely / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 7,
+      "shows": "a courtroom interior"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "Judge blocks Donald Trump proposed triumphal arch in Virginia",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "Alexandria federal courthouse",
+    "image_queries": [
+     "Reagan National Airport",
+     "Alexandria Virginia street",
+     "federal courtroom",
+     "Washington DC skyline"
+    ],
+    "image_style": "scene",
+    "location": "Alexandria, United States",
+    "nearby_city": "Washington, D.C.",
+    "event_query": "court hearing Virginia",
+    "topic_photo": "judge gavel",
+    "label": "US POLITICS",
+    "action_subject": "courtroom",
+    "news_time": "2026-11-20T16:32:32+00:00"
+   },
+   "created_at": "2026-11-20T17:39:37.774044+00:00",
+   "news_time": "2026-11-20T16:32:32+00:00",
+   "news_latest": "2026-11-20T17:27:09+00:00",
+   "importance": 6,
+   "caption": "Judge blocks Donald Trump proposed triumphal arch in Virginia\n\nA federal judge in Virginia said she will issue a preliminary injunction to block construction of Donald Trump's proposed triumphal arch. Judge Leonie Brinkema called the project a rushed job that lacks a legal basis, citing airport safety concerns.\n\n💬 Should courts have the authority to block projects like this?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #DonaldTrump #Virginia #7SeasNews",
+   "photo_line": "📷 7/10 a courtroom interior · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 868,
+   "tg_file_id": "AgACAgUAAxkDAAIDZGsAAYXi68oLhuJT1HVPt0S0A63dFQAClRNrG_07CFSRGZXXKPus-gEAAwIAA3cAAz0E",
+   "queued_at": "2026-11-20T17:39:47.193324+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-20T17:39:47.193345+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122107721481548584",
+   "posted_at": "2026-11-20T17:39:56.056689+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 20 · 12:40 PM New York · 11:10 PM Sri Lanka\n\n<b>Judge blocks Donald Trump proposed triumphal arch in Virginia</b>\n<i>The Guardian, The Independent</i>\n🟢 <b>Latest:</b> 10:57 PM Sri Lanka (12 min ago) · first reported 10:02 PM\n📷 7/10 a courtroom interior · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122107721481548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 575,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122107721481548584_1819695355905677"
   }
  },
  "seen_links": [
@@ -12907,32 +12904,15 @@
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4809995/fetterman-considers-reelection-bid-as-he-fundraises/",
   "https://thehill.com/homenews/senate/6233243-boyle-predicts-fetterman-primary-loss/",
   "https://www.theguardian.com/film/2026/nov/20/gerard-depardieu-michel-houellebecq-investigated-allegations",
-  "https://www.france24.com/en/france/20261120-france-investigates-gerard-depardieu-writer-houellebecq-over-alleged-gang-rape"
+  "https://www.france24.com/en/france/20261120-france-investigates-gerard-depardieu-writer-houellebecq-over-alleged-gang-rape",
+  "https://thehill.com/policy/energy-environment/6233476-iowa-ammunition-plant-lead-suit/",
+  "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
+  "https://www.independent.co.uk/news/world/americas/trump-arch-dc-triumphal-rush-job-b3088885.html",
+  "https://www.theguardian.com/us-news/2026/nov/20/trump-arch-blocked-judge",
+  "https://www.nytimes.com/2026/11/20/arts/television/melania-the-series-takeaways.html",
+  "https://www.independent.co.uk/news/world/europe/melania-trump-donald-trump-new-york-brett-ratner-kellyanne-conway-b3088718.html"
  ],
  "recent_topics": [
-  [
-   "2026-11-17T17:25:31.993495+00:00",
-   [
-    "asid",
-    "brush",
-    "cair",
-    "chief",
-    "civil",
-    "concern",
-    "defend",
-    "division",
-    "doj",
-    "group",
-    "lif",
-    "outag",
-    "rais",
-    "right",
-    "smear",
-    "trump",
-    "work"
-   ],
-   "skipped"
-  ],
   [
    "2026-11-17T17:49:59.081330+00:00",
    [
@@ -16486,19 +16466,75 @@
     "writer"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-20T17:38:56.818208+00:00",
+   [
+    "aim",
+    "ammunition",
+    "army",
+    "azid",
+    "block",
+    "delay",
+    "dem",
+    "detonation",
+    "environmental",
+    "fund",
+    "group",
+    "iowa",
+    "iran",
+    "lead",
+    "plant",
+    "sue",
+    "war"
+   ],
+   "skipped"
+  ],
+  [
+   "2026-11-20T17:39:47.193182+00:00",
+   [
+    "airport",
+    "arch",
+    "block",
+    "concern",
+    "construction",
+    "donald",
+    "job",
+    "judg",
+    "propos",
+    "rush",
+    "safety",
+    "triumphal",
+    "trump"
+   ],
+   "da2d74bebf"
+  ],
+  [
+   "2026-11-20T17:39:56.056671+00:00",
+   [
+    "coda",
+    "film",
+    "giv",
+    "insid",
+    "lady",
+    "marriag",
+    "melania",
+    "motherhood",
+    "peek",
+    "sery",
+    "takeaway",
+    "trump"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-20T17:04:52.200174+00:00",
+ "last_draft_at": "2026-11-20T17:38:11.768906+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-20T16:51:40.162708+00:00",
  "run_log": [
-  "11-20 14:15:39 run start",
-  "11-20 14:16:42 listening 10 min",
-  "11-20 14:27:10 listening done",
-  "11-20 14:27:10 run end after 690 s",
   "11-20 14:30:51 run start",
   "11-20 14:31:01 listening 11 min",
   "11-20 14:42:20 listening done",
@@ -16534,12 +16570,15 @@
   "11-20 17:04:51 run start",
   "11-20 17:07:10 listening 9 min",
   "11-20 17:16:24 listening done",
-  "11-20 17:16:24 run end after 693 s"
+  "11-20 17:16:24 run end after 693 s",
+  "11-20 17:38:11 run start",
+  "11-20 17:40:13 listening 9 min",
+  "11-20 17:49:51 listening done",
+  "11-20 17:49:51 run end after 700 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Danish_flag_at_stern_of_ship_Gunnar_Thorson.jpg/1920px-Danish_flag_at_stern_of_ship_Gunnar_Thorson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Skyline_downtown_Des_Moines.jpg/1920px-Skyline_downtown_Des_Moines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/1/1c/Vladimir_Putin_%282026_02_23%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -16578,7 +16617,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Zohran_Mamdani.jpg/1280px-Zohran_Mamdani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/DSC00714_Iveco_LMV_MedEvac_Ambulance%2C_Esercito_Italiano%2C_Front_Left.jpg/1920px-DSC00714_Iveco_LMV_MedEvac_Ambulance%2C_Esercito_Italiano%2C_Front_Left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Tallinn_Cityscape_%2843174892144%29.jpg/1920px-Tallinn_Cityscape_%2843174892144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Decommissioned_jet_fighter_%2823449021489%29.jpg/1920px-Decommissioned_jet_fighter_%2823449021489%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Decommissioned_jet_fighter_%2823449021489%29.jpg/1920px-Decommissioned_jet_fighter_%2823449021489%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_02.jpg/1920px-A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "sviatlana tsikhanouskaya": {
@@ -19973,7 +20013,6 @@
    }
   },
   "recent_ideas": [
-   "united states capitol rotunda",
    "judge gavel",
    "european commission building",
    "shenzhen skyline",
@@ -19984,7 +20023,8 @@
    "horse-drawn carriage",
    "ambulance",
    "tallinn cityscape",
-   "fighter jet"
+   "fighter jet",
+   "courtroom"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -21236,6 +21276,21 @@
     "s": 6,
     "w": "fighter jet in hangar",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/The_Clay_County_Courthouse_courtroom_in_2007.jpg/1920px-The_Clay_County_Courthouse_courtroom_in_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|c5d86ff8": {
+    "s": 6,
+    "w": "empty courtroom",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_02.jpg/1920px-A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|c5d86ff8": {
+    "s": 7,
+    "w": "a courtroom interior",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg/1920px-Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|c5d86ff8": {
+    "s": 7,
+    "w": "the US Supreme Court",
+    "p": ""
    }
   }
  },
@@ -21247,10 +21302,10 @@
   "2026-11-17": 35,
   "2026-11-18": 22,
   "2026-11-19": 30,
-  "2026-11-20": 14
+  "2026-11-20": 15
  },
- "last_auto_at": "2026-11-20T15:02:06.559740+00:00",
- "last_post_at": "2026-11-20T15:02:12.634540+00:00",
+ "last_auto_at": "2026-11-20T17:39:56.056689+00:00",
+ "last_post_at": "2026-11-20T17:40:02.137164+00:00",
  "reels_count": {
   "2026-11-14": 8,
   "2026-11-15": 8,
