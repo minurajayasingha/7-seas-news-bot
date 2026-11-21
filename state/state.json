@@ -1,99 +1,6 @@
 {
  "tg_offset": 495893091,
  "drafts": {
-  "ae54e42c45": {
-   "id": "ae54e42c45",
-   "headline": "Gas prices drop following the 2026 midterm elections",
-   "summary": "National average gas prices decreased following the 2026 midterm elections. Industry analyst Patrick De Haan stated that President Donald Trump could have ended hostilities with Iran far earlier to prevent prolonged consumer strain.",
-   "label": "ECONOMY",
-   "hook": "Could these gas price drops have happened sooner if hostilities ended earlier?",
-   "key_points": [
-    "Gas prices are currently plummeting nationally.",
-    "Trump previously predicted that gas prices would drop after the election."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#GasPrices",
-    "#Economy",
-    "#USPolitics"
-   ],
-   "sources": [
-    "The Independent",
-    "Washington Examiner"
-   ],
-   "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-iran-gas-prices-fall-b3086375.html",
-   "links": [
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/us-politics/trump-iran-gas-prices-fall-b3086375.html"
-    ],
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/opinion/4805660/trump-right-gas-prices-drop-2026-elections/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Race_Trac_gas_pump_Louisiana_14_May_2025.jpg/1920px-Race_Trac_gas_pump_Louisiana_14_May_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Infrogmation / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 10,
-      "shows": "gas station fuel pumps"
-     }
-    ],
-    "file_photo": true
-   },
-   "img_post": {
-    "headline": "Gas prices drop following the 2026 midterm elections",
-    "people": [],
-    "image_query": "gas station price sign",
-    "image_queries": [
-     "gas station",
-     "oil refinery",
-     "US Capitol building",
-     "traffic on highway"
-    ],
-    "image_style": "scene",
-    "location": "US",
-    "nearby_city": "Washington, DC",
-    "event_query": "",
-    "topic_photo": "gas station",
-    "label": "ECONOMY",
-    "action_subject": "gas station fuel pumps",
-    "news_time": "2026-11-17T13:21:02+00:00"
-   },
-   "created_at": "2026-11-17T14:01:26.292484+00:00",
-   "news_time": "2026-11-17T13:21:02+00:00",
-   "news_latest": "2026-11-17T13:55:57+00:00",
-   "importance": 6,
-   "caption": "Gas prices drop following the 2026 midterm elections\n\nNational average gas prices decreased following the 2026 midterm elections. Industry analyst Patrick De Haan stated that President Donald Trump could have ended hostilities with Iran far earlier to prevent prolonged consumer strain.\n\n💬 Could these gas price drops have happened sooner if hostilities ended earlier?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#GasPrices #Economy #USPolitics #7SeasNews",
-   "photo_line": "📷 10/10 gas station fuel pumps · FILE PHOTO",
-   "status": "posted",
-   "tg_message_id": 719,
-   "tg_file_id": "AgACAgUAAxkDAAICz2r8XkWO70BHIPAdh_G33zFQ51tLAAIIFGsbguzoV6Mbh90XW6QTAQADAgADdwADPQQ",
-   "queued_at": "2026-11-17T14:01:41.734477+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-17T14:01:41.734502+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122104409655548584",
-   "posted_at": "2026-11-17T14:01:50.227743+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 17 · 9:01 AM New York · 7:31 PM Sri Lanka\n\n<b>Gas prices drop following the 2026 midterm elections</b>\n<i>The Independent, Washington Examiner</i>\n🟢 <b>Latest:</b> 7:25 PM Sri Lanka (5 min ago) · first reported 6:51 PM\n📷 10/10 gas station fuel pumps · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122104409655548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 463,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122104409655548584_1802512484880140",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-20T13:50:19.733944+00:00"
-  },
   "f53bf1b32d": {
    "id": "f53bf1b32d",
    "headline": "Federal judge blocks Trump administration student visa rule",
@@ -16055,17 +15962,13 @@
    "623ed4ea30"
   ]
  ],
- "last_draft_at": "2026-11-21T13:45:54.283214+00:00",
+ "last_draft_at": "2026-11-21T14:00:48.683149+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T13:30:50.006547+00:00",
  "run_log": [
-  "11-21 11:30:50 run start",
-  "11-21 11:34:11 listening 8 min",
-  "11-21 11:42:35 listening done",
-  "11-21 11:42:35 run end after 704 s",
   "11-21 11:45:40 run start",
   "11-21 11:46:13 listening 11 min",
   "11-21 11:57:06 listening done",
@@ -16101,7 +16004,11 @@
   "11-21 13:45:53 run start",
   "11-21 13:46:03 listening 11 min",
   "11-21 13:57:21 listening done",
-  "11-21 13:57:21 run end after 687 s"
+  "11-21 13:57:21 run end after 687 s",
+  "11-21 14:00:48 run start",
+  "11-21 14:01:21 listening 11 min",
+  "11-21 14:12:13 listening done",
+  "11-21 14:12:13 run end after 685 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
