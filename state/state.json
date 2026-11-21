@@ -1,193 +1,6 @@
 {
  "tg_offset": 495893091,
  "drafts": {
-  "be90c4546d": {
-   "id": "be90c4546d",
-   "headline": "UK pledges over one thousand short-range missiles for Ukraine",
-   "summary": "The United Kingdom announces it will send over 1,000 short-range missiles to Ukraine. The funding is part of a 500 million pound military package announced in the government's budget.",
-   "label": "CONFLICT",
-   "hook": "Will these new air defense supplies help protect Ukraine through the winter?",
-   "key_points": [
-    "Support aims to address urgent air defense gaps.",
-    "Package announced in the UK government budget."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#UK",
-    "#Ukraine",
-    "#MilitaryAid"
-   ],
-   "sources": [
-    "Kyiv Independent",
-    "The Independent"
-   ],
-   "link": "https://www.independent.co.uk/news/uk/politics/uk-ukraine-missiles-russia-winter-b3086602.html",
-   "links": [
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/uk/politics/uk-ukraine-missiles-russia-winter-b3086602.html"
-    ],
-    [
-     "Kyiv Independent",
-     "https://kyivindependent.com/uk-pledges-over-1-000-short-range-missiles-for-ukraine-in-240-million-pound-air-defense-package-2/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Antelope_Air_Defense_System_Display_at_Tainan_Air_Froce_Base_Apron_20130810.jpg/1920px-Antelope_Air_Defense_System_Display_at_Tainan_Air_Froce_Base_Apron_20130810.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "玄史生 / Wikimedia Commons (CC0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 9,
-      "shows": "air defense missile system truck"
-     }
-    ],
-    "file_photo": true
-   },
-   "img_post": {
-    "headline": "UK pledges over one thousand short-range missiles for Ukraine",
-    "people": [],
-    "image_query": "UK parliament building",
-    "image_queries": [
-     "Big Ben London",
-     "Downing Street London",
-     "Kyiv cityscape",
-     "military equipment"
-    ],
-    "image_style": "scene",
-    "location": "London, United Kingdom",
-    "nearby_city": "London, United Kingdom",
-    "event_query": "",
-    "topic_photo": "missiles",
-    "label": "CONFLICT",
-    "action_subject": "missile",
-    "news_time": "2026-11-17T16:21:09+00:00"
-   },
-   "created_at": "2026-11-17T17:13:21.400480+00:00",
-   "news_time": "2026-11-17T16:21:09+00:00",
-   "news_latest": "2026-11-17T17:01:10+00:00",
-   "importance": 7,
-   "caption": "UK pledges over one thousand short-range missiles for Ukraine\n\nThe United Kingdom announces it will send over 1,000 short-range missiles to Ukraine. The funding is part of a 500 million pound military package announced in the government's budget.\n\n💬 Will these new air defense supplies help protect Ukraine through the winter?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#UK #Ukraine #MilitaryAid #7SeasNews",
-   "photo_line": "📷 9/10 air defense missile system truck · FILE PHOTO",
-   "status": "posted",
-   "tg_message_id": 753,
-   "tg_file_id": "AgACAgUAAxkDAAIC8Wr8i0qci-QXBHKq6KRv5O38qJhvAAI_FGsbguzoVzKWdTgd00WMAQADAgADdwADPQQ",
-   "queued_at": "2026-11-17T17:13:46.398058+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-17T17:13:46.398097+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122104548153548584",
-   "posted_at": "2026-11-17T17:14:17.381749+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 17 · 12:14 PM New York · 10:44 PM Sri Lanka\n\n<b>UK pledges over one thousand short-range missiles for Ukraine</b>\n<i>Kyiv Independent, The Independent</i>\n🟢 <b>Latest:</b> 10:31 PM Sri Lanka (13 min ago) · first reported 9:51 PM\n📷 9/10 air defense missile system truck · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122104548153548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 468,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122104548153548584_1134869959298680",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-20T16:51:40.162708+00:00"
-  },
-  "b852e402bf": {
-   "id": "b852e402bf",
-   "headline": "Iran targets US radar facility in Bahrain with drones",
-   "summary": "Iran launched multiple one-way attack drones toward a U.S. radar facility in Bahrain. According to U.S. Central Command, the drones were intercepted without causing damage to equipment or injuries to personnel.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "The attack follows a two-month pause in strikes.",
-    "The IRGC claims it struck a radar system at Sheikh Isa base.",
-    "The base is home to the U.S. Fifth Fleet."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Iran",
-    "#Bahrain",
-    "#USMilitary"
-   ],
-   "sources": [
-    "Fox News",
-    "The Hill"
-   ],
-   "link": "https://thehill.com/policy/defense/6225047-iran-bahrain-us-base-strikes/",
-   "links": [
-    [
-     "The Hill",
-     "https://thehill.com/policy/defense/6225047-iran-bahrain-us-base-strikes/"
-    ],
-    [
-     "Fox News",
-     "https://www.foxnews.com/world/bahrain-intercepts-iranian-drones-targeting-us-radar-after-2-month-lull-gulf-strikes"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Chief_of_Defence_Staff_Visits_Barbuda_Radar_Facility_%282%29.jpg/1920px-Chief_of_Defence_Staff_Visits_Barbuda_Radar_Facility_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Government of Antigua and Barbuda / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 8,
-      "shows": "soldiers inspecting a radar facility"
-     }
-    ],
-    "file_photo": true
-   },
-   "img_post": {
-    "headline": "Iran targets US radar facility in Bahrain with drones",
-    "people": [],
-    "image_query": "Bahrain military base",
-    "image_queries": [
-     "US Fifth Fleet Bahrain",
-     "Manama skyline",
-     "radar installation",
-     "military radar station"
-    ],
-    "image_style": "incident",
-    "location": "Bahrain",
-    "nearby_city": "Manama, Bahrain",
-    "event_query": "Bahrain drone interception",
-    "topic_photo": "radar station",
-    "label": "CONFLICT",
-    "action_subject": "military radar facility",
-    "news_time": "2026-11-17T12:42:29+00:00"
-   },
-   "created_at": "2026-11-17T17:14:04.179723+00:00",
-   "news_time": "2026-11-17T12:42:29+00:00",
-   "news_latest": "2026-11-17T15:33:17+00:00",
-   "importance": 9,
-   "caption": "Iran targets US radar facility in Bahrain with drones\n\nIran launched multiple one-way attack drones toward a U.S. radar facility in Bahrain. According to U.S. Central Command, the drones were intercepted without causing damage to equipment or injuries to personnel.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Iran #Bahrain #USMilitary #7SeasNews",
-   "photo_line": "📷 8/10 soldiers inspecting a radar facility · FILE PHOTO",
-   "status": "posted",
-   "tg_message_id": 754,
-   "tg_file_id": "AgACAgUAAxkDAAIC8mr8i2j29RRKvJS_nHQpkev4qt05AAJAFGsbguzoV5uyu9OFwcpdAQADAgADdwADPQQ",
-   "queued_at": "2026-11-17T17:14:17.066839+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-17T17:14:17.066873+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122104548363548584",
-   "posted_at": "2026-11-17T17:14:17.381749+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 17 · 12:15 PM New York · 10:45 PM Sri Lanka\n\n<b>Iran targets US radar facility in Bahrain with drones</b>\n<i>Fox News, The Hill</i>\n🟡 <b>Latest:</b> 9:03 PM Sri Lanka (1h 42m ago) · first reported 6:12 PM\n📷 8/10 soldiers inspecting a radar facility · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122104548363548584\">Open on Facebook</a>\n\n⚠️ <i>Looks like an earlier post: “Iran launches drone attacks against US military base in Bahrain”. Tap 🗑 Delete if it's the same news.</i>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 469,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122104548363548584_1907049803818545",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-20T16:51:40.162708+00:00"
-  },
   "affca0a648": {
    "id": "affca0a648",
    "headline": "Pope Leo comments on Catholic priest celibacy rules",
@@ -12539,48 +12352,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-18T17:14:21.103089+00:00",
-   [
-    "auto",
-    "blam",
-    "call",
-    "concha",
-    "critic",
-    "deserv",
-    "employe",
-    "friend",
-    "grand",
-    "joe",
-    "masterpiec",
-    "mia",
-    "permanent",
-    "play",
-    "theft",
-    "vacation",
-    "wonder",
-    "your"
-   ],
-   "skipped"
-  ],
-  [
-   "2026-11-18T17:14:30.503458+00:00",
-   [
-    "among",
-    "challeng",
-    "class",
-    "democrat",
-    "division",
-    "expos",
-    "find",
-    "leadership",
-    "power",
-    "senat",
-    "struggl",
-    "won"
-   ],
-   "skipped"
-  ],
-  [
    "2026-11-18T17:45:21.737759+00:00",
    [
     "air",
@@ -15767,17 +15538,13 @@
    "15d681d80b"
   ]
  ],
- "last_draft_at": "2026-11-21T17:01:24.030011+00:00",
+ "last_draft_at": "2026-11-21T17:16:02.148290+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T16:31:46.242317+00:00",
  "run_log": [
-  "11-21 15:01:15 run start",
-  "11-21 15:01:17 listening 11 min",
-  "11-21 15:13:02 listening done",
-  "11-21 15:13:02 run end after 707 s",
   "11-21 15:15:40 run start",
   "11-21 15:16:01 listening 11 min",
   "11-21 15:27:22 listening done",
@@ -15813,7 +15580,11 @@
   "11-21 17:01:22 run start",
   "11-21 17:02:10 listening 11 min",
   "11-21 17:13:05 listening done",
-  "11-21 17:13:05 run end after 702 s"
+  "11-21 17:13:05 run end after 702 s",
+  "11-21 17:16:01 run start",
+  "11-21 17:16:03 listening 11 min",
+  "11-21 17:27:46 listening done",
+  "11-21 17:27:46 run end after 704 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
