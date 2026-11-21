@@ -10648,6 +10648,97 @@
     "shares": 0
    },
    "stats_at": "2026-11-21T15:30:45.012061+00:00"
+  },
+  "29f6300d91": {
+   "id": "29f6300d91",
+   "headline": "Tom Cotton says Howard Lutnick ignored chip sale warnings",
+   "summary": "Sen. Tom Cotton stated that Commerce Secretary Howard Lutnick repeatedly ignored his warnings about U.S. AI chips being smuggled into China. The claims follow reports regarding former Nvidia CEO Jensen Huang and scrutiny over Chinese access to advanced American technology.",
+   "label": "US POLITICS",
+   "hook": "Should commerce officials respond directly to congressional warnings about technology exports?",
+   "key_points": [
+    "Tom Cotton wrote many letters warning about chip sales to China.",
+    "Jensen Huang resigned following an affair with a suspected spy.",
+    "Ramy Inocencio traveled to Southeast Asia to investigate chip usage."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#TechPolicy",
+    "#CommerceDepartment"
+   ],
+   "sources": [
+    "CBS News",
+    "The Hill"
+   ],
+   "link": "https://www.cbsnews.com/video/how-china-gets-access-to-american-ai-chips/",
+   "links": [
+    [
+     "CBS News",
+     "https://www.cbsnews.com/video/how-china-gets-access-to-american-ai-chips/"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/policy/technology/6235143-senator-warned-commerce-lutnick-nvidia-chips/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/286_AT_motherboard.jpg/1920px-286_AT_motherboard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Mister rf / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 9,
+      "shows": "motherboard with processor chips"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "Tom Cotton says Howard Lutnick ignored chip sale warnings",
+    "people": [
+     "Tom Cotton",
+     "Howard Lutnick"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "Department of Commerce building",
+     "computer processor chips"
+    ],
+    "image_style": "person",
+    "location": "Washington, DC, United States",
+    "nearby_city": "Washington, DC",
+    "event_query": "",
+    "topic_photo": "computer processor",
+    "label": "US POLITICS",
+    "action_subject": "computer processor chips",
+    "news_time": "2026-11-21T14:51:28+00:00"
+   },
+   "created_at": "2026-11-21T15:55:54.730192+00:00",
+   "news_time": "2026-11-21T14:51:28+00:00",
+   "news_latest": "2026-11-21T15:35:23+00:00",
+   "importance": 6,
+   "caption": "Tom Cotton says Howard Lutnick ignored chip sale warnings\n\nSen. Tom Cotton stated that Commerce Secretary Howard Lutnick repeatedly ignored his warnings about U.S. AI chips being smuggled into China. The claims follow reports regarding former Nvidia CEO Jensen Huang and scrutiny over Chinese access to advanced American technology.\n\n💬 Should commerce officials respond directly to congressional warnings about technology exports?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #TechPolicy #CommerceDepartment #7SeasNews",
+   "photo_line": "📷 9/10 motherboard with processor chips · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 895,
+   "tg_file_id": "AgACAgUAAxkDAAIDf2sBvw3UzoV4cW4zHaTaw22_GQABvwACZhZrG_07EFSaDQqHoUwAAZYBAAMCAAN3AAM9BA",
+   "queued_at": "2026-11-21T15:55:57.508979+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-21T15:55:57.509018+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122108603031548584",
+   "posted_at": "2026-11-21T15:57:35.942851+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 21 · 10:57 AM New York · 9:27 PM Sri Lanka\n\n<b>Tom Cotton says Howard Lutnick ignored chip sale warnings</b>\n<i>CBS News, The Hill</i>\n🟢 <b>Latest:</b> 9:05 PM Sri Lanka (22 min ago) · first reported 8:21 PM\n📷 9/10 motherboard with processor chips · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122108603031548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 603,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122108603031548584_29047769584892567"
   }
  },
  "seen_links": [
@@ -12534,7 +12625,11 @@
   "https://abcnews.com/Politics/wireStory/democrats-swept-senate-promised-change-leadership-vote-testing-138342385",
   "https://www.theguardian.com/us-news/2026/nov/21/senate-democrats-chuck-schumer-chris-van-hollen",
   "https://www.independent.co.uk/news/world/americas/us-politics/stewart-rhodes-trump-oath-keepers-founder-jan-6-b3089169.html",
-  "https://abcnews.com/Politics/wireStory/oath-keepers-founder-jan-6-leader-stewart-rhodes-138341388"
+  "https://abcnews.com/Politics/wireStory/oath-keepers-founder-jan-6-leader-stewart-rhodes-138341388",
+  "https://www.cbsnews.com/video/how-china-gets-access-to-american-ai-chips/",
+  "https://thehill.com/policy/technology/6235143-senator-warned-commerce-lutnick-nvidia-chips/",
+  "https://thehill.com/homenews/administration/6235181-trump-executive-privilege-congress-investigations-order/",
+  "https://www.washingtonpost.com/politics/2026/11/21/trump-white-house-orders-contractors-limit-information-shared-with-congress/"
  ],
  "recent_topics": [
   [
@@ -15811,19 +15906,34 @@
     "trump"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-21T15:55:57.508807+00:00",
+   [
+    "access",
+    "american",
+    "china",
+    "chip",
+    "claim",
+    "cotton",
+    "get",
+    "ignor",
+    "letter",
+    "lutnick",
+    "many",
+    "sal",
+    "warn"
+   ],
+   "29f6300d91"
   ]
  ],
- "last_draft_at": "2026-11-21T15:43:16.851294+00:00",
+ "last_draft_at": "2026-11-21T15:55:27.882970+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T15:30:45.012061+00:00",
  "run_log": [
-  "11-21 13:30:49 run start",
-  "11-21 13:32:08 listening 10 min",
-  "11-21 13:42:37 listening done",
-  "11-21 13:42:37 run end after 707 s",
   "11-21 13:45:53 run start",
   "11-21 13:46:03 listening 11 min",
   "11-21 13:57:21 listening done",
@@ -15859,12 +15969,15 @@
   "11-21 15:43:16 run start",
   "11-21 15:43:17 listening 11 min",
   "11-21 15:55:00 listening done",
-  "11-21 15:55:00 run end after 704 s"
+  "11-21 15:55:00 run end after 704 s",
+  "11-21 15:55:27 run start",
+  "11-21 15:57:51 listening 9 min",
+  "11-21 16:07:04 listening done",
+  "11-21 16:07:04 run end after 696 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/0/02/Berlin_Skyline_Fernsehturm_02.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Tourists_in_the_rotunda%2C_United_States_Capitol%2C_Washington%2C_D.C.%2C_2007.jpg/1920px-Tourists_in_the_rotunda%2C_United_States_Capitol%2C_Washington%2C_D.C.%2C_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg/1920px-Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Houston%2C_Texas_Skyline_2017.jpg/1920px-Houston%2C_Texas_Skyline_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -15903,7 +16016,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Fausto_Isidro_Meza-Flores_Top_Ten_Wanted_Poster_%28cropped%29.svg/1280px-Fausto_Isidro_Meza-Flores_Top_Ten_Wanted_Poster_%28cropped%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/f/f9/Headshot_Lewis_Pugh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Data_center_roof.jpg/1920px-Data_center_roof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Kalustoesittely_itsen%C3%A4isyysp%C3%A4iv%C3%A4_2015_29_maalilennokki.JPG/1920px-Kalustoesittely_itsen%C3%A4isyysp%C3%A4iv%C3%A4_2015_29_maalilennokki.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Kalustoesittely_itsen%C3%A4isyysp%C3%A4iv%C3%A4_2015_29_maalilennokki.JPG/1920px-Kalustoesittely_itsen%C3%A4isyysp%C3%A4iv%C3%A4_2015_29_maalilennokki.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/286_AT_motherboard.jpg/1920px-286_AT_motherboard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "john thune": {
@@ -19143,7 +19257,6 @@
    }
   },
   "recent_ideas": [
-   "white house south lawn",
    "us capitol building",
    "senate chamber",
    "courtroom",
@@ -19154,7 +19267,8 @@
    "police officers at work",
    "data center",
    "cargo ship",
-   "military drone"
+   "military drone",
+   "computer processor chips"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -20681,6 +20795,16 @@
     "s": 8,
     "w": "military drone on stand",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Around_Marshall_%280601365%29.jpg/1920px-Around_Marshall_%280601365%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|aefc5f0c": {
+    "s": 0,
+    "w": "researcher working with equipment",
+    "p": "photo shows a researcher rather than computer processor chips"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/286_AT_motherboard.jpg/1920px-286_AT_motherboard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|aefc5f0c": {
+    "s": 9,
+    "w": "motherboard with processor chips",
+    "p": ""
    }
   }
  },
@@ -20692,10 +20816,10 @@
   "2026-11-18": 22,
   "2026-11-19": 30,
   "2026-11-20": 30,
-  "2026-11-21": 7
+  "2026-11-21": 8
  },
- "last_auto_at": "2026-11-21T13:17:05.467145+00:00",
- "last_post_at": "2026-11-21T13:18:06.186473+00:00",
+ "last_auto_at": "2026-11-21T15:57:35.942851+00:00",
+ "last_post_at": "2026-11-21T15:57:41.158244+00:00",
  "reels_count": {
   "2026-11-15": 8,
   "2026-11-16": 10,
