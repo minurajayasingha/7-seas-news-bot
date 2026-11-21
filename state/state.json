@@ -9791,6 +9791,98 @@
     "shares": 0
    },
    "stats_at": "2026-11-21T21:37:32.639019+00:00"
+  },
+  "6890e4ab5a": {
+   "id": "6890e4ab5a",
+   "headline": "Iranian attack on Bahrain causes fire at industrial facility",
+   "summary": "Bahrain reports an Iranian attack that caused a fire at an industrial facility, with no injuries reported. The IRGC states it targeted US military positions at two bases in al-Riffa and Awali.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Bahrain reports no injuries from the incident",
+    "IRGC states it targeted US military positions",
+    "Two bases in al-Riffa and Awali were targeted"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Bahrain",
+    "#Iran",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "Euronews"
+   ],
+   "link": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade",
+   "links": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Firefighters_fighting_fire_action.jpg/1920px-Firefighters_fighting_fire_action.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Smith Elise, U.S. Fish and Wildlife Service / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 8,
+      "shows": "firefighters putting out fire"
+     }
+    ],
+    "file_photo": true,
+    "_loaded": 1
+   },
+   "img_post": {
+    "headline": "Iranian attack on Bahrain causes fire at industrial facility",
+    "people": [],
+    "image_query": "Manama skyline",
+    "image_queries": [
+     "Persian Gulf waters",
+     "industrial facility building",
+     "military base entrance",
+     "Manama port"
+    ],
+    "image_style": "incident",
+    "location": "Bahrain",
+    "nearby_city": "Manama, Bahrain",
+    "event_query": "Bahrain industrial facility fire",
+    "topic_photo": "industrial facility",
+    "label": "CONFLICT",
+    "action_subject": "smoke from fire",
+    "news_time": "2026-11-21T21:31:03+00:00"
+   },
+   "created_at": "2026-11-21T21:50:17.202366+00:00",
+   "news_time": "2026-11-21T21:31:03+00:00",
+   "news_latest": "2026-11-21T21:32:51+00:00",
+   "importance": 9,
+   "caption": "🚨 BREAKING: Iranian attack on Bahrain causes fire at industrial facility\n\nBahrain reports an Iranian attack that caused a fire at an industrial facility, with no injuries reported. The IRGC states it targeted US military positions at two bases in al-Riffa and Awali.\n\nWhat we know so far:\n• Bahrain reports no injuries from the incident\n• IRGC states it targeted US military positions\n• Two bases in al-Riffa and Awali were targeted\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Bahrain #Iran #WorldNews #7SeasNews",
+   "photo_line": "📷 8/10 firefighters putting out fire · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 903,
+   "tg_file_id": "AgACAgUAAxkDAAIDh2sCEhuDaRUOrDDqlcRlCQABYpx0igACXxBrG6EPEVScPDoskrfAJwEAAwIAA3cAAz0E",
+   "queued_at": "2026-11-21T21:50:19.830972+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-21T21:50:19.830993+00:00",
+   "post_label": "🤖 Auto-posting + Reel",
+   "fb_post_id": "1413030521900096_122108851071548584",
+   "posted_at": "2026-11-21T21:50:20.188219+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 21 · 4:50 PM New York · 3:20 AM Sri Lanka\n\n<b>Iranian attack on Bahrain causes fire at industrial facility</b>\n<i>Al Jazeera, Euronews</i>\n🟢 <b>Latest:</b> 3:02 AM Sri Lanka (17 min ago) · first reported 3:01 AM\n📷 8/10 firefighters putting out fire · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122108851071548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 611,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122108851071548584_1184621217373619",
+   "fb_story_id": "1164246429306093",
+   "fb_reel_id": "1162717063396025",
+   "reel_status": "live"
   }
  },
  "seen_links": [
@@ -11714,7 +11806,9 @@
   "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
   "https://www.france24.com/en/new-day-of-protests-across-france",
   "https://www.washingtonexaminer.com/news/senate/4811317/cruz-talarico-space-academy-texas/",
-  "https://thehill.com/homenews/senate/6235304-cruz-talarico-texas-space-academy/"
+  "https://thehill.com/homenews/senate/6235304-cruz-talarico-texas-space-academy/",
+  "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade",
+  "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -14869,19 +14963,35 @@
     "work"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-21T21:50:19.830824+00:00",
+   [
+    "attack",
+    "bahrain",
+    "bas",
+    "blockad",
+    "break",
+    "caus",
+    "facility",
+    "fir",
+    "get",
+    "industrial",
+    "iran",
+    "iranian",
+    "ready",
+    "tanker"
+   ],
+   "6890e4ab5a"
   ]
  ],
- "last_draft_at": "2026-11-21T21:38:08.249128+00:00",
+ "last_draft_at": "2026-11-21T21:50:06.855161+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T21:37:32.639019+00:00",
  "run_log": [
-  "11-21 19:30:44 run start",
-  "11-21 19:31:41 listening 11 min",
-  "11-21 19:42:10 listening done",
-  "11-21 19:42:10 run end after 685 s",
   "11-21 19:45:43 run start",
   "11-21 19:46:18 listening 11 min",
   "11-21 19:57:13 listening done",
@@ -14917,12 +15027,15 @@
   "11-21 21:37:32 run start",
   "11-21 21:38:17 listening 11 min",
   "11-21 21:49:10 listening done",
-  "11-21 21:49:10 run end after 698 s"
+  "11-21 21:49:10 run end after 698 s",
+  "11-21 21:50:06 run start",
+  "11-21 21:51:04 listening 11 min",
+  "11-21 22:01:34 listening done",
+  "11-21 22:01:34 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/TOP_OF_THE_DIWANG_BUILDING_SEE_SHENZHEN_SKYLINE_%2819%29.jpg/1920px-TOP_OF_THE_DIWANG_BUILDING_SEE_SHENZHEN_SKYLINE_%2819%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg/1920px-Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Brooke_Rollins_%2851248109168%29.jpg/1280px-Brooke_Rollins_%2851248109168%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Kyiv_skyline_%2815688086793%29.jpg/1920px-Kyiv_skyline_%2815688086793%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -14961,7 +15074,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Mersad_Air_Defense_System_with_Shahin_Missile.jpg/1920px-Mersad_Air_Defense_System_with_Shahin_Missile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://live.staticflickr.com/3502/4571498936_ca188f521b_b.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/1280px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Voting_booth_at_the_Madison_Parish_Courthouse.jpg/1920px-Voting_booth_at_the_Madison_Parish_Courthouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Voting_booth_at_the_Madison_Parish_Courthouse.jpg/1920px-Voting_booth_at_the_Madison_Parish_Courthouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Firefighters_fighting_fire_action.jpg/1920px-Firefighters_fighting_fire_action.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "john thune": {
@@ -18201,7 +18315,6 @@
    }
   },
   "recent_ideas": [
-   "washington dc skyline",
    "palais des nations geneva",
    "police officers at work",
    "data center",
@@ -18212,7 +18325,8 @@
    "voters at polling station",
    "air defense system",
    "white house south lawn",
-   "voting booth"
+   "voting booth",
+   "firefighters fighting fire"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -19824,6 +19938,11 @@
     "s": 0,
     "w": "street sign in Paris",
     "p": "photo is a text sign"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Firefighters_fighting_fire_action.jpg/1920px-Firefighters_fighting_fire_action.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|dddee499": {
+    "s": 8,
+    "w": "firefighters putting out fire",
+    "p": ""
    }
   }
  },
@@ -19835,10 +19954,10 @@
   "2026-11-18": 22,
   "2026-11-19": 30,
   "2026-11-20": 30,
-  "2026-11-21": 14
+  "2026-11-21": 15
  },
- "last_auto_at": "2026-11-21T21:14:43.793837+00:00",
- "last_post_at": "2026-11-21T21:15:02.856672+00:00",
+ "last_auto_at": "2026-11-21T21:50:20.188219+00:00",
+ "last_post_at": "2026-11-21T21:50:25.814534+00:00",
  "reels_count": {
   "2026-11-15": 8,
   "2026-11-16": 10,
@@ -19846,7 +19965,7 @@
   "2026-11-18": 3,
   "2026-11-19": 3,
   "2026-11-20": 3,
-  "2026-11-21": 2
+  "2026-11-21": 3
  },
  "roundup": {
   "2026-11-16": {
