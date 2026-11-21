@@ -13138,28 +13138,13 @@
   "https://news.sky.com/story/man-found-guilty-of-starting-deadly-palisades-fire-in-los-angeles-in-2025-13614570",
   "https://www.nbcnews.com/news/us-news/pacific-palisades-fire-retrial-jonathan-rinderknecht-rcna610336",
   "https://www.nbcnews.com/nightly-news/video/stock-markets-plunge-as-nasdaq-erases-2026-gains-273933381824",
-  "https://www.upi.com/Top_News/US/2026/11/20/stocks-dow-jones-nasdaq-correction-territory/1061795214998/"
+  "https://www.upi.com/Top_News/US/2026/11/20/stocks-dow-jones-nasdaq-correction-territory/1061795214998/",
+  "https://www.nytimes.com/2026/11/20/us/politics/trump-news-conference-asia-trip.html",
+  "https://thehill.com/homenews/administration/6234568-trump-friday-news-conference-vance-rubio/",
+  "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
+  "https://www.independent.co.uk/news/world/americas/us-politics/trump-asia-trip-press-conference-analysis-b3088989.html"
  ],
  "recent_topics": [
-  [
-   "2026-11-18T02:46:01.338748+00:00",
-   [
-    "anti-gang",
-    "battl",
-    "behind",
-    "bukel",
-    "deployment",
-    "gang",
-    "haitian",
-    "protest",
-    "rally",
-    "salvador",
-    "salvadoran",
-    "support",
-    "troop"
-   ],
-   "skipped"
-  ],
   [
    "2026-11-18T03:31:22.427951+00:00",
    [
@@ -16509,19 +16494,31 @@
     "trad"
    ],
    "e2d20caa20"
+  ],
+  [
+   "2026-11-21T02:45:49.759431+00:00",
+   [
+    "conferenc",
+    "flex",
+    "friday",
+    "isnt",
+    "post-trip",
+    "press",
+    "showboat",
+    "takeaway",
+    "think",
+    "trump"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-21T02:30:44.200403+00:00",
+ "last_draft_at": "2026-11-21T02:45:39.111714+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T02:15:35.987373+00:00",
  "run_log": [
-  "11-21 00:30:46 run start",
-  "11-21 00:31:21 listening 11 min",
-  "11-21 00:42:14 listening done",
-  "11-21 00:42:14 run end after 687 s",
   "11-21 00:43:01 run start",
   "11-21 00:44:26 listening 10 min",
   "11-21 00:54:30 listening done",
@@ -16557,7 +16554,11 @@
   "11-21 02:30:43 run start",
   "11-21 02:30:53 listening 11 min",
   "11-21 02:42:12 listening done",
-  "11-21 02:42:12 run end after 688 s"
+  "11-21 02:42:12 run end after 688 s",
+  "11-21 02:45:38 run start",
+  "11-21 02:45:49 listening 11 min",
+  "11-21 02:57:09 listening done",
+  "11-21 02:57:09 run end after 690 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
