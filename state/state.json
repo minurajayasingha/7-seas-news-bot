@@ -10634,6 +10634,189 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122108449515548584_3306032106260050"
+  },
+  "97bfc49f3b": {
+   "id": "97bfc49f3b",
+   "headline": "Anthropic researcher claims to solve Riemann hypothesis using Claude",
+   "summary": "An artificial intelligence researcher claims to have solved the Riemann hypothesis with the help of the Claude tool. Mathematicians state the claim could be historic, but independent verification will take time.",
+   "label": "WORLD",
+   "hook": "Will independent verification confirm this mathematical breakthrough?",
+   "key_points": [
+    "The claim marks a second instance of AI linked to a math solution.",
+    "Experts state verification may take weeks."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#ArtificialIntelligence",
+    "#Mathematics",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "DW",
+    "NPR"
+   ],
+   "link": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss"
+    ],
+    [
+     "NPR",
+     "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai"
+    ],
+    [
+     "DW",
+     "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-world-4025-rdf"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Data_center_roof.jpg/1920px-Data_center_roof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Rsparks3 / Wikimedia Commons (CC0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 6,
+      "shows": "data center rooftop cooling units"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Anthropic researcher claims to solve Riemann hypothesis using Claude",
+    "people": [],
+    "image_query": "computer science lab",
+    "image_queries": [
+     "server room",
+     "research facility",
+     "university mathematics department",
+     "data center"
+    ],
+    "image_style": "person",
+    "location": "",
+    "nearby_city": "",
+    "event_query": "",
+    "topic_photo": "computer screen",
+    "label": "WORLD",
+    "action_subject": "computer screen showing code",
+    "news_time": "2026-11-21T10:29:00+00:00"
+   },
+   "created_at": "2026-11-21T13:16:30.477518+00:00",
+   "news_time": "2026-11-21T10:29:00+00:00",
+   "news_latest": "2026-11-21T12:49:20+00:00",
+   "importance": 6,
+   "caption": "Anthropic researcher claims to solve Riemann hypothesis using Claude\n\nAn artificial intelligence researcher claims to have solved the Riemann hypothesis with the help of the Claude tool. Mathematicians state the claim could be historic, but independent verification will take time.\n\n💬 Will independent verification confirm this mathematical breakthrough?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#ArtificialIntelligence #Mathematics #WorldNews #7SeasNews",
+   "photo_line": "📷 6/10 data center rooftop cooling units",
+   "status": "posted",
+   "tg_message_id": 892,
+   "tg_file_id": "AgACAgUAAxkDAAIDfGsBmbAapK9_BmR7qBD4X8X8c18NAAIWFmsb_TsQVGtHGNptUeNIAQADAgADdwADPQQ",
+   "queued_at": "2026-11-21T13:16:32.844050+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_label": "🤖 Auto-posting",
+   "post_at": "2026-11-21T13:17:10.553091+00:00",
+   "fb_post_id": "1413030521900096_122108478087548584",
+   "posted_at": "2026-11-21T13:17:05.467145+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 21 · 8:18 AM New York · 6:48 PM Sri Lanka\n\n<b>Anthropic researcher claims to solve Riemann hypothesis using Claude</b>\n<i>Al Jazeera, DW, NPR</i>\n🟢 <b>Latest:</b> 6:19 PM Sri Lanka (28 min ago) · first reported 3:59 PM\n📷 6/10 data center rooftop cooling units\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122108478087548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 601,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122108478087548584_1892650502156589"
+  },
+  "623ed4ea30": {
+   "id": "623ed4ea30",
+   "headline": "Two drones strike Russian cargo ship in Gulf of Finland",
+   "summary": "Two drones attacked a cargo ship near Russia's maritime border in the Gulf of Finland, causing damage and crew evacuation. Finnish authorities stated the vessel caught fire in international waters, prompting Helsinki to alert NATO and impose temporary restrictions.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "The cargo ship was heading to Kaliningrad",
+    "Finland alerted NATO following the incident",
+    "Temporary restrictions were imposed in the area"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#GulfOfFinland",
+    "#DroneAttack",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "France 24"
+   ],
+   "link": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Kalustoesittely_itsen%C3%A4isyysp%C3%A4iv%C3%A4_2015_29_maalilennokki.JPG/1920px-Kalustoesittely_itsen%C3%A4isyysp%C3%A4iv%C3%A4_2015_29_maalilennokki.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "MKFI / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 8,
+      "shows": "military drone on stand"
+     }
+    ],
+    "file_photo": true,
+    "_loaded": 1
+   },
+   "img_post": {
+    "headline": "Two drones strike Russian cargo ship in Gulf of Finland",
+    "people": [],
+    "image_query": "Gulf of Finland",
+    "image_queries": [
+     "Baltic Sea",
+     "cargo ship at sea",
+     "Finnish coastline",
+     "sea waters"
+    ],
+    "image_style": "incident",
+    "location": "Gulf of Finland",
+    "nearby_city": "Helsinki, Finland",
+    "event_query": "Gulf of Finland drone attack",
+    "topic_photo": "cargo ship",
+    "label": "CONFLICT",
+    "action_subject": "cargo ship",
+    "news_time": "2026-11-21T12:35:54+00:00"
+   },
+   "created_at": "2026-11-21T13:17:03.561608+00:00",
+   "news_time": "2026-11-21T12:35:54+00:00",
+   "news_latest": "2026-11-21T12:45:24+00:00",
+   "importance": 8,
+   "caption": "🚨 BREAKING: Two drones strike Russian cargo ship in Gulf of Finland\n\nTwo drones attacked a cargo ship near Russia's maritime border in the Gulf of Finland, causing damage and crew evacuation. Finnish authorities stated the vessel caught fire in international waters, prompting Helsinki to alert NATO and impose temporary restrictions.\n\nWhat we know so far:\n• The cargo ship was heading to Kaliningrad\n• Finland alerted NATO following the incident\n• Temporary restrictions were imposed in the area\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#GulfOfFinland #DroneAttack #WorldNews #7SeasNews",
+   "photo_line": "📷 8/10 military drone on stand · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 893,
+   "tg_file_id": "AgACAgUAAxkDAAIDfWsBmdBCujYhCDwEVXBxWF4xNy2hAAIXFmsb_TsQVP2kt6A0Hq6mAQADAgADdwADPQQ",
+   "queued_at": "2026-11-21T13:17:05.139701+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-21T13:17:05.139727+00:00",
+   "post_label": "🤖 Auto-posting + Reel",
+   "fb_post_id": "1413030521900096_122108477169548584",
+   "posted_at": "2026-11-21T13:17:05.467145+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 21 · 8:17 AM New York · 6:47 PM Sri Lanka\n\n<b>Two drones strike Russian cargo ship in Gulf of Finland</b>\n<i>Al Jazeera, France 24</i>\n🟢 <b>Latest:</b> 6:15 PM Sri Lanka (31 min ago) · first reported 6:05 PM\n📷 8/10 military drone on stand · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122108477169548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 599,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122108477169548584_1489044489861530",
+   "fb_story_id": "1614931034010361",
+   "fb_reel_id": "2025914568099280",
+   "reel_status": "live"
   }
  },
  "seen_links": [
@@ -12511,30 +12694,14 @@
   "https://www.washingtonexaminer.com/news/senate/4810207/rail-safety-legislation-senate-democrats-midterm-blue-wave/",
   "https://www.npr.org/2026/11/21/nx-s1-6047376/week-in-politics-trump-returns-from-asia-hails-trip-as-one-of-best-in-history",
   "https://www.independent.co.uk/asia/southeast-asia/philippine-gold-baton-trump-b3089117.html",
-  "https://www.independent.co.uk/news/world/americas/trump-asia-trip-facts-false-claims-b3089060.html"
+  "https://www.independent.co.uk/news/world/americas/trump-asia-trip-facts-false-claims-b3089060.html",
+  "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss",
+  "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
+  "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-world-4025-rdf",
+  "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
+  "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland"
  ],
  "recent_topics": [
-  [
-   "2026-11-18T13:16:56.710558+00:00",
-   [
-    "abus",
-    "ask",
-    "charg",
-    "child",
-    "complaint",
-    "fac",
-    "father",
-    "markl",
-    "material",
-    "meghan",
-    "philippin",
-    "polic",
-    "prosecutor",
-    "sex",
-    "thoma"
-   ],
-   "skipped"
-  ],
   [
    "2026-11-18T15:16:28.035315+00:00",
    [
@@ -15825,19 +15992,58 @@
     "trump"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-21T13:16:32.843878+00:00",
+   [
+    "anthropic",
+    "claim",
+    "crack",
+    "famou",
+    "grail",
+    "greatest",
+    "help",
+    "holy",
+    "hypothesi",
+    "math",
+    "most",
+    "problem",
+    "researcher",
+    "riddl",
+    "riemann",
+    "solv",
+    "use",
+    "worker",
+    "world"
+   ],
+   "97bfc49f3b"
+  ],
+  [
+   "2026-11-21T13:17:05.139575+00:00",
+   [
+    "ablaz",
+    "attack",
+    "cargo",
+    "dron",
+    "finland",
+    "gulf",
+    "kaliningrad-bound",
+    "russia",
+    "russian",
+    "set",
+    "ship",
+    "struck"
+   ],
+   "623ed4ea30"
   ]
  ],
- "last_draft_at": "2026-11-21T13:00:48.319570+00:00",
+ "last_draft_at": "2026-11-21T13:15:36.736728+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T12:30:53.048756+00:00",
  "run_log": [
-  "11-21 10:45:37 run start",
-  "11-21 10:46:28 listening 11 min",
-  "11-21 10:57:21 listening done",
-  "11-21 10:57:21 run end after 704 s",
   "11-21 11:01:14 run start",
   "11-21 11:01:16 listening 11 min",
   "11-21 11:13:01 listening done",
@@ -15873,13 +16079,15 @@
   "11-21 13:00:47 run start",
   "11-21 13:01:02 listening 11 min",
   "11-21 13:12:21 listening done",
-  "11-21 13:12:21 run end after 694 s"
+  "11-21 13:12:21 run end after 694 s",
+  "11-21 13:15:36 run start",
+  "11-21 13:18:15 listening 9 min",
+  "11-21 13:27:03 listening done",
+  "11-21 13:27:03 run end after 686 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://live.staticflickr.com/3237/2770838680_cd002e04a5_b.jpg",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Elissa_Slotkin_20190202_153059.jpg/1280px-Elissa_Slotkin_20190202_153059.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/0/02/Berlin_Skyline_Fernsehturm_02.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Tourists_in_the_rotunda%2C_United_States_Capitol%2C_Washington%2C_D.C.%2C_2007.jpg/1920px-Tourists_in_the_rotunda%2C_United_States_Capitol%2C_Washington%2C_D.C.%2C_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg/1920px-Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -15917,7 +16125,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Peace_Monument_-_Across_from_Palais_des_Nations_-_Geneva_-_Switzerland.jpg/1920px-Peace_Monument_-_Across_from_Palais_des_Nations_-_Geneva_-_Switzerland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Police_of_Mexico%2C_D._F._at_night.jpg/1920px-Police_of_Mexico%2C_D._F._at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Fausto_Isidro_Meza-Flores_Top_Ten_Wanted_Poster_%28cropped%29.svg/1280px-Fausto_Isidro_Meza-Flores_Top_Ten_Wanted_Poster_%28cropped%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/f/f9/Headshot_Lewis_Pugh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/f/f9/Headshot_Lewis_Pugh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Data_center_roof.jpg/1920px-Data_center_roof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Kalustoesittely_itsen%C3%A4isyysp%C3%A4iv%C3%A4_2015_29_maalilennokki.JPG/1920px-Kalustoesittely_itsen%C3%A4isyysp%C3%A4iv%C3%A4_2015_29_maalilennokki.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "john thune": {
@@ -19157,9 +19367,6 @@
    }
   },
   "recent_ideas": [
-   "stock exchange trading floor",
-   "congressional hearing",
-   "congressional hearing",
    "white house south lawn",
    "us capitol building",
    "senate chamber",
@@ -19168,7 +19375,10 @@
    "missile launch",
    "washington dc skyline",
    "palais des nations geneva",
-   "police officers at work"
+   "police officers at work",
+   "data center",
+   "cargo ship",
+   "military drone"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -20660,6 +20870,41 @@
     "s": 10,
     "w": "Lewis Pugh portrait",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/ASUS_PB278Q_%28PXL_20250914_223256075%29.jpg/1920px-ASUS_PB278Q_%28PXL_20250914_223256075%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|5996f55c": {
+    "s": 0,
+    "w": "computer monitor showing Wikipedia websi",
+    "p": "screenshot/monitor showing Wikipedia instead of computer screen showing code"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Former_Peking_University_Department_of_Mathematics_Building_%2820221031130324%29.jpg/1920px-Former_Peking_University_Department_of_Mathematics_Building_%2820221031130324%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|5996f55c": {
+    "s": 0,
+    "w": "historic stone building with cars",
+    "p": "photo shows a building, not a computer screen with code"
+   },
+   "https://live.staticflickr.com/6045/6239564720_7a282a86fa_b.jpg|5996f55c": {
+    "s": 3,
+    "w": "data center server rack",
+    "p": "Photo shows a data center, not an AI researcher or a computer screen showing cod"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Data_center_roof.jpg/1920px-Data_center_roof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|5996f55c": {
+    "s": 6,
+    "w": "data center rooftop cooling units",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Bay_of_Finland_in_the_morning_from_Finbo_Cargo.jpg/1920px-Bay_of_Finland_in_the_morning_from_Finbo_Cargo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|10496e70": {
+    "s": 0,
+    "w": "view of sea through window",
+    "p": "photo does not show a cargo ship"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Speed_%28_Cargo_ship%29_MMSI_205332390.jpg/1920px-Speed_%28_Cargo_ship%29_MMSI_205332390.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|10496e70": {
+    "s": 7,
+    "w": "cargo ship on river",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Kalustoesittely_itsen%C3%A4isyysp%C3%A4iv%C3%A4_2015_29_maalilennokki.JPG/1920px-Kalustoesittely_itsen%C3%A4isyysp%C3%A4iv%C3%A4_2015_29_maalilennokki.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|10496e70": {
+    "s": 8,
+    "w": "military drone on stand",
+    "p": ""
    }
   }
  },
@@ -20671,10 +20916,10 @@
   "2026-11-18": 22,
   "2026-11-19": 30,
   "2026-11-20": 30,
-  "2026-11-21": 5
+  "2026-11-21": 7
  },
- "last_auto_at": "2026-11-21T12:31:46.444259+00:00",
- "last_post_at": "2026-11-21T12:31:50.585125+00:00",
+ "last_auto_at": "2026-11-21T13:17:05.467145+00:00",
+ "last_post_at": "2026-11-21T13:18:06.186473+00:00",
  "reels_count": {
   "2026-11-15": 8,
   "2026-11-16": 10,
@@ -20682,7 +20927,7 @@
   "2026-11-18": 3,
   "2026-11-19": 3,
   "2026-11-20": 3,
-  "2026-11-21": 1
+  "2026-11-21": 2
  },
  "roundup": {
   "2026-11-16": {
