@@ -11788,7 +11788,10 @@
   "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
   "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-world-4025-rdf",
   "https://thehill.com/homenews/administration/6235305-trump-fbi-database-breach-comments/",
-  "https://www.washingtonexaminer.com/news/white-house/4811227/trump-fbi-hack-reveal-voter-fraud-ukraine-hoax/"
+  "https://www.washingtonexaminer.com/news/white-house/4811227/trump-fbi-hack-reveal-voter-fraud-ukraine-hoax/",
+  "https://www.france24.com/en/europe/20261121-russia-attacks-zelensky-s-hometown-ukraine-reaffirms-wish-to-join-nato",
+  "https://www.france24.com/en/russia-launches-ballistic-missile-attack-on-zelensky-s-hometown-in-central-ukraine",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -14834,19 +14837,40 @@
     "well"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-21T20:00:56.158874+00:00",
+   [
+    "attack",
+    "ballistic",
+    "barrag",
+    "central",
+    "deadly",
+    "hometown",
+    "join",
+    "kill",
+    "kyiv",
+    "launch",
+    "missil",
+    "nato",
+    "reaffirm",
+    "russia",
+    "strik",
+    "ukrain",
+    "wish",
+    "zelensky",
+    "zelenskyy"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-21T19:45:43.707661+00:00",
+ "last_draft_at": "2026-11-21T20:00:46.072054+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T19:30:45.052693+00:00",
  "run_log": [
-  "11-21 17:30:41 run start",
-  "11-21 17:31:23 listening 11 min",
-  "11-21 17:42:17 listening done",
-  "11-21 17:42:17 run end after 695 s",
   "11-21 17:45:35 run start",
   "11-21 17:45:47 listening 11 min",
   "11-21 17:57:03 listening done",
@@ -14882,7 +14906,11 @@
   "11-21 19:45:43 run start",
   "11-21 19:46:18 listening 11 min",
   "11-21 19:57:13 listening done",
-  "11-21 19:57:13 run end after 689 s"
+  "11-21 19:57:13 run end after 689 s",
+  "11-21 20:00:45 run start",
+  "11-21 20:00:56 listening 11 min",
+  "11-21 20:12:15 listening done",
+  "11-21 20:12:15 run end after 689 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
