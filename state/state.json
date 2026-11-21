@@ -1,96 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "102e0e684e": {
-   "id": "102e0e684e",
-   "headline": "Iran-backed group warns Iraqi forces against entering Baghdad stronghold",
-   "summary": "Kataib Hezbollah has warned Iraqi government forces against entering its stronghold near Baghdad. Meanwhile, Iraqi Prime Minister ordered a crackdown on the militia, where Israeli-Russian researcher Elizabeth Tsurkov was previously held captive.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "Kataib Hezbollah is an Iran-backed armed group",
-    "Elizabeth Tsurkov is an Israeli-Russian researcher",
-    "The stronghold is located near Baghdad"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Iraq",
-    "#MiddleEast",
-    "#WorldNews"
-   ],
-   "sources": [
-    "ABC News",
-    "Fox News"
-   ],
-   "link": "https://www.foxnews.com/world/ex-hostage-recounts-captivity-iran-backed-militia-stronghold-now-targeted-iraqi-prime-minister",
-   "links": [
-    [
-     "Fox News",
-     "https://www.foxnews.com/world/ex-hostage-recounts-captivity-iran-backed-militia-stronghold-now-targeted-iraqi-prime-minister"
-    ],
-    [
-     "ABC News",
-     "https://abcnews.com/International/wireStory/iran-backed-group-warns-iraqi-forces-entering-stronghold-138213451"
-    ]
-   ],
-   "bg": {
-    "type": "map",
-    "photos": [],
-    "location": "Baghdad, Iraq",
-    "lat": 33.31527778,
-    "lon": 44.36611111,
-    "country": "Iraq",
-    "state": ""
-   },
-   "img_post": {
-    "headline": "Iran-backed group warns Iraqi forces against entering Baghdad stronghold",
-    "people": [],
-    "image_query": "Baghdad city skyline",
-    "image_queries": [
-     "Baghdad streets",
-     "Iraqi government building",
-     "military vehicle",
-     "city outskirts"
-    ],
-    "image_style": "incident",
-    "location": "Baghdad, Iraq",
-    "nearby_city": "Baghdad, Iraq",
-    "event_query": "Iraqi military checkpoint",
-    "topic_photo": "military checkpoint",
-    "label": "CONFLICT",
-    "action_subject": "military forces with vehicles",
-    "news_time": "2026-11-17T15:20:52+00:00"
-   },
-   "created_at": "2026-11-17T18:18:37.557146+00:00",
-   "news_time": "2026-11-17T15:20:52+00:00",
-   "news_latest": "2026-11-17T18:04:00+00:00",
-   "importance": 7,
-   "caption": "Iran-backed group warns Iraqi forces against entering Baghdad stronghold\n\nKataib Hezbollah has warned Iraqi government forces against entering its stronghold near Baghdad. Meanwhile, Iraqi Prime Minister ordered a crackdown on the militia, where Israeli-Russian researcher Elizabeth Tsurkov was previously held captive.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Iraq #MiddleEast #WorldNews #7SeasNews",
-   "photo_line": "📷 news map (no fitting photo)",
-   "status": "posted",
-   "tg_message_id": 760,
-   "tg_file_id": "AgACAgUAAxkDAAIC-Gr8mn8yjud0-kB45u244Drz5pi3AAJNFGsbguzoV73vpZStqxNDAQADAgADdwADPQQ",
-   "queued_at": "2026-11-17T18:18:39.751889+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-17T18:18:39.751952+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122104604481548584",
-   "posted_at": "2026-11-17T18:18:41.626154+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 17 · 1:18 PM New York · 11:48 PM Sri Lanka\n\n<b>Iran-backed group warns Iraqi forces against entering Baghdad stronghold</b>\n<i>ABC News, Fox News</i>\n🟢 <b>Latest:</b> 11:34 PM Sri Lanka (14 min ago) · first reported 8:50 PM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122104604481548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 475,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122104604481548584_1882063406303080",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-20T17:51:17.444831+00:00"
-  },
   "bfd3abb005": {
    "id": "bfd3abb005",
    "headline": "Hung Cao faces questions during Senate Armed Services Committee hearing",
@@ -15171,17 +15081,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-21T18:01:09.940297+00:00",
+ "last_draft_at": "2026-11-21T18:16:13.104167+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T17:30:42.387745+00:00",
  "run_log": [
-  "11-21 15:55:27 run start",
-  "11-21 15:57:51 listening 9 min",
-  "11-21 16:07:04 listening done",
-  "11-21 16:07:04 run end after 696 s",
   "11-21 16:07:31 run start",
   "11-21 16:09:36 listening 9 min",
   "11-21 16:19:16 listening done",
@@ -15217,7 +15123,11 @@
   "11-21 18:01:09 run start",
   "11-21 18:01:10 listening 11 min",
   "11-21 18:12:53 listening done",
-  "11-21 18:12:53 run end after 704 s"
+  "11-21 18:12:53 run end after 704 s",
+  "11-21 18:16:12 run start",
+  "11-21 18:16:31 listening 11 min",
+  "11-21 18:27:51 listening done",
+  "11-21 18:27:51 run end after 698 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
