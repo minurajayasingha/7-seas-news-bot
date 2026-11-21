@@ -1,5 +1,5 @@
 {
- "tg_offset": 495893090,
+ "tg_offset": 495893091,
  "drafts": {
   "cfacadb87b": {
    "id": "cfacadb87b",
@@ -16483,17 +16483,13 @@
    "ee53f844b2"
   ]
  ],
- "last_draft_at": "2026-11-21T07:30:51.763361+00:00",
+ "last_draft_at": "2026-11-21T07:44:45.263968+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T07:17:17.878613+00:00",
  "run_log": [
-  "11-21 05:15:47 run start",
-  "11-21 05:16:44 listening 11 min",
-  "11-21 05:27:14 listening done",
-  "11-21 05:27:14 run end after 687 s",
   "11-21 05:30:41 run start",
   "11-21 05:30:50 listening 11 min",
   "11-21 05:42:09 listening done",
@@ -16529,7 +16525,11 @@
   "11-21 07:30:51 run start",
   "11-21 07:31:11 listening 11 min",
   "11-21 07:42:29 listening done",
-  "11-21 07:42:29 run end after 698 s"
+  "11-21 07:42:29 run end after 698 s",
+  "11-21 07:44:44 run start",
+  "11-21 07:45:17 listening 11 min",
+  "11-21 07:56:11 listening done",
+  "11-21 07:56:11 run end after 686 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -22296,7 +22296,7 @@
    }
   },
   "2026-11-20": {
-   "status": "asked",
+   "status": "building",
    "plan": {
     "parts": [
      {
@@ -22468,7 +22468,42 @@
    ],
    "asked_at": "2026-11-21T05:00:55.350993+00:00",
    "test": false,
-   "msg_id": 884
+   "msg_id": 884,
+   "approved_by": "owner",
+   "approved_at": "2026-11-21T07:49:54.061148+00:00",
+   "dispatch_at": "2026-11-21T07:49:54.061163+00:00",
+   "dispatch_tries": 1,
+   "headlines": [
+    "Russian missile and drone attacks kill several in Ukraine",
+    "Poland investigates suspected Russian airspace violation during attack",
+    "Estonia plans to close border with Russia over sabotage attack",
+    "Denmark accuses Russian intelligence of plotting attack",
+    "Iraqi security forces deploy in Jurf al-Sakhar",
+    "Trump, Putin and Xi hold summit in China",
+    "Leaders meet at Apec summit in Shenzhen",
+    "Prime Minister Andy Burnham meets EU officials in Brussels",
+    "Melania Trump pushes for peace as EU approves military support",
+    "President Trump outlines four areas for potential deals with Democrats",
+    "Trump announces plans to tax US companies building data centers overseas",
+    "Federal judge rules Brooke Rollins religious emails violate US constitution",
+    "Judge blocks Donald Trump proposed triumphal arch in Virginia",
+    "Democrats prepare for majorities in Congress",
+    "Democratic lawmaker warns US could halt SpaceX funding over Ukraine dispute",
+    "Trump supports second chance for Jensen Huang at Nvidia",
+    "Texas Governor-elect Gina Hinojosa vows to change policies",
+    "Jury finds California man guilty of starting Palisades Fire",
+    "UN court rules Myanmar committed genocide against Rohingya minority",
+    "Dow and S&P 500 enter correction as Nasdaq plunges",
+    "Nationwide strike across Italy disrupts schools hospitals and transport",
+    "Alibaba sued over links to chip network spying suspect",
+    "Spain releases US activist James Fergie Chambers on bail",
+    "French court sentences police officers over beating of music producer",
+    "Anthropic shares fall on second day of trading amid tech sell-off",
+    "US lawmakers push for tougher AI chip rules",
+    "Mayor Zohran Mamdani signs ban on Central Park horse carriages",
+    "Three candidates enter upcoming FIFA presidential election",
+    "Texas executes Reinaldo Dennes for 1996 Houston murder"
+   ]
   }
  },
  "run_once_done": [
