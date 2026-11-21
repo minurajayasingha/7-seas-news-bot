@@ -9883,6 +9883,102 @@
    "fb_story_id": "1164246429306093",
    "fb_reel_id": "1162717063396025",
    "reel_status": "live"
+  },
+  "48bdf8571a": {
+   "id": "48bdf8571a",
+   "headline": "Donald Trump says John Cornyn is blocking Dallas judicial nomination",
+   "summary": "President Donald Trump stated that Texas Senator John Cornyn is blocking Department of Justice lawyer Elliot Gaiser's nomination to be a federal judge in Dallas. Trump claimed Cornyn opposed the choice because his feelings were hurt. Cornyn criticized the nomination and said he proposed an alternative candidate.",
+   "label": "US POLITICS",
+   "hook": "Should home-state senators be able to block federal judicial nominations?",
+   "key_points": [
+    "Trump called Cornyn's actions a tremendous disservice.",
+    "Cornyn stated he submitted his own candidate for the judgeship."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Senate",
+    "#Judiciary"
+   ],
+   "sources": [
+    "Fox News",
+    "Washington Post"
+   ],
+   "link": "https://www.washingtonpost.com/politics/2026/11/21/trump-says-cornyn-blocked-judicial-pick-because-his-feelings-were-hurt/",
+   "links": [
+    [
+     "Washington Post",
+     "https://www.washingtonpost.com/politics/2026/11/21/trump-says-cornyn-blocked-judicial-pick-because-his-feelings-were-hurt/"
+    ],
+    [
+     "Fox News",
+     "https://www.foxnews.com/politics/trump-sen-cornyn-tremendous-disservice-blocking-texas-judicial-pick"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Shealeah Craighead / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "Donald Trump portrait smiling"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/John_Cornyn_%2812999214925%29.jpg/1280px-John_Cornyn_%2812999214925%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 9,
+      "shows": "John Cornyn speaking at podium"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Donald Trump says John Cornyn is blocking Dallas judicial nomination",
+    "people": [
+     "Donald Trump",
+     "John Cornyn"
+    ],
+    "image_query": "US Capitol dome",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "federal courthouse",
+     "US Supreme Court"
+    ],
+    "image_style": "person",
+    "location": "Dallas, Texas",
+    "nearby_city": "",
+    "event_query": "",
+    "topic_photo": "judge gavel",
+    "label": "US POLITICS",
+    "action_subject": "",
+    "news_time": "2026-11-21T18:57:43+00:00"
+   },
+   "created_at": "2026-11-21T22:18:00.164858+00:00",
+   "news_time": "2026-11-21T18:57:43+00:00",
+   "news_latest": "2026-11-21T21:30:00+00:00",
+   "importance": 6,
+   "caption": "Donald Trump says John Cornyn is blocking Dallas judicial nomination\n\nPresident Donald Trump stated that Texas Senator John Cornyn is blocking Department of Justice lawyer Elliot Gaiser's nomination to be a federal judge in Dallas. Trump claimed Cornyn opposed the choice because his feelings were hurt. Cornyn criticized the nomination and said he proposed an alternative candidate.\n\n💬 Should home-state senators be able to block federal judicial nominations?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Senate #Judiciary #7SeasNews",
+   "photo_line": "📷 9/10 John Cornyn speaking at podium",
+   "status": "posted",
+   "tg_message_id": 904,
+   "tg_file_id": "AgACAgUAAxkDAAIDiGsCGJnKvQXnczlU5E0fPWJx8xlrAAJgEGsboQ8RVJMVPtgeaiNLAQADAgADdwADPQQ",
+   "queued_at": "2026-11-21T22:18:02.277953+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-21T22:18:02.277986+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122108875365548584",
+   "posted_at": "2026-11-21T22:18:02.574186+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 21 · 5:18 PM New York · 3:48 AM Sri Lanka\n\n<b>Donald Trump says John Cornyn is blocking Dallas judicial nomination</b>\n<i>Fox News, Washington Post</i>\n🟢 <b>Latest:</b> 3:00 AM Sri Lanka (48 min ago) · first reported 12:27 AM\n📷 9/10 John Cornyn speaking at podium\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122108875365548584\">Open on Facebook</a>\n\n⚠️ <i>Looks like an earlier post: “Judge blocks Donald Trump proposed triumphal arch in Virginia”. Tap 🗑 Delete if it's the same news.</i>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 613,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122108875365548584_1693633445535646"
   }
  },
  "seen_links": [
@@ -11808,44 +11904,11 @@
   "https://www.washingtonexaminer.com/news/senate/4811317/cruz-talarico-space-academy-texas/",
   "https://thehill.com/homenews/senate/6235304-cruz-talarico-texas-space-academy/",
   "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade",
-  "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss"
+  "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+  "https://www.washingtonpost.com/politics/2026/11/21/trump-says-cornyn-blocked-judicial-pick-because-his-feelings-were-hurt/",
+  "https://www.foxnews.com/politics/trump-sen-cornyn-tremendous-disservice-blocking-texas-judicial-pick"
  ],
  "recent_topics": [
-  [
-   "2026-11-18T22:19:07.438801+00:00",
-   [
-    "accus",
-    "agent",
-    "alleg",
-    "arrest",
-    "company",
-    "defens",
-    "firm",
-    "indict",
-    "russian",
-    "silicon",
-    "spy",
-    "support",
-    "surveill",
-    "tech",
-    "ukrain",
-    "valley"
-   ],
-   "fd4500fa37"
-  ],
-  [
-   "2026-11-18T22:19:13.320404+00:00",
-   [
-    "arch",
-    "block",
-    "construction",
-    "extend",
-    "federal",
-    "judg",
-    "trump"
-   ],
-   "skipped"
-  ],
   [
    "2026-11-18T23:01:58.075837+00:00",
    [
@@ -14941,19 +15004,34 @@
     "tanker"
    ],
    "6890e4ab5a"
+  ],
+  [
+   "2026-11-21T22:18:02.277769+00:00",
+   [
+    "becaus",
+    "block",
+    "cornyn",
+    "disservic",
+    "doing",
+    "feel",
+    "hurt",
+    "judicial",
+    "pick",
+    "sen",
+    "texa",
+    "tremendou",
+    "trump"
+   ],
+   "48bdf8571a"
   ]
  ],
- "last_draft_at": "2026-11-21T22:02:05.635640+00:00",
+ "last_draft_at": "2026-11-21T22:15:34.189072+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T21:37:32.639019+00:00",
  "run_log": [
-  "11-21 20:00:45 run start",
-  "11-21 20:00:56 listening 11 min",
-  "11-21 20:12:15 listening done",
-  "11-21 20:12:15 run end after 689 s",
   "11-21 20:15:39 run start",
   "11-21 20:15:48 listening 11 min",
   "11-21 20:27:06 listening done",
@@ -14989,13 +15067,15 @@
   "11-21 22:02:05 run start",
   "11-21 22:02:24 listening 11 min",
   "11-21 22:13:43 listening done",
-  "11-21 22:13:43 run end after 698 s"
+  "11-21 22:13:43 run end after 698 s",
+  "11-21 22:15:33 run start",
+  "11-21 22:18:15 listening 9 min",
+  "11-21 22:27:03 listening done",
+  "11-21 22:27:03 run end after 689 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg/1920px-Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Brooke_Rollins_%2851248109168%29.jpg/1280px-Brooke_Rollins_%2851248109168%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Kyiv_skyline_%2815688086793%29.jpg/1920px-Kyiv_skyline_%2815688086793%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/9/91/Views_of_Iraqi_flag_over_the_Aghawat_Mosque_in_Mosul_in_summer_of_2019%2C_after_its_destruction_in_the_war_with_the_Islamic_State_12.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Naypyidaw_--_Zoo.JPG/1920px-Naypyidaw_--_Zoo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -15033,85 +15113,11 @@
    "https://live.staticflickr.com/3502/4571498936_ca188f521b_b.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/1280px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Voting_booth_at_the_Madison_Parish_Courthouse.jpg/1920px-Voting_booth_at_the_Madison_Parish_Courthouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Firefighters_fighting_fire_action.jpg/1920px-Firefighters_fighting_fire_action.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Firefighters_fighting_fire_action.jpg/1920px-Firefighters_fighting_fire_action.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/John_Cornyn_%2812999214925%29.jpg/1280px-John_Cornyn_%2812999214925%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
-   "john thune": {
-    "t": "2026-11-12T22:45:54.705318+00:00",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/John_Thune_117th_Congress_portrait.jpg/1280px-John_Thune_117th_Congress_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "U.S. Senate Photographic Studio / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/John_Thune_%2853301349311%29.jpg/1280px-John_Thune_%2853301349311%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/John_Thune_117th_Congress_portrait_cropped.jpg/1280px-John_Thune_117th_Congress_portrait_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "U.S. Senate Photographic Studio / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/John_Thune_%2853301350126%29.jpg/1280px-John_Thune_%2853301350126%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/John_Thune_117th_Congress_portrait_%28gray_background%29.png/1280px-John_Thune_117th_Congress_portrait_%28gray_background%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "U.S. Senate Photographic Studio / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/John_Thune_117th_Congress_portrait_%28cropped%29.jpg/1280px-John_Thune_117th_Congress_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "U.S. Senate Photographic Studio / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/John_Thune_%2853301593658%29.jpg/1280px-John_Thune_%2853301593658%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/John_Thune_%2853301348386%29.jpg/1280px-John_Thune_%2853301348386%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/John_Thune_%2853300491977%29.jpg/1280px-John_Thune_%2853300491977%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/John_Thune_%2853300490492%29.jpg/1280px-John_Thune_%2853300490492%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/John_Thune_%2853301593043%29.jpg/1280px-John_Thune_%2853301593043%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/John_Thune_%2853300491507%29.jpg/1280px-John_Thune_%2853300491507%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     }
-    ]
-   },
    "donald trump jr.": {
     "t": "2026-11-12T22:46:28.880505+00:00",
     "photos": [
@@ -18270,6 +18276,94 @@
      }
     ],
     "v": 2
+   },
+   "john cornyn": {
+    "t": "2026-11-21T22:17:08.831237+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/John_Cornyn.jpg/1280px-John_Cornyn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Senate Photography Office / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/John_Cornyn_%286877697823%29.jpg/1280px-John_Cornyn_%286877697823%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/John_Cornyn_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Unknown author Unknown author / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/John_Cornyn_official_portrait.jpg/1280px-John_Cornyn_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Unknown author Unknown author / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/John_Cornyn_%286877703111%29.jpg/1280px-John_Cornyn_%286877703111%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/John_Cornyn_%2812999642174%29.jpg/1280px-John_Cornyn_%2812999642174%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/John_Cornyn_by_Gage_Skidmore.jpg/1280px-John_Cornyn_by_Gage_Skidmore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/John_Cornyn_%2812999591534%29.jpg/1280px-John_Cornyn_%2812999591534%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/John_Cornyn_%286877701671%29.jpg/1280px-John_Cornyn_%286877701671%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/John_Cornyn_%2812999214925%29.jpg/1280px-John_Cornyn_%2812999214925%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/John_Cornyn_%286877699635%29.jpg/1280px-John_Cornyn_%286877699635%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/U.S._Senator_John_Cornyn_Records_Reading_of_Sam_Houston_Letter_7.27.12_%287788884156%29.jpg/1280px-U.S._Senator_John_Cornyn_Records_Reading_of_Sam_Houston_Letter_7.27.12_%287788884156%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Texas State Library and Archives Commission from Austin, TX, / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     }
+    ],
+    "v": 2
    }
   },
   "recent_ideas": [
@@ -19901,6 +19995,11 @@
     "s": 8,
     "w": "firefighters putting out fire",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/John_Cornyn_%2812999214925%29.jpg/1280px-John_Cornyn_%2812999214925%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: John Cornyn": {
+    "s": 9,
+    "w": "John Cornyn speaking at podium",
+    "p": ""
    }
   }
  },
@@ -19912,10 +20011,10 @@
   "2026-11-18": 22,
   "2026-11-19": 30,
   "2026-11-20": 30,
-  "2026-11-21": 15
+  "2026-11-21": 16
  },
- "last_auto_at": "2026-11-21T21:50:20.188219+00:00",
- "last_post_at": "2026-11-21T21:50:25.814534+00:00",
+ "last_auto_at": "2026-11-21T22:18:02.574186+00:00",
+ "last_post_at": "2026-11-21T22:18:07.345105+00:00",
  "reels_count": {
   "2026-11-15": 8,
   "2026-11-16": 10,
