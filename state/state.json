@@ -10559,6 +10559,90 @@
     "shares": 0
    },
    "stats_at": "2026-11-21T16:31:46.242317+00:00"
+  },
+  "bcfaabe6e2": {
+   "id": "bcfaabe6e2",
+   "headline": "Israeli strike kills three in Gaza aid vehicle",
+   "summary": "An Israeli military strike killed three people in a vehicle distributing food aid in Gaza, according to reports. Witnesses stated the vehicle was distributing aid at the time of the attack.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "A Palestinian man was shot dead by Israeli forces in Jabalia.",
+    "Three people were injured in an attack in Khan Younis.",
+    "A prior 2024 strike killed seven World Central Kitchen workers."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Gaza",
+    "#WorldNews",
+    "#Conflict"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/middle-east/world-central-kitchen-gaza-strike-b3089195.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/middle-east/world-central-kitchen-gaza-strike-b3089195.html"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "map",
+    "photos": [],
+    "location": "Gaza",
+    "lat": 31.5,
+    "lon": 34.45,
+    "country": "Palestine",
+    "state": ""
+   },
+   "img_post": {
+    "headline": "Israeli strike kills three in Gaza aid vehicle",
+    "people": [],
+    "image_query": "Gaza Strip street",
+    "image_queries": [
+     "humanitarian aid distribution",
+     "Gaza street scene",
+     "Jabalia town",
+     "Khan Younis area"
+    ],
+    "image_style": "incident",
+    "location": "Gaza",
+    "nearby_city": "Gaza City, Gaza",
+    "event_query": "Gaza aid vehicle strike",
+    "topic_photo": "food aid boxes",
+    "label": "CONFLICT",
+    "action_subject": "aid distribution vehicle",
+    "news_time": "2026-11-21T12:29:49+00:00"
+   },
+   "created_at": "2026-11-21T16:47:32.624459+00:00",
+   "news_time": "2026-11-21T12:29:49+00:00",
+   "news_latest": "2026-11-21T16:12:41+00:00",
+   "importance": 9,
+   "caption": "Israeli strike kills three in Gaza aid vehicle\n\nAn Israeli military strike killed three people in a vehicle distributing food aid in Gaza, according to reports. Witnesses stated the vehicle was distributing aid at the time of the attack.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Gaza #WorldNews #Conflict #7SeasNews",
+   "photo_line": "📷 news map (no fitting photo)",
+   "status": "posted",
+   "tg_message_id": 896,
+   "tg_file_id": "AgACAgUAAxkDAAIDgGsByyZgcylyIDRZsyy0Wy216dVgAAJsFmsb_TsQVLrATt0Dt2N0AQADAgADdwADPQQ",
+   "queued_at": "2026-11-21T16:47:34.531532+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-21T16:47:34.531570+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122108637669548584",
+   "posted_at": "2026-11-21T16:47:34.836438+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 21 · 11:47 AM New York · 10:17 PM Sri Lanka\n\n<b>Israeli strike kills three in Gaza aid vehicle</b>\n<i>Al Jazeera, The Independent</i>\n🟢 <b>Latest:</b> 9:42 PM Sri Lanka (34 min ago) · first reported 5:59 PM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122108637669548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 604,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122108637669548584_2336747413945739"
   }
  },
  "seen_links": [
@@ -12456,31 +12540,11 @@
   "https://www.cbsnews.com/news/catherine-princess-of-wales-heal-documentary-cancer-healing/",
   "https://www.cbsnews.com/news/kate-princess-of-wales-remission-cancer/",
   "https://www.theguardian.com/uk-news/2026/nov/21/princess-of-wales-impact-cancer-diagnosis-bbc-film-heal",
-  "https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html"
+  "https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html",
+  "https://www.independent.co.uk/news/world/middle-east/world-central-kitchen-gaza-strike-b3089195.html",
+  "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss"
  ],
  "recent_topics": [
-  [
-   "2026-11-18T16:48:49.873446+00:00",
-   [
-    "abus",
-    "alleg",
-    "claim",
-    "court",
-    "fac",
-    "high",
-    "iglesia",
-    "investigat",
-    "investigation",
-    "julio",
-    "offenc",
-    "open",
-    "prob",
-    "sexual",
-    "spain",
-    "spanish"
-   ],
-   "skipped"
-  ],
   [
    "2026-11-18T17:14:21.103089+00:00",
    [
@@ -15676,19 +15740,31 @@
     "warn"
    ],
    "29f6300d91"
+  ],
+  [
+   "2026-11-21T16:47:34.531401+00:00",
+   [
+    "aid",
+    "car",
+    "distribut",
+    "food",
+    "gaza",
+    "israeli",
+    "kill",
+    "strik",
+    "vehicl",
+    "witness"
+   ],
+   "bcfaabe6e2"
   ]
  ],
- "last_draft_at": "2026-11-21T16:32:29.162616+00:00",
+ "last_draft_at": "2026-11-21T16:45:33.921804+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T16:31:46.242317+00:00",
  "run_log": [
-  "11-21 14:30:40 run start",
-  "11-21 14:33:21 listening 9 min",
-  "11-21 14:42:10 listening done",
-  "11-21 14:42:10 run end after 689 s",
   "11-21 14:45:34 run start",
   "11-21 14:45:42 listening 11 min",
   "11-21 14:57:01 listening done",
@@ -15724,7 +15800,11 @@
   "11-21 16:31:45 run start",
   "11-21 16:32:47 listening 10 min",
   "11-21 16:43:17 listening done",
-  "11-21 16:43:17 run end after 692 s"
+  "11-21 16:43:17 run end after 692 s",
+  "11-21 16:45:33 run start",
+  "11-21 16:47:49 listening 9 min",
+  "11-21 16:57:01 listening done",
+  "11-21 16:57:01 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -20556,6 +20636,26 @@
     "s": 9,
     "w": "motherboard with processor chips",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Tune_it_safe%2C_EMS_2023%2C_Essen_%28P1170003%29.jpg/1920px-Tune_it_safe%2C_EMS_2023%2C_Essen_%28P1170003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|62ef4594": {
+    "s": 0,
+    "w": "Volkswagen police van exhibit",
+    "p": "Photo shows a German police van on display at an exhibition, completely unrelate"
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/d/d5/Gaza_skyline.jpg|62ef4594": {
+    "s": 2,
+    "w": "sunset over landscape",
+    "p": "photo shows a sunset landscape instead of the specific story action or location"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Gaza_Street_bus_bombing3493.jpg/1920px-Gaza_Street_bus_bombing3493.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|62ef4594": {
+    "s": 0,
+    "w": "street corner with memorial wreath",
+    "p": "wrong location, does not show Gaza or an aid vehicle"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Trafalgar_Square_Gaza_Protest_%2853983687790%29.jpg/1920px-Trafalgar_Square_Gaza_Protest_%2853983687790%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|62ef4594": {
+    "s": 0,
+    "w": "protest in London",
+    "p": "shows a protest in the UK instead of Gaza aid vehicle strike"
    }
   }
  },
@@ -20567,10 +20667,10 @@
   "2026-11-18": 22,
   "2026-11-19": 30,
   "2026-11-20": 30,
-  "2026-11-21": 8
+  "2026-11-21": 9
  },
- "last_auto_at": "2026-11-21T15:57:35.942851+00:00",
- "last_post_at": "2026-11-21T15:57:41.158244+00:00",
+ "last_auto_at": "2026-11-21T16:47:34.836438+00:00",
+ "last_post_at": "2026-11-21T16:47:39.572401+00:00",
  "reels_count": {
   "2026-11-15": 8,
   "2026-11-16": 10,
