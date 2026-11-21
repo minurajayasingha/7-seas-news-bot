@@ -1,99 +1,6 @@
 {
  "tg_offset": 495893091,
  "drafts": {
-  "814979608f": {
-   "id": "814979608f",
-   "headline": "Senate Democrats face leadership contest between Van Hollen and Schumer",
-   "summary": "Senate Democrats face their first leadership race in decades. Sen. Chris Van Hollen alleges the Dec. 1 secret ballot vote may be rushed, while Sen. Chuck Schumer holds an early advantage.",
-   "label": "US POLITICS",
-   "hook": "Should the Senate Democratic leadership vote be delayed?",
-   "key_points": [
-    "Van Hollen says he has locked down 15 votes.",
-    "Schumer takes a big lead in the contest.",
-    "Van Hollen supporters are lying low to avoid the fight."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#Senate",
-    "#Democrats"
-   ],
-   "sources": [
-    "Fox News",
-    "The Hill"
-   ],
-   "link": "https://thehill.com/homenews/senate/6223801-democrats-clash-majority-leader-election/",
-   "links": [
-    [
-     "The Hill",
-     "https://thehill.com/homenews/senate/6223801-democrats-clash-majority-leader-election/"
-    ],
-    [
-     "Fox News",
-     "https://www.foxnews.com/politics/schumer-boasts-early-advantage-senate-power-struggle-dem-rival-warns-against-coronation"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Virginia_House_of_Delegates_chamber_2017.jpg",
-      "credit": "Antony-22 / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 6,
-      "shows": "Virginia House of Delegates chamber"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Senate Democrats face leadership contest between Van Hollen and Schumer",
-    "people": [],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "Senate chamber",
-     "Capitol Hill",
-     "voting booth",
-     "US Senate building"
-    ],
-    "image_style": "scene",
-    "location": "Washington, DC, US",
-    "nearby_city": "Washington, District of Columbia",
-    "event_query": "Senate leadership race",
-    "topic_photo": "ballot box",
-    "label": "US POLITICS",
-    "action_subject": "",
-    "news_time": "2026-11-17T10:30:03+00:00"
-   },
-   "created_at": "2026-11-17T11:18:03.171447+00:00",
-   "news_time": "2026-11-17T10:30:03+00:00",
-   "news_latest": "2026-11-17T11:00:00+00:00",
-   "importance": 7,
-   "caption": "Senate Democrats face leadership contest between Van Hollen and Schumer\n\nSenate Democrats face their first leadership race in decades. Sen. Chris Van Hollen alleges the Dec. 1 secret ballot vote may be rushed, while Sen. Chuck Schumer holds an early advantage.\n\n💬 Should the Senate Democratic leadership vote be delayed?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Senate #Democrats #7SeasNews",
-   "photo_line": "📷 6/10 Virginia House of Delegates chamber",
-   "status": "posted",
-   "tg_message_id": 710,
-   "tg_file_id": "AgACAgUAAxkDAAICxmr8N_s_PNODCihGmBfqRkuwcd9bAAK4FmsbguzgV5zwVZIMXRFZAQADAgADdwADPQQ",
-   "queued_at": "2026-11-17T11:18:19.326245+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-17T11:18:19.326270+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122104209447548584",
-   "posted_at": "2026-11-17T11:18:19.654795+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 17 · 6:18 AM New York · 4:48 PM Sri Lanka\n\n<b>Senate Democrats face leadership contest between Van Hollen and Schumer</b>\n<i>Fox News, The Hill</i>\n🟢 <b>Latest:</b> 4:30 PM Sri Lanka (18 min ago) · first reported 4:00 PM\n📷 6/10 Virginia House of Delegates chamber\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122104209447548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 458,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122104209447548584_1110707355088950",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-20T10:43:28.877927+00:00"
-  },
   "349863c869": {
    "id": "349863c869",
    "headline": "Nvidia creates new committee to oversee national security",
@@ -12676,21 +12583,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-18T11:16:31.054131+00:00",
-   [
-    "arrest",
-    "boxer",
-    "confirm",
-    "deportation",
-    "detention",
-    "fac",
-    "ice",
-    "linar",
-    "venezuelan"
-   ],
-   "skipped"
-  ],
-  [
    "2026-11-18T12:01:13.718112+00:00",
    [
     "alaska",
@@ -16004,17 +15896,13 @@
    "6433155462"
   ]
  ],
- "last_draft_at": "2026-11-21T11:01:15.330656+00:00",
+ "last_draft_at": "2026-11-21T11:15:38.329097+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T10:30:48.085210+00:00",
  "run_log": [
-  "11-21 08:46:00 run start",
-  "11-21 08:46:02 listening 11 min",
-  "11-21 08:57:47 listening done",
-  "11-21 08:57:47 run end after 706 s",
   "11-21 09:00:42 run start",
   "11-21 09:00:51 listening 11 min",
   "11-21 09:12:09 listening done",
@@ -16050,7 +15938,11 @@
   "11-21 11:01:14 run start",
   "11-21 11:01:16 listening 11 min",
   "11-21 11:13:01 listening done",
-  "11-21 11:13:01 run end after 706 s"
+  "11-21 11:13:01 run end after 706 s",
+  "11-21 11:15:37 run start",
+  "11-21 11:15:47 listening 11 min",
+  "11-21 11:27:06 listening done",
+  "11-21 11:27:06 run end after 688 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
