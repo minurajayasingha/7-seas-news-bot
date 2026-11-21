@@ -14822,17 +14822,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-21T20:45:42.757023+00:00",
+ "last_draft_at": "2026-11-21T21:00:45.665778+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T20:30:48.027638+00:00",
  "run_log": [
-  "11-21 18:30:44 run start",
-  "11-21 18:31:29 listening 11 min",
-  "11-21 18:42:23 listening done",
-  "11-21 18:42:23 run end after 699 s",
   "11-21 18:45:36 run start",
   "11-21 18:45:56 listening 11 min",
   "11-21 18:57:17 listening done",
@@ -14868,7 +14864,11 @@
   "11-21 20:45:42 run start",
   "11-21 20:45:51 listening 11 min",
   "11-21 20:57:11 listening done",
-  "11-21 20:57:11 run end after 688 s"
+  "11-21 20:57:11 run end after 688 s",
+  "11-21 21:00:45 run start",
+  "11-21 21:00:55 listening 11 min",
+  "11-21 21:12:14 listening done",
+  "11-21 21:12:14 run end after 689 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
