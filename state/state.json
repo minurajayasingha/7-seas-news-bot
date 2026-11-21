@@ -12626,33 +12626,11 @@
   "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
   "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
   "https://abcnews.com/Politics/wireStory/democrats-swept-senate-promised-change-leadership-vote-testing-138342385",
-  "https://www.theguardian.com/us-news/2026/nov/21/senate-democrats-chuck-schumer-chris-van-hollen"
+  "https://www.theguardian.com/us-news/2026/nov/21/senate-democrats-chuck-schumer-chris-van-hollen",
+  "https://www.independent.co.uk/news/world/americas/us-politics/stewart-rhodes-trump-oath-keepers-founder-jan-6-b3089169.html",
+  "https://abcnews.com/Politics/wireStory/oath-keepers-founder-jan-6-leader-stewart-rhodes-138341388"
  ],
  "recent_topics": [
-  [
-   "2026-11-18T15:16:28.035315+00:00",
-   [
-    "airport",
-    "aviation",
-    "beyond",
-    "counter-dron",
-    "dhs",
-    "evolv",
-    "focu",
-    "kinetic",
-    "modern",
-    "must",
-    "option",
-    "prevent",
-    "reservation",
-    "security",
-    "test",
-    "threat",
-    "today",
-    "weapon"
-   ],
-   "skipped"
-  ],
   [
    "2026-11-18T15:30:58.547413+00:00",
    [
@@ -15962,19 +15940,34 @@
     "struck"
    ],
    "623ed4ea30"
+  ],
+  [
+   "2026-11-21T15:16:01.969456+00:00",
+   [
+    "absolutely",
+    "don",
+    "founder",
+    "get",
+    "jan",
+    "keeper",
+    "leader",
+    "modifi",
+    "oath",
+    "rhod",
+    "stewart",
+    "tattoo",
+    "trump"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-21T15:01:16.722299+00:00",
+ "last_draft_at": "2026-11-21T15:15:41.332857+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T14:30:41.244099+00:00",
  "run_log": [
-  "11-21 12:45:42 run start",
-  "11-21 12:46:06 listening 11 min",
-  "11-21 12:57:25 listening done",
-  "11-21 12:57:25 run end after 702 s",
   "11-21 13:00:47 run start",
   "11-21 13:01:02 listening 11 min",
   "11-21 13:12:21 listening done",
@@ -16010,7 +16003,11 @@
   "11-21 15:01:15 run start",
   "11-21 15:01:17 listening 11 min",
   "11-21 15:13:02 listening done",
-  "11-21 15:13:02 run end after 707 s"
+  "11-21 15:13:02 run end after 707 s",
+  "11-21 15:15:40 run start",
+  "11-21 15:16:01 listening 11 min",
+  "11-21 15:27:22 listening done",
+  "11-21 15:27:22 run end after 701 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
