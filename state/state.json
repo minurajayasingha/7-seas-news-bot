@@ -16484,17 +16484,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-21T04:45:52.168007+00:00",
+ "last_draft_at": "2026-11-21T05:00:55.759745+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T04:16:08.848053+00:00",
  "run_log": [
-  "11-21 02:30:43 run start",
-  "11-21 02:30:53 listening 11 min",
-  "11-21 02:42:12 listening done",
-  "11-21 02:42:12 run end after 688 s",
   "11-21 02:45:38 run start",
   "11-21 02:45:49 listening 11 min",
   "11-21 02:57:09 listening done",
@@ -16530,7 +16526,11 @@
   "11-21 04:45:51 run start",
   "11-21 04:46:01 listening 11 min",
   "11-21 04:57:20 listening done",
-  "11-21 04:57:20 run end after 688 s"
+  "11-21 04:57:20 run end after 688 s",
+  "11-21 05:00:52 run start",
+  "11-21 05:01:15 listening 11 min",
+  "11-21 05:12:35 listening done",
+  "11-21 05:12:35 run end after 702 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -22290,6 +22290,181 @@
     "tt3": true,
     "log3": true
    }
+  },
+  "2026-11-20": {
+   "status": "asked",
+   "plan": {
+    "parts": [
+     {
+      "name": "WAR & CONFLICT",
+      "tag": "#warnews",
+      "stories": [
+       7,
+       14,
+       13,
+       16,
+       8
+      ],
+      "hook": "Russian attacks kill in Ukraine. Estonia plans border close.",
+      "title": "Russian Attacks and Border Tensions in Europe",
+      "question": "Will Estonia close its border with Russia?",
+      "hashtags": [
+       "#ukraine",
+       "#russia"
+      ],
+      "tags": [
+       "ukraine war",
+       "russia conflict",
+       "estonia russia",
+       "denmark intelligence",
+       "iraq security",
+       "missile attacks"
+      ],
+      "of": 3
+     },
+     {
+      "name": "US NEWS",
+      "tag": "#usnews",
+      "stories": [
+       6,
+       4,
+       3,
+       20,
+       21,
+       17,
+       5,
+       15,
+       10,
+       28,
+       23,
+       27,
+       29
+      ],
+      "hook": "Trump, Putin and Xi summit. Apec leaders meet in China.",
+      "title": "Trump Holds China Summit and Outlines Deals with Democrats",
+      "question": "What will come from the US, Russia and China summit?",
+      "hashtags": [
+       "#trump",
+       "#diplomacy"
+      ],
+      "tags": [
+       "trump summit",
+       "apec summit",
+       "us politics",
+       "congress democrats",
+       "federal judge",
+       "white house"
+      ],
+      "of": 3
+     },
+     {
+      "name": "WORLD NEWS",
+      "tag": "#worldnews",
+      "stories": [
+       9,
+       30,
+       12,
+       18,
+       19,
+       26,
+       22,
+       25,
+       11,
+       1,
+       2
+      ],
+      "hook": "UN court rules on Myanmar. Dow and S&P 500 correct.",
+      "title": "UN Court Rules on Myanmar Genocide and Markets Fall",
+      "question": "",
+      "hashtags": [
+       "#un",
+       "#economy"
+      ],
+      "tags": [
+       "myanmar genocide",
+       "stock market",
+       "italy strike",
+       "alibaba lawsuit",
+       "ai chips",
+       "world news"
+      ],
+      "of": 3
+     }
+    ],
+    "dropped": [
+     {
+      "n": 24,
+      "why": "Duplicate press conference coverage"
+     }
+    ],
+    "ids": [
+     "5c6961b5ad",
+     "f680186535",
+     "c8606f7a59",
+     "c2517c5510",
+     "2717393060",
+     "ce7c2b9efb",
+     "ced106d019",
+     "11cb4e9aad",
+     "1deeaf75e4",
+     "d409ed1430",
+     "7617761c95",
+     "c22b982322",
+     "91778f647d",
+     "acf404f6e9",
+     "da2d74bebf",
+     "4f1d9bc8cb",
+     "1b03632f32",
+     "7474b8d00e",
+     "799e86da77",
+     "6e0948d976",
+     "0bfb729c70",
+     "7abcb9e67a",
+     "7768cf111c",
+     "9cd1260ee6",
+     "de9e9b9d72",
+     "f926c87686",
+     "3db22531f4",
+     "86cd91c4cf",
+     "5cf68669c9",
+     "e2d20caa20"
+    ]
+   },
+   "heads": [
+    "Three candidates enter upcoming FIFA presidential election",
+    "Texas executes Reinaldo Dennes for 1996 Houston murder",
+    "Prime Minister Andy Burnham meets EU officials in Brussels",
+    "Leaders meet at Apec summit in Shenzhen",
+    "Federal judge rules Brooke Rollins religious emails violate US constitution",
+    "Trump, Putin and Xi hold summit in China",
+    "Russian missile and drone attacks kill several in Ukraine",
+    "Iraqi security forces deploy in Jurf al-Sakhar",
+    "UN court rules Myanmar committed genocide against Rohingya minority",
+    "Democrats prepare for majorities in Congress",
+    "Mayor Zohran Mamdani signs ban on Central Park horse carriages",
+    "Nationwide strike across Italy disrupts schools hospitals and transport",
+    "Estonia plans to close border with Russia over sabotage attack",
+    "Poland investigates suspected Russian airspace violation during attack",
+    "Judge blocks Donald Trump proposed triumphal arch in Virginia",
+    "Denmark accuses Russian intelligence of plotting attack",
+    "Trump announces plans to tax US companies building data centers overseas",
+    "Alibaba sued over links to chip network spying suspect",
+    "Spain releases US activist James Fergie Chambers on bail",
+    "Melania Trump pushes for peace as EU approves military support",
+    "President Trump outlines four areas for potential deals with Democrats",
+    "Anthropic shares fall on second day of trading amid tech sell-off",
+    "Trump supports second chance for Jensen Huang at Nvidia",
+    "Trump holds press conference after returning from China",
+    "US lawmakers push for tougher AI chip rules",
+    "French court sentences police officers over beating of music producer",
+    "Texas Governor-elect Gina Hinojosa vows to change policies",
+    "Democratic lawmaker warns US could halt SpaceX funding over Ukraine dispute",
+    "Jury finds California man guilty of starting Palisades Fire",
+    "Dow and S&P 500 enter correction as Nasdaq plunges"
+   ],
+   "asked_at": "2026-11-21T05:00:55.350993+00:00",
+   "test": false,
+   "msg_id": 884
   }
  },
  "run_once_done": [
