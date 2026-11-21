@@ -1,97 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "f283b74baa": {
-   "id": "f283b74baa",
-   "headline": "American soldier suspected of spying handed to US authorities",
-   "summary": "UK counter-terror police arrested an American soldier suspected of spying for Russia. The soldier has now been handed over to US military authorities.",
-   "label": "WORLD",
-   "hook": "Why was the soldier arrested in the UK?",
-   "key_points": [
-    "The FBI director called the soldier a potential threat to national security.",
-    "The suspect was in U.S. custody after a U.K. arrest."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#WorldNews",
-    "#NationalSecurity",
-    "#USMilitary"
-   ],
-   "sources": [
-    "CBS News",
-    "Sky News"
-   ],
-   "link": "https://www.cbsnews.com/news/american-soldier-spying-suspect-russia-united-kingdom-us-custody/",
-   "links": [
-    [
-     "CBS News",
-     "https://www.cbsnews.com/news/american-soldier-spying-suspect-russia-united-kingdom-us-custody/"
-    ],
-    [
-     "Sky News",
-     "https://news.sky.com/story/american-soldier-arrested-in-uk-by-counter-terror-police-taken-into-us-custody-13613366"
-    ]
-   ],
-   "bg": {
-    "type": "map",
-    "photos": [],
-    "location": "United Kingdom",
-    "lat": 55.0,
-    "lon": -3.0,
-    "country": "United Kingdom",
-    "state": "",
-    "pin": false,
-    "fit": true
-   },
-   "img_post": {
-    "headline": "American soldier suspected of spying handed to US authorities",
-    "people": [],
-    "image_query": "Pentagon building",
-    "image_queries": [
-     "FBI headquarters",
-     "counter terrorism police",
-     "military base",
-     "courtroom"
-    ],
-    "image_style": "person",
-    "location": "United Kingdom",
-    "nearby_city": "London, United Kingdom",
-    "event_query": "",
-    "topic_photo": "judge gavel",
-    "label": "WORLD",
-    "action_subject": "military personnel",
-    "news_time": "2026-11-17T18:41:00+00:00"
-   },
-   "created_at": "2026-11-17T19:47:53.612817+00:00",
-   "news_time": "2026-11-17T18:41:00+00:00",
-   "news_latest": "2026-11-17T19:40:06+00:00",
-   "importance": 7,
-   "caption": "American soldier suspected of spying handed to US authorities\n\nUK counter-terror police arrested an American soldier suspected of spying for Russia. The soldier has now been handed over to US military authorities.\n\n💬 Why was the soldier arrested in the UK?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WorldNews #NationalSecurity #USMilitary #7SeasNews",
-   "photo_line": "📷 news map (no fitting photo)",
-   "status": "posted",
-   "tg_message_id": 764,
-   "tg_file_id": "AgACAgUAAxkDAAIC_Gr8r27kyxm4gr1jdiWACROK3MYEAAJWFGsbguzoV3od1IhuZQS7AQADAgADdwADPQQ",
-   "queued_at": "2026-11-17T19:47:59.236199+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-17T19:47:59.236229+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122104690779548584",
-   "posted_at": "2026-11-17T19:48:44.163393+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 17 · 2:49 PM New York · 1:19 AM Sri Lanka\n\n<b>American soldier suspected of spying handed to US authorities</b>\n<i>CBS News, Sky News</i>\n🟢 <b>Latest:</b> 1:10 AM Sri Lanka (9 min ago) · first reported 12:11 AM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122104690779548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 479,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122104690779548584_1134092152713662",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-20T18:57:50.294800+00:00"
-  },
   "08b988c418": {
    "id": "08b988c418",
    "headline": "Sixteen Ecuadorian fishermen sue United States over boat strike",
@@ -11877,7 +11786,9 @@
   "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon",
   "https://www.foxnews.com/politics/trump-says-vance-rubio-doing-fantastically-ahead-2028-republican-presidential-primary",
   "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
-  "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-world-4025-rdf"
+  "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-world-4025-rdf",
+  "https://thehill.com/homenews/administration/6235305-trump-fbi-database-breach-comments/",
+  "https://www.washingtonexaminer.com/news/white-house/4811227/trump-fbi-hack-reveal-voter-fraud-ukraine-hoax/"
  ],
  "recent_topics": [
   [
@@ -14897,19 +14808,41 @@
     "zelenskyy"
    ],
    "cf79c26c0f"
+  ],
+  [
+   "2026-11-21T19:46:18.556784+00:00",
+   [
+    "again",
+    "alway",
+    "expos",
+    "fbi",
+    "fraud",
+    "hack",
+    "hoax",
+    "learn",
+    "lik",
+    "mayb",
+    "positiv",
+    "put",
+    "reveal",
+    "russia",
+    "spin",
+    "thing",
+    "trump",
+    "ukrain",
+    "voter",
+    "well"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-21T19:31:22.386149+00:00",
+ "last_draft_at": "2026-11-21T19:45:43.707661+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T19:30:45.052693+00:00",
  "run_log": [
-  "11-21 17:16:01 run start",
-  "11-21 17:16:03 listening 11 min",
-  "11-21 17:27:46 listening done",
-  "11-21 17:27:46 run end after 704 s",
   "11-21 17:30:41 run start",
   "11-21 17:31:23 listening 11 min",
   "11-21 17:42:17 listening done",
@@ -14945,7 +14878,11 @@
   "11-21 19:30:44 run start",
   "11-21 19:31:41 listening 11 min",
   "11-21 19:42:10 listening done",
-  "11-21 19:42:10 run end after 685 s"
+  "11-21 19:42:10 run end after 685 s",
+  "11-21 19:45:43 run start",
+  "11-21 19:46:18 listening 11 min",
+  "11-21 19:57:13 listening done",
+  "11-21 19:57:13 run end after 689 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
