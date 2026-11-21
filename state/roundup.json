@@ -296,5 +296,77 @@
     }
    }
   ]
+ },
+ "2026-11-20": {
+  "built_at": "2026-11-21T07:59:48.424703+00:00",
+  "test": false,
+  "parts": [
+   {
+    "name": "WAR & CONFLICT",
+    "of": 3,
+    "post_at": "2026-11-21T12:55:00+00:00",
+    "stories": 5,
+    "seconds": 26.0,
+    "fb": {
+     "id": "1502376371990522",
+     "state": "scheduled",
+     "caption": "Russian attacks kill in Ukraine. Estonia plans border close.\n\nWAR & CONFLICT · Friday's top stories · Part 1/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#warnews #ukraine #7seasnews #news",
+     "thumb": "set"
+    },
+    "yt": {
+     "id": "jJd1OKBB-aU",
+     "state": "scheduled",
+     "url": "https://youtube.com/shorts/jJd1OKBB-aU",
+     "thumb": "set"
+    },
+    "tt": {
+     "state": "sent"
+    }
+   },
+   {
+    "name": "US NEWS",
+    "of": 3,
+    "post_at": "2026-11-21T14:55:00+00:00",
+    "stories": 13,
+    "seconds": 61.3,
+    "fb": {
+     "id": "1541464894465693",
+     "state": "scheduled",
+     "caption": "Trump, Putin and Xi summit. Apec leaders meet in China.\n\nUS NEWS · Friday's top stories · Part 2/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#usnews #trump #7seasnews #news",
+     "thumb": "set"
+    },
+    "yt": {
+     "id": "l3mDeL6Ud5s",
+     "state": "scheduled",
+     "url": "https://youtube.com/shorts/l3mDeL6Ud5s",
+     "thumb": "set"
+    },
+    "tt": {
+     "state": "sent"
+    }
+   },
+   {
+    "name": "WORLD NEWS",
+    "of": 3,
+    "post_at": "2026-11-21T16:55:00+00:00",
+    "stories": 11,
+    "seconds": 52.1,
+    "fb": {
+     "id": "2094578517930339",
+     "state": "scheduled",
+     "caption": "UN court rules on Myanmar. Dow and S&P 500 correct.\n\nWORLD NEWS · Friday's top stories · Part 3/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#worldnews #un #7seasnews #news",
+     "thumb": "set"
+    },
+    "yt": {
+     "id": "XftPvpKbg5c",
+     "state": "scheduled",
+     "url": "https://youtube.com/shorts/XftPvpKbg5c",
+     "thumb": "set"
+    },
+    "tt": {
+     "state": "sent"
+    }
+   }
+  ]
  }
 }
