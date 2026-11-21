@@ -11978,44 +11978,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-18T18:46:22.293626+00:00",
-   [
-    "all",
-    "beg",
-    "china",
-    "coffe",
-    "cream",
-    "get",
-    "helper",
-    "hom",
-    "hous",
-    "hub",
-    "humanoid",
-    "ice",
-    "insid",
-    "karolin",
-    "leavitt",
-    "look",
-    "our",
-    "outag",
-    "panic",
-    "putin",
-    "rac",
-    "revolution",
-    "robot",
-    "serv",
-    "smil",
-    "speak",
-    "tech",
-    "trigger",
-    "trump",
-    "unusual",
-    "welcom",
-    "whit"
-   ],
-   "skipped"
-  ],
-  [
    "2026-11-18T21:31:01.721054+00:00",
    [
     "chimp",
@@ -15020,17 +14982,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-21T18:31:19.983907+00:00",
+ "last_draft_at": "2026-11-21T18:45:37.340788+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T18:30:44.412219+00:00",
  "run_log": [
-  "11-21 16:19:42 run start",
-  "11-21 16:19:51 listening 11 min",
-  "11-21 16:31:10 listening done",
-  "11-21 16:31:10 run end after 688 s",
   "11-21 16:31:45 run start",
   "11-21 16:32:47 listening 10 min",
   "11-21 16:43:17 listening done",
@@ -15066,7 +15024,11 @@
   "11-21 18:30:44 run start",
   "11-21 18:31:29 listening 11 min",
   "11-21 18:42:23 listening done",
-  "11-21 18:42:23 run end after 699 s"
+  "11-21 18:42:23 run end after 699 s",
+  "11-21 18:45:36 run start",
+  "11-21 18:45:56 listening 11 min",
+  "11-21 18:57:17 listening done",
+  "11-21 18:57:17 run end after 700 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
