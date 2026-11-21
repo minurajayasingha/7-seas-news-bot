@@ -1,196 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "5704c193c8": {
-   "id": "5704c193c8",
-   "headline": "US strikes Iran again following discussions with officials",
-   "summary": "The US conducted renewed strikes against Iran. Meanwhile, Qatari and Iranian officials held talks following previous statements from the US president regarding the conflict.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "Tucker Carlson states Trump was pushed into the war",
-    "Officials in Qatar and Iran held recent discussions",
-    "The US president previously declared the conflict effectively over"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USIran",
-    "#WorldNews",
-    "#MiddleEast"
-   ],
-   "sources": [
-    "Newsweek",
-    "The Independent"
-   ],
-   "link": "https://www.newsweek.com/tucker-carlson-trump-iran-war-exit-strategy-12730517",
-   "links": [
-    [
-     "Newsweek",
-     "https://www.newsweek.com/tucker-carlson-trump-iran-war-exit-strategy-12730517"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/middle-east/us-strike-iran-war-trump-midterms-b3086708.html"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Almas_missile_launch_and_impact.jpg/1920px-Almas_missile_launch_and_impact.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Fars News Agency / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 10,
-      "shows": "missile test launch"
-     }
-    ],
-    "file_photo": true
-   },
-   "img_post": {
-    "headline": "US strikes Iran again following discussions with officials",
-    "people": [],
-    "image_query": "Tehran city",
-    "image_queries": [
-     "Doha Qatar skyline",
-     "White House",
-     "Pentagon building",
-     "missile launch"
-    ],
-    "image_style": "incident",
-    "location": "Iran",
-    "nearby_city": "Tehran, Iran",
-    "event_query": "US airstrikes Iran",
-    "topic_photo": "military jet",
-    "label": "CONFLICT",
-    "action_subject": "missile launch",
-    "news_time": "2026-11-17T20:36:32+00:00"
-   },
-   "created_at": "2026-11-17T23:04:07.588231+00:00",
-   "news_time": "2026-11-17T20:36:32+00:00",
-   "news_latest": "2026-11-17T22:56:48+00:00",
-   "importance": 9,
-   "caption": "US strikes Iran again following discussions with officials\n\nThe US conducted renewed strikes against Iran. Meanwhile, Qatari and Iranian officials held talks following previous statements from the US president regarding the conflict.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USIran #WorldNews #MiddleEast #7SeasNews",
-   "photo_line": "📷 10/10 missile test launch · FILE PHOTO",
-   "status": "posted",
-   "tg_message_id": 769,
-   "tg_file_id": "AgACAgUAAxkDAAIDAWr83Wng2PTjN77RN39_2jRuB6EnAAJoFGsbguzoVwz4iwS9O9lUAQADAgADdwADPQQ",
-   "queued_at": "2026-11-17T23:04:09.681945+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_label": "🤖 Auto-posting",
-   "post_at": "2026-11-17T23:05:09.136011+00:00",
-   "fb_post_id": "1413030521900096_122104784163548584",
-   "posted_at": "2026-11-17T23:05:04.376919+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 17 · 6:06 PM New York · 4:36 AM Sri Lanka\n\n<b>US strikes Iran again following discussions with officials</b>\n<i>Newsweek, The Independent</i>\n🟢 <b>Latest:</b> 4:26 AM Sri Lanka (9 min ago) · first reported 2:06 AM\n📷 10/10 missile test launch · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122104784163548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 486,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122104784163548584_1916359056019243",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-20T23:01:09.492249+00:00"
-  },
-  "95b34d308e": {
-   "id": "95b34d308e",
-   "headline": "FBI issues warning over AI tool used by hackers",
-   "summary": "The FBI issued an advisory regarding an AI-powered software known as ARTEX. According to the agency, malicious cyber actors and state-aligned hackers are using the tool to target organizations and launch cyberattacks worldwide.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "Hackers have exploited the software to infiltrate computer networks.",
-    "The tool has raised questions regarding recent worldwide outages.",
-    "The FBI detailed the threats in a recent advisory."
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#FBI",
-    "#CyberSecurity",
-    "#ArtificialIntelligence"
-   ],
-   "sources": [
-    "Newsweek",
-    "Washington Examiner"
-   ],
-   "link": "https://www.newsweek.com/what-is-artex-what-to-know-about-fbi-recent-ai-warning-12730347",
-   "links": [
-    [
-     "Newsweek",
-     "https://www.newsweek.com/what-is-artex-what-to-know-about-fbi-recent-ai-warning-12730347"
-    ],
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/policy/technology/4806560/fbi-warning-cybercriminals-exploiting-artex/"
-    ]
-   ],
-   "bg": {
-    "type": "map",
-    "photos": [],
-    "location": "United States",
-    "lat": 40.0,
-    "lon": -100.0,
-    "country": "United States of America",
-    "state": "",
-    "pin": false,
-    "fit": true,
-    "_loaded": 0
-   },
-   "img_post": {
-    "headline": "FBI issues warning over AI tool used by hackers",
-    "people": [],
-    "image_query": "FBI headquarters building",
-    "image_queries": [
-     "computer server room",
-     "cyber security operations center",
-     "digital code screen",
-     "artificial intelligence concept"
-    ],
-    "image_style": "incident",
-    "location": "United States",
-    "nearby_city": "Washington, D.C.",
-    "event_query": "FBI cybersecurity warning announcement",
-    "topic_photo": "computer code",
-    "label": "WORLD",
-    "action_subject": "cybersecurity servers",
-    "news_time": "2026-11-17T21:24:48+00:00"
-   },
-   "created_at": "2026-11-17T23:05:01.709784+00:00",
-   "news_time": "2026-11-17T21:24:48+00:00",
-   "news_latest": "2026-11-17T22:58:58+00:00",
-   "importance": 7,
-   "caption": "🚨 BREAKING: FBI issues warning over AI tool used by hackers\n\nThe FBI issued an advisory regarding an AI-powered software known as ARTEX. According to the agency, malicious cyber actors and state-aligned hackers are using the tool to target organizations and launch cyberattacks worldwide.\n\nWhat we know so far:\n• Hackers have exploited the software to infiltrate computer networks.\n• The tool has raised questions regarding recent worldwide outages.\n• The FBI detailed the threats in a recent advisory.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#FBI #CyberSecurity #ArtificialIntelligence #7SeasNews",
-   "photo_line": "📷 news map (no fitting photo)",
-   "status": "posted",
-   "tg_message_id": 770,
-   "tg_file_id": "AgACAgUAAxkDAAIDAmr83Z9cDV-d3EgV1HPXPflqdaVlAAJpFGsbguzoV2u9nQ3zQooMAQADAgADdwADPQQ",
-   "queued_at": "2026-11-17T23:05:04.076493+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-17T23:05:04.076518+00:00",
-   "post_label": "🤖 Auto-posting + Reel",
-   "fb_post_id": "1413030521900096_122104783377548584",
-   "posted_at": "2026-11-17T23:05:04.376919+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 17 · 6:05 PM New York · 4:35 AM Sri Lanka\n\n<b>FBI issues warning over AI tool used by hackers</b>\n<i>Newsweek, Washington Examiner</i>\n🟢 <b>Latest:</b> 4:28 AM Sri Lanka (6 min ago) · first reported 2:54 AM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122104783377548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 484,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122104783377548584_3908628295942300",
-   "fb_story_id": "1802907194286060",
-   "fb_reel_id": "1100386179497599",
-   "reel_status": "live",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-20T23:01:09.492249+00:00"
-  },
   "448bf69df2": {
    "id": "448bf69df2",
    "headline": "US officials assess reported dirty bomb threat in Washington",
@@ -12023,132 +11833,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-18T23:01:58.075837+00:00",
-   [
-    "assassination",
-    "convict",
-    "florida",
-    "found",
-    "guilty",
-    "haitian",
-    "kill",
-    "pastor",
-    "plot",
-    "president"
-   ],
-   "70abe257ca"
-  ],
-  [
-   "2026-11-18T23:01:59.586605+00:00",
-   [
-    "american",
-    "bureau",
-    "cost",
-    "dinner",
-    "family",
-    "farm",
-    "fuel",
-    "higher",
-    "pric",
-    "push",
-    "ris",
-    "sinc",
-    "soar",
-    "thanksgiv",
-    "tim",
-    "turkey"
-   ],
-   "skipped"
-  ],
-  [
-   "2026-11-18T23:02:14.195378+00:00",
-   [
-    "circl",
-    "claim",
-    "comply",
-    "credit",
-    "death",
-    "demand",
-    "democrat",
-    "deserv",
-    "fall",
-    "hous",
-    "inner",
-    "investigation",
-    "lawyer",
-    "lead",
-    "letter",
-    "mak",
-    "minority",
-    "mislead",
-    "overdos",
-    "oversight",
-    "rebuff",
-    "request",
-    "still",
-    "target",
-    "trump",
-    "whit",
-    "wont"
-   ],
-   "d2e7742756"
-  ],
-  [
-   "2026-11-18T23:02:30.109784+00:00",
-   [
-    "21",
-    "announc",
-    "appearanc",
-    "boast",
-    "cabinet",
-    "captur",
-    "caraca",
-    "cooperation",
-    "defenc",
-    "hegseth",
-    "interim",
-    "leader",
-    "maduro",
-    "mak",
-    "meet",
-    "military",
-    "ouster",
-    "partnership",
-    "renew",
-    "resum",
-    "reveal",
-    "secretary",
-    "sinc",
-    "surpris",
-    "trip",
-    "trump",
-    "use",
-    "venezuela",
-    "visit"
-   ],
-   "f83bd675e0"
-  ],
-  [
-   "2026-11-18T23:02:31.863034+00:00",
-   [
-    "american",
-    "backlash",
-    "cabinet",
-    "gop",
-    "immigration",
-    "member",
-    "midterm",
-    "most",
-    "overreach",
-    "rep",
-    "rid",
-    "stop",
-    "trump",
-    "want"
-   ],
-   "skipped"
-  ],
-  [
    "2026-11-18T23:31:16.880756+00:00",
    [
     "administration",
@@ -15163,17 +14847,13 @@
    "824c4487ef"
   ]
  ],
- "last_draft_at": "2026-11-21T22:46:07.470916+00:00",
+ "last_draft_at": "2026-11-21T23:00:53.384298+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T22:45:36.693546+00:00",
  "run_log": [
-  "11-21 20:45:42 run start",
-  "11-21 20:45:51 listening 11 min",
-  "11-21 20:57:11 listening done",
-  "11-21 20:57:11 run end after 688 s",
   "11-21 21:00:45 run start",
   "11-21 21:00:55 listening 11 min",
   "11-21 21:12:14 listening done",
@@ -15209,7 +14889,11 @@
   "11-21 22:45:36 run start",
   "11-21 22:46:17 listening 11 min",
   "11-21 22:57:11 listening done",
-  "11-21 22:57:11 run end after 695 s"
+  "11-21 22:57:11 run end after 695 s",
+  "11-21 23:00:53 run start",
+  "11-21 23:01:12 listening 11 min",
+  "11-21 23:12:30 listening done",
+  "11-21 23:12:30 run end after 697 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
