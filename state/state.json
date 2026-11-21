@@ -1,98 +1,6 @@
 {
  "tg_offset": 495893091,
  "drafts": {
-  "cfacadb87b": {
-   "id": "cfacadb87b",
-   "headline": "Japan scrambles jets after suspected Russian aircraft airspace violation",
-   "summary": "Japan protested to Moscow after two suspected Russian warplanes temporarily entered Japanese airspace off the southwestern coast. Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.",
-   "label": "WORLD",
-   "hook": "Should Japan take stronger military action against airspace violations?",
-   "key_points": [
-    "Two suspected Russian aircraft entered Japanese airspace.",
-    "The incident occurred off Japan's southwestern coast.",
-    "Taiwan and South Korea also responded to Russian aircraft."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Japan",
-    "#Russia",
-    "#WorldNews"
-   ],
-   "sources": [
-    "ABC News",
-    "BBC"
-   ],
-   "link": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
-   "links": [
-    [
-     "BBC",
-     "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss"
-    ],
-    [
-     "ABC News",
-     "https://abcnews.com/International/wireStory/tokyo-protests-after-suspected-russian-aircraft-violate-japanese-138201049"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Tokyo_Metropolitan_Government_Building_Morning2_cropped.jpg",
-      "credit": "Tokyo_Metropolitan_Government_Building_Morning2.jpg: Wiiii derivative work: 0607crp (talk) / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 10,
-      "shows": "Tokyo Metropolitan Government Building"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Japan scrambles jets after suspected Russian aircraft airspace violation",
-    "people": [],
-    "image_query": "Tokyo skyline",
-    "image_queries": [
-     "Japanese military jets",
-     "Tokyo government building",
-     "Russian military aircraft",
-     "South Korea airspace"
-    ],
-    "image_style": "scene",
-    "location": "Tokyo, Japan",
-    "nearby_city": "Tokyo, Japan",
-    "event_query": "Japan airspace incident",
-    "topic_photo": "military jet",
-    "label": "WORLD",
-    "news_time": "2026-11-17T06:57:20+00:00"
-   },
-   "created_at": "2026-11-17T09:03:00.719616+00:00",
-   "news_time": "2026-11-17T06:57:20+00:00",
-   "news_latest": "2026-11-17T07:44:17+00:00",
-   "importance": 7,
-   "caption": "Japan scrambles jets after suspected Russian aircraft airspace violation\n\nJapan protested to Moscow after two suspected Russian warplanes temporarily entered Japanese airspace off the southwestern coast. Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.\n\n💬 Should Japan take stronger military action against airspace violations?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Japan #Russia #WorldNews #7SeasNews",
-   "photo_line": "📷 10/10 Tokyo Metropolitan Government Building",
-   "status": "posted",
-   "tg_message_id": 697,
-   "tg_file_id": "AgACAgUAAxkDAAICuWr8GEY3Y2oI6axIF2cdSCpLtlrnAAJcFmsbguzgV9S4--xi7DmGAQADAgADdwADPQQ",
-   "queued_at": "2026-11-17T09:03:03.082743+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-17T09:03:03.082788+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122104105689548584",
-   "posted_at": "2026-11-17T09:03:03.439494+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 17 · 4:03 AM New York · 2:33 PM Sri Lanka\n\n<b>Japan scrambles jets after suspected Russian aircraft airspace violation</b>\n<i>ABC News, BBC</i>\n🟡 <b>Latest:</b> 1:14 PM Sri Lanka (1h 18m ago) · first reported 12:27 PM\n📷 10/10 Tokyo Metropolitan Government Building\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122104105689548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 450,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122104105689548584_1495216199190165",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-20T08:45:40.932182+00:00"
-  },
   "0970bc76ea": {
    "id": "0970bc76ea",
    "headline": "White House responds to intelligence reports regarding Iran threat",
@@ -16489,17 +16397,13 @@
    "ee53f844b2"
   ]
  ],
- "last_draft_at": "2026-11-21T08:46:01.461873+00:00",
+ "last_draft_at": "2026-11-21T09:00:42.582674+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T08:21:04.564460+00:00",
  "run_log": [
-  "11-21 06:45:44 run start",
-  "11-21 06:46:26 listening 11 min",
-  "11-21 06:57:20 listening done",
-  "11-21 06:57:20 run end after 696 s",
   "11-21 07:01:23 run start",
   "11-21 07:01:24 listening 11 min",
   "11-21 07:13:10 listening done",
@@ -16535,7 +16439,11 @@
   "11-21 08:46:00 run start",
   "11-21 08:46:02 listening 11 min",
   "11-21 08:57:47 listening done",
-  "11-21 08:57:47 run end after 706 s"
+  "11-21 08:57:47 run end after 706 s",
+  "11-21 09:00:42 run start",
+  "11-21 09:00:51 listening 11 min",
+  "11-21 09:12:09 listening done",
+  "11-21 09:12:09 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
