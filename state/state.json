@@ -1,99 +1,6 @@
 {
  "tg_offset": 495893091,
  "drafts": {
-  "b96a78eea8": {
-   "id": "b96a78eea8",
-   "headline": "Federal Reserve Governor Lisa Cook avoids White House hearing",
-   "summary": "Federal Reserve Governor Lisa Cook is not expected to attend a White House committee hearing regarding mortgage fraud allegations. Officials have threatened to proceed with the hearing without her presence.",
-   "label": "US POLITICS",
-   "hook": "Should a White House committee hold a hearing without the accused official present?",
-   "key_points": [
-    "Facing mortgage fraud allegations",
-    "Trump committee holds hearing"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#FederalReserve",
-    "#USPolitics",
-    "#WhiteHouse"
-   ],
-   "sources": [
-    "The Independent",
-    "UPI"
-   ],
-   "link": "https://www.upi.com/Top_News/US/2026/11/17/lisa-cook-federal-reserve-governor-white-house-hearing/7471794930518/",
-   "links": [
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/US/2026/11/17/lisa-cook-federal-reserve-governor-white-house-hearing/7471794930518/"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/federal-reserve-lisa-cook-white-house-hearing-b3086543.html"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Lisa_D._Cook%2C_Federal_Reserve_Governor.jpg/1280px-Lisa_D._Cook%2C_Federal_Reserve_Governor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Federalreserve / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": null
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Federal Reserve Governor Lisa Cook avoids White House hearing",
-    "people": [
-     "Lisa Cook"
-    ],
-    "image_query": "White House",
-    "image_queries": [
-     "US Capitol dome",
-     "Senate chamber",
-     "Federal Reserve building",
-     "Supreme Court building"
-    ],
-    "image_style": "person",
-    "location": "Washington, DC, US",
-    "nearby_city": "Washington, DC",
-    "event_query": "White House committee hearing",
-    "topic_photo": "judge gavel",
-    "label": "US POLITICS",
-    "action_subject": "",
-    "news_time": "2026-11-17T15:58:11+00:00"
-   },
-   "created_at": "2026-11-17T16:21:22.700785+00:00",
-   "news_time": "2026-11-17T15:58:11+00:00",
-   "news_latest": "2026-11-17T15:59:49+00:00",
-   "importance": 7,
-   "caption": "Federal Reserve Governor Lisa Cook avoids White House hearing\n\nFederal Reserve Governor Lisa Cook is not expected to attend a White House committee hearing regarding mortgage fraud allegations. Officials have threatened to proceed with the hearing without her presence.\n\n💬 Should a White House committee hold a hearing without the accused official present?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#FederalReserve #USPolitics #WhiteHouse #7SeasNews",
-   "photo_line": "📷 photo not checked",
-   "status": "posted",
-   "tg_message_id": 739,
-   "tg_file_id": "AgACAgUAAxkDAAIC42r8fwRplS1WbtftQJAYa8tUyd6cAAI2FGsbguzoV_MUw6RpFvmHAQADAgADdwADPQQ",
-   "queued_at": "2026-11-17T16:21:24.676254+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-17T16:21:24.676298+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122104506489548584",
-   "posted_at": "2026-11-17T16:21:25.011562+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 17 · 11:22 AM New York · 9:52 PM Sri Lanka\n\n<b>Federal Reserve Governor Lisa Cook avoids White House hearing</b>\n<i>The Independent, UPI</i>\n🟢 <b>Latest:</b> 9:29 PM Sri Lanka (23 min ago) · first reported 9:28 PM\n📷 photo not checked\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122104506489548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 466,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122104506489548584_2394992244600102",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-20T15:51:37.524004+00:00"
-  },
   "b89511598c": {
    "id": "b89511598c",
    "headline": "US senators demand FAA pause upgrades linked to ground stop",
@@ -12547,28 +12454,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-18T16:24:24.794867+00:00",
-   [
-    "ban",
-    "california",
-    "cit",
-    "driverless",
-    "freeway",
-    "hazard",
-    "imminent",
-    "public",
-    "pull",
-    "remov",
-    "rid",
-    "safety",
-    "suspend",
-    "taxi",
-    "vehicl",
-    "waymo"
-   ],
-   "skipped"
-  ],
-  [
    "2026-11-18T16:36:36.385593+00:00",
    [
     "annual",
@@ -15841,17 +15726,13 @@
    "29f6300d91"
   ]
  ],
- "last_draft_at": "2026-11-21T16:07:31.911138+00:00",
+ "last_draft_at": "2026-11-21T16:19:42.362433+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T15:30:45.012061+00:00",
  "run_log": [
-  "11-21 14:00:48 run start",
-  "11-21 14:01:21 listening 11 min",
-  "11-21 14:12:13 listening done",
-  "11-21 14:12:13 run end after 685 s",
   "11-21 14:15:33 run start",
   "11-21 14:15:44 listening 11 min",
   "11-21 14:27:03 listening done",
@@ -15887,7 +15768,11 @@
   "11-21 16:07:31 run start",
   "11-21 16:09:36 listening 9 min",
   "11-21 16:19:16 listening done",
-  "11-21 16:19:16 run end after 704 s"
+  "11-21 16:19:16 run end after 704 s",
+  "11-21 16:19:42 run start",
+  "11-21 16:19:51 listening 11 min",
+  "11-21 16:31:10 listening done",
+  "11-21 16:31:10 run end after 688 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
