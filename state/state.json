@@ -1,106 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "448bf69df2": {
-   "id": "448bf69df2",
-   "headline": "US officials assess reported dirty bomb threat in Washington",
-   "summary": "President Donald Trump stated that officials are examining a reported dirty bomb plot targeting Washington, D.C., though the White House noted no credible threats currently exist. Western officials also reported that Iran's negotiating position has hardened following recent US election losses.",
-   "label": "US POLITICS",
-   "hook": "",
-   "key_points": [
-    "President Trump warned Iran would face unprecedented consequences.",
-    "A dirty bomb uses explosives to scatter radioactive material.",
-    "An American lawmaker warned Iran felt strategically empowered."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#Iran",
-    "#WashingtonDC"
-   ],
-   "sources": [
-    "Axios",
-    "Fox News",
-    "New York Times"
-   ],
-   "link": "https://www.nytimes.com/2026/11/17/us/politics/iran-trump-midterms.html",
-   "links": [
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/17/us/politics/iran-trump-midterms.html"
-    ],
-    [
-     "Fox News",
-     "https://www.foxnews.com/politics/senior-us-official-undercuts-cnns-alarming-iran-dirty-bomb-report-its-not-new"
-    ],
-    [
-     "Axios",
-     "https://www.axios.com/2026/11/17/dirty-bomb-radioactive-trump-washington-weapon"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Washington_DC_Skyline.jpg",
-      "credit": "Washington Photo Safari / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 6,
-      "shows": "Washington DC skyline"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "US officials assess reported dirty bomb threat in Washington",
-    "people": [
-     "Donald Trump"
-    ],
-    "image_query": "White House",
-    "image_queries": [
-     "US Capitol building",
-     "Pentagon building",
-     "State Department building",
-     "Washington DC skyline"
-    ],
-    "image_style": "person",
-    "location": "Washington, United States",
-    "nearby_city": "Washington, D.C.",
-    "event_query": "",
-    "topic_photo": "judge gavel",
-    "label": "US POLITICS",
-    "action_subject": "",
-    "news_time": "2026-11-17T19:30:55+00:00"
-   },
-   "created_at": "2026-11-17T23:16:34.310483+00:00",
-   "news_time": "2026-11-17T19:30:55+00:00",
-   "news_latest": "2026-11-17T23:11:02+00:00",
-   "importance": 8,
-   "caption": "US officials assess reported dirty bomb threat in Washington\n\nPresident Donald Trump stated that officials are examining a reported dirty bomb plot targeting Washington, D.C., though the White House noted no credible threats currently exist. Western officials also reported that Iran's negotiating position has hardened following recent US election losses.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Iran #WashingtonDC #7SeasNews",
-   "photo_line": "📷 6/10 Washington DC skyline",
-   "status": "posted",
-   "tg_message_id": 771,
-   "tg_file_id": "AgACAgUAAxkDAAIDA2r84FOQmIB5baIq5AVTkQHekbf5AAJrFGsbguzoV4ZwX4K99sAkAQADAgADdwADPQQ",
-   "queued_at": "2026-11-17T23:16:36.303813+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-17T23:16:36.303859+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122104788243548584",
-   "posted_at": "2026-11-17T23:16:36.595923+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 17 · 6:16 PM New York · 4:46 AM Sri Lanka\n\n<b>US officials assess reported dirty bomb threat in Washington</b>\n<i>Axios, Fox News, New York Times</i>\n🟢 <b>Latest:</b> 4:41 AM Sri Lanka (5 min ago) · first reported 1:00 AM\n📷 6/10 Washington DC skyline\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122104788243548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 487,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122104788243548584_1655177016077892",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-20T23:01:09.492249+00:00"
-  },
   "39b570cca8": {
    "id": "39b570cca8",
    "headline": "Israeli parliament elects Matan Kahana as new Knesset speaker",
@@ -14847,17 +14747,13 @@
    "824c4487ef"
   ]
  ],
- "last_draft_at": "2026-11-21T23:00:53.384298+00:00",
+ "last_draft_at": "2026-11-21T23:15:58.718271+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T22:45:36.693546+00:00",
  "run_log": [
-  "11-21 21:00:45 run start",
-  "11-21 21:00:55 listening 11 min",
-  "11-21 21:12:14 listening done",
-  "11-21 21:12:14 run end after 689 s",
   "11-21 21:13:24 run start",
   "11-21 21:15:12 listening 10 min",
   "11-21 21:24:49 listening done",
@@ -14893,7 +14789,11 @@
   "11-21 23:00:53 run start",
   "11-21 23:01:12 listening 11 min",
   "11-21 23:12:30 listening done",
-  "11-21 23:12:30 run end after 697 s"
+  "11-21 23:12:30 run end after 697 s",
+  "11-21 23:15:58 run start",
+  "11-21 23:15:59 listening 11 min",
+  "11-21 23:27:42 listening done",
+  "11-21 23:27:42 run end after 704 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
