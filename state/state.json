@@ -1,98 +1,6 @@
 {
  "tg_offset": 495893090,
  "drafts": {
-  "49b016b81c": {
-   "id": "49b016b81c",
-   "headline": "Trump administration addresses advanced A.I. chip rules",
-   "summary": "Vice President Vance criticized Democrats for accusing President Trump of being soft on China amid debates over advanced A.I. chips. Meanwhile, the administration moved to close an artificial intelligence chip loophole prior to a presidential meeting with his Chinese counterpart.",
-   "label": "US POLITICS",
-   "hook": "Should the administration restrict advanced A.I. chip sales to Chinese companies?",
-   "key_points": [
-    "Fisssures over A.I. chips emerged inside the government.",
-    "Rules would cut back on a data center business."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#ArtificialIntelligence",
-    "#ChinaPolicy"
-   ],
-   "sources": [
-    "New York Times",
-    "The Hill"
-   ],
-   "link": "https://thehill.com/homenews/administration/6224034-vance-mocks-china-softness-accusations/",
-   "links": [
-    [
-     "The Hill",
-     "https://thehill.com/homenews/administration/6224034-vance-mocks-china-softness-accusations/"
-    ],
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html"
-    ],
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Intel_microchip_manufacturing_plant_Hudson_MA.JPG/1920px-Intel_microchip_manufacturing_plant_Hudson_MA.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Nick Allen / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Trump administration addresses advanced A.I. chip rules",
-    "people": [],
-    "image_query": "White House",
-    "image_queries": [
-     "US Capitol building",
-     "server room",
-     "microchip manufacturing",
-     "government office"
-    ],
-    "image_style": "scene",
-    "location": "Washington, US",
-    "nearby_city": "Washington, DC",
-    "event_query": "White House press briefing",
-    "topic_photo": "computer microchip",
-    "label": "US POLITICS",
-    "news_time": "2026-11-16T21:07:23+00:00"
-   },
-   "created_at": "2026-11-17T02:31:43.511891+00:00",
-   "news_time": "2026-11-16T21:07:23+00:00",
-   "news_latest": "2026-11-17T02:06:38+00:00",
-   "importance": 7,
-   "caption": "Trump administration addresses advanced A.I. chip rules\n\nVice President Vance criticized Democrats for accusing President Trump of being soft on China amid debates over advanced A.I. chips. Meanwhile, the administration moved to close an artificial intelligence chip loophole prior to a presidential meeting with his Chinese counterpart.\n\n💬 Should the administration restrict advanced A.I. chip sales to Chinese companies?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #ArtificialIntelligence #ChinaPolicy #7SeasNews",
-   "status": "posted",
-   "tg_message_id": 679,
-   "tg_file_id": "AgACAgUAAxkDAAICp2r7vJNFiPRk4WYd-k2KSenEUA1VAAKlE2sbg6zgV3lnq3mkR_dHAQADAgADdwADPQQ",
-   "queued_at": "2026-11-17T02:31:48.004700+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-17T02:31:48.004737+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122103869547548584",
-   "posted_at": "2026-11-17T02:31:48.353064+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 16 · 9:31 PM New York · 8:01 AM Sri Lanka\n\n<b>Trump administration addresses advanced A.I. chip rules</b>\n<i>New York Times, The Hill</i>\n🟢 <b>Latest:</b> 7:36 AM Sri Lanka (25 min ago) · first reported 2:37 AM\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122103869547548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 448,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122103869547548584_3372050266323529",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-20T01:45:36.060377+00:00"
-  },
   "9efce15ccb": {
    "id": "9efce15ccb",
    "headline": "Hundreds arrested in Manila protests over Donald Trump visit",
@@ -13234,22 +13142,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-18T02:30:55.445864+00:00",
-   [
-    "ban",
-    "california",
-    "freeway",
-    "hazard",
-    "imminent",
-    "paus",
-    "rid",
-    "robotaxi",
-    "warn",
-    "waymo"
-   ],
-   "skipped"
-  ],
-  [
    "2026-11-18T02:46:01.338748+00:00",
    [
     "anti-gang",
@@ -16619,17 +16511,13 @@
    "e2d20caa20"
   ]
  ],
- "last_draft_at": "2026-11-21T02:16:12.060456+00:00",
+ "last_draft_at": "2026-11-21T02:30:44.200403+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T02:15:35.987373+00:00",
  "run_log": [
-  "11-21 00:15:45 run start",
-  "11-21 00:16:17 listening 11 min",
-  "11-21 00:27:10 listening done",
-  "11-21 00:27:10 run end after 685 s",
   "11-21 00:30:46 run start",
   "11-21 00:31:21 listening 11 min",
   "11-21 00:42:14 listening done",
@@ -16665,7 +16553,11 @@
   "11-21 02:15:35 run start",
   "11-21 02:16:21 listening 11 min",
   "11-21 02:27:14 listening done",
-  "11-21 02:27:14 run end after 699 s"
+  "11-21 02:27:14 run end after 699 s",
+  "11-21 02:30:43 run start",
+  "11-21 02:30:53 listening 11 min",
+  "11-21 02:42:12 listening done",
+  "11-21 02:42:12 run end after 688 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
