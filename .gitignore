@@ -4,3 +4,8 @@ __pycache__/
 # Google OAuth files and tokens: never commit
 client_secret*.json
 *token*.json
+# TikTok login, ENCRYPTED (key = TT_CLIENT_SECRET): must be committed by the bot
+!state/tiktok_token.json
+
+# TikTok app keys for tools/tiktok_token.py: never commit
+tools/.tiktok_*

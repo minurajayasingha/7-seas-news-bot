@@ -1,0 +1,20 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex"><title>7 Seas News Bot · TikTok login</title>
+<style>body{font-family:-apple-system,Segoe UI,Roboto,sans-serif;max-width:720px;margin:40px auto;padding:0 16px;line-height:1.6;color:#111;background:#fff}
+h1{color:#CE0000;font-size:24px}textarea{width:100%;height:110px;font:13px ui-monospace,Menlo,monospace;padding:8px;box-sizing:border-box}
+button{background:#CE0000;color:#fff;border:0;padding:10px 18px;font-size:15px;border-radius:6px;cursor:pointer}.err{color:#CE0000}</style></head>
+<body><h1>7 Seas News Bot · TikTok login</h1><div id="out"></div>
+<script>
+var q = new URLSearchParams(location.search), out = document.getElementById("out");
+if (q.get("code")) {
+  out.innerHTML = '<p>✅ TikTok allowed access. Copy this whole address and give it to the login helper:</p>' +
+    '<textarea id="t" readonly></textarea><p><button id="b">Copy</button> <span id="ok"></span></p>' +
+    '<p>The code works only once and only for a few minutes.</p>';
+  var t = document.getElementById("t"); t.value = location.href;
+  document.getElementById("b").onclick = function () { t.select(); navigator.clipboard.writeText(t.value);
+    document.getElementById("ok").textContent = "Copied"; };
+} else if (q.get("error")) {
+  out.innerHTML = '<p class="err">TikTok said: <b></b></p>'; out.querySelector("b").textContent =
+    q.get("error") + " " + (q.get("error_description") || "");
+} else { out.innerHTML = "<p>This page receives the TikTok login for the 7 Seas News Bot.</p>"; }
+</script></body></html>
