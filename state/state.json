@@ -11095,6 +11095,94 @@
     "shares": 0
    },
    "stats_at": "2026-11-21T00:00:50.117288+00:00"
+  },
+  "3db22531f4": {
+   "id": "3db22531f4",
+   "headline": "Texas Governor-elect Gina Hinojosa vows to change policies",
+   "summary": "Texas Governor-elect Gina Hinojosa plans to rescind existing visa restrictions and faces questions from advocates about the future of the state death penalty. Hinojosa acknowledged program abuse while stating her intention to address the H-1B hiring freeze.",
+   "label": "US POLITICS",
+   "hook": "Should Texas rescind the H-1B hiring freeze despite program abuse?",
+   "key_points": [
+    "Advocates hope for death penalty changes under the governor-elect.",
+    "The H-1B hiring freeze was previously enacted by Greg Abbott."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Texas",
+    "#USPolitics",
+    "#GinaHinojosa"
+   ],
+   "sources": [
+    "Fox News",
+    "Newsweek"
+   ],
+   "link": "https://www.newsweek.com/future-of-the-texas-death-penalty-under-democratic-governor-gina-hinojosa-12750050",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/future-of-the-texas-death-penalty-under-democratic-governor-gina-hinojosa-12750050"
+    ],
+    [
+     "Fox News",
+     "https://www.foxnews.com/politics/texas-gov-elect-gina-hinojosa-vows-rescind-abbotts-h1b-visa-restrictions-despite-admitting-program-abuse"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Gina_Hinojosa_at_LBJ_Library_Forum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "LBJ Library / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "Gina Hinojosa smiling"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Texas Governor-elect Gina Hinojosa vows to change policies",
+    "people": [
+     "Gina Hinojosa"
+    ],
+    "image_query": "Texas State Capitol building",
+    "image_queries": [
+     "Texas Capitol dome",
+     "Austintx skyline",
+     "courtroom gavel",
+     "immigration office building"
+    ],
+    "image_style": "person",
+    "location": "Texas, US",
+    "nearby_city": "Austin, Texas",
+    "event_query": "",
+    "topic_photo": "judge gavel",
+    "label": "US POLITICS",
+    "action_subject": "",
+    "news_time": "2026-11-20T23:37:39+00:00"
+   },
+   "created_at": "2026-11-21T00:31:06.373978+00:00",
+   "news_time": "2026-11-20T23:37:39+00:00",
+   "news_latest": "2026-11-21T00:17:29+00:00",
+   "importance": 6,
+   "caption": "Texas Governor-elect Gina Hinojosa vows to change policies\n\nTexas Governor-elect Gina Hinojosa plans to rescind existing visa restrictions and faces questions from advocates about the future of the state death penalty. Hinojosa acknowledged program abuse while stating her intention to address the H-1B hiring freeze.\n\n💬 Should Texas rescind the H-1B hiring freeze despite program abuse?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Texas #USPolitics #GinaHinojosa #7SeasNews",
+   "photo_line": "📷 10/10 Gina Hinojosa smiling",
+   "status": "posted",
+   "tg_message_id": 880,
+   "tg_file_id": "AgACAgUAAxkDAAIDcGsAAeZMmOyYKrlHbDQ3cu5HKzEc2AAC7BNrG_07CFTmnTcb_faziQEAAwIAA3cAAz0E",
+   "queued_at": "2026-11-21T00:31:08.466530+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-21T00:31:08.466568+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122107977921548584",
+   "posted_at": "2026-11-21T00:31:08.759934+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 20 · 7:31 PM New York · 6:01 AM Sri Lanka\n\n<b>Texas Governor-elect Gina Hinojosa vows to change policies</b>\n<i>Fox News, Newsweek</i>\n🟢 <b>Latest:</b> 5:47 AM Sri Lanka (13 min ago) · first reported 5:07 AM\n📷 10/10 Gina Hinojosa smiling\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122107977921548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 588,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122107977921548584_4424749031188880"
   }
  },
  "seen_links": [
@@ -12930,7 +13018,9 @@
   "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
   "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
   "https://www.france24.com/en/france/20261120-paris-police-officers-sentenced-to-prison-over-2020-beating-of-black-man-michel-zecler",
-  "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing"
+  "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
+  "https://www.newsweek.com/future-of-the-texas-death-penalty-under-democratic-governor-gina-hinojosa-12750050",
+  "https://www.foxnews.com/politics/texas-gov-elect-gina-hinojosa-vows-rescind-abbotts-h1b-visa-restrictions-despite-admitting-program-abuse"
  ],
  "recent_topics": [
   [
@@ -16241,19 +16331,39 @@
     "zecler"
    ],
    "f926c87686"
+  ],
+  [
+   "2026-11-21T00:31:08.466385+00:00",
+   [
+    "abbott",
+    "abus",
+    "admitt",
+    "death",
+    "democratic",
+    "despit",
+    "futur",
+    "gina",
+    "gov-elect",
+    "governor",
+    "hinojosa",
+    "penalty",
+    "program",
+    "rescind",
+    "restriction",
+    "texa",
+    "visa",
+    "vow"
+   ],
+   "3db22531f4"
   ]
  ],
- "last_draft_at": "2026-11-21T00:15:46.007197+00:00",
+ "last_draft_at": "2026-11-21T00:30:47.028845+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T00:00:50.117288+00:00",
  "run_log": [
-  "11-20 22:00:29 listening done",
-  "11-20 22:00:29 run end after 700 s",
-  "11-20 22:00:57 run start",
-  "11-20 22:02:08 listening 10 min",
   "11-20 22:12:37 listening done",
   "11-20 22:12:37 run end after 699 s",
   "11-20 22:23:55 run start",
@@ -16289,12 +16399,15 @@
   "11-21 00:15:45 run start",
   "11-21 00:16:17 listening 11 min",
   "11-21 00:27:10 listening done",
-  "11-21 00:27:10 run end after 685 s"
+  "11-21 00:27:10 run end after 685 s",
+  "11-21 00:30:46 run start",
+  "11-21 00:31:21 listening 11 min",
+  "11-21 00:42:14 listening done",
+  "11-21 00:42:14 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/0/0a/Courtroom_at_the_United_States_Courthouse_in_Augusta%2C_GA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Bill_Essayli_Headshot.jpg/1280px-Bill_Essayli_Headshot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Capitol_Washington_October_2016-1.jpg/1920px-Capitol_Washington_October_2016-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Beverley_Guildhall_Courtroom.jpg/1920px-Beverley_Guildhall_Courtroom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -16333,85 +16446,10 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Director_Petraeus_rings_opening_bell_at_NY_Stock_Exchange_-_Flickr_-_The_Central_Intelligence_Agency.jpg/1920px-Director_Petraeus_rings_opening_bell_at_NY_Stock_Exchange_-_Flickr_-_The_Central_Intelligence_Agency.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Congressional_Hearing_-_Jul._24%2C_2012_%287748554726%29.jpg/1920px-Congressional_Hearing_-_Jul._24%2C_2012_%287748554726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/White_House_%28South_Lawn%29.jpeg/1920px-White_House_%28South_Lawn%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Capitol_Washington_October_2016-3.jpg/1920px-Capitol_Washington_October_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Capitol_Washington_October_2016-3.jpg/1920px-Capitol_Washington_October_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/b/b5/Gina_Hinojosa_at_LBJ_Library_Forum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   ],
   "pools": {
-   "sviatlana tsikhanouskaya": {
-    "t": "2026-11-12T11:30:40.434676+00:00",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Sviatlana_Tsikhanouskaya_%282025%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Polish presidency of the Council of the EU 2025 / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Visit_to_Leinster_House_by_Belarusian_Democratic_Opposition_Leader_Ms_Sviatlana_Tsikhanouskaya_-_5_May_2023_-_52879859817.jpg/1280px-Visit_to_Leinster_House_by_Belarusian_Democratic_Opposition_Leader_Ms_Sviatlana_Tsikhanouskaya_-_5_May_2023_-_52879859817.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Houses of the Oireachtas / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/BDK_Karlsruhe_Nov_2023_Sviatlana_Tsikhanouskaya_8.jpg/1280px-BDK_Karlsruhe_Nov_2023_Sviatlana_Tsikhanouskaya_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Kasa Fue / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Sviatlana_Tsikhanouskaya_in_2025_%28cropped%29.jpg/1280px-Sviatlana_Tsikhanouskaya_in_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "European Parliament from EU / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Visit_of_Sviatlana_Tsikhanouskaya%2C_Leader_of_the_Belarusian_democratic_opposition%2C_to_the_EC_%28P-069184-00-01%29.jpg/1280px-Visit_of_Sviatlana_Tsikhanouskaya%2C_Leader_of_the_Belarusian_democratic_opposition%2C_to_the_EC_%28P-069184-00-01%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Europäische Kommission - Audiovisueller Dienst, Lukasz Kobus / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/2020_Sviatlana_Tsikhanouskaya_%2850437385087%29_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Bundesministerium für europäische und internationale Angeleg / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Belarusian_opposition_leader_Sviatlana_Tsikhanouskaya_addresses_MEPs_-_51702909615.jpg/1280px-Belarusian_opposition_leader_Sviatlana_Tsikhanouskaya_addresses_MEPs_-_51702909615.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "European Parliament / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Visit_to_Leinster_House_by_Belarusian_Democratic_Opposition_Leader_Ms_Sviatlana_Tsikhanouskaya_-_5_May_2023.jpg/1280px-Visit_to_Leinster_House_by_Belarusian_Democratic_Opposition_Leader_Ms_Sviatlana_Tsikhanouskaya_-_5_May_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Houses of the Oireachtas / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Visit_of_Sviatlana_Tsikhanouskaya_to_the_International_Secretariat%2C_22_October_2020_%2850516843142%29.jpg/1280px-Visit_of_Sviatlana_Tsikhanouskaya_to_the_International_Secretariat%2C_22_October_2020_%2850516843142%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "OSCE Parliamentary Assembly from Copenhagen, Denmark / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/BDK_Karlsruhe_Nov_2023_Sviatlana_Tsikhanouskaya.jpg/1280px-BDK_Karlsruhe_Nov_2023_Sviatlana_Tsikhanouskaya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Kasa Fue / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Belarusian_opposition_leader_Sviatlana_Tsikhanouskaya_addresses_MEPs_-_51702909580.jpg/1280px-Belarusian_opposition_leader_Sviatlana_Tsikhanouskaya_addresses_MEPs_-_51702909580.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "European Parliament / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Visit_of_Sviatlana_Tsikhanouskaya_to_the_International_Secretariat%2C_22_October_2020_%2850516845292%29.jpg/1280px-Visit_of_Sviatlana_Tsikhanouskaya_to_the_International_Secretariat%2C_22_October_2020_%2850516845292%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "OSCE Parliamentary Assembly from Copenhagen, Denmark / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     }
-    ]
-   },
    "xi jinping": {
     "t": "2026-11-12T13:47:34.327551+00:00",
     "photos": [
@@ -19725,6 +19763,45 @@
      }
     ],
     "v": 2
+   },
+   "gina hinojosa": {
+    "t": "2026-11-21T00:31:00.737692+00:00",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Gina_Hinojosa_at_the_AFL-CIO_COPE_convention_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "RRC1701 / Wikimedia Commons (CC0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Gina_Hinojosa_16_February_2017_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "LBJ Library from Austin / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Gina_Hinojosa_at_LBJ_Library_Forum_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "LBJ Library / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Gina_Hinojosa_at_LBJ_Library_Forum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "LBJ Library / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Gina_Hinojosa_at_LBJ_Library_Forum.jpg/1280px-Gina_Hinojosa_at_LBJ_Library_Forum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "LBJ Library / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     }
+    ],
+    "v": 2
    }
   },
   "recent_ideas": [
@@ -21146,6 +21223,16 @@
     "s": 0,
     "w": "Paris street sign",
     "p": "photo is a text sign, not police officers"
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/1/13/Gina_Hinojosa_at_LBJ_Library_Forum_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled|person: Gina Hinojosa": {
+    "s": 0,
+    "w": "woman smiling",
+    "p": "Wrong person pictured; this is not Gina Hinojosa."
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/b/b5/Gina_Hinojosa_at_LBJ_Library_Forum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled|person: Gina Hinojosa": {
+    "s": 10,
+    "w": "Gina Hinojosa smiling",
+    "p": ""
    }
   }
  },
@@ -21157,10 +21244,10 @@
   "2026-11-17": 35,
   "2026-11-18": 22,
   "2026-11-19": 30,
-  "2026-11-20": 26
+  "2026-11-20": 27
  },
- "last_auto_at": "2026-11-20T22:50:03.850855+00:00",
- "last_post_at": "2026-11-20T22:50:36.411951+00:00",
+ "last_auto_at": "2026-11-21T00:31:08.759934+00:00",
+ "last_post_at": "2026-11-21T00:31:12.602958+00:00",
  "reels_count": {
   "2026-11-14": 8,
   "2026-11-15": 8,
