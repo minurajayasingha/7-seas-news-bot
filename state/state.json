@@ -12508,29 +12508,12 @@
   "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
   "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss",
   "https://www.foxnews.com/politics/republicans-face-brutal-2028-senate-map-after-dems-2026-blue-wave",
-  "https://www.washingtonexaminer.com/news/senate/4810207/rail-safety-legislation-senate-democrats-midterm-blue-wave/"
+  "https://www.washingtonexaminer.com/news/senate/4810207/rail-safety-legislation-senate-democrats-midterm-blue-wave/",
+  "https://www.npr.org/2026/11/21/nx-s1-6047376/week-in-politics-trump-returns-from-asia-hails-trip-as-one-of-best-in-history",
+  "https://www.independent.co.uk/asia/southeast-asia/philippine-gold-baton-trump-b3089117.html",
+  "https://www.independent.co.uk/news/world/americas/trump-asia-trip-facts-false-claims-b3089060.html"
  ],
  "recent_topics": [
-  [
-   "2026-11-18T13:03:54.913242+00:00",
-   [
-    "ahead",
-    "arriv",
-    "china",
-    "encounter",
-    "hand",
-    "historic",
-    "land",
-    "meet",
-    "putin",
-    "shak",
-    "talk",
-    "trilateral",
-    "trump",
-    "unprecedent"
-   ],
-   "eba19e7327"
-  ],
   [
    "2026-11-18T13:16:56.710558+00:00",
    [
@@ -15817,19 +15800,40 @@
     "within"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-21T13:01:02.766924+00:00",
+   [
+    "all",
+    "asia",
+    "baton",
+    "best",
+    "claim",
+    "didnt",
+    "explain",
+    "fals",
+    "giv",
+    "gold",
+    "hail",
+    "history",
+    "mad",
+    "mislead",
+    "philippin",
+    "politic",
+    "return",
+    "trip",
+    "trump"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-21T12:45:43.200542+00:00",
+ "last_draft_at": "2026-11-21T13:00:48.319570+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T12:30:53.048756+00:00",
  "run_log": [
-  "11-21 10:30:47 run start",
-  "11-21 10:31:50 listening 10 min",
-  "11-21 10:42:20 listening done",
-  "11-21 10:42:20 run end after 692 s",
   "11-21 10:45:37 run start",
   "11-21 10:46:28 listening 11 min",
   "11-21 10:57:21 listening done",
@@ -15865,7 +15869,11 @@
   "11-21 12:45:42 run start",
   "11-21 12:46:06 listening 11 min",
   "11-21 12:57:25 listening done",
-  "11-21 12:57:25 run end after 702 s"
+  "11-21 12:57:25 run end after 702 s",
+  "11-21 13:00:47 run start",
+  "11-21 13:01:02 listening 11 min",
+  "11-21 13:12:21 listening done",
+  "11-21 13:12:21 run end after 694 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -21761,7 +21769,11 @@
     "Mayor Zohran Mamdani signs ban on Central Park horse carriages",
     "Three candidates enter upcoming FIFA presidential election",
     "Texas executes Reinaldo Dennes for 1996 Houston murder"
-   ]
+   ],
+   "done": {
+    "tt1": true,
+    "log1": true
+   }
   }
  },
  "run_once_done": [
