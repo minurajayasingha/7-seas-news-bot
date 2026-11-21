@@ -10069,6 +10069,93 @@
     "shares": 0
    },
    "stats_at": "2026-11-21T18:30:44.412219+00:00"
+  },
+  "cf79c26c0f": {
+   "id": "cf79c26c0f",
+   "headline": "Russian strike kills two in Kryvyi Rih",
+   "summary": "A Russian attack on Kryvyi Rih resulted in two deaths and sixty injuries. The incident follows a vow from Russian President Vladimir Putin to respond to attacks on the Kerch Bridge.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Missiles also landed in NATO member Poland.",
+    "US-led peace efforts face uncertainty."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#WorldNews",
+    "#Ukraine",
+    "#Russia"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "DW"
+   ],
+   "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss"
+    ],
+    [
+     "DW",
+     "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-world-4025-rdf"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Mersad_Air_Defense_System_with_Shahin_Missile.jpg/1920px-Mersad_Air_Defense_System_with_Shahin_Missile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Vahid Reza Alaei / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 7,
+      "shows": "air defense system"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "Russian strike kills two in Kryvyi Rih",
+    "people": [],
+    "image_query": "Kryvyi Rih city",
+    "image_queries": [
+     "Kerch Bridge",
+     "Crimea landscape",
+     "Ukraine missile damage",
+     "city street in Ukraine"
+    ],
+    "image_style": "incident",
+    "location": "Kryvyi Rih, Ukraine",
+    "nearby_city": "Kyiv, Ukraine",
+    "event_query": "Kryvyi Rih missile strike",
+    "topic_photo": "emergency vehicles",
+    "label": "CONFLICT",
+    "action_subject": "missile strike damage",
+    "news_time": "2026-11-21T14:44:00+00:00"
+   },
+   "created_at": "2026-11-21T19:01:45.224241+00:00",
+   "news_time": "2026-11-21T14:44:00+00:00",
+   "news_latest": "2026-11-21T17:20:03+00:00",
+   "importance": 9,
+   "caption": "Russian strike kills two in Kryvyi Rih\n\nA Russian attack on Kryvyi Rih resulted in two deaths and sixty injuries. The incident follows a vow from Russian President Vladimir Putin to respond to attacks on the Kerch Bridge.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WorldNews #Ukraine #Russia #7SeasNews",
+   "photo_line": "📷 7/10 air defense system · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 899,
+   "tg_file_id": "AgACAgUAAxkDAAIDg2sB6ptFTv6Azj5RvBGg1J1F2hyGAAKRFmsb_TsQVDAtCZL53ushAQADAgADdwADPQQ",
+   "queued_at": "2026-11-21T19:01:47.563226+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-21T19:01:47.563265+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122108729949548584",
+   "posted_at": "2026-11-21T19:01:47.908421+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 21 · 2:01 PM New York · 12:31 AM Sri Lanka\n\n<b>Russian strike kills two in Kryvyi Rih</b>\n<i>Al Jazeera, DW</i>\n🟡 <b>Latest:</b> 10:50 PM Sri Lanka (1h 41m ago) · first reported 8:14 PM\n📷 7/10 air defense system · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122108729949548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 607,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122108729949548584_1680719767130066"
   }
  },
  "seen_links": [
@@ -11974,7 +12061,9 @@
   "https://www.nytimes.com/2026/11/21/magazine/hakeem-jeffries-interview.html",
   "https://www.npr.org/2026/11/21/nx-s1-6047580/the-new-yorkers-jason-zengerle-on-hakeem-jeffries-rise-to-first-black-house-speaker",
   "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon",
-  "https://www.foxnews.com/politics/trump-says-vance-rubio-doing-fantastically-ahead-2028-republican-presidential-primary"
+  "https://www.foxnews.com/politics/trump-says-vance-rubio-doing-fantastically-ahead-2028-republican-presidential-primary",
+  "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
+  "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-world-4025-rdf"
  ],
  "recent_topics": [
   [
@@ -14980,19 +15069,29 @@
     "weapon"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-21T19:01:47.563072+00:00",
+   [
+    "60",
+    "hometown",
+    "kill",
+    "russia",
+    "russian",
+    "strik",
+    "wound",
+    "zelenskyy"
+   ],
+   "cf79c26c0f"
   ]
  ],
- "last_draft_at": "2026-11-21T18:45:37.340788+00:00",
+ "last_draft_at": "2026-11-21T19:00:48.210836+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T18:30:44.412219+00:00",
  "run_log": [
-  "11-21 16:31:45 run start",
-  "11-21 16:32:47 listening 10 min",
-  "11-21 16:43:17 listening done",
-  "11-21 16:43:17 run end after 692 s",
   "11-21 16:45:33 run start",
   "11-21 16:47:49 listening 9 min",
   "11-21 16:57:01 listening done",
@@ -15028,12 +15127,15 @@
   "11-21 18:45:36 run start",
   "11-21 18:45:56 listening 11 min",
   "11-21 18:57:17 listening done",
-  "11-21 18:57:17 run end after 700 s"
+  "11-21 18:57:17 run end after 700 s",
+  "11-21 19:00:47 run start",
+  "11-21 19:02:02 listening 10 min",
+  "11-21 19:12:31 listening done",
+  "11-21 19:12:31 run end after 703 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg/1920px-Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Houston%2C_Texas_Skyline_2017.jpg/1920px-Houston%2C_Texas_Skyline_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/1/1a/European_Commission_building_%40_Brussels_%288177616130%29.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Official_portrait_of_Andy_Burnham_MP_2026_%28cropped_3x4%29.jpg/1280px-Official_portrait_of_Andy_Burnham_MP_2026_%28cropped_3x4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -15072,7 +15174,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Data_center_roof.jpg/1920px-Data_center_roof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Kalustoesittely_itsen%C3%A4isyysp%C3%A4iv%C3%A4_2015_29_maalilennokki.JPG/1920px-Kalustoesittely_itsen%C3%A4isyysp%C3%A4iv%C3%A4_2015_29_maalilennokki.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/286_AT_motherboard.jpg/1920px-286_AT_motherboard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Voters_check_in_at_a_polling_station_in_Washington_DC%2C_5_Nov._2024.jpg/1920px-Voters_check_in_at_a_polling_station_in_Washington_DC%2C_5_Nov._2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Voters_check_in_at_a_polling_station_in_Washington_DC%2C_5_Nov._2024.jpg/1920px-Voters_check_in_at_a_polling_station_in_Washington_DC%2C_5_Nov._2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Mersad_Air_Defense_System_with_Shahin_Missile.jpg/1920px-Mersad_Air_Defense_System_with_Shahin_Missile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "john thune": {
@@ -18312,7 +18415,6 @@
    }
   },
   "recent_ideas": [
-   "courtroom",
    "stock exchange trading floor",
    "missile launch",
    "washington dc skyline",
@@ -18323,7 +18425,8 @@
    "military drone",
    "computer processor chips",
    "voters at polling station",
-   "voters at polling station"
+   "voters at polling station",
+   "air defense system"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -19890,6 +19993,16 @@
     "s": 10,
     "w": "voters waiting in line",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Bolstering_Air_Defense_and_Ukraine%27s_Progress_Toward_NATO_Volodymyr_Zelenskyy_and_Jens_Stoltenberg_Met_with_Students_of_the_National_Defense_University._%2853689503498%29.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|3d0b3e13": {
+    "s": 0,
+    "w": "Ukrainian soldier with medal",
+    "p": "shows a soldier instead of an air defense system"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Mersad_Air_Defense_System_with_Shahin_Missile.jpg/1920px-Mersad_Air_Defense_System_with_Shahin_Missile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|3d0b3e13": {
+    "s": 7,
+    "w": "air defense system",
+    "p": ""
    }
   }
  },
@@ -19901,10 +20014,10 @@
   "2026-11-18": 22,
   "2026-11-19": 30,
   "2026-11-20": 30,
-  "2026-11-21": 10
+  "2026-11-21": 11
  },
- "last_auto_at": "2026-11-21T17:01:51.837753+00:00",
- "last_post_at": "2026-11-21T17:01:58.396389+00:00",
+ "last_auto_at": "2026-11-21T19:01:47.908421+00:00",
+ "last_post_at": "2026-11-21T19:01:52.942161+00:00",
  "reels_count": {
   "2026-11-15": 8,
   "2026-11-16": 10,
