@@ -1,103 +1,6 @@
 {
  "tg_offset": 495893091,
  "drafts": {
-  "69f16d5ee6": {
-   "id": "69f16d5ee6",
-   "headline": "Serbia Student List candidates take office in parliament",
-   "summary": "Candidates for Serbia's Student List were sworn in as MPs during an inaugural parliamentary session following last month's elections. According to the reports, the new majority has 90 days to form a government.",
-   "label": "ELECTIONS",
-   "hook": "",
-   "key_points": [
-    "The inaugural parliamentary session took place on Tuesday.",
-    "The 140 candidates include academics, lawyers, scientists and actors.",
-    "Aleksandar Vučić threatened mass protests."
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#Serbia",
-    "#WorldNews",
-    "#Elections"
-   ],
-   "sources": [
-    "DW",
-    "The Guardian"
-   ],
-   "link": "https://www.theguardian.com/world/2026/nov/17/serbia-student-list-mps-sworn-in-election-triumph",
-   "links": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/17/serbia-student-list-mps-sworn-in-election-triumph"
-    ],
-    [
-     "DW",
-     "https://www.dw.com/en/students-list-candidates-take-seats-as-serbian-parliament-opens/a-79969166?maca=en-rss-en-world-4025-rdf"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/The_building_of_Serbian_Parliament_at_night%2C_October_13%2C_2012.jpg/1920px-The_building_of_Serbian_Parliament_at_night%2C_October_13%2C_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Oop / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 10,
-      "shows": "Serbian parliament building at night"
-     }
-    ],
-    "_loaded": 1
-   },
-   "img_post": {
-    "headline": "Serbia Student List candidates take office in parliament",
-    "people": [],
-    "image_query": "Serbian parliament building",
-    "image_queries": [
-     "Belgrade city",
-     "parliament chamber",
-     "voting booth",
-     "government building"
-    ],
-    "image_style": "scene",
-    "location": "Belgrade, Serbia",
-    "nearby_city": "Belgrade, Serbia",
-    "event_query": "Serbian parliament session",
-    "topic_photo": "parliament chamber",
-    "label": "ELECTIONS",
-    "action_subject": "parliament members sworn in",
-    "news_time": "2026-11-17T12:09:00+00:00"
-   },
-   "created_at": "2026-11-17T12:46:16.895224+00:00",
-   "news_time": "2026-11-17T12:09:00+00:00",
-   "news_latest": "2026-11-17T12:31:56+00:00",
-   "importance": 8,
-   "caption": "🚨 BREAKING: Serbia Student List candidates take office in parliament\n\nCandidates for Serbia's Student List were sworn in as MPs during an inaugural parliamentary session following last month's elections. According to the reports, the new majority has 90 days to form a government.\n\nWhat we know so far:\n• The inaugural parliamentary session took place on Tuesday.\n• The 140 candidates include academics, lawyers, scientists and actors.\n• Aleksandar Vučić threatened mass protests.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Serbia #WorldNews #Elections #7SeasNews",
-   "photo_line": "📷 10/10 Serbian parliament building at night",
-   "status": "posted",
-   "tg_message_id": 714,
-   "tg_file_id": "AgACAgUAAxkDAAICyWr8TSoYVkumZN6q2n01RauvZPGPAALaFmsbguzgV1CHCwhN4gyVAQADAgADdwADPQQ",
-   "queued_at": "2026-11-17T12:48:52.455505+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-17T12:48:52.455548+00:00",
-   "post_label": "🤖 Auto-posting + Reel",
-   "fb_post_id": "1413030521900096_122104303287548584",
-   "posted_at": "2026-11-17T12:48:52.736213+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 17 · 7:49 AM New York · 6:19 PM Sri Lanka\n\n<b>Serbia Student List candidates take office in parliament</b>\n<i>DW, The Guardian</i>\n🟢 <b>Latest:</b> 6:01 PM Sri Lanka (17 min ago) · first reported 5:39 PM\n📷 10/10 Serbian parliament building at night\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122104303287548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 461,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122104303287548584_1627736848351966",
-   "fb_story_id": "2541777962982282",
-   "fb_reel_id": "29208633438803377",
-   "reel_status": "live",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-20T11:45:33.272194+00:00"
-  },
   "ae54e42c45": {
    "id": "ae54e42c45",
    "headline": "Gas prices drop following the 2026 midterm elections",
@@ -12603,29 +12506,11 @@
   "https://www.newsweek.com/fbis-most-wanted-drug-lord-chapo-isidro-captured-mexico-12751085",
   "https://www.euronews.com/video/2026/11/21/strait-of-hormuz-athlete-swims-through-war-zone-to-expose-wars-environmental-toll",
   "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
-  "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss"
+  "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss",
+  "https://www.foxnews.com/politics/republicans-face-brutal-2028-senate-map-after-dems-2026-blue-wave",
+  "https://www.washingtonexaminer.com/news/senate/4810207/rail-safety-legislation-senate-democrats-midterm-blue-wave/"
  ],
  "recent_topics": [
-  [
-   "2026-11-18T12:50:45.079402+00:00",
-   [
-    "45",
-    "49",
-    "additional",
-    "approv",
-    "billion",
-    "commission",
-    "european",
-    "loan",
-    "propos",
-    "proposal",
-    "provid",
-    "repaid",
-    "russia",
-    "ukrain"
-   ],
-   "8524335802"
-  ],
   [
    "2026-11-18T13:03:54.913242+00:00",
    [
@@ -15910,19 +15795,37 @@
     "zon"
    ],
    "f8e93c8fec"
+  ],
+  [
+   "2026-11-21T12:46:06.922301+00:00",
+   [
+    "blu",
+    "brutal",
+    "dem",
+    "democrat",
+    "fac",
+    "legislation",
+    "map",
+    "midterm",
+    "rail",
+    "reach",
+    "republican",
+    "safety",
+    "senat",
+    "tsunami",
+    "wav",
+    "within"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-21T12:31:22.887284+00:00",
+ "last_draft_at": "2026-11-21T12:45:43.200542+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T12:30:53.048756+00:00",
  "run_log": [
-  "11-21 10:15:45 run start",
-  "11-21 10:16:18 listening 11 min",
-  "11-21 10:27:12 listening done",
-  "11-21 10:27:12 run end after 686 s",
   "11-21 10:30:47 run start",
   "11-21 10:31:50 listening 10 min",
   "11-21 10:42:20 listening done",
@@ -15958,7 +15861,11 @@
   "11-21 12:30:52 run start",
   "11-21 12:31:59 listening 10 min",
   "11-21 12:42:28 listening done",
-  "11-21 12:42:28 run end after 695 s"
+  "11-21 12:42:28 run end after 695 s",
+  "11-21 12:45:42 run start",
+  "11-21 12:46:06 listening 11 min",
+  "11-21 12:57:25 listening done",
+  "11-21 12:57:25 run end after 702 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
