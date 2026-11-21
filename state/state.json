@@ -13149,50 +13149,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-18T10:21:18.137203+00:00",
-   [
-    "all",
-    "business",
-    "cast",
-    "democrat",
-    "family",
-    "hous",
-    "investigation",
-    "lutnick",
-    "net",
-    "nvidia",
-    "prepar",
-    "preserv",
-    "record",
-    "trump",
-    "warn",
-    "wid"
-   ],
-   "58e1b97b70"
-  ],
-  [
-   "2026-11-18T10:21:29.508477+00:00",
-   [
-    "ahead",
-    "back",
-    "fear",
-    "genocid",
-    "grow",
-    "hop",
-    "icj",
-    "judg",
-    "myanmar",
-    "pin",
-    "refuge",
-    "rohingya",
-    "rul",
-    "sanction",
-    "verdict",
-    "want"
-   ],
-   "a9cefeb130"
-  ],
-  [
    "2026-11-18T11:16:31.054131+00:00",
    [
     "arrest",
@@ -16486,17 +16442,13 @@
    "45201d2fd3"
   ]
  ],
- "last_draft_at": "2026-11-21T10:01:15.377171+00:00",
+ "last_draft_at": "2026-11-21T10:15:45.567185+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T09:31:10.387478+00:00",
  "run_log": [
-  "11-21 07:56:42 run start",
-  "11-21 07:57:01 listening 11 min",
-  "11-21 08:08:20 listening done",
-  "11-21 08:08:20 run end after 698 s",
   "11-21 08:08:55 run start",
   "11-21 08:09:14 listening 11 min",
   "11-21 08:20:34 listening done",
@@ -16532,7 +16484,11 @@
   "11-21 10:01:14 run start",
   "11-21 10:01:55 listening 11 min",
   "11-21 10:12:50 listening done",
-  "11-21 10:12:50 run end after 695 s"
+  "11-21 10:12:50 run end after 695 s",
+  "11-21 10:15:45 run start",
+  "11-21 10:16:18 listening 11 min",
+  "11-21 10:27:12 listening done",
+  "11-21 10:27:12 run end after 686 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
