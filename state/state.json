@@ -1,99 +1,6 @@
 {
  "tg_offset": 495893091,
  "drafts": {
-  "64916d6055": {
-   "id": "64916d6055",
-   "headline": "US loses measles elimination status after 26 years",
-   "summary": "The US has officially lost its measles elimination status for the first time in over 25 years. States reported over 5,400 cases and 10 measles-related deaths in one period, alongside a count of more than 7,700 cases over the past two years, according to reports.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "The Pan American Health Organization made the announcement.",
-    "States reported over 5,400 cases for the first time since the early 1990s.",
-    "More than 10 deaths were reported by states in 2026 alone."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Measles",
-    "#USNews",
-    "#PublicHealth"
-   ],
-   "sources": [
-    "BBC",
-    "The Hill"
-   ],
-   "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-   "links": [
-    [
-     "BBC",
-     "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss"
-    ],
-    [
-     "The Hill",
-     "https://thehill.com/policy/healthcare/6225090-us-loses-measles-elimination-status/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Capitol_Washington_October_2016-3.jpg/1920px-Capitol_Washington_October_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Alvesgaspar / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 6,
-      "shows": "US Capitol building"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "US loses measles elimination status after 26 years",
-    "people": [],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "Centers for Disease Control and Prevention",
-     "hospital building",
-     "public health clinic",
-     "medical laboratory"
-    ],
-    "image_style": "scene",
-    "location": "United States",
-    "nearby_city": "Washington, D.C.",
-    "event_query": "",
-    "topic_photo": "hospital corridor",
-    "label": "WORLD",
-    "action_subject": "",
-    "news_time": "2026-11-17T16:10:14+00:00"
-   },
-   "created_at": "2026-11-17T16:18:30.473555+00:00",
-   "news_time": "2026-11-17T16:10:14+00:00",
-   "news_latest": "2026-11-17T16:13:18+00:00",
-   "importance": 7,
-   "caption": "US loses measles elimination status after 26 years\n\nThe US has officially lost its measles elimination status for the first time in over 25 years. States reported over 5,400 cases and 10 measles-related deaths in one period, alongside a count of more than 7,700 cases over the past two years, according to reports.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Measles #USNews #PublicHealth #7SeasNews",
-   "photo_line": "📷 6/10 US Capitol building",
-   "status": "posted",
-   "tg_message_id": 738,
-   "tg_file_id": "AgACAgUAAxkDAAIC4mr8fp3FpwgCh_DTFysoqZqOqQAB1QACNRRrG4Ls6FcV5Y5fJQGfSwEAAwIAA3cAAz0E",
-   "queued_at": "2026-11-17T16:19:41.572622+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-17T16:19:41.572656+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122104505331548584",
-   "posted_at": "2026-11-17T16:21:25.011562+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 17 · 11:21 AM New York · 9:51 PM Sri Lanka\n\n<b>US loses measles elimination status after 26 years</b>\n<i>BBC, The Hill</i>\n🟢 <b>Latest:</b> 9:43 PM Sri Lanka (8 min ago) · first reported 9:40 PM\n📷 6/10 US Capitol building\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122104505331548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 465,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122104505331548584_1661099442321536",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-20T15:51:37.524004+00:00"
-  },
   "b96a78eea8": {
    "id": "b96a78eea8",
    "headline": "Federal Reserve Governor Lisa Cook avoids White House hearing",
@@ -12629,7 +12536,14 @@
   "https://www.cbsnews.com/video/how-china-gets-access-to-american-ai-chips/",
   "https://thehill.com/policy/technology/6235143-senator-warned-commerce-lutnick-nvidia-chips/",
   "https://thehill.com/homenews/administration/6235181-trump-executive-privilege-congress-investigations-order/",
-  "https://www.washingtonpost.com/politics/2026/11/21/trump-white-house-orders-contractors-limit-information-shared-with-congress/"
+  "https://www.washingtonpost.com/politics/2026/11/21/trump-white-house-orders-contractors-limit-information-shared-with-congress/",
+  "https://www.axios.com/2026/11/21/trump-russia-fbi-hack",
+  "https://www.independent.co.uk/news/world/americas/us-politics/trump-fbi-hack-fox-news-b3089188.html",
+  "https://www.newsweek.com/cyberattacks-us-government-systems-fbi-breach-12751658",
+  "https://www.cbsnews.com/news/catherine-princess-of-wales-heal-documentary-cancer-healing/",
+  "https://www.cbsnews.com/news/kate-princess-of-wales-remission-cancer/",
+  "https://www.theguardian.com/uk-news/2026/nov/21/princess-of-wales-impact-cancer-diagnosis-bbc-film-heal",
+  "https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html"
  ],
  "recent_topics": [
   [
@@ -15927,17 +15841,13 @@
    "29f6300d91"
   ]
  ],
- "last_draft_at": "2026-11-21T15:55:27.882970+00:00",
+ "last_draft_at": "2026-11-21T16:07:31.911138+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T15:30:45.012061+00:00",
  "run_log": [
-  "11-21 13:45:53 run start",
-  "11-21 13:46:03 listening 11 min",
-  "11-21 13:57:21 listening done",
-  "11-21 13:57:21 run end after 687 s",
   "11-21 14:00:48 run start",
   "11-21 14:01:21 listening 11 min",
   "11-21 14:12:13 listening done",
@@ -15973,7 +15883,11 @@
   "11-21 15:55:27 run start",
   "11-21 15:57:51 listening 9 min",
   "11-21 16:07:04 listening done",
-  "11-21 16:07:04 run end after 696 s"
+  "11-21 16:07:04 run end after 696 s",
+  "11-21 16:07:31 run start",
+  "11-21 16:09:36 listening 9 min",
+  "11-21 16:19:16 listening done",
+  "11-21 16:19:16 run end after 704 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
