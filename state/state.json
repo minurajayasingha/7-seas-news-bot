@@ -11284,6 +11284,94 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122108011041548584_1142917131438612"
+  },
+  "e2d20caa20": {
+   "id": "e2d20caa20",
+   "headline": "Dow and S&P 500 enter correction as Nasdaq plunges",
+   "summary": "U.S. stocks dropped as a sell-off in artificial intelligence and semiconductor companies pushed markets into correction territory. The Nasdaq Composite erased its gains for the year during the market downturn.",
+   "label": "ECONOMY",
+   "hook": "How will the artificial intelligence sector recover from this recent market sell-off?",
+   "key_points": [
+    "Nasdaq Composite erased 2026 gains",
+    "S&P 500 and Dow entered correction territory",
+    "Sell-off driven by semiconductor companies"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#StockMarket",
+    "#Nasdaq",
+    "#Economy"
+   ],
+   "sources": [
+    "NBC News",
+    "UPI"
+   ],
+   "link": "https://www.nbcnews.com/nightly-news/video/stock-markets-plunge-as-nasdaq-erases-2026-gains-273933381824",
+   "links": [
+    [
+     "NBC News",
+     "https://www.nbcnews.com/nightly-news/video/stock-markets-plunge-as-nasdaq-erases-2026-gains-273933381824"
+    ],
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/US/2026/11/20/stocks-dow-jones-nasdaq-correction-territory/1061795214998/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/U.S._Service_members_pose_for_a_photo_after_ringing_the_closing_bell_at_the_New_York_Stock_Exchange_in_New_York_May_24%2C_2013_130524-O-ZZ999-002.jpg/1920px-U.S._Service_members_pose_for_a_photo_after_ringing_the_closing_bell_at_the_New_York_Stock_Exchange_in_New_York_May_24%2C_2013_130524-O-ZZ999-002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Dario Cantatore / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 8,
+      "shows": "trading floor with stock screens"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "Dow and S&P 500 enter correction as Nasdaq plunges",
+    "people": [],
+    "image_query": "Wall Street stock exchange",
+    "image_queries": [
+     "Nasdaq stock market",
+     "Wall Street trading floor",
+     "New York Stock Exchange",
+     "financial district skyline"
+    ],
+    "image_style": "scene",
+    "location": "United States",
+    "nearby_city": "New York, New York",
+    "event_query": "stock market sell-off",
+    "topic_photo": "stock market chart",
+    "label": "ECONOMY",
+    "action_subject": "stock exchange trading floor",
+    "news_time": "2026-11-20T23:14:22+00:00"
+   },
+   "created_at": "2026-11-21T01:21:24.040243+00:00",
+   "news_time": "2026-11-20T23:14:22+00:00",
+   "news_latest": "2026-11-20T23:49:12+00:00",
+   "importance": 7,
+   "caption": "Dow and S&P 500 enter correction as Nasdaq plunges\n\nU.S. stocks dropped as a sell-off in artificial intelligence and semiconductor companies pushed markets into correction territory. The Nasdaq Composite erased its gains for the year during the market downturn.\n\n💬 How will the artificial intelligence sector recover from this recent market sell-off?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#StockMarket #Nasdaq #Economy #7SeasNews",
+   "photo_line": "📷 8/10 trading floor with stock screens · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 883,
+   "tg_file_id": "AgACAgUAAxkDAAIDc2sAAfIWEj8wLTNwLna9-T-ISAo_rQAC-hNrG_07CFQ_mkpzX-bdAQEAAwIAA3cAAz0E",
+   "queued_at": "2026-11-21T01:21:26.890667+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-21T01:21:26.890686+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122108018061548584",
+   "posted_at": "2026-11-21T01:21:27.256324+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 20 · 8:21 PM New York · 6:51 AM Sri Lanka\n\n<b>Dow and S&amp;P 500 enter correction as Nasdaq plunges</b>\n<i>NBC News, UPI</i>\n🟡 <b>Latest:</b> 5:19 AM Sri Lanka (1h 32m ago) · first reported 4:44 AM\n📷 8/10 trading floor with stock screens · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122108018061548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 591,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122108018061548584_1801709910881739"
   }
  },
  "seen_links": [
@@ -13128,7 +13216,9 @@
   "https://www.washingtonpost.com/politics/2026/11/20/trump-threatens-penalties-us-companies-building-data-centers-abroad/",
   "https://www.upi.com/Top_News/US/2026/11/20/palisades-fire-trial/3571795218859/",
   "https://news.sky.com/story/man-found-guilty-of-starting-deadly-palisades-fire-in-los-angeles-in-2025-13614570",
-  "https://www.nbcnews.com/news/us-news/pacific-palisades-fire-retrial-jonathan-rinderknecht-rcna610336"
+  "https://www.nbcnews.com/news/us-news/pacific-palisades-fire-retrial-jonathan-rinderknecht-rcna610336",
+  "https://www.nbcnews.com/nightly-news/video/stock-markets-plunge-as-nasdaq-erases-2026-gains-273933381824",
+  "https://www.upi.com/Top_News/US/2026/11/20/stocks-dow-jones-nasdaq-correction-territory/1061795214998/"
  ],
  "recent_topics": [
   [
@@ -16488,19 +16578,42 @@
     "start"
    ],
    "5cf68669c9"
+  ],
+  [
+   "2026-11-21T01:21:26.890536+00:00",
+   [
+    "500",
+    "all",
+    "anthropic",
+    "correction",
+    "dampen",
+    "dow",
+    "down",
+    "drag",
+    "enter",
+    "eras",
+    "gain",
+    "market",
+    "nasdaq",
+    "plung",
+    "second",
+    "sell-off",
+    "shar",
+    "slid",
+    "stock",
+    "tech",
+    "trad"
+   ],
+   "e2d20caa20"
   ]
  ],
- "last_draft_at": "2026-11-21T01:09:07.373642+00:00",
+ "last_draft_at": "2026-11-21T01:21:13.343610+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T01:08:19.726780+00:00",
  "run_log": [
-  "11-20 23:01:09 run start",
-  "11-20 23:02:25 listening 10 min",
-  "11-20 23:12:54 listening done",
-  "11-20 23:12:54 run end after 705 s",
   "11-20 23:15:32 run start",
   "11-20 23:15:42 listening 11 min",
   "11-20 23:27:01 listening done",
@@ -16536,12 +16649,15 @@
   "11-21 01:08:19 run start",
   "11-21 01:09:43 listening 10 min",
   "11-21 01:19:47 listening done",
-  "11-21 01:19:47 run end after 688 s"
+  "11-21 01:19:47 run end after 688 s",
+  "11-21 01:21:12 run start",
+  "11-21 01:21:42 listening 11 min",
+  "11-21 01:33:02 listening done",
+  "11-21 01:33:02 run end after 709 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Beverley_Guildhall_Courtroom.jpg/1920px-Beverley_Guildhall_Courtroom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Hippo_%28Hippopotamus_amphibius%29_head_in_water.jpg/1920px-Hippo_%28Hippopotamus_amphibius%29_head_in_water.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_01.jpg/1920px-A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/e/e1/White_House_Washington.JPG",
@@ -16580,7 +16696,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Capitol_Washington_October_2016-3.jpg/1920px-Capitol_Washington_October_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/b/b5/Gina_Hinojosa_at_LBJ_Library_Forum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Iowa_Senate_chamber_05.jpg/1920px-Iowa_Senate_chamber_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/The_Clay_County_Courthouse_courtroom_in_2007.jpg/1920px-The_Clay_County_Courthouse_courtroom_in_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/The_Clay_County_Courthouse_courtroom_in_2007.jpg/1920px-The_Clay_County_Courthouse_courtroom_in_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/U.S._Service_members_pose_for_a_photo_after_ringing_the_closing_bell_at_the_New_York_Stock_Exchange_in_New_York_May_24%2C_2013_130524-O-ZZ999-002.jpg/1920px-U.S._Service_members_pose_for_a_photo_after_ringing_the_closing_bell_at_the_New_York_Stock_Exchange_in_New_York_May_24%2C_2013_130524-O-ZZ999-002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "xi jinping": {
@@ -19938,7 +20055,6 @@
    }
   },
   "recent_ideas": [
-   "courtroom",
    "eisenhower executive office building",
    "computer servers",
    "military vehicles",
@@ -19949,7 +20065,8 @@
    "white house south lawn",
    "us capitol building",
    "senate chamber",
-   "courtroom"
+   "courtroom",
+   "stock exchange trading floor"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -21391,6 +21508,11 @@
     "s": 10,
     "w": "empty courtroom",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/U.S._Service_members_pose_for_a_photo_after_ringing_the_closing_bell_at_the_New_York_Stock_Exchange_in_New_York_May_24%2C_2013_130524-O-ZZ999-002.jpg/1920px-U.S._Service_members_pose_for_a_photo_after_ringing_the_closing_bell_at_the_New_York_Stock_Exchange_in_New_York_May_24%2C_2013_130524-O-ZZ999-002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|e2bde57d": {
+    "s": 8,
+    "w": "trading floor with stock screens",
+    "p": ""
    }
   }
  },
@@ -21402,10 +21524,10 @@
   "2026-11-17": 35,
   "2026-11-18": 22,
   "2026-11-19": 30,
-  "2026-11-20": 29
+  "2026-11-20": 30
  },
- "last_auto_at": "2026-11-21T01:09:29.201799+00:00",
- "last_post_at": "2026-11-21T01:09:34.352018+00:00",
+ "last_auto_at": "2026-11-21T01:21:27.256324+00:00",
+ "last_post_at": "2026-11-21T01:21:32.708028+00:00",
  "reels_count": {
   "2026-11-14": 8,
   "2026-11-15": 8,
