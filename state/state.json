@@ -1,99 +1,6 @@
 {
  "tg_offset": 495893091,
  "drafts": {
-  "b7fa157ba8": {
-   "id": "b7fa157ba8",
-   "headline": "Democrats prepare for control of Congress after midterms",
-   "summary": "Following midterm elections, Democrats are positioned to take total control of Congress. Political operatives and organizations are now preparing demands and considering the future of diversity initiatives and LGBTQ policy.",
-   "label": "US POLITICS",
-   "hook": "How will the new congressional leadership affect federal diversity initiatives?",
-   "key_points": [
-    "Democrats are slated to take total control of Congress next year.",
-    "Diversity initiatives have faced attacks from the administration.",
-    "Political groups are organizing demands following the midterm results."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#Congress",
-    "#Midterms"
-   ],
-   "sources": [
-    "NPR",
-    "Washington Post"
-   ],
-   "link": "https://www.washingtonpost.com/politics/2026/11/17/after-years-attacks-lgbtq-voters-are-ready-some-wins/",
-   "links": [
-    [
-     "Washington Post",
-     "https://www.washingtonpost.com/politics/2026/11/17/after-years-attacks-lgbtq-voters-are-ready-some-wins/"
-    ],
-    [
-     "NPR",
-     "https://www.npr.org/2026/11/17/nx-s1-6036795/after-democrats-midterm-wins-some-hope-attacks-on-dei-will-ease"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Early_Voting_0135_%2830620206795%29.jpg/1920px-Early_Voting_0135_%2830620206795%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Edward Kimmel from Takoma Park, MD / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 6,
-      "shows": "early voting scene in US"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Democrats prepare for control of Congress after midterms",
-    "people": [],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "Senate chamber",
-     "House of Representatives chamber",
-     "Capitol Hill",
-     "voting booth"
-    ],
-    "image_style": "scene",
-    "location": "Washington, DC, US",
-    "nearby_city": "Washington, DC",
-    "event_query": "US Capitol building",
-    "topic_photo": "ballot box",
-    "label": "US POLITICS",
-    "action_subject": "",
-    "news_time": "2026-11-17T09:46:10+00:00"
-   },
-   "created_at": "2026-11-17T10:45:53.926577+00:00",
-   "news_time": "2026-11-17T09:46:10+00:00",
-   "news_latest": "2026-11-17T10:38:48+00:00",
-   "importance": 8,
-   "caption": "Democrats prepare for control of Congress after midterms\n\nFollowing midterm elections, Democrats are positioned to take total control of Congress. Political operatives and organizations are now preparing demands and considering the future of diversity initiatives and LGBTQ policy.\n\n💬 How will the new congressional leadership affect federal diversity initiatives?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Congress #Midterms #7SeasNews",
-   "photo_line": "📷 6/10 early voting scene in US",
-   "status": "posted",
-   "tg_message_id": 707,
-   "tg_file_id": "AgACAgUAAxkDAAICw2r8MGfqHejrKmspmy1MGUuYMHjRAAKkFmsbguzgV76FNTASeq-UAQADAgADdwADPQQ",
-   "queued_at": "2026-11-17T10:45:59.495591+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-17T10:45:59.495618+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122104185945548584",
-   "posted_at": "2026-11-17T10:45:59.828747+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 17 · 5:46 AM New York · 4:16 PM Sri Lanka\n\n<b>Democrats prepare for control of Congress after midterms</b>\n<i>NPR, Washington Post</i>\n🟢 <b>Latest:</b> 4:08 PM Sri Lanka (7 min ago) · first reported 3:16 PM\n📷 6/10 early voting scene in US\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122104185945548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 455,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122104185945548584_1773136780459227",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-20T10:43:28.877927+00:00"
-  },
   "ebb2a14e94": {
    "id": "ebb2a14e94",
    "headline": "Donald Trump arrives in Philippines for Asia trip",
@@ -11006,6 +10913,93 @@
     "shares": 0
    },
    "stats_at": "2026-11-21T10:30:48.085210+00:00"
+  },
+  "6433155462": {
+   "id": "6433155462",
+   "headline": "UN talks on AI killer robots extend until 2028",
+   "summary": "Members of the UN's Convention on Certain Conventional Weapons ended talks in Geneva without adopting legally binding rules for AI-powered killer robots. Delegates agreed to extend discussions for two more years.",
+   "label": "DIPLOMACY",
+   "hook": "Will these talks lead to binding rules for artificial intelligence weapons?",
+   "key_points": [
+    "Talks on AI killer robots ended Saturday in Geneva",
+    "Efforts to establish firm rules have run aground",
+    "Members failed to agree on swift adoption of rules"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#ArtificialIntelligence",
+    "#UnitedNations",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "NPR"
+   ],
+   "link": "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit?traffic_source=rss"
+    ],
+    [
+     "NPR",
+     "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Peace_Monument_-_Across_from_Palais_des_Nations_-_Geneva_-_Switzerland.jpg/1920px-Peace_Monument_-_Across_from_Palais_des_Nations_-_Geneva_-_Switzerland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Adam Jones, Ph.D. / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "Broken Chair sculpture in Geneva"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "UN talks on AI killer robots extend until 2028",
+    "people": [],
+    "image_query": "United Nations Geneva",
+    "image_queries": [
+     "Palais des Nations Geneva",
+     "UN conference room",
+     "robotics technology lab",
+     "artificial intelligence server"
+    ],
+    "image_style": "scene",
+    "location": "Geneva, Switzerland",
+    "nearby_city": "Bern, Switzerland",
+    "event_query": "UN weapons talks Geneva",
+    "topic_photo": "artificial intelligence",
+    "label": "DIPLOMACY",
+    "action_subject": "conference delegates",
+    "news_time": "2026-11-21T08:08:01+00:00"
+   },
+   "created_at": "2026-11-21T10:46:10.496281+00:00",
+   "news_time": "2026-11-21T08:08:01+00:00",
+   "news_latest": "2026-11-21T10:25:29+00:00",
+   "importance": 6,
+   "caption": "UN talks on AI killer robots extend until 2028\n\nMembers of the UN's Convention on Certain Conventional Weapons ended talks in Geneva without adopting legally binding rules for AI-powered killer robots. Delegates agreed to extend discussions for two more years.\n\n💬 Will these talks lead to binding rules for artificial intelligence weapons?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#ArtificialIntelligence #UnitedNations #WorldNews #7SeasNews",
+   "photo_line": "📷 10/10 Broken Chair sculpture in Geneva",
+   "status": "posted",
+   "tg_message_id": 888,
+   "tg_file_id": "AgACAgUAAxkDAAIDeGsBdnTXv7jmia4xxSHBOHZ1fynrAAKRFWsb_TsQVF9IqTZ0S6RKAQADAgADdwADPQQ",
+   "queued_at": "2026-11-21T10:46:12.760063+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-21T10:46:12.760100+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122108363295548584",
+   "posted_at": "2026-11-21T10:46:13.058947+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 21 · 5:46 AM New York · 4:16 PM Sri Lanka\n\n<b>UN talks on AI killer robots extend until 2028</b>\n<i>Al Jazeera, NPR</i>\n🟢 <b>Latest:</b> 3:55 PM Sri Lanka (20 min ago) · first reported 1:38 PM\n📷 10/10 Broken Chair sculpture in Geneva\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122108363295548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 594,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122108363295548584_4739842126244689"
   }
  },
  "seen_links": [
@@ -12869,7 +12863,11 @@
   "https://www.euronews.com/2026/11/21/putin-a-killer-zelenskyy-says-after-trump-calls-russian-leader-his-friend",
   "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
   "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-  "https://www.nbcnews.com/politics/justice-department/fbi-investigating-potential-breach-crime-database-rcna610536"
+  "https://www.nbcnews.com/politics/justice-department/fbi-investigating-potential-breach-crime-database-rcna610536",
+  "https://www.france24.com/en/europe/20261121-unacceptable-eu-chief-condemns-alleged-russian-plot-to-kill-us-ukrainian-citizen",
+  "https://news.sky.com/story/denmark-says-it-thwarted-russian-plot-to-kill-us-ukrainian-rapper-kyivstoner-13614604",
+  "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit?traffic_source=rss",
+  "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in"
  ],
  "recent_topics": [
   [
@@ -16164,19 +16162,50 @@
     "reportedly"
    ],
    "45201d2fd3"
+  ],
+  [
+   "2026-11-21T10:45:49.195753+00:00",
+   [
+    "alleg",
+    "chief",
+    "citizen",
+    "condemn",
+    "denmark",
+    "kill",
+    "plot",
+    "rapper",
+    "russian",
+    "thwart",
+    "unacceptabl",
+    "us-ukrainian"
+   ],
+   "skipped"
+  ],
+  [
+   "2026-11-21T10:46:12.759879+00:00",
+   [
+    "agre",
+    "ai-run",
+    "commitment",
+    "elaborat",
+    "firm",
+    "killer",
+    "nation",
+    "rein",
+    "robot",
+    "rul",
+    "talk"
+   ],
+   "6433155462"
   ]
  ],
- "last_draft_at": "2026-11-21T10:31:30.894669+00:00",
+ "last_draft_at": "2026-11-21T10:45:38.028996+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T10:30:48.085210+00:00",
  "run_log": [
-  "11-21 08:21:04 run start",
-  "11-21 08:21:51 listening 11 min",
-  "11-21 08:32:45 listening done",
-  "11-21 08:32:45 run end after 701 s",
   "11-21 08:33:13 run start",
   "11-21 08:33:23 listening 11 min",
   "11-21 08:44:42 listening done",
@@ -16212,12 +16241,15 @@
   "11-21 10:30:47 run start",
   "11-21 10:31:50 listening 10 min",
   "11-21 10:42:20 listening done",
-  "11-21 10:42:20 run end after 692 s"
+  "11-21 10:42:20 run end after 692 s",
+  "11-21 10:45:37 run start",
+  "11-21 10:46:28 listening 11 min",
+  "11-21 10:57:21 listening done",
+  "11-21 10:57:21 run end after 704 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/e/e1/White_House_Washington.JPG",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/56th_Fighter_Wing_F-35_Lightning_II.jpg/1920px-56th_Fighter_Wing_F-35_Lightning_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/2024-09-11_01_RA-4D_-_IMO_8835619_%E2%80%93_Port_Angeles_WA_USA.jpg/1920px-2024-09-11_01_RA-4D_-_IMO_8835619_%E2%80%93_Port_Angeles_WA_USA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Example_voting_booth.jpg/1920px-Example_voting_booth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -16256,7 +16288,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/The_Clay_County_Courthouse_courtroom_in_2007.jpg/1920px-The_Clay_County_Courthouse_courtroom_in_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/U.S._Service_members_pose_for_a_photo_after_ringing_the_closing_bell_at_the_New_York_Stock_Exchange_in_New_York_May_24%2C_2013_130524-O-ZZ999-002.jpg/1920px-U.S._Service_members_pose_for_a_photo_after_ringing_the_closing_bell_at_the_New_York_Stock_Exchange_in_New_York_May_24%2C_2013_130524-O-ZZ999-002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Vilkha_MLRS_missile_launch%2C_2019%2C_01.jpg/1920px-Vilkha_MLRS_missile_launch%2C_2019%2C_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/4/4d/Washington_DC_Skyline.jpg"
+   "https://upload.wikimedia.org/wikipedia/commons/4/4d/Washington_DC_Skyline.jpg",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Peace_Monument_-_Across_from_Palais_des_Nations_-_Geneva_-_Switzerland.jpg/1920px-Peace_Monument_-_Across_from_Palais_des_Nations_-_Geneva_-_Switzerland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "xi jinping": {
@@ -19614,7 +19647,6 @@
    }
   },
   "recent_ideas": [
-   "military vehicles",
    "senate chamber, united states capitol",
    "stock exchange trading floor",
    "congressional hearing",
@@ -19625,7 +19657,8 @@
    "courtroom",
    "stock exchange trading floor",
    "missile launch",
-   "washington dc skyline"
+   "washington dc skyline",
+   "palais des nations geneva"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -21087,6 +21120,16 @@
     "s": 6,
     "w": "Washington DC skyline",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/PARBICA_15_Conference_delegates_%289536951384%29.jpg/1920px-PARBICA_15_Conference_delegates_%289536951384%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|0150f24d": {
+    "s": 0,
+    "w": "people with floral leis",
+    "p": "Unrelated casual gathering, not UN AI talks"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Peace_Monument_-_Across_from_Palais_des_Nations_-_Geneva_-_Switzerland.jpg/1920px-Peace_Monument_-_Across_from_Palais_des_Nations_-_Geneva_-_Switzerland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|0150f24d": {
+    "s": 10,
+    "w": "Broken Chair sculpture in Geneva",
+    "p": ""
    }
   }
  },
@@ -21098,10 +21141,10 @@
   "2026-11-18": 22,
   "2026-11-19": 30,
   "2026-11-20": 30,
-  "2026-11-21": 2
+  "2026-11-21": 3
  },
- "last_auto_at": "2026-11-21T10:01:40.538921+00:00",
- "last_post_at": "2026-11-21T10:01:46.190537+00:00",
+ "last_auto_at": "2026-11-21T10:46:13.058947+00:00",
+ "last_post_at": "2026-11-21T10:46:18.879710+00:00",
  "reels_count": {
   "2026-11-14": 8,
   "2026-11-15": 8,
