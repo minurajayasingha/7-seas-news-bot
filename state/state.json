@@ -1,201 +1,6 @@
 {
  "tg_offset": 495893091,
  "drafts": {
-  "ebb2a14e94": {
-   "id": "ebb2a14e94",
-   "headline": "Donald Trump arrives in Philippines for Asia trip",
-   "summary": "US President Donald Trump arrives in the Philippines for the start of an Asian trip. Protests await him as he prepares for meetings during his travels.",
-   "label": "DIPLOMACY",
-   "hook": "What outcomes will emerge from these diplomatic meetings in Asia?",
-   "key_points": [
-    "Manila is the first stop on the trip.",
-    "Protests await Trump upon his arrival.",
-    "The itinerary includes a Southeast Asian summit."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#WorldNews",
-    "#AsiaTrip",
-    "#Diplomacy"
-   ],
-   "sources": [
-    "France 24",
-    "NPR"
-   ],
-   "link": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
-   "links": [
-    [
-     "NPR",
-     "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/video/20261117-trump-arrives-in-philippines-to-kick-off-asia-trip"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Trillion_Peso_March_at_EDSA_Shrine_in_September_2025_16.jpg/1920px-Trillion_Peso_March_at_EDSA_Shrine_in_September_2025_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Sean Ronquillo (Ubediplomacy) / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 7,
-      "shows": "large protest crowd"
-     }
-    ],
-    "file_photo": true,
-    "inset": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "credit": "Shealeah Craighead / Wikimedia Commons (Public domain)",
-     "short": "WIKIMEDIA COMMONS",
-     "score": 10,
-     "shows": "Donald Trump portrait smiling"
-    }
-   },
-   "img_post": {
-    "headline": "Donald Trump arrives in Philippines for Asia trip",
-    "people": [
-     "Donald Trump"
-    ],
-    "image_query": "Manila skyline",
-    "image_queries": [
-     "airport tarmac",
-     "Manila streets",
-     "protest crowd",
-     "government building"
-    ],
-    "image_style": "scene",
-    "location": "Manila, Philippines",
-    "nearby_city": "Manila, Philippines",
-    "event_query": "Trump arrival Philippines",
-    "topic_photo": "airport terminal",
-    "label": "DIPLOMACY",
-    "action_subject": "protest crowd with signs",
-    "news_time": "2026-11-17T10:21:23+00:00"
-   },
-   "created_at": "2026-11-17T11:01:17.661032+00:00",
-   "news_time": "2026-11-17T10:21:23+00:00",
-   "news_latest": "2026-11-17T10:43:55+00:00",
-   "importance": 7,
-   "caption": "Donald Trump arrives in Philippines for Asia trip\n\nUS President Donald Trump arrives in the Philippines for the start of an Asian trip. Protests await him as he prepares for meetings during his travels.\n\n💬 What outcomes will emerge from these diplomatic meetings in Asia?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WorldNews #AsiaTrip #Diplomacy #7SeasNews",
-   "photo_line": "📷 7/10 large protest crowd · FILE PHOTO",
-   "status": "posted",
-   "tg_message_id": 708,
-   "tg_file_id": "AgACAgUAAxkDAAICxGr8NCHxSiPfHdadBVq7OZ7I8KZlAAKoFmsbguzgVxEjoa_MEGNYAQADAgADdwADPQQ",
-   "queued_at": "2026-11-17T11:01:54.189409+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-17T11:01:54.189461+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122104197903548584",
-   "posted_at": "2026-11-17T11:04:01.007352+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 17 · 6:04 AM New York · 4:34 PM Sri Lanka\n\n<b>Donald Trump arrives in Philippines for Asia trip</b>\n<i>France 24, NPR</i>\n🟢 <b>Latest:</b> 4:13 PM Sri Lanka (20 min ago) · first reported 3:51 PM\n📷 7/10 large protest crowd · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122104197903548584\">Open on Facebook</a>\n\n⚠️ <i>Looks like an earlier post: “Donald Trump travels to Asia for international summits”. Tap 🗑 Delete if it's the same news.</i>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 456,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122104197903548584_2015994309785696",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-20T10:43:28.877927+00:00"
-  },
-  "f2e281de5b": {
-   "id": "f2e281de5b",
-   "headline": "Data leak exposes Deutsche Bank ties to Russian oligarchs",
-   "summary": "Shares in Deutsche Bank dropped following international media reports detailing business practices over the past 20 years. Leaked records show the bank courted wealthy clients and held ties to Russian oligarchs, Jeffrey Epstein, and Donald Trump.",
-   "label": "ECONOMY",
-   "hook": "Should banks face stricter oversight for their business ties to wealthy clients?",
-   "key_points": [
-    "Bank shares plunged after international media reports were published.",
-    "Leaked records show the bank braced for sanctions against wealthy clients.",
-    "An analyst noted the bank has a large Russian oligarchs client population."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#DeutscheBank",
-    "#Economy",
-    "#WorldNews"
-   ],
-   "sources": [
-    "France 24",
-    "New York Times"
-   ],
-   "link": "https://www.france24.com/en/live-news/20261117-deutsche-bank-shares-drop-after-reports-on-mass-data-leak",
-   "links": [
-    [
-     "France 24",
-     "https://www.france24.com/en/live-news/20261117-deutsche-bank-shares-drop-after-reports-on-mass-data-leak"
-    ],
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html"
-    ]
-   ],
-   "bg": {
-    "type": "map",
-    "photos": [],
-    "location": "Russia",
-    "lat": 66.0,
-    "lon": 94.0,
-    "country": "Russia",
-    "state": "",
-    "pin": false,
-    "fit": true
-   },
-   "img_post": {
-    "headline": "Data leak exposes Deutsche Bank ties to Russian oligarchs",
-    "people": [],
-    "image_query": "Deutsche Bank building",
-    "image_queries": [
-     "bank headquarters",
-     "financial district",
-     "stock exchange",
-     "corporate office"
-    ],
-    "image_style": "person",
-    "location": "",
-    "nearby_city": "",
-    "event_query": "",
-    "topic_photo": "bank building",
-    "label": "ECONOMY",
-    "action_subject": "",
-    "news_time": "2026-11-17T06:00:12+00:00"
-   },
-   "created_at": "2026-11-17T11:03:52.016886+00:00",
-   "news_time": "2026-11-17T06:00:12+00:00",
-   "news_latest": "2026-11-17T09:45:25+00:00",
-   "importance": 6,
-   "caption": "Data leak exposes Deutsche Bank ties to Russian oligarchs\n\nShares in Deutsche Bank dropped following international media reports detailing business practices over the past 20 years. Leaked records show the bank courted wealthy clients and held ties to Russian oligarchs, Jeffrey Epstein, and Donald Trump.\n\n💬 Should banks face stricter oversight for their business ties to wealthy clients?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#DeutscheBank #Economy #WorldNews #7SeasNews",
-   "photo_line": "📷 news map (no fitting photo)",
-   "status": "posted",
-   "tg_message_id": 709,
-   "tg_file_id": "AgACAgUAAxkDAAICxWr8NKA3_m-rPC1ryKBjbJtagzkpAAKpFmsbguzgVw2RRXsFjpNDAQADAgADdwADPQQ",
-   "queued_at": "2026-11-17T11:04:00.691583+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-17T11:04:00.691623+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122104198161548584",
-   "posted_at": "2026-11-17T11:04:01.007352+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 17 · 6:04 AM New York · 4:34 PM Sri Lanka\n\n<b>Data leak exposes Deutsche Bank ties to Russian oligarchs</b>\n<i>France 24, New York Times</i>\n🟡 <b>Latest:</b> 3:15 PM Sri Lanka (1h 18m ago) · first reported 11:30 AM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122104198161548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 457,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122104198161548584_1289278013388302",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-20T10:43:28.877927+00:00"
-  },
   "814979608f": {
    "id": "814979608f",
    "headline": "Senate Democrats face leadership contest between Van Hollen and Schumer",
@@ -16199,17 +16004,13 @@
    "6433155462"
   ]
  ],
- "last_draft_at": "2026-11-21T10:45:38.028996+00:00",
+ "last_draft_at": "2026-11-21T11:01:15.330656+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T10:30:48.085210+00:00",
  "run_log": [
-  "11-21 08:33:13 run start",
-  "11-21 08:33:23 listening 11 min",
-  "11-21 08:44:42 listening done",
-  "11-21 08:44:42 run end after 688 s",
   "11-21 08:46:00 run start",
   "11-21 08:46:02 listening 11 min",
   "11-21 08:57:47 listening done",
@@ -16245,7 +16046,11 @@
   "11-21 10:45:37 run start",
   "11-21 10:46:28 listening 11 min",
   "11-21 10:57:21 listening done",
-  "11-21 10:57:21 run end after 704 s"
+  "11-21 10:57:21 run end after 704 s",
+  "11-21 11:01:14 run start",
+  "11-21 11:01:16 listening 11 min",
+  "11-21 11:13:01 listening done",
+  "11-21 11:13:01 run end after 706 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
