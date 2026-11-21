@@ -460,6 +460,23 @@ def ny_day(iso):
     return datetime.fromisoformat(iso).astimezone(ZoneInfo(SLOT_TIMEZONE)).date()
 
 
+def file_name(day, *bits, ext="jpg"):
+    """ONE naming style for every file the bot makes: 7seas_<New York day>_<what>.<ext>,
+    e.g. 7seas_2026-11-20_part1_02.jpg · 7seas_2026-11-20_part1.mp4 (zips add the weekday, like the /day pack)."""
+    return "_".join([f"7seas_{day:%Y-%m-%d}"] + [str(b) for b in bits if b]) + "." + ext
+
+
+def tiktok_mode():
+    """ROUNDUP_TIKTOK in settings: "photos" / "video" / "manual" / "off" (old True/False still work)."""
+    v = ROUNDUP_TIKTOK
+    if v is True:
+        return "photos"
+    if not v:
+        return "off"
+    v = str(v).strip().lower()
+    return v if v in ("photos", "video", "manual", "off") else "photos"
+
+
 def send_day_pack(state, day, so_far=False):
     """/day only (no automatic pack any more). All posts published on one New York day, sent as just
     2 messages to the bot chat:
@@ -495,7 +512,7 @@ def send_day_pack(state, day, so_far=False):
         if cur and size + len(data) > 45 * 1024 * 1024:   # Telegram bots can send files up to 50 MB
             parts.append(cur)
             cur, size = [], 0
-        cur.append((f"{folder}/7seas_{day:%Y-%m-%d}_{n:02d}.jpg", data))
+        cur.append((f"{folder}/{file_name(day, f'{n:02d}')}", data))
         size += len(data)
     if cur:
         parts.append(cur)
@@ -578,7 +595,7 @@ def set_commands_once(state):
         {"command": "pause", "description": "Stop automatic news"},
         {"command": "resume", "description": "Start automatic news again"},
         {"command": "channel", "description": "Link the published-posts channel"},
-        {"command": "content", "description": "Link the content channel (TikTok roundup parts)"},
+        {"command": "content", "description": "Link the content channel (the daily roundup zip)"},
         {"command": "help", "description": "How to use the bot"},
     ])
     state["commands_set"] = 11
@@ -858,13 +875,13 @@ def process_telegram(state, wait=0):
         if fwd and fwd.get("type") == "channel":
             kind = "tiktok_channel" if state.pop("linking", None) in ("tiktok", "content") else "log_channel"
             state[kind] = fwd["id"]
-            what = ("The TikTok roundup parts and the backup zip" if kind == "tiktok_channel" else "Published posts")
+            what = ("The daily roundup zip" if kind == "tiktok_channel" else "Published posts")
             t = tg("sendMessage", chat_id=fwd["id"],
                    text=f"✅ 7 Seas News bot connected. {what} will appear here.")
             if t.get("ok"):
                 tg_text(f"✅ Channel <b>{html.escape(fwd.get('title', ''))}</b> linked. "
-                        + ("It is your <b>content channel</b>: the 3 TikTok roundup parts (time, title, caption, "
-                           "slides) and one backup zip go there." if kind == "tiktok_channel"
+                        + ("It is your <b>content channel</b>: the daily roundup zip goes there (and a part's "
+                           "slides + texts when TikTok must be posted by hand)." if kind == "tiktok_channel"
                            else "Every published post will be logged there."))
             else:
                 state.pop(kind, None)
@@ -934,13 +951,14 @@ def process_telegram(state, wait=0):
             if "off" in text.lower():
                 state.pop("tiktok_channel", None)
                 state.pop("linking", None)
-                tg_text("📦 Content channel unlinked. The TikTok roundup parts come to this chat instead.")
+                tg_text("📦 Content channel unlinked. The roundup zip comes to this chat instead.")
             else:
                 state["linking"] = "content"
                 tg_text("📦 <b>Content channel</b>\n"
-                        "Only what you post on TikTok goes there:\n"
-                        "• the 3 roundup parts (time, title + caption to copy, numbered slides)\n"
-                        "• one backup zip (texts, covers, full-quality slides)\n\n"
+                        "• every day ONE roundup zip: a folder per part (slides in order, 9:16 cover, CAPTION.txt)"
+                        " + TEXTS-AND-TIMES.txt\n"
+                        "• a part's slides + title/caption only when TikTok must be posted by hand"
+                        " (its inbox draft failed)\n\n"
                         "To link a channel:\n"
                         "1. Create a Telegram channel (e.g. '7 Seas – Content')\n"
                         "2. Channel info → Administrators → Add admin → add this bot\n"
@@ -987,8 +1005,9 @@ def process_telegram(state, wait=0):
                     i = rs[day_s]
                     line = f"<b>{day_s}</b>: {i.get('status')}" + (" (test)" if i.get("test") else "")
                     for n, p in enumerate((res.get(day_s) or {}).get("parts") or [], 1):
-                        line += (f"\n  Part {n}: YouTube {p.get('yt', {}).get('state', '-')} · "
-                                 f"Facebook {p.get('fb', {}).get('state', '-')}")
+                        tt = p.get("tt") if isinstance(p.get("tt"), dict) else {}
+                        line += (f"\n  Part {n}: Facebook {p.get('fb', {}).get('state', '-')} · "
+                                 f"YouTube {p.get('yt', {}).get('state', '-')} · TikTok {tt.get('state', '-')}")
                     rows.append(line)
                 tg_text("🎬 <b>Roundups</b>\n" + "\n".join(rows) + "\n\n/roundup test = a test of yesterday now")
         elif text.startswith("/status"):
@@ -1015,7 +1034,7 @@ def process_telegram(state, wait=0):
                     "/queue – what's queued and when it posts\n"
                     "/pause · /resume – stop/start automatic news\n"
                     "/channel – link a channel that logs every published post\n"
-                    "/content – link the content channel (the 3 TikTok roundup parts + backup zip)\n"
+                    "/content – link the content channel (the daily roundup zip)\n"
                     "/stats – likes, comments and shares of the last 24 hours\n"
                     "/stats week – posts per day vs likes/reach per post (find the best number of posts)\n"
                     "/reels – what Facebook did with the last Reels (live / processing / rejected and why)\n"
@@ -4597,20 +4616,13 @@ def roundup_part_due(state, day_s, info, n, part):
     if now < at or now > at + timedelta(hours=6):
         return
     done = info.setdefault("done", {})
-    if ROUNDUP_TIKTOK and not done.get(f"tt{n}"):
+    tt = part.get("tt") if isinstance(part.get("tt"), dict) else {}
+    if tiktok_mode() != "off" and tt.get("state") != "off" and not done.get(f"tt{n}"):
         done[f"tt{n}"] = True
-        tt = part.get("tt") if isinstance(part.get("tt"), dict) else {}
-        kind = tt.get("kind", "video") if tt.get("state") == "inbox" else ""
-        how = {"photos": "📥 The slides are waiting in your TikTok app (title + caption already in) → 🔔 Inbox → tap it "
-                         "→ add a sound → Post.\n(Backup: the slides are in your 📦 content channel.)\n",
-               "video": "📥 The video is waiting in your TikTok app → 🔔 Inbox → tap it → paste the title + caption from "
-                        "your 📦 content channel → add a sound → Post.\n(Or post the slides from the content channel.)\n"
-               }.get(kind, "The slides + title + caption are in your 📦 content channel.\n")
         tg("sendMessage", chat_id=TG_CHAT, parse_mode="HTML",
-           text=(f"⏰ <b>Time to post TikTok Part {n}/{part.get('of', 3)}</b> ({html.escape(part.get('name', ''))})\n"
-                 f"{both_times(at)} · {ny_date_text(at)} (New York date for TikTok Studio)\n"
-                 + how +
-                 "☑️ TikTok's \"AI-generated content\" label: not needed (no AI images in the slides)."),
+           text=(f"⏰ <b>Time to post TikTok Part {n}/{part.get('of', 3)}</b> · {html.escape(part.get('name', ''))}\n"
+                 f"{both_times(at)} · {ny_date_text(at)}\n\n" + tiktok_how(tt)
+                 + "\n☑️ \"AI-generated content\" label: not needed (no AI images)."),
            reply_markup={"inline_keyboard": [[{"text": "✅ Posted", "callback_data": f"rdone:{day_s}:{n}"}]]})
     fb = part.get("fb") or {}
     if fb.get("state") == "draft" and fb.get("id") and not done.get(f"fb{n}"):
@@ -4627,9 +4639,23 @@ def roundup_part_due(state, day_s, info, n, part):
         log_note(state, roundup_part_line(n, part, at))
 
 
+def tiktok_how(tt):
+    """What to do in TikTok for one part, from its result ("tt" in state/roundup.json)."""
+    st, kind = tt.get("state"), tt.get("kind", "video")
+    if st == "inbox" and kind == "photos":
+        return ("📥 TikTok app → 🔔 Inbox → <b>System notifications</b> → tap the 7 Seas News draft\n"
+                "Title + caption are already in → add a trending sound → <b>Post</b>.")
+    if st == "inbox":
+        return ("📥 TikTok app → 🔔 Inbox → <b>System notifications</b> → tap the 7 Seas News video\n"
+                "Paste the title + caption (📦 zip → CAPTION.txt) → add a sound → <b>Post</b>.")
+    return ("📲 Post it by hand: the slides + title + caption are in your 📦 content channel"
+            + (f" (the draft failed: {html.escape(str(tt.get('error', '')))[:120]})" if st == "error" else "") + ".")
+
+
 def roundup_part_line(n, part, at):
-    """"🎬 Roundup Part 1/3 · WAR & CONFLICT · 6:25 PM SL · 7:55 AM NY · Facebook · YouTube" with links."""
+    """"🎬 Roundup Part 1/3 · WAR & CONFLICT · 6:25 PM SL · 7:55 AM NY · Facebook · YouTube · TikTok" with links."""
     fb, yt = part.get("fb") or {}, part.get("yt") or {}
+    tt = part.get("tt") if isinstance(part.get("tt"), dict) else {}
     links = []
     if fb.get("id") and fb.get("state") in ("scheduled", "draft", "published"):
         links.append(f'<a href="https://www.facebook.com/reel/{fb["id"]}">Facebook</a>')
@@ -4639,13 +4665,18 @@ def roundup_part_line(n, part, at):
         links.append(f'<a href="{yt["url"]}">YouTube</a>')
     elif yt.get("state") == "error":
         links.append("YouTube ❌")
+    if tt.get("state") == "inbox":
+        links.append("TikTok 📥 draft")
+    elif tt.get("state") == "error":
+        links.append("TikTok ❌")
     return (f"🎬 <b>Roundup Part {n}/{part.get('of', 3)} · {html.escape(part.get('name', ''))}</b> · {both_times(at)}"
             + (" · " + " · ".join(links) if links else ""))
 
 
 PLATFORM_TEXT = {"scheduled": "✅ scheduled", "draft": "🕒 saved, the bot publishes it at the time",
-                 "published": "✅ live", "off": "off", "no secrets": "not set up yet", "sent": "📲 slides in the content channel",
-                 "inbox": "📥 draft in your TikTok inbox (+ slides in the content channel)"}
+                 "published": "✅ live", "inbox": "📥 draft in your TikTok inbox", "off": "off",
+                 "manual": "📲 by hand (slides in the content channel)", "no secrets": "not set up yet",
+                 "test": "— (test)", "sent": "📲 slides in the content channel"}
 
 
 def platform_text(x):
@@ -4691,7 +4722,7 @@ def daily_report_text(state, day_s, info, res):
             out.append(f"<b>Part {n}/{p.get('of', 3)} · {html.escape(p.get('name', ''))}</b> · {p.get('stories', '?')} stories · "
                        f"{both_times(at)} · {ny_date_text(at)}\n"
                        f"    YouTube {platform_text(p.get('yt'))}\n    Facebook {platform_text(p.get('fb'))}\n"
-                       f"    TikTok {platform_text(p.get('tt', 'sent' if ROUNDUP_TIKTOK else 'off'))}")
+                       f"    TikTok {platform_text(p.get('tt', 'sent'))}")
     return "\n".join(out)[:4000]
 
 
@@ -4750,7 +4781,7 @@ def run_once_jobs(state):
                 tg_text("🔐 Putting the TikTok verify file online (a few minutes).")
             elif job.startswith("tttest"):
                 roundup_request_build("tttest", False)      # bot/roundup.py tt_test() in the video job
-                tg_text("🧪 Starting the TikTok connection test (a 3-second TEST video goes to your TikTok inbox).")
+                tg_text("🧪 Starting the TikTok connection test: TEST slides go to your TikTok inbox (delete them).")
             elif job.startswith("yttest"):
                 roundup_request_build("yttest", False)      # bot/roundup.py yt_test() in the video job
                 tg_text("🧪 Starting the YouTube connection test (a private 3-second video, deleted right after).")

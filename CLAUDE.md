@@ -55,18 +55,19 @@ Never South Asia news. Real, verified news only: a story needs 2+ different outl
   dispatches roundup.yml with GITHUB_TOKEN. No result in state/roundup.json after 80 min → asked again once, then failed.
   At each part's post_at: TikTok reminder with ✅ Posted (rdone:day:n) in the bot chat, Facebook "draft" parts are
   published (fb_reel_finish PUBLISHED), and roundup_part_line() goes to the published channel. Then daily_report_due(). /roundup = status, /roundup test = test of yesterday.
-- bot/roundup.py (roundup.yml, 45 min, ffmpeg; reads state.json, writes ONLY state/roundup.json): per part make_cover()
+- bot/roundup.py (roundup.yml, 45 min, ffmpeg; reads state.json, writes state/roundup.json + state/tiktok_token.json): per part make_cover()
   (1080x1350, branded globe), slides = cover + published images (tg_download), make_part_video() 1080x1920: cover 1.3 s +
   boom, red swipe with white edge + whoosh, per story story_frame() (render_image hide_headline, date=day; top = blurred r34
   45 % dark zoom of rows 170–900 feathered 120 px; counter pill) typed headline + clicks, hold 2.2 s (shortened so ≤ 88 s),
   end card; progress line y 0–8. post_times(): ROUNDUP_TIMES_NY 7:55/9:55/11:55 NY next morning, shifted together if
   late (not in test).
-  Uploads (not test): facebook_upload (fb_reel_upload → fb_reel_cover BEFORE finish (+1 retry after) → finish SCHEDULED,
+  Uploads (not test; bot/uploads.py): facebook_upload (fb_reel_upload → fb_reel_cover BEFORE finish (+1 retry after) → finish SCHEDULED,
   refused → DRAFT); fb/yt results carry "thumb" ("set" or reason); not set → bot chat gets the 9:16 cover + Studio/
   Business Suite link + reason per part (manual thumbnail reminder); youtube_upload (resumable,
   private + publishAt, category 25, thumbnail best effort; ROUNDUP_YOUTUBE + YT_* secrets). Each retried once.
-  Telegram to the content channel: per part text (both times + NY date, title/caption in <code>), sendMediaGroup
-  albums (≥2 per album); then ONE backup zip (texts, covers, full slides). results[n]["tt"] = TikTok status.
+  Telegram to the content channel: ONE zip (backup_zip(): "<day> <Weekday> - Roundup/" with TEXTS-AND-TIMES.txt + a
+  folder per part: CAPTION.txt, slides 7seas_<day>_partN_01_cover.jpg…, 7seas_<day>_partN_cover_9x16.jpg). A part's
+  text + albums (send_tiktok) ONLY when it must be posted on TikTok by hand (tt not "inbox": error/manual/test).
   mp4s → bot chat only on upload failure or test; report → bot chat only in tests (main sends the daily report).
 - Roundup design: see `docs/ROUNDUP_DESIGN.md` + `bot/roundup_design.py` (the ONLY place for roundup look/size/timing
   numbers: covers, cover_9x16, story_canvas, draw_counter, typing_frame, wipe, end_frame, TIMING; sounds = the bot's own Reel
@@ -80,25 +81,34 @@ Never South Asia news. Real, verified news only: a story needs 2+ different outl
   Design preview (dry run): RUN_ONCE "roundup_preview:YYYY-MM-DD" or roundup.yml day "preview YYYY-MM-DD" →
   design_preview(): 3 TikTok covers, 3 video covers, a mid-typing frame, last frame, Part 1 video to the bot chat.
 - tools/youtube_token.py = one-time local OAuth helper (loopback) → refresh token. README has the owner steps.
-- TikTok (ROUNDUP_TIKTOK_UPLOAD "photos" default / "video" / "off"). photos: tiktok_photos_all() → tt_slide_files()
-  (1080-wide + 864x1080 "small" copies, random folder) → tt_push_photos() force-pushes ONE commit (temp index,
-  commit-tree) to branch TT_PHOTO_BRANCH "tt-photos" with the slides + tiktok_verify/* (TikTok signature files) →
-  raw.githubusercontent.com prefix (TT_PHOTO_URL_PREFIX) → /post/publish/content/init/ PHOTO MEDIA_UPLOAD PULL_FROM_URL
-  with title (≤90) + caption; size refused → small copies. RUN_ONCE "ttverify:<id>" = tt_verify() (signature file
-  online). video: tiktok_inbox_upload() = Content Posting API
-  /post/publish/inbox/video/init/ FILE_UPLOAD (≤64 MB one chunk, else 10 MB chunks, last absorbs rest) → PUT
-  Content-Range → status/fetch until SEND_TO_USER_INBOX. results[n]["tt"] = {"state": "inbox", kind photos/video, publish_id, slides} or
-  error; slides still go to the content channel; main's reminder says "open TikTok inbox". tt_token(): refresh token
-  ROTATES → saved encrypted (HMAC-SHA256 stream + MAC, key from TT_CLIENT_SECRET; repo is PUBLIC, never plain) in
-  state/tiktok_token.json (committed by roundup.yml's save step), TT_REFRESH_TOKEN secret = fallback; ONE refresh per
-  run (_TT cache). tools/tiktok_token.py = desktop PKCE (hex SHA-256 per TikTok docs; --b64 = RFC style),
-  redirect http://localhost:3455/callback/, scopes user.info.basic,video.upload. RUN_ONCE "tttest:<id>" = tt_test().
-  Secrets TT_CLIENT_KEY / TT_CLIENT_SECRET / TT_REFRESH_TOKEN. Direct posting needs TikTok's audit (not built yet).
+- bot/uploads.py = ALL roundup uploads, one section per platform with the same shape: <platform>_ready() ("" or
+  "off"/"no secrets"/"manual") + upload → result dict; PLATFORMS = [(fb, Facebook), (yt, YouTube), (tt, TikTok)];
+  roundup.run() loops over it (test → {"state": "test"}, exception → {"state": "error"}). Result states, same words
+  everywhere (main.PLATFORM_TEXT): scheduled · draft · inbox · published · off · manual · no secrets · test · error.
+- TikTok: ROUNDUP_TIKTOK = "photos" (default) / "video" / "manual" / "off" (main.tiktok_mode(); True/False still work).
+  photos: tiktok_prepare() → tt_slide_files() (1080-wide + 864x1080 "small" copies, random folder) → tt_push_photos()
+  force-pushes ONE commit (temp index, commit-tree) to branch TT_PHOTO_BRANCH "tt-photos" with the slides +
+  tiktok_verify/* (TikTok signature files, VERIFIED prefix https://raw.githubusercontent.com/<repo>/tt-photos/) →
+  tiktok_upload → /post/publish/content/init/ PHOTO MEDIA_UPLOAD PULL_FROM_URL with title (≤90) + caption; size
+  refused → small copies. video: tiktok_inbox_upload() FILE_UPLOAD (≤64 MB one chunk, else 10 MB chunks) → PUT
+  Content-Range → status/fetch until SEND_TO_USER_INBOX. results[n]["tt"] = {"state": "inbox", kind, publish_id} or
+  error (+ "slides": "sent" when posted to the content channel for hand posting). main.tiktok_how(tt) = what to do
+  (reminder). The draft is in the phone app → Inbox → System notifications. tt_token(): refresh token ROTATES → saved
+  encrypted (HMAC-SHA256 stream + MAC, key from TT_CLIENT_SECRET; repo is PUBLIC, never plain) in
+  state/tiktok_token.json (.gitignore exception; committed by roundup.yml's save step); TT_REFRESH_TOKEN secret =
+  optional fallback; ONE refresh per run (_TT cache); any local live call rotates it → commit the file.
+  tools/tiktok_token.py: keys from tools/.tiktok_keys (gitignored); --web = Login Kit WEB redirect
+  https://minurajayasingha.github.io/7-seas-news-bot/tiktok-callback/ (docs/tiktok-callback/ shows the code; 2 steps:
+  --web, then --web --code "<address>"); desktop/localhost mode failed with TikTok ("client_key" error). Sandbox app
+  "7 Seas Bot" (target user 7seas.news), scopes user.info.basic + video.upload. RUN_ONCE "ttverify:<id>" = tt_verify(),
+  "tttest:<id>" = tt_test(). Secrets TT_CLIENT_KEY / TT_CLIENT_SECRET.
+- File names: main.file_name(day, *bits, ext) → 7seas_<NY day>_<bits>.<ext> for every file (slides, mp4, covers,
+  /day images); zips: 7seas_<day>_<Weekday>[_roundup].zip with ONE root folder "<day> <Weekday>[ - Roundup]".
 
 ## Secrets (GitHub Actions)
 TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, GEMINI_API_KEY, FB_PAGE_ID, FB_PAGE_TOKEN (never-expiring Page token),
 optional PIXABAY_API_KEY / PEXELS_API_KEY / FLICKR_API_KEY, YT_CLIENT_ID / YT_CLIENT_SECRET / YT_REFRESH_TOKEN (roundup YouTube),
-TT_CLIENT_KEY / TT_CLIENT_SECRET / TT_REFRESH_TOKEN (roundup TikTok inbox). Never print or commit secrets.
+TT_CLIENT_KEY / TT_CLIENT_SECRET (roundup TikTok inbox; TT_REFRESH_TOKEN optional). Never print or commit secrets.
 
 ## Telegram UX
 - Spacing: MIN_MINUTES_BETWEEN_POSTS (0 = owner wants news out at once; AUTO_MIN_GAP_MINUTES 0, DRAFTS_PER_RUN 5, AUTO_MAX_PER_DAY 80) between ALL Facebook posts (state["last_post_at"]). 🚀 Post now / 🎬 Reel /
@@ -144,10 +154,9 @@ TT_CLIENT_KEY / TT_CLIENT_SECRET / TT_REFRESH_TOKEN (roundup TikTok inbox). Neve
   built/skipped/failed (latest NY noon): post count, breaking, Reels, top 3 (likes+comments+shares), per part
   YouTube/Facebook/TikTok status (platform_text). roundup.py sends no report except in tests.
 - Published channel = log of live posts (stats + 🗑 Delete, Reels) + roundup_part_line() at each part's post_at:
-  "🎬 Roundup Part n/3 · NAME · 6:25 PM SL · 7:55 AM NY · Facebook · YouTube" (links).
-- Content channel = per part: time (both + NY date), title, caption, numbered album; then ONE backup zip
-  (DESCRIPTIONS-AND-TIMES.txt, covers, partN_slides/; slides dropped if >48 MB). mp4s go to the bot chat only when an
-  upload failed / nothing was uploaded, or in tests.
+  "🎬 Roundup Part n/3 · NAME · 6:25 PM SL · 7:55 AM NY · Facebook · YouTube · TikTok 📥 draft" (links).
+- Content channel = ONE roundup zip a day (slides dropped if >48 MB); a part's text + numbered album only when TikTok
+  must be posted by hand. mp4s go to the bot chat only when an upload failed / nothing was uploaded, or in tests.
 - Times: both_times(t) = "6:25 PM SL · 7:55 AM NY", ny_date_text(t) = "Wed, Nov 18, 2026"; both zones via zoneinfo
   (never a fixed offset). ROUNDUP_TIMES_NY = 07:55/09:55/11:55; there is no SL times setting.
 - FB_SOFT_CAP (30): soft_cap_reason() in draft_one (with not_important_reason) — when fb_posts_today (posted +

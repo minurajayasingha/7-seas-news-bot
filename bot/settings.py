@@ -455,19 +455,19 @@ ROUNDUP_MUSIC = "off"                # "off" = only the bot's own sounds; or a f
 ROUNDUP_FACEBOOK = True              # upload each part as a Facebook Reel, scheduled at its time
 ROUNDUP_YOUTUBE = True               # upload each part as a YouTube Short (needs the YT_… secrets, see README)
 ROUNDUP_YT_THUMB_WAIT_MINUTES = 12   # wait up to this long for YouTube to finish processing, then set the thumbnails
-ROUNDUP_TIKTOK = True                # send the TikTok slides + title + caption to your content channel
-                                     # (you post them in the TikTok app with a trending sound)
-ROUNDUP_TIKTOK_UPLOAD = "photos"     # what goes to your TikTok app's INBOX as a draft each night (needs the TT_…
-                                     # secrets, see README "TikTok setup"):
-                                     #   "photos" = the slides (cover + posts) WITH title + caption filled in → at the
-                                     #              reminder you open it, add a sound, Post
+ROUNDUP_TIKTOK = "photos"            # each part as a DRAFT in your TikTok app's inbox (needs the TT_… secrets, see
+                                     # README "TikTok setup"); at the reminder you open it, add a sound and Post:
+                                     #   "photos" = the slides (cover + posts) with title + caption filled in
                                      #   "video"  = the roundup video (you paste the caption)
-                                     #   "off"    = nothing, only the slides in the content channel (like before)
+                                     #   "manual" = no draft: slides + texts come to your content channel to post by hand
+                                     #   "off"    = no TikTok at all (no reminders)
+                                     # The content channel always gets ONE zip with everything.
 TT_PHOTO_BRANCH = "tt-photos"        # TikTok pulls the slide photos from this branch of the repo (rewritten each
                                      # night with only the newest slides + the files in tiktok_verify/)
 TT_PHOTO_URL_PREFIX = ""             # "" = https://raw.githubusercontent.com/<repo>/<TT_PHOTO_BRANCH>/ — this exact
                                      # prefix must be verified in the TikTok app ("URL properties")
-TIKTOK_SLIDES_AS = "photos"          # "photos" = albums you can save on your phone; "files" = full quality files
+TIKTOK_SLIDES_AS = "photos"          # slides posted by hand (manual / a failed draft): "photos" = albums you can save
+                                     # on your phone; "files" = full quality files
 
 # ---------- One-time test jobs ----------
 # Each id runs ONCE on the next bot run (the bot remembers it). Change the id (e.g. add "b") to run it again.

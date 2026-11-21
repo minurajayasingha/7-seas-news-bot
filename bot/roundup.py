@@ -5,8 +5,8 @@ Run by .github/workflows/roundup.yml after you approve the plan in Telegram (or 
 
 1. reads the approved plan + the day's posts from state/state.json (read only: the normal bot owns that file)
 2. per part: the TikTok slides (1080x1350 cover + each post), the 1080x1920 video and its cover
-3. uploads: Facebook Reel (scheduled), YouTube Short (scheduled) — not in --test
-4. content channel: per part the TikTok text + numbered slides, then ONE backup zip (texts, covers, full slides)
+3. uploads (bot/uploads.py, not in --test): Facebook Reel + YouTube Short (scheduled), TikTok draft in your inbox
+4. content channel: ONE zip with everything (+ a part's slides/texts only when it must go on TikTok by hand)
 5. writes the results to state/roundup.json (the normal bot reads it for the reminders)
 """
 import argparse
@@ -30,16 +30,8 @@ import main as M                                   # noqa: E402  (all the bot's 
 from main import Image                             # noqa: E402
 from settings import *                             # noqa: E402,F401,F403
 import roundup_design as RD                        # noqa: E402  (THE design: covers, frames, swipes, sounds, timing)
-YT_CLIENT_ID = os.environ.get("YT_CLIENT_ID", "").strip()
-YT_CLIENT_SECRET = os.environ.get("YT_CLIENT_SECRET", "").strip()
-YT_REFRESH_TOKEN = os.environ.get("YT_REFRESH_TOKEN", "").strip()
-TT_CLIENT_KEY = os.environ.get("TT_CLIENT_KEY", "").strip()
-TT_CLIENT_SECRET = os.environ.get("TT_CLIENT_SECRET", "").strip()
-TT_REFRESH_TOKEN = os.environ.get("TT_REFRESH_TOKEN", "").strip()
-TT_TOKEN_FILE = os.path.join(M.ROOT, "state", "tiktok_token.json")   # the newest TikTok login, ENCRYPTED (public repo)
+import uploads as U                                # noqa: E402  (Facebook · YouTube · TikTok uploads)
 log = M.log
-JOB_START = time.time()
-JOB_SAFE_MINUTES = 38                              # roundup.yml stops the job at 45 min: never wait past this
 
 
 # =============================================================================
@@ -251,427 +243,6 @@ def music_file():
 
 
 # =============================================================================
-# UPLOADS
-# =============================================================================
-
-def retry_once(what, fn):
-    try:
-        return fn()
-    except Exception as e:
-        log(f"{what} failed, trying once more:", e)
-        time.sleep(20)
-        return fn()
-
-
-def facebook_upload(video, cover_jpg, texts, post_at):
-    """Reel scheduled for post_at. If Facebook refuses to schedule Reels: saved as a draft, and the normal bot
-    publishes it at the time."""
-    vid = retry_once("Facebook upload", lambda: M.fb_reel_upload(video))
-    thumb = M.fb_reel_cover(vid, cover_jpg)          # before scheduling: Facebook takes it best then
-    try:
-        retry_once("Facebook schedule", lambda: M.fb_reel_finish(vid, texts["fb_caption"], "SCHEDULED", post_at))
-        st = "scheduled"
-    except Exception as e:
-        log("Facebook won't schedule the Reel, saving it as a draft:", e)
-        M.fb_reel_finish(vid, texts["fb_caption"], "DRAFT")
-        st = "draft"
-    if thumb != "set":
-        thumb = M.fb_reel_cover(vid, cover_jpg)
-    return {"id": vid, "state": st, "caption": texts["fb_caption"], "thumb": thumb}
-
-
-def yt_token():
-    r = M.HTTP.post("https://oauth2.googleapis.com/token", timeout=30, data={
-        "client_id": YT_CLIENT_ID, "client_secret": YT_CLIENT_SECRET, "refresh_token": YT_REFRESH_TOKEN,
-        "grant_type": "refresh_token"})
-    j = r.json()
-    if "access_token" not in j:
-        raise RuntimeError("YouTube login: " + str(j.get("error_description") or j.get("error") or j)[:200])
-    return j["access_token"]
-
-
-def youtube_upload(video, texts, post_at):
-    """YouTube Data API v3: resumable upload as private + publishAt (= scheduled).
-    The thumbnail comes later (youtube_thumbnails): YouTube ignores it on a Short that is still processing."""
-    tok = yt_token()
-    body = {"snippet": {"title": texts["yt_title"], "description": texts["yt_description"], "tags": texts["yt_tags"],
-                        "categoryId": "25", "defaultLanguage": "en-US", "defaultAudioLanguage": "en-US"},
-            "status": {"privacyStatus": "private", "publishAt": post_at.strftime("%Y-%m-%dT%H:%M:%SZ"),
-                       "selfDeclaredMadeForKids": False, "containsSyntheticMedia": False}}
-
-    def go():
-        r = M.HTTP.post("https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
-                        json=body, timeout=60, headers={"Authorization": f"Bearer {tok}",
-                                                        "X-Upload-Content-Type": "video/mp4",
-                                                        "X-Upload-Content-Length": str(len(video))})
-        if r.status_code >= 300 or not r.headers.get("Location"):
-            raise RuntimeError(f"YouTube start {r.status_code}: {r.text[:300]}")
-        u = M.HTTP.put(r.headers["Location"], data=video, timeout=900,
-                       headers={"Authorization": f"Bearer {tok}", "Content-Type": "video/mp4"})
-        if u.status_code >= 300:
-            raise RuntimeError(f"YouTube upload {u.status_code}: {u.text[:300]}")
-        return u.json()
-    j = retry_once("YouTube upload", go)
-    vid = j["id"]
-    status = (j.get("status") or {})
-    return {"id": vid, "state": "scheduled" if status.get("publishAt") else status.get("privacyStatus", "uploaded"),
-            "url": f"https://youtube.com/shorts/{vid}", "thumb": "not set yet"}
-
-
-def youtube_set_thumbnail(tok, vid, thumb_jpg):
-    """Send one thumbnail (one retry). Returns "set" or the reason it failed (never raises)."""
-    thumb = "not sent"
-    for attempt in range(2):
-        if attempt:
-            time.sleep(20)
-        try:
-            t = M.HTTP.post(f"https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId={vid}",
-                            data=thumb_jpg, timeout=60,
-                            headers={"Authorization": f"Bearer {tok}", "Content-Type": "image/jpeg"})
-            if t.status_code < 300:
-                return "set"
-            try:
-                thumb = str(t.json()["error"]["message"])[:200]
-            except Exception:
-                thumb = f"HTTP {t.status_code}: {t.text[:150]}"
-        except Exception as e:
-            thumb = str(e)[:200]
-    return thumb
-
-
-def youtube_thumbnails(waiting):
-    """waiting = [(the part's result["yt"], cover jpg)]. Waits until YouTube has finished processing each Short, then
-    sets its thumbnail. Anything not set keeps a reason in yt["thumb"], so the bot chat gets the by-hand reminder."""
-    todo = {yt["id"]: (yt, cover) for yt, cover in waiting if yt.get("id")}
-    wait = ROUNDUP_YT_THUMB_WAIT_MINUTES * 60
-    deadline = min(time.time() + wait, JOB_START + JOB_SAFE_MINUTES * 60)
-    tok = None
-    while todo:
-        found = {}
-        try:
-            tok = tok or yt_token()
-            r = M.HTTP.get("https://www.googleapis.com/youtube/v3/videos", timeout=30,
-                           params={"part": "processingDetails", "id": ",".join(todo)},
-                           headers={"Authorization": f"Bearer {tok}"})
-            found = {i["id"]: (i.get("processingDetails") or {}).get("processingStatus")
-                     for i in r.json().get("items", [])}
-        except Exception as e:
-            log("YouTube processing check failed:", e)
-        for vid, status in found.items():
-            if vid not in todo:
-                continue
-            if status == "succeeded":
-                yt, cover = todo.pop(vid)
-                yt["thumb"] = youtube_set_thumbnail(tok, vid, cover)
-                log("YouTube thumbnail:", vid, yt["thumb"])
-            elif status in ("failed", "terminated"):
-                todo.pop(vid)[0]["thumb"] = f"YouTube could not process this video ({status})"
-        if todo and time.time() >= deadline:
-            for yt, _ in todo.values():
-                yt["thumb"] = "YouTube was still processing this video when the bot stopped waiting"
-            log("YouTube thumbnails: gave up waiting for", ", ".join(todo))
-            return
-        if todo:
-            time.sleep(20)
-
-
-# =============================================================================
-# TIKTOK: each part's video → your TikTok inbox as a draft (Content Posting API, "upload to inbox")
-# =============================================================================
-# TikTok gives a NEW refresh token every time the bot logs in (the old one stops working). The newest one is saved
-# in state/tiktok_token.json, encrypted with a key made from TT_CLIENT_SECRET (only in GitHub secrets), so the
-# public repo never shows it. TT_REFRESH_TOKEN (the secret) is only the starting point / fallback.
-import base64      # noqa: E402
-import hashlib     # noqa: E402
-import hmac        # noqa: E402
-
-TT_API = "https://open.tiktokapis.com/v2"
-_TT = {}           # this run's access token (refresh only ONCE per run: every refresh changes the refresh token)
-
-
-def _tt_keys():
-    root = hashlib.sha256(b"7seas-tiktok-token|" + TT_CLIENT_SECRET.encode()).digest()
-    return hmac.new(root, b"enc", hashlib.sha256).digest(), hmac.new(root, b"mac", hashlib.sha256).digest()
-
-
-def _tt_stream(key, nonce, n):
-    out, i = b"", 0
-    while len(out) < n:
-        out += hmac.new(key, nonce + i.to_bytes(8, "big"), hashlib.sha256).digest()
-        i += 1
-    return out[:n]
-
-
-def tt_encrypt(text):
-    k_enc, k_mac = _tt_keys()
-    nonce, raw = os.urandom(16), text.encode()
-    ct = bytes(a ^ b for a, b in zip(raw, _tt_stream(k_enc, nonce, len(raw))))
-    tag = hmac.new(k_mac, nonce + ct, hashlib.sha256).digest()[:16]
-    return base64.b64encode(nonce + ct + tag).decode()
-
-
-def tt_decrypt(blob):
-    k_enc, k_mac = _tt_keys()
-    b = base64.b64decode(blob)
-    nonce, ct, tag = b[:16], b[16:-16], b[-16:]
-    if not hmac.compare_digest(tag, hmac.new(k_mac, nonce + ct, hashlib.sha256).digest()[:16]):
-        raise ValueError("saved TikTok token does not match TT_CLIENT_SECRET")
-    return bytes(a ^ b for a, b in zip(ct, _tt_stream(k_enc, nonce, len(ct)))).decode()
-
-
-def tt_saved_token():
-    try:
-        with open(TT_TOKEN_FILE, encoding="utf-8") as f:
-            j = json.load(f)
-        return tt_decrypt(j["data"]), j
-    except FileNotFoundError:
-        return "", {}
-    except Exception as e:
-        log("Saved TikTok token unreadable:", e)
-        return "", {}
-
-
-def tt_save_token(refresh, expires_in):
-    exp = (M.now_utc() + timedelta(seconds=int(expires_in or 0))).isoformat() if expires_in else ""
-    with open(TT_TOKEN_FILE, "w", encoding="utf-8") as f:
-        json.dump({"data": tt_encrypt(refresh), "saved_at": M.now_utc().isoformat(), "refresh_expires_at": exp}, f,
-                  indent=1)
-
-
-def tt_configured():
-    return bool(TT_CLIENT_KEY and TT_CLIENT_SECRET and (TT_REFRESH_TOKEN or os.path.exists(TT_TOKEN_FILE)))
-
-
-def tt_token():
-    """Access token for this run. Tries the saved (newest) refresh token, then the TT_REFRESH_TOKEN secret;
-    the new refresh token TikTok returns is saved at once (roundup.yml commits it)."""
-    if _TT.get("access"):
-        return _TT["access"]
-    saved, _ = tt_saved_token()
-    errors = []
-    for refresh in dict.fromkeys(x for x in (saved, TT_REFRESH_TOKEN) if x):
-        r = M.HTTP.post(f"{TT_API}/oauth/token/", timeout=30, data={
-            "client_key": TT_CLIENT_KEY, "client_secret": TT_CLIENT_SECRET,
-            "grant_type": "refresh_token", "refresh_token": refresh})
-        try:
-            j = r.json()
-        except Exception:
-            j = {"error": f"HTTP {r.status_code}"}
-        if j.get("access_token"):
-            tt_save_token(j.get("refresh_token") or refresh, j.get("refresh_expires_in"))
-            _TT["access"] = j["access_token"]
-            days = int(j.get("refresh_expires_in") or 10 ** 9) // 86400
-            if days < 14:
-                M.tg_text(f"⚠️ The TikTok login ends in {days} days. Run <code>python3 tools/tiktok_token.py</code> "
-                          "once more and put the new token in the TT_REFRESH_TOKEN secret.")
-            return j["access_token"]
-        errors.append(str(j.get("error_description") or j.get("error") or j)[:150])
-    raise RuntimeError("TikTok login failed (" + "; ".join(errors or ["no refresh token"])
-                       + ") → run tools/tiktok_token.py again and update the TT_REFRESH_TOKEN secret")
-
-
-TT_FRIENDLY = {
-    "spam_risk_too_many_pending_share": "your TikTok inbox has too many waiting drafts (max 5 in 24 h) — "
-                                        "post or delete the old ones",
-    "access_token_invalid": "TikTok login expired — run tools/tiktok_token.py again",
-    "scope_not_authorized": "the TikTok app is missing the video.upload permission — run tools/tiktok_token.py again",
-    "spam_risk_user_banned_from_posting": "TikTok blocked posting for this account",
-    "rate_limit_exceeded": "TikTok says too many uploads right now",
-}
-
-
-def tt_api(path, body=None):
-    r = M.HTTP.post(f"{TT_API}{path}", json=body or {}, timeout=60,
-                    headers={"Authorization": f"Bearer {tt_token()}", "Content-Type": "application/json; charset=UTF-8"})
-    try:
-        j = r.json()
-    except Exception:
-        raise RuntimeError(f"TikTok {path} HTTP {r.status_code}: {r.text[:200]}")
-    err = j.get("error") or {}
-    if err.get("code", "ok") != "ok":
-        code = err.get("code")
-        raise RuntimeError(TT_FRIENDLY.get(code) or f"TikTok {code}: {err.get('message', '')[:200]}")
-    return j.get("data") or {}
-
-
-def tt_chunks(size):
-    """TikTok's rules: each chunk 5–64 MB (the last may be bigger, up to 128 MB); a file ≤ 64 MB may go in one piece."""
-    if size <= 64 * 1024 * 1024:
-        return size, 1
-    chunk = 10 * 1024 * 1024
-    return chunk, size // chunk
-
-
-def tiktok_inbox_upload(video):
-    """Video → the TikTok app's inbox (you get a notification, tap it, add title/caption/sound, Post).
-    Returns {"state": "inbox", "publish_id": …}. TikTok has no schedule here: you post it at the reminder."""
-    size = len(video)
-    chunk, count = tt_chunks(size)
-
-    def go():
-        d = tt_api("/post/publish/inbox/video/init/", {"source_info": {
-            "source": "FILE_UPLOAD", "video_size": size, "chunk_size": chunk, "total_chunk_count": count}})
-        url, pid = d.get("upload_url"), d.get("publish_id")
-        if not url or not pid:
-            raise RuntimeError(f"TikTok gave no upload link: {d}")
-        for i in range(count):
-            a = i * chunk
-            b = size - 1 if i == count - 1 else a + chunk - 1
-            u = M.HTTP.put(url, data=video[a:b + 1], timeout=600, headers={
-                "Content-Type": "video/mp4", "Content-Length": str(b - a + 1),
-                "Content-Range": f"bytes {a}-{b}/{size}"})
-            if u.status_code not in (200, 201, 206):
-                raise RuntimeError(f"TikTok upload {u.status_code}: {u.text[:200]}")
-        return pid
-    pid = retry_once("TikTok upload", go)
-    status = "PROCESSING_UPLOAD"
-    for _ in range(18):                              # up to ~3 min until it is in the inbox
-        time.sleep(10)
-        try:
-            d = tt_api("/post/publish/status/fetch/", {"publish_id": pid})
-        except Exception as e:
-            log("TikTok status check:", e)
-            continue
-        status = d.get("status") or status
-        if status == "FAILED":
-            raise RuntimeError("TikTok refused the video: " + str(d.get("fail_reason") or "no reason given"))
-        if status in ("SEND_TO_USER_INBOX", "PUBLISH_COMPLETE"):
-            break
-    return {"state": "inbox", "kind": "video", "publish_id": pid, "tt_status": status}
-
-
-# --- photo slides: TikTok only PULLS photos from a verified web address --------------------------------------------
-# The slides are put on the branch TT_PHOTO_BRANCH (ONE commit, force-pushed, so the repo history doesn't grow) and
-# TikTok reads them from raw.githubusercontent.com. The signature file(s) TikTok gives you for "Verify URL prefix" go in
-# the folder tiktok_verify/ on main: they are copied to the branch root every time.
-TT_VERIFY_DIR = os.path.join(M.ROOT, "tiktok_verify")
-TT_SMALL = (864, 1080)            # used only if TikTok says the 1080x1350 slides are too big ("max 1080p")
-
-
-def tt_repo():
-    repo = os.environ.get("GITHUB_REPOSITORY", "")
-    if not repo:
-        url = subprocess.run(["git", "-C", M.ROOT, "remote", "get-url", "origin"], capture_output=True,
-                             text=True).stdout.strip()
-        repo = re.sub(r"^.*github\.com[:/]|\.git$", "", url)
-    return repo
-
-
-def tt_photo_prefix():
-    p = TT_PHOTO_URL_PREFIX or f"https://raw.githubusercontent.com/{tt_repo()}/{TT_PHOTO_BRANCH}/"
-    return p if p.endswith("/") else p + "/"
-
-
-def tt_push_photos(files):
-    """files = {path: bytes}. Replaces the whole branch TT_PHOTO_BRANCH with these files + tiktok_verify/*
-    (uses the checkout's own login, so it works inside GitHub Actions)."""
-    with tempfile.TemporaryDirectory() as tmp, tempfile.TemporaryDirectory() as idx:
-        if os.path.isdir(TT_VERIFY_DIR):
-            for name in os.listdir(TT_VERIFY_DIR):
-                src = os.path.join(TT_VERIFY_DIR, name)
-                if os.path.isfile(src) and not name.startswith(".") and name.lower() != "readme.md":
-                    with open(src, "rb") as a, open(os.path.join(tmp, name), "wb") as b:
-                        b.write(a.read())
-        for path, data in files.items():
-            full = os.path.join(tmp, path)
-            os.makedirs(os.path.dirname(full), exist_ok=True)
-            with open(full, "wb") as f:
-                f.write(data)
-        if not os.listdir(tmp):
-            raise RuntimeError("nothing to put online (tiktok_verify/ is empty)")
-        env = dict(os.environ, GIT_INDEX_FILE=os.path.join(idx, "index"), GIT_AUTHOR_NAME="7seas-bot",
-                   GIT_COMMITTER_NAME="7seas-bot", GIT_AUTHOR_EMAIL="41898282+github-actions[bot]@users.noreply.github.com",
-                   GIT_COMMITTER_EMAIL="41898282+github-actions[bot]@users.noreply.github.com")
-
-        def git(*a):
-            r = subprocess.run(["git", "--git-dir", os.path.join(M.ROOT, ".git"), "--work-tree", tmp, *a], cwd=tmp,
-                               env=env, capture_output=True, text=True)
-            if r.returncode:
-                raise RuntimeError(f"git {a[0]}: {(r.stderr or r.stdout).strip()[:300]}")
-            return r.stdout.strip()
-        git("add", "-A", "--", ".")
-        tree = git("write-tree")
-        commit = git("commit-tree", tree, "-m", "TikTok slides (replaced every night)")
-        git("push", "-f", "origin", f"{commit}:refs/heads/{TT_PHOTO_BRANCH}")
-    return tt_photo_prefix()
-
-
-def tt_wait_online(url, minutes=4):
-    """raw.githubusercontent.com can take a moment after the push."""
-    end = time.time() + minutes * 60
-    while True:
-        try:
-            r = M.HTTP.get(url, timeout=30, allow_redirects=False)
-            if r.status_code == 200:
-                return True
-        except Exception:
-            pass
-        if time.time() > end:
-            return False
-        time.sleep(10)
-
-
-def tt_slide_files(day_s, parts):
-    """parts = [(n, slides)]. Returns ({path: bytes}, {n: (big_paths, small_paths)}). The folder has a random part,
-    so the addresses can't be guessed before the night's push."""
-    folder = f"{day_s}-{random.randrange(16 ** 8):08x}"
-    files, paths = {}, {}
-    for n, slides in parts:
-        big, small = [], []
-        for k, (_, data, _) in enumerate(slides, 1):
-            img = Image.open(io.BytesIO(data)).convert("RGB")
-            if img.width > 1080:
-                img = img.resize((1080, round(img.height * 1080 / img.width)))
-            b, s_ = f"{folder}/p{n}/{k:02d}.jpg", f"{folder}/p{n}/small/{k:02d}.jpg"
-            files[b] = jpg(img, 90)
-            sm = img.copy()
-            sm.thumbnail(TT_SMALL)
-            files[s_] = jpg(sm, 90)
-            big.append(b)
-            small.append(s_)
-        paths[n] = (big[:35], small[:35])            # TikTok: max 35 photos
-    return files, paths
-
-
-def tiktok_inbox_photos(prefix, big, small, texts):
-    """Slides → TikTok inbox as a PHOTO draft with title + caption (you add a sound and Post).
-    If TikTok refuses the size, the 864x1080 copies are sent instead."""
-    def send(paths):
-        d = tt_api("/post/publish/content/init/", {
-            "media_type": "PHOTO", "post_mode": "MEDIA_UPLOAD",
-            "post_info": {"title": trim(texts["tiktok_title"], 90), "description": texts["tiktok_caption"][:4000]},
-            "source_info": {"source": "PULL_FROM_URL", "photo_cover_index": 0,
-                            "photo_images": [prefix + p for p in paths]}})
-        pid = d.get("publish_id")
-        if not pid:
-            raise RuntimeError(f"TikTok gave no publish_id: {d}")
-        status, reason = "PROCESSING_DOWNLOAD", ""
-        for _ in range(24):                          # up to ~4 min
-            time.sleep(10)
-            try:
-                s = tt_api("/post/publish/status/fetch/", {"publish_id": pid})
-            except Exception as e:
-                log("TikTok status check:", e)
-                continue
-            status, reason = s.get("status") or status, str(s.get("fail_reason") or "")
-            if status in ("FAILED", "SEND_TO_USER_INBOX", "PUBLISH_COMPLETE"):
-                break
-        return pid, status, reason
-    pid, status, reason = send(big)
-    size = "1080x1350"
-    if status == "FAILED" and "size" in reason:
-        log("TikTok: slides too big, sending the 864x1080 copies")
-        pid, status, reason = send(small)
-        size = "864x1080"
-    if status == "FAILED":
-        hint = (" — the TikTok app must have the URL prefix " + prefix + " verified"
-                if "pull" in reason or "url" in reason else "")
-        raise RuntimeError("TikTok refused the slides: " + (reason or "no reason given") + hint)
-    return {"state": "inbox", "kind": "photos", "publish_id": pid, "tt_status": status, "size": size,
-            "photos": len(big)}
-
-
-# =============================================================================
 # TELEGRAM: TikTok slides + backup package
 # =============================================================================
 
@@ -683,19 +254,16 @@ def when(post_at):
     return M.both_times(post_at)                   # "6:25 PM SL · 7:55 AM NY"
 
 
-def send_tiktok(ch, n, part, texts, slides, post_at, day, inbox=False):
-    """a) text with time + title + caption to copy  b) the numbered slides as photo albums
-    (the full-quality slides are in the one backup zip)."""
+def send_tiktok(ch, n, part, texts, slides, post_at, why=""):
+    """For posting a part on TikTok BY HAND (no inbox draft): text with time + title + caption to copy, then the
+    numbered slides as photo albums (the full-quality slides are in the one zip)."""
     M.tg("sendMessage", chat_id=ch, parse_mode="HTML", disable_web_page_preview="true", text=(
-        f"📲 <b>TikTok Part {n}/{part.get('of', 3)}</b> · {esc(part['name'])}\n"
+        f"📲 <b>TikTok Part {n}/{part.get('of', 3)}</b> · {esc(part['name'])}"
+        + (f"\n{'' if why.startswith('🧪') else '⚠️ '}{esc(why)}" if why else "") + "\n"
         f"🕒 Post at <b>{when(post_at)}</b> · {M.ny_date_text(post_at)} (New York date for TikTok Studio)\n\n"
         f"<b>Title</b> (tap to copy):\n<code>{esc(texts['tiktok_title'])}</code>\n\n"
         f"<b>Caption</b> (tap to copy):\n<code>{esc(texts['tiktok_caption'])}</code>\n\n"
-        + ({"photos": "📥 The <b>slides</b> are already in your TikTok inbox with title + caption (🔔 notification) → "
-                      "open it → add a sound → Post.\nBackup, if it's not there: ",
-            "video": "📥 The <b>video</b> is already in your TikTok inbox (🔔 notification) → open it → paste title + "
-                     "caption → Post.\nOr post the slides instead: "}.get(inbox) or "📱 ")
-        + "Open the album below → ⋮ → <b>Save to gallery</b> → TikTok ＋ → Photos → tap 1, 2, 3… in order."))
+        "📱 Open the album below → ⋮ → <b>Save to gallery</b> → TikTok ＋ → Photos → tap 1, 2, 3… in order."))
     kind = "document" if str(TIKTOK_SLIDES_AS).lower() == "files" else "photo"
     total = len(slides)
     chunks = [list(range(a, min(total, a + 10))) for a in range(0, total, 10)]
@@ -710,6 +278,40 @@ def send_tiktok(ch, n, part, texts, slides, post_at, day, inbox=False):
         j = M.tg("sendMediaGroup", chat_id=ch, media=media, files=files)
         if not j.get("ok"):
             raise RuntimeError("Telegram album: " + str(j.get("description")))
+
+
+def backup_zip(day, parts_out):
+    """ONE zip with everything, same layout as the /day pack:
+        7seas_2026-11-20_Friday_roundup.zip
+          2026-11-20 Friday - Roundup/
+            TEXTS-AND-TIMES.txt                      every title/caption/description + times, all platforms
+            Part 1 - WAR & CONFLICT/
+              CAPTION.txt                            TikTok title + caption + time
+              7seas_2026-11-20_part1_01_cover.jpg    the slides in order (cover first)
+              7seas_2026-11-20_part1_02.jpg …
+              7seas_2026-11-20_part1_cover_9x16.jpg  the video cover (thumbnail)
+    Too big for Telegram (> 48 MB) → only covers + texts. Returns (file name, bytes, full?)."""
+    root = f"{day:%Y-%m-%d} {day:%A} - Roundup"
+
+    def build(with_slides):
+        buf = io.BytesIO()
+        with zipfile.ZipFile(buf, "w", zipfile.ZIP_DEFLATED) as z:
+            z.writestr(f"{root}/TEXTS-AND-TIMES.txt", descriptions_txt(day, parts_out))
+            for p in parts_out:
+                folder = f"{root}/Part {p['n']} - {p['name']}".replace("&", "and")
+                t = p["texts"]
+                z.writestr(f"{folder}/CAPTION.txt", "\n".join([
+                    f"TIKTOK PART {p['n']}/{p['part'].get('of', 3)} · {p['name']}",
+                    f"Post at: {when(p['at'])} · {M.ny_date_text(p['at'])} (New York date)", "",
+                    "TITLE:", t["tiktok_title"], "", "CAPTION:", t["tiktok_caption"], ""]))
+                z.writestr(f"{folder}/{M.file_name(day, 'part' + str(p['n']), 'cover_9x16')}", p["cover_tall"])
+                for name, data, _ in (p["slides"] if with_slides else p["slides"][:1]):
+                    z.writestr(f"{folder}/{name}", data)
+        return buf.getvalue()
+    data, full = build(True), True
+    if len(data) > 48 * 1024 * 1024:               # Telegram bots can send files up to 50 MB
+        data, full = build(False), False
+    return f"7seas_{day:%Y-%m-%d}_{day:%A}_roundup.zip", data, full
 
 
 def descriptions_txt(day, parts_out):
@@ -740,36 +342,6 @@ def post_times(day, test):
         log("Late: moving the roundup times by", shift)
         times = [t + shift for t in times]
     return times
-
-
-def tiktok_photos_all(day_s, parts_out, results):
-    """All parts' slides online in ONE push, then one TikTok photo draft per part. Errors stay per part."""
-    try:
-        files, paths = tt_slide_files(day_s, [(p["n"], p["slides"]) for p in parts_out])
-        prefix = tt_push_photos(files)
-        first = paths[parts_out[0]["n"]][0][0]
-        if not tt_wait_online(prefix + first):
-            raise RuntimeError("the slides did not come online at " + prefix)
-    except Exception as e:
-        log("TikTok slides could not be put online:", e)
-        for r in results:
-            r["tt_inbox"] = {"state": "error", "error": "putting the slides online: " + str(e)[:250]}
-        return
-    for p, r in zip(parts_out, results):
-        try:
-            big, small = paths[p["n"]]
-            r["tt_inbox"] = tiktok_inbox_photos(prefix, big, small, p["texts"])
-        except Exception as e:
-            log("TikTok photo draft failed:", e)
-            r["tt_inbox"] = {"state": "error", "error": str(e)[:300]}
-
-
-def r_inbox(results, p):
-    """The TikTok inbox result of part p (while run() still keeps it under "tt_inbox")."""
-    for r in results:
-        if r.get("name") == p["name"]:
-            return r.get("tt_inbox")
-    return None
 
 
 def save_result(day_s, res):
@@ -807,9 +379,10 @@ def run(day_s, test=False):
             part = dict(part, name=ROUNDUP_PART_NAMES[n - 1], tag=ROUNDUP_PART_HASHTAGS[n - 1])
         part = dict(part, hook=M.roundup_safe_hook(part.get("hook") or ""))
         cover = make_cover(day, n, part)
-        slides = [(f"{1:02d}_cover.jpg", jpg(cover), "cover")]
+        slides = [(M.file_name(day, f"part{n}", "01_cover"), jpg(cover), "cover")]
         for k, d in enumerate(posts, 2):
-            slides.append((f"{k:02d}.jpg", M.tg_download(d["tg_file_id"]), trim(d["headline"], 60)))
+            slides.append((M.file_name(day, f"part{n}", f"{k:02d}"), M.tg_download(d["tg_file_id"]),
+                           trim(d["headline"], 60)))
         video, seconds = make_part_video(day, n, part, posts, cover)
         parts_out.append({"n": n, "name": part["name"], "part": part, "posts": posts, "cover": cover,
                           "slides": slides, "video": video, "seconds": seconds})
@@ -823,97 +396,54 @@ def run(day_s, test=False):
         p["texts"] = part_texts(day, p["n"], p["part"], p["posts"], at)
         p["at"] = at
 
-    # uploads (not in a test)
-    results, yt_waiting = [], []
+    # 1) uploads — every platform the same way (bot/uploads.py); nothing is uploaded in a test
+    for p in parts_out:
+        p["cover_tall"] = jpg(RD.cover_9x16(p["cover"]), 88)
+    if not test:
+        U.tiktok_prepare(day_s, parts_out)            # photos: all slides online in ONE push first
+    results = []
     for p in parts_out:
         r = {"name": p["name"], "of": len(parts_out), "post_at": p["at"].isoformat(), "stories": len(p["posts"]),
              "seconds": round(p["seconds"], 1)}
-        cover_tall = jpg(RD.cover_9x16(p["cover"]), 88)
-        if test:
-            r["fb"] = r["yt"] = {"state": "test"}
-        else:
-            if ROUNDUP_FACEBOOK:
-                try:
-                    r["fb"] = facebook_upload(p["video"], cover_tall, p["texts"], p["at"])
-                except Exception as e:
-                    log("Facebook roundup failed:", e)
-                    r["fb"] = {"state": "error", "error": str(e)[:300]}
-            else:
-                r["fb"] = {"state": "off"}
-            if ROUNDUP_YOUTUBE and YT_REFRESH_TOKEN:
-                try:
-                    r["yt"] = youtube_upload(p["video"], p["texts"], p["at"])
-                    yt_waiting.append((r["yt"], cover_tall))
-                except Exception as e:
-                    log("YouTube roundup failed:", e)
-                    r["yt"] = {"state": "error", "error": str(e)[:300]}
-            else:
-                r["yt"] = {"state": "off" if not ROUNDUP_YOUTUBE else "no secrets"}
-            if ROUNDUP_TIKTOK_UPLOAD == "video" and tt_configured():
-                try:
-                    r["tt_inbox"] = tiktok_inbox_upload(p["video"])
-                except Exception as e:
-                    log("TikTok inbox upload failed:", e)
-                    r["tt_inbox"] = {"state": "error", "error": str(e)[:300]}
+        for key, platform, ready, upload in U.PLATFORMS:
+            why = "test" if test else ready()
+            if why:
+                r[key] = {"state": why}
+                continue
+            try:
+                r[key] = upload(p)
+            except Exception as e:
+                log(f"{platform} roundup failed:", e)
+                r[key] = {"state": "error", "error": str(e)[:300]}
         results.append(r)
-    if not test and ROUNDUP_TIKTOK_UPLOAD == "photos" and tt_configured() and parts_out:
-        tiktok_photos_all(day_s, parts_out, results)
 
-    # content channel: per part the TikTok text + numbered slides, then ONE backup zip
-    tt_ok = []
-    for p in parts_out:
-        if not ROUNDUP_TIKTOK:
-            tt_ok.append("off")
+    # 2) content channel: a part's slides + texts ONLY when you must post it on TikTok by hand
+    #    (no inbox draft, or a test); then always ONE zip with everything
+    for p, r in zip(parts_out, results):
+        tt = r["tt"]
+        if tt["state"] in ("inbox", "off"):
             continue
+        why = {"test": "🧪 TEST — nothing was uploaded", "manual": "", "no secrets": "TikTok is not set up (TT_… secrets)"}.get(
+            tt["state"], "TikTok draft failed: " + str(tt.get("error", tt["state"]))[:200])
         try:
-            up = r_inbox(results, p) or {}
-            inbox = up.get("kind") if up.get("state") == "inbox" else False
-            send_tiktok(ch, p["n"], p["part"], p["texts"], p["slides"], p["at"], day, inbox)
-            tt_ok.append("sent")
+            send_tiktok(ch, p["n"], p["part"], p["texts"], p["slides"], p["at"], why)
+            tt["slides"] = "sent"
         except Exception as e:
-            log("TikTok slides failed:", e)
-            tt_ok.append("error: " + str(e)[:100])
-    for r, tt in zip(results, tt_ok):
-        r["tt"] = {"state": "sent"} if tt == "sent" else ({"state": "off"} if tt == "off" else
-                                                           {"state": "error", "error": tt[7:]})
-        up = r.pop("tt_inbox", None)
-        if up and up.get("state") == "inbox":
-            r["tt"] = dict(up, slides=r["tt"]["state"])
-        elif up:                                     # inbox upload failed: the slides are the way to post
-            r["tt"] = {"state": "error", "error": "inbox upload: " + up.get("error", "?")
-                       + (" (slides + caption are in the content channel)" if tt == "sent" else ""),
-                       "slides": r["tt"]["state"]}
+            log("TikTok slides to Telegram failed:", e)
+            tt["slides"] = "error: " + str(e)[:100]
+    zip_name, zip_data, full = backup_zip(day, parts_out)
+    M.tg("sendDocument", chat_id=ch, parse_mode="HTML",
+         caption=(f"📦 <b>Roundup · {day:%A, %b} {day.day}</b> · everything in one zip: a folder per part "
+                  "(slides in order, 9:16 cover, CAPTION.txt) + TEXTS-AND-TIMES.txt"
+                  + ("" if full else "\n⚠️ Too big for Telegram: only covers + texts (no slides)")),
+         files={"document": (zip_name, zip_data, "application/zip")})
 
-    # ONE backup zip in the content channel: texts + covers + full-quality slides (no videos: they are uploaded)
-    def backup_zip(with_slides):
-        """ONE zip: a folder per part ("Part 1 - WAR & CONFLICT/") with the TikTok slides in order (01_cover, 02…)
-        and CAPTION.txt (time, title, caption to copy); DESCRIPTIONS-AND-TIMES.txt (all texts) at the top."""
-        buf = io.BytesIO()
-        with zipfile.ZipFile(buf, "w", zipfile.ZIP_DEFLATED) as z:
-            z.writestr("DESCRIPTIONS-AND-TIMES.txt", descriptions_txt(day, parts_out))
-            for p in parts_out:
-                folder = f"Part {p['n']} - {p['name']}".replace("/", "-")
-                t = p["texts"]
-                z.writestr(f"{folder}/CAPTION.txt", "\n".join([
-                    f"TIKTOK PART {p['n']}/{p['part'].get('of', 3)} · {p['name']}",
-                    f"Post at: {when(p['at'])} · {M.ny_date_text(p['at'])} (New York date)", "",
-                    "TITLE:", t["tiktok_title"], "", "CAPTION:", t["tiktok_caption"], ""]))
-                z.writestr(f"{folder}/cover_9x16.jpg", jpg(RD.cover_9x16(p["cover"])))
-                for name, data, _ in (p["slides"] if with_slides else p["slides"][:1]):
-                    z.writestr(f"{folder}/{name}", data)
-        return buf.getvalue()
-    data, full = backup_zip(True), True
-    if len(data) > 48 * 1024 * 1024:               # Telegram bots can send files up to 50 MB
-        data, full = backup_zip(False), False
-    M.tg("sendDocument", chat_id=ch, caption="📦 TikTok zip: one folder per part (slides in order + CAPTION.txt)"
-                                              + ("" if full else " — slides too big, only covers + captions"),
-         files={"document": (f"7seas_roundup_{day:%Y-%m-%d}.zip", data, "application/zip")})
-
-    # YouTube thumbnails last: the Shorts need time to process, and everything above is already safely sent
+    # 3) YouTube thumbnails last: the Shorts need time to process, and everything above is already safely sent
+    yt_waiting = [(r["yt"], p["cover_tall"]) for p, r in zip(parts_out, results) if r["yt"].get("id")]
     if yt_waiting:
-        youtube_thumbnails(yt_waiting)
+        U.youtube_thumbnails(yt_waiting)
 
-    # thumbnails the bot could not set → ONE reminder per part in the bot chat: the cover + where to set it
+    # 4) thumbnails the bot could not set → ONE note per part in the bot chat: the cover + where to set it
     if not test:
         for p, r in zip(parts_out, results):
             todo = []
@@ -930,10 +460,10 @@ def run(day_s, test=False):
                 M.tg("sendDocument", chat_id=M.TG_CHAT, parse_mode="HTML",
                      caption=(f"🖼 <b>Set the thumbnail by hand</b> · Part {p['n']}/{p['part'].get('of', 3)} · "
                               f"{esc(p['name'])} · goes live {when(p['at'])}\n\n" + "\n\n".join(todo))[:1024],
-                     files={"document": (f"thumbnail_part{p['n']}_1080x1920.jpg", jpg(RD.cover_9x16(p["cover"])),
+                     files={"document": (M.file_name(day, f"part{p['n']}", "cover_9x16"), p["cover_tall"],
                                          "image/jpeg")})
 
-    # a video goes to the bot chat only when you must post it by hand (an upload failed / nothing uploaded) or in a test
+    # 5) a video goes to the bot chat only when you must post it by hand (Facebook + YouTube both failed/off) or in a test
     for p, r in zip(parts_out, results):
         states = [r["fb"].get("state"), r["yt"].get("state")]
         uploaded = any(x in ("scheduled", "draft") for x in states)
@@ -941,21 +471,15 @@ def run(day_s, test=False):
             why = "test" if test else "upload failed — post it by hand" if "error" in states else "not uploaded anywhere"
             M.tg("sendDocument", chat_id=M.TG_CHAT,
                  caption=f"🎬 Part {p['n']}/{p['part'].get('of', 3)} · {p['name']} · {p['seconds']:.0f} s · {when(p['at'])} ({why})",
-                 files={"document": (f"7seas_{day:%Y-%m-%d}_part{p['n']}.mp4", p["video"], "video/mp4")})
+                 files={"document": (M.file_name(day, f"part{p['n']}", ext="mp4"), p["video"], "video/mp4")})
 
-    # report
-    icon = {"scheduled": "✅ scheduled", "draft": "🕒 saved, the bot publishes it at the time", "off": "off",
-            "test": "— (test)", "no secrets": "not set up yet"}
-    rows = [("🧪 <b>TEST roundup</b> — nothing uploaded" if test else "🎬 <b>Roundup ready</b>")
-            + f" · {day:%A, %b} {day.day}"]
-    for p, r, tt in zip(parts_out, results, tt_ok):
-        def show(x):
-            return icon.get(x.get("state"), "") or ("❌ " + esc(x.get("error", x.get("state", "?")))[:150])
-        rows.append(f"\n<b>Part {p['n']}/{p['part'].get('of', 3)} · {esc(p['name'])}</b> · {len(p['posts'])} stories · {p['seconds']:.0f} s · "
-                    f"{when(p['at'])}\nFacebook: {show(r['fb'])}\nYouTube: {show(r['yt'])}"
-                    + (f" <a href=\"{r['yt']['url']}\">link</a>" if r["yt"].get("url") else "")
-                    + f"\nTikTok slides: {'✅ sent to ' + ('your content channel' if ch != M.TG_CHAT else 'this chat') if tt == 'sent' else esc(tt)}")
-    if test:                       # a real roundup is reported by the normal bot in ONE daily report
+    # 6) report: only in a test (a real roundup is in the normal bot's ONE daily report, same words)
+    if test:
+        rows = [f"🧪 <b>TEST roundup</b> — nothing uploaded · {day:%A, %b} {day.day}"]
+        for p, r in zip(parts_out, results):
+            rows.append(f"\n<b>Part {p['n']}/{p['part'].get('of', 3)} · {esc(p['name'])}</b> · {len(p['posts'])} stories · "
+                        f"{p['seconds']:.0f} s · {when(p['at'])}\n"
+                        + "\n".join(f"{platform}: {M.platform_text(r[key])}" for key, platform, _, _ in U.PLATFORMS))
         M.tg_text("\n".join(rows))
     save_result(day_s, {"built_at": M.now_utc().isoformat(), "test": test, "parts": results})
 
@@ -975,12 +499,12 @@ def test_video(label):
 
 def tt_verify():
     """Put the signature file(s) from tiktok_verify/ online, so you can click "Verify" in the TikTok app."""
-    names = [x for x in os.listdir(TT_VERIFY_DIR) if not x.startswith(".") and x.lower() != "readme.md"] \
-        if os.path.isdir(TT_VERIFY_DIR) else []
+    names = [x for x in os.listdir(U.TT_VERIFY_DIR) if not x.startswith(".") and x.lower() != "readme.md"] \
+        if os.path.isdir(U.TT_VERIFY_DIR) else []
     if not names:
         raise RuntimeError("put the signature file from TikTok in the folder tiktok_verify/ first (then commit)")
-    prefix = tt_push_photos({})
-    ok = tt_wait_online(prefix + names[0])
+    prefix = U.tt_push_photos({})
+    ok = U.tt_wait_online(prefix + names[0])
     M.tg_text("🔐 <b>TikTok verify file</b> " + ("✅ online" if ok else "⚠️ not online yet (try Verify in a few min)")
               + f"\nIn the TikTok app → URL properties → Verify, use this URL prefix:\n<code>{esc(prefix)}</code>\n"
               f"File: {esc(prefix + names[0])}")
@@ -989,19 +513,19 @@ def tt_verify():
 def tt_test():
     """One-time TikTok check: log in, send TEST slides (photos mode) or a 3 s video to the TikTok inbox, report."""
     from datetime import date
-    if not tt_configured():
+    if not U.tt_configured():
         raise RuntimeError("the TT_CLIENT_KEY / TT_CLIENT_SECRET / TT_REFRESH_TOKEN secrets are missing")
-    if ROUNDUP_TIKTOK_UPLOAD == "photos":
+    if M.tiktok_mode() != "video":
         slides = [(f"{k}.jpg", jpg(make_cover(date.today(), k, {"name": "TEST", "hook": f"TikTok test {k}/2. Delete it."})), "t")
                   for k in (1, 2)]
-        files, paths = tt_slide_files("test", [(1, slides)])
-        prefix = tt_push_photos(files)
-        if not tt_wait_online(prefix + paths[1][0][0]):
+        files, paths = U.tt_slide_files("test", [(1, slides)])
+        prefix = U.tt_push_photos(files)
+        if not U.tt_wait_online(prefix + paths[1][0][0]):
             raise RuntimeError("the test slides did not come online at " + prefix)
-        up = tiktok_inbox_photos(prefix, *paths[1], {"tiktok_title": "7 Seas News test", "tiktok_caption": "Test. Delete me."})
+        up = U.tiktok_inbox_photos(prefix, *paths[1], {"tiktok_title": "7 Seas News test", "tiktok_caption": "Test. Delete me."})
     else:
-        up = tiktok_inbox_upload(test_video("TikTok test. Delete it."))
-    _, saved = tt_saved_token()
+        up = U.tiktok_inbox_upload(test_video("TikTok test. Delete it."))
+    _, saved = U.tt_saved_token()
     exp = (saved.get("refresh_expires_at") or "")[:10]
     M.tg_text("🧪 <b>TikTok connection test</b>\nLogin: ✅ worked (new token saved, encrypted)\n"
               f"Upload to inbox: ✅ {esc(up.get('kind', ''))} · {esc(up.get('tt_status', ''))}"
@@ -1014,8 +538,8 @@ def yt_test():
     """One-time YouTube check: upload a 3 s PRIVATE video scheduled 7 days ahead, read back what YouTube did with
     it (scheduled? locked private?), report it, then delete the test video."""
     from datetime import date
-    if not (YT_CLIENT_ID and YT_CLIENT_SECRET and YT_REFRESH_TOKEN):
-        raise RuntimeError("the YT_CLIENT_ID / YT_CLIENT_SECRET / YT_REFRESH_TOKEN secrets are missing")
+    if not (U.YT_CLIENT_ID and U.YT_CLIENT_SECRET and U.YT_REFRESH_TOKEN):
+        raise RuntimeError("the U.YT_CLIENT_ID / U.YT_CLIENT_SECRET / U.YT_REFRESH_TOKEN secrets are missing")
     cover = RD.cover_9x16(make_cover(date.today(), 1, {"name": "TEST", "hook": "YouTube test. Deleted soon."}))
     with tempfile.TemporaryDirectory() as tmp:
         img, out = os.path.join(tmp, "c.jpg"), os.path.join(tmp, "t.mp4")
@@ -1027,8 +551,8 @@ def yt_test():
     at = (M.now_utc() + timedelta(days=7)).replace(minute=0, second=0, microsecond=0)
     texts = {"yt_title": "7 Seas News connection test (private, will be deleted)", "yt_description": "Test upload.",
              "yt_tags": ["test"]}
-    up = youtube_upload(video, texts, at)
-    tok = yt_token()
+    up = U.youtube_upload(video, texts, at)
+    tok = U.yt_token()
     j = M.HTTP.get("https://www.googleapis.com/youtube/v3/videos", timeout=30, params={"part": "status", "id": up["id"]},
                    headers={"Authorization": f"Bearer {tok}"}).json()
     st = ((j.get("items") or [{}])[0]).get("status", {})
