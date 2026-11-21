@@ -4599,10 +4599,17 @@ def roundup_part_due(state, day_s, info, n, part):
     done = info.setdefault("done", {})
     if ROUNDUP_TIKTOK and not done.get(f"tt{n}"):
         done[f"tt{n}"] = True
+        tt = part.get("tt") if isinstance(part.get("tt"), dict) else {}
+        kind = tt.get("kind", "video") if tt.get("state") == "inbox" else ""
+        how = {"photos": "📥 The slides are waiting in your TikTok app (title + caption already in) → 🔔 Inbox → tap it "
+                         "→ add a sound → Post.\n(Backup: the slides are in your 📦 content channel.)\n",
+               "video": "📥 The video is waiting in your TikTok app → 🔔 Inbox → tap it → paste the title + caption from "
+                        "your 📦 content channel → add a sound → Post.\n(Or post the slides from the content channel.)\n"
+               }.get(kind, "The slides + title + caption are in your 📦 content channel.\n")
         tg("sendMessage", chat_id=TG_CHAT, parse_mode="HTML",
            text=(f"⏰ <b>Time to post TikTok Part {n}/{part.get('of', 3)}</b> ({html.escape(part.get('name', ''))})\n"
                  f"{both_times(at)} · {ny_date_text(at)} (New York date for TikTok Studio)\n"
-                 "The slides + title + caption are in your 📦 content channel.\n"
+                 + how +
                  "☑️ TikTok's \"AI-generated content\" label: not needed (no AI images in the slides)."),
            reply_markup={"inline_keyboard": [[{"text": "✅ Posted", "callback_data": f"rdone:{day_s}:{n}"}]]})
     fb = part.get("fb") or {}
@@ -4637,7 +4644,8 @@ def roundup_part_line(n, part, at):
 
 
 PLATFORM_TEXT = {"scheduled": "✅ scheduled", "draft": "🕒 saved, the bot publishes it at the time",
-                 "published": "✅ live", "off": "off", "no secrets": "not set up yet", "sent": "📲 slides in the content channel"}
+                 "published": "✅ live", "off": "off", "no secrets": "not set up yet", "sent": "📲 slides in the content channel",
+                 "inbox": "📥 draft in your TikTok inbox (+ slides in the content channel)"}
 
 
 def platform_text(x):
@@ -4737,6 +4745,12 @@ def run_once_jobs(state):
         try:
             if job.startswith("phototest"):
                 photo_test(state)
+            elif job.startswith("ttverify"):
+                roundup_request_build("ttverify", False)    # bot/roundup.py tt_verify() in the video job
+                tg_text("🔐 Putting the TikTok verify file online (a few minutes).")
+            elif job.startswith("tttest"):
+                roundup_request_build("tttest", False)      # bot/roundup.py tt_test() in the video job
+                tg_text("🧪 Starting the TikTok connection test (a 3-second TEST video goes to your TikTok inbox).")
             elif job.startswith("yttest"):
                 roundup_request_build("yttest", False)      # bot/roundup.py yt_test() in the video job
                 tg_text("🧪 Starting the YouTube connection test (a private 3-second video, deleted right after).")

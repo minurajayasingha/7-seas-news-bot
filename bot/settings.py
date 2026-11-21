@@ -457,6 +457,16 @@ ROUNDUP_YOUTUBE = True               # upload each part as a YouTube Short (need
 ROUNDUP_YT_THUMB_WAIT_MINUTES = 12   # wait up to this long for YouTube to finish processing, then set the thumbnails
 ROUNDUP_TIKTOK = True                # send the TikTok slides + title + caption to your content channel
                                      # (you post them in the TikTok app with a trending sound)
+ROUNDUP_TIKTOK_UPLOAD = "photos"     # what goes to your TikTok app's INBOX as a draft each night (needs the TT_…
+                                     # secrets, see README "TikTok setup"):
+                                     #   "photos" = the slides (cover + posts) WITH title + caption filled in → at the
+                                     #              reminder you open it, add a sound, Post
+                                     #   "video"  = the roundup video (you paste the caption)
+                                     #   "off"    = nothing, only the slides in the content channel (like before)
+TT_PHOTO_BRANCH = "tt-photos"        # TikTok pulls the slide photos from this branch of the repo (rewritten each
+                                     # night with only the newest slides + the files in tiktok_verify/)
+TT_PHOTO_URL_PREFIX = ""             # "" = https://raw.githubusercontent.com/<repo>/<TT_PHOTO_BRANCH>/ — this exact
+                                     # prefix must be verified in the TikTok app ("URL properties")
 TIKTOK_SLIDES_AS = "photos"          # "photos" = albums you can save on your phone; "files" = full quality files
 
 # ---------- One-time test jobs ----------
@@ -464,6 +474,8 @@ TIKTOK_SLIDES_AS = "photos"          # "photos" = albums you can save on your ph
 #   "phototest:<id>"           = new photos for the last 10 posts, sent to Telegram with the AI's score (nothing published)
 #   "roundup_test:YYYY-MM-DD"  = the daily roundup of that New York day, sent to Telegram only (no uploads)
 #   "yttest:<id>"              = YouTube check: private 3 s video, read back if scheduling works, then deleted
+#   "ttverify:<id>"            = put the TikTok signature file(s) from tiktok_verify/ online (for "Verify URL prefix")
+#   "tttest:<id>"              = TikTok check: log in + send TEST slides (or a 3 s video) to your TikTok inbox (delete it)
 #   "roundup_real:YYYY-MM-DD"  = make that day's roundup for REAL (Facebook + YouTube uploads) at the times in
 #                                ROUNDUP_MANUAL_TIMES below (no TikTok slides: you do TikTok yourself)
 #   "roundup_preview:YYYY-MM-DD" = design dry run of that day → bot chat (covers, frames, Part 1 video), no uploads

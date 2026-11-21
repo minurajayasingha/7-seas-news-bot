@@ -110,7 +110,9 @@ What happens after approval:
 - **Facebook** – each part is uploaded as a Reel, scheduled at its time (`ROUNDUP_FACEBOOK`).
   If Facebook refuses scheduling, it is saved as a draft and the bot publishes it at the time.
 - **YouTube** – each part becomes a scheduled Short (`ROUNDUP_YOUTUBE`, needs the setup below).
-- **TikTok** – you post it yourself with a trending sound. In your content channel (`/content`) you get, per part:
+- **TikTok** – each part's **slides go to your TikTok inbox as a photo draft, title + caption already filled in**
+  (`ROUNDUP_TIKTOK_UPLOAD = "photos"`, needs the TikTok setup below). At the reminder: TikTok → 🔔 Inbox → the draft
+  → add a trending sound → Post. The slides also stay in the content channel as a backup. In your content channel (`/content`) you get, per part:
   the time, the title + caption (tap a grey box to copy it) and the numbered slides as photo albums (cover first).
   After the 3 parts comes ONE backup zip (texts, covers, full-quality slides).
 - **Bot chat** – ONE daily report once the roundup is scheduled: yesterday's post count, top 3 posts and the
@@ -127,6 +129,44 @@ What happens after approval:
 - In TikTok: **＋** → **Upload** → **Photos** → tap the slides in order **1, 2, 3…** (the number is in each photo's caption)
   → add a trending sound → paste the title + caption. Turn on TikTok's "AI-generated content" label **only** if a slide
   uses an AI image (the bot never makes AI images).
+
+### TikTok setup (one time, about 30 minutes)
+TikTok has no schedule for API uploads, so each night the bot puts each part's slides in your TikTok **inbox** as a
+draft (title + caption filled in); at the reminder you add a sound and Post. TikTok only takes photos from a web
+address you have verified: the bot puts the slides on the branch `tt-photos` of this repo, and TikTok reads them from
+`https://raw.githubusercontent.com/minurajayasingha/7-seas-news-bot/tt-photos/`.
+
+**A. Create the app** (developers.tiktok.com → log in with any TikTok account → **Manage apps → Connect an app**)
+1. App name **7 Seas News**, icon 1024×1024 (the logo), category News, description: "Publishing tool of the 7 Seas
+   News page: sends our daily news roundup slides to our TikTok inbox as drafts, which we review and post ourselves."
+2. Platforms: **Desktop** (website `https://minurajayasingha.github.io/7-seas-news-bot/`).
+3. Terms of Service URL `…/7-seas-news-bot/terms.html`, Privacy Policy URL `…/7-seas-news-bot/privacy.html`.
+4. Add products **Login Kit** (Desktop → Redirect URI `http://localhost:3455/callback/`) and **Content Posting API**.
+   Scopes: `user.info.basic`, `video.upload` only (remove anything else).
+5. **Sandbox** (top of the app page) → create one → **Target users** → add the 7 Seas News TikTok account. Sandbox
+   works without TikTok's review; Sandbox has its own Client key/secret.
+
+**B. Verify the addresses** (app → **URL properties → Verify properties**)
+6. **Website** prefix `https://minurajayasingha.github.io/7-seas-news-bot/` → download the signature file → put it in
+   `docs/` → commit + sync → wait 2 min → Verify.
+7. **Photos** prefix `https://raw.githubusercontent.com/minurajayasingha/7-seas-news-bot/tt-photos/` → download the
+   signature file → put it in `tiktok_verify/` → add `"ttverify:1"` to `RUN_ONCE` in settings → commit + sync →
+   the bot chat says "TikTok verify file ✅ online" (~15 min) → Verify.
+
+**C. Connect the bot**
+8. On your computer, in this repo folder: `python3 tools/tiktok_token.py` → paste the Client key + secret → log in
+   with the **7 Seas News TikTok account** → allow → it prints the **refresh token**.
+9. GitHub → repo → **Settings → Secrets and variables → Actions** → add `TT_CLIENT_KEY`, `TT_CLIENT_SECRET`,
+   `TT_REFRESH_TOKEN`.
+10. Test: add `"tttest:1"` to `RUN_ONCE` → commit + sync. Two TEST slides should appear in your TikTok inbox
+    (~15 min; delete them) and the bot chat says "TikTok connection test ✅".
+
+Good to know:
+- TikTok changes the refresh token every time the bot logs in. The newest one is kept **encrypted** in
+  `state/tiktok_token.json` (key = your client secret), so you never need to update the secret again — unless the bot
+  says the login failed or ends soon: then repeat steps 8–9.
+- Max **5 waiting inbox drafts in 24 h**: post or delete each day's drafts. The TikTok app must be version 31.8+.
+- `ROUNDUP_TIKTOK_UPLOAD = "video"` sends the video instead; `"off"` = only the content channel (like before).
 
 ### YouTube setup (one time, about 15 minutes)
 1. Go to **console.cloud.google.com** → create a project (e.g. "7 Seas Bot").

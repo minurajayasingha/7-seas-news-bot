@@ -80,10 +80,25 @@ Never South Asia news. Real, verified news only: a story needs 2+ different outl
   Design preview (dry run): RUN_ONCE "roundup_preview:YYYY-MM-DD" or roundup.yml day "preview YYYY-MM-DD" →
   design_preview(): 3 TikTok covers, 3 video covers, a mid-typing frame, last frame, Part 1 video to the bot chat.
 - tools/youtube_token.py = one-time local OAuth helper (loopback) → refresh token. README has the owner steps.
+- TikTok (ROUNDUP_TIKTOK_UPLOAD "photos" default / "video" / "off"). photos: tiktok_photos_all() → tt_slide_files()
+  (1080-wide + 864x1080 "small" copies, random folder) → tt_push_photos() force-pushes ONE commit (temp index,
+  commit-tree) to branch TT_PHOTO_BRANCH "tt-photos" with the slides + tiktok_verify/* (TikTok signature files) →
+  raw.githubusercontent.com prefix (TT_PHOTO_URL_PREFIX) → /post/publish/content/init/ PHOTO MEDIA_UPLOAD PULL_FROM_URL
+  with title (≤90) + caption; size refused → small copies. RUN_ONCE "ttverify:<id>" = tt_verify() (signature file
+  online). video: tiktok_inbox_upload() = Content Posting API
+  /post/publish/inbox/video/init/ FILE_UPLOAD (≤64 MB one chunk, else 10 MB chunks, last absorbs rest) → PUT
+  Content-Range → status/fetch until SEND_TO_USER_INBOX. results[n]["tt"] = {"state": "inbox", kind photos/video, publish_id, slides} or
+  error; slides still go to the content channel; main's reminder says "open TikTok inbox". tt_token(): refresh token
+  ROTATES → saved encrypted (HMAC-SHA256 stream + MAC, key from TT_CLIENT_SECRET; repo is PUBLIC, never plain) in
+  state/tiktok_token.json (committed by roundup.yml's save step), TT_REFRESH_TOKEN secret = fallback; ONE refresh per
+  run (_TT cache). tools/tiktok_token.py = desktop PKCE (hex SHA-256 per TikTok docs; --b64 = RFC style),
+  redirect http://localhost:3455/callback/, scopes user.info.basic,video.upload. RUN_ONCE "tttest:<id>" = tt_test().
+  Secrets TT_CLIENT_KEY / TT_CLIENT_SECRET / TT_REFRESH_TOKEN. Direct posting needs TikTok's audit (not built yet).
 
 ## Secrets (GitHub Actions)
 TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, GEMINI_API_KEY, FB_PAGE_ID, FB_PAGE_TOKEN (never-expiring Page token),
-optional PIXABAY_API_KEY / PEXELS_API_KEY / FLICKR_API_KEY, YT_CLIENT_ID / YT_CLIENT_SECRET / YT_REFRESH_TOKEN (roundup YouTube). Never print or commit secrets.
+optional PIXABAY_API_KEY / PEXELS_API_KEY / FLICKR_API_KEY, YT_CLIENT_ID / YT_CLIENT_SECRET / YT_REFRESH_TOKEN (roundup YouTube),
+TT_CLIENT_KEY / TT_CLIENT_SECRET / TT_REFRESH_TOKEN (roundup TikTok inbox). Never print or commit secrets.
 
 ## Telegram UX
 - Spacing: MIN_MINUTES_BETWEEN_POSTS (0 = owner wants news out at once; AUTO_MIN_GAP_MINUTES 0, DRAFTS_PER_RUN 5, AUTO_MAX_PER_DAY 80) between ALL Facebook posts (state["last_post_at"]). 🚀 Post now / 🎬 Reel /
