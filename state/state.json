@@ -12692,69 +12692,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-18T12:01:13.718112+00:00",
-   [
-    "alaska",
-    "all",
-    "america",
-    "area",
-    "blu",
-    "flipp",
-    "gift",
-    "liv",
-    "map",
-    "peltola",
-    "politic",
-    "red",
-    "schumer",
-    "show",
-    "win"
-   ],
-   "skipped"
-  ],
-  [
-   "2026-11-18T12:05:25.696471+00:00",
-   [
-    "aliv",
-    "diesel",
-    "high",
-    "hik",
-    "hit",
-    "inflation",
-    "keep",
-    "petrol",
-    "pric",
-    "rat",
-    "record",
-    "ris",
-    "risk",
-    "second",
-    "straight"
-   ],
-   "4b1632ddd3"
-  ],
-  [
-   "2026-11-18T12:08:05.944030+00:00",
-   [
-    "appear",
-    "becom",
-    "choos",
-    "democrat",
-    "election",
-    "expect",
-    "fac",
-    "hakeem",
-    "hous",
-    "internal",
-    "jeffry",
-    "leadership",
-    "speaker",
-    "test",
-    "unit"
-   ],
-   "d2dd1e13d0"
-  ],
-  [
    "2026-11-18T12:50:45.079402+00:00",
    [
     "45",
@@ -16025,17 +15962,13 @@
    "4992a5d3af"
   ]
  ],
- "last_draft_at": "2026-11-21T11:45:40.854652+00:00",
+ "last_draft_at": "2026-11-21T12:00:49.382137+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T11:30:50.927227+00:00",
  "run_log": [
-  "11-21 09:31:09 run start",
-  "11-21 09:31:46 listening 11 min",
-  "11-21 09:42:41 listening done",
-  "11-21 09:42:41 run end after 691 s",
   "11-21 09:45:49 run start",
   "11-21 09:46:08 listening 11 min",
   "11-21 09:57:27 listening done",
@@ -16071,7 +16004,11 @@
   "11-21 11:45:40 run start",
   "11-21 11:46:13 listening 11 min",
   "11-21 11:57:06 listening done",
-  "11-21 11:57:06 run end after 685 s"
+  "11-21 11:57:06 run end after 685 s",
+  "11-21 12:00:48 run start",
+  "11-21 12:00:58 listening 11 min",
+  "11-21 12:12:17 listening done",
+  "11-21 12:12:17 run end after 688 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
