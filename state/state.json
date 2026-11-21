@@ -9791,6 +9791,178 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122108798757548584_1880733293370024"
+  },
+  "7c9e9f9934": {
+   "id": "7c9e9f9934",
+   "headline": "Voters oust sheriffs backing Trump immigration efforts",
+   "summary": "Voters have removed several sheriffs who supported President Donald Trump’s immigration crackdown from office. Some agreements involving ICE could become a focus in future elections.",
+   "label": "ELECTIONS",
+   "hook": "Will these immigration agreements become a major issue in upcoming elections?",
+   "key_points": [
+    "Voters removed sheriffs supporting immigration enforcement",
+    "Agreements involved efforts by ICE",
+    "Future elections may see ICE agreements as a focus"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Elections",
+    "#Immigration"
+   ],
+   "sources": [
+    "ABC News",
+    "The Independent"
+   ],
+   "link": "https://abcnews.com/Politics/wireStory/voters-oust-sheriffs-signed-pacts-trumps-immigration-enforcement-138344353",
+   "links": [
+    [
+     "ABC News",
+     "https://abcnews.com/Politics/wireStory/voters-oust-sheriffs-signed-pacts-trumps-immigration-enforcement-138344353"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/us-politics/sheriffs-trump-ice-midterms-alamance-b3089225.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Voting_booth_at_the_Madison_Parish_Courthouse.jpg/1920px-Voting_booth_at_the_Madison_Parish_Courthouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Ktkvtsh / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "voting booth with red curtain"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "Voters oust sheriffs backing Trump immigration efforts",
+    "people": [],
+    "image_query": "voting booth",
+    "image_queries": [
+     "voting booth",
+     "ballot box",
+     "US Capitol building",
+     "election sign"
+    ],
+    "image_style": "scene",
+    "location": "US",
+    "nearby_city": "Washington, D.C.",
+    "event_query": "US election voting",
+    "topic_photo": "ballot box",
+    "label": "ELECTIONS",
+    "action_subject": "voting booth",
+    "news_time": "2026-11-21T17:53:07+00:00"
+   },
+   "created_at": "2026-11-21T21:14:06.375078+00:00",
+   "news_time": "2026-11-21T17:53:07+00:00",
+   "news_latest": "2026-11-21T20:57:36+00:00",
+   "importance": 7,
+   "caption": "Voters oust sheriffs backing Trump immigration efforts\n\nVoters have removed several sheriffs who supported President Donald Trump’s immigration crackdown from office. Some agreements involving ICE could become a focus in future elections.\n\n💬 Will these immigration agreements become a major issue in upcoming elections?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Elections #Immigration #7SeasNews",
+   "photo_line": "📷 10/10 voting booth with red curtain · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 901,
+   "tg_file_id": "AgACAgUAAxkDAAIDhWsCCaBoSlfC2m45Kwuj2VEwQpUOAAJdEGsboQ8RVMe_RIlV5LAKAQADAgADdwADPQQ",
+   "queued_at": "2026-11-21T21:14:08.476484+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-21T21:14:08.476519+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122108832081548584",
+   "posted_at": "2026-11-21T21:14:43.793837+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 21 · 4:14 PM New York · 2:44 AM Sri Lanka\n\n<b>Voters oust sheriffs backing Trump immigration efforts</b>\n<i>ABC News, The Independent</i>\n🟢 <b>Latest:</b> 2:27 AM Sri Lanka (17 min ago) · first reported 11:23 PM\n📷 10/10 voting booth with red curtain · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122108832081548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 609,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122108832081548584_1182342080930331"
+  },
+  "c902a31706": {
+   "id": "c902a31706",
+   "headline": "Thousands protest across Europe over living costs and housing",
+   "summary": "Demonstrations take place across Europe regarding housing and the rising cost of living. In France, demonstrators participate in a sixth consecutive Saturday of protests ahead of next year's presidential election.",
+   "label": "ECONOMY",
+   "hook": "What issues are driving these demonstrations across Europe?",
+   "key_points": [
+    "Demonstrations occur in France and Portugal.",
+    "Protests follow youth-led actions over education and economic hardship.",
+    "French demonstrators protest government handling of social unrest."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#EuropeNews",
+    "#CostOfLiving",
+    "#Protests"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "France 24"
+   ],
+   "link": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/new-day-of-protests-across-france"
+    ]
+   ],
+   "bg": {
+    "type": "map",
+    "photos": [],
+    "location": "Paris, France",
+    "lat": 48.8567,
+    "lon": 2.3522,
+    "country": "France",
+    "state": ""
+   },
+   "img_post": {
+    "headline": "Thousands protest across Europe over living costs and housing",
+    "people": [],
+    "image_query": "Paris city streets",
+    "image_queries": [
+     "Paris street scene",
+     "European city square",
+     "demonstration signs",
+     "city protesters"
+    ],
+    "image_style": "scene",
+    "location": "Paris, France",
+    "nearby_city": "Paris, France",
+    "event_query": "France cost of living protest",
+    "topic_photo": "protest crowd",
+    "label": "ECONOMY",
+    "action_subject": "protest crowd with flags",
+    "news_time": "2026-11-21T15:50:52+00:00"
+   },
+   "created_at": "2026-11-21T21:14:41.704137+00:00",
+   "news_time": "2026-11-21T15:50:52+00:00",
+   "news_latest": "2026-11-21T20:47:50+00:00",
+   "importance": 7,
+   "caption": "Thousands protest across Europe over living costs and housing\n\nDemonstrations take place across Europe regarding housing and the rising cost of living. In France, demonstrators participate in a sixth consecutive Saturday of protests ahead of next year's presidential election.\n\n💬 What issues are driving these demonstrations across Europe?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#EuropeNews #CostOfLiving #Protests #7SeasNews",
+   "photo_line": "📷 news map (no fitting photo)",
+   "status": "posted",
+   "tg_message_id": 902,
+   "tg_file_id": "AgACAgUAAxkDAAIDhmsCCcOtORt5yYCoXxGaz0hIoO7uAAJeEGsboQ8RVGcxuuIAAYRvsAEAAwIAA3cAAz0E",
+   "queued_at": "2026-11-21T21:14:43.490289+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-21T21:14:43.490323+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122108832327548584",
+   "posted_at": "2026-11-21T21:14:43.793837+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 21 · 4:15 PM New York · 2:45 AM Sri Lanka\n\n<b>Thousands protest across Europe over living costs and housing</b>\n<i>Al Jazeera, France 24</i>\n🟢 <b>Latest:</b> 2:17 AM Sri Lanka (27 min ago) · first reported 9:20 PM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122108832327548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 610,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122108832327548584_1508984197754833"
   }
  },
  "seen_links": [
@@ -11708,7 +11880,11 @@
   "https://www.upi.com/Top_News/US/2026/11/21/executive-order-trump-federal-contractors-congress/2881795287829/",
   "https://www.cbsnews.com/news/trump-executive-order-federal-contractors-white-house-congress/",
   "https://www.washingtonexaminer.com/in_focus/4810832/lame-duck-trump-what-xi-putin-wanted/",
-  "https://www.cbsnews.com/video/trump-defends-putin-after-trilateral-with-xi/"
+  "https://www.cbsnews.com/video/trump-defends-putin-after-trilateral-with-xi/",
+  "https://abcnews.com/Politics/wireStory/voters-oust-sheriffs-signed-pacts-trumps-immigration-enforcement-138344353",
+  "https://www.independent.co.uk/news/world/americas/us-politics/sheriffs-trump-ice-midterms-alamance-b3089225.html",
+  "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
+  "https://www.france24.com/en/new-day-of-protests-across-france"
  ],
  "recent_topics": [
   [
@@ -14820,19 +14996,59 @@
     "want"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-21T21:14:08.476336+00:00",
+   [
+    "crackdown",
+    "effort",
+    "enforcement",
+    "expos",
+    "fbi",
+    "fraud",
+    "hack",
+    "help",
+    "hoax",
+    "ice",
+    "immigration",
+    "oust",
+    "pact",
+    "pay",
+    "pric",
+    "reveal",
+    "russia",
+    "sheriff",
+    "sign",
+    "som",
+    "theyr",
+    "trump",
+    "ukrain",
+    "voter"
+   ],
+   "7c9e9f9934"
+  ],
+  [
+   "2026-11-21T21:14:43.490119+00:00",
+   [
+    "across",
+    "cost",
+    "europ",
+    "franc",
+    "hous",
+    "liv",
+    "protest",
+    "thousand"
+   ],
+   "c902a31706"
   ]
  ],
- "last_draft_at": "2026-11-21T21:00:45.665778+00:00",
+ "last_draft_at": "2026-11-21T21:13:24.501166+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T20:30:48.027638+00:00",
  "run_log": [
-  "11-21 18:45:36 run start",
-  "11-21 18:45:56 listening 11 min",
-  "11-21 18:57:17 listening done",
-  "11-21 18:57:17 run end after 700 s",
   "11-21 19:00:47 run start",
   "11-21 19:02:02 listening 10 min",
   "11-21 19:12:31 listening done",
@@ -14868,12 +15084,15 @@
   "11-21 21:00:45 run start",
   "11-21 21:00:55 listening 11 min",
   "11-21 21:12:14 listening done",
-  "11-21 21:12:14 run end after 689 s"
+  "11-21 21:12:14 run end after 689 s",
+  "11-21 21:13:24 run start",
+  "11-21 21:15:12 listening 10 min",
+  "11-21 21:24:49 listening done",
+  "11-21 21:24:49 run end after 685 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Official_portrait_of_Andy_Burnham_MP_2026_%28cropped_3x4%29.jpg/1280px-Official_portrait_of_Andy_Burnham_MP_2026_%28cropped_3x4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/TOP_OF_THE_DIWANG_BUILDING_SEE_SHENZHEN_SKYLINE_%2819%29.jpg/1920px-TOP_OF_THE_DIWANG_BUILDING_SEE_SHENZHEN_SKYLINE_%2819%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg/1920px-Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Brooke_Rollins_%2851248109168%29.jpg/1280px-Brooke_Rollins_%2851248109168%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -14912,7 +15131,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Voters_check_in_at_a_polling_station_in_Washington_DC%2C_5_Nov._2024.jpg/1920px-Voters_check_in_at_a_polling_station_in_Washington_DC%2C_5_Nov._2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Mersad_Air_Defense_System_with_Shahin_Missile.jpg/1920px-Mersad_Air_Defense_System_with_Shahin_Missile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://live.staticflickr.com/3502/4571498936_ca188f521b_b.jpg",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/1280px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/1280px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Voting_booth_at_the_Madison_Parish_Courthouse.jpg/1920px-Voting_booth_at_the_Madison_Parish_Courthouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "john thune": {
@@ -18152,7 +18372,6 @@
    }
   },
   "recent_ideas": [
-   "missile launch",
    "washington dc skyline",
    "palais des nations geneva",
    "police officers at work",
@@ -18163,7 +18382,8 @@
    "voters at polling station",
    "voters at polling station",
    "air defense system",
-   "white house south lawn"
+   "white house south lawn",
+   "voting booth"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -19755,6 +19975,26 @@
     "s": 10,
     "w": "White House south lawn",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Voting_booth_at_the_Madison_Parish_Courthouse.jpg/1920px-Voting_booth_at_the_Madison_Parish_Courthouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|0e3c444f": {
+    "s": 10,
+    "w": "voting booth with red curtain",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Fumier_devant_la_pr%C3%A9fecture_de_la_Loire_pour_l%27application_de_la_loi_Egalim.jpg/1920px-Fumier_devant_la_pr%C3%A9fecture_de_la_Loire_pour_l%27application_de_la_loi_Egalim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|44692c3a": {
+    "s": 0,
+    "w": "tractor blocking street with branches",
+    "p": "shows a tractor blocking a street instead of a protest march crowd with flags"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Saint-S%C3%A9verin_Ambulatory%2C_Paris%2C_France_-_Diliff.jpg/1920px-Saint-S%C3%A9verin_Ambulatory%2C_Paris%2C_France_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|44692c3a": {
+    "s": 0,
+    "w": "church interior with stained glass",
+    "p": "Photo shows an empty church interior instead of protests about living costs."
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Plaque%2C_square_des_%C3%89crivains-Combattants-Morts-pour-la-France%2C_Paris_16e_1.jpg/1920px-Plaque%2C_square_des_%C3%89crivains-Combattants-Morts-pour-la-France%2C_Paris_16e_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|44692c3a": {
+    "s": 0,
+    "w": "street sign in Paris",
+    "p": "photo is a text sign"
    }
   }
  },
@@ -19766,10 +20006,10 @@
   "2026-11-18": 22,
   "2026-11-19": 30,
   "2026-11-20": 30,
-  "2026-11-21": 12
+  "2026-11-21": 14
  },
- "last_auto_at": "2026-11-21T20:31:35.662534+00:00",
- "last_post_at": "2026-11-21T20:31:39.920455+00:00",
+ "last_auto_at": "2026-11-21T21:14:43.793837+00:00",
+ "last_post_at": "2026-11-21T21:15:02.856672+00:00",
  "reels_count": {
   "2026-11-15": 8,
   "2026-11-16": 10,
