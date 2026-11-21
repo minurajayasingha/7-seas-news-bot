@@ -1,99 +1,6 @@
 {
  "tg_offset": 495893091,
  "drafts": {
-  "349863c869": {
-   "id": "349863c869",
-   "headline": "Nvidia creates new committee to oversee national security",
-   "summary": "Nvidia has established a new board committee to oversee national security and global trade compliance following the departure of CEO Jensen Huang. The situation raises questions about accountability for powerful tech CEOs and their immense wealth and political influence.",
-   "label": "ECONOMY",
-   "hook": "Can corporate boards successfully rein in superstar tech CEOs?",
-   "key_points": [
-    "Jensen Huang departed abruptly from Nvidia.",
-    "Silicon Valley treats successful founders as indispensable.",
-    "Tech billionaires wield immense wealth and political clout."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Nvidia",
-    "#JensenHuang",
-    "#TechNews"
-   ],
-   "sources": [
-    "Axios",
-    "The Independent"
-   ],
-   "link": "https://www.independent.co.uk/news/world/americas/nvidia-ceo-china-donald-trump-japan-b3086356.html",
-   "links": [
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/nvidia-ceo-china-donald-trump-japan-b3086356.html"
-    ],
-    [
-     "Axios",
-     "https://www.axios.com/2026/11/17/jensen-huang-nvidia-ceo-accountability-power"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "AgnosticPreachersKid / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 7,
-      "shows": "Federal Reserve building exterior"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Nvidia creates new committee to oversee national security",
-    "people": [],
-    "image_query": "Silicon Valley tech headquarters",
-    "image_queries": [
-     "microchip manufacturing plant",
-     "corporate boardroom meeting",
-     "computer processor chips",
-     "technology stock exchange"
-    ],
-    "image_style": "person",
-    "location": "United States",
-    "nearby_city": "San Francisco, California",
-    "event_query": "",
-    "topic_photo": "computer processor",
-    "label": "ECONOMY",
-    "action_subject": "",
-    "news_time": "2026-11-17T10:30:08+00:00"
-   },
-   "created_at": "2026-11-17T12:19:11.798974+00:00",
-   "news_time": "2026-11-17T10:30:08+00:00",
-   "news_latest": "2026-11-17T11:58:34+00:00",
-   "importance": 6,
-   "caption": "Nvidia creates new committee to oversee national security\n\nNvidia has established a new board committee to oversee national security and global trade compliance following the departure of CEO Jensen Huang. The situation raises questions about accountability for powerful tech CEOs and their immense wealth and political influence.\n\n💬 Can corporate boards successfully rein in superstar tech CEOs?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Nvidia #JensenHuang #TechNews #7SeasNews",
-   "photo_line": "📷 7/10 Federal Reserve building exterior",
-   "status": "posted",
-   "tg_message_id": 711,
-   "tg_file_id": "AgACAgUAAxkDAAICx2r8RkH8ud1QpVpw6z3U0HKza9-SAALJFmsbguzgV0BdMVDZRxgnAQADAgADdwADPQQ",
-   "queued_at": "2026-11-17T12:19:14.207900+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-17T12:19:14.207941+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122104274271548584",
-   "posted_at": "2026-11-17T12:19:14.559376+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 17 · 7:19 AM New York · 5:49 PM Sri Lanka\n\n<b>Nvidia creates new committee to oversee national security</b>\n<i>Axios, The Independent</i>\n🟢 <b>Latest:</b> 5:28 PM Sri Lanka (20 min ago) · first reported 4:00 PM\n📷 7/10 Federal Reserve building exterior\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122104274271548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 459,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122104274271548584_1565548755608124",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-20T11:45:33.272194+00:00"
-  },
   "0ebbd69b97": {
    "id": "0ebbd69b97",
    "headline": "Nationwide FAA ground stop halts flights across the United States",
@@ -15962,17 +15869,13 @@
    "4992a5d3af"
   ]
  ],
- "last_draft_at": "2026-11-21T12:00:49.382137+00:00",
+ "last_draft_at": "2026-11-21T12:15:43.399729+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T11:30:50.927227+00:00",
  "run_log": [
-  "11-21 09:45:49 run start",
-  "11-21 09:46:08 listening 11 min",
-  "11-21 09:57:27 listening done",
-  "11-21 09:57:27 run end after 698 s",
   "11-21 10:01:14 run start",
   "11-21 10:01:55 listening 11 min",
   "11-21 10:12:50 listening done",
@@ -16008,7 +15911,11 @@
   "11-21 12:00:48 run start",
   "11-21 12:00:58 listening 11 min",
   "11-21 12:12:17 listening done",
-  "11-21 12:12:17 run end after 688 s"
+  "11-21 12:12:17 run end after 688 s",
+  "11-21 12:15:43 run start",
+  "11-21 12:15:52 listening 11 min",
+  "11-21 12:27:11 listening done",
+  "11-21 12:27:11 run end after 688 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
