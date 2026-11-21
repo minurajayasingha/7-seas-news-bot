@@ -11884,25 +11884,11 @@
   "https://abcnews.com/Politics/wireStory/voters-oust-sheriffs-signed-pacts-trumps-immigration-enforcement-138344353",
   "https://www.independent.co.uk/news/world/americas/us-politics/sheriffs-trump-ice-midterms-alamance-b3089225.html",
   "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
-  "https://www.france24.com/en/new-day-of-protests-across-france"
+  "https://www.france24.com/en/new-day-of-protests-across-france",
+  "https://www.washingtonexaminer.com/news/senate/4811317/cruz-talarico-space-academy-texas/",
+  "https://thehill.com/homenews/senate/6235304-cruz-talarico-texas-space-academy/"
  ],
  "recent_topics": [
-  [
-   "2026-11-18T21:31:01.721054+00:00",
-   [
-    "chimp",
-    "chimpanze",
-    "last",
-    "mov",
-    "nih",
-    "nih-own",
-    "remain",
-    "research",
-    "retir",
-    "sanctuary"
-   ],
-   "skipped"
-  ],
   [
    "2026-11-18T22:02:40.304248+00:00",
    [
@@ -15040,19 +15026,30 @@
     "thousand"
    ],
    "c902a31706"
+  ],
+  [
+   "2026-11-21T21:25:30.870428+00:00",
+   [
+    "academy",
+    "already",
+    "bring",
+    "cruz",
+    "spac",
+    "spok",
+    "talarico",
+    "texa",
+    "work"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-21T21:13:24.501166+00:00",
+ "last_draft_at": "2026-11-21T21:25:20.061508+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T20:30:48.027638+00:00",
  "run_log": [
-  "11-21 19:00:47 run start",
-  "11-21 19:02:02 listening 10 min",
-  "11-21 19:12:31 listening done",
-  "11-21 19:12:31 run end after 703 s",
   "11-21 19:15:42 run start",
   "11-21 19:16:02 listening 11 min",
   "11-21 19:27:21 listening done",
@@ -15088,7 +15085,11 @@
   "11-21 21:13:24 run start",
   "11-21 21:15:12 listening 10 min",
   "11-21 21:24:49 listening done",
-  "11-21 21:24:49 run end after 685 s"
+  "11-21 21:24:49 run end after 685 s",
+  "11-21 21:25:19 run start",
+  "11-21 21:25:30 listening 11 min",
+  "11-21 21:36:49 listening done",
+  "11-21 21:36:49 run end after 689 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
