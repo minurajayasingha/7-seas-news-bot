@@ -9094,6 +9094,99 @@
     "shares": 0
    },
    "stats_at": "2026-11-22T15:15:44.260594+00:00"
+  },
+  "d4bb76db92": {
+   "id": "d4bb76db92",
+   "headline": "Israeli settlers set fire to West Bank vehicles and homes",
+   "summary": "Dozens of Israeli settlers raided four Palestinian villages in the West Bank, setting fire to about a dozen vehicles and several homes. Israeli authorities and police have launched an investigation into the attacks, which drew condemnation from opposition leader Gadi Eisenkot.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Racist graffiti was scrawled on walls during the raids",
+    "Israeli soldiers and police deployed to the area",
+    "Gadi Eisenkot described the attacks as Jewish terrorism"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#WestBank",
+    "#MiddleEast",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "France 24",
+    "The Guardian"
+   ],
+   "link": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
+   "links": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/israel-investigates-west-bank-fires"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Former_Magirus-Deutz_170D11_fire_engine_in_Bavaria.JPG/1920px-Former_Magirus-Deutz_170D11_fire_engine_in_Bavaria.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "High Contrast / Wikimedia Commons (CC BY 3.0 de)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 8,
+      "shows": "red fire truck"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "Israeli settlers set fire to West Bank vehicles and homes",
+    "people": [],
+    "image_query": "West Bank village landscape",
+    "image_queries": [
+     "West Bank landscape",
+     "Israeli police vehicle",
+     "West Bank road",
+     "Palestinian village"
+    ],
+    "image_style": "incident",
+    "location": "West Bank, Palestinian Territories",
+    "nearby_city": "Jerusalem, Israel",
+    "event_query": "West Bank settler village attack",
+    "topic_photo": "burnt vehicle",
+    "label": "CONFLICT",
+    "action_subject": "burnt vehicles and damaged homes",
+    "news_time": "2026-11-22T13:47:04+00:00"
+   },
+   "created_at": "2026-11-22T15:31:36.666215+00:00",
+   "news_time": "2026-11-22T13:47:04+00:00",
+   "news_latest": "2026-11-22T15:22:38+00:00",
+   "importance": 7,
+   "caption": "Israeli settlers set fire to West Bank vehicles and homes\n\nDozens of Israeli settlers raided four Palestinian villages in the West Bank, setting fire to about a dozen vehicles and several homes. Israeli authorities and police have launched an investigation into the attacks, which drew condemnation from opposition leader Gadi Eisenkot.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WestBank #MiddleEast #WorldNews #7SeasNews",
+   "photo_line": "📷 8/10 red fire truck · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 913,
+   "tg_file_id": "AgACAgUAAxkDAAIDkWsDCtvnw1j278iToVvh9U_hhUGyAAIxFWsboQ8ZVDJUwSXm5rpcAQADAgADdwADPQQ",
+   "queued_at": "2026-11-22T15:31:39.436126+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-22T15:31:39.436163+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122109620619548584",
+   "posted_at": "2026-11-22T15:31:39.803810+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 22 · 10:31 AM New York · 9:01 PM Sri Lanka\n\n<b>Israeli settlers set fire to West Bank vehicles and homes</b>\n<i>Al Jazeera, France 24, The Guardian</i>\n🟢 <b>Latest:</b> 8:52 PM Sri Lanka (9 min ago) · first reported 7:17 PM\n📷 8/10 red fire truck · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122109620619548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 620,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122109620619548584_1144343804872212"
   }
  },
  "seen_links": [
@@ -11054,7 +11147,10 @@
   "https://www.france24.com/en/environment/20261121-latest-cop31-deal-sidesteps-fossil-fuels-amid-growing-divisions",
   "https://www.euronews.com/2026/11/22/new-cop31-draft-deal-tabled-as-countries-scramble-to-salvage-climate-talks",
   "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
-  "https://www.independent.co.uk/news/world/middle-east/iran-underground-missile-launcher-b3089335.html"
+  "https://www.independent.co.uk/news/world/middle-east/iran-underground-missile-launcher-b3089335.html",
+  "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss",
+  "https://www.france24.com/en/israel-investigates-west-bank-fires"
  ],
  "recent_topics": [
   [
@@ -13667,19 +13763,46 @@
     "worker"
    ],
    "6a13b82949"
+  ],
+  [
+   "2026-11-22T15:31:39.435994+00:00",
+   [
+    "ablaz",
+    "add",
+    "arson",
+    "attack",
+    "bank",
+    "condemn",
+    "daily",
+    "debat",
+    "fir",
+    "investigat",
+    "israel",
+    "israeli",
+    "jerusalem",
+    "netanyahu",
+    "occupi",
+    "palestinian",
+    "political",
+    "rival",
+    "set",
+    "settler",
+    "several",
+    "tens",
+    "vehicl",
+    "villag",
+    "west"
+   ],
+   "d4bb76db92"
   ]
  ],
- "last_draft_at": "2026-11-22T15:16:18.705493+00:00",
+ "last_draft_at": "2026-11-22T15:30:52.038760+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-22T15:15:44.260594+00:00",
  "run_log": [
-  "11-22 13:00:47 run start",
-  "11-22 13:01:43 listening 11 min",
-  "11-22 13:12:37 listening done",
-  "11-22 13:12:37 run end after 709 s",
   "11-22 13:15:43 run start",
   "11-22 13:17:16 listening 10 min",
   "11-22 13:27:20 listening done",
@@ -13715,12 +13838,15 @@
   "11-22 15:15:43 run start",
   "11-22 15:16:27 listening 11 min",
   "11-22 15:27:22 listening done",
-  "11-22 15:27:22 run end after 698 s"
+  "11-22 15:27:22 run end after 698 s",
+  "11-22 15:30:51 run start",
+  "11-22 15:31:54 listening 10 min",
+  "11-22 15:42:24 listening done",
+  "11-22 15:42:24 run end after 692 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Horse-drawn_carriage_charleston.jpg/1920px-Horse-drawn_carriage_charleston.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Zohran_Mamdani.jpg/1280px-Zohran_Mamdani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/DSC00714_Iveco_LMV_MedEvac_Ambulance%2C_Esercito_Italiano%2C_Front_Left.jpg/1920px-DSC00714_Iveco_LMV_MedEvac_Ambulance%2C_Esercito_Italiano%2C_Front_Left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Tallinn_Cityscape_%2843174892144%29.jpg/1920px-Tallinn_Cityscape_%2843174892144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -13759,7 +13885,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/US_Navy_030820-N-7110D-017_The_nuclear_powered_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29.jpg/1920px-US_Navy_030820-N-7110D-017_The_nuclear_powered_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Seoul_Skyline_Night_2018.jpg/1920px-Seoul_Skyline_Night_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/2/2d/Al_Khoziny_Islamic_boarding_school_collapsed_during_evacuation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/2/2d/Al_Khoziny_Islamic_boarding_school_collapsed_during_evacuation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Former_Magirus-Deutz_170D11_fire_engine_in_Bavaria.JPG/1920px-Former_Magirus-Deutz_170D11_fire_engine_in_Bavaria.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump jr.": {
@@ -17011,7 +17138,6 @@
    }
   },
   "recent_ideas": [
-   "cargo ship",
    "military drone",
    "computer processor chips",
    "voters at polling station",
@@ -17022,7 +17148,8 @@
    "firefighters fighting fire",
    "aircraft carrier, united states navy",
    "seoul skyline",
-   "collapsed building rescue"
+   "collapsed building rescue",
+   "fire truck"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -18684,6 +18811,11 @@
     "s": 10,
     "w": "rescuers at collapsed building",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Former_Magirus-Deutz_170D11_fire_engine_in_Bavaria.JPG/1920px-Former_Magirus-Deutz_170D11_fire_engine_in_Bavaria.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|e003017f": {
+    "s": 8,
+    "w": "red fire truck",
+    "p": ""
    }
   }
  },
@@ -18695,10 +18827,10 @@
   "2026-11-19": 30,
   "2026-11-20": 30,
   "2026-11-21": 17,
-  "2026-11-22": 3
+  "2026-11-22": 4
  },
- "last_auto_at": "2026-11-22T13:17:01.860058+00:00",
- "last_post_at": "2026-11-22T13:17:07.013510+00:00",
+ "last_auto_at": "2026-11-22T15:31:39.803810+00:00",
+ "last_post_at": "2026-11-22T15:31:44.666102+00:00",
  "reels_count": {
   "2026-11-15": 8,
   "2026-11-16": 10,
