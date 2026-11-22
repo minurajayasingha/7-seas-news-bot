@@ -1,300 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "36b2013679": {
-   "id": "36b2013679",
-   "headline": "Markwayne Mullin testifies before House Homeland Security Committee",
-   "summary": "Homeland Security Director Markwayne Mullin testifies before Congress on the status of global threats against the United States. Mullin appears at the congressional hearing amid questions concerning flight disruptions, a football trip, and immigration.",
-   "label": "US POLITICS",
-   "hook": "What are the primary global threats currently facing the United States?",
-   "key_points": [
-    "Mullin appeared at the congressional hearing on Wednesday morning.",
-    "Questions were raised regarding flight disruptions and a football trip.",
-    "Immigration was also a topic surrounding the hearing."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#HomelandSecurity",
-    "#Congress"
-   ],
-   "sources": [
-    "The Independent",
-    "UPI"
-   ],
-   "link": "https://www.upi.com/Top_News/US/2026/11/18/markwayne-mullin-homeland-security-testimony/9831795017264/",
-   "links": [
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/US/2026/11/18/markwayne-mullin-homeland-security-testimony/9831795017264/"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/markwayne-mullin-donald-trump-democrats-microsoft-homeland-security-b3087121.html"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/US_Capitol_west_side_at_dusk.JPG/1920px-US_Capitol_west_side_at_dusk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Martin Falbisoner / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 6,
-      "shows": "US Capitol building"
-     }
-    ],
-    "inset": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Markwayne_Mullin_Official_Photo_%283x4%29_%28cropped%29.jpg/1280px-Markwayne_Mullin_Official_Photo_%283x4%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "credit": "US Congressman Markwayne Mullin's office / Wikimedia Commons (Public domain)",
-     "short": "WIKIMEDIA COMMONS",
-     "score": 10,
-     "shows": "Markwayne Mullin portrait"
-    }
-   },
-   "img_post": {
-    "headline": "Markwayne Mullin testifies before House Homeland Security Committee",
-    "people": [
-     "Markwayne Mullin"
-    ],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "Senate chamber",
-     "Capitol Hill",
-     "House of Representatives chamber",
-     "US Capitol dome"
-    ],
-    "image_style": "scene",
-    "location": "Washington, D.C., US",
-    "nearby_city": "Washington, D.C.",
-    "event_query": "House Homeland Security Committee hearing",
-    "topic_photo": "congressional hearing",
-    "label": "US POLITICS",
-    "action_subject": "",
-    "news_time": "2026-11-18T12:03:00+00:00"
-   },
-   "created_at": "2026-11-18T17:46:03.787725+00:00",
-   "news_time": "2026-11-18T12:03:00+00:00",
-   "news_latest": "2026-11-18T16:08:06+00:00",
-   "importance": 6,
-   "caption": "Markwayne Mullin testifies before House Homeland Security Committee\n\nHomeland Security Director Markwayne Mullin testifies before Congress on the status of global threats against the United States. Mullin appears at the congressional hearing amid questions concerning flight disruptions, a football trip, and immigration.\n\n💬 What are the primary global threats currently facing the United States?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #HomelandSecurity #Congress #7SeasNews",
-   "photo_line": "📷 6/10 US Capitol building",
-   "status": "posted",
-   "tg_message_id": 797,
-   "tg_file_id": "AgACAgUAAxkDAAIDHWr95GLGLl14K0bf9FDs9LkyWPk5AAJFFmsbguzwV3YRM8bsasnUAQADAgADdwADPQQ",
-   "queued_at": "2026-11-18T17:46:10.576140+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-18T17:46:10.576167+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122105518137548584",
-   "posted_at": "2026-11-18T17:46:10.853880+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 18 · 12:46 PM New York · 11:16 PM Sri Lanka\n\n<b>Markwayne Mullin testifies before House Homeland Security Committee</b>\n<i>The Independent, UPI</i>\n🟡 <b>Latest:</b> 9:38 PM Sri Lanka (1h 38m ago) · first reported 5:33 PM\n📷 6/10 US Capitol building\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122105518137548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 505,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122105518137548584_1452515897030209",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-21T17:30:42.387745+00:00"
-  },
-  "2614b6fa78": {
-   "id": "2614b6fa78",
-   "headline": "Marco Rubio says recent US tech outages lack nefarious links",
-   "summary": "Secretary of State Marco Rubio stated there is zero evidence that recent technical failures in the United States were orchestrated systemic attacks. Outdated equipment caused air travel disruptions after regulators halted departures for several hours on Friday evening.",
-   "label": "US POLITICS",
-   "hook": "Should the administration replace outdated equipment to prevent future tech outages?",
-   "key_points": [
-    "Air travel was disrupted due to outdated equipment.",
-    "Regulators halted all flights from taking off for several hours.",
-    "The administration reported zero evidence of an orchestrated attack."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#Aviation",
-    "#TechOutage"
-   ],
-   "sources": [
-    "Euronews",
-    "UPI",
-    "Washington Examiner"
-   ],
-   "link": "https://www.washingtonexaminer.com/news/white-house/4807563/rubio-should-have-been-first-to-address-outages-peter-laffin/",
-   "links": [
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/news/white-house/4807563/rubio-should-have-been-first-to-address-outages-peter-laffin/"
-    ],
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/US/2026/11/18/outages-Marco-Rubio-rules-out-systemic-attack/4421795009024/"
-    ],
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/18/marco-rubio-says-no-evidence-recent-tech-outages-in-us-are-linked-or-nefarious"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Marco_Rubio_town_hall_Belknap_Mill_25_Beacon_Street_East_Laconia_NH_February_2016.jpg/1280px-Marco_Rubio_town_hall_Belknap_Mill_25_Beacon_Street_East_Laconia_NH_February_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Artaxerxes / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": null
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Marco Rubio says recent US tech outages lack nefarious links",
-    "people": [
-     "Marco Rubio"
-    ],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "airport terminal",
-     "airplane on tarmac",
-     "FAA headquarters",
-     "control tower"
-    ],
-    "image_style": "person",
-    "location": "US",
-    "nearby_city": "Washington, D.C.",
-    "event_query": "",
-    "topic_photo": "airport terminal",
-    "label": "US POLITICS",
-    "action_subject": "",
-    "news_time": "2026-11-18T12:05:26+00:00"
-   },
-   "created_at": "2026-11-18T17:55:22.319782+00:00",
-   "news_time": "2026-11-18T12:05:26+00:00",
-   "news_latest": "2026-11-18T17:44:26+00:00",
-   "importance": 6,
-   "caption": "Marco Rubio says recent US tech outages lack nefarious links\n\nSecretary of State Marco Rubio stated there is zero evidence that recent technical failures in the United States were orchestrated systemic attacks. Outdated equipment caused air travel disruptions after regulators halted departures for several hours on Friday evening.\n\n💬 Should the administration replace outdated equipment to prevent future tech outages?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Aviation #TechOutage #7SeasNews",
-   "photo_line": "📷 photo not checked",
-   "status": "posted",
-   "tg_message_id": 798,
-   "tg_file_id": "AgACAgUAAxkDAAIDHmr95qDySVU6_D76GH-SN57CnmOWAAJJFmsbguzwV-CXIh_pddvAAQADAgADdwADPQQ",
-   "queued_at": "2026-11-18T17:55:44.505589+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_label": "🤖 Auto-posting",
-   "post_at": "2026-11-18T17:57:30.171491+00:00",
-   "fb_post_id": "1413030521900096_122105526549548584",
-   "posted_at": "2026-11-18T17:57:24.938791+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 18 · 12:58 PM New York · 11:28 PM Sri Lanka\n\n<b>Marco Rubio says recent US tech outages lack nefarious links</b>\n<i>Euronews, UPI, Washington Examiner</i>\n🟢 <b>Latest:</b> 11:14 PM Sri Lanka (14 min ago) · first reported 5:35 PM\n📷 photo not checked\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122105526549548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 508,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122105526549548584_1645992676780438",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-21T17:30:42.387745+00:00"
-  },
-  "9ff5b14614": {
-   "id": "9ff5b14614",
-   "headline": "Israeli military launches ground operation across Gaza cease-fire line",
-   "summary": "The Israeli army launched a ground operation beyond the Yellow Line separating Israeli and Hamas-controlled areas on Wednesday. The military stated the rare incursion was conducted to address a threat to troops, while Hamas accused Israel of violating the truce.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "Palestinians fled tents and shelters in central Gaza.",
-    "The operation occurred in an area withdrawn from under a 2025 ceasefire."
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#Gaza",
-    "#Israel",
-    "#MiddleEast"
-   ],
-   "sources": [
-    "France 24",
-    "New York Times"
-   ],
-   "link": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
-   "links": [
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/middle-east/20261118-gazans-flee-shelters-as-israeli-army-launches-ground-operation-beyond-yellow-line"
-    ]
-   ],
-   "bg": {
-    "type": "map",
-    "photos": [],
-    "location": "Gaza",
-    "lat": 31.5,
-    "lon": 34.45,
-    "country": "Palestine",
-    "state": "",
-    "_loaded": 0
-   },
-   "img_post": {
-    "headline": "Israeli military launches ground operation across Gaza cease-fire line",
-    "people": [],
-    "image_query": "Gaza Strip landscape",
-    "image_queries": [
-     "Gaza border",
-     "Gaza shelters",
-     "central Gaza",
-     "ceasefire line"
-    ],
-    "image_style": "incident",
-    "location": "Gaza",
-    "nearby_city": "Gaza City, Gaza",
-    "event_query": "Gaza military incursion",
-    "topic_photo": "military tent",
-    "label": "CONFLICT",
-    "action_subject": "tank",
-    "news_time": "2026-11-18T16:03:21+00:00"
-   },
-   "created_at": "2026-11-18T17:57:16.535967+00:00",
-   "news_time": "2026-11-18T16:03:21+00:00",
-   "news_latest": "2026-11-18T17:47:13+00:00",
-   "importance": 8,
-   "caption": "🚨 BREAKING: Israeli military launches ground operation across Gaza cease-fire line\n\nThe Israeli army launched a ground operation beyond the Yellow Line separating Israeli and Hamas-controlled areas on Wednesday. The military stated the rare incursion was conducted to address a threat to troops, while Hamas accused Israel of violating the truce.\n\nWhat we know so far:\n• Palestinians fled tents and shelters in central Gaza.\n• The operation occurred in an area withdrawn from under a 2025 ceasefire.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Gaza #Israel #MiddleEast #7SeasNews",
-   "photo_line": "📷 news map (no fitting photo)",
-   "status": "posted",
-   "tg_message_id": 799,
-   "tg_file_id": "AgACAgUAAxkDAAIDH2r95wQGTlKlI1qTTQABHDk7BU3C7AACShZrG4Ls8FeG-q_qmXNyeAEAAwIAA3cAAz0E",
-   "queued_at": "2026-11-18T17:57:24.610601+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-18T17:57:24.610625+00:00",
-   "post_label": "🤖 Auto-posting + Reel",
-   "fb_post_id": "1413030521900096_122105525331548584",
-   "posted_at": "2026-11-18T17:57:24.938791+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 18 · 12:57 PM New York · 11:27 PM Sri Lanka\n\n<b>Israeli military launches ground operation across Gaza cease-fire line</b>\n<i>France 24, New York Times</i>\n🟢 <b>Latest:</b> 11:17 PM Sri Lanka (10 min ago) · first reported 9:33 PM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122105525331548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 506,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122105525331548584_29724792280472555",
-   "fb_story_id": "1527491279284418",
-   "fb_reel_id": "1675803440868333",
-   "reel_status": "live",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-21T17:30:42.387745+00:00"
-  },
   "cf2a61bf1f": {
    "id": "cf2a61bf1f",
    "headline": "Sen Ron Johnson calls Social Security a Ponzi scheme",
@@ -9190,6 +8896,94 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122109687003548584_1136517292457541"
+  },
+  "53abef20f1": {
+   "id": "53abef20f1",
+   "headline": "Sen.-elect Abdul El-Sayed expresses openness to working with Trump administration",
+   "summary": "Sen.-elect Abdul El-Sayed stated he is open to working with the Trump administration to lower costs and improve healthcare. The statements followed a campaign season involving attacks between the individuals. Donald Trump also reposted a universal healthcare pitch by El-Sayed.",
+   "label": "US POLITICS",
+   "hook": "Should lawmakers work across party lines on healthcare reform?",
+   "key_points": [
+    "Abdul El-Sayed posted a universal healthcare pitch with a mock TrumpCare card.",
+    "The comments came weeks after a tense campaign season."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Healthcare",
+    "#AbdulElSayed"
+   ],
+   "sources": [
+    "NBC News",
+    "Washington Post"
+   ],
+   "link": "https://www.nbcnews.com/politics/congress/abdul-el-sayed-open-working-trump-administration-healthcare-medicare-rcna610664",
+   "links": [
+    [
+     "NBC News",
+     "https://www.nbcnews.com/politics/congress/abdul-el-sayed-open-working-trump-administration-healthcare-medicare-rcna610664"
+    ],
+    [
+     "Washington Post",
+     "https://www.washingtonpost.com/politics/2026/11/22/trump-reposts-el-sayeds-trumpcare-proposal/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_6.jpg/1280px-Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Conlan Houston / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "Abdul El-Sayed speaking"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Sen.-elect Abdul El-Sayed expresses openness to working with Trump administration",
+    "people": [
+     "Abdul El-Sayed"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "voting booth",
+     "health insurance card"
+    ],
+    "image_style": "person",
+    "location": "United States",
+    "nearby_city": "Washington, D.C.",
+    "event_query": "",
+    "topic_photo": "hospital corridor",
+    "label": "US POLITICS",
+    "action_subject": "",
+    "news_time": "2026-11-22T14:25:59+00:00"
+   },
+   "created_at": "2026-11-22T17:46:31.169424+00:00",
+   "news_time": "2026-11-22T14:25:59+00:00",
+   "news_latest": "2026-11-22T15:16:23+00:00",
+   "importance": 6,
+   "caption": "Sen.-elect Abdul El-Sayed expresses openness to working with Trump administration\n\nSen.-elect Abdul El-Sayed stated he is open to working with the Trump administration to lower costs and improve healthcare. The statements followed a campaign season involving attacks between the individuals. Donald Trump also reposted a universal healthcare pitch by El-Sayed.\n\n💬 Should lawmakers work across party lines on healthcare reform?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Healthcare #AbdulElSayed #7SeasNews",
+   "photo_line": "📷 10/10 Abdul El-Sayed speaking",
+   "status": "posted",
+   "tg_message_id": 916,
+   "tg_file_id": "AgACAgUAAxkDAAIDlGsDKnkvG9q2AAFYy_Krq3o-PhgGDgACfhVrG6EPGVRMXknMZR3SNAEAAwIAA3cAAz0E",
+   "queued_at": "2026-11-22T17:46:33.529630+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-22T17:46:33.529649+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122109699327548584",
+   "posted_at": "2026-11-22T17:46:33.891320+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 22 · 12:46 PM New York · 11:16 PM Sri Lanka\n\n<b>Sen.-elect Abdul El-Sayed expresses openness to working with Trump administration</b>\n<i>NBC News, Washington Post</i>\n🟡 <b>Latest:</b> 8:46 PM Sri Lanka (2h 30m ago) · first reported 7:55 PM\n📷 10/10 Abdul El-Sayed speaking\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122109699327548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 623,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122109699327548584_3995789150563376"
   }
  },
  "seen_links": [
@@ -11164,33 +10958,15 @@
   "https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss",
   "https://thehill.com/policy/international/6235913-cop31-climate-talks-fail-consensus/",
   "https://www.upi.com/Top_News/World-News/2026/11/22/turkey-cop31-climate-talks/6281795357334/",
-  "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/"
+  "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/",
+  "https://www.washingtonexaminer.com/policy/healthcare/4811627/el-sayed-flanagan-medicare-for-all-trumpcare/",
+  "https://www.nbcnews.com/meet-the-press/video/abdul-el-sayed-says-passing-medicare-for-all-with-trump-support-would-be-the-ultimate-trump-card-273978437750",
+  "https://www.cbsnews.com/news/hakeem-jeffries-trump-democrats-healthcare/",
+  "https://thehill.com/homenews/administration/6235788-trump-critiques-schumer-senate/",
+  "https://www.nbcnews.com/politics/congress/abdul-el-sayed-open-working-trump-administration-healthcare-medicare-rcna610664",
+  "https://www.washingtonpost.com/politics/2026/11/22/trump-reposts-el-sayeds-trumpcare-proposal/"
  ],
  "recent_topics": [
-  [
-   "2026-11-19T17:46:17.650732+00:00",
-   [
-    "25",
-    "60",
-    "admin",
-    "center",
-    "creek",
-    "deal",
-    "department",
-    "ein",
-    "interior",
-    "makeover",
-    "mark",
-    "million",
-    "revamp",
-    "rock",
-    "sign",
-    "strik",
-    "tenni",
-    "trump"
-   ],
-   "skipped"
-  ],
   [
    "2026-11-19T18:16:54.030511+00:00",
    [
@@ -13774,19 +13550,74 @@
     "world"
    ],
    "e3bce82e41"
+  ],
+  [
+   "2026-11-22T17:46:14.044083+00:00",
+   [
+    "abdul",
+    "all",
+    "call",
+    "card",
+    "el-say",
+    "flanagan",
+    "medicar",
+    "pass",
+    "president",
+    "sign",
+    "support",
+    "trump",
+    "trumpcar",
+    "ultimat"
+   ],
+   "skipped"
+  ],
+  [
+   "2026-11-22T17:46:21.976112+00:00",
+   [
+    "abl",
+    "democrat",
+    "hard",
+    "jeffry",
+    "leader",
+    "majority",
+    "schumer",
+    "senat",
+    "talk",
+    "trump",
+    "very",
+    "work"
+   ],
+   "skipped"
+  ],
+  [
+   "2026-11-22T17:46:33.529510+00:00",
+   [
+    "abdul",
+    "administration",
+    "car",
+    "el-say",
+    "elect",
+    "health",
+    "hes",
+    "open",
+    "pitch",
+    "repost",
+    "sen",
+    "trump",
+    "trumpcar",
+    "universal",
+    "work"
+   ],
+   "53abef20f1"
   ]
  ],
- "last_draft_at": "2026-11-22T17:32:33.994807+00:00",
+ "last_draft_at": "2026-11-22T17:46:07.828950+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-22T17:19:55.107041+00:00",
  "run_log": [
-  "11-22 15:30:51 run start",
-  "11-22 15:31:54 listening 10 min",
-  "11-22 15:42:24 listening done",
-  "11-22 15:42:24 run end after 692 s",
   "11-22 15:45:33 run start",
   "11-22 15:46:07 listening 11 min",
   "11-22 15:57:01 listening done",
@@ -13822,12 +13653,15 @@
   "11-22 17:32:33 run start",
   "11-22 17:32:42 listening 11 min",
   "11-22 17:44:02 listening done",
-  "11-22 17:44:02 run end after 689 s"
+  "11-22 17:44:02 run end after 689 s",
+  "11-22 17:46:07 run start",
+  "11-22 17:46:48 listening 11 min",
+  "11-22 17:57:43 listening done",
+  "11-22 17:57:43 run end after 696 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Zohran_Mamdani.jpg/1280px-Zohran_Mamdani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/DSC00714_Iveco_LMV_MedEvac_Ambulance%2C_Esercito_Italiano%2C_Front_Left.jpg/1920px-DSC00714_Iveco_LMV_MedEvac_Ambulance%2C_Esercito_Italiano%2C_Front_Left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Tallinn_Cityscape_%2843174892144%29.jpg/1920px-Tallinn_Cityscape_%2843174892144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Decommissioned_jet_fighter_%2823449021489%29.jpg/1920px-Decommissioned_jet_fighter_%2823449021489%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -13866,85 +13700,10 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Seoul_Skyline_Night_2018.jpg/1920px-Seoul_Skyline_Night_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/2/2d/Al_Khoziny_Islamic_boarding_school_collapsed_during_evacuation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Former_Magirus-Deutz_170D11_fire_engine_in_Bavaria.JPG/1920px-Former_Magirus-Deutz_170D11_fire_engine_in_Bavaria.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Former_Magirus-Deutz_170D11_fire_engine_in_Bavaria.JPG/1920px-Former_Magirus-Deutz_170D11_fire_engine_in_Bavaria.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_6.jpg/1280px-Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
-   "donald trump jr.": {
-    "t": "2026-11-12T22:46:28.880505+00:00",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Donald_Trump%2C_Jr._%2855021618832%29_%28cropped_2%29.jpg/1280px-Donald_Trump%2C_Jr._%2855021618832%29_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Donald_Trump%2C_Jr._%2851327183788%29.jpg/1280px-Donald_Trump%2C_Jr._%2851327183788%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Donald_Trump%2C_Jr._%2851327974240%29.jpg/1280px-Donald_Trump%2C_Jr._%2851327974240%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Donald_Trump%2C_Jr._%2851327970785%29.jpg/1280px-Donald_Trump%2C_Jr._%2851327970785%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Donald_Trump%2C_Jr._%2849290947286%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Donald_Trump%2C_Jr._%2851326246962%29.jpg/1280px-Donald_Trump%2C_Jr._%2851326246962%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Donald_Trump%2C_Jr._%2851326246677%29.jpg/1280px-Donald_Trump%2C_Jr._%2851326246677%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Donald_Trump%2C_Jr._%2851326979011%29.jpg/1280px-Donald_Trump%2C_Jr._%2851326979011%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Donald_Trump%2C_Jr._%2851327187028%29.jpg/1280px-Donald_Trump%2C_Jr._%2851327187028%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Donald_Trump%2C_Jr._%2851326246637%29.jpg/1280px-Donald_Trump%2C_Jr._%2851326246637%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Donald_Trump%2C_Jr._%2851770696521%29.jpg/1280px-Donald_Trump%2C_Jr._%2851770696521%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Donald_Trump%2C_Jr._%2851327701514%29.jpg/1280px-Donald_Trump%2C_Jr._%2851327701514%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     }
-    ]
-   },
    "cindy holscher": {
     "t": "2026-11-12T23:01:55.785035+00:00",
     "photos": [
@@ -17115,6 +16874,94 @@
      }
     ],
     "v": 2
+   },
+   "abdul el-sayed": {
+    "t": "2026-11-22T17:46:29.511454+00:00",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_5_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Conlan Houston / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Abdul_El-Sayed.jpg/1280px-Abdul_El-Sayed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Kenneth C. Zirkel / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_8.jpg/1280px-Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Conlan Houston / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_5.jpg/1280px-Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Conlan Houston / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_6.jpg/1280px-Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Conlan Houston / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_4.jpg/1280px-Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Conlan Houston / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_1.jpg/1280px-Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Conlan Houston / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_10.jpg/1280px-Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Conlan Houston / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_7.jpg/1280px-Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Conlan Houston / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_9.jpg/1280px-Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Conlan Houston / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_2.jpg/1280px-Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Conlan Houston / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_11.jpg/1280px-Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Conlan Houston / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     }
+    ],
+    "v": 2
    }
   },
   "recent_ideas": [
@@ -18826,6 +18673,11 @@
     "s": 0,
     "w": "Turkey Street station sign",
     "p": "shows text sign instead of story place/action"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_6.jpg/1280px-Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Abdul El-Sayed": {
+    "s": 10,
+    "w": "Abdul El-Sayed speaking",
+    "p": ""
    }
   }
  },
@@ -18837,10 +18689,10 @@
   "2026-11-19": 30,
   "2026-11-20": 30,
   "2026-11-21": 17,
-  "2026-11-22": 5
+  "2026-11-22": 6
  },
- "last_auto_at": "2026-11-22T17:21:17.652554+00:00",
- "last_post_at": "2026-11-22T17:21:22.197817+00:00",
+ "last_auto_at": "2026-11-22T17:46:33.891320+00:00",
+ "last_post_at": "2026-11-22T17:46:38.869456+00:00",
  "reels_count": {
   "2026-11-15": 8,
   "2026-11-16": 10,
