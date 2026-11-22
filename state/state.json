@@ -9497,6 +9497,100 @@
     "shares": 0
    },
    "stats_at": "2026-11-22T09:07:11.673944+00:00"
+  },
+  "3d97e0803e": {
+   "id": "3d97e0803e",
+   "headline": "South Korea Education Minister Choi Kyo Jin resigns over exam rules",
+   "summary": "South Korea’s education minister has resigned following public backlash over last-minute rules introduced to prevent AI-assisted cheating during the college entrance exam. Officials announced measures including phone bans, camera checks, and loud phone alerts ahead of the exams.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Choi Kyo Jin admitted failing to prepare adequately for entrance exams.",
+    "Concerns rose after a national tax accountant exam near-perfect score.",
+    "New measures included inspections for cameras hidden in clothing."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#SouthKorea",
+    "#Education",
+    "#WorldNews"
+   ],
+   "sources": [
+    "BBC",
+    "New York Times",
+    "The Guardian"
+   ],
+   "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+   "links": [
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Seoul_Skyline_Night_2018.jpg/1920px-Seoul_Skyline_Night_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "mauveine.kim / Wikimedia Commons (CC0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 6,
+      "shows": "Seoul skyline"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "South Korea Education Minister Choi Kyo Jin resigns over exam rules",
+    "people": [
+     "Choi Kyo-jin"
+    ],
+    "image_query": "Seoul government building",
+    "image_queries": [
+     "South Korea school",
+     "Seoul skyline",
+     "university campus",
+     "exam hall"
+    ],
+    "image_style": "person",
+    "location": "Seoul, South Korea",
+    "nearby_city": "Seoul, South Korea",
+    "event_query": "South Korea university entrance exam",
+    "topic_photo": "exam hall",
+    "label": "WORLD",
+    "action_subject": "college entrance exam",
+    "news_time": "2026-11-22T05:04:39+00:00"
+   },
+   "created_at": "2026-11-22T09:34:06.987644+00:00",
+   "news_time": "2026-11-22T05:04:39+00:00",
+   "news_latest": "2026-11-22T09:20:45+00:00",
+   "importance": 8,
+   "caption": "South Korea Education Minister Choi Kyo Jin resigns over exam rules\n\nSouth Korea’s education minister has resigned following public backlash over last-minute rules introduced to prevent AI-assisted cheating during the college entrance exam. Officials announced measures including phone bans, camera checks, and loud phone alerts ahead of the exams.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#SouthKorea #Education #WorldNews #7SeasNews",
+   "photo_line": "📷 6/10 Seoul skyline",
+   "status": "posted",
+   "tg_message_id": 908,
+   "tg_file_id": "AgACAgUAAxkDAAIDjGsCtxGSDOqsWO8fNRfCJgUL-IILAAIaEWsboQ8RVEQnmvMOAAGSZQEAAwIAA3cAAz0E",
+   "queued_at": "2026-11-22T09:34:09.554035+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-22T09:34:09.554056+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122109310635548584",
+   "posted_at": "2026-11-22T09:34:09.920128+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 22 · 4:34 AM New York · 3:04 PM Sri Lanka\n\n<b>South Korea Education Minister Choi Kyo Jin resigns over exam rules</b>\n<i>BBC, New York Times, The Guardian</i>\n🟢 <b>Latest:</b> 2:50 PM Sri Lanka (13 min ago) · first reported 10:34 AM\n📷 6/10 Seoul skyline\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122109310635548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 615,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122109310635548584_1122381107283947"
   }
  },
  "seen_links": [
@@ -11436,7 +11530,10 @@
   "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/",
   "https://www.nbcnews.com/news/us-news/princeton-neuroscientist-eva-yi-xie-ice-detained-rcna610603",
   "https://www.newsweek.com/trump-shares-el-sayeds-trumpcare-plan-says-he-may-work-with-democrats-12753203",
-  "https://www.nbcnews.com/politics/donald-trump/abdul-el-sayed-catches-trumps-attention-pitch-trumpcare-rcna610626"
+  "https://www.nbcnews.com/politics/donald-trump/abdul-el-sayed-catches-trumps-attention-pitch-trumpcare-rcna610626",
+  "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+  "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
+  "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
  ],
  "recent_topics": [
   [
@@ -14182,19 +14279,33 @@
     "work"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-22T09:34:09.553886+00:00",
+   [
+    "anti-a",
+    "cheat",
+    "education",
+    "engulf",
+    "exam",
+    "korea",
+    "minister",
+    "resign",
+    "rul",
+    "scandal",
+    "south",
+    "university"
+   ],
+   "3d97e0803e"
   ]
  ],
- "last_draft_at": "2026-11-22T09:19:20.575637+00:00",
+ "last_draft_at": "2026-11-22T09:31:44.063184+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-22T09:07:11.673944+00:00",
  "run_log": [
-  "11-22 07:15:51 run start",
-  "11-22 07:16:11 listening 11 min",
-  "11-22 07:27:31 listening done",
-  "11-22 07:27:31 run end after 699 s",
   "11-22 07:30:44 run start",
   "11-22 07:30:54 listening 11 min",
   "11-22 07:42:13 listening done",
@@ -14230,12 +14341,15 @@
   "11-22 09:19:20 run start",
   "11-22 09:19:53 listening 11 min",
   "11-22 09:30:46 listening done",
-  "11-22 09:30:46 run end after 686 s"
+  "11-22 09:30:46 run end after 686 s",
+  "11-22 09:31:43 run start",
+  "11-22 09:34:24 listening 9 min",
+  "11-22 09:43:13 listening done",
+  "11-22 09:43:13 run end after 689 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/9/91/Views_of_Iraqi_flag_over_the_Aghawat_Mosque_in_Mosul_in_summer_of_2019%2C_after_its_destruction_in_the_war_with_the_Islamic_State_12.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Naypyidaw_--_Zoo.JPG/1920px-Naypyidaw_--_Zoo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Tennessee_State_Capitol_house_chamber_gallery.jpg/1920px-Tennessee_State_Capitol_house_chamber_gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Horse-drawn_carriage_charleston.jpg/1920px-Horse-drawn_carriage_charleston.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -14274,7 +14388,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Firefighters_fighting_fire_action.jpg/1920px-Firefighters_fighting_fire_action.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/John_Cornyn_%2812999214925%29.jpg/1280px-John_Cornyn_%2812999214925%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/US_Navy_030820-N-7110D-017_The_nuclear_powered_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29.jpg/1920px-US_Navy_030820-N-7110D-017_The_nuclear_powered_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/US_Navy_030820-N-7110D-017_The_nuclear_powered_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29.jpg/1920px-US_Navy_030820-N-7110D-017_The_nuclear_powered_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Seoul_Skyline_Night_2018.jpg/1920px-Seoul_Skyline_Night_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump jr.": {
@@ -17526,7 +17641,6 @@
    }
   },
   "recent_ideas": [
-   "police officers at work",
    "data center",
    "cargo ship",
    "military drone",
@@ -17537,7 +17651,8 @@
    "white house south lawn",
    "voting booth",
    "firefighters fighting fire",
-   "aircraft carrier, united states navy"
+   "aircraft carrier, united states navy",
+   "seoul skyline"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -19179,21 +19294,31 @@
     "s": 7,
     "w": "US aircraft carrier and ships",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Architecture_Classroom_in_the_Carnegie_Mellon_College_of_Fine_Arts.jpg/1920px-Architecture_Classroom_in_the_Carnegie_Mellon_College_of_Fine_Arts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|2d0776ec": {
+    "s": 0,
+    "w": "office workspace",
+    "p": "photo shows an office workspace instead of a classroom or exam setting"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Seoul_Skyline_Night_2018.jpg/1920px-Seoul_Skyline_Night_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|2d0776ec": {
+    "s": 6,
+    "w": "Seoul skyline",
+    "p": ""
    }
   }
  },
  "comment_perm_told": true,
  "auto_count": {
-  "2026-11-15": 19,
   "2026-11-16": 32,
   "2026-11-17": 35,
   "2026-11-18": 22,
   "2026-11-19": 30,
   "2026-11-20": 30,
-  "2026-11-21": 17
+  "2026-11-21": 17,
+  "2026-11-22": 1
  },
- "last_auto_at": "2026-11-21T22:31:22.264840+00:00",
- "last_post_at": "2026-11-21T22:31:27.131625+00:00",
+ "last_auto_at": "2026-11-22T09:34:09.920128+00:00",
+ "last_post_at": "2026-11-22T09:34:15.563240+00:00",
  "reels_count": {
   "2026-11-15": 8,
   "2026-11-16": 10,
