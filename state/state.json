@@ -10985,7 +10985,10 @@
   "https://abcnews.com/Politics/wireStory/democrats-clinch-historic-house-majority-258-seats-largest-138361835",
   "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html",
   "https://abcnews.com/International/wireStory/poland-russia-allegedly-kill-ukrainian-american-rapper-138362108",
-  "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss"
+  "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
+  "https://www.washingtonexaminer.com/policy/energy-and-environment/4811661/army-plans-detonate-unstable-explosives-iowa-munitions-plant/",
+  "https://www.upi.com/Top_News/US/2026/11/22/army-iowa/6441795375974/",
+  "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss"
  ],
  "recent_topics": [
   [
@@ -13539,17 +13542,13 @@
    "37422c4f45"
   ]
  ],
- "last_draft_at": "2026-11-22T20:45:43.168281+00:00",
+ "last_draft_at": "2026-11-22T21:00:43.789313+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-22T20:15:34.202431+00:00",
  "run_log": [
-  "11-22 18:30:38 run start",
-  "11-22 18:30:48 listening 11 min",
-  "11-22 18:42:07 listening done",
-  "11-22 18:42:07 run end after 688 s",
   "11-22 18:45:43 run start",
   "11-22 18:47:26 listening 10 min",
   "11-22 18:57:30 listening done",
@@ -13585,7 +13584,11 @@
   "11-22 20:45:42 run start",
   "11-22 20:46:16 listening 11 min",
   "11-22 20:57:11 listening done",
-  "11-22 20:57:11 run end after 688 s"
+  "11-22 20:57:11 run end after 688 s",
+  "11-22 21:00:43 run start",
+  "11-22 21:01:07 listening 11 min",
+  "11-22 21:12:25 listening done",
+  "11-22 21:12:25 run end after 702 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
