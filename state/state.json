@@ -10964,7 +10964,10 @@
   "https://www.cbsnews.com/news/hakeem-jeffries-trump-democrats-healthcare/",
   "https://thehill.com/homenews/administration/6235788-trump-critiques-schumer-senate/",
   "https://www.nbcnews.com/politics/congress/abdul-el-sayed-open-working-trump-administration-healthcare-medicare-rcna610664",
-  "https://www.washingtonpost.com/politics/2026/11/22/trump-reposts-el-sayeds-trumpcare-proposal/"
+  "https://www.washingtonpost.com/politics/2026/11/22/trump-reposts-el-sayeds-trumpcare-proposal/",
+  "https://www.washingtonexaminer.com/policy/infrastructure/4811665/issue-automation-system-delta-flight-delays-atlanta/",
+  "https://www.nbcnews.com/news/us-news/delta-tech-issues-thanksgiving-travel-rcna610685",
+  "https://www.newsweek.com/ground-stop-at-worlds-busiest-airport-delays-delta-flights-across-us-12753772"
  ],
  "recent_topics": [
   [
@@ -13609,19 +13612,39 @@
     "work"
    ],
    "53abef20f1"
+  ],
+  [
+   "2026-11-22T18:01:09.814176+00:00",
+   [
+    "across",
+    "ahead",
+    "airport",
+    "atlanta",
+    "atlanta-bound",
+    "automation",
+    "busiest",
+    "caus",
+    "delay",
+    "delta",
+    "flight",
+    "ground",
+    "issu",
+    "stop",
+    "system",
+    "tech",
+    "thanksgiv",
+    "world"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-22T17:46:07.828950+00:00",
+ "last_draft_at": "2026-11-22T18:00:59.983680+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-22T17:19:55.107041+00:00",
  "run_log": [
-  "11-22 15:45:33 run start",
-  "11-22 15:46:07 listening 11 min",
-  "11-22 15:57:01 listening done",
-  "11-22 15:57:01 run end after 688 s",
   "11-22 16:00:46 run start",
   "11-22 16:01:05 listening 11 min",
   "11-22 16:12:25 listening done",
@@ -13657,7 +13680,11 @@
   "11-22 17:46:07 run start",
   "11-22 17:46:48 listening 11 min",
   "11-22 17:57:43 listening done",
-  "11-22 17:57:43 run end after 696 s"
+  "11-22 17:57:43 run end after 696 s",
+  "11-22 18:00:59 run start",
+  "11-22 18:01:09 listening 11 min",
+  "11-22 18:12:29 listening done",
+  "11-22 18:12:29 run end after 690 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
