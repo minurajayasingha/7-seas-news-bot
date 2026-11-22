@@ -1,113 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "51cc2eeb8d": {
-   "id": "51cc2eeb8d",
-   "headline": "Democrat Mary Peltola wins Alaska Senate race",
-   "summary": "Democrat Mary Peltola defeated Republican incumbent Dan Sullivan in Alaska's Senate race. According to Al Jazeera, the victory gives Democrats 56 Senate seats and a buffer in Republican states before the 2028 elections.",
-   "label": "ELECTIONS",
-   "hook": "",
-   "key_points": [
-    "Alaska has repeatedly backed Donald Trump.",
-    "The race was closely fought.",
-    "Peltola secured a political comeback."
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#Alaska",
-    "#USPolitics",
-    "#Senate"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "Euronews"
-   ],
-   "link": "https://www.aljazeera.com/news/2026/11/18/why-democrat-mary-peltolas-us-senate-win-in-alaska-matters?traffic_source=rss",
-   "links": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/18/why-democrat-mary-peltolas-us-senate-win-in-alaska-matters?traffic_source=rss"
-    ],
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/18/cheers-and-reactions-in-alaska-after-mary-peltolas-senate-win"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Madison_August_2022_099_%28Official_Absentee_Ballot_Drop_Box%29.jpg/1920px-Madison_August_2022_099_%28Official_Absentee_Ballot_Drop_Box%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Michael Barera / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 10,
-      "shows": "ballot box"
-     }
-    ],
-    "file_photo": true,
-    "inset": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Mary_Peltola_Congressional_Member_Portrait_%282%29.jpeg/1280px-Mary_Peltola_Congressional_Member_Portrait_%282%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "credit": "Leah Herman, House Creative Services / Wikimedia Commons (Public domain)",
-     "short": "WIKIMEDIA COMMONS",
-     "score": 10,
-     "shows": "Mary Peltola official portrait"
-    },
-    "_loaded": 1
-   },
-   "img_post": {
-    "headline": "Democrat Mary Peltola wins Alaska Senate race",
-    "people": [
-     "Mary Peltola"
-    ],
-    "image_query": "Alaska State Capitol",
-    "image_queries": [
-     "US Senate chamber",
-     "voting booth",
-     "Alaska landscape",
-     "Capitol Hill"
-    ],
-    "image_style": "scene",
-    "location": "Alaska, US",
-    "nearby_city": "Anchorage, Alaska",
-    "event_query": "Alaska Senate election results",
-    "topic_photo": "ballot box",
-    "label": "ELECTIONS",
-    "action_subject": "ballot boxes",
-    "news_time": "2026-11-18T09:20:32+00:00"
-   },
-   "created_at": "2026-11-18T10:09:59.370271+00:00",
-   "news_time": "2026-11-18T09:20:32+00:00",
-   "news_latest": "2026-11-18T09:38:50+00:00",
-   "importance": 9,
-   "caption": "🚨 BREAKING: Democrat Mary Peltola wins Alaska Senate race\n\nDemocrat Mary Peltola defeated Republican incumbent Dan Sullivan in Alaska's Senate race. According to Al Jazeera, the victory gives Democrats 56 Senate seats and a buffer in Republican states before the 2028 elections.\n\nWhat we know so far:\n• Alaska has repeatedly backed Donald Trump.\n• The race was closely fought.\n• Peltola secured a political comeback.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Alaska #USPolitics #Senate #7SeasNews",
-   "photo_line": "📷 10/10 ballot box · FILE PHOTO",
-   "status": "posted",
-   "tg_message_id": 777,
-   "tg_file_id": "AgACAgUAAxkDAAIDCWr9eYFDslqwcgl5ss9UnH9c7bNBAAILFGsbguzwV_L2cqMILHJ5AQADAgADdwADPQQ",
-   "queued_at": "2026-11-18T10:10:10.081133+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-18T10:10:10.081159+00:00",
-   "post_label": "🤖 Auto-posting + Reel",
-   "fb_post_id": "1413030521900096_122105180859548584",
-   "posted_at": "2026-11-18T10:10:10.471799+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 18 · 5:10 AM New York · 3:40 PM Sri Lanka\n\n<b>Democrat Mary Peltola wins Alaska Senate race</b>\n<i>Al Jazeera, Euronews</i>\n🟢 <b>Latest:</b> 3:08 PM Sri Lanka (31 min ago) · first reported 2:50 PM\n📷 10/10 ballot box · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122105180859548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 491,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122105180859548584_1171883758739201",
-   "fb_story_id": "1069993952762808",
-   "fb_reel_id": "1338850978290301",
-   "reel_status": "live",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-21T09:31:10.387478+00:00"
-  },
   "58e1b97b70": {
    "id": "58e1b97b70",
    "headline": "House Democrats investigate Howard Lutnick and Nvidia policies",
@@ -14299,17 +14192,13 @@
    "3d97e0803e"
   ]
  ],
- "last_draft_at": "2026-11-22T09:45:42.849852+00:00",
+ "last_draft_at": "2026-11-22T10:00:54.948103+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-22T09:07:11.673944+00:00",
  "run_log": [
-  "11-22 07:45:41 run start",
-  "11-22 07:46:00 listening 11 min",
-  "11-22 07:57:20 listening done",
-  "11-22 07:57:20 run end after 698 s",
   "11-22 08:00:50 run start",
   "11-22 08:01:29 listening 11 min",
   "11-22 08:12:22 listening done",
@@ -14345,7 +14234,11 @@
   "11-22 09:45:42 run start",
   "11-22 09:46:01 listening 11 min",
   "11-22 09:57:20 listening done",
-  "11-22 09:57:20 run end after 697 s"
+  "11-22 09:57:20 run end after 697 s",
+  "11-22 10:00:54 run start",
+  "11-22 10:01:04 listening 11 min",
+  "11-22 10:12:24 listening done",
+  "11-22 10:12:24 run end after 689 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
