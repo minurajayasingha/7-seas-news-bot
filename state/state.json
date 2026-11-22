@@ -11068,68 +11068,11 @@
   "https://www.washingtonexaminer.com/policy/immigration/4811477/masked-immigration-officers-distressing-scene-seattle-airport/",
   "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
   "https://www.washingtonexaminer.com/policy/energy-and-environment/4811598/un-climate-talks-disagreements-fossil-fuels/",
-  "https://www.washingtonpost.com/climate-environment/2026/11/22/cop31-negotiations-break-down-countries-fail-agree-climate-deal/"
+  "https://www.washingtonpost.com/climate-environment/2026/11/22/cop31-negotiations-break-down-countries-fail-agree-climate-deal/",
+  "https://www.washingtonpost.com/world/2026/11/22/mark-carney-brings-trump-impersonator-onstage-joke-about-us-canada-ties/",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss"
  ],
  "recent_topics": [
-  [
-   "2026-11-19T17:01:53.651000+00:00",
-   [
-    "central",
-    "china",
-    "demonstrat",
-    "global",
-    "occupy",
-    "position",
-    "power",
-    "project",
-    "putin",
-    "relation",
-    "seek",
-    "statu",
-    "summit",
-    "trump"
-   ],
-   "skipped"
-  ],
-  [
-   "2026-11-19T17:03:20.153129+00:00",
-   [
-    "becom",
-    "christian",
-    "christianity",
-    "country",
-    "grow",
-    "islam",
-    "largest",
-    "los",
-    "religion",
-    "stat",
-    "statu",
-    "study",
-    "unit",
-    "world"
-   ],
-   "skipped"
-  ],
-  [
-   "2026-11-19T17:03:52.458668+00:00",
-   [
-    "artificial",
-    "commission",
-    "confirm",
-    "cyberattack",
-    "european",
-    "intelligenc",
-    "investigation",
-    "october",
-    "official",
-    "target",
-    "tool",
-    "underway",
-    "using"
-   ],
-   "skipped"
-  ],
   [
    "2026-11-19T17:46:17.650732+00:00",
    [
@@ -13678,19 +13621,34 @@
     "washington"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-22T16:55:33.833955+00:00",
+   [
+    "appear",
+    "bring",
+    "canada",
+    "carney",
+    "dinner",
+    "impersonator",
+    "jok",
+    "mark",
+    "next",
+    "onstag",
+    "press",
+    "tie",
+    "trump"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-22T16:42:56.955893+00:00",
+ "last_draft_at": "2026-11-22T16:55:06.748086+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-22T16:15:31.605336+00:00",
  "run_log": [
-  "11-22 14:30:44 run start",
-  "11-22 14:31:17 listening 11 min",
-  "11-22 14:42:11 listening done",
-  "11-22 14:42:11 run end after 686 s",
   "11-22 14:45:32 run start",
   "11-22 14:45:41 listening 11 min",
   "11-22 14:56:59 listening done",
@@ -13726,7 +13684,11 @@
   "11-22 16:42:56 run start",
   "11-22 16:43:18 listening 11 min",
   "11-22 16:54:37 listening done",
-  "11-22 16:54:37 run end after 701 s"
+  "11-22 16:54:37 run end after 701 s",
+  "11-22 16:55:05 run start",
+  "11-22 16:55:33 listening 11 min",
+  "11-22 17:06:52 listening done",
+  "11-22 17:06:52 run end after 707 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -19977,7 +19939,9 @@
     "tt1": true,
     "log1": true,
     "tt2": true,
-    "log2": true
+    "log2": true,
+    "tt3": true,
+    "log3": true
    }
   }
  },
