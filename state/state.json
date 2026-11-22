@@ -1,101 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "1f15f8755e": {
-   "id": "1f15f8755e",
-   "headline": "White House drops Heidi Overton nomination for FDA",
-   "summary": "The White House confirmed it is dropping Dr. Heidi Overton’s nomination to lead the Food and Drug Administration. The nominee faced questions from Democrats, some in the GOP, and Make America Healthy Again supporters.",
-   "label": "US POLITICS",
-   "hook": "",
-   "key_points": [
-    "White House official confirmed the decision Tuesday",
-    "Heidi Overton was questioned by multiple political groups"
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#USPolitics",
-    "#FDA",
-    "#WhiteHouse"
-   ],
-   "sources": [
-    "NBC News",
-    "Washington Post"
-   ],
-   "link": "https://www.washingtonpost.com/health/2026/11/17/white-house-pulls-fda-nominee-amid-bipartisan-pushback/",
-   "links": [
-    [
-     "Washington Post",
-     "https://www.washingtonpost.com/health/2026/11/17/white-house-pulls-fda-nominee-amid-bipartisan-pushback/"
-    ],
-    [
-     "NBC News",
-     "https://www.nbcnews.com/health/health-care/white-house-drops-dr-heidi-overton-fda-nomination-commissioner-rcna609883"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Donald_Trump_signs_an_Executive_Order_regarding_childhood_vaccines_in_the_Oval_Office%2C_Monday%2C_August_10%2C_2026_-_5_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "The White House / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 10,
-      "shows": "Heidi Overton"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "White House drops Heidi Overton nomination for FDA",
-    "people": [
-     "Heidi Overton"
-    ],
-    "image_query": "White House building",
-    "image_queries": [
-     "US Capitol dome",
-     "Food and Drug Administration building",
-     "Senate chamber",
-     "White House exterior"
-    ],
-    "image_style": "person",
-    "location": "Washington, DC, US",
-    "nearby_city": "Washington, DC",
-    "event_query": "",
-    "topic_photo": "judge gavel",
-    "label": "US POLITICS",
-    "action_subject": "",
-    "news_time": "2026-11-18T00:44:27+00:00"
-   },
-   "created_at": "2026-11-18T01:08:06.301797+00:00",
-   "news_time": "2026-11-18T00:44:27+00:00",
-   "news_latest": "2026-11-18T00:49:29+00:00",
-   "importance": 7,
-   "caption": "🚨 BREAKING: White House drops Heidi Overton nomination for FDA\n\nThe White House confirmed it is dropping Dr. Heidi Overton’s nomination to lead the Food and Drug Administration. The nominee faced questions from Democrats, some in the GOP, and Make America Healthy Again supporters.\n\nWhat we know so far:\n• White House official confirmed the decision Tuesday\n• Heidi Overton was questioned by multiple political groups\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #FDA #WhiteHouse #7SeasNews",
-   "photo_line": "📷 10/10 Heidi Overton",
-   "status": "posted",
-   "tg_message_id": 773,
-   "tg_file_id": "AgACAgUAAxkDAAIDBWr8-njOM31Ir8AmX-fmnDGRqy-1AAKSFGsbguzoV8a6HuS4VbEtAQADAgADdwADPQQ",
-   "queued_at": "2026-11-18T01:08:08.402880+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-18T01:08:08.402939+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122104838583548584",
-   "posted_at": "2026-11-18T01:08:08.731781+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 17 · 8:08 PM New York · 6:38 AM Sri Lanka\n\n<b>White House drops Heidi Overton nomination for FDA</b>\n<i>NBC News, Washington Post</i>\n🟢 <b>Latest:</b> 6:19 AM Sri Lanka (18 min ago) · first reported 6:14 AM\n📷 10/10 Heidi Overton\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122104838583548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 489,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122104838583548584_29419087707726231",
-   "fb_story_id": "1110464658421939",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-21T00:00:50.117288+00:00"
-  },
   "6e01c3a20f": {
    "id": "6e01c3a20f",
    "headline": "Former Nvidia chief Jensen Huang agrees to testify to Congress",
@@ -11625,24 +11530,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-19T01:01:45.359613+00:00",
-   [
-    "83",
-    "ahead",
-    "anthropic",
-    "claude-maker",
-    "debut",
-    "market",
-    "pois",
-    "pric",
-    "reveal",
-    "set",
-    "shar",
-    "stock"
-   ],
-   "b5cb2f5ca4"
-  ],
-  [
    "2026-11-19T01:19:52.631926+00:00",
    [
     "cut",
@@ -14621,17 +14508,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-22T00:46:06.535817+00:00",
+ "last_draft_at": "2026-11-22T01:00:53.336509+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-22T00:45:32.998714+00:00",
  "run_log": [
-  "11-21 22:30:57 run start",
-  "11-21 22:31:49 listening 11 min",
-  "11-21 22:42:41 listening done",
-  "11-21 22:42:41 run end after 703 s",
   "11-21 22:45:36 run start",
   "11-21 22:46:17 listening 11 min",
   "11-21 22:57:11 listening done",
@@ -14667,7 +14550,11 @@
   "11-22 00:45:32 run start",
   "11-22 00:46:25 listening 11 min",
   "11-22 00:57:19 listening done",
-  "11-22 00:57:19 run end after 706 s"
+  "11-22 00:57:19 run end after 706 s",
+  "11-22 01:00:52 run start",
+  "11-22 01:01:01 listening 11 min",
+  "11-22 01:12:21 listening done",
+  "11-22 01:12:21 run end after 688 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
