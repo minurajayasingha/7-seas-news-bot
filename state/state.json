@@ -11526,7 +11526,10 @@
   "https://www.newsweek.com/trump-shares-yalta-comparison-featuring-himself-xi-and-putin-12752798",
   "https://www.independent.co.uk/news/world/americas/us-politics/trump-putin-friend-photo-truth-social-b3089292.html",
   "https://www.independent.co.uk/news/world/americas/crime/new-jersey-van-drew-woman-indicted-faking-attack-b3089283.html",
-  "https://www.washingtonexaminer.com/news/crime/4811297/gop-staffer-indict-anti-trump-attack-hoax/"
+  "https://www.washingtonexaminer.com/news/crime/4811297/gop-staffer-indict-anti-trump-attack-hoax/",
+  "https://thehill.com/homenews/state-watch/6235558-ferguson-condemns-ice-airport-detention/",
+  "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/",
+  "https://www.nbcnews.com/news/us-news/princeton-neuroscientist-eva-yi-xie-ice-detained-rcna610603"
  ],
  "recent_topics": [
   [
@@ -14485,19 +14488,38 @@
     "staffer"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-22T02:04:43.068394+00:00",
+   [
+    "airport",
+    "arrest",
+    "board",
+    "conferenc",
+    "decry",
+    "detain",
+    "flight",
+    "governor",
+    "ice",
+    "leav",
+    "neuroscientist",
+    "officer",
+    "out-of-control",
+    "passenger",
+    "princeton",
+    "seattl",
+    "washington"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-22T01:53:10.252007+00:00",
+ "last_draft_at": "2026-11-22T02:04:31.604961+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-22T01:52:24.342033+00:00",
  "run_log": [
-  "11-21 23:45:41 run start",
-  "11-21 23:46:41 listening 11 min",
-  "11-21 23:57:10 listening done",
-  "11-21 23:57:10 run end after 688 s",
   "11-22 00:00:43 run start",
   "11-22 00:00:54 listening 11 min",
   "11-22 00:12:12 listening done",
@@ -14533,7 +14555,11 @@
   "11-22 01:52:23 run start",
   "11-22 01:53:29 listening 10 min",
   "11-22 02:04:00 listening done",
-  "11-22 02:04:00 run end after 696 s"
+  "11-22 02:04:00 run end after 696 s",
+  "11-22 02:04:31 run start",
+  "11-22 02:04:43 listening 11 min",
+  "11-22 02:16:01 listening done",
+  "11-22 02:16:01 run end after 689 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
