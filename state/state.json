@@ -11065,7 +11065,10 @@
   "https://www.france24.com/en/israel-investigates-west-bank-fires",
   "https://www.independent.co.uk/tv/news/ice-seattle-airport-arrest-video-b3089423.html",
   "https://www.independent.co.uk/news/world/americas/ice-arrest-seattle-flight-alaska-airlines-b3089427.html",
-  "https://www.washingtonexaminer.com/policy/immigration/4811477/masked-immigration-officers-distressing-scene-seattle-airport/"
+  "https://www.washingtonexaminer.com/policy/immigration/4811477/masked-immigration-officers-distressing-scene-seattle-airport/",
+  "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+  "https://www.washingtonexaminer.com/policy/energy-and-environment/4811598/un-climate-talks-disagreements-fossil-fuels/",
+  "https://www.washingtonpost.com/climate-environment/2026/11/22/cop31-negotiations-break-down-countries-fail-agree-climate-deal/"
  ],
  "recent_topics": [
   [
@@ -13677,17 +13680,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-22T16:30:39.916396+00:00",
+ "last_draft_at": "2026-11-22T16:42:56.955893+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-22T16:15:31.605336+00:00",
  "run_log": [
-  "11-22 14:15:36 run start",
-  "11-22 14:16:20 listening 11 min",
-  "11-22 14:27:14 listening done",
-  "11-22 14:27:14 run end after 697 s",
   "11-22 14:30:44 run start",
   "11-22 14:31:17 listening 11 min",
   "11-22 14:42:11 listening done",
@@ -13723,7 +13722,11 @@
   "11-22 16:30:39 run start",
   "11-22 16:31:11 listening 11 min",
   "11-22 16:42:29 listening done",
-  "11-22 16:42:29 run end after 709 s"
+  "11-22 16:42:29 run end after 709 s",
+  "11-22 16:42:56 run start",
+  "11-22 16:43:18 listening 11 min",
+  "11-22 16:54:37 listening done",
+  "11-22 16:54:37 run end after 701 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
