@@ -10887,7 +10887,9 @@
   "https://www.newsweek.com/ground-stop-at-worlds-busiest-airport-delays-delta-flights-across-us-12753772",
   "https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html",
   "https://www.washingtonpost.com/politics/2026/11/22/north-carolina-5th-house-district-election-results-2026-hubbard-defeats-foxx/",
-  "https://www.theguardian.com/us-news/2026/nov/22/republicans-lose-north-carolina"
+  "https://www.theguardian.com/us-news/2026/nov/22/republicans-lose-north-carolina",
+  "https://abcnews.com/Politics/wireStory/democrats-clinch-historic-house-majority-258-seats-largest-138361835",
+  "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html"
  ],
  "recent_topics": [
   [
@@ -13489,19 +13491,34 @@
     "world"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-22T18:47:25.991949+00:00",
+   [
+    "258",
+    "century",
+    "clinch",
+    "democrat",
+    "election-year",
+    "historic",
+    "hous",
+    "largest",
+    "least",
+    "majority",
+    "record",
+    "seat",
+    "sinc"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-22T18:30:39.221978+00:00",
+ "last_draft_at": "2026-11-22T18:45:43.846417+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-22T18:15:50.009860+00:00",
  "run_log": [
-  "11-22 16:30:39 run start",
-  "11-22 16:31:11 listening 11 min",
-  "11-22 16:42:29 listening done",
-  "11-22 16:42:29 run end after 709 s",
   "11-22 16:42:56 run start",
   "11-22 16:43:18 listening 11 min",
   "11-22 16:54:37 listening done",
@@ -13537,7 +13554,11 @@
   "11-22 18:30:38 run start",
   "11-22 18:30:48 listening 11 min",
   "11-22 18:42:07 listening done",
-  "11-22 18:42:07 run end after 688 s"
+  "11-22 18:42:07 run end after 688 s",
+  "11-22 18:45:43 run start",
+  "11-22 18:47:26 listening 10 min",
+  "11-22 18:57:30 listening done",
+  "11-22 18:57:30 run end after 707 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
