@@ -9294,6 +9294,100 @@
     "shares": 0
    },
    "stats_at": "2026-11-22T11:15:37.812993+00:00"
+  },
+  "51037c3d1d": {
+   "id": "51037c3d1d",
+   "headline": "President Trump shares goals for a permanent deal with Iran",
+   "summary": "President Donald Trump stated that he wants a permanent deal with Iran. According to an analyst, the exit strategy may require quietly lifting the naval blockade on the country.",
+   "label": "DIPLOMACY",
+   "hook": "Should the United States lift the naval blockade on Iran?",
+   "key_points": [
+    "President Trump spoke to an Israeli outlet about Iran.",
+    "A decision on the Iran war may wait until 2027.",
+    "Sylvester Stallone's Rocky character inspires politicians and athletes."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Trump",
+    "#Iran",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "CBS News",
+    "Washington Examiner"
+   ],
+   "link": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
+   "links": [
+    [
+     "CBS News",
+     "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/op-eds/4809719/i-play-rocky-stallone-underdog-story-movie-review/"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Shealeah Craighead / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "Donald Trump smiling"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "President Trump shares goals for a permanent deal with Iran",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "White House",
+    "image_queries": [
+     "White House",
+     "US Capitol dome",
+     "Pentagon building",
+     "Senate chamber"
+    ],
+    "image_style": "person",
+    "location": "Washington, D.C., US",
+    "nearby_city": "Washington, D.C.",
+    "event_query": "",
+    "topic_photo": "cargo ship",
+    "label": "DIPLOMACY",
+    "action_subject": "",
+    "news_time": "2026-11-22T09:06:27+00:00"
+   },
+   "created_at": "2026-11-22T11:45:57.714799+00:00",
+   "news_time": "2026-11-22T09:06:27+00:00",
+   "news_latest": "2026-11-22T11:36:55+00:00",
+   "importance": 6,
+   "caption": "President Trump shares goals for a permanent deal with Iran\n\nPresident Donald Trump stated that he wants a permanent deal with Iran. According to an analyst, the exit strategy may require quietly lifting the naval blockade on the country.\n\n💬 Should the United States lift the naval blockade on Iran?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Trump #Iran #WorldNews #7SeasNews",
+   "photo_line": "📷 10/10 Donald Trump smiling",
+   "status": "posted",
+   "tg_message_id": 909,
+   "tg_file_id": "AgACAgUAAxkDAAIDjWsC1fcgJfEwhCJi4ozdcHINKdgrAAIjFGsboQ8ZVMjrDg_JLwABdwEAAwIAA3cAAz0E",
+   "queued_at": "2026-11-22T11:45:59.912685+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-22T11:45:59.912707+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122109415167548584",
+   "posted_at": "2026-11-22T11:46:00.224753+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 22 · 6:46 AM New York · 5:16 PM Sri Lanka\n\n<b>President Trump shares goals for a permanent deal with Iran</b>\n<i>Al Jazeera, CBS News, Washington Examiner</i>\n🟢 <b>Latest:</b> 5:06 PM Sri Lanka (9 min ago) · first reported 2:36 PM\n📷 10/10 Donald Trump smiling\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122109415167548584\">Open on Facebook</a>\n\n⚠️ <i>Looks like an earlier post: “President Trump outlines four areas for potential deals with Democrats”. Tap 🗑 Delete if it's the same news.</i>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 616,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122109415167548584_2223643678191623"
   }
  },
  "seen_links": [
@@ -11236,7 +11330,10 @@
   "https://www.nbcnews.com/politics/donald-trump/abdul-el-sayed-catches-trumps-attention-pitch-trumpcare-rcna610626",
   "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
   "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
-  "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
+  "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+  "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
+  "https://www.washingtonexaminer.com/op-eds/4809719/i-play-rocky-stallone-underdog-story-movie-review/",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -13914,19 +14011,39 @@
     "university"
    ],
    "3d97e0803e"
+  ],
+  [
+   "2026-11-22T11:45:59.912531+00:00",
+   [
+    "blockad",
+    "deal",
+    "depend",
+    "exit",
+    "him",
+    "iran",
+    "lift",
+    "movi",
+    "nobody",
+    "now",
+    "permanent",
+    "play",
+    "quietly",
+    "rock",
+    "rocky",
+    "strategy",
+    "trump",
+    "want"
+   ],
+   "51037c3d1d"
   ]
  ],
- "last_draft_at": "2026-11-22T11:30:50.019408+00:00",
+ "last_draft_at": "2026-11-22T11:45:35.937419+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-22T11:15:37.812993+00:00",
  "run_log": [
-  "11-22 09:19:20 run start",
-  "11-22 09:19:53 listening 11 min",
-  "11-22 09:30:46 listening done",
-  "11-22 09:30:46 run end after 686 s",
   "11-22 09:31:43 run start",
   "11-22 09:34:24 listening 9 min",
   "11-22 09:43:13 listening done",
@@ -13962,12 +14079,15 @@
   "11-22 11:30:49 run start",
   "11-22 11:31:22 listening 11 min",
   "11-22 11:42:17 listening done",
-  "11-22 11:42:17 run end after 687 s"
+  "11-22 11:42:17 run end after 687 s",
+  "11-22 11:45:35 run start",
+  "11-22 11:46:15 listening 11 min",
+  "11-22 11:57:09 listening done",
+  "11-22 11:57:09 run end after 693 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Naypyidaw_--_Zoo.JPG/1920px-Naypyidaw_--_Zoo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Tennessee_State_Capitol_house_chamber_gallery.jpg/1920px-Tennessee_State_Capitol_house_chamber_gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Horse-drawn_carriage_charleston.jpg/1920px-Horse-drawn_carriage_charleston.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Zohran_Mamdani.jpg/1280px-Zohran_Mamdani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -14006,7 +14126,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/John_Cornyn_%2812999214925%29.jpg/1280px-John_Cornyn_%2812999214925%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/US_Navy_030820-N-7110D-017_The_nuclear_powered_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29.jpg/1920px-US_Navy_030820-N-7110D-017_The_nuclear_powered_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Seoul_Skyline_Night_2018.jpg/1920px-Seoul_Skyline_Night_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Seoul_Skyline_Night_2018.jpg/1920px-Seoul_Skyline_Night_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "donald trump jr.": {
@@ -18932,10 +19053,10 @@
   "2026-11-19": 30,
   "2026-11-20": 30,
   "2026-11-21": 17,
-  "2026-11-22": 1
+  "2026-11-22": 2
  },
- "last_auto_at": "2026-11-22T09:34:09.920128+00:00",
- "last_post_at": "2026-11-22T09:34:15.563240+00:00",
+ "last_auto_at": "2026-11-22T11:46:00.224753+00:00",
+ "last_post_at": "2026-11-22T11:46:04.744013+00:00",
  "reels_count": {
   "2026-11-15": 8,
   "2026-11-16": 10,
