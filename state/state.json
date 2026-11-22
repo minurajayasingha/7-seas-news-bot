@@ -1,99 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "8524335802": {
-   "id": "8524335802",
-   "headline": "European Commission proposes additional financial support to Ukraine",
-   "summary": "The European Commission approved legislative proposals to provide up to 45 billion euros in additional financial support to Ukraine for 2027. According to European Commission President Ursula von der Leyen, the loan will be repaid through future war reparations by Russia.",
-   "label": "DIPLOMACY",
-   "hook": "Will EU member states approve this proposed loan for Ukraine?",
-   "key_points": [
-    "The proposals were approved on Nov. 18.",
-    "The funding aims to cover about two-thirds of Kyiv's financing needs.",
-    "The proposals still require approval from EU member states."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#EuropeanCommission",
-    "#Ukraine",
-    "#WorldNews"
-   ],
-   "sources": [
-    "France 24",
-    "Kyiv Independent"
-   ],
-   "link": "https://kyivindependent.com/european-commission-approves-proposal-to-provide-additional-49-5-billion-to-ukraine-2/",
-   "links": [
-    [
-     "Kyiv Independent",
-     "https://kyivindependent.com/european-commission-approves-proposal-to-provide-additional-49-5-billion-to-ukraine-2/"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/europe/20261118-eu-proposes-new-%E2%82%AC45-billion-ukraine-loan-to-be-repaid-by-russia"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Tour_et_Taxis_-_Brussels_Skyline_%28cropped%29.jpg/1920px-Tour_et_Taxis_-_Brussels_Skyline_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Luca Mangiat / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 9,
-      "shows": "Brussels skyline"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "European Commission proposes additional financial support to Ukraine",
-    "people": [],
-    "image_query": "European Commission building",
-    "image_queries": [
-     "European Union flag",
-     "Brussels street",
-     "EU headquarters",
-     "European Parliament"
-    ],
-    "image_style": "scene",
-    "location": "Brussels, Belgium",
-    "nearby_city": "Brussels, Belgium",
-    "event_query": "European Commission press conference",
-    "topic_photo": "Euro currency",
-    "label": "DIPLOMACY",
-    "action_subject": "",
-    "news_time": "2026-11-18T10:42:58+00:00"
-   },
-   "created_at": "2026-11-18T12:47:54.488904+00:00",
-   "news_time": "2026-11-18T10:42:58+00:00",
-   "news_latest": "2026-11-18T12:34:19+00:00",
-   "importance": 7,
-   "caption": "European Commission proposes additional financial support to Ukraine\n\nThe European Commission approved legislative proposals to provide up to 45 billion euros in additional financial support to Ukraine for 2027. According to European Commission President Ursula von der Leyen, the loan will be repaid through future war reparations by Russia.\n\n💬 Will EU member states approve this proposed loan for Ukraine?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#EuropeanCommission #Ukraine #WorldNews #7SeasNews",
-   "photo_line": "📷 9/10 Brussels skyline",
-   "status": "posted",
-   "tg_message_id": 787,
-   "tg_file_id": "AgACAgUAAxkDAAIDEmr9nyShl5TYqzogoeQVzFHuEk80AAKOFGsbguzwV_Ia5wh-22zhAQADAgADdwADPQQ",
-   "queued_at": "2026-11-18T12:50:45.079558+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-18T12:50:45.079586+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122105304687548584",
-   "posted_at": "2026-11-18T12:50:45.380458+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 18 · 7:51 AM New York · 6:21 PM Sri Lanka\n\n<b>European Commission proposes additional financial support to Ukraine</b>\n<i>France 24, Kyiv Independent</i>\n🟢 <b>Latest:</b> 6:04 PM Sri Lanka (17 min ago) · first reported 4:12 PM\n📷 9/10 Brussels skyline\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122105304687548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 497,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122105304687548584_2840139106372020",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-21T12:30:53.048756+00:00"
-  },
   "eba19e7327": {
    "id": "eba19e7327",
    "headline": "Trump arrives in China for meeting with Putin and Xi",
@@ -13844,17 +13751,13 @@
    "51037c3d1d"
   ]
  ],
- "last_draft_at": "2026-11-22T12:30:40.910109+00:00",
+ "last_draft_at": "2026-11-22T12:46:05.440019+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-22T12:15:50.104669+00:00",
  "run_log": [
-  "11-22 10:15:31 run start",
-  "11-22 10:16:40 listening 10 min",
-  "11-22 10:27:08 listening done",
-  "11-22 10:27:08 run end after 697 s",
   "11-22 10:30:42 run start",
   "11-22 10:31:02 listening 11 min",
   "11-22 10:42:21 listening done",
@@ -13890,7 +13793,11 @@
   "11-22 12:30:40 run start",
   "11-22 12:31:00 listening 11 min",
   "11-22 12:42:18 listening done",
-  "11-22 12:42:18 run end after 697 s"
+  "11-22 12:42:18 run end after 697 s",
+  "11-22 12:46:05 run start",
+  "11-22 12:46:06 listening 11 min",
+  "11-22 12:57:49 listening done",
+  "11-22 12:57:49 run end after 704 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
