@@ -11041,7 +11041,12 @@
   "https://www.euronews.com/2026/11/22/emergency-workers-recover-at-least-six-body-bags-after-indonesian-factory-fire",
   "https://www.aljazeera.com/news/2026/11/22/indonesia-factory-fire-kills-three-36-missing?traffic_source=rss",
   "https://www.today.com/video/russia-strikes-ukraine-s-capital-days-after-trump-putin-meeting-273977413863",
-  "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss"
+  "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss",
+  "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+  "https://www.nbcnews.com/science/climate-change/cop31-climate-talks-break-angry-dispute-fossil-fuels-rcna610656",
+  "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
+  "https://www.france24.com/en/environment/20261121-latest-cop31-deal-sidesteps-fossil-fuels-amid-growing-divisions",
+  "https://www.euronews.com/2026/11/22/new-cop31-draft-deal-tabled-as-countries-scramble-to-salvage-climate-talks"
  ],
  "recent_topics": [
   [
@@ -13712,17 +13717,13 @@
    "6a13b82949"
   ]
  ],
- "last_draft_at": "2026-11-22T13:30:48.760425+00:00",
+ "last_draft_at": "2026-11-22T13:45:40.328572+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-22T13:15:44.410131+00:00",
  "run_log": [
-  "11-22 11:15:37 run start",
-  "11-22 11:16:37 listening 11 min",
-  "11-22 11:27:05 listening done",
-  "11-22 11:27:05 run end after 688 s",
   "11-22 11:30:49 run start",
   "11-22 11:31:22 listening 11 min",
   "11-22 11:42:17 listening done",
@@ -13758,7 +13759,11 @@
   "11-22 13:30:48 run start",
   "11-22 13:33:03 listening 9 min",
   "11-22 13:42:17 listening done",
-  "11-22 13:42:17 run end after 689 s"
+  "11-22 13:42:17 run end after 689 s",
+  "11-22 13:45:39 run start",
+  "11-22 13:47:27 listening 10 min",
+  "11-22 13:57:06 listening done",
+  "11-22 13:57:06 run end after 686 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
