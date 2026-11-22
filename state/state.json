@@ -1,106 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "eba19e7327": {
-   "id": "eba19e7327",
-   "headline": "Trump arrives in China for meeting with Putin and Xi",
-   "summary": "President Donald Trump arrived in China ahead of a historic three-way meeting with Chinese President Xi Jinping and Russian President Vladimir Putin. The leaders are scheduled to discuss topics including global security, denuclearization, and conflicts in Ukraine and Iran during the summit.",
-   "label": "DIPLOMACY",
-   "hook": "Can this first trilateral meeting lead to progress on the war in Ukraine?",
-   "key_points": [
-    "The three leaders meet together for the first time.",
-    "China's leader welcomed his counterparts at the APEC summit.",
-    "Trump expressed hope about ending the war in Ukraine."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#WorldNews",
-    "#Diplomacy",
-    "#APEC"
-   ],
-   "sources": [
-    "BBC",
-    "Euronews",
-    "NBC News"
-   ],
-   "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-   "links": [
-    [
-     "BBC",
-     "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss"
-    ],
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/18/trump-arrives-in-china-for-unprecedented-trilateral-encounter-with-xi-and-putin"
-    ],
-    [
-     "NBC News",
-     "https://www.today.com/video/trump-lands-in-china-ahead-of-historic-meeting-with-xi-and-putin-273718341601"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Skyline_of_China-ASEAN_Business_Center_in_Qingxiu_District.jpg/1920px-Skyline_of_China-ASEAN_Business_Center_in_Qingxiu_District.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "EditQ / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 5,
-      "shows": "China skyline"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Trump arrives in China for meeting with Putin and Xi",
-    "people": [
-     "Donald Trump"
-    ],
-    "image_query": "APEC summit venue China",
-    "image_queries": [
-     "APEC summit venue",
-     "Beijing skyline",
-     "international summit hall",
-     "delegation meeting room"
-    ],
-    "image_style": "scene",
-    "location": "China",
-    "nearby_city": "Beijing, China",
-    "event_query": "Trump Xi Putin meeting China",
-    "topic_photo": "summit meeting table",
-    "label": "DIPLOMACY",
-    "action_subject": "leaders shaking hands",
-    "news_time": "2026-11-18T12:22:04+00:00"
-   },
-   "created_at": "2026-11-18T13:03:48.588541+00:00",
-   "news_time": "2026-11-18T12:22:04+00:00",
-   "news_latest": "2026-11-18T12:39:24+00:00",
-   "importance": 8,
-   "caption": "Trump arrives in China for meeting with Putin and Xi\n\nPresident Donald Trump arrived in China ahead of a historic three-way meeting with Chinese President Xi Jinping and Russian President Vladimir Putin. The leaders are scheduled to discuss topics including global security, denuclearization, and conflicts in Ukraine and Iran during the summit.\n\n💬 Can this first trilateral meeting lead to progress on the war in Ukraine?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WorldNews #Diplomacy #APEC #7SeasNews",
-   "photo_line": "📷 5/10 China skyline",
-   "status": "posted",
-   "tg_message_id": 790,
-   "tg_file_id": "AgACAgUAAxkDAAIDFmr9ojqfO57IUGkiOYvk8sFNPIVQAALJFGsbguzwV8LCCNqpxstAAQADAgADdwADPQQ",
-   "queued_at": "2026-11-18T13:03:54.913410+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-18T13:03:54.913440+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122105315043548584",
-   "posted_at": "2026-11-18T13:03:55.245306+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 18 · 8:04 AM New York · 6:34 PM Sri Lanka\n\n<b>Trump arrives in China for meeting with Putin and Xi</b>\n<i>BBC, Euronews, NBC News</i>\n🟢 <b>Latest:</b> 6:09 PM Sri Lanka (24 min ago) · first reported 5:52 PM\n📷 5/10 China skyline\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122105315043548584\">Open on Facebook</a>\n\n⚠️ <i>Looks like an earlier post: “Trump travels to Asia for meetings with Xi Jinping and Vladimir Putin”. Tap 🗑 Delete if it's the same news.</i>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 499,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122105315043548584_1500954378587767",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-21T12:30:53.048756+00:00"
-  },
   "c69a55dc25": {
    "id": "c69a55dc25",
    "headline": "Ukraine strikes two Russian oil refineries and Crimean Bridge",
@@ -11047,27 +10947,11 @@
   "https://www.washingtonexaminer.com/op-eds/4809719/i-play-rocky-stallone-underdog-story-movie-review/",
   "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
   "https://www.newsweek.com/chuck-schumer-israel-divide-senate-leadership-challenge-12735056",
-  "https://thehill.com/the-120/6233863-democrats-plan-lower-costs/"
+  "https://thehill.com/the-120/6233863-democrats-plan-lower-costs/",
+  "https://www.washingtonpost.com/world/2026/11/22/arson-attacks-by-israeli-settlers-west-bank-add-tense-political-debate/",
+  "https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank?traffic_source=rss"
  ],
  "recent_topics": [
-  [
-   "2026-11-19T13:01:18.071156+00:00",
-   [
-    "declin",
-    "diesel",
-    "election",
-    "fall",
-    "fastest",
-    "gas",
-    "map",
-    "midterm",
-    "pric",
-    "show",
-    "sinc",
-    "stat"
-   ],
-   "skipped"
-  ],
   [
    "2026-11-19T13:15:02.729483+00:00",
    [
@@ -13751,17 +13635,13 @@
    "51037c3d1d"
   ]
  ],
- "last_draft_at": "2026-11-22T12:46:05.440019+00:00",
+ "last_draft_at": "2026-11-22T13:00:48.580074+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-22T12:15:50.104669+00:00",
  "run_log": [
-  "11-22 10:30:42 run start",
-  "11-22 10:31:02 listening 11 min",
-  "11-22 10:42:21 listening done",
-  "11-22 10:42:21 run end after 698 s",
   "11-22 10:45:34 run start",
   "11-22 10:45:43 listening 11 min",
   "11-22 10:57:01 listening done",
@@ -13797,7 +13677,11 @@
   "11-22 12:46:05 run start",
   "11-22 12:46:06 listening 11 min",
   "11-22 12:57:49 listening done",
-  "11-22 12:57:49 run end after 704 s"
+  "11-22 12:57:49 run end after 704 s",
+  "11-22 13:00:47 run start",
+  "11-22 13:01:43 listening 11 min",
+  "11-22 13:12:37 listening done",
+  "11-22 13:12:37 run end after 709 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -20028,7 +19912,11 @@
     "Thousands protest across Europe over living costs and housing",
     "UN talks on AI killer robots extend until 2028",
     "Pentagon issues memo limiting social activities with Canadian military"
-   ]
+   ],
+   "done": {
+    "tt1": true,
+    "log1": true
+   }
   }
  },
  "run_once_done": [
