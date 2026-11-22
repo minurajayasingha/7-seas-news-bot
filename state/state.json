@@ -11619,7 +11619,9 @@
   "https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html",
   "https://www.washingtonpost.com/national-security/2026/11/20/secret-hegseth-memo-restricts-us-canada-defense-relationship/",
   "https://www.newsweek.com/trump-shares-yalta-comparison-featuring-himself-xi-and-putin-12752798",
-  "https://www.independent.co.uk/news/world/americas/us-politics/trump-putin-friend-photo-truth-social-b3089292.html"
+  "https://www.independent.co.uk/news/world/americas/us-politics/trump-putin-friend-photo-truth-social-b3089292.html",
+  "https://www.independent.co.uk/news/world/americas/crime/new-jersey-van-drew-woman-indicted-faking-attack-b3089283.html",
+  "https://www.washingtonexaminer.com/news/crime/4811297/gop-staffer-indict-anti-trump-attack-hoax/"
  ],
  "recent_topics": [
   [
@@ -14641,19 +14643,34 @@
     "yalta"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-22T00:15:49.168168+00:00",
+   [
+    "alleg",
+    "allegedly",
+    "anti-trump",
+    "attack",
+    "congressman",
+    "ex-staffer",
+    "fak",
+    "former",
+    "gop",
+    "hoax",
+    "indict",
+    "republican",
+    "staffer"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-22T00:00:44.220110+00:00",
+ "last_draft_at": "2026-11-22T00:15:39.652713+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-21T23:45:42.205705+00:00",
  "run_log": [
-  "11-21 21:50:06 run start",
-  "11-21 21:51:04 listening 11 min",
-  "11-21 22:01:34 listening done",
-  "11-21 22:01:34 run end after 687 s",
   "11-21 22:02:05 run start",
   "11-21 22:02:24 listening 11 min",
   "11-21 22:13:43 listening done",
@@ -14689,7 +14706,11 @@
   "11-22 00:00:43 run start",
   "11-22 00:00:54 listening 11 min",
   "11-22 00:12:12 listening done",
-  "11-22 00:12:12 run end after 688 s"
+  "11-22 00:12:12 run end after 688 s",
+  "11-22 00:15:39 run start",
+  "11-22 00:15:49 listening 11 min",
+  "11-22 00:27:07 listening done",
+  "11-22 00:27:07 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
