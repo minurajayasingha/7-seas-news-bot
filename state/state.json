@@ -8390,14 +8390,6 @@
   }
  },
  "seen_links": [
-  "https://thehill.com/homenews/state-watch/6206341-wisconsin-trooper-ice-arrest/",
-  "https://www.theguardian.com/us-news/2026/nov/07/wisconsin-state-trooper-ice-released",
-  "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss",
-  "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
-  "https://www.euronews.com/2026/11/08/trump-offers-ufc-boss-press-secretary-role-dana-please-take-the-job",
-  "https://news.sky.com/story/trump-asks-ufc-boss-dana-white-to-become-white-house-press-secretary-13609613",
-  "https://www.washingtonexaminer.com/news/white-house/4796653/dana-white-responds-question-trump-white-house-press-secretary-request/",
-  "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss",
   "https://www.cbsnews.com/news/trump-offers-white-house-press-secretary-role-dana-white/",
   "https://www.newsweek.com/krakow-shooting-suspect-what-we-know-as-more-victims-discovered-12683092",
   "https://www.independent.co.uk/news/world/europe/krakow-shooting-poland-suspect-new-identity-b3081096.html",
@@ -10389,7 +10381,15 @@
   "https://www.france24.com/en/video/20261123-airports-public-transport-shut-down-amid-national-strike-in-belgium",
   "https://www.aljazeera.com/news/2026/11/23/anti-austerity-strike-spurs-transport-chaos-across-belgium?traffic_source=rss",
   "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-  "https://kyivindependent.com/eu-proposes-package-of-russian-sports-sanctions-visa-bans-and-a-krygyzstan-crypto-blockade/"
+  "https://kyivindependent.com/eu-proposes-package-of-russian-sports-sanctions-visa-bans-and-a-krygyzstan-crypto-blockade/",
+  "https://www.upi.com/Top_News/US/2026/11/23/grok-lawsuit/8121795447440/",
+  "https://www.washingtonexaminer.com/policy/technology/4812157/virginia-oregon-sue-spacex-grokai-child-sexual-abuse-material/",
+  "https://abcnews.com/International/wireStory/hungarys-magyar-visit-ukraine-sign-mending-relations-138377958",
+  "https://kyivindependent.com/zelensky-hungarys-magyar-could-meet-soon-during-planned-visits-to-ukraines-zakarpattia-source-says/",
+  "https://abcnews.com/International/wireStory/bukele-reveals-circumstances-3-salvadoran-soldiers-died-fighting-138378203",
+  "https://www.upi.com/Top_News/World-News/2026/11/23/latam-elsalvador-haiti-soldiers-fund/7321795442497/",
+  "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
+  "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html"
  ],
  "recent_topics": [
   [
@@ -12284,17 +12284,13 @@
    "3ed909c38e"
   ]
  ],
- "last_draft_at": "2026-11-23T17:01:28.953082+00:00",
+ "last_draft_at": "2026-11-23T17:15:36.950235+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T17:00:55.899865+00:00",
  "run_log": [
-  "11-23 14:46:18 run start",
-  "11-23 14:46:38 listening 11 min",
-  "11-23 14:57:58 listening done",
-  "11-23 14:57:58 run end after 699 s",
   "11-23 15:01:37 run start",
   "11-23 15:02:21 listening 11 min",
   "11-23 15:13:15 listening done",
@@ -12330,7 +12326,11 @@
   "11-23 17:00:54 run start",
   "11-23 17:01:48 listening 11 min",
   "11-23 17:12:42 listening done",
-  "11-23 17:12:42 run end after 707 s"
+  "11-23 17:12:42 run end after 707 s",
+  "11-23 17:15:36 run start",
+  "11-23 17:17:34 listening 10 min",
+  "11-23 17:27:12 listening done",
+  "11-23 17:27:12 run end after 695 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
