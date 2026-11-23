@@ -1,108 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "68abf1524d": {
-   "id": "68abf1524d",
-   "headline": "Elbridge Colby criticizes Ukraine long range strikes at NATO",
-   "summary": "U.S. under secretary of defense Elbridge Colby criticized Ukraine for long-range strikes against Russia during high-level talks in Brussels. Colby stated the strikes are ineffective and do not help blunt Russian advances. The remarks drew a rebuke from allies and sparked alarm.",
-   "label": "DIPLOMACY",
-   "hook": "Should the US criticize Ukrainian strikes against Russia during international talks?",
-   "key_points": [
-    "Colby spoke at NATO headquarters on Tuesday.",
-    "The Pentagon strategist reportedly walked out of NATO talks.",
-    "Brussels meetings involved high-level discussions."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#NATO",
-    "#Ukraine",
-    "#USPolitics"
-   ],
-   "sources": [
-    "The Hill",
-    "The Independent"
-   ],
-   "link": "https://thehill.com/policy/international/6229395-colby-criticizes-ukraine-long-range-strikes/",
-   "links": [
-    [
-     "The Hill",
-     "https://thehill.com/policy/international/6229395-colby-criticizes-ukraine-long-range-strikes/"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/europe/pentagon-elbridge-colby-walks-out-nato-talks-ukraine-b3087554.html"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Brussels_NATO_Headquarters.jpg/1920px-Brussels_NATO_Headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Ad Meskens / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 10,
-      "shows": "NATO headquarters Brussels aerial view"
-     }
-    ],
-    "inset": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Elbridge_A._Colby_%282%29.jpg/1280px-Elbridge_A._Colby_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "credit": "U.S. Department of Defense / Wikimedia Commons (Public domain)",
-     "short": "WIKIMEDIA COMMONS",
-     "score": 10,
-     "shows": "Elbridge Colby portrait"
-    }
-   },
-   "img_post": {
-    "headline": "Elbridge Colby criticizes Ukraine long range strikes at NATO",
-    "people": [
-     "Elbridge Colby"
-    ],
-    "image_query": "NATO headquarters Brussels",
-    "image_queries": [
-     "NATO building",
-     "Brussels cityscape",
-     "EU headquarters",
-     "Pentagon building"
-    ],
-    "image_style": "scene",
-    "location": "Brussels, Belgium",
-    "nearby_city": "Brussels, Belgium",
-    "event_query": "NATO headquarters Brussels talks",
-    "topic_photo": "conference room",
-    "label": "DIPLOMACY",
-    "action_subject": "",
-    "news_time": "2026-11-18T23:00:27+00:00"
-   },
-   "created_at": "2026-11-19T04:13:50.214746+00:00",
-   "news_time": "2026-11-18T23:00:27+00:00",
-   "news_latest": "2026-11-19T03:59:49+00:00",
-   "importance": 7,
-   "caption": "Elbridge Colby criticizes Ukraine long range strikes at NATO\n\nU.S. under secretary of defense Elbridge Colby criticized Ukraine for long-range strikes against Russia during high-level talks in Brussels. Colby stated the strikes are ineffective and do not help blunt Russian advances. The remarks drew a rebuke from allies and sparked alarm.\n\n💬 Should the US criticize Ukrainian strikes against Russia during international talks?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#NATO #Ukraine #USPolitics #7SeasNews",
-   "photo_line": "📷 10/10 NATO headquarters Brussels aerial view",
-   "status": "posted",
-   "tg_message_id": 812,
-   "tg_file_id": "AgACAgUAAxkDAAIDLGr-d4BrCllSo4UboLrwHcbT9sXKAAI0FWsb3mnwV8WGjEtNHQTZAQADAgADdwADPQQ",
-   "queued_at": "2026-11-19T04:13:53.185058+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-19T04:13:53.185093+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122105933559548584",
-   "posted_at": "2026-11-19T04:13:53.575778+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 18 · 11:13 PM New York · 9:43 AM Sri Lanka\n\n<b>Elbridge Colby criticizes Ukraine long range strikes at NATO</b>\n<i>The Hill, The Independent</i>\n🟢 <b>Latest:</b> 9:29 AM Sri Lanka (14 min ago) · first reported 4:30 AM\n📷 10/10 NATO headquarters Brussels aerial view\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122105933559548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 519,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122105933559548584_1937892890705837",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-22T04:00:57.992084+00:00"
-  },
   "972d7dbe83": {
    "id": "972d7dbe83",
    "headline": "IEA warns Middle East crisis and datacentres threaten energy security",
@@ -12622,17 +12520,13 @@
    "38e98f092c"
   ]
  ],
- "last_draft_at": "2026-11-23T04:00:50.596895+00:00",
+ "last_draft_at": "2026-11-23T04:15:43.770129+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T03:21:50.344205+00:00",
  "run_log": [
-  "11-23 02:01:03 run start",
-  "11-23 02:01:04 listening 11 min",
-  "11-23 02:12:47 listening done",
-  "11-23 02:12:47 run end after 704 s",
   "11-23 02:15:33 run start",
   "11-23 02:16:04 listening 11 min",
   "11-23 02:27:22 listening done",
@@ -12668,7 +12562,11 @@
   "11-23 04:00:50 run start",
   "11-23 04:01:10 listening 11 min",
   "11-23 04:12:28 listening done",
-  "11-23 04:12:28 run end after 698 s"
+  "11-23 04:12:28 run end after 698 s",
+  "11-23 04:15:43 run start",
+  "11-23 04:16:16 listening 11 min",
+  "11-23 04:27:11 listening done",
+  "11-23 04:27:11 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
