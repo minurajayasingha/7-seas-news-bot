@@ -8377,11 +8377,95 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122110143177548584_1395914539078856"
+  },
+  "cca23e0ad5": {
+   "id": "cca23e0ad5",
+   "headline": "Pentagon warns Russia plans satellite launch with nuclear weapon",
+   "summary": "The Pentagon warned that Russia plans to launch a satellite carrying a nuclear weapon into space by the end of the year. Officials stated that a nuclear detonation in space could disrupt communications and security on Earth. Meanwhile, Russia's German embassy rejected the allegations.",
+   "label": "CONFLICT",
+   "hook": "Will international pressure prevent potential nuclear weapon placement in space?",
+   "key_points": [
+    "Russia's German embassy firmly rejected the allegations regarding space activities.",
+    "A space-based nuclear detonation risks Earth communications and security."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Russia",
+    "#Pentagon",
+    "#SpaceSecurity"
+   ],
+   "sources": [
+    "Newsweek",
+    "The Independent"
+   ],
+   "link": "https://www.newsweek.com/russia-launch-nuclear-armed-satellite-everything-we-know-12755846",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/russia-launch-nuclear-armed-satellite-everything-we-know-12755846"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/europe/russia-satellite-nuclear-weapon-space-b3089665.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Moscow_Tverskaya_Zastava_Square_2023-06-11_4579.jpg/1920px-Moscow_Tverskaya_Zastava_Square_2023-06-11_4579.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Mike1979 Russia / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 5,
+      "shows": "Moscow city street"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Pentagon warns Russia plans satellite launch with nuclear weapon",
+    "people": [],
+    "image_query": "Pentagon building",
+    "image_queries": [
+     "satellite in space",
+     "Moscow embassy",
+     "space rocket launch",
+     "military satellite"
+    ],
+    "image_style": "scene",
+    "location": "Moscow, Russia",
+    "nearby_city": "Moscow, Russia",
+    "event_query": "",
+    "topic_photo": "satellite",
+    "label": "CONFLICT",
+    "action_subject": "satellite",
+    "news_time": "2026-11-23T10:42:36+00:00"
+   },
+   "created_at": "2026-11-23T11:34:20.564986+00:00",
+   "news_time": "2026-11-23T10:42:36+00:00",
+   "news_latest": "2026-11-23T11:27:35+00:00",
+   "importance": 8,
+   "caption": "Pentagon warns Russia plans satellite launch with nuclear weapon\n\nThe Pentagon warned that Russia plans to launch a satellite carrying a nuclear weapon into space by the end of the year. Officials stated that a nuclear detonation in space could disrupt communications and security on Earth. Meanwhile, Russia's German embassy rejected the allegations.\n\n💬 Will international pressure prevent potential nuclear weapon placement in space?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Russia #Pentagon #SpaceSecurity #7SeasNews",
+   "photo_line": "📷 5/10 Moscow city street",
+   "status": "posted",
+   "tg_message_id": 930,
+   "tg_file_id": "AgACAgUAAxkDAAIDomsEJL5zay8fyqa57adVpg793FwSAAJ_GGsbSgchVFAMJHAikl86AQADAgADdwADPQQ",
+   "queued_at": "2026-11-23T11:34:23.213510+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-23T11:34:23.213552+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122110164801548584",
+   "posted_at": "2026-11-23T11:34:23.584633+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 23 · 6:34 AM New York · 5:04 PM Sri Lanka\n\n<b>Pentagon warns Russia plans satellite launch with nuclear weapon</b>\n<i>Newsweek, The Independent</i>\n🟢 <b>Latest:</b> 4:57 PM Sri Lanka (6 min ago) · first reported 4:12 PM\n📷 5/10 Moscow city street\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122110164801548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 636,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122110164801548584_1867914591121209"
   }
  },
  "seen_links": [
-  "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
-  "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss",
   "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
   "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss",
   "https://abcnews.com/International/wireStory/paraguays-former-president-faces-prosecutors-after-removal-bank-137941605",
@@ -10379,47 +10463,11 @@
   "https://abcnews.com/International/wireStory/turkish-authorities-search-lion-spotted-outskirts-istanbul-138369535",
   "https://www.euronews.com/2026/11/23/turkish-authorities-search-for-lion-spotted-on-outskirts-of-istanbul",
   "https://www.dw.com/en/german-police-respond-to-multiple-school-bomb-threats/a-80018842?maca=en-rss-en-world-4025-rdf",
-  "https://www.independent.co.uk/news/world/europe/school-bomb-threats-germany-denmark-b3089758.html"
+  "https://www.independent.co.uk/news/world/europe/school-bomb-threats-germany-denmark-b3089758.html",
+  "https://www.newsweek.com/russia-launch-nuclear-armed-satellite-everything-we-know-12755846",
+  "https://www.independent.co.uk/news/world/europe/russia-satellite-nuclear-weapon-space-b3089665.html"
  ],
  "recent_topics": [
-  [
-   "2026-11-20T11:36:41.615241+00:00",
-   [
-    "23",
-    "attack",
-    "bridg",
-    "crippl",
-    "cut",
-    "hurt",
-    "kill",
-    "kyiv",
-    "least",
-    "power",
-    "retaliatory",
-    "russian",
-    "strik",
-    "ukrain"
-   ],
-   "ced106d019"
-  ],
-  [
-   "2026-11-20T11:37:54.947834+00:00",
-   [
-    "compromis",
-    "deadlin",
-    "deal",
-    "deploy",
-    "fac",
-    "forc",
-    "hezbollah",
-    "iraqi",
-    "kataib",
-    "leav",
-    "security",
-    "stronghold"
-   ],
-   "11cb4e9aad"
-  ],
   [
    "2026-11-20T12:19:36.768722+00:00",
    [
@@ -12459,19 +12507,32 @@
     "wav"
    ],
    "65d536118f"
+  ],
+  [
+   "2026-11-23T11:34:23.213367+00:00",
+   [
+    "arm",
+    "end",
+    "everyth",
+    "know",
+    "launch",
+    "nuclear",
+    "plann",
+    "russia",
+    "satellit",
+    "spac",
+    "weapon"
+   ],
+   "cca23e0ad5"
   ]
  ],
- "last_draft_at": "2026-11-23T11:15:41.585978+00:00",
+ "last_draft_at": "2026-11-23T11:30:50.320503+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T10:38:11.408541+00:00",
  "run_log": [
-  "11-23 08:45:36 run start",
-  "11-23 08:45:55 listening 11 min",
-  "11-23 08:57:14 listening done",
-  "11-23 08:57:14 run end after 697 s",
   "11-23 09:00:49 run start",
   "11-23 09:00:59 listening 11 min",
   "11-23 09:12:17 listening done",
@@ -12507,12 +12568,15 @@
   "11-23 11:15:41 run start",
   "11-23 11:16:30 listening 11 min",
   "11-23 11:27:24 listening done",
-  "11-23 11:27:24 run end after 703 s"
+  "11-23 11:27:24 run end after 703 s",
+  "11-23 11:30:49 run start",
+  "11-23 11:34:37 listening 8 min",
+  "11-23 11:42:35 listening done",
+  "11-23 11:42:35 run end after 705 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Congressional_Hearing_-_Jul._24%2C_2012_%287748554726%29.jpg/1920px-Congressional_Hearing_-_Jul._24%2C_2012_%287748554726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/White_House_%28South_Lawn%29.jpeg/1920px-White_House_%28South_Lawn%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Capitol_Washington_October_2016-3.jpg/1920px-Capitol_Washington_October_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/b/b5/Gina_Hinojosa_at_LBJ_Library_Forum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -12551,7 +12615,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Madison_August_2022_099_%28Official_Absentee_Ballot_Drop_Box%29.jpg/1920px-Madison_August_2022_099_%28Official_Absentee_Ballot_Drop_Box%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Seattle-Tacoma_International_Airport%2C_Washington_%282014%29_-_01.JPG/1920px-Seattle-Tacoma_International_Airport%2C_Washington_%282014%29_-_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/9/97/Dearborn_Hills_Golf_Course_clubhouse_Michigan.JPG",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Policia_portuaria%2C_Kiel%2C_Alemania%2C_2019-08-30%2C_DD_18.jpg/1920px-Policia_portuaria%2C_Kiel%2C_Alemania%2C_2019-08-30%2C_DD_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Policia_portuaria%2C_Kiel%2C_Alemania%2C_2019-08-30%2C_DD_18.jpg/1920px-Policia_portuaria%2C_Kiel%2C_Alemania%2C_2019-08-30%2C_DD_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Moscow_Tverskaya_Zastava_Square_2023-06-11_4579.jpg/1920px-Moscow_Tverskaya_Zastava_Square_2023-06-11_4579.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "cindy holscher": {
@@ -17658,6 +17723,41 @@
     "s": 0,
     "w": "police officer in uniform",
     "p": "wrong location, person not related to German bomb threats"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/7m_Andrew_Satellite_Dish.jpg/1920px-7m_Andrew_Satellite_Dish.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|6fd69791": {
+    "s": 3,
+    "w": "satellite dish antenna",
+    "p": "shows a ground-based satellite dish rather than an orbital satellite"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Turbine_near_the_G%C3%B6sgen_Nuclear_Power_Plant%2C_D%C3%A4niken%2C_Solothurn.jpg/1920px-Turbine_near_the_G%C3%B6sgen_Nuclear_Power_Plant%2C_D%C3%A4niken%2C_Solothurn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|6fd69791": {
+    "s": 0,
+    "w": "turbine rotor on display",
+    "p": "Photo shows a turbine rotor, not a satellite or nuclear weapon."
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Moscow._View_of_the_Tsvetkov_Mansion_and_the_South_Ossetian_Embassy_from_the_Patriarch%27s_Bridge.jpg/1920px-Moscow._View_of_the_Tsvetkov_Mansion_and_the_South_Ossetian_Embassy_from_the_Patriarch%27s_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|6fd69791": {
+    "s": 0,
+    "w": "Moscow street and buildings",
+    "p": "photo does not show an embassy or the satellite story"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Moscow_skyline_%288706053157%29.jpg/1920px-Moscow_skyline_%288706053157%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|6fd69791": {
+    "s": 3,
+    "w": "Moscow skyline with Ministry of Foreign ",
+    "p": "city skyline instead of the specific satellite action"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Moscow_-_March_2026_-_View_of_the_city_center_from_the_Andreyevsky_Bridge2.jpg/1920px-Moscow_-_March_2026_-_View_of_the_city_center_from_the_Andreyevsky_Bridge2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|6fd69791": {
+    "s": 3,
+    "w": "Moscow river and embankment",
+    "p": "shows a general city view instead of the story's main action (satellite launch p"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Leskova_Street_%28Moscow%2C_Russia%29_on_2021_March_20_%280064%29.jpg/1920px-Leskova_Street_%28Moscow%2C_Russia%29_on_2021_March_20_%280064%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|6fd69791": {
+    "s": 2,
+    "w": "Moscow street and billboard",
+    "p": "photo lacks satellite or nuclear weapon action"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Moscow_Tverskaya_Zastava_Square_2023-06-11_4579.jpg/1920px-Moscow_Tverskaya_Zastava_Square_2023-06-11_4579.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|6fd69791": {
+    "s": 5,
+    "w": "Moscow city street",
+    "p": "shows Moscow street, not space or satellite"
    }
   }
  },
@@ -17669,10 +17769,10 @@
   "2026-11-20": 30,
   "2026-11-21": 17,
   "2026-11-22": 11,
-  "2026-11-23": 6
+  "2026-11-23": 7
  },
- "last_auto_at": "2026-11-23T11:16:16.373002+00:00",
- "last_post_at": "2026-11-23T11:16:21.208495+00:00",
+ "last_auto_at": "2026-11-23T11:34:23.584633+00:00",
+ "last_post_at": "2026-11-23T11:34:28.210009+00:00",
  "reels_count": {
   "2026-11-16": 10,
   "2026-11-17": 3,
