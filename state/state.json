@@ -8099,8 +8099,6 @@
   }
  },
  "seen_links": [
-  "https://abcnews.com/International/wireStory/russia-targets-emergency-crews-site-deadly-strike-southern-137951536",
-  "https://kyivindependent.com/russian-attacks-kill-5-injure-10-in-ukraine-over-the-past-day-striking-zaporizhzhia-oblast-over-700-times/",
   "https://www.washingtonpost.com/national-security/2026/11/08/after-midterms-justice-dept-braces-barrage-congressional-scrutiny/",
   "https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss",
   "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve",
@@ -10098,31 +10096,11 @@
   "https://www.axios.com/2026/11/23/jensen-huang-nvidia-congress-dc-reaction",
   "https://thehill.com/homenews/house/6237899-huang-testifies-capitol-hill-december/",
   "https://www.upi.com/Top_News/World-News/2026/11/23/tajikistan-icc-withdrawal/8371795453557/",
-  "https://www.independent.co.uk/news/world/icc-tajikistan-us-international-criminal-court-b3090095.html"
+  "https://www.independent.co.uk/news/world/icc-tajikistan-us-international-criminal-court-b3090095.html",
+  "https://kyivindependent.com/vodafone-ukraine-to-use-us-financing-for-early-repayment-of-international-bonds/",
+  "https://www.independent.co.uk/news/world/europe/estonia-russia-ukraine-airspace-border-b3090020.html"
  ],
  "recent_topics": [
-  [
-   "2026-11-20T19:48:20.291900+00:00",
-   [
-    "can",
-    "colleg",
-    "credit",
-    "deal",
-    "democrat",
-    "door",
-    "film",
-    "healthcar",
-    "hollywood",
-    "immigration",
-    "open",
-    "sport",
-    "tax",
-    "think",
-    "trump",
-    "work"
-   ],
-   "0bfb729c70"
-  ],
   [
    "2026-11-20T20:02:01.217187+00:00",
    [
@@ -11843,17 +11821,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-23T19:21:09.078771+00:00",
+ "last_draft_at": "2026-11-23T19:41:02.834515+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T19:10:02.278131+00:00",
  "run_log": [
-  "11-23 16:57:08 listening done",
-  "11-23 16:57:08 run end after 687 s",
-  "11-23 17:00:54 run start",
-  "11-23 17:01:48 listening 11 min",
   "11-23 17:12:42 listening done",
   "11-23 17:12:42 run end after 707 s",
   "11-23 17:15:36 run start",
@@ -11889,7 +11863,11 @@
   "11-23 19:21:08 run start",
   "11-23 19:22:12 listening 10 min",
   "11-23 19:32:40 listening done",
-  "11-23 19:32:40 run end after 692 s"
+  "11-23 19:32:40 run end after 692 s",
+  "11-23 19:41:02 run start",
+  "11-23 19:41:25 listening 11 min",
+  "11-23 19:52:45 listening done",
+  "11-23 19:52:45 run end after 703 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
