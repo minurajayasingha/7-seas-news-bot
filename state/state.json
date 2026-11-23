@@ -8390,8 +8390,6 @@
   }
  },
  "seen_links": [
-  "https://www.cbsnews.com/news/trump-offers-white-house-press-secretary-role-dana-white/",
-  "https://www.newsweek.com/krakow-shooting-suspect-what-we-know-as-more-victims-discovered-12683092",
   "https://www.independent.co.uk/news/world/europe/krakow-shooting-poland-suspect-new-identity-b3081096.html",
   "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
   "https://www.independent.co.uk/news/world/europe/krakow-shooting-poland-live-updates-main-square-b3081004.html",
@@ -10389,69 +10387,11 @@
   "https://abcnews.com/International/wireStory/bukele-reveals-circumstances-3-salvadoran-soldiers-died-fighting-138378203",
   "https://www.upi.com/Top_News/World-News/2026/11/23/latam-elsalvador-haiti-soldiers-fund/7321795442497/",
   "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
-  "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html"
+  "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
+  "https://thehill.com/policy/sports-gaming/6237516-us-fifa-womens-world-cup-host-2031/",
+  "https://www.cbsnews.com/news/us-host-2031-fifa-women-world-cup-announcement/"
  ],
  "recent_topics": [
-  [
-   "2026-11-20T17:38:56.818208+00:00",
-   [
-    "aim",
-    "ammunition",
-    "army",
-    "azid",
-    "block",
-    "delay",
-    "dem",
-    "detonation",
-    "environmental",
-    "fund",
-    "group",
-    "iowa",
-    "iran",
-    "lead",
-    "plant",
-    "sue",
-    "war"
-   ],
-   "skipped"
-  ],
-  [
-   "2026-11-20T17:39:47.193182+00:00",
-   [
-    "airport",
-    "arch",
-    "block",
-    "concern",
-    "construction",
-    "donald",
-    "job",
-    "judg",
-    "propos",
-    "rush",
-    "safety",
-    "triumphal",
-    "trump"
-   ],
-   "da2d74bebf"
-  ],
-  [
-   "2026-11-20T17:39:56.056671+00:00",
-   [
-    "coda",
-    "film",
-    "giv",
-    "insid",
-    "lady",
-    "marriag",
-    "melania",
-    "motherhood",
-    "peek",
-    "sery",
-    "takeaway",
-    "trump"
-   ],
-   "skipped"
-  ],
   [
    "2026-11-20T18:09:01.342874+00:00",
    [
@@ -12284,17 +12224,13 @@
    "3ed909c38e"
   ]
  ],
- "last_draft_at": "2026-11-23T17:15:36.950235+00:00",
+ "last_draft_at": "2026-11-23T17:30:45.600507+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T17:00:55.899865+00:00",
  "run_log": [
-  "11-23 15:01:37 run start",
-  "11-23 15:02:21 listening 11 min",
-  "11-23 15:13:15 listening done",
-  "11-23 15:13:15 run end after 698 s",
   "11-23 15:16:30 run start",
   "11-23 15:17:01 listening 11 min",
   "11-23 15:28:20 listening done",
@@ -12330,7 +12266,11 @@
   "11-23 17:15:36 run start",
   "11-23 17:17:34 listening 10 min",
   "11-23 17:27:12 listening done",
-  "11-23 17:27:12 run end after 695 s"
+  "11-23 17:27:12 run end after 695 s",
+  "11-23 17:30:45 run start",
+  "11-23 17:31:10 listening 11 min",
+  "11-23 17:42:29 listening done",
+  "11-23 17:42:29 run end after 704 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
