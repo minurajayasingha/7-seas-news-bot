@@ -8087,8 +8087,6 @@
   }
  },
  "seen_links": [
-  "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss",
-  "https://www.euronews.com/2026/11/08/at-least-21-dead-after-migrant-boat-capsizes-off-senegal-authorities-say",
   "https://abcnews.com/Politics/wireStory/voters-demanded-economic-relief-trump-democrats-face-tough-137952337",
   "https://www.npr.org/2026/11/08/nx-s1-6032829/gen-z-voters-midterm-elections",
   "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says",
@@ -10086,7 +10084,9 @@
   "https://www.upi.com/Top_News/US/2026/11/23/two-killed-in-columbus-crash/7141795463217/",
   "https://www.independent.co.uk/news/world/americas/ohio-columbus-b3090180.html",
   "https://www.newsweek.com/gavin-newsom-trump-california-death-row-commutations-12759172",
-  "https://www.washingtonpost.com/politics/2026/11/23/trump-use-doj-speech-attack-newsom-potential-2028-contender/"
+  "https://www.washingtonpost.com/politics/2026/11/23/trump-use-doj-speech-attack-newsom-potential-2028-contender/",
+  "https://www.theguardian.com/world/2026/nov/23/iranian-singer-lashes-performing-without-hijab",
+  "https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -11775,19 +11775,40 @@
     "use"
    ],
    "db655a33fb"
+  ],
+  [
+   "2026-11-23T21:21:50.116360+00:00",
+   [
+    "ahmadi",
+    "authority",
+    "carry",
+    "flog",
+    "flogg",
+    "four",
+    "headscarf",
+    "hijab",
+    "iran",
+    "iranian",
+    "lash",
+    "lawyer",
+    "other",
+    "parastoo",
+    "perform",
+    "performanc",
+    "receiv",
+    "singer",
+    "without"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-23T21:10:20.062543+00:00",
+ "last_draft_at": "2026-11-23T21:21:39.967720+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T21:10:04.036993+00:00",
  "run_log": [
-  "11-23 18:34:31 run start",
-  "11-23 18:34:54 listening 11 min",
-  "11-23 18:46:14 listening done",
-  "11-23 18:46:14 run end after 702 s",
   "11-23 18:46:53 run start",
   "11-23 18:47:02 listening 11 min",
   "11-23 18:58:23 listening done",
@@ -11823,7 +11844,11 @@
   "11-23 20:57:21 listening done",
   "11-23 20:57:21 run end after 697 s",
   "11-23 21:10:03 run start",
-  "11-23 21:11:06 listening 10 min"
+  "11-23 21:11:06 listening 10 min",
+  "11-23 21:21:39 run start",
+  "11-23 21:21:50 listening 11 min",
+  "11-23 21:33:09 listening done",
+  "11-23 21:33:09 run end after 689 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
