@@ -1,99 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "4607bb64dc": {
-   "id": "4607bb64dc",
-   "headline": "Wetstone US Ventures acquires two ocean leases off American Samoa",
-   "summary": "Wetstone US Ventures paid six million dollars to lease thirty-one point five million acres of the Pacific Ocean. A company spokesperson stated that the firm secured the rights following a push by the Trump administration.",
-   "label": "ECONOMY",
-   "hook": "Should commercial deep sea mining be allowed in the Pacific Ocean?",
-   "key_points": [
-    "The auction took place over federal judge objections",
-    "The leases are for mapping and preparation"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#AmericanSamoa",
-    "#DeepSeaMining",
-    "#Environment"
-   ],
-   "sources": [
-    "New York Times",
-    "The Hill"
-   ],
-   "link": "https://thehill.com/policy/energy-environment/6231809-oooffshore-mining-american-samoa-mma-trump/",
-   "links": [
-    [
-     "The Hill",
-     "https://thehill.com/policy/energy-environment/6231809-oooffshore-mining-american-samoa-mma-trump/"
-    ],
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/19/climate/metals-company-seafloor-mining-auction.html"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/2024-09-11_01_RA-4D_-_IMO_8835619_%E2%80%93_Port_Angeles_WA_USA.jpg/1920px-2024-09-11_01_RA-4D_-_IMO_8835619_%E2%80%93_Port_Angeles_WA_USA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gordon Leggett / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 8,
-      "shows": "ocean research vessel"
-     }
-    ],
-    "file_photo": true
-   },
-   "img_post": {
-    "headline": "Wetstone US Ventures acquires two ocean leases off American Samoa",
-    "people": [],
-    "image_query": "American Samoa coastline",
-    "image_queries": [
-     "Pacific Ocean water",
-     "ocean mapping vessel",
-     "deep sea exploration",
-     "marine research ship"
-    ],
-    "image_style": "scene",
-    "location": "American Samoa",
-    "nearby_city": "Pago Pago, American Samoa",
-    "event_query": "Pacific ocean seabed lease auction",
-    "topic_photo": "cargo ship",
-    "label": "ECONOMY",
-    "action_subject": "ocean research vessel",
-    "news_time": "2026-11-19T21:05:59+00:00"
-   },
-   "created_at": "2026-11-19T22:31:43.103493+00:00",
-   "news_time": "2026-11-19T21:05:59+00:00",
-   "news_latest": "2026-11-19T22:25:59+00:00",
-   "importance": 6,
-   "caption": "Wetstone US Ventures acquires two ocean leases off American Samoa\n\nWetstone US Ventures paid six million dollars to lease thirty-one point five million acres of the Pacific Ocean. A company spokesperson stated that the firm secured the rights following a push by the Trump administration.\n\n💬 Should commercial deep sea mining be allowed in the Pacific Ocean?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#AmericanSamoa #DeepSeaMining #Environment #7SeasNews",
-   "photo_line": "📷 8/10 ocean research vessel · FILE PHOTO",
-   "status": "posted",
-   "tg_message_id": 840,
-   "tg_file_id": "AgACAgUAAxkDAAIDSGr_eNEDBWOOaeKWN243OSneBBJuAALlFGsb3mn4V_XGPvrF0uTBAQADAgADdwADPQQ",
-   "queued_at": "2026-11-19T22:31:45.360745+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-19T22:31:45.360782+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122106835971548584",
-   "posted_at": "2026-11-19T22:31:45.659826+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 19 · 5:31 PM New York · 4:01 AM Sri Lanka\n\n<b>Wetstone US Ventures acquires two ocean leases off American Samoa</b>\n<i>New York Times, The Hill</i>\n🟢 <b>Latest:</b> 3:55 AM Sri Lanka (5 min ago) · first reported 2:35 AM\n📷 8/10 ocean research vessel · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122106835971548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 548,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122106835971548584_1000795879189102",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-22T22:12:41.278868+00:00"
-  },
   "8a3271186d": {
    "id": "8a3271186d",
    "headline": "Haitian security forces kill 34 suspected gang members in raid",
@@ -7693,14 +7600,101 @@
     "shares": 0
    },
    "stats_at": "2026-11-23T22:15:56.118605+00:00"
+  },
+  "f1f7ae156b": {
+   "id": "f1f7ae156b",
+   "headline": "US adds Singaporean firm Megaspeed to trade blacklist",
+   "summary": "The Trump administration added Megaspeed to its trade blacklist, restricting the firm from buying advanced semiconductor chips. The decision followed reports linking the Singaporean company to a scandal surrounding Nvidia.",
+   "label": "ECONOMY",
+   "hook": "Should the US government restrict advanced semiconductor exports to firms linked to China?",
+   "key_points": [
+    "Officials sparred for weeks over the blacklist decision",
+    "Megaspeed is accused of funneling AI chips to China",
+    "A former executive had an affair with Nvidia CEO Jensen Huang"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Semiconductors",
+    "#Trade"
+   ],
+   "sources": [
+    "BBC",
+    "CBS News",
+    "New York Times"
+   ],
+   "link": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+   "links": [
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/news/megaspeed-trade-blacklist-nvidia-jensen-huang/"
+    ],
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "AgnosticPreachersKid / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 7,
+      "shows": "Federal Reserve building in Washington"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "US adds Singaporean firm Megaspeed to trade blacklist",
+    "people": [],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "White House",
+     "Department of Commerce",
+     "microchip manufacturing",
+     "trading floor"
+    ],
+    "image_style": "scene",
+    "location": "Washington, United States",
+    "nearby_city": "Washington, D.C.",
+    "event_query": "",
+    "topic_photo": "computer microchips",
+    "label": "ECONOMY",
+    "action_subject": "microchips",
+    "news_time": "2026-11-23T22:15:26+00:00"
+   },
+   "created_at": "2026-11-23T22:33:07.028270+00:00",
+   "news_time": "2026-11-23T22:15:26+00:00",
+   "news_latest": "2026-11-23T22:18:30+00:00",
+   "importance": 7,
+   "caption": "US adds Singaporean firm Megaspeed to trade blacklist\n\nThe Trump administration added Megaspeed to its trade blacklist, restricting the firm from buying advanced semiconductor chips. The decision followed reports linking the Singaporean company to a scandal surrounding Nvidia.\n\n💬 Should the US government restrict advanced semiconductor exports to firms linked to China?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Semiconductors #Trade #7SeasNews",
+   "photo_line": "📷 7/10 Federal Reserve building in Washington",
+   "status": "posted",
+   "tg_message_id": 941,
+   "tg_file_id": "AgACAgUAAxkDAAIDrWsEvyVkA23ZxheU_3fvHZcO3FS_AAK-EmsbSgcpVKvlHyFnRLckAQADAgADdwADPQQ",
+   "queued_at": "2026-11-23T22:33:09.418232+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-23T22:33:09.418250+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122110615605548584",
+   "posted_at": "2026-11-23T22:33:23.193008+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 23 · 5:33 PM New York · 4:03 AM Sri Lanka\n\n<b>US adds Singaporean firm Megaspeed to trade blacklist</b>\n<i>BBC, CBS News, New York Times</i>\n🟢 <b>Latest:</b> 3:48 AM Sri Lanka (14 min ago) · first reported 3:45 AM\n📷 7/10 Federal Reserve building in Washington\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122110615605548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 648,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122110615605548584_3557578151078199"
   }
  },
  "seen_links": [
-  "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
-  "https://www.foxnews.com/politics/joe-biden-says-cancer-slowed-him-down-limiting-memoir-promotion-tour",
-  "https://www.washingtonpost.com/politics/2026/11/08/biden-says-cancer-fight-means-he-will-scale-back-book-promotion-tour/",
-  "https://kyivindependent.com/power-to-zaporizhzhia-nuclear-power-plant-cut-restored-iaea-says/",
-  "https://thehill.com/policy/international/6206805-ukraine-nuclear-safety-threatened/",
   "https://www.bbc.co.uk/news/articles/cmg476w7wnl2o?at_medium=RSS&at_campaign=rss",
   "https://www.newsweek.com/trump-mass-deportation-policy-too-tough-hurt-midterm-result-12685010",
   "https://thehill.com/homenews/6207170-trump-immigration-policy-midterm-losses/",
@@ -9695,25 +9689,14 @@
   "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&at_campaign=rss",
   "https://www.foxnews.com/politics/trump-officials-told-not-stab-each-other-amid-demands-nvidia-dispute-put-under-oath-congress",
   "https://www.theguardian.com/world/video/2026/nov/23/trump-impersonator-roasts-mark-carney-at-canadian-press-dinner-video",
-  "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
+  "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+  "https://www.cbsnews.com/news/megaspeed-trade-blacklist-nvidia-jensen-huang/",
+  "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+  "https://thehill.com/regulation/court-battles/6238637-trump-wins-hush-money-appeal/",
+  "https://www.independent.co.uk/news/world/americas/us-politics/trump-hush-money-appeals-court-ruling-b3090241.html"
  ],
  "recent_topics": [
-  [
-   "2026-11-20T22:36:25.586132+00:00",
-   [
-    "500000",
-    "band",
-    "bonu",
-    "corp",
-    "dana",
-    "gift",
-    "honor",
-    "marin",
-    "trump",
-    "whit"
-   ],
-   "skipped"
-  ],
   [
    "2026-11-20T22:49:13.586579+00:00",
    [
@@ -11390,19 +11373,133 @@
     "without"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-23T22:33:09.418076+00:00",
+   [
+    "accus",
+    "add",
+    "administration",
+    "admit",
+    "affair",
+    "age",
+    "air",
+    "american",
+    "analysi",
+    "anger",
+    "asian",
+    "atop",
+    "away",
+    "back",
+    "behind",
+    "big",
+    "biggest",
+    "bipartisan",
+    "blacklist",
+    "bloodi",
+    "board",
+    "boss",
+    "bra",
+    "center",
+    "ceo",
+    "chang",
+    "chief",
+    "climb",
+    "comeback",
+    "communism",
+    "congress",
+    "convinc",
+    "criticism",
+    "damn",
+    "defiant",
+    "democrat",
+    "did",
+    "direct",
+    "dont",
+    "draw",
+    "drop",
+    "economic",
+    "effort",
+    "embrac",
+    "expert",
+    "explain",
+    "fail",
+    "fear",
+    "fir",
+    "firm",
+    "flag",
+    "futur",
+    "get",
+    "got",
+    "help",
+    "history",
+    "huang",
+    "iconic",
+    "impos",
+    "influenc",
+    "intervention",
+    "jensen",
+    "job",
+    "market",
+    "megasp",
+    "mem",
+    "mind",
+    "most",
+    "next",
+    "notic",
+    "nvidia",
+    "offic",
+    "pos",
+    "prob",
+    "prov",
+    "push",
+    "put",
+    "question",
+    "rais",
+    "rally",
+    "re-appoint",
+    "react",
+    "reclaim",
+    "red",
+    "reinstat",
+    "reinstatement",
+    "return",
+    "rol",
+    "sanction",
+    "scandal",
+    "scandal-plagu",
+    "schumer",
+    "security",
+    "sell",
+    "sex",
+    "shar",
+    "singaporean",
+    "skepticism",
+    "socialism",
+    "spy",
+    "still",
+    "stock",
+    "testify",
+    "tie",
+    "too",
+    "trad",
+    "trump",
+    "two-word",
+    "u-turn",
+    "vow",
+    "whether",
+    "zinger"
+   ],
+   "f1f7ae156b"
   ]
  ],
- "last_draft_at": "2026-11-23T22:16:15.251892+00:00",
+ "last_draft_at": "2026-11-23T22:30:50.324600+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T22:15:56.118605+00:00",
  "run_log": [
-  "11-23 20:04:58 listening done",
-  "11-23 20:04:58 run end after 702 s",
-  "11-23 20:05:28 run start",
-  "11-23 20:08:11 listening 9 min",
   "11-23 20:16:59 listening done",
   "11-23 20:16:59 run end after 690 s",
   "11-23 20:17:33 run start",
@@ -11438,12 +11535,15 @@
   "11-23 22:15:55 run start",
   "11-23 22:17:06 listening 10 min",
   "11-23 22:27:36 listening done",
-  "11-23 22:27:36 run end after 701 s"
+  "11-23 22:27:36 run end after 701 s",
+  "11-23 22:30:49 run start",
+  "11-23 22:33:37 listening 9 min",
+  "11-23 22:42:26 listening done",
+  "11-23 22:42:26 run end after 696 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Vilkha_MLRS_missile_launch%2C_2019%2C_01.jpg/1920px-Vilkha_MLRS_missile_launch%2C_2019%2C_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/4/4d/Washington_DC_Skyline.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Peace_Monument_-_Across_from_Palais_des_Nations_-_Geneva_-_Switzerland.jpg/1920px-Peace_Monument_-_Across_from_Palais_des_Nations_-_Geneva_-_Switzerland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Police_of_Mexico%2C_D._F._at_night.jpg/1920px-Police_of_Mexico%2C_D._F._at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -11482,7 +11582,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Clearing_debris_of_a_residential_building_in_Kyiv%2C_2022-04-20_%28962896%29.jpg/1920px-Clearing_debris_of_a_residential_building_in_Kyiv%2C_2022-04-20_%28962896%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Voters_receive_ballots_at_a_polling_station_in_Washington_DC%2C_5_Nov._2024.jpg/1920px-Voters_receive_ballots_at_a_polling_station_in_Washington_DC%2C_5_Nov._2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Example_voting_booth_from_USA_%28Connecticut%29.jpg/1920px-Example_voting_booth_from_USA_%28Connecticut%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/8/8a/Sacramento%2C-California---State-Capitol_%28cropped%29.jpg"
+   "https://upload.wikimedia.org/wikipedia/commons/8/8a/Sacramento%2C-California---State-Capitol_%28cropped%29.jpg",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -14742,7 +14843,6 @@
    }
   },
   "recent_ideas": [
-   "emergency services of that city",
    "absentee ballot",
    "seattle tacoma international airport",
    "golf course clubhouse",
@@ -14753,7 +14853,8 @@
    "voters at polling station",
    "voters at polling station",
    "voting booth",
-   "california state capitol"
+   "california state capitol",
+   "marriner s. eccles federal reserve board building"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -16685,6 +16786,31 @@
     "s": 6,
     "w": "California State Capitol building",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Toad_Identification_%2828927807938%29.jpg/1920px-Toad_Identification_%2828927807938%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|3f24f208": {
+    "s": 0,
+    "w": "people holding a frog and device",
+    "p": "shows biologists with a frog instead of microchips"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/U.S._Service_members_pose_for_a_photo_after_ringing_the_closing_bell_at_the_New_York_Stock_Exchange_in_New_York_May_24%2C_2013_130524-O-ZZ999-002.jpg/1920px-U.S._Service_members_pose_for_a_photo_after_ringing_the_closing_bell_at_the_New_York_Stock_Exchange_in_New_York_May_24%2C_2013_130524-O-ZZ999-002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|3f24f208": {
+    "s": 6,
+    "w": "stock exchange trading floor",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Dock_Cranes_and_Setting_Sun.jpg/1920px-Dock_Cranes_and_Setting_Sun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|3f24f208": {
+    "s": 6,
+    "w": "port cranes at sunset",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/NYSE_Advanced_Trading_Floor.jpg/1920px-NYSE_Advanced_Trading_Floor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|3f24f208": {
+    "s": 0,
+    "w": "blue abstract art installation",
+    "p": "photo is artwork, not a trading floor or microchips"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|3f24f208": {
+    "s": 7,
+    "w": "Federal Reserve building in Washington",
+    "p": ""
    }
   }
  },
@@ -16696,10 +16822,10 @@
   "2026-11-20": 30,
   "2026-11-21": 17,
   "2026-11-22": 11,
-  "2026-11-23": 14
+  "2026-11-23": 15
  },
- "last_auto_at": "2026-11-23T21:10:51.119480+00:00",
- "last_post_at": "2026-11-23T21:10:55.705175+00:00",
+ "last_auto_at": "2026-11-23T22:33:23.193008+00:00",
+ "last_post_at": "2026-11-23T22:33:28.283293+00:00",
  "reels_count": {
   "2026-11-17": 3,
   "2026-11-18": 3,
