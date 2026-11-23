@@ -8390,13 +8390,6 @@
   }
  },
  "seen_links": [
-  "https://www.independent.co.uk/news/world/europe/krakow-shooting-poland-suspect-new-identity-b3081096.html",
-  "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
-  "https://www.independent.co.uk/news/world/europe/krakow-shooting-poland-live-updates-main-square-b3081004.html",
-  "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-  "https://www.independent.co.uk/news/world/europe/krakow-shooting-poland-gunman-news-b3081022.html",
-  "https://www.newsweek.com/krakow-shooting-suspect-what-we-know-as-more-victims-discovered-12683092",
-  "https://www.independent.co.uk/news/world/europe/krakow-shooting-poland-suspect-new-identity-b3081096.html",
   "https://www.euronews.com/2026/11/08/netanyahu-rival-eisenkot-to-be-tasked-with-forming-new-government-following-israeli-electi",
   "https://www.aljazeera.com/news/2026/11/8/the-anti-netanyahu-can-gadi-eisenkot-give-the-world-a-different-israel?traffic_source=rss",
   "https://www.independent.co.uk/news/world/middle-east/israel-election-gadi-eisenkot-netanyahu-b3081156.html",
@@ -10389,7 +10382,14 @@
   "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
   "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
   "https://thehill.com/policy/sports-gaming/6237516-us-fifa-womens-world-cup-host-2031/",
-  "https://www.cbsnews.com/news/us-host-2031-fifa-women-world-cup-announcement/"
+  "https://www.cbsnews.com/news/us-host-2031-fifa-women-world-cup-announcement/",
+  "https://www.independent.co.uk/news/world/americas/us-politics/trump-staffer-smithsonian-plans-dc-metro-b3090126.html",
+  "https://www.washingtonexaminer.com/news/white-house/4812122/trump-staffer-leaks-smithsonian-overhaul-plans-on-metro/",
+  "https://www.axios.com/2026/11/23/schumer-trump-nvidia-huang-reinstated",
+  "https://www.washingtonexaminer.com/news/washington-secrets/4811999/jensen-huang-back-congress-started-nvidia-trump/",
+  "https://thehill.com/regulation/court-battles/6237551-virginia-oregon-lawsuit-spacex-ai/",
+  "https://www.newsweek.com/elon-musks-spacex-sued-over-allegations-grok-made-child-sex-abuse-images-12757615",
+  "https://www.independent.co.uk/news/world/americas/elon-musk-grok-sued-child-sexual-abuse-ai-b3090098.html"
  ],
  "recent_topics": [
   [
@@ -12224,17 +12224,13 @@
    "3ed909c38e"
   ]
  ],
- "last_draft_at": "2026-11-23T17:30:45.600507+00:00",
+ "last_draft_at": "2026-11-23T17:46:00.050995+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T17:00:55.899865+00:00",
  "run_log": [
-  "11-23 15:16:30 run start",
-  "11-23 15:17:01 listening 11 min",
-  "11-23 15:28:20 listening done",
-  "11-23 15:28:20 run end after 709 s",
   "11-23 15:31:25 run start",
   "11-23 15:31:58 listening 11 min",
   "11-23 15:42:52 listening done",
@@ -12270,7 +12266,11 @@
   "11-23 17:30:45 run start",
   "11-23 17:31:10 listening 11 min",
   "11-23 17:42:29 listening done",
-  "11-23 17:42:29 run end after 704 s"
+  "11-23 17:42:29 run end after 704 s",
+  "11-23 17:45:59 run start",
+  "11-23 17:47:10 listening 10 min",
+  "11-23 17:57:40 listening done",
+  "11-23 17:57:40 run end after 701 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
