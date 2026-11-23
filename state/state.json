@@ -1,100 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "dab98dd23c": {
-   "id": "dab98dd23c",
-   "headline": "Skyscraper damaged in Riyadh as Saudi Arabia reports Houthi attacks",
-   "summary": "A skyscraper in the capital of Saudi Arabia sustained damage following reported attacks by Yemen's Houthis. Witnesses stated that the Public Investment Fund Tower suffered damage across multiple floors with blown-out windows.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "Explosions and smoke were reported near the airport.",
-    "Authorities warned of a potential aerial threat.",
-    "The Public Investment Fund Tower showcases economic ambitions."
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#WorldNews",
-    "#SaudiArabia",
-    "#Yemen"
-   ],
-   "sources": [
-    "France 24",
-    "The Independent"
-   ],
-   "link": "https://www.france24.com/en/middle-east/20261119-skyscraper-in-riyadh-damaged-as-saudi-arabia-reports-surge-in-new-houthi-attacks",
-   "links": [
-    [
-     "France 24",
-     "https://www.france24.com/en/middle-east/20261119-skyscraper-in-riyadh-damaged-as-saudi-arabia-reports-surge-in-new-houthi-attacks"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/middle-east/riyadh-explosion-blast-airport-saudi-arabia-houthis-missile-b3087628.html"
-    ]
-   ],
-   "bg": {
-    "type": "map",
-    "photos": [],
-    "location": "Riyadh, Saudi Arabia",
-    "lat": 24.6383,
-    "lon": 46.715,
-    "country": "Saudi Arabia",
-    "state": "",
-    "_loaded": 0
-   },
-   "img_post": {
-    "headline": "Skyscraper damaged in Riyadh as Saudi Arabia reports Houthi attacks",
-    "people": [],
-    "image_query": "Riyadh skyline",
-    "image_queries": [
-     "Public Investment Fund Tower",
-     "Riyadh airport",
-     "Saudi Arabia capital",
-     "Riyadh city"
-    ],
-    "image_style": "incident",
-    "location": "Riyadh, Saudi Arabia",
-    "nearby_city": "Riyadh, Saudi Arabia",
-    "event_query": "Riyadh skyscraper damage",
-    "topic_photo": "skyscraper building",
-    "label": "CONFLICT",
-    "action_subject": "damaged skyscraper",
-    "news_time": "2026-11-19T05:15:24+00:00"
-   },
-   "created_at": "2026-11-19T08:14:10.946540+00:00",
-   "news_time": "2026-11-19T05:15:24+00:00",
-   "news_latest": "2026-11-19T07:58:16+00:00",
-   "importance": 8,
-   "caption": "🚨 BREAKING: Skyscraper damaged in Riyadh as Saudi Arabia reports Houthi attacks\n\nA skyscraper in the capital of Saudi Arabia sustained damage following reported attacks by Yemen's Houthis. Witnesses stated that the Public Investment Fund Tower suffered damage across multiple floors with blown-out windows.\n\nWhat we know so far:\n• Explosions and smoke were reported near the airport.\n• Authorities warned of a potential aerial threat.\n• The Public Investment Fund Tower showcases economic ambitions.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WorldNews #SaudiArabia #Yemen #7SeasNews",
-   "photo_line": "📷 news map (no fitting photo)",
-   "status": "posted",
-   "tg_message_id": 817,
-   "tg_file_id": "AgACAgUAAxkDAAIDMWr-r9W_OBp9wIF48qM9UmHX-4EQAALYFWsb3mnwV0lJ4NlvWaiDAQADAgADdwADPQQ",
-   "queued_at": "2026-11-19T08:14:13.376183+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-19T08:14:13.376216+00:00",
-   "post_label": "🤖 Auto-posting + Reel",
-   "fb_post_id": "1413030521900096_122106081777548584",
-   "posted_at": "2026-11-19T08:14:13.712362+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 19 · 3:14 AM New York · 1:44 PM Sri Lanka\n\n<b>Skyscraper damaged in Riyadh as Saudi Arabia reports Houthi attacks</b>\n<i>France 24, The Independent</i>\n🟢 <b>Latest:</b> 1:28 PM Sri Lanka (16 min ago) · first reported 10:45 AM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122106081777548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 524,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122106081777548584_1678088233724811",
-   "fb_story_id": "1841768707161374",
-   "fb_reel_id": "1186329490388986",
-   "reel_status": "live",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-22T08:00:51.426197+00:00"
-  },
   "5ac6485bd7": {
    "id": "5ac6485bd7",
    "headline": "European leaders meet in Berlin as Ukraine faces financing gap",
@@ -8391,8 +8297,6 @@
   }
  },
  "seen_links": [
-  "https://www.theguardian.com/us-news/2026/nov/07/trump-stephen-miller-midterms",
-  "https://www.npr.org/2026/11/07/nx-s1-6030908/week-in-politics-trump-taps-miller-for-chief-of-staff-doubles-down-on-trumpism",
   "https://abcnews.com/International/wireStory/missiles-target-kyiv-injure-5-ukraine-prepares-talks-137937211",
   "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
   "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
@@ -10390,7 +10294,9 @@
   "https://www.newsweek.com/army-sets-iowa-lead-azide-blast-for-thanksgiving-eve-despite-court-pause-12755210",
   "https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss",
   "https://www.euronews.com/2026/11/23/nine-people-injured-after-gunfire-at-central-california-concert",
-  "https://www.upi.com/Top_News/US/2026/11/22/9-hospitalized-mass-shooting-private-central-Calif-concert/7881795389749/"
+  "https://www.upi.com/Top_News/US/2026/11/22/9-hospitalized-mass-shooting-private-central-Calif-concert/7881795389749/",
+  "https://www.newsweek.com/mark-carney-trump-impersonator-stage-what-he-said-12755274",
+  "https://abcnews.com/International/wireStory/carney-enlists-fake-trump-laughs-canadas-annual-press-138366618"
  ],
  "recent_topics": [
   [
@@ -12526,19 +12432,35 @@
     "shoot"
    ],
    "efcc1598ed"
+  ],
+  [
+   "2026-11-23T08:16:19.863694+00:00",
+   [
+    "annual",
+    "bring",
+    "canada",
+    "carney",
+    "dinner",
+    "enlist",
+    "fak",
+    "gallery",
+    "impersonator",
+    "laugh",
+    "mark",
+    "press",
+    "stag",
+    "trump"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-23T08:00:54.317269+00:00",
+ "last_draft_at": "2026-11-23T08:15:47.081492+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T07:30:38.193853+00:00",
  "run_log": [
-  "11-23 05:45:39 run start",
-  "11-23 05:45:49 listening 11 min",
-  "11-23 05:57:09 listening done",
-  "11-23 05:57:09 run end after 689 s",
   "11-23 06:00:47 run start",
   "11-23 06:00:56 listening 11 min",
   "11-23 06:12:15 listening done",
@@ -12574,7 +12496,11 @@
   "11-23 08:00:53 run start",
   "11-23 08:01:12 listening 11 min",
   "11-23 08:12:31 listening done",
-  "11-23 08:12:31 run end after 698 s"
+  "11-23 08:12:31 run end after 698 s",
+  "11-23 08:15:46 run start",
+  "11-23 08:16:19 listening 11 min",
+  "11-23 08:27:14 listening done",
+  "11-23 08:27:14 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
