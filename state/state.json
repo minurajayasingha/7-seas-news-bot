@@ -7605,8 +7605,6 @@
   }
  },
  "seen_links": [
-  "https://www.upi.com/Top_News/US/2026/11/08/biden-book/2491794188487/",
-  "https://thehill.com/homenews/6207193-trump-blames-zelensky-putin-hatred/",
   "https://www.nytimes.com/2026/11/08/us/politics/trump-iran-options.html",
   "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
   "https://www.aljazeera.com/video/newsfeed/2026/11/9/pope-tells-argentinas-milei-leaders-should-know-limits-of-power?traffic_source=rss",
@@ -9604,7 +9602,9 @@
   "https://www.nbcnews.com/politics/congress/rep-jimmy-gomez-resign-ethics-report-sexual-misconduct-rcna610895",
   "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
   "https://www.theguardian.com/us-news/2026/nov/23/jimmy-gomez-congress-investigation-sexual-misconduct",
-  "https://www.upi.com/Top_News/US/2026/11/23/rep-gomez-resigns-after-ethics-committee-report/1181795469821/"
+  "https://www.upi.com/Top_News/US/2026/11/23/rep-gomez-resigns-after-ethics-committee-report/1181795469821/",
+  "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss",
+  "https://www.foxnews.com/politics/bessent-gave-iran-weeks-before-nothing-left-trade-new-sanctions-expose-what-survived"
  ],
  "recent_topics": [
   [
@@ -11311,17 +11311,13 @@
    "f1f7ae156b"
   ]
  ],
- "last_draft_at": "2026-11-23T22:45:39.777894+00:00",
+ "last_draft_at": "2026-11-23T23:01:00.933124+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T22:15:56.118605+00:00",
  "run_log": [
-  "11-23 20:29:01 listening done",
-  "11-23 20:29:01 run end after 687 s",
-  "11-23 20:30:47 run start",
-  "11-23 20:30:57 listening 11 min",
   "11-23 20:42:15 listening done",
   "11-23 20:42:15 run end after 688 s",
   "11-23 20:45:43 run start",
@@ -11357,7 +11353,11 @@
   "11-23 22:45:39 run start",
   "11-23 22:46:25 listening 11 min",
   "11-23 22:57:19 listening done",
-  "11-23 22:57:19 run end after 700 s"
+  "11-23 22:57:19 run end after 700 s",
+  "11-23 23:01:00 run start",
+  "11-23 23:01:47 listening 11 min",
+  "11-23 23:12:42 listening done",
+  "11-23 23:12:42 run end after 702 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
