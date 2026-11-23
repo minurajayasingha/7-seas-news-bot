@@ -1,96 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "8a3271186d": {
-   "id": "8a3271186d",
-   "headline": "Haitian security forces kill 34 suspected gang members in raid",
-   "summary": "Haitian security forces launched an offensive to retake Martissant, a corridor linking Port-au-Prince with western and southern regions. Police reported that 34 suspected gang members died during the clashes.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "Gangs controlled the Martissant corridor for five years.",
-    "A private security task force was involved in the clashes."
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#Haiti",
-    "#WorldNews",
-    "#Security"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "France 24"
-   ],
-   "link": "https://www.france24.com/en/americas/20261119-major-anti-gang-offensive-in-haiti-kills-34-suspected-gang-members",
-   "links": [
-    [
-     "France 24",
-     "https://www.france24.com/en/americas/20261119-major-anti-gang-offensive-in-haiti-kills-34-suspected-gang-members"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid?traffic_source=rss"
-    ]
-   ],
-   "bg": {
-    "type": "map",
-    "photos": [],
-    "location": "Port-au-Prince, Haiti",
-    "lat": 18.53638889,
-    "lon": -72.34638889,
-    "country": "Haiti",
-    "state": ""
-   },
-   "img_post": {
-    "headline": "Haitian security forces kill 34 suspected gang members in raid",
-    "people": [],
-    "image_query": "Port-au-Prince street",
-    "image_queries": [
-     "Haitian police officers",
-     "Port-au-Prince skyline",
-     "Haiti security forces",
-     "street in Port-au-Prince"
-    ],
-    "image_style": "incident",
-    "location": "Port-au-Prince, Haiti",
-    "nearby_city": "Port-au-Prince, Haiti",
-    "event_query": "Port-au-Prince gang raid",
-    "topic_photo": "police car",
-    "label": "CONFLICT",
-    "action_subject": "police officers at work",
-    "news_time": "2026-11-19T21:39:39+00:00"
-   },
-   "created_at": "2026-11-19T22:50:06.275794+00:00",
-   "news_time": "2026-11-19T21:39:39+00:00",
-   "news_latest": "2026-11-19T22:31:25+00:00",
-   "importance": 7,
-   "caption": "🚨 BREAKING: Haitian security forces kill 34 suspected gang members in raid\n\nHaitian security forces launched an offensive to retake Martissant, a corridor linking Port-au-Prince with western and southern regions. Police reported that 34 suspected gang members died during the clashes.\n\nWhat we know so far:\n• Gangs controlled the Martissant corridor for five years.\n• A private security task force was involved in the clashes.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Haiti #WorldNews #Security #7SeasNews",
-   "photo_line": "📷 news map (no fitting photo)",
-   "status": "posted",
-   "tg_message_id": 841,
-   "tg_file_id": "AgACAgUAAxkDAAIDSWr_fSB7ioPKd67sa5mUcqK0sqQPAALmFGsb3mn4V4qgJJFlbF9HAQADAgADdwADPQQ",
-   "queued_at": "2026-11-19T22:50:08.468204+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-19T22:50:08.468235+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122106846339548584",
-   "posted_at": "2026-11-19T22:50:08.829180+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 19 · 5:50 PM New York · 4:20 AM Sri Lanka\n\n<b>Haitian security forces kill 34 suspected gang members in raid</b>\n<i>Al Jazeera, France 24</i>\n🟢 <b>Latest:</b> 4:01 AM Sri Lanka (19 min ago) · first reported 3:09 AM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122106846339548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 549,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122106846339548584_1801405337618453",
-   "fb_story_id": "1143510834933076",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-22T22:12:41.278868+00:00"
-  },
   "003d5d2199": {
    "id": "003d5d2199",
    "headline": "House Republicans face leadership choices for Oversight Committee",
@@ -7695,10 +7605,6 @@
   }
  },
  "seen_links": [
-  "https://www.bbc.co.uk/news/articles/cmg476w7wnl2o?at_medium=RSS&at_campaign=rss",
-  "https://www.newsweek.com/trump-mass-deportation-policy-too-tough-hurt-midterm-result-12685010",
-  "https://thehill.com/homenews/6207170-trump-immigration-policy-midterm-losses/",
-  "https://www.nytimes.com/2026/11/08/us/politics/biden-cancer-health-memoir.html",
   "https://www.upi.com/Top_News/US/2026/11/08/biden-book/2491794188487/",
   "https://thehill.com/homenews/6207193-trump-blames-zelensky-putin-hatred/",
   "https://www.nytimes.com/2026/11/08/us/politics/trump-iran-options.html",
@@ -9694,101 +9600,13 @@
   "https://www.cbsnews.com/news/megaspeed-trade-blacklist-nvidia-jensen-huang/",
   "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
   "https://thehill.com/regulation/court-battles/6238637-trump-wins-hush-money-appeal/",
-  "https://www.independent.co.uk/news/world/americas/us-politics/trump-hush-money-appeals-court-ruling-b3090241.html"
+  "https://www.independent.co.uk/news/world/americas/us-politics/trump-hush-money-appeals-court-ruling-b3090241.html",
+  "https://www.nbcnews.com/politics/congress/rep-jimmy-gomez-resign-ethics-report-sexual-misconduct-rcna610895",
+  "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
+  "https://www.theguardian.com/us-news/2026/nov/23/jimmy-gomez-congress-investigation-sexual-misconduct",
+  "https://www.upi.com/Top_News/US/2026/11/23/rep-gomez-resigns-after-ethics-committee-report/1181795469821/"
  ],
  "recent_topics": [
-  [
-   "2026-11-20T22:49:13.586579+00:00",
-   [
-    "ask",
-    "back",
-    "becaus",
-    "decision",
-    "declin",
-    "election",
-    "happen",
-    "iran",
-    "lost",
-    "mak",
-    "miller",
-    "president",
-    "run",
-    "stephen",
-    "support",
-    "trump",
-    "ukrain",
-    "vanc",
-    "want",
-    "war",
-    "worth"
-   ],
-   "9cd1260ee6"
-  ],
-  [
-   "2026-11-20T22:49:26.639820+00:00",
-   [
-    "china",
-    "chip",
-    "crackdown",
-    "export",
-    "further",
-    "lawmaker",
-    "need",
-    "nvidia",
-    "push",
-    "restriction",
-    "rul",
-    "secretary",
-    "tougher",
-    "treasury"
-   ],
-   "de9e9b9d72"
-  ],
-  [
-   "2026-11-20T22:49:28.481161+00:00",
-   [
-    "call",
-    "court",
-    "desanti",
-    "down",
-    "justic",
-    "plant",
-    "pott",
-    "prospect",
-    "shoot",
-    "sitt",
-    "suprem"
-   ],
-   "skipped"
-  ],
-  [
-   "2026-11-20T22:50:03.500518+00:00",
-   [
-    "arrest",
-    "assault",
-    "beat",
-    "black",
-    "conviction",
-    "found",
-    "french",
-    "guilty",
-    "indecent",
-    "man",
-    "michel",
-    "miss",
-    "music",
-    "officer",
-    "pari",
-    "polic",
-    "prison",
-    "producer",
-    "racist",
-    "sentenc",
-    "teacher",
-    "zecler"
-   ],
-   "f926c87686"
-  ],
   [
    "2026-11-21T00:31:08.466385+00:00",
    [
@@ -11493,17 +11311,13 @@
    "f1f7ae156b"
   ]
  ],
- "last_draft_at": "2026-11-23T22:30:50.324600+00:00",
+ "last_draft_at": "2026-11-23T22:45:39.777894+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T22:15:56.118605+00:00",
  "run_log": [
-  "11-23 20:16:59 listening done",
-  "11-23 20:16:59 run end after 690 s",
-  "11-23 20:17:33 run start",
-  "11-23 20:18:07 listening 11 min",
   "11-23 20:29:01 listening done",
   "11-23 20:29:01 run end after 687 s",
   "11-23 20:30:47 run start",
@@ -11539,7 +11353,11 @@
   "11-23 22:30:49 run start",
   "11-23 22:33:37 listening 9 min",
   "11-23 22:42:26 listening done",
-  "11-23 22:42:26 run end after 696 s"
+  "11-23 22:42:26 run end after 696 s",
+  "11-23 22:45:39 run start",
+  "11-23 22:46:25 listening 11 min",
+  "11-23 22:57:19 listening done",
+  "11-23 22:57:19 run end after 700 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
