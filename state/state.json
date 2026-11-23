@@ -9995,29 +9995,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-20T20:31:27.892321+00:00",
-   [
-    "anthropic",
-    "blockbuster",
-    "continu",
-    "fall",
-    "ipo",
-    "market",
-    "mega",
-    "open",
-    "reel",
-    "second",
-    "sell-off",
-    "shar",
-    "slump",
-    "tech",
-    "trad",
-    "tumbl",
-    "wider"
-   ],
-   "7abcb9e67a"
-  ],
-  [
    "2026-11-20T20:45:49.152296+00:00",
    [
     "acknowledg",
@@ -11735,17 +11712,13 @@
    "5543313b9a"
   ]
  ],
- "last_draft_at": "2026-11-23T20:17:34.333776+00:00",
+ "last_draft_at": "2026-11-23T20:30:47.769051+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T20:05:28.951814+00:00",
  "run_log": [
-  "11-23 17:57:40 listening done",
-  "11-23 17:57:40 run end after 701 s",
-  "11-23 18:03:25 run start",
-  "11-23 18:04:00 listening 11 min",
   "11-23 18:14:53 listening done",
   "11-23 18:14:53 run end after 687 s",
   "11-23 18:15:39 run start",
@@ -11781,7 +11754,11 @@
   "11-23 20:17:33 run start",
   "11-23 20:18:07 listening 11 min",
   "11-23 20:29:01 listening done",
-  "11-23 20:29:01 run end after 687 s"
+  "11-23 20:29:01 run end after 687 s",
+  "11-23 20:30:47 run start",
+  "11-23 20:30:57 listening 11 min",
+  "11-23 20:42:15 listening done",
+  "11-23 20:42:15 run end after 688 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
