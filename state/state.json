@@ -1,99 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "25be5e34a5": {
-   "id": "25be5e34a5",
-   "headline": "Anthropic reaches one point five trillion dollar valuation in Nasdaq debut",
-   "summary": "Anthropic made its Nasdaq debut with a record-breaking IPO valuing the company at $1.5 trillion. Outside the New York exchange, police detained three protesters warning of financial risks regarding an AI bubble.",
-   "label": "ECONOMY",
-   "hook": "",
-   "key_points": [
-    "Anthropic shares began trading on the Nasdaq.",
-    "Three protesters were detained outside the New York exchange."
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#Anthropic",
-    "#Nasdaq",
-    "#Economy"
-   ],
-   "sources": [
-    "Euronews",
-    "NBC News"
-   ],
-   "link": "https://www.nbcnews.com/video/markets-react-to-anthropic-s-ipo-273822277818",
-   "links": [
-    [
-     "NBC News",
-     "https://www.nbcnews.com/video/markets-react-to-anthropic-s-ipo-273822277818"
-    ],
-    [
-     "Euronews",
-     "https://www.euronews.com/video/2026/11/19/us-protesters-warn-of-ai-bubble-as-anthropic-makes-stock-market-history"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Wall_Street_-_New_York_Stock_Exchange.jpg/1920px-Wall_Street_-_New_York_Stock_Exchange.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Carlos Delgado / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 7,
-      "shows": "Wall Street building in New York"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Anthropic reaches one point five trillion dollar valuation in Nasdaq debut",
-    "people": [],
-    "image_query": "New York Stock Exchange",
-    "image_queries": [
-     "Nasdaq building",
-     "Wall Street New York",
-     "Stock market board",
-     "Financial district protesters"
-    ],
-    "image_style": "scene",
-    "location": "New York, US",
-    "nearby_city": "New York, New York",
-    "event_query": "Anthropic Nasdaq IPO",
-    "topic_photo": "stock market board",
-    "label": "ECONOMY",
-    "action_subject": "protest crowd with signs",
-    "news_time": "2026-11-19T17:32:29+00:00"
-   },
-   "created_at": "2026-11-19T18:16:44.263829+00:00",
-   "news_time": "2026-11-19T17:32:29+00:00",
-   "news_latest": "2026-11-19T17:50:54+00:00",
-   "importance": 7,
-   "caption": "🚨 BREAKING: Anthropic reaches one point five trillion dollar valuation in Nasdaq debut\n\nAnthropic made its Nasdaq debut with a record-breaking IPO valuing the company at $1.5 trillion. Outside the New York exchange, police detained three protesters warning of financial risks regarding an AI bubble.\n\nWhat we know so far:\n• Anthropic shares began trading on the Nasdaq.\n• Three protesters were detained outside the New York exchange.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Anthropic #Nasdaq #Economy #7SeasNews",
-   "photo_line": "📷 7/10 Wall Street building in New York",
-   "status": "posted",
-   "tg_message_id": 831,
-   "tg_file_id": "AgACAgUAAxkDAAIDP2r_PRVfunIKR7xV3iALdBlvMcizAAKtFGsb3mn4V5n450_5YCgvAQADAgADdwADPQQ",
-   "queued_at": "2026-11-19T18:16:54.030654+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-19T18:16:54.030699+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122106553035548584",
-   "posted_at": "2026-11-19T18:16:54.327176+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 19 · 1:16 PM New York · 11:46 PM Sri Lanka\n\n<b>Anthropic reaches one point five trillion dollar valuation in Nasdaq debut</b>\n<i>Euronews, NBC News</i>\n🟢 <b>Latest:</b> 11:20 PM Sri Lanka (26 min ago) · first reported 11:02 PM\n📷 7/10 Wall Street building in New York\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122106553035548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 539,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122106553035548584_1082572404824166",
-   "fb_story_id": "2432153150868937",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-22T18:15:50.009860+00:00"
-  },
   "7ab40838ae": {
    "id": "7ab40838ae",
    "headline": "Trump states Iran may be working on weapons",
@@ -12209,17 +12116,13 @@
    "3ed909c38e"
   ]
  ],
- "last_draft_at": "2026-11-23T18:03:43.499388+00:00",
+ "last_draft_at": "2026-11-23T18:15:40.235532+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T18:03:26.161475+00:00",
  "run_log": [
-  "11-23 15:47:19 run start",
-  "11-23 15:47:29 listening 11 min",
-  "11-23 15:58:48 listening done",
-  "11-23 15:58:48 run end after 688 s",
   "11-23 16:01:44 run start",
   "11-23 16:02:48 listening 10 min",
   "11-23 16:13:16 listening done",
@@ -12255,7 +12158,11 @@
   "11-23 18:03:25 run start",
   "11-23 18:04:00 listening 11 min",
   "11-23 18:14:53 listening done",
-  "11-23 18:14:53 run end after 687 s"
+  "11-23 18:14:53 run end after 687 s",
+  "11-23 18:15:39 run start",
+  "11-23 18:15:49 listening 11 min",
+  "11-23 18:27:09 listening done",
+  "11-23 18:27:09 run end after 689 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
