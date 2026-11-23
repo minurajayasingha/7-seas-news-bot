@@ -1,101 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "a5d8540347": {
-   "id": "a5d8540347",
-   "headline": "Law firm does free work for Trump administration",
-   "summary": "According to reports, the firm Kirkland & Ellis disclosed that it completed about 6,491 hours of free work for the Trump administration as part of a deal. Meanwhile, a separate Trump administration proposal regarding SNAP automatic enrollment could affect benefits for families and children.",
-   "label": "US POLITICS",
-   "hook": "Should major law firms provide free work to government administrations?",
-   "key_points": [
-    "Kirkland & Ellis completed about 6,491 hours of free work.",
-    "The free work was part of a deal reached with the administration.",
-    "A Trump administration proposal could impact automatic SNAP enrollment."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#TrumpAdministration",
-    "#LegalNews"
-   ],
-   "sources": [
-    "New York Times",
-    "Washington Post"
-   ],
-   "link": "https://www.washingtonpost.com/nation/2026/11/19/new-proposed-change-snap-threatens-free-school-meals-17-million-children/",
-   "links": [
-    [
-     "Washington Post",
-     "https://www.washingtonpost.com/nation/2026/11/19/new-proposed-change-snap-threatens-free-school-meals-17-million-children/"
-    ],
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/19/us/politics/kirkland-ellis-law-firm-trump.html"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Shealeah Craighead / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 10,
-      "shows": "Donald Trump smiling"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Law firm does free work for Trump administration",
-    "people": [
-     "Donald Trump"
-    ],
-    "image_query": "White House",
-    "image_queries": [
-     "law firm office building",
-     "US Capitol building",
-     "Supreme Court building",
-     "government office building"
-    ],
-    "image_style": "person",
-    "location": "Washington, US",
-    "nearby_city": "Washington, D.C.",
-    "event_query": "",
-    "topic_photo": "judge gavel",
-    "label": "US POLITICS",
-    "action_subject": "lawyers in office",
-    "news_time": "2026-11-19T14:38:55+00:00"
-   },
-   "created_at": "2026-11-19T16:33:15.082487+00:00",
-   "news_time": "2026-11-19T14:38:55+00:00",
-   "news_latest": "2026-11-19T16:17:21+00:00",
-   "importance": 6,
-   "caption": "Law firm does free work for Trump administration\n\nAccording to reports, the firm Kirkland & Ellis disclosed that it completed about 6,491 hours of free work for the Trump administration as part of a deal. Meanwhile, a separate Trump administration proposal regarding SNAP automatic enrollment could affect benefits for families and children.\n\n💬 Should major law firms provide free work to government administrations?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #TrumpAdministration #LegalNews #7SeasNews",
-   "photo_line": "📷 10/10 Donald Trump smiling",
-   "status": "posted",
-   "tg_message_id": 829,
-   "tg_file_id": "AgACAgUAAxkDAAIDPWr_JM2IpXuAJ4aUWvPLK4Ia88mKAAKXFGsb3mn4V93K_PbTyFC_AQADAgADdwADPQQ",
-   "queued_at": "2026-11-19T16:33:18.266538+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-19T16:33:18.266563+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122106476517548584",
-   "posted_at": "2026-11-19T16:33:18.638319+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 19 · 11:33 AM New York · 10:03 PM Sri Lanka\n\n<b>Law firm does free work for Trump administration</b>\n<i>New York Times, Washington Post</i>\n🟢 <b>Latest:</b> 9:47 PM Sri Lanka (16 min ago) · first reported 8:08 PM\n📷 10/10 Donald Trump smiling\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122106476517548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 537,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122106476517548584_1139575848620592",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-22T16:15:31.605336+00:00"
-  },
   "25be5e34a5": {
    "id": "25be5e34a5",
    "headline": "Anthropic reaches one point five trillion dollar valuation in Nasdaq debut",
@@ -12419,17 +12324,13 @@
    "3ed909c38e"
   ]
  ],
- "last_draft_at": "2026-11-23T16:16:04.232530+00:00",
+ "last_draft_at": "2026-11-23T16:30:51.423908+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T16:01:44.583336+00:00",
  "run_log": [
-  "11-23 14:01:13 run start",
-  "11-23 14:02:10 listening 11 min",
-  "11-23 14:12:39 listening done",
-  "11-23 14:12:39 run end after 685 s",
   "11-23 14:15:39 run start",
   "11-23 14:17:29 listening 10 min",
   "11-23 14:27:08 listening done",
@@ -12465,7 +12366,11 @@
   "11-23 16:16:03 run start",
   "11-23 16:17:16 listening 10 min",
   "11-23 16:27:49 listening done",
-  "11-23 16:27:49 run end after 705 s"
+  "11-23 16:27:49 run end after 705 s",
+  "11-23 16:30:51 run start",
+  "11-23 16:31:23 listening 11 min",
+  "11-23 16:42:17 listening done",
+  "11-23 16:42:17 run end after 686 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
