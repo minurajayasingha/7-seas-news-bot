@@ -12643,17 +12643,13 @@
    "72bdf50f2a"
   ]
  ],
- "last_draft_at": "2026-11-23T04:45:36.602201+00:00",
+ "last_draft_at": "2026-11-23T05:00:46.433056+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T04:30:52.557201+00:00",
  "run_log": [
-  "11-23 02:45:34 run start",
-  "11-23 02:45:44 listening 11 min",
-  "11-23 02:57:02 listening done",
-  "11-23 02:57:02 run end after 688 s",
   "11-23 02:57:32 run start",
   "11-23 02:57:52 listening 11 min",
   "11-23 03:09:11 listening done",
@@ -12689,7 +12685,11 @@
   "11-23 04:45:36 run start",
   "11-23 04:46:16 listening 11 min",
   "11-23 04:57:09 listening done",
-  "11-23 04:57:09 run end after 693 s"
+  "11-23 04:57:09 run end after 693 s",
+  "11-23 05:00:44 run start",
+  "11-23 05:00:55 listening 11 min",
+  "11-23 05:12:14 listening done",
+  "11-23 05:12:14 run end after 690 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -19051,6 +19051,120 @@
     "tt3": true,
     "log3": true
    }
+  },
+  "2026-11-22": {
+   "status": "asked",
+   "plan": {
+    "parts": [
+     {
+      "name": "WAR & CONFLICT",
+      "tag": "#warnews",
+      "stories": [
+       11,
+       7,
+       4,
+       9
+      ],
+      "hook": "Russian warship capsizes. Poland accuses Russia.",
+      "title": "Russian warship capsizes off Libya",
+      "question": "",
+      "hashtags": [
+       "#russia",
+       "#conflict"
+      ],
+      "tags": [
+       "russian warship",
+       "ukraine strike",
+       "libya",
+       "poland",
+       "conflict news",
+       "middle east"
+      ],
+      "of": 3
+     },
+     {
+      "name": "US NEWS",
+      "tag": "#usnews",
+      "stories": [
+       8,
+       6,
+       2
+      ],
+      "hook": "New York releases 9/11 files. El-Sayed works with Trump.",
+      "title": "NYC releases 84,000 more 9/11 records",
+      "question": "Will New York's newly released records shed new light on 9/11?",
+      "hashtags": [
+       "#nyc",
+       "#politics"
+      ],
+      "tags": [
+       "911 records",
+       "new york city",
+       "abdul elsayed",
+       "trump administration",
+       "us politics",
+       "diplomacy"
+      ],
+      "of": 3
+     },
+     {
+      "name": "WORLD NEWS",
+      "tag": "#worldnews",
+      "stories": [
+       5,
+       3,
+       1,
+       10
+      ],
+      "hook": "UN climate talks fail. Indonesian fire kills three.",
+      "title": "UN climate talks end without agreement",
+      "question": "",
+      "hashtags": [
+       "#climate",
+       "#worldnews"
+      ],
+      "tags": [
+       "climate talks",
+       "un climate",
+       "indonesia fire",
+       "south korea",
+       "manchester arena",
+       "world news"
+      ],
+      "of": 3
+     }
+    ],
+    "dropped": [],
+    "ids": [
+     "3d97e0803e",
+     "51037c3d1d",
+     "6a13b82949",
+     "d4bb76db92",
+     "e3bce82e41",
+     "53abef20f1",
+     "37422c4f45",
+     "253835a25b",
+     "5ce05721ba",
+     "38e98f092c",
+     "72bdf50f2a"
+    ]
+   },
+   "heads": [
+    "South Korea Education Minister Choi Kyo Jin resigns over exam rules",
+    "President Trump shares goals for a permanent deal with Iran",
+    "Indonesian factory fire kills three people and leaves 36 missing",
+    "Israeli settlers set fire to West Bank vehicles and homes",
+    "UN climate talks end without agreement over fossil fuels",
+    "Sen.-elect Abdul El-Sayed expresses openness to working with Trump administration",
+    "Poland says Russia tried to kill Ukrainian American rapper",
+    "New York City releases 84,000 more 9/11 records",
+    "Trump reports high levels of Iranian drone and missile attacks",
+    "Police evacuate Manchester arena following substance incident at concert",
+    "Russian warship capsizes off Libya after suspected Ukrainian strike"
+   ],
+   "asked_at": "2026-11-23T05:00:46.061338+00:00",
+   "test": false,
+   "msg_id": 922
   }
  },
  "run_once_done": [
