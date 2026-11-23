@@ -1,205 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "c492951e0f": {
-   "id": "c492951e0f",
-   "headline": "Cincinnati Zoo announces death of Fiona the hippo",
-   "summary": "Fiona the hippo has died following complications from swallowing a visitor's hat at the Cincinnati Zoo. The animal care team spent days attempting to help her digest the object before she passed away.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "Fiona ingested a hat thrown into her habitat.",
-    "The animal care team provided round-the-clock treatment.",
-    "The zoo announced the death on Thursday."
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#CincinnatiZoo",
-    "#FionaTheHippo",
-    "#WorldNews"
-   ],
-   "sources": [
-    "BBC",
-    "NBC News",
-    "Newsweek",
-    "The Hill",
-    "The Independent"
-   ],
-   "link": "https://thehill.com/homenews/state-watch/6231637-fiona-the-hippo-dies-days-after-ingesting-hat-cincinnati-zoo-announces/",
-   "links": [
-    [
-     "The Hill",
-     "https://thehill.com/homenews/state-watch/6231637-fiona-the-hippo-dies-days-after-ingesting-hat-cincinnati-zoo-announces/"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/fiona-the-hippo-dead-hat-cincinnati-zoo-b3088276.html"
-    ],
-    [
-     "Newsweek",
-     "https://www.newsweek.com/fiona-hippo-update-dead-cincinnati-zoo-hat-12743167"
-    ],
-    [
-     "BBC",
-     "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Hippo_%28Hippopotamus_amphibius%29_head_in_water.jpg/1920px-Hippo_%28Hippopotamus_amphibius%29_head_in_water.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Charles J. Sharp / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 10,
-      "shows": "hippopotamus in water"
-     }
-    ],
-    "file_photo": true
-   },
-   "img_post": {
-    "headline": "Cincinnati Zoo announces death of Fiona the hippo",
-    "people": [],
-    "image_query": "Cincinnati Zoo entrance",
-    "image_queries": [
-     "Cincinnati Zoo",
-     "hippopotamus habitat",
-     "zoo animal care",
-     "Cincinnati Ohio"
-    ],
-    "image_style": "incident",
-    "location": "Cincinnati, United States",
-    "nearby_city": "Cincinnati, Ohio",
-    "event_query": "Cincinnati Zoo hippo enclosure",
-    "topic_photo": "hippopotamus",
-    "label": "WORLD",
-    "action_subject": "hippopotamus",
-    "news_time": "2026-11-19T21:15:25+00:00"
-   },
-   "created_at": "2026-11-19T21:42:41.669040+00:00",
-   "news_time": "2026-11-19T21:15:25+00:00",
-   "news_latest": "2026-11-19T21:31:01+00:00",
-   "importance": 5,
-   "caption": "🚨 BREAKING: Cincinnati Zoo announces death of Fiona the hippo\n\nFiona the hippo has died following complications from swallowing a visitor's hat at the Cincinnati Zoo. The animal care team spent days attempting to help her digest the object before she passed away.\n\nWhat we know so far:\n• Fiona ingested a hat thrown into her habitat.\n• The animal care team provided round-the-clock treatment.\n• The zoo announced the death on Thursday.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#CincinnatiZoo #FionaTheHippo #WorldNews #7SeasNews",
-   "photo_line": "📷 10/10 hippopotamus in water · FILE PHOTO",
-   "status": "posted",
-   "tg_message_id": 836,
-   "tg_file_id": "AgACAgUAAxkDAAIDRGr_bVOGLW1VnzA-A7JER-wgR8eRAALcFGsb3mn4V8enc-a6m96pAQADAgADdwADPQQ",
-   "queued_at": "2026-11-19T21:42:44.240079+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-19T21:42:44.240100+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122106799053548584",
-   "posted_at": "2026-11-19T21:43:06.483597+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 19 · 4:43 PM New York · 3:13 AM Sri Lanka\n\n<b>Cincinnati Zoo announces death of Fiona the hippo</b>\n<i>BBC, NBC News, Newsweek, The Hill, The Independent</i>\n🟢 <b>Latest:</b> 3:01 AM Sri Lanka (12 min ago) · first reported 2:45 AM\n📷 10/10 hippopotamus in water · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122106799053548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 544,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122106799053548584_2104609266832210",
-   "fb_story_id": "1463876709215221",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-22T21:15:45.306777+00:00"
-  },
-  "47cd5f1547": {
-   "id": "47cd5f1547",
-   "headline": "US appeals court halts order restoring Venezuelan deportation protections",
-   "summary": "A federal appeals court in California granted a request by the Trump administration to halt an order that would have restored deportation protections for Venezuelan migrants. The ruling prevents a lower-court decision from taking effect that would block Trump from lifting TPS.",
-   "label": "US POLITICS",
-   "hook": "Will these deportation protections ultimately remain in place for Venezuelan migrants?",
-   "key_points": [
-    "The appeals court's ruling prevents a lower-court decision from taking effect.",
-    "The lower court's decision would have blocked Trump from lifting TPS."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#Immigration",
-    "#CourtNews"
-   ],
-   "sources": [
-    "ABC News",
-    "Al Jazeera"
-   ],
-   "link": "https://www.aljazeera.com/news/2026/11/19/us-appeals-court-lets-trump-end-tps-deportation-protections-for-venezuelans?traffic_source=rss",
-   "links": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/19/us-appeals-court-lets-trump-end-tps-deportation-protections-for-venezuelans?traffic_source=rss"
-    ],
-    [
-     "ABC News",
-     "https://abcnews.com/Politics/wireStory/appeals-court-grants-trump-request-halt-order-restoring-138291347"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_01.jpg/1920px-A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Harrison Keely / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 7,
-      "shows": "courtroom interior"
-     }
-    ],
-    "file_photo": true
-   },
-   "img_post": {
-    "headline": "US appeals court halts order restoring Venezuelan deportation protections",
-    "people": [],
-    "image_query": "US Court of Appeals building",
-    "image_queries": [
-     "Supreme Court building",
-     "federal courthouse",
-     "immigration office",
-     "legal documents"
-    ],
-    "image_style": "scene",
-    "location": "California, US",
-    "nearby_city": "San Francisco, California",
-    "event_query": "California federal appeals court",
-    "topic_photo": "judge gavel",
-    "label": "US POLITICS",
-    "action_subject": "courtroom",
-    "news_time": "2026-11-19T15:45:20+00:00"
-   },
-   "created_at": "2026-11-19T21:43:03.832041+00:00",
-   "news_time": "2026-11-19T15:45:20+00:00",
-   "news_latest": "2026-11-19T21:11:45+00:00",
-   "importance": 7,
-   "caption": "US appeals court halts order restoring Venezuelan deportation protections\n\nA federal appeals court in California granted a request by the Trump administration to halt an order that would have restored deportation protections for Venezuelan migrants. The ruling prevents a lower-court decision from taking effect that would block Trump from lifting TPS.\n\n💬 Will these deportation protections ultimately remain in place for Venezuelan migrants?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Immigration #CourtNews #7SeasNews",
-   "photo_line": "📷 7/10 courtroom interior · FILE PHOTO",
-   "status": "posted",
-   "tg_message_id": 837,
-   "tg_file_id": "AgACAgUAAxkDAAIDRWr_bWl9P7oe8_lfgQp8422qSDOwAALdFGsb3mn4V3VZv1zk3LdXAQADAgADdwADPQQ",
-   "queued_at": "2026-11-19T21:43:06.121929+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_label": "🤖 Auto-posting",
-   "post_at": "2026-11-19T21:43:12.094373+00:00",
-   "fb_post_id": "1413030521900096_122106799413548584",
-   "posted_at": "2026-11-19T21:43:06.483597+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 19 · 4:43 PM New York · 3:13 AM Sri Lanka\n\n<b>US appeals court halts order restoring Venezuelan deportation protections</b>\n<i>ABC News, Al Jazeera</i>\n🟢 <b>Latest:</b> 2:41 AM Sri Lanka (31 min ago) · first reported 9:15 PM\n📷 7/10 courtroom interior · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122106799413548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 545,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122106799413548584_1662815268973065",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-22T21:15:45.306777+00:00"
-  },
   "cc8d78234c": {
    "id": "cc8d78234c",
    "headline": "President Trump posthumously pardons baseball player Pete Rose",
@@ -8087,10 +7888,6 @@
   }
  },
  "seen_links": [
-  "https://abcnews.com/Politics/wireStory/voters-demanded-economic-relief-trump-democrats-face-tough-137952337",
-  "https://www.npr.org/2026/11/08/nx-s1-6032829/gen-z-voters-midterm-elections",
-  "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says",
-  "https://kyivindependent.com/europeans-will-participate-in-abu-dhabi-peace-talks-french-foreign-minister-says/",
   "https://thehill.com/policy/international/6206505-meloni-blames-russian-hackers-tajani/",
   "https://www.cbsnews.com/news/italy-giorgia-meloni-ukraine-russia-hack-data-leak/",
   "https://www.independent.co.uk/news/world/africa/train-collision-egypt-giza-death-toll-injured-b3081246.html",
@@ -10086,7 +9883,11 @@
   "https://www.newsweek.com/gavin-newsom-trump-california-death-row-commutations-12759172",
   "https://www.washingtonpost.com/politics/2026/11/23/trump-use-doj-speech-attack-newsom-potential-2028-contender/",
   "https://www.theguardian.com/world/2026/nov/23/iranian-singer-lashes-performing-without-hijab",
-  "https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf?traffic_source=rss"
+  "https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf?traffic_source=rss",
+  "https://thehill.com/homenews/house/6238399-jimmy-gomez-congress-resignation/",
+  "https://www.foxnews.com/politics/dem-lawmaker-made-unwelcome-sexual-advances-toward-congressional-staffer-house-panel-finds",
+  "https://www.nytimes.com/2026/11/23/us/politics/jimmy-gomez-democrat-resigns.html",
+  "https://www.cbsnews.com/news/house-ethics-investigation-jimmy-gomez-sexual-misconduct/"
  ],
  "recent_topics": [
   [
@@ -11802,17 +11603,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-23T21:21:39.967720+00:00",
+ "last_draft_at": "2026-11-23T21:33:39.093978+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T21:10:04.036993+00:00",
  "run_log": [
-  "11-23 18:46:53 run start",
-  "11-23 18:47:02 listening 11 min",
-  "11-23 18:58:23 listening done",
-  "11-23 18:58:23 run end after 689 s",
   "11-23 19:10:01 run start",
   "11-23 19:10:54 listening 11 min",
   "11-23 19:21:08 run start",
@@ -11848,7 +11645,11 @@
   "11-23 21:21:39 run start",
   "11-23 21:21:50 listening 11 min",
   "11-23 21:33:09 listening done",
-  "11-23 21:33:09 run end after 689 s"
+  "11-23 21:33:09 run end after 689 s",
+  "11-23 21:33:38 run start",
+  "11-23 21:34:29 listening 11 min",
+  "11-23 21:45:23 listening done",
+  "11-23 21:45:23 run end after 704 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
