@@ -8871,13 +8871,97 @@
     "shares": 0
    },
    "stats_at": "2026-11-23T12:53:40.093898+00:00"
+  },
+  "3ed909c38e": {
+   "id": "3ed909c38e",
+   "headline": "Democrats win large House majority after flipping North Carolina seat",
+   "summary": "Democrats have secured at least 258 seats in the midterms, outpacing Republicans who hold at least 173. Climate change talks at COP31 also concluded without reaching a deal after running past schedule.",
+   "label": "ELECTIONS",
+   "hook": "Will these midterms results change legislative priorities in the upcoming session?",
+   "key_points": [
+    "Democrats flipped 47 House seats in total.",
+    "COP31 climate change talks ran two days longer than expected.",
+    "The conference became the longest summit in history."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Midterms",
+    "#Congress"
+   ],
+   "sources": [
+    "BBC",
+    "NPR"
+   ],
+   "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+   "links": [
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "NPR",
+     "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Example_voting_booth_from_USA_%28Connecticut%29.jpg/1920px-Example_voting_booth_from_USA_%28Connecticut%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Kenneth C. Zirkel / Wikimedia Commons (CC0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "vintage voting booth"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "Democrats win large House majority after flipping North Carolina seat",
+    "people": [],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "House of Representatives chamber",
+     "voting booth",
+     "Capitol Hill",
+     "ballot box"
+    ],
+    "image_style": "scene",
+    "location": "North Carolina, US",
+    "nearby_city": "Raleigh, North Carolina",
+    "event_query": "US midterm elections",
+    "topic_photo": "ballot box",
+    "label": "ELECTIONS",
+    "action_subject": "voting booth",
+    "news_time": "2026-11-23T12:42:03+00:00"
+   },
+   "created_at": "2026-11-23T13:06:07.844465+00:00",
+   "news_time": "2026-11-23T12:42:03+00:00",
+   "news_latest": "2026-11-23T13:02:05+00:00",
+   "importance": 8,
+   "caption": "Democrats win large House majority after flipping North Carolina seat\n\nDemocrats have secured at least 258 seats in the midterms, outpacing Republicans who hold at least 173. Climate change talks at COP31 also concluded without reaching a deal after running past schedule.\n\n💬 Will these midterms results change legislative priorities in the upcoming session?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Midterms #Congress #7SeasNews",
+   "photo_line": "📷 10/10 vintage voting booth · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 936,
+   "tg_file_id": "AgACAgUAAxkDAAIDqGsEOkKJ951HEXWEWcBUwYnx5s0DAAKmGGsbSgchVFEeu8bhrfMJAQADAgADdwADPQQ",
+   "queued_at": "2026-11-23T13:06:10.274526+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-23T13:06:10.274566+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122110225413548584",
+   "posted_at": "2026-11-23T13:06:22.915925+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 23 · 8:06 AM New York · 6:36 PM Sri Lanka\n\n<b>Democrats win large House majority after flipping North Carolina seat</b>\n<i>BBC, NPR</i>\n🟢 <b>Latest:</b> 6:32 PM Sri Lanka (4 min ago) · first reported 6:12 PM\n📷 10/10 vintage voting booth · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122110225413548584\">Open on Facebook</a>\n\n⚠️ <i>Looks like an earlier post: “Democrats claim majorities in US House and Senate during midterms”. Tap 🗑 Delete if it's the same news.</i>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 642,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122110225413548584_1158340309908340"
   }
  },
  "seen_links": [
-  "https://thehill.com/homenews/analysis/6205560-trump-midterm-elections-republican-party-direction/",
-  "https://abcnews.com/Politics/wireStory/nithya-raman-charge-la-amid-homeless-crisis-political-137940423",
-  "https://www.theguardian.com/us-news/2026/nov/07/los-angeles-mayor-nithya-raman-progressives-dsa",
-  "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
   "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
   "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
   "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
@@ -10873,7 +10957,11 @@
   "https://www.newsweek.com/why-gen-z-moved-back-left-2026-12754054",
   "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
   "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-turned-into-toxic-wasteland-by-israels-war-says-new-report?traffic_source=rss",
-  "https://www.aljazeera.com/news/2026/11/23/environmental-crimes-israel-blamed-for-toxic-pollution-in-99-of-gaza?traffic_source=rss"
+  "https://www.aljazeera.com/news/2026/11/23/environmental-crimes-israel-blamed-for-toxic-pollution-in-99-of-gaza?traffic_source=rss",
+  "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+  "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+  "https://www.washingtonexaminer.com/news/white-house/4811734/part-of-maha-agenda-may-undermine-gop-appeal-young-working-men-poll/",
+  "https://thehill.com/homenews/house/6234454-house-funding-shutdown-risk/"
  ],
  "recent_topics": [
   [
@@ -12953,19 +13041,36 @@
     "wasteland"
    ],
    "796612a75a"
+  ],
+  [
+   "2026-11-23T13:06:10.274354+00:00",
+   [
+    "50",
+    "carolina",
+    "cop",
+    "deal",
+    "democrat",
+    "end",
+    "flipp",
+    "hous",
+    "largest",
+    "majority",
+    "margin",
+    "north",
+    "seat",
+    "sinc",
+    "win"
+   ],
+   "3ed909c38e"
   ]
  ],
- "last_draft_at": "2026-11-23T12:54:14.284987+00:00",
+ "last_draft_at": "2026-11-23T13:05:43.633745+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T12:53:40.093898+00:00",
  "run_log": [
-  "11-23 10:50:18 run start",
-  "11-23 10:51:06 listening 11 min",
-  "11-23 11:01:59 listening done",
-  "11-23 11:01:59 run end after 701 s",
   "11-23 11:02:30 run start",
   "11-23 11:02:40 listening 11 min",
   "11-23 11:13:58 listening done",
@@ -13001,12 +13106,15 @@
   "11-23 12:53:39 run start",
   "11-23 12:54:15 listening 11 min",
   "11-23 13:05:10 listening done",
-  "11-23 13:05:10 run end after 690 s"
+  "11-23 13:05:10 run end after 690 s",
+  "11-23 13:05:42 run start",
+  "11-23 13:06:36 listening 11 min",
+  "11-23 13:17:30 listening done",
+  "11-23 13:17:30 run end after 707 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/The_Clay_County_Courthouse_courtroom_in_2007.jpg/1920px-The_Clay_County_Courthouse_courtroom_in_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/U.S._Service_members_pose_for_a_photo_after_ringing_the_closing_bell_at_the_New_York_Stock_Exchange_in_New_York_May_24%2C_2013_130524-O-ZZ999-002.jpg/1920px-U.S._Service_members_pose_for_a_photo_after_ringing_the_closing_bell_at_the_New_York_Stock_Exchange_in_New_York_May_24%2C_2013_130524-O-ZZ999-002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Vilkha_MLRS_missile_launch%2C_2019%2C_01.jpg/1920px-Vilkha_MLRS_missile_launch%2C_2019%2C_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/4/4d/Washington_DC_Skyline.jpg",
@@ -13045,7 +13153,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Turbine_near_the_G%C3%B6sgen_Nuclear_Power_Plant%2C_D%C3%A4niken%2C_Solothurn.jpg/1920px-Turbine_near_the_G%C3%B6sgen_Nuclear_Power_Plant%2C_D%C3%A4niken%2C_Solothurn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Dmitry_Medvedev_govru_official_photo_13.jpg/1280px-Dmitry_Medvedev_govru_official_photo_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Clearing_debris_of_a_residential_building_in_Kyiv%2C_2022-04-20_%28962896%29.jpg/1920px-Clearing_debris_of_a_residential_building_in_Kyiv%2C_2022-04-20_%28962896%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Voters_receive_ballots_at_a_polling_station_in_Washington_DC%2C_5_Nov._2024.jpg/1920px-Voters_receive_ballots_at_a_polling_station_in_Washington_DC%2C_5_Nov._2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Voters_receive_ballots_at_a_polling_station_in_Washington_DC%2C_5_Nov._2024.jpg/1920px-Voters_receive_ballots_at_a_polling_station_in_Washington_DC%2C_5_Nov._2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Example_voting_booth_from_USA_%28Connecticut%29.jpg/1920px-Example_voting_booth_from_USA_%28Connecticut%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -16305,7 +16414,6 @@
    }
   },
   "recent_ideas": [
-   "aircraft carrier",
    "soldiers",
    "emergency services of that city",
    "absentee ballot",
@@ -16316,7 +16424,8 @@
    "nuclear power plant",
    "rescue workers rubble",
    "voters at polling station",
-   "voters at polling station"
+   "voters at polling station",
+   "voting booth"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -18233,6 +18342,11 @@
     "s": 0,
     "w": "protest in London with sign",
     "p": "wrong location, shows a protest in London instead of Gaza"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Example_voting_booth_from_USA_%28Connecticut%29.jpg/1920px-Example_voting_booth_from_USA_%28Connecticut%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|56252271": {
+    "s": 10,
+    "w": "vintage voting booth",
+    "p": ""
    }
   }
  },
@@ -18244,10 +18358,10 @@
   "2026-11-20": 30,
   "2026-11-21": 17,
   "2026-11-22": 11,
-  "2026-11-23": 11
+  "2026-11-23": 12
  },
- "last_auto_at": "2026-11-23T12:14:43.895950+00:00",
- "last_post_at": "2026-11-23T12:14:48.366995+00:00",
+ "last_auto_at": "2026-11-23T13:06:22.915925+00:00",
+ "last_post_at": "2026-11-23T13:06:27.021146+00:00",
  "reels_count": {
   "2026-11-16": 10,
   "2026-11-17": 3,
@@ -19644,7 +19758,11 @@
     "Indonesian factory fire kills three people and leaves 36 missing",
     "South Korea Education Minister Choi Kyo Jin resigns over exam rules",
     "Police evacuate Manchester arena following substance incident at concert"
-   ]
+   ],
+   "done": {
+    "tt1": true,
+    "log1": true
+   }
   }
  },
  "run_once_done": [
