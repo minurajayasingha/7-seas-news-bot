@@ -1,100 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "972d7dbe83": {
-   "id": "972d7dbe83",
-   "headline": "IEA warns Middle East crisis and datacentres threaten energy security",
-   "summary": "The International Energy Agency reported that the Middle East crisis presents the largest threat to energy security in history due to disruptions from US and Israeli strikes on Iran. Additionally, the watchdog warned that global datacentres will increase carbon emissions by 70 percent by 2030 as the US and China use fossil fuels for artificial intelligence.",
-   "label": "ECONOMY",
-   "hook": "Will rising artificial intelligence demands force countries to rely more on fossil fuels?",
-   "key_points": [
-    "Iran's blockade of the Strait of Hormuz disrupted oil shipments.",
-    "Consumers bear more costs during the energy security threat.",
-    "Datacentres will consume twice as much electricity by 2030."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#EnergySecurity",
-    "#IEA",
-    "#ArtificialIntelligence"
-   ],
-   "sources": [
-    "France 24",
-    "The Guardian"
-   ],
-   "link": "https://www.france24.com/en/middle-east/20261119-middle-east-crisis-energy-security-iea",
-   "links": [
-    [
-     "France 24",
-     "https://www.france24.com/en/middle-east/20261119-middle-east-crisis-energy-security-iea"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/%D0%A0%D0%B0%D1%84%D0%B8%D0%BD%D0%B5%D1%80%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0%D1%84%D1%82%D0%B5_%D0%91%D1%80%D0%BE%D0%B4_%28Oil_refinery_Brod%2C_Republika_Srpska%29.jpg/1920px-%D0%A0%D0%B0%D1%84%D0%B8%D0%BD%D0%B5%D1%80%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0%D1%84%D1%82%D0%B5_%D0%91%D1%80%D0%BE%D0%B4_%28Oil_refinery_Brod%2C_Republika_Srpska%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 10,
-      "shows": "oil refinery"
-     }
-    ],
-    "file_photo": true
-   },
-   "img_post": {
-    "headline": "IEA warns Middle East crisis and datacentres threaten energy security",
-    "people": [],
-    "image_query": "oil refinery",
-    "image_queries": [
-     "cargo ship",
-     "server room",
-     "oil tanker",
-     "power plant"
-    ],
-    "image_style": "scene",
-    "location": "",
-    "nearby_city": "",
-    "event_query": "",
-    "topic_photo": "server room",
-    "label": "ECONOMY",
-    "action_subject": "oil refinery",
-    "news_time": "2026-11-19T05:00:18+00:00"
-   },
-   "created_at": "2026-11-19T05:16:03.857481+00:00",
-   "news_time": "2026-11-19T05:00:18+00:00",
-   "news_latest": "2026-11-19T05:11:59+00:00",
-   "importance": 7,
-   "caption": "IEA warns Middle East crisis and datacentres threaten energy security\n\nThe International Energy Agency reported that the Middle East crisis presents the largest threat to energy security in history due to disruptions from US and Israeli strikes on Iran. Additionally, the watchdog warned that global datacentres will increase carbon emissions by 70 percent by 2030 as the US and China use fossil fuels for artificial intelligence.\n\n💬 Will rising artificial intelligence demands force countries to rely more on fossil fuels?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#EnergySecurity #IEA #ArtificialIntelligence #7SeasNews",
-   "photo_line": "📷 10/10 oil refinery · FILE PHOTO",
-   "status": "posted",
-   "tg_message_id": 814,
-   "tg_file_id": "AgACAgUAAxkDAAIDLmr-hhY4u86RW2ZsqOSAD-jLrXWFAAJVFWsb3mnwV_IEZjLhc40GAQADAgADdwADPQQ",
-   "queued_at": "2026-11-19T05:16:06.525720+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-19T05:16:06.525752+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122105967939548584",
-   "posted_at": "2026-11-19T05:16:06.858943+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 19 · 12:16 AM New York · 10:46 AM Sri Lanka\n\n<b>IEA warns Middle East crisis and datacentres threaten energy security</b>\n<i>France 24, The Guardian</i>\n🟢 <b>Latest:</b> 10:41 AM Sri Lanka (4 min ago) · first reported 10:30 AM\n📷 10/10 oil refinery · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122105967939548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 520,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122105967939548584_1664488725286513",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-22T05:00:43.670108+00:00"
-  },
   "bc659a943d": {
    "id": "bc659a943d",
    "headline": "UN nuclear watchdog says North Korea expands uranium enrichment facility",
@@ -8477,13 +8383,185 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122109947451548584_1808978377036146"
+  },
+  "8a0995fa2d": {
+   "id": "8a0995fa2d",
+   "headline": "Army plans Iowa lead azide detonation despite court pause",
+   "summary": "The US Army plans to detonate four tonnes of lead azide in an Iowa town on November 25. The action is scheduled to proceed despite a court-ordered stay, raising concerns over potential toxic lead dust in Iowa and Illinois.",
+   "label": "US POLITICS",
+   "hook": "Should the Army proceed with this detonation during a court pause?",
+   "key_points": [
+    "The Army plans to invoke emergency powers for the blast.",
+    "The detonation involves four tonnes of lead azide.",
+    "The event is scheduled for Thanksgiving Eve."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USNews",
+    "#Iowa",
+    "#Army"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "Newsweek"
+   ],
+   "link": "https://www.newsweek.com/army-sets-iowa-lead-azide-blast-for-thanksgiving-eve-despite-court-pause-12755210",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/army-sets-iowa-lead-azide-blast-for-thanksgiving-eve-despite-court-pause-12755210"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/SSG_Desiree_Palacios_makes_final_settings_on_her_camera_before_a_sortie_in_a_F-16D_Fighting_Falcon.jpg/1920px-SSG_Desiree_Palacios_makes_final_settings_on_her_camera_before_a_sortie_in_a_F-16D_Fighting_Falcon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Air Force photo/Lance Cheung / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 8,
+      "shows": "pilot in cockpit"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "Army plans Iowa lead azide detonation despite court pause",
+    "people": [],
+    "image_query": "Pentagon building",
+    "image_queries": [
+     "US military base",
+     "court building",
+     "industrial storage facility",
+     "safety sign"
+    ],
+    "image_style": "scene",
+    "location": "Iowa, US",
+    "nearby_city": "Des Moines, Iowa",
+    "event_query": "Iowa military site",
+    "topic_photo": "judge gavel",
+    "label": "US POLITICS",
+    "action_subject": "military installation",
+    "news_time": "2026-11-23T02:09:15+00:00"
+   },
+   "created_at": "2026-11-23T05:16:44.009013+00:00",
+   "news_time": "2026-11-23T02:09:15+00:00",
+   "news_latest": "2026-11-23T05:06:39+00:00",
+   "importance": 7,
+   "caption": "Army plans Iowa lead azide detonation despite court pause\n\nThe US Army plans to detonate four tonnes of lead azide in an Iowa town on November 25. The action is scheduled to proceed despite a court-ordered stay, raising concerns over potential toxic lead dust in Iowa and Illinois.\n\n💬 Should the Army proceed with this detonation during a court pause?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USNews #Iowa #Army #7SeasNews",
+   "photo_line": "📷 8/10 pilot in cockpit · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 923,
+   "tg_file_id": "AgACAgUAAxkDAAIDm2sDzD1NAvqkvnRA5c-5JhC16opPAAJsE2sboQ8hVIio6gr4-uFZAQADAgADdwADPQQ",
+   "queued_at": "2026-11-23T05:16:46.111881+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-23T05:16:46.111902+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122109959967548584",
+   "posted_at": "2026-11-23T05:17:03.794914+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 23 · 12:17 AM New York · 10:47 AM Sri Lanka\n\n<b>Army plans Iowa lead azide detonation despite court pause</b>\n<i>Al Jazeera, Newsweek</i>\n🟢 <b>Latest:</b> 10:36 AM Sri Lanka (10 min ago) · first reported 7:39 AM\n📷 8/10 pilot in cockpit · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122109959967548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 630,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122109959967548584_2080906449249734"
+  },
+  "efcc1598ed": {
+   "id": "efcc1598ed",
+   "headline": "Nine hospitalized following shooting at central California concert",
+   "summary": "Nine people sustained injuries during a shooting at a private concert in central California. Authorities state the incident may be gang-related.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Nine people were injured in the shooting",
+    "The event was a private concert",
+    "The sheriff's department believes it may be gang-related"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#California",
+    "#News",
+    "#Shooting"
+   ],
+   "sources": [
+    "Euronews",
+    "UPI"
+   ],
+   "link": "https://www.euronews.com/2026/11/23/nine-people-injured-after-gunfire-at-central-california-concert",
+   "links": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/23/nine-people-injured-after-gunfire-at-central-california-concert"
+    ],
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/US/2026/11/22/9-hospitalized-mass-shooting-private-central-Calif-concert/7881795389749/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Vandenberg_Hosts_%22Rage_Car%22_Event_for_Police_Week_%287810759%29.jpg/1920px-Vandenberg_Hosts_%22Rage_Car%22_Event_for_Police_Week_%287810759%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Space Force photo by Airman 1st Class Kadielle Shaw / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 8,
+      "shows": "soldier hitting car with pole"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "Nine hospitalized following shooting at central California concert",
+    "people": [],
+    "image_query": "Central California landscape",
+    "image_queries": [
+     "police tape at crime scene",
+     "hospital exterior",
+     "concert venue building",
+     "sheriff department vehicle"
+    ],
+    "image_style": "incident",
+    "location": "California, US",
+    "nearby_city": "Fresno, California",
+    "event_query": "California concert shooting",
+    "topic_photo": "hospital corridor",
+    "label": "WORLD",
+    "action_subject": "police officers at work",
+    "news_time": "2026-11-22T23:51:54+00:00"
+   },
+   "created_at": "2026-11-23T05:17:01.891194+00:00",
+   "news_time": "2026-11-22T23:51:54+00:00",
+   "news_latest": "2026-11-23T05:00:18+00:00",
+   "importance": 6,
+   "caption": "Nine hospitalized following shooting at central California concert\n\nNine people sustained injuries during a shooting at a private concert in central California. Authorities state the incident may be gang-related.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#California #News #Shooting #7SeasNews",
+   "photo_line": "📷 8/10 soldier hitting car with pole · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 924,
+   "tg_file_id": "AgACAgUAAxkDAAIDnGsDzE_vsN6DJvVJmMoMTDXsC5JXAAJtE2sboQ8hVOKqlKeL8e4GAQADAgADdwADPQQ",
+   "queued_at": "2026-11-23T05:17:03.469528+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-23T05:17:03.469547+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122109960117548584",
+   "posted_at": "2026-11-23T05:17:03.794914+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 23 · 12:17 AM New York · 10:47 AM Sri Lanka\n\n<b>Nine hospitalized following shooting at central California concert</b>\n<i>Euronews, UPI</i>\n🟢 <b>Latest:</b> 10:30 AM Sri Lanka (17 min ago) · first reported 5:21 AM\n📷 8/10 soldier hitting car with pole · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122109960117548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 631,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122109960117548584_3587451538097231"
   }
  },
  "seen_links": [
-  "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge?traffic_source=rss",
-  "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty",
-  "https://www.cbsnews.com/news/trump-60-minutes-midterm-election-firings-susie-wiles/",
-  "https://www.cbsnews.com/news/stephen-miller-chief-of-staff-trump-immigration-policies/",
   "https://www.theguardian.com/us-news/2026/nov/07/trump-stephen-miller-midterms",
   "https://www.npr.org/2026/11/07/nx-s1-6030908/week-in-politics-trump-taps-miller-for-chief-of-staff-doubles-down-on-trumpism",
   "https://abcnews.com/International/wireStory/missiles-target-kyiv-injure-5-ukraine-prepares-talks-137937211",
@@ -10479,7 +10557,11 @@
   "https://www.theguardian.com/uk-news/2026/nov/23/manchester-co-op-live-arena-evacuated-tear-gas-don-toliver-concert",
   "https://www.aljazeera.com/video/newsfeed/2026/11/23/don-toliver-concert-chaos-after-substance-let-off-in-crowd?traffic_source=rss",
   "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-libya-benghazi-warship-drone-attack-b3089568.html",
-  "https://www.foxnews.com/world/russian-warship-sinks-libya-suspected-ukrainian-strikes-take-war-beyond-black-sea"
+  "https://www.foxnews.com/world/russian-warship-sinks-libya-suspected-ukrainian-strikes-take-war-beyond-black-sea",
+  "https://www.newsweek.com/army-sets-iowa-lead-azide-blast-for-thanksgiving-eve-despite-court-pause-12755210",
+  "https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss",
+  "https://www.euronews.com/2026/11/23/nine-people-injured-after-gunfire-at-central-california-concert",
+  "https://www.upi.com/Top_News/US/2026/11/22/9-hospitalized-mass-shooting-private-central-Calif-concert/7881795389749/"
  ],
  "recent_topics": [
   [
@@ -12641,19 +12723,56 @@
     "warship"
    ],
    "72bdf50f2a"
+  ],
+  [
+   "2026-11-23T05:16:46.111753+00:00",
+   [
+    "army",
+    "azid",
+    "blast",
+    "concern",
+    "court",
+    "despit",
+    "detonat",
+    "eve",
+    "extremely",
+    "insid",
+    "iowa",
+    "lead",
+    "paus",
+    "plan",
+    "set",
+    "stor",
+    "thanksgiv"
+   ],
+   "8a0995fa2d"
+  ],
+  [
+   "2026-11-23T05:17:03.469396+00:00",
+   [
+    "calif",
+    "california",
+    "central",
+    "concert",
+    "gunfir",
+    "hospitaliz",
+    "injur",
+    "mass",
+    "nin",
+    "peopl",
+    "privat",
+    "shoot"
+   ],
+   "efcc1598ed"
   ]
  ],
- "last_draft_at": "2026-11-23T05:00:46.433056+00:00",
+ "last_draft_at": "2026-11-23T05:15:35.111586+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T04:30:52.557201+00:00",
  "run_log": [
-  "11-23 02:57:32 run start",
-  "11-23 02:57:52 listening 11 min",
-  "11-23 03:09:11 listening done",
-  "11-23 03:09:11 run end after 699 s",
   "11-23 03:09:49 run start",
   "11-23 03:09:59 listening 11 min",
   "11-23 03:21:18 listening done",
@@ -12689,13 +12808,15 @@
   "11-23 05:00:44 run start",
   "11-23 05:00:55 listening 11 min",
   "11-23 05:12:14 listening done",
-  "11-23 05:12:14 run end after 690 s"
+  "11-23 05:12:14 run end after 690 s",
+  "11-23 05:15:34 run start",
+  "11-23 05:17:30 listening 10 min",
+  "11-23 05:27:08 listening done",
+  "11-23 05:27:08 run end after 693 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Eisenhower_Executive_Office_Building_exterior_from_the_southeast.jpg/1920px-Eisenhower_Executive_Office_Building_exterior_from_the_southeast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Wikimedia_Foundation_Servers-8055_35.jpg/1920px-Wikimedia_Foundation_Servers-8055_35.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Madrid_-_Madrid_skyline_-_140314_195825.jpg/1920px-Madrid_-_Madrid_skyline_-_140314_195825.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Belgian_Army%2C_BAS_24%2C_Brussels_%28P1170134-RR%29.jpg/1920px-Belgian_Army%2C_BAS_24%2C_Brussels_%28P1170134-RR%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Door_to_Senate_Chamber_MN_State_Capitol.jpg/1920px-Door_to_Senate_Chamber_MN_State_Capitol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -12733,7 +12854,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Stugna_100mm_guided_missile_01.jpg/1920px-Stugna_100mm_guided_missile_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/b/b6/New_York_City_Hall_exterior%2C_October_2016.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/%D9%85%D9%88%D8%B4%DA%A9-%D9%85%D9%88%D8%B2%D9%87_%D8%AC%D9%86%DA%AF-_missile.jpg/1920px-%D9%85%D9%88%D8%B4%DA%A9-%D9%85%D9%88%D8%B2%D9%87_%D8%AC%D9%86%DA%AF-_missile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/%C4%B0ntrepid_aircraft_carrier.jpg/1920px-%C4%B0ntrepid_aircraft_carrier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/%C4%B0ntrepid_aircraft_carrier.jpg/1920px-%C4%B0ntrepid_aircraft_carrier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/SSG_Desiree_Palacios_makes_final_settings_on_her_camera_before_a_sortie_in_a_F-16D_Fighting_Falcon.jpg/1920px-SSG_Desiree_Palacios_makes_final_settings_on_her_camera_before_a_sortie_in_a_F-16D_Fighting_Falcon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Vandenberg_Hosts_%22Rage_Car%22_Event_for_Police_Week_%287810759%29.jpg/1920px-Vandenberg_Hosts_%22Rage_Car%22_Event_for_Police_Week_%287810759%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "cindy holscher": {
@@ -15997,8 +16120,6 @@
    }
   },
   "recent_ideas": [
-   "air defense system",
-   "white house south lawn",
    "voting booth",
    "firefighters fighting fire",
    "aircraft carrier, united states navy",
@@ -16008,7 +16129,9 @@
    "missile launch",
    "new york city hall",
    "missile launch",
-   "aircraft carrier"
+   "aircraft carrier",
+   "soldiers",
+   "emergency services of that city"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -17770,21 +17893,46 @@
     "s": 7,
     "w": "aircraft carrier",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Soldiers_and_Sailors_Monument%2C_Boston_Common%2C_Boston%2C_Massachusetts_1.jpg/1920px-Soldiers_and_Sailors_Monument%2C_Boston_Common%2C_Boston%2C_Massachusetts_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|8feb543f": {
+    "s": 0,
+    "w": "soldiers monument statue",
+    "p": "photo shows a monument, not soldiers"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/SSG_Desiree_Palacios_makes_final_settings_on_her_camera_before_a_sortie_in_a_F-16D_Fighting_Falcon.jpg/1920px-SSG_Desiree_Palacios_makes_final_settings_on_her_camera_before_a_sortie_in_a_F-16D_Fighting_Falcon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|8feb543f": {
+    "s": 8,
+    "w": "pilot in cockpit",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Vandenberg_Hosts_%22Rage_Car%22_Event_for_Police_Week_%287810759%29.jpg/1920px-Vandenberg_Hosts_%22Rage_Car%22_Event_for_Police_Week_%287810759%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|49ca4c0d": {
+    "s": 8,
+    "w": "soldier hitting car with pole",
+    "p": ""
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/1/1f/Two_Pomona_Police_Department_officers_at_the_L.A._County_Fair_%28May_2025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled|49ca4c0d": {
+    "s": 6,
+    "w": "two female police officers",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Bruneian_police_officer_in_Belait.jpg/1920px-Bruneian_police_officer_in_Belait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|49ca4c0d": {
+    "s": 8,
+    "w": "police officer in uniform",
+    "p": ""
    }
   }
  },
  "comment_perm_told": true,
  "auto_count": {
-  "2026-11-16": 32,
   "2026-11-17": 35,
   "2026-11-18": 22,
   "2026-11-19": 30,
   "2026-11-20": 30,
   "2026-11-21": 17,
-  "2026-11-22": 11
+  "2026-11-22": 11,
+  "2026-11-23": 2
  },
- "last_auto_at": "2026-11-23T04:46:03.320398+00:00",
- "last_post_at": "2026-11-23T04:46:07.606596+00:00",
+ "last_auto_at": "2026-11-23T05:17:03.794914+00:00",
+ "last_post_at": "2026-11-23T05:17:22.189805+00:00",
  "reels_count": {
   "2026-11-16": 10,
   "2026-11-17": 3,
