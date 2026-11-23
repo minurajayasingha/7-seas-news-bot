@@ -8389,11 +8389,97 @@
     "shares": 0
    },
    "stats_at": "2026-11-23T04:30:52.557201+00:00"
+  },
+  "72bdf50f2a": {
+   "id": "72bdf50f2a",
+   "headline": "Russian warship capsizes off Libya after suspected Ukrainian strike",
+   "summary": "A Russian corvette capsized at Benghazi Naval Base following suspected Ukrainian sea drone strikes, according to Libyan officials. Ten people were injured in the incident. Libya's government warned its territory must not become an arena for settling scores.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "The Russian corvette Merkury sank off Libya.",
+    "The incident took the war beyond the Black Sea.",
+    "Ten people sustained injuries during the strike."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#UkraineRussiaWar",
+    "#Libya",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Fox News",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-libya-benghazi-warship-drone-attack-b3089568.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-libya-benghazi-warship-drone-attack-b3089568.html"
+    ],
+    [
+     "Fox News",
+     "https://www.foxnews.com/world/russian-warship-sinks-libya-suspected-ukrainian-strikes-take-war-beyond-black-sea"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/%C4%B0ntrepid_aircraft_carrier.jpg/1920px-%C4%B0ntrepid_aircraft_carrier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Aviation poseidon / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 7,
+      "shows": "aircraft carrier"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "Russian warship capsizes off Libya after suspected Ukrainian strike",
+    "people": [],
+    "image_query": "Benghazi Naval Base",
+    "image_queries": [
+     "Benghazi harbor",
+     "Libya coastline",
+     "Black Sea warship",
+     "naval base"
+    ],
+    "image_style": "incident",
+    "location": "Benghazi, Libya",
+    "nearby_city": "Tripoli, Libya",
+    "event_query": "Benghazi warship sinking",
+    "topic_photo": "cargo ship",
+    "label": "CONFLICT",
+    "action_subject": "warship",
+    "news_time": "2026-11-23T01:30:56+00:00"
+   },
+   "created_at": "2026-11-23T04:46:00.747891+00:00",
+   "news_time": "2026-11-23T01:30:56+00:00",
+   "news_latest": "2026-11-23T03:25:39+00:00",
+   "importance": 9,
+   "caption": "Russian warship capsizes off Libya after suspected Ukrainian strike\n\nA Russian corvette capsized at Benghazi Naval Base following suspected Ukrainian sea drone strikes, according to Libyan officials. Ten people were injured in the incident. Libya's government warned its territory must not become an arena for settling scores.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#UkraineRussiaWar #Libya #WorldNews #7SeasNews",
+   "photo_line": "📷 7/10 aircraft carrier · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 921,
+   "tg_file_id": "AgACAgUAAxkDAAIDmWsDxQqydpyUEp06wRyvySBdjRznAAI0FmsboQ8ZVDpGcS9-KlJ6AQADAgADdwADPQQ",
+   "queued_at": "2026-11-23T04:46:02.905299+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-23T04:46:02.905322+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122109947451548584",
+   "posted_at": "2026-11-23T04:46:03.320398+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 22 · 11:46 PM New York · 10:16 AM Sri Lanka\n\n<b>Russian warship capsizes off Libya after suspected Ukrainian strike</b>\n<i>Fox News, The Independent</i>\n🟡 <b>Latest:</b> 8:55 AM Sri Lanka (1h 20m ago) · first reported 7:00 AM\n📷 7/10 aircraft carrier · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122109947451548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 629,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122109947451548584_1808978377036146"
   }
  },
  "seen_links": [
-  "https://www.france24.com/en/usa-democrats-vow-to-investigate-donald-trump",
-  "https://thehill.com/homenews/administration/6206000-stephen-miller-white-house-promotion-speech/",
   "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge?traffic_source=rss",
   "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty",
   "https://www.cbsnews.com/news/trump-60-minutes-midterm-election-firings-susie-wiles/",
@@ -10391,7 +10477,9 @@
   "https://www.washingtonexaminer.com/news/world/4811776/trump-iranian-attacks-yearlong-high-last-week/",
   "https://www.foxnews.com/world/trump-says-iran-unleashed-missile-drone-surge-after-midterms",
   "https://www.theguardian.com/uk-news/2026/nov/23/manchester-co-op-live-arena-evacuated-tear-gas-don-toliver-concert",
-  "https://www.aljazeera.com/video/newsfeed/2026/11/23/don-toliver-concert-chaos-after-substance-let-off-in-crowd?traffic_source=rss"
+  "https://www.aljazeera.com/video/newsfeed/2026/11/23/don-toliver-concert-chaos-after-substance-let-off-in-crowd?traffic_source=rss",
+  "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-libya-benghazi-warship-drone-attack-b3089568.html",
+  "https://www.foxnews.com/world/russian-warship-sinks-libya-suspected-ukrainian-strikes-take-war-beyond-black-sea"
  ],
  "recent_topics": [
   [
@@ -12530,19 +12618,38 @@
     "toliver"
    ],
    "38e98f092c"
+  ],
+  [
+   "2026-11-23T04:46:02.905166+00:00",
+   [
+    "beyond",
+    "black",
+    "imag",
+    "libya",
+    "russian",
+    "satellit",
+    "sea",
+    "show",
+    "sink",
+    "strik",
+    "sunken",
+    "suspect",
+    "tak",
+    "ukraine-russia",
+    "ukrainian",
+    "war",
+    "warship"
+   ],
+   "72bdf50f2a"
   ]
  ],
- "last_draft_at": "2026-11-23T04:31:19.405314+00:00",
+ "last_draft_at": "2026-11-23T04:45:36.602201+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T04:30:52.557201+00:00",
  "run_log": [
-  "11-23 02:30:47 run start",
-  "11-23 02:31:07 listening 11 min",
-  "11-23 02:42:25 listening done",
-  "11-23 02:42:25 run end after 698 s",
   "11-23 02:45:34 run start",
   "11-23 02:45:44 listening 11 min",
   "11-23 02:57:02 listening done",
@@ -12578,12 +12685,15 @@
   "11-23 04:30:52 run start",
   "11-23 04:31:28 listening 11 min",
   "11-23 04:42:24 listening done",
-  "11-23 04:42:24 run end after 692 s"
+  "11-23 04:42:24 run end after 692 s",
+  "11-23 04:45:36 run start",
+  "11-23 04:46:16 listening 11 min",
+  "11-23 04:57:09 listening done",
+  "11-23 04:57:09 run end after 693 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_02.jpg/1920px-A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Eisenhower_Executive_Office_Building_exterior_from_the_southeast.jpg/1920px-Eisenhower_Executive_Office_Building_exterior_from_the_southeast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Wikimedia_Foundation_Servers-8055_35.jpg/1920px-Wikimedia_Foundation_Servers-8055_35.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Madrid_-_Madrid_skyline_-_140314_195825.jpg/1920px-Madrid_-_Madrid_skyline_-_140314_195825.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -12622,7 +12732,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_6.jpg/1280px-Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Stugna_100mm_guided_missile_01.jpg/1920px-Stugna_100mm_guided_missile_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/b/b6/New_York_City_Hall_exterior%2C_October_2016.jpg",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/%D9%85%D9%88%D8%B4%DA%A9-%D9%85%D9%88%D8%B2%D9%87_%D8%AC%D9%86%DA%AF-_missile.jpg/1920px-%D9%85%D9%88%D8%B4%DA%A9-%D9%85%D9%88%D8%B2%D9%87_%D8%AC%D9%86%DA%AF-_missile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/%D9%85%D9%88%D8%B4%DA%A9-%D9%85%D9%88%D8%B2%D9%87_%D8%AC%D9%86%DA%AF-_missile.jpg/1920px-%D9%85%D9%88%D8%B4%DA%A9-%D9%85%D9%88%D8%B2%D9%87_%D8%AC%D9%86%DA%AF-_missile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/%C4%B0ntrepid_aircraft_carrier.jpg/1920px-%C4%B0ntrepid_aircraft_carrier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "cindy holscher": {
@@ -15886,7 +15997,6 @@
    }
   },
   "recent_ideas": [
-   "voters at polling station",
    "air defense system",
    "white house south lawn",
    "voting booth",
@@ -15897,7 +16007,8 @@
    "fire truck",
    "missile launch",
    "new york city hall",
-   "missile launch"
+   "missile launch",
+   "aircraft carrier"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -17654,6 +17765,11 @@
     "s": 0,
     "w": "London skyline",
     "p": "Wrong city: photo shows London, but the story is in Manchester."
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/%C4%B0ntrepid_aircraft_carrier.jpg/1920px-%C4%B0ntrepid_aircraft_carrier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|85b3a9ae": {
+    "s": 7,
+    "w": "aircraft carrier",
+    "p": ""
    }
   }
  },
@@ -17665,10 +17781,10 @@
   "2026-11-19": 30,
   "2026-11-20": 30,
   "2026-11-21": 17,
-  "2026-11-22": 10
+  "2026-11-22": 11
  },
- "last_auto_at": "2026-11-23T03:46:59.608853+00:00",
- "last_post_at": "2026-11-23T03:47:53.219311+00:00",
+ "last_auto_at": "2026-11-23T04:46:03.320398+00:00",
+ "last_post_at": "2026-11-23T04:46:07.606596+00:00",
  "reels_count": {
   "2026-11-16": 10,
   "2026-11-17": 3,
