@@ -1,99 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "5ac6485bd7": {
-   "id": "5ac6485bd7",
-   "headline": "European leaders meet in Berlin as Ukraine faces financing gap",
-   "summary": "European leaders are meeting in Berlin while Kyiv faces a financing gap of 25 billion euros next year. Meanwhile, Poland's prime minister responded to a comment by the US president.",
-   "label": "DIPLOMACY",
-   "hook": "Can European nations close the multibillion-euro defense financing gap for Kyiv?",
-   "key_points": [
-    "Kyiv faces a 25 billion-euro financing gap next year",
-    "European leaders are gathering in Berlin",
-    "Poland's prime minister commented on US statements"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#WorldNews",
-    "#Ukraine",
-    "#Europe"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "The Guardian"
-   ],
-   "link": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-   "links": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/19/far-from-trump-putin-meeting-europe-to-count-cost-of-ukraines-defence?traffic_source=rss"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Regierungsviertel%2C_Berlin-Mitte%2C_170325%2C_ako.jpg/1920px-Regierungsviertel%2C_Berlin-Mitte%2C_170325%2C_ako.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Ansgar Koreng / Wikimedia Commons (CC BY-SA 3.0 de)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 6,
-      "shows": "Reichstag building in Berlin"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "European leaders meet in Berlin as Ukraine faces financing gap",
-    "people": [],
-    "image_query": "Berlin city",
-    "image_queries": [
-     "Berlin skyline",
-     "European Union flags",
-     "Berlin government buildings",
-     "German capital"
-    ],
-    "image_style": "scene",
-    "location": "Berlin, Germany",
-    "nearby_city": "Berlin, Germany",
-    "event_query": "Berlin European leaders meeting",
-    "topic_photo": "government building",
-    "label": "DIPLOMACY",
-    "action_subject": "European leaders meeting",
-    "news_time": "2026-11-19T04:58:36+00:00"
-   },
-   "created_at": "2026-11-19T10:31:45.473880+00:00",
-   "news_time": "2026-11-19T04:58:36+00:00",
-   "news_latest": "2026-11-19T10:00:52+00:00",
-   "importance": 7,
-   "caption": "European leaders meet in Berlin as Ukraine faces financing gap\n\nEuropean leaders are meeting in Berlin while Kyiv faces a financing gap of 25 billion euros next year. Meanwhile, Poland's prime minister responded to a comment by the US president.\n\n💬 Can European nations close the multibillion-euro defense financing gap for Kyiv?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WorldNews #Ukraine #Europe #7SeasNews",
-   "photo_line": "📷 6/10 Reichstag building in Berlin",
-   "status": "posted",
-   "tg_message_id": 819,
-   "tg_file_id": "AgACAgUAAxkDAAIDM2r-0BeMiHD5gwi5FNcyySYd6_hdAAITFmsb3mnwVwXoUZneLkjKAQADAgADdwADPQQ",
-   "queued_at": "2026-11-19T10:31:51.962607+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-19T10:31:51.962635+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122106174915548584",
-   "posted_at": "2026-11-19T10:31:52.263534+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 19 · 5:32 AM New York · 4:02 PM Sri Lanka\n\n<b>European leaders meet in Berlin as Ukraine faces financing gap</b>\n<i>Al Jazeera, The Guardian</i>\n🟢 <b>Latest:</b> 3:30 PM Sri Lanka (31 min ago) · first reported 10:28 AM\n📷 6/10 Reichstag building in Berlin\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122106174915548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 526,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122106174915548584_1894682305035587",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-22T10:15:31.736179+00:00"
-  },
   "2b9a45734f": {
    "id": "2b9a45734f",
    "headline": "Denmark parliament ratifies security deal involving Greenland and United States",
@@ -8294,12 +8201,100 @@
     "shares": 0
    },
    "stats_at": "2026-11-23T09:39:09.029065+00:00"
+  },
+  "7d2b5f32fe": {
+   "id": "7d2b5f32fe",
+   "headline": "Democratic National Committee schedules twelve debates for 2028 presidential primary",
+   "summary": "The Democratic National Committee announced plans to hold 12 primary debates for the 2028 presidential nomination, starting in June. The party also introduced new rules requiring candidates to denounce undisclosed outside spending.",
+   "label": "ELECTIONS",
+   "hook": "Will starting the primary debates in June help candidates prepare better for the 2028 campaign?",
+   "key_points": [
+    "The party set broad rules for the crowded White House campaign.",
+    "The initial participation criteria include a pledge against undisclosed donor groups."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#DNC",
+    "#USPolitics",
+    "#2028Elections"
+   ],
+   "sources": [
+    "NBC News",
+    "New York Times",
+    "Washington Post"
+   ],
+   "link": "https://www.nytimes.com/2026/11/23/us/politics/democrats-debates-2028-presidential-race.html",
+   "links": [
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/23/us/politics/democrats-debates-2028-presidential-race.html"
+    ],
+    [
+     "NBC News",
+     "https://www.nbcnews.com/politics/2028-election/democratic-national-committee-sets-broad-rules-partys-2028-presidentia-rcna610439"
+    ],
+    [
+     "Washington Post",
+     "https://www.washingtonpost.com/politics/2026/11/23/democrats-open-2028-primary-debates-june-after-pushback-against-earlier-start/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Madison_August_2022_099_%28Official_Absentee_Ballot_Drop_Box%29.jpg/1920px-Madison_August_2022_099_%28Official_Absentee_Ballot_Drop_Box%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Michael Barera / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 7,
+      "shows": "an absentee ballot drop box"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Democratic National Committee schedules twelve debates for 2028 presidential primary",
+    "people": [],
+    "image_query": "US Capitol dome",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "Democratic National Convention",
+     "voting booth"
+    ],
+    "image_style": "scene",
+    "location": "United States",
+    "nearby_city": "Washington, D.C.",
+    "event_query": "Democratic National Committee meeting",
+    "topic_photo": "ballot box",
+    "label": "ELECTIONS",
+    "action_subject": "",
+    "news_time": "2026-11-23T10:00:00+00:00"
+   },
+   "created_at": "2026-11-23T10:24:07.161998+00:00",
+   "news_time": "2026-11-23T10:00:00+00:00",
+   "news_latest": "2026-11-23T10:04:00+00:00",
+   "importance": 6,
+   "caption": "Democratic National Committee schedules twelve debates for 2028 presidential primary\n\nThe Democratic National Committee announced plans to hold 12 primary debates for the 2028 presidential nomination, starting in June. The party also introduced new rules requiring candidates to denounce undisclosed outside spending.\n\n💬 Will starting the primary debates in June help candidates prepare better for the 2028 campaign?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#DNC #USPolitics #2028Elections #7SeasNews",
+   "photo_line": "📷 7/10 an absentee ballot drop box",
+   "status": "posted",
+   "tg_message_id": 926,
+   "tg_file_id": "AgACAgUAAxkDAAIDnmsEFElHR4TtDsy3Z41y8yjR8Mp5AAIHGGsbSgchVN2F54G1g9i8AQADAgADdwADPQQ",
+   "queued_at": "2026-11-23T10:24:09.825153+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-23T10:24:09.825179+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122110118475548584",
+   "posted_at": "2026-11-23T10:24:10.192439+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 23 · 5:24 AM New York · 3:54 PM Sri Lanka\n\n<b>Democratic National Committee schedules twelve debates for 2028 presidential primary</b>\n<i>NBC News, New York Times, Washington Post</i>\n🟢 <b>Latest:</b> 3:34 PM Sri Lanka (20 min ago) · first reported 3:30 PM\n📷 7/10 an absentee ballot drop box\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122110118475548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 632,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122110118475548584_1699415494872638"
   }
  },
  "seen_links": [
-  "https://abcnews.com/International/wireStory/missiles-target-kyiv-injure-5-ukraine-prepares-talks-137937211",
-  "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
-  "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
   "https://www.france24.com/en/video/20261107-russia-launches-massive-strike-on-kyiv-1",
   "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-world-4025-rdf",
   "https://www.france24.com/en/europe/20261107-moscow-strikes-kyiv-as-ukraine-prepares-for-talks-with-russia-and-the-us",
@@ -10296,7 +10291,10 @@
   "https://www.euronews.com/2026/11/23/nine-people-injured-after-gunfire-at-central-california-concert",
   "https://www.upi.com/Top_News/US/2026/11/22/9-hospitalized-mass-shooting-private-central-Calif-concert/7881795389749/",
   "https://www.newsweek.com/mark-carney-trump-impersonator-stage-what-he-said-12755274",
-  "https://abcnews.com/International/wireStory/carney-enlists-fake-trump-laughs-canadas-annual-press-138366618"
+  "https://abcnews.com/International/wireStory/carney-enlists-fake-trump-laughs-canadas-annual-press-138366618",
+  "https://www.nytimes.com/2026/11/23/us/politics/democrats-debates-2028-presidential-race.html",
+  "https://www.nbcnews.com/politics/2028-election/democratic-national-committee-sets-broad-rules-partys-2028-presidentia-rcna610439",
+  "https://www.washingtonpost.com/politics/2026/11/23/democrats-open-2028-primary-debates-june-after-pushback-against-earlier-start/"
  ],
  "recent_topics": [
   [
@@ -12338,19 +12336,39 @@
     "trump"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-23T10:24:09.825015+00:00",
+   [
+    "12",
+    "broad",
+    "committe",
+    "debat",
+    "democrat",
+    "democratic",
+    "earlier",
+    "jun",
+    "national",
+    "open",
+    "party",
+    "plan",
+    "presidential",
+    "primary",
+    "pushback",
+    "rul",
+    "set",
+    "start"
+   ],
+   "7d2b5f32fe"
   ]
  ],
- "last_draft_at": "2026-11-23T10:01:23.284989+00:00",
+ "last_draft_at": "2026-11-23T10:23:35.634742+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T09:39:09.029065+00:00",
  "run_log": [
-  "11-23 07:30:37 run start",
-  "11-23 07:31:11 listening 11 min",
-  "11-23 07:42:05 listening done",
-  "11-23 07:42:05 run end after 687 s",
   "11-23 07:45:36 run start",
   "11-23 07:45:47 listening 11 min",
   "11-23 07:57:05 listening done",
@@ -12386,12 +12404,15 @@
   "11-23 10:11:18 run start",
   "11-23 10:11:19 listening 11 min",
   "11-23 10:23:03 listening done",
-  "11-23 10:23:03 run end after 704 s"
+  "11-23 10:23:03 run end after 704 s",
+  "11-23 10:23:35 run start",
+  "11-23 10:24:24 listening 11 min",
+  "11-23 10:35:18 listening done",
+  "11-23 10:35:18 run end after 703 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Madrid_-_Madrid_skyline_-_140314_195825.jpg/1920px-Madrid_-_Madrid_skyline_-_140314_195825.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Belgian_Army%2C_BAS_24%2C_Brussels_%28P1170134-RR%29.jpg/1920px-Belgian_Army%2C_BAS_24%2C_Brussels_%28P1170134-RR%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Door_to_Senate_Chamber_MN_State_Capitol.jpg/1920px-Door_to_Senate_Chamber_MN_State_Capitol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Director_Petraeus_rings_opening_bell_at_NY_Stock_Exchange_-_Flickr_-_The_Central_Intelligence_Agency.jpg/1920px-Director_Petraeus_rings_opening_bell_at_NY_Stock_Exchange_-_Flickr_-_The_Central_Intelligence_Agency.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -12430,7 +12451,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/%D9%85%D9%88%D8%B4%DA%A9-%D9%85%D9%88%D8%B2%D9%87_%D8%AC%D9%86%DA%AF-_missile.jpg/1920px-%D9%85%D9%88%D8%B4%DA%A9-%D9%85%D9%88%D8%B2%D9%87_%D8%AC%D9%86%DA%AF-_missile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/%C4%B0ntrepid_aircraft_carrier.jpg/1920px-%C4%B0ntrepid_aircraft_carrier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/SSG_Desiree_Palacios_makes_final_settings_on_her_camera_before_a_sortie_in_a_F-16D_Fighting_Falcon.jpg/1920px-SSG_Desiree_Palacios_makes_final_settings_on_her_camera_before_a_sortie_in_a_F-16D_Fighting_Falcon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Vandenberg_Hosts_%22Rage_Car%22_Event_for_Police_Week_%287810759%29.jpg/1920px-Vandenberg_Hosts_%22Rage_Car%22_Event_for_Police_Week_%287810759%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Vandenberg_Hosts_%22Rage_Car%22_Event_for_Police_Week_%287810759%29.jpg/1920px-Vandenberg_Hosts_%22Rage_Car%22_Event_for_Police_Week_%287810759%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Madison_August_2022_099_%28Official_Absentee_Ballot_Drop_Box%29.jpg/1920px-Madison_August_2022_099_%28Official_Absentee_Ballot_Drop_Box%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "cindy holscher": {
@@ -15694,7 +15716,6 @@
    }
   },
   "recent_ideas": [
-   "voting booth",
    "firefighters fighting fire",
    "aircraft carrier, united states navy",
    "seoul skyline",
@@ -15705,7 +15726,8 @@
    "missile launch",
    "aircraft carrier",
    "soldiers",
-   "emergency services of that city"
+   "emergency services of that city",
+   "absentee ballot"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -17492,6 +17514,11 @@
     "s": 8,
     "w": "police officer in uniform",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Madison_August_2022_099_%28Official_Absentee_Ballot_Drop_Box%29.jpg/1920px-Madison_August_2022_099_%28Official_Absentee_Ballot_Drop_Box%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|a76d71b7": {
+    "s": 7,
+    "w": "an absentee ballot drop box",
+    "p": ""
    }
   }
  },
@@ -17503,10 +17530,10 @@
   "2026-11-20": 30,
   "2026-11-21": 17,
   "2026-11-22": 11,
-  "2026-11-23": 2
+  "2026-11-23": 3
  },
- "last_auto_at": "2026-11-23T05:17:03.794914+00:00",
- "last_post_at": "2026-11-23T05:17:22.189805+00:00",
+ "last_auto_at": "2026-11-23T10:24:10.192439+00:00",
+ "last_post_at": "2026-11-23T10:24:14.592115+00:00",
  "reels_count": {
   "2026-11-16": 10,
   "2026-11-17": 3,
