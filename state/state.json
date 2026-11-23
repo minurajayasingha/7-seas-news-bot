@@ -8672,11 +8672,97 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122110172733548584_1161387236577701"
+  },
+  "f9d9325fa7": {
+   "id": "f9d9325fa7",
+   "headline": "Gen Z voters shift back toward Democratic Party in 2026",
+   "summary": "Gen Z voters swung back to the Democratic Party by 19 points in 2026, according to reports. Meanwhile, Democratic leaders in Congress face strategic decisions regarding potential shifts to the left for the 2028 elections.",
+   "label": "US POLITICS",
+   "hook": "Will Democratic leaders choose a centrist path or move further left for the 2028 elections?",
+   "key_points": [
+    "Gen Z voters swung back to the Democratic Party by 19 points.",
+    "Reports attribute the shift partly to the decline of Republican youth institutions.",
+    "Congressional Democrats face ideological decisions ahead of the 2028 elections."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#GenZ",
+    "#Elections"
+   ],
+   "sources": [
+    "Newsweek",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/news/house/4809483/democrats-move-left-watch-13-issues/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/house/4809483/democrats-move-left-watch-13-issues/"
+    ],
+    [
+     "Newsweek",
+     "https://www.newsweek.com/why-gen-z-moved-back-left-2026-12754054"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Voters_receive_ballots_at_a_polling_station_in_Washington_DC%2C_5_Nov._2024.jpg/1920px-Voters_receive_ballots_at_a_polling_station_in_Washington_DC%2C_5_Nov._2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "oscepa / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "voters at polling station"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "Gen Z voters shift back toward Democratic Party in 2026",
+    "people": [],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "voting booth",
+     "campaign rally"
+    ],
+    "image_style": "person",
+    "location": "US",
+    "nearby_city": "Washington, DC",
+    "event_query": "",
+    "topic_photo": "ballot box",
+    "label": "US POLITICS",
+    "action_subject": "",
+    "news_time": "2026-11-23T10:00:00+00:00"
+   },
+   "created_at": "2026-11-23T12:00:55.860455+00:00",
+   "news_time": "2026-11-23T10:00:00+00:00",
+   "news_latest": "2026-11-23T12:00:00+00:00",
+   "importance": 7,
+   "caption": "Gen Z voters shift back toward Democratic Party in 2026\n\nGen Z voters swung back to the Democratic Party by 19 points in 2026, according to reports. Meanwhile, Democratic leaders in Congress face strategic decisions regarding potential shifts to the left for the 2028 elections.\n\n💬 Will Democratic leaders choose a centrist path or move further left for the 2028 elections?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #GenZ #Elections #7SeasNews",
+   "photo_line": "📷 10/10 voters at polling station · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 933,
+   "tg_file_id": "AgACAgUAAxkDAAIDpWsEKvkrBy7tfB1QeykNiPeUHDF1AAKOGGsbSgchVF3FlkfCijx3AQADAgADdwADPQQ",
+   "queued_at": "2026-11-23T12:00:57.887159+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-23T12:00:57.887179+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122110180977548584",
+   "posted_at": "2026-11-23T12:00:58.197057+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 23 · 7:01 AM New York · 5:31 PM Sri Lanka\n\n<b>Gen Z voters shift back toward Democratic Party in 2026</b>\n<i>Newsweek, Washington Examiner</i>\n🟢 <b>Latest:</b> 5:30 PM Sri Lanka (1 min ago) · first reported 3:30 PM\n📷 10/10 voters at polling station · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122110180977548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 639,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122110180977548584_1525242719444114"
   }
  },
  "seen_links": [
-  "https://www.france24.com/en/americas/20261107-ousted-paraguay-president-under-house-arrest-after-banking-crisis",
-  "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
   "https://www.aljazeera.com/news/2026/11/7/pro-russian-hackers-leak-italian-foreign-ministers-data-on-dark-web?traffic_source=rss",
   "https://abcnews.com/International/wireStory/italys-meloni-blames-pro-russian-hackers-leak-foreign-137937793",
   "https://www.politico.com/news/2026/11/07/kevin-stitt-republicans-butt-whipping-be-nice-01155140",
@@ -10674,7 +10760,9 @@
   "https://www.independent.co.uk/news/world/europe/russia-kaliningrad-exclave-nato-security-b3089796.html",
   "https://www.newsweek.com/putin-ally-warns-nato-crossed-russias-nuclear-strike-red-line-12755634",
   "https://www.euronews.com/video/2026/11/23/ukraine-dramatic-night-rescue-pulls-woman-from-rubble-after-22-hours",
-  "https://www.independent.co.uk/news/world/europe/ukraine-kyiv-dymer-russian-strike-b3089574.html"
+  "https://www.independent.co.uk/news/world/europe/ukraine-kyiv-dymer-russian-strike-b3089574.html",
+  "https://www.washingtonexaminer.com/news/house/4809483/democrats-move-left-watch-13-issues/",
+  "https://www.newsweek.com/why-gen-z-moved-back-left-2026-12754054"
  ],
  "recent_topics": [
   [
@@ -12779,19 +12867,29 @@
     "woman"
    ],
    "3eb168f77d"
+  ],
+  [
+   "2026-11-23T12:00:57.887027+00:00",
+   [
+    "13",
+    "back",
+    "democrat",
+    "gen",
+    "issu",
+    "left",
+    "mov",
+    "watch"
+   ],
+   "f9d9325fa7"
   ]
  ],
- "last_draft_at": "2026-11-23T11:46:05.787666+00:00",
+ "last_draft_at": "2026-11-23T12:00:26.844142+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T11:45:40.583367+00:00",
  "run_log": [
-  "11-23 09:15:36 run start",
-  "11-23 09:15:45 listening 11 min",
-  "11-23 09:27:04 listening done",
-  "11-23 09:27:04 run end after 688 s",
   "11-23 09:39:08 run start",
   "11-23 09:39:25 listening 11 min",
   "11-23 10:01:22 run start",
@@ -12827,12 +12925,15 @@
   "11-23 11:45:40 run start",
   "11-23 11:47:46 listening 9 min",
   "11-23 11:57:24 listening done",
-  "11-23 11:57:24 run end after 704 s"
+  "11-23 11:57:24 run end after 704 s",
+  "11-23 12:00:26 run start",
+  "11-23 12:01:11 listening 11 min",
+  "11-23 12:12:05 listening done",
+  "11-23 12:12:05 run end after 698 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Iowa_Senate_chamber_05.jpg/1920px-Iowa_Senate_chamber_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/The_Clay_County_Courthouse_courtroom_in_2007.jpg/1920px-The_Clay_County_Courthouse_courtroom_in_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/U.S._Service_members_pose_for_a_photo_after_ringing_the_closing_bell_at_the_New_York_Stock_Exchange_in_New_York_May_24%2C_2013_130524-O-ZZ999-002.jpg/1920px-U.S._Service_members_pose_for_a_photo_after_ringing_the_closing_bell_at_the_New_York_Stock_Exchange_in_New_York_May_24%2C_2013_130524-O-ZZ999-002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Vilkha_MLRS_missile_launch%2C_2019%2C_01.jpg/1920px-Vilkha_MLRS_missile_launch%2C_2019%2C_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -12871,7 +12972,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Moscow_Tverskaya_Zastava_Square_2023-06-11_4579.jpg/1920px-Moscow_Tverskaya_Zastava_Square_2023-06-11_4579.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Turbine_near_the_G%C3%B6sgen_Nuclear_Power_Plant%2C_D%C3%A4niken%2C_Solothurn.jpg/1920px-Turbine_near_the_G%C3%B6sgen_Nuclear_Power_Plant%2C_D%C3%A4niken%2C_Solothurn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Dmitry_Medvedev_govru_official_photo_13.jpg/1280px-Dmitry_Medvedev_govru_official_photo_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Clearing_debris_of_a_residential_building_in_Kyiv%2C_2022-04-20_%28962896%29.jpg/1920px-Clearing_debris_of_a_residential_building_in_Kyiv%2C_2022-04-20_%28962896%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Clearing_debris_of_a_residential_building_in_Kyiv%2C_2022-04-20_%28962896%29.jpg/1920px-Clearing_debris_of_a_residential_building_in_Kyiv%2C_2022-04-20_%28962896%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Voters_receive_ballots_at_a_polling_station_in_Washington_DC%2C_5_Nov._2024.jpg/1920px-Voters_receive_ballots_at_a_polling_station_in_Washington_DC%2C_5_Nov._2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -16131,8 +16233,6 @@
    }
   },
   "recent_ideas": [
-   "new york city hall",
-   "missile launch",
    "aircraft carrier",
    "soldiers",
    "emergency services of that city",
@@ -16142,7 +16242,9 @@
    "emergency services of that city",
    "police officers at work",
    "nuclear power plant",
-   "rescue workers rubble"
+   "rescue workers rubble",
+   "voters at polling station",
+   "voters at polling station"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -18034,6 +18136,16 @@
     "s": 10,
     "w": "rescue workers clearing rubble",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Voters_in_queue_%283005537596%29.jpg/1920px-Voters_in_queue_%283005537596%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|f22b985e": {
+    "s": 7,
+    "w": "voters standing in line",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Voters_receive_ballots_at_a_polling_station_in_Washington_DC%2C_5_Nov._2024.jpg/1920px-Voters_receive_ballots_at_a_polling_station_in_Washington_DC%2C_5_Nov._2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|f22b985e": {
+    "s": 10,
+    "w": "voters at polling station",
+    "p": ""
    }
   }
  },
@@ -18045,10 +18157,10 @@
   "2026-11-20": 30,
   "2026-11-21": 17,
   "2026-11-22": 11,
-  "2026-11-23": 9
+  "2026-11-23": 10
  },
- "last_auto_at": "2026-11-23T11:47:18.923381+00:00",
- "last_post_at": "2026-11-23T11:47:36.368978+00:00",
+ "last_auto_at": "2026-11-23T12:00:58.197057+00:00",
+ "last_post_at": "2026-11-23T12:01:01.647880+00:00",
  "reels_count": {
   "2026-11-16": 10,
   "2026-11-17": 3,
