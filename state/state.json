@@ -8292,11 +8292,98 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122110124841548584_1809562243674786"
+  },
+  "e2be825e0d": {
+   "id": "e2be825e0d",
+   "headline": "Donald Trump hosts crypto gala in Virginia",
+   "summary": "President Donald Trump hosted his third cryptocurrency gala at a Virginia golf club, rewarding top holders of his meme coin. Democrats accused the president of improperly profiting from his ventures, while Trump stated his support aims to boost US economic competitiveness.",
+   "label": "US POLITICS",
+   "hook": "Should the president be allowed to host events promoting his own cryptocurrency ventures?",
+   "key_points": [
+    "The dinner took place at the Trump National golf club in Sterling.",
+    "Supporters including Floyd Mayweather and Kevin O'Leary attended.",
+    "The meme coin hit a record low."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Trump",
+    "#Cryptocurrency",
+    "#USPolitics"
+   ],
+   "sources": [
+    "The Guardian",
+    "The Independent"
+   ],
+   "link": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
+   "links": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-meme-coin-dinner-b3089649.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Dearborn_Hills_Golf_Course_clubhouse_Michigan.JPG",
+      "credit": "Dwight Burdette / Wikimedia Commons (CC BY 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "golf course clubhouse exterior"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Donald Trump hosts crypto gala in Virginia",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "Trump National Golf Club",
+    "image_queries": [
+     "golf club in Virginia",
+     "cryptocurrency coin",
+     "Sterling Virginia",
+     "golf course clubhouse"
+    ],
+    "image_style": "scene",
+    "location": "Sterling, Virginia",
+    "nearby_city": "Richmond, Virginia",
+    "event_query": "Trump crypto gala Virginia",
+    "topic_photo": "cryptocurrency coin",
+    "label": "US POLITICS",
+    "action_subject": "cryptocurrency token",
+    "news_time": "2026-11-23T08:10:20+00:00"
+   },
+   "created_at": "2026-11-23T10:50:50.076028+00:00",
+   "news_time": "2026-11-23T08:10:20+00:00",
+   "news_latest": "2026-11-23T08:33:10+00:00",
+   "importance": 6,
+   "caption": "Donald Trump hosts crypto gala in Virginia\n\nPresident Donald Trump hosted his third cryptocurrency gala at a Virginia golf club, rewarding top holders of his meme coin. Democrats accused the president of improperly profiting from his ventures, while Trump stated his support aims to boost US economic competitiveness.\n\n💬 Should the president be allowed to host events promoting his own cryptocurrency ventures?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Trump #Cryptocurrency #USPolitics #7SeasNews",
+   "photo_line": "📷 10/10 golf course clubhouse exterior",
+   "status": "posted",
+   "tg_message_id": 928,
+   "tg_file_id": "AgACAgUAAxkDAAIDoGsEGoz1jqKvwVkKpuL7shn38M5IAAJMGGsbSgchVGjw6d-gLwPnAQADAgADdwADPQQ",
+   "queued_at": "2026-11-23T10:50:52.402458+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-23T10:50:52.402497+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122110131867548584",
+   "posted_at": "2026-11-23T10:50:52.714632+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 23 · 5:50 AM New York · 4:20 PM Sri Lanka\n\n<b>Donald Trump hosts crypto gala in Virginia</b>\n<i>The Guardian, The Independent</i>\n🟡 <b>Latest:</b> 2:03 PM Sri Lanka (2h 17m ago) · first reported 1:40 PM\n📷 10/10 golf course clubhouse exterior\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122110131867548584\">Open on Facebook</a>\n\n⚠️ <i>Looks like an earlier post: “Judge blocks Donald Trump proposed triumphal arch in Virginia”. Tap 🗑 Delete if it's the same news.</i>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 634,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122110131867548584_905166182617016"
   }
  },
  "seen_links": [
-  "https://www.france24.com/en/europe/20261107-moscow-strikes-kyiv-as-ukraine-prepares-for-talks-with-russia-and-the-us",
-  "https://abcnews.com/International/wireStory/thousands-pour-park-uruguay-pope-leos-mass-south-137938096",
   "https://www.cbsnews.com/video/pope-leo-travels-to-latin-america-just-weeks-after-lung-cancer-surgery/",
   "https://www.france24.com/en/pope-leo-calls-on-uruguay-catholics-bridge-builders",
   "https://www.france24.com/en/pope-urges-healthcare-for-all-in-uruguay",
@@ -10294,27 +10381,11 @@
   "https://www.nbcnews.com/politics/2028-election/democratic-national-committee-sets-broad-rules-partys-2028-presidentia-rcna610439",
   "https://www.washingtonpost.com/politics/2026/11/23/democrats-open-2028-primary-debates-june-after-pushback-against-earlier-start/",
   "https://www.france24.com/en/video/20261123-out-of-control-ice-arrests-at-seattle-airport-spark-outcry",
-  "https://www.newsweek.com/alaska-airlines-arrested-ice-criminal-history-us-citizen-green-card-lawyer-12755475"
+  "https://www.newsweek.com/alaska-airlines-arrested-ice-criminal-history-us-citizen-green-card-lawyer-12755475",
+  "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
+  "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-meme-coin-dinner-b3089649.html"
  ],
  "recent_topics": [
-  [
-   "2026-11-20T10:56:12.085289+00:00",
-   [
-    "crav",
-    "equal",
-    "giv",
-    "historic",
-    "humiliation",
-    "political",
-    "putin",
-    "shenzhen",
-    "statur",
-    "summit",
-    "superpower",
-    "win"
-   ],
-   "skipped"
-  ],
   [
    "2026-11-20T11:09:29.758961+00:00",
    [
@@ -12379,19 +12450,41 @@
     "spark"
    ],
    "0424cd058e"
+  ],
+  [
+   "2026-11-23T10:50:52.402298+00:00",
+   [
+    "back",
+    "coin",
+    "conflict",
+    "crypto",
+    "dinner",
+    "gala",
+    "guest",
+    "hit",
+    "host",
+    "interest",
+    "low",
+    "mem",
+    "outcry",
+    "record",
+    "stat",
+    "tell",
+    "third",
+    "token",
+    "trump",
+    "unit"
+   ],
+   "e2be825e0d"
   ]
  ],
- "last_draft_at": "2026-11-23T10:38:36.778787+00:00",
+ "last_draft_at": "2026-11-23T10:50:18.652086+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T10:38:11.408541+00:00",
  "run_log": [
-  "11-23 08:00:53 run start",
-  "11-23 08:01:12 listening 11 min",
-  "11-23 08:12:31 listening done",
-  "11-23 08:12:31 run end after 698 s",
   "11-23 08:15:46 run start",
   "11-23 08:16:19 listening 11 min",
   "11-23 08:27:14 listening done",
@@ -12427,12 +12520,15 @@
   "11-23 10:38:10 run start",
   "11-23 10:39:43 listening 10 min",
   "11-23 10:49:47 listening done",
-  "11-23 10:49:47 run end after 696 s"
+  "11-23 10:49:47 run end after 696 s",
+  "11-23 10:50:18 run start",
+  "11-23 10:51:06 listening 11 min",
+  "11-23 11:01:59 listening done",
+  "11-23 11:01:59 run end after 701 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Door_to_Senate_Chamber_MN_State_Capitol.jpg/1920px-Door_to_Senate_Chamber_MN_State_Capitol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Director_Petraeus_rings_opening_bell_at_NY_Stock_Exchange_-_Flickr_-_The_Central_Intelligence_Agency.jpg/1920px-Director_Petraeus_rings_opening_bell_at_NY_Stock_Exchange_-_Flickr_-_The_Central_Intelligence_Agency.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Congressional_Hearing_-_Jul._24%2C_2012_%287748554726%29.jpg/1920px-Congressional_Hearing_-_Jul._24%2C_2012_%287748554726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/White_House_%28South_Lawn%29.jpeg/1920px-White_House_%28South_Lawn%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -12471,7 +12567,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/SSG_Desiree_Palacios_makes_final_settings_on_her_camera_before_a_sortie_in_a_F-16D_Fighting_Falcon.jpg/1920px-SSG_Desiree_Palacios_makes_final_settings_on_her_camera_before_a_sortie_in_a_F-16D_Fighting_Falcon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Vandenberg_Hosts_%22Rage_Car%22_Event_for_Police_Week_%287810759%29.jpg/1920px-Vandenberg_Hosts_%22Rage_Car%22_Event_for_Police_Week_%287810759%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Madison_August_2022_099_%28Official_Absentee_Ballot_Drop_Box%29.jpg/1920px-Madison_August_2022_099_%28Official_Absentee_Ballot_Drop_Box%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Seattle-Tacoma_International_Airport%2C_Washington_%282014%29_-_01.JPG/1920px-Seattle-Tacoma_International_Airport%2C_Washington_%282014%29_-_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Seattle-Tacoma_International_Airport%2C_Washington_%282014%29_-_01.JPG/1920px-Seattle-Tacoma_International_Airport%2C_Washington_%282014%29_-_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/9/97/Dearborn_Hills_Golf_Course_clubhouse_Michigan.JPG"
   ],
   "pools": {
    "cindy holscher": {
@@ -15735,7 +15832,6 @@
    }
   },
   "recent_ideas": [
-   "aircraft carrier, united states navy",
    "seoul skyline",
    "collapsed building rescue",
    "fire truck",
@@ -15746,7 +15842,8 @@
    "soldiers",
    "emergency services of that city",
    "absentee ballot",
-   "seattle tacoma international airport"
+   "seattle tacoma international airport",
+   "golf course clubhouse"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -17558,6 +17655,11 @@
     "s": 6,
     "w": "Seattle airport terminal interior",
     "p": ""
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/9/97/Dearborn_Hills_Golf_Course_clubhouse_Michigan.JPG|efc78465": {
+    "s": 10,
+    "w": "golf course clubhouse exterior",
+    "p": ""
    }
   }
  },
@@ -17569,10 +17671,10 @@
   "2026-11-20": 30,
   "2026-11-21": 17,
   "2026-11-22": 11,
-  "2026-11-23": 4
+  "2026-11-23": 5
  },
- "last_auto_at": "2026-11-23T10:39:24.503369+00:00",
- "last_post_at": "2026-11-23T10:39:30.231846+00:00",
+ "last_auto_at": "2026-11-23T10:50:52.714632+00:00",
+ "last_post_at": "2026-11-23T10:50:57.552482+00:00",
  "reels_count": {
   "2026-11-16": 10,
   "2026-11-17": 3,
