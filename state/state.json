@@ -1,103 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "66e1b4360f": {
-   "id": "66e1b4360f",
-   "headline": "Somalia orders United Arab Emirates ambassador to leave the country",
-   "summary": "Somalia has ordered the ambassador from the United Arab Emirates to leave within 72 hours amid rising diplomatic tensions. Somalia stated that the actions of the United Arab Emirates amount to an open invasion and interference in internal affairs.",
-   "label": "DIPLOMACY",
-   "hook": "",
-   "key_points": [
-    "Somalia issued the expulsion order.",
-    "The ambassador must leave within 72 hours.",
-    "Somalia accused Abu Dhabi of violating sovereignty."
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#Somalia",
-    "#UAE",
-    "#Diplomacy"
-   ],
-   "sources": [
-    "ABC News",
-    "Al Jazeera"
-   ],
-   "link": "https://abcnews.com/International/wireStory/somalia-orders-uae-ambassador-leave-diplomatic-dispute-escalates-138288436",
-   "links": [
-    [
-     "ABC News",
-     "https://abcnews.com/International/wireStory/somalia-orders-uae-ambassador-leave-diplomatic-dispute-escalates-138288436"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/19/somalia-expels-uae-ambassador-accuses-abu-dhabi-of-violating-sovereignty?traffic_source=rss"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Mogadishu_Skyline_1st_picture.jpg",
-      "credit": "Isma4l / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 10,
-      "shows": "Mogadishu skyline"
-     }
-    ],
-    "_loaded": 1
-   },
-   "img_post": {
-    "headline": "Somalia orders United Arab Emirates ambassador to leave the country",
-    "people": [],
-    "image_query": "Mogadishu city",
-    "image_queries": [
-     "Somalia government building",
-     "UAE embassy",
-     "Mogadishu skyline",
-     "Abu Dhabi city"
-    ],
-    "image_style": "scene",
-    "location": "Mogadishu, Somalia",
-    "nearby_city": "Mogadishu, Somalia",
-    "event_query": "Somalia UAE diplomatic dispute",
-    "topic_photo": "official flags",
-    "label": "DIPLOMACY",
-    "action_subject": "diplomatic meeting",
-    "news_time": "2026-11-19T14:34:22+00:00"
-   },
-   "created_at": "2026-11-19T15:50:07.178270+00:00",
-   "news_time": "2026-11-19T14:34:22+00:00",
-   "news_latest": "2026-11-19T14:51:20+00:00",
-   "importance": 7,
-   "caption": "🚨 BREAKING: Somalia orders United Arab Emirates ambassador to leave the country\n\nSomalia has ordered the ambassador from the United Arab Emirates to leave within 72 hours amid rising diplomatic tensions. Somalia stated that the actions of the United Arab Emirates amount to an open invasion and interference in internal affairs.\n\nWhat we know so far:\n• Somalia issued the expulsion order.\n• The ambassador must leave within 72 hours.\n• Somalia accused Abu Dhabi of violating sovereignty.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Somalia #UAE #Diplomacy #7SeasNews",
-   "photo_line": "📷 10/10 Mogadishu skyline",
-   "status": "posted",
-   "tg_message_id": 827,
-   "tg_file_id": "AgACAgUAAxkDAAIDO2r_GrD5xmdea-Q751lb974V8YDuAAKNFGsb3mn4V978jcfpSZ_IAQADAgADdwADPQQ",
-   "queued_at": "2026-11-19T15:50:09.212163+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-19T15:50:09.212188+00:00",
-   "post_label": "🤖 Auto-posting + Reel",
-   "fb_post_id": "1413030521900096_122106444921548584",
-   "posted_at": "2026-11-19T15:50:09.555261+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 19 · 10:50 AM New York · 9:20 PM Sri Lanka\n\n<b>Somalia orders United Arab Emirates ambassador to leave the country</b>\n<i>ABC News, Al Jazeera</i>\n🟢 <b>Latest:</b> 8:21 PM Sri Lanka (58 min ago) · first reported 8:04 PM\n📷 10/10 Mogadishu skyline\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122106444921548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 534,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122106444921548584_1503355741607831",
-   "fb_story_id": "2224165418514207",
-   "fb_reel_id": "2108626216438083",
-   "reel_status": "live",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-22T15:15:44.260594+00:00"
-  },
   "f88a3502ca": {
    "id": "f88a3502ca",
    "headline": "Dutch embassy compound hit by projectile during Kyiv attacks",
@@ -12628,17 +12531,13 @@
    "3ed909c38e"
   ]
  ],
- "last_draft_at": "2026-11-23T15:31:26.209418+00:00",
+ "last_draft_at": "2026-11-23T15:47:19.996631+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T15:01:38.498452+00:00",
  "run_log": [
-  "11-23 13:17:59 run start",
-  "11-23 13:18:18 listening 11 min",
-  "11-23 13:29:37 listening done",
-  "11-23 13:29:37 run end after 698 s",
   "11-23 13:30:47 run start",
   "11-23 13:30:57 listening 11 min",
   "11-23 13:42:17 listening done",
@@ -12674,7 +12573,11 @@
   "11-23 15:31:25 run start",
   "11-23 15:31:58 listening 11 min",
   "11-23 15:42:52 listening done",
-  "11-23 15:42:52 run end after 686 s"
+  "11-23 15:42:52 run end after 686 s",
+  "11-23 15:47:19 run start",
+  "11-23 15:47:29 listening 11 min",
+  "11-23 15:58:48 listening done",
+  "11-23 15:58:48 run end after 688 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
