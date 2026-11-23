@@ -10583,33 +10583,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-20T07:15:52.874542+00:00",
-   [
-    "another",
-    "asleep",
-    "china",
-    "docusery",
-    "embrac",
-    "escalator",
-    "fall",
-    "leader",
-    "mark",
-    "meet",
-    "melania",
-    "mock",
-    "moment",
-    "premier",
-    "prim",
-    "tim",
-    "trump",
-    "video",
-    "viral",
-    "world",
-    "yet"
-   ],
-   "skipped"
-  ],
-  [
    "2026-11-20T08:01:17.014664+00:00",
    [
     "apec",
@@ -12762,17 +12735,13 @@
    "efcc1598ed"
   ]
  ],
- "last_draft_at": "2026-11-23T07:00:51.171034+00:00",
+ "last_draft_at": "2026-11-23T07:15:41.577993+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T06:30:41.622138+00:00",
  "run_log": [
-  "11-23 04:45:36 run start",
-  "11-23 04:46:16 listening 11 min",
-  "11-23 04:57:09 listening done",
-  "11-23 04:57:09 run end after 693 s",
   "11-23 05:00:44 run start",
   "11-23 05:00:55 listening 11 min",
   "11-23 05:12:14 listening done",
@@ -12808,7 +12777,11 @@
   "11-23 07:00:50 run start",
   "11-23 07:01:00 listening 11 min",
   "11-23 07:12:19 listening done",
-  "11-23 07:12:19 run end after 689 s"
+  "11-23 07:12:19 run end after 689 s",
+  "11-23 07:15:41 run start",
+  "11-23 07:16:14 listening 11 min",
+  "11-23 07:27:09 listening done",
+  "11-23 07:27:09 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
