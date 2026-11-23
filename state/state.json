@@ -8099,10 +8099,6 @@
   }
  },
  "seen_links": [
-  "https://www.newsweek.com/melania-trump-nobel-peace-prize-ukraine-diplomacy-12679234",
-  "https://www.washingtonexaminer.com/policy/foreign-policy/4795394/ukraine-anti-corruption-agencies-undermining-trump-peace-efforts-kravchenko/",
-  "https://www.newsweek.com/what-if-trump-had-lost-in-2016-10-years-of-alternate-history-12672662",
-  "https://www.theguardian.com/us-news/ng-interactive/2026/nov/08/trump-midterms-voters-mirror-world",
   "https://abcnews.com/International/wireStory/russia-targets-emergency-crews-site-deadly-strike-southern-137951536",
   "https://kyivindependent.com/russian-attacks-kill-5-injure-10-in-ukraine-over-the-past-day-striking-zaporizhzhia-oblast-over-700-times/",
   "https://www.washingtonpost.com/national-security/2026/11/08/after-midterms-justice-dept-braces-barrage-congressional-scrutiny/",
@@ -10098,7 +10094,11 @@
   "https://www.euronews.com/2026/11/23/iran-carries-out-flogging-of-singer-who-performed-without-hijab",
   "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
   "https://www.foxnews.com/world/israels-leading-contender-prime-minister-clashes-netanyahu-over-iran-strikes",
-  "https://www.independent.co.uk/news/world/middle-east/netanyahu-trump-strike-iran-israel-war-b3089829.html"
+  "https://www.independent.co.uk/news/world/middle-east/netanyahu-trump-strike-iran-israel-war-b3089829.html",
+  "https://www.axios.com/2026/11/23/jensen-huang-nvidia-congress-dc-reaction",
+  "https://thehill.com/homenews/house/6237899-huang-testifies-capitol-hill-december/",
+  "https://www.upi.com/Top_News/World-News/2026/11/23/tajikistan-icc-withdrawal/8371795453557/",
+  "https://www.independent.co.uk/news/world/icc-tajikistan-us-international-criminal-court-b3090095.html"
  ],
  "recent_topics": [
   [
@@ -11843,17 +11843,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-23T19:10:35.465076+00:00",
+ "last_draft_at": "2026-11-23T19:21:09.078771+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T19:10:02.278131+00:00",
  "run_log": [
-  "11-23 16:42:17 listening done",
-  "11-23 16:42:17 run end after 686 s",
-  "11-23 16:45:40 run start",
-  "11-23 16:45:49 listening 11 min",
   "11-23 16:57:08 listening done",
   "11-23 16:57:08 run end after 687 s",
   "11-23 17:00:54 run start",
@@ -11889,7 +11885,11 @@
   "11-23 18:58:23 listening done",
   "11-23 18:58:23 run end after 689 s",
   "11-23 19:10:01 run start",
-  "11-23 19:10:54 listening 11 min"
+  "11-23 19:10:54 listening 11 min",
+  "11-23 19:21:08 run start",
+  "11-23 19:22:12 listening 10 min",
+  "11-23 19:32:40 listening done",
+  "11-23 19:32:40 run end after 692 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
