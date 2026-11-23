@@ -8289,14 +8289,97 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122110131867548584_905166182617016"
+  },
+  "65d536118f": {
+   "id": "65d536118f",
+   "headline": "European schools receive wave of bomb threats via email",
+   "summary": "German police are responding to bomb threats targeting multiple schools, though authorities report they currently appear not to be credible. Similar apparent hoaxes have also been reported by Danish authorities, according to reports.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Hundreds of schools received bomb threats.",
+    "Threats were delivered via email.",
+    "Danish authorities reported similar apparent hoaxes."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#WorldNews",
+    "#Germany",
+    "#Europe"
+   ],
+   "sources": [
+    "DW",
+    "The Independent"
+   ],
+   "link": "https://www.dw.com/en/german-police-respond-to-multiple-school-bomb-threats/a-80018842?maca=en-rss-en-world-4025-rdf",
+   "links": [
+    [
+     "DW",
+     "https://www.dw.com/en/german-police-respond-to-multiple-school-bomb-threats/a-80018842?maca=en-rss-en-world-4025-rdf"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/europe/school-bomb-threats-germany-denmark-b3089758.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Policia_portuaria%2C_Kiel%2C_Alemania%2C_2019-08-30%2C_DD_18.jpg/1920px-Policia_portuaria%2C_Kiel%2C_Alemania%2C_2019-08-30%2C_DD_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Diego Delso / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 8,
+      "shows": "German police boat"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "European schools receive wave of bomb threats via email",
+    "people": [],
+    "image_query": "German school building",
+    "image_queries": [
+     "school building exterior",
+     "police car parked",
+     "Danish school",
+     "police tape"
+    ],
+    "image_style": "incident",
+    "location": "Germany",
+    "nearby_city": "Berlin, Germany",
+    "event_query": "German school bomb threats",
+    "topic_photo": "police car",
+    "label": "WORLD",
+    "action_subject": "police officers at work",
+    "news_time": "2026-11-23T10:59:06+00:00"
+   },
+   "created_at": "2026-11-23T11:16:13.458981+00:00",
+   "news_time": "2026-11-23T10:59:06+00:00",
+   "news_latest": "2026-11-23T11:01:00+00:00",
+   "importance": 6,
+   "caption": "European schools receive wave of bomb threats via email\n\nGerman police are responding to bomb threats targeting multiple schools, though authorities report they currently appear not to be credible. Similar apparent hoaxes have also been reported by Danish authorities, according to reports.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WorldNews #Germany #Europe #7SeasNews",
+   "photo_line": "📷 8/10 German police boat · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 929,
+   "tg_file_id": "AgACAgUAAxkDAAIDoWsEIH88bHwtEA-Y1mArXjNszj9FAAJzGGsbSgchVIsAAVGRmGGIkQEAAwIAA3cAAz0E",
+   "queued_at": "2026-11-23T11:16:16.030857+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-23T11:16:16.030885+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122110143177548584",
+   "posted_at": "2026-11-23T11:16:16.373002+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 23 · 6:16 AM New York · 4:46 PM Sri Lanka\n\n<b>European schools receive wave of bomb threats via email</b>\n<i>DW, The Independent</i>\n🟢 <b>Latest:</b> 4:31 PM Sri Lanka (15 min ago) · first reported 4:29 PM\n📷 8/10 German police boat · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122110143177548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 635,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122110143177548584_1395914539078856"
   }
  },
  "seen_links": [
-  "https://www.cbsnews.com/video/pope-leo-travels-to-latin-america-just-weeks-after-lung-cancer-surgery/",
-  "https://www.france24.com/en/pope-leo-calls-on-uruguay-catholics-bridge-builders",
-  "https://www.france24.com/en/pope-urges-healthcare-for-all-in-uruguay",
-  "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-  "https://www.cbsnews.com/news/shooting-main-market-square-krakow-poland/",
   "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
   "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss",
   "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
@@ -10291,28 +10374,14 @@
   "https://www.france24.com/en/video/20261123-out-of-control-ice-arrests-at-seattle-airport-spark-outcry",
   "https://www.newsweek.com/alaska-airlines-arrested-ice-criminal-history-us-citizen-green-card-lawyer-12755475",
   "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
-  "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-meme-coin-dinner-b3089649.html"
+  "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-meme-coin-dinner-b3089649.html",
+  "https://www.cbsnews.com/news/lioness-istanbul-turkey-outskirts-search/",
+  "https://abcnews.com/International/wireStory/turkish-authorities-search-lion-spotted-outskirts-istanbul-138369535",
+  "https://www.euronews.com/2026/11/23/turkish-authorities-search-for-lion-spotted-on-outskirts-of-istanbul",
+  "https://www.dw.com/en/german-police-respond-to-multiple-school-bomb-threats/a-80018842?maca=en-rss-en-world-4025-rdf",
+  "https://www.independent.co.uk/news/world/europe/school-bomb-threats-germany-denmark-b3089758.html"
  ],
  "recent_topics": [
-  [
-   "2026-11-20T11:24:15.198237+00:00",
-   [
-    "declaration",
-    "end",
-    "four-point",
-    "icc",
-    "left",
-    "offer",
-    "peac",
-    "plan",
-    "putin",
-    "tabl",
-    "target",
-    "trump",
-    "war"
-   ],
-   "ce7c2b9efb"
-  ],
   [
    "2026-11-20T11:36:41.615241+00:00",
    [
@@ -12358,19 +12427,47 @@
     "unit"
    ],
    "e2be825e0d"
+  ],
+  [
+   "2026-11-23T11:15:52.275912+00:00",
+   [
+    "authority",
+    "istanbul",
+    "lion",
+    "lioness",
+    "outskirt",
+    "roam",
+    "search",
+    "seen",
+    "spott",
+    "turkish"
+   ],
+   "skipped"
+  ],
+  [
+   "2026-11-23T11:16:16.030694+00:00",
+   [
+    "bomb",
+    "european",
+    "german",
+    "multipl",
+    "polic",
+    "respond",
+    "school",
+    "target",
+    "threat",
+    "wav"
+   ],
+   "65d536118f"
   ]
  ],
- "last_draft_at": "2026-11-23T11:02:30.789600+00:00",
+ "last_draft_at": "2026-11-23T11:15:41.585978+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T10:38:11.408541+00:00",
  "run_log": [
-  "11-23 08:31:13 run start",
-  "11-23 08:31:31 listening 11 min",
-  "11-23 08:42:49 listening done",
-  "11-23 08:42:49 run end after 696 s",
   "11-23 08:45:36 run start",
   "11-23 08:45:55 listening 11 min",
   "11-23 08:57:14 listening done",
@@ -12406,12 +12503,15 @@
   "11-23 11:02:30 run start",
   "11-23 11:02:40 listening 11 min",
   "11-23 11:13:58 listening done",
-  "11-23 11:13:58 run end after 687 s"
+  "11-23 11:13:58 run end after 687 s",
+  "11-23 11:15:41 run start",
+  "11-23 11:16:30 listening 11 min",
+  "11-23 11:27:24 listening done",
+  "11-23 11:27:24 run end after 703 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Director_Petraeus_rings_opening_bell_at_NY_Stock_Exchange_-_Flickr_-_The_Central_Intelligence_Agency.jpg/1920px-Director_Petraeus_rings_opening_bell_at_NY_Stock_Exchange_-_Flickr_-_The_Central_Intelligence_Agency.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Congressional_Hearing_-_Jul._24%2C_2012_%287748554726%29.jpg/1920px-Congressional_Hearing_-_Jul._24%2C_2012_%287748554726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/White_House_%28South_Lawn%29.jpeg/1920px-White_House_%28South_Lawn%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Capitol_Washington_October_2016-3.jpg/1920px-Capitol_Washington_October_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -12450,7 +12550,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Vandenberg_Hosts_%22Rage_Car%22_Event_for_Police_Week_%287810759%29.jpg/1920px-Vandenberg_Hosts_%22Rage_Car%22_Event_for_Police_Week_%287810759%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Madison_August_2022_099_%28Official_Absentee_Ballot_Drop_Box%29.jpg/1920px-Madison_August_2022_099_%28Official_Absentee_Ballot_Drop_Box%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Seattle-Tacoma_International_Airport%2C_Washington_%282014%29_-_01.JPG/1920px-Seattle-Tacoma_International_Airport%2C_Washington_%282014%29_-_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/9/97/Dearborn_Hills_Golf_Course_clubhouse_Michigan.JPG"
+   "https://upload.wikimedia.org/wikipedia/commons/9/97/Dearborn_Hills_Golf_Course_clubhouse_Michigan.JPG",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Policia_portuaria%2C_Kiel%2C_Alemania%2C_2019-08-30%2C_DD_18.jpg/1920px-Policia_portuaria%2C_Kiel%2C_Alemania%2C_2019-08-30%2C_DD_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "cindy holscher": {
@@ -15714,8 +15815,6 @@
    }
   },
   "recent_ideas": [
-   "seoul skyline",
-   "collapsed building rescue",
    "fire truck",
    "missile launch",
    "new york city hall",
@@ -15725,7 +15824,9 @@
    "emergency services of that city",
    "absentee ballot",
    "seattle tacoma international airport",
-   "golf course clubhouse"
+   "golf course clubhouse",
+   "emergency services of that city",
+   "police officers at work"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -17542,6 +17643,21 @@
     "s": 10,
     "w": "golf course clubhouse exterior",
     "p": ""
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/0/04/Police_car_NRW_5-6357.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled|ed561fd7": {
+    "s": 7,
+    "w": "german police vehicle",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Policia_portuaria%2C_Kiel%2C_Alemania%2C_2019-08-30%2C_DD_18.jpg/1920px-Policia_portuaria%2C_Kiel%2C_Alemania%2C_2019-08-30%2C_DD_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|ed561fd7": {
+    "s": 8,
+    "w": "German police boat",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Bruneian_police_officer_in_Belait.jpg/1920px-Bruneian_police_officer_in_Belait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|ed561fd7": {
+    "s": 0,
+    "w": "police officer in uniform",
+    "p": "wrong location, person not related to German bomb threats"
    }
   }
  },
@@ -17553,10 +17669,10 @@
   "2026-11-20": 30,
   "2026-11-21": 17,
   "2026-11-22": 11,
-  "2026-11-23": 5
+  "2026-11-23": 6
  },
- "last_auto_at": "2026-11-23T10:50:52.714632+00:00",
- "last_post_at": "2026-11-23T10:50:57.552482+00:00",
+ "last_auto_at": "2026-11-23T11:16:16.373002+00:00",
+ "last_post_at": "2026-11-23T11:16:21.208495+00:00",
  "reels_count": {
   "2026-11-16": 10,
   "2026-11-17": 3,
