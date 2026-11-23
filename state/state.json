@@ -8760,12 +8760,96 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122110180977548584_1525242719444114"
+  },
+  "796612a75a": {
+   "id": "796612a75a",
+   "headline": "Oxfam report says Israeli actions created toxic wasteland in Gaza",
+   "summary": "A report by the UK-based charity Oxfam states that Israel's actions have turned Gaza into a toxic wasteland. The document indicates potential contamination across almost all of the territory.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Charity Oxfam published the new report",
+    "Report warns of contamination across almost all of Gaza"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Gaza",
+    "#Oxfam",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "BBC"
+   ],
+   "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+   "links": [
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-turned-into-toxic-wasteland-by-israels-war-says-new-report?traffic_source=rss"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/23/environmental-crimes-israel-blamed-for-toxic-pollution-in-99-of-gaza?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "map",
+    "photos": [],
+    "location": "Gaza",
+    "lat": 31.5,
+    "lon": 34.45,
+    "country": "Palestine",
+    "state": ""
+   },
+   "img_post": {
+    "headline": "Oxfam report says Israeli actions created toxic wasteland in Gaza",
+    "people": [],
+    "image_query": "Gaza cityscape",
+    "image_queries": [
+     "Gaza Strip landscape",
+     "Gaza buildings",
+     "Gaza streets",
+     "Gaza area"
+    ],
+    "image_style": "incident",
+    "location": "Gaza",
+    "nearby_city": "Gaza City",
+    "event_query": "Gaza damage",
+    "topic_photo": "rubble and debris",
+    "label": "CONFLICT",
+    "action_subject": "damaged buildings in Gaza",
+    "news_time": "2026-11-23T09:30:16+00:00"
+   },
+   "created_at": "2026-11-23T12:14:41.452054+00:00",
+   "news_time": "2026-11-23T09:30:16+00:00",
+   "news_latest": "2026-11-23T11:57:33+00:00",
+   "importance": 8,
+   "caption": "Oxfam report says Israeli actions created toxic wasteland in Gaza\n\nA report by the UK-based charity Oxfam states that Israel's actions have turned Gaza into a toxic wasteland. The document indicates potential contamination across almost all of the territory.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Gaza #Oxfam #WorldNews #7SeasNews",
+   "photo_line": "📷 news map (no fitting photo)",
+   "status": "posted",
+   "tg_message_id": 934,
+   "tg_file_id": "AgACAgUAAxkDAAIDpmsELjPtLD8OPPliDaD7lHNQ1aSuAAKRGGsbSgchVGckLQpq-4c9AQADAgADdwADPQQ",
+   "queued_at": "2026-11-23T12:14:43.558585+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-23T12:14:43.558631+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122110187715548584",
+   "posted_at": "2026-11-23T12:14:43.895950+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 23 · 7:14 AM New York · 5:44 PM Sri Lanka\n\n<b>Oxfam report says Israeli actions created toxic wasteland in Gaza</b>\n<i>Al Jazeera, BBC</i>\n🟢 <b>Latest:</b> 5:27 PM Sri Lanka (17 min ago) · first reported 3:00 PM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122110187715548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 640,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122110187715548584_1772934353794404"
   }
  },
  "seen_links": [
-  "https://www.aljazeera.com/news/2026/11/7/pro-russian-hackers-leak-italian-foreign-ministers-data-on-dark-web?traffic_source=rss",
-  "https://abcnews.com/International/wireStory/italys-meloni-blames-pro-russian-hackers-leak-foreign-137937793",
-  "https://www.politico.com/news/2026/11/07/kevin-stitt-republicans-butt-whipping-be-nice-01155140",
   "https://thehill.com/homenews/analysis/6205560-trump-midterm-elections-republican-party-direction/",
   "https://abcnews.com/Politics/wireStory/nithya-raman-charge-la-amid-homeless-crisis-political-137940423",
   "https://www.theguardian.com/us-news/2026/nov/07/los-angeles-mayor-nithya-raman-progressives-dsa",
@@ -10762,27 +10846,12 @@
   "https://www.euronews.com/video/2026/11/23/ukraine-dramatic-night-rescue-pulls-woman-from-rubble-after-22-hours",
   "https://www.independent.co.uk/news/world/europe/ukraine-kyiv-dymer-russian-strike-b3089574.html",
   "https://www.washingtonexaminer.com/news/house/4809483/democrats-move-left-watch-13-issues/",
-  "https://www.newsweek.com/why-gen-z-moved-back-left-2026-12754054"
+  "https://www.newsweek.com/why-gen-z-moved-back-left-2026-12754054",
+  "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-turned-into-toxic-wasteland-by-israels-war-says-new-report?traffic_source=rss",
+  "https://www.aljazeera.com/news/2026/11/23/environmental-crimes-israel-blamed-for-toxic-pollution-in-99-of-gaza?traffic_source=rss"
  ],
  "recent_topics": [
-  [
-   "2026-11-20T12:19:36.768722+00:00",
-   [
-    "cautiously",
-    "court",
-    "critical",
-    "genocid",
-    "myanmar",
-    "prais",
-    "react",
-    "reject",
-    "rol",
-    "rul",
-    "unfair",
-    "uns"
-   ],
-   "1deeaf75e4"
-  ],
   [
    "2026-11-20T12:41:41.294614+00:00",
    [
@@ -12881,19 +12950,35 @@
     "watch"
    ],
    "f9d9325fa7"
+  ],
+  [
+   "2026-11-23T12:14:43.558417+00:00",
+   [
+    "99",
+    "attack",
+    "blam",
+    "crim",
+    "environmental",
+    "gaza",
+    "israel",
+    "israeli",
+    "oxfam",
+    "pollution",
+    "toxic",
+    "turn",
+    "war",
+    "wasteland"
+   ],
+   "796612a75a"
   ]
  ],
- "last_draft_at": "2026-11-23T12:00:26.844142+00:00",
+ "last_draft_at": "2026-11-23T12:12:38.240928+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T11:45:40.583367+00:00",
  "run_log": [
-  "11-23 09:39:08 run start",
-  "11-23 09:39:25 listening 11 min",
-  "11-23 10:01:22 run start",
-  "11-23 10:01:42 listening 11 min",
   "11-23 10:11:18 run start",
   "11-23 10:11:19 listening 11 min",
   "11-23 10:23:03 listening done",
@@ -12929,7 +13014,11 @@
   "11-23 12:00:26 run start",
   "11-23 12:01:11 listening 11 min",
   "11-23 12:12:05 listening done",
-  "11-23 12:12:05 run end after 698 s"
+  "11-23 12:12:05 run end after 698 s",
+  "11-23 12:12:37 run start",
+  "11-23 12:14:57 listening 9 min",
+  "11-23 12:24:10 listening done",
+  "11-23 12:24:10 run end after 693 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -18146,6 +18235,21 @@
     "s": 10,
     "w": "voters at polling station",
     "p": ""
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/d/d5/Gaza_skyline.jpg|1a3bd81e": {
+    "s": 3,
+    "w": "sunset over landscape",
+    "p": "shows landscape instead of damaged buildings"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Gaza_Street_bus_bombing3494.jpg/1920px-Gaza_Street_bus_bombing3494.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|1a3bd81e": {
+    "s": 0,
+    "w": "memorial wreath and plaque",
+    "p": "wrong country or city; does not show Gaza street"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Trafalgar_Square_Gaza_Protest_%2853983687790%29.jpg/1920px-Trafalgar_Square_Gaza_Protest_%2853983687790%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|1a3bd81e": {
+    "s": 0,
+    "w": "protest in London with sign",
+    "p": "wrong location, shows a protest in London instead of Gaza"
    }
   }
  },
@@ -18157,10 +18261,10 @@
   "2026-11-20": 30,
   "2026-11-21": 17,
   "2026-11-22": 11,
-  "2026-11-23": 10
+  "2026-11-23": 11
  },
- "last_auto_at": "2026-11-23T12:00:58.197057+00:00",
- "last_post_at": "2026-11-23T12:01:01.647880+00:00",
+ "last_auto_at": "2026-11-23T12:14:43.895950+00:00",
+ "last_post_at": "2026-11-23T12:14:48.366995+00:00",
  "reels_count": {
   "2026-11-16": 10,
   "2026-11-17": 3,
