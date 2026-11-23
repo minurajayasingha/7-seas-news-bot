@@ -8302,13 +8302,186 @@
     "shares": 0
    },
    "stats_at": "2026-11-23T03:21:50.344205+00:00"
+  },
+  "5ce05721ba": {
+   "id": "5ce05721ba",
+   "headline": "Trump reports high levels of Iranian drone and missile attacks",
+   "summary": "President Donald Trump stated that Iran launched a record number of missiles and drones over the past week. According to the reports, all incoming threats were intercepted and caused no damage.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Attacks reached a yearlong high last week.",
+    "All incoming missiles and drones were knocked down.",
+    "No damage was reported from the recent surge."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Iran",
+    "#MiddleEast",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Fox News",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/news/world/4811776/trump-iranian-attacks-yearlong-high-last-week/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/world/4811776/trump-iranian-attacks-yearlong-high-last-week/"
+    ],
+    [
+     "Fox News",
+     "https://www.foxnews.com/world/trump-says-iran-unleashed-missile-drone-surge-after-midterms"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/%D9%85%D9%88%D8%B4%DA%A9-%D9%85%D9%88%D8%B2%D9%87_%D8%AC%D9%86%DA%AF-_missile.jpg/1920px-%D9%85%D9%88%D8%B4%DA%A9-%D9%85%D9%88%D8%B2%D9%87_%D8%AC%D9%86%DA%AF-_missile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Mahdikarimi70 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 8,
+      "shows": "missiles on display launcher"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "Trump reports high levels of Iranian drone and missile attacks",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "Pentagon building",
+    "image_queries": [
+     "military radar screen",
+     "defense control room",
+     "missile defense system",
+     "air defense unit"
+    ],
+    "image_style": "incident",
+    "location": "Iran",
+    "nearby_city": "Tehran, Iran",
+    "event_query": "missile launch",
+    "topic_photo": "radar screen",
+    "label": "CONFLICT",
+    "action_subject": "missile launch",
+    "news_time": "2026-11-22T23:33:06+00:00"
+   },
+   "created_at": "2026-11-23T03:46:24.784338+00:00",
+   "news_time": "2026-11-22T23:33:06+00:00",
+   "news_latest": "2026-11-23T03:40:45+00:00",
+   "importance": 7,
+   "caption": "Trump reports high levels of Iranian drone and missile attacks\n\nPresident Donald Trump stated that Iran launched a record number of missiles and drones over the past week. According to the reports, all incoming threats were intercepted and caused no damage.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Iran #MiddleEast #WorldNews #7SeasNews",
+   "photo_line": "📷 8/10 missiles on display launcher · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 919,
+   "tg_file_id": "AgACAgUAAxkDAAIDl2sDtxL8aohWvB4CiQxOB0OW_A1VAAIMFmsboQ8ZVGS359-Ksjv2AQADAgADdwADPQQ",
+   "queued_at": "2026-11-23T03:46:26.869162+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_label": "🤖 Auto-posting",
+   "post_at": "2026-11-23T03:47:03.694509+00:00",
+   "fb_post_id": "1413030521900096_122109911853548584",
+   "posted_at": "2026-11-23T03:46:59.608853+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 22 · 10:47 PM New York · 9:17 AM Sri Lanka\n\n<b>Trump reports high levels of Iranian drone and missile attacks</b>\n<i>Fox News, Washington Examiner</i>\n🟢 <b>Latest:</b> 9:10 AM Sri Lanka (7 min ago) · first reported 5:03 AM\n📷 8/10 missiles on display launcher · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122109911853548584\">Open on Facebook</a>\n\n⚠️ <i>Looks like an earlier post: “Russian missile and drone attacks kill several in Ukraine”. Tap 🗑 Delete if it's the same news.</i>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 628,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122109911853548584_1977136120362299"
+  },
+  "38e98f092c": {
+   "id": "38e98f092c",
+   "headline": "Police evacuate Manchester arena following substance incident at concert",
+   "summary": "Police evacuated Manchester’s Co-op Live arena after a substance believed to be tear gas was released in the crowd during a Don Toliver concert. One person was taken to the hospital following the incident near the end of the Sunday evening show.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "The incident occurred during a US rapper's show on Sunday.",
+    "Greater Manchester police confirmed the arena evacuation."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Manchester",
+    "#DonToliver",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "The Guardian"
+   ],
+   "link": "https://www.theguardian.com/uk-news/2026/nov/23/manchester-co-op-live-arena-evacuated-tear-gas-don-toliver-concert",
+   "links": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/uk-news/2026/nov/23/manchester-co-op-live-arena-evacuated-tear-gas-don-toliver-concert"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/23/don-toliver-concert-chaos-after-substance-let-off-in-crowd?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "map",
+    "photos": [],
+    "location": "Manchester, United Kingdom",
+    "lat": 53.47944444,
+    "lon": -2.24527778,
+    "country": "United Kingdom",
+    "state": "",
+    "_loaded": 0
+   },
+   "img_post": {
+    "headline": "Police evacuate Manchester arena following substance incident at concert",
+    "people": [],
+    "image_query": "Coop Live arena Manchester",
+    "image_queries": [
+     "Manchester skyline",
+     "concert venue interior",
+     "police outside arena",
+     "emergency vehicles concert hall"
+    ],
+    "image_style": "incident",
+    "location": "Manchester, United Kingdom",
+    "nearby_city": "London, United Kingdom",
+    "event_query": "Manchester arena tear gas incident",
+    "topic_photo": "concert crowd",
+    "label": "WORLD",
+    "action_subject": "police officers at work",
+    "news_time": "2026-11-23T03:25:25+00:00"
+   },
+   "created_at": "2026-11-23T03:46:57.735202+00:00",
+   "news_time": "2026-11-23T03:25:25+00:00",
+   "news_latest": "2026-11-23T03:27:53+00:00",
+   "importance": 5,
+   "caption": "🚨 BREAKING: Police evacuate Manchester arena following substance incident at concert\n\nPolice evacuated Manchester’s Co-op Live arena after a substance believed to be tear gas was released in the crowd during a Don Toliver concert. One person was taken to the hospital following the incident near the end of the Sunday evening show.\n\nWhat we know so far:\n• The incident occurred during a US rapper's show on Sunday.\n• Greater Manchester police confirmed the arena evacuation.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Manchester #DonToliver #WorldNews #7SeasNews",
+   "photo_line": "📷 news map (no fitting photo)",
+   "status": "posted",
+   "tg_message_id": 920,
+   "tg_file_id": "AgACAgUAAxkDAAIDmGsDtzMOZYYkOPVl6GJdSOY9_OgTAAINFmsboQ8ZVDANz4u1AAEmbgEAAwIAA3cAAz0E",
+   "queued_at": "2026-11-23T03:46:59.316190+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-23T03:46:59.316217+00:00",
+   "post_label": "🤖 Auto-posting + Reel",
+   "fb_post_id": "1413030521900096_122109911043548584",
+   "posted_at": "2026-11-23T03:46:59.608853+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 22 · 10:47 PM New York · 9:17 AM Sri Lanka\n\n<b>Police evacuate Manchester arena following substance incident at concert</b>\n<i>Al Jazeera, The Guardian</i>\n🟢 <b>Latest:</b> 8:57 AM Sri Lanka (19 min ago) · first reported 8:55 AM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122109911043548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 626,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122109911043548584_1143514394969310",
+   "fb_story_id": "2351162598968582",
+   "fb_reel_id": "2379035526202688",
+   "reel_status": "live"
   }
  },
  "seen_links": [
-  "https://www.npr.org/2026/11/07/nx-s1-6032757/how-the-new-senate-majority-shifts-control-over-the-federal-judiciary",
-  "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-  "https://www.france24.com/en/stephen-miller-named-white-house-chief-of-staff",
-  "https://thehill.com/homenews/administration/6205475-trump-miller-promotion-democrats-majority/",
   "https://www.france24.com/en/usa-democrats-vow-to-investigate-donald-trump",
   "https://thehill.com/homenews/administration/6206000-stephen-miller-white-house-promotion-speech/",
   "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge?traffic_source=rss",
@@ -10304,29 +10477,13 @@
   "https://www.newsweek.com/mamdani-releases-84000-more-9-11-records-as-survivors-seek-proof-12754721",
   "https://thehill.com/homenews/state-watch/6236426-zohran-mamdani-releases-new-911-records/",
   "https://www.independent.co.uk/news/world/americas/cyrus-miley-cyrus-palm-springs-california-saint-laurent-b3089561.html",
-  "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+  "https://www.washingtonexaminer.com/news/world/4811776/trump-iranian-attacks-yearlong-high-last-week/",
+  "https://www.foxnews.com/world/trump-says-iran-unleashed-missile-drone-surge-after-midterms",
+  "https://www.theguardian.com/uk-news/2026/nov/23/manchester-co-op-live-arena-evacuated-tear-gas-don-toliver-concert",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/23/don-toliver-concert-chaos-after-substance-let-off-in-crowd?traffic_source=rss"
  ],
  "recent_topics": [
-  [
-   "2026-11-20T03:49:41.268808+00:00",
-   [
-    "attack",
-    "bid",
-    "bukel",
-    "expect",
-    "formalis",
-    "gang",
-    "haiti",
-    "nayib",
-    "president",
-    "presidential",
-    "salvador",
-    "seek",
-    "term",
-    "third"
-   ],
-   "skipped"
-  ],
   [
    "2026-11-20T06:32:18.490371+00:00",
    [
@@ -12419,19 +12576,59 @@
     "survivor"
    ],
    "253835a25b"
+  ],
+  [
+   "2026-11-23T03:46:26.869040+00:00",
+   [
+    "attack",
+    "deal",
+    "dron",
+    "high",
+    "iran",
+    "iranian",
+    "last",
+    "midterm",
+    "missil",
+    "permanent",
+    "reach",
+    "surg",
+    "trump",
+    "unleash",
+    "want",
+    "yearlong"
+   ],
+   "5ce05721ba"
+  ],
+  [
+   "2026-11-23T03:46:59.316068+00:00",
+   [
+    "apparent",
+    "arena",
+    "chao",
+    "co-op",
+    "concert",
+    "crowd",
+    "don",
+    "evacuat",
+    "gas",
+    "incident",
+    "let",
+    "liv",
+    "manchester",
+    "substanc",
+    "tear",
+    "toliver"
+   ],
+   "38e98f092c"
   ]
  ],
- "last_draft_at": "2026-11-23T03:34:06.568618+00:00",
+ "last_draft_at": "2026-11-23T03:46:04.627662+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T03:21:50.344205+00:00",
  "run_log": [
-  "11-23 01:30:49 run start",
-  "11-23 01:31:09 listening 11 min",
-  "11-23 01:42:30 listening done",
-  "11-23 01:42:30 run end after 700 s",
   "11-23 01:45:47 run start",
   "11-23 01:46:06 listening 11 min",
   "11-23 01:57:26 listening done",
@@ -12467,12 +12664,15 @@
   "11-23 03:34:06 run start",
   "11-23 03:34:16 listening 11 min",
   "11-23 03:45:35 listening done",
-  "11-23 03:45:35 run end after 689 s"
+  "11-23 03:45:35 run end after 689 s",
+  "11-23 03:46:04 run start",
+  "11-23 03:48:02 listening 10 min",
+  "11-23 03:57:39 listening done",
+  "11-23 03:57:39 run end after 695 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Decommissioned_jet_fighter_%2823449021489%29.jpg/1920px-Decommissioned_jet_fighter_%2823449021489%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_02.jpg/1920px-A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Eisenhower_Executive_Office_Building_exterior_from_the_southeast.jpg/1920px-Eisenhower_Executive_Office_Building_exterior_from_the_southeast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Wikimedia_Foundation_Servers-8055_35.jpg/1920px-Wikimedia_Foundation_Servers-8055_35.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -12511,7 +12711,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Former_Magirus-Deutz_170D11_fire_engine_in_Bavaria.JPG/1920px-Former_Magirus-Deutz_170D11_fire_engine_in_Bavaria.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_6.jpg/1280px-Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Stugna_100mm_guided_missile_01.jpg/1920px-Stugna_100mm_guided_missile_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/b/b6/New_York_City_Hall_exterior%2C_October_2016.jpg"
+   "https://upload.wikimedia.org/wikipedia/commons/b/b6/New_York_City_Hall_exterior%2C_October_2016.jpg",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/%D9%85%D9%88%D8%B4%DA%A9-%D9%85%D9%88%D8%B2%D9%87_%D8%AC%D9%86%DA%AF-_missile.jpg/1920px-%D9%85%D9%88%D8%B4%DA%A9-%D9%85%D9%88%D8%B2%D9%87_%D8%AC%D9%86%DA%AF-_missile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "cindy holscher": {
@@ -15776,7 +15977,6 @@
   },
   "recent_ideas": [
    "voters at polling station",
-   "voters at polling station",
    "air defense system",
    "white house south lawn",
    "voting booth",
@@ -15786,7 +15986,8 @@
    "collapsed building rescue",
    "fire truck",
    "missile launch",
-   "new york city hall"
+   "new york city hall",
+   "missile launch"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -17508,6 +17709,41 @@
     "s": 10,
     "w": "New York City Hall",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/%D9%85%D9%88%D8%B4%DA%A9-%D9%85%D9%88%D8%B2%D9%87_%D8%AC%D9%86%DA%AF-_missile.jpg/1920px-%D9%85%D9%88%D8%B4%DA%A9-%D9%85%D9%88%D8%B2%D9%87_%D8%AC%D9%86%DA%AF-_missile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|3bea5623": {
+    "s": 8,
+    "w": "missiles on display launcher",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Nottingham_Pride_MMB_01.JPG/1920px-Nottingham_Pride_MMB_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|63259675": {
+    "s": 0,
+    "w": "police officer and man in costume",
+    "p": "Unrelated quirky photo, does not show a serious police evacuation or substance i"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Bruneian_police_officer_in_Belait.jpg/1920px-Bruneian_police_officer_in_Belait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|63259675": {
+    "s": 0,
+    "w": "police officer in uniform",
+    "p": "wrong country / specific individual not related to the UK story"
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/3/34/Manchester_skyline_from_tower_block.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled|63259675": {
+    "s": 3,
+    "w": "Manchester skyline at night",
+    "p": "shows skyline instead of police action"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Manchester_Portland_Street_-_Stagecoach_19485_%28MX09APF%29_rear.jpg/1920px-Manchester_Portland_Street_-_Stagecoach_19485_%28MX09APF%29_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|63259675": {
+    "s": 4,
+    "w": "Manchester street scene",
+    "p": "Shows a street in Manchester instead of police evacuating the arena."
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Disused_post_boxes%2C_Lincoln_Square%2C_Manchester.jpg/1920px-Disused_post_boxes%2C_Lincoln_Square%2C_Manchester.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|63259675": {
+    "s": 0,
+    "w": "post boxes",
+    "p": "text sign"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/City_of_London_skyline_from_London_City_Hall_-_Oct_2008.jpg/1920px-City_of_London_skyline_from_London_City_Hall_-_Oct_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|63259675": {
+    "s": 0,
+    "w": "London skyline",
+    "p": "Wrong city: photo shows London, but the story is in Manchester."
    }
   }
  },
@@ -17519,18 +17755,18 @@
   "2026-11-19": 30,
   "2026-11-20": 30,
   "2026-11-21": 17,
-  "2026-11-22": 8
+  "2026-11-22": 10
  },
- "last_auto_at": "2026-11-23T00:31:08.605998+00:00",
- "last_post_at": "2026-11-23T00:31:14.496414+00:00",
+ "last_auto_at": "2026-11-23T03:46:59.608853+00:00",
+ "last_post_at": "2026-11-23T03:47:53.219311+00:00",
  "reels_count": {
-  "2026-11-15": 8,
   "2026-11-16": 10,
   "2026-11-17": 3,
   "2026-11-18": 3,
   "2026-11-19": 3,
   "2026-11-20": 3,
-  "2026-11-21": 3
+  "2026-11-21": 3,
+  "2026-11-22": 1
  },
  "roundup": {
   "2026-11-16": {
