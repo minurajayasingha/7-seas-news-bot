@@ -1,98 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "8d4538a5bc": {
-   "id": "8d4538a5bc",
-   "headline": "Migrant boat capsizes off Senegal coast leaving several missing",
-   "summary": "A boat carrying migrants has sunk off the coast of Senegal. Local officials report one person died and several are missing.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "Local media report at least four bodies recovered",
-    "The boat was carrying around 100 migrants",
-    "Officials confirm one death and several missing"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Senegal",
-    "#WorldNews",
-    "#Migration"
-   ],
-   "sources": [
-    "ABC News",
-    "BBC"
-   ],
-   "link": "https://abcnews.com/International/wireStory/migrant-boat-capsizes-off-senegals-coast-leaving-1-138286309",
-   "links": [
-    [
-     "ABC News",
-     "https://abcnews.com/International/wireStory/migrant-boat-capsizes-off-senegals-coast-leaving-1-138286309"
-    ],
-    [
-     "BBC",
-     "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss"
-    ]
-   ],
-   "bg": {
-    "type": "map",
-    "photos": [],
-    "location": "Senegal",
-    "lat": 14.0,
-    "lon": -14.0,
-    "country": "Senegal",
-    "state": "",
-    "pin": false,
-    "fit": true
-   },
-   "img_post": {
-    "headline": "Migrant boat capsizes off Senegal coast leaving several missing",
-    "people": [],
-    "image_query": "Senegal coastline",
-    "image_queries": [
-     "Atlantic ocean view",
-     "Senegal beach",
-     "fishing boat",
-     "rescue operation"
-    ],
-    "image_style": "incident",
-    "location": "Senegal",
-    "nearby_city": "Dakar, Senegal",
-    "event_query": "Senegal migrant boat capsizes",
-    "topic_photo": "cargo ship",
-    "label": "WORLD",
-    "action_subject": "rescue boat",
-    "news_time": "2026-11-19T09:02:52+00:00"
-   },
-   "created_at": "2026-11-19T14:16:33.431669+00:00",
-   "news_time": "2026-11-19T09:02:52+00:00",
-   "news_latest": "2026-11-19T14:03:39+00:00",
-   "importance": 7,
-   "caption": "Migrant boat capsizes off Senegal coast leaving several missing\n\nA boat carrying migrants has sunk off the coast of Senegal. Local officials report one person died and several are missing.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Senegal #WorldNews #Migration #7SeasNews",
-   "photo_line": "📷 news map (no fitting photo)",
-   "status": "posted",
-   "tg_message_id": 824,
-   "tg_file_id": "AgACAgUAAxkDAAIDOGr_BNL3d9fgr-8unbgMjg_D4W4zAAJhFGsb3mn4V2Ccdcl76XPwAQADAgADdwADPQQ",
-   "queued_at": "2026-11-19T14:16:50.753347+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-19T14:16:50.753408+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122106379281548584",
-   "posted_at": "2026-11-19T14:16:51.106093+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 19 · 9:16 AM New York · 7:46 PM Sri Lanka\n\n<b>Migrant boat capsizes off Senegal coast leaving several missing</b>\n<i>ABC News, BBC</i>\n🟢 <b>Latest:</b> 7:33 PM Sri Lanka (13 min ago) · first reported 2:32 PM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122106379281548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 531,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122106379281548584_1448400434133146",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-22T14:15:37.398346+00:00"
-  },
   "83b3c49710": {
    "id": "83b3c49710",
    "headline": "European Commission hit by AI assisted cyberattack",
@@ -8864,12 +8772,6 @@
   }
  },
  "seen_links": [
-  "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
-  "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
-  "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
-  "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss",
-  "https://www.france24.com/en/yemen-30-dead-in-strikes-on-taiz-market",
-  "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
   "https://www.cbsnews.com/news/israel-election-government-gadi-eisenkot-benjamin-netanyahu/",
   "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government",
   "https://www.france24.com/en/israel-coalition-talks-gain-momentum",
@@ -10863,25 +10765,15 @@
   "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
   "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
   "https://www.washingtonexaminer.com/news/white-house/4811734/part-of-maha-agenda-may-undermine-gop-appeal-young-working-men-poll/",
-  "https://thehill.com/homenews/house/6234454-house-funding-shutdown-risk/"
+  "https://thehill.com/homenews/house/6234454-house-funding-shutdown-risk/",
+  "https://www.theguardian.com/books/2026/nov/23/pen-america-gaza-splinter-group",
+  "https://www.independent.co.uk/news/world/americas/pen-writes-us-ta-nehisi-coates-gessen-pen-america-gaza-b3089888.html",
+  "https://www.independent.co.uk/news/world/americas/outages-delta-flights-tech-banks-airports-microsoft-b3089929.html",
+  "https://www.today.com/video/delta-restores-service-after-bumpy-start-to-thanksgiving-week-274004549752",
+  "https://thehill.com/opinion/cybersecurity/6232948-gov-outages-staffing-crisis/",
+  "https://www.theguardian.com/us-news/2026/nov/23/us-tech-outages-flights-microsoft"
  ],
  "recent_topics": [
-  [
-   "2026-11-20T14:16:26.395958+00:00",
-   [
-    "cost",
-    "draw",
-    "italy",
-    "liv",
-    "nationwid",
-    "protest",
-    "strik",
-    "student",
-    "wag",
-    "worker"
-   ],
-   "c22b982322"
-  ],
   [
    "2026-11-20T14:48:58.802190+00:00",
    [
@@ -12917,17 +12809,13 @@
    "3ed909c38e"
   ]
  ],
- "last_draft_at": "2026-11-23T14:01:38.163783+00:00",
+ "last_draft_at": "2026-11-23T14:15:39.917217+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T14:01:13.965969+00:00",
  "run_log": [
-  "11-23 12:00:26 run start",
-  "11-23 12:01:11 listening 11 min",
-  "11-23 12:12:05 listening done",
-  "11-23 12:12:05 run end after 698 s",
   "11-23 12:12:37 run start",
   "11-23 12:14:57 listening 9 min",
   "11-23 12:24:10 listening done",
@@ -12963,7 +12851,11 @@
   "11-23 14:01:13 run start",
   "11-23 14:02:10 listening 11 min",
   "11-23 14:12:39 listening done",
-  "11-23 14:12:39 run end after 685 s"
+  "11-23 14:12:39 run end after 685 s",
+  "11-23 14:15:39 run start",
+  "11-23 14:17:29 listening 10 min",
+  "11-23 14:27:08 listening done",
+  "11-23 14:27:08 run end after 688 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
