@@ -7706,8 +7706,6 @@
   }
  },
  "seen_links": [
-  "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-uk-peace-talks-b3081417.html",
-  "https://kyivindependent.com/ukraine-will-likely-end-up-with-a-little-bit-different-shape-after-war-trump-tells-60-minutes/",
   "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
   "https://www.washingtonexaminer.com/news/white-house/4796920/trump-reaffirms-support-vance-iran-comments-people-didnt-like/",
   "https://www.independent.co.uk/news/world/americas/us-politics/marco-rubio-jd-vance-iran-2028-b3081494.html",
@@ -9705,7 +9703,9 @@
   "https://www.washingtonexaminer.com/news/justice/4813069/2nd-circuit-revives-trump-bid-move-hush-money-case-federal-court/",
   "https://www.aljazeera.com/news/2026/11/23/tajikistan-moves-to-leave-icc-amid-us-push-against-court?traffic_source=rss",
   "https://www.washingtonpost.com/dc-md-va/2026/11/23/van-hollen-uses-huang-controversy-bid-oust-schumer/",
-  "https://www.washingtonexaminer.com/news/senate/4813054/van-hollen-promises-emergency-action-ai-schumer/"
+  "https://www.washingtonexaminer.com/news/senate/4813054/van-hollen-promises-emergency-action-ai-schumer/",
+  "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal?traffic_source=rss",
+  "https://abcnews.com/International/wireStory/eu-proposes-sweeping-new-russia-sanctions-targeting-banks-138382150"
  ],
  "recent_topics": [
   [
@@ -11443,17 +11443,13 @@
    "c6d37efc2f"
   ]
  ],
- "last_draft_at": "2026-11-23T23:31:21.996019+00:00",
+ "last_draft_at": "2026-11-23T23:45:42.384125+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T23:30:42.887478+00:00",
  "run_log": [
-  "11-23 20:57:21 listening done",
-  "11-23 20:57:21 run end after 697 s",
-  "11-23 21:10:03 run start",
-  "11-23 21:11:06 listening 10 min",
   "11-23 21:21:39 run start",
   "11-23 21:21:50 listening 11 min",
   "11-23 21:33:09 listening done",
@@ -11489,7 +11485,11 @@
   "11-23 23:30:42 run start",
   "11-23 23:32:22 listening 10 min",
   "11-23 23:42:25 listening done",
-  "11-23 23:42:25 run end after 702 s"
+  "11-23 23:42:25 run end after 702 s",
+  "11-23 23:45:42 run start",
+  "11-23 23:46:20 listening 11 min",
+  "11-23 23:57:13 listening done",
+  "11-23 23:57:13 run end after 690 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
