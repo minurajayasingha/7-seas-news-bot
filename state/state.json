@@ -10308,49 +10308,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-20T03:13:12.584336+00:00",
-   [
-    "approv",
-    "bill",
-    "cut",
-    "energy",
-    "environmental",
-    "historic",
-    "hous",
-    "key",
-    "pass",
-    "permitt",
-    "project",
-    "red",
-    "reform",
-    "senat",
-    "send",
-    "tap"
-   ],
-   "378b25a5bd"
-  ],
-  [
-   "2026-11-20T03:13:45.527098+00:00",
-   [
-    "alaska",
-    "appeal",
-    "bid",
-    "certification",
-    "delay",
-    "department",
-    "dept",
-    "dismissal",
-    "drop",
-    "justic",
-    "lawsuit",
-    "rac",
-    "seek",
-    "senat",
-    "win"
-   ],
-   "4ad22076bd"
-  ],
-  [
    "2026-11-20T03:49:41.268808+00:00",
    [
     "attack",
@@ -12464,17 +12421,13 @@
    "253835a25b"
   ]
  ],
- "last_draft_at": "2026-11-23T02:57:32.677390+00:00",
+ "last_draft_at": "2026-11-23T03:09:49.961614+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T02:15:34.114809+00:00",
  "run_log": [
-  "11-23 00:45:39 run start",
-  "11-23 00:45:58 listening 11 min",
-  "11-23 00:57:16 listening done",
-  "11-23 00:57:16 run end after 697 s",
   "11-23 01:00:43 run start",
   "11-23 01:00:52 listening 11 min",
   "11-23 01:12:29 listening done",
@@ -12510,7 +12463,11 @@
   "11-23 02:57:32 run start",
   "11-23 02:57:52 listening 11 min",
   "11-23 03:09:11 listening done",
-  "11-23 03:09:11 run end after 699 s"
+  "11-23 03:09:11 run end after 699 s",
+  "11-23 03:09:49 run start",
+  "11-23 03:09:59 listening 11 min",
+  "11-23 03:21:18 listening done",
+  "11-23 03:21:18 run end after 688 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
