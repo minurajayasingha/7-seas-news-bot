@@ -1,201 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "1b03632f32": {
-   "id": "1b03632f32",
-   "headline": "Trump announces plans to tax US companies building data centers overseas",
-   "summary": "President Trump stated at a White House briefing that he will block U.S. companies from constructing data centers abroad. He threatened a significant tax on firms that fail to comply with the directive.",
-   "label": "US POLITICS",
-   "hook": "",
-   "key_points": [
-    "Trump acknowledged he had not yet discussed the plan with officials.",
-    "Data center expansion recently became a midterm election flashpoint.",
-    "Voters have raised environmental and financial concerns about data centers."
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#USPolitics",
-    "#DataCenters",
-    "#Economy"
-   ],
-   "sources": [
-    "Axios",
-    "The Hill"
-   ],
-   "link": "https://thehill.com/homenews/administration/6233765-trump-threatens-data-center-tax-overseas/",
-   "links": [
-    [
-     "The Hill",
-     "https://thehill.com/homenews/administration/6233765-trump-threatens-data-center-tax-overseas/"
-    ],
-    [
-     "Axios",
-     "https://www.axios.com/2026/11/20/us-ai-trump-data-centers-overseas"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Eisenhower_Executive_Office_Building_exterior_from_the_southeast.jpg/1920px-Eisenhower_Executive_Office_Building_exterior_from_the_southeast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Sdkb / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 10,
-      "shows": "Eisenhower Executive Office Building"
-     }
-    ],
-    "_loaded": 1
-   },
-   "img_post": {
-    "headline": "Trump announces plans to tax US companies building data centers overseas",
-    "people": [
-     "Donald Trump"
-    ],
-    "image_query": "White House",
-    "image_queries": [
-     "server room",
-     "datacenter facility",
-     "computer servers",
-     "technology infrastructure"
-    ],
-    "image_style": "person",
-    "location": "Washington, D.C., US",
-    "nearby_city": "Washington, D.C.",
-    "event_query": "White House press briefing",
-    "topic_photo": "computer servers",
-    "label": "US POLITICS",
-    "action_subject": "",
-    "news_time": "2026-11-20T18:13:32+00:00"
-   },
-   "created_at": "2026-11-20T18:32:12.779293+00:00",
-   "news_time": "2026-11-20T18:13:32+00:00",
-   "news_latest": "2026-11-20T18:16:33+00:00",
-   "importance": 7,
-   "caption": "🚨 BREAKING: Trump announces plans to tax US companies building data centers overseas\n\nPresident Trump stated at a White House briefing that he will block U.S. companies from constructing data centers abroad. He threatened a significant tax on firms that fail to comply with the directive.\n\nWhat we know so far:\n• Trump acknowledged he had not yet discussed the plan with officials.\n• Data center expansion recently became a midterm election flashpoint.\n• Voters have raised environmental and financial concerns about data centers.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #DataCenters #Economy #7SeasNews",
-   "photo_line": "📷 10/10 Eisenhower Executive Office Building",
-   "status": "posted",
-   "tg_message_id": 870,
-   "tg_file_id": "AgACAgUAAxkDAAIDZmsAAZI8abtIroLOL-PeTRyrB5tlBQACoxNrG_07CFQppzVJ_odDSAEAAwIAA3cAAz0E",
-   "queued_at": "2026-11-20T18:32:28.632805+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-20T18:32:28.632829+00:00",
-   "post_label": "🤖 Auto-posting + Reel",
-   "fb_post_id": "1413030521900096_122107764099548584",
-   "posted_at": "2026-11-20T18:32:36.265704+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 20 · 1:32 PM New York · 12:02 AM Sri Lanka\n\n<b>Trump announces plans to tax US companies building data centers overseas</b>\n<i>Axios, The Hill</i>\n🟢 <b>Latest:</b> 11:46 PM Sri Lanka (16 min ago) · first reported 11:43 PM\n📷 10/10 Eisenhower Executive Office Building\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122107764099548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 577,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122107764099548584_1749022229917402",
-   "fb_story_id": "4644280485888404",
-   "fb_reel_id": "1208552698500715",
-   "reel_status": "live",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-23T18:03:26.161475+00:00"
-  },
-  "7474b8d00e": {
-   "id": "7474b8d00e",
-   "headline": "Alibaba sued over links to chip network spying suspect",
-   "summary": "Alibaba faces a lawsuit alleging the company concealed connections to Megaspeed to artificially inflate its share price. According to reports, companies linked to Alice Huang are part of a network of Chinese tech firms and defense contractors requiring advanced computing power.",
-   "label": "ECONOMY",
-   "hook": "Should tech conglomerates face legal action over concealed supplier links?",
-   "key_points": [
-    "The conglomerate faces accusations of concealing links to Megaspeed.",
-    "Companies tied to Alice Huang require advanced computing power.",
-    "The network includes Chinese tech firms and defense contractors."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Alibaba",
-    "#Nvidia",
-    "#BusinessNews"
-   ],
-   "sources": [
-    "New York Times",
-    "Newsweek"
-   ],
-   "link": "https://www.newsweek.com/nvidia-fallout-grows-as-alibaba-sued-over-suspected-spy-link-12747521",
-   "links": [
-    [
-     "Newsweek",
-     "https://www.newsweek.com/nvidia-fallout-grows-as-alibaba-sued-over-suspected-spy-link-12747521"
-    ],
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Wikimedia_Foundation_Servers-8055_35.jpg/1920px-Wikimedia_Foundation_Servers-8055_35.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Victor Grigas / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 10,
-      "shows": "computer servers in racks"
-     }
-    ],
-    "file_photo": true
-   },
-   "img_post": {
-    "headline": "Alibaba sued over links to chip network spying suspect",
-    "people": [
-     "Alice Huang"
-    ],
-    "image_query": "corporate headquarters building",
-    "image_queries": [
-     "corporate office building",
-     "financial district",
-     "computer servers",
-     "stock market board"
-    ],
-    "image_style": "person",
-    "location": "",
-    "nearby_city": "",
-    "event_query": "",
-    "topic_photo": "computer servers",
-    "label": "ECONOMY",
-    "action_subject": "computer servers",
-    "news_time": "2026-11-20T18:05:36+00:00"
-   },
-   "created_at": "2026-11-20T18:32:34.185913+00:00",
-   "news_time": "2026-11-20T18:05:36+00:00",
-   "news_latest": "2026-11-20T18:23:13+00:00",
-   "importance": 6,
-   "caption": "Alibaba sued over links to chip network spying suspect\n\nAlibaba faces a lawsuit alleging the company concealed connections to Megaspeed to artificially inflate its share price. According to reports, companies linked to Alice Huang are part of a network of Chinese tech firms and defense contractors requiring advanced computing power.\n\n💬 Should tech conglomerates face legal action over concealed supplier links?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Alibaba #Nvidia #BusinessNews #7SeasNews",
-   "photo_line": "📷 10/10 computer servers in racks · FILE PHOTO",
-   "status": "posted",
-   "tg_message_id": 871,
-   "tg_file_id": "AgACAgUAAxkDAAIDZ2sAAZJD2H8KUrRIeax80mTQwhC9HAACpBNrG_07CFSphTbaih8VLgEAAwIAA3cAAz0E",
-   "queued_at": "2026-11-20T18:32:35.983294+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_label": "🤖 Auto-posting",
-   "post_at": "2026-11-20T18:32:42.254784+00:00",
-   "fb_post_id": "1413030521900096_122107765047548584",
-   "posted_at": "2026-11-20T18:32:36.265704+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 20 · 1:33 PM New York · 12:03 AM Sri Lanka\n\n<b>Alibaba sued over links to chip network spying suspect</b>\n<i>New York Times, Newsweek</i>\n🟢 <b>Latest:</b> 11:53 PM Sri Lanka (10 min ago) · first reported 11:35 PM\n📷 10/10 computer servers in racks · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122107765047548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 579,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122107765047548584_29113362598312751",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-23T18:03:26.161475+00:00"
-  },
   "799e86da77": {
    "id": "799e86da77",
    "headline": "Spain releases US activist James Fergie Chambers on bail",
@@ -6993,9 +6798,6 @@
   }
  },
  "seen_links": [
-  "https://www.newsweek.com/trump-administration-expands-federal-effort-to-combat-drone-threats-12688838",
-  "https://www.aljazeera.com/news/2026/11/9/us-agencies-unite-to-combat-rogue-drone-threats-nationwide?traffic_source=rss",
-  "https://thehill.com/regulation/court-battles/6208870-supreme-court-bivens-lawsuit/",
   "https://www.nbcnews.com/politics/supreme-court/supreme-court-set-limit-federal-inmatess-ability-sue-officials-rcna608292",
   "https://www.washingtonexaminer.com/news/justice/4777878/tyler-robinson-trial-2028-charlie-kirk-murder-case/",
   "https://www.newsweek.com/charlie-kirk-update-judge-sets-murder-trial-start-date-for-tyler-robinson-12689645",
@@ -8992,7 +8794,10 @@
   "https://www.theguardian.com/uk-news/2026/nov/24/two-arrested-after-suspected-burglary-prince-princess-of-wales-sandringham",
   "https://abcnews.com/International/wireStory/armed-men-hostages-cartagena-colombias-top-tourist-destinations-138416557",
   "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
-  "https://www.france24.com/en/americas/20261124-hostages-supermarket-colombia-cartagena-flights"
+  "https://www.france24.com/en/americas/20261124-hostages-supermarket-colombia-cartagena-flights",
+  "https://www.newsweek.com/map-shows-where-thanksgiving-storm-king-tides-could-spoil-celebrations-12764293",
+  "https://www.upi.com/Top_News/US/2026/11/24/thanksgiving-travel-disruptions/4411795541535/",
+  "https://www.nbcnews.com/weather/storms/severe-thanksgiving-storms-threaten-millions-travelers-macys-parade-rcna611071"
  ],
  "recent_topics": [
   [
@@ -10669,17 +10474,13 @@
    "0ec8be5621"
   ]
  ],
- "last_draft_at": "2026-11-24T18:15:36.688890+00:00",
+ "last_draft_at": "2026-11-24T18:31:33.013903+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T17:45:46.972349+00:00",
  "run_log": [
-  "11-24 16:00:49 run start",
-  "11-24 16:01:36 listening 11 min",
-  "11-24 16:12:31 listening done",
-  "11-24 16:12:31 run end after 701 s",
   "11-24 16:15:41 run start",
   "11-24 16:16:13 listening 11 min",
   "11-24 16:27:07 listening done",
@@ -10715,7 +10516,11 @@
   "11-24 18:15:36 run start",
   "11-24 18:17:04 listening 10 min",
   "11-24 18:27:07 listening done",
-  "11-24 18:27:07 run end after 690 s"
+  "11-24 18:27:07 run end after 690 s",
+  "11-24 18:31:32 run start",
+  "11-24 18:31:47 listening 11 min",
+  "11-24 18:43:08 listening done",
+  "11-24 18:43:08 run end after 695 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
