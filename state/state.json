@@ -1,99 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "003d5d2199": {
-   "id": "003d5d2199",
-   "headline": "House Republicans face leadership choices for Oversight Committee",
-   "summary": "House Republicans are selecting a top member for the House Oversight Committee. Two Texas Republicans are seeking the position to lead defense for President Trump.",
-   "label": "US POLITICS",
-   "hook": "Which Texas Republican will secure the House Oversight position?",
-   "key_points": [
-    "Senate Republicans are losing eight members in January.",
-    "Outgoing senators have criticized the administration.",
-    "Rep. Brandon Gill and Rep. Pat Fallon want the Oversight job."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#HouseOversight",
-    "#Republicans"
-   ],
-   "sources": [
-    "Axios",
-    "The Hill"
-   ],
-   "link": "https://www.axios.com/2026/11/19/republicans-house-oversight-gill-fallon",
-   "links": [
-    [
-     "Axios",
-     "https://www.axios.com/2026/11/19/republicans-house-oversight-gill-fallon"
-    ],
-    [
-     "The Hill",
-     "https://thehill.com/policy/healthcare/6231695-outgoing-senators-rebuke-trump/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Example_voting_booth.jpg/1920px-Example_voting_booth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Kenneth C. Zirkel / Wikimedia Commons (CC0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 7,
-      "shows": "voting machine"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "House Republicans face leadership choices for Oversight Committee",
-    "people": [],
-    "image_query": "US Capitol dome",
-    "image_queries": [
-     "Capitol Hill",
-     "Senate chamber",
-     "House of Representatives chamber",
-     "voting booth"
-    ],
-    "image_style": "person",
-    "location": "Washington, DC, US",
-    "nearby_city": "Washington, DC",
-    "event_query": "US House of Representatives",
-    "topic_photo": "judge gavel",
-    "label": "US POLITICS",
-    "action_subject": "",
-    "news_time": "2026-11-19T21:55:47+00:00"
-   },
-   "created_at": "2026-11-20T00:16:38.557110+00:00",
-   "news_time": "2026-11-19T21:55:47+00:00",
-   "news_latest": "2026-11-19T23:49:15+00:00",
-   "importance": 6,
-   "caption": "House Republicans face leadership choices for Oversight Committee\n\nHouse Republicans are selecting a top member for the House Oversight Committee. Two Texas Republicans are seeking the position to lead defense for President Trump.\n\n💬 Which Texas Republican will secure the House Oversight position?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #HouseOversight #Republicans #7SeasNews",
-   "photo_line": "📷 7/10 voting machine",
-   "status": "posted",
-   "tg_message_id": 842,
-   "tg_file_id": "AgACAgUAAxkDAAIDSmr_kXUhptYLWhHx_sZ0Qm6z9hjaAALyFGsb3mn4V50zFo73PsaQAQADAgADdwADPQQ",
-   "queued_at": "2026-11-20T00:16:53.431852+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-20T00:16:53.431879+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122106896391548584",
-   "posted_at": "2026-11-20T00:16:53.765405+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 19 · 7:17 PM New York · 5:47 AM Sri Lanka\n\n<b>House Republicans face leadership choices for Oversight Committee</b>\n<i>Axios, The Hill</i>\n🟢 <b>Latest:</b> 5:19 AM Sri Lanka (27 min ago) · first reported 3:25 AM\n📷 7/10 voting machine\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122106896391548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 550,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122106896391548584_2189034691753759",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-23T00:16:07.158917+00:00"
-  },
   "584d3e7253": {
    "id": "584d3e7253",
    "headline": "White House national cyber director Sean Cairncross steps down",
@@ -7703,13 +7610,98 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122110632651548584_1704586637921134"
+  },
+  "d1d91f7b30": {
+   "id": "d1d91f7b30",
+   "headline": "Donald Trump criticizes California Governor Gavin Newsom over death sentences",
+   "summary": "President Donald Trump criticized California Governor Gavin Newsom at the Department of Justice for commuting death sentences for more than 500 inmates. Trump also announced a $5,000 contribution to the granddaughter of a slain police officer whose killer received a commuted sentence.",
+   "label": "US POLITICS",
+   "hook": "",
+   "key_points": [
+    "President Trump spoke at the Department of Justice.",
+    "More than 500 inmates had their death sentences commuted.",
+    "The donation goes to the granddaughter of officer Jose Vega."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#California",
+    "#DonaldTrump"
+   ],
+   "sources": [
+    "NBC News",
+    "Washington Examiner"
+   ],
+   "link": "https://www.nbcnews.com/video/president-trump-slams-calif-gov-newsom-for-commuting-death-sentences-for-more-than-500-inmates-274049093874",
+   "links": [
+    [
+     "NBC News",
+     "https://www.nbcnews.com/video/president-trump-slams-calif-gov-newsom-for-commuting-death-sentences-for-more-than-500-inmates-274049093874"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/white-house/4813113/trump-5k-granddaughter-slain-police-officer-newsom/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Blue_hour_front_view_of_California_State_Capitol_dllu_2018.jpg/1920px-Blue_hour_front_view_of_California_State_Capitol_dllu_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Dllu / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "California State Capitol building"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Donald Trump criticizes California Governor Gavin Newsom over death sentences",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "California State Capitol",
+    "image_queries": [
+     "Department of Justice building",
+     "California State Capitol",
+     "Palm Springs Police Department",
+     "White House"
+    ],
+    "image_style": "person",
+    "location": "California, US",
+    "nearby_city": "Los Angeles, California",
+    "event_query": "",
+    "topic_photo": "judge gavel",
+    "label": "US POLITICS",
+    "action_subject": "",
+    "news_time": "2026-11-23T22:56:28+00:00"
+   },
+   "created_at": "2026-11-24T00:17:31.616246+00:00",
+   "news_time": "2026-11-23T22:56:28+00:00",
+   "news_latest": "2026-11-23T23:58:44+00:00",
+   "importance": 7,
+   "caption": "Donald Trump criticizes California Governor Gavin Newsom over death sentences\n\nPresident Donald Trump criticized California Governor Gavin Newsom at the Department of Justice for commuting death sentences for more than 500 inmates. Trump also announced a $5,000 contribution to the granddaughter of a slain police officer whose killer received a commuted sentence.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #California #DonaldTrump #7SeasNews",
+   "photo_line": "📷 10/10 California State Capitol building",
+   "status": "posted",
+   "tg_message_id": 943,
+   "tg_file_id": "AgACAgUAAxkDAAIDr2sE153x9yqjMSaTle1vcBRfQp7tAALHEmsbSgcpVKIoZNfEfZfvAQADAgADdwADPQQ",
+   "queued_at": "2026-11-24T00:17:33.978394+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-24T00:17:33.978420+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122110645041548584",
+   "posted_at": "2026-11-24T00:17:39.733215+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 23 · 7:17 PM New York · 5:47 AM Sri Lanka\n\n<b>Donald Trump criticizes California Governor Gavin Newsom over death sentences</b>\n<i>NBC News, Washington Examiner</i>\n🟢 <b>Latest:</b> 5:28 AM Sri Lanka (19 min ago) · first reported 4:26 AM\n📷 10/10 California State Capitol building\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122110645041548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 650,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122110645041548584_904191442720652"
   }
  },
  "seen_links": [
-  "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
-  "https://www.washingtonexaminer.com/news/white-house/4796920/trump-reaffirms-support-vance-iran-comments-people-didnt-like/",
-  "https://www.independent.co.uk/news/world/americas/us-politics/marco-rubio-jd-vance-iran-2028-b3081494.html",
-  "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss",
   "https://www.independent.co.uk/news/world/americas/trump-deportation-flight-iranian-nationals-b3081508.html",
   "https://abcnews.com/Politics/wireStory/deportation-flight-iranians-us-scuttled-minute-attorney-137961204",
   "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations?traffic_source=rss",
@@ -9705,7 +9697,11 @@
   "https://www.washingtonpost.com/dc-md-va/2026/11/23/van-hollen-uses-huang-controversy-bid-oust-schumer/",
   "https://www.washingtonexaminer.com/news/senate/4813054/van-hollen-promises-emergency-action-ai-schumer/",
   "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal?traffic_source=rss",
-  "https://abcnews.com/International/wireStory/eu-proposes-sweeping-new-russia-sanctions-targeting-banks-138382150"
+  "https://abcnews.com/International/wireStory/eu-proposes-sweeping-new-russia-sanctions-targeting-banks-138382150",
+  "https://www.nbcnews.com/video/president-trump-slams-calif-gov-newsom-for-commuting-death-sentences-for-more-than-500-inmates-274049093874",
+  "https://www.washingtonexaminer.com/news/white-house/4813113/trump-5k-granddaughter-slain-police-officer-newsom/",
+  "https://www.cbsnews.com/news/trump-tells-army-to-halt-detonation-in-iowa-this-week/",
+  "https://thehill.com/policy/energy-environment/6238814-trump-sand-iowa-lead-detonation-army-epa-munitions/"
  ],
  "recent_topics": [
   [
@@ -11441,19 +11437,60 @@
     "withdraw"
    ],
    "c6d37efc2f"
+  ],
+  [
+   "2026-11-24T00:17:33.978263+00:00",
+   [
+    "500",
+    "5000",
+    "account",
+    "calif",
+    "commut",
+    "death",
+    "donat",
+    "gov",
+    "granddaughter",
+    "inmat",
+    "killer",
+    "newsom",
+    "officer",
+    "polic",
+    "president",
+    "sentenc",
+    "slain",
+    "slam",
+    "trump",
+    "whos"
+   ],
+   "d1d91f7b30"
+  ],
+  [
+   "2026-11-24T00:17:39.733197+00:00",
+   [
+    "army",
+    "call",
+    "detonation",
+    "halt",
+    "hot",
+    "iowa",
+    "lead",
+    "now",
+    "play",
+    "potato",
+    "sand",
+    "tell",
+    "trump"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-24T00:01:46.213839+00:00",
+ "last_draft_at": "2026-11-24T00:14:28.378125+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-23T23:30:42.887478+00:00",
  "run_log": [
-  "11-23 21:33:38 run start",
-  "11-23 21:34:29 listening 11 min",
-  "11-23 21:45:23 listening done",
-  "11-23 21:45:23 run end after 704 s",
   "11-23 21:45:54 run start",
   "11-23 21:47:31 listening 10 min",
   "11-23 21:57:35 listening done",
@@ -11489,12 +11526,15 @@
   "11-24 00:01:45 run start",
   "11-24 00:01:47 listening 11 min",
   "11-24 00:13:32 listening done",
-  "11-24 00:13:32 run end after 706 s"
+  "11-24 00:13:32 run end after 706 s",
+  "11-24 00:14:27 run start",
+  "11-24 00:17:54 listening 8 min",
+  "11-24 00:26:18 listening done",
+  "11-24 00:26:18 run end after 710 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Peace_Monument_-_Across_from_Palais_des_Nations_-_Geneva_-_Switzerland.jpg/1920px-Peace_Monument_-_Across_from_Palais_des_Nations_-_Geneva_-_Switzerland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Police_of_Mexico%2C_D._F._at_night.jpg/1920px-Police_of_Mexico%2C_D._F._at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Fausto_Isidro_Meza-Flores_Top_Ten_Wanted_Poster_%28cropped%29.svg/1280px-Fausto_Isidro_Meza-Flores_Top_Ten_Wanted_Poster_%28cropped%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/f/f9/Headshot_Lewis_Pugh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -11533,7 +11573,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Example_voting_booth_from_USA_%28Connecticut%29.jpg/1920px-Example_voting_booth_from_USA_%28Connecticut%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/8/8a/Sacramento%2C-California---State-Capitol_%28cropped%29.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_01.jpg/1920px-A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_01.jpg/1920px-A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Blue_hour_front_view_of_California_State_Capitol_dllu_2018.jpg/1920px-Blue_hour_front_view_of_California_State_Capitol_dllu_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -14793,7 +14834,6 @@
    }
   },
   "recent_ideas": [
-   "seattle tacoma international airport",
    "golf course clubhouse",
    "emergency services of that city",
    "police officers at work",
@@ -14804,7 +14844,8 @@
    "voting booth",
    "california state capitol",
    "marriner s. eccles federal reserve board building",
-   "courtroom"
+   "courtroom",
+   "california state capitol"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -16766,6 +16807,21 @@
     "s": 10,
     "w": "empty courtroom",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/The_east_garden_of_the_White_House_in_Washington%2C_D.C._2.jpg/1920px-The_east_garden_of_the_White_House_in_Washington%2C_D.C._2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|e2369404": {
+    "s": 0,
+    "w": "White House exterior",
+    "p": "Wrong location, shows the White House instead of California"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/US_Department_of_Justice_building_with_road.jpg/1920px-US_Department_of_Justice_building_with_road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|e2369404": {
+    "s": 0,
+    "w": "Department of Justice building",
+    "p": "Story is about California Governor Gavin Newsom, but photo shows Department of J"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Blue_hour_front_view_of_California_State_Capitol_dllu_2018.jpg/1920px-Blue_hour_front_view_of_California_State_Capitol_dllu_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|e2369404": {
+    "s": 10,
+    "w": "California State Capitol building",
+    "p": ""
    }
   }
  },
@@ -16777,10 +16833,10 @@
   "2026-11-20": 30,
   "2026-11-21": 17,
   "2026-11-22": 11,
-  "2026-11-23": 16
+  "2026-11-23": 17
  },
- "last_auto_at": "2026-11-23T23:32:05.116400+00:00",
- "last_post_at": "2026-11-23T23:32:10.858413+00:00",
+ "last_auto_at": "2026-11-24T00:17:39.733215+00:00",
+ "last_post_at": "2026-11-24T00:17:45.141906+00:00",
  "reels_count": {
   "2026-11-17": 3,
   "2026-11-18": 3,
