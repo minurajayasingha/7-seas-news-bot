@@ -1,97 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "4f1d9bc8cb": {
-   "id": "4f1d9bc8cb",
-   "headline": "Denmark accuses Russian intelligence of plotting attack",
-   "summary": "Authorities in Denmark state they thwarted the attempted killing of an American Ukrainian citizen on their soil. According to officials, the plot was allegedly orchestrated by Russian intelligence services.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "Target was an American Ukrainian citizen",
-    "Plot took place on Danish soil"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Denmark",
-    "#Russia",
-    "#WorldNews"
-   ],
-   "sources": [
-    "ABC News",
-    "The Independent"
-   ],
-   "link": "https://abcnews.com/International/wireStory/denmark-accuses-russian-intelligence-plotting-kill-american-ukrainian-138323497",
-   "links": [
-    [
-     "ABC News",
-     "https://abcnews.com/International/wireStory/denmark-accuses-russian-intelligence-plotting-kill-american-ukrainian-138323497"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/europe/american-copenhagen-denmark-poland-europe-b3088896.html"
-    ]
-   ],
-   "bg": {
-    "type": "map",
-    "photos": [],
-    "location": "Denmark",
-    "lat": 56.0,
-    "lon": 10.0,
-    "country": "Denmark",
-    "state": "",
-    "pin": true,
-    "fit": true
-   },
-   "img_post": {
-    "headline": "Denmark accuses Russian intelligence of plotting attack",
-    "people": [],
-    "image_query": "Copenhagen street",
-    "image_queries": [
-     "Danish flag",
-     "police tape",
-     "city street",
-     "government building"
-    ],
-    "image_style": "incident",
-    "location": "Denmark",
-    "nearby_city": "Copenhagen, Denmark",
-    "event_query": "Denmark police investigation",
-    "topic_photo": "police car",
-    "label": "CONFLICT",
-    "action_subject": "police officers at work",
-    "news_time": "2026-11-20T17:24:22+00:00"
-   },
-   "created_at": "2026-11-20T18:08:59.352611+00:00",
-   "news_time": "2026-11-20T17:24:22+00:00",
-   "news_latest": "2026-11-20T17:59:38+00:00",
-   "importance": 7,
-   "caption": "Denmark accuses Russian intelligence of plotting attack\n\nAuthorities in Denmark state they thwarted the attempted killing of an American Ukrainian citizen on their soil. According to officials, the plot was allegedly orchestrated by Russian intelligence services.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Denmark #Russia #WorldNews #7SeasNews",
-   "photo_line": "📷 news map (no fitting photo)",
-   "status": "posted",
-   "tg_message_id": 869,
-   "tg_file_id": "AgACAgUAAxkDAAIDZWsAAYy9FvccBUzyRIWwAzoQa--qlAACmhNrG_07CFSG9jQ1A6idkQEAAwIAA3cAAz0E",
-   "queued_at": "2026-11-20T18:09:01.343013+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-20T18:09:01.343047+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122107742373548584",
-   "posted_at": "2026-11-20T18:09:01.667082+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 20 · 1:09 PM New York · 11:39 PM Sri Lanka\n\n<b>Denmark accuses Russian intelligence of plotting attack</b>\n<i>ABC News, The Independent</i>\n🟢 <b>Latest:</b> 11:29 PM Sri Lanka (9 min ago) · first reported 10:54 PM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122107742373548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 576,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122107742373548584_2060379394625919",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-23T18:03:26.161475+00:00"
-  },
   "1b03632f32": {
    "id": "1b03632f32",
    "headline": "Trump announces plans to tax US companies building data centers overseas",
@@ -10648,17 +10557,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-24T17:46:13.680342+00:00",
+ "last_draft_at": "2026-11-24T18:01:00.810877+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T17:45:46.972349+00:00",
  "run_log": [
-  "11-24 15:30:46 run start",
-  "11-24 15:31:44 listening 11 min",
-  "11-24 15:42:12 listening done",
-  "11-24 15:42:12 run end after 685 s",
   "11-24 15:46:07 run start",
   "11-24 15:46:43 listening 11 min",
   "11-24 15:57:38 listening done",
@@ -10694,7 +10599,11 @@
   "11-24 17:45:46 run start",
   "11-24 17:46:22 listening 11 min",
   "11-24 17:57:15 listening done",
-  "11-24 17:57:15 run end after 688 s"
+  "11-24 17:57:15 run end after 688 s",
+  "11-24 18:01:00 run start",
+  "11-24 18:01:10 listening 11 min",
+  "11-24 18:12:29 listening done",
+  "11-24 18:12:29 run end after 689 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
