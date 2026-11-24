@@ -7414,8 +7414,6 @@
   }
  },
  "seen_links": [
-  "https://www.euronews.com/2026/11/09/storm-killed-five-in-gaza-as-sandstone-slab-collapsed-onto-tents",
-  "https://thehill.com/homenews/senate/6206790-senate-gop-blames-trump-losses/",
   "https://thehill.com/policy/technology/6205126-texas-election-blue-wave-impact/",
   "https://www.washingtonexaminer.com/news/house/4795928/house-republicans-return-limited-time-left-in-power/",
   "https://thehill.com/newsletters/morning-report/6207425-stephen-miller-era-white-house-congress-returns-midterms/",
@@ -9413,7 +9411,9 @@
   "https://www.washingtonexaminer.com/news/investigations/4813260/ilhan-omar-investigation-crimes-dating-back-decades-search-warrant/",
   "https://www.foxnews.com/politics/unsealed-warrant-documents-for-ilhan-omars-dc-home-raid-reveal-decades-long-scope-of-investigation",
   "https://www.washingtonpost.com/national-security/2026/11/23/judge-had-concerns-ahead-search-rep-ilhan-omars-home-unsealed-records-show/",
-  "https://thehill.com/regulation/court-battles/6238953-omar-search-records-unsealed/"
+  "https://thehill.com/regulation/court-battles/6238953-omar-search-records-unsealed/",
+  "https://thehill.com/policy/transportation/6239029-army-seeks-reagan-national-flight-approval/",
+  "https://www.washingtonexaminer.com/policy/defense/4813080/don-beyer-concerned-resuming-army-training-flights-dc-reagan-airport/"
  ],
  "recent_topics": [
   [
@@ -11101,19 +11101,37 @@
     "warrant"
    ],
    "673f836078"
+  ],
+  [
+   "2026-11-24T04:16:16.830323+00:00",
+   [
+    "airport",
+    "army",
+    "beyer",
+    "concern",
+    "don",
+    "flight",
+    "grav",
+    "helicopter",
+    "national",
+    "near",
+    "rais",
+    "reagan",
+    "rep",
+    "resum",
+    "train",
+    "want"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-24T04:02:47.494186+00:00",
+ "last_draft_at": "2026-11-24T04:15:43.165534+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T03:26:12.712452+00:00",
  "run_log": [
-  "11-24 01:27:18 listening done",
-  "11-24 01:27:18 run end after 688 s",
-  "11-24 01:30:42 run start",
-  "11-24 01:31:22 listening 11 min",
   "11-24 01:42:16 listening done",
   "11-24 01:42:16 run end after 694 s",
   "11-24 01:45:43 run start",
@@ -11149,7 +11167,11 @@
   "11-24 04:02:47 run start",
   "11-24 04:02:55 listening 11 min",
   "11-24 04:14:13 listening done",
-  "11-24 04:14:13 run end after 686 s"
+  "11-24 04:14:13 run end after 686 s",
+  "11-24 04:15:42 run start",
+  "11-24 04:16:16 listening 11 min",
+  "11-24 04:27:14 listening done",
+  "11-24 04:27:14 run end after 691 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
