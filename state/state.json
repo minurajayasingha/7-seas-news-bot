@@ -11328,17 +11328,13 @@
    "e0dfb34915"
   ]
  ],
- "last_draft_at": "2026-11-24T07:48:07.733181+00:00",
+ "last_draft_at": "2026-11-24T08:00:50.724931+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T07:33:45.018495+00:00",
  "run_log": [
-  "11-24 05:27:00 listening done",
-  "11-24 05:27:00 run end after 687 s",
-  "11-24 05:30:59 run start",
-  "11-24 05:31:33 listening 11 min",
   "11-24 05:42:27 listening done",
   "11-24 05:42:27 run end after 687 s",
   "11-24 05:45:36 run start",
@@ -11374,7 +11370,11 @@
   "11-24 07:48:07 run start",
   "11-24 07:48:16 listening 11 min",
   "11-24 07:59:34 listening done",
-  "11-24 07:59:34 run end after 687 s"
+  "11-24 07:59:34 run end after 687 s",
+  "11-24 08:00:49 run start",
+  "11-24 08:01:10 listening 11 min",
+  "11-24 08:12:29 listening done",
+  "11-24 08:12:29 run end after 699 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -18159,7 +18159,7 @@
    }
   },
   "2026-11-23": {
-   "status": "asked",
+   "status": "building",
    "plan": {
     "parts": [
      {
@@ -18302,7 +18302,33 @@
    ],
    "asked_at": "2026-11-24T05:00:46.777790+00:00",
    "test": false,
-   "msg_id": 947
+   "msg_id": 947,
+   "approved_by": "auto",
+   "approved_at": "2026-11-24T08:00:50.211237+00:00",
+   "dispatch_at": "2026-11-24T08:00:50.211242+00:00",
+   "dispatch_tries": 1,
+   "headlines": [
+    "Residential building strike leaves eleven dead in Ukraine",
+    "Analysis estimates over 700,000 Russian soldiers killed in Ukraine war",
+    "Pentagon warns Russia plans satellite launch with nuclear weapon",
+    "Dmitry Medvedev warns NATO has crossed Russia nuclear strike red line",
+    "Oxfam report says Israeli actions created toxic wasteland in Gaza",
+    "South Korea issues shelter order after Russian aircraft approach",
+    "Democrats win large House majority after flipping North Carolina seat",
+    "Democratic National Committee schedules twelve debates for 2028 presidential primary",
+    "Gen Z voters shift back toward Democratic Party in 2026",
+    "ICE arrests father and daughter at Seattle airport",
+    "Federal court unseals records regarding search of Rep Ilhan Omar home",
+    "Army plans Iowa lead azide detonation despite court pause",
+    "Donald Trump hosts crypto gala in Virginia",
+    "Appeals court revives Trump bid to move case",
+    "Donald Trump criticizes California Governor Gavin Newsom over death sentences",
+    "Trump plans to attack Newsom during Department of Justice speech",
+    "Nine hospitalized following shooting at central California concert",
+    "European schools receive wave of bomb threats via email",
+    "Two city buses and car crash in Columbus kills two",
+    "US adds Singaporean firm Megaspeed to trade blacklist"
+   ]
   }
  },
  "run_once_done": [
