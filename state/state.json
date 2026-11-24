@@ -1,196 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "ced106d019": {
-   "id": "ced106d019",
-   "headline": "Russian missile and drone attacks kill several in Ukraine",
-   "summary": "Russia launched a series of missile and drone strikes targeting Kyiv, Lviv, and other Ukrainian regions. The attacks resulted in multiple deaths and injuries while cutting power and damaging bridges.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "Attacks hit Kyiv and Lviv",
-    "Power supplies were cut",
-    "Bridges were damaged"
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#Ukraine",
-    "#Russia",
-    "#WorldNews"
-   ],
-   "sources": [
-    "ABC News",
-    "UPI"
-   ],
-   "link": "https://www.upi.com/Top_News/World-News/2026/11/20/Ukraine-Russia-mounts-deadly-missile-drone-assault/8421795165920/",
-   "links": [
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/World-News/2026/11/20/Ukraine-Russia-mounts-deadly-missile-drone-assault/8421795165920/"
-    ],
-    [
-     "ABC News",
-     "https://abcnews.com/International/wireStory/russian-attacks-kyiv-kill-3-cripple-bridges-cut-138313948"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Kyiv_skyline_%2815688086793%29.jpg/1920px-Kyiv_skyline_%2815688086793%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Sergey Galyonkin from Raleigh, USA / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 5,
-      "shows": "Kyiv skyline at dawn"
-     }
-    ],
-    "_loaded": 1
-   },
-   "img_post": {
-    "headline": "Russian missile and drone attacks kill several in Ukraine",
-    "people": [],
-    "image_query": "Kyiv city",
-    "image_queries": [
-     "Lviv city",
-     "damaged bridge",
-     "power lines",
-     "Ukrainian city street"
-    ],
-    "image_style": "incident",
-    "location": "Kyiv, Ukraine",
-    "nearby_city": "Kyiv, Ukraine",
-    "event_query": "Kyiv missile attack",
-    "topic_photo": "damaged building",
-    "label": "CONFLICT",
-    "action_subject": "missile strike damage",
-    "news_time": "2026-11-20T08:51:45+00:00"
-   },
-   "created_at": "2026-11-20T11:36:37.071097+00:00",
-   "news_time": "2026-11-20T08:51:45+00:00",
-   "news_latest": "2026-11-20T11:21:00+00:00",
-   "importance": 10,
-   "caption": "🚨 BREAKING: Russian missile and drone attacks kill several in Ukraine\n\nRussia launched a series of missile and drone strikes targeting Kyiv, Lviv, and other Ukrainian regions. The attacks resulted in multiple deaths and injuries while cutting power and damaging bridges.\n\nWhat we know so far:\n• Attacks hit Kyiv and Lviv\n• Power supplies were cut\n• Bridges were damaged\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Ukraine #Russia #WorldNews #7SeasNews",
-   "photo_line": "📷 5/10 Kyiv skyline at dawn",
-   "status": "posted",
-   "tg_message_id": 857,
-   "tg_file_id": "AgACAgUAAxkDAAIDWWsAATDJ6lcJEBQ0NBkPSM40PYp5YgAC8RRrG_07AAFUOxylc2ebbSwBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-20T11:36:41.615390+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-20T11:36:41.615420+00:00",
-   "post_label": "🤖 Auto-posting + Reel",
-   "fb_post_id": "1413030521900096_122107415091548584",
-   "posted_at": "2026-11-20T11:37:55.236063+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 20 · 6:38 AM New York · 5:08 PM Sri Lanka\n\n<b>Russian missile and drone attacks kill several in Ukraine</b>\n<i>ABC News, UPI</i>\n🟢 <b>Latest:</b> 4:51 PM Sri Lanka (17 min ago) · first reported 2:21 PM\n📷 5/10 Kyiv skyline at dawn\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122107415091548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 562,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122107415091548584_1799350587845448",
-   "fb_story_id": "4120975834875695",
-   "fb_reel_id": "1000434179792714",
-   "reel_status": "live",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-23T10:38:11.408541+00:00"
-  },
-  "11cb4e9aad": {
-   "id": "11cb4e9aad",
-   "headline": "Iraqi security forces deploy in Jurf al-Sakhar",
-   "summary": "Iraqi security forces deployed in the Kataib Hezbollah stronghold of Jurf al-Sakhar under a compromise deal brokered by Shi'ite politicians. State media reported the deployment following a security intervention ordered by Iraq's prime minister after allegations of state-owned oil smuggling.",
-   "label": "CONFLICT",
-   "hook": "Will this compromise deal end the standoff in Jurf al-Sakhar?",
-   "key_points": [
-    "Kataib Hezbollah faced a deadline to leave its stronghold.",
-    "The prime minister ordered a security intervention earlier this week.",
-    "The militia was accused of smuggling state-owned oil worth hundreds of millions of dollars."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Iraq",
-    "#KataibHezbollah",
-    "#WorldNews"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "France 24"
-   ],
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kataib-hezbollah-faces-deadline-to-leave-iraqi-stronghold?traffic_source=rss",
-   "links": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/video/newsfeed/2026/11/20/kataib-hezbollah-faces-deadline-to-leave-iraqi-stronghold?traffic_source=rss"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/middle-east/20261120-iraqi-security-forces-to-deploy-in-hezbollah-stronghold-under-compromise-deal"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Views_of_Iraqi_flag_over_the_Aghawat_Mosque_in_Mosul_in_summer_of_2019%2C_after_its_destruction_in_the_war_with_the_Islamic_State_12.jpg",
-      "credit": "Levi Clancy / Wikimedia Commons (CC0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 5,
-      "shows": "Iraqi flag"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Iraqi security forces deploy in Jurf al-Sakhar",
-    "people": [],
-    "image_query": "Baghdad street scene",
-    "image_queries": [
-     "Iraqi flag",
-     "Baghdad cityscape",
-     "state media building",
-     "government office"
-    ],
-    "image_style": "scene",
-    "location": "Jurf al-Sakhar, Iraq",
-    "nearby_city": "Baghdad, Iraq",
-    "event_query": "Iraqi security forces deployment",
-    "topic_photo": "police officers at work",
-    "label": "CONFLICT",
-    "action_subject": "Iraqi security forces",
-    "news_time": "2026-11-20T08:37:27+00:00"
-   },
-   "created_at": "2026-11-20T11:37:52.920469+00:00",
-   "news_time": "2026-11-20T08:37:27+00:00",
-   "news_latest": "2026-11-20T11:10:06+00:00",
-   "importance": 6,
-   "caption": "Iraqi security forces deploy in Jurf al-Sakhar\n\nIraqi security forces deployed in the Kataib Hezbollah stronghold of Jurf al-Sakhar under a compromise deal brokered by Shi'ite politicians. State media reported the deployment following a security intervention ordered by Iraq's prime minister after allegations of state-owned oil smuggling.\n\n💬 Will this compromise deal end the standoff in Jurf al-Sakhar?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Iraq #KataibHezbollah #WorldNews #7SeasNews",
-   "photo_line": "📷 5/10 Iraqi flag",
-   "status": "posted",
-   "tg_message_id": 858,
-   "tg_file_id": "AgACAgUAAxkDAAIDWmsAATESPgwZ1tj3KsmeTlp4kH4k7QAC8hRrG_07AAFUW8BeLYmOErMBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-20T11:37:54.947984+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_label": "🤖 Auto-posting",
-   "post_at": "2026-11-20T11:38:00.894724+00:00",
-   "fb_post_id": "1413030521900096_122107416525548584",
-   "posted_at": "2026-11-20T11:37:55.236063+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 20 · 6:39 AM New York · 5:09 PM Sri Lanka\n\n<b>Iraqi security forces deploy in Jurf al-Sakhar</b>\n<i>Al Jazeera, France 24</i>\n🟢 <b>Latest:</b> 4:40 PM Sri Lanka (28 min ago) · first reported 2:07 PM\n📷 5/10 Iraqi flag\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122107416525548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 564,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122107416525548584_1149445191003382",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-23T10:38:11.408541+00:00"
-  },
   "1deeaf75e4": {
    "id": "1deeaf75e4",
    "headline": "UN court rules Myanmar committed genocide against Rohingya minority",
@@ -7382,12 +7192,103 @@
     "shares": 0
    },
    "stats_at": "2026-11-24T10:46:01.981291+00:00"
+  },
+  "034750cc4a": {
+   "id": "034750cc4a",
+   "headline": "Malaysia announces plans to repatriate 6,803 Myanmar nationals",
+   "summary": "Prime Minister Anwar Ibrahim announced plans to send thousands of Myanmar nationals back to their home country. The announcement follows a ruling by the International Court of Justice concerning Myanmar and the Rohingya minority.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "Malaysia acknowledges many asylum seekers fled atrocities by the junta.",
+    "The repatriation plan involves 6,803 Myanmar nationals.",
+    "The UN court recently ruled Myanmar committed genocide."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Malaysia",
+    "#Myanmar",
+    "#WorldNews"
+   ],
+   "sources": [
+    "ABC News",
+    "The Guardian",
+    "The Independent"
+   ],
+   "link": "https://abcnews.com/International/wireStory/malaysia-repatriate-6803-myanmar-nationals-despite-icj-genocide-138404157",
+   "links": [
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/malaysia-repatriate-6803-myanmar-nationals-despite-icj-genocide-138404157"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/europe/myanmar-anwar-ibrahim-malaysia-kuala-lumpur-min-aung-hlaing-b3090485.html"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/24/malaysia-to-send-thousands-of-migrants-back-to-myanmar"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg2NDE0NTAtaW1hZ2Uta3d2eGtmbXEuanBn.jpg",
+      "credit": "Unknown / Rawpixel (CC0)",
+      "short": "RAWPIXEL",
+      "score": 5,
+      "shows": "Kuala Lumpur cityscape at dusk"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Malaysia announces plans to repatriate 6,803 Myanmar nationals",
+    "people": [
+     "Anwar Ibrahim"
+    ],
+    "image_query": "Kuala Lumpur skyline",
+    "image_queries": [
+     "Malaysian parliament",
+     "Kuala Lumpur cityscape",
+     "government office building",
+     "immigration department"
+    ],
+    "image_style": "scene",
+    "location": "Kuala Lumpur, Malaysia",
+    "nearby_city": "Kuala Lumpur, Malaysia",
+    "event_query": "Malaysia government building",
+    "topic_photo": "passport stamp",
+    "label": "WORLD",
+    "action_subject": "government press conference",
+    "news_time": "2026-11-24T05:54:14+00:00"
+   },
+   "created_at": "2026-11-24T11:33:27.389634+00:00",
+   "news_time": "2026-11-24T05:54:14+00:00",
+   "news_latest": "2026-11-24T11:15:19+00:00",
+   "importance": 6,
+   "caption": "Malaysia announces plans to repatriate 6,803 Myanmar nationals\n\nPrime Minister Anwar Ibrahim announced plans to send thousands of Myanmar nationals back to their home country. The announcement follows a ruling by the International Court of Justice concerning Myanmar and the Rohingya minority.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Malaysia #Myanmar #WorldNews #7SeasNews",
+   "photo_line": "📷 5/10 Kuala Lumpur cityscape at dusk",
+   "status": "posted",
+   "tg_message_id": 954,
+   "tg_file_id": "AgACAgUAAxkDAAIDumsFdgnsf2QcDkkXE2SGaGDBFmJWAAIsFGsbSgcxVD5TcPk4Pl9kAQADAgADdwADPQQ",
+   "queued_at": "2026-11-24T11:33:29.442070+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-24T11:33:29.442091+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122110953843548584",
+   "posted_at": "2026-11-24T11:33:29.754825+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 24 · 6:33 AM New York · 5:03 PM Sri Lanka\n\n<b>Malaysia announces plans to repatriate 6,803 Myanmar nationals</b>\n<i>ABC News, The Guardian, The Independent</i>\n🟢 <b>Latest:</b> 4:45 PM Sri Lanka (18 min ago) · first reported 11:24 AM\n📷 5/10 Kuala Lumpur cityscape at dusk\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122110953843548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 659,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122110953843548584_1163373619773390"
   }
  },
  "seen_links": [
-  "https://www.foxnews.com/politics/congress-returns-brutal-lame-duck-stretch-shutdown-deadline-leadership-races-closet-full-s",
-  "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates",
-  "https://www.aljazeera.com/news/2026/11/9/uk-court-hands-comedian-russel-brand-10-5-years-for-rape-sexual-assault?traffic_source=rss",
   "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced",
   "https://www.cbsnews.com/news/russell-brand-sentenced-prison-rape-sexual-assault/",
   "https://www.theguardian.com/news/2026/nov/09/russell-brand-sentenced-rape-sexual-assault",
@@ -9384,29 +9285,12 @@
   "https://thehill.com/policy/defense/6238111-trump-china-russia-nuclear-dialogue-hurdles/",
   "https://www.washingtonexaminer.com/op-eds/4811910/trump-putin-xi-summit-diplomacy-isolating-moscow-has-driven-china-russia-closer/",
   "https://www.foxnews.com/politics/turkey-farmer-dishes-preparing-birds-trumps-thanksgiving-presidential-pardon",
-  "https://www.newsweek.com/the-weirdness-of-the-white-house-thanksgiving-turkey-pardon-explained-12760599"
+  "https://www.newsweek.com/the-weirdness-of-the-white-house-thanksgiving-turkey-pardon-explained-12760599",
+  "https://abcnews.com/International/wireStory/malaysia-repatriate-6803-myanmar-nationals-despite-icj-genocide-138404157",
+  "https://www.independent.co.uk/news/world/europe/myanmar-anwar-ibrahim-malaysia-kuala-lumpur-min-aung-hlaing-b3090485.html",
+  "https://www.theguardian.com/world/2026/nov/24/malaysia-to-send-thousands-of-migrants-back-to-myanmar"
  ],
  "recent_topics": [
-  [
-   "2026-11-21T11:33:27.626695+00:00",
-   [
-    "army",
-    "captur",
-    "chapo",
-    "drug",
-    "erupt",
-    "fbi",
-    "gunfir",
-    "isidro",
-    "kingpin",
-    "lord",
-    "mexican",
-    "mexico",
-    "most",
-    "want"
-   ],
-   "4992a5d3af"
-  ],
   [
    "2026-11-21T12:31:46.119276+00:00",
    [
@@ -11143,19 +11027,38 @@
     "whit"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-24T11:33:29.441937+00:00",
+   [
+    "6803",
+    "acknowledg",
+    "another",
+    "atrocity",
+    "back",
+    "despit",
+    "genocid",
+    "icj",
+    "junta",
+    "malaysia",
+    "migrant",
+    "myanmar",
+    "national",
+    "repatriat",
+    "rul",
+    "send",
+    "thousand"
+   ],
+   "034750cc4a"
   ]
  ],
- "last_draft_at": "2026-11-24T11:15:41.265179+00:00",
+ "last_draft_at": "2026-11-24T11:30:43.154347+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T10:46:01.981291+00:00",
  "run_log": [
-  "11-24 09:14:06 run start",
-  "11-24 09:14:40 listening 11 min",
-  "11-24 09:25:37 listening done",
-  "11-24 09:25:37 run end after 690 s",
   "11-24 09:26:10 run start",
   "11-24 09:26:20 listening 11 min",
   "11-24 09:37:40 listening done",
@@ -11191,12 +11094,15 @@
   "11-24 11:15:39 run start",
   "11-24 11:16:33 listening 11 min",
   "11-24 11:27:28 listening done",
-  "11-24 11:27:28 run end after 708 s"
+  "11-24 11:27:28 run end after 708 s",
+  "11-24 11:30:42 run start",
+  "11-24 11:33:42 listening 8 min",
+  "11-24 11:42:30 listening done",
+  "11-24 11:42:30 run end after 707 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/1280px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Voting_booth_at_the_Madison_Parish_Courthouse.jpg/1920px-Voting_booth_at_the_Madison_Parish_Courthouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Firefighters_fighting_fire_action.jpg/1920px-Firefighters_fighting_fire_action.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -11235,7 +11141,8 @@
    "https://upload.wikimedia.org/wikipedia/commons/6/61/Parliament_House_Canberra_Dusk_Panorama.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/a/a6/US_Army_soldiers_during_maneuver_practice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://upload.wikimedia.org/wikipedia/commons/0/08/Pyongyang_skyline_%2816077193495%29.jpg",
-   "https://upload.wikimedia.org/wikipedia/commons/8/8f/Warsaw_skyline_%288510344469%29.jpg"
+   "https://upload.wikimedia.org/wikipedia/commons/8/8f/Warsaw_skyline_%288510344469%29.jpg",
+   "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg2NDE0NTAtaW1hZ2Uta3d2eGtmbXEuanBn.jpg"
   ],
   "pools": {
    "howard lutnick": {
@@ -14506,7 +14413,6 @@
    }
   },
   "recent_ideas": [
-   "voting booth",
    "california state capitol",
    "marriner s. eccles federal reserve board building",
    "courtroom",
@@ -14517,7 +14423,8 @@
    "parliament house canberra",
    "us army soldiers",
    "pyongyang skyline",
-   "warsaw skyline"
+   "warsaw skyline",
+   "kuala lumpur cityscape"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -16574,6 +16481,11 @@
     "s": 5,
     "w": "Warsaw skyline",
     "p": "calm city skyline for a military deployment story"
+   },
+   "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg2NDE0NTAtaW1hZ2Uta3d2eGtmbXEuanBn.jpg|bbe2834f": {
+    "s": 5,
+    "w": "Kuala Lumpur cityscape at dusk",
+    "p": "Cityscape illustrating a government policy story"
    }
   }
  },
@@ -16585,10 +16497,10 @@
   "2026-11-21": 17,
   "2026-11-22": 11,
   "2026-11-23": 20,
-  "2026-11-24": 5
+  "2026-11-24": 6
  },
- "last_auto_at": "2026-11-24T09:51:41.699337+00:00",
- "last_post_at": "2026-11-24T09:51:45.894602+00:00",
+ "last_auto_at": "2026-11-24T11:33:29.754825+00:00",
+ "last_post_at": "2026-11-24T11:33:33.737013+00:00",
  "reels_count": {
   "2026-11-17": 3,
   "2026-11-18": 3,
