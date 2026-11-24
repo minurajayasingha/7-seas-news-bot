@@ -6404,8 +6404,6 @@
   }
  },
  "seen_links": [
-  "https://www.nbcnews.com/business/media/trump-media-revenue-surges-truth-social-rcna608428",
-  "https://www.washingtonexaminer.com/news/campaigns/state/4786718/california-billionaire-wealth-tax-fails-liberal-dreams/",
   "https://www.cbsnews.com/news/california-proposition-40-billionaire-wealth-tax-rejected-cbs-projects/",
   "https://www.nbcnews.com/politics/2026-election/california-reject-billionaire-tax-ballot-measure-prop-40-rcna603382",
   "https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss",
@@ -8403,7 +8401,9 @@
   "https://thehill.com/policy/healthcare/6240970-hepatitis-b-vaccine-rates-drop/",
   "https://www.upi.com/Top_News/US/2026/11/24/study-shows-fewer-newborns-vaccinated-against-hepititis-b/7591795553122/",
   "https://www.nbcnews.com/meet-the-press/video/nvidia-will-comply-with-investigations-one-way-or-the-other-says-california-ag-274117701755",
-  "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+  "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/",
+  "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html"
  ],
  "recent_topics": [
   [
@@ -10019,19 +10019,34 @@
     "way"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-24T23:01:11.911833+00:00",
+   [
+    "20",
+    "abrego",
+    "end",
+    "europ",
+    "garcia",
+    "kilmar",
+    "leav",
+    "legal",
+    "month",
+    "ordeal",
+    "sourc",
+    "today",
+    "voluntarily"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-24T22:46:10.383412+00:00",
+ "last_draft_at": "2026-11-24T23:01:09.749704+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T22:45:48.167986+00:00",
  "run_log": [
-  "11-24 20:37:42 run start",
-  "11-24 20:40:17 listening 9 min",
-  "11-24 20:49:31 listening done",
-  "11-24 20:49:31 run end after 709 s",
   "11-24 20:49:59 run start",
   "11-24 20:51:13 listening 10 min",
   "11-24 21:01:41 listening done",
@@ -10067,7 +10082,11 @@
   "11-24 22:45:47 run start",
   "11-24 22:46:29 listening 11 min",
   "11-24 22:57:23 listening done",
-  "11-24 22:57:23 run end after 695 s"
+  "11-24 22:57:23 run end after 695 s",
+  "11-24 23:01:09 run start",
+  "11-24 23:01:11 listening 11 min",
+  "11-24 23:12:54 listening done",
+  "11-24 23:12:54 run end after 705 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
