@@ -6597,12 +6597,6 @@
   }
  },
  "seen_links": [
-  "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
-  "https://www.aljazeera.com/news/2026/11/9/pope-meets-with-clergy-abuse-survivors-in-argentina?traffic_source=rss",
-  "https://abcnews.com/International/wireStory/pope-meets-survivors-clergy-abuse-argentina-reckons-legacy-137988212",
-  "https://abcnews.com/International/wireStory/pope-visits-struggling-argentine-home-people-disabilities-press-137970019",
-  "https://www.upi.com/Top_News/World-News/2026/11/09/latam-argentina-pope-mass/8271794244018/",
-  "https://www.euronews.com/video/2026/11/09/argentina-pope-leo-xiv-receives-warm-welcome-in-claypole",
   "https://thehill.com/homenews/campaign/6209217-colom-blasts-election-forecasters/",
   "https://www.washingtonpost.com/elections/2026/11/09/democrat-scott-colom-attacks-cook-reports-accuracy/",
   "https://www.nbcnews.com/politics/politics-news/capitol-hill-vibe-shift-politics-desk-rcna608437",
@@ -8596,7 +8590,13 @@
   "https://www.france24.com/en/car-bomb-destroys-buildings-in-central-colombian-city",
   "https://www.euronews.com/2026/11/24/at-least-24-injured-after-car-bomb-detonates-in-central-colombia",
   "https://thehill.com/homenews/campaign/6240650-dan-sullivan-concedes-alaska-senate/",
-  "https://www.newsweek.com/mary-peltola-alaska-senate-election-result-certified-what-happens-next-12763499"
+  "https://www.newsweek.com/mary-peltola-alaska-senate-election-result-certified-what-happens-next-12763499",
+  "https://www.washingtonexaminer.com/travel/4813734/air-travel-thanksgiving-record-flights-faa/",
+  "https://thehill.com/homenews/administration/6240880-thanksgiving-travel-faa-groundstop/",
+  "https://www.foxnews.com/world/european-leader-warns-russian-aggression-could-escalate-within-weeks-months",
+  "https://kyivindependent.com/uk-warns-companies-supplying-ukraine-of-russian-sabotage-threat/",
+  "https://www.newsweek.com/battle-of-the-moms-karoline-leavitt-comes-for-ms-rachel-12764568",
+  "https://thehill.com/blogs/in-the-know/6240550-leavitt-ms-rachel-lander-new-york-immigration-court/"
  ],
  "recent_topics": [
   [
@@ -10213,17 +10213,13 @@
    "11edec9e49"
   ]
  ],
- "last_draft_at": "2026-11-24T20:24:54.215412+00:00",
+ "last_draft_at": "2026-11-24T20:37:42.783072+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T19:45:34.905404+00:00",
  "run_log": [
-  "11-24 18:15:36 run start",
-  "11-24 18:17:04 listening 10 min",
-  "11-24 18:27:07 listening done",
-  "11-24 18:27:07 run end after 690 s",
   "11-24 18:31:32 run start",
   "11-24 18:31:47 listening 11 min",
   "11-24 18:43:08 listening done",
@@ -10259,7 +10255,11 @@
   "11-24 20:24:53 run start",
   "11-24 20:25:13 listening 11 min",
   "11-24 20:36:31 listening done",
-  "11-24 20:36:31 run end after 698 s"
+  "11-24 20:36:31 run end after 698 s",
+  "11-24 20:37:42 run start",
+  "11-24 20:40:17 listening 9 min",
+  "11-24 20:49:31 listening done",
+  "11-24 20:49:31 run end after 709 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
