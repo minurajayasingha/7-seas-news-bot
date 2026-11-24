@@ -1,302 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "9cd1260ee6": {
-   "id": "9cd1260ee6",
-   "headline": "Trump holds press conference after returning from China",
-   "summary": "President Donald Trump held a press conference Friday afternoon following his return from China. During the event, Trump stated that his 2020 election loss caused the war in Ukraine.",
-   "label": "US POLITICS",
-   "hook": "Would Stephen Miller make a successful presidential candidate?",
-   "key_points": [
-    "Trump floated Stephen Miller as a potential presidential candidate.",
-    "Vice President JD Vance declined to endorse the Iran war.",
-    "Vance stated that the president makes the decision on war."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#DonaldTrump",
-    "#WhiteHouse"
-   ],
-   "sources": [
-    "The Hill",
-    "UPI",
-    "Washington Examiner",
-    "Washington Post"
-   ],
-   "link": "https://www.washingtonpost.com/politics/2026/11/20/vice-president-jd-vance-declines-say-iran-war-was-worth-it-supports-trump/",
-   "links": [
-    [
-     "Washington Post",
-     "https://www.washingtonpost.com/politics/2026/11/20/vice-president-jd-vance-declines-say-iran-war-was-worth-it-supports-trump/"
-    ],
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/news/white-house/4810641/vance-decline-back-trump-iran-war/"
-    ],
-    [
-     "The Hill",
-     "https://thehill.com/homenews/administration/6234343-trump-asks-stephen-miller-run-presidency/"
-    ],
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/US/2026/11/20/trump-ukraine-putin-xi-2020-election/4991795207663/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/White_House_%28South_Lawn%29.jpeg/1920px-White_House_%28South_Lawn%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Mark Skrobola (MCS@flickr) / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 7,
-      "shows": "the White House south lawn"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Trump holds press conference after returning from China",
-    "people": [
-     "Donald Trump"
-    ],
-    "image_query": "White House exterior",
-    "image_queries": [
-     "US Capitol building",
-     "West Wing press briefing room",
-     "Oval Office desk",
-     "Washington D.C. skyline"
-    ],
-    "image_style": "person",
-    "location": "Washington, D.C., US",
-    "nearby_city": "Washington, D.C.",
-    "event_query": "White House press conference",
-    "topic_photo": "podium microphone",
-    "label": "US POLITICS",
-    "action_subject": "",
-    "news_time": "2026-11-20T21:17:54+00:00"
-   },
-   "created_at": "2026-11-20T22:49:11.001677+00:00",
-   "news_time": "2026-11-20T21:17:54+00:00",
-   "news_latest": "2026-11-20T22:09:32+00:00",
-   "importance": 6,
-   "caption": "Trump holds press conference after returning from China\n\nPresident Donald Trump held a press conference Friday afternoon following his return from China. During the event, Trump stated that his 2020 election loss caused the war in Ukraine.\n\n💬 Would Stephen Miller make a successful presidential candidate?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #DonaldTrump #WhiteHouse #7SeasNews",
-   "photo_line": "📷 7/10 the White House south lawn",
-   "status": "posted",
-   "tg_message_id": 877,
-   "tg_file_id": "AgACAgUAAxkDAAIDbWsAAc5pgVWuKMQ0FWfTnqMLYaTVGAACzRNrG_07CFQZMB_TuNGNdgEAAwIAA3cAAz0E",
-   "queued_at": "2026-11-20T22:49:13.586721+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-20T22:49:13.586755+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122107919751548584",
-   "posted_at": "2026-11-20T22:50:03.850855+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 20 · 5:50 PM New York · 4:20 AM Sri Lanka\n\n<b>Trump holds press conference after returning from China</b>\n<i>The Hill, UPI, Washington Examiner, Washington Post</i>\n🟢 <b>Latest:</b> 3:39 AM Sri Lanka (40 min ago) · first reported 2:47 AM\n📷 7/10 the White House south lawn\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122107919751548584\">Open on Facebook</a>\n\n⚠️ <i>Looks like an earlier post: “Trump, Putin and Xi hold summit in China”. Tap 🗑 Delete if it's the same news.</i>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 585,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122107919751548584_3551584405021078",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-23T22:15:56.118605+00:00"
-  },
-  "de9e9b9d72": {
-   "id": "de9e9b9d72",
-   "headline": "US lawmakers push for tougher AI chip rules",
-   "summary": "Washington has implemented new rules restricting remote access to advanced US AI chips. Meanwhile, Treasury Secretary Scott Bessent states that no further restrictions on older Nvidia chips to China are required.",
-   "label": "ECONOMY",
-   "hook": "Should the US place stricter limits on AI chip exports to China?",
-   "key_points": [
-    "Washington restricted remote access to advanced chips.",
-    "Treasury Secretary Scott Bessent addressed older Nvidia chips."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#TechPolicy",
-    "#Semiconductors"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "The Independent"
-   ],
-   "link": "https://www.independent.co.uk/news/world/americas/nvidia-donald-trump-scott-bessent-amd-chinese-b3089013.html",
-   "links": [
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/nvidia-donald-trump-scott-bessent-amd-chinese-b3089013.html"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Capitol_Washington_October_2016-3.jpg/1920px-Capitol_Washington_October_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Alvesgaspar / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 7,
-      "shows": "US Capitol building"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "US lawmakers push for tougher AI chip rules",
-    "people": [],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "Senate chamber",
-     "Capitol Hill",
-     "microchip manufacturing",
-     "US Treasury building"
-    ],
-    "image_style": "person",
-    "location": "Washington, US",
-    "nearby_city": "Washington, DC",
-    "event_query": "",
-    "topic_photo": "microchip",
-    "label": "ECONOMY",
-    "action_subject": "",
-    "news_time": "2026-11-20T22:15:07+00:00"
-   },
-   "created_at": "2026-11-20T22:49:24.476580+00:00",
-   "news_time": "2026-11-20T22:15:07+00:00",
-   "news_latest": "2026-11-20T22:36:47+00:00",
-   "importance": 7,
-   "caption": "US lawmakers push for tougher AI chip rules\n\nWashington has implemented new rules restricting remote access to advanced US AI chips. Meanwhile, Treasury Secretary Scott Bessent states that no further restrictions on older Nvidia chips to China are required.\n\n💬 Should the US place stricter limits on AI chip exports to China?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #TechPolicy #Semiconductors #7SeasNews",
-   "photo_line": "📷 7/10 US Capitol building",
-   "status": "posted",
-   "tg_message_id": 878,
-   "tg_file_id": "AgACAgUAAxkDAAIDbmsAAc525BERKaiLU6yFQ4f60aJteQACzhNrG_07CFRZ7wMoLVTC9QEAAwIAA3cAAz0E",
-   "queued_at": "2026-11-20T22:49:26.640014+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-20T22:49:26.640058+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122107920165548584",
-   "posted_at": "2026-11-20T22:50:03.850855+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 20 · 5:50 PM New York · 4:20 AM Sri Lanka\n\n<b>US lawmakers push for tougher AI chip rules</b>\n<i>Al Jazeera, The Independent</i>\n🟢 <b>Latest:</b> 4:06 AM Sri Lanka (13 min ago) · first reported 3:45 AM\n📷 7/10 US Capitol building\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122107920165548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 586,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122107920165548584_1714502136706038",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-23T22:15:56.118605+00:00"
-  },
-  "f926c87686": {
-   "id": "f926c87686",
-   "headline": "French court sentences police officers over beating of music producer",
-   "summary": "A Paris court sentenced three police officers to prison over the 2020 beating of Black music producer Michel Zecler. The assault, which was captured on security cameras, was upheld by the court as an aggravated circumstance of racism.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "The 2020 assault sparked outrage over police brutality.",
-    "The beating took place in a building in Paris.",
-    "Police stated the producer was not wearing a face mask."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#France",
-    "#Police",
-    "#WorldNews"
-   ],
-   "sources": [
-    "BBC",
-    "France 24",
-    "The Guardian"
-   ],
-   "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-   "links": [
-    [
-     "BBC",
-     "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/france/20261120-paris-police-officers-sentenced-to-prison-over-2020-beating-of-black-man-michel-zecler"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing"
-    ]
-   ],
-   "bg": {
-    "type": "map",
-    "photos": [],
-    "location": "Paris, France",
-    "lat": 48.8567,
-    "lon": 2.3522,
-    "country": "France",
-    "state": ""
-   },
-   "img_post": {
-    "headline": "French court sentences police officers over beating of music producer",
-    "people": [],
-    "image_query": "Paris courthouse building",
-    "image_queries": [
-     "French police vehicle",
-     "Paris street",
-     "security camera",
-     "Paris cityscape"
-    ],
-    "image_style": "incident",
-    "location": "Paris, France",
-    "nearby_city": "Paris, France",
-    "event_query": "Paris police trial",
-    "topic_photo": "judge gavel",
-    "label": "WORLD",
-    "action_subject": "police officers at work",
-    "news_time": "2026-11-20T19:00:11+00:00"
-   },
-   "created_at": "2026-11-20T22:50:01.640576+00:00",
-   "news_time": "2026-11-20T19:00:11+00:00",
-   "news_latest": "2026-11-20T22:37:09+00:00",
-   "importance": 6,
-   "caption": "French court sentences police officers over beating of music producer\n\nA Paris court sentenced three police officers to prison over the 2020 beating of Black music producer Michel Zecler. The assault, which was captured on security cameras, was upheld by the court as an aggravated circumstance of racism.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#France #Police #WorldNews #7SeasNews",
-   "photo_line": "📷 news map (no fitting photo)",
-   "status": "posted",
-   "tg_message_id": 879,
-   "tg_file_id": "AgACAgUAAxkDAAIDb2sAAc6b61g4x6YbUqUnaRvkwmvIGQACzxNrG_07CFSG7mptWUNeegEAAwIAA3cAAz0E",
-   "queued_at": "2026-11-20T22:50:03.500684+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-20T22:50:03.500717+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122107920369548584",
-   "posted_at": "2026-11-20T22:50:03.850855+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 20 · 5:50 PM New York · 4:20 AM Sri Lanka\n\n<b>French court sentences police officers over beating of music producer</b>\n<i>BBC, France 24, The Guardian</i>\n🟢 <b>Latest:</b> 4:07 AM Sri Lanka (13 min ago) · first reported 12:30 AM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122107920369548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 587,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122107920369548584_1668068058398681",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-23T22:15:56.118605+00:00"
-  },
   "3db22531f4": {
    "id": "3db22531f4",
    "headline": "Texas Governor-elect Gina Hinojosa vows to change policies",
@@ -2420,7 +2124,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "51037c3d1d": {
    "id": "51037c3d1d",
@@ -2520,7 +2224,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "6a13b82949": {
    "id": "6a13b82949",
@@ -2614,7 +2318,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "d4bb76db92": {
    "id": "d4bb76db92",
@@ -2713,7 +2417,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "e3bce82e41": {
    "id": "e3bce82e41",
@@ -2810,7 +2514,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "53abef20f1": {
    "id": "53abef20f1",
@@ -2904,7 +2608,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "37422c4f45": {
    "id": "37422c4f45",
@@ -2998,7 +2702,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "253835a25b": {
    "id": "253835a25b",
@@ -3093,7 +2797,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "5ce05721ba": {
    "id": "5ce05721ba",
@@ -3189,7 +2893,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "38e98f092c": {
    "id": "38e98f092c",
@@ -3282,7 +2986,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "72bdf50f2a": {
    "id": "72bdf50f2a",
@@ -3376,7 +3080,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "8a0995fa2d": {
    "id": "8a0995fa2d",
@@ -3470,7 +3174,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "efcc1598ed": {
    "id": "efcc1598ed",
@@ -3564,7 +3268,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "7d2b5f32fe": {
    "id": "7d2b5f32fe",
@@ -3661,7 +3365,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "0424cd058e": {
    "id": "0424cd058e",
@@ -3754,7 +3458,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "e2be825e0d": {
    "id": "e2be825e0d",
@@ -3849,7 +3553,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "65d536118f": {
    "id": "65d536118f",
@@ -3943,7 +3647,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "cca23e0ad5": {
    "id": "cca23e0ad5",
@@ -4035,7 +3739,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "4778aeba39": {
    "id": "4778aeba39",
@@ -4138,7 +3842,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "3eb168f77d": {
    "id": "3eb168f77d",
@@ -4232,7 +3936,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "f9d9325fa7": {
    "id": "f9d9325fa7",
@@ -4326,7 +4030,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "796612a75a": {
    "id": "796612a75a",
@@ -4419,7 +4123,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "3ed909c38e": {
    "id": "3ed909c38e",
@@ -4513,7 +4217,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "5543313b9a": {
    "id": "5543313b9a",
@@ -4606,7 +4310,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "db655a33fb": {
    "id": "db655a33fb",
@@ -4701,7 +4405,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "f1f7ae156b": {
    "id": "f1f7ae156b",
@@ -4799,7 +4503,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "c6d37efc2f": {
    "id": "c6d37efc2f",
@@ -4900,7 +4604,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "d1d91f7b30": {
    "id": "d1d91f7b30",
@@ -4995,7 +4699,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "d2244b9c6e": {
    "id": "d2244b9c6e",
@@ -5088,7 +4792,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "673f836078": {
    "id": "673f836078",
@@ -5191,7 +4895,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "d03c9347c8": {
    "id": "d03c9347c8",
@@ -5285,7 +4989,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "ce67c4c0f3": {
    "id": "ce67c4c0f3",
@@ -5378,7 +5082,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "e0dfb34915": {
    "id": "e0dfb34915",
@@ -5471,7 +5175,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "33748771cf": {
    "id": "33748771cf",
@@ -5564,7 +5268,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "197eb37be8": {
    "id": "197eb37be8",
@@ -5657,7 +5361,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "1f2a8fcdf2": {
    "id": "1f2a8fcdf2",
@@ -5749,7 +5453,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "034750cc4a": {
    "id": "034750cc4a",
@@ -5849,7 +5553,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "fc2db0d6c8": {
    "id": "fc2db0d6c8",
@@ -5945,7 +5649,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "fe5f4fe4ed": {
    "id": "fe5f4fe4ed",
@@ -6038,7 +5742,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "f77b05fad3": {
    "id": "f77b05fad3",
@@ -6131,7 +5835,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "64a11bad88": {
    "id": "64a11bad88",
@@ -6222,7 +5926,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "0ec8be5621": {
    "id": "0ec8be5621",
@@ -6321,7 +6025,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "5bd532c15c": {
    "id": "5bd532c15c",
@@ -6414,7 +6118,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "11edec9e49": {
    "id": "11edec9e49",
@@ -6508,7 +6212,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "7bddd59f3b": {
    "id": "7bddd59f3b",
@@ -6602,7 +6306,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   },
   "2fb1450087": {
    "id": "2fb1450087",
@@ -6690,7 +6394,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_comment_id": "122111312163548584_1478198724486255"
+   "fb_comment_id": "122111312163548584_1478198724486255",
+   "stats": {
+    "likes": 0,
+    "comments": 1,
+    "shares": 0
+   },
+   "stats_at": "2026-11-24T22:45:48.167986+00:00"
   }
  },
  "seen_links": [
@@ -10311,17 +10021,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-24T22:30:44.060464+00:00",
+ "last_draft_at": "2026-11-24T22:46:10.383412+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-24T21:45:49.330218+00:00",
+ "last_stats_at": "2026-11-24T22:45:48.167986+00:00",
  "run_log": [
-  "11-24 20:24:53 run start",
-  "11-24 20:25:13 listening 11 min",
-  "11-24 20:36:31 listening done",
-  "11-24 20:36:31 run end after 698 s",
   "11-24 20:37:42 run start",
   "11-24 20:40:17 listening 9 min",
   "11-24 20:49:31 listening done",
@@ -10357,7 +10063,11 @@
   "11-24 22:30:43 run start",
   "11-24 22:31:31 listening 11 min",
   "11-24 22:42:24 listening done",
-  "11-24 22:42:24 run end after 701 s"
+  "11-24 22:42:24 run end after 701 s",
+  "11-24 22:45:47 run start",
+  "11-24 22:46:29 listening 11 min",
+  "11-24 22:57:23 listening done",
+  "11-24 22:57:23 run end after 695 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
