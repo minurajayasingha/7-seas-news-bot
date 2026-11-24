@@ -8407,27 +8407,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-21T23:30:56.624912+00:00",
-   [
-    "comparison",
-    "doubl",
-    "down",
-    "featur",
-    "friend",
-    "himself",
-    "intimat",
-    "photo",
-    "putin",
-    "shar",
-    "social",
-    "tribut",
-    "trump",
-    "truth",
-    "yalta"
-   ],
-   "skipped"
-  ],
-  [
    "2026-11-22T00:15:49.168168+00:00",
    [
     "alleg",
@@ -10060,17 +10039,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-24T23:16:00.102836+00:00",
+ "last_draft_at": "2026-11-24T23:30:45.143120+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T22:45:48.167986+00:00",
  "run_log": [
-  "11-24 21:02:18 run start",
-  "11-24 21:02:28 listening 11 min",
-  "11-24 21:13:49 listening done",
-  "11-24 21:13:49 run end after 691 s",
   "11-24 21:15:43 run start",
   "11-24 21:16:17 listening 11 min",
   "11-24 21:27:11 listening done",
@@ -10106,7 +10081,11 @@
   "11-24 23:15:59 run start",
   "11-24 23:16:01 listening 11 min",
   "11-24 23:27:47 listening done",
-  "11-24 23:27:47 run end after 707 s"
+  "11-24 23:27:47 run end after 707 s",
+  "11-24 23:30:44 run start",
+  "11-24 23:30:54 listening 11 min",
+  "11-24 23:42:13 listening done",
+  "11-24 23:42:13 run end after 689 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
