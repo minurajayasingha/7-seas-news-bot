@@ -6615,8 +6615,6 @@
   }
  },
  "seen_links": [
-  "https://www.newsweek.com/charlie-kirk-update-judge-sets-murder-trial-start-date-for-tyler-robinson-12689645",
-  "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
   "https://news.sky.com/story/lindsay-clancy-loses-bid-to-dismiss-murder-charges-over-deaths-of-her-three-children-paving-way-for-retrial-13610325",
   "https://thehill.com/opinion/energy-environment/6209002-ai-boom-infrastructure-risk/",
   "https://www.independent.co.uk/news/world/americas/us-politics/data-center-bill-senate-trump-energy-b3081849.html",
@@ -8614,23 +8612,11 @@
   "https://www.upi.com/Top_News/US/2026/11/24/thanksgiving-travel-disruptions/4411795541535/",
   "https://www.nbcnews.com/weather/storms/severe-thanksgiving-storms-threaten-millions-travelers-macys-parade-rcna611071",
   "https://abcnews.com/International/wireStory/houthi-rebels-close-aden-yemeni-forces-dig-fortified-138404636",
-  "https://www.france24.com/en/middle-east/20261124-yemen-army-houthi-attack-aden"
+  "https://www.france24.com/en/middle-east/20261124-yemen-army-houthi-attack-aden",
+  "https://www.washingtonexaminer.com/news/world/4813814/zelensky-us-aligned-putin-criticizes-patriot-missile-delay/",
+  "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-nato-estonia-warship-casualties-map-b3090337.html"
  ],
  "recent_topics": [
-  [
-   "2026-11-21T19:01:47.563072+00:00",
-   [
-    "60",
-    "hometown",
-    "kill",
-    "russia",
-    "russian",
-    "strik",
-    "wound",
-    "zelenskyy"
-   ],
-   "cf79c26c0f"
-  ],
   [
    "2026-11-21T19:46:18.556784+00:00",
    [
@@ -10291,17 +10277,13 @@
    "0ec8be5621"
   ]
  ],
- "last_draft_at": "2026-11-24T18:45:58.031958+00:00",
+ "last_draft_at": "2026-11-24T19:01:10.676489+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T18:45:40.150426+00:00",
  "run_log": [
-  "11-24 16:30:45 run start",
-  "11-24 16:31:08 listening 11 min",
-  "11-24 16:42:28 listening done",
-  "11-24 16:42:28 run end after 702 s",
   "11-24 16:46:24 run start",
   "11-24 16:47:15 listening 11 min",
   "11-24 16:58:11 listening done",
@@ -10337,7 +10319,11 @@
   "11-24 18:45:39 run start",
   "11-24 18:46:19 listening 11 min",
   "11-24 18:57:13 listening done",
-  "11-24 18:57:13 run end after 694 s"
+  "11-24 18:57:13 run end after 694 s",
+  "11-24 19:01:10 run start",
+  "11-24 19:01:42 listening 11 min",
+  "11-24 19:12:37 listening done",
+  "11-24 19:12:37 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
