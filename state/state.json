@@ -6600,8 +6600,6 @@
   }
  },
  "seen_links": [
-  "https://www.theguardian.com/us-news/video/2026/nov/09/democrats-big-blue-wave-wins-you-may-have-not-heard-about-video",
-  "https://thehill.com/policy/energy-environment/6208626-bipartisan-permitting-reform-bill-energy-infrastructure/",
   "https://www.washingtonexaminer.com/policy/energy-and-environment/4797873/major-bill-cut-red-tape-energy-projects-clears-senate-hurdle/",
   "https://thehill.com/policy/energy-environment/6209267-trump-wind-turbines-permitting-reform-bill/",
   "https://www.newsweek.com/osu-sae-fraternity-suspended-video-students-fire-12691043",
@@ -8599,68 +8597,11 @@
   "https://thehill.com/policy/international/6240210-pope-francis-private-diary-reveals-visions-of-the-devil/",
   "https://www.independent.co.uk/news/world/europe/pope-francis-diary-devil-book-death-b3090736.html",
   "https://www.washingtonexaminer.com/policy/defense/4813934/army-secretary-examination-weapon-storage-facility-iowa/",
-  "https://www.nbcnews.com/now/video/army-says-controlled-detonation-of-toxic-lead-in-iowa-is-safer-option-274090565877"
+  "https://www.nbcnews.com/now/video/army-says-controlled-detonation-of-toxic-lead-in-iowa-is-safer-option-274090565877",
+  "https://www.independent.co.uk/news/world/americas/us-politics/bob-woodward-book-biden-flaw-b3090948.html",
+  "https://www.newsweek.com/watergate-reporter-bob-woodward-says-trump-is-much-worse-than-nixon-12764564"
  ],
  "recent_topics": [
-  [
-   "2026-11-21T21:14:08.476336+00:00",
-   [
-    "crackdown",
-    "effort",
-    "enforcement",
-    "expos",
-    "fbi",
-    "fraud",
-    "hack",
-    "help",
-    "hoax",
-    "ice",
-    "immigration",
-    "oust",
-    "pact",
-    "pay",
-    "pric",
-    "reveal",
-    "russia",
-    "sheriff",
-    "sign",
-    "som",
-    "theyr",
-    "trump",
-    "ukrain",
-    "voter"
-   ],
-   "7c9e9f9934"
-  ],
-  [
-   "2026-11-21T21:14:43.490119+00:00",
-   [
-    "across",
-    "cost",
-    "europ",
-    "franc",
-    "hous",
-    "liv",
-    "protest",
-    "thousand"
-   ],
-   "c902a31706"
-  ],
-  [
-   "2026-11-21T21:25:30.870428+00:00",
-   [
-    "academy",
-    "already",
-    "bring",
-    "cruz",
-    "spac",
-    "spok",
-    "talarico",
-    "texa",
-    "work"
-   ],
-   "skipped"
-  ],
   [
    "2026-11-21T21:50:19.830824+00:00",
    [
@@ -10305,17 +10246,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-24T21:02:18.685120+00:00",
+ "last_draft_at": "2026-11-24T21:15:44.208238+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T20:50:00.128275+00:00",
  "run_log": [
-  "11-24 19:01:10 run start",
-  "11-24 19:01:42 listening 11 min",
-  "11-24 19:12:37 listening done",
-  "11-24 19:12:37 run end after 687 s",
   "11-24 19:15:51 run start",
   "11-24 19:16:17 listening 11 min",
   "11-24 19:27:35 listening done",
@@ -10351,7 +10288,11 @@
   "11-24 21:02:18 run start",
   "11-24 21:02:28 listening 11 min",
   "11-24 21:13:49 listening done",
-  "11-24 21:13:49 run end after 691 s"
+  "11-24 21:13:49 run end after 691 s",
+  "11-24 21:15:43 run start",
+  "11-24 21:16:17 listening 11 min",
+  "11-24 21:27:11 listening done",
+  "11-24 21:27:11 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
