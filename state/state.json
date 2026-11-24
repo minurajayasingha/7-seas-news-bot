@@ -7086,8 +7086,6 @@
   }
  },
  "seen_links": [
-  "https://www.washingtonexaminer.com/news/crime/4797145/two-people-arrested-vehicle-crash-white-house/",
-  "https://www.foxnews.com/politics/man-arrested-outside-white-house-after-crashing-vehicle-lafayette-square-park",
   "https://news.sky.com/story/arrests-after-car-crash-near-white-house-and-person-tries-to-jump-barricade-13610300",
   "https://www.washingtonexaminer.com/news/house/4797193/freedom-caucus-outlines-eight-priorities-during-lame-duck-session/",
   "https://thehill.com/homenews/house/6208185-gop-urges-legislative-push-before-democrats/",
@@ -9085,28 +9083,11 @@
   "https://www.foxnews.com/world/iran-flogs-female-singer-74-times-performing-without-hijab-viral-youtube-concert",
   "https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html",
   "https://www.theguardian.com/world/2026/nov/24/gaza-meningitis-epidemic-alert",
-  "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak?traffic_source=rss"
+  "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak?traffic_source=rss",
+  "https://www.upi.com/Top_News/World-News/2026/11/24/warns-Estonia-over-border-closure/7231795527092/",
+  "https://www.independent.co.uk/news/world/europe/russia-ukraine-war-tipping-point-b3090602.html"
  ],
  "recent_topics": [
-  [
-   "2026-11-21T15:16:01.969456+00:00",
-   [
-    "absolutely",
-    "don",
-    "founder",
-    "get",
-    "jan",
-    "keeper",
-    "leader",
-    "modifi",
-    "oath",
-    "rhod",
-    "stewart",
-    "tattoo",
-    "trump"
-   ],
-   "skipped"
-  ],
   [
    "2026-11-21T15:55:57.508807+00:00",
    [
@@ -10824,17 +10805,13 @@
    "64a11bad88"
   ]
  ],
- "last_draft_at": "2026-11-24T15:01:07.433014+00:00",
+ "last_draft_at": "2026-11-24T15:15:49.592744+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T14:45:39.814703+00:00",
  "run_log": [
-  "11-24 12:45:49 run start",
-  "11-24 12:46:47 listening 11 min",
-  "11-24 12:57:16 listening done",
-  "11-24 12:57:16 run end after 687 s",
   "11-24 13:00:55 run start",
   "11-24 13:01:05 listening 11 min",
   "11-24 13:12:24 listening done",
@@ -10870,7 +10847,11 @@
   "11-24 15:01:06 run start",
   "11-24 15:02:27 listening 10 min",
   "11-24 15:12:31 listening done",
-  "11-24 15:12:31 run end after 685 s"
+  "11-24 15:12:31 run end after 685 s",
+  "11-24 15:15:49 run start",
+  "11-24 15:16:26 listening 11 min",
+  "11-24 15:27:21 listening done",
+  "11-24 15:27:21 run end after 692 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
