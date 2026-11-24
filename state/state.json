@@ -11241,17 +11241,13 @@
    "d03c9347c8"
   ]
  ],
- "last_draft_at": "2026-11-24T04:48:03.596824+00:00",
+ "last_draft_at": "2026-11-24T05:00:47.117682+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T04:30:49.055609+00:00",
  "run_log": [
-  "11-24 02:12:14 listening done",
-  "11-24 02:12:14 run end after 688 s",
-  "11-24 02:15:43 run start",
-  "11-24 02:16:02 listening 11 min",
   "11-24 02:27:20 listening done",
   "11-24 02:27:20 run end after 697 s",
   "11-24 02:30:44 run start",
@@ -11287,7 +11283,11 @@
   "11-24 04:48:03 run start",
   "11-24 04:48:04 listening 11 min",
   "11-24 04:59:49 listening done",
-  "11-24 04:59:49 run end after 706 s"
+  "11-24 04:59:49 run end after 706 s",
+  "11-24 05:00:44 run start",
+  "11-24 05:01:05 listening 11 min",
+  "11-24 05:12:24 listening done",
+  "11-24 05:12:24 run end after 699 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -18045,6 +18045,152 @@
     "tt3": true,
     "log3": true
    }
+  },
+  "2026-11-23": {
+   "status": "asked",
+   "plan": {
+    "parts": [
+     {
+      "name": "WAR & CONFLICT",
+      "tag": "#warnews",
+      "stories": [
+       9,
+       18,
+       7,
+       8,
+       11,
+       20
+      ],
+      "hook": "Strike hits Ukraine building. Russia nuclear threats grow.",
+      "title": "Ukraine building strike kills eleven as Russia nuclear warnings rise",
+      "question": "",
+      "hashtags": [
+       "#ukraine",
+       "#russia"
+      ],
+      "tags": [
+       "ukraine war",
+       "russia conflict",
+       "pentagon news",
+       "nuclear threat",
+       "gaza wasteland",
+       "south korea"
+      ],
+      "of": 3
+     },
+     {
+      "name": "US NEWS",
+      "tag": "#usnews",
+      "stories": [
+       12,
+       3,
+       10,
+       4,
+       19,
+       1,
+       5,
+       16,
+       17,
+       14
+      ],
+      "hook": "Democrats win House majority. DNC schedules twelve debates.",
+      "title": "Democrats win large House majority and DNC sets 2028 debates",
+      "question": "How will the new House majority impact upcoming legislation?",
+      "hashtags": [
+       "#elections",
+       "#congress"
+      ],
+      "tags": [
+       "us politics",
+       "house majority",
+       "dnc debates",
+       "gen z voters",
+       "ice arrests",
+       "donald trump"
+      ],
+      "of": 3
+     },
+     {
+      "name": "WORLD NEWS",
+      "tag": "#worldnews",
+      "stories": [
+       2,
+       6,
+       13,
+       15
+      ],
+      "hook": "California shooting wounds nine. Bomb threats hit schools.",
+      "title": "Nine hospitalized in California shooting and European bomb threats",
+      "question": "",
+      "hashtags": [
+       "#world",
+       "#breaking"
+      ],
+      "tags": [
+       "world news",
+       "california shooting",
+       "bomb threats",
+       "columbus crash",
+       "trade blacklist",
+       "global news"
+      ],
+      "of": 3
+     }
+    ],
+    "dropped": [
+     {
+      "n": 14,
+      "why": "Merged with broader Trump coverage"
+     }
+    ],
+    "ids": [
+     "8a0995fa2d",
+     "efcc1598ed",
+     "7d2b5f32fe",
+     "0424cd058e",
+     "e2be825e0d",
+     "65d536118f",
+     "cca23e0ad5",
+     "4778aeba39",
+     "3eb168f77d",
+     "f9d9325fa7",
+     "796612a75a",
+     "3ed909c38e",
+     "5543313b9a",
+     "db655a33fb",
+     "f1f7ae156b",
+     "c6d37efc2f",
+     "d1d91f7b30",
+     "d2244b9c6e",
+     "673f836078",
+     "d03c9347c8"
+    ]
+   },
+   "heads": [
+    "Army plans Iowa lead azide detonation despite court pause",
+    "Nine hospitalized following shooting at central California concert",
+    "Democratic National Committee schedules twelve debates for 2028 presidential primary",
+    "ICE arrests father and daughter at Seattle airport",
+    "Donald Trump hosts crypto gala in Virginia",
+    "European schools receive wave of bomb threats via email",
+    "Pentagon warns Russia plans satellite launch with nuclear weapon",
+    "Dmitry Medvedev warns NATO has crossed Russia nuclear strike red line",
+    "Residential building strike leaves eleven dead in Ukraine",
+    "Gen Z voters shift back toward Democratic Party in 2026",
+    "Oxfam report says Israeli actions created toxic wasteland in Gaza",
+    "Democrats win large House majority after flipping North Carolina seat",
+    "Two city buses and car crash in Columbus kills two",
+    "Trump plans to attack Newsom during Department of Justice speech",
+    "US adds Singaporean firm Megaspeed to trade blacklist",
+    "Appeals court revives Trump bid to move case",
+    "Donald Trump criticizes California Governor Gavin Newsom over death sentences",
+    "Analysis estimates over 700,000 Russian soldiers killed in Ukraine war",
+    "Federal court unseals records regarding search of Rep Ilhan Omar home",
+    "South Korea issues shelter order after Russian aircraft approach"
+   ],
+   "asked_at": "2026-11-24T05:00:46.777790+00:00",
+   "test": false,
+   "msg_id": 947
   }
  },
  "run_once_done": [
