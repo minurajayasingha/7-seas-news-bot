@@ -7486,11 +7486,95 @@
     "shares": 0
    },
    "stats_at": "2026-11-24T09:38:21.720272+00:00"
+  },
+  "1f2a8fcdf2": {
+   "id": "1f2a8fcdf2",
+   "headline": "NATO authorizes early-warning aircraft deployment to Poland",
+   "summary": "NATO has authorized the deployment of an early-warning aircraft to Poland following recent Russian missile activity in the region. Poland did not shoot down a drone due to concerns regarding civilian safety.",
+   "label": "DIPLOMACY",
+   "hook": "",
+   "key_points": [
+    "Russian cruise missiles entered Polish airspace late last week.",
+    "Concerns over civilian risk prevented the drone from being shot down."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#NATO",
+    "#Poland",
+    "#WorldNews"
+   ],
+   "sources": [
+    "The Independent",
+    "UPI"
+   ],
+   "link": "https://www.upi.com/Top_News/World-News/2026/11/24/belgium-NATO-warning-aircraft-Poland/4441795509101/",
+   "links": [
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/World-News/2026/11/24/belgium-NATO-warning-aircraft-Poland/4441795509101/"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/europe/poland-russia-airspace-ukraine-drone-b3090416.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Warsaw_skyline_%288510344469%29.jpg",
+      "credit": "Guillaume Speurt from Vilnius, Lithuania / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 5,
+      "shows": "Warsaw skyline"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "NATO authorizes early-warning aircraft deployment to Poland",
+    "people": [],
+    "image_query": "Warsaw skyline",
+    "image_queries": [
+     "military air base",
+     "radar control room",
+     "military aircraft",
+     "defense ministry building"
+    ],
+    "image_style": "scene",
+    "location": "Poland",
+    "nearby_city": "Warsaw, Poland",
+    "event_query": "NATO aircraft deployment Poland",
+    "topic_photo": "military aircraft",
+    "label": "DIPLOMACY",
+    "action_subject": "early warning aircraft",
+    "news_time": "2026-11-24T08:41:51+00:00"
+   },
+   "created_at": "2026-11-24T09:51:39.270508+00:00",
+   "news_time": "2026-11-24T08:41:51+00:00",
+   "news_latest": "2026-11-24T09:38:44+00:00",
+   "importance": 8,
+   "caption": "NATO authorizes early-warning aircraft deployment to Poland\n\nNATO has authorized the deployment of an early-warning aircraft to Poland following recent Russian missile activity in the region. Poland did not shoot down a drone due to concerns regarding civilian safety.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#NATO #Poland #WorldNews #7SeasNews",
+   "photo_line": "📷 5/10 Warsaw skyline",
+   "status": "posted",
+   "tg_message_id": 953,
+   "tg_file_id": "AgACAgUAAxkDAAIDuWsFXi1LaMuRCO72KUvlVTorgjGiAALJE2sbSgcxVHItZP2C1KkRAQADAgADdwADPQQ",
+   "queued_at": "2026-11-24T09:51:41.387757+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-24T09:51:41.387790+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122110911249548584",
+   "posted_at": "2026-11-24T09:51:41.699337+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 24 · 4:51 AM New York · 3:21 PM Sri Lanka\n\n<b>NATO authorizes early-warning aircraft deployment to Poland</b>\n<i>The Independent, UPI</i>\n🟢 <b>Latest:</b> 3:08 PM Sri Lanka (13 min ago) · first reported 2:11 PM\n📷 5/10 Warsaw skyline\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122110911249548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 658,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122110911249548584_3000570747002940"
   }
  },
  "seen_links": [
-  "https://thehill.com/homenews/senate/6207507-dave-mccormick-senate-gop-leadership-elections-delay/",
-  "https://www.aljazeera.com/news/2026/11/9/which-republicans-are-running-for-minority-leadership-roles-in-congress?traffic_source=rss",
   "https://www.washingtonexaminer.com/op-eds/4795834/election-denialism-wont-end-republican-losses/",
   "https://thehill.com/opinion/campaign/6205285-voters-reject-gop-collapse/",
   "https://www.theguardian.com/us-news/2026/nov/09/public-health-midterm-elections-changes",
@@ -9488,25 +9572,11 @@
   "https://www.euronews.com/2026/11/24/pentagon-accuses-canada-of-failing-as-a-credible-defence-partner-over-spending-and-f-35-re",
   "https://abcnews.com/International/wireStory/pentagon-sharply-rebukes-canada-defense-spending-35-fighter-138393777",
   "https://abcnews.com/International/wireStory/north-korea-reviews-switzerland-relations-after-sanctions-youth-138402640",
-  "https://www.independent.co.uk/news/world/europe/north-korea-switzerland-russia-war-b3090395.html"
+  "https://www.independent.co.uk/news/world/europe/north-korea-switzerland-russia-war-b3090395.html",
+  "https://www.upi.com/Top_News/World-News/2026/11/24/belgium-NATO-warning-aircraft-Poland/4441795509101/",
+  "https://www.independent.co.uk/news/world/europe/poland-russia-airspace-ukraine-drone-b3090416.html"
  ],
  "recent_topics": [
-  [
-   "2026-11-21T10:01:40.160268+00:00",
-   [
-    "apparent",
-    "breach",
-    "crim",
-    "criminal",
-    "databas",
-    "fbi",
-    "hack",
-    "investigat",
-    "potential",
-    "reportedly"
-   ],
-   "45201d2fd3"
-  ],
   [
    "2026-11-21T10:45:49.195753+00:00",
    [
@@ -11263,19 +11333,31 @@
     "youth"
    ],
    "197eb37be8"
+  ],
+  [
+   "2026-11-24T09:51:41.387614+00:00",
+   [
+    "agre",
+    "aircraft",
+    "airspac",
+    "deploy",
+    "early-warn",
+    "enter",
+    "nato",
+    "poland",
+    "russia",
+    "send"
+   ],
+   "1f2a8fcdf2"
   ]
  ],
- "last_draft_at": "2026-11-24T09:38:47.337817+00:00",
+ "last_draft_at": "2026-11-24T09:50:20.251408+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T09:38:21.720272+00:00",
  "run_log": [
-  "11-24 07:12:13 listening done",
-  "11-24 07:12:13 run end after 687 s",
-  "11-24 07:33:44 run start",
-  "11-24 07:35:02 listening 10 min",
   "11-24 07:35:51 run start",
   "11-24 07:35:52 listening 11 min",
   "11-24 07:47:35 listening done",
@@ -11311,12 +11393,15 @@
   "11-24 09:38:21 run start",
   "11-24 09:38:55 listening 11 min",
   "11-24 09:49:50 listening done",
-  "11-24 09:49:50 run end after 689 s"
+  "11-24 09:49:50 run end after 689 s",
+  "11-24 09:50:19 run start",
+  "11-24 09:51:55 listening 10 min",
+  "11-24 10:01:59 listening done",
+  "11-24 10:01:59 run end after 699 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://live.staticflickr.com/3502/4571498936_ca188f521b_b.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/1280px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Voting_booth_at_the_Madison_Parish_Courthouse.jpg/1920px-Voting_booth_at_the_Madison_Parish_Courthouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Firefighters_fighting_fire_action.jpg/1920px-Firefighters_fighting_fire_action.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -11355,7 +11440,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Beijing_city_subway_passage.jpg/1920px-Beijing_city_subway_passage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/6/61/Parliament_House_Canberra_Dusk_Panorama.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/a/a6/US_Army_soldiers_during_maneuver_practice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://upload.wikimedia.org/wikipedia/commons/0/08/Pyongyang_skyline_%2816077193495%29.jpg"
+   "https://upload.wikimedia.org/wikipedia/commons/0/08/Pyongyang_skyline_%2816077193495%29.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/8/8f/Warsaw_skyline_%288510344469%29.jpg"
   ],
   "pools": {
    "howard lutnick": {
@@ -14626,7 +14712,6 @@
    }
   },
   "recent_ideas": [
-   "voters at polling station",
    "voting booth",
    "california state capitol",
    "marriner s. eccles federal reserve board building",
@@ -14637,7 +14722,8 @@
    "beijing city",
    "parliament house canberra",
    "us army soldiers",
-   "pyongyang skyline"
+   "pyongyang skyline",
+   "warsaw skyline"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -16689,6 +16775,11 @@
     "s": 10,
     "w": "Pyongyang skyline",
     "p": ""
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/8/8f/Warsaw_skyline_%288510344469%29.jpg|71f53bce": {
+    "s": 5,
+    "w": "Warsaw skyline",
+    "p": "calm city skyline for a military deployment story"
    }
   }
  },
@@ -16700,10 +16791,10 @@
   "2026-11-21": 17,
   "2026-11-22": 11,
   "2026-11-23": 20,
-  "2026-11-24": 4
+  "2026-11-24": 5
  },
- "last_auto_at": "2026-11-24T08:37:18.059154+00:00",
- "last_post_at": "2026-11-24T08:37:37.298938+00:00",
+ "last_auto_at": "2026-11-24T09:51:41.699337+00:00",
+ "last_post_at": "2026-11-24T09:51:45.894602+00:00",
  "reels_count": {
   "2026-11-17": 3,
   "2026-11-18": 3,
