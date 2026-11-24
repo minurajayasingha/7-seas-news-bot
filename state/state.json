@@ -1,104 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "acf404f6e9": {
-   "id": "acf404f6e9",
-   "headline": "Poland investigates suspected Russian airspace violation during attack",
-   "summary": "Poland is investigating a suspected Russian violation of its airspace after objects entered the NATO member's territory during a Russian attack on Ukraine. Warsaw described the incident as a provocation from Moscow, though no injuries or damage have been reported.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "Three objects entered Polish territory during the attack",
-    "Objects included two missiles and a drone",
-    "Defense Minister Wladyslaw Kosiniak-Kamysz accused Moscow of provocation"
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#Poland",
-    "#Ukraine",
-    "#WorldNews"
-   ],
-   "sources": [
-    "BBC",
-    "Washington Examiner"
-   ],
-   "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-   "links": [
-    [
-     "BBC",
-     "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
-    ],
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/news/world/4809740/poland-investigating-suspected-russian-violation-airspace/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Decommissioned_jet_fighter_%2823449021489%29.jpg/1920px-Decommissioned_jet_fighter_%2823449021489%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Thomas Quine / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 7,
-      "shows": "fighter jet parked on ground"
-     }
-    ],
-    "file_photo": true,
-    "_loaded": 1
-   },
-   "img_post": {
-    "headline": "Poland investigates suspected Russian airspace violation during attack",
-    "people": [],
-    "image_query": "Warsaw city skyline",
-    "image_queries": [
-     "Polish flag",
-     "NATO headquarters",
-     "military radar screen",
-     "defence ministry building"
-    ],
-    "image_style": "incident",
-    "location": "Warsaw, Poland",
-    "nearby_city": "Warsaw, Poland",
-    "event_query": "Warsaw military airspace violation",
-    "topic_photo": "radar screen",
-    "label": "CONFLICT",
-    "action_subject": "military radar screen",
-    "news_time": "2026-11-20T13:51:15+00:00"
-   },
-   "created_at": "2026-11-20T15:01:56.178428+00:00",
-   "news_time": "2026-11-20T13:51:15+00:00",
-   "news_latest": "2026-11-20T13:52:04+00:00",
-   "importance": 8,
-   "caption": "🚨 BREAKING: Poland investigates suspected Russian airspace violation during attack\n\nPoland is investigating a suspected Russian violation of its airspace after objects entered the NATO member's territory during a Russian attack on Ukraine. Warsaw described the incident as a provocation from Moscow, though no injuries or damage have been reported.\n\nWhat we know so far:\n• Three objects entered Polish territory during the attack\n• Objects included two missiles and a drone\n• Defense Minister Wladyslaw Kosiniak-Kamysz accused Moscow of provocation\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Poland #Ukraine #WorldNews #7SeasNews",
-   "photo_line": "📷 7/10 fighter jet parked on ground · FILE PHOTO",
-   "status": "posted",
-   "tg_message_id": 866,
-   "tg_file_id": "AgACAgUAAxkDAAIDYmsAAWDtP99xdsCOVyjDxV2nJ5dr9wACYxNrG_07CFR4deH57lG0gQEAAwIAA3cAAz0E",
-   "queued_at": "2026-11-20T15:02:06.238745+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-20T15:02:06.238772+00:00",
-   "post_label": "🤖 Auto-posting + Reel",
-   "fb_post_id": "1413030521900096_122107593153548584",
-   "posted_at": "2026-11-20T15:02:06.559740+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 20 · 10:02 AM New York · 8:32 PM Sri Lanka\n\n<b>Poland investigates suspected Russian airspace violation during attack</b>\n<i>BBC, Washington Examiner</i>\n🟡 <b>Latest:</b> 7:22 PM Sri Lanka (1h 10m ago) · first reported 7:21 PM\n📷 7/10 fighter jet parked on ground · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122107593153548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 572,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122107593153548584_1649321176688844",
-   "fb_story_id": "1609118310529563",
-   "fb_reel_id": "1449153210662835",
-   "reel_status": "live",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-23T15:01:38.498452+00:00"
-  },
   "da2d74bebf": {
    "id": "da2d74bebf",
    "headline": "Judge blocks Donald Trump proposed triumphal arch in Virginia",
@@ -7184,10 +7086,6 @@
   }
  },
  "seen_links": [
-  "https://thehill.com/homenews/administration/6208161-trump-strait-hormuz-naval-blockade/",
-  "https://www.dw.com/en/strait-of-hormuz-still-a-source-of-leverage-for-iran/a-79901647?maca=en-rss-en-world-4025-rdf",
-  "https://www.washingtonexaminer.com/news/white-house/4797123/trump-no-one-can-believe-2026-election-was-honest/",
-  "https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow?traffic_source=rss",
   "https://www.washingtonexaminer.com/news/crime/4797145/two-people-arrested-vehicle-crash-white-house/",
   "https://www.foxnews.com/politics/man-arrested-outside-white-house-after-crashing-vehicle-lafayette-square-park",
   "https://news.sky.com/story/arrests-after-car-crash-near-white-house-and-person-tries-to-jump-barricade-13610300",
@@ -9183,7 +9081,11 @@
   "https://www.nytimes.com/2026/11/24/world/europe/france-nahel-merzouk.html",
   "https://www.independent.co.uk/news/world/europe/france-police-officer-shot-teenager-b3090567.html",
   "https://www.cbsnews.com/video/cbs-news-went-to-singapore-and-malaysia-to-see-how-china-may-be-accessing-nvidia-chips/",
-  "https://www.washingtonexaminer.com/op-eds/4812336/nvidia-chip-smuggling-china-congress-hearings/"
+  "https://www.washingtonexaminer.com/op-eds/4812336/nvidia-chip-smuggling-china-congress-hearings/",
+  "https://www.foxnews.com/world/iran-flogs-female-singer-74-times-performing-without-hijab-viral-youtube-concert",
+  "https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html",
+  "https://www.theguardian.com/world/2026/nov/24/gaza-meningitis-epidemic-alert",
+  "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -10922,17 +10824,13 @@
    "64a11bad88"
   ]
  ],
- "last_draft_at": "2026-11-24T14:46:01.418864+00:00",
+ "last_draft_at": "2026-11-24T15:01:07.433014+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T14:45:39.814703+00:00",
  "run_log": [
-  "11-24 12:30:38 run start",
-  "11-24 12:31:10 listening 11 min",
-  "11-24 12:42:03 listening done",
-  "11-24 12:42:03 run end after 685 s",
   "11-24 12:45:49 run start",
   "11-24 12:46:47 listening 11 min",
   "11-24 12:57:16 listening done",
@@ -10968,7 +10866,11 @@
   "11-24 14:45:39 run start",
   "11-24 14:46:32 listening 11 min",
   "11-24 14:57:26 listening done",
-  "11-24 14:57:26 run end after 707 s"
+  "11-24 14:57:26 run end after 707 s",
+  "11-24 15:01:06 run start",
+  "11-24 15:02:27 listening 10 min",
+  "11-24 15:12:31 listening done",
+  "11-24 15:12:31 run end after 685 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -18020,7 +17922,9 @@
    ],
    "done": {
     "tt1": true,
-    "log1": true
+    "log1": true,
+    "tt2": true,
+    "log2": true
    }
   }
  },
