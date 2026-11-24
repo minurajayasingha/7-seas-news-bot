@@ -6404,8 +6404,6 @@
   }
  },
  "seen_links": [
-  "https://www.cbsnews.com/news/california-proposition-40-billionaire-wealth-tax-rejected-cbs-projects/",
-  "https://www.nbcnews.com/politics/2026-election/california-reject-billionaire-tax-ballot-measure-prop-40-rcna603382",
   "https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss",
   "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack",
   "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
@@ -8403,7 +8401,9 @@
   "https://www.nbcnews.com/meet-the-press/video/nvidia-will-comply-with-investigations-one-way-or-the-other-says-california-ag-274117701755",
   "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
   "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/",
-  "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html"
+  "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html",
+  "https://kyivindependent.com/russian-attacks-kill-2-in-odesa-oblast-including-child-injure-more-in-kyiv/",
+  "https://www.france24.com/en/russian-losses-on-ukrainian-front-top-700-000-including-missing"
  ],
  "recent_topics": [
   [
@@ -10038,19 +10038,35 @@
     "voluntarily"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-24T23:16:01.831678+00:00",
+   [
+    "700000",
+    "attack",
+    "child",
+    "front",
+    "includ",
+    "injur",
+    "kill",
+    "kyiv",
+    "loss",
+    "miss",
+    "oblast",
+    "odesa",
+    "russian",
+    "ukrainian"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-24T23:01:09.749704+00:00",
+ "last_draft_at": "2026-11-24T23:16:00.102836+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T22:45:48.167986+00:00",
  "run_log": [
-  "11-24 20:49:59 run start",
-  "11-24 20:51:13 listening 10 min",
-  "11-24 21:01:41 listening done",
-  "11-24 21:01:41 run end after 701 s",
   "11-24 21:02:18 run start",
   "11-24 21:02:28 listening 11 min",
   "11-24 21:13:49 listening done",
@@ -10086,7 +10102,11 @@
   "11-24 23:01:09 run start",
   "11-24 23:01:11 listening 11 min",
   "11-24 23:12:54 listening done",
-  "11-24 23:12:54 run end after 705 s"
+  "11-24 23:12:54 run end after 705 s",
+  "11-24 23:15:59 run start",
+  "11-24 23:16:01 listening 11 min",
+  "11-24 23:27:47 listening done",
+  "11-24 23:27:47 run end after 707 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
