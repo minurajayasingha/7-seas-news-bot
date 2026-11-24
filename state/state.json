@@ -7086,13 +7086,6 @@
   }
  },
  "seen_links": [
-  "https://news.sky.com/story/arrests-after-car-crash-near-white-house-and-person-tries-to-jump-barricade-13610300",
-  "https://www.washingtonexaminer.com/news/house/4797193/freedom-caucus-outlines-eight-priorities-during-lame-duck-session/",
-  "https://thehill.com/homenews/house/6208185-gop-urges-legislative-push-before-democrats/",
-  "https://www.cbsnews.com/news/pete-hegseth-impeachment-vote-house-thomas-massie/",
-  "https://www.independent.co.uk/news/world/americas/us-politics/pete-hegseth-impeachment-congress-iran-midterms-b3081797.html",
-  "https://abcnews.com/International/wireStory/mandelas-anc-lost-south-africa-voters-deserted-137977700",
-  "https://www.aljazeera.com/news/2026/11/9/what-catastrophic-south-africa-local-election-results-mean-for-anc?traffic_source=rss",
   "https://kyivindependent.com/one-ukrainian-soldiers-bitter-bargain-for-freedom-ukraines-convicts-at-war/",
   "https://kyivindependent.com/ukraine-war-latest-russia-suffers-record-daily-losses-for-2nd-time-in-a-month/",
   "https://abcnews.com/International/wireStory/us-led-peace-talks-russia-ukraine-security-guarantees-137966016",
@@ -9085,7 +9078,14 @@
   "https://www.theguardian.com/world/2026/nov/24/gaza-meningitis-epidemic-alert",
   "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak?traffic_source=rss",
   "https://www.upi.com/Top_News/World-News/2026/11/24/warns-Estonia-over-border-closure/7231795527092/",
-  "https://www.independent.co.uk/news/world/europe/russia-ukraine-war-tipping-point-b3090602.html"
+  "https://www.independent.co.uk/news/world/europe/russia-ukraine-war-tipping-point-b3090602.html",
+  "https://www.independent.co.uk/news/world/europe/russia-arrest-andrei-chibi-governor-b3090743.html",
+  "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
+  "https://www.washingtonexaminer.com/travel/4812648/storms-hit-both-coasts-thanksgiving/",
+  "https://www.today.com/video/severe-weather-could-ground-macy-s-iconic-giant-balloons-274082373962",
+  "https://www.bbc.co.uk/weather/articles/c5742nplemnno?at_medium=RSS&at_campaign=rss",
+  "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+  "https://abcnews.com/International/wireStory/global-land-mine-casualties-hit-5-year-high-138403128"
  ],
  "recent_topics": [
   [
@@ -10805,17 +10805,13 @@
    "64a11bad88"
   ]
  ],
- "last_draft_at": "2026-11-24T15:15:49.592744+00:00",
+ "last_draft_at": "2026-11-24T15:30:46.813152+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T14:45:39.814703+00:00",
  "run_log": [
-  "11-24 13:00:55 run start",
-  "11-24 13:01:05 listening 11 min",
-  "11-24 13:12:24 listening done",
-  "11-24 13:12:24 run end after 689 s",
   "11-24 13:15:35 run start",
   "11-24 13:16:55 listening 10 min",
   "11-24 13:27:23 listening done",
@@ -10851,7 +10847,11 @@
   "11-24 15:15:49 run start",
   "11-24 15:16:26 listening 11 min",
   "11-24 15:27:21 listening done",
-  "11-24 15:27:21 run end after 692 s"
+  "11-24 15:27:21 run end after 692 s",
+  "11-24 15:30:46 run start",
+  "11-24 15:31:44 listening 11 min",
+  "11-24 15:42:12 listening done",
+  "11-24 15:42:12 run end after 685 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
