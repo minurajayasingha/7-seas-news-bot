@@ -1,103 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "7768cf111c": {
-   "id": "7768cf111c",
-   "headline": "Trump supports second chance for Jensen Huang at Nvidia",
-   "summary": "President Trump stated he would like to see Jensen Huang receive a second chance at Nvidia following his resignation. Huang stepped down as president, CEO, and board member after 33 years amid reports of multiple extramarital affairs.",
-   "label": "US POLITICS",
-   "hook": "Should corporate leaders be given a second chance after personal scandals?",
-   "key_points": [
-    "Jensen Huang resigned after 33 years.",
-    "Nvidia faces a congressional inquiry.",
-    "Reports involved alleged affairs."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Nvidia",
-    "#DonaldTrump",
-    "#TechNews"
-   ],
-   "sources": [
-    "Newsweek",
-    "Washington Post"
-   ],
-   "link": "https://www.newsweek.com/trump-jensen-huang-nvidia-congressional-inquiry-12749752",
-   "links": [
-    [
-     "Newsweek",
-     "https://www.newsweek.com/trump-jensen-huang-nvidia-congressional-inquiry-12749752"
-    ],
-    [
-     "Washington Post",
-     "https://www.washingtonpost.com/politics/2026/11/20/trump-defends-jensen-huang-after-alleged-chinese-spy-affair/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Congressional_Hearing_-_Jul._24%2C_2012_%287748554726%29.jpg/1920px-Congressional_Hearing_-_Jul._24%2C_2012_%287748554726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Nuclear Regulatory Commission from US / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 8,
-      "shows": "congressional hearing file photo"
-     }
-    ],
-    "file_photo": true
-   },
-   "img_post": {
-    "headline": "Trump supports second chance for Jensen Huang at Nvidia",
-    "people": [
-     "Jensen Huang",
-     "Donald Trump"
-    ],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "US Capitol dome",
-     "Senate chamber",
-     "House of Representatives chamber",
-     "Capitol Hill"
-    ],
-    "image_style": "person",
-    "location": "Washington, United States",
-    "nearby_city": "Washington, D.C.",
-    "event_query": "Congressional hearing room",
-    "topic_photo": "computer server",
-    "label": "US POLITICS",
-    "action_subject": "congressional hearing",
-    "news_time": "2026-11-20T20:45:00+00:00"
-   },
-   "created_at": "2026-11-20T21:04:03.684583+00:00",
-   "news_time": "2026-11-20T20:45:00+00:00",
-   "news_latest": "2026-11-20T20:46:13+00:00",
-   "importance": 6,
-   "caption": "Trump supports second chance for Jensen Huang at Nvidia\n\nPresident Trump stated he would like to see Jensen Huang receive a second chance at Nvidia following his resignation. Huang stepped down as president, CEO, and board member after 33 years amid reports of multiple extramarital affairs.\n\n💬 Should corporate leaders be given a second chance after personal scandals?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Nvidia #DonaldTrump #TechNews #7SeasNews",
-   "photo_line": "📷 8/10 congressional hearing file photo · FILE PHOTO",
-   "status": "posted",
-   "tg_message_id": 876,
-   "tg_file_id": "AgACAgUAAxkDAAIDbGsAAbXHdHqQqtdT0h6ktB3t0iS6GwACwhNrG_07CFQ_6PBhFlDCxAEAAwIAA3cAAz0E",
-   "queued_at": "2026-11-20T21:04:07.569551+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-20T21:04:07.569591+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122107865907548584",
-   "posted_at": "2026-11-20T21:04:07.927517+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 20 · 4:04 PM New York · 2:34 AM Sri Lanka\n\n<b>Trump supports second chance for Jensen Huang at Nvidia</b>\n<i>Newsweek, Washington Post</i>\n🟢 <b>Latest:</b> 2:16 AM Sri Lanka (18 min ago) · first reported 2:15 AM\n📷 8/10 congressional hearing file photo · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122107865907548584\">Open on Facebook</a>\n\n⚠️ <i>Looks like an earlier post: “Former Nvidia chief Jensen Huang agrees to testify to Congress”. Tap 🗑 Delete if it's the same news.</i>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 584,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122107865907548584_963033809994091",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-23T20:05:28.951814+00:00"
-  },
   "9cd1260ee6": {
    "id": "9cd1260ee6",
    "headline": "Trump holds press conference after returning from China",
@@ -10402,17 +10305,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-24T20:50:18.598156+00:00",
+ "last_draft_at": "2026-11-24T21:02:18.685120+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T20:50:00.128275+00:00",
  "run_log": [
-  "11-24 18:45:39 run start",
-  "11-24 18:46:19 listening 11 min",
-  "11-24 18:57:13 listening done",
-  "11-24 18:57:13 run end after 694 s",
   "11-24 19:01:10 run start",
   "11-24 19:01:42 listening 11 min",
   "11-24 19:12:37 listening done",
@@ -10448,7 +10347,11 @@
   "11-24 20:49:59 run start",
   "11-24 20:51:13 listening 10 min",
   "11-24 21:01:41 listening done",
-  "11-24 21:01:41 run end after 701 s"
+  "11-24 21:01:41 run end after 701 s",
+  "11-24 21:02:18 run start",
+  "11-24 21:02:28 listening 11 min",
+  "11-24 21:13:49 listening done",
+  "11-24 21:13:49 run end after 691 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
