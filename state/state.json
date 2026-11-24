@@ -6605,13 +6605,97 @@
    "fb_story_id": "1502980835259537",
    "fb_reel_id": "1130959126376459",
    "reel_status": "live"
+  },
+  "11edec9e49": {
+   "id": "11edec9e49",
+   "headline": "Car bomb detonates in central Colombian city of Villavicencio",
+   "summary": "A car bomb exploded in Villavicencio on Monday, destroying surrounding buildings and a local governor's office. President Abelardo de la Espriella later arrived in the city to visit the scene and hold a security meeting.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "At least 24 people were injured in the blast.",
+    "The explosion destroyed a local governor's office.",
+    "President Abelardo de la Espriella arrived in the city on Tuesday."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Colombia",
+    "#Villavicencio",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Euronews",
+    "France 24"
+   ],
+   "link": "https://www.france24.com/en/car-bomb-destroys-buildings-in-central-colombian-city",
+   "links": [
+    [
+     "France 24",
+     "https://www.france24.com/en/car-bomb-destroys-buildings-in-central-colombian-city"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/24/at-least-24-injured-after-car-bomb-detonates-in-central-colombia"
+    ]
+   ],
+   "bg": {
+    "type": "map",
+    "photos": [],
+    "location": "Villavicencio, Colombia",
+    "lat": 4.15,
+    "lon": -73.63333333,
+    "country": "Colombia",
+    "state": "",
+    "_loaded": 0
+   },
+   "img_post": {
+    "headline": "Car bomb detonates in central Colombian city of Villavicencio",
+    "people": [],
+    "image_query": "Villavicencio cityscape",
+    "image_queries": [
+     "Colombia city street",
+     "government building exterior",
+     "emergency response vehicles",
+     "city skyline Colombia"
+    ],
+    "image_style": "incident",
+    "location": "Villavicencio, Colombia",
+    "nearby_city": "Bogota, Colombia",
+    "event_query": "Villavicencio car bomb attack",
+    "topic_photo": "police tape",
+    "label": "CONFLICT",
+    "action_subject": "damaged building aftermath",
+    "news_time": "2026-11-24T18:04:08+00:00"
+   },
+   "created_at": "2026-11-24T20:01:53.750364+00:00",
+   "news_time": "2026-11-24T18:04:08+00:00",
+   "news_latest": "2026-11-24T19:27:10+00:00",
+   "importance": 8,
+   "caption": "🚨 BREAKING: Car bomb detonates in central Colombian city of Villavicencio\n\nA car bomb exploded in Villavicencio on Monday, destroying surrounding buildings and a local governor's office. President Abelardo de la Espriella later arrived in the city to visit the scene and hold a security meeting.\n\nWhat we know so far:\n• At least 24 people were injured in the blast.\n• The explosion destroyed a local governor's office.\n• President Abelardo de la Espriella arrived in the city on Tuesday.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Colombia #Villavicencio #WorldNews #7SeasNews",
+   "photo_line": "📷 news map (no fitting photo)",
+   "status": "posted",
+   "tg_message_id": 964,
+   "tg_file_id": "AgACAgUAAxkDAAIDxGsF7TO4aocBME7Y55i64abZB6AzAAKrFWsbSgcxVHlgdDyJ-KfDAQADAgADdwADPQQ",
+   "queued_at": "2026-11-24T20:01:55.880409+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-24T20:01:55.880448+00:00",
+   "post_label": "🤖 Auto-posting + Reel",
+   "fb_post_id": "1413030521900096_122111236041548584",
+   "posted_at": "2026-11-24T20:02:10.237760+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 24 · 3:02 PM New York · 1:32 AM Sri Lanka\n\n<b>Car bomb detonates in central Colombian city of Villavicencio</b>\n<i>Euronews, France 24</i>\n🟢 <b>Latest:</b> 12:57 AM Sri Lanka (35 min ago) · first reported 11:34 PM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122111236041548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 671,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122111236041548584_29890798143845871",
+   "fb_story_id": "1458557402794356",
+   "fb_reel_id": "1894942638345992",
+   "reel_status": "live"
   }
  },
  "seen_links": [
-  "https://www.foxnews.com/politics/alaska-senate-fight-heats-sullivan-moves-block-peltola-lawsuit-rejected-absentee-ballot-records",
-  "https://www.independent.co.uk/news/world/americas/crime/cruise-ship-death-fbi-texas-b3082045.html",
-  "https://www.nbcnews.com/news/us-news/fbi-investigating-possible-homicide-cruise-ship-left-texas-rcna608423",
-  "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
   "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
   "https://www.aljazeera.com/news/2026/11/9/pope-meets-with-clergy-abuse-survivors-in-argentina?traffic_source=rss",
   "https://abcnews.com/International/wireStory/pope-meets-survivors-clergy-abuse-argentina-reckons-legacy-137988212",
@@ -8607,34 +8691,13 @@
   "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation?traffic_source=rss",
   "https://kyivindependent.com/reporters-notebook-inside-a-ukrainian-power-plant-caught-in-cycle-of-russian-destruction-2/",
   "https://www.washingtonpost.com/world/2026/11/24/israel-kills-hamas-internal-security-chief-gaza/",
-  "https://www.aljazeera.com/video/newsfeed/2026/11/24/senior-hamas-security-official-killed-in-israeli-drone-strikes?traffic_source=rss"
+  "https://www.aljazeera.com/video/newsfeed/2026/11/24/senior-hamas-security-official-killed-in-israeli-drone-strikes?traffic_source=rss",
+  "https://www.france24.com/en/car-bomb-destroys-buildings-in-central-colombian-city",
+  "https://www.euronews.com/2026/11/24/at-least-24-injured-after-car-bomb-detonates-in-central-colombia",
+  "https://thehill.com/homenews/campaign/6240650-dan-sullivan-concedes-alaska-senate/",
+  "https://www.newsweek.com/mary-peltola-alaska-senate-election-result-certified-what-happens-next-12763499"
  ],
  "recent_topics": [
-  [
-   "2026-11-21T20:00:56.158874+00:00",
-   [
-    "attack",
-    "ballistic",
-    "barrag",
-    "central",
-    "deadly",
-    "hometown",
-    "join",
-    "kill",
-    "kyiv",
-    "launch",
-    "missil",
-    "nato",
-    "reaffirm",
-    "russia",
-    "strik",
-    "ukrain",
-    "wish",
-    "zelensky",
-    "zelenskyy"
-   ],
-   "skipped"
-  ],
   [
    "2026-11-21T20:31:34.772147+00:00",
    [
@@ -10261,19 +10324,42 @@
     "strik"
    ],
    "5bd532c15c"
+  ],
+  [
+   "2026-11-24T20:01:55.880265+00:00",
+   [
+    "23",
+    "24",
+    "25",
+    "arm",
+    "bomb",
+    "build",
+    "car",
+    "central",
+    "city",
+    "colombia",
+    "colombian",
+    "destroy",
+    "detonat",
+    "explod",
+    "government",
+    "injur",
+    "least",
+    "offic",
+    "outsid",
+    "resurg",
+    "violenc"
+   ],
+   "11edec9e49"
   ]
  ],
- "last_draft_at": "2026-11-24T19:46:13.057422+00:00",
+ "last_draft_at": "2026-11-24T20:00:50.896428+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T19:45:34.905404+00:00",
  "run_log": [
-  "11-24 17:30:57 run start",
-  "11-24 17:31:29 listening 11 min",
-  "11-24 17:42:26 listening done",
-  "11-24 17:42:26 run end after 689 s",
   "11-24 17:45:46 run start",
   "11-24 17:46:22 listening 11 min",
   "11-24 17:57:15 listening done",
@@ -10309,7 +10395,11 @@
   "11-24 19:45:34 run start",
   "11-24 19:50:15 listening 7 min",
   "11-24 19:57:22 listening done",
-  "11-24 19:57:22 run end after 708 s"
+  "11-24 19:57:22 run end after 708 s",
+  "11-24 20:00:50 run start",
+  "11-24 20:02:56 listening 9 min",
+  "11-24 20:12:34 listening done",
+  "11-24 20:12:34 run end after 704 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -15787,6 +15877,11 @@
     "s": 0,
     "w": "memorial wreath on a street",
     "p": "wrong country"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/IMG7218_Notarzteinsatzfahrzeug_Wei%C3%9Fes_Kreuz_Bozen%2C_Mercedes-Benz_M-Class%2C_WK419%2C_Front_Left%2C_2019.jpg/1920px-IMG7218_Notarzteinsatzfahrzeug_Wei%C3%9Fes_Kreuz_Bozen%2C_Mercedes-Benz_M-Class%2C_WK419%2C_Front_Left%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|fc9fa0c6": {
+    "s": 0,
+    "w": "emergency vehicle parked outdoors",
+    "p": "Wrong country and wrong type of file photo (shows an ambulance instead of damage"
    }
   }
  },
@@ -15798,10 +15893,10 @@
   "2026-11-21": 17,
   "2026-11-22": 11,
   "2026-11-23": 20,
-  "2026-11-24": 12
+  "2026-11-24": 13
  },
- "last_auto_at": "2026-11-24T19:49:29.739071+00:00",
- "last_post_at": "2026-11-24T19:49:34.451366+00:00",
+ "last_auto_at": "2026-11-24T20:02:10.237760+00:00",
+ "last_post_at": "2026-11-24T20:02:14.950938+00:00",
  "reels_count": {
   "2026-11-18": 3,
   "2026-11-19": 3,
@@ -15809,7 +15904,7 @@
   "2026-11-21": 3,
   "2026-11-22": 1,
   "2026-11-23": 1,
-  "2026-11-24": 2
+  "2026-11-24": 3
  },
  "roundup": {
   "2026-11-16": {
