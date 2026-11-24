@@ -1,100 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "ce7c2b9efb": {
-   "id": "ce7c2b9efb",
-   "headline": "Trump, Putin and Xi hold summit in China",
-   "summary": "Leaders from the United States, China and Russia held a summit in China, releasing a four-point peace declaration that criticized the international order, including the UN and the ICC. However, according to reports, the meeting produced no treaties regarding war, nuclear weapons or artificial intelligence.",
-   "label": "DIPLOMACY",
-   "hook": "Will this four-point declaration impact the policies of the UN and the ICC?",
-   "key_points": [
-    "Trump joined in criticism of the international order.",
-    "Leaders offered no plans to end wars.",
-    "The A.I. race was not on the agenda."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#WorldNews",
-    "#Summit",
-    "#Diplomacy"
-   ],
-   "sources": [
-    "New York Times",
-    "The Independent"
-   ],
-   "link": "https://www.nytimes.com/2026/11/20/podcasts/the-daily/trump-putin-xi-summit-ai.html",
-   "links": [
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/20/podcasts/the-daily/trump-putin-xi-summit-ai.html"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/donald-trump-vladimir-putin-xi-jinping-un-icc-b3088430.html"
-    ]
-   ],
-   "bg": {
-    "type": "map",
-    "photos": [],
-    "location": "China",
-    "lat": 35.0,
-    "lon": 103.0,
-    "country": "China",
-    "state": "",
-    "pin": false,
-    "fit": true
-   },
-   "img_post": {
-    "headline": "Trump, Putin and Xi hold summit in China",
-    "people": [
-     "Donald Trump"
-    ],
-    "image_query": "Beijing cityscape",
-    "image_queries": [
-     "United Nations building",
-     "international conference room",
-     "government flags",
-     "peace treaty document"
-    ],
-    "image_style": "scene",
-    "location": "China",
-    "nearby_city": "Beijing, China",
-    "event_query": "China summit leaders meeting",
-    "topic_photo": "conference room",
-    "label": "DIPLOMACY",
-    "action_subject": "diplomatic meeting table",
-    "news_time": "2026-11-20T08:46:54+00:00"
-   },
-   "created_at": "2026-11-20T11:24:12.489543+00:00",
-   "news_time": "2026-11-20T08:46:54+00:00",
-   "news_latest": "2026-11-20T11:00:19+00:00",
-   "importance": 7,
-   "caption": "Trump, Putin and Xi hold summit in China\n\nLeaders from the United States, China and Russia held a summit in China, releasing a four-point peace declaration that criticized the international order, including the UN and the ICC. However, according to reports, the meeting produced no treaties regarding war, nuclear weapons or artificial intelligence.\n\n💬 Will this four-point declaration impact the policies of the UN and the ICC?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WorldNews #Summit #Diplomacy #7SeasNews",
-   "photo_line": "📷 news map (no fitting photo)",
-   "status": "posted",
-   "tg_message_id": 856,
-   "tg_file_id": "AgACAgUAAxkDAAIDWGsAAS3eLMMmfsiywXapoUQKLk33YwAC7RRrG_07AAFUCWA_1isyDToBAAMCAAN3AAM9BA",
-   "queued_at": "2026-11-20T11:24:15.198388+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-20T11:24:15.198417+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122107399173548584",
-   "posted_at": "2026-11-20T11:24:15.547885+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 20 · 6:24 AM New York · 4:54 PM Sri Lanka\n\n<b>Trump, Putin and Xi hold summit in China</b>\n<i>New York Times, The Independent</i>\n🟢 <b>Latest:</b> 4:30 PM Sri Lanka (24 min ago) · first reported 2:16 PM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122107399173548584\">Open on Facebook</a>\n\n⚠️ <i>Looks like an earlier post: “Trump arrives in China for meeting with Putin and Xi”. Tap 🗑 Delete if it's the same news.</i>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 561,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122107399173548584_1881359349540684",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-23T10:38:11.408541+00:00"
-  },
   "ced106d019": {
    "id": "ced106d019",
    "headline": "Russian missile and drone attacks kill several in Ukraine",
@@ -7479,10 +7385,6 @@
   }
  },
  "seen_links": [
-  "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
-  "https://abcnews.com/International/wireStory/russias-top-independent-newspaper-closes-office-after-decades-137972997",
-  "https://www.france24.com/en/video/20261109-novaya-gazeta-an-independent-russian-newspaper-critical-of-putin-closes",
-  "https://www.cbsnews.com/news/midterm-elections-congress-returns-lame-duck/",
   "https://www.foxnews.com/politics/congress-returns-brutal-lame-duck-stretch-shutdown-deadline-leadership-races-closet-full-s",
   "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates",
   "https://www.aljazeera.com/news/2026/11/9/uk-court-hands-comedian-russel-brand-10-5-years-for-rape-sexual-assault?traffic_source=rss",
@@ -9478,7 +9380,11 @@
   "https://abcnews.com/International/wireStory/serbian-police-arrest-17-year-after-shots-fired-138403980",
   "https://www.france24.com/en/france/20261124-death-of-nahel-french-police-officer-who-shot-dead-a-teenage-boy-to-stand-trial-for-murder",
   "https://www.france24.com/en/video/20261124-spain-set-to-head-to-polls-in-snap-election-that-could-boost-far-right",
-  "https://abcnews.com/International/wireStory/meet-major-players-spains-general-election-138400692"
+  "https://abcnews.com/International/wireStory/meet-major-players-spains-general-election-138400692",
+  "https://thehill.com/policy/defense/6238111-trump-china-russia-nuclear-dialogue-hurdles/",
+  "https://www.washingtonexaminer.com/op-eds/4811910/trump-putin-xi-summit-diplomacy-isolating-moscow-has-driven-china-russia-closer/",
+  "https://www.foxnews.com/politics/turkey-farmer-dishes-preparing-birds-trumps-thanksgiving-presidential-pardon",
+  "https://www.newsweek.com/the-weirdness-of-the-white-house-thanksgiving-turkey-pardon-explained-12760599"
  ],
  "recent_topics": [
   [
@@ -11218,19 +11124,34 @@
     "send"
    ],
    "1f2a8fcdf2"
+  ],
+  [
+   "2026-11-24T11:16:33.049475+00:00",
+   [
+    "bird",
+    "dish",
+    "explain",
+    "farmer",
+    "hous",
+    "pardon",
+    "prepar",
+    "presidential",
+    "thanksgiv",
+    "trump",
+    "turkey",
+    "weirdness",
+    "whit"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-24T11:00:45.242777+00:00",
+ "last_draft_at": "2026-11-24T11:15:41.265179+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T10:46:01.981291+00:00",
  "run_log": [
-  "11-24 09:01:34 run start",
-  "11-24 09:01:36 listening 11 min",
-  "11-24 09:13:22 listening done",
-  "11-24 09:13:22 run end after 707 s",
   "11-24 09:14:06 run start",
   "11-24 09:14:40 listening 11 min",
   "11-24 09:25:37 listening done",
@@ -11266,7 +11187,11 @@
   "11-24 11:00:44 run start",
   "11-24 11:02:32 listening 10 min",
   "11-24 11:12:13 listening done",
-  "11-24 11:12:13 run end after 688 s"
+  "11-24 11:12:13 run end after 688 s",
+  "11-24 11:15:39 run start",
+  "11-24 11:16:33 listening 11 min",
+  "11-24 11:27:28 listening done",
+  "11-24 11:27:28 run end after 708 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
