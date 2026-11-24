@@ -542,5 +542,92 @@
     }
    }
   ]
+ },
+ "2026-11-23": {
+  "built_at": "2026-11-24T08:15:42.887644+00:00",
+  "test": false,
+  "parts": [
+   {
+    "name": "WAR & CONFLICT",
+    "of": 3,
+    "post_at": "2026-11-24T12:55:00+00:00",
+    "stories": 6,
+    "seconds": 31.2,
+    "fb": {
+     "id": "4581913642062564",
+     "state": "scheduled",
+     "caption": "Strike hits Ukraine building. Russia nuclear threats grow.\n\nWAR & CONFLICT · Monday's top stories · Part 1/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#warnews #ukraine #7seasnews #news",
+     "thumb": "set"
+    },
+    "yt": {
+     "id": "Ee9Td9T7dYs",
+     "state": "scheduled",
+     "url": "https://youtube.com/shorts/Ee9Td9T7dYs",
+     "thumb": "set"
+    },
+    "tt": {
+     "state": "inbox",
+     "kind": "photos",
+     "publish_id": "p_inbox_url~v2.7711647933283895303",
+     "tt_status": "SEND_TO_USER_INBOX",
+     "size": "1080x1350",
+     "photos": 7
+    }
+   },
+   {
+    "name": "US NEWS",
+    "of": 3,
+    "post_at": "2026-11-24T14:55:00+00:00",
+    "stories": 10,
+    "seconds": 48.7,
+    "fb": {
+     "id": "1142785138508469",
+     "state": "scheduled",
+     "caption": "Democrats win House majority. DNC schedules twelve debates.\n\nUS NEWS · Monday's top stories · Part 2/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#usnews #elections #7seasnews #news",
+     "thumb": "set"
+    },
+    "yt": {
+     "id": "my_ujxCyivo",
+     "state": "scheduled",
+     "url": "https://youtube.com/shorts/my_ujxCyivo",
+     "thumb": "set"
+    },
+    "tt": {
+     "state": "inbox",
+     "kind": "photos",
+     "publish_id": "p_inbox_url~v2.7711648226969077768",
+     "tt_status": "SEND_TO_USER_INBOX",
+     "size": "1080x1350",
+     "photos": 11
+    }
+   },
+   {
+    "name": "WORLD NEWS",
+    "of": 3,
+    "post_at": "2026-11-24T16:55:00+00:00",
+    "stories": 4,
+    "seconds": 21.4,
+    "fb": {
+     "id": "1190801303269550",
+     "state": "scheduled",
+     "caption": "California shooting wounds nine. Bomb threats hit schools.\n\nWORLD NEWS · Monday's top stories · Part 3/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#worldnews #world #7seasnews #news",
+     "thumb": "set"
+    },
+    "yt": {
+     "id": "0fpuofgfQlc",
+     "state": "scheduled",
+     "url": "https://youtube.com/shorts/0fpuofgfQlc",
+     "thumb": "set"
+    },
+    "tt": {
+     "state": "inbox",
+     "kind": "photos",
+     "publish_id": "p_inbox_url~v2.7711647101805053970",
+     "tt_status": "SEND_TO_USER_INBOX",
+     "size": "1080x1350",
+     "photos": 5
+    }
+   }
+  ]
  }
 }
