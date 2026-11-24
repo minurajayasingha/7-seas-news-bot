@@ -6897,12 +6897,102 @@
     "shares": 0
    },
    "stats_at": "2026-11-24T17:45:46.972349+00:00"
+  },
+  "0ec8be5621": {
+   "id": "0ec8be5621",
+   "headline": "Armed men seize supermarket and take hostages in Cartagena",
+   "summary": "Armed individuals have taken hostages inside a supermarket in the Colombian tourist destination of Cartagena. Police and military operations are underway at the scene, leading to a temporary suspension of incoming flights at the local airport.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Snipers were deployed on nearby buildings during the standoff",
+    "Incoming flights resumed after the military used a runway",
+    "Roughly two dozen people were reported held hostage"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Cartagena",
+    "#Colombia",
+    "#WorldNews"
+   ],
+   "sources": [
+    "ABC News",
+    "France 24",
+    "The Guardian"
+   ],
+   "link": "https://abcnews.com/International/wireStory/armed-men-hostages-cartagena-colombias-top-tourist-destinations-138416557",
+   "links": [
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/armed-men-hostages-cartagena-colombias-top-tourist-destinations-138416557"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/americas/20261124-hostages-supermarket-colombia-cartagena-flights"
+    ]
+   ],
+   "bg": {
+    "type": "map",
+    "photos": [],
+    "location": "Cartagena, Colombia",
+    "lat": 10.4,
+    "lon": -75.5,
+    "country": "Colombia",
+    "state": "",
+    "_loaded": 0
+   },
+   "img_post": {
+    "headline": "Armed men seize supermarket and take hostages in Cartagena",
+    "people": [],
+    "image_query": "Cartagena city skyline",
+    "image_queries": [
+     "Cartagena street scene",
+     "police barricade",
+     "supermarket exterior",
+     "airport runway"
+    ],
+    "image_style": "incident",
+    "location": "Cartagena, Colombia",
+    "nearby_city": "Bogota, Colombia",
+    "event_query": "Cartagena supermarket hostage standoff",
+    "topic_photo": "supermarket interior",
+    "label": "CONFLICT",
+    "action_subject": "police officers at work",
+    "news_time": "2026-11-24T17:35:48+00:00"
+   },
+   "created_at": "2026-11-24T18:16:18.879518+00:00",
+   "news_time": "2026-11-24T17:35:48+00:00",
+   "news_latest": "2026-11-24T18:08:41+00:00",
+   "importance": 7,
+   "caption": "🚨 BREAKING: Armed men seize supermarket and take hostages in Cartagena\n\nArmed individuals have taken hostages inside a supermarket in the Colombian tourist destination of Cartagena. Police and military operations are underway at the scene, leading to a temporary suspension of incoming flights at the local airport.\n\nWhat we know so far:\n• Snipers were deployed on nearby buildings during the standoff\n• Incoming flights resumed after the military used a runway\n• Roughly two dozen people were reported held hostage\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Cartagena #Colombia #WorldNews #7SeasNews",
+   "photo_line": "📷 news map (no fitting photo)",
+   "status": "posted",
+   "tg_message_id": 962,
+   "tg_file_id": "AgACAgUAAxkDAAIDwmsF1HRaboxKim7o7SsiMzWa4IqVAAKVFWsbSgcxVEzeFcvAiSKmAQADAgADdwADPQQ",
+   "queued_at": "2026-11-24T18:16:20.769754+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-24T18:16:20.769792+00:00",
+   "post_label": "🤖 Auto-posting + Reel",
+   "fb_post_id": "1413030521900096_122111165739548584",
+   "posted_at": "2026-11-24T18:16:21.146925+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 24 · 1:16 PM New York · 11:46 PM Sri Lanka\n\n<b>Armed men seize supermarket and take hostages in Cartagena</b>\n<i>ABC News, France 24, The Guardian</i>\n🟢 <b>Latest:</b> 11:38 PM Sri Lanka (7 min ago) · first reported 11:05 PM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122111165739548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 667,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122111165739548584_2221832375412351",
+   "fb_story_id": "1792522922053440",
+   "fb_reel_id": "1629566335881582",
+   "reel_status": "live"
   }
  },
  "seen_links": [
-  "https://www.theguardian.com/us-news/2026/nov/09/rfk-jr-trump-midterms-maha",
-  "https://www.newsweek.com/democrats-congress-priorities-after-midterm-wins-12690113",
-  "https://www.nbcnews.com/politics/immigration/democrats-afghans-temporary-protected-status-congress-trump-rcna608310",
   "https://www.newsweek.com/trump-administration-expands-federal-effort-to-combat-drone-threats-12688838",
   "https://www.aljazeera.com/news/2026/11/9/us-agencies-unite-to-combat-rogue-drone-threats-nationwide?traffic_source=rss",
   "https://thehill.com/regulation/court-battles/6208870-supreme-court-bivens-lawsuit/",
@@ -8899,7 +8989,10 @@
   "https://kyivindependent.com/ai-to-predict-russian-drone-flight-paths-attracts-5-million-in-investment/",
   "https://www.washingtonpost.com/the-seven/2026/11/24/two-men-arrested-possible-burglary-home-prince-william-princess-kate/",
   "https://www.nbcnews.com/video/two-arrested-over-suspected-burglary-at-prince-william-and-princess-kate-s-norfolk-estate-274094661657",
-  "https://www.theguardian.com/uk-news/2026/nov/24/two-arrested-after-suspected-burglary-prince-princess-of-wales-sandringham"
+  "https://www.theguardian.com/uk-news/2026/nov/24/two-arrested-after-suspected-burglary-prince-princess-of-wales-sandringham",
+  "https://abcnews.com/International/wireStory/armed-men-hostages-cartagena-colombias-top-tourist-destinations-138416557",
+  "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
+  "https://www.france24.com/en/americas/20261124-hostages-supermarket-colombia-cartagena-flights"
  ],
  "recent_topics": [
   [
@@ -10555,19 +10648,34 @@
     "zimbabwean"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-24T18:16:20.769608+00:00",
+   [
+    "arm",
+    "cartagena",
+    "colombia",
+    "destination",
+    "dozen",
+    "gunmen",
+    "hold",
+    "hostag",
+    "men",
+    "peopl",
+    "supermarket",
+    "tak",
+    "tourist"
+   ],
+   "0ec8be5621"
   ]
  ],
- "last_draft_at": "2026-11-24T18:01:00.810877+00:00",
+ "last_draft_at": "2026-11-24T18:15:36.688890+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T17:45:46.972349+00:00",
  "run_log": [
-  "11-24 15:46:07 run start",
-  "11-24 15:46:43 listening 11 min",
-  "11-24 15:57:38 listening done",
-  "11-24 15:57:38 run end after 690 s",
   "11-24 16:00:49 run start",
   "11-24 16:01:36 listening 11 min",
   "11-24 16:12:31 listening done",
@@ -10603,7 +10711,11 @@
   "11-24 18:01:00 run start",
   "11-24 18:01:10 listening 11 min",
   "11-24 18:12:29 listening done",
-  "11-24 18:12:29 run end after 689 s"
+  "11-24 18:12:29 run end after 689 s",
+  "11-24 18:15:36 run start",
+  "11-24 18:17:04 listening 10 min",
+  "11-24 18:27:07 listening done",
+  "11-24 18:27:07 run end after 690 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -16061,6 +16173,21 @@
     "s": 0,
     "w": "Barack Obama speaking at podium",
     "p": "Photo shows Barack Obama, but the story is about Trump presenting Rudy Giuliani "
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/c/cf/Cartagena_skyline%2C_Colombia.jpg|9c41fcfd": {
+    "s": 3,
+    "w": "Cartagena skyline over water",
+    "p": "shows calm city skyline instead of the hostage event"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Colombia%2C_Cartagena%2C_Castillogrande_Lighthouse_and_Bocagrande%27s_Skyline.jpg/1920px-Colombia%2C_Cartagena%2C_Castillogrande_Lighthouse_and_Bocagrande%27s_Skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|9c41fcfd": {
+    "s": 4,
+    "w": "Cartagena skyline and harbor",
+    "p": "Shows the city skyline instead of the armed conflict or hostage situation"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Getsemani_Street_Scene%2C_Cartagena%2C_Colombia_%2823957410274%29.jpg/1920px-Getsemani_Street_Scene%2C_Cartagena%2C_Colombia_%2823957410274%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|9c41fcfd": {
+    "s": 4,
+    "w": "street scene in Cartagena",
+    "p": "shows a calm street instead of an armed hostage situation"
    }
   }
  },
@@ -16072,18 +16199,18 @@
   "2026-11-21": 17,
   "2026-11-22": 11,
   "2026-11-23": 20,
-  "2026-11-24": 10
+  "2026-11-24": 11
  },
- "last_auto_at": "2026-11-24T14:33:27.237006+00:00",
- "last_post_at": "2026-11-24T14:33:47.386029+00:00",
+ "last_auto_at": "2026-11-24T18:16:21.146925+00:00",
+ "last_post_at": "2026-11-24T18:16:25.626878+00:00",
  "reels_count": {
-  "2026-11-17": 3,
   "2026-11-18": 3,
   "2026-11-19": 3,
   "2026-11-20": 3,
   "2026-11-21": 3,
   "2026-11-22": 1,
-  "2026-11-23": 1
+  "2026-11-23": 1,
+  "2026-11-24": 1
  },
  "roundup": {
   "2026-11-16": {
