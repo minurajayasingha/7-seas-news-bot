@@ -1,101 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "da2d74bebf": {
-   "id": "da2d74bebf",
-   "headline": "Judge blocks Donald Trump proposed triumphal arch in Virginia",
-   "summary": "A federal judge in Virginia said she will issue a preliminary injunction to block construction of Donald Trump's proposed triumphal arch. Judge Leonie Brinkema called the project a rushed job that lacks a legal basis, citing airport safety concerns.",
-   "label": "US POLITICS",
-   "hook": "Should courts have the authority to block projects like this?",
-   "key_points": [
-    "The proposed arch would sit 3,000 feet from Reagan National Airport.",
-    "The decision was announced during a Friday hearing in Alexandria, Virginia."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#DonaldTrump",
-    "#Virginia"
-   ],
-   "sources": [
-    "The Guardian",
-    "The Independent"
-   ],
-   "link": "https://www.independent.co.uk/news/world/americas/trump-arch-dc-triumphal-rush-job-b3088885.html",
-   "links": [
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/trump-arch-dc-triumphal-rush-job-b3088885.html"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/us-news/2026/nov/20/trump-arch-blocked-judge"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_02.jpg/1920px-A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Harrison Keely / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 7,
-      "shows": "a courtroom interior"
-     }
-    ],
-    "file_photo": true
-   },
-   "img_post": {
-    "headline": "Judge blocks Donald Trump proposed triumphal arch in Virginia",
-    "people": [
-     "Donald Trump"
-    ],
-    "image_query": "Alexandria federal courthouse",
-    "image_queries": [
-     "Reagan National Airport",
-     "Alexandria Virginia street",
-     "federal courtroom",
-     "Washington DC skyline"
-    ],
-    "image_style": "scene",
-    "location": "Alexandria, United States",
-    "nearby_city": "Washington, D.C.",
-    "event_query": "court hearing Virginia",
-    "topic_photo": "judge gavel",
-    "label": "US POLITICS",
-    "action_subject": "courtroom",
-    "news_time": "2026-11-20T16:32:32+00:00"
-   },
-   "created_at": "2026-11-20T17:39:37.774044+00:00",
-   "news_time": "2026-11-20T16:32:32+00:00",
-   "news_latest": "2026-11-20T17:27:09+00:00",
-   "importance": 6,
-   "caption": "Judge blocks Donald Trump proposed triumphal arch in Virginia\n\nA federal judge in Virginia said she will issue a preliminary injunction to block construction of Donald Trump's proposed triumphal arch. Judge Leonie Brinkema called the project a rushed job that lacks a legal basis, citing airport safety concerns.\n\n💬 Should courts have the authority to block projects like this?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #DonaldTrump #Virginia #7SeasNews",
-   "photo_line": "📷 7/10 a courtroom interior · FILE PHOTO",
-   "status": "posted",
-   "tg_message_id": 868,
-   "tg_file_id": "AgACAgUAAxkDAAIDZGsAAYXi68oLhuJT1HVPt0S0A63dFQAClRNrG_07CFSRGZXXKPus-gEAAwIAA3cAAz0E",
-   "queued_at": "2026-11-20T17:39:47.193324+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-20T17:39:47.193345+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122107721481548584",
-   "posted_at": "2026-11-20T17:39:56.056689+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 20 · 12:40 PM New York · 11:10 PM Sri Lanka\n\n<b>Judge blocks Donald Trump proposed triumphal arch in Virginia</b>\n<i>The Guardian, The Independent</i>\n🟢 <b>Latest:</b> 10:57 PM Sri Lanka (12 min ago) · first reported 10:02 PM\n📷 7/10 a courtroom interior · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122107721481548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 575,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122107721481548584_1819695355905677",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-23T17:00:55.899865+00:00"
-  },
   "4f1d9bc8cb": {
    "id": "4f1d9bc8cb",
    "headline": "Denmark accuses Russian intelligence of plotting attack",
@@ -7086,9 +6991,6 @@
   }
  },
  "seen_links": [
-  "https://www.cbsnews.com/news/supreme-court-trump-border-wall-big-bend/",
-  "https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-border-wall-big-bend-texas-rcna604916",
-  "https://thehill.com/homenews/administration/6208834-calley-means-susie-wiles-accusations/",
   "https://www.theguardian.com/us-news/2026/nov/09/rfk-jr-trump-midterms-maha",
   "https://www.newsweek.com/democrats-congress-priorities-after-midterm-wins-12690113",
   "https://www.nbcnews.com/politics/immigration/democrats-afghans-temporary-protected-status-congress-trump-rcna608310",
@@ -9085,7 +8987,10 @@
   "https://www.france24.com/en/video/20261124-in-south-africa-parents-homemade-sensory-room-helps-children-with-adhd",
   "https://www.aljazeera.com/video/newsfeed/2026/11/24/russia-tows-it-cargo-ship-back-home-after-ukrainian-drone-attack?traffic_source=rss",
   "https://kyivindependent.com/zelensky-confirms-ukrainian-attack-on-russian-ship-in-gulf-of-finland/",
-  "https://kyivindependent.com/ai-to-predict-russian-drone-flight-paths-attracts-5-million-in-investment/"
+  "https://kyivindependent.com/ai-to-predict-russian-drone-flight-paths-attracts-5-million-in-investment/",
+  "https://www.washingtonpost.com/the-seven/2026/11/24/two-men-arrested-possible-burglary-home-prince-william-princess-kate/",
+  "https://www.nbcnews.com/video/two-arrested-over-suspected-burglary-at-prince-william-and-princess-kate-s-norfolk-estate-274094661657",
+  "https://www.theguardian.com/uk-news/2026/nov/24/two-arrested-after-suspected-burglary-prince-princess-of-wales-sandringham"
  ],
  "recent_topics": [
   [
@@ -10772,17 +10677,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-24T17:15:38.301298+00:00",
+ "last_draft_at": "2026-11-24T17:30:58.135772+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T16:46:24.847099+00:00",
  "run_log": [
-  "11-24 15:01:06 run start",
-  "11-24 15:02:27 listening 10 min",
-  "11-24 15:12:31 listening done",
-  "11-24 15:12:31 run end after 685 s",
   "11-24 15:15:49 run start",
   "11-24 15:16:26 listening 11 min",
   "11-24 15:27:21 listening done",
@@ -10818,7 +10719,11 @@
   "11-24 17:15:37 run start",
   "11-24 17:16:45 listening 10 min",
   "11-24 17:27:14 listening done",
-  "11-24 17:27:14 run end after 696 s"
+  "11-24 17:27:14 run end after 696 s",
+  "11-24 17:30:57 run start",
+  "11-24 17:31:29 listening 11 min",
+  "11-24 17:42:26 listening done",
+  "11-24 17:42:26 run end after 689 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
