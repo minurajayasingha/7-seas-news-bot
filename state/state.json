@@ -6615,8 +6615,6 @@
   }
  },
  "seen_links": [
-  "https://www.independent.co.uk/news/world/americas/us-politics/data-center-bill-senate-trump-energy-b3081849.html",
-  "https://thehill.com/policy/healthcare/6209047-fda-glp1-drug-nainon-risk/",
   "https://www.nbcnews.com/health/health-care/fda-orders-new-warning-glp-1s-rare-eye-condition-linked-sudden-blindne-rcna608309",
   "https://thehill.com/regulation/court-battles/6209007-sullivan-campaign-intervenes-peltola-lawsuit/",
   "https://www.foxnews.com/politics/alaska-senate-fight-heats-sullivan-moves-block-peltola-lawsuit-rejected-absentee-ballot-records",
@@ -8614,7 +8612,9 @@
   "https://www.washingtonexaminer.com/news/world/4813814/zelensky-us-aligned-putin-criticizes-patriot-missile-delay/",
   "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-nato-estonia-warship-casualties-map-b3090337.html",
   "https://www.washingtonexaminer.com/news/world/4813982/china-shanghai-ccp-leader-investigation-corruption-purge/",
-  "https://www.aljazeera.com/news/2026/11/24/xis-anti-corruption-campaign-targets-shanghai-party-chief-chen-jining?traffic_source=rss"
+  "https://www.aljazeera.com/news/2026/11/24/xis-anti-corruption-campaign-targets-shanghai-party-chief-chen-jining?traffic_source=rss",
+  "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation?traffic_source=rss",
+  "https://kyivindependent.com/reporters-notebook-inside-a-ukrainian-power-plant-caught-in-cycle-of-russian-destruction-2/"
  ],
  "recent_topics": [
   [
@@ -10277,17 +10277,13 @@
    "0ec8be5621"
   ]
  ],
- "last_draft_at": "2026-11-24T19:15:51.593248+00:00",
+ "last_draft_at": "2026-11-24T19:30:40.421299+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T18:45:40.150426+00:00",
  "run_log": [
-  "11-24 17:00:55 run start",
-  "11-24 17:02:25 listening 10 min",
-  "11-24 17:12:29 listening done",
-  "11-24 17:12:29 run end after 693 s",
   "11-24 17:15:37 run start",
   "11-24 17:16:45 listening 10 min",
   "11-24 17:27:14 listening done",
@@ -10323,7 +10319,11 @@
   "11-24 19:15:51 run start",
   "11-24 19:16:17 listening 11 min",
   "11-24 19:27:35 listening done",
-  "11-24 19:27:35 run end after 704 s"
+  "11-24 19:27:35 run end after 704 s",
+  "11-24 19:30:40 run start",
+  "11-24 19:31:48 listening 10 min",
+  "11-24 19:42:16 listening done",
+  "11-24 19:42:16 run end after 696 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
