@@ -9417,26 +9417,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-21T04:01:16.554320+00:00",
-   [
-    "approv",
-    "billion",
-    "cancer",
-    "claim",
-    "class",
-    "court",
-    "formally",
-    "judg",
-    "killer",
-    "nationwid",
-    "roundup",
-    "settlement",
-    "weed",
-    "weedkiller"
-   ],
-   "skipped"
-  ],
-  [
    "2026-11-21T06:01:24.260860+00:00",
    [
     "civilization",
@@ -11123,17 +11103,13 @@
    "673f836078"
   ]
  ],
- "last_draft_at": "2026-11-24T03:38:27.532559+00:00",
+ "last_draft_at": "2026-11-24T03:50:42.409468+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T03:26:12.712452+00:00",
  "run_log": [
-  "11-24 01:02:31 listening done",
-  "11-24 01:02:31 run end after 697 s",
-  "11-24 01:02:58 run start",
-  "11-24 01:03:08 listening 11 min",
   "11-24 01:14:29 listening done",
   "11-24 01:14:29 run end after 690 s",
   "11-24 01:15:49 run start",
@@ -11169,7 +11145,11 @@
   "11-24 03:38:26 run start",
   "11-24 03:38:47 listening 11 min",
   "11-24 03:50:07 listening done",
-  "11-24 03:50:07 run end after 700 s"
+  "11-24 03:50:07 run end after 700 s",
+  "11-24 03:50:42 run start",
+  "11-24 03:51:01 listening 11 min",
+  "11-24 04:02:20 listening done",
+  "11-24 04:02:20 run end after 698 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
