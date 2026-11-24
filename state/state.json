@@ -1,99 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "1deeaf75e4": {
-   "id": "1deeaf75e4",
-   "headline": "UN court rules Myanmar committed genocide against Rohingya minority",
-   "summary": "The UN's highest court has ruled that Myanmar conducted state-sponsored genocide against its Rohingya minority. Myanmar branded the decision unfair, while the US reacted cautiously and China raised concerns about judicial overreach.",
-   "label": "WORLD",
-   "hook": "Will this ruling set a precedent for future genocide claims at the international court?",
-   "key_points": [
-    "The international court of justice has never previously found a state responsible for genocide.",
-    "The decision could set a precedent for future genocide claims.",
-    "The EU praised the critical role of the UN's top court."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Myanmar",
-    "#UN",
-    "#WorldNews"
-   ],
-   "sources": [
-    "Sky News",
-    "The Guardian"
-   ],
-   "link": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law",
-   "links": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law"
-    ],
-    [
-     "Sky News",
-     "https://news.sky.com/story/myanmar-rejects-un-courts-rohingya-genocide-guilty-verdict-as-unfair-13614272"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Naypyidaw_--_Zoo.JPG/1920px-Naypyidaw_--_Zoo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Hybernator / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 5,
-      "shows": "zoological garden in naypyidaw"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "UN court rules Myanmar committed genocide against Rohingya minority",
-    "people": [],
-    "image_query": "United Nations International Court of Justice",
-    "image_queries": [
-     "UN headquarters",
-     "international court",
-     "court building",
-     "United Nations flag"
-    ],
-    "image_style": "person",
-    "location": "Naypyidaw, Myanmar",
-    "nearby_city": "Yangon, Myanmar",
-    "event_query": "International Court of Justice building",
-    "topic_photo": "judge gavel",
-    "label": "WORLD",
-    "action_subject": "courtroom",
-    "news_time": "2026-11-20T09:15:00+00:00"
-   },
-   "created_at": "2026-11-20T12:19:21.445044+00:00",
-   "news_time": "2026-11-20T09:15:00+00:00",
-   "news_latest": "2026-11-20T11:57:43+00:00",
-   "importance": 8,
-   "caption": "UN court rules Myanmar committed genocide against Rohingya minority\n\nThe UN's highest court has ruled that Myanmar conducted state-sponsored genocide against its Rohingya minority. Myanmar branded the decision unfair, while the US reacted cautiously and China raised concerns about judicial overreach.\n\n💬 Will this ruling set a precedent for future genocide claims at the international court?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Myanmar #UN #WorldNews #7SeasNews",
-   "photo_line": "📷 5/10 zoological garden in naypyidaw",
-   "status": "posted",
-   "tg_message_id": 859,
-   "tg_file_id": "AgACAgUAAxkDAAIDW2sAATrYKvxSxx7Qu7hmNIJpAAF2cRMAAgYVaxv9OwABVFozc18UYXXmAQADAgADdwADPQQ",
-   "queued_at": "2026-11-20T12:19:36.768948+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-20T12:19:36.768982+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122107457631548584",
-   "posted_at": "2026-11-20T12:19:37.115484+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 20 · 7:19 AM New York · 5:49 PM Sri Lanka\n\n<b>UN court rules Myanmar committed genocide against Rohingya minority</b>\n<i>Sky News, The Guardian</i>\n🟢 <b>Latest:</b> 5:27 PM Sri Lanka (21 min ago) · first reported 2:45 PM\n📷 5/10 zoological garden in naypyidaw\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122107457631548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 565,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122107457631548584_1498364505525703",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-23T11:45:40.583367+00:00"
-  },
   "d409ed1430": {
    "id": "d409ed1430",
    "headline": "Democrats prepare for majorities in Congress",
@@ -7292,14 +7199,99 @@
     "shares": 0
    },
    "stats_at": "2026-11-24T11:46:09.320511+00:00"
+  },
+  "fc2db0d6c8": {
+   "id": "fc2db0d6c8",
+   "headline": "Former Pentagon Chief of Staff Joe Kasper Urges Pete Hegseth to Resign",
+   "summary": "Joe Kasper, the former chief of staff to Defense Secretary Pete Hegseth, stated that the Pentagon leader should resign. According to reports, Kasper claimed that Hegseth has lost his effectiveness and represents a liability for the administration.",
+   "label": "US POLITICS",
+   "hook": "Should a defense secretary step down after losing the support of a former chief of staff?",
+   "key_points": [
+    "POLITICO first reported the resignation call.",
+    "Kasper described Hegseth as overindulged.",
+    "The defense secretary faces criticism over Pentagon leadership."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#DefenseDepartment",
+    "#Pentagon"
+   ],
+   "sources": [
+    "Fox News",
+    "The Independent"
+   ],
+   "link": "https://www.foxnews.com/politics/former-chief-staff-pentagon-chief-hegseth-says-its-time-pete-call-quits-report",
+   "links": [
+    [
+     "Fox News",
+     "https://www.foxnews.com/politics/former-chief-staff-pentagon-chief-hegseth-says-its-time-pete-call-quits-report"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/us-politics/pete-hegseth-resign-iran-joe-kasper-b3090554.html"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Pete_Hegseth_%2852941843030%29.jpg/1280px-Pete_Hegseth_%2852941843030%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "Pete Hegseth speaking on stage"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Former Pentagon Chief of Staff Joe Kasper Urges Pete Hegseth to Resign",
+    "people": [
+     "Pete Hegseth",
+     "Joe Kasper"
+    ],
+    "image_query": "Pentagon building",
+    "image_queries": [
+     "US Capitol dome",
+     "Department of Defense",
+     "Washington DC skyline",
+     "White House"
+    ],
+    "image_style": "person",
+    "location": "Washington, DC, US",
+    "nearby_city": "Washington, DC",
+    "event_query": "Pentagon leadership announcement",
+    "topic_photo": "judge gavel",
+    "label": "US POLITICS",
+    "action_subject": "",
+    "news_time": "2026-11-24T11:39:36+00:00"
+   },
+   "created_at": "2026-11-24T12:16:14.029229+00:00",
+   "news_time": "2026-11-24T11:39:36+00:00",
+   "news_latest": "2026-11-24T12:04:20+00:00",
+   "importance": 7,
+   "caption": "Former Pentagon Chief of Staff Joe Kasper Urges Pete Hegseth to Resign\n\nJoe Kasper, the former chief of staff to Defense Secretary Pete Hegseth, stated that the Pentagon leader should resign. According to reports, Kasper claimed that Hegseth has lost his effectiveness and represents a liability for the administration.\n\n💬 Should a defense secretary step down after losing the support of a former chief of staff?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #DefenseDepartment #Pentagon #7SeasNews",
+   "photo_line": "📷 10/10 Pete Hegseth speaking on stage",
+   "status": "posted",
+   "tg_message_id": 955,
+   "tg_file_id": "AgACAgUAAxkDAAIDu2sFgA8x7IuSAeWHKD3Bvqk_ZxyIAAJrFGsbSgcxVIQeo6Xt3ooAAQEAAwIAA3cAAz0E",
+   "queued_at": "2026-11-24T12:16:16.112729+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-24T12:16:16.112751+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122110980195548584",
+   "posted_at": "2026-11-24T12:16:28.491003+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 24 · 7:16 AM New York · 5:46 PM Sri Lanka\n\n<b>Former Pentagon Chief of Staff Joe Kasper Urges Pete Hegseth to Resign</b>\n<i>Fox News, The Independent</i>\n🟢 <b>Latest:</b> 5:34 PM Sri Lanka (12 min ago) · first reported 5:09 PM\n📷 10/10 Pete Hegseth speaking on stage\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122110980195548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 660,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122110980195548584_2074938306500622"
   }
  },
  "seen_links": [
-  "https://www.cbsnews.com/news/hakeem-jeffries-corruption-midterm-election-victories/",
-  "https://www.washingtonexaminer.com/news/house/4796952/new-bloc-progressive-democrats-not-commit-hakeem-jeffries-house-speaker/",
-  "https://www.france24.com/en/video/20261109-all-eyes-on-rubio-as-iran-ukraine-set-to-dominate-g7-meeting-in-paris",
-  "https://abcnews.com/International/wireStory/rubio-discuss-iran-ukraine-ai-g7-allies-france-137965744",
-  "https://www.upi.com/Top_News/World-News/2026/11/09/turkey-explosion-factory/8151794236019/",
   "https://news.sky.com/story/explosion-at-steel-plant-in-turkey-kills-at-least-six-officials-say-13610161",
   "https://www.france24.com/en/iran-sees-golden-opportunity-for-a-sweetheart-deal-after-us-midterms-expert-says",
   "https://www.newsweek.com/trump-middle-east-pay-iran-war-debt-12685563",
@@ -9294,7 +9286,12 @@
   "https://abcnews.com/International/wireStory/turkish-officials-backtrack-after-24-hour-hunt-istanbul-138404359",
   "https://www.independent.co.uk/news/world/europe/istanbul-lion-sighting-island-turkey-b3090387.html",
   "https://www.aljazeera.com/news/2026/11/24/vietnam-restaurant-blast-kills-at-least-six?traffic_source=rss",
-  "https://abcnews.com/International/wireStory/hanoi-eatery-blast-kills-3-injures-dozen-138402807"
+  "https://abcnews.com/International/wireStory/hanoi-eatery-blast-kills-3-injures-dozen-138402807",
+  "https://www.foxnews.com/politics/former-chief-staff-pentagon-chief-hegseth-says-its-time-pete-call-quits-report",
+  "https://www.independent.co.uk/news/world/americas/us-politics/pete-hegseth-resign-iran-joe-kasper-b3090554.html",
+  "https://www.independent.co.uk/news/world/europe/pope-francis-devil-death-private-diary-b3090483.html",
+  "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
+  "https://www.cbsnews.com/news/pope-francis-devil-gates-of-hell-visions-diary/"
  ],
  "recent_topics": [
   [
@@ -11077,19 +11074,35 @@
     "wood"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-24T12:16:16.112614+00:00",
+   [
+    "call",
+    "chief",
+    "defens",
+    "former",
+    "hegseth",
+    "overindulg",
+    "pentagon",
+    "pet",
+    "quit",
+    "scath",
+    "secretary",
+    "staff",
+    "takedown",
+    "tim"
+   ],
+   "fc2db0d6c8"
   ]
  ],
- "last_draft_at": "2026-11-24T12:01:04.638614+00:00",
+ "last_draft_at": "2026-11-24T12:16:03.014129+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T11:46:09.320511+00:00",
  "run_log": [
-  "11-24 09:50:19 run start",
-  "11-24 09:51:55 listening 10 min",
-  "11-24 10:01:59 listening done",
-  "11-24 10:01:59 run end after 699 s",
   "11-24 10:02:38 run start",
   "11-24 10:03:11 listening 11 min",
   "11-24 10:14:05 listening done",
@@ -11125,12 +11138,15 @@
   "11-24 12:01:04 run start",
   "11-24 12:01:13 listening 11 min",
   "11-24 12:12:33 listening done",
-  "11-24 12:12:33 run end after 689 s"
+  "11-24 12:12:33 run end after 689 s",
+  "11-24 12:16:02 run start",
+  "11-24 12:16:44 listening 11 min",
+  "11-24 12:27:37 listening done",
+  "11-24 12:27:37 run end after 694 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Voting_booth_at_the_Madison_Parish_Courthouse.jpg/1920px-Voting_booth_at_the_Madison_Parish_Courthouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Firefighters_fighting_fire_action.jpg/1920px-Firefighters_fighting_fire_action.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/John_Cornyn_%2812999214925%29.jpg/1280px-John_Cornyn_%2812999214925%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -11169,7 +11185,8 @@
    "https://upload.wikimedia.org/wikipedia/commons/a/a6/US_Army_soldiers_during_maneuver_practice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://upload.wikimedia.org/wikipedia/commons/0/08/Pyongyang_skyline_%2816077193495%29.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/8/8f/Warsaw_skyline_%288510344469%29.jpg",
-   "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg2NDE0NTAtaW1hZ2Uta3d2eGtmbXEuanBn.jpg"
+   "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg2NDE0NTAtaW1hZ2Uta3d2eGtmbXEuanBn.jpg",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Pete_Hegseth_%2852941843030%29.jpg/1280px-Pete_Hegseth_%2852941843030%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -16513,6 +16530,16 @@
     "s": 5,
     "w": "Kuala Lumpur cityscape at dusk",
     "p": "Cityscape illustrating a government policy story"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Pete_Hegseth_%2852941918363%29.jpg/1280px-Pete_Hegseth_%2852941918363%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Pete Hegseth": {
+    "s": 0,
+    "w": "man speaking into microphone",
+    "p": "Photo shows Joe Kasper, not Pete Hegseth"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Pete_Hegseth_%2852941843030%29.jpg/1280px-Pete_Hegseth_%2852941843030%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Pete Hegseth": {
+    "s": 10,
+    "w": "Pete Hegseth speaking on stage",
+    "p": ""
    }
   }
  },
@@ -16524,10 +16551,10 @@
   "2026-11-21": 17,
   "2026-11-22": 11,
   "2026-11-23": 20,
-  "2026-11-24": 6
+  "2026-11-24": 7
  },
- "last_auto_at": "2026-11-24T11:33:29.754825+00:00",
- "last_post_at": "2026-11-24T11:33:33.737013+00:00",
+ "last_auto_at": "2026-11-24T12:16:28.491003+00:00",
+ "last_post_at": "2026-11-24T12:16:32.800275+00:00",
  "reels_count": {
   "2026-11-17": 3,
   "2026-11-18": 3,
