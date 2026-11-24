@@ -7086,8 +7086,6 @@
   }
  },
  "seen_links": [
-  "https://www.washingtonexaminer.com/news/white-house/4797454/vance-jokes-about-devastating-loss-ohio-state/",
-  "https://thehill.com/homenews/administration/6208643-vance-joked-buckeyes-loss/",
   "https://www.aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown?traffic_source=rss",
   "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
   "https://www.washingtonpost.com/politics/2026/11/09/hegseths-team-gives-talking-points-allies-before-expected-impeachment-vote/",
@@ -9085,7 +9083,9 @@
   "https://www.independent.co.uk/news/world/americas/colombia-villavicencio-car-bomb-explosion-b3090784.html",
   "https://www.upi.com/Top_News/World-News/2026/11/24/latam-colombia-car-bomb/4611795532807/",
   "https://www.independent.co.uk/news/world/americas/us-politics/bob-woodward-sources-book-watergate-b3090726.html",
-  "https://www.axios.com/2026/11/24/the-axios-show-bob-woodwards-memoir-spills-50-years-of-secrets"
+  "https://www.axios.com/2026/11/24/the-axios-show-bob-woodwards-memoir-spills-50-years-of-secrets",
+  "https://www.upi.com/Top_News/World-News/2026/11/24/japan-takaichi-increased-support-international-criminal-court/8091795535955/",
+  "https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html"
  ],
  "recent_topics": [
   [
@@ -10786,17 +10786,13 @@
    "64a11bad88"
   ]
  ],
- "last_draft_at": "2026-11-24T16:15:41.451369+00:00",
+ "last_draft_at": "2026-11-24T16:30:46.111778+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T15:46:07.631356+00:00",
  "run_log": [
-  "11-24 14:00:48 run start",
-  "11-24 14:01:20 listening 11 min",
-  "11-24 14:12:14 listening done",
-  "11-24 14:12:14 run end after 686 s",
   "11-24 14:16:06 run start",
   "11-24 14:16:53 listening 11 min",
   "11-24 14:27:46 listening done",
@@ -10832,7 +10828,11 @@
   "11-24 16:15:41 run start",
   "11-24 16:16:13 listening 11 min",
   "11-24 16:27:07 listening done",
-  "11-24 16:27:07 run end after 686 s"
+  "11-24 16:27:07 run end after 686 s",
+  "11-24 16:30:45 run start",
+  "11-24 16:31:08 listening 11 min",
+  "11-24 16:42:28 listening done",
+  "11-24 16:42:28 run end after 702 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
