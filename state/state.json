@@ -6606,9 +6606,6 @@
   }
  },
  "seen_links": [
-  "https://www.washingtonexaminer.com/policy/energy-and-environment/4797873/major-bill-cut-red-tape-energy-projects-clears-senate-hurdle/",
-  "https://thehill.com/policy/energy-environment/6209267-trump-wind-turbines-permitting-reform-bill/",
-  "https://www.newsweek.com/osu-sae-fraternity-suspended-video-students-fire-12691043",
   "https://www.upi.com/Top_News/US/2026/11/09/ohio-state-sigma-alpha-epsilon-fraternity-fire-video/7951794255437/",
   "https://www.independent.co.uk/news/world/americas/ohio-state-fraternity-suspended-video-fire-b3082006.html",
   "https://www.nbcnews.com/news/us-news/ohio-state-university-investigating-fraternity-video-appears-show-two-rcna608313",
@@ -8605,7 +8602,10 @@
   "https://www.washingtonexaminer.com/policy/defense/4813934/army-secretary-examination-weapon-storage-facility-iowa/",
   "https://www.nbcnews.com/now/video/army-says-controlled-detonation-of-toxic-lead-in-iowa-is-safer-option-274090565877",
   "https://www.independent.co.uk/news/world/americas/us-politics/bob-woodward-book-biden-flaw-b3090948.html",
-  "https://www.newsweek.com/watergate-reporter-bob-woodward-says-trump-is-much-worse-than-nixon-12764564"
+  "https://www.newsweek.com/watergate-reporter-bob-woodward-says-trump-is-much-worse-than-nixon-12764564",
+  "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets?traffic_source=rss",
+  "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+  "https://www.nbcnews.com/news/us-news/chinese-tech-company-huawei-convicted-federal-charges-rcna611189"
  ],
  "recent_topics": [
   [
@@ -10232,17 +10232,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-24T21:46:11.702191+00:00",
+ "last_draft_at": "2026-11-24T22:01:28.697592+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T21:45:49.330218+00:00",
  "run_log": [
-  "11-24 19:45:34 run start",
-  "11-24 19:50:15 listening 7 min",
-  "11-24 19:57:22 listening done",
-  "11-24 19:57:22 run end after 708 s",
   "11-24 20:00:50 run start",
   "11-24 20:02:56 listening 9 min",
   "11-24 20:12:34 listening done",
@@ -10278,7 +10274,11 @@
   "11-24 21:45:48 run start",
   "11-24 21:46:30 listening 11 min",
   "11-24 21:57:25 listening done",
-  "11-24 21:57:25 run end after 696 s"
+  "11-24 21:57:25 run end after 696 s",
+  "11-24 22:01:28 run start",
+  "11-24 22:01:42 listening 11 min",
+  "11-24 22:13:02 listening done",
+  "11-24 22:13:02 run end after 694 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
