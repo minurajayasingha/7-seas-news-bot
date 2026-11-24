@@ -7086,13 +7086,6 @@
   }
  },
  "seen_links": [
-  "https://www.washingtonpost.com/politics/2026/11/09/2028-winners-losers-midterms/",
-  "https://www.cbsnews.com/news/2026-midterm-election-house-senate-projections-toss-up/",
-  "https://thehill.com/the-120/6208712-murkowski-seeks-senate-appropriations-ranking/",
-  "https://www.washingtonexaminer.com/news/senate/4797478/lisa-murkowski-seeks-senate-appropriations-committee-ranking-member/",
-  "https://www.foxnews.com/politics/schumers-grip-power-slips-dems-begin-revolt-against-him-eye-new-leadership",
-  "https://thehill.com/opinion/robbys-radar/6208613-hakeem-jeffries-house-speaker-struggle/",
-  "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-border-wall-trump.html",
   "https://www.cbsnews.com/news/supreme-court-trump-border-wall-big-bend/",
   "https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-border-wall-big-bend-texas-rcna604916",
   "https://thehill.com/homenews/administration/6208834-calley-means-susie-wiles-accusations/",
@@ -9085,7 +9078,14 @@
   "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
   "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza?traffic_source=rss",
   "https://www.france24.com/en/middle-east/20261124-israeli-strikes-on-gaza-kill-senior-hamas-security-official-and-six-other-people-medics-say",
-  "https://www.euronews.com/2026/11/24/israeli-strike-kills-hamas-internal-security-chief-in-gaza-source-tells-afp"
+  "https://www.euronews.com/2026/11/24/israeli-strike-kills-hamas-internal-security-chief-in-gaza-source-tells-afp",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/24/after-libya-where-will-ukraine-strike-russia-next?traffic_source=rss",
+  "https://abcnews.com/International/wireStory/south-africa-convicts-zimbabwean-travel-russia-fight-ukraine-138414152",
+  "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
+  "https://www.france24.com/en/video/20261124-in-south-africa-parents-homemade-sensory-room-helps-children-with-adhd",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/24/russia-tows-it-cargo-ship-back-home-after-ukrainian-drone-attack?traffic_source=rss",
+  "https://kyivindependent.com/zelensky-confirms-ukrainian-attack-on-russian-ship-in-gulf-of-finland/",
+  "https://kyivindependent.com/ai-to-predict-russian-drone-flight-paths-attracts-5-million-in-investment/"
  ],
  "recent_topics": [
   [
@@ -10752,19 +10752,33 @@
     "trial"
    ],
    "64a11bad88"
+  ],
+  [
+   "2026-11-24T17:16:15.374064+00:00",
+   [
+    "africa",
+    "convict",
+    "fight",
+    "libya",
+    "next",
+    "russia",
+    "south",
+    "strik",
+    "travel",
+    "tri",
+    "ukrain",
+    "zimbabwean"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-24T17:00:57.081372+00:00",
+ "last_draft_at": "2026-11-24T17:15:38.301298+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T16:46:24.847099+00:00",
  "run_log": [
-  "11-24 14:45:39 run start",
-  "11-24 14:46:32 listening 11 min",
-  "11-24 14:57:26 listening done",
-  "11-24 14:57:26 run end after 707 s",
   "11-24 15:01:06 run start",
   "11-24 15:02:27 listening 10 min",
   "11-24 15:12:31 listening done",
@@ -10800,7 +10814,11 @@
   "11-24 17:00:55 run start",
   "11-24 17:02:25 listening 10 min",
   "11-24 17:12:29 listening done",
-  "11-24 17:12:29 run end after 693 s"
+  "11-24 17:12:29 run end after 693 s",
+  "11-24 17:15:37 run start",
+  "11-24 17:16:45 listening 10 min",
+  "11-24 17:27:14 listening done",
+  "11-24 17:27:14 run end after 696 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
