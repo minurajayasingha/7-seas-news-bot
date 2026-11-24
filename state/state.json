@@ -9517,29 +9517,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-21T06:01:24.260860+00:00",
-   [
-    "civilization",
-    "consider",
-    "delet",
-    "die",
-    "iran",
-    "kati",
-    "military",
-    "miller",
-    "repost",
-    "runn",
-    "strik",
-    "then",
-    "tim",
-    "tonight",
-    "trump",
-    "warn",
-    "whol"
-   ],
-   "skipped"
-  ],
-  [
    "2026-11-21T07:18:14.366446+00:00",
    [
     "call",
@@ -11247,17 +11224,13 @@
    "d03c9347c8"
   ]
  ],
- "last_draft_at": "2026-11-24T05:45:36.537317+00:00",
+ "last_draft_at": "2026-11-24T06:00:45.984927+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T05:31:00.016489+00:00",
  "run_log": [
-  "11-24 03:38:26 run start",
-  "11-24 03:38:47 listening 11 min",
-  "11-24 03:50:07 listening done",
-  "11-24 03:50:07 run end after 700 s",
   "11-24 03:50:42 run start",
   "11-24 03:51:01 listening 11 min",
   "11-24 04:02:20 listening done",
@@ -11293,7 +11266,11 @@
   "11-24 05:45:36 run start",
   "11-24 05:46:10 listening 11 min",
   "11-24 05:57:03 listening done",
-  "11-24 05:57:03 run end after 687 s"
+  "11-24 05:57:03 run end after 687 s",
+  "11-24 06:00:45 run start",
+  "11-24 06:00:54 listening 11 min",
+  "11-24 06:12:12 listening done",
+  "11-24 06:12:12 run end after 686 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
