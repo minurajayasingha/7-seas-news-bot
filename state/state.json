@@ -7090,13 +7090,181 @@
     "shares": 0
    },
    "stats_at": "2026-11-24T13:45:54.193635+00:00"
+  },
+  "f77b05fad3": {
+   "id": "f77b05fad3",
+   "headline": "Trump to present Rudy Giuliani with Medal of Freedom",
+   "summary": "President Trump's former personal attorney is set to receive the Presidential Medal of Freedom in the Oval Office. Rudy Giuliani, who also served as mayor of New York City, stated he will be honored at the ceremony.",
+   "label": "US POLITICS",
+   "hook": "Should former personal attorneys receive the Presidential Medal of Freedom?",
+   "key_points": [
+    "The award presentation takes place in the Oval Office.",
+    "Giuliani previously worked as New York City mayor."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#RudyGiuliani",
+    "#WhiteHouse"
+   ],
+   "sources": [
+    "CBS News",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/americas/us-politics/rudy-guiliani-medal-of-freedom-trump-b3090629.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/us-politics/rudy-guiliani-medal-of-freedom-trump-b3090629.html"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/news/trump-rudy-giuliani-presidential-medal-of-freedom-white-house/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Rudy_Giuliani_%2849276392081%29.jpg/1280px-Rudy_Giuliani_%2849276392081%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": null
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Trump to present Rudy Giuliani with Medal of Freedom",
+    "people": [
+     "Rudy Giuliani"
+    ],
+    "image_query": "White House",
+    "image_queries": [
+     "White House Oval Office",
+     "Presidential Medal of Freedom",
+     "New York City skyline",
+     "US Capitol building"
+    ],
+    "image_style": "person",
+    "location": "Washington, DC",
+    "nearby_city": "Washington, DC",
+    "event_query": "Oval Office",
+    "topic_photo": "medal",
+    "label": "US POLITICS",
+    "action_subject": "Presidential Medal of Freedom",
+    "news_time": "2026-11-24T14:23:43+00:00"
+   },
+   "created_at": "2026-11-24T14:31:52.854110+00:00",
+   "news_time": "2026-11-24T14:23:43+00:00",
+   "news_latest": "2026-11-24T14:24:06+00:00",
+   "importance": 6,
+   "caption": "Trump to present Rudy Giuliani with Medal of Freedom\n\nPresident Trump's former personal attorney is set to receive the Presidential Medal of Freedom in the Oval Office. Rudy Giuliani, who also served as mayor of New York City, stated he will be honored at the ceremony.\n\n💬 Should former personal attorneys receive the Presidential Medal of Freedom?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #RudyGiuliani #WhiteHouse #7SeasNews",
+   "photo_line": "📷 photo not checked",
+   "status": "posted",
+   "tg_message_id": 958,
+   "tg_file_id": "AgACAgUAAxkDAAIDvmsFn9pZAuCxV6By2rhZ1N9ikjFmAAIdFWsbSgcxVL8G-6NK0f_lAQADAgADdwADPQQ",
+   "queued_at": "2026-11-24T14:31:55.231907+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-24T14:31:55.231931+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122111050713548584",
+   "posted_at": "2026-11-24T14:33:27.237006+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 24 · 9:33 AM New York · 8:03 PM Sri Lanka\n\n<b>Trump to present Rudy Giuliani with Medal of Freedom</b>\n<i>CBS News, The Independent</i>\n🟢 <b>Latest:</b> 7:54 PM Sri Lanka (9 min ago) · first reported 7:53 PM\n📷 photo not checked\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122111050713548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 663,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122111050713548584_1463110918509910"
+  },
+  "64a11bad88": {
+   "id": "64a11bad88",
+   "headline": "French police officer faces murder trial after appeal ruling",
+   "summary": "A French police officer will stand trial for murder following an appeal. The officer was previously charged with voluntary assault leading to death after the shooting of 17-year-old Nahel Merzouk.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "The shooting of 17-year-old Nahel Merzouk sparked nationwide unrest",
+    "The officer's charge was originally lowered"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#France",
+    "#WorldNews",
+    "#FranceNews"
+   ],
+   "sources": [
+    "New York Times",
+    "The Independent"
+   ],
+   "link": "https://www.nytimes.com/2026/11/24/world/europe/france-nahel-merzouk.html",
+   "links": [
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/24/world/europe/france-nahel-merzouk.html"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/europe/france-police-officer-shot-teenager-b3090567.html"
+    ]
+   ],
+   "bg": {
+    "type": "map",
+    "photos": [],
+    "location": "France",
+    "lat": 47.0,
+    "lon": 2.0,
+    "country": "France",
+    "state": "",
+    "pin": false,
+    "fit": true
+   },
+   "img_post": {
+    "headline": "French police officer faces murder trial after appeal ruling",
+    "people": [],
+    "image_query": "Paris courthouse building",
+    "image_queries": [
+     "Paris street scene",
+     "French police vehicle",
+     "courthouse exterior",
+     "police station France"
+    ],
+    "image_style": "incident",
+    "location": "France",
+    "nearby_city": "Paris, France",
+    "event_query": "Paris police protest",
+    "topic_photo": "judge gavel",
+    "label": "WORLD",
+    "action_subject": "police officers at work",
+    "news_time": "2026-11-24T12:01:20+00:00"
+   },
+   "created_at": "2026-11-24T14:33:25.342885+00:00",
+   "news_time": "2026-11-24T12:01:20+00:00",
+   "news_latest": "2026-11-24T14:13:17+00:00",
+   "importance": 7,
+   "caption": "French police officer faces murder trial after appeal ruling\n\nA French police officer will stand trial for murder following an appeal. The officer was previously charged with voluntary assault leading to death after the shooting of 17-year-old Nahel Merzouk.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#France #WorldNews #FranceNews #7SeasNews",
+   "photo_line": "📷 news map (no fitting photo)",
+   "status": "posted",
+   "tg_message_id": 959,
+   "tg_file_id": "AgACAgUAAxkDAAIDv2sFoDZxAob5_yGwSbUmooOFfcYxAAIeFWsbSgcxVAuzZEyUJ-mKAQADAgADdwADPQQ",
+   "queued_at": "2026-11-24T14:33:26.899118+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-24T14:33:26.899143+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122111050959548584",
+   "posted_at": "2026-11-24T14:33:27.237006+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 24 · 9:33 AM New York · 8:03 PM Sri Lanka\n\n<b>French police officer faces murder trial after appeal ruling</b>\n<i>New York Times, The Independent</i>\n🟢 <b>Latest:</b> 7:43 PM Sri Lanka (20 min ago) · first reported 5:31 PM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122111050959548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 664,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122111050959548584_1698041168337203"
   }
  },
  "seen_links": [
-  "https://thehill.com/opinion/6204968-voters-reject-trump-republican-party/",
-  "https://www.nytimes.com/video/us/politics/100000011266496/democrats-plan-corruption-investigations-after-election-victory.html",
-  "https://www.bbc.co.uk/news/articles/cwj0llvqqm72o?at_medium=RSS&at_campaign=rss",
-  "https://www.cbsnews.com/news/mississippi-senate-race-results-2026-midterms/",
   "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
   "https://www.france24.com/en/europe/20261109-iran-revolutionary-guards-behind-cyberattacks-on-supermarket-fridges-says-french-fm-barrot",
   "https://thehill.com/homenews/administration/6208161-trump-strait-hormuz-naval-blockade/",
@@ -9092,7 +9260,11 @@
   "https://www.cbsnews.com/news/prince-william-kate-country-home-broken-into-british-media/",
   "https://www.today.com/video/home-of-prince-william-and-kate-middleton-reportedly-broken-into-274084421858",
   "https://www.independent.co.uk/news/world/africa/nigeria-fulani-killings-land-dispute-b3090680.html",
-  "https://abcnews.com/International/wireStory/dozens-killed-latest-land-dispute-attacks-nigerias-niger-138408925"
+  "https://abcnews.com/International/wireStory/dozens-killed-latest-land-dispute-attacks-nigerias-niger-138408925",
+  "https://www.independent.co.uk/news/world/americas/us-politics/rudy-guiliani-medal-of-freedom-trump-b3090629.html",
+  "https://www.cbsnews.com/news/trump-rudy-giuliani-presidential-medal-of-freedom-white-house/",
+  "https://www.nytimes.com/2026/11/24/world/europe/france-nahel-merzouk.html",
+  "https://www.independent.co.uk/news/world/europe/france-police-officer-shot-teenager-b3090567.html"
  ],
  "recent_topics": [
   [
@@ -10786,19 +10958,58 @@
     "win"
    ],
    "fe5f4fe4ed"
+  ],
+  [
+   "2026-11-24T14:31:55.231790+00:00",
+   [
+    "award",
+    "despit",
+    "disbarment",
+    "election",
+    "freedom",
+    "giuliani",
+    "lie",
+    "medal",
+    "present",
+    "presidential",
+    "rudy",
+    "trump"
+   ],
+   "f77b05fad3"
+  ],
+  [
+   "2026-11-24T14:33:26.898982+00:00",
+   [
+    "appeal",
+    "boy",
+    "charg",
+    "dead",
+    "death",
+    "follow",
+    "french",
+    "murder",
+    "nahel",
+    "officer",
+    "polic",
+    "reinstat",
+    "shoot",
+    "shot",
+    "stand",
+    "teen",
+    "teenag",
+    "teenager",
+    "trial"
+   ],
+   "64a11bad88"
   ]
  ],
- "last_draft_at": "2026-11-24T14:16:10.091716+00:00",
+ "last_draft_at": "2026-11-24T14:30:48.294274+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T13:45:54.193635+00:00",
  "run_log": [
-  "11-24 12:01:04 run start",
-  "11-24 12:01:13 listening 11 min",
-  "11-24 12:12:33 listening done",
-  "11-24 12:12:33 run end after 689 s",
   "11-24 12:16:02 run start",
   "11-24 12:16:44 listening 11 min",
   "11-24 12:27:37 listening done",
@@ -10834,12 +11045,15 @@
   "11-24 14:16:06 run start",
   "11-24 14:16:53 listening 11 min",
   "11-24 14:27:46 listening done",
-  "11-24 14:27:46 run end after 699 s"
+  "11-24 14:27:46 run end after 699 s",
+  "11-24 14:30:47 run start",
+  "11-24 14:33:57 listening 8 min",
+  "11-24 14:42:20 listening done",
+  "11-24 14:42:20 run end after 692 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/John_Cornyn_%2812999214925%29.jpg/1280px-John_Cornyn_%2812999214925%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/US_Navy_030820-N-7110D-017_The_nuclear_powered_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29.jpg/1920px-US_Navy_030820-N-7110D-017_The_nuclear_powered_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Seoul_Skyline_Night_2018.jpg/1920px-Seoul_Skyline_Night_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -10878,7 +11092,8 @@
    "https://upload.wikimedia.org/wikipedia/commons/8/8f/Warsaw_skyline_%288510344469%29.jpg",
    "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg2NDE0NTAtaW1hZ2Uta3d2eGtmbXEuanBn.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Pete_Hegseth_%2852941843030%29.jpg/1280px-Pete_Hegseth_%2852941843030%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Byron_Donalds_%2854235434489%29.jpg/1280px-Byron_Donalds_%2854235434489%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Byron_Donalds_%2854235434489%29.jpg/1280px-Byron_Donalds_%2854235434489%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Rudy_Giuliani_%2849276392081%29.jpg/1280px-Rudy_Giuliani_%2849276392081%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -11048,28 +11263,6 @@
      }
     ],
     "v": 2
-   },
-   "cole tomas allen": {
-    "t": "2026-11-13T17:11:16.094231+00:00",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/WHCD_Screenshot.png/1280px-WHCD_Screenshot.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "CCTV / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Driver%27s_License_Photo_of_Cole_Tomas_Allen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "California Department of Motor Vehicles / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Official_Arrest_Photo_of_Cole_Tomas_Allen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Washington D.C. Secret Service agents / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     }
-    ]
    },
    "david walliams": {
     "t": "2026-11-13T18:00:55.228046+00:00",
@@ -14158,6 +14351,66 @@
      }
     ],
     "v": 2
+   },
+   "rudy giuliani": {
+    "t": "2026-11-24T14:31:40.700852+00:00",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Rudy_Giuliani_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "DHSgov / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Rudy_Giuliani_2000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "John Mathew Smith & www.celebrity-photos.com from Laurel Mar / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Rudy_Giuliani_%2829299015971%29.jpg/1280px-Rudy_Giuliani_%2829299015971%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Rudy_Giuliani_%2849276593652%29.jpg/1280px-Rudy_Giuliani_%2849276593652%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Rudy_Giuliani_%2849276586862%29.jpg/1280px-Rudy_Giuliani_%2849276586862%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Rudy_Giuliani_%2849276392081%29.jpg/1280px-Rudy_Giuliani_%2849276392081%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Rudy_Giuliani_%2849279860108%29.jpg/1280px-Rudy_Giuliani_%2849279860108%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Rudy_Giuliani_being_interviewed_in_London_%2833654219498%29.jpg/1280px-Rudy_Giuliani_being_interviewed_in_London_%2833654219498%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Ken Kurson / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     }
+    ],
+    "v": 2
    }
   },
   "recent_ideas": [
@@ -16249,6 +16502,11 @@
     "s": 0,
     "w": "California State Capitol building",
     "p": "wrong state/place: shows California Capitol instead of Florida"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Presidential_Medal_of_Freedom_%28201205290005HQ%29_DVIDS722825.jpg/1920px-Presidential_Medal_of_Freedom_%28201205290005HQ%29_DVIDS722825.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|df708354": {
+    "s": 0,
+    "w": "Barack Obama speaking at podium",
+    "p": "Photo shows Barack Obama, but the story is about Trump presenting Rudy Giuliani "
    }
   }
  },
@@ -16260,10 +16518,10 @@
   "2026-11-21": 17,
   "2026-11-22": 11,
   "2026-11-23": 20,
-  "2026-11-24": 8
+  "2026-11-24": 10
  },
- "last_auto_at": "2026-11-24T13:16:40.332302+00:00",
- "last_post_at": "2026-11-24T13:16:44.015533+00:00",
+ "last_auto_at": "2026-11-24T14:33:27.237006+00:00",
+ "last_post_at": "2026-11-24T14:33:47.386029+00:00",
  "reels_count": {
   "2026-11-17": 3,
   "2026-11-18": 3,
