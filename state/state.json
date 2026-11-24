@@ -1,104 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "42a9728713": {
-   "id": "42a9728713",
-   "headline": "European leaders meet in Berlin for talks on ending Ukraine war",
-   "summary": "European allies of Ukraine stated they share a united negotiating position at a summit in Berlin. Zelensky told reporters that stopping trade with Russia would end the war.",
-   "label": "DIPLOMACY",
-   "hook": "Can a halt to trade with Russia end the war?",
-   "key_points": [
-    "Kushner says Russia is comfortable with NATO-like guarantees",
-    "Leaders met after a Trump summit with Putin and Xi",
-    "Putin vowed retaliation for Kerch Bridge strikes"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#UkraineWar",
-    "#BerlinSummit",
-    "#WorldNews"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "BBC",
-    "Kyiv Independent"
-   ],
-   "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-   "links": [
-    [
-     "BBC",
-     "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
-    ],
-    [
-     "Kyiv Independent",
-     "https://kyivindependent.com/zelensky-tells-world-superpowers-how-they-can-end-russias-war-against-ukraine-2/"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Berlin_Skyline_Fernsehturm_02.jpg",
-      "credit": "H.Helmlechner / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 10,
-      "shows": "Berlin skyline"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "European leaders meet in Berlin for talks on ending Ukraine war",
-    "people": [],
-    "image_query": "Berlin summit venue",
-    "image_queries": [
-     "Berlin skyline",
-     "European flag",
-     "government building Berlin",
-     "conference room"
-    ],
-    "image_style": "scene",
-    "location": "Berlin, Germany",
-    "nearby_city": "Berlin, Germany",
-    "event_query": "Berlin Ukraine summit",
-    "topic_photo": "conference room",
-    "label": "DIPLOMACY",
-    "action_subject": "",
-    "news_time": "2026-11-19T19:40:23+00:00"
-   },
-   "created_at": "2026-11-20T01:01:47.041161+00:00",
-   "news_time": "2026-11-19T19:40:23+00:00",
-   "news_latest": "2026-11-20T00:50:24+00:00",
-   "importance": 8,
-   "caption": "European leaders meet in Berlin for talks on ending Ukraine war\n\nEuropean allies of Ukraine stated they share a united negotiating position at a summit in Berlin. Zelensky told reporters that stopping trade with Russia would end the war.\n\n💬 Can a halt to trade with Russia end the war?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#UkraineWar #BerlinSummit #WorldNews #7SeasNews",
-   "photo_line": "📷 10/10 Berlin skyline",
-   "status": "posted",
-   "tg_message_id": 845,
-   "tg_file_id": "AgACAgUAAxkDAAIDTWr_m_yPtfv26iMQDaXUsvIlC1yGAALZGGsb3mn4Vwud0fNvGLasAQADAgADdwADPQQ",
-   "queued_at": "2026-11-20T01:01:49.267703+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-20T01:01:49.267729+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122106919905548584",
-   "posted_at": "2026-11-20T01:01:54.985594+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 19 · 8:02 PM New York · 6:32 AM Sri Lanka\n\n<b>European leaders meet in Berlin for talks on ending Ukraine war</b>\n<i>Al Jazeera, BBC, Kyiv Independent</i>\n🟢 <b>Latest:</b> 6:20 AM Sri Lanka (11 min ago) · first reported 1:10 AM\n📷 10/10 Berlin skyline\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122106919905548584\">Open on Facebook</a>\n\n⚠️ <i>Looks like an earlier post: “European leaders meet in Berlin as Ukraine faces financing gap”. Tap 🗑 Delete if it's the same news.</i>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 553,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122106919905548584_1407814931428576",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-23T00:16:07.158917+00:00"
-  },
   "378b25a5bd": {
    "id": "378b25a5bd",
    "headline": "Senate passes bill to speed up energy and infrastructure projects",
@@ -7505,11 +7407,96 @@
     "shares": 0
    },
    "stats_at": "2026-11-24T00:26:55.239082+00:00"
+  },
+  "d2244b9c6e": {
+   "id": "d2244b9c6e",
+   "headline": "Analysis estimates over 700,000 Russian soldiers killed in Ukraine war",
+   "summary": "An analysis estimates that more than 700,000 Russian soldiers have died in the war on Ukraine. Hacked government data underscores the human cost of the conflict, which has lasted nearly five years.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Russia invaded Ukraine nearly five years ago.",
+    "Hacked government data indicates the soldier deaths.",
+    "The analysis highlights the human cost of Vladimir V. Putin's war."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Russia",
+    "#Ukraine",
+    "#WorldNews"
+   ],
+   "sources": [
+    "New York Times",
+    "UPI"
+   ],
+   "link": "https://www.upi.com/Top_News/World-News/2026/11/23/more-than-700000-soldiers-estimated-killed-in-ukraine-war/5711795475749/",
+   "links": [
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/World-News/2026/11/23/more-than-700000-soldiers-estimated-killed-in-ukraine-war/5711795475749/"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Aerial_view_on_Kruhla_Square%2C_Poltava%2C_Ukraine_3.jpg/1920px-Aerial_view_on_Kruhla_Square%2C_Poltava%2C_Ukraine_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Максим Бондаревский / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 5,
+      "shows": "aerial view of round square"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Analysis estimates over 700,000 Russian soldiers killed in Ukraine war",
+    "people": [],
+    "image_query": "Kyiv city",
+    "image_queries": [
+     "Kyiv streets",
+     "destroyed building",
+     "military vehicle",
+     "war memorial"
+    ],
+    "image_style": "incident",
+    "location": "Ukraine",
+    "nearby_city": "Kyiv, Ukraine",
+    "event_query": "Ukraine war destruction",
+    "topic_photo": "military helmet",
+    "label": "CONFLICT",
+    "action_subject": "Ukrainian soldiers",
+    "news_time": "2026-11-23T19:19:23+00:00"
+   },
+   "created_at": "2026-11-24T00:54:17.743663+00:00",
+   "news_time": "2026-11-23T19:19:23+00:00",
+   "news_latest": "2026-11-23T23:22:38+00:00",
+   "importance": 9,
+   "caption": "Analysis estimates over 700,000 Russian soldiers killed in Ukraine war\n\nAn analysis estimates that more than 700,000 Russian soldiers have died in the war on Ukraine. Hacked government data underscores the human cost of the conflict, which has lasted nearly five years.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Russia #Ukraine #WorldNews #7SeasNews",
+   "photo_line": "📷 5/10 aerial view of round square",
+   "status": "posted",
+   "tg_message_id": 944,
+   "tg_file_id": "AgACAgUAAxkDAAIDsGsE4DtpvkLTvIEU7EljhStyEmeAAALZEmsbSgcpVFJoLPXJpv9KAQADAgADdwADPQQ",
+   "queued_at": "2026-11-24T00:54:20.024341+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-24T00:54:20.024365+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122110658373548584",
+   "posted_at": "2026-11-24T00:54:20.328266+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 23 · 7:54 PM New York · 6:24 AM Sri Lanka\n\n<b>Analysis estimates over 700,000 Russian soldiers killed in Ukraine war</b>\n<i>New York Times, UPI</i>\n🟡 <b>Latest:</b> 4:52 AM Sri Lanka (1h 31m ago) · first reported 12:49 AM\n📷 5/10 aerial view of round square\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122110658373548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 651,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122110658373548584_1464276838435051"
   }
  },
  "seen_links": [
-  "https://www.independent.co.uk/news/world/americas/trump-deportation-flight-iranian-nationals-b3081508.html",
-  "https://abcnews.com/Politics/wireStory/deportation-flight-iranians-us-scuttled-minute-attorney-137961204",
   "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations?traffic_source=rss",
   "https://www.euronews.com/2026/11/09/donald-trump-plans-to-meet-vladimir-putin-and-xi-jinping-in-china-to-discuss-ending-iran-w",
   "https://www.nytimes.com/2026/11/09/us/politics/congress-republicans-agenda-lame-duck-session.html",
@@ -9507,7 +9494,9 @@
   "https://www.nbcnews.com/video/president-trump-slams-calif-gov-newsom-for-commuting-death-sentences-for-more-than-500-inmates-274049093874",
   "https://www.washingtonexaminer.com/news/white-house/4813113/trump-5k-granddaughter-slain-police-officer-newsom/",
   "https://www.cbsnews.com/news/trump-tells-army-to-halt-detonation-in-iowa-this-week/",
-  "https://thehill.com/policy/energy-environment/6238814-trump-sand-iowa-lead-detonation-army-epa-munitions/"
+  "https://thehill.com/policy/energy-environment/6238814-trump-sand-iowa-lead-detonation-army-epa-munitions/",
+  "https://www.upi.com/Top_News/World-News/2026/11/23/more-than-700000-soldiers-estimated-killed-in-ukraine-war/5711795475749/",
+  "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html"
  ],
  "recent_topics": [
   [
@@ -11221,19 +11210,31 @@
     "trump"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-24T00:54:20.024218+00:00",
+   [
+    "700000",
+    "analysi",
+    "died",
+    "estimat",
+    "indicat",
+    "kill",
+    "russian",
+    "soldier",
+    "ukrain",
+    "war"
+   ],
+   "d2244b9c6e"
   ]
  ],
- "last_draft_at": "2026-11-24T00:38:57.000646+00:00",
+ "last_draft_at": "2026-11-24T00:50:55.132914+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T00:26:55.239082+00:00",
  "run_log": [
-  "11-23 22:15:55 run start",
-  "11-23 22:17:06 listening 10 min",
-  "11-23 22:27:36 listening done",
-  "11-23 22:27:36 run end after 701 s",
   "11-23 22:30:49 run start",
   "11-23 22:33:37 listening 9 min",
   "11-23 22:42:26 listening done",
@@ -11269,12 +11270,15 @@
   "11-24 00:38:56 run start",
   "11-24 00:39:06 listening 11 min",
   "11-24 00:50:25 listening done",
-  "11-24 00:50:25 run end after 689 s"
+  "11-24 00:50:25 run end after 689 s",
+  "11-24 00:50:54 run start",
+  "11-24 00:54:34 listening 8 min",
+  "11-24 01:02:31 listening done",
+  "11-24 01:02:31 run end after 697 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Police_of_Mexico%2C_D._F._at_night.jpg/1920px-Police_of_Mexico%2C_D._F._at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Fausto_Isidro_Meza-Flores_Top_Ten_Wanted_Poster_%28cropped%29.svg/1280px-Fausto_Isidro_Meza-Flores_Top_Ten_Wanted_Poster_%28cropped%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/f/f9/Headshot_Lewis_Pugh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Data_center_roof.jpg/1920px-Data_center_roof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -11313,7 +11317,8 @@
    "https://upload.wikimedia.org/wikipedia/commons/8/8a/Sacramento%2C-California---State-Capitol_%28cropped%29.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_01.jpg/1920px-A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Blue_hour_front_view_of_California_State_Capitol_dllu_2018.jpg/1920px-Blue_hour_front_view_of_California_State_Capitol_dllu_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Blue_hour_front_view_of_California_State_Capitol_dllu_2018.jpg/1920px-Blue_hour_front_view_of_California_State_Capitol_dllu_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Aerial_view_on_Kruhla_Square%2C_Poltava%2C_Ukraine_3.jpg/1920px-Aerial_view_on_Kruhla_Square%2C_Poltava%2C_Ukraine_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -16561,6 +16566,26 @@
     "s": 10,
     "w": "California State Capitol building",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Police_car_Vinnytsia_2016_G1.jpg/1920px-Police_car_Vinnytsia_2016_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|38ca7b2d": {
+    "s": 0,
+    "w": "Ukrainian police car",
+    "p": "Photo shows a police car, not soldiers or war casualties as required by the head"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/%D0%92%D1%96%D0%BA%D1%82%D0%BE%D1%80%D1%96%D0%B2%D0%BA%D0%B0_%28%D0%9C%D0%B0%D0%BD%D1%8C%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%80-%D0%BD%29._%D0%9F%D0%B0%D0%BC%27%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%B2%D0%BE%D1%97%D0%BD%D0%B0%D0%BC-%D0%BE%D0%B4%D0%BD%D0%BE%D1%81%D0%B5%D0%BB%D1%8C%D1%86%D1%8F%D0%BC.jpg/1920px-%D0%92%D1%96%D0%BA%D1%82%D0%BE%D1%80%D1%96%D0%B2%D0%BA%D0%B0_%28%D0%9C%D0%B0%D0%BD%D1%8C%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%80-%D0%BD%29._%D0%9F%D0%B0%D0%BC%27%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%B2%D0%BE%D1%97%D0%BD%D0%B0%D0%BC-%D0%BE%D0%B4%D0%BD%D0%BE%D1%81%D0%B5%D0%BB%D1%8C%D1%86%D1%8F%D0%BC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|38ca7b2d": {
+    "s": 3,
+    "w": "war memorial monument",
+    "p": "photo shows a war memorial monument instead of Ukrainian soldiers"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Znamenka_Ukraine_downtown_area.jpg/1920px-Znamenka_Ukraine_downtown_area.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|38ca7b2d": {
+    "s": 3,
+    "w": "street view in Ukraine",
+    "p": "shows a calm street instead of soldiers"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Aerial_view_on_Kruhla_Square%2C_Poltava%2C_Ukraine_3.jpg/1920px-Aerial_view_on_Kruhla_Square%2C_Poltava%2C_Ukraine_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|38ca7b2d": {
+    "s": 5,
+    "w": "aerial view of round square",
+    "p": "City square instead of soldiers or conflict action"
    }
   }
  },
@@ -16572,10 +16597,10 @@
   "2026-11-20": 30,
   "2026-11-21": 17,
   "2026-11-22": 11,
-  "2026-11-23": 17
+  "2026-11-23": 18
  },
- "last_auto_at": "2026-11-24T00:17:39.733215+00:00",
- "last_post_at": "2026-11-24T00:17:45.141906+00:00",
+ "last_auto_at": "2026-11-24T00:54:20.328266+00:00",
+ "last_post_at": "2026-11-24T00:54:24.590247+00:00",
  "reels_count": {
   "2026-11-17": 3,
   "2026-11-18": 3,
