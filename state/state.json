@@ -1,212 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "584d3e7253": {
-   "id": "584d3e7253",
-   "headline": "White House national cyber director Sean Cairncross steps down",
-   "summary": "White House National Cyber Director Sean Cairncross is leaving his position. The White House named Kirsten Davies as the new national cyber director.",
-   "label": "US POLITICS",
-   "hook": "",
-   "key_points": [
-    "Cairncross chose not to serve two more years.",
-    "The transition coincides with recent technical outages.",
-    "Davies currently serves as the Pentagon's chief information officer."
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#USPolitics",
-    "#Cybersecurity",
-    "#WhiteHouse"
-   ],
-   "sources": [
-    "Axios",
-    "CBS News",
-    "NBC News",
-    "Politico",
-    "The Hill",
-    "The Independent"
-   ],
-   "link": "https://www.nbcnews.com/nightly-news/video/national-cyber-director-to-leave-trump-administration-273861701758",
-   "links": [
-    [
-     "NBC News",
-     "https://www.nbcnews.com/nightly-news/video/national-cyber-director-to-leave-trump-administration-273861701758"
-    ],
-    [
-     "CBS News",
-     "https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/"
-    ],
-    [
-     "The Hill",
-     "https://thehill.com/homenews/administration/6231938-sean-cairncross-resigns-cyber-director/"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/cyber-director-sean-cairncross-quits-leaving-job-b3088339.html"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://live.staticflickr.com/3237/2770838680_cd002e04a5_b.jpg",
-      "credit": "~MVI~ (warped) / Flickr (CC BY 2.0)",
-      "short": "FLICKR",
-      "score": 7,
-      "shows": "The White House exterior"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "White House national cyber director Sean Cairncross steps down",
-    "people": [
-     "Sean Cairncross"
-    ],
-    "image_query": "White House building",
-    "image_queries": [
-     "Pentagon building",
-     "Capitol Hill",
-     "server room",
-     "computer screens"
-    ],
-    "image_style": "scene",
-    "location": "Washington, DC, US",
-    "nearby_city": "Washington, DC",
-    "event_query": "",
-    "topic_photo": "computer servers",
-    "label": "US POLITICS",
-    "action_subject": "cybersecurity office",
-    "news_time": "2026-11-19T21:37:28+00:00"
-   },
-   "created_at": "2026-11-20T00:32:58.458545+00:00",
-   "news_time": "2026-11-19T21:37:28+00:00",
-   "news_latest": "2026-11-20T00:18:11+00:00",
-   "importance": 7,
-   "caption": "🚨 BREAKING: White House national cyber director Sean Cairncross steps down\n\nWhite House National Cyber Director Sean Cairncross is leaving his position. The White House named Kirsten Davies as the new national cyber director.\n\nWhat we know so far:\n• Cairncross chose not to serve two more years.\n• The transition coincides with recent technical outages.\n• Davies currently serves as the Pentagon's chief information officer.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Cybersecurity #WhiteHouse #7SeasNews",
-   "photo_line": "📷 7/10 The White House exterior",
-   "status": "posted",
-   "tg_message_id": 843,
-   "tg_file_id": "AgACAgUAAxkDAAIDS2r_lTy1c0mHMAmVlF35WTZbp3ynAAL3FGsb3mn4V0afK2Vzewa0AQADAgADdwADPQQ",
-   "queued_at": "2026-11-20T00:33:00.509050+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-20T00:33:00.509080+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122106905397548584",
-   "posted_at": "2026-11-20T00:33:09.686309+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 19 · 7:33 PM New York · 6:03 AM Sri Lanka\n\n<b>White House national cyber director Sean Cairncross steps down</b>\n<i>Axios, CBS News, NBC News, Politico, The Hill, The Independent</i>\n🟢 <b>Latest:</b> 5:48 AM Sri Lanka (15 min ago) · first reported 3:07 AM\n📷 7/10 The White House exterior\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122106905397548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 551,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122106905397548584_29099442099736162",
-   "fb_story_id": "968058469431114",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-23T00:16:07.158917+00:00"
-  },
-  "bbcf186f1b": {
-   "id": "bbcf186f1b",
-   "headline": "Senator Elissa Slotkin endorses Chris Van Hollen for Senate leadership",
-   "summary": "Senator Elissa Slotkin announced she will support Senator Chris Van Hollen in the upcoming Senate leadership elections. Van Hollen is challenging Senate Democratic Leader Chuck Schumer for the top position.",
-   "label": "US POLITICS",
-   "hook": "Should the Democratic Party change its Senate leadership?",
-   "key_points": [
-    "Slotkin is the fifth Senate Democrat to back Van Hollen.",
-    "Van Hollen outlines progressive economic positions in his challenge."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#Senate",
-    "#Congress"
-   ],
-   "sources": [
-    "The Hill",
-    "Washington Examiner"
-   ],
-   "link": "https://www.washingtonexaminer.com/news/senate/4809591/slotkin-snubs-schumer-chris-van-hollen-leader-endorsement/",
-   "links": [
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/news/senate/4809591/slotkin-snubs-schumer-chris-van-hollen-leader-endorsement/"
-    ],
-    [
-     "The Hill",
-     "https://thehill.com/homenews/senate/6232111-senate-leadership-race-updates/"
-    ],
-    [
-     "The Hill",
-     "https://thehill.com/newsletters/business-economy/6231869-van-hollen-backs-populism-in-challenge-to-schumer/"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Elissa_Slotkin_20190202_153059.jpg/1280px-Elissa_Slotkin_20190202_153059.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "SecretName101 / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 10,
-      "shows": "Elissa Slotkin speaking at podium"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Senator Elissa Slotkin endorses Chris Van Hollen for Senate leadership",
-    "people": [
-     "Elissa Slotkin"
-    ],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "Senate chamber",
-     "Capitol Hill",
-     "voting booth",
-     "US Senate"
-    ],
-    "image_style": "person",
-    "location": "Washington, DC, US",
-    "nearby_city": "Washington, DC",
-    "event_query": "",
-    "topic_photo": "ballot box",
-    "label": "US POLITICS",
-    "action_subject": "",
-    "news_time": "2026-11-19T22:59:11+00:00"
-   },
-   "created_at": "2026-11-20T00:33:07.113066+00:00",
-   "news_time": "2026-11-19T22:59:11+00:00",
-   "news_latest": "2026-11-20T00:19:13+00:00",
-   "importance": 6,
-   "caption": "Senator Elissa Slotkin endorses Chris Van Hollen for Senate leadership\n\nSenator Elissa Slotkin announced she will support Senator Chris Van Hollen in the upcoming Senate leadership elections. Van Hollen is challenging Senate Democratic Leader Chuck Schumer for the top position.\n\n💬 Should the Democratic Party change its Senate leadership?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Senate #Congress #7SeasNews",
-   "photo_line": "📷 10/10 Elissa Slotkin speaking at podium",
-   "status": "posted",
-   "tg_message_id": 844,
-   "tg_file_id": "AgACAgUAAxkDAAIDTGr_lUUqUI9zDv2IHRQaAAF0oRlJVgAC-BRrG95p-Fc7wLGQCRh3PwEAAwIAA3cAAz0E",
-   "queued_at": "2026-11-20T00:33:09.347964+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_label": "🤖 Auto-posting",
-   "post_at": "2026-11-20T00:33:15.922295+00:00",
-   "fb_post_id": "1413030521900096_122106905661548584",
-   "posted_at": "2026-11-20T00:33:09.686309+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 19 · 7:33 PM New York · 6:03 AM Sri Lanka\n\n<b>Senator Elissa Slotkin endorses Chris Van Hollen for Senate leadership</b>\n<i>The Hill, Washington Examiner</i>\n🟢 <b>Latest:</b> 5:49 AM Sri Lanka (14 min ago) · first reported 4:29 AM\n📷 10/10 Elissa Slotkin speaking at podium\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122106905661548584\">Open on Facebook</a>\n\n⚠️ <i>Looks like an earlier post: “Senate Democrats face leadership contest between Van Hollen and Schumer”. Tap 🗑 Delete if it's the same news.</i>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 552,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122106905661548584_1717975836574944",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-23T00:16:07.158917+00:00"
-  },
   "42a9728713": {
    "id": "42a9728713",
    "headline": "European leaders meet in Berlin for talks on ending Ukraine war",
@@ -3104,7 +2898,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "86cd91c4cf": {
    "id": "86cd91c4cf",
@@ -3197,7 +2991,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "5cf68669c9": {
    "id": "5cf68669c9",
@@ -3296,7 +3090,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "e2d20caa20": {
    "id": "e2d20caa20",
@@ -3390,7 +3184,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "ee53f844b2": {
    "id": "ee53f844b2",
@@ -3487,7 +3281,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "45201d2fd3": {
    "id": "45201d2fd3",
@@ -3579,7 +3373,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "6433155462": {
    "id": "6433155462",
@@ -3672,7 +3466,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "4992a5d3af": {
    "id": "4992a5d3af",
@@ -3779,7 +3573,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "f8e93c8fec": {
    "id": "f8e93c8fec",
@@ -3878,7 +3672,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "97bfc49f3b": {
    "id": "97bfc49f3b",
@@ -3975,7 +3769,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "623ed4ea30": {
    "id": "623ed4ea30",
@@ -4073,7 +3867,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "29f6300d91": {
    "id": "29f6300d91",
@@ -4170,7 +3964,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "bcfaabe6e2": {
    "id": "bcfaabe6e2",
@@ -4260,7 +4054,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "15d681d80b": {
    "id": "15d681d80b",
@@ -4354,7 +4148,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "cf79c26c0f": {
    "id": "cf79c26c0f",
@@ -4447,7 +4241,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "ec112f9759": {
    "id": "ec112f9759",
@@ -4553,7 +4347,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "7c9e9f9934": {
    "id": "7c9e9f9934",
@@ -4647,7 +4441,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "c902a31706": {
    "id": "c902a31706",
@@ -4737,7 +4531,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "6890e4ab5a": {
    "id": "6890e4ab5a",
@@ -4835,7 +4629,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "48bdf8571a": {
    "id": "48bdf8571a",
@@ -4937,7 +4731,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "824c4487ef": {
    "id": "824c4487ef",
@@ -5035,7 +4829,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "3d97e0803e": {
    "id": "3d97e0803e",
@@ -5135,7 +4929,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "51037c3d1d": {
    "id": "51037c3d1d",
@@ -5235,7 +5029,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "6a13b82949": {
    "id": "6a13b82949",
@@ -5329,7 +5123,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "d4bb76db92": {
    "id": "d4bb76db92",
@@ -5428,7 +5222,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "e3bce82e41": {
    "id": "e3bce82e41",
@@ -5525,7 +5319,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "53abef20f1": {
    "id": "53abef20f1",
@@ -5619,7 +5413,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "37422c4f45": {
    "id": "37422c4f45",
@@ -5713,7 +5507,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "253835a25b": {
    "id": "253835a25b",
@@ -5808,7 +5602,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "5ce05721ba": {
    "id": "5ce05721ba",
@@ -5904,7 +5698,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "38e98f092c": {
    "id": "38e98f092c",
@@ -5997,7 +5791,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "72bdf50f2a": {
    "id": "72bdf50f2a",
@@ -6091,7 +5885,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "8a0995fa2d": {
    "id": "8a0995fa2d",
@@ -6185,7 +5979,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "efcc1598ed": {
    "id": "efcc1598ed",
@@ -6279,7 +6073,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "7d2b5f32fe": {
    "id": "7d2b5f32fe",
@@ -6376,7 +6170,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "0424cd058e": {
    "id": "0424cd058e",
@@ -6469,7 +6263,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "e2be825e0d": {
    "id": "e2be825e0d",
@@ -6564,7 +6358,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "65d536118f": {
    "id": "65d536118f",
@@ -6658,7 +6452,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "cca23e0ad5": {
    "id": "cca23e0ad5",
@@ -6750,7 +6544,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "4778aeba39": {
    "id": "4778aeba39",
@@ -6853,7 +6647,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "3eb168f77d": {
    "id": "3eb168f77d",
@@ -6947,7 +6741,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "f9d9325fa7": {
    "id": "f9d9325fa7",
@@ -7041,7 +6835,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "796612a75a": {
    "id": "796612a75a",
@@ -7134,7 +6928,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "3ed909c38e": {
    "id": "3ed909c38e",
@@ -7228,7 +7022,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "5543313b9a": {
    "id": "5543313b9a",
@@ -7321,7 +7115,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "db655a33fb": {
    "id": "db655a33fb",
@@ -7416,7 +7210,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "f1f7ae156b": {
    "id": "f1f7ae156b",
@@ -7514,7 +7308,7 @@
     "comments": 1,
     "shares": 0
    },
-   "stats_at": "2026-11-23T23:30:42.887478+00:00"
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "c6d37efc2f": {
    "id": "c6d37efc2f",
@@ -7609,7 +7403,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_comment_id": "122110632651548584_1704586637921134"
+   "fb_comment_id": "122110632651548584_1704586637921134",
+   "stats": {
+    "likes": 0,
+    "comments": 1,
+    "shares": 0
+   },
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   },
   "d1d91f7b30": {
    "id": "d1d91f7b30",
@@ -7698,7 +7498,13 @@
    "log_photo": true,
    "extra_msgs": [],
    "cleared": true,
-   "fb_comment_id": "122110645041548584_904191442720652"
+   "fb_comment_id": "122110645041548584_904191442720652",
+   "stats": {
+    "likes": 0,
+    "comments": 1,
+    "shares": 0
+   },
+   "stats_at": "2026-11-24T00:26:55.239082+00:00"
   }
  },
  "seen_links": [
@@ -9705,30 +9511,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-21T00:31:08.466385+00:00",
-   [
-    "abbott",
-    "abus",
-    "admitt",
-    "death",
-    "democratic",
-    "despit",
-    "futur",
-    "gina",
-    "gov-elect",
-    "governor",
-    "hinojosa",
-    "penalty",
-    "program",
-    "rescind",
-    "restriction",
-    "texa",
-    "visa",
-    "vow"
-   ],
-   "3db22531f4"
-  ],
-  [
    "2026-11-21T00:44:06.634034+00:00",
    [
     "chairman",
@@ -11484,17 +11266,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-24T00:14:28.378125+00:00",
+ "last_draft_at": "2026-11-24T00:27:20.299079+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
- "last_stats_at": "2026-11-23T23:30:42.887478+00:00",
+ "last_stats_at": "2026-11-24T00:26:55.239082+00:00",
  "run_log": [
-  "11-23 21:45:54 run start",
-  "11-23 21:47:31 listening 10 min",
-  "11-23 21:57:35 listening done",
-  "11-23 21:57:35 run end after 701 s",
   "11-23 22:01:03 run start",
   "11-23 22:01:40 listening 11 min",
   "11-23 22:12:33 listening done",
@@ -11530,7 +11308,11 @@
   "11-24 00:14:27 run start",
   "11-24 00:17:54 listening 8 min",
   "11-24 00:26:18 listening done",
-  "11-24 00:26:18 run end after 710 s"
+  "11-24 00:26:18 run end after 710 s",
+  "11-24 00:26:54 run start",
+  "11-24 00:27:28 listening 11 min",
+  "11-24 00:38:23 listening done",
+  "11-24 00:38:23 run end after 689 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
