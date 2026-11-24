@@ -7086,16 +7086,6 @@
   }
  },
  "seen_links": [
-  "https://thehill.com/policy/defense/6208537-hegseth-pentagon-press-conference/",
-  "https://www.washingtonpost.com/politics/2026/11/09/only-two-cabinet-secretaries-have-ever-been-impeached-will-hegseth-be-third/",
-  "https://www.upi.com/Top_News/US/2026/11/09/brett-shumate-resignation-justice-department/5511794246909/",
-  "https://www.independent.co.uk/news/world/americas/us-politics/brett-shumate-doj-todd-blanche-b3081976.html",
-  "https://www.foxnews.com/politics/gaza-born-democratic-socialist-launches-primary-bid-against-sen-john-fetterman",
-  "https://www.theguardian.com/us-news/2026/nov/09/john-fetterman-pennsylvania-ahmed-moor",
-  "https://www.upi.com/Top_News/World-News/2026/11/09/latam-mexcio-alleged-cartel-commander-arrest/1961794251588/",
-  "https://www.cbsnews.com/news/mexico-captures-cjng-cartel-leader-wanted-by-us-dea-intelligence/",
-  "https://www.washingtonpost.com/politics/2026/11/04/what-norc-voter-poll-shows-about-who-voted-whom-midterms/",
-  "https://www.foxnews.com/politics/senate-gop-rebels-move-delay-leadership-vote-demand-reckoning-after-midterm-disaster",
   "https://www.washingtonpost.com/politics/2026/11/09/2028-winners-losers-midterms/",
   "https://www.cbsnews.com/news/2026-midterm-election-house-senate-projections-toss-up/",
   "https://thehill.com/the-120/6208712-murkowski-seeks-senate-appropriations-ranking/",
@@ -9085,25 +9075,19 @@
   "https://kyivindependent.com/norway-to-provide-ukraine-with-at-least-7-billion-of-aid-in-2027-expand-air-defense-cooperation/",
   "https://www.dw.com/en/ukraine-s-bid-for-nato-membership-and-more-air-defense-remain-controversial/a-80029852?maca=en-rss-en-world-4025-rdf",
   "https://abcnews.com/International/wireStory/russia-backs-tax-rises-2027-budget-sees-military-138414749",
-  "https://www.dw.com/en/is-north-korea-holding-back-on-sending-russia-more-troops/a-80033025?maca=en-rss-en-world-4025-rdf"
+  "https://www.dw.com/en/is-north-korea-holding-back-on-sending-russia-more-troops/a-80033025?maca=en-rss-en-world-4025-rdf",
+  "https://abcnews.com/International/wireStory/car-bomb-central-colombian-city-injures-23-violence-138412492",
+  "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+  "https://www.france24.com/en/video/20261124-senegal-reinstated-as-2025-africa-cup-of-nations-winners",
+  "https://www.euronews.com/2026/11/24/cas-awards-senegal-afcon-title-after-successful-appeal",
+  "https://www.aljazeera.com/sports/2026/11/24/senegal-reinstated-as-2025-africa-cup-of-nations-winners-over-morocco?traffic_source=rss",
+  "https://www.france24.com/en/sport/20261124-sports-court-verdict-senegal-appeal-africa-cup-of-nations-title-tuesday",
+  "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+  "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza?traffic_source=rss",
+  "https://www.france24.com/en/middle-east/20261124-israeli-strikes-on-gaza-kill-senior-hamas-security-official-and-six-other-people-medics-say",
+  "https://www.euronews.com/2026/11/24/israeli-strike-kills-hamas-internal-security-chief-in-gaza-source-tells-afp"
  ],
  "recent_topics": [
-  [
-   "2026-11-21T17:01:39.397023+00:00",
-   [
-    "badly",
-    "cost",
-    "did",
-    "election",
-    "endorsement",
-    "kept",
-    "midterm",
-    "promis",
-    "republican",
-    "trump"
-   ],
-   "15d681d80b"
-  ],
   [
    "2026-11-21T17:45:47.266247+00:00",
    [
@@ -10770,17 +10754,13 @@
    "64a11bad88"
   ]
  ],
- "last_draft_at": "2026-11-24T16:46:45.540584+00:00",
+ "last_draft_at": "2026-11-24T17:00:57.081372+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T16:46:24.847099+00:00",
  "run_log": [
-  "11-24 14:30:47 run start",
-  "11-24 14:33:57 listening 8 min",
-  "11-24 14:42:20 listening done",
-  "11-24 14:42:20 run end after 692 s",
   "11-24 14:45:39 run start",
   "11-24 14:46:32 listening 11 min",
   "11-24 14:57:26 listening done",
@@ -10816,7 +10796,11 @@
   "11-24 16:46:24 run start",
   "11-24 16:47:15 listening 11 min",
   "11-24 16:58:11 listening done",
-  "11-24 16:58:11 run end after 706 s"
+  "11-24 16:58:11 run end after 706 s",
+  "11-24 17:00:55 run start",
+  "11-24 17:02:25 listening 10 min",
+  "11-24 17:12:29 listening done",
+  "11-24 17:12:29 run end after 693 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -17870,7 +17854,9 @@
     "tt1": true,
     "log1": true,
     "tt2": true,
-    "log2": true
+    "log2": true,
+    "tt3": true,
+    "log3": true
    }
   }
  },
