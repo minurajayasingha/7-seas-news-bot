@@ -6898,13 +6898,106 @@
     "shares": 0
    },
    "stats_at": "2026-11-25T17:50:57.029543+00:00"
+  },
+  "9f3c068b5d": {
+   "id": "9f3c068b5d",
+   "headline": "Israeli high court signals Netanyahu trial challenges as envoy urges Gaza plan",
+   "summary": "According to sources, presidential envoy Jared Kushner urged Israeli Prime Minister Benjamin Netanyahu to implement a Gaza peace plan. Meanwhile, Israel's highest court suggested prosecutors make deals as it signaled that bribery charges against Netanyahu might fail.",
+   "label": "WORLD",
+   "hook": "Will prosecutors make deals in the Netanyahu trial?",
+   "key_points": [
+    "Kushner urged Netanyahu to make good on commitments to Donald Trump.",
+    "The Israeli high court summoned Attorney General Gali Baharav-Miara.",
+    "The Netanyahu trial began in 2020."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#WorldNews",
+    "#Israel",
+    "#Diplomacy"
+   ],
+   "sources": [
+    "Axios",
+    "Washington Examiner"
+   ],
+   "link": "https://www.axios.com/2026/11/25/kushner-presses-netanyahu-gaza-peace-plan",
+   "links": [
+    [
+     "Axios",
+     "https://www.axios.com/2026/11/25/kushner-presses-netanyahu-gaza-peace-plan"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/world/4815056/israel-high-court-charges-netanyahu-fail/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg/1920px-Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Jernej Furman from Slovenia / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 8,
+      "shows": "judge gavel on rainbow flag"
+     }
+    ],
+    "file_photo": true,
+    "inset": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Benjamin_Netanyahu_October_22%2C_2024_%283x4_cropped%29.jpg/1280px-Benjamin_Netanyahu_October_22%2C_2024_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credit": "U.S. Embassy Jerusalem / Wikimedia Commons (CC BY 2.0)",
+     "short": "WIKIMEDIA COMMONS",
+     "score": 10,
+     "shows": "Benjamin Netanyahu portrait"
+    }
+   },
+   "img_post": {
+    "headline": "Israeli high court signals Netanyahu trial challenges as envoy urges Gaza plan",
+    "people": [
+     "Benjamin Netanyahu"
+    ],
+    "image_query": "Israel Supreme Court building",
+    "image_queries": [
+     "Supreme Court Jerusalem",
+     "Israeli parliament building",
+     "courtroom",
+     "Jerusalem cityscape"
+    ],
+    "image_style": "scene",
+    "location": "Jerusalem, Israel",
+    "nearby_city": "Tel Aviv, Israel",
+    "event_query": "Jerusalem court proceedings",
+    "topic_photo": "judge gavel",
+    "label": "WORLD",
+    "action_subject": "judge gavel",
+    "news_time": "2026-11-25T16:48:18+00:00"
+   },
+   "created_at": "2026-11-25T18:21:01.357297+00:00",
+   "news_time": "2026-11-25T16:48:18+00:00",
+   "news_latest": "2026-11-25T18:16:26+00:00",
+   "importance": 6,
+   "caption": "Israeli high court signals Netanyahu trial challenges as envoy urges Gaza plan\n\nAccording to sources, presidential envoy Jared Kushner urged Israeli Prime Minister Benjamin Netanyahu to implement a Gaza peace plan. Meanwhile, Israel's highest court suggested prosecutors make deals as it signaled that bribery charges against Netanyahu might fail.\n\n💬 Will prosecutors make deals in the Netanyahu trial?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WorldNews #Israel #Diplomacy #7SeasNews",
+   "photo_line": "📷 8/10 judge gavel on rainbow flag · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 991,
+   "tg_file_id": "AgACAgUAAxkDAAID32sHJxA_VBGqPaV8rsxsVJbC7RfuAAJEEmsbr_w5VFdic_YD8X5VAQADAgADdwADPQQ",
+   "queued_at": "2026-11-25T18:21:04.309543+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-25T18:21:04.309561+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122111765229548584",
+   "posted_at": "2026-11-25T18:21:17.801633+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 25 · 1:21 PM New York · 11:51 PM Sri Lanka\n\n<b>Israeli high court signals Netanyahu trial challenges as envoy urges Gaza plan</b>\n<i>Axios, Washington Examiner</i>\n🟢 <b>Latest:</b> 11:46 PM Sri Lanka (4 min ago) · first reported 10:18 PM\n📷 8/10 judge gavel on rainbow flag · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122111765229548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 699,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122111765229548584_1822904255586300"
   }
  },
  "seen_links": [
-  "https://www.euronews.com/2026/11/10/paraguays-new-president-vows-to-recover-pension-funds-at-risk-in-ueno-bank-crisis",
-  "https://www.upi.com/Top_News/World-News/2026/11/10/latam-parguay-teacher-strike-bank-collapse/6181794327444/",
-  "https://thehill.com/policy/defense/6211868-tillis-hegseth-impeachment-dod-pentagon/",
-  "https://www.nytimes.com/2026/11/10/us/politics/hegseth-speech-impeachment-takeaways.html",
   "https://www.washingtonexaminer.com/news/house/4799026/thomas-massie-flexibility-impeachment-articles-pete-hegseth/",
   "https://www.theguardian.com/world/2026/nov/10/israeli-opposition-hurries-to-seize-control-as-new-knesset-is-sworn-in",
   "https://www.aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session?traffic_source=rss",
@@ -8900,7 +8993,11 @@
   "https://www.upi.com/Top_News/US/2026/11/25/house-democracts-harvard-strike-boycott/6441795625288/",
   "https://www.theguardian.com/education/2026/nov/25/house-democrats-harvard-boycott-strike",
   "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
-  "https://www.washingtonexaminer.com/news/house/4815080/house-democrats-hakeem-jeffries-spending-cuts-tax-hikes-new-programs/"
+  "https://www.washingtonexaminer.com/news/house/4815080/house-democrats-hakeem-jeffries-spending-cuts-tax-hikes-new-programs/",
+  "https://www.axios.com/2026/11/25/kushner-presses-netanyahu-gaza-peace-plan",
+  "https://www.washingtonexaminer.com/news/world/4815056/israel-high-court-charges-netanyahu-fail/",
+  "https://www.washingtonpost.com/politics/2026/11/25/trump-says-he-will-meet-el-sayed-over-trumpcare/",
+  "https://www.aljazeera.com/news/2026/11/25/trump-to-meet-abdul-el-sayed-will-he-agree-to-a-renamed-medicare-for-all?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -10817,19 +10914,38 @@
     "tax"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-25T18:21:04.309429+00:00",
+   [
+    "charg",
+    "commitment",
+    "court",
+    "deal",
+    "fail",
+    "gaza",
+    "good",
+    "high",
+    "israeli",
+    "kushner",
+    "mak",
+    "netanyahu",
+    "prosecutor",
+    "scoop",
+    "signal",
+    "suggest",
+    "urg"
+   ],
+   "9f3c068b5d"
   ]
  ],
- "last_draft_at": "2026-11-25T18:02:55.293788+00:00",
+ "last_draft_at": "2026-11-25T18:20:38.694129+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T17:50:57.029543+00:00",
  "run_log": [
-  "11-25 15:30:56 run start",
-  "11-25 15:31:55 listening 11 min",
-  "11-25 15:42:25 listening done",
-  "11-25 15:42:25 run end after 688 s",
   "11-25 15:46:14 run start",
   "11-25 15:46:53 listening 11 min",
   "11-25 15:57:48 listening done",
@@ -10865,13 +10981,15 @@
   "11-25 18:02:54 run start",
   "11-25 18:03:13 listening 11 min",
   "11-25 18:14:32 listening done",
-  "11-25 18:14:32 run end after 698 s"
+  "11-25 18:14:32 run end after 698 s",
+  "11-25 18:20:38 run start",
+  "11-25 18:21:33 listening 11 min",
+  "11-25 18:32:27 listening done",
+  "11-25 18:32:27 run end after 709 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_01.jpg/1920px-A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Blue_hour_front_view_of_California_State_Capitol_dllu_2018.jpg/1920px-Blue_hour_front_view_of_California_State_Capitol_dllu_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Aerial_view_on_Kruhla_Square%2C_Poltava%2C_Ukraine_3.jpg/1920px-Aerial_view_on_Kruhla_Square%2C_Poltava%2C_Ukraine_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/0/0a/Courtroom_at_the_United_States_Courthouse_in_Augusta%2C_GA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://upload.wikimedia.org/wikipedia/commons/9/97/Ilhan_Omar_-_MN_House_DFL_Press_Conference_-_2017_%2833901550940%29_%28cropped%29%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -10909,7 +11027,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/COP31_-_Gavin_Newsom_13.jpg/1280px-COP31_-_Gavin_Newsom_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/e/e1/White_House_Washington.JPG",
    "https://upload.wikimedia.org/wikipedia/commons/f/fd/Kilmar_%C3%81brego_Garc%C3%ADa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://upload.wikimedia.org/wikipedia/commons/8/82/Melania_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/8/82/Melania_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg/1920px-Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Benjamin_Netanyahu_October_22%2C_2024_%283x4_cropped%29.jpg/1280px-Benjamin_Netanyahu_October_22%2C_2024_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -11343,83 +11463,6 @@
      }
     ],
     "v": 2
-   },
-   "john brennan": {
-    "t": "2026-11-13T22:53:00.486865+00:00",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/John_Brennan_%2847244501741%29.jpg/1280px-John_Brennan_%2847244501741%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/John_Brennan_CIA_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "U.S Government employee / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/John_Brennan_2018.jpg/1280px-John_Brennan_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Jay Godwin / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/John_Brennan_%2847192394142%29.jpg/1280px-John_Brennan_%2847192394142%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/John_Brennan_%2832302352597%29.jpg/1280px-John_Brennan_%2832302352597%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/John_Brennan_%2832302349957%29.jpg/1280px-John_Brennan_%2832302349957%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/John_Brennan_%2847192394672%29.jpg/1280px-John_Brennan_%2847192394672%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/John_Brennan_%2846520822314%29.jpg/1280px-John_Brennan_%2846520822314%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/John_Brennan_%2847192395922%29.jpg/1280px-John_Brennan_%2847192395922%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Prisoner_Description_Books_John_Brennan_28_December_1903.jpg/1280px-Prisoner_Description_Books_John_Brennan_28_December_1903.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Archives New Zealand / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/John_Brennan_%2833368674098%29.jpg/1280px-John_Brennan_%2833368674098%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/John_Brennan_%2846520826624%29.jpg/1280px-John_Brennan_%2846520826624%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     }
-    ]
    },
    "vladimir putin": {
     "t": "2026-11-14T01:31:49.702716+00:00",
@@ -14101,10 +14144,83 @@
      }
     ],
     "v": 2
+   },
+   "benjamin netanyahu": {
+    "t": "2026-11-25T18:20:59.721826+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Benjamin_Netanyahu%2C_February_2023_%28cropped%29%28b%29.jpg/1280px-Benjamin_Netanyahu%2C_February_2023_%28cropped%29%28b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Avi Ohayon / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Israeli_Prime_Minister_Benjamin_Netanyahu_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "U.S. Department of State from United States / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Benjamin_Netanyahu_%2825968752048%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "U.S. Embassy Tel Aviv / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Benjamin_Netanyahu_%2851111961984%29_%28cropped%29.jpg/1280px-Benjamin_Netanyahu_%2851111961984%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Air Force Staff Sgt. Jack Sanders / U.S. Secretary of D / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Benjamin_Netanyahu_October_22%2C_2024_%283x4_cropped%29.jpg/1280px-Benjamin_Netanyahu_October_22%2C_2024_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Embassy Jerusalem / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Pr%C3%A6sident_Joe_Biden_m%C3%B8des_med_Premierminister_Benjamin_Netanyahu.jpg/1280px-Pr%C3%A6sident_Joe_Biden_m%C3%B8des_med_Premierminister_Benjamin_Netanyahu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "The White House / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Visita_del_Primer_Ministro_de_Israel%2C_Benjam%C3%ADn_Netanyahu_2017_16.jpg/1280px-Visita_del_Primer_Ministro_de_Israel%2C_Benjam%C3%ADn_Netanyahu_2017_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Presidencia de la República Mexicana / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Visita_del_Primer_Ministro_de_Israel%2C_Benjam%C3%ADn_Netanyahu_2017_49.jpg/1280px-Visita_del_Primer_Ministro_de_Israel%2C_Benjam%C3%ADn_Netanyahu_2017_49.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Presidencia de la República Mexicana / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Visita_del_Primer_Ministro_de_Israel%2C_Benjam%C3%ADn_Netanyahu_2017_21.jpg/1280px-Visita_del_Primer_Ministro_de_Israel%2C_Benjam%C3%ADn_Netanyahu_2017_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Presidencia de la República Mexicana / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Visita_del_Primer_Ministro_de_Israel%2C_Benjam%C3%ADn_Netanyahu_2017_55.jpg/1280px-Visita_del_Primer_Ministro_de_Israel%2C_Benjam%C3%ADn_Netanyahu_2017_55.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Presidencia de la República Mexicana / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     }
+    ],
+    "v": 2
    }
   },
   "recent_ideas": [
-   "medical syringe",
    "courtroom",
    "military aircraft",
    "missile",
@@ -14115,7 +14231,8 @@
    "cargo ship",
    "police officers at work",
    "soldiers",
-   "white house, washington"
+   "white house, washington",
+   "judge gavel"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -16392,6 +16509,16 @@
     "s": 10,
     "w": "Melania Trump portrait",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg/1920px-Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|f90c4b6a": {
+    "s": 8,
+    "w": "judge gavel on rainbow flag",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Benjamin_Netanyahu_October_22%2C_2024_%283x4_cropped%29.jpg/1280px-Benjamin_Netanyahu_October_22%2C_2024_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Benjamin Netanyahu": {
+    "s": 10,
+    "w": "Benjamin Netanyahu portrait",
+    "p": ""
    }
   }
  },
@@ -16403,10 +16530,10 @@
   "2026-11-22": 11,
   "2026-11-23": 20,
   "2026-11-24": 23,
-  "2026-11-25": 11
+  "2026-11-25": 12
  },
- "last_auto_at": "2026-11-25T17:17:00.825323+00:00",
- "last_post_at": "2026-11-25T17:17:06.876388+00:00",
+ "last_auto_at": "2026-11-25T18:21:17.801633+00:00",
+ "last_post_at": "2026-11-25T18:21:23.193117+00:00",
  "reels_count": {
   "2026-11-19": 3,
   "2026-11-20": 3,
