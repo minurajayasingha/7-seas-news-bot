@@ -7002,9 +7002,6 @@
   }
  },
  "seen_links": [
-  "https://www.washingtonpost.com/world/2026/11/10/us-aircraft-abruptly-depart-second-uk-base/",
-  "https://abcnews.com/International/wireStory/overnight-strikes-yemen-kill-1-person-wound-9-138005785",
-  "https://www.independent.co.uk/news/world/americas/iran-yemen-united-states-houthi-saudi-arabia-b3082372.html",
   "https://www.aljazeera.com/news/2026/11/10/israeli-soldiers-are-also-settlers-in-west-bank-al-jazeera-investigation?traffic_source=rss",
   "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
   "https://www.aljazeera.com/video/doha-debates/2026/11/10/did-humanity-learn-the-right-lessons-from-wwii?traffic_source=rss",
@@ -9001,7 +8998,10 @@
   "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
   "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden",
   "https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power?traffic_source=rss",
-  "https://www.washingtonpost.com/world/2026/11/25/eisenkot-pushing-oust-netanyahu-sharpens-warnings-over-new-strikes-iran/"
+  "https://www.washingtonpost.com/world/2026/11/25/eisenkot-pushing-oust-netanyahu-sharpens-warnings-over-new-strikes-iran/",
+  "https://www.independent.co.uk/travel/news-and-advice/eurostar-cancellations-london-paris-trains-strikes-b3091314.html",
+  "https://www.france24.com/en/europe/20261125-surprise-eurostar-strike-cancels-london-paris-and-brussels-trains",
+  "https://news.sky.com/story/eurostar-trains-cancelled-and-delayed-over-unannounced-strike-action-13616317"
  ],
  "recent_topics": [
   [
@@ -10964,17 +10964,13 @@
    "ec1374253b"
   ]
  ],
- "last_draft_at": "2026-11-25T10:46:32.904461+00:00",
+ "last_draft_at": "2026-11-25T11:00:55.217057+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T10:46:07.985237+00:00",
  "run_log": [
-  "11-25 08:31:02 run start",
-  "11-25 08:31:12 listening 11 min",
-  "11-25 08:42:31 listening done",
-  "11-25 08:42:31 run end after 688 s",
   "11-25 08:45:33 run start",
   "11-25 08:49:03 listening 8 min",
   "11-25 08:57:00 listening done",
@@ -11010,7 +11006,11 @@
   "11-25 10:46:07 run start",
   "11-25 10:47:26 listening 10 min",
   "11-25 10:57:55 listening done",
-  "11-25 10:57:55 run end after 707 s"
+  "11-25 10:57:55 run end after 707 s",
+  "11-25 11:00:54 run start",
+  "11-25 11:01:17 listening 11 min",
+  "11-25 11:12:35 listening done",
+  "11-25 11:12:35 run end after 701 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
