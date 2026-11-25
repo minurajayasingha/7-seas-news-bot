@@ -1,104 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "6890e4ab5a": {
-   "id": "6890e4ab5a",
-   "headline": "Iranian attack on Bahrain causes fire at industrial facility",
-   "summary": "Bahrain reports an Iranian attack that caused a fire at an industrial facility, with no injuries reported. The IRGC states it targeted US military positions at two bases in al-Riffa and Awali.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "Bahrain reports no injuries from the incident",
-    "IRGC states it targeted US military positions",
-    "Two bases in al-Riffa and Awali were targeted"
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#Bahrain",
-    "#Iran",
-    "#WorldNews"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "Euronews"
-   ],
-   "link": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade",
-   "links": [
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Firefighters_fighting_fire_action.jpg/1920px-Firefighters_fighting_fire_action.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Smith Elise, U.S. Fish and Wildlife Service / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 8,
-      "shows": "firefighters putting out fire"
-     }
-    ],
-    "file_photo": true,
-    "_loaded": 1
-   },
-   "img_post": {
-    "headline": "Iranian attack on Bahrain causes fire at industrial facility",
-    "people": [],
-    "image_query": "Manama skyline",
-    "image_queries": [
-     "Persian Gulf waters",
-     "industrial facility building",
-     "military base entrance",
-     "Manama port"
-    ],
-    "image_style": "incident",
-    "location": "Bahrain",
-    "nearby_city": "Manama, Bahrain",
-    "event_query": "Bahrain industrial facility fire",
-    "topic_photo": "industrial facility",
-    "label": "CONFLICT",
-    "action_subject": "smoke from fire",
-    "news_time": "2026-11-21T21:31:03+00:00"
-   },
-   "created_at": "2026-11-21T21:50:17.202366+00:00",
-   "news_time": "2026-11-21T21:31:03+00:00",
-   "news_latest": "2026-11-21T21:32:51+00:00",
-   "importance": 9,
-   "caption": "🚨 BREAKING: Iranian attack on Bahrain causes fire at industrial facility\n\nBahrain reports an Iranian attack that caused a fire at an industrial facility, with no injuries reported. The IRGC states it targeted US military positions at two bases in al-Riffa and Awali.\n\nWhat we know so far:\n• Bahrain reports no injuries from the incident\n• IRGC states it targeted US military positions\n• Two bases in al-Riffa and Awali were targeted\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Bahrain #Iran #WorldNews #7SeasNews",
-   "photo_line": "📷 8/10 firefighters putting out fire · FILE PHOTO",
-   "status": "posted",
-   "tg_message_id": 903,
-   "tg_file_id": "AgACAgUAAxkDAAIDh2sCEhuDaRUOrDDqlcRlCQABYpx0igACXxBrG6EPEVScPDoskrfAJwEAAwIAA3cAAz0E",
-   "queued_at": "2026-11-21T21:50:19.830972+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-21T21:50:19.830993+00:00",
-   "post_label": "🤖 Auto-posting + Reel",
-   "fb_post_id": "1413030521900096_122108851071548584",
-   "posted_at": "2026-11-21T21:50:20.188219+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 21 · 4:50 PM New York · 3:20 AM Sri Lanka\n\n<b>Iranian attack on Bahrain causes fire at industrial facility</b>\n<i>Al Jazeera, Euronews</i>\n🟢 <b>Latest:</b> 3:02 AM Sri Lanka (17 min ago) · first reported 3:01 AM\n📷 8/10 firefighters putting out fire · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122108851071548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 611,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122108851071548584_1184621217373619",
-   "fb_story_id": "1164246429306093",
-   "fb_reel_id": "1162717063396025",
-   "reel_status": "live",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
-  },
   "48bdf8571a": {
    "id": "48bdf8571a",
    "headline": "Donald Trump says John Cornyn is blocking Dallas judicial nomination",
@@ -6903,16 +6805,105 @@
     "shares": 0
    },
    "stats_at": "2026-11-25T21:00:49.088887+00:00"
+  },
+  "3904eafdda": {
+   "id": "3904eafdda",
+   "headline": "Maine Senator elect Troy Jackson endorses Chris Van Hollen for Senate leader",
+   "summary": "Senator-elect Troy Jackson of Maine announced his support for Chris Van Hollen for Senate majority leader. Democrats are scheduled to pick a majority leader on a secret ballot next week.",
+   "label": "US POLITICS",
+   "hook": "Will other Democratic senators support Chris Van Hollen for the leadership role?",
+   "key_points": [
+    "Democrats pick a majority leader next week.",
+    "The vote will be held on a secret ballot."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Senate",
+    "#Congress"
+   ],
+   "sources": [
+    "The Guardian",
+    "Washington Post"
+   ],
+   "link": "https://www.washingtonpost.com/politics/2026/11/25/maine-sen-elect-troy-jackson-endorses-chris-van-hollen-senate-leader/",
+   "links": [
+    [
+     "Washington Post",
+     "https://www.washingtonpost.com/politics/2026/11/25/maine-sen-elect-troy-jackson-endorses-chris-van-hollen-senate-leader/"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Senate_President_Troy_Jackson.png/1280px-Senate_President_Troy_Jackson.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "ArenLeBrun / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "Troy Jackson portrait"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Chris_Van_Hollen_at_DNC_0616_%2827993609564%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0616_%2827993609564%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Edward Kimmel from Takoma Park, MD / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "Chris Van Hollen meeting person"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Maine Senator elect Troy Jackson endorses Chris Van Hollen for Senate leader",
+    "people": [
+     "Troy Jackson",
+     "Chris Van Hollen"
+    ],
+    "image_query": "US Capitol dome",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "voting booth",
+     "US Senate building"
+    ],
+    "image_style": "person",
+    "location": "Maine, US",
+    "nearby_city": "Augusta, Maine",
+    "event_query": "Senate leadership vote",
+    "topic_photo": "ballot box",
+    "label": "US POLITICS",
+    "action_subject": "",
+    "news_time": "2026-11-25T20:55:05+00:00"
+   },
+   "created_at": "2026-11-25T21:46:46.371763+00:00",
+   "news_time": "2026-11-25T20:55:05+00:00",
+   "news_latest": "2026-11-25T20:56:25+00:00",
+   "importance": 6,
+   "caption": "Maine Senator elect Troy Jackson endorses Chris Van Hollen for Senate leader\n\nSenator-elect Troy Jackson of Maine announced his support for Chris Van Hollen for Senate majority leader. Democrats are scheduled to pick a majority leader on a secret ballot next week.\n\n💬 Will other Democratic senators support Chris Van Hollen for the leadership role?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Senate #Congress #7SeasNews",
+   "photo_line": "📷 10/10 Troy Jackson portrait",
+   "status": "posted",
+   "tg_message_id": 995,
+   "tg_file_id": "AgACAgUAAxkDAAID42sHV0m4qhqp45K8br34d14G3X8sAAJkEmsbr_w5VCoa3tH0NUM5AQADAgADdwADPQQ",
+   "queued_at": "2026-11-25T21:46:50.275049+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-25T21:46:50.275074+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122111881179548584",
+   "posted_at": "2026-11-25T21:46:55.281561+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 25 · 4:47 PM New York · 3:17 AM Sri Lanka\n\n<b>Maine Senator elect Troy Jackson endorses Chris Van Hollen for Senate leader</b>\n<i>The Guardian, Washington Post</i>\n🟢 <b>Latest:</b> 2:26 AM Sri Lanka (50 min ago) · first reported 2:25 AM\n📷 10/10 Troy Jackson portrait\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122111881179548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 703,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122111881179548584_2818292231920797"
   }
  },
  "seen_links": [
-  "https://www.nbcnews.com/politics/congress/house-republican-report-epstein-justice-department-investigation-trump-rcna608548",
-  "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-  "https://www.theguardian.com/us-news/2026/nov/10/prosecutors-charge-iranian-operative-uk-air-force-attack",
-  "https://thehill.com/homenews/campaign/6163186-maria-elvira-salazar-florida-27th-district-reelection/",
-  "https://www.nbcnews.com/politics/2026-election/maria-elvira-salazar-gop-florida-house-election-win-trump-clash-rcna603377",
-  "https://www.independent.co.uk/news/world/americas/us-politics/alina-habba-mildon-fired-concord-partners-trump-pardon-b3082815.html",
-  "https://www.nytimes.com/2026/11/10/us/politics/alina-habba-fired-pardon.html",
   "https://news.sky.com/story/us-charges-three-men-allegedly-linked-to-raf-fairford-incident-13610779",
   "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss",
   "https://www.newsweek.com/terror-plot-targeting-us-troops-allegedly-directed-from-behind-bars-12697575",
@@ -8905,7 +8896,14 @@
   "https://kyivindependent.com/poland-plans-no-fly-zone-near-ukraine-border-asks-nato-to-intercept-russian-missiles-over-ukraine/",
   "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
   "https://www.upi.com/Top_News/World-News/2026/11/25/cairo-tanker-crash/8211795640117/",
-  "https://abcnews.com/International/wireStory/fire-major-highway-surrounding-cairo-kills-30-people-138450467"
+  "https://abcnews.com/International/wireStory/fire-major-highway-surrounding-cairo-kills-30-people-138450467",
+  "https://thehill.com/homenews/administration/6243798-navarro-warns-trump-investigations-civil-war/",
+  "https://www.newsweek.com/trump-ally-warns-of-potential-civil-war-due-to-democrats-strategy-12768498",
+  "https://www.washingtonpost.com/politics/2026/11/25/maine-sen-elect-troy-jackson-endorses-chris-van-hollen-senate-leader/",
+  "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+  "https://www.cbsnews.com/news/vance-says-jensen-huang-doesnt-need-pardon/",
+  "https://www.washingtonexaminer.com/news/white-house/4815433/vance-jensen-huang-nvidia-national-security/",
+  "https://thehill.com/homenews/administration/6243432-vance-huang-nvidia-investigation/"
  ],
  "recent_topics": [
   [
@@ -10965,19 +10963,104 @@
     "test"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-25T21:46:13.294399+00:00",
+   [
+    "ally",
+    "announc",
+    "children",
+    "civil",
+    "democrat",
+    "democratic",
+    "due",
+    "family",
+    "gop",
+    "help",
+    "melania",
+    "navarro",
+    "potential",
+    "president",
+    "prob",
+    "recip",
+    "reunion",
+    "reunit",
+    "strategy",
+    "trump",
+    "ukrain",
+    "war",
+    "warn"
+   ],
+   "skipped"
+  ],
+  [
+   "2026-11-25T21:46:50.274915+00:00",
+   [
+    "ahead",
+    "back",
+    "challeng",
+    "chri",
+    "democrat",
+    "democratic",
+    "elect",
+    "endors",
+    "highlight",
+    "hollen",
+    "israel",
+    "jackson",
+    "leader",
+    "liv",
+    "main",
+    "majority",
+    "next",
+    "pick",
+    "rift",
+    "rol",
+    "schumer",
+    "sen",
+    "senat",
+    "support",
+    "troy",
+    "van",
+    "vot"
+   ],
+   "3904eafdda"
+  ],
+  [
+   "2026-11-25T21:46:55.281541+00:00",
+   [
+    "allegation",
+    "anonymou",
+    "assur",
+    "bas",
+    "blanch",
+    "chines",
+    "doesn't",
+    "espionag",
+    "evidenc",
+    "him",
+    "huang",
+    "investigation",
+    "involv",
+    "isn't",
+    "jensen",
+    "need",
+    "nvidia",
+    "pardon",
+    "real",
+    "sourc",
+    "vanc"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-25T21:30:41.435666+00:00",
+ "last_draft_at": "2026-11-25T21:46:05.799717+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T21:00:49.088887+00:00",
  "run_log": [
-  "11-25 19:15:36 run start",
-  "11-25 19:15:46 listening 11 min",
-  "11-25 19:27:05 listening done",
-  "11-25 19:27:05 run end after 688 s",
   "11-25 19:30:44 run start",
   "11-25 19:31:03 listening 11 min",
   "11-25 19:42:21 listening done",
@@ -11013,13 +11096,15 @@
   "11-25 21:30:41 run start",
   "11-25 21:31:08 listening 11 min",
   "11-25 21:42:26 listening done",
-  "11-25 21:42:26 run end after 705 s"
+  "11-25 21:42:26 run end after 705 s",
+  "11-25 21:46:05 run start",
+  "11-25 21:47:11 listening 10 min",
+  "11-25 21:57:40 listening done",
+  "11-25 21:57:40 run end after 695 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/9/97/Ilhan_Omar_-_MN_House_DFL_Press_Conference_-_2017_%2833901550940%29_%28cropped%29%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/20181208_Blue_Impulse_Kawasaki_T-4_landing_Naha_Air_Show_2018-2.jpg/1920px-20181208_Blue_Impulse_Kawasaki_T-4_landing_Naha_Air_Show_2018-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Beijing_city_subway_passage.jpg/1920px-Beijing_city_subway_passage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/6/61/Parliament_House_Canberra_Dusk_Panorama.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/a/a6/US_Army_soldiers_during_maneuver_practice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -11057,7 +11142,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg/1920px-Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Benjamin_Netanyahu_October_22%2C_2024_%283x4_cropped%29.jpg/1280px-Benjamin_Netanyahu_October_22%2C_2024_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/New_York_Stock_Exchange_building%2C_20231002_171816.jpg/1920px-New_York_Stock_Exchange_building%2C_20231002_171816.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/New_York_Stock_Exchange_building%2C_20231002_171816.jpg/1920px-New_York_Stock_Exchange_building%2C_20231002_171816.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Senate_President_Troy_Jackson.png/1280px-Senate_President_Troy_Jackson.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Chris_Van_Hollen_at_DNC_0616_%2827993609564%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0616_%2827993609564%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -11491,98 +11578,6 @@
      }
     ],
     "v": 2
-   },
-   "vladimir putin": {
-    "t": "2026-11-14T01:31:49.702716+00:00",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Vladimir_Putin_%282026_02_23%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Kremlin.ru / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Vladimir_Putin_on_gala_match_%282014-05-10%29.jpg/1280px-Vladimir_Putin_on_gala_match_%282014-05-10%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Пресс-служба Президента России / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     }
-    ]
-   },
-   "josh shapiro": {
-    "t": "2026-11-14T10:16:20.239035+00:00",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Gov._Shapiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Maryland GovPics / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Josh_Shapiro_in_2019.jpg/1280px-Josh_Shapiro_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Governor Tom Wolf from Harrisburg, PA / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Josh_Shapiro_in_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Governor Tom Wolf from Harrisburg, PA / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Josh_Shapiro_December_2025_B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Maryland GovPics / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Josh_Shapiro_December_2025.jpg/1280px-Josh_Shapiro_December_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Maryland GovPics / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Josh_Shapiro_at_2025_Gobble_Wobble_5K.jpeg/1280px-Josh_Shapiro_at_2025_Gobble_Wobble_5K.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Dough4872 / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Josh_Shapiro_%2854961260851%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Maryland GovPics / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/President_Joe_Biden_watches_as_Pennsylvania_Governor_Josh_Shapiro_explains_details_of_the_Interstate_95_highway_collapse_after_an_aerial_tour_of_the_site_at_Philadelphia_International_Airport_in_Philadelphia.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "The White House / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Josh_Shapiro_2022_%28cropped%29.jpg/1280px-Josh_Shapiro_2022_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Governor Tom Wolf / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Josh_Shapiro_Pocono_2022.jpg/1280px-Josh_Shapiro_Pocono_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "TaurusEmerald / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Josh_Shapiro_2021_%28alt_crop%29.jpg/1280px-Josh_Shapiro_2021_%28alt_crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Governor Tom Wolf / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Josh_Shapiro_2021_%28cropped%29.jpg/1280px-Josh_Shapiro_2021_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Governor Tom Wolf / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     }
-    ]
    },
    "jonathan kreiss-tomkins": {
     "t": "2026-11-14T13:45:47.887417+00:00",
@@ -14246,6 +14241,140 @@
      }
     ],
     "v": 2
+   },
+   "troy jackson": {
+    "t": "2026-11-25T21:46:34.951629+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Troy_Jackson_in_the_Senate_Chamber_%28cropped%29.jpg/1280px-Troy_Jackson_in_the_Senate_Chamber_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "ArenLeBrun / Wikimedia Commons (CC0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Troy_Jackson_at_Hearts_of_Pine_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "MAINEiac4434 / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Senate_President_Troy_Jackson_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "ArenLeBrun / Wikimedia Commons (CC0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Senate_President_Troy_Jackson.png/1280px-Senate_President_Troy_Jackson.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "ArenLeBrun / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Troy_Jackson_at_Staten_Island_Black_Heritage_Day_Festival.jpg/1280px-Troy_Jackson_at_Staten_Island_Black_Heritage_Day_Festival.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Imaramoore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Troy_Jackson_Unveils_Universal_Childcare_Plan.jpg/1280px-Troy_Jackson_Unveils_Universal_Childcare_Plan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Nate Sawyer / Wikimedia Commons (CC0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     }
+    ],
+    "v": 2
+   },
+   "chris van hollen": {
+    "t": "2026-11-25T21:46:40.327151+00:00",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Chris_Van_Hollen_official_portrait_115th_Congress.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "U.S. Senate Photographic Studio / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Chris_Van_Hollen_at_DNC_0612_%2827994323123%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0612_%2827994323123%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Edward Kimmel from Takoma Park, MD / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Chris_Van_Hollen_at_DNC_0616_%2827993609564%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0616_%2827993609564%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Edward Kimmel from Takoma Park, MD / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/20120705_92_tp4_US_Representative_Chris_Van_Hollen_%287520078806%29.jpg/1280px-20120705_92_tp4_US_Representative_Chris_Van_Hollen_%287520078806%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Edward Kimmel from Takoma Park, MD / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/20120528_69_US_Rep_Chris_Van_Hollen_-_7291567946.jpg/1280px-20120528_69_US_Rep_Chris_Van_Hollen_-_7291567946.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "mdfriendofhillary / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Chris_Van_Hollen_%2801911191%29_%2832232981277%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "IAEA Imagebank / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/20120705_91_tp4_US_Representative_Chris_Van_Hollen_%287520078892%29.jpg/1280px-20120705_91_tp4_US_Representative_Chris_Van_Hollen_%287520078892%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Edward Kimmel from Takoma Park, MD / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Chris_Van_Hollen_at_DNC_0644_%2827993609344%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0644_%2827993609344%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Edward Kimmel from Takoma Park, MD / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Chris_Van_Hollen_at_DNC_0631_%2827994322863%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0631_%2827994322863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Edward Kimmel from Takoma Park, MD / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Chris_Van_Hollen_at_DNC_0662_%2828610923625%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0662_%2828610923625%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Edward Kimmel from Takoma Park, MD / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Chris_Van_Hollen_at_DNC_0608_%2827993609664%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0608_%2827993609664%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Edward Kimmel from Takoma Park, MD / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Chris_Van_Hollen_at_DNC_0770_%2828610920735%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0770_%2828610920735%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Edward Kimmel from Takoma Park, MD / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     }
+    ],
+    "v": 2
    }
   },
   "recent_ideas": [
@@ -16577,6 +16706,36 @@
     "s": 6,
     "w": "New York Stock Exchange street",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/US_Navy_041102-N-5134H-001_Master_Chief_Aviation_Electronics_Mate_Edward_Betz_departs_a_voters_polling_place_at_Oak_Harbor_School_District_Administration_Building_201.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|9e28687c": {
+    "s": 6,
+    "w": "man at polling place",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Voters_receive_ballots_at_a_polling_station_in_Washington_DC%2C_5_Nov._2024.jpg/1920px-Voters_receive_ballots_at_a_polling_station_in_Washington_DC%2C_5_Nov._2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|9e28687c": {
+    "s": 5,
+    "w": "people at polling station",
+    "p": "Generic polling station scene, not the specific politicians mentioned"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ballot_box_in_Sonoma%2C_California_-_November_2022_-_Sarah_Stierch_01.jpg/1920px-Ballot_box_in_Sonoma%2C_California_-_November_2022_-_Sarah_Stierch_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|9e28687c": {
+    "s": 0,
+    "w": "ballot drop box",
+    "p": "photo shows a ballot box instead of Senate leadership"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Senate_President_Troy_Jackson.png/1280px-Senate_President_Troy_Jackson.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Troy Jackson": {
+    "s": 10,
+    "w": "Troy Jackson portrait",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Chris_Van_Hollen_at_DNC_0612_%2827994323123%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0612_%2827994323123%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Chris Van Hollen": {
+    "s": 0,
+    "w": "Chris Van Hollen with woman",
+    "p": "Story says Troy Jackson endorses Chris Van Hollen, but the photo shows Chris Van"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Chris_Van_Hollen_at_DNC_0616_%2827993609564%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0616_%2827993609564%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Chris Van Hollen": {
+    "s": 10,
+    "w": "Chris Van Hollen meeting person",
+    "p": ""
    }
   }
  },
@@ -16588,10 +16747,10 @@
   "2026-11-22": 11,
   "2026-11-23": 20,
   "2026-11-24": 23,
-  "2026-11-25": 15
+  "2026-11-25": 16
  },
- "last_auto_at": "2026-11-25T20:32:05.286467+00:00",
- "last_post_at": "2026-11-25T20:32:10.948257+00:00",
+ "last_auto_at": "2026-11-25T21:46:55.281561+00:00",
+ "last_post_at": "2026-11-25T21:47:01.468204+00:00",
  "reels_count": {
   "2026-11-19": 3,
   "2026-11-20": 3,
