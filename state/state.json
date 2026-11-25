@@ -6906,9 +6906,6 @@
   }
  },
  "seen_links": [
-  "https://www.upi.com/Top_News/US/2026/11/10/nyc-central-park-rapes-arrest/3371794351323/",
-  "https://www.nbcnews.com/news/us-news/suspected-central-park-serial-rapist-arrested-florida-nypd-says-rcna608618",
-  "https://www.npr.org/2026/11/10/nx-s1-6035872/house-gop-report-critical-of-epstein-investigation",
   "https://www.nbcnews.com/politics/congress/house-republican-report-epstein-justice-department-investigation-trump-rcna608548",
   "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
   "https://www.theguardian.com/us-news/2026/nov/10/prosecutors-charge-iranian-operative-uk-air-force-attack",
@@ -8905,7 +8902,10 @@
   "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
   "https://www.france24.com/en/poland-says-will-create-no-fly-zone-at-ukraine-border-after-repeated-airspace-violations",
   "https://kyivindependent.com/ukraine-war-latest-poland-plans-no-fly-zone-near-ukraine-border-asks-nato-to-intercept-russian-missiles-over-ukraine/",
-  "https://kyivindependent.com/poland-plans-no-fly-zone-near-ukraine-border-asks-nato-to-intercept-russian-missiles-over-ukraine/"
+  "https://kyivindependent.com/poland-plans-no-fly-zone-near-ukraine-border-asks-nato-to-intercept-russian-missiles-over-ukraine/",
+  "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+  "https://www.upi.com/Top_News/World-News/2026/11/25/cairo-tanker-crash/8211795640117/",
+  "https://abcnews.com/International/wireStory/fire-major-highway-surrounding-cairo-kills-30-people-138450467"
  ],
  "recent_topics": [
   [
@@ -10967,17 +10967,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-25T21:16:08.401049+00:00",
+ "last_draft_at": "2026-11-25T21:30:41.435666+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T21:00:49.088887+00:00",
  "run_log": [
-  "11-25 19:02:47 run start",
-  "11-25 19:03:19 listening 11 min",
-  "11-25 19:14:12 listening done",
-  "11-25 19:14:12 run end after 685 s",
   "11-25 19:15:36 run start",
   "11-25 19:15:46 listening 11 min",
   "11-25 19:27:05 listening done",
@@ -11013,7 +11009,11 @@
   "11-25 21:16:07 run start",
   "11-25 21:16:09 listening 11 min",
   "11-25 21:27:54 listening done",
-  "11-25 21:27:54 run end after 706 s"
+  "11-25 21:27:54 run end after 706 s",
+  "11-25 21:30:41 run start",
+  "11-25 21:31:08 listening 11 min",
+  "11-25 21:42:26 listening done",
+  "11-25 21:42:26 run end after 705 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
