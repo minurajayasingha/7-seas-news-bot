@@ -6901,8 +6901,6 @@
   }
  },
  "seen_links": [
-  "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
-  "https://www.independent.co.uk/news/world/americas/us-politics/us-un-human-rights-review-b3082347.html",
   "https://www.cbsnews.com/news/us-first-nation-refuse-un-human-rights-council-review/",
   "https://abcnews.com/International/wireStory/12-people-killed-dozens-hurt-crashes-foggy-bulgarian-138004407",
   "https://news.sky.com/story/at-least-12-killed-in-bulgaria-motorway-pile-ups-involving-dozens-of-vehicles-13610553",
@@ -8900,7 +8898,9 @@
   "https://www.newsweek.com/dan-sullivan-concedes-alaska-senate-race-while-citing-election-probes-12765980",
   "https://www.nytimes.com/2026/11/24/us/politics/dan-sullivan-concedes-alaska-senate-race-mary-peltola.html",
   "https://www.newsweek.com/trump-praises-el-sayed-after-medicare-for-all-twist-hes-a-smart-guy-12765887",
-  "https://thehill.com/homenews/administration/6241682-trump-el-sayed-trumpcare-healthcare/"
+  "https://thehill.com/homenews/administration/6241682-trump-el-sayed-trumpcare-healthcare/",
+  "https://www.independent.co.uk/news/world/europe/russia-putin-ukraine-war-tipping-point-b3091133.html",
+  "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
  ],
  "recent_topics": [
   [
@@ -10746,19 +10746,34 @@
     "twist"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-25T06:16:09.022545+00:00",
+   [
+    "500000",
+    "almost",
+    "death",
+    "figur",
+    "next",
+    "own",
+    "point",
+    "reach",
+    "russia",
+    "show",
+    "tipp",
+    "ukrain",
+    "war"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-25T06:00:45.032689+00:00",
+ "last_draft_at": "2026-11-25T06:15:52.946789+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T05:46:01.010946+00:00",
  "run_log": [
-  "11-25 03:56:13 run start",
-  "11-25 03:57:41 listening 10 min",
-  "11-25 04:07:45 listening done",
-  "11-25 04:07:45 run end after 691 s",
   "11-25 04:08:12 run start",
   "11-25 04:08:22 listening 11 min",
   "11-25 04:19:40 listening done",
@@ -10794,7 +10809,11 @@
   "11-25 06:00:44 run start",
   "11-25 06:01:04 listening 11 min",
   "11-25 06:12:24 listening done",
-  "11-25 06:12:24 run end after 699 s"
+  "11-25 06:12:24 run end after 699 s",
+  "11-25 06:15:52 run start",
+  "11-25 06:16:09 listening 11 min",
+  "11-25 06:27:29 listening done",
+  "11-25 06:27:29 run end after 696 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
