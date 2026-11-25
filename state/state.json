@@ -6989,8 +6989,6 @@
   }
  },
  "seen_links": [
-  "https://www.theguardian.com/us-news/2026/nov/10/haitian-boy-ice-california",
-  "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
   "https://kyivindependent.com/russia-planning-strikes-on-ukraines-food-industry-military-intelligence-source-says/",
   "https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html",
   "https://kyivindependent.com/the-quiet-death-of-novaya-gazeta-how-a-once-powerful-newspaper-refused-to-leave-russia-and-slowly-lost-its-voice/",
@@ -8988,7 +8986,9 @@
   "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
   "https://www.independent.co.uk/news/world/europe/spain-markwayne-mullin-trump-baltimore-madrid-b3091410.html",
   "https://www.newsweek.com/iowa-lead-detonation-america-food-supply-12767064",
-  "https://www.washingtonexaminer.com/policy/defense/4814838/army-release-final-fallout-map-toxic-lead-detonation/"
+  "https://www.washingtonexaminer.com/policy/defense/4814838/army-release-final-fallout-map-toxic-lead-detonation/",
+  "https://www.nytimes.com/2026/11/25/us/politics/why-arent-the-midterms-over-in-louisiana-ask-the-supreme-court.html",
+  "https://thehill.com/opinion/judiciary/6241372-supreme-court-second-amendment/"
  ],
  "recent_topics": [
   [
@@ -11005,17 +11005,13 @@
    "fa9fe84258"
   ]
  ],
- "last_draft_at": "2026-11-25T15:00:50.069513+00:00",
+ "last_draft_at": "2026-11-25T15:15:33.641988+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T14:45:38.053965+00:00",
  "run_log": [
-  "11-25 13:00:47 run start",
-  "11-25 13:01:08 listening 11 min",
-  "11-25 13:12:28 listening done",
-  "11-25 13:12:28 run end after 700 s",
   "11-25 13:15:37 run start",
   "11-25 13:16:08 listening 11 min",
   "11-25 13:27:26 listening done",
@@ -11051,7 +11047,11 @@
   "11-25 15:00:48 run start",
   "11-25 15:04:06 listening 8 min",
   "11-25 15:12:28 listening done",
-  "11-25 15:12:28 run end after 699 s"
+  "11-25 15:12:28 run end after 699 s",
+  "11-25 15:15:33 run start",
+  "11-25 15:16:06 listening 11 min",
+  "11-25 15:26:59 listening done",
+  "11-25 15:26:59 run end after 686 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
