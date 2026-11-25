@@ -1,112 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "ec112f9759": {
-   "id": "ec112f9759",
-   "headline": "Trump signs executive order regarding federal contractor communications with Congress",
-   "summary": "President Donald Trump signed an order requiring federal contractors to consult the administration before answering congressional inquiries. According to the reports, contractors risk contract termination and suspension for noncompliance.",
-   "label": "US POLITICS",
-   "hook": "Should federal contractors be required to consult the White House before responding to Congress?",
-   "key_points": [
-    "Applies to federal contractors and subcontractors",
-    "Covers withheld communications considered privileged"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#WhiteHouse",
-    "#Congress"
-   ],
-   "sources": [
-    "ABC News",
-    "CBS News",
-    "UPI"
-   ],
-   "link": "https://abcnews.com/Politics/wireStory/trump-orders-federal-contractors-check-white-house-responding-138346258",
-   "links": [
-    [
-     "ABC News",
-     "https://abcnews.com/Politics/wireStory/trump-orders-federal-contractors-check-white-house-responding-138346258"
-    ],
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/US/2026/11/21/executive-order-trump-federal-contractors-congress/2881795287829/"
-    ],
-    [
-     "CBS News",
-     "https://www.cbsnews.com/news/trump-executive-order-federal-contractors-white-house-congress/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://live.staticflickr.com/3502/4571498936_ca188f521b_b.jpg",
-      "credit": "MCS@flickr / Flickr (CC BY 2.0)",
-      "short": "FLICKR",
-      "score": 10,
-      "shows": "White House south lawn"
-     }
-    ],
-    "inset": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/1280px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "credit": "Daniel Torok / Wikimedia Commons (Public domain)",
-     "short": "WIKIMEDIA COMMONS",
-     "score": 10,
-     "shows": "Donald Trump portrait"
-    }
-   },
-   "img_post": {
-    "headline": "Trump signs executive order regarding federal contractor communications with Congress",
-    "people": [
-     "Donald Trump"
-    ],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "Senate chamber",
-     "House of Representatives chamber",
-     "Capitol Hill",
-     "federal building"
-    ],
-    "image_style": "scene",
-    "location": "Washington, DC, US",
-    "nearby_city": "Washington, DC",
-    "event_query": "White House executive order signing",
-    "topic_photo": "judge gavel",
-    "label": "US POLITICS",
-    "action_subject": "government documents",
-    "news_time": "2026-11-21T18:33:46+00:00"
-   },
-   "created_at": "2026-11-21T20:31:32.886861+00:00",
-   "news_time": "2026-11-21T18:33:46+00:00",
-   "news_latest": "2026-11-21T19:13:04+00:00",
-   "importance": 7,
-   "caption": "Trump signs executive order regarding federal contractor communications with Congress\n\nPresident Donald Trump signed an order requiring federal contractors to consult the administration before answering congressional inquiries. According to the reports, contractors risk contract termination and suspension for noncompliance.\n\n💬 Should federal contractors be required to consult the White House before responding to Congress?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #WhiteHouse #Congress #7SeasNews",
-   "photo_line": "📷 10/10 White House south lawn",
-   "status": "posted",
-   "tg_message_id": 900,
-   "tg_file_id": "AgACAgUAAxkDAAIDhGsB_6aLWoqqNMceQLDOgzElI3TTAAJcEGsboQ8RVIKEUR2pArnGAQADAgADdwADPQQ",
-   "queued_at": "2026-11-21T20:31:34.772295+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-21T20:31:34.772330+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122108798757548584",
-   "posted_at": "2026-11-21T20:31:35.662534+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 21 · 3:31 PM New York · 2:01 AM Sri Lanka\n\n<b>Trump signs executive order regarding federal contractor communications with Congress</b>\n<i>ABC News, CBS News, UPI</i>\n🟡 <b>Latest:</b> 12:43 AM Sri Lanka (1h 18m ago) · first reported 12:03 AM\n📷 10/10 White House south lawn\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122108798757548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 608,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122108798757548584_1880733293370024",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-24T19:45:34.905404+00:00"
-  },
   "7c9e9f9934": {
    "id": "7c9e9f9934",
    "headline": "Voters oust sheriffs backing Trump immigration efforts",
@@ -7090,19 +6984,100 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122111843223548584_3749149901889523"
+  },
+  "cadf7d77ed": {
+   "id": "cadf7d77ed",
+   "headline": "FCC approves SpaceX plan for 1 million space data centers",
+   "summary": "The Federal Communications Commission has authorized SpaceX to deploy up to 1 million satellites functioning as orbital data centers. Chairman Brendan Carr stated the approval addresses a growing demand for artificial intelligence computing.",
+   "label": "ECONOMY",
+   "hook": "Should companies be allowed to deploy up to 1 million data centers into orbit?",
+   "key_points": [
+    "Elon Musk hailed the approval as a great asset to America and the world.",
+    "The authorization advances plans to move technology powering artificial intelligence beyond Earth."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#SpaceX",
+    "#FCC",
+    "#Technology"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "The Hill",
+    "Washington Examiner"
+   ],
+   "link": "https://thehill.com/policy/technology/6243528-fcc-approves-spacex-orbital-ai-data-centers/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/policy/technology/6243528-fcc-approves-spacex-orbital-ai-data-centers/"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres?traffic_source=rss"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/policy/technology/4815316/fcc-approves-spacex-launch-1-million-data-center-satellites/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/New_York_Stock_Exchange_building%2C_20231002_171816.jpg/1920px-New_York_Stock_Exchange_building%2C_20231002_171816.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Jakub Hałun / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 6,
+      "shows": "New York Stock Exchange street"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "FCC approves SpaceX plan for 1 million space data centers",
+    "people": [],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Federal Communications Commission building",
+     "satellite in orbit",
+     "data center servers",
+     "space launch facility"
+    ],
+    "image_style": "scene",
+    "location": "United States",
+    "nearby_city": "Washington, D.C.",
+    "event_query": "FCC headquarters building",
+    "topic_photo": "data center servers",
+    "label": "ECONOMY",
+    "action_subject": "satellite in orbit",
+    "news_time": "2026-11-25T18:45:40+00:00"
+   },
+   "created_at": "2026-11-25T20:31:58.085372+00:00",
+   "news_time": "2026-11-25T18:45:40+00:00",
+   "news_latest": "2026-11-25T20:21:30+00:00",
+   "importance": 7,
+   "caption": "FCC approves SpaceX plan for 1 million space data centers\n\nThe Federal Communications Commission has authorized SpaceX to deploy up to 1 million satellites functioning as orbital data centers. Chairman Brendan Carr stated the approval addresses a growing demand for artificial intelligence computing.\n\n💬 Should companies be allowed to deploy up to 1 million data centers into orbit?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#SpaceX #FCC #Technology #7SeasNews",
+   "photo_line": "📷 6/10 New York Stock Exchange street",
+   "status": "posted",
+   "tg_message_id": 994,
+   "tg_file_id": "AgACAgUAAxkDAAID4msHRb_muju7BgOdigh29GLRKKRvAAJdEmsbr_w5VCc-8XGllI4qAQADAgADdwADPQQ",
+   "queued_at": "2026-11-25T20:32:00.206362+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-25T20:32:00.206386+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122111852193548584",
+   "posted_at": "2026-11-25T20:32:05.286467+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 25 · 3:32 PM New York · 2:02 AM Sri Lanka\n\n<b>FCC approves SpaceX plan for 1 million space data centers</b>\n<i>Al Jazeera, The Hill, Washington Examiner</i>\n🟢 <b>Latest:</b> 1:51 AM Sri Lanka (10 min ago) · first reported 12:15 AM\n📷 6/10 New York Stock Exchange street\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122111852193548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 702,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122111852193548584_1187950527006121"
   }
  },
  "seen_links": [
-  "https://www.upi.com/Top_News/US/2026/11/10/court-upholds-voice-of-america-director-restoration/1601794351444/",
-  "https://thehill.com/regulation/court-battles/6211850-voice-of-america-head-was-illegally-fired-by-kari-lake-court-says-backing-reinstatement/",
-  "https://www.newsweek.com/kennedys-say-trump-arch-would-be-permanent-denigration-gravesites-12697561",
-  "https://www.nytimes.com/2026/11/10/us/politics/kennedy-trump-arch-lawsuit.html",
-  "https://www.euronews.com/video/2026/11/10/spain-69-candles-lit-at-toledo-cathedral-for-train-crash-victims",
-  "https://www.independent.co.uk/news/world/europe/spain-train-driver-strike-2026-crashes-b3082772.html",
-  "https://www.independent.co.uk/news/world/europe/spain-train-crash-state-funeral-toledo-b3082752.html",
-  "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
-  "https://www.washingtonpost.com/politics/2026/11/10/supreme-court-grapples-with-arguments-sun-valley-orchards-case/",
-  "https://www.washingtonexaminer.com/news/supreme-court/4798842/supreme-court-department-of-labor-migrant-worker-fines/",
   "https://www.washingtonexaminer.com/news/senate/4799421/trump-drops-lee-rudofsky-arkansas-senators-choosing-cody-hiland-instead/",
   "https://www.nytimes.com/2026/11/10/us/politics/trump-colorado-transgender.html",
   "https://www.newsweek.com/trump-reportedly-wants-male-press-secretary-ferguson-jennings-odds-rising-12697123",
@@ -9092,7 +9067,17 @@
   "https://www.aljazeera.com/video/newsfeed/2026/11/25/aje-onl-nf_dozens-killed-in-egypt-vehicle-fire-251126?traffic_source=rss",
   "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss",
   "https://kyivindependent.com/ukrainian-journalists-outnumbered-30-to-1-by-russian-propagandists-during-oleshky-evacuation-reporter-says/",
-  "https://kyivindependent.com/ukrainian-combat-lasers-intercept-russian-jet-powered-drone-for-first-time/"
+  "https://kyivindependent.com/ukrainian-combat-lasers-intercept-russian-jet-powered-drone-for-first-time/",
+  "https://www.newsweek.com/how-abdul-el-sayed-following-mamdanis-trump-playbook-could-aid-democrats-12768522",
+  "https://www.independent.co.uk/news/world/americas/us-politics/abdul-el-sayed-trump-mamdani-b3091722.html",
+  "https://thehill.com/policy/technology/6243528-fcc-approves-spacex-orbital-ai-data-centers/",
+  "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres?traffic_source=rss",
+  "https://www.washingtonexaminer.com/policy/technology/4815316/fcc-approves-spacex-launch-1-million-data-center-satellites/",
+  "https://thehill.com/policy/sports-gaming/6243559-ship-has-definitely-sailed-aaron-rodgers-says-hes-done-in-pittsburgh/",
+  "https://www.newsweek.com/steelers-release-qb-aaron-rodgers-after-wild-pat-mcafee-interview-12768675",
+  "https://www.newsweek.com/sports/nfl/aaron-rodgers-found-out-he-was-being-benched-from-steelers-teammate-12768604",
+  "https://www.newsweek.com/aaron-rodgers-accuses-hc-mike-mccarthy-of-sleeping-through-steelers-meetings-12768658",
+  "https://www.nbcnews.com/sports/nfl/aaron-rodgers-blasts-steelers-coach-mike-mccarthy-benching-re-unhealth-rcna611340"
  ],
  "recent_topics": [
   [
@@ -11057,19 +11042,90 @@
     "world"
    ],
    "4b6679d458"
+  ],
+  [
+   "2026-11-25T20:31:24.992261+00:00",
+   [
+    "abdul",
+    "aid",
+    "deal",
+    "democrat",
+    "discuss",
+    "el-say",
+    "follow",
+    "gett",
+    "hes",
+    "mamdani",
+    "meet",
+    "playbook",
+    "president",
+    "tip",
+    "trump",
+    "trump-whisperer",
+    "trumpcar",
+    "zohran"
+   ],
+   "skipped"
+  ],
+  [
+   "2026-11-25T20:32:00.206214+00:00",
+   [
+    "approv",
+    "approval",
+    "center",
+    "centr",
+    "data",
+    "fcc",
+    "grant",
+    "launch",
+    "million",
+    "plan",
+    "satellit",
+    "spac",
+    "spacex"
+   ],
+   "cadf7d77ed"
+  ],
+  [
+   "2026-11-25T20:32:05.286446+00:00",
+   [
+    "aaron",
+    "accus",
+    "bench",
+    "blast",
+    "coach",
+    "definitely",
+    "don",
+    "found",
+    "interview",
+    "mcafe",
+    "mccarthy",
+    "meet",
+    "mik",
+    "pat",
+    "pittsburgh",
+    "releas",
+    "rodger",
+    "sail",
+    "ship",
+    "sleep",
+    "steeler",
+    "teammat",
+    "through",
+    "unhealthy",
+    "wild",
+    "your"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-25T20:15:37.670323+00:00",
+ "last_draft_at": "2026-11-25T20:30:51.742384+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T20:00:45.673163+00:00",
  "run_log": [
-  "11-25 18:02:54 run start",
-  "11-25 18:03:13 listening 11 min",
-  "11-25 18:14:32 listening done",
-  "11-25 18:14:32 run end after 698 s",
   "11-25 18:20:38 run start",
   "11-25 18:21:33 listening 11 min",
   "11-25 18:32:27 listening done",
@@ -11105,12 +11161,15 @@
   "11-25 20:15:37 run start",
   "11-25 20:16:11 listening 11 min",
   "11-25 20:27:04 listening done",
-  "11-25 20:27:04 run end after 687 s"
+  "11-25 20:27:04 run end after 687 s",
+  "11-25 20:30:51 run start",
+  "11-25 20:32:20 listening 10 min",
+  "11-25 20:42:23 listening done",
+  "11-25 20:42:23 run end after 691 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/0/0a/Courtroom_at_the_United_States_Courthouse_in_Augusta%2C_GA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://upload.wikimedia.org/wikipedia/commons/9/97/Ilhan_Omar_-_MN_House_DFL_Press_Conference_-_2017_%2833901550940%29_%28cropped%29%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/20181208_Blue_Impulse_Kawasaki_T-4_landing_Naha_Air_Show_2018-2.jpg/1920px-20181208_Blue_Impulse_Kawasaki_T-4_landing_Naha_Air_Show_2018-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Beijing_city_subway_passage.jpg/1920px-Beijing_city_subway_passage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -11149,7 +11208,8 @@
    "https://upload.wikimedia.org/wikipedia/commons/8/82/Melania_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg/1920px-Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Benjamin_Netanyahu_October_22%2C_2024_%283x4_cropped%29.jpg/1280px-Benjamin_Netanyahu_October_22%2C_2024_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/New_York_Stock_Exchange_building%2C_20231002_171816.jpg/1920px-New_York_Stock_Exchange_building%2C_20231002_171816.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -14341,7 +14401,6 @@
    }
   },
   "recent_ideas": [
-   "courtroom",
    "military aircraft",
    "missile",
    "courtroom",
@@ -14352,7 +14411,8 @@
    "police officers at work",
    "soldiers",
    "white house, washington",
-   "judge gavel"
+   "judge gavel",
+   "new york stock exchange"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -16644,6 +16704,31 @@
     "s": 2,
     "w": "Chicago skyscrapers and clock tower",
     "p": "photo shows city architecture instead of a court building"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/North_America_from_low_orbiting_satellite_Suomi_NPP.jpg/1920px-North_America_from_low_orbiting_satellite_Suomi_NPP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|6df59128": {
+    "s": 0,
+    "w": "Earth from space",
+    "p": "AI-generated or CGI render of Earth"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Interior_of_Igloo_Satellite_Cabin.jpg/1920px-Interior_of_Igloo_Satellite_Cabin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|6df59128": {
+    "s": 0,
+    "w": "interior of a dome structure",
+    "p": "photo does not show a satellite in orbit"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Mile_Rocks_Light_with_Container_ship_Sealand_Balboa_outside_the_Golden_Gate.jpg/1920px-Mile_Rocks_Light_with_Container_ship_Sealand_Balboa_outside_the_Golden_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|6df59128": {
+    "s": 0,
+    "w": "container ship and lighthouse",
+    "p": "photo shows a container ship instead of SpaceX space data centers/satellites"
+   },
+   "https://live.staticflickr.com/2372/2144520859_fe9f84104b_b.jpg|6df59128": {
+    "s": 0,
+    "w": "New York Stock Exchange",
+    "p": "Photo does not show SpaceX satellites or space data centers."
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/New_York_Stock_Exchange_building%2C_20231002_171816.jpg/1920px-New_York_Stock_Exchange_building%2C_20231002_171816.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|6df59128": {
+    "s": 6,
+    "w": "New York Stock Exchange street",
+    "p": ""
    }
   }
  },
@@ -16655,10 +16740,10 @@
   "2026-11-22": 11,
   "2026-11-23": 20,
   "2026-11-24": 23,
-  "2026-11-25": 14
+  "2026-11-25": 15
  },
- "last_auto_at": "2026-11-25T20:02:16.208480+00:00",
- "last_post_at": "2026-11-25T20:02:21.039448+00:00",
+ "last_auto_at": "2026-11-25T20:32:05.286467+00:00",
+ "last_post_at": "2026-11-25T20:32:10.948257+00:00",
  "reels_count": {
   "2026-11-19": 3,
   "2026-11-20": 3,
