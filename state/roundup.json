@@ -629,5 +629,92 @@
     }
    }
   ]
+ },
+ "2026-11-24": {
+  "built_at": "2026-11-25T08:31:24.479299+00:00",
+  "test": false,
+  "parts": [
+   {
+    "name": "WAR & CONFLICT",
+    "of": 3,
+    "post_at": "2026-11-25T12:55:00+00:00",
+    "stories": 6,
+    "seconds": 30.3,
+    "fb": {
+     "id": "1800133577912084",
+     "state": "scheduled",
+     "caption": "Strikes kill Hamas chief. Trump eyes Iran leaders.\n\nWAR & CONFLICT · Tuesday's top stories · Part 1/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#warnews #conflict #7seasnews #news",
+     "thumb": "set"
+    },
+    "yt": {
+     "id": "dnGzneQfZ8Y",
+     "state": "scheduled",
+     "url": "https://youtube.com/shorts/dnGzneQfZ8Y",
+     "thumb": "set"
+    },
+    "tt": {
+     "state": "inbox",
+     "kind": "photos",
+     "publish_id": "p_inbox_url~v2.7712022886093604885",
+     "tt_status": "SEND_TO_USER_INBOX",
+     "size": "1080x1350",
+     "photos": 7
+    }
+   },
+   {
+    "name": "US NEWS",
+    "of": 3,
+    "post_at": "2026-11-25T14:55:00+00:00",
+    "stories": 8,
+    "seconds": 39.0,
+    "fb": {
+     "id": "1137848645405584",
+     "state": "scheduled",
+     "caption": "Donalds takes office. Kasper urges resignation.\n\nUS NEWS · Tuesday's top stories · Part 2/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#usnews #uspolitics #7seasnews #news",
+     "thumb": "set"
+    },
+    "yt": {
+     "id": "urOshDeNE2Y",
+     "state": "scheduled",
+     "url": "https://youtube.com/shorts/urOshDeNE2Y",
+     "thumb": "set"
+    },
+    "tt": {
+     "state": "inbox",
+     "kind": "photos",
+     "publish_id": "p_inbox_url~v2.7712023422209132564",
+     "tt_status": "SEND_TO_USER_INBOX",
+     "size": "1080x1350",
+     "photos": 9
+    }
+   },
+   {
+    "name": "WORLD NEWS",
+    "of": 3,
+    "post_at": "2026-11-25T16:55:00+00:00",
+    "stories": 8,
+    "seconds": 39.2,
+    "fb": {
+     "id": "2417209108814712",
+     "state": "scheduled",
+     "caption": "Australia signs treaty. Chinese official sentenced.\n\nWORLD NEWS · Tuesday's top stories · Part 3/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#worldnews #7seasnews #news",
+     "thumb": "set"
+    },
+    "yt": {
+     "id": "3ruR6RgvTN0",
+     "state": "scheduled",
+     "url": "https://youtube.com/shorts/3ruR6RgvTN0",
+     "thumb": "set"
+    },
+    "tt": {
+     "state": "inbox",
+     "kind": "photos",
+     "publish_id": "p_inbox_url~v2.7712023603788826645",
+     "tt_status": "SEND_TO_USER_INBOX",
+     "size": "1080x1350",
+     "photos": 9
+    }
+   }
+  ]
  }
 }
