@@ -6989,8 +6989,6 @@
   }
  },
  "seen_links": [
-  "https://www.cbsnews.com/video/meghan-and-harry-make-first-public-appearance-since-her-estranged-fathers-arrest/",
-  "https://www.cbsnews.com/news/prince-harry-meghan-eu-thomas-markle-arrest-child-sex-abuse-images/",
   "https://www.independent.co.uk/news/world/americas/meghan-brussels-european-parliament-sussex-florida-b3082393.html",
   "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
   "https://www.independent.co.uk/news/world/americas/us-politics/pete-hegseth-impeachment-speech-war-b3082472.html",
@@ -8988,7 +8986,9 @@
   "https://www.independent.co.uk/news/world/europe/andy-burnham-veterans-james-jones-tobias-ellwood-london-b3091389.html",
   "https://thehill.com/homenews/senate/6242018-democrats-target-60-seats-2028/",
   "https://www.newsweek.com/map-democrats-path-60-senate-seats-2028-12766866",
-  "https://www.newsweek.com/john-fettermans-election-senate-democrats-12766758"
+  "https://www.newsweek.com/john-fettermans-election-senate-democrats-12766758",
+  "https://www.theguardian.com/environment/2026/nov/25/swiss-tourist-killed-british-americans-injured-elephants-cameroon",
+  "https://www.independent.co.uk/news/world/africa/british-tourist-gored-elephant-cameroon-b3091203.html"
  ],
  "recent_topics": [
   [
@@ -11005,17 +11005,13 @@
    "fa9fe84258"
   ]
  ],
- "last_draft_at": "2026-11-25T14:07:00.200054+00:00",
+ "last_draft_at": "2026-11-25T14:19:16.191662+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T13:42:52.382155+00:00",
  "run_log": [
-  "11-25 12:00:54 run start",
-  "11-25 12:02:17 listening 10 min",
-  "11-25 12:12:22 listening done",
-  "11-25 12:12:22 run end after 687 s",
   "11-25 12:15:56 run start",
   "11-25 12:17:18 listening 10 min",
   "11-25 12:27:22 listening done",
@@ -11051,7 +11047,11 @@
   "11-25 14:06:59 run start",
   "11-25 14:07:19 listening 11 min",
   "11-25 14:18:38 listening done",
-  "11-25 14:18:38 run end after 698 s"
+  "11-25 14:18:38 run end after 698 s",
+  "11-25 14:19:15 run start",
+  "11-25 14:19:46 listening 11 min",
+  "11-25 14:31:05 listening done",
+  "11-25 14:31:05 run end after 709 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
