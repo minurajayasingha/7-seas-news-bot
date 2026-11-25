@@ -7081,8 +7081,6 @@
   }
  },
  "seen_links": [
-  "https://www.independent.co.uk/news/world/europe/ukraine-strike-rubicon-drone-base-b3082846.html",
-  "https://www.newsweek.com/protesters-throw-milk-at-joe-biden-in-dublin-blood-on-your-hands-12698156",
   "https://www.aljazeera.com/video/newsfeed/2026/11/11/protesters-throw-milk-at-joe-biden-during-hunter-event-in-dublin?traffic_source=rss",
   "https://www.independent.co.uk/news/world/americas/grizzly-bear-attack-bella-coola-b3082897.html",
   "https://www.nytimes.com/2026/11/10/world/canada/british-columbia-bear-attack.html",
@@ -9080,7 +9078,9 @@
   "https://www.newsweek.com/anthropic-dario-amodei-ai-human-free-will-warning-12769117",
   "https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios",
   "https://www.france24.com/en/israeli-lawmakers-advance-october-7-inquiry-opposed-by-netanyahu",
-  "https://www.washingtonpost.com/world/2026/11/25/israeli-parliament-advances-bill-that-could-block-netanyahu-forming-government/"
+  "https://www.washingtonpost.com/world/2026/11/25/israeli-parliament-advances-bill-that-could-block-netanyahu-forming-government/",
+  "https://www.newsweek.com/ted-cruz-james-talarico-texas-space-academy-bid-12768803",
+  "https://thehill.com/homenews/senate/6243899-cruz-talarico-bipartisan-trump-space-academy/"
  ],
  "recent_topics": [
   [
@@ -11309,19 +11309,33 @@
     "parliament"
    ],
    "f9c9455fd6"
+  ],
+  [
+   "2026-11-25T23:22:12.070479+00:00",
+   [
+    "academy",
+    "bid",
+    "clash",
+    "cruz",
+    "election",
+    "jam",
+    "push",
+    "spac",
+    "talarico",
+    "ted",
+    "texa",
+    "unit"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-25T23:10:01.465463+00:00",
+ "last_draft_at": "2026-11-25T23:22:01.180160+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T22:57:27.220519+00:00",
  "run_log": [
-  "11-25 21:00:48 run start",
-  "11-25 21:03:19 listening 9 min",
-  "11-25 21:12:33 listening done",
-  "11-25 21:12:33 run end after 704 s",
   "11-25 21:16:07 run start",
   "11-25 21:16:09 listening 11 min",
   "11-25 21:27:54 listening done",
@@ -11357,7 +11371,11 @@
   "11-25 23:10:00 run start",
   "11-25 23:10:10 listening 11 min",
   "11-25 23:21:31 listening done",
-  "11-25 23:21:31 run end after 690 s"
+  "11-25 23:21:31 run end after 690 s",
+  "11-25 23:22:00 run start",
+  "11-25 23:22:12 listening 11 min",
+  "11-25 23:33:30 listening done",
+  "11-25 23:33:30 run end after 689 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
