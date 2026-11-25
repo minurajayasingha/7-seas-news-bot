@@ -6489,11 +6489,97 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122111336967548584_1466236705575538"
+  },
+  "ffd99e9319": {
+   "id": "ffd99e9319",
+   "headline": "Rebel group halts advance in DR Congo after talks",
+   "summary": "A rebel group stopped its advance towards Bunia in the DR Congo following commitments made during Ugandan-mediated talks. Meanwhile, DR Congo stated that a military aircraft is missing as rebels claimed to have shot down the plane.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Rebel advance halted after Ugandan-mediated government talks",
+    "DR Congo reports missing military aircraft",
+    "Rebels claim responsibility for downing the plane"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#DRCongo",
+    "#WorldNews",
+    "#Conflict"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "BBC"
+   ],
+   "link": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss"
+    ],
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/20181208_JASDF_E-2_Hawkeye_landing_Naha_Air_Show_2018-21.jpg/1920px-20181208_JASDF_E-2_Hawkeye_landing_Naha_Air_Show_2018-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Balon Greyjoy / Wikimedia Commons (CC0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 8,
+      "shows": "military aircraft"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "Rebel group halts advance in DR Congo after talks",
+    "people": [],
+    "image_query": "Bunia city",
+    "image_queries": [
+     "military aircraft",
+     "Congolese landscape",
+     "border region",
+     "military base"
+    ],
+    "image_style": "incident",
+    "location": "Bunia, DR Congo",
+    "nearby_city": "Kinshasa, DR Congo",
+    "event_query": "DR Congo military aircraft missing",
+    "topic_photo": "military aircraft",
+    "label": "CONFLICT",
+    "action_subject": "military aircraft",
+    "news_time": "2026-11-24T19:27:23+00:00"
+   },
+   "created_at": "2026-11-25T00:16:04.123311+00:00",
+   "news_time": "2026-11-24T19:27:23+00:00",
+   "news_latest": "2026-11-24T23:39:13+00:00",
+   "importance": 8,
+   "caption": "Rebel group halts advance in DR Congo after talks\n\nA rebel group stopped its advance towards Bunia in the DR Congo following commitments made during Ugandan-mediated talks. Meanwhile, DR Congo stated that a military aircraft is missing as rebels claimed to have shot down the plane.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#DRCongo #WorldNews #Conflict #7SeasNews",
+   "photo_line": "📷 8/10 military aircraft · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 968,
+   "tg_file_id": "AgACAgUAAxkDAAIDyGsGKMVtA76zqWH4s-5-ejKJnrCwAALuEGsbr_wxVJ32KijV2CZ0AQADAgADdwADPQQ",
+   "queued_at": "2026-11-25T00:16:06.151609+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-25T00:16:06.151630+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122111344875548584",
+   "posted_at": "2026-11-25T00:16:06.450140+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 24 · 7:16 PM New York · 5:46 AM Sri Lanka\n\n<b>Rebel group halts advance in DR Congo after talks</b>\n<i>Al Jazeera, BBC</i>\n🟢 <b>Latest:</b> 5:09 AM Sri Lanka (36 min ago) · first reported 12:57 AM\n📷 8/10 military aircraft · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122111344875548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 676,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122111344875548584_923297954106051"
   }
  },
  "seen_links": [
-  "https://thehill.com/policy/international/6209663-us-middle-east-war-midterms/",
-  "https://www.nbcnews.com/business/energy/gas-prices-fall-4-gallon-oil-markets-trump-iran-war-russia-ukraine-rcna608498",
   "https://www.france24.com/en/environment/20261110-fossil-fuel-emissions-set-to-fall-for-first-time-since-covid-research-shows",
   "https://www.upi.com/Top_News/World-News/2026/11/10/Kim-Yo-Jong-Antonio-Guterres-reject-dialogue-DMZ/3251794301537/",
   "https://abcnews.com/International/wireStory/north-korean-defectors-view-kim-jong-uns-daughter-137999884",
@@ -8491,28 +8577,11 @@
   "https://www.newsweek.com/huawei-convicted-in-us-as-chinese-tech-giant-emerges-as-nvidia-rival-12765102",
   "https://www.foxnews.com/politics/trump-pauses-turkey-pardon-salute-us-troops-guarding-strait-hormuz-watch-over-protect",
   "https://www.independent.co.uk/news/world/americas/us-politics/trump-ballroom-turkey-pardon-hotel-b3090989.html",
-  "https://www.nytimes.com/2026/11/24/us/politics/account-park-service-trump-ballroom-donation.html"
+  "https://www.nytimes.com/2026/11/24/us/politics/account-park-service-trump-ballroom-donation.html",
+  "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
+  "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss"
  ],
  "recent_topics": [
-  [
-   "2026-11-22T00:15:49.168168+00:00",
-   [
-    "alleg",
-    "allegedly",
-    "anti-trump",
-    "attack",
-    "congressman",
-    "ex-staffer",
-    "fak",
-    "former",
-    "gop",
-    "hoax",
-    "indict",
-    "republican",
-    "staffer"
-   ],
-   "skipped"
-  ],
   [
    "2026-11-22T02:04:43.068394+00:00",
    [
@@ -10204,19 +10273,36 @@
     "watch"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-25T00:16:06.151486+00:00",
+   [
+    "aircraft",
+    "claim",
+    "clash",
+    "congo",
+    "down",
+    "forc",
+    "government",
+    "group",
+    "heavy",
+    "military",
+    "miss",
+    "plan",
+    "rebel",
+    "retreat",
+    "shoot"
+   ],
+   "ffd99e9319"
   ]
  ],
- "last_draft_at": "2026-11-25T00:00:45.036586+00:00",
+ "last_draft_at": "2026-11-25T00:15:38.488136+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T23:45:34.618804+00:00",
  "run_log": [
-  "11-24 21:45:48 run start",
-  "11-24 21:46:30 listening 11 min",
-  "11-24 21:57:25 listening done",
-  "11-24 21:57:25 run end after 696 s",
   "11-24 22:01:28 run start",
   "11-24 22:01:42 listening 11 min",
   "11-24 22:13:02 listening done",
@@ -10252,12 +10338,15 @@
   "11-25 00:00:44 run start",
   "11-25 00:01:18 listening 11 min",
   "11-25 00:12:11 listening done",
-  "11-25 00:12:11 run end after 686 s"
+  "11-25 00:12:11 run end after 686 s",
+  "11-25 00:15:38 run start",
+  "11-25 00:16:19 listening 11 min",
+  "11-25 00:27:12 listening done",
+  "11-25 00:27:12 run end after 694 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/2/2d/Al_Khoziny_Islamic_boarding_school_collapsed_during_evacuation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Former_Magirus-Deutz_170D11_fire_engine_in_Bavaria.JPG/1920px-Former_Magirus-Deutz_170D11_fire_engine_in_Bavaria.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_6.jpg/1280px-Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -10296,7 +10385,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Rudy_Giuliani_%2849276392081%29.jpg/1280px-Rudy_Giuliani_%2849276392081%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/WikimediaServersOct07_2.JPG/1920px-WikimediaServersOct07_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Special_Operations_Forces_Africa_conduct_medical_civic_action_program_with_Beninese_partners_%288795705%29.jpg/1920px-Special_Operations_Forces_Africa_conduct_medical_civic_action_program_with_Beninese_partners_%288795705%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/The_Clay_County_Courthouse_courtroom_in_2007.jpg/1920px-The_Clay_County_Courthouse_courtroom_in_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/The_Clay_County_Courthouse_courtroom_in_2007.jpg/1920px-The_Clay_County_Courthouse_courtroom_in_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/20181208_JASDF_E-2_Hawkeye_landing_Naha_Air_Show_2018-21.jpg/1920px-20181208_JASDF_E-2_Hawkeye_landing_Naha_Air_Show_2018-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -13617,7 +13707,6 @@
    }
   },
   "recent_ideas": [
-   "california state capitol",
    "courtroom",
    "military aircraft",
    "beijing city",
@@ -13628,7 +13717,8 @@
    "kuala lumpur cityscape",
    "computer servers",
    "medical syringe",
-   "courtroom"
+   "courtroom",
+   "military aircraft"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -15765,6 +15855,11 @@
     "s": 6,
     "w": "judge gavel on rainbow flag",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/20181208_JASDF_E-2_Hawkeye_landing_Naha_Air_Show_2018-21.jpg/1920px-20181208_JASDF_E-2_Hawkeye_landing_Naha_Air_Show_2018-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|a2eb4806": {
+    "s": 8,
+    "w": "military aircraft",
+    "p": ""
    }
   }
  },
@@ -15776,10 +15871,10 @@
   "2026-11-21": 17,
   "2026-11-22": 11,
   "2026-11-23": 20,
-  "2026-11-24": 16
+  "2026-11-24": 17
  },
- "last_auto_at": "2026-11-24T23:46:35.184800+00:00",
- "last_post_at": "2026-11-24T23:46:39.979629+00:00",
+ "last_auto_at": "2026-11-25T00:16:06.450140+00:00",
+ "last_post_at": "2026-11-25T00:16:11.016681+00:00",
  "reels_count": {
   "2026-11-18": 3,
   "2026-11-19": 3,
