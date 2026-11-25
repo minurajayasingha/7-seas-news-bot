@@ -6892,14 +6892,6 @@
   }
  },
  "seen_links": [
-  "https://www.washingtonpost.com/politics/2026/11/10/pelosi-does-not-support-kicking-rep-haley-stevens-out-democratic-caucus/",
-  "https://abcnews.com/International/wireStory/spain-holds-state-funeral-69-killed-high-speed-138022635",
-  "https://www.independent.co.uk/news/world/europe/spain-train-crash-driver-strike-2026-b3082481.html",
-  "https://www.upi.com/Top_News/US/2026/11/10/trump-board-of-peace-gaza-israel/5031794336800/",
-  "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html",
-  "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
-  "https://www.dw.com/en/uk-privy-council-overrules-trinidad-and-tobago-gay-sex-law/a-79912163?maca=en-rss-en-world-4025-rdf",
-  "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
   "https://www.theguardian.com/world/2026/nov/10/activist-jason-jones-wins-10-year-fight-against-homophobic-trinidad-tobago-laws",
   "https://abcnews.com/International/wireStory/top-uk-appeals-court-rules-gay-sex-crime-138017724",
   "https://news.sky.com/story/uk-court-overturns-trinidad-and-tobago-law-criminalising-homosexual-sex-13610702",
@@ -8891,7 +8883,15 @@
   "https://thehill.com/policy/international/6242437-melania-trump-reunites-children-russia-ukraine/",
   "https://www.independent.co.uk/news/world/americas/melania-trump-white-house-children-donald-trump-washington-b3091373.html",
   "https://www.washingtonexaminer.com/policy/education/4814976/guy-benson-rips-teachers-union-pride-themed-drag-conference-massachusetts/",
-  "https://www.independent.co.uk/news/world/americas/washington-teachers-union-sexual-misconduct-b3091349.html"
+  "https://www.independent.co.uk/news/world/americas/washington-teachers-union-sexual-misconduct-b3091349.html",
+  "https://www.nytimes.com/2026/11/25/world/africa/south-africa-ramaphosa-farmgate.html",
+  "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+  "https://www.aljazeera.com/news/2026/11/25/south-africa-court-repeals-farmgate-impeachment-threat-against-ramaphosa?traffic_source=rss",
+  "https://abcnews.com/International/wireStory/new-miss-universes-puerto-rican-hometown-celebrates-historic-138441440",
+  "https://www.independent.co.uk/news/world/americas/jennifer-barreto-miss-universe-2026-puerto-rico-wins-b3091524.html",
+  "https://www.euronews.com/video/2026/11/25/puerto-ricos-jennifer-barreto-becomes-first-married-woman-to-win-miss-universe",
+  "https://www.france24.com/en/video/20261125-exiled-catalan-separatist-puigdemont-to-return-to-spain-after-election",
+  "https://www.aljazeera.com/news/2026/11/25/catalan-separatist-puigdemont-to-return-to-spain-on-december?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -10849,17 +10849,13 @@
    "fa9fe84258"
   ]
  ],
- "last_draft_at": "2026-11-25T15:46:39.349532+00:00",
+ "last_draft_at": "2026-11-25T16:00:55.447522+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T15:46:15.479263+00:00",
  "run_log": [
-  "11-25 13:42:51 run start",
-  "11-25 13:43:55 listening 10 min",
-  "11-25 13:54:24 listening done",
-  "11-25 13:54:24 run end after 692 s",
   "11-25 13:54:52 run start",
   "11-25 13:55:13 listening 11 min",
   "11-25 14:06:32 listening done",
@@ -10895,7 +10891,11 @@
   "11-25 15:46:14 run start",
   "11-25 15:46:53 listening 11 min",
   "11-25 15:57:48 listening done",
-  "11-25 15:57:48 run end after 693 s"
+  "11-25 15:57:48 run end after 693 s",
+  "11-25 16:00:55 run start",
+  "11-25 16:02:26 listening 10 min",
+  "11-25 16:12:30 listening done",
+  "11-25 16:12:30 run end after 695 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
