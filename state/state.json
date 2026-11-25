@@ -1,104 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "824c4487ef": {
-   "id": "824c4487ef",
-   "headline": "Pentagon issues memo limiting social activities with Canadian military",
-   "summary": "The Pentagon issued a classified memo restricting the U.S.-Canada defense relationship, according to reports. Officials noted the directive follows strained relations amid trade tensions and threats, though joint operations like NORAD remain unaffected.",
-   "label": "DIPLOMACY",
-   "hook": "Will these restrictions impact joint military operations between the two countries?",
-   "key_points": [
-    "A senator shed new light on the cooperation memo.",
-    "The directive is seen as a provocation in Ottawa.",
-    "Joint airspace command NORAD remains active."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Pentagon",
-    "#USCanada",
-    "#Defense"
-   ],
-   "sources": [
-    "New York Times",
-    "The Independent",
-    "Washington Post"
-   ],
-   "link": "https://www.independent.co.uk/news/world/americas/us-politics/us-canada-military-memo-social-interactions-b3089288.html",
-   "links": [
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/us-politics/us-canada-military-memo-social-interactions-b3089288.html"
-    ],
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html"
-    ],
-    [
-     "Washington Post",
-     "https://www.washingtonpost.com/national-security/2026/11/20/secret-hegseth-memo-restricts-us-canada-defense-relationship/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/US_Navy_030820-N-7110D-017_The_nuclear_powered_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29.jpg/1920px-US_Navy_030820-N-7110D-017_The_nuclear_powered_aircraft_carrier_USS_Harry_S._Truman_%28CVN_75%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "U.S. Navy photo by Photographer's Mate 3rd Class Ryan Davis. / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 7,
-      "shows": "US aircraft carrier and ships"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Pentagon issues memo limiting social activities with Canadian military",
-    "people": [],
-    "image_query": "Pentagon building",
-    "image_queries": [
-     "Department of Defense",
-     "Capitol Hill",
-     "Canadian Parliament",
-     "NORAD command center"
-    ],
-    "image_style": "scene",
-    "location": "Washington, United States",
-    "nearby_city": "Washington, D.C.",
-    "event_query": "US Canada defense memo",
-    "topic_photo": "military map",
-    "label": "DIPLOMACY",
-    "action_subject": "military officers",
-    "news_time": "2026-11-21T17:48:03+00:00"
-   },
-   "created_at": "2026-11-21T22:31:20.121921+00:00",
-   "news_time": "2026-11-21T17:48:03+00:00",
-   "news_latest": "2026-11-21T22:17:18+00:00",
-   "importance": 7,
-   "caption": "Pentagon issues memo limiting social activities with Canadian military\n\nThe Pentagon issued a classified memo restricting the U.S.-Canada defense relationship, according to reports. Officials noted the directive follows strained relations amid trade tensions and threats, though joint operations like NORAD remain unaffected.\n\n💬 Will these restrictions impact joint military operations between the two countries?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Pentagon #USCanada #Defense #7SeasNews",
-   "photo_line": "📷 7/10 US aircraft carrier and ships",
-   "status": "posted",
-   "tg_message_id": 905,
-   "tg_file_id": "AgACAgUAAxkDAAIDiWsCG7kVWmnsvY-gcmhvRPTR8xmRAAJhEGsboQ8RVMLadCEJ5LYbAQADAgADdwADPQQ",
-   "queued_at": "2026-11-21T22:31:21.985187+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-21T22:31:21.985239+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122108885319548584",
-   "posted_at": "2026-11-21T22:31:22.264840+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 21 · 5:31 PM New York · 4:01 AM Sri Lanka\n\n<b>Pentagon issues memo limiting social activities with Canadian military</b>\n<i>New York Times, The Independent, Washington Post</i>\n🟢 <b>Latest:</b> 3:47 AM Sri Lanka (14 min ago) · first reported 11:18 PM\n📷 7/10 US aircraft carrier and ships\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122108885319548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 614,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122108885319548584_1882661533085200",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
-  },
   "3d97e0803e": {
    "id": "3d97e0803e",
    "headline": "South Korea Education Minister Choi Kyo Jin resigns over exam rules",
@@ -6977,11 +6879,100 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122111890005548584_1444269671025744"
+  },
+  "4ea9865f2a": {
+   "id": "4ea9865f2a",
+   "headline": "Fuel tanker crash ignites highway fire in Cairo killing dozens",
+   "summary": "A petroleum-laden truck crash on the ring road surrounding Cairo sparked a large fire, killing at least 30 people and injuring at least 21 others. Egyptian authorities and the public prosecutor's office stated that numerous cars and motorcycles were charred in the blaze.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "The incident occurred on the ring road near Giza.",
+    "At least 25 people were injured according to the public prosecutor."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Cairo",
+    "#Egypt",
+    "#WorldNews"
+   ],
+   "sources": [
+    "New York Times",
+    "The Guardian"
+   ],
+   "link": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+   "links": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Ambulance%2C_Cairo.JPG/1920px-Ambulance%2C_Cairo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Faris knight / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 8,
+      "shows": "Egyptian ambulance vehicle"
+     }
+    ],
+    "file_photo": true,
+    "_loaded": 1
+   },
+   "img_post": {
+    "headline": "Fuel tanker crash ignites highway fire in Cairo killing dozens",
+    "people": [],
+    "image_query": "Cairo ring road",
+    "image_queries": [
+     "Cairo highway",
+     "ring road Cairo",
+     "Giza street",
+     "Nile River Cairo"
+    ],
+    "image_style": "incident",
+    "location": "Cairo, Egypt",
+    "nearby_city": "Cairo, Egypt",
+    "event_query": "Cairo highway tanker crash fire",
+    "topic_photo": "fuel tanker",
+    "label": "WORLD",
+    "action_subject": "burnt vehicles on highway",
+    "news_time": "2026-11-25T21:37:07+00:00"
+   },
+   "created_at": "2026-11-25T22:31:19.564754+00:00",
+   "news_time": "2026-11-25T21:37:07+00:00",
+   "news_latest": "2026-11-25T22:10:12+00:00",
+   "importance": 8,
+   "caption": "🚨 BREAKING: Fuel tanker crash ignites highway fire in Cairo killing dozens\n\nA petroleum-laden truck crash on the ring road surrounding Cairo sparked a large fire, killing at least 30 people and injuring at least 21 others. Egyptian authorities and the public prosecutor's office stated that numerous cars and motorcycles were charred in the blaze.\n\nWhat we know so far:\n• The incident occurred on the ring road near Giza.\n• At least 25 people were injured according to the public prosecutor.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Cairo #Egypt #WorldNews #7SeasNews",
+   "photo_line": "📷 8/10 Egyptian ambulance vehicle · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 998,
+   "tg_file_id": "AgACAgUAAxkDAAID5msHYblbTrIXPU2kLg2S5JZ8CFuBAAJpEmsbr_w5VB2HfFhkSvBYAQADAgADdwADPQQ",
+   "queued_at": "2026-11-25T22:31:21.775511+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-25T22:31:21.775543+00:00",
+   "post_label": "🤖 Auto-posting + Reel",
+   "fb_post_id": "1413030521900096_122111893293548584",
+   "posted_at": "2026-11-25T22:31:22.092151+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 25 · 5:31 PM New York · 4:01 AM Sri Lanka\n\n<b>Fuel tanker crash ignites highway fire in Cairo killing dozens</b>\n<i>New York Times, The Guardian</i>\n🟢 <b>Latest:</b> 3:40 AM Sri Lanka (21 min ago) · first reported 3:07 AM\n📷 8/10 Egyptian ambulance vehicle · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122111893293548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 706,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122111893293548584_2141600399781500",
+   "fb_story_id": "1142137201737144",
+   "fb_reel_id": "1797469291364507",
+   "reel_status": "live"
   }
  },
  "seen_links": [
-  "https://www.washingtonexaminer.com/news/4799692/car-hits-pedestrians-north-hollywood-crash/",
-  "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss",
   "https://www.nbcnews.com/world/united-kingdom/us-charges-3-men-plotting-multiple-terrorist-attacks-planned-attack-uk-rcna608647",
   "https://www.independent.co.uk/news/world/americas/donald-trump-gop-stephen-miller-los-angeles-united-states-b3082848.html",
   "https://thehill.com/homenews/campaign/6212326-norman-gives-trump-f-grade/",
@@ -8979,7 +8970,9 @@
   "https://thehill.com/homenews/administration/6243737-migrant-lottery-ice-arrest/",
   "https://www.independent.co.uk/news/world/americas/us-politics/ice-arrest-boston-lottery-b3091654.html",
   "https://www.washingtonexaminer.com/policy/defense/4815739/state-department-approves-possible-sale-ukraine-f-16-parts-amid-overuse/",
-  "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-oil-refineries-casualties-map-b3091150.html"
+  "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-oil-refineries-casualties-map-b3091150.html",
+  "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+  "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html"
  ],
  "recent_topics": [
   [
@@ -11174,19 +11167,53 @@
     "war"
    ],
    "e7cdb25570"
+  ],
+  [
+   "2026-11-25T22:31:21.775374+00:00",
+   [
+    "15",
+    "30",
+    "blaz",
+    "cairo",
+    "carry",
+    "crash",
+    "dead",
+    "district",
+    "dozen",
+    "egypt",
+    "explosion",
+    "fir",
+    "flip",
+    "fuel",
+    "health",
+    "highway",
+    "ignit",
+    "injur",
+    "kill",
+    "larg",
+    "least",
+    "massiv",
+    "ministry",
+    "near",
+    "petrol",
+    "petroleum-laden",
+    "product",
+    "road",
+    "tanker",
+    "thirty-on",
+    "truck",
+    "vehicl"
+   ],
+   "4ea9865f2a"
   ]
  ],
- "last_draft_at": "2026-11-25T22:15:52.422898+00:00",
+ "last_draft_at": "2026-11-25T22:30:40.020701+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T22:00:54.270698+00:00",
  "run_log": [
-  "11-25 20:00:45 run start",
-  "11-25 20:02:30 listening 10 min",
-  "11-25 20:12:32 listening done",
-  "11-25 20:12:32 run end after 707 s",
   "11-25 20:15:37 run start",
   "11-25 20:16:11 listening 11 min",
   "11-25 20:27:04 listening done",
@@ -11222,12 +11249,15 @@
   "11-25 22:15:51 run start",
   "11-25 22:16:59 listening 10 min",
   "11-25 22:27:29 listening done",
-  "11-25 22:27:29 run end after 697 s"
+  "11-25 22:27:29 run end after 697 s",
+  "11-25 22:30:39 run start",
+  "11-25 22:32:07 listening 10 min",
+  "11-25 22:42:11 listening done",
+  "11-25 22:42:11 run end after 691 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/6/61/Parliament_House_Canberra_Dusk_Panorama.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/a/a6/US_Army_soldiers_during_maneuver_practice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://upload.wikimedia.org/wikipedia/commons/0/08/Pyongyang_skyline_%2816077193495%29.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/8/8f/Warsaw_skyline_%288510344469%29.jpg",
@@ -11266,7 +11296,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/New_York_Stock_Exchange_building%2C_20231002_171816.jpg/1920px-New_York_Stock_Exchange_building%2C_20231002_171816.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Senate_President_Troy_Jackson.png/1280px-Senate_President_Troy_Jackson.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Chris_Van_Hollen_at_DNC_0616_%2827993609564%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0616_%2827993609564%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/US_Capitol_west_side_at_dusk.JPG/1920px-US_Capitol_west_side_at_dusk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/US_Capitol_west_side_at_dusk.JPG/1920px-US_Capitol_west_side_at_dusk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Ambulance%2C_Cairo.JPG/1920px-Ambulance%2C_Cairo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -14500,7 +14531,6 @@
    }
   },
   "recent_ideas": [
-   "missile",
    "courtroom",
    "coast guard rescue boat",
    "hazardous materials barrels",
@@ -14511,7 +14541,8 @@
    "white house, washington",
    "judge gavel",
    "new york stock exchange",
-   "us capitol building"
+   "us capitol building",
+   "emergency services of that city"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -16863,6 +16894,11 @@
     "s": 6,
     "w": "US Capitol building",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Ambulance%2C_Cairo.JPG/1920px-Ambulance%2C_Cairo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|621cf7e2": {
+    "s": 8,
+    "w": "Egyptian ambulance vehicle",
+    "p": ""
    }
   }
  },
@@ -16874,10 +16910,10 @@
   "2026-11-22": 11,
   "2026-11-23": 20,
   "2026-11-24": 23,
-  "2026-11-25": 18
+  "2026-11-25": 19
  },
- "last_auto_at": "2026-11-25T22:16:44.266621+00:00",
- "last_post_at": "2026-11-25T22:16:49.485541+00:00",
+ "last_auto_at": "2026-11-25T22:31:22.092151+00:00",
+ "last_post_at": "2026-11-25T22:31:27.803888+00:00",
  "reels_count": {
   "2026-11-19": 3,
   "2026-11-20": 3,
@@ -16885,7 +16921,7 @@
   "2026-11-22": 1,
   "2026-11-23": 1,
   "2026-11-24": 3,
-  "2026-11-25": 2
+  "2026-11-25": 3
  },
  "roundup": {
   "2026-11-17": {
