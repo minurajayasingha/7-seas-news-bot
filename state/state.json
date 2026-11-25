@@ -6901,9 +6901,6 @@
   }
  },
  "seen_links": [
-  "https://www.cbsnews.com/news/us-first-nation-refuse-un-human-rights-council-review/",
-  "https://abcnews.com/International/wireStory/12-people-killed-dozens-hurt-crashes-foggy-bulgarian-138004407",
-  "https://news.sky.com/story/at-least-12-killed-in-bulgaria-motorway-pile-ups-involving-dozens-of-vehicles-13610553",
   "https://www.cbsnews.com/news/congo-soldiers-death-sentence-execution-for-cowardice/",
   "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss",
   "https://www.france24.com/en/video/20261110-france-vows-tough-response-to-freezer-cyberattack-blamed-on-iran",
@@ -8900,7 +8897,10 @@
   "https://www.newsweek.com/trump-praises-el-sayed-after-medicare-for-all-twist-hes-a-smart-guy-12765887",
   "https://thehill.com/homenews/administration/6241682-trump-el-sayed-trumpcare-healthcare/",
   "https://www.independent.co.uk/news/world/europe/russia-putin-ukraine-war-tipping-point-b3091133.html",
-  "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+  "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco",
+  "https://www.france24.com/en/tv-shows/sports/20261125-2025-afcon-cas-gives-title-to-senegal-as-morocco-vows-to-challenge-verdict",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -10765,19 +10765,41 @@
     "war"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-25T07:01:13.526224+00:00",
+   [
+    "afcon",
+    "africa",
+    "back",
+    "cas",
+    "celebrat",
+    "challeng",
+    "court",
+    "cup",
+    "fan",
+    "giv",
+    "given",
+    "legal",
+    "morocco",
+    "rul",
+    "senegal",
+    "sport",
+    "titl",
+    "verdict",
+    "victory",
+    "vow"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-25T06:46:05.888229+00:00",
+ "last_draft_at": "2026-11-25T07:00:49.549780+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T06:45:44.162687+00:00",
  "run_log": [
-  "11-25 04:32:09 run start",
-  "11-25 04:32:43 listening 11 min",
-  "11-25 04:43:39 listening done",
-  "11-25 04:43:39 run end after 689 s",
   "11-25 04:45:35 run start",
   "11-25 04:46:45 listening 10 min",
   "11-25 04:57:13 listening done",
@@ -10813,7 +10835,11 @@
   "11-25 06:45:43 run start",
   "11-25 06:46:24 listening 11 min",
   "11-25 06:57:17 listening done",
-  "11-25 06:57:17 run end after 694 s"
+  "11-25 06:57:17 run end after 694 s",
+  "11-25 07:00:49 run start",
+  "11-25 07:01:13 listening 11 min",
+  "11-25 07:12:33 listening done",
+  "11-25 07:12:33 run end after 704 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
