@@ -1,100 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "3db22531f4": {
-   "id": "3db22531f4",
-   "headline": "Texas Governor-elect Gina Hinojosa vows to change policies",
-   "summary": "Texas Governor-elect Gina Hinojosa plans to rescind existing visa restrictions and faces questions from advocates about the future of the state death penalty. Hinojosa acknowledged program abuse while stating her intention to address the H-1B hiring freeze.",
-   "label": "US POLITICS",
-   "hook": "Should Texas rescind the H-1B hiring freeze despite program abuse?",
-   "key_points": [
-    "Advocates hope for death penalty changes under the governor-elect.",
-    "The H-1B hiring freeze was previously enacted by Greg Abbott."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Texas",
-    "#USPolitics",
-    "#GinaHinojosa"
-   ],
-   "sources": [
-    "Fox News",
-    "Newsweek"
-   ],
-   "link": "https://www.newsweek.com/future-of-the-texas-death-penalty-under-democratic-governor-gina-hinojosa-12750050",
-   "links": [
-    [
-     "Newsweek",
-     "https://www.newsweek.com/future-of-the-texas-death-penalty-under-democratic-governor-gina-hinojosa-12750050"
-    ],
-    [
-     "Fox News",
-     "https://www.foxnews.com/politics/texas-gov-elect-gina-hinojosa-vows-rescind-abbotts-h1b-visa-restrictions-despite-admitting-program-abuse"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Gina_Hinojosa_at_LBJ_Library_Forum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "LBJ Library / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 10,
-      "shows": "Gina Hinojosa smiling"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Texas Governor-elect Gina Hinojosa vows to change policies",
-    "people": [
-     "Gina Hinojosa"
-    ],
-    "image_query": "Texas State Capitol building",
-    "image_queries": [
-     "Texas Capitol dome",
-     "Austintx skyline",
-     "courtroom gavel",
-     "immigration office building"
-    ],
-    "image_style": "person",
-    "location": "Texas, US",
-    "nearby_city": "Austin, Texas",
-    "event_query": "",
-    "topic_photo": "judge gavel",
-    "label": "US POLITICS",
-    "action_subject": "",
-    "news_time": "2026-11-20T23:37:39+00:00"
-   },
-   "created_at": "2026-11-21T00:31:06.373978+00:00",
-   "news_time": "2026-11-20T23:37:39+00:00",
-   "news_latest": "2026-11-21T00:17:29+00:00",
-   "importance": 6,
-   "caption": "Texas Governor-elect Gina Hinojosa vows to change policies\n\nTexas Governor-elect Gina Hinojosa plans to rescind existing visa restrictions and faces questions from advocates about the future of the state death penalty. Hinojosa acknowledged program abuse while stating her intention to address the H-1B hiring freeze.\n\n💬 Should Texas rescind the H-1B hiring freeze despite program abuse?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Texas #USPolitics #GinaHinojosa #7SeasNews",
-   "photo_line": "📷 10/10 Gina Hinojosa smiling",
-   "status": "posted",
-   "tg_message_id": 880,
-   "tg_file_id": "AgACAgUAAxkDAAIDcGsAAeZMmOyYKrlHbDQ3cu5HKzEc2AAC7BNrG_07CFTmnTcb_faziQEAAwIAA3cAAz0E",
-   "queued_at": "2026-11-21T00:31:08.466530+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-21T00:31:08.466568+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122107977921548584",
-   "posted_at": "2026-11-21T00:31:08.759934+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 20 · 7:31 PM New York · 6:01 AM Sri Lanka\n\n<b>Texas Governor-elect Gina Hinojosa vows to change policies</b>\n<i>Fox News, Newsweek</i>\n🟢 <b>Latest:</b> 5:47 AM Sri Lanka (13 min ago) · first reported 5:07 AM\n📷 10/10 Gina Hinojosa smiling\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122107977921548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 588,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122107977921548584_4424749031188880",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-24T00:26:55.239082+00:00"
-  },
   "86cd91c4cf": {
    "id": "86cd91c4cf",
    "headline": "Democratic lawmaker warns US could halt SpaceX funding over Ukraine dispute",
@@ -10296,17 +10202,13 @@
    "ffd99e9319"
   ]
  ],
- "last_draft_at": "2026-11-25T00:15:38.488136+00:00",
+ "last_draft_at": "2026-11-25T00:30:38.132371+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-24T23:45:34.618804+00:00",
  "run_log": [
-  "11-24 22:01:28 run start",
-  "11-24 22:01:42 listening 11 min",
-  "11-24 22:13:02 listening done",
-  "11-24 22:13:02 run end after 694 s",
   "11-24 22:15:37 run start",
   "11-24 22:16:09 listening 11 min",
   "11-24 22:27:03 listening done",
@@ -10342,7 +10244,11 @@
   "11-25 00:15:38 run start",
   "11-25 00:16:19 listening 11 min",
   "11-25 00:27:12 listening done",
-  "11-25 00:27:12 run end after 694 s"
+  "11-25 00:27:12 run end after 694 s",
+  "11-25 00:30:37 run start",
+  "11-25 00:30:46 listening 11 min",
+  "11-25 00:42:04 listening done",
+  "11-25 00:42:04 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
