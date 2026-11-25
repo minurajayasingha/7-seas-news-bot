@@ -1,108 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "48bdf8571a": {
-   "id": "48bdf8571a",
-   "headline": "Donald Trump says John Cornyn is blocking Dallas judicial nomination",
-   "summary": "President Donald Trump stated that Texas Senator John Cornyn is blocking Department of Justice lawyer Elliot Gaiser's nomination to be a federal judge in Dallas. Trump claimed Cornyn opposed the choice because his feelings were hurt. Cornyn criticized the nomination and said he proposed an alternative candidate.",
-   "label": "US POLITICS",
-   "hook": "Should home-state senators be able to block federal judicial nominations?",
-   "key_points": [
-    "Trump called Cornyn's actions a tremendous disservice.",
-    "Cornyn stated he submitted his own candidate for the judgeship."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#Senate",
-    "#Judiciary"
-   ],
-   "sources": [
-    "Fox News",
-    "Washington Post"
-   ],
-   "link": "https://www.washingtonpost.com/politics/2026/11/21/trump-says-cornyn-blocked-judicial-pick-because-his-feelings-were-hurt/",
-   "links": [
-    [
-     "Washington Post",
-     "https://www.washingtonpost.com/politics/2026/11/21/trump-says-cornyn-blocked-judicial-pick-because-his-feelings-were-hurt/"
-    ],
-    [
-     "Fox News",
-     "https://www.foxnews.com/politics/trump-sen-cornyn-tremendous-disservice-blocking-texas-judicial-pick"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Shealeah Craighead / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 10,
-      "shows": "Donald Trump portrait smiling"
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/John_Cornyn_%2812999214925%29.jpg/1280px-John_Cornyn_%2812999214925%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 9,
-      "shows": "John Cornyn speaking at podium"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Donald Trump says John Cornyn is blocking Dallas judicial nomination",
-    "people": [
-     "Donald Trump",
-     "John Cornyn"
-    ],
-    "image_query": "US Capitol dome",
-    "image_queries": [
-     "Senate chamber",
-     "Capitol Hill",
-     "federal courthouse",
-     "US Supreme Court"
-    ],
-    "image_style": "person",
-    "location": "Dallas, Texas",
-    "nearby_city": "",
-    "event_query": "",
-    "topic_photo": "judge gavel",
-    "label": "US POLITICS",
-    "action_subject": "",
-    "news_time": "2026-11-21T18:57:43+00:00"
-   },
-   "created_at": "2026-11-21T22:18:00.164858+00:00",
-   "news_time": "2026-11-21T18:57:43+00:00",
-   "news_latest": "2026-11-21T21:30:00+00:00",
-   "importance": 6,
-   "caption": "Donald Trump says John Cornyn is blocking Dallas judicial nomination\n\nPresident Donald Trump stated that Texas Senator John Cornyn is blocking Department of Justice lawyer Elliot Gaiser's nomination to be a federal judge in Dallas. Trump claimed Cornyn opposed the choice because his feelings were hurt. Cornyn criticized the nomination and said he proposed an alternative candidate.\n\n💬 Should home-state senators be able to block federal judicial nominations?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Senate #Judiciary #7SeasNews",
-   "photo_line": "📷 9/10 John Cornyn speaking at podium",
-   "status": "posted",
-   "tg_message_id": 904,
-   "tg_file_id": "AgACAgUAAxkDAAIDiGsCGJnKvQXnczlU5E0fPWJx8xlrAAJgEGsboQ8RVJMVPtgeaiNLAQADAgADdwADPQQ",
-   "queued_at": "2026-11-21T22:18:02.277953+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-21T22:18:02.277986+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122108875365548584",
-   "posted_at": "2026-11-21T22:18:02.574186+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 21 · 5:18 PM New York · 3:48 AM Sri Lanka\n\n<b>Donald Trump says John Cornyn is blocking Dallas judicial nomination</b>\n<i>Fox News, Washington Post</i>\n🟢 <b>Latest:</b> 3:00 AM Sri Lanka (48 min ago) · first reported 12:27 AM\n📷 9/10 John Cornyn speaking at podium\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122108875365548584\">Open on Facebook</a>\n\n⚠️ <i>Looks like an earlier post: “Judge blocks Donald Trump proposed triumphal arch in Virginia”. Tap 🗑 Delete if it's the same news.</i>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 613,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122108875365548584_1693633445535646",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-24T21:45:49.330218+00:00"
-  },
   "824c4487ef": {
    "id": "824c4487ef",
    "headline": "Pentagon issues memo limiting social activities with Canadian military",
@@ -6996,11 +6894,92 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122111884785548584_1906958490717171"
+  },
+  "e7cdb25570": {
+   "id": "e7cdb25570",
+   "headline": "US approves possible sale of F-16 equipment to Ukraine",
+   "summary": "The State Department approved a potential sale of $621.9 million in F-16 fighter jet parts to Ukraine. Reports note that U.S. and allied F-16s are among the most effective weapons provided during the war.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Much of Ukraine's air fleet is grounded over maintenance problems.",
+    "Zelensky has criticized the US for delaying Patriot missiles."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Ukraine",
+    "#USStateDepartment",
+    "#F16"
+   ],
+   "sources": [
+    "The Independent",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/policy/defense/4815739/state-department-approves-possible-sale-ukraine-f-16-parts-amid-overuse/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/policy/defense/4815739/state-department-approves-possible-sale-ukraine-f-16-parts-amid-overuse/"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-oil-refineries-casualties-map-b3091150.html"
+    ]
+   ],
+   "bg": {
+    "type": "map",
+    "photos": [],
+    "location": "Kyiv, Ukraine",
+    "lat": 50.45,
+    "lon": 30.52333333,
+    "country": "Ukraine",
+    "state": ""
+   },
+   "img_post": {
+    "headline": "US approves possible sale of F-16 equipment to Ukraine",
+    "people": [],
+    "image_query": "Kyiv city",
+    "image_queries": [
+     "military aircraft parts",
+     "fighter jet maintenance",
+     "US State Department",
+     "aviation equipment"
+    ],
+    "image_style": "scene",
+    "location": "Kyiv, Ukraine",
+    "nearby_city": "Kyiv, Ukraine",
+    "event_query": "",
+    "topic_photo": "fighter jet",
+    "label": "CONFLICT",
+    "action_subject": "F-16 fighter jet",
+    "news_time": "2026-11-25T22:09:16+00:00"
+   },
+   "created_at": "2026-11-25T22:16:41.368062+00:00",
+   "news_time": "2026-11-25T22:09:16+00:00",
+   "news_latest": "2026-11-25T22:13:48+00:00",
+   "importance": 8,
+   "caption": "US approves possible sale of F-16 equipment to Ukraine\n\nThe State Department approved a potential sale of $621.9 million in F-16 fighter jet parts to Ukraine. Reports note that U.S. and allied F-16s are among the most effective weapons provided during the war.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Ukraine #USStateDepartment #F16 #7SeasNews",
+   "photo_line": "📷 news map (no fitting photo)",
+   "status": "posted",
+   "tg_message_id": 997,
+   "tg_file_id": "AgACAgUAAxkDAAID5WsHXkuzjilDRkXN9LQJ6gLvM74kAAJnEmsbr_w5VCDP_dzFs2BYAQADAgADdwADPQQ",
+   "queued_at": "2026-11-25T22:16:43.846883+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-25T22:16:43.846903+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122111890005548584",
+   "posted_at": "2026-11-25T22:16:44.266621+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 25 · 5:16 PM New York · 3:46 AM Sri Lanka\n\n<b>US approves possible sale of F-16 equipment to Ukraine</b>\n<i>The Independent, Washington Examiner</i>\n🟢 <b>Latest:</b> 3:43 AM Sri Lanka (3 min ago) · first reported 3:39 AM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122111890005548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 705,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122111890005548584_1444269671025744"
   }
  },
  "seen_links": [
-  "https://www.france24.com/en/americas/20261111-haiti-pm-bukele-salvadoran-troops-gang-headquarters",
-  "https://www.independent.co.uk/news/world/americas/los-angeles-accident-three-dead-b3082832.html",
   "https://www.washingtonexaminer.com/news/4799692/car-hits-pedestrians-north-hollywood-crash/",
   "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss",
   "https://www.nbcnews.com/world/united-kingdom/us-charges-3-men-plotting-multiple-terrorist-attacks-planned-attack-uk-rcna608647",
@@ -8998,7 +8977,9 @@
   "https://www.cbsnews.com/news/iowa-detonation-lead-white-house-blindsided-accountability/",
   "https://thehill.com/homenews/house/6243439-hakeem-jeffries-trump-administration-army-iowa-lead-azide-detonation-criticism/",
   "https://thehill.com/homenews/administration/6243737-migrant-lottery-ice-arrest/",
-  "https://www.independent.co.uk/news/world/americas/us-politics/ice-arrest-boston-lottery-b3091654.html"
+  "https://www.independent.co.uk/news/world/americas/us-politics/ice-arrest-boston-lottery-b3091654.html",
+  "https://www.washingtonexaminer.com/policy/defense/4815739/state-department-approves-possible-sale-ukraine-f-16-parts-amid-overuse/",
+  "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-oil-refineries-casualties-map-b3091150.html"
  ],
  "recent_topics": [
   [
@@ -11165,19 +11146,43 @@
     "whit"
    ],
    "27a6a70713"
+  ],
+  [
+   "2026-11-25T22:16:43.846759+00:00",
+   [
+    "16",
+    "announc",
+    "approv",
+    "bomb",
+    "capital",
+    "children",
+    "critical",
+    "department",
+    "equipment",
+    "family",
+    "kyiv",
+    "melania",
+    "part",
+    "possibl",
+    "reunion",
+    "russia",
+    "sal",
+    "stat",
+    "trump",
+    "ukrain",
+    "ukraine-russia",
+    "war"
+   ],
+   "e7cdb25570"
   ]
  ],
- "last_draft_at": "2026-11-25T22:01:26.960731+00:00",
+ "last_draft_at": "2026-11-25T22:15:52.422898+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T22:00:54.270698+00:00",
  "run_log": [
-  "11-25 19:45:47 run start",
-  "11-25 19:49:09 listening 8 min",
-  "11-25 19:57:33 listening done",
-  "11-25 19:57:33 run end after 705 s",
   "11-25 20:00:45 run start",
   "11-25 20:02:30 listening 10 min",
   "11-25 20:12:32 listening done",
@@ -11213,7 +11218,11 @@
   "11-25 22:00:53 run start",
   "11-25 22:02:15 listening 10 min",
   "11-25 22:12:19 listening done",
-  "11-25 22:12:19 run end after 685 s"
+  "11-25 22:12:19 run end after 685 s",
+  "11-25 22:15:51 run start",
+  "11-25 22:16:59 listening 10 min",
+  "11-25 22:27:29 listening done",
+  "11-25 22:27:29 run end after 697 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -16865,10 +16874,10 @@
   "2026-11-22": 11,
   "2026-11-23": 20,
   "2026-11-24": 23,
-  "2026-11-25": 17
+  "2026-11-25": 18
  },
- "last_auto_at": "2026-11-25T22:02:00.859913+00:00",
- "last_post_at": "2026-11-25T22:02:06.244379+00:00",
+ "last_auto_at": "2026-11-25T22:16:44.266621+00:00",
+ "last_post_at": "2026-11-25T22:16:49.485541+00:00",
  "reels_count": {
   "2026-11-19": 3,
   "2026-11-20": 3,
