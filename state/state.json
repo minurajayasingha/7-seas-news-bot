@@ -6911,8 +6911,6 @@
   }
  },
  "seen_links": [
-  "https://thehill.com/the-120/6212040-cornyn-talarico-senate-transition/",
-  "https://www.foxnews.com/politics/cornyn-meets-sen-elect-talarico-describes-him-basically-good-person",
   "https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971?traffic_source=rss",
   "https://www.upi.com/Top_News/US/2026/11/10/gallup-fewer-50-percent-americans-death-penalty/5601794343812/",
   "https://abcnews.com/International/wireStory/dominican-president-backs-bukele-salvadoran-troops-haiti-138027231",
@@ -8910,7 +8908,9 @@
   "https://www.washingtonpost.com/politics/interactive/2026/11/18/these-are-senate-democrats-backing-schumer-van-hollen-majority-leader/",
   "https://www.nytimes.com/2026/11/25/us/politics/van-hollen-schumer-israel-senate.html",
   "https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says?traffic_source=rss",
-  "https://www.independent.co.uk/news/world/africa/egypt-fire-vehicle-flip-deaths-b3091723.html"
+  "https://www.independent.co.uk/news/world/africa/egypt-fire-vehicle-flip-deaths-b3091723.html",
+  "https://thehill.com/homenews/state-watch/6243130-iowa-lead-azide-detonation-us-food-supply/",
+  "https://www.newsweek.com/trump-admin-officials-praise-stephen-miller-over-iowa-lead-azide-detonation-12768227"
  ],
  "recent_topics": [
   [
@@ -10811,19 +10811,35 @@
     "urg"
    ],
    "9f3c068b5d"
+  ],
+  [
+   "2026-11-25T19:31:03.502046+00:00",
+   [
+    "admin",
+    "affect",
+    "azid",
+    "detonation",
+    "food",
+    "iowa",
+    "lead",
+    "miller",
+    "nation",
+    "official",
+    "prais",
+    "stephen",
+    "supply",
+    "trump"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-25T19:15:37.169751+00:00",
+ "last_draft_at": "2026-11-25T19:30:44.461115+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T19:02:48.132079+00:00",
  "run_log": [
-  "11-25 17:00:48 run start",
-  "11-25 17:01:22 listening 11 min",
-  "11-25 17:12:15 listening done",
-  "11-25 17:12:15 run end after 687 s",
   "11-25 17:15:38 run start",
   "11-25 17:17:17 listening 10 min",
   "11-25 17:27:22 listening done",
@@ -10859,7 +10875,11 @@
   "11-25 19:15:36 run start",
   "11-25 19:15:46 listening 11 min",
   "11-25 19:27:05 listening done",
-  "11-25 19:27:05 run end after 688 s"
+  "11-25 19:27:05 run end after 688 s",
+  "11-25 19:30:44 run start",
+  "11-25 19:31:03 listening 11 min",
+  "11-25 19:42:21 listening done",
+  "11-25 19:42:21 run end after 697 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
