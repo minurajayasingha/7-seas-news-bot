@@ -1,98 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "45201d2fd3": {
-   "id": "45201d2fd3",
-   "headline": "FBI investigates potential breach of criminal database",
-   "summary": "The FBI is investigating an apparent hack of the National Crime Information Center. The database is used by federal and local law enforcement to share information.",
-   "label": "US POLITICS",
-   "hook": "",
-   "key_points": [
-    "Investigation involves the National Crime Information Center",
-    "Two sources briefed NBC News on the inquiry"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#FBI",
-    "#CyberSecurity",
-    "#LawEnforcement"
-   ],
-   "sources": [
-    "BBC",
-    "NBC News"
-   ],
-   "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-   "links": [
-    [
-     "BBC",
-     "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
-    ],
-    [
-     "NBC News",
-     "https://www.nbcnews.com/politics/justice-department/fbi-investigating-potential-breach-crime-database-rcna610536"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Washington_DC_Skyline.jpg",
-      "credit": "Washington Photo Safari / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 6,
-      "shows": "Washington DC skyline"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "FBI investigates potential breach of criminal database",
-    "people": [],
-    "image_query": "FBI headquarters building",
-    "image_queries": [
-     "Federal Bureau of Investigation seal",
-     "police computer terminal",
-     "data center servers",
-     "Washington DC skyline"
-    ],
-    "image_style": "scene",
-    "location": "United States",
-    "nearby_city": "Washington, D.C.",
-    "event_query": "FBI database hack investigation",
-    "topic_photo": "computer servers",
-    "label": "US POLITICS",
-    "action_subject": "law enforcement computer database",
-    "news_time": "2026-11-21T04:19:51+00:00"
-   },
-   "created_at": "2026-11-21T10:01:37.744548+00:00",
-   "news_time": "2026-11-21T04:19:51+00:00",
-   "news_latest": "2026-11-21T09:34:20+00:00",
-   "importance": 7,
-   "caption": "FBI investigates potential breach of criminal database\n\nThe FBI is investigating an apparent hack of the National Crime Information Center. The database is used by federal and local law enforcement to share information.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#FBI #CyberSecurity #LawEnforcement #7SeasNews",
-   "photo_line": "📷 6/10 Washington DC skyline",
-   "status": "posted",
-   "tg_message_id": 887,
-   "tg_file_id": "AgACAgUAAxkDAAIDd2sBbAOAKia0A8dGI1qgO8o_Xfv3AAJ0FWsb_TsQVImYdLdDD1u1AQADAgADdwADPQQ",
-   "queued_at": "2026-11-21T10:01:40.160459+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-21T10:01:40.160488+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122108336301548584",
-   "posted_at": "2026-11-21T10:01:40.538921+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 21 · 5:01 AM New York · 3:31 PM Sri Lanka\n\n<b>FBI investigates potential breach of criminal database</b>\n<i>BBC, NBC News</i>\n🟢 <b>Latest:</b> 3:04 PM Sri Lanka (27 min ago) · first reported 9:49 AM\n📷 6/10 Washington DC skyline\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122108336301548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 593,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122108336301548584_1494559075909025",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-24T09:38:21.720272+00:00"
-  },
   "6433155462": {
    "id": "6433155462",
    "headline": "UN talks on AI killer robots extend until 2028",
@@ -10927,17 +10835,13 @@
    "51474f06b5"
   ]
  ],
- "last_draft_at": "2026-11-25T09:46:19.196161+00:00",
+ "last_draft_at": "2026-11-25T10:00:51.645148+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T09:46:02.458813+00:00",
  "run_log": [
-  "11-25 07:30:39 run start",
-  "11-25 07:31:13 listening 11 min",
-  "11-25 07:42:06 listening done",
-  "11-25 07:42:06 run end after 686 s",
   "11-25 07:45:39 run start",
   "11-25 07:46:12 listening 11 min",
   "11-25 07:57:07 listening done",
@@ -10973,7 +10877,11 @@
   "11-25 09:46:02 run start",
   "11-25 09:46:20 listening 11 min",
   "11-25 09:57:38 listening done",
-  "11-25 09:57:38 run end after 696 s"
+  "11-25 09:57:38 run end after 696 s",
+  "11-25 10:00:51 run start",
+  "11-25 10:01:25 listening 11 min",
+  "11-25 10:12:18 listening done",
+  "11-25 10:12:18 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
