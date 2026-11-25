@@ -1,100 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "e2d20caa20": {
-   "id": "e2d20caa20",
-   "headline": "Dow and S&P 500 enter correction as Nasdaq plunges",
-   "summary": "U.S. stocks dropped as a sell-off in artificial intelligence and semiconductor companies pushed markets into correction territory. The Nasdaq Composite erased its gains for the year during the market downturn.",
-   "label": "ECONOMY",
-   "hook": "How will the artificial intelligence sector recover from this recent market sell-off?",
-   "key_points": [
-    "Nasdaq Composite erased 2026 gains",
-    "S&P 500 and Dow entered correction territory",
-    "Sell-off driven by semiconductor companies"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#StockMarket",
-    "#Nasdaq",
-    "#Economy"
-   ],
-   "sources": [
-    "NBC News",
-    "UPI"
-   ],
-   "link": "https://www.nbcnews.com/nightly-news/video/stock-markets-plunge-as-nasdaq-erases-2026-gains-273933381824",
-   "links": [
-    [
-     "NBC News",
-     "https://www.nbcnews.com/nightly-news/video/stock-markets-plunge-as-nasdaq-erases-2026-gains-273933381824"
-    ],
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/US/2026/11/20/stocks-dow-jones-nasdaq-correction-territory/1061795214998/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/U.S._Service_members_pose_for_a_photo_after_ringing_the_closing_bell_at_the_New_York_Stock_Exchange_in_New_York_May_24%2C_2013_130524-O-ZZ999-002.jpg/1920px-U.S._Service_members_pose_for_a_photo_after_ringing_the_closing_bell_at_the_New_York_Stock_Exchange_in_New_York_May_24%2C_2013_130524-O-ZZ999-002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Dario Cantatore / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 8,
-      "shows": "trading floor with stock screens"
-     }
-    ],
-    "file_photo": true
-   },
-   "img_post": {
-    "headline": "Dow and S&P 500 enter correction as Nasdaq plunges",
-    "people": [],
-    "image_query": "Wall Street stock exchange",
-    "image_queries": [
-     "Nasdaq stock market",
-     "Wall Street trading floor",
-     "New York Stock Exchange",
-     "financial district skyline"
-    ],
-    "image_style": "scene",
-    "location": "United States",
-    "nearby_city": "New York, New York",
-    "event_query": "stock market sell-off",
-    "topic_photo": "stock market chart",
-    "label": "ECONOMY",
-    "action_subject": "stock exchange trading floor",
-    "news_time": "2026-11-20T23:14:22+00:00"
-   },
-   "created_at": "2026-11-21T01:21:24.040243+00:00",
-   "news_time": "2026-11-20T23:14:22+00:00",
-   "news_latest": "2026-11-20T23:49:12+00:00",
-   "importance": 7,
-   "caption": "Dow and S&P 500 enter correction as Nasdaq plunges\n\nU.S. stocks dropped as a sell-off in artificial intelligence and semiconductor companies pushed markets into correction territory. The Nasdaq Composite erased its gains for the year during the market downturn.\n\n💬 How will the artificial intelligence sector recover from this recent market sell-off?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#StockMarket #Nasdaq #Economy #7SeasNews",
-   "photo_line": "📷 8/10 trading floor with stock screens · FILE PHOTO",
-   "status": "posted",
-   "tg_message_id": 883,
-   "tg_file_id": "AgACAgUAAxkDAAIDc2sAAfIWEj8wLTNwLna9-T-ISAo_rQAC-hNrG_07CFQ_mkpzX-bdAQEAAwIAA3cAAz0E",
-   "queued_at": "2026-11-21T01:21:26.890667+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-21T01:21:26.890686+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122108018061548584",
-   "posted_at": "2026-11-21T01:21:27.256324+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 20 · 8:21 PM New York · 6:51 AM Sri Lanka\n\n<b>Dow and S&amp;P 500 enter correction as Nasdaq plunges</b>\n<i>NBC News, UPI</i>\n🟡 <b>Latest:</b> 5:19 AM Sri Lanka (1h 32m ago) · first reported 4:44 AM\n📷 8/10 trading floor with stock screens · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122108018061548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 591,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122108018061548584_1801709910881739",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-24T00:26:55.239082+00:00"
-  },
   "ee53f844b2": {
    "id": "ee53f844b2",
    "headline": "Zelenskyy calls Putin a killer after Trump comments",
@@ -10159,17 +10065,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-25T01:00:52.442928+00:00",
+ "last_draft_at": "2026-11-25T01:15:35.744830+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T00:45:35.715856+00:00",
  "run_log": [
-  "11-24 22:45:47 run start",
-  "11-24 22:46:29 listening 11 min",
-  "11-24 22:57:23 listening done",
-  "11-24 22:57:23 run end after 695 s",
   "11-24 23:01:09 run start",
   "11-24 23:01:11 listening 11 min",
   "11-24 23:12:54 listening done",
@@ -10205,7 +10107,11 @@
   "11-25 01:00:51 run start",
   "11-25 01:01:00 listening 11 min",
   "11-25 01:12:24 listening done",
-  "11-25 01:12:24 run end after 692 s"
+  "11-25 01:12:24 run end after 692 s",
+  "11-25 01:15:35 run start",
+  "11-25 01:15:55 listening 11 min",
+  "11-25 01:27:13 listening done",
+  "11-25 01:27:13 run end after 698 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
