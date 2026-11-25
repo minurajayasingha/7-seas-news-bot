@@ -7181,11 +7181,96 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122111593155548584_1163955806130036"
+  },
+  "fa9fe84258": {
+   "id": "fa9fe84258",
+   "headline": "US administration rules out troops in Ukraine under post-war security guarantees",
+   "summary": "The US administration announced it will not provide troops or military bases in Ukraine as part of post-war security guarantees. Meanwhile, reports indicate that France, Italy, and the UK remain supportive of bringing Ukraine into NATO.",
+   "label": "DIPLOMACY",
+   "hook": "Will other nations step in to provide the security guarantees that Ukraine is seeking?",
+   "key_points": [
+    "President Trump recently met with Xi Jinping and Putin at a trilateral summit.",
+    "The decision falls short of expectations in Kyiv.",
+    "France, Italy, and the UK discussed NATO membership support at a meeting."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Ukraine",
+    "#USPolitics",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Kyiv Independent",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/europe/ukraine-us-troops-trump-russia-war-deal-b3091277.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/europe/ukraine-us-troops-trump-russia-war-deal-b3091277.html"
+    ],
+    [
+     "Kyiv Independent",
+     "https://kyivindependent.com/exclusive-us-rules-out-troops-military-bases-in-ukraine-under-post-war-security-guarantees-falling-short-of-kyivs-expectations/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/White_House_Washington.JPG",
+      "credit": "User:Cezary Piwowarczyk / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "The White House, Washington"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "US administration rules out troops in Ukraine under post-war security guarantees",
+    "people": [],
+    "image_query": "White House",
+    "image_queries": [
+     "US Capitol building",
+     "State Department building",
+     "NATO headquarters",
+     "Kyiv city"
+    ],
+    "image_style": "scene",
+    "location": "Washington, DC, US",
+    "nearby_city": "Washington, DC",
+    "event_query": "",
+    "topic_photo": "diplomatic meeting",
+    "label": "DIPLOMACY",
+    "action_subject": "",
+    "news_time": "2026-11-25T07:57:52+00:00"
+   },
+   "created_at": "2026-11-25T12:16:59.330635+00:00",
+   "news_time": "2026-11-25T07:57:52+00:00",
+   "news_latest": "2026-11-25T12:04:43+00:00",
+   "importance": 8,
+   "caption": "US administration rules out troops in Ukraine under post-war security guarantees\n\nThe US administration announced it will not provide troops or military bases in Ukraine as part of post-war security guarantees. Meanwhile, reports indicate that France, Italy, and the UK remain supportive of bringing Ukraine into NATO.\n\n💬 Will other nations step in to provide the security guarantees that Ukraine is seeking?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Ukraine #USPolitics #WorldNews #7SeasNews",
+   "photo_line": "📷 10/10 The White House, Washington",
+   "status": "posted",
+   "tg_message_id": 985,
+   "tg_file_id": "AgACAgUAAxkDAAID2WsG0b2d7Fng8Ek362ihxpmNRua1AAJJEmsbr_wxVKyj3em3iOB6AQADAgADdwADPQQ",
+   "queued_at": "2026-11-25T12:17:01.888588+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-25T12:17:01.888624+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122111599983548584",
+   "posted_at": "2026-11-25T12:17:02.230872+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 25 · 7:17 AM New York · 5:47 PM Sri Lanka\n\n<b>US administration rules out troops in Ukraine under post-war security guarantees</b>\n<i>Kyiv Independent, The Independent</i>\n🟢 <b>Latest:</b> 5:34 PM Sri Lanka (12 min ago) · first reported 1:27 PM\n📷 10/10 The White House, Washington\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122111599983548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 693,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122111599983548584_1830933454609799"
   }
  },
  "seen_links": [
-  "https://www.theguardian.com/us-news/2026/nov/10/trump-toe-statue-dc-vietnam-war-draft",
-  "https://www.independent.co.uk/news/world/americas/us-politics/trump-statue-draft-dodging-washington-dc-b3082317.html",
   "https://www.newsweek.com/donald-trump-approval-rating-change-midterms-poll-12693782",
   "https://www.dw.com/en/japan-watches-for-signs-of-change-in-trump-s-foreign-policy-priorities/a-79909398?maca=en-rss-en-world-4025-rdf",
   "https://www.euronews.com/2026/11/10/gcc-members-agree-to-station-forces-at-new-military-command-post-in-kuwait",
@@ -9183,7 +9268,9 @@
   "https://www.newsweek.com/pregnant-women-detained-ice-750-percent-longer-trump-12766565",
   "https://www.newsweek.com/dhs-links-man-arrested-ice-stickers-threatening-trump-12764367",
   "https://www.washingtonexaminer.com/news/white-house/4814397/trump-newsom-political-feud-neither-can-quit/",
-  "https://thehill.com/homenews/campaign/6241369-trump-newsom-death-row-clash/"
+  "https://thehill.com/homenews/campaign/6241369-trump-newsom-death-row-clash/",
+  "https://www.independent.co.uk/news/world/europe/ukraine-us-troops-trump-russia-war-deal-b3091277.html",
+  "https://kyivindependent.com/exclusive-us-rules-out-troops-military-bases-in-ukraine-under-post-war-security-guarantees-falling-short-of-kyivs-expectations/"
  ],
  "recent_topics": [
   [
@@ -11196,19 +11283,37 @@
     "trump"
    ],
    "493c59d042"
+  ],
+  [
+   "2026-11-25T12:17:01.888419+00:00",
+   [
+    "administration",
+    "bas",
+    "exclusiv",
+    "expectation",
+    "fall",
+    "guarante",
+    "kyiv",
+    "military",
+    "part",
+    "post-war",
+    "rul",
+    "security",
+    "short",
+    "troop",
+    "trump",
+    "ukrain"
+   ],
+   "fa9fe84258"
   ]
  ],
- "last_draft_at": "2026-11-25T12:00:54.717663+00:00",
+ "last_draft_at": "2026-11-25T12:15:56.685106+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T11:45:31.414661+00:00",
  "run_log": [
-  "11-25 09:46:02 run start",
-  "11-25 09:46:20 listening 11 min",
-  "11-25 09:57:38 listening done",
-  "11-25 09:57:38 run end after 696 s",
   "11-25 10:00:51 run start",
   "11-25 10:01:25 listening 11 min",
   "11-25 10:12:18 listening done",
@@ -11244,12 +11349,15 @@
   "11-25 12:00:54 run start",
   "11-25 12:02:17 listening 10 min",
   "11-25 12:12:22 listening done",
-  "11-25 12:12:22 run end after 687 s"
+  "11-25 12:12:22 run end after 687 s",
+  "11-25 12:15:56 run start",
+  "11-25 12:17:18 listening 10 min",
+  "11-25 12:27:22 listening done",
+  "11-25 12:27:22 run end after 685 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Example_voting_booth_from_USA_%28Connecticut%29.jpg/1920px-Example_voting_booth_from_USA_%28Connecticut%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/8/8a/Sacramento%2C-California---State-Capitol_%28cropped%29.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_01.jpg/1920px-A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -11288,7 +11396,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Gadi_Eisenkot_2_%28cropped%29_3x4.jpg/1280px-Gadi_Eisenkot_2_%28cropped%29_3x4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/7/77/Chen_Jining_2019.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/COP31_-_Gavin_Newsom_13.jpg/1280px-COP31_-_Gavin_Newsom_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/COP31_-_Gavin_Newsom_13.jpg/1280px-COP31_-_Gavin_Newsom_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/e/e1/White_House_Washington.JPG"
   ],
   "pools": {
    "howard lutnick": {
@@ -14519,7 +14628,6 @@
    }
   },
   "recent_ideas": [
-   "computer servers",
    "medical syringe",
    "courtroom",
    "military aircraft",
@@ -14530,7 +14638,8 @@
    "canberra skyline",
    "cargo ship",
    "police officers at work",
-   "soldiers"
+   "soldiers",
+   "white house, washington"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -16787,6 +16896,16 @@
     "s": 0,
     "w": "Sana'a skyline",
     "p": "wrong city in Yemen"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/US_Army_soldier_welding_two_metal_pieces%2C_Fort_Gregg-Adams%2C_Virginia%2C_March_2025.jpg/1920px-US_Army_soldier_welding_two_metal_pieces%2C_Fort_Gregg-Adams%2C_Virginia%2C_March_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|58ca5c9b": {
+    "s": 0,
+    "w": "welder with protective mask",
+    "p": "photo shows a welder, not troops or military security"
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/e/e1/White_House_Washington.JPG|58ca5c9b": {
+    "s": 10,
+    "w": "The White House, Washington",
+    "p": ""
    }
   }
  },
@@ -16798,10 +16917,10 @@
   "2026-11-22": 11,
   "2026-11-23": 20,
   "2026-11-24": 23,
-  "2026-11-25": 8
+  "2026-11-25": 9
  },
- "last_auto_at": "2026-11-25T12:01:54.117296+00:00",
- "last_post_at": "2026-11-25T12:02:04.343070+00:00",
+ "last_auto_at": "2026-11-25T12:17:02.230872+00:00",
+ "last_post_at": "2026-11-25T12:17:07.624122+00:00",
  "reels_count": {
   "2026-11-19": 3,
   "2026-11-20": 3,
