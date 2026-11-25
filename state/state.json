@@ -6801,11 +6801,105 @@
     "shares": 0
    },
    "stats_at": "2026-11-25T07:45:40.379718+00:00"
+  },
+  "d9608f9baa": {
+   "id": "d9608f9baa",
+   "headline": "Donald Trump raises tariffs on sixteen major economies",
+   "summary": "Donald Trump plans to raise tariffs on China, the European Union, and 14 other trading partners. Reports indicate the administration will soon announce these measures.",
+   "label": "ECONOMY",
+   "hook": "",
+   "key_points": [
+    "Involves 16 major global economies",
+    "Targets China and the European Union",
+    "Plans expected to be announced soon"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Tariffs",
+    "#Trade",
+    "#Economy"
+   ],
+   "sources": [
+    "Sky News",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-tariffs-china-eu-trade-b3091177.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/us-politics/trump-tariffs-china-eu-trade-b3091177.html"
+    ],
+    [
+     "Sky News",
+     "https://news.sky.com/story/donald-trump-set-to-raise-tariffs-on-16-major-economies-13616253"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Cargo_ship_Lake_Victoria%2C_St._Johns_River.jpg/1920px-Cargo_ship_Lake_Victoria%2C_St._Johns_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Olga Ernst / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 8,
+      "shows": "cargo ship on water"
+     }
+    ],
+    "file_photo": true,
+    "inset": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Donald_Trump_RNC_July_2016.jpg/1280px-Donald_Trump_RNC_July_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credit": "Ali Shaker/VOA / Wikimedia Commons (Public domain)",
+     "short": "WIKIMEDIA COMMONS",
+     "score": null
+    }
+   },
+   "img_post": {
+    "headline": "Donald Trump raises tariffs on sixteen major economies",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "White House",
+    "image_queries": [
+     "cargo ship",
+     "trade containers",
+     "port of los angeles",
+     "global shipping"
+    ],
+    "image_style": "scene",
+    "location": "Washington, DC, US",
+    "nearby_city": "Washington, DC",
+    "event_query": "White House trade announcement",
+    "topic_photo": "cargo ship",
+    "label": "ECONOMY",
+    "action_subject": "cargo ship",
+    "news_time": "2026-11-25T02:45:00+00:00"
+   },
+   "created_at": "2026-11-25T08:18:14.307248+00:00",
+   "news_time": "2026-11-25T02:45:00+00:00",
+   "news_latest": "2026-11-25T08:01:17+00:00",
+   "importance": 8,
+   "caption": "Donald Trump raises tariffs on sixteen major economies\n\nDonald Trump plans to raise tariffs on China, the European Union, and 14 other trading partners. Reports indicate the administration will soon announce these measures.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Tariffs #Trade #Economy #7SeasNews",
+   "photo_line": "📷 8/10 cargo ship on water · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 977,
+   "tg_file_id": "AgACAgUAAxkDAAID0WsGmcgGuVxg5qn5Dc9lq_K7TN2DAAKxEWsbr_wxVK63sXZZC4uoAQADAgADdwADPQQ",
+   "queued_at": "2026-11-25T08:18:17.052345+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-25T08:18:17.052366+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122111504553548584",
+   "posted_at": "2026-11-25T08:18:17.402134+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 25 · 3:18 AM New York · 1:48 PM Sri Lanka\n\n<b>Donald Trump raises tariffs on sixteen major economies</b>\n<i>Sky News, The Independent</i>\n🟢 <b>Latest:</b> 1:31 PM Sri Lanka (17 min ago) · first reported 8:15 AM\n📷 8/10 cargo ship on water · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122111504553548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 684,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122111504553548584_1146148318339451"
   }
  },
  "seen_links": [
-  "https://www.cbsnews.com/news/congo-soldiers-death-sentence-execution-for-cowardice/",
-  "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss",
   "https://www.france24.com/en/video/20261110-france-vows-tough-response-to-freezer-cyberattack-blamed-on-iran",
   "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html",
   "https://thehill.com/newsletters/the-movement/6209451-conservative-ballot-measures-win-big-gop-losses/",
@@ -8803,7 +8897,9 @@
   "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
   "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco",
   "https://www.france24.com/en/tv-shows/sports/20261125-2025-afcon-cas-gives-title-to-senegal-as-morocco-vows-to-challenge-verdict",
-  "https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss"
+  "https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss",
+  "https://www.independent.co.uk/news/world/americas/us-politics/trump-tariffs-china-eu-trade-b3091177.html",
+  "https://news.sky.com/story/donald-trump-set-to-raise-tariffs-on-16-major-economies-13616253"
  ],
  "recent_topics": [
   [
@@ -10694,19 +10790,39 @@
     "vow"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-25T08:18:17.052220+00:00",
+   [
+    "14",
+    "16",
+    "china",
+    "donald",
+    "economy",
+    "european",
+    "fresh",
+    "major",
+    "other",
+    "partner",
+    "rais",
+    "ready",
+    "set",
+    "tariff",
+    "trad",
+    "trump",
+    "union",
+    "wav"
+   ],
+   "d9608f9baa"
   ]
  ],
- "last_draft_at": "2026-11-25T08:00:44.837914+00:00",
+ "last_draft_at": "2026-11-25T08:15:48.891022+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T07:45:40.379718+00:00",
  "run_log": [
-  "11-25 05:46:00 run start",
-  "11-25 05:46:49 listening 11 min",
-  "11-25 05:57:44 listening done",
-  "11-25 05:57:44 run end after 703 s",
   "11-25 06:00:44 run start",
   "11-25 06:01:04 listening 11 min",
   "11-25 06:12:24 listening done",
@@ -10742,13 +10858,15 @@
   "11-25 08:00:44 run start",
   "11-25 08:00:54 listening 11 min",
   "11-25 08:12:13 listening done",
-  "11-25 08:12:13 run end after 688 s"
+  "11-25 08:12:13 run end after 688 s",
+  "11-25 08:15:47 run start",
+  "11-25 08:18:30 listening 9 min",
+  "11-25 08:27:19 listening done",
+  "11-25 08:27:19 run end after 692 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Seattle-Tacoma_International_Airport%2C_Washington_%282014%29_-_01.JPG/1920px-Seattle-Tacoma_International_Airport%2C_Washington_%282014%29_-_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/9/97/Dearborn_Hills_Golf_Course_clubhouse_Michigan.JPG",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Policia_portuaria%2C_Kiel%2C_Alemania%2C_2019-08-30%2C_DD_18.jpg/1920px-Policia_portuaria%2C_Kiel%2C_Alemania%2C_2019-08-30%2C_DD_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Moscow_Tverskaya_Zastava_Square_2023-06-11_4579.jpg/1920px-Moscow_Tverskaya_Zastava_Square_2023-06-11_4579.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Turbine_near_the_G%C3%B6sgen_Nuclear_Power_Plant%2C_D%C3%A4niken%2C_Solothurn.jpg/1920px-Turbine_near_the_G%C3%B6sgen_Nuclear_Power_Plant%2C_D%C3%A4niken%2C_Solothurn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -10786,7 +10904,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/USS_Theodore_Roosevelt_operations_160322-N-DM308-040.jpg/1920px-USS_Theodore_Roosevelt_operations_160322-N-DM308-040.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Canberra_skyline%2C_York_Park_conservation_site%2C_The_National_Circuit%2C_Barton%2C_ACT_IMGP9718.jpg/1920px-Canberra_skyline%2C_York_Park_conservation_site%2C_The_National_Circuit%2C_Barton%2C_ACT_IMGP9718.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Senator_Dan_Sullivan_official.jpg/1280px-Senator_Dan_Sullivan_official.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Rep._Mary_Peltola_headshot_%28cropped%29.jpg/1280px-Rep._Mary_Peltola_headshot_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Rep._Mary_Peltola_headshot_%28cropped%29.jpg/1280px-Rep._Mary_Peltola_headshot_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Cargo_ship_Lake_Victoria%2C_St._Johns_River.jpg/1920px-Cargo_ship_Lake_Victoria%2C_St._Johns_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Donald_Trump_RNC_July_2016.jpg/1280px-Donald_Trump_RNC_July_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -14105,7 +14225,6 @@
    }
   },
   "recent_ideas": [
-   "pyongyang skyline",
    "warsaw skyline",
    "kuala lumpur cityscape",
    "computer servers",
@@ -14116,7 +14235,8 @@
    "courtroom",
    "coast guard rescue boat",
    "hazardous materials barrels",
-   "canberra skyline"
+   "canberra skyline",
+   "cargo ship"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -16333,6 +16453,11 @@
     "s": 10,
     "w": "Mary Peltola smiling",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Cargo_ship_Lake_Victoria%2C_St._Johns_River.jpg/1920px-Cargo_ship_Lake_Victoria%2C_St._Johns_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|9a24a7f9": {
+    "s": 8,
+    "w": "cargo ship on water",
+    "p": ""
    }
   }
  },
@@ -16344,10 +16469,10 @@
   "2026-11-22": 11,
   "2026-11-23": 20,
   "2026-11-24": 23,
-  "2026-11-25": 1
+  "2026-11-25": 2
  },
- "last_auto_at": "2026-11-25T05:01:18.895340+00:00",
- "last_post_at": "2026-11-25T05:01:24.217749+00:00",
+ "last_auto_at": "2026-11-25T08:18:17.402134+00:00",
+ "last_post_at": "2026-11-25T08:18:22.154760+00:00",
  "reels_count": {
   "2026-11-18": 3,
   "2026-11-19": 3,
@@ -17700,7 +17825,7 @@
    }
   },
   "2026-11-24": {
-   "status": "asked",
+   "status": "building",
    "plan": {
     "parts": [
      {
@@ -17855,7 +17980,35 @@
    ],
    "asked_at": "2026-11-25T05:00:51.890482+00:00",
    "test": false,
-   "msg_id": 975
+   "msg_id": 975,
+   "approved_by": "auto",
+   "approved_at": "2026-11-25T08:15:48.234054+00:00",
+   "dispatch_at": "2026-11-25T08:15:48.234063+00:00",
+   "dispatch_tries": 1,
+   "headlines": [
+    "Israeli strikes kill Hamas internal security chief in Gaza",
+    "Trump administration considers targeting Iranian leaders to end war",
+    "Rebel group halts advance in DR Congo after talks",
+    "Armed men seize supermarket and take hostages in Cartagena",
+    "Car bomb detonates in central Colombian city of Villavicencio",
+    "NATO authorizes early-warning aircraft deployment to Poland",
+    "Rep Byron Donalds prepares to take office as Florida governor",
+    "Former Pentagon Chief of Staff Joe Kasper Urges Pete Hegseth to Resign",
+    "Trump to present Rudy Giuliani with Medal of Freedom",
+    "US spy agencies suffer breach of unclassified information",
+    "New York jury convicts Huawei of stealing trade secrets",
+    "Army shooter Nidal Hasan plans petition to delay execution",
+    "Newborn hepatitis B vaccination rates drop in the US",
+    "US army schedules controlled explosion of lead azide barrels in Iowa",
+    "Solomon Islands and Australia sign new security treaty in Canberra",
+    "Chinese official sentenced to death for espionage",
+    "Australia passes new online safety laws targeting tech firms",
+    "North Korea reviews Switzerland relations after youth camp sanctions",
+    "United Nations condemns Iran for flogging singer Parastoo Ahmadi",
+    "Malaysia announces plans to repatriate 6,803 Myanmar nationals",
+    "French police officer faces murder trial after appeal ruling",
+    "Coast Guard searches for six people after plane crash"
+   ]
   }
  },
  "run_once_done": [
