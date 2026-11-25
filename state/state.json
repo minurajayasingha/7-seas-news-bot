@@ -6973,8 +6973,6 @@
   }
  },
  "seen_links": [
-  "https://www.nbcnews.com/world/united-kingdom/us-charges-3-men-plotting-multiple-terrorist-attacks-planned-attack-uk-rcna608647",
-  "https://www.independent.co.uk/news/world/americas/donald-trump-gop-stephen-miller-los-angeles-united-states-b3082848.html",
   "https://thehill.com/homenews/campaign/6212326-norman-gives-trump-f-grade/",
   "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia",
   "https://www.independent.co.uk/news/world/europe/ukraine-strike-rubicon-drone-base-b3082846.html",
@@ -8972,31 +8970,11 @@
   "https://www.washingtonexaminer.com/policy/defense/4815739/state-department-approves-possible-sale-ukraine-f-16-parts-amid-overuse/",
   "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-oil-refineries-casualties-map-b3091150.html",
   "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
-  "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html"
+  "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html",
+  "https://www.newsweek.com/anthropic-dario-amodei-ai-human-free-will-warning-12769117",
+  "https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios"
  ],
  "recent_topics": [
-  [
-   "2026-11-22T22:49:08.178870+00:00",
-   [
-    "coin",
-    "dinner",
-    "floyd",
-    "host",
-    "investor",
-    "join",
-    "kevin",
-    "largest",
-    "mayweather",
-    "mem",
-    "oleary",
-    "owner",
-    "privat",
-    "slump",
-    "trump",
-    "wrangl"
-   ],
-   "skipped"
-  ],
   [
    "2026-11-23T00:31:08.301324+00:00",
    [
@@ -11207,17 +11185,13 @@
    "4ea9865f2a"
   ]
  ],
- "last_draft_at": "2026-11-25T22:30:40.020701+00:00",
+ "last_draft_at": "2026-11-25T22:45:35.265305+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T22:00:54.270698+00:00",
  "run_log": [
-  "11-25 20:15:37 run start",
-  "11-25 20:16:11 listening 11 min",
-  "11-25 20:27:04 listening done",
-  "11-25 20:27:04 run end after 687 s",
   "11-25 20:30:51 run start",
   "11-25 20:32:20 listening 10 min",
   "11-25 20:42:23 listening done",
@@ -11253,7 +11227,11 @@
   "11-25 22:30:39 run start",
   "11-25 22:32:07 listening 10 min",
   "11-25 22:42:11 listening done",
-  "11-25 22:42:11 run end after 691 s"
+  "11-25 22:42:11 run end after 691 s",
+  "11-25 22:45:34 run start",
+  "11-25 22:46:07 listening 11 min",
+  "11-25 22:57:00 listening done",
+  "11-25 22:57:00 run end after 685 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
