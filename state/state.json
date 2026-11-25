@@ -6908,13 +6908,98 @@
     "shares": 0
    },
    "stats_at": "2026-11-25T19:02:48.132079+00:00"
+  },
+  "851407ea19": {
+   "id": "851407ea19",
+   "headline": "Federal judge blocks Donald Trump birthright citizenship order",
+   "summary": "A federal judge has blocked an executive order regarding birthright citizenship from President Donald Trump. Meanwhile, an immigration judge who ordered a deportation was promoted to lead an immigration review office.",
+   "label": "US POLITICS",
+   "hook": "Should federal judges have the authority to block executive orders on citizenship?",
+   "key_points": [
+    "A federal judge blocked an executive order.",
+    "The order involved birthright citizenship.",
+    "An immigration judge received a promotion."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Immigration",
+    "#News"
+   ],
+   "sources": [
+    "Newsweek",
+    "Washington Examiner"
+   ],
+   "link": "https://www.newsweek.com/federal-judge-blocks-trump-birthright-citizenship-lawsuit-12768697",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/federal-judge-blocks-trump-birthright-citizenship-lawsuit-12768697"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/justice/4815151/jamee-comans-mahmoud-khalil-promotion-immigration/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Shealeah Craighead / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "Donald Trump smiling"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Federal judge blocks Donald Trump birthright citizenship order",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "Supreme Court building",
+    "image_queries": [
+     "US Capitol building",
+     "Department of Justice building",
+     "federal courtroom",
+     "White House"
+    ],
+    "image_style": "person",
+    "location": "US",
+    "nearby_city": "Washington, DC",
+    "event_query": "",
+    "topic_photo": "judge gavel",
+    "label": "US POLITICS",
+    "action_subject": "courtroom",
+    "news_time": "2026-11-25T18:29:03+00:00"
+   },
+   "created_at": "2026-11-25T19:48:31.622469+00:00",
+   "news_time": "2026-11-25T18:29:03+00:00",
+   "news_latest": "2026-11-25T19:34:56+00:00",
+   "importance": 7,
+   "caption": "Federal judge blocks Donald Trump birthright citizenship order\n\nA federal judge has blocked an executive order regarding birthright citizenship from President Donald Trump. Meanwhile, an immigration judge who ordered a deportation was promoted to lead an immigration review office.\n\n💬 Should federal judges have the authority to block executive orders on citizenship?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Immigration #News #7SeasNews",
+   "photo_line": "📷 10/10 Donald Trump smiling",
+   "status": "posted",
+   "tg_message_id": 992,
+   "tg_file_id": "AgACAgUAAxkDAAID4GsHO5EAAUMQ-sXfU-_3uZog5Gwu4gACVRJrG6_8OVRcpZkuoIH4VAEAAwIAA3cAAz0E",
+   "queued_at": "2026-11-25T19:48:33.862026+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-25T19:48:33.862063+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122111838999548584",
+   "posted_at": "2026-11-25T19:48:55.428090+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 25 · 2:49 PM New York · 1:19 AM Sri Lanka\n\n<b>Federal judge blocks Donald Trump birthright citizenship order</b>\n<i>Newsweek, Washington Examiner</i>\n🟢 <b>Latest:</b> 1:04 AM Sri Lanka (14 min ago) · first reported 11:59 PM\n📷 10/10 Donald Trump smiling\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122111838999548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 700,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122111838999548584_1125006470171062"
   }
  },
  "seen_links": [
-  "https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971?traffic_source=rss",
-  "https://www.upi.com/Top_News/US/2026/11/10/gallup-fewer-50-percent-americans-death-penalty/5601794343812/",
-  "https://abcnews.com/International/wireStory/dominican-president-backs-bukele-salvadoran-troops-haiti-138027231",
-  "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead?traffic_source=rss",
   "https://www.france24.com/en/americas/20261110-us-iranian-operatives-raf-fairford-terror-plot",
   "https://www.cbsnews.com/news/3-iran-operatives-indicted-terror-plots/",
   "https://www.independent.co.uk/news/world/americas/crime/raf-fairford-charges-iran-terror-suspects-b3082754.html",
@@ -8910,7 +8995,11 @@
   "https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says?traffic_source=rss",
   "https://www.independent.co.uk/news/world/africa/egypt-fire-vehicle-flip-deaths-b3091723.html",
   "https://thehill.com/homenews/state-watch/6243130-iowa-lead-azide-detonation-us-food-supply/",
-  "https://www.newsweek.com/trump-admin-officials-praise-stephen-miller-over-iowa-lead-azide-detonation-12768227"
+  "https://www.newsweek.com/trump-admin-officials-praise-stephen-miller-over-iowa-lead-azide-detonation-12768227",
+  "https://www.newsweek.com/federal-judge-blocks-trump-birthright-citizenship-lawsuit-12768697",
+  "https://www.washingtonexaminer.com/news/justice/4815151/jamee-comans-mahmoud-khalil-promotion-immigration/",
+  "https://www.newsweek.com/jd-vance-nvidia-key-role-controlling-chip-sales-china-12768618",
+  "https://www.independent.co.uk/news/world/americas/us-politics/howard-lutnick-agents-security-detail-b3091630.html"
  ],
  "recent_topics": [
   [
@@ -10831,19 +10920,36 @@
     "trump"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-25T19:48:33.861840+00:00",
+   [
+    "birthright",
+    "block",
+    "citizenship",
+    "deportation",
+    "federal",
+    "immigration",
+    "judg",
+    "khalil",
+    "lead",
+    "mahmoud",
+    "offic",
+    "order",
+    "promot",
+    "review",
+    "trump"
+   ],
+   "851407ea19"
   ]
  ],
- "last_draft_at": "2026-11-25T19:30:44.461115+00:00",
+ "last_draft_at": "2026-11-25T19:45:48.303848+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T19:02:48.132079+00:00",
  "run_log": [
-  "11-25 17:15:38 run start",
-  "11-25 17:17:17 listening 10 min",
-  "11-25 17:27:22 listening done",
-  "11-25 17:27:22 run end after 703 s",
   "11-25 17:30:42 run start",
   "11-25 17:31:29 listening 11 min",
   "11-25 17:42:22 listening done",
@@ -10879,12 +10985,15 @@
   "11-25 19:30:44 run start",
   "11-25 19:31:03 listening 11 min",
   "11-25 19:42:21 listening done",
-  "11-25 19:42:21 run end after 697 s"
+  "11-25 19:42:21 run end after 697 s",
+  "11-25 19:45:47 run start",
+  "11-25 19:49:09 listening 8 min",
+  "11-25 19:57:33 listening done",
+  "11-25 19:57:33 run end after 705 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Aerial_view_on_Kruhla_Square%2C_Poltava%2C_Ukraine_3.jpg/1920px-Aerial_view_on_Kruhla_Square%2C_Poltava%2C_Ukraine_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/0/0a/Courtroom_at_the_United_States_Courthouse_in_Augusta%2C_GA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://upload.wikimedia.org/wikipedia/commons/9/97/Ilhan_Omar_-_MN_House_DFL_Press_Conference_-_2017_%2833901550940%29_%28cropped%29%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/20181208_Blue_Impulse_Kawasaki_T-4_landing_Naha_Air_Show_2018-2.jpg/1920px-20181208_Blue_Impulse_Kawasaki_T-4_landing_Naha_Air_Show_2018-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -10923,7 +11032,8 @@
    "https://upload.wikimedia.org/wikipedia/commons/f/fd/Kilmar_%C3%81brego_Garc%C3%ADa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://upload.wikimedia.org/wikipedia/commons/8/82/Melania_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg/1920px-Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Benjamin_Netanyahu_October_22%2C_2024_%283x4_cropped%29.jpg/1280px-Benjamin_Netanyahu_October_22%2C_2024_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Benjamin_Netanyahu_October_22%2C_2024_%283x4_cropped%29.jpg/1280px-Benjamin_Netanyahu_October_22%2C_2024_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -16413,6 +16523,11 @@
     "s": 10,
     "w": "Benjamin Netanyahu portrait",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Chicago_September_2016-14.jpg/1920px-Chicago_September_2016-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|8a301bef": {
+    "s": 2,
+    "w": "Chicago skyscrapers and clock tower",
+    "p": "photo shows city architecture instead of a court building"
    }
   }
  },
@@ -16424,10 +16539,10 @@
   "2026-11-22": 11,
   "2026-11-23": 20,
   "2026-11-24": 23,
-  "2026-11-25": 12
+  "2026-11-25": 13
  },
- "last_auto_at": "2026-11-25T18:21:17.801633+00:00",
- "last_post_at": "2026-11-25T18:21:23.193117+00:00",
+ "last_auto_at": "2026-11-25T19:48:55.428090+00:00",
+ "last_post_at": "2026-11-25T19:49:00.663008+00:00",
  "reels_count": {
   "2026-11-19": 3,
   "2026-11-20": 3,
