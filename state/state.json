@@ -6989,12 +6989,6 @@
   }
  },
  "seen_links": [
-  "https://www.upi.com/Top_News/US/2026/11/10/oversight-committee-epstein-DOJ/6081794329017/",
-  "https://www.cbsnews.com/news/jeffrey-epstein-house-oversight-committee-report/",
-  "https://www.foxnews.com/politics/explosive-house-report-exposes-failures-says-allowed-epsteins-abuse-continue-years",
-  "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-  "https://www.france24.com/en/video/20261110-ukraine-peace-talks-who-is-sitting-at-the-negotiating-table-%E2%80%93-and-why-it-matters",
-  "https://thehill.com/homenews/state-watch/6211050-haitian-boy-detained-california/",
   "https://www.theguardian.com/us-news/2026/nov/10/haitian-boy-ice-california",
   "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
   "https://kyivindependent.com/russia-planning-strikes-on-ukraines-food-industry-military-intelligence-source-says/",
@@ -8988,7 +8982,13 @@
   "https://www.nytimes.com/2026/11/25/world/europe/prince-william-kate-home-break-in-charged.html",
   "https://www.theguardian.com/uk-news/2026/nov/25/two-charged-burglary-trespass-prince-princess-wales-home-norfolk",
   "https://www.today.com/video/new-details-emerge-on-break-in-at-william-and-kate-s-home-274155589878",
-  "https://www.nbcnews.com/world/united-kingdom/prince-william-princess-kate-break-in-sandringham-estate-charges-rcna611159"
+  "https://www.nbcnews.com/world/united-kingdom/prince-william-princess-kate-break-in-sandringham-estate-charges-rcna611159",
+  "https://thehill.com/policy/international/6242020-kilmar-abrego-garcia-self-deport-spain-arrival/",
+  "https://www.upi.com/Top_News/US/2026/11/25/Abrego-Garcia-leaves-US-for-Spain/2891795607503/",
+  "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+  "https://www.independent.co.uk/news/world/europe/spain-markwayne-mullin-trump-baltimore-madrid-b3091410.html",
+  "https://www.newsweek.com/iowa-lead-detonation-america-food-supply-12767064",
+  "https://www.washingtonexaminer.com/policy/defense/4814838/army-release-final-fallout-map-toxic-lead-detonation/"
  ],
  "recent_topics": [
   [
@@ -11005,17 +11005,13 @@
    "fa9fe84258"
   ]
  ],
- "last_draft_at": "2026-11-25T14:46:02.381117+00:00",
+ "last_draft_at": "2026-11-25T15:00:50.069513+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T14:45:38.053965+00:00",
  "run_log": [
-  "11-25 12:46:00 run start",
-  "11-25 12:46:40 listening 11 min",
-  "11-25 12:57:35 listening done",
-  "11-25 12:57:35 run end after 695 s",
   "11-25 13:00:47 run start",
   "11-25 13:01:08 listening 11 min",
   "11-25 13:12:28 listening done",
@@ -11051,7 +11047,11 @@
   "11-25 14:45:37 run start",
   "11-25 14:47:02 listening 10 min",
   "11-25 14:57:06 listening done",
-  "11-25 14:57:06 run end after 688 s"
+  "11-25 14:57:06 run end after 688 s",
+  "11-25 15:00:48 run start",
+  "11-25 15:04:06 listening 8 min",
+  "11-25 15:12:28 listening done",
+  "11-25 15:12:28 run end after 699 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -18157,7 +18157,9 @@
    ],
    "done": {
     "tt1": true,
-    "log1": true
+    "log1": true,
+    "tt2": true,
+    "log2": true
    }
   }
  },
