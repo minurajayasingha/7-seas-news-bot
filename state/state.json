@@ -1,105 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "5cf68669c9": {
-   "id": "5cf68669c9",
-   "headline": "Jury finds California man guilty of starting Palisades Fire",
-   "summary": "A jury found Jonathan Rinderknecht guilty of starting the Palisades Fire in Los Angeles. The wildfire burned more than 23,000 acres and became the most destructive in Los Angeles city history.",
-   "label": "US POLITICS",
-   "hook": "",
-   "key_points": [
-    "The fire displaced thousands of people.",
-    "The wildfire killed a dozen people.",
-    "A first trial ended in a mistrial."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#California",
-    "#PalisadesFire",
-    "#LosAngeles"
-   ],
-   "sources": [
-    "NBC News",
-    "Sky News",
-    "UPI"
-   ],
-   "link": "https://www.upi.com/Top_News/US/2026/11/20/palisades-fire-trial/3571795218859/",
-   "links": [
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/US/2026/11/20/palisades-fire-trial/3571795218859/"
-    ],
-    [
-     "Sky News",
-     "https://news.sky.com/story/man-found-guilty-of-starting-deadly-palisades-fire-in-los-angeles-in-2025-13614570"
-    ],
-    [
-     "NBC News",
-     "https://www.nbcnews.com/news/us-news/pacific-palisades-fire-retrial-jonathan-rinderknecht-rcna610336"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/The_Clay_County_Courthouse_courtroom_in_2007.jpg/1920px-The_Clay_County_Courthouse_courtroom_in_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Harrison Keely / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 10,
-      "shows": "empty courtroom"
-     }
-    ],
-    "file_photo": true
-   },
-   "img_post": {
-    "headline": "Jury finds California man guilty of starting Palisades Fire",
-    "people": [],
-    "image_query": "Los Angeles city landscape",
-    "image_queries": [
-     "Los Angeles skyline",
-     "Los Angeles courthouse",
-     "California wildfire damage",
-     "Los Angeles streets"
-    ],
-    "image_style": "incident",
-    "location": "Los Angeles, United States",
-    "nearby_city": "Los Angeles, California",
-    "event_query": "Los Angeles Palisades Fire",
-    "topic_photo": "judge gavel",
-    "label": "US POLITICS",
-    "action_subject": "courtroom",
-    "news_time": "2026-11-20T22:51:54+00:00"
-   },
-   "created_at": "2026-11-21T01:09:26.151806+00:00",
-   "news_time": "2026-11-20T22:51:54+00:00",
-   "news_latest": "2026-11-21T00:53:05+00:00",
-   "importance": 7,
-   "caption": "Jury finds California man guilty of starting Palisades Fire\n\nA jury found Jonathan Rinderknecht guilty of starting the Palisades Fire in Los Angeles. The wildfire burned more than 23,000 acres and became the most destructive in Los Angeles city history.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#California #PalisadesFire #LosAngeles #7SeasNews",
-   "photo_line": "📷 10/10 empty courtroom · FILE PHOTO",
-   "status": "posted",
-   "tg_message_id": 882,
-   "tg_file_id": "AgACAgUAAxkDAAIDcmsAAe9IXXdZu6BwcyJeCU-ISyy8KgAC9xNrG_07CFSKR3f41rZ_YgEAAwIAA3cAAz0E",
-   "queued_at": "2026-11-21T01:09:28.840833+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-21T01:09:28.840859+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122108011041548584",
-   "posted_at": "2026-11-21T01:09:29.201799+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 20 · 8:09 PM New York · 6:39 AM Sri Lanka\n\n<b>Jury finds California man guilty of starting Palisades Fire</b>\n<i>NBC News, Sky News, UPI</i>\n🟢 <b>Latest:</b> 6:23 AM Sri Lanka (16 min ago) · first reported 4:21 AM\n📷 10/10 empty courtroom · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122108011041548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 590,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122108011041548584_1142917131438612",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-24T00:26:55.239082+00:00"
-  },
   "e2d20caa20": {
    "id": "e2d20caa20",
    "headline": "Dow and S&P 500 enter correction as Nasdaq plunges",
@@ -10258,17 +10159,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-25T00:46:03.511015+00:00",
+ "last_draft_at": "2026-11-25T01:00:52.442928+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T00:45:35.715856+00:00",
  "run_log": [
-  "11-24 22:30:43 run start",
-  "11-24 22:31:31 listening 11 min",
-  "11-24 22:42:24 listening done",
-  "11-24 22:42:24 run end after 701 s",
   "11-24 22:45:47 run start",
   "11-24 22:46:29 listening 11 min",
   "11-24 22:57:23 listening done",
@@ -10304,7 +10201,11 @@
   "11-25 00:45:35 run start",
   "11-25 00:46:54 listening 10 min",
   "11-25 00:57:22 listening done",
-  "11-25 00:57:22 run end after 707 s"
+  "11-25 00:57:22 run end after 707 s",
+  "11-25 01:00:51 run start",
+  "11-25 01:01:00 listening 11 min",
+  "11-25 01:12:24 listening done",
+  "11-25 01:12:24 run end after 692 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
