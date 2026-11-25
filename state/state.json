@@ -1,105 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "f8e93c8fec": {
-   "id": "f8e93c8fec",
-   "headline": "Lewis Pugh swims through Strait of Hormuz over three days",
-   "summary": "British endurance swimmer Lewis Pugh completed a 15-kilometre swim through the Strait of Hormuz over three days in November 2026. According to reports, the challenge took place amid explosions and burning tankers nearby.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "Pugh completed a 15-kilometre swim over three days.",
-    "The swim took place in November 2026.",
-    "Tankers burned and explosions occurred nearby."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#StraitOfHormuz",
-    "#LewisPugh",
-    "#WorldNews"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "Euronews"
-   ],
-   "link": "https://www.euronews.com/video/2026/11/21/strait-of-hormuz-athlete-swims-through-war-zone-to-expose-wars-environmental-toll",
-   "links": [
-    [
-     "Euronews",
-     "https://www.euronews.com/video/2026/11/21/strait-of-hormuz-athlete-swims-through-war-zone-to-expose-wars-environmental-toll"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss"
-    ]
-   ],
-   "bg": {
-    "type": "people",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Headshot_Lewis_Pugh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Tessa Graham / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 10,
-      "shows": "Lewis Pugh portrait"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Lewis Pugh swims through Strait of Hormuz over three days",
-    "people": [
-     "Lewis Pugh"
-    ],
-    "image_query": "Strait of Hormuz",
-    "image_queries": [
-     "Strait of Hormuz",
-     "Persian Gulf waters",
-     "cargo ship at sea",
-     "coastal waters"
-    ],
-    "image_style": "person",
-    "location": "Strait of Hormuz",
-    "nearby_city": "Tehran, Iran",
-    "event_query": "Strait of Hormuz tanker attacks",
-    "topic_photo": "cargo ship",
-    "label": "CONFLICT",
-    "action_subject": "swimmer in water",
-    "news_time": "2026-11-21T08:39:35+00:00"
-   },
-   "created_at": "2026-11-21T12:31:44.035178+00:00",
-   "news_time": "2026-11-21T08:39:35+00:00",
-   "news_latest": "2026-11-21T12:18:40+00:00",
-   "importance": 6,
-   "caption": "Lewis Pugh swims through Strait of Hormuz over three days\n\nBritish endurance swimmer Lewis Pugh completed a 15-kilometre swim through the Strait of Hormuz over three days in November 2026. According to reports, the challenge took place amid explosions and burning tankers nearby.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#StraitOfHormuz #LewisPugh #WorldNews #7SeasNews",
-   "photo_line": "📷 10/10 Lewis Pugh portrait",
-   "status": "posted",
-   "tg_message_id": 890,
-   "tg_file_id": "AgACAgUAAxkDAAIDemsBjzESsQI_XXvDnKvc9I3GVkOfAALxFWsb_TsQVAGy1glgbhu5AQADAgADdwADPQQ",
-   "queued_at": "2026-11-21T12:31:46.119434+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-21T12:31:46.119469+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122108449515548584",
-   "posted_at": "2026-11-21T12:31:46.444259+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 21 · 7:31 AM New York · 6:01 PM Sri Lanka\n\n<b>Lewis Pugh swims through Strait of Hormuz over three days</b>\n<i>Al Jazeera, Euronews</i>\n🟢 <b>Latest:</b> 5:48 PM Sri Lanka (13 min ago) · first reported 2:09 PM\n📷 10/10 Lewis Pugh portrait\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122108449515548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 597,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122108449515548584_3306032106260050",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-24T11:46:09.320511+00:00"
-  },
   "97bfc49f3b": {
    "id": "97bfc49f3b",
    "headline": "Anthropic researcher claims to solve Riemann hypothesis using Claude",
@@ -11307,17 +11208,13 @@
    "fa9fe84258"
   ]
  ],
- "last_draft_at": "2026-11-25T12:15:56.685106+00:00",
+ "last_draft_at": "2026-11-25T12:30:51.847881+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T11:45:31.414661+00:00",
  "run_log": [
-  "11-25 10:00:51 run start",
-  "11-25 10:01:25 listening 11 min",
-  "11-25 10:12:18 listening done",
-  "11-25 10:12:18 run end after 687 s",
   "11-25 10:15:43 run start",
   "11-25 10:16:53 listening 10 min",
   "11-25 10:27:23 listening done",
@@ -11353,7 +11250,11 @@
   "11-25 12:15:56 run start",
   "11-25 12:17:18 listening 10 min",
   "11-25 12:27:22 listening done",
-  "11-25 12:27:22 run end after 685 s"
+  "11-25 12:27:22 run end after 685 s",
+  "11-25 12:30:51 run start",
+  "11-25 12:31:10 listening 11 min",
+  "11-25 12:42:29 listening done",
+  "11-25 12:42:29 run end after 698 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
