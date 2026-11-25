@@ -6703,11 +6703,96 @@
     "shares": 0
    },
    "stats_at": "2026-11-25T03:43:53.267376+00:00"
+  },
+  "1b53b687e7": {
+   "id": "1b53b687e7",
+   "headline": "Solomon Islands and Australia sign new security treaty in Canberra",
+   "summary": "Solomon Islands and Australia signed a new security treaty in Canberra. The agreement makes Australia the primary security partner and ends a previous security pact with Beijing.",
+   "label": "DIPLOMACY",
+   "hook": "Will this agreement change security dynamics in the Pacific region?",
+   "key_points": [
+    "Australia takes a greater role in border and police forces.",
+    "Solomon Islands terminates its security pact with Beijing.",
+    "The treaty was signed in Canberra on Wednesday."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Australia",
+    "#SolomonIslands",
+    "#Diplomacy"
+   ],
+   "sources": [
+    "The Guardian",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/australasia/australia-solomon-islands-china-security-pact-b3091105.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/australasia/australia-solomon-islands-china-security-pact-b3091105.html"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Canberra_skyline%2C_York_Park_conservation_site%2C_The_National_Circuit%2C_Barton%2C_ACT_IMGP9718.jpg/1920px-Canberra_skyline%2C_York_Park_conservation_site%2C_The_National_Circuit%2C_Barton%2C_ACT_IMGP9718.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "John Robert McPherson / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 5,
+      "shows": "building in Canberra"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Solomon Islands and Australia sign new security treaty in Canberra",
+    "people": [],
+    "image_query": "Australian Parliament House Canberra",
+    "image_queries": [
+     "Canberra skyline",
+     "Australian Parliament exterior",
+     "Canberra meeting room",
+     "Australian flag"
+    ],
+    "image_style": "scene",
+    "location": "Canberra, Australia",
+    "nearby_city": "Canberra, Australia",
+    "event_query": "Australia Solomon Islands treaty signing",
+    "topic_photo": "police officers",
+    "label": "DIPLOMACY",
+    "action_subject": "Australian federal police officers",
+    "news_time": "2026-11-25T01:51:02+00:00"
+   },
+   "created_at": "2026-11-25T03:57:24.538089+00:00",
+   "news_time": "2026-11-25T01:51:02+00:00",
+   "news_latest": "2026-11-25T03:47:13+00:00",
+   "importance": 7,
+   "caption": "Solomon Islands and Australia sign new security treaty in Canberra\n\nSolomon Islands and Australia signed a new security treaty in Canberra. The agreement makes Australia the primary security partner and ends a previous security pact with Beijing.\n\n💬 Will this agreement change security dynamics in the Pacific region?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Australia #SolomonIslands #Diplomacy #7SeasNews",
+   "photo_line": "📷 5/10 building in Canberra",
+   "status": "posted",
+   "tg_message_id": 974,
+   "tg_file_id": "AgACAgUAAxkDAAIDzmsGXKajtyFsCquKvgfaVHkfqtj4AAI0EWsbr_wxVMpxSMHsd2nOAQADAgADdwADPQQ",
+   "queued_at": "2026-11-25T03:57:26.842111+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-25T03:57:26.842139+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122111402631548584",
+   "posted_at": "2026-11-25T03:57:27.176874+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 24 · 10:57 PM New York · 9:27 AM Sri Lanka\n\n<b>Solomon Islands and Australia sign new security treaty in Canberra</b>\n<i>The Guardian, The Independent</i>\n🟢 <b>Latest:</b> 9:17 AM Sri Lanka (10 min ago) · first reported 7:21 AM\n📷 5/10 building in Canberra\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122111402631548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 682,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122111402631548584_2348555299320079"
   }
  },
  "seen_links": [
-  "https://www.aljazeera.com/opinions/2026/11/10/can-the-republican-party-survive-trump?traffic_source=rss",
-  "https://www.washingtonexaminer.com/news/campaigns/state/4798019/somali-daycare-ceo-fraud-scandal-minnesota-house-seat/",
   "https://abcnews.com/Politics/wireStory/house-seats-democrats-expect-win-year-138001901",
   "https://abcnews.com/Politics/wireStory/republican-ken-calvert-wins-reelection-us-house-californias-137998545",
   "https://abcnews.com/Politics/wireStory/republican-ken-calvert-wins-reelection-us-house-californias-137998550",
@@ -8705,7 +8790,9 @@
   "https://www.upi.com/Top_News/US/2026/11/24/Mississippi-plane-crash/7531795571782/",
   "https://www.nbcnews.com/news/us-news/4-adults-2-kids-are-missing-plane-crashes-mississippi-coast-rcna611218",
   "https://www.bbc.co.uk/news/articles/cqg7l5zx4edeo?at_medium=RSS&at_campaign=rss",
-  "https://www.theguardian.com/us-news/2026/nov/24/iowa-illinois-missouri-hazardous-bomb-explosion-blast-prep-thanksgiving"
+  "https://www.theguardian.com/us-news/2026/nov/24/iowa-illinois-missouri-hazardous-bomb-explosion-blast-prep-thanksgiving",
+  "https://www.independent.co.uk/news/world/australasia/australia-solomon-islands-china-security-pact-b3091105.html",
+  "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence"
  ],
  "recent_topics": [
   [
@@ -10518,19 +10605,32 @@
     "warn"
    ],
    "3323d654f6"
+  ],
+  [
+   "2026-11-25T03:57:26.841992+00:00",
+   [
+    "australia",
+    "big",
+    "blow",
+    "china",
+    "influenc",
+    "island",
+    "pacific",
+    "pact",
+    "security",
+    "solomon",
+    "such"
+   ],
+   "1b53b687e7"
   ]
  ],
- "last_draft_at": "2026-11-25T03:44:20.110404+00:00",
+ "last_draft_at": "2026-11-25T03:56:14.162193+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T03:43:53.267376+00:00",
  "run_log": [
-  "11-25 01:30:56 run start",
-  "11-25 01:31:06 listening 11 min",
-  "11-25 01:42:24 listening done",
-  "11-25 01:42:24 run end after 688 s",
   "11-25 01:45:35 run start",
   "11-25 01:47:02 listening 10 min",
   "11-25 01:57:05 listening done",
@@ -10566,12 +10666,15 @@
   "11-25 03:43:52 run start",
   "11-25 03:44:39 listening 11 min",
   "11-25 03:55:34 listening done",
-  "11-25 03:55:34 run end after 701 s"
+  "11-25 03:55:34 run end after 701 s",
+  "11-25 03:56:13 run start",
+  "11-25 03:57:41 listening 10 min",
+  "11-25 04:07:45 listening done",
+  "11-25 04:07:45 run end after 691 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/SSG_Desiree_Palacios_makes_final_settings_on_her_camera_before_a_sortie_in_a_F-16D_Fighting_Falcon.jpg/1920px-SSG_Desiree_Palacios_makes_final_settings_on_her_camera_before_a_sortie_in_a_F-16D_Fighting_Falcon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Vandenberg_Hosts_%22Rage_Car%22_Event_for_Police_Week_%287810759%29.jpg/1920px-Vandenberg_Hosts_%22Rage_Car%22_Event_for_Police_Week_%287810759%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Madison_August_2022_099_%28Official_Absentee_Ballot_Drop_Box%29.jpg/1920px-Madison_August_2022_099_%28Official_Absentee_Ballot_Drop_Box%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Seattle-Tacoma_International_Airport%2C_Washington_%282014%29_-_01.JPG/1920px-Seattle-Tacoma_International_Airport%2C_Washington_%282014%29_-_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -10610,7 +10713,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Nidal_Hasan%2C_2007.jpg/1280px-Nidal_Hasan%2C_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/ParastooAhmadi_%28cropped%29.jpg/1280px-ParastooAhmadi_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/US_Navy_070201-C-8227J-002_Master_Chief_Petty_Officer_of_the_Navy_%28MCPON%29_Joe_R._Campa_Jr._takes_the_wheel_of_a_41-foot_Coast_Guard_rescue_boat_as_Master_Chief_Petty_Officer_of_the_Coast_Guard_Charles.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/USS_Theodore_Roosevelt_operations_160322-N-DM308-040.jpg/1920px-USS_Theodore_Roosevelt_operations_160322-N-DM308-040.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/USS_Theodore_Roosevelt_operations_160322-N-DM308-040.jpg/1920px-USS_Theodore_Roosevelt_operations_160322-N-DM308-040.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Canberra_skyline%2C_York_Park_conservation_site%2C_The_National_Circuit%2C_Barton%2C_ACT_IMGP9718.jpg/1920px-Canberra_skyline%2C_York_Park_conservation_site%2C_The_National_Circuit%2C_Barton%2C_ACT_IMGP9718.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -13893,7 +13997,6 @@
    }
   },
   "recent_ideas": [
-   "us army soldiers",
    "pyongyang skyline",
    "warsaw skyline",
    "kuala lumpur cityscape",
@@ -13904,7 +14007,8 @@
    "missile",
    "courtroom",
    "coast guard rescue boat",
-   "hazardous materials barrels"
+   "hazardous materials barrels",
+   "canberra skyline"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -16101,6 +16205,11 @@
     "s": 8,
     "w": "firefighters inspecting hazardous barrel",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Canberra_skyline%2C_York_Park_conservation_site%2C_The_National_Circuit%2C_Barton%2C_ACT_IMGP9718.jpg/1920px-Canberra_skyline%2C_York_Park_conservation_site%2C_The_National_Circuit%2C_Barton%2C_ACT_IMGP9718.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|da6a04de": {
+    "s": 5,
+    "w": "building in Canberra",
+    "p": "Generic building instead of the actual treaty signing event or officials."
    }
   }
  },
@@ -16112,10 +16221,10 @@
   "2026-11-21": 17,
   "2026-11-22": 11,
   "2026-11-23": 20,
-  "2026-11-24": 22
+  "2026-11-24": 23
  },
- "last_auto_at": "2026-11-25T02:31:44.755966+00:00",
- "last_post_at": "2026-11-25T02:32:07.483859+00:00",
+ "last_auto_at": "2026-11-25T03:57:27.176874+00:00",
+ "last_post_at": "2026-11-25T03:57:32.114929+00:00",
  "reels_count": {
   "2026-11-18": 3,
   "2026-11-19": 3,
