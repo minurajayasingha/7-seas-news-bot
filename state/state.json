@@ -1,103 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "ee53f844b2": {
-   "id": "ee53f844b2",
-   "headline": "Zelenskyy calls Putin a killer after Trump comments",
-   "summary": "Ukrainian leader Volodymyr Zelenskyy labeled Vladimir Putin a killer following remarks from Donald Trump. Trump recently referred to the Russian leader as his friend and stated they share a great relationship.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "Russian forces launched a major wave of strikes against Ukraine.",
-    "The attacks killed at least seven people in Kyiv.",
-    "Strikes damaged key bridges across the Dnipro River."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Ukraine",
-    "#WorldNews",
-    "#Russia"
-   ],
-   "sources": [
-    "BBC",
-    "Euronews"
-   ],
-   "link": "https://www.euronews.com/2026/11/21/putin-a-killer-zelenskyy-says-after-trump-calls-russian-leader-his-friend",
-   "links": [
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/21/putin-a-killer-zelenskyy-says-after-trump-calls-russian-leader-his-friend"
-    ],
-    [
-     "BBC",
-     "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Vilkha_MLRS_missile_launch%2C_2019%2C_01.jpg/1920px-Vilkha_MLRS_missile_launch%2C_2019%2C_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Міністерство оборони України / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 8,
-      "shows": "missile launch"
-     }
-    ],
-    "file_photo": true
-   },
-   "img_post": {
-    "headline": "Zelenskyy calls Putin a killer after Trump comments",
-    "people": [
-     "Volodymyr Zelenskyy",
-     "Vladimir Putin"
-    ],
-    "image_query": "Kyiv city",
-    "image_queries": [
-     "Dnipro River bridges",
-     "Kyiv cityscape",
-     "Ukrainian flag",
-     "street in Kyiv"
-    ],
-    "image_style": "incident",
-    "location": "Kyiv, Ukraine",
-    "nearby_city": "Kyiv, Ukraine",
-    "event_query": "Kyiv airstrike damage",
-    "topic_photo": "missile launch",
-    "label": "CONFLICT",
-    "action_subject": "missile launch",
-    "news_time": "2026-11-21T05:15:41+00:00"
-   },
-   "created_at": "2026-11-21T07:18:10.710878+00:00",
-   "news_time": "2026-11-21T05:15:41+00:00",
-   "news_latest": "2026-11-21T07:07:09+00:00",
-   "importance": 9,
-   "caption": "Zelenskyy calls Putin a killer after Trump comments\n\nUkrainian leader Volodymyr Zelenskyy labeled Vladimir Putin a killer following remarks from Donald Trump. Trump recently referred to the Russian leader as his friend and stated they share a great relationship.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Ukraine #WorldNews #Russia #7SeasNews",
-   "photo_line": "📷 8/10 missile launch · FILE PHOTO",
-   "status": "posted",
-   "tg_message_id": 885,
-   "tg_file_id": "AgACAgUAAxkDAAIDdWsBRbbsrLr3Hp3LEH71-ISJPoVwAAIrFWsb_TsQVNzb-OiGXP1vAQADAgADdwADPQQ",
-   "queued_at": "2026-11-21T07:18:14.366583+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-21T07:18:14.366607+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122108225895548584",
-   "posted_at": "2026-11-21T07:18:14.733054+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 21 · 2:18 AM New York · 12:48 PM Sri Lanka\n\n<b>Zelenskyy calls Putin a killer after Trump comments</b>\n<i>BBC, Euronews</i>\n🟢 <b>Latest:</b> 12:37 PM Sri Lanka (11 min ago) · first reported 10:45 AM\n📷 8/10 missile launch · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122108225895548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 592,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122108225895548584_1959466305047298",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-24T06:30:57.353817+00:00"
-  },
   "45201d2fd3": {
    "id": "45201d2fd3",
    "headline": "FBI investigates potential breach of criminal database",
@@ -10793,17 +10696,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-25T07:00:49.549780+00:00",
+ "last_draft_at": "2026-11-25T07:15:40.679644+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T06:45:44.162687+00:00",
  "run_log": [
-  "11-25 04:45:35 run start",
-  "11-25 04:46:45 listening 10 min",
-  "11-25 04:57:13 listening done",
-  "11-25 04:57:13 run end after 697 s",
   "11-25 05:00:49 run start",
   "11-25 05:01:34 listening 11 min",
   "11-25 05:12:27 listening done",
@@ -10839,7 +10738,11 @@
   "11-25 07:00:49 run start",
   "11-25 07:01:13 listening 11 min",
   "11-25 07:12:33 listening done",
-  "11-25 07:12:33 run end after 704 s"
+  "11-25 07:12:33 run end after 704 s",
+  "11-25 07:15:40 run start",
+  "11-25 07:15:50 listening 11 min",
+  "11-25 07:27:08 listening done",
+  "11-25 07:27:08 run end after 688 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
