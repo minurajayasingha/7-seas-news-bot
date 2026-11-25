@@ -11220,17 +11220,13 @@
    "fa9fe84258"
   ]
  ],
- "last_draft_at": "2026-11-25T12:46:31.544891+00:00",
+ "last_draft_at": "2026-11-25T13:00:49.319728+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T12:46:00.778496+00:00",
  "run_log": [
-  "11-25 10:30:47 run start",
-  "11-25 10:30:56 listening 11 min",
-  "11-25 10:42:16 listening done",
-  "11-25 10:42:16 run end after 689 s",
   "11-25 10:46:07 run start",
   "11-25 10:47:26 listening 10 min",
   "11-25 10:57:55 listening done",
@@ -11266,7 +11262,11 @@
   "11-25 12:46:00 run start",
   "11-25 12:46:40 listening 11 min",
   "11-25 12:57:35 listening done",
-  "11-25 12:57:35 run end after 695 s"
+  "11-25 12:57:35 run end after 695 s",
+  "11-25 13:00:47 run start",
+  "11-25 13:01:08 listening 11 min",
+  "11-25 13:12:28 listening done",
+  "11-25 13:12:28 run end after 700 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -18369,7 +18369,11 @@
     "Malaysia announces plans to repatriate 6,803 Myanmar nationals",
     "French police officer faces murder trial after appeal ruling",
     "Coast Guard searches for six people after plane crash"
-   ]
+   ],
+   "done": {
+    "tt1": true,
+    "log1": true
+   }
   }
  },
  "run_once_done": [
