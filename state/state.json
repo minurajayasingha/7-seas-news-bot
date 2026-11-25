@@ -6796,11 +6796,105 @@
     "shares": 0
    },
    "stats_at": "2026-11-25T04:45:35.511854+00:00"
+  },
+  "9e6b4eb1ce": {
+   "id": "9e6b4eb1ce",
+   "headline": "Dan Sullivan concedes Alaska Senate race to Mary Peltola",
+   "summary": "Republican Senator Dan Sullivan conceded Alaska's Senate race to Democrat Mary Peltola. The concession followed election certification and the conclusion of a Trump administration lawsuit.",
+   "label": "ELECTIONS",
+   "hook": "What led to the conclusion of the lawsuit over the Alaska Senate race?",
+   "key_points": [
+    "Sullivan conceded after certification.",
+    "A Trump administration lawsuit sought to block certification."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Alaska",
+    "#SenateRace",
+    "#USPolitics"
+   ],
+   "sources": [
+    "New York Times",
+    "Newsweek"
+   ],
+   "link": "https://www.newsweek.com/dan-sullivan-concedes-alaska-senate-race-while-citing-election-probes-12765980",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/dan-sullivan-concedes-alaska-senate-race-while-citing-election-probes-12765980"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/24/us/politics/dan-sullivan-concedes-alaska-senate-race-mary-peltola.html"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Senator_Dan_Sullivan_official.jpg/1280px-Senator_Dan_Sullivan_official.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Senate / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "portrait of Dan Sullivan"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Rep._Mary_Peltola_headshot_%28cropped%29.jpg/1280px-Rep._Mary_Peltola_headshot_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Rep. Mary Peltola / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "Mary Peltola smiling"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Dan Sullivan concedes Alaska Senate race to Mary Peltola",
+    "people": [
+     "Dan Sullivan",
+     "Mary Peltola"
+    ],
+    "image_query": "Alaska State Capitol",
+    "image_queries": [
+     "Senate chamber",
+     "Capitol Hill",
+     "voting booth",
+     "election ballot"
+    ],
+    "image_style": "person",
+    "location": "Alaska, US",
+    "nearby_city": "Anchorage, Alaska",
+    "event_query": "Alaska Senate race certification",
+    "topic_photo": "ballot box",
+    "label": "ELECTIONS",
+    "action_subject": "",
+    "news_time": "2026-11-24T23:58:18+00:00"
+   },
+   "created_at": "2026-11-25T05:01:16.652119+00:00",
+   "news_time": "2026-11-24T23:58:18+00:00",
+   "news_latest": "2026-11-25T04:47:42+00:00",
+   "importance": 7,
+   "caption": "Dan Sullivan concedes Alaska Senate race to Mary Peltola\n\nRepublican Senator Dan Sullivan conceded Alaska's Senate race to Democrat Mary Peltola. The concession followed election certification and the conclusion of a Trump administration lawsuit.\n\n💬 What led to the conclusion of the lawsuit over the Alaska Senate race?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Alaska #SenateRace #USPolitics #7SeasNews",
+   "photo_line": "📷 10/10 portrait of Dan Sullivan",
+   "status": "posted",
+   "tg_message_id": 976,
+   "tg_file_id": "AgACAgUAAxkDAAID0GsGa55QdLZxqwPHWNLgv-HmI-7PAAJMEWsbr_wxVGWfPGCuws41AQADAgADdwADPQQ",
+   "queued_at": "2026-11-25T05:01:18.608458+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-25T05:01:18.608486+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122111426373548584",
+   "posted_at": "2026-11-25T05:01:18.895340+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 25 · 12:01 AM New York · 10:31 AM Sri Lanka\n\n<b>Dan Sullivan concedes Alaska Senate race to Mary Peltola</b>\n<i>New York Times, Newsweek</i>\n🟢 <b>Latest:</b> 10:17 AM Sri Lanka (13 min ago) · first reported 5:28 AM\n📷 10/10 portrait of Dan Sullivan\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122111426373548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 683,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122111426373548584_1899258190913462"
   }
  },
  "seen_links": [
-  "https://abcnews.com/Politics/wireStory/house-seats-democrats-expect-win-year-138001901",
-  "https://abcnews.com/Politics/wireStory/republican-ken-calvert-wins-reelection-us-house-californias-137998545",
   "https://abcnews.com/Politics/wireStory/republican-ken-calvert-wins-reelection-us-house-californias-137998550",
   "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
   "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
@@ -8798,7 +8892,9 @@
   "https://www.bbc.co.uk/news/articles/cqg7l5zx4edeo?at_medium=RSS&at_campaign=rss",
   "https://www.theguardian.com/us-news/2026/nov/24/iowa-illinois-missouri-hazardous-bomb-explosion-blast-prep-thanksgiving",
   "https://www.independent.co.uk/news/world/australasia/australia-solomon-islands-china-security-pact-b3091105.html",
-  "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence"
+  "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence",
+  "https://www.newsweek.com/dan-sullivan-concedes-alaska-senate-race-while-citing-election-probes-12765980",
+  "https://www.nytimes.com/2026/11/24/us/politics/dan-sullivan-concedes-alaska-senate-race-mary-peltola.html"
  ],
  "recent_topics": [
   [
@@ -10610,19 +10706,31 @@
     "such"
    ],
    "1b53b687e7"
+  ],
+  [
+   "2026-11-25T05:01:18.608326+00:00",
+   [
+    "alaska",
+    "cit",
+    "conced",
+    "dan",
+    "election",
+    "peltola",
+    "prob",
+    "rac",
+    "senat",
+    "sullivan"
+   ],
+   "9e6b4eb1ce"
   ]
  ],
- "last_draft_at": "2026-11-25T04:46:12.748000+00:00",
+ "last_draft_at": "2026-11-25T05:00:52.228525+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T04:45:35.511854+00:00",
  "run_log": [
-  "11-25 02:45:36 run start",
-  "11-25 02:46:18 listening 11 min",
-  "11-25 02:57:11 listening done",
-  "11-25 02:57:11 run end after 695 s",
   "11-25 03:00:51 run start",
   "11-25 03:01:01 listening 11 min",
   "11-25 03:12:21 listening done",
@@ -10658,13 +10766,15 @@
   "11-25 04:45:35 run start",
   "11-25 04:46:45 listening 10 min",
   "11-25 04:57:13 listening done",
-  "11-25 04:57:13 run end after 697 s"
+  "11-25 04:57:13 run end after 697 s",
+  "11-25 05:00:49 run start",
+  "11-25 05:01:34 listening 11 min",
+  "11-25 05:12:27 listening done",
+  "11-25 05:12:27 run end after 697 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Vandenberg_Hosts_%22Rage_Car%22_Event_for_Police_Week_%287810759%29.jpg/1920px-Vandenberg_Hosts_%22Rage_Car%22_Event_for_Police_Week_%287810759%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Madison_August_2022_099_%28Official_Absentee_Ballot_Drop_Box%29.jpg/1920px-Madison_August_2022_099_%28Official_Absentee_Ballot_Drop_Box%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Seattle-Tacoma_International_Airport%2C_Washington_%282014%29_-_01.JPG/1920px-Seattle-Tacoma_International_Airport%2C_Washington_%282014%29_-_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/9/97/Dearborn_Hills_Golf_Course_clubhouse_Michigan.JPG",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Policia_portuaria%2C_Kiel%2C_Alemania%2C_2019-08-30%2C_DD_18.jpg/1920px-Policia_portuaria%2C_Kiel%2C_Alemania%2C_2019-08-30%2C_DD_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -10702,7 +10812,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/ParastooAhmadi_%28cropped%29.jpg/1280px-ParastooAhmadi_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/US_Navy_070201-C-8227J-002_Master_Chief_Petty_Officer_of_the_Navy_%28MCPON%29_Joe_R._Campa_Jr._takes_the_wheel_of_a_41-foot_Coast_Guard_rescue_boat_as_Master_Chief_Petty_Officer_of_the_Coast_Guard_Charles.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/USS_Theodore_Roosevelt_operations_160322-N-DM308-040.jpg/1920px-USS_Theodore_Roosevelt_operations_160322-N-DM308-040.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Canberra_skyline%2C_York_Park_conservation_site%2C_The_National_Circuit%2C_Barton%2C_ACT_IMGP9718.jpg/1920px-Canberra_skyline%2C_York_Park_conservation_site%2C_The_National_Circuit%2C_Barton%2C_ACT_IMGP9718.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Canberra_skyline%2C_York_Park_conservation_site%2C_The_National_Circuit%2C_Barton%2C_ACT_IMGP9718.jpg/1920px-Canberra_skyline%2C_York_Park_conservation_site%2C_The_National_Circuit%2C_Barton%2C_ACT_IMGP9718.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Senator_Dan_Sullivan_official.jpg/1280px-Senator_Dan_Sullivan_official.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Rep._Mary_Peltola_headshot_%28cropped%29.jpg/1280px-Rep._Mary_Peltola_headshot_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -11048,46 +11160,6 @@
      }
     ],
     "v": 2
-   },
-   "gadi eisenkot": {
-    "t": "2026-11-13T18:32:15.035213+00:00",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Gadi_Eisenkot_2_%28cropped%29.jpg/1280px-Gadi_Eisenkot_2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "יהב טרודלר (Yahav Trudler - Yahav Studio‬‏) / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Gadi_Eisenkot_2_%28cropped1%29.jpg/1280px-Gadi_Eisenkot_2_%28cropped1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "יהב טרודלר (Yahav Trudler - Yahav Studio‬‏) / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Gadi_Eisenkot_2.jpg/1280px-Gadi_Eisenkot_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "יהב טרודלר (Yahav Trudler - Yahav Studio‬‏) / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Gadi_Eisenkot_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Elad Malka / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Gadi_Eisenkot_%28R_H_3639%29.jpg/1280px-Gadi_Eisenkot_%28R_H_3639%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Ronen Horesh / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Gadi_Eisenkot_2_%28cropped_-_WD%29.jpg/1280px-Gadi_Eisenkot_2_%28cropped_-_WD%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "יהב טרודלר (Yahav Trudler - Yahav Studio‬‏) / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     }
-    ]
    },
    "benjamin netanyahu": {
     "t": "2026-11-13T18:32:19.201955+00:00",
@@ -13982,6 +14054,82 @@
      }
     ],
     "v": 2
+   },
+   "dan sullivan": {
+    "t": "2026-11-25T05:01:07.609441+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Senator_Dan_Sullivan_official.jpg/1280px-Senator_Dan_Sullivan_official.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Senate / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Dan_Sullivan_in_2021.jpg/1280px-Dan_Sullivan_in_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "The White House / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Senator_Dan_Sullivan_official_%28cropped%29.jpg/1280px-Senator_Dan_Sullivan_official_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Senate / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Senator_Dan_Sullivan_official_%285and6cropped%29.jpg/1280px-Senator_Dan_Sullivan_official_%285and6cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Senate / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Dan_Sullivan_in_2021_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "The White House / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Dan_Sullivan_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Office of Senator Dan Sullivan / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Dan_Sullivan_2025_%28cropped_3x4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Office of Senator Dan Sullivan / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Dan_Sullivan_at_Iditarod_2018.jpg/1280px-Dan_Sullivan_at_Iditarod_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Senate - Office of Dan Sullivan / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Dan_Sullivan_2025.jpg/1280px-Dan_Sullivan_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Office of Senator Dan Sullivan / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Dan_Sullivan_at_Eagle_River_Lions_Club_Gun_Show_02.jpg/1280px-Dan_Sullivan_at_Eagle_River_Lions_Club_Gun_Show_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Senate - Office of Dan Sullivan / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": false
+     }
+    ],
+    "v": 2
    }
   },
   "recent_ideas": [
@@ -16198,21 +16346,36 @@
     "s": 5,
     "w": "building in Canberra",
     "p": "Generic building instead of the actual treaty signing event or officials."
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Senator_Dan_Sullivan_official.jpg/1280px-Senator_Dan_Sullivan_official.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Dan Sullivan": {
+    "s": 10,
+    "w": "portrait of Dan Sullivan",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Mary_Peltola_Town_Hall_2024.jpg/1280px-Mary_Peltola_Town_Hall_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Mary Peltola": {
+    "s": 0,
+    "w": "Mary Peltola speaking to crowd",
+    "p": "Mary Peltola is visible in the background, but the foreground shows a crowd in a"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Rep._Mary_Peltola_headshot_%28cropped%29.jpg/1280px-Rep._Mary_Peltola_headshot_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Mary Peltola": {
+    "s": 10,
+    "w": "Mary Peltola smiling",
+    "p": ""
    }
   }
  },
  "comment_perm_told": true,
  "auto_count": {
-  "2026-11-18": 22,
   "2026-11-19": 30,
   "2026-11-20": 30,
   "2026-11-21": 17,
   "2026-11-22": 11,
   "2026-11-23": 20,
-  "2026-11-24": 23
+  "2026-11-24": 23,
+  "2026-11-25": 1
  },
- "last_auto_at": "2026-11-25T03:57:27.176874+00:00",
- "last_post_at": "2026-11-25T03:57:32.114929+00:00",
+ "last_auto_at": "2026-11-25T05:01:18.895340+00:00",
+ "last_post_at": "2026-11-25T05:01:24.217749+00:00",
  "reels_count": {
   "2026-11-18": 3,
   "2026-11-19": 3,
@@ -16223,241 +16386,6 @@
   "2026-11-24": 3
  },
  "roundup": {
-  "2026-11-16": {
-   "status": "built",
-   "plan": {
-    "parts": [
-     {
-      "name": "CONFLICT & DIPLOMA",
-      "stories": [
-       13,
-       16,
-       12,
-       30,
-       27,
-       7,
-       19,
-       6,
-       22
-      ],
-      "hook": "Ukraine strikes a Crimea bridge and oil refinery. US deploys a third aircraft carrier.",
-      "title": "Ukraine Strikes Crimea Bridge And Russia Refinery",
-      "question": "What are the broader security implications of the latest strikes in Ukraine?",
-      "hashtags": [
-       "#ukraine",
-       "#middleeast",
-       "#diplomacy"
-      ],
-      "tags": [
-       "ukraine war",
-       "crimea bridge",
-       "russia refinery",
-       "us aircraft carrier",
-       "donald trump",
-       "international diplomacy"
-      ]
-     },
-     {
-      "name": "US NEWS",
-      "stories": [
-       10,
-       28,
-       29,
-       23,
-       26,
-       25,
-       24,
-       11,
-       20,
-       5,
-       31,
-       33
-      ],
-      "hook": "Stephen Miller and Marco Rubio form an alliance. California sues OpenAI.",
-      "title": "California Sues OpenAI And NYC Mayor Disbands NYPD Unit",
-      "question": "How will the lawsuit against OpenAI impact artificial intelligence regulation?",
-      "hashtags": [
-       "#usnews",
-       "#politics",
-       "#economy"
-      ],
-      "tags": [
-       "us politics",
-       "california openai",
-       "new york city mayor",
-       "nuclear fuel",
-       "air traffic control",
-       "bank outages"
-      ]
-     },
-     {
-      "name": "WORLD NEWS",
-      "stories": [
-       3,
-       2,
-       4,
-       18,
-       1,
-       8,
-       21,
-       17,
-       9,
-       15
-      ],
-      "hook": "Seventeen people are killed in South Africa shootings. Jordan bans Telegram.",
-      "title": "Shootings In South Africa And Building Fire In Thailand",
-      "question": "",
-      "hashtags": [
-       "#worldnews",
-       "#elections",
-       "#global"
-      ],
-      "tags": [
-       "south africa shootings",
-       "thailand fire",
-       "jordan telegram ban",
-       "cape verde election",
-       "haiti election",
-       "grammy nominations"
-      ]
-     }
-    ],
-    "dropped": [
-     {
-      "n": 14,
-      "why": "Minor local legal proceeding"
-     },
-     {
-      "n": 32,
-      "why": "Speculative expert commentary"
-     },
-     {
-      "n": 34,
-      "why": "Redundant technical rules mention"
-     }
-    ],
-    "ids": [
-     "abfc3a1aac",
-     "d76ba2cdf6",
-     "a21739bb6e",
-     "fa56287cab",
-     "371b0757f1",
-     "8d5a143784",
-     "108f1162b4",
-     "b6316acb5c",
-     "096f00872a",
-     "f3b5c143f4",
-     "242d1c5c88",
-     "f78254b9b3",
-     "d7de5c46f1",
-     "789464eb26",
-     "1af2f2874d",
-     "6b6f4d2ec9",
-     "df672909a2",
-     "f3889c8954",
-     "9012ea9cee",
-     "3e8f4b649f",
-     "47b9ab7870",
-     "dcff3fbe38",
-     "e392d5c6de",
-     "b3e14c34d6",
-     "0794df5dda",
-     "c4170fc727",
-     "3e2a4fcd98",
-     "e5fa793a18",
-     "005864cce3",
-     "08ed79d7ae",
-     "768e34cdff",
-     "901e21f714",
-     "4dd0009e16",
-     "49b016b81c"
-    ]
-   },
-   "heads": [
-    "Martine Moise registers for Haiti presidential election",
-    "Building fire in southern Thailand kills eleven people",
-    "At least 17 people killed in South Africa shootings",
-    "Jordan bans Telegram app over national security concerns",
-    "US universities report decline in international student enrollment",
-    "Five EU nations plan migrant deportation centre in Rwanda",
-    "Donald Trump travels to Asia for international summits",
-    "Pope Leo concludes South America tour following surgery",
-    "French actor Gerard Depardieu drops sexual assault conviction appeal",
-    "Stephen Miller and Marco Rubio form new political alliance",
-    "Media outlets ask readers about funding US air traffic control",
-    "Third US aircraft carrier arrives in Middle East",
-    "Ukraine strikes Crimea bridge as President Zelensky discusses Starshield limits",
-    "Lindsay Clancy faces retrial in March for children deaths",
-    "French football chief challenges Gianni Infantino in FIFA election",
-    "Ukraine strikes key oil refinery in southern Russia",
-    "British artist Raye leads Grammy nominations with 11 nods",
-    "José Maria Neves wins Cape Verde presidential election",
-    "Trump travels to Asia for meetings with Xi Jinping and Vladimir Putin",
-    "US flights return to normal after weekend of travel disruption",
-    "Kim Jong Un alters North Korea flag during constitutional changes",
-    "Chatham House director discusses European and American positions on Ukraine peace talks",
-    "Trump administration explores nuclear fuel campuses across five states",
-    "White House issues memorandum on agency testimony before Congress",
-    "Supreme Court declines Trump appeal on university research grants",
-    "Ro Khanna proposes one thousand seven hundred dollar Iran war refund checks",
-    "Cargo ship sinks in Bulgaria Black Sea after attack",
-    "New York City Mayor Zohran Mamdani disbands NYPD unit",
-    "California sues OpenAI over public safety and hacking incidents",
-    "Saudi Arabia dismisses coalition commander amid military repositioning in Yemen",
-    "Customers report widespread outages at multiple US banks",
-    "Forensic expert says autopsy photos suggest Epstein was killed",
-    "James Comer launches campaign for Kentucky governor",
-    "Trump administration addresses advanced A.I. chip rules"
-   ],
-   "asked_at": "2026-11-17T09:15:54.320555+00:00",
-   "test": false,
-   "msg_id": 698,
-   "approved_by": "test",
-   "approved_at": "2026-11-17T09:15:54.646085+00:00",
-   "dispatch_at": "2026-11-17T16:45:35.354675+00:00",
-   "dispatch_tries": 1,
-   "headlines": [
-    "Ukraine strikes Crimea bridge as President Zelensky discusses Starshield limits",
-    "Ukraine strikes key oil refinery in southern Russia",
-    "Third US aircraft carrier arrives in Middle East",
-    "Saudi Arabia dismisses coalition commander amid military repositioning in Yemen",
-    "Cargo ship sinks in Bulgaria Black Sea after attack",
-    "Donald Trump travels to Asia for international summits",
-    "Trump travels to Asia for meetings with Xi Jinping and Vladimir Putin",
-    "Five EU nations plan migrant deportation centre in Rwanda",
-    "Chatham House director discusses European and American positions on Ukraine peace talks",
-    "Stephen Miller and Marco Rubio form new political alliance",
-    "New York City Mayor Zohran Mamdani disbands NYPD unit",
-    "California sues OpenAI over public safety and hacking incidents",
-    "Trump administration explores nuclear fuel campuses across five states",
-    "Ro Khanna proposes one thousand seven hundred dollar Iran war refund checks",
-    "Supreme Court declines Trump appeal on university research grants",
-    "White House issues memorandum on agency testimony before Congress",
-    "Media outlets ask readers about funding US air traffic control",
-    "US flights return to normal after weekend of travel disruption",
-    "US universities report decline in international student enrollment",
-    "Customers report widespread outages at multiple US banks",
-    "James Comer launches campaign for Kentucky governor",
-    "At least 17 people killed in South Africa shootings",
-    "Building fire in southern Thailand kills eleven people",
-    "Jordan bans Telegram app over national security concerns",
-    "José Maria Neves wins Cape Verde presidential election",
-    "Martine Moise registers for Haiti presidential election",
-    "Pope Leo concludes South America tour following surgery",
-    "Kim Jong Un alters North Korea flag during constitutional changes",
-    "British artist Raye leads Grammy nominations with 11 nods",
-    "French actor Gerard Depardieu drops sexual assault conviction appeal",
-    "French football chief challenges Gianni Infantino in FIFA election"
-   ],
-   "done": {
-    "tt1": true,
-    "log1": true,
-    "tt2": true,
-    "log2": true,
-    "tt3": true,
-    "log3": true
-   }
-  },
   "2026-11-17": {
    "status": "built",
    "plan": {
@@ -17798,6 +17726,164 @@
     "tt3": true,
     "log3": true
    }
+  },
+  "2026-11-24": {
+   "status": "asked",
+   "plan": {
+    "parts": [
+     {
+      "name": "WAR & CONFLICT",
+      "tag": "#warnews",
+      "stories": [
+       12,
+       18,
+       17,
+       11,
+       13,
+       5
+      ],
+      "hook": "Strikes kill Hamas chief. Trump eyes Iran leaders.",
+      "title": "Israeli strikes kill Hamas chief as Trump considers Iran strategy",
+      "question": "How will new strategies impact regional stability?",
+      "hashtags": [
+       "#conflict",
+       "#middleeast"
+      ],
+      "tags": [
+       "middle east conflict",
+       "israeli strikes",
+       "hamas",
+       "trump iran strategy",
+       "dr congo rebels",
+       "colombia bomb"
+      ],
+      "of": 3
+     },
+     {
+      "name": "US NEWS",
+      "tag": "#usnews",
+      "stories": [
+       8,
+       7,
+       9,
+       14,
+       16,
+       19,
+       15,
+       22
+      ],
+      "hook": "Donalds takes office. Kasper urges resignation.",
+      "title": "Byron Donalds prepares to take office as Florida governor",
+      "question": "What priorities will define the new administration?",
+      "hashtags": [
+       "#uspolitics",
+       "#government"
+      ],
+      "tags": [
+       "us politics",
+       "byron donalds",
+       "joe kasper",
+       "pete hegseth",
+       "rudy giuliani",
+       "huawei trade secrets"
+      ],
+      "of": 3
+     },
+     {
+      "name": "WORLD NEWS",
+      "tag": "#worldnews",
+      "stories": [
+       23,
+       1,
+       2,
+       4,
+       20,
+       6,
+       10,
+       21
+      ],
+      "hook": "Australia signs treaty. Chinese official sentenced.",
+      "title": "Solomon Islands and Australia sign new security treaty",
+      "question": "What impact will the new security treaty have?",
+      "hashtags": [
+       "#worldnews",
+       "#diplomacy"
+      ],
+      "tags": [
+       "world news",
+       "solomon islands",
+       "australia security",
+       "china espionage",
+       "online safety laws",
+       "united nations"
+      ],
+      "of": 3
+     }
+    ],
+    "dropped": [
+     {
+      "n": 3,
+      "why": "Minor diplomatic friction"
+     },
+     {
+      "n": 22,
+      "why": "Duplicate from yesterday list"
+     }
+    ],
+    "ids": [
+     "ce67c4c0f3",
+     "e0dfb34915",
+     "33748771cf",
+     "197eb37be8",
+     "1f2a8fcdf2",
+     "034750cc4a",
+     "fc2db0d6c8",
+     "fe5f4fe4ed",
+     "f77b05fad3",
+     "64a11bad88",
+     "0ec8be5621",
+     "5bd532c15c",
+     "11edec9e49",
+     "7bddd59f3b",
+     "2fb1450087",
+     "9bb180198b",
+     "ffd99e9319",
+     "fa5c76011c",
+     "7d1b5203fe",
+     "a5d555f155",
+     "f6259fd41d",
+     "3323d654f6",
+     "1b53b687e7"
+    ]
+   },
+   "heads": [
+    "Chinese official sentenced to death for espionage",
+    "Australia passes new online safety laws targeting tech firms",
+    "Pentagon accuses Canada of failing as a credible defence partner",
+    "North Korea reviews Switzerland relations after youth camp sanctions",
+    "NATO authorizes early-warning aircraft deployment to Poland",
+    "Malaysia announces plans to repatriate 6,803 Myanmar nationals",
+    "Former Pentagon Chief of Staff Joe Kasper Urges Pete Hegseth to Resign",
+    "Rep Byron Donalds prepares to take office as Florida governor",
+    "Trump to present Rudy Giuliani with Medal of Freedom",
+    "French police officer faces murder trial after appeal ruling",
+    "Armed men seize supermarket and take hostages in Cartagena",
+    "Israeli strikes kill Hamas internal security chief in Gaza",
+    "Car bomb detonates in central Colombian city of Villavicencio",
+    "US spy agencies suffer breach of unclassified information",
+    "Newborn hepatitis B vaccination rates drop in the US",
+    "New York jury convicts Huawei of stealing trade secrets",
+    "Rebel group halts advance in DR Congo after talks",
+    "Trump administration considers targeting Iranian leaders to end war",
+    "Army shooter Nidal Hasan plans petition to delay execution",
+    "United Nations condemns Iran for flogging singer Parastoo Ahmadi",
+    "Coast Guard searches for six people after plane crash",
+    "US army schedules controlled explosion of lead azide barrels in Iowa",
+    "Solomon Islands and Australia sign new security treaty in Canberra"
+   ],
+   "asked_at": "2026-11-25T05:00:51.890482+00:00",
+   "test": false,
+   "msg_id": 975
   }
  },
  "run_once_done": [
