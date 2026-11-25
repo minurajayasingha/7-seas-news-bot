@@ -6895,8 +6895,6 @@
   }
  },
  "seen_links": [
-  "https://www.washingtonexaminer.com/news/house/4798925/lisa-mcclain-wins-gop-conference-chair-2026/",
-  "https://thehill.com/the-120/6211765-lisa-mcclain-wins-gop-chair/",
   "https://www.nytimes.com/2026/11/10/business/toyota-kei-pickup-truck.html",
   "https://www.independent.co.uk/news/world/americas/toyota-mini-kei-trucks-scion-trump-b3082674.html",
   "https://www.euronews.com/2026/11/10/paraguays-new-president-vows-to-recover-pension-funds-at-risk-in-ueno-bank-crisis",
@@ -8894,7 +8892,9 @@
   "https://www.independent.co.uk/news/world/europe/canary-islands-migrants-spain-election-b3091650.html",
   "https://abcnews.com/International/wireStory/migration-spains-canary-islands-breaks-single-day-record-138434894",
   "https://www.bbc.co.uk/weather/articles/cr894e8dd7wqo?at_medium=RSS&at_campaign=rss",
-  "https://www.independent.co.uk/news/world/americas/macys-thanksgiving-parade-balloons-weather-start-time-b3091468.html"
+  "https://www.independent.co.uk/news/world/americas/macys-thanksgiving-parade-balloons-weather-start-time-b3091468.html",
+  "https://www.upi.com/Top_News/US/2026/11/25/house-democracts-harvard-strike-boycott/6441795625288/",
+  "https://www.theguardian.com/education/2026/nov/25/house-democrats-harvard-boycott-strike"
  ],
  "recent_topics": [
   [
@@ -10872,17 +10872,13 @@
    "97048f5685"
   ]
  ],
- "last_draft_at": "2026-11-25T17:15:39.176454+00:00",
+ "last_draft_at": "2026-11-25T17:30:43.236172+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T16:46:09.141429+00:00",
  "run_log": [
-  "11-25 14:45:37 run start",
-  "11-25 14:47:02 listening 10 min",
-  "11-25 14:57:06 listening done",
-  "11-25 14:57:06 run end after 688 s",
   "11-25 15:00:48 run start",
   "11-25 15:04:06 listening 8 min",
   "11-25 15:12:28 listening done",
@@ -10918,7 +10914,11 @@
   "11-25 17:15:38 run start",
   "11-25 17:17:17 listening 10 min",
   "11-25 17:27:22 listening done",
-  "11-25 17:27:22 run end after 703 s"
+  "11-25 17:27:22 run end after 703 s",
+  "11-25 17:30:42 run start",
+  "11-25 17:31:29 listening 11 min",
+  "11-25 17:42:22 listening done",
+  "11-25 17:42:22 run end after 699 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
