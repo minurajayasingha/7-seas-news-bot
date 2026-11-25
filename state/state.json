@@ -9001,24 +9001,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-22T09:34:09.553886+00:00",
-   [
-    "anti-a",
-    "cheat",
-    "education",
-    "engulf",
-    "exam",
-    "korea",
-    "minister",
-    "resign",
-    "rul",
-    "scandal",
-    "south",
-    "university"
-   ],
-   "3d97e0803e"
-  ],
-  [
    "2026-11-22T11:45:59.912531+00:00",
    [
     "blockad",
@@ -10939,17 +10921,13 @@
    "51474f06b5"
   ]
  ],
- "last_draft_at": "2026-11-25T09:15:39.130834+00:00",
+ "last_draft_at": "2026-11-25T09:30:43.759972+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T08:45:33.893625+00:00",
  "run_log": [
-  "11-25 07:00:49 run start",
-  "11-25 07:01:13 listening 11 min",
-  "11-25 07:12:33 listening done",
-  "11-25 07:12:33 run end after 704 s",
   "11-25 07:15:40 run start",
   "11-25 07:15:50 listening 11 min",
   "11-25 07:27:08 listening done",
@@ -10985,7 +10963,11 @@
   "11-25 09:15:38 run start",
   "11-25 09:15:57 listening 11 min",
   "11-25 09:27:18 listening done",
-  "11-25 09:27:18 run end after 699 s"
+  "11-25 09:27:18 run end after 699 s",
+  "11-25 09:30:43 run start",
+  "11-25 09:31:03 listening 11 min",
+  "11-25 09:42:21 listening done",
+  "11-25 09:42:21 run end after 698 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
