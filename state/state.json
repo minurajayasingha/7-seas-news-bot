@@ -7085,11 +7085,105 @@
     "shares": 0
    },
    "stats_at": "2026-11-25T11:45:31.414661+00:00"
+  },
+  "493c59d042": {
+   "id": "493c59d042",
+   "headline": "Donald Trump and Gavin Newsom engage in political feud",
+   "summary": "President Donald Trump and California Governor Gavin Newsom continue an adversarial relationship, using each other as political foils. Trump recently rebuked Newsom's decision to commute the sentences of California death row inmates.",
+   "label": "US POLITICS",
+   "hook": "Will these escalating disputes impact Gavin Newsom's potential 2028 presidential bid?",
+   "key_points": [
+    "Newsom is preparing to leave office in January.",
+    "Trump vowed to work to overturn the commutations.",
+    "Both figures use the feud to rally supporters."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#DonaldTrump",
+    "#GavinNewsom"
+   ],
+   "sources": [
+    "The Hill",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/news/white-house/4814397/trump-newsom-political-feud-neither-can-quit/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/white-house/4814397/trump-newsom-political-feud-neither-can-quit/"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/homenews/campaign/6241369-trump-newsom-death-row-clash/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Shealeah Craighead / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "Donald Trump portrait smiling"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/COP31_-_Gavin_Newsom_13.jpg/1280px-COP31_-_Gavin_Newsom_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Xuthoria / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": null
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Donald Trump and Gavin Newsom engage in political feud",
+    "people": [
+     "Donald Trump",
+     "Gavin Newsom"
+    ],
+    "image_query": "California State Capitol building",
+    "image_queries": [
+     "White House",
+     "US Capitol dome",
+     "California flag",
+     "voting booth"
+    ],
+    "image_style": "person",
+    "location": "California, US",
+    "nearby_city": "Sacramento, California",
+    "event_query": "California state capitol building",
+    "topic_photo": "judge gavel",
+    "label": "US POLITICS",
+    "action_subject": "",
+    "news_time": "2026-11-25T11:00:00+00:00"
+   },
+   "created_at": "2026-11-25T12:01:50.954673+00:00",
+   "news_time": "2026-11-25T11:00:00+00:00",
+   "news_latest": "2026-11-25T12:00:00+00:00",
+   "importance": 6,
+   "caption": "Donald Trump and Gavin Newsom engage in political feud\n\nPresident Donald Trump and California Governor Gavin Newsom continue an adversarial relationship, using each other as political foils. Trump recently rebuked Newsom's decision to commute the sentences of California death row inmates.\n\n💬 Will these escalating disputes impact Gavin Newsom's potential 2028 presidential bid?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #DonaldTrump #GavinNewsom #7SeasNews",
+   "photo_line": "📷 10/10 Donald Trump portrait smiling",
+   "status": "posted",
+   "tg_message_id": 984,
+   "tg_file_id": "AgACAgUAAxkDAAID2GsGzjGzFDJ_QNI3azoX7lKVJvMmAAJEEmsbr_wxVLCxal4Mk_-CAQADAgADdwADPQQ",
+   "queued_at": "2026-11-25T12:01:53.785166+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-25T12:01:53.785202+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122111593155548584",
+   "posted_at": "2026-11-25T12:01:54.117296+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 25 · 7:02 AM New York · 5:32 PM Sri Lanka\n\n<b>Donald Trump and Gavin Newsom engage in political feud</b>\n<i>The Hill, Washington Examiner</i>\n🟢 <b>Latest:</b> 5:30 PM Sri Lanka (2 min ago) · first reported 4:30 PM\n📷 10/10 Donald Trump portrait smiling\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122111593155548584\">Open on Facebook</a>\n\n⚠️ <i>Looks like an earlier post: “Donald Trump criticizes California Governor Gavin Newsom over death sentences”. Tap 🗑 Delete if it's the same news.</i>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 692,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122111593155548584_1163955806130036"
   }
  },
  "seen_links": [
-  "https://www.aljazeera.com/news/2026/11/10/positive-momentum-is-the-us-war-on-iran-about-to-end?traffic_source=rss",
-  "https://thehill.com/policy/defense/6210107-republicans-iran-war-end-survey-reuters/",
   "https://www.theguardian.com/us-news/2026/nov/10/trump-toe-statue-dc-vietnam-war-draft",
   "https://www.independent.co.uk/news/world/americas/us-politics/trump-statue-draft-dodging-washington-dc-b3082317.html",
   "https://www.newsweek.com/donald-trump-approval-rating-change-midterms-poll-12693782",
@@ -9087,7 +9181,9 @@
   "https://www.france24.com/en/video/20261125-yemen-s-houthis-claim-attacks-on-riyadh-financial-district-saudi-refinery",
   "https://www.theguardian.com/us-news/2026/nov/25/louisiana-child-trump-letter-ice-custody",
   "https://www.newsweek.com/pregnant-women-detained-ice-750-percent-longer-trump-12766565",
-  "https://www.newsweek.com/dhs-links-man-arrested-ice-stickers-threatening-trump-12764367"
+  "https://www.newsweek.com/dhs-links-man-arrested-ice-stickers-threatening-trump-12764367",
+  "https://www.washingtonexaminer.com/news/white-house/4814397/trump-newsom-political-feud-neither-can-quit/",
+  "https://thehill.com/homenews/campaign/6241369-trump-newsom-death-row-clash/"
  ],
  "recent_topics": [
   [
@@ -11084,19 +11180,31 @@
     "women"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-25T12:01:53.785047+00:00",
+   [
+    "advantag",
+    "can",
+    "escalat",
+    "feud",
+    "find",
+    "neither",
+    "newsom",
+    "political",
+    "quit",
+    "trump"
+   ],
+   "493c59d042"
   ]
  ],
- "last_draft_at": "2026-11-25T11:45:58.959347+00:00",
+ "last_draft_at": "2026-11-25T12:00:54.717663+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T11:45:31.414661+00:00",
  "run_log": [
-  "11-25 09:30:43 run start",
-  "11-25 09:31:03 listening 11 min",
-  "11-25 09:42:21 listening done",
-  "11-25 09:42:21 run end after 698 s",
   "11-25 09:46:02 run start",
   "11-25 09:46:20 listening 11 min",
   "11-25 09:57:38 listening done",
@@ -11132,13 +11240,15 @@
   "11-25 11:45:31 run start",
   "11-25 11:46:33 listening 10 min",
   "11-25 11:57:01 listening done",
-  "11-25 11:57:01 run end after 690 s"
+  "11-25 11:57:01 run end after 690 s",
+  "11-25 12:00:54 run start",
+  "11-25 12:02:17 listening 10 min",
+  "11-25 12:12:22 listening done",
+  "11-25 12:12:22 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Clearing_debris_of_a_residential_building_in_Kyiv%2C_2022-04-20_%28962896%29.jpg/1920px-Clearing_debris_of_a_residential_building_in_Kyiv%2C_2022-04-20_%28962896%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Voters_receive_ballots_at_a_polling_station_in_Washington_DC%2C_5_Nov._2024.jpg/1920px-Voters_receive_ballots_at_a_polling_station_in_Washington_DC%2C_5_Nov._2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Example_voting_booth_from_USA_%28Connecticut%29.jpg/1920px-Example_voting_booth_from_USA_%28Connecticut%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/8/8a/Sacramento%2C-California---State-Capitol_%28cropped%29.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -11176,7 +11286,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Searching_for_drugs_-_Colombia_police_%2852416691912%29.jpg/1920px-Searching_for_drugs_-_Colombia_police_%2852416691912%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Yemeni_soldiers_from_the_1st_Armoured_Division.JPG/1920px-Yemeni_soldiers_from_the_1st_Armoured_Division.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Gadi_Eisenkot_2_%28cropped%29_3x4.jpg/1280px-Gadi_Eisenkot_2_%28cropped%29_3x4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/7/77/Chen_Jining_2019.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/7/77/Chen_Jining_2019.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/COP31_-_Gavin_Newsom_13.jpg/1280px-COP31_-_Gavin_Newsom_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -13062,7 +13174,7 @@
     "v": 2
    },
    "gavin newsom": {
-    "t": "2026-11-17T17:52:10.470574+00:00",
+    "t": "2026-11-25T12:01:28.247721+00:00",
     "photos": [
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Governor_of_California_Gavin_Newsom_%28cropped_3x4%29.jpg/1280px-Governor_of_California_Gavin_Newsom_%28cropped_3x4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -13084,29 +13196,8 @@
       "only": true
      },
      {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/COP31_-_Gavin_Newsom_13.jpg/1280px-COP31_-_Gavin_Newsom_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Xuthoria / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true,
-      "only": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/COP31_-_Gavin_Newsom_04.jpg/1280px-COP31_-_Gavin_Newsom_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Xuthoria / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true,
-      "only": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/COP31_-_Gavin_Newsom_06.jpg/1280px-COP31_-_Gavin_Newsom_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Xuthoria / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true,
-      "only": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Gavin_Newsom_%2844640121381%29.jpg/1280px-Gavin_Newsom_%2844640121381%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Daniel Nesbitt / Wikimedia Commons (CC BY-SA 2.0)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Governor_Gavin_Newsom_of_California%2C_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Office of the Governor of California / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": true,
       "only": true
@@ -13119,8 +13210,8 @@
       "only": true
      },
      {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Governor_Gavin_Newsom_of_California%2C_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Office of the Governor of California / Wikimedia Commons (Public domain)",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Governor_of_California_Gavin_Newsom%2C_2026_Official_Portrait_2_%28cropped%29.jpg/1280px-Governor_of_California_Gavin_Newsom%2C_2026_Official_Portrait_2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Charles Ommanney – Office of the Governor of California / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": true,
       "only": true
@@ -13133,6 +13224,27 @@
       "only": true
      },
      {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Gavin_Newsom_%2844640121381%29.jpg/1280px-Gavin_Newsom_%2844640121381%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Daniel Nesbitt / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/COP31_-_Gavin_Newsom_13.jpg/1280px-COP31_-_Gavin_Newsom_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Xuthoria / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Gavin_Newsom.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Unknown artificial intelligence Unknown artificial intellige / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Governor_of_California_Gavin_Newsom_%28cropped_3x4%29_%282%29.jpg/1280px-Governor_of_California_Gavin_Newsom_%28cropped_3x4%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Charles Ommanney – Office of the Governor of California / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
@@ -13140,8 +13252,8 @@
       "only": true
      },
      {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Governor_of_California_Gavin_Newsom%2C_2026_Official_Portrait_2_%28cropped%29.jpg/1280px-Governor_of_California_Gavin_Newsom%2C_2026_Official_Portrait_2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Charles Ommanney – Office of the Governor of California / Wikimedia Commons (Public domain)",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/COP31_-_Gavin_Newsom_04.jpg/1280px-COP31_-_Gavin_Newsom_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Xuthoria / Wikimedia Commons (CC BY-SA 4.0)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": true,
       "only": true
@@ -16686,10 +16798,10 @@
   "2026-11-22": 11,
   "2026-11-23": 20,
   "2026-11-24": 23,
-  "2026-11-25": 7
+  "2026-11-25": 8
  },
- "last_auto_at": "2026-11-25T11:32:14.314606+00:00",
- "last_post_at": "2026-11-25T11:32:18.728940+00:00",
+ "last_auto_at": "2026-11-25T12:01:54.117296+00:00",
+ "last_post_at": "2026-11-25T12:02:04.343070+00:00",
  "reels_count": {
   "2026-11-19": 3,
   "2026-11-20": 3,
