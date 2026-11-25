@@ -7078,9 +7078,6 @@
   }
  },
  "seen_links": [
-  "https://www.washingtonexaminer.com/news/senate/4799421/trump-drops-lee-rudofsky-arkansas-senators-choosing-cody-hiland-instead/",
-  "https://www.nytimes.com/2026/11/10/us/politics/trump-colorado-transgender.html",
-  "https://www.newsweek.com/trump-reportedly-wants-male-press-secretary-ferguson-jennings-odds-rising-12697123",
   "https://www.foxnews.com/politics/trump-closing-new-press-secretary-admin-officials-push-pick-break-mold",
   "https://www.washingtonpost.com/politics/2026/11/10/kennedy-family-sues-stop-trumps-arch-citing-shadow-jfk-grave/",
   "https://www.nbcnews.com/video/kennedy-family-moves-to-block-trump-s-triumphal-arch-273240645790",
@@ -9077,7 +9074,10 @@
   "https://www.newsweek.com/steelers-release-qb-aaron-rodgers-after-wild-pat-mcafee-interview-12768675",
   "https://www.newsweek.com/sports/nfl/aaron-rodgers-found-out-he-was-being-benched-from-steelers-teammate-12768604",
   "https://www.newsweek.com/aaron-rodgers-accuses-hc-mike-mccarthy-of-sleeping-through-steelers-meetings-12768658",
-  "https://www.nbcnews.com/sports/nfl/aaron-rodgers-blasts-steelers-coach-mike-mccarthy-benching-re-unhealth-rcna611340"
+  "https://www.nbcnews.com/sports/nfl/aaron-rodgers-blasts-steelers-coach-mike-mccarthy-benching-re-unhealth-rcna611340",
+  "https://www.upi.com/Top_News/World-News/2026/11/25/france-esa-hera-spacecraft-nasa-asteroid/2221795636348/",
+  "https://news.sky.com/story/stadium-sized-crater-left-in-asteroid-after-nasas-planetary-protection-test-13616510",
+  "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss"
  ],
  "recent_topics": [
   [
@@ -11117,19 +11117,35 @@
     "your"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-25T20:45:45.351882+00:00",
+   [
+    "asteroid",
+    "crater",
+    "defenc",
+    "earth",
+    "european",
+    "imag",
+    "left",
+    "nasa",
+    "protection",
+    "reveal",
+    "spacecraft",
+    "stadium-siz",
+    "target",
+    "test"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-25T20:30:51.742384+00:00",
+ "last_draft_at": "2026-11-25T20:45:34.709453+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T20:00:45.673163+00:00",
  "run_log": [
-  "11-25 18:20:38 run start",
-  "11-25 18:21:33 listening 11 min",
-  "11-25 18:32:27 listening done",
-  "11-25 18:32:27 run end after 709 s",
   "11-25 18:33:06 run start",
   "11-25 18:33:16 listening 11 min",
   "11-25 18:44:34 listening done",
@@ -11165,7 +11181,11 @@
   "11-25 20:30:51 run start",
   "11-25 20:32:20 listening 10 min",
   "11-25 20:42:23 listening done",
-  "11-25 20:42:23 run end after 691 s"
+  "11-25 20:42:23 run end after 691 s",
+  "11-25 20:45:34 run start",
+  "11-25 20:45:45 listening 11 min",
+  "11-25 20:57:03 listening done",
+  "11-25 20:57:03 run end after 689 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
