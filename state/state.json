@@ -6989,9 +6989,6 @@
   }
  },
  "seen_links": [
-  "https://www.euronews.com/2026/11/10/gcc-members-agree-to-station-forces-at-new-military-command-post-in-kuwait",
-  "https://www.aljazeera.com/news/2026/11/10/gcc-agrees-to-set-up-advanced-military-command-headquarters-in-kuwait?traffic_source=rss",
-  "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
   "https://www.aljazeera.com/video/newsfeed/2026/11/10/lewis-hamilton-visits-rafah-crossing-to-witness-gaza-aid-efforts?traffic_source=rss",
   "https://thehill.com/policy/transportation/6209643-florida-jet-crash-ntsb/",
   "https://www.independent.co.uk/news/world/americas/greenacres-florida-lear-jet-plane-crash-black-box-b3082203.html",
@@ -8988,7 +8985,10 @@
   "https://www.independent.co.uk/news/world/europe/ukraine-us-troops-trump-russia-war-deal-b3091277.html",
   "https://kyivindependent.com/exclusive-us-rules-out-troops-military-bases-in-ukraine-under-post-war-security-guarantees-falling-short-of-kyivs-expectations/",
   "https://thehill.com/newsletters/the-gavel/6241267-the-gavel-democrats-congressional-oversight-trump/",
-  "https://www.washingtonexaminer.com/in_focus/4814528/2028-democratic-power-rankings-vol-1/"
+  "https://www.washingtonexaminer.com/in_focus/4814528/2028-democratic-power-rankings-vol-1/",
+  "https://www.nytimes.com/2026/11/25/world/middleeast/libya-ukraine-russia-haftar.html",
+  "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions?traffic_source=rss",
+  "https://www.nytimes.com/2026/11/25/world/americas/colombia-blackout-terrorist-attack.html"
  ],
  "recent_topics": [
   [
@@ -11005,17 +11005,13 @@
    "fa9fe84258"
   ]
  ],
- "last_draft_at": "2026-11-25T13:15:37.933944+00:00",
+ "last_draft_at": "2026-11-25T13:30:43.814778+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T12:46:00.778496+00:00",
  "run_log": [
-  "11-25 11:00:54 run start",
-  "11-25 11:01:17 listening 11 min",
-  "11-25 11:12:35 listening done",
-  "11-25 11:12:35 run end after 701 s",
   "11-25 11:15:35 run start",
   "11-25 11:16:58 listening 10 min",
   "11-25 11:27:01 listening done",
@@ -11051,7 +11047,11 @@
   "11-25 13:15:37 run start",
   "11-25 13:16:08 listening 11 min",
   "11-25 13:27:26 listening done",
-  "11-25 13:27:26 run end after 709 s"
+  "11-25 13:27:26 run end after 709 s",
+  "11-25 13:30:43 run start",
+  "11-25 13:31:05 listening 11 min",
+  "11-25 13:42:24 listening done",
+  "11-25 13:42:24 run end after 701 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
