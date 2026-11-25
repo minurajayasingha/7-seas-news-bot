@@ -6503,13 +6503,185 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122111364207548584_4538366273096511"
+  },
+  "f6259fd41d": {
+   "id": "f6259fd41d",
+   "headline": "Coast Guard searches for six people after plane crash",
+   "summary": "U.S. Coast Guard rescue crews are searching waters off the Mississippi coast following a plane crash. Authorities report that four adults and two children are missing after the aircraft went down.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "A Cessna plane crashed off the Mississippi coast.",
+    "The search operation involves U.S. Coast Guard rescue crews."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#CoastGuard",
+    "#Mississippi",
+    "#SearchAndRescue"
+   ],
+   "sources": [
+    "NBC News",
+    "UPI"
+   ],
+   "link": "https://www.upi.com/Top_News/US/2026/11/24/Mississippi-plane-crash/7531795571782/",
+   "links": [
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/US/2026/11/24/Mississippi-plane-crash/7531795571782/"
+    ],
+    [
+     "NBC News",
+     "https://www.nbcnews.com/news/us-news/4-adults-2-kids-are-missing-plane-crashes-mississippi-coast-rcna611218"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/US_Navy_070201-C-8227J-002_Master_Chief_Petty_Officer_of_the_Navy_%28MCPON%29_Joe_R._Campa_Jr._takes_the_wheel_of_a_41-foot_Coast_Guard_rescue_boat_as_Master_Chief_Petty_Officer_of_the_Coast_Guard_Charles.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Navy photo / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 8,
+      "shows": "Coast Guard personnel on boat"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "Coast Guard searches for six people after plane crash",
+    "people": [],
+    "image_query": "Mississippi coastline",
+    "image_queries": [
+     "Coast Guard boat",
+     "Gulf of Mexico water",
+     "rescue helicopter",
+     "Mississippi beach"
+    ],
+    "image_style": "incident",
+    "location": "Mississippi, United States",
+    "nearby_city": "Jackson, Mississippi",
+    "event_query": "Mississippi coast plane crash search",
+    "topic_photo": "rescue boat",
+    "label": "WORLD",
+    "action_subject": "Coast Guard rescue boat",
+    "news_time": "2026-11-25T00:57:49+00:00"
+   },
+   "created_at": "2026-11-25T02:31:20.001707+00:00",
+   "news_time": "2026-11-25T00:57:49+00:00",
+   "news_latest": "2026-11-25T02:17:46+00:00",
+   "importance": 7,
+   "caption": "🚨 BREAKING: Coast Guard searches for six people after plane crash\n\nU.S. Coast Guard rescue crews are searching waters off the Mississippi coast following a plane crash. Authorities report that four adults and two children are missing after the aircraft went down.\n\nWhat we know so far:\n• A Cessna plane crashed off the Mississippi coast.\n• The search operation involves U.S. Coast Guard rescue crews.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#CoastGuard #Mississippi #SearchAndRescue #7SeasNews",
+   "photo_line": "📷 8/10 Coast Guard personnel on boat · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 972,
+   "tg_file_id": "AgACAgUAAxkDAAIDzGsGSHthGuRKwG0gmtLU_JYhJec8AAIXEWsbr_wxVCYLuSo5mIw5AQADAgADdwADPQQ",
+   "queued_at": "2026-11-25T02:31:23.720605+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-25T02:31:23.720638+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122111374737548584",
+   "posted_at": "2026-11-25T02:31:44.755966+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 24 · 9:31 PM New York · 8:01 AM Sri Lanka\n\n<b>Coast Guard searches for six people after plane crash</b>\n<i>NBC News, UPI</i>\n🟢 <b>Latest:</b> 7:47 AM Sri Lanka (14 min ago) · first reported 6:27 AM\n📷 8/10 Coast Guard personnel on boat · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122111374737548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 680,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122111374737548584_1858449258504890",
+   "fb_story_id": "1434572531990224"
+  },
+  "3323d654f6": {
+   "id": "3323d654f6",
+   "headline": "US army schedules controlled explosion of lead azide barrels in Iowa",
+   "summary": "The US army scheduled a controlled detonation of 68 barrels of lead azide for Wednesday in Iowa. The operation follows delays and public outcry, as residents in Iowa, Illinois, and Missouri prepare for Thanksgiving.",
+   "label": "US POLITICS",
+   "hook": "",
+   "key_points": [
+    "Detonation is scheduled for 10am EST on Wednesday.",
+    "The operation involves 68 barrels of lead azide.",
+    "Residents received five days of warning."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#IowaNews",
+    "#USArmy",
+    "#PublicSafety"
+   ],
+   "sources": [
+    "BBC",
+    "The Guardian"
+   ],
+   "link": "https://www.bbc.co.uk/news/articles/cqg7l5zx4edeo?at_medium=RSS&at_campaign=rss",
+   "links": [
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/cqg7l5zx4edeo?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/2026/nov/24/iowa-illinois-missouri-hazardous-bomb-explosion-blast-prep-thanksgiving"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/USS_Theodore_Roosevelt_operations_160322-N-DM308-040.jpg/1920px-USS_Theodore_Roosevelt_operations_160322-N-DM308-040.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Paul L Archer / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 8,
+      "shows": "sailors with hazardous barrels"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "US army schedules controlled explosion of lead azide barrels in Iowa",
+    "people": [],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "US military base",
+     "hazardous materials barrels",
+     "explosives stockpile",
+     "Des Moines skyline"
+    ],
+    "image_style": "incident",
+    "location": "Iowa, US",
+    "nearby_city": "Des Moines, Iowa",
+    "event_query": "Iowa controlled bomb blast",
+    "topic_photo": "explosives stockpile",
+    "label": "US POLITICS",
+    "action_subject": "hazardous materials barrels",
+    "news_time": "2026-11-24T21:49:07+00:00"
+   },
+   "created_at": "2026-11-25T02:31:42.208909+00:00",
+   "news_time": "2026-11-24T21:49:07+00:00",
+   "news_latest": "2026-11-25T02:17:18+00:00",
+   "importance": 6,
+   "caption": "US army schedules controlled explosion of lead azide barrels in Iowa\n\nThe US army scheduled a controlled detonation of 68 barrels of lead azide for Wednesday in Iowa. The operation follows delays and public outcry, as residents in Iowa, Illinois, and Missouri prepare for Thanksgiving.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#IowaNews #USArmy #PublicSafety #7SeasNews",
+   "photo_line": "📷 8/10 sailors with hazardous barrels · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 973,
+   "tg_file_id": "AgACAgUAAxkDAAIDzWsGSJBm-Rx9qTtaJk_4VMXdsPfIAAIYEWsbr_wxVJDEyLvUb1M9AQADAgADdwADPQQ",
+   "queued_at": "2026-11-25T02:31:44.413980+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_label": "🤖 Auto-posting",
+   "post_at": "2026-11-25T02:31:49.774622+00:00",
+   "fb_post_id": "1413030521900096_122111374953548584",
+   "posted_at": "2026-11-25T02:31:44.755966+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 24 · 9:32 PM New York · 8:02 AM Sri Lanka\n\n<b>US army schedules controlled explosion of lead azide barrels in Iowa</b>\n<i>BBC, The Guardian</i>\n🟢 <b>Latest:</b> 7:47 AM Sri Lanka (14 min ago) · first reported 3:19 AM\n📷 8/10 sailors with hazardous barrels · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122111374953548584\">Open on Facebook</a>\n\n⚠️ <i>Looks like an earlier post: “Army plans Iowa lead azide detonation despite court pause”. Tap 🗑 Delete if it's the same news.</i>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 681,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122111374953548584_1706509864530019"
   }
  },
  "seen_links": [
-  "https://www.aljazeera.com/opinions/2026/11/10/floridas-red-wall-is-cracking-but-democrats-are-missing-their-chance?traffic_source=rss",
-  "https://www.france24.com/en/video/20261110-russia-and-ukraine-hold-us-backed-talks-after-trump-says-broad-deal-is-possible",
-  "https://kyivindependent.com/general-staff-russia-has-lost-1-611-600-troops-in-ukraine-since-feb-24-2022/",
-  "https://www.theguardian.com/commentisfree/2026/nov/10/stephen-miller-shadow-president-trump",
   "https://www.aljazeera.com/opinions/2026/11/10/can-the-republican-party-survive-trump?traffic_source=rss",
   "https://www.washingtonexaminer.com/news/campaigns/state/4798019/somali-daycare-ceo-fraud-scandal-minnesota-house-seat/",
   "https://abcnews.com/Politics/wireStory/house-seats-democrats-expect-win-year-138001901",
@@ -8505,7 +8677,11 @@
   "https://www.washingtonexaminer.com/policy/defense/4814574/fort-hood-shooting-survivors-nidal-hasan-execution/",
   "https://www.nbcnews.com/news/us-news/fort-hood-nidal-hasan-firing-squad-execution-rcna611217",
   "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss",
-  "https://www.france24.com/en/asia-pacific/20261124-un-condemns-iran-flogging-singer-parastoo-ahmadi"
+  "https://www.france24.com/en/asia-pacific/20261124-un-condemns-iran-flogging-singer-parastoo-ahmadi",
+  "https://www.upi.com/Top_News/US/2026/11/24/Mississippi-plane-crash/7531795571782/",
+  "https://www.nbcnews.com/news/us-news/4-adults-2-kids-are-missing-plane-crashes-mississippi-coast-rcna611218",
+  "https://www.bbc.co.uk/news/articles/cqg7l5zx4edeo?at_medium=RSS&at_campaign=rss",
+  "https://www.theguardian.com/us-news/2026/nov/24/iowa-illinois-missouri-hazardous-bomb-explosion-blast-prep-thanksgiving"
  ],
  "recent_topics": [
   [
@@ -10283,19 +10459,50 @@
     "youtub"
    ],
    "a5d555f155"
+  ],
+  [
+   "2026-11-25T02:31:23.720486+00:00",
+   [
+    "adult",
+    "coast",
+    "crash",
+    "guard",
+    "kid",
+    "miss",
+    "mississippi",
+    "plan",
+    "search"
+   ],
+   "f6259fd41d"
+  ],
+  [
+   "2026-11-25T02:31:44.413841+00:00",
+   [
+    "apocalyptic",
+    "blast",
+    "bomb",
+    "brac",
+    "controll",
+    "down",
+    "explosiv",
+    "fiv",
+    "hunker",
+    "iowa",
+    "iowan",
+    "only",
+    "stockpil",
+    "warn"
+   ],
+   "3323d654f6"
   ]
  ],
- "last_draft_at": "2026-11-25T02:15:43.273709+00:00",
+ "last_draft_at": "2026-11-25T02:30:55.721629+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T01:45:36.219841+00:00",
  "run_log": [
-  "11-25 00:00:44 run start",
-  "11-25 00:01:18 listening 11 min",
-  "11-25 00:12:11 listening done",
-  "11-25 00:12:11 run end after 686 s",
   "11-25 00:15:38 run start",
   "11-25 00:16:19 listening 11 min",
   "11-25 00:27:12 listening done",
@@ -10331,13 +10538,15 @@
   "11-25 02:15:42 run start",
   "11-25 02:15:52 listening 11 min",
   "11-25 02:27:12 listening done",
-  "11-25 02:27:12 run end after 689 s"
+  "11-25 02:27:12 run end after 689 s",
+  "11-25 02:30:55 run start",
+  "11-25 02:32:19 listening 10 min",
+  "11-25 02:42:22 listening done",
+  "11-25 02:42:22 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/%D9%85%D9%88%D8%B4%DA%A9-%D9%85%D9%88%D8%B2%D9%87_%D8%AC%D9%86%DA%AF-_missile.jpg/1920px-%D9%85%D9%88%D8%B4%DA%A9-%D9%85%D9%88%D8%B2%D9%87_%D8%AC%D9%86%DA%AF-_missile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/%C4%B0ntrepid_aircraft_carrier.jpg/1920px-%C4%B0ntrepid_aircraft_carrier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/SSG_Desiree_Palacios_makes_final_settings_on_her_camera_before_a_sortie_in_a_F-16D_Fighting_Falcon.jpg/1920px-SSG_Desiree_Palacios_makes_final_settings_on_her_camera_before_a_sortie_in_a_F-16D_Fighting_Falcon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Vandenberg_Hosts_%22Rage_Car%22_Event_for_Police_Week_%287810759%29.jpg/1920px-Vandenberg_Hosts_%22Rage_Car%22_Event_for_Police_Week_%287810759%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Madison_August_2022_099_%28Official_Absentee_Ballot_Drop_Box%29.jpg/1920px-Madison_August_2022_099_%28Official_Absentee_Ballot_Drop_Box%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -10375,7 +10584,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/1280px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_02.jpg/1920px-A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Nidal_Hasan%2C_2007.jpg/1280px-Nidal_Hasan%2C_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/ParastooAhmadi_%28cropped%29.jpg/1280px-ParastooAhmadi_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/ParastooAhmadi_%28cropped%29.jpg/1280px-ParastooAhmadi_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/US_Navy_070201-C-8227J-002_Master_Chief_Petty_Officer_of_the_Navy_%28MCPON%29_Joe_R._Campa_Jr._takes_the_wheel_of_a_41-foot_Coast_Guard_rescue_boat_as_Master_Chief_Petty_Officer_of_the_Coast_Guard_Charles.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/USS_Theodore_Roosevelt_operations_160322-N-DM308-040.jpg/1920px-USS_Theodore_Roosevelt_operations_160322-N-DM308-040.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -13658,8 +13869,6 @@
    }
   },
   "recent_ideas": [
-   "beijing city",
-   "parliament house canberra",
    "us army soldiers",
    "pyongyang skyline",
    "warsaw skyline",
@@ -13669,7 +13878,9 @@
    "courtroom",
    "military aircraft",
    "missile",
-   "courtroom"
+   "courtroom",
+   "coast guard rescue boat",
+   "hazardous materials barrels"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -15841,6 +16052,31 @@
     "s": 10,
     "w": "Parastoo Ahmadi seated indoors",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/US_Navy_101026-N-3666W-079_A_police_car_escorts_riders_participating_in_the_Naval_Special_Warfare_%28NSW%29_Foundation_charity_bike_ride.jpg/1920px-US_Navy_101026-N-3666W-079_A_police_car_escorts_riders_participating_in_the_Naval_Special_Warfare_%28NSW%29_Foundation_charity_bike_ride.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|991e77e4": {
+    "s": 0,
+    "w": "cyclists near police car",
+    "p": "shows cyclists, not a Coast Guard rescue boat"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/US_Navy_070201-C-8227J-002_Master_Chief_Petty_Officer_of_the_Navy_%28MCPON%29_Joe_R._Campa_Jr._takes_the_wheel_of_a_41-foot_Coast_Guard_rescue_boat_as_Master_Chief_Petty_Officer_of_the_Coast_Guard_Charles.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|991e77e4": {
+    "s": 8,
+    "w": "Coast Guard personnel on boat",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Alta_Coast_Guard_rescue_3.jpg/1920px-Alta_Coast_Guard_rescue_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|991e77e4": {
+    "s": 0,
+    "w": "people waving on a ship",
+    "p": "shows people on a ship instead of a Coast Guard rescue boat"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/USS_Theodore_Roosevelt_operations_160322-N-DM308-040.jpg/1920px-USS_Theodore_Roosevelt_operations_160322-N-DM308-040.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|ef70f46d": {
+    "s": 8,
+    "w": "sailors with hazardous barrels",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Hazardous_material_exercise_120927-F-BD983-002.jpg/1920px-Hazardous_material_exercise_120927-F-BD983-002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|ef70f46d": {
+    "s": 8,
+    "w": "firefighters inspecting hazardous barrel",
+    "p": ""
    }
   }
  },
@@ -15852,10 +16088,10 @@
   "2026-11-21": 17,
   "2026-11-22": 11,
   "2026-11-23": 20,
-  "2026-11-24": 20
+  "2026-11-24": 22
  },
- "last_auto_at": "2026-11-25T01:46:34.485917+00:00",
- "last_post_at": "2026-11-25T01:46:53.795305+00:00",
+ "last_auto_at": "2026-11-25T02:31:44.755966+00:00",
+ "last_post_at": "2026-11-25T02:32:07.483859+00:00",
  "reels_count": {
   "2026-11-18": 3,
   "2026-11-19": 3,
