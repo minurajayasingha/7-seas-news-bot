@@ -6804,15 +6804,97 @@
     "shares": 0
    },
    "stats_at": "2026-11-25T16:46:09.141429+00:00"
+  },
+  "97048f5685": {
+   "id": "97048f5685",
+   "headline": "Melania Trump announces reunion of nine children amid Ukraine war",
+   "summary": "First Lady Melania Trump has helped reunite nine children with their families amid the war between Ukraine and Russia. According to a White House press release, humanitarian aid and peacekeeping efforts in this conflict remain among her top issues.",
+   "label": "DIPLOMACY",
+   "hook": "What steps can further protect families affected by the conflict?",
+   "key_points": [
+    "White House press release detailed the reunification effort",
+    "First lady focuses on Russia-Ukraine conflict"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#MelaniaTrump",
+    "#UkraineWar",
+    "#WorldNews"
+   ],
+   "sources": [
+    "UPI",
+    "Washington Post"
+   ],
+   "link": "https://www.upi.com/Top_News/World-News/2026/11/25/melania-trump-reunited-9-children/3951795623214/",
+   "links": [
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/World-News/2026/11/25/melania-trump-reunited-9-children/3951795623214/"
+    ],
+    [
+     "Washington Post",
+     "https://www.washingtonpost.com/politics/2026/11/25/melania-trump-announces-reunion-9-children-with-families-amid-ukraine-war/"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Melania_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Régine Mahaux / Wikimedia Commons (CC BY 3.0 us)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "Melania Trump portrait"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Melania Trump announces reunion of nine children amid Ukraine war",
+    "people": [
+     "Melania Trump"
+    ],
+    "image_query": "White House",
+    "image_queries": [
+     "Ukrainian flag",
+     "Humanitarian aid supplies",
+     "Family reunion banner",
+     "Diplomatic meeting room"
+    ],
+    "image_style": "person",
+    "location": "Washington, DC",
+    "nearby_city": "Washington, DC",
+    "event_query": "White House press briefing",
+    "topic_photo": "humanitarian aid",
+    "label": "DIPLOMACY",
+    "action_subject": "",
+    "news_time": "2026-11-25T16:20:00+00:00"
+   },
+   "created_at": "2026-11-25T17:16:24.874708+00:00",
+   "news_time": "2026-11-25T16:20:00+00:00",
+   "news_latest": "2026-11-25T16:23:44+00:00",
+   "importance": 6,
+   "caption": "Melania Trump announces reunion of nine children amid Ukraine war\n\nFirst Lady Melania Trump has helped reunite nine children with their families amid the war between Ukraine and Russia. According to a White House press release, humanitarian aid and peacekeeping efforts in this conflict remain among her top issues.\n\n💬 What steps can further protect families affected by the conflict?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#MelaniaTrump #UkraineWar #WorldNews #7SeasNews",
+   "photo_line": "📷 10/10 Melania Trump portrait",
+   "status": "posted",
+   "tg_message_id": 990,
+   "tg_file_id": "AgACAgUAAxkDAAID3msHF-pKIp74Giw7BaMtcxvBlz-qAAI3Emsbr_w5VHL3Nbn954k0AQADAgADdwADPQQ",
+   "queued_at": "2026-11-25T17:16:27.280760+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-25T17:16:27.280799+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122111735199548584",
+   "posted_at": "2026-11-25T17:17:00.825323+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 25 · 12:17 PM New York · 10:47 PM Sri Lanka\n\n<b>Melania Trump announces reunion of nine children amid Ukraine war</b>\n<i>UPI, Washington Post</i>\n🟢 <b>Latest:</b> 9:53 PM Sri Lanka (53 min ago) · first reported 9:50 PM\n📷 10/10 Melania Trump portrait\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122111735199548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 698,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122111735199548584_1967669057975474"
   }
  },
  "seen_links": [
-  "https://www.newsweek.com/joe-biden-donald-trump-2021-oval-office-letter-revealed-12696751",
-  "https://www.nytimes.com/2026/11/10/us/politics/biden-trump-letter.html",
-  "https://www.independent.co.uk/news/world/americas/us-politics/joe-biden-dublin-arrests-hunter-event-b3082651.html",
-  "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss",
-  "https://www.cbsnews.com/news/bernie-sanders-chuck-schumer-democratic-leader-senate/",
-  "https://thehill.com/homenews/6211705-sanders-slotkin-oppose-schumer/",
   "https://www.washingtonexaminer.com/news/house/4798925/lisa-mcclain-wins-gop-conference-chair-2026/",
   "https://thehill.com/the-120/6211765-lisa-mcclain-wins-gop-chair/",
   "https://www.nytimes.com/2026/11/10/business/toyota-kei-pickup-truck.html",
@@ -8806,49 +8888,15 @@
   "https://www.foxnews.com/world/yemeni-military-official-brands-iran-houthis-godfather-says-tehran-directing-war",
   "https://thehill.com/policy/transportation/6242731-ntsb-reagan-national-airport-army-helicopter-flights/",
   "https://www.cbsnews.com/news/dc-plane-crash-dca-army-training-flights/",
-  "https://www.foxnews.com/politics/grave-concerns-mount-army-restarts-dc-helicopter-training-deadly-2025-crash"
+  "https://www.foxnews.com/politics/grave-concerns-mount-army-restarts-dc-helicopter-training-deadly-2025-crash",
+  "https://www.upi.com/Top_News/World-News/2026/11/25/melania-trump-reunited-9-children/3951795623214/",
+  "https://www.washingtonpost.com/politics/2026/11/25/melania-trump-announces-reunion-9-children-with-families-amid-ukraine-war/",
+  "https://www.independent.co.uk/news/world/europe/canary-islands-migrants-spain-election-b3091650.html",
+  "https://abcnews.com/International/wireStory/migration-spains-canary-islands-breaks-single-day-record-138434894",
+  "https://www.bbc.co.uk/weather/articles/cr894e8dd7wqo?at_medium=RSS&at_campaign=rss",
+  "https://www.independent.co.uk/news/world/americas/macys-thanksgiving-parade-balloons-weather-start-time-b3091468.html"
  ],
  "recent_topics": [
-  [
-   "2026-11-22T17:21:17.313739+00:00",
-   [
-    "agre",
-    "agreement",
-    "angry",
-    "bitter",
-    "break",
-    "clash",
-    "climat",
-    "collaps",
-    "contentiou",
-    "cop",
-    "country",
-    "deal",
-    "debat",
-    "disagreement",
-    "disput",
-    "down",
-    "end",
-    "fail",
-    "fossil",
-    "fuel",
-    "government",
-    "languag",
-    "leader",
-    "mention",
-    "negotiation",
-    "omitt",
-    "reach",
-    "reject",
-    "summit",
-    "talk",
-    "text",
-    "turkey",
-    "without",
-    "world"
-   ],
-   "e3bce82e41"
-  ],
   [
    "2026-11-22T17:46:14.044083+00:00",
    [
@@ -10800,19 +10848,37 @@
     "yemeni"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-25T17:16:27.280615+00:00",
+   [
+    "announc",
+    "children",
+    "family",
+    "group",
+    "help",
+    "melania",
+    "nin",
+    "reunion",
+    "reunit",
+    "russia-ukrain",
+    "russian",
+    "seventh",
+    "trump",
+    "ukrain",
+    "ukrainian",
+    "war"
+   ],
+   "97048f5685"
   ]
  ],
- "last_draft_at": "2026-11-25T17:00:49.322831+00:00",
+ "last_draft_at": "2026-11-25T17:15:39.176454+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T16:46:09.141429+00:00",
  "run_log": [
-  "11-25 14:31:32 run start",
-  "11-25 14:31:42 listening 11 min",
-  "11-25 14:43:02 listening done",
-  "11-25 14:43:02 run end after 690 s",
   "11-25 14:45:37 run start",
   "11-25 14:47:02 listening 10 min",
   "11-25 14:57:06 listening done",
@@ -10848,12 +10914,15 @@
   "11-25 17:00:48 run start",
   "11-25 17:01:22 listening 11 min",
   "11-25 17:12:15 listening done",
-  "11-25 17:12:15 run end after 687 s"
+  "11-25 17:12:15 run end after 687 s",
+  "11-25 17:15:38 run start",
+  "11-25 17:17:17 listening 10 min",
+  "11-25 17:27:22 listening done",
+  "11-25 17:27:22 run end after 703 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_01.jpg/1920px-A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Blue_hour_front_view_of_California_State_Capitol_dllu_2018.jpg/1920px-Blue_hour_front_view_of_California_State_Capitol_dllu_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Aerial_view_on_Kruhla_Square%2C_Poltava%2C_Ukraine_3.jpg/1920px-Aerial_view_on_Kruhla_Square%2C_Poltava%2C_Ukraine_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -10892,7 +10961,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/COP31_-_Gavin_Newsom_13.jpg/1280px-COP31_-_Gavin_Newsom_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/e/e1/White_House_Washington.JPG",
-   "https://upload.wikimedia.org/wikipedia/commons/f/fd/Kilmar_%C3%81brego_Garc%C3%ADa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/f/fd/Kilmar_%C3%81brego_Garc%C3%ADa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://upload.wikimedia.org/wikipedia/commons/8/82/Melania_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   ],
   "pools": {
    "howard lutnick": {
@@ -11326,16 +11396,6 @@
      }
     ],
     "v": 2
-   },
-   "brian poindexter": {
-    "t": "2026-11-13T22:15:49.571913+00:00",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brian_Poindexter_delivering_remarks_after_victory.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "KJohnNR / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     }
-    ]
    },
    "john brennan": {
     "t": "2026-11-13T22:53:00.486865+00:00",
@@ -14055,6 +14115,45 @@
      }
     ],
     "v": 2
+   },
+   "melania trump": {
+    "t": "2026-11-25T17:16:19.329908+00:00",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Melania_Trump%E2%80%99s_Official_White_House_Portrait_%282025%29_%28further_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "@FLOTUS / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Melania_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Régine Mahaux / Wikimedia Commons (CC BY 3.0 us)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/First_Lady_Melania_Trump_at_an_East_Wing_Tour_%2849379926506%29.jpg/1280px-First_Lady_Melania_Trump_at_an_East_Wing_Tour_%2849379926506%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "The White House from Washington, DC / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/First_Lady_Melania_Trump_Participates_in_a_Toys_for_Tots_Christmas_Event_%2850723519416%29.jpg/1280px-First_Lady_Melania_Trump_Participates_in_a_Toys_for_Tots_Christmas_Event_%2850723519416%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "The Trump White House Archived / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/George_W._Bush_kisses_Melania_Trump.jpg/1280px-George_W._Bush_kisses_Melania_Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Official White House Photo by Andrea Hanks / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     }
+    ],
+    "v": 2
    }
   },
   "recent_ideas": [
@@ -16336,6 +16435,16 @@
     "s": 10,
     "w": "The White House, Washington",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/First_Lady_Melania_Trump_at_an_East_Wing_Tour_%2849379926506%29.jpg/1280px-First_Lady_Melania_Trump_at_an_East_Wing_Tour_%2849379926506%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Melania Trump": {
+    "s": 0,
+    "w": "Melania Trump signing a book",
+    "p": "Melania Trump is signing a book, not holding a white house press briefing or ann"
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/8/82/Melania_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled|person: Melania Trump": {
+    "s": 10,
+    "w": "Melania Trump portrait",
+    "p": ""
    }
   }
  },
@@ -16347,10 +16456,10 @@
   "2026-11-22": 11,
   "2026-11-23": 20,
   "2026-11-24": 23,
-  "2026-11-25": 10
+  "2026-11-25": 11
  },
- "last_auto_at": "2026-11-25T16:32:10.023491+00:00",
- "last_post_at": "2026-11-25T16:32:14.118711+00:00",
+ "last_auto_at": "2026-11-25T17:17:00.825323+00:00",
+ "last_post_at": "2026-11-25T17:17:06.876388+00:00",
  "reels_count": {
   "2026-11-19": 3,
   "2026-11-20": 3,
