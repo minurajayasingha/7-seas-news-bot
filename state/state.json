@@ -7078,12 +7078,101 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122111901747548584_1051801454606343"
+  },
+  "3ee47cde15": {
+   "id": "3ee47cde15",
+   "headline": "Duran Duran guitarist Andy Taylor dies aged 65",
+   "summary": "Andy Taylor, a guitarist for the band Duran Duran, has died at age 65. The band and his family announced his death following a long battle with prostate cancer.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "He helped shape the band's distinctive 1980s sound.",
+    "He was diagnosed with stage four metastatic prostate cancer in 2018.",
+    "He played on hits like Hungry Like the Wolf and Rio."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#DuranDuran",
+    "#AndyTaylor",
+    "#MusicNews"
+   ],
+   "sources": [
+    "France 24",
+    "The Guardian",
+    "Washington Post"
+   ],
+   "link": "https://www.france24.com/en/culture/20261125-duran-duran-guitarist-andy-taylor-dies-aged-65",
+   "links": [
+    [
+     "France 24",
+     "https://www.france24.com/en/culture/20261125-duran-duran-guitarist-andy-taylor-dies-aged-65"
+    ],
+    [
+     "Washington Post",
+     "https://www.washingtonpost.com/entertainment/music/2026/11/25/andy-taylor-versatile-guitarist-duran-duran-dies-65/"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead"
+    ]
+   ],
+   "bg": {
+    "type": "map",
+    "photos": [],
+    "location": "London, United Kingdom",
+    "lat": 51.50722222,
+    "lon": -0.1275,
+    "country": "United Kingdom",
+    "state": ""
+   },
+   "img_post": {
+    "headline": "Duran Duran guitarist Andy Taylor dies aged 65",
+    "people": [
+     "Andy Taylor"
+    ],
+    "image_query": "London music venue",
+    "image_queries": [
+     "Rock and Roll Hall of Fame",
+     "Recording studio mixing console",
+     "Vintage electric guitar",
+     " concert stage"
+    ],
+    "image_style": "person",
+    "location": "London, United Kingdom",
+    "nearby_city": "London, United Kingdom",
+    "event_query": "",
+    "topic_photo": "electric guitar",
+    "label": "WORLD",
+    "action_subject": "",
+    "news_time": "2026-11-25T21:41:34+00:00"
+   },
+   "created_at": "2026-11-25T23:47:02.816469+00:00",
+   "news_time": "2026-11-25T21:41:34+00:00",
+   "news_latest": "2026-11-25T23:37:18+00:00",
+   "importance": 6,
+   "caption": "🚨 BREAKING: Duran Duran guitarist Andy Taylor dies aged 65\n\nAndy Taylor, a guitarist for the band Duran Duran, has died at age 65. The band and his family announced his death following a long battle with prostate cancer.\n\nWhat we know so far:\n• He helped shape the band's distinctive 1980s sound.\n• He was diagnosed with stage four metastatic prostate cancer in 2018.\n• He played on hits like Hungry Like the Wolf and Rio.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#DuranDuran #AndyTaylor #MusicNews #7SeasNews",
+   "photo_line": "📷 news map (no fitting photo)",
+   "status": "posted",
+   "tg_message_id": 1000,
+   "tg_file_id": "AgACAgUAAxkDAAID6GsHc3hJyqepBEEcxHyauYM1wcyAAAKEEmsbr_w5VHLIUmi7aozBAQADAgADdwADPQQ",
+   "queued_at": "2026-11-25T23:47:04.604356+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-25T23:47:04.604375+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122111915397548584",
+   "posted_at": "2026-11-25T23:47:04.884411+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 25 · 6:47 PM New York · 5:17 AM Sri Lanka\n\n<b>Duran Duran guitarist Andy Taylor dies aged 65</b>\n<i>France 24, The Guardian, Washington Post</i>\n🟢 <b>Latest:</b> 5:07 AM Sri Lanka (9 min ago) · first reported 3:11 AM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122111915397548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 709,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122111915397548584_2172588926720069",
+   "fb_story_id": "1414960713960402"
   }
  },
  "seen_links": [
-  "https://www.aljazeera.com/video/newsfeed/2026/11/11/protesters-throw-milk-at-joe-biden-during-hunter-event-in-dublin?traffic_source=rss",
-  "https://www.independent.co.uk/news/world/americas/grizzly-bear-attack-bella-coola-b3082897.html",
-  "https://www.nytimes.com/2026/11/10/world/canada/british-columbia-bear-attack.html",
   "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
   "https://www.aljazeera.com/news/2026/11/11/russia-claims-interception-of-146-drones-in-leningrad-region?traffic_source=rss",
   "https://www.upi.com/Top_News/US/2026/11/11/judge-advances-Trump-Bdefamatino-lawsuit/6831794386951/",
@@ -9080,7 +9169,10 @@
   "https://www.france24.com/en/israeli-lawmakers-advance-october-7-inquiry-opposed-by-netanyahu",
   "https://www.washingtonpost.com/world/2026/11/25/israeli-parliament-advances-bill-that-could-block-netanyahu-forming-government/",
   "https://www.newsweek.com/ted-cruz-james-talarico-texas-space-academy-bid-12768803",
-  "https://thehill.com/homenews/senate/6243899-cruz-talarico-bipartisan-trump-space-academy/"
+  "https://thehill.com/homenews/senate/6243899-cruz-talarico-bipartisan-trump-space-academy/",
+  "https://www.france24.com/en/culture/20261125-duran-duran-guitarist-andy-taylor-dies-aged-65",
+  "https://www.washingtonpost.com/entertainment/music/2026/11/25/andy-taylor-versatile-guitarist-duran-duran-dies-65/",
+  "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead"
  ],
  "recent_topics": [
   [
@@ -11327,19 +11419,29 @@
     "unit"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-25T23:47:04.604245+00:00",
+   [
+    "65",
+    "aged",
+    "andy",
+    "die",
+    "duran",
+    "guitarist",
+    "taylor",
+    "versatil"
+   ],
+   "3ee47cde15"
   ]
  ],
- "last_draft_at": "2026-11-25T23:33:56.083004+00:00",
+ "last_draft_at": "2026-11-25T23:46:07.335727+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T22:57:27.220519+00:00",
  "run_log": [
-  "11-25 21:30:41 run start",
-  "11-25 21:31:08 listening 11 min",
-  "11-25 21:42:26 listening done",
-  "11-25 21:42:26 run end after 705 s",
   "11-25 21:46:05 run start",
   "11-25 21:47:11 listening 10 min",
   "11-25 21:57:40 listening done",
@@ -11375,7 +11477,11 @@
   "11-25 23:33:55 run start",
   "11-25 23:34:15 listening 11 min",
   "11-25 23:45:35 listening done",
-  "11-25 23:45:35 run end after 699 s"
+  "11-25 23:45:35 run end after 699 s",
+  "11-25 23:46:06 run start",
+  "11-25 23:47:24 listening 10 min",
+  "11-25 23:57:52 listening done",
+  "11-25 23:57:52 run end after 705 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -17031,6 +17137,26 @@
     "s": 6,
     "w": "parliament chamber",
     "p": "Generic parliament chamber, not Israeli Knesset"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Common_pigeon_at_Waterlow_Park%2C_London%2C_United_Kingdom_02.jpg/1920px-Common_pigeon_at_Waterlow_Park%2C_London%2C_United_Kingdom_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|c548d49b": {
+    "s": 0,
+    "w": "pigeon",
+    "p": "photo shows pigeons instead of the person in the story"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/City_of_London_skyline_from_London_City_Hall_-_Oct_2008.jpg/1920px-City_of_London_skyline_from_London_City_Hall_-_Oct_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|c548d49b": {
+    "s": 0,
+    "w": "London skyline",
+    "p": "photo is about a person when it should show the person"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Baker_Street%2C_London%2C_England%2C_United_Kingdom_-_train.jpg/1920px-Baker_Street%2C_London%2C_England%2C_United_Kingdom_-_train.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|c548d49b": {
+    "s": 0,
+    "w": "subway interior seats",
+    "p": "Photo shows empty train seats instead of the subject person."
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/London%2C_Trafalgar_Square%2C_Nelson%27s_Column_--_2016_--_4851.jpg/1920px-London%2C_Trafalgar_Square%2C_Nelson%27s_Column_--_2016_--_4851.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|c548d49b": {
+    "s": 0,
+    "w": "Nelson's Column in London",
+    "p": "photo shows a landmark instead of the subject Andy Taylor"
    }
   }
  },
@@ -17042,10 +17168,10 @@
   "2026-11-22": 11,
   "2026-11-23": 20,
   "2026-11-24": 23,
-  "2026-11-25": 20
+  "2026-11-25": 21
  },
- "last_auto_at": "2026-11-25T22:58:25.190941+00:00",
- "last_post_at": "2026-11-25T22:58:29.889617+00:00",
+ "last_auto_at": "2026-11-25T23:47:04.884411+00:00",
+ "last_post_at": "2026-11-25T23:47:10.204933+00:00",
  "reels_count": {
   "2026-11-19": 3,
   "2026-11-20": 3,
