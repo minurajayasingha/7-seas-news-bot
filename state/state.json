@@ -6909,13 +6909,97 @@
     "shares": 0
    },
    "stats_at": "2026-11-25T09:46:02.458813+00:00"
+  },
+  "5e34a7a9f8": {
+   "id": "5e34a7a9f8",
+   "headline": "Yemeni government loses territory as Houthi militia advances",
+   "summary": "The Iran-backed Houthi militia is advancing against the Saudi-backed Yemeni government, securing strategic territory in an ongoing conflict. Residents and nongovernmental organizations near Aden are preparing to evacuate as the fighters approach the temporary capital.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Hussein fled his home six years ago after Houthi control",
+    "Aden serves as the temporary capital for the Yemeni government",
+    "Saudi Arabia and its allies fight the Houthi militia"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Yemen",
+    "#Houthis",
+    "#WorldNews"
+   ],
+   "sources": [
+    "New York Times",
+    "The Guardian"
+   ],
+   "link": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
+   "links": [
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Yemeni_soldiers_from_the_1st_Armoured_Division.JPG/1920px-Yemeni_soldiers_from_the_1st_Armoured_Division.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Ibrahem Qasim / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 9,
+      "shows": "Yemeni soldiers with flags"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "Yemeni government loses territory as Houthi militia advances",
+    "people": [],
+    "image_query": "Aden port city",
+    "image_queries": [
+     "port city Aden",
+     "Yemeni coastline",
+     "Middle East conflict",
+     "harbor waterfront"
+    ],
+    "image_style": "incident",
+    "location": "Aden, Yemen",
+    "nearby_city": "Sana'a, Yemen",
+    "event_query": "Yemeni government Houthi conflict",
+    "topic_photo": "coastal city",
+    "label": "CONFLICT",
+    "action_subject": "military conflict",
+    "news_time": "2026-11-25T05:00:06+00:00"
+   },
+   "created_at": "2026-11-25T10:16:35.050330+00:00",
+   "news_time": "2026-11-25T05:00:06+00:00",
+   "news_latest": "2026-11-25T10:04:06+00:00",
+   "importance": 8,
+   "caption": "Yemeni government loses territory as Houthi militia advances\n\nThe Iran-backed Houthi militia is advancing against the Saudi-backed Yemeni government, securing strategic territory in an ongoing conflict. Residents and nongovernmental organizations near Aden are preparing to evacuate as the fighters approach the temporary capital.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Yemen #Houthis #WorldNews #7SeasNews",
+   "photo_line": "📷 9/10 Yemeni soldiers with flags · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 980,
+   "tg_file_id": "AgACAgUAAxkDAAID1GsGtYUZKrlRDka6aDHG7YIfv-l9AAIJEmsbr_wxVAPJi8Ipll7jAQADAgADdwADPQQ",
+   "queued_at": "2026-11-25T10:16:37.699886+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-25T10:16:37.699907+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122111553423548584",
+   "posted_at": "2026-11-25T10:16:38.091234+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 25 · 5:16 AM New York · 3:46 PM Sri Lanka\n\n<b>Yemeni government loses territory as Houthi militia advances</b>\n<i>New York Times, The Guardian</i>\n🟢 <b>Latest:</b> 3:34 PM Sri Lanka (12 min ago) · first reported 10:30 AM\n📷 9/10 Yemeni soldiers with flags · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122111553423548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 687,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122111553423548584_1573539395832435"
   }
  },
  "seen_links": [
-  "https://thehill.com/newsletters/the-movement/6209451-conservative-ballot-measures-win-big-gop-losses/",
-  "https://www.foxnews.com/politics/reporters-notebook-republicans-beat-democrats-impeachment-hegseth-faces-growing-gop-anger",
-  "https://www.newsweek.com/inflation-report-finds-prices-rose-faster-than-expected-before-midterms-12693407",
-  "https://www.washingtonexaminer.com/policy/finance-and-economy/4797977/inflation-october-midterm-elections-affordability-democrats/",
   "https://www.nbcnews.com/business/economy/inflation-october-gas-prices-election-rcna608515",
   "https://www.upi.com/Top_News/World-News/2026/11/10/air-force-planes-withdrawn-from-RAF-Mildenhall/5801794309150/",
   "https://www.washingtonpost.com/world/2026/11/10/us-aircraft-abruptly-depart-second-uk-base/",
@@ -8911,7 +8995,11 @@
   "https://www.independent.co.uk/news/world/americas/us-politics/trump-tariffs-china-eu-trade-b3091177.html",
   "https://news.sky.com/story/donald-trump-set-to-raise-tariffs-on-16-major-economies-13616253",
   "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
-  "https://www.euronews.com/2026/11/25/colombia-security-forces-storm-supermarket-where-hostages-are-being-held"
+  "https://www.euronews.com/2026/11/25/colombia-security-forces-storm-supermarket-where-hostages-are-being-held",
+  "https://www.foxnews.com/politics/senate-gop-takes-risky-bet-dems-holiday-shutdown-deadline-looms-its-gamble",
+  "https://www.newsweek.com/democrats-take-state-doctrine-into-2028-elections-12763924",
+  "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
+  "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden"
  ],
  "recent_topics": [
   [
@@ -10833,19 +10921,34 @@
     "tourist"
    ],
    "51474f06b5"
+  ],
+  [
+   "2026-11-25T10:16:37.699763+00:00",
+   [
+    "aden",
+    "advanc",
+    "believ",
+    "dont",
+    "escap",
+    "freedom",
+    "government",
+    "houthi",
+    "loss",
+    "militia",
+    "mount",
+    "plan",
+    "yemeni"
+   ],
+   "5e34a7a9f8"
   ]
  ],
- "last_draft_at": "2026-11-25T10:00:51.645148+00:00",
+ "last_draft_at": "2026-11-25T10:15:43.621268+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T09:46:02.458813+00:00",
  "run_log": [
-  "11-25 07:45:39 run start",
-  "11-25 07:46:12 listening 11 min",
-  "11-25 07:57:07 listening done",
-  "11-25 07:57:07 run end after 687 s",
   "11-25 08:00:44 run start",
   "11-25 08:00:54 listening 11 min",
   "11-25 08:12:13 listening done",
@@ -10881,12 +10984,15 @@
   "11-25 10:00:51 run start",
   "11-25 10:01:25 listening 11 min",
   "11-25 10:12:18 listening done",
-  "11-25 10:12:18 run end after 687 s"
+  "11-25 10:12:18 run end after 687 s",
+  "11-25 10:15:43 run start",
+  "11-25 10:16:53 listening 10 min",
+  "11-25 10:27:23 listening done",
+  "11-25 10:27:23 run end after 700 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Moscow_Tverskaya_Zastava_Square_2023-06-11_4579.jpg/1920px-Moscow_Tverskaya_Zastava_Square_2023-06-11_4579.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Turbine_near_the_G%C3%B6sgen_Nuclear_Power_Plant%2C_D%C3%A4niken%2C_Solothurn.jpg/1920px-Turbine_near_the_G%C3%B6sgen_Nuclear_Power_Plant%2C_D%C3%A4niken%2C_Solothurn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Dmitry_Medvedev_govru_official_photo_13.jpg/1280px-Dmitry_Medvedev_govru_official_photo_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Clearing_debris_of_a_residential_building_in_Kyiv%2C_2022-04-20_%28962896%29.jpg/1920px-Clearing_debris_of_a_residential_building_in_Kyiv%2C_2022-04-20_%28962896%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -10925,7 +11031,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Rep._Mary_Peltola_headshot_%28cropped%29.jpg/1280px-Rep._Mary_Peltola_headshot_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Cargo_ship_Lake_Victoria%2C_St._Johns_River.jpg/1920px-Cargo_ship_Lake_Victoria%2C_St._Johns_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Donald_Trump_RNC_July_2016.jpg/1280px-Donald_Trump_RNC_July_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Searching_for_drugs_-_Colombia_police_%2852416691912%29.jpg/1920px-Searching_for_drugs_-_Colombia_police_%2852416691912%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Searching_for_drugs_-_Colombia_police_%2852416691912%29.jpg/1920px-Searching_for_drugs_-_Colombia_police_%2852416691912%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Yemeni_soldiers_from_the_1st_Armoured_Division.JPG/1920px-Yemeni_soldiers_from_the_1st_Armoured_Division.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -14244,7 +14351,6 @@
    }
   },
   "recent_ideas": [
-   "kuala lumpur cityscape",
    "computer servers",
    "medical syringe",
    "courtroom",
@@ -14255,7 +14361,8 @@
    "hazardous materials barrels",
    "canberra skyline",
    "cargo ship",
-   "police officers at work"
+   "police officers at work",
+   "soldiers"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -16482,6 +16589,11 @@
     "s": 8,
     "w": "police officers detaining suspect",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Yemeni_soldiers_from_the_1st_Armoured_Division.JPG/1920px-Yemeni_soldiers_from_the_1st_Armoured_Division.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|76163488": {
+    "s": 9,
+    "w": "Yemeni soldiers with flags",
+    "p": ""
    }
   }
  },
@@ -16493,10 +16605,10 @@
   "2026-11-22": 11,
   "2026-11-23": 20,
   "2026-11-24": 23,
-  "2026-11-25": 3
+  "2026-11-25": 4
  },
- "last_auto_at": "2026-11-25T08:48:11.464367+00:00",
- "last_post_at": "2026-11-25T08:48:16.406553+00:00",
+ "last_auto_at": "2026-11-25T10:16:38.091234+00:00",
+ "last_post_at": "2026-11-25T10:16:43.564218+00:00",
  "reels_count": {
   "2026-11-19": 3,
   "2026-11-20": 3,
