@@ -6999,14 +6999,96 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122111565543548584_1675991147349690"
+  },
+  "5dfa604e0a": {
+   "id": "5dfa604e0a",
+   "headline": "China investigates Politburo member and Shanghai party chief Chen Jining",
+   "summary": "China is investigating Politburo member and Shanghai party chief Chen Jining. Reports state he is the latest senior official targeted in President Xi Jinping's anti-corruption campaign.",
+   "label": "WORLD",
+   "hook": "How will this ongoing anti-corruption campaign impact leadership in China?",
+   "key_points": [
+    "Chen is the fourth high-ranking Politburo member pushed out in two years.",
+    "The campaign shows no signs of letting up in scope or depth."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#China",
+    "#WorldNews",
+    "#Politburo"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "NPR"
+   ],
+   "link": "https://www.aljazeera.com/news/2026/11/25/who-is-chen-jining-chinas-latest-politburo-member-under-investigation?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/25/who-is-chen-jining-chinas-latest-politburo-member-under-investigation?traffic_source=rss"
+    ],
+    [
+     "NPR",
+     "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Chen_Jining_2019.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "中國新聞網 / Wikimedia Commons (CC BY 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": null
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "China investigates Politburo member and Shanghai party chief Chen Jining",
+    "people": [
+     "Chen Jining"
+    ],
+    "image_query": "Shanghai skyline",
+    "image_queries": [
+     "Shanghai city center",
+     "government building",
+     "Beijing street",
+     "financial district"
+    ],
+    "image_style": "person",
+    "location": "Shanghai, China",
+    "nearby_city": "Beijing, China",
+    "event_query": "",
+    "topic_photo": "government building",
+    "label": "WORLD",
+    "action_subject": "",
+    "news_time": "2026-11-25T09:44:13+00:00"
+   },
+   "created_at": "2026-11-25T11:16:39.346254+00:00",
+   "news_time": "2026-11-25T09:44:13+00:00",
+   "news_latest": "2026-11-25T10:50:26+00:00",
+   "importance": 7,
+   "caption": "China investigates Politburo member and Shanghai party chief Chen Jining\n\nChina is investigating Politburo member and Shanghai party chief Chen Jining. Reports state he is the latest senior official targeted in President Xi Jinping's anti-corruption campaign.\n\n💬 How will this ongoing anti-corruption campaign impact leadership in China?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#China #WorldNews #Politburo #7SeasNews",
+   "photo_line": "📷 photo not checked",
+   "status": "posted",
+   "tg_message_id": 982,
+   "tg_file_id": "AgACAgUAAxkDAAID1msGw542eLfNR2L_K4es66eIQEpEAAI8Emsbr_wxVEeESc-8bjxbAQADAgADdwADPQQ",
+   "queued_at": "2026-11-25T11:16:46.586205+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-25T11:16:46.586238+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122111577711548584",
+   "posted_at": "2026-11-25T11:16:47.002324+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 25 · 6:16 AM New York · 4:46 PM Sri Lanka\n\n<b>China investigates Politburo member and Shanghai party chief Chen Jining</b>\n<i>Al Jazeera, NPR</i>\n🟢 <b>Latest:</b> 4:20 PM Sri Lanka (26 min ago) · first reported 3:14 PM\n📷 photo not checked\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122111577711548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 689,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122111577711548584_1131302489511057"
   }
  },
  "seen_links": [
-  "https://www.aljazeera.com/news/2026/11/10/israeli-soldiers-are-also-settlers-in-west-bank-al-jazeera-investigation?traffic_source=rss",
-  "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
-  "https://www.aljazeera.com/video/doha-debates/2026/11/10/did-humanity-learn-the-right-lessons-from-wwii?traffic_source=rss",
-  "https://www.washingtonpost.com/politics/2026/11/10/trump-learned-lesson-immigration-then-he-did-opposite/",
-  "https://www.nytimes.com/2026/11/10/world/thomas-massie-impeachment-hegseth.html",
   "https://www.independent.co.uk/news/world/americas/us-politics/hegseth-impeachment-speech-trump-iran-war-b3082420.html",
   "https://thehill.com/homenews/administration/6210232-donald-trump-immigration-hegseth-impeachment-cspan-show/",
   "https://www.independent.co.uk/news/world/americas/us-politics/trump-cspan-interview-woman-laughing-b3082394.html",
@@ -9001,7 +9083,12 @@
   "https://www.washingtonpost.com/world/2026/11/25/eisenkot-pushing-oust-netanyahu-sharpens-warnings-over-new-strikes-iran/",
   "https://www.independent.co.uk/travel/news-and-advice/eurostar-cancellations-london-paris-trains-strikes-b3091314.html",
   "https://www.france24.com/en/europe/20261125-surprise-eurostar-strike-cancels-london-paris-and-brussels-trains",
-  "https://news.sky.com/story/eurostar-trains-cancelled-and-delayed-over-unannounced-strike-action-13616317"
+  "https://news.sky.com/story/eurostar-trains-cancelled-and-delayed-over-unannounced-strike-action-13616317",
+  "https://abcnews.com/International/wireStory/29-miners-believed-trapped-flooding-unauthorized-gold-mine-138433064",
+  "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html",
+  "https://www.aljazeera.com/news/2026/11/25/rescuers-search-for-dozens-trapped-in-flooded-indonesia-gold-mine?traffic_source=rss",
+  "https://www.aljazeera.com/news/2026/11/25/who-is-chen-jining-chinas-latest-politburo-member-under-investigation?traffic_source=rss",
+  "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party"
  ],
  "recent_topics": [
   [
@@ -10962,19 +11049,31 @@
     "warn"
    ],
    "ec1374253b"
+  ],
+  [
+   "2026-11-25T11:16:46.586068+00:00",
+   [
+    "chen",
+    "chief",
+    "china",
+    "investigat",
+    "investigation",
+    "jin",
+    "member",
+    "party",
+    "politburo",
+    "shanghai"
+   ],
+   "5dfa604e0a"
   ]
  ],
- "last_draft_at": "2026-11-25T11:00:55.217057+00:00",
+ "last_draft_at": "2026-11-25T11:15:35.666878+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T10:46:07.985237+00:00",
  "run_log": [
-  "11-25 08:45:33 run start",
-  "11-25 08:49:03 listening 8 min",
-  "11-25 08:57:00 listening done",
-  "11-25 08:57:00 run end after 687 s",
   "11-25 09:00:48 run start",
   "11-25 09:01:08 listening 11 min",
   "11-25 09:12:26 listening done",
@@ -11010,12 +11109,15 @@
   "11-25 11:00:54 run start",
   "11-25 11:01:17 listening 11 min",
   "11-25 11:12:35 listening done",
-  "11-25 11:12:35 run end after 701 s"
+  "11-25 11:12:35 run end after 701 s",
+  "11-25 11:15:35 run start",
+  "11-25 11:16:58 listening 10 min",
+  "11-25 11:27:01 listening done",
+  "11-25 11:27:01 run end after 686 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Dmitry_Medvedev_govru_official_photo_13.jpg/1280px-Dmitry_Medvedev_govru_official_photo_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Clearing_debris_of_a_residential_building_in_Kyiv%2C_2022-04-20_%28962896%29.jpg/1920px-Clearing_debris_of_a_residential_building_in_Kyiv%2C_2022-04-20_%28962896%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Voters_receive_ballots_at_a_polling_station_in_Washington_DC%2C_5_Nov._2024.jpg/1920px-Voters_receive_ballots_at_a_polling_station_in_Washington_DC%2C_5_Nov._2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Example_voting_booth_from_USA_%28Connecticut%29.jpg/1920px-Example_voting_booth_from_USA_%28Connecticut%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -11054,7 +11156,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Donald_Trump_RNC_July_2016.jpg/1280px-Donald_Trump_RNC_July_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Searching_for_drugs_-_Colombia_police_%2852416691912%29.jpg/1920px-Searching_for_drugs_-_Colombia_police_%2852416691912%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Yemeni_soldiers_from_the_1st_Armoured_Division.JPG/1920px-Yemeni_soldiers_from_the_1st_Armoured_Division.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Gadi_Eisenkot_2_%28cropped%29_3x4.jpg/1280px-Gadi_Eisenkot_2_%28cropped%29_3x4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Gadi_Eisenkot_2_%28cropped%29_3x4.jpg/1280px-Gadi_Eisenkot_2_%28cropped%29_3x4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/7/77/Chen_Jining_2019.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   ],
   "pools": {
    "howard lutnick": {
@@ -11400,82 +11503,6 @@
      }
     ],
     "v": 2
-   },
-   "dana white": {
-    "t": "2026-11-13T20:15:48.959955+00:00",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Ilham_Aliyev_received_Dana_White%2C_June_2025_%283x4_cropped_and_rotated_on_White%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Press Service of the President of the Republic of Azerbaijan / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dana_White_-_2015.jpg/1280px-Dana_White_-_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Andrius Petrucenia / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/U.S._Park_Police_Officers_meet_Dana_White_at_the_UFC_Freedom_250_Press_Conference_%2827%29.jpg/1280px-U.S._Park_Police_Officers_meet_Dana_White_at_the_UFC_Freedom_250_Press_Conference_%2827%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Sgt. Christian Brown / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Ilham_Aliyev_received_Dana_White%2C_June_2025.jpg/1280px-Ilham_Aliyev_received_Dana_White%2C_June_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Press Service of the President of the Republic of Azerbaijan / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Dana_White_-_2015_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "Andrius Petrucenia / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Dana_White_-_London_2015_%28cropped%29.jpg/1280px-Dana_White_-_London_2015_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Andrius Petrucenia / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Dana_White_%2818781871875%29.jpg/1280px-Dana_White_%2818781871875%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Andrius Petrucenia / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Dana_White_%2818594174568%29.jpg/1280px-Dana_White_%2818594174568%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Andrius Petrucenia / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Dana_White_%2818784239531%29.jpg/1280px-Dana_White_%2818784239531%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Andrius Petrucenia / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Dana_White_-_London_2015.jpg/1280px-Dana_White_-_London_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Andrius Petrucenia / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Dana_White_%2818595668569%29.jpg/1280px-Dana_White_%2818595668569%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Andrius Petrucenia / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Dana_White_-_London_2015_%281%29.jpg/1280px-Dana_White_-_London_2015_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Andrius Petrucenia / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     }
-    ]
    },
    "lauren boebert": {
     "t": "2026-11-13T20:32:28.648810+00:00",
@@ -14347,6 +14374,17 @@
      }
     ],
     "v": 2
+   },
+   "chen jining": {
+    "t": "2026-11-25T11:16:14.361492+00:00",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Chen_Jining_2019.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "中國新聞網 / Wikimedia Commons (CC BY 3.0)",
+      "short": "WIKIMEDIA COMMONS"
+     }
+    ],
+    "v": 2
    }
   },
   "recent_ideas": [
@@ -16624,10 +16662,10 @@
   "2026-11-22": 11,
   "2026-11-23": 20,
   "2026-11-24": 23,
-  "2026-11-25": 5
+  "2026-11-25": 6
  },
- "last_auto_at": "2026-11-25T10:47:10.619955+00:00",
- "last_post_at": "2026-11-25T10:47:16.298214+00:00",
+ "last_auto_at": "2026-11-25T11:16:47.002324+00:00",
+ "last_post_at": "2026-11-25T11:16:50.775793+00:00",
  "reels_count": {
   "2026-11-19": 3,
   "2026-11-20": 3,
