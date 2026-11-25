@@ -1,100 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "15d681d80b": {
-   "id": "15d681d80b",
-   "headline": "Democrats claim majorities in US House and Senate during midterms",
-   "summary": "Democrats claimed majorities in both the House and the Senate during the midterm elections. According to an analysis by the Guardian, half of the Senate candidates endorsed by Donald Trump lost, and most of the governors he endorsed were defeated by Democratic candidates.",
-   "label": "ELECTIONS",
-   "hook": "Did Donald Trump's endorsements impact the outcome of the midterm elections?",
-   "key_points": [
-    "Democrats claimed majorities in both the House and the Senate.",
-    "Half of the Senate candidates endorsed by Donald Trump lost.",
-    "Most of the governors endorsed by the US president were defeated."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#Midterms",
-    "#Congress"
-   ],
-   "sources": [
-    "The Guardian",
-    "Washington Examiner"
-   ],
-   "link": "https://www.washingtonexaminer.com/op-eds/4811022/2026-midterm-results-trump-kept-promises/",
-   "links": [
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/op-eds/4811022/2026-midterm-results-trump-kept-promises/"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/us-news/2026/nov/21/trump-republican-endorsements-midterms"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Voters_check_in_at_a_polling_station_in_Washington_DC%2C_5_Nov._2024.jpg/1920px-Voters_check_in_at_a_polling_station_in_Washington_DC%2C_5_Nov._2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "oscepa / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 10,
-      "shows": "voters waiting in line"
-     }
-    ],
-    "file_photo": true
-   },
-   "img_post": {
-    "headline": "Democrats claim majorities in US House and Senate during midterms",
-    "people": [],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "House of Representatives chamber",
-     "Senate chamber",
-     "voting booth",
-     "Capitol Hill"
-    ],
-    "image_style": "scene",
-    "location": "Washington, US",
-    "nearby_city": null,
-    "event_query": "US midterm elections",
-    "topic_photo": "ballot box",
-    "label": "ELECTIONS",
-    "action_subject": "",
-    "news_time": "2026-11-21T12:00:58+00:00"
-   },
-   "created_at": "2026-11-21T17:01:36.462989+00:00",
-   "news_time": "2026-11-21T12:00:58+00:00",
-   "news_latest": "2026-11-21T17:00:00+00:00",
-   "importance": 9,
-   "caption": "Democrats claim majorities in US House and Senate during midterms\n\nDemocrats claimed majorities in both the House and the Senate during the midterm elections. According to an analysis by the Guardian, half of the Senate candidates endorsed by Donald Trump lost, and most of the governors he endorsed were defeated by Democratic candidates.\n\n💬 Did Donald Trump's endorsements impact the outcome of the midterm elections?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Midterms #Congress #7SeasNews",
-   "photo_line": "📷 10/10 voters waiting in line · FILE PHOTO",
-   "status": "posted",
-   "tg_message_id": 898,
-   "tg_file_id": "AgACAgUAAxkDAAIDgmsBznNFI_IgQCswlTJk5F1JV6MdAAJzFmsb_TsQVCsIEPjr6RtwAQADAgADdwADPQQ",
-   "queued_at": "2026-11-21T17:01:39.397172+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-21T17:01:39.397194+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122108646759548584",
-   "posted_at": "2026-11-21T17:01:51.837753+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 21 · 12:01 PM New York · 10:31 PM Sri Lanka\n\n<b>Democrats claim majorities in US House and Senate during midterms</b>\n<i>The Guardian, Washington Examiner</i>\n🟢 <b>Latest:</b> 10:30 PM Sri Lanka (1 min ago) · first reported 5:30 PM\n📷 10/10 voters waiting in line · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122108646759548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 606,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122108646759548584_2722251661625417",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-24T16:46:24.847099+00:00"
-  },
   "cf79c26c0f": {
    "id": "cf79c26c0f",
    "headline": "Russian strike kills two in Kryvyi Rih",
@@ -10896,17 +10802,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-25T16:46:31.321296+00:00",
+ "last_draft_at": "2026-11-25T17:00:49.322831+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T16:46:09.141429+00:00",
  "run_log": [
-  "11-25 14:19:15 run start",
-  "11-25 14:19:46 listening 11 min",
-  "11-25 14:31:05 listening done",
-  "11-25 14:31:05 run end after 709 s",
   "11-25 14:31:32 run start",
   "11-25 14:31:42 listening 11 min",
   "11-25 14:43:02 listening done",
@@ -10942,7 +10844,11 @@
   "11-25 16:46:08 run start",
   "11-25 16:47:21 listening 10 min",
   "11-25 16:57:51 listening done",
-  "11-25 16:57:51 run end after 702 s"
+  "11-25 16:57:51 run end after 702 s",
+  "11-25 17:00:48 run start",
+  "11-25 17:01:22 listening 11 min",
+  "11-25 17:12:15 listening done",
+  "11-25 17:12:15 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -17985,7 +17891,9 @@
     "tt1": true,
     "log1": true,
     "tt2": true,
-    "log2": true
+    "log2": true,
+    "tt3": true,
+    "log3": true
    }
   }
  },
