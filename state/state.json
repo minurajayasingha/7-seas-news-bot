@@ -6989,9 +6989,6 @@
   }
  },
  "seen_links": [
-  "https://www.independent.co.uk/news/world/americas/greenacres-florida-lear-jet-plane-crash-black-box-b3082203.html",
-  "https://www.upi.com/Top_News/World-News/2026/11/10/belgium-prince-harry-meghan-markle-appearance/5911794326904/",
-  "https://www.nytimes.com/2026/11/10/world/europe/meghan-markle-brussels-speech-canceled-prince-harry.html",
   "https://www.cbsnews.com/video/meghan-and-harry-make-first-public-appearance-since-her-estranged-fathers-arrest/",
   "https://www.cbsnews.com/news/prince-harry-meghan-eu-thomas-markle-arrest-child-sex-abuse-images/",
   "https://www.independent.co.uk/news/world/americas/meghan-brussels-european-parliament-sussex-florida-b3082393.html",
@@ -8988,7 +8985,10 @@
   "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions?traffic_source=rss",
   "https://www.nytimes.com/2026/11/25/world/americas/colombia-blackout-terrorist-attack.html",
   "https://abcnews.com/International/wireStory/uk-nuclear-test-veterans-win-40-year-battle-138436079",
-  "https://www.independent.co.uk/news/world/europe/andy-burnham-veterans-james-jones-tobias-ellwood-london-b3091389.html"
+  "https://www.independent.co.uk/news/world/europe/andy-burnham-veterans-james-jones-tobias-ellwood-london-b3091389.html",
+  "https://thehill.com/homenews/senate/6242018-democrats-target-60-seats-2028/",
+  "https://www.newsweek.com/map-democrats-path-60-senate-seats-2028-12766866",
+  "https://www.newsweek.com/john-fettermans-election-senate-democrats-12766758"
  ],
  "recent_topics": [
   [
@@ -11005,17 +11005,13 @@
    "fa9fe84258"
   ]
  ],
- "last_draft_at": "2026-11-25T13:43:19.281257+00:00",
+ "last_draft_at": "2026-11-25T13:54:52.795802+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-25T13:42:52.382155+00:00",
  "run_log": [
-  "11-25 11:31:08 run start",
-  "11-25 11:33:03 listening 10 min",
-  "11-25 11:42:42 listening done",
-  "11-25 11:42:42 run end after 693 s",
   "11-25 11:45:31 run start",
   "11-25 11:46:33 listening 10 min",
   "11-25 11:57:01 listening done",
@@ -11051,7 +11047,11 @@
   "11-25 13:42:51 run start",
   "11-25 13:43:55 listening 10 min",
   "11-25 13:54:24 listening done",
-  "11-25 13:54:24 run end after 692 s"
+  "11-25 13:54:24 run end after 692 s",
+  "11-25 13:54:52 run start",
+  "11-25 13:55:13 listening 11 min",
+  "11-25 14:06:32 listening done",
+  "11-25 14:06:32 run end after 699 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
