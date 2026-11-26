@@ -8700,14 +8700,105 @@
     "shares": 0
    },
    "stats_at": "2026-11-26T16:00:50.265631+00:00"
+  },
+  "609da5d9e7": {
+   "id": "609da5d9e7",
+   "headline": "Iranian drone attack in Kuwait kills two Italian workers",
+   "summary": "Kuwait's army states that an Iranian drone attack killed two workers and injured four others. According to Italy's foreign ministry, the victims were technicians for a German company.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Kuwait military intercepted hostile Iranian drones in its airspace.",
+    "Passenger flights crossing Iraq toward the Gulf were diverted.",
+    "Four other individuals sustained injuries in the incident."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Kuwait",
+    "#Iran",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "BBC",
+    "Euronews"
+   ],
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss"
+    ],
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/26/civilian-flights-diverted-as-kuwait-army-intercepts-iranian-drone-attack"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Kuwait_City_Arabian_Gulf_Street_08.jpg/1920px-Kuwait_City_Arabian_Gulf_Street_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Zairon / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 5,
+      "shows": "Kuwait City street and mosque"
+     }
+    ],
+    "_loaded": 1
+   },
+   "img_post": {
+    "headline": "Iranian drone attack in Kuwait kills two Italian workers",
+    "people": [],
+    "image_query": "Kuwait City skyline",
+    "image_queries": [
+     "Kuwait international airport",
+     "Persian Gulf waters",
+     "military radar installation",
+     "air traffic control tower"
+    ],
+    "image_style": "incident",
+    "location": "Kuwait City, Kuwait",
+    "nearby_city": "Kuwait City, Kuwait",
+    "event_query": "Kuwait drone attack",
+    "topic_photo": "airport terminal",
+    "label": "CONFLICT",
+    "action_subject": "military radar installation",
+    "news_time": "2026-11-26T13:19:28+00:00"
+   },
+   "created_at": "2026-11-26T16:16:35.382880+00:00",
+   "news_time": "2026-11-26T13:19:28+00:00",
+   "news_latest": "2026-11-26T15:55:15+00:00",
+   "importance": 9,
+   "caption": "🚨 BREAKING: Iranian drone attack in Kuwait kills two Italian workers\n\nKuwait's army states that an Iranian drone attack killed two workers and injured four others. According to Italy's foreign ministry, the victims were technicians for a German company.\n\nWhat we know so far:\n• Kuwait military intercepted hostile Iranian drones in its airspace.\n• Passenger flights crossing Iraq toward the Gulf were diverted.\n• Four other individuals sustained injuries in the incident.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Kuwait #Iran #WorldNews #7SeasNews",
+   "photo_line": "📷 5/10 Kuwait City street and mosque",
+   "status": "posted",
+   "tg_message_id": 1025,
+   "tg_file_id": "AgACAgUAAxkDAAIEAWsIW2WvFmIJuPwg1vifi1vMfIVYAALkEWsbiIVJVIto_mdLr7bAAQADAgADdwADPQQ",
+   "queued_at": "2026-11-26T16:16:37.898666+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-26T16:16:37.898701+00:00",
+   "post_label": "🤖 Auto-posting + Reel",
+   "fb_post_id": "1413030521900096_122112274887548584",
+   "posted_at": "2026-11-26T16:16:41.640174+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 26 · 11:16 AM New York · 9:46 PM Sri Lanka\n\n<b>Iranian drone attack in Kuwait kills two Italian workers</b>\n<i>Al Jazeera, BBC, Euronews</i>\n🟢 <b>Latest:</b> 9:25 PM Sri Lanka (21 min ago) · first reported 6:49 PM\n📷 5/10 Kuwait City street and mosque\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112274887548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 734,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112274887548584_2194025058657736",
+   "fb_story_id": "1798807347903297",
+   "fb_reel_id": "3601427480020172",
+   "reel_status": "live"
   }
  },
  "seen_links": [
-  "https://www.washingtonpost.com/politics/2026/11/11/who-is-chris-van-hollen-senator-progressives-are-pushing-instead-schumer/",
-  "https://thehill.com/the-120/6214240-sanders-supports-van-hollen/",
-  "https://thehill.com/policy/energy-environment/6214564-trump-admin-plans-land-sales/",
-  "https://www.independent.co.uk/news/world/americas/us-politics/trump-public-land-sale-backlash-federal-estate-b3083467.html",
-  "https://www.foxnews.com/world/iran-escalates-hormuz-claims-strike-omani-island-enemy-uses-us-military-ops",
   "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
   "https://www.independent.co.uk/news/world/americas/brooklyn-building-collapse-flatbush-nyc-b3083495.html",
   "https://www.newsweek.com/partial-building-collapse-in-brooklyn-traps-people-in-rubble-what-we-know-12702273",
@@ -10702,7 +10793,12 @@
   "https://www.euronews.com/2026/11/26/russia-launches-ballistic-missile-and-drone-barrage-on-ukraine-killing-at-least-three",
   "https://www.newsweek.com/are-deportations-putting-cost-thanksgiving-turkey-ice-12770748",
   "https://www.aljazeera.com/economy/2026/11/26/thanksgiving-dinner-costs-rise-putting-pressure-on-us-households?traffic_source=rss",
-  "https://www.independent.co.uk/life-style/food-and-drink/turkey-how-to-cook-thanksgiving-food-poisoning-b3092018.html"
+  "https://www.independent.co.uk/life-style/food-and-drink/turkey-how-to-cook-thanksgiving-food-poisoning-b3092018.html",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss",
+  "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+  "https://www.euronews.com/2026/11/26/civilian-flights-diverted-as-kuwait-army-intercepts-iranian-drone-attack",
+  "https://www.newsweek.com/haley-stevens-and-abdul-el-sayeds-thanksgiving-posts-compared-12771205",
+  "https://www.independent.co.uk/news/world/americas/us-politics/haley-stevens-thanksgiving-post-democrat-b3092236.html"
  ],
  "recent_topics": [
   [
@@ -13155,19 +13251,54 @@
     "zon"
    ],
    "cabe3a95b4"
+  ],
+  [
+   "2026-11-26T16:16:37.898540+00:00",
+   [
+    "army",
+    "attack",
+    "dead",
+    "divert",
+    "dron",
+    "flight",
+    "intercept",
+    "iranian",
+    "italian",
+    "kill",
+    "kuwait",
+    "passenger",
+    "strik"
+   ],
+   "609da5d9e7"
+  ],
+  [
+   "2026-11-26T16:16:41.640155+00:00",
+   [
+    "abdul",
+    "biggest",
+    "compar",
+    "democratic",
+    "el-say",
+    "get",
+    "haley",
+    "loser",
+    "midterm",
+    "party",
+    "post",
+    "steven",
+    "thanksgiv",
+    "troll"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-26T16:01:44.115846+00:00",
+ "last_draft_at": "2026-11-26T16:15:37.841803+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T16:00:50.265631+00:00",
  "run_log": [
-  "11-26 14:00:46 run start",
-  "11-26 14:02:00 listening 10 min",
-  "11-26 14:12:30 listening done",
-  "11-26 14:12:30 run end after 703 s",
   "11-26 14:15:36 run start",
   "11-26 14:15:56 listening 11 min",
   "11-26 14:27:15 listening done",
@@ -13203,12 +13334,15 @@
   "11-26 16:00:49 run start",
   "11-26 16:03:54 listening 8 min",
   "11-26 16:12:18 listening done",
-  "11-26 16:12:18 run end after 688 s"
+  "11-26 16:12:18 run end after 688 s",
+  "11-26 16:15:37 run start",
+  "11-26 16:17:51 listening 9 min",
+  "11-26 16:27:05 listening done",
+  "11-26 16:27:05 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Senator_Dan_Sullivan_official.jpg/1280px-Senator_Dan_Sullivan_official.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Rep._Mary_Peltola_headshot_%28cropped%29.jpg/1280px-Rep._Mary_Peltola_headshot_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Cargo_ship_Lake_Victoria%2C_St._Johns_River.jpg/1920px-Cargo_ship_Lake_Victoria%2C_St._Johns_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Donald_Trump_RNC_July_2016.jpg/1280px-Donald_Trump_RNC_July_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -13247,7 +13381,8 @@
    "https://upload.wikimedia.org/wikipedia/commons/2/2d/Al_Khoziny_Islamic_boarding_school_collapsed_during_evacuation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Cenotaph%2C_Whitehall_London_UK_Sun_7th_June_2020.jpg/1920px-Cenotaph%2C_Whitehall_London_UK_Sun_7th_June_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Buffalo_Nairobi_Skyline_Savannah_Kenya_May19_R1600769.jpg/1920px-Buffalo_Nairobi_Skyline_Savannah_Kenya_May19_R1600769.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/e/e7/Warsaw_skyline_%C5%9Awi%C4%99tokrzyski_Bridge.jpg"
+   "https://upload.wikimedia.org/wikipedia/commons/e/e7/Warsaw_skyline_%C5%9Awi%C4%99tokrzyski_Bridge.jpg",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Kuwait_City_Arabian_Gulf_Street_08.jpg/1920px-Kuwait_City_Arabian_Gulf_Street_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -16494,21 +16629,6 @@
    "whitehall london"
   ],
   "checked": {
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/1280px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Donald Trump": {
-    "s": 10,
-    "w": "Donald Trump portrait",
-    "p": ""
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Race_Trac_gas_pump_Louisiana_14_May_2025.jpg/1920px-Race_Trac_gas_pump_Louisiana_14_May_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|5fc4b80a": {
-    "s": 10,
-    "w": "gas station fuel pumps",
-    "p": ""
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Za%27tara_Checkpoint_001.jpeg/1920px-Za%27tara_Checkpoint_001.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|d33f749e": {
-    "s": 10,
-    "w": "military checkpoint in West Bank",
-    "p": ""
-   },
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/The_Clay_County_Courthouse_courtroom_in_2007.jpg/1920px-The_Clay_County_Courthouse_courtroom_in_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|94095cdc": {
     "s": 6,
     "w": "empty courtroom interior",
@@ -18993,6 +19113,21 @@
     "s": 5,
     "w": "Warsaw skyline and bridge",
     "p": ""
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/b/b4/Kuwait_city_skyline.jpg|5f913aea": {
+    "s": 0,
+    "w": "Kuwait City skyline and boats",
+    "p": "wrong country or wrong city"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Kuwait_City_Skyline_at_Night_3.jpg/1920px-Kuwait_City_Skyline_at_Night_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|5f913aea": {
+    "s": 3,
+    "w": "Kuwait City skyline at night",
+    "p": "shows calm skyline instead of military attack"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Kuwait_City_Arabian_Gulf_Street_08.jpg/1920px-Kuwait_City_Arabian_Gulf_Street_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|5f913aea": {
+    "s": 5,
+    "w": "Kuwait City street and mosque",
+    "p": "shows calm city scene instead of conflict event"
    }
   }
  },
@@ -19004,10 +19139,10 @@
   "2026-11-23": 20,
   "2026-11-24": 23,
   "2026-11-25": 29,
-  "2026-11-26": 12
+  "2026-11-26": 13
  },
- "last_auto_at": "2026-11-26T15:35:21.945725+00:00",
- "last_post_at": "2026-11-26T15:35:27.667267+00:00",
+ "last_auto_at": "2026-11-26T16:16:41.640174+00:00",
+ "last_post_at": "2026-11-26T16:16:50.813610+00:00",
  "reels_count": {
   "2026-11-20": 3,
   "2026-11-21": 3,
@@ -19015,7 +19150,7 @@
   "2026-11-23": 1,
   "2026-11-24": 3,
   "2026-11-25": 3,
-  "2026-11-26": 2
+  "2026-11-26": 3
  },
  "roundup": {
   "2026-11-18": {
