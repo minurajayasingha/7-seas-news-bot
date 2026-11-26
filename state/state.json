@@ -9148,11 +9148,107 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122112341871548584_1842469130402579"
+  },
+  "b62f454837": {
+   "id": "b62f454837",
+   "headline": "Pentagon denies Pete Hegseth considered using wartime law for Nvidia",
+   "summary": "Defense Secretary Pete Hegseth reportedly entertained using the Defense Production Act of 1950 to compel chipmaker Nvidia to reinstate Jensen Huang following his resignation over an affair. The Pentagon has denied these claims.",
+   "label": "US POLITICS",
+   "hook": "Should wartime powers be used to influence corporate leadership decisions?",
+   "key_points": [
+    "Jensen Huang returned eleven days after resigning.",
+    "The initial report came from the Washington Post."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Nvidia",
+    "#Pentagon",
+    "#USPolitics"
+   ],
+   "sources": [
+    "Newsweek",
+    "The Independent"
+   ],
+   "link": "https://www.newsweek.com/pentagon-denies-pete-hegseth-floated-wartime-law-to-pressure-nvidia-12770979",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/pentagon-denies-pete-hegseth-floated-wartime-law-to-pressure-nvidia-12770979"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/americas/us-politics/pete-hegseth-jensen-huang-nvidia-b3092097.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/SECWAR_Visits_SOUTHCOM_HQ_%2810119515%29.jpg/1920px-SECWAR_Visits_SOUTHCOM_HQ_%2810119515%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Sgt. 1st Class Curtis Loter / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "official": "DVIDS / US Department of Defense",
+      "score": 10,
+      "shows": "Pentagon press briefing"
+     }
+    ],
+    "event_photo": true,
+    "inset": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Pete_Hegseth_%2852941454126%29_%28cropped%29.jpg/1280px-Pete_Hegseth_%2852941454126%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+     "short": "WIKIMEDIA COMMONS",
+     "score": 10,
+     "shows": "Pete Hegseth"
+    }
+   },
+   "img_post": {
+    "headline": "Pentagon denies Pete Hegseth considered using wartime law for Nvidia",
+    "people": [
+     "Pete Hegseth",
+     "Jensen Huang"
+    ],
+    "image_query": "Pentagon building",
+    "image_queries": [
+     "Nvidia headquarters",
+     "US Capitol building",
+     "Defense Department seal",
+     "computer microchip"
+    ],
+    "image_style": "person",
+    "location": "Washington, US",
+    "nearby_city": "Washington, DC",
+    "event_query": "Pentagon press briefing",
+    "topic_photo": "computer microchip",
+    "label": "US POLITICS",
+    "action_subject": "computer microchip",
+    "news_time": "2026-11-26T14:19:02+00:00"
+   },
+   "created_at": "2026-11-26T19:31:19.849180+00:00",
+   "news_time": "2026-11-26T14:19:02+00:00",
+   "news_latest": "2026-11-26T19:25:06+00:00",
+   "importance": 6,
+   "caption": "Pentagon denies Pete Hegseth considered using wartime law for Nvidia\n\nDefense Secretary Pete Hegseth reportedly entertained using the Defense Production Act of 1950 to compel chipmaker Nvidia to reinstate Jensen Huang following his resignation over an affair. The Pentagon has denied these claims.\n\n💬 Should wartime powers be used to influence corporate leadership decisions?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Nvidia #Pentagon #USPolitics #7SeasNews",
+   "photo_line": "📷 10/10 Pentagon press briefing · official event photo",
+   "status": "posted",
+   "tg_message_id": 1035,
+   "tg_file_id": "AgACAgUAAxkDAAIEC2sIiQ0GRG7Nv2tA9PnzEi7BBP0lAAIbEmsbiIVJVO-oe6Bz37-zAQADAgADdwADPQQ",
+   "queued_at": "2026-11-26T19:31:25.343420+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-26T19:31:25.343445+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122112345663548584",
+   "posted_at": "2026-11-26T19:31:25.708673+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 26 · 2:31 PM New York · 1:01 AM Sri Lanka\n\n<b>Pentagon denies Pete Hegseth considered using wartime law for Nvidia</b>\n<i>Newsweek, The Independent</i>\n🟢 <b>Latest:</b> 12:55 AM Sri Lanka (6 min ago) · first reported 7:49 PM\n📷 10/10 Pentagon press briefing · official event photo\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112345663548584\">Open on Facebook</a>\n\n⚠️ <i>Looks like an earlier post: “Former Pentagon Chief of Staff Joe Kasper Urges Pete Hegseth to Resign”. Tap 🗑 Delete if it's the same news.</i>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 743,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112345663548584_1099279813115001"
   }
  },
  "seen_links": [
-  "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush",
-  "https://www.euronews.com/2026/11/12/nvidia-board-weighs-jensen-huangs-future-as-reports-emerge-of-second-affair",
   "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
   "https://www.france24.com/en/russia-s-hidden-mobilization-the-expendable-lives-fueling-putin-s-war-on-ukraine",
   "https://abcnews.com/International/wireStory/ireland-faces-pressure-stop-sending-russia-ingredient-vital-138069912",
@@ -11150,7 +11246,9 @@
   "https://kyivindependent.com/ukraine-war-latest-north-korea-halts-military-aid-to-russia-ukrainian-intelligence-says/",
   "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html",
   "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html",
-  "https://kyivindependent.com/ukraine-receives-remains-of-250-people-returns-22-russian-soldiers-remains-in-repatriation-2/"
+  "https://kyivindependent.com/ukraine-receives-remains-of-250-people-returns-22-russian-soldiers-remains-in-repatriation-2/",
+  "https://www.newsweek.com/pentagon-denies-pete-hegseth-floated-wartime-law-to-pressure-nvidia-12770979",
+  "https://www.independent.co.uk/news/world/americas/us-politics/pete-hegseth-jensen-huang-nvidia-b3092097.html"
  ],
  "recent_topics": [
   [
@@ -13835,19 +13933,36 @@
     "war"
    ],
    "8aaa9aec30"
+  ],
+  [
+   "2026-11-26T19:31:25.343285+00:00",
+   [
+    "ceo",
+    "consider",
+    "deny",
+    "float",
+    "forc",
+    "hegseth",
+    "law",
+    "nvidia",
+    "pentagon",
+    "pet",
+    "pressur",
+    "reinstat",
+    "scandal-struck",
+    "using",
+    "wartim"
+   ],
+   "b62f454837"
   ]
  ],
- "last_draft_at": "2026-11-26T19:16:09.338552+00:00",
+ "last_draft_at": "2026-11-26T19:30:47.310410+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T19:00:43.687278+00:00",
  "run_log": [
-  "11-26 17:00:44 run start",
-  "11-26 17:02:40 listening 10 min",
-  "11-26 17:12:18 listening done",
-  "11-26 17:12:18 run end after 694 s",
   "11-26 17:15:35 run start",
   "11-26 17:15:47 listening 11 min",
   "11-26 17:27:05 listening done",
@@ -13883,13 +13998,15 @@
   "11-26 19:16:09 run start",
   "11-26 19:17:31 listening 10 min",
   "11-26 19:27:59 listening done",
-  "11-26 19:27:59 run end after 709 s"
+  "11-26 19:27:59 run end after 709 s",
+  "11-26 19:30:46 run start",
+  "11-26 19:31:40 listening 11 min",
+  "11-26 19:42:36 listening done",
+  "11-26 19:42:36 run end after 709 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Yemeni_soldiers_from_the_1st_Armoured_Division.JPG/1920px-Yemeni_soldiers_from_the_1st_Armoured_Division.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Gadi_Eisenkot_2_%28cropped%29_3x4.jpg/1280px-Gadi_Eisenkot_2_%28cropped%29_3x4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/7/77/Chen_Jining_2019.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/COP31_-_Gavin_Newsom_13.jpg/1280px-COP31_-_Gavin_Newsom_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -13927,7 +14044,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/AC_SO_Karlspreisverleihung_2026_14._Mai_Dom_Christine_Lagarde_und_Michael_Ziemons_II.jpg/1280px-AC_SO_Karlspreisverleihung_2026_14._Mai_Dom_Christine_Lagarde_und_Michael_Ziemons_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/7/7b/Hong_Kong_Skyline_%28108827031%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Kyiv_skyline_%2815688086793%29.jpg/1920px-Kyiv_skyline_%2815688086793%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Kyiv_skyline_%2815688086793%29.jpg/1920px-Kyiv_skyline_%2815688086793%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/SECWAR_Visits_SOUTHCOM_HQ_%2810119515%29.jpg/1920px-SECWAR_Visits_SOUTHCOM_HQ_%2810119515%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Pete_Hegseth_%2852941454126%29_%28cropped%29.jpg/1280px-Pete_Hegseth_%2852941454126%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -15774,7 +15893,7 @@
     "v": 2
    },
    "pete hegseth": {
-    "t": "2026-11-18T23:02:26.006878+00:00",
+    "t": "2026-11-26T19:31:15.165240+00:00",
     "photos": [
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Pete_Hegseth_Official_Portrait.jpg/1280px-Pete_Hegseth_Official_Portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -15784,6 +15903,13 @@
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Pete_Hegseth_%282025%29_%28cropped%29.jpg/1280px-Pete_Hegseth_%282025%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "U.S. Secretary of Defense / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Pete_Hegseth_%2851330316180%29_%28cropped%29.jpg/1280px-Pete_Hegseth_%2851330316180%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": true,
       "only": true
@@ -15803,13 +15929,6 @@
       "only": true
      },
      {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Pete_Hegseth_%2852251945456%29_%28cropped%29.jpg/1280px-Pete_Hegseth_%2852251945456%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true,
-      "only": true
-     },
-     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Pete_Hegseth_%2852941918363%29.jpg/1280px-Pete_Hegseth_%2852941918363%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
       "short": "WIKIMEDIA COMMONS",
@@ -15817,35 +15936,14 @@
       "only": true
      },
      {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Pete_Hegseth_%2852251960853%29.jpg/1280px-Pete_Hegseth_%2852251960853%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Pete_Hegseth_%2851328588022%29.jpg/1280px-Pete_Hegseth_%2851328588022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": false,
       "only": true
      },
      {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Pete_Hegseth_%2852252448925%29.jpg/1280px-Pete_Hegseth_%2852252448925%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false,
-      "only": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Pete_Hegseth_%2852941843030%29.jpg/1280px-Pete_Hegseth_%2852941843030%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false,
-      "only": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Pete_Hegseth_%2852252449115%29.jpg/1280px-Pete_Hegseth_%2852252449115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false,
-      "only": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Pete_Hegseth_%2852252449175%29.jpg/1280px-Pete_Hegseth_%2852252449175%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Pete_Hegseth_%2852941917583%29.jpg/1280px-Pete_Hegseth_%2852941917583%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": false,
@@ -15853,6 +15951,27 @@
      },
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Pete_Hegseth_%2851772585499%29.jpg/1280px-Pete_Hegseth_%2851772585499%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Pete_Hegseth_%2851772823750%29.jpg/1280px-Pete_Hegseth_%2851772823750%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Pete_Hegseth_%2852251945456%29.jpg/1280px-Pete_Hegseth_%2852251945456%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Pete_Hegseth_%2852251960853%29.jpg/1280px-Pete_Hegseth_%2852251960853%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": false,
@@ -17216,7 +17335,6 @@
    }
   },
   "recent_ideas": [
-   "courtroom",
    "oil refinery",
    "giant parade balloons",
    "fighter jets",
@@ -17227,24 +17345,10 @@
    "mother ukraine",
    "collapsed building rescue",
    "whitehall london",
-   "marriner s. eccles federal reserve board building"
+   "marriner s. eccles federal reserve board building",
+   "pentagon press briefing"
   ],
   "checked": {
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Supreme_Court_of_the_United_Kingdom_Stairwell_2%2C_London%2C_UK_-_Diliff.jpg/1920px-Supreme_Court_of_the_United_Kingdom_Stairwell_2%2C_London%2C_UK_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|eabfb205": {
-    "s": 0,
-    "w": "ornate indoor staircase",
-    "p": "photo does not show a military personnel or suspect"
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/2006-03-04_-_United_Kingdom_-_England_-_London_-_42_Francis_Street_-_Westminster_Cathedral_-_Skyline_4888118333.jpg/1920px-2006-03-04_-_United_Kingdom_-_England_-_London_-_42_Francis_Street_-_Westminster_Cathedral_-_Skyline_4888118333.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|eabfb205": {
-    "s": 0,
-    "w": "London skyline with power station",
-    "p": "Photo shows a city skyline, but the story is about a military spy suspect handed"
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/City_of_London_skyline_from_London_City_Hall_-_Oct_2008.jpg/1920px-City_of_London_skyline_from_London_City_Hall_-_Oct_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|eabfb205": {
-    "s": 3,
-    "w": "London skyline",
-    "p": "shows a city skyline instead of the military personnel"
-   },
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Fishing_Vessel_FH19%2C_Hooe_Lake%2C_Plymouth.jpg/1920px-Fishing_Vessel_FH19%2C_Hooe_Lake%2C_Plymouth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|f80ab589": {
     "s": 7,
     "w": "small blue fishing boat",
@@ -19729,6 +19833,21 @@
     "s": 5,
     "w": "Kyiv skyline at dawn",
     "p": "shows a calm skyline instead of the specific action of the story"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/SECWAR_Visits_SOUTHCOM_HQ_%2810119516%29.jpg/1920px-SECWAR_Visits_SOUTHCOM_HQ_%2810119516%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|19625dbb": {
+    "s": 0,
+    "w": "military members standing on stage",
+    "p": "Unrelated event, does not show the story main thing"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/SECWAR_Visits_SOUTHCOM_HQ_%2810119515%29.jpg/1920px-SECWAR_Visits_SOUTHCOM_HQ_%2810119515%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|19625dbb": {
+    "s": 10,
+    "w": "Pentagon press briefing",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Pete_Hegseth_%2852941454126%29_%28cropped%29.jpg/1280px-Pete_Hegseth_%2852941454126%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Pete Hegseth": {
+    "s": 10,
+    "w": "Pete Hegseth",
+    "p": ""
    }
   }
  },
@@ -19740,10 +19859,10 @@
   "2026-11-23": 20,
   "2026-11-24": 23,
   "2026-11-25": 29,
-  "2026-11-26": 19
+  "2026-11-26": 20
  },
- "last_auto_at": "2026-11-26T19:17:16.060439+00:00",
- "last_post_at": "2026-11-26T19:17:20.918490+00:00",
+ "last_auto_at": "2026-11-26T19:31:25.708673+00:00",
+ "last_post_at": "2026-11-26T19:31:31.427707+00:00",
  "reels_count": {
   "2026-11-20": 3,
   "2026-11-21": 3,
