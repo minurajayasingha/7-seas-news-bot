@@ -8796,12 +8796,96 @@
    "fb_story_id": "1798807347903297",
    "fb_reel_id": "3601427480020172",
    "reel_status": "live"
+  },
+  "eecb98368d": {
+   "id": "eecb98368d",
+   "headline": "Protesters gather in Iraqi Kurdistan over federal government control plans",
+   "summary": "Thousands of demonstrators in northern Iraq's semiautonomous Kurdish region protested plans by the federal government to take control of oil operations and border crossings. Meanwhile, the Iraqi government denied reports that army units were moving toward the region.",
+   "label": "CONFLICT",
+   "hook": "Will the federal government proceed with taking control of oilfields and border crossings?",
+   "key_points": [
+    "Thousands gathered in the regional capital waving flags.",
+    "The oil feud is deepening the rift between Baghdad and Erbil."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Iraq",
+    "#Kurdistan",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "DW"
+   ],
+   "link": "https://www.dw.com/en/protests-in-iraqi-kurdistan-at-plans-for-government-in-baghdad-to-take-over-oil-border-crossings/a-80065994?maca=en-rss-en-world-4025-rdf",
+   "links": [
+    [
+     "DW",
+     "https://www.dw.com/en/protests-in-iraqi-kurdistan-at-plans-for-government-in-baghdad-to-take-over-oil-border-crossings/a-80065994?maca=en-rss-en-world-4025-rdf"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/26/iraq-denies-reports-of-troop-movements-towards-kurdish-region?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "map",
+    "photos": [],
+    "location": "Iraqi Kurdistan, Iraq",
+    "lat": 36.91666667,
+    "lon": 44.03333333,
+    "country": "Iraq",
+    "state": ""
+   },
+   "img_post": {
+    "headline": "Protesters gather in Iraqi Kurdistan over federal government control plans",
+    "people": [],
+    "image_query": "Iraqi Kurdistan landscape",
+    "image_queries": [
+     "Erbil city center",
+     "oil refinery",
+     "Iraqi border crossing",
+     "protest crowd"
+    ],
+    "image_style": "scene",
+    "location": "Iraqi Kurdistan, Iraq",
+    "nearby_city": "Baghdad, Iraq",
+    "event_query": "Kurdistan protest oil border crossings",
+    "topic_photo": "oil refinery",
+    "label": "CONFLICT",
+    "action_subject": "protest crowd with flags",
+    "news_time": "2026-11-26T11:23:29+00:00"
+   },
+   "created_at": "2026-11-26T16:33:37.573874+00:00",
+   "news_time": "2026-11-26T11:23:29+00:00",
+   "news_latest": "2026-11-26T16:13:00+00:00",
+   "importance": 7,
+   "caption": "Protesters gather in Iraqi Kurdistan over federal government control plans\n\nThousands of demonstrators in northern Iraq's semiautonomous Kurdish region protested plans by the federal government to take control of oil operations and border crossings. Meanwhile, the Iraqi government denied reports that army units were moving toward the region.\n\n💬 Will the federal government proceed with taking control of oilfields and border crossings?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Iraq #Kurdistan #WorldNews #7SeasNews",
+   "photo_line": "📷 news map (no fitting photo)",
+   "status": "posted",
+   "tg_message_id": 1026,
+   "tg_file_id": "AgACAgUAAxkDAAIEAmsIX2NDw5HUitkMOKmYIJLfMlA4AALmEWsbiIVJVDvQSXkMxCZQAQADAgADdwADPQQ",
+   "queued_at": "2026-11-26T16:33:39.590775+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-26T16:33:39.590803+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122112280791548584",
+   "posted_at": "2026-11-26T16:33:39.898548+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 26 · 11:33 AM New York · 10:03 PM Sri Lanka\n\n<b>Protesters gather in Iraqi Kurdistan over federal government control plans</b>\n<i>Al Jazeera, DW</i>\n🟢 <b>Latest:</b> 9:43 PM Sri Lanka (20 min ago) · first reported 4:53 PM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112280791548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 736,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112280791548584_1176273464980016"
   }
  },
  "seen_links": [
-  "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
-  "https://www.independent.co.uk/news/world/americas/brooklyn-building-collapse-flatbush-nyc-b3083495.html",
-  "https://www.newsweek.com/partial-building-collapse-in-brooklyn-traps-people-in-rubble-what-we-know-12702273",
   "https://www.washingtonexaminer.com/news/campaigns/presidential/4800778/wes-moore-set-release-book-repair/",
   "https://www.washingtonpost.com/politics/2026/11/11/wes-moore-coy-about-2028-presidential-bid-writes-book-healing-nation/",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4800670/this-house-republican-just-lost-reelection-he-plans-to-keep-doing-the-job-for-another-two-years-anyway/",
@@ -10798,7 +10882,10 @@
   "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
   "https://www.euronews.com/2026/11/26/civilian-flights-diverted-as-kuwait-army-intercepts-iranian-drone-attack",
   "https://www.newsweek.com/haley-stevens-and-abdul-el-sayeds-thanksgiving-posts-compared-12771205",
-  "https://www.independent.co.uk/news/world/americas/us-politics/haley-stevens-thanksgiving-post-democrat-b3092236.html"
+  "https://www.independent.co.uk/news/world/americas/us-politics/haley-stevens-thanksgiving-post-democrat-b3092236.html",
+  "https://www.dw.com/en/protests-in-iraqi-kurdistan-at-plans-for-government-in-baghdad-to-take-over-oil-border-crossings/a-80065994?maca=en-rss-en-world-4025-rdf",
+  "https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss",
+  "https://www.aljazeera.com/news/2026/11/26/iraq-denies-reports-of-troop-movements-towards-kurdish-region?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -13290,19 +13377,41 @@
     "troll"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-26T16:33:39.590611+00:00",
+   [
+    "baghdad",
+    "border",
+    "cross",
+    "deepen",
+    "deny",
+    "feud",
+    "government",
+    "iraq",
+    "iraqi",
+    "kurdish",
+    "kurdistan",
+    "movement",
+    "oil",
+    "plan",
+    "protest",
+    "region",
+    "rift",
+    "tak",
+    "toward",
+    "troop"
+   ],
+   "eecb98368d"
   ]
  ],
- "last_draft_at": "2026-11-26T16:15:37.841803+00:00",
+ "last_draft_at": "2026-11-26T16:32:44.598538+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T16:00:50.265631+00:00",
  "run_log": [
-  "11-26 14:15:36 run start",
-  "11-26 14:15:56 listening 11 min",
-  "11-26 14:27:15 listening done",
-  "11-26 14:27:15 run end after 699 s",
   "11-26 14:31:18 run start",
   "11-26 14:31:20 listening 11 min",
   "11-26 14:43:06 listening done",
@@ -13338,7 +13447,11 @@
   "11-26 16:15:37 run start",
   "11-26 16:17:51 listening 9 min",
   "11-26 16:27:05 listening done",
-  "11-26 16:27:05 run end after 687 s"
+  "11-26 16:27:05 run end after 687 s",
+  "11-26 16:32:44 run start",
+  "11-26 16:33:58 listening 10 min",
+  "11-26 16:44:27 listening done",
+  "11-26 16:44:27 run end after 703 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -16629,26 +16742,6 @@
    "whitehall london"
   ],
   "checked": {
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/The_Clay_County_Courthouse_courtroom_in_2007.jpg/1920px-The_Clay_County_Courthouse_courtroom_in_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|94095cdc": {
-    "s": 6,
-    "w": "empty courtroom interior",
-    "p": "Generic courtroom photo, lacks people or specific context"
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_01.jpg/1920px-A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|94095cdc": {
-    "s": 7,
-    "w": "courtroom interior",
-    "p": ""
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg/1920px-Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|94095cdc": {
-    "s": 8,
-    "w": "judge gavel on rainbow flag",
-    "p": ""
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Capitol_Washington_October_2016-3.jpg/1920px-Capitol_Washington_October_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|33222da3": {
-    "s": 6,
-    "w": "US Capitol building",
-    "p": "Generic Washington DC symbol for a national health story"
-   },
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Cabina_de_Control_para_tr%C3%A1fico_a%C3%A9reo_-_A742589.jpg/1920px-Cabina_de_Control_para_tr%C3%A1fico_a%C3%A9reo_-_A742589.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|fb18eed1": {
     "s": 7,
     "w": "air traffic control tower exhibit",
@@ -19128,6 +19221,26 @@
     "s": 5,
     "w": "Kuwait City street and mosque",
     "p": "shows calm city scene instead of conflict event"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Iraq_War_protest_0018_%2851067081376%29.jpg/1920px-Iraq_War_protest_0018_%2851067081376%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|1eab2a08": {
+    "s": 5,
+    "w": "people holding candles at protest",
+    "p": "photo is a protest, but contextually unrelated to Iraqi Kurdistan"
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/c/ce/Street_views_of_Erbil%27s_city_center_around_the_citadel_03.jpg|1eab2a08": {
+    "s": 0,
+    "w": "damaged building facade",
+    "p": "shows damage instead of protest"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Views_around_the_city_center_of_Erbil_05.jpg/1920px-Views_around_the_city_center_of_Erbil_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|1eab2a08": {
+    "s": 0,
+    "w": "hot air balloon in sky",
+    "p": "shows hot air balloon instead of protest crowd"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/A_man_walking_past_a_wall_with_street_art_on_Barzani_Nemir_Street_in_Erbil%2C_Iraqi_Kurdistan.jpg/1920px-A_man_walking_past_a_wall_with_street_art_on_Barzani_Nemir_Street_in_Erbil%2C_Iraqi_Kurdistan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|1eab2a08": {
+    "s": 0,
+    "w": "person standing by painted wall",
+    "p": "shows a person on a street instead of a protest crowd with flags"
    }
   }
  },
@@ -19139,10 +19252,10 @@
   "2026-11-23": 20,
   "2026-11-24": 23,
   "2026-11-25": 29,
-  "2026-11-26": 13
+  "2026-11-26": 14
  },
- "last_auto_at": "2026-11-26T16:16:41.640174+00:00",
- "last_post_at": "2026-11-26T16:16:50.813610+00:00",
+ "last_auto_at": "2026-11-26T16:33:39.898548+00:00",
+ "last_post_at": "2026-11-26T16:33:43.729289+00:00",
  "reels_count": {
   "2026-11-20": 3,
   "2026-11-21": 3,
