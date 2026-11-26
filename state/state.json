@@ -7278,11 +7278,97 @@
     "shares": 0
    },
    "stats_at": "2026-11-26T01:00:51.785108+00:00"
+  },
+  "4013517ff8": {
+   "id": "4013517ff8",
+   "headline": "US billionaire and agency reach deal for Lukoil assets",
+   "summary": "An American-led consortium is set to acquire valuable foreign properties belonging to the sanctioned Russian energy giant Lukoil. However, the transaction requires approval from the U.S. Treasury Department's Office of Foreign Assets Control.",
+   "label": "ECONOMY",
+   "hook": "Will the U.S. Treasury Department approve the acquisition of Lukoil's foreign assets?",
+   "key_points": [
+    "The transaction has not been finalized yet.",
+    "Middle Eastern contacts of Trump envoys pulled out of the deal.",
+    "Lukoil is a Russian energy giant."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Lukoil",
+    "#USPolitics",
+    "#EnergyNews"
+   ],
+   "sources": [
+    "Kyiv Independent",
+    "New York Times"
+   ],
+   "link": "https://kyivindependent.com/us-consortium-announces-deal-to-acquire-sanctioned-russian-oil-company-lukoils-global-subsidiary/",
+   "links": [
+    [
+     "Kyiv Independent",
+     "https://kyivindependent.com/us-consortium-announces-deal-to-acquire-sanctioned-russian-oil-company-lukoils-global-subsidiary/"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/25/us/politics/lukoil-deal.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Bradford_Oil_Refinery%2C_Bradford%2C_Pennsylvania_-_20211108.jpg/1920px-Bradford_Oil_Refinery%2C_Bradford%2C_Pennsylvania_-_20211108.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Andre Carrotflower / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 8,
+      "shows": "oil refinery and storage tanks"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "US billionaire and agency reach deal for Lukoil assets",
+    "people": [],
+    "image_query": "US Treasury Department building",
+    "image_queries": [
+     "oil refinery",
+     "corporate headquarters",
+     "US Treasury building",
+     "energy infrastructure"
+    ],
+    "image_style": "scene",
+    "location": "Washington, D.C.",
+    "nearby_city": "Washington, D.C.",
+    "event_query": "oil company headquarters",
+    "topic_photo": "oil refinery",
+    "label": "ECONOMY",
+    "action_subject": "oil refinery",
+    "news_time": "2026-11-25T22:16:50+00:00"
+   },
+   "created_at": "2026-11-26T01:31:17.440218+00:00",
+   "news_time": "2026-11-25T22:16:50+00:00",
+   "news_latest": "2026-11-26T01:06:49+00:00",
+   "importance": 6,
+   "caption": "US billionaire and agency reach deal for Lukoil assets\n\nAn American-led consortium is set to acquire valuable foreign properties belonging to the sanctioned Russian energy giant Lukoil. However, the transaction requires approval from the U.S. Treasury Department's Office of Foreign Assets Control.\n\n💬 Will the U.S. Treasury Department approve the acquisition of Lukoil's foreign assets?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Lukoil #USPolitics #EnergyNews #7SeasNews",
+   "photo_line": "📷 8/10 oil refinery and storage tanks · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 1002,
+   "tg_file_id": "AgACAgUAAxkDAAID6msHi-dOcSn2WsYU4oUFPt4OlDUXAALKEmsbr_w5VMbFX-jHjM4rAQADAgADdwADPQQ",
+   "queued_at": "2026-11-26T01:31:19.435869+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-26T01:31:19.435892+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122111939037548584",
+   "posted_at": "2026-11-26T01:31:19.711736+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 25 · 8:31 PM New York · 7:01 AM Sri Lanka\n\n<b>US billionaire and agency reach deal for Lukoil assets</b>\n<i>Kyiv Independent, New York Times</i>\n🟢 <b>Latest:</b> 6:36 AM Sri Lanka (24 min ago) · first reported 3:46 AM\n📷 8/10 oil refinery and storage tanks · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122111939037548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 711,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122111939037548584_1775203483578536"
   }
  },
  "seen_links": [
-  "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss",
-  "https://www.independent.co.uk/news/world/europe/italy-bomb-threat-school-email-b3083056.html",
   "https://www.france24.com/en/europe/20261111-hundreds-of-schools-in-italy-evacuated-after-receiving-bomb-threats",
   "https://www.dw.com/en/iran-classes-argentina-navy-air-force-as-terrorist-organizations/a-79916290?maca=en-rss-en-world-4025-rdf",
   "https://www.upi.com/Top_News/World-News/2026/11/11/iran-desigantes-Argentina-navy-air-force-terrorist-organizations/7981794382830/",
@@ -9280,7 +9366,9 @@
   "https://www.france24.com/en/tv-shows/a-propos/20261125-new-us-tariffs-trump-lashing-out-really-indiscriminately-expert-says",
   "https://www.france24.com/en/new-us-tariffs-trump-lashing-out-really-indiscriminately-expert-says",
   "https://www.france24.com/en/eu-says-strongly-rejects-premise-of-new-us-tariffs",
-  "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
+  "https://kyivindependent.com/us-consortium-announces-deal-to-acquire-sanctioned-russian-oil-company-lukoils-global-subsidiary/",
+  "https://www.nytimes.com/2026/11/25/us/politics/lukoil-deal.html"
  ],
  "recent_topics": [
   [
@@ -11588,19 +11676,39 @@
     "trump"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-26T01:31:19.435747+00:00",
+   [
+    "acquir",
+    "agency",
+    "asset",
+    "associat",
+    "billionair",
+    "deal",
+    "foreign",
+    "giant",
+    "global",
+    "government",
+    "ink",
+    "kushner",
+    "lukoil",
+    "oil",
+    "russian",
+    "sanction",
+    "sell",
+    "witkoff"
+   ],
+   "4013517ff8"
   ]
  ],
- "last_draft_at": "2026-11-26T01:15:33.251910+00:00",
+ "last_draft_at": "2026-11-26T01:31:03.526215+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T01:00:51.785108+00:00",
  "run_log": [
-  "11-25 23:10:00 run start",
-  "11-25 23:10:10 listening 11 min",
-  "11-25 23:21:31 listening done",
-  "11-25 23:21:31 run end after 690 s",
   "11-25 23:22:00 run start",
   "11-25 23:22:12 listening 11 min",
   "11-25 23:33:30 listening done",
@@ -11636,12 +11744,15 @@
   "11-26 01:15:32 run start",
   "11-26 01:15:52 listening 11 min",
   "11-26 01:26:58 listening done",
-  "11-26 01:26:58 run end after 685 s"
+  "11-26 01:26:58 run end after 685 s",
+  "11-26 01:31:03 run start",
+  "11-26 01:31:34 listening 11 min",
+  "11-26 01:42:52 listening done",
+  "11-26 01:42:52 run end after 709 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/8/8f/Warsaw_skyline_%288510344469%29.jpg",
    "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg2NDE0NTAtaW1hZ2Uta3d2eGtmbXEuanBn.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Pete_Hegseth_%2852941843030%29.jpg/1280px-Pete_Hegseth_%2852941843030%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Byron_Donalds_%2854235434489%29.jpg/1280px-Byron_Donalds_%2854235434489%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -11680,7 +11791,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/US_Capitol_west_side_at_dusk.JPG/1920px-US_Capitol_west_side_at_dusk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Ambulance%2C_Cairo.JPG/1920px-Ambulance%2C_Cairo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Knesset_front_side_-_2022.jpg/1920px-Knesset_front_side_-_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Doors_Open_Milwaukee_2023_37_%28Federal_Building--courtroom_of_Hon._Lynn_Adelman%29.jpg/1920px-Doors_Open_Milwaukee_2023_37_%28Federal_Building--courtroom_of_Hon._Lynn_Adelman%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Doors_Open_Milwaukee_2023_37_%28Federal_Building--courtroom_of_Hon._Lynn_Adelman%29.jpg/1920px-Doors_Open_Milwaukee_2023_37_%28Federal_Building--courtroom_of_Hon._Lynn_Adelman%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Bradford_Oil_Refinery%2C_Bradford%2C_Pennsylvania_-_20211108.jpg/1920px-Bradford_Oil_Refinery%2C_Bradford%2C_Pennsylvania_-_20211108.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -14914,7 +15026,6 @@
    }
   },
   "recent_ideas": [
-   "canberra skyline",
    "cargo ship",
    "police officers at work",
    "soldiers",
@@ -14925,7 +15036,8 @@
    "emergency services of that city",
    "parliament chamber",
    "courtroom",
-   "courtroom"
+   "courtroom",
+   "oil refinery"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -17322,6 +17434,16 @@
     "s": 10,
     "w": "empty courtroom",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Bradford_Oil_Refinery%2C_Bradford%2C_Pennsylvania_-_20211108.jpg/1920px-Bradford_Oil_Refinery%2C_Bradford%2C_Pennsylvania_-_20211108.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|14ce1a5b": {
+    "s": 8,
+    "w": "oil refinery and storage tanks",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/At_Palmetum_de_Santa_Cruz_de_Tenerife_2023_072.jpg/1920px-At_Palmetum_de_Santa_Cruz_de_Tenerife_2023_072.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|14ce1a5b": {
+    "s": 6,
+    "w": "oil tanker and refinery facility",
+    "p": ""
    }
   }
  },
@@ -17333,10 +17455,10 @@
   "2026-11-22": 11,
   "2026-11-23": 20,
   "2026-11-24": 23,
-  "2026-11-25": 22
+  "2026-11-25": 23
  },
- "last_auto_at": "2026-11-26T00:01:49.030782+00:00",
- "last_post_at": "2026-11-26T00:01:55.267981+00:00",
+ "last_auto_at": "2026-11-26T01:31:19.711736+00:00",
+ "last_post_at": "2026-11-26T01:31:24.841364+00:00",
  "reels_count": {
   "2026-11-19": 3,
   "2026-11-20": 3,
