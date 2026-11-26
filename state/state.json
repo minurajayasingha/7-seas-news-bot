@@ -1,105 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "d4bb76db92": {
-   "id": "d4bb76db92",
-   "headline": "Israeli settlers set fire to West Bank vehicles and homes",
-   "summary": "Dozens of Israeli settlers raided four Palestinian villages in the West Bank, setting fire to about a dozen vehicles and several homes. Israeli authorities and police have launched an investigation into the attacks, which drew condemnation from opposition leader Gadi Eisenkot.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "Racist graffiti was scrawled on walls during the raids",
-    "Israeli soldiers and police deployed to the area",
-    "Gadi Eisenkot described the attacks as Jewish terrorism"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#WestBank",
-    "#MiddleEast",
-    "#WorldNews"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "France 24",
-    "The Guardian"
-   ],
-   "link": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
-   "links": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/israel-investigates-west-bank-fires"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Former_Magirus-Deutz_170D11_fire_engine_in_Bavaria.JPG/1920px-Former_Magirus-Deutz_170D11_fire_engine_in_Bavaria.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "High Contrast / Wikimedia Commons (CC BY 3.0 de)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 8,
-      "shows": "red fire truck"
-     }
-    ],
-    "file_photo": true
-   },
-   "img_post": {
-    "headline": "Israeli settlers set fire to West Bank vehicles and homes",
-    "people": [],
-    "image_query": "West Bank village landscape",
-    "image_queries": [
-     "West Bank landscape",
-     "Israeli police vehicle",
-     "West Bank road",
-     "Palestinian village"
-    ],
-    "image_style": "incident",
-    "location": "West Bank, Palestinian Territories",
-    "nearby_city": "Jerusalem, Israel",
-    "event_query": "West Bank settler village attack",
-    "topic_photo": "burnt vehicle",
-    "label": "CONFLICT",
-    "action_subject": "burnt vehicles and damaged homes",
-    "news_time": "2026-11-22T13:47:04+00:00"
-   },
-   "created_at": "2026-11-22T15:31:36.666215+00:00",
-   "news_time": "2026-11-22T13:47:04+00:00",
-   "news_latest": "2026-11-22T15:22:38+00:00",
-   "importance": 7,
-   "caption": "Israeli settlers set fire to West Bank vehicles and homes\n\nDozens of Israeli settlers raided four Palestinian villages in the West Bank, setting fire to about a dozen vehicles and several homes. Israeli authorities and police have launched an investigation into the attacks, which drew condemnation from opposition leader Gadi Eisenkot.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WestBank #MiddleEast #WorldNews #7SeasNews",
-   "photo_line": "📷 8/10 red fire truck · FILE PHOTO",
-   "status": "posted",
-   "tg_message_id": 913,
-   "tg_file_id": "AgACAgUAAxkDAAIDkWsDCtvnw1j278iToVvh9U_hhUGyAAIxFWsboQ8ZVDJUwSXm5rpcAQADAgADdwADPQQ",
-   "queued_at": "2026-11-22T15:31:39.436126+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-22T15:31:39.436163+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122109620619548584",
-   "posted_at": "2026-11-22T15:31:39.803810+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 22 · 10:31 AM New York · 9:01 PM Sri Lanka\n\n<b>Israeli settlers set fire to West Bank vehicles and homes</b>\n<i>Al Jazeera, France 24, The Guardian</i>\n🟢 <b>Latest:</b> 8:52 PM Sri Lanka (9 min ago) · first reported 7:17 PM\n📷 8/10 red fire truck · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122109620619548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 620,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122109620619548584_1144343804872212",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-25T14:45:38.053965+00:00"
-  },
   "e3bce82e41": {
    "id": "e3bce82e41",
    "headline": "UN climate talks end without agreement over fossil fuels",
@@ -8709,8 +8610,6 @@
   }
  },
  "seen_links": [
-  "https://www.nbcnews.com/politics/trump-administration/hegseth-reprimanded-arlington-cemetery-veterans-tomb-unknown-soldier-rcna608869",
-  "https://thehill.com/policy/defense/6214248-pete-hegseth-decorum-army-sentinel-veterans-day-tomb-unknown-soldier/",
   "https://www.washingtonexaminer.com/news/house/4800597/thomas-massie-epstein-files-petition-vote/",
   "https://thehill.com/homenews/house/6214408-massie-epstein-files-discharge-petition/",
   "https://www.cbsnews.com/news/epstein-files-bill-discharge-petition-thomas-massie/",
@@ -10708,7 +10607,9 @@
   "https://www.independent.co.uk/news/world/europe/jared-kushner-ukraine-russia-war-trump-b3092082.html",
   "https://www.independent.co.uk/news/world/europe/kushner-putin-witkoff-ukraine-war-b3091967.html",
   "https://www.france24.com/en/video/20261126-fighting-in-eastern-congo-forces-ebola-workers-to-evacuate-disrupts-outbreak-response",
-  "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders"
+  "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
+  "https://www.aljazeera.com/news/2026/11/26/andalusia-offers-a-glimpse-of-spains-future-as-the-far-right-gains-ground?traffic_source=rss",
+  "https://abcnews.com/International/wireStory/spains-hasnt-governed-franco-immigration-fears-change-138466653"
  ],
  "recent_topics": [
   [
@@ -13141,17 +13042,13 @@
    "87be1a7dc5"
   ]
  ],
- "last_draft_at": "2026-11-26T15:10:03.105317+00:00",
+ "last_draft_at": "2026-11-26T15:22:02.997859+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T14:58:07.852963+00:00",
  "run_log": [
-  "11-26 13:00:46 run start",
-  "11-26 13:01:47 listening 10 min",
-  "11-26 13:12:15 listening done",
-  "11-26 13:12:15 run end after 688 s",
   "11-26 13:15:45 run start",
   "11-26 13:15:54 listening 11 min",
   "11-26 13:27:12 listening done",
@@ -13187,7 +13084,11 @@
   "11-26 15:10:02 run start",
   "11-26 15:10:13 listening 11 min",
   "11-26 15:21:31 listening done",
-  "11-26 15:21:31 run end after 689 s"
+  "11-26 15:21:31 run end after 689 s",
+  "11-26 15:22:02 run start",
+  "11-26 15:22:41 listening 11 min",
+  "11-26 15:33:36 listening done",
+  "11-26 15:33:36 run end after 694 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
