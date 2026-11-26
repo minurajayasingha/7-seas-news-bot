@@ -11264,31 +11264,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-23T21:21:50.116360+00:00",
-   [
-    "ahmadi",
-    "authority",
-    "carry",
-    "flog",
-    "flogg",
-    "four",
-    "headscarf",
-    "hijab",
-    "iran",
-    "iranian",
-    "lash",
-    "lawyer",
-    "other",
-    "parastoo",
-    "perform",
-    "performanc",
-    "receiv",
-    "singer",
-    "without"
-   ],
-   "skipped"
-  ],
-  [
    "2026-11-23T22:33:09.418076+00:00",
    [
     "accus",
@@ -13974,17 +13949,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-26T21:01:41.468507+00:00",
+ "last_draft_at": "2026-11-26T21:15:33.875009+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T21:00:50.582522+00:00",
  "run_log": [
-  "11-26 18:45:32 run start",
-  "11-26 18:48:19 listening 9 min",
-  "11-26 18:57:07 listening done",
-  "11-26 18:57:07 run end after 695 s",
   "11-26 19:00:43 run start",
   "11-26 19:01:43 listening 10 min",
   "11-26 19:12:12 listening done",
@@ -14020,7 +13991,11 @@
   "11-26 21:00:50 run start",
   "11-26 21:01:50 listening 10 min",
   "11-26 21:12:20 listening done",
-  "11-26 21:12:20 run end after 690 s"
+  "11-26 21:12:20 run end after 690 s",
+  "11-26 21:15:33 run start",
+  "11-26 21:15:43 listening 11 min",
+  "11-26 21:27:01 listening done",
+  "11-26 21:27:01 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
