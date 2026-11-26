@@ -8618,8 +8618,6 @@
   }
  },
  "seen_links": [
-  "https://www.washingtonexaminer.com/news/campaigns/congressional/4800258/richard-ojeda-impeachment-cabinet-members/",
-  "https://thehill.com/opinion/international/6212486-trump-iran-policy-pressure/",
   "https://www.newsweek.com/hegseths-group-warned-by-guard-at-arlingtons-tomb-of-unknown-soldier-12701900",
   "https://www.independent.co.uk/news/world/americas/us-politics/hegseth-yelled-at-veterans-day-tomb-unknown-solider-b3083433.html",
   "https://www.washingtonexaminer.com/opinion/4800541/pete-hegseth-does-not-deserve-impeachment/",
@@ -10617,7 +10615,9 @@
   "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
   "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
   "https://abcnews.com/International/wireStory/us-backed-ebola-quarantine-center-violated-constitution-kenyan-138465843",
-  "https://www.aljazeera.com/news/2026/11/26/kenya-govt-violated-constitution-with-ebola-quarantine-site-court-says?traffic_source=rss"
+  "https://www.aljazeera.com/news/2026/11/26/kenya-govt-violated-constitution-with-ebola-quarantine-site-court-says?traffic_source=rss",
+  "https://thehill.com/homenews/administration/6244532-trump-obama-cnn-army-iowa-lead-azide-detonation/",
+  "https://www.independent.co.uk/news/world/americas/us-politics/trump-iowa-governor-army-detonation-lead-azide-b3091974.html"
  ],
  "recent_topics": [
   [
@@ -12980,17 +12980,13 @@
    "ab6e2293f4"
   ]
  ],
- "last_draft_at": "2026-11-26T13:15:46.317506+00:00",
+ "last_draft_at": "2026-11-26T13:30:53.050174+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T13:00:48.208383+00:00",
  "run_log": [
-  "11-26 11:01:02 run start",
-  "11-26 11:03:19 listening 9 min",
-  "11-26 11:12:32 listening done",
-  "11-26 11:12:32 run end after 690 s",
   "11-26 11:22:19 run start",
   "11-26 11:22:39 listening 11 min",
   "11-26 11:33:57 listening done",
@@ -13026,7 +13022,11 @@
   "11-26 13:15:45 run start",
   "11-26 13:15:54 listening 11 min",
   "11-26 13:27:12 listening done",
-  "11-26 13:27:12 run end after 686 s"
+  "11-26 13:27:12 run end after 686 s",
+  "11-26 13:30:52 run start",
+  "11-26 13:32:05 listening 10 min",
+  "11-26 13:42:35 listening done",
+  "11-26 13:42:35 run end after 702 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
