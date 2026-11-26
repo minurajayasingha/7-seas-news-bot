@@ -8607,11 +8607,96 @@
     "shares": 0
    },
    "stats_at": "2026-11-26T14:58:07.852963+00:00"
+  },
+  "cabe3a95b4": {
+   "id": "cabe3a95b4",
+   "headline": "Poland creates border no-fly zone following drone incursions",
+   "summary": "Poland plans to establish a no-fly zone near its Ukrainian border after experiencing several airspace incursions blamed on Russia. Meanwhile, Ukraine's air defences intercepted numerous missiles and drones, while Ukrainian strikes hit a chemical plant and a power station.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Poland backs Ukraine against Russia's invasion",
+    "Ukraine downed 87 Russian missiles and drones overnight",
+    "Ukrainian drones targeted a power station in Stavropol"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Poland",
+    "#Ukraine",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Euronews",
+    "France 24"
+   ],
+   "link": "https://www.france24.com/en/video/20261126-moscow-drone-incursions-poland-to-create-no-fly-zone-at-ukraine-border",
+   "links": [
+    [
+     "France 24",
+     "https://www.france24.com/en/video/20261126-moscow-drone-incursions-poland-to-create-no-fly-zone-at-ukraine-border"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/26/russia-launches-ballistic-missile-and-drone-barrage-on-ukraine-killing-at-least-three"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Warsaw_skyline_%C5%9Awi%C4%99tokrzyski_Bridge.jpg",
+      "credit": "Arne Müseler / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 5,
+      "shows": "Warsaw skyline and bridge"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Poland creates border no-fly zone following drone incursions",
+    "people": [],
+    "image_query": "Warsaw cityscape",
+    "image_queries": [
+     "Polish flag",
+     "border checkpoint",
+     "military radar",
+     "air defense system"
+    ],
+    "image_style": "incident",
+    "location": "Warsaw, Poland",
+    "nearby_city": "Warsaw, Poland",
+    "event_query": "Poland Ukraine border",
+    "topic_photo": "radar station",
+    "label": "CONFLICT",
+    "action_subject": "military radar",
+    "news_time": "2026-11-26T14:02:41+00:00"
+   },
+   "created_at": "2026-11-26T15:35:18.648448+00:00",
+   "news_time": "2026-11-26T14:02:41+00:00",
+   "news_latest": "2026-11-26T14:19:11+00:00",
+   "importance": 8,
+   "caption": "Poland creates border no-fly zone following drone incursions\n\nPoland plans to establish a no-fly zone near its Ukrainian border after experiencing several airspace incursions blamed on Russia. Meanwhile, Ukraine's air defences intercepted numerous missiles and drones, while Ukrainian strikes hit a chemical plant and a power station.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Poland #Ukraine #WorldNews #7SeasNews",
+   "photo_line": "📷 5/10 Warsaw skyline and bridge",
+   "status": "posted",
+   "tg_message_id": 1024,
+   "tg_file_id": "AgACAgUAAxkDAAIEAAFrCFG5-sDdJnSGQeHO4Hyni0pBCgAC2hFrG4iFSVRqMnHqWz3sdAEAAwIAA3cAAz0E",
+   "queued_at": "2026-11-26T15:35:21.575952+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-26T15:35:21.575985+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122112261915548584",
+   "posted_at": "2026-11-26T15:35:21.945725+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 26 · 10:35 AM New York · 9:05 PM Sri Lanka\n\n<b>Poland creates border no-fly zone following drone incursions</b>\n<i>Euronews, France 24</i>\n🟡 <b>Latest:</b> 7:49 PM Sri Lanka (1h 16m ago) · first reported 7:32 PM\n📷 5/10 Warsaw skyline and bridge\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112261915548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 733,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112261915548584_1159084847111227"
   }
  },
  "seen_links": [
-  "https://www.washingtonexaminer.com/news/house/4800597/thomas-massie-epstein-files-petition-vote/",
-  "https://thehill.com/homenews/house/6214408-massie-epstein-files-discharge-petition/",
   "https://www.cbsnews.com/news/epstein-files-bill-discharge-petition-thomas-massie/",
   "https://thehill.com/policy/energy-environment/6214369-home-heating-costs-rise/",
   "https://www.nytimes.com/2026/11/11/business/energy-environment/winter-heating-oil-costs.html",
@@ -10609,7 +10694,9 @@
   "https://www.france24.com/en/video/20261126-fighting-in-eastern-congo-forces-ebola-workers-to-evacuate-disrupts-outbreak-response",
   "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
   "https://www.aljazeera.com/news/2026/11/26/andalusia-offers-a-glimpse-of-spains-future-as-the-far-right-gains-ground?traffic_source=rss",
-  "https://abcnews.com/International/wireStory/spains-hasnt-governed-franco-immigration-fears-change-138466653"
+  "https://abcnews.com/International/wireStory/spains-hasnt-governed-franco-immigration-fears-change-138466653",
+  "https://www.france24.com/en/video/20261126-moscow-drone-incursions-poland-to-create-no-fly-zone-at-ukraine-border",
+  "https://www.euronews.com/2026/11/26/russia-launches-ballistic-missile-and-drone-barrage-on-ukraine-killing-at-least-three"
  ],
  "recent_topics": [
   [
@@ -13040,19 +13127,37 @@
     "worker"
    ],
    "87be1a7dc5"
+  ],
+  [
+   "2026-11-26T15:35:21.575803+00:00",
+   [
+    "ballistic",
+    "barrag",
+    "border",
+    "creat",
+    "dron",
+    "incursion",
+    "kill",
+    "launch",
+    "least",
+    "missil",
+    "moscow",
+    "no-fly",
+    "poland",
+    "russia",
+    "ukrain",
+    "zon"
+   ],
+   "cabe3a95b4"
   ]
  ],
- "last_draft_at": "2026-11-26T15:22:02.997859+00:00",
+ "last_draft_at": "2026-11-26T15:34:05.291359+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T14:58:07.852963+00:00",
  "run_log": [
-  "11-26 13:15:45 run start",
-  "11-26 13:15:54 listening 11 min",
-  "11-26 13:27:12 listening done",
-  "11-26 13:27:12 run end after 686 s",
   "11-26 13:30:52 run start",
   "11-26 13:32:05 listening 10 min",
   "11-26 13:42:35 listening done",
@@ -13088,12 +13193,15 @@
   "11-26 15:22:02 run start",
   "11-26 15:22:41 listening 11 min",
   "11-26 15:33:36 listening done",
-  "11-26 15:33:36 run end after 694 s"
+  "11-26 15:33:36 run end after 694 s",
+  "11-26 15:34:04 run start",
+  "11-26 15:35:38 listening 10 min",
+  "11-26 15:45:42 listening done",
+  "11-26 15:45:42 run end after 697 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Canberra_skyline%2C_York_Park_conservation_site%2C_The_National_Circuit%2C_Barton%2C_ACT_IMGP9718.jpg/1920px-Canberra_skyline%2C_York_Park_conservation_site%2C_The_National_Circuit%2C_Barton%2C_ACT_IMGP9718.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Senator_Dan_Sullivan_official.jpg/1280px-Senator_Dan_Sullivan_official.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Rep._Mary_Peltola_headshot_%28cropped%29.jpg/1280px-Rep._Mary_Peltola_headshot_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Cargo_ship_Lake_Victoria%2C_St._Johns_River.jpg/1920px-Cargo_ship_Lake_Victoria%2C_St._Johns_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -13132,7 +13240,8 @@
    "https://upload.wikimedia.org/wikipedia/commons/c/c0/Mother_Ukraine_blue_hour.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/2/2d/Al_Khoziny_Islamic_boarding_school_collapsed_during_evacuation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Cenotaph%2C_Whitehall_London_UK_Sun_7th_June_2020.jpg/1920px-Cenotaph%2C_Whitehall_London_UK_Sun_7th_June_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Buffalo_Nairobi_Skyline_Savannah_Kenya_May19_R1600769.jpg/1920px-Buffalo_Nairobi_Skyline_Savannah_Kenya_May19_R1600769.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Buffalo_Nairobi_Skyline_Savannah_Kenya_May19_R1600769.jpg/1920px-Buffalo_Nairobi_Skyline_Savannah_Kenya_May19_R1600769.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/e/e7/Warsaw_skyline_%C5%9Awi%C4%99tokrzyski_Bridge.jpg"
   ],
   "pools": {
    "howard lutnick": {
@@ -16379,21 +16488,6 @@
    "whitehall london"
   ],
   "checked": {
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/US_Navy_040221-N-4936C-032_Air_Traffic_Controller_1st_Class_Marcella_Klauser%2C_a_Facility_Watch_Supervisor_with_the_Air_Operations_Department%2C_communicates_with_an_aircraft_while_on_duty.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|7d09a2db": {
-    "s": 9,
-    "w": "air traffic controller at desk",
-    "p": ""
-   },
-   "https://upload.wikimedia.org/wikipedia/commons/3/3e/Joseph_Yieleh_Chireh_being_sworn_in_as_a_Member_of_Pan-African_Parliament.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled|6d549932": {
-    "s": 0,
-    "w": "parliament members sworn in",
-    "p": "shows a different country/parliament (Pan-African Parliament) instead of Serbia"
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/The_building_of_Serbian_Parliament_at_night%2C_October_13%2C_2012.jpg/1920px-The_building_of_Serbian_Parliament_at_night%2C_October_13%2C_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|6d549932": {
-    "s": 10,
-    "w": "Serbian parliament building at night",
-    "p": ""
-   },
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/1280px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Donald Trump": {
     "s": 10,
     "w": "Donald Trump portrait",
@@ -18878,6 +18972,21 @@
     "s": 4,
     "w": "street view in DR Congo",
     "p": "shows a calm downtown street instead of the Ebola response workers"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Hensoldt_Twinvis%2C_ILA_2018%2C_Schonefeld_%281X7A6906%29.jpg/1920px-Hensoldt_Twinvis%2C_ILA_2018%2C_Schonefeld_%281X7A6906%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|3b4e2032": {
+    "s": 6,
+    "w": "military radar vehicle with camouflage",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Cemetery_of_Polish_Soldiers_in_Wroc%C5%82aw_%28Breslau%29_01.JPG/1920px-Cemetery_of_Polish_Soldiers_in_Wroc%C5%82aw_%28Breslau%29_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|3b4e2032": {
+    "s": 0,
+    "w": "monument on hill",
+    "p": "photo shows a monument, not soldiers or military radar"
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/e/e7/Warsaw_skyline_%C5%9Awi%C4%99tokrzyski_Bridge.jpg|3b4e2032": {
+    "s": 5,
+    "w": "Warsaw skyline and bridge",
+    "p": ""
    }
   }
  },
@@ -18889,10 +18998,10 @@
   "2026-11-23": 20,
   "2026-11-24": 23,
   "2026-11-25": 29,
-  "2026-11-26": 11
+  "2026-11-26": 12
  },
- "last_auto_at": "2026-11-26T14:46:22.233078+00:00",
- "last_post_at": "2026-11-26T14:46:27.442109+00:00",
+ "last_auto_at": "2026-11-26T15:35:21.945725+00:00",
+ "last_post_at": "2026-11-26T15:35:27.667267+00:00",
  "reels_count": {
   "2026-11-20": 3,
   "2026-11-21": 3,
