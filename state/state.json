@@ -13125,17 +13125,13 @@
    "a2e6fdd2be"
   ]
  ],
- "last_draft_at": "2026-11-26T08:15:36.887380+00:00",
+ "last_draft_at": "2026-11-26T08:33:54.279160+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T08:00:42.175995+00:00",
  "run_log": [
-  "11-26 05:58:51 listening done",
-  "11-26 05:58:51 run end after 698 s",
-  "11-26 06:07:08 run start",
-  "11-26 06:08:17 listening 10 min",
   "11-26 06:18:45 listening done",
   "11-26 06:18:45 run end after 697 s",
   "11-26 06:19:12 run start",
@@ -13171,7 +13167,11 @@
   "11-26 08:15:36 run start",
   "11-26 08:16:09 listening 11 min",
   "11-26 08:27:02 listening done",
-  "11-26 08:27:02 run end after 686 s"
+  "11-26 08:27:02 run end after 686 s",
+  "11-26 08:33:54 run start",
+  "11-26 08:33:55 listening 11 min",
+  "11-26 08:45:38 listening done",
+  "11-26 08:45:38 run end after 704 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
