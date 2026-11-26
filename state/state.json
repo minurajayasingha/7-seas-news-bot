@@ -8143,12 +8143,101 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122112040401548584_999706329368905"
+  },
+  "664d271787": {
+   "id": "664d271787",
+   "headline": "FedEx cargo plane skids off runway at Miami airport",
+   "summary": "A FedEx cargo plane overshot a runway after landing at Miami International Airport on Wednesday night, according to officials. The incident prompted the Federal Aviation Administration to issue a brief ground stop on the day before the US Thanksgiving holiday.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "The Federal Aviation Administration placed the airport on a ground stop.",
+    "The ground stop began at 8:16 p.m. EST on Wednesday.",
+    "The event occurred on one of the busiest travel days of the year."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Miami",
+    "#FedEx",
+    "#Aviation"
+   ],
+   "sources": [
+    "BBC",
+    "UPI",
+    "Washington Examiner"
+   ],
+   "link": "https://www.upi.com/Top_News/US/2026/11/26/Miami-International-Airport-FedEx/5521795672514/",
+   "links": [
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/US/2026/11/26/Miami-International-Airport-FedEx/5521795672514/"
+    ],
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/policy/infrastructure/4816086/ground-stop-miami-airport-fedex-plane-overshoots-runway/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://live.staticflickr.com/8302/29096850880_5118b7fc91_b.jpg",
+      "credit": "HRYMX / Flickr (CC BY 2.0)",
+      "short": "FLICKR",
+      "score": 6,
+      "shows": "Miami skyline at night"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "FedEx cargo plane skids off runway at Miami airport",
+    "people": [],
+    "image_query": "Miami International Airport",
+    "image_queries": [
+     "cargo airplane",
+     "airport runway",
+     "control tower",
+     "airplane landing"
+    ],
+    "image_style": "incident",
+    "location": "Miami, Florida",
+    "nearby_city": "Miami, Florida",
+    "event_query": "Miami airport runway incident",
+    "topic_photo": "airport runway",
+    "label": "WORLD",
+    "action_subject": "cargo plane on runway",
+    "news_time": "2026-11-26T02:21:38+00:00"
+   },
+   "created_at": "2026-11-26T06:42:46.927098+00:00",
+   "news_time": "2026-11-26T02:21:38+00:00",
+   "news_latest": "2026-11-26T06:25:20+00:00",
+   "importance": 6,
+   "caption": "FedEx cargo plane skids off runway at Miami airport\n\nA FedEx cargo plane overshot a runway after landing at Miami International Airport on Wednesday night, according to officials. The incident prompted the Federal Aviation Administration to issue a brief ground stop on the day before the US Thanksgiving holiday.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Miami #FedEx #Aviation #7SeasNews",
+   "photo_line": "📷 6/10 Miami skyline at night",
+   "status": "posted",
+   "tg_message_id": 1012,
+   "tg_file_id": "AgACAgUAAxkDAAID9GsH1Oi-2xRzdVpO2z2lruM2medcAAJkE2sbr_w5VGLthhXggcLzAQADAgADdwADPQQ",
+   "queued_at": "2026-11-26T06:42:48.815920+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-26T06:42:48.815940+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122112049593548584",
+   "posted_at": "2026-11-26T06:42:49.132845+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 26 · 1:42 AM New York · 12:12 PM Sri Lanka\n\n<b>FedEx cargo plane skids off runway at Miami airport</b>\n<i>BBC, UPI, Washington Examiner</i>\n🟢 <b>Latest:</b> 11:55 AM Sri Lanka (17 min ago) · first reported 7:51 AM\n📷 6/10 Miami skyline at night\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112049593548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 720,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112049593548584_1084410864645476"
   }
  },
  "seen_links": [
-  "https://www.independent.co.uk/news/world/americas/us-politics/trump-new-york-times-meltdown-b3083235.html",
-  "https://thehill.com/homenews/administration/6212987-trump-ny-times-bedminster-lawsuit-c-span/",
-  "https://www.washingtonexaminer.com/news/crime/4800155/los-angeles-police-arrest-dui-driver-murder-charge-fatal-collision/",
   "https://www.independent.co.uk/news/world/americas/crime/metro-station-crash-ihor-demianenko-murder-charges-los-angeles-b3083263.html",
   "https://www.washingtonpost.com/politics/2026/11/11/final-mississippi-senate-race-ballots-being-counted-scott-colom-holds-lead/",
   "https://www.newsweek.com/chuck-schumer-senate-majority-leadership-democrats-12700175",
@@ -10145,7 +10234,10 @@
   "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss",
   "https://abcnews.com/International/wireStory/puerto-ricos-supreme-court-cancels-key-power-contract-138448039",
   "https://www.euronews.com/2026/11/26/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture",
-  "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss"
+  "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
+  "https://www.upi.com/Top_News/US/2026/11/26/Miami-International-Airport-FedEx/5521795672514/",
+  "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+  "https://www.washingtonexaminer.com/policy/infrastructure/4816086/ground-stop-miami-airport-fedex-plane-overshoots-runway/"
  ],
  "recent_topics": [
   [
@@ -12560,17 +12652,36 @@
     "widen"
    ],
    "c0ade1d381"
+  ],
+  [
+   "2026-11-26T06:42:48.815787+00:00",
+   [
+    "airport",
+    "briefly",
+    "caus",
+    "delay",
+    "fedex",
+    "flight",
+    "ground",
+    "issu",
+    "miami",
+    "overshoot",
+    "plan",
+    "runway",
+    "skid",
+    "stop",
+    "suspend"
+   ],
+   "664d271787"
   ]
  ],
- "last_draft_at": "2026-11-26T06:19:12.761578+00:00",
+ "last_draft_at": "2026-11-26T06:41:24.790862+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T06:07:08.582477+00:00",
  "run_log": [
-  "11-26 04:19:04 run start",
-  "11-26 04:19:14 listening 11 min",
   "11-26 04:30:33 listening done",
   "11-26 04:30:33 run end after 688 s",
   "11-26 04:31:38 run start",
@@ -12608,12 +12719,13 @@
   "11-26 06:19:12 run start",
   "11-26 06:19:22 listening 11 min",
   "11-26 06:30:41 listening done",
-  "11-26 06:30:41 run end after 688 s"
+  "11-26 06:30:41 run end after 688 s",
+  "11-26 06:41:24 run start",
+  "11-26 06:43:03 listening 10 min"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/USS_Lake_Erie_%28CG_70%29_missile_test.jpg/1920px-USS_Lake_Erie_%28CG_70%29_missile_test.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/1280px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_02.jpg/1920px-A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Nidal_Hasan%2C_2007.jpg/1280px-Nidal_Hasan%2C_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -12652,7 +12764,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Benjamin_Netanyahu%2C_February_2023_%28cropped%29%28b%29.jpg/1280px-Benjamin_Netanyahu%2C_February_2023_%28cropped%29%28b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/0/0a/Courtroom_at_the_United_States_Courthouse_in_Augusta%2C_GA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Skyline_of_San_Juan%2C_Puerto_Rico_%282016%29.jpg/1920px-Skyline_of_San_Juan%2C_Puerto_Rico_%282016%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/6/6e/Kim_Jong-un_April_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/6/6e/Kim_Jong-un_April_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://live.staticflickr.com/8302/29096850880_5118b7fc91_b.jpg"
   ],
   "pools": {
    "howard lutnick": {
@@ -15899,21 +16012,6 @@
    "courtroom"
   ],
   "checked": {
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
-    "s": 10,
-    "w": "Thurgood Marshall Federal Judiciary Buil",
-    "p": ""
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Ro_khanna_2026-02-20_002_%28cropped%29.jpg/1280px-Ro_khanna_2026-02-20_002_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Ro Khanna": {
-    "s": 10,
-    "w": "Ro Khanna speaking into microphone",
-    "p": ""
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Border_police_car_PD_2011_3646.JPG/1920px-Border_police_car_PD_2011_3646.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
-    "s": 0,
-    "w": "Bulgarian border police car",
-    "p": "photo is about a police car, story is about a cargo ship"
-   },
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Haskovska_reka%2C_Haskovo_downtown%2C_Bulgaria.jpg/1920px-Haskovska_reka%2C_Haskovo_downtown%2C_Bulgaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "s": 7,
     "w": "Bulgaria downtown riverbed",
@@ -18398,6 +18496,21 @@
     "s": 10,
     "w": "Kim Jong Un",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Blacksburg_Volunteer_Rescue_Squad_ambulance.jpg/1920px-Blacksburg_Volunteer_Rescue_Squad_ambulance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|836b6d9a": {
+    "s": 0,
+    "w": "an ambulance on grass",
+    "p": "shows an ambulance instead of a cargo plane"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Boeing_767-304ER_-_G-OBYF_from_TUI_Airways_on_runway_at_LFBT_airport_with_Pic_du_Midi_de_Bigorre_in_background.jpg/1920px-Boeing_767-304ER_-_G-OBYF_from_TUI_Airways_on_runway_at_LFBT_airport_with_Pic_du_Midi_de_Bigorre_in_background.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|836b6d9a": {
+    "s": 5,
+    "w": "airplane on a runway",
+    "p": "Generic plane, not a cargo plane at Miami"
+   },
+   "https://live.staticflickr.com/8302/29096850880_5118b7fc91_b.jpg|836b6d9a": {
+    "s": 6,
+    "w": "Miami skyline at night",
+    "p": ""
    }
   }
  },
@@ -18409,10 +18522,10 @@
   "2026-11-23": 20,
   "2026-11-24": 23,
   "2026-11-25": 29,
-  "2026-11-26": 2
+  "2026-11-26": 3
  },
- "last_auto_at": "2026-11-26T06:08:04.117862+00:00",
- "last_post_at": "2026-11-26T06:08:08.740713+00:00",
+ "last_auto_at": "2026-11-26T06:42:49.132845+00:00",
+ "last_post_at": "2026-11-26T06:42:53.781307+00:00",
  "reels_count": {
   "2026-11-19": 3,
   "2026-11-20": 3,
