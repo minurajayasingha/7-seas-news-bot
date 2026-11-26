@@ -9261,8 +9261,6 @@
   }
  },
  "seen_links": [
-  "https://www.foxnews.com/politics/florida-city-gop-backed-dei-law-blocks-st-patricks-parade-pride-event",
-  "https://www.independent.co.uk/news/world/americas/delray-beach-st-patricks-day-pride-b3083607.html",
   "https://www.independent.co.uk/news/world/americas/brooklyn-building-collapse-pregnant-woman-b3083626.html",
   "https://www.euronews.com/video/2026/11/12/us-survivor-pulled-alive-from-rubble-after-deadly-brooklyn-collapse",
   "https://www.washingtonexaminer.com/opinion/editorials/4800290/jim-jordan-fits-the-fight-ahead/",
@@ -11260,7 +11258,9 @@
   "https://thehill.com/policy/energy-environment/6244772-lead-azide-airborne-epa-lee-zeldin/",
   "https://www.washingtonexaminer.com/policy/energy-and-environment/4816248/lee-zeldin-epa-collected-post-detonation-samples-iowa/",
   "https://www.independent.co.uk/news/world/americas/us-politics/vance-obama-iowa-lead-explosion-azide-b3092309.html",
-  "https://www.nbcnews.com/news/us-news/army-says-detonation-bomb-chemicals-iowa-success-rcna611434"
+  "https://www.nbcnews.com/news/us-news/army-says-detonation-bomb-chemicals-iowa-success-rcna611434",
+  "https://www.nytimes.com/2026/11/26/us/politics/thanksgiving-wisconsin-governor-francesca-hong.html",
+  "https://www.washingtonexaminer.com/news/entertainment/4816246/francesca-hong-thanksgiving-menu-holiday-controversy/"
  ],
  "recent_topics": [
   [
@@ -13947,19 +13947,35 @@
     "zeldin"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-26T21:30:52.543416+00:00",
+   [
+    "back",
+    "campaign",
+    "candidat",
+    "controversy",
+    "dogg",
+    "fail",
+    "francesca",
+    "governor",
+    "holiday",
+    "hong",
+    "menu",
+    "reveal",
+    "thanksgiv",
+    "wisconsin"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-26T21:15:33.875009+00:00",
+ "last_draft_at": "2026-11-26T21:30:41.720954+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T21:00:50.582522+00:00",
  "run_log": [
-  "11-26 19:00:43 run start",
-  "11-26 19:01:43 listening 10 min",
-  "11-26 19:12:12 listening done",
-  "11-26 19:12:12 run end after 689 s",
   "11-26 19:16:09 run start",
   "11-26 19:17:31 listening 10 min",
   "11-26 19:27:59 listening done",
@@ -13995,7 +14011,11 @@
   "11-26 21:15:33 run start",
   "11-26 21:15:43 listening 11 min",
   "11-26 21:27:01 listening done",
-  "11-26 21:27:01 run end after 687 s"
+  "11-26 21:27:01 run end after 687 s",
+  "11-26 21:30:41 run start",
+  "11-26 21:30:52 listening 11 min",
+  "11-26 21:42:11 listening done",
+  "11-26 21:42:11 run end after 690 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
