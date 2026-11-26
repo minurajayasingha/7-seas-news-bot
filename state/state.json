@@ -7275,8 +7275,6 @@
   }
  },
  "seen_links": [
-  "https://www.upi.com/Top_News/US/2026/11/11/judge-advances-Trump-Bdefamatino-lawsuit/6831794386951/",
-  "https://news.sky.com/story/bbc-bid-to-throw-out-donald-trumps-defamation-case-dismissed-in-court-13610819",
   "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike",
   "https://www.france24.com/en/europe/20261111-spain-general-strike-puts-housing-crisis-centre-upcoming-elections",
   "https://www.independent.co.uk/news/world/americas/us-politics/megaspeed-ai-nvidia-alice-jensen-huang-b3082926.html",
@@ -9274,7 +9272,9 @@
   "https://www.washingtonpost.com/entertainment/music/2026/11/25/andy-taylor-versatile-guitarist-duran-duran-dies-65/",
   "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead",
   "https://thehill.com/regulation/court-battles/6244110-judge-blocks-ballot-return/",
-  "https://www.nbcnews.com/politics/elections/judge-halts-order-fulton-county-copies-2020-ballots-georgia-election-rcna611353"
+  "https://www.nbcnews.com/politics/elections/judge-halts-order-fulton-county-copies-2020-ballots-georgia-election-rcna611353",
+  "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
+  "https://www.france24.com/en/france/20261125-french-milei-presidential-candidate-david-lisnard-aims-reshape-france-right-wing"
  ],
  "recent_topics": [
   [
@@ -11540,19 +11540,38 @@
     "turn"
    ],
    "7341fbff6e"
+  ],
+  [
+   "2026-11-26T00:45:54.933776+00:00",
+   [
+    "aim",
+    "candidat",
+    "clear",
+    "david",
+    "debacl",
+    "franc",
+    "french",
+    "lisnard",
+    "mainstream",
+    "milei",
+    "political",
+    "presidential",
+    "reshap",
+    "right",
+    "risk",
+    "vot",
+    "wing"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-26T00:30:48.158995+00:00",
+ "last_draft_at": "2026-11-26T00:45:34.073713+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T00:00:47.961004+00:00",
  "run_log": [
-  "11-25 22:30:39 run start",
-  "11-25 22:32:07 listening 10 min",
-  "11-25 22:42:11 listening done",
-  "11-25 22:42:11 run end after 691 s",
   "11-25 22:45:34 run start",
   "11-25 22:46:07 listening 11 min",
   "11-25 22:57:00 listening done",
@@ -11588,7 +11607,11 @@
   "11-26 00:30:47 run start",
   "11-26 00:31:21 listening 11 min",
   "11-26 00:42:16 listening done",
-  "11-26 00:42:16 run end after 688 s"
+  "11-26 00:42:16 run end after 688 s",
+  "11-26 00:45:33 run start",
+  "11-26 00:45:54 listening 11 min",
+  "11-26 00:57:14 listening done",
+  "11-26 00:57:14 run end after 700 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
