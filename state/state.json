@@ -10625,32 +10625,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-23T10:50:52.402298+00:00",
-   [
-    "back",
-    "coin",
-    "conflict",
-    "crypto",
-    "dinner",
-    "gala",
-    "guest",
-    "hit",
-    "host",
-    "interest",
-    "low",
-    "mem",
-    "outcry",
-    "record",
-    "stat",
-    "tell",
-    "third",
-    "token",
-    "trump",
-    "unit"
-   ],
-   "e2be825e0d"
-  ],
-  [
    "2026-11-23T11:15:52.275912+00:00",
    [
     "authority",
@@ -13124,17 +13098,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-26T10:30:43.390670+00:00",
+ "last_draft_at": "2026-11-26T10:45:41.825301+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T10:00:46.150926+00:00",
  "run_log": [
-  "11-26 08:15:36 run start",
-  "11-26 08:16:09 listening 11 min",
-  "11-26 08:27:02 listening done",
-  "11-26 08:27:02 run end after 686 s",
   "11-26 08:33:54 run start",
   "11-26 08:33:55 listening 11 min",
   "11-26 08:45:38 listening done",
@@ -13170,7 +13140,11 @@
   "11-26 10:30:42 run start",
   "11-26 10:30:52 listening 11 min",
   "11-26 10:42:13 listening done",
-  "11-26 10:42:13 run end after 690 s"
+  "11-26 10:42:13 run end after 690 s",
+  "11-26 10:45:41 run start",
+  "11-26 10:46:01 listening 11 min",
+  "11-26 10:57:22 listening done",
+  "11-26 10:57:22 run end after 700 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
