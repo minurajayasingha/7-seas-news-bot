@@ -13151,17 +13151,13 @@
    "cabe3a95b4"
   ]
  ],
- "last_draft_at": "2026-11-26T15:34:05.291359+00:00",
+ "last_draft_at": "2026-11-26T15:46:13.471695+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T14:58:07.852963+00:00",
  "run_log": [
-  "11-26 13:30:52 run start",
-  "11-26 13:32:05 listening 10 min",
-  "11-26 13:42:35 listening done",
-  "11-26 13:42:35 run end after 702 s",
   "11-26 13:45:38 run start",
   "11-26 13:45:58 listening 11 min",
   "11-26 13:57:18 listening done",
@@ -13197,7 +13193,11 @@
   "11-26 15:34:04 run start",
   "11-26 15:35:38 listening 10 min",
   "11-26 15:45:42 listening done",
-  "11-26 15:45:42 run end after 697 s"
+  "11-26 15:45:42 run end after 697 s",
+  "11-26 15:46:13 run start",
+  "11-26 15:46:46 listening 11 min",
+  "11-26 15:57:40 listening done",
+  "11-26 15:57:40 run end after 686 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
