@@ -1,100 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "37422c4f45": {
-   "id": "37422c4f45",
-   "headline": "Poland says Russia tried to kill Ukrainian American rapper",
-   "summary": "Poland states that Russia made two attempts to target a Ukrainian American rapper. Meanwhile, officials report that Russian attacks in Ukraine killed seven people.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "Denmark expelled a Russian official after thwarting an alleged plot.",
-    "Three Russian attacks killed at least six people near Kyiv.",
-    "Overnight Russian shelling killed one person in Zaporizhzhia."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Poland",
-    "#Ukraine",
-    "#Russia"
-   ],
-   "sources": [
-    "ABC News",
-    "Al Jazeera"
-   ],
-   "link": "https://abcnews.com/International/wireStory/poland-russia-allegedly-kill-ukrainian-american-rapper-138362108",
-   "links": [
-    [
-     "ABC News",
-     "https://abcnews.com/International/wireStory/poland-russia-allegedly-kill-ukrainian-american-rapper-138362108"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Stugna_100mm_guided_missile_01.jpg/1920px-Stugna_100mm_guided_missile_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "VoidWanderer / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 8,
-      "shows": "missile"
-     }
-    ],
-    "file_photo": true
-   },
-   "img_post": {
-    "headline": "Poland says Russia tried to kill Ukrainian American rapper",
-    "people": [],
-    "image_query": "Kyiv city",
-    "image_queries": [
-     "Warsaw city",
-     "Copenhagen city",
-     "Zaporizhzhia city",
-     "Ukraine parliament building"
-    ],
-    "image_style": "incident",
-    "location": "Kyiv, Ukraine",
-    "nearby_city": "Kyiv, Ukraine",
-    "event_query": "Kyiv missile attack",
-    "topic_photo": "missile launcher",
-    "label": "CONFLICT",
-    "action_subject": "missile launch",
-    "news_time": "2026-11-22T14:48:50+00:00"
-   },
-   "created_at": "2026-11-22T19:16:26.855641+00:00",
-   "news_time": "2026-11-22T14:48:50+00:00",
-   "news_latest": "2026-11-22T19:03:29+00:00",
-   "importance": 8,
-   "caption": "Poland says Russia tried to kill Ukrainian American rapper\n\nPoland states that Russia made two attempts to target a Ukrainian American rapper. Meanwhile, officials report that Russian attacks in Ukraine killed seven people.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Poland #Ukraine #Russia #7SeasNews",
-   "photo_line": "📷 8/10 missile · FILE PHOTO",
-   "status": "posted",
-   "tg_message_id": 917,
-   "tg_file_id": "AgACAgUAAxkDAAIDlWsDP4w1Lo3_ZBztpDHFS3lOh8L3AAKxFWsboQ8ZVGPyu1sIQTYQAQADAgADdwADPQQ",
-   "queued_at": "2026-11-22T19:16:28.604163+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-22T19:16:28.604185+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122109734103548584",
-   "posted_at": "2026-11-22T19:16:28.881139+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 22 · 2:16 PM New York · 12:46 AM Sri Lanka\n\n<b>Poland says Russia tried to kill Ukrainian American rapper</b>\n<i>ABC News, Al Jazeera</i>\n🟢 <b>Latest:</b> 12:33 AM Sri Lanka (13 min ago) · first reported 8:18 PM\n📷 8/10 missile · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122109734103548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 624,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122109734103548584_1586828803215763",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-25T19:02:48.132079+00:00"
-  },
   "253835a25b": {
    "id": "253835a25b",
    "headline": "New York City releases 84,000 more 9/11 records",
@@ -9147,13 +9053,104 @@
     "shares": 0
    },
    "stats_at": "2026-11-26T19:00:43.687278+00:00"
+  },
+  "8aaa9aec30": {
+   "id": "8aaa9aec30",
+   "headline": "Ukraine intelligence says North Korea halts military aid to Russia",
+   "summary": "According to Ukrainian intelligence, North Korea has paused its military aid to Russia. Meanwhile, Ukraine has repatriated 250 bodies that Russia stated belong to Ukrainian soldiers.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Ukraine struck two Russian oil facilities and an airfield in Volgograd Oblast.",
+    "Dozens of Brazilians were reportedly lured to fight for Russia.",
+    "The General Staff confirmed the strikes."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#UkraineWar",
+    "#Russia",
+    "#NorthKorea"
+   ],
+   "sources": [
+    "Kyiv Independent",
+    "New York Times"
+   ],
+   "link": "https://kyivindependent.com/ukraine-war-latest-north-korea-halts-military-aid-to-russia-ukrainian-intelligence-says/",
+   "links": [
+    [
+     "Kyiv Independent",
+     "https://kyivindependent.com/ukraine-war-latest-north-korea-halts-military-aid-to-russia-ukrainian-intelligence-says/"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html"
+    ],
+    [
+     "Kyiv Independent",
+     "https://kyivindependent.com/ukraine-receives-remains-of-250-people-returns-22-russian-soldiers-remains-in-repatriation-2/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Kyiv_skyline_%2815688086793%29.jpg/1920px-Kyiv_skyline_%2815688086793%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Sergey Galyonkin from Raleigh, USA / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 5,
+      "shows": "Kyiv skyline at dawn"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Ukraine intelligence says North Korea halts military aid to Russia",
+    "people": [],
+    "image_query": "Kyiv city",
+    "image_queries": [
+     "oil facility",
+     "military airfield",
+     "border checkpoint",
+     "government building"
+    ],
+    "image_style": "incident",
+    "location": "Kyiv, Ukraine",
+    "nearby_city": "Kyiv, Ukraine",
+    "event_query": "Ukraine war military aid",
+    "topic_photo": "oil refinery",
+    "label": "CONFLICT",
+    "action_subject": "missile launch",
+    "news_time": "2026-11-26T13:50:28+00:00"
+   },
+   "created_at": "2026-11-26T19:17:13.930896+00:00",
+   "news_time": "2026-11-26T13:50:28+00:00",
+   "news_latest": "2026-11-26T19:02:25+00:00",
+   "importance": 8,
+   "caption": "Ukraine intelligence says North Korea halts military aid to Russia\n\nAccording to Ukrainian intelligence, North Korea has paused its military aid to Russia. Meanwhile, Ukraine has repatriated 250 bodies that Russia stated belong to Ukrainian soldiers.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#UkraineWar #Russia #NorthKorea #7SeasNews",
+   "photo_line": "📷 5/10 Kyiv skyline at dawn",
+   "status": "posted",
+   "tg_message_id": 1034,
+   "tg_file_id": "AgACAgUAAxkDAAIECmsIhbsJj7z6DJd5QfbCJtNQ2QdDAAIZEmsbiIVJVMPAkqPC-Kx4AQADAgADdwADPQQ",
+   "queued_at": "2026-11-26T19:17:15.777191+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-26T19:17:15.777209+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122112341871548584",
+   "posted_at": "2026-11-26T19:17:16.060439+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 26 · 2:17 PM New York · 12:47 AM Sri Lanka\n\n<b>Ukraine intelligence says North Korea halts military aid to Russia</b>\n<i>Kyiv Independent, New York Times</i>\n🟢 <b>Latest:</b> 12:32 AM Sri Lanka (14 min ago) · first reported 7:20 PM\n📷 5/10 Kyiv skyline at dawn\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112341871548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 742,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112341871548584_1842469130402579"
   }
  },
  "seen_links": [
-  "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss",
-  "https://abcnews.com/International/wireStory/missing-teen-found-alive-after-6-days-australian-138068466",
-  "https://www.independent.co.uk/news/world/australasia/australia-victoria-bushland-teen-william-b3083555.html",
-  "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
   "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush",
   "https://www.euronews.com/2026/11/12/nvidia-board-weighs-jensen-huangs-future-as-reports-emerge-of-second-affair",
   "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
@@ -11149,7 +11146,11 @@
   "https://thehill.com/policy/technology/6244786-fifa-cyberattack-personal-data/",
   "https://www.dw.com/en/fifa-says-a-cyberattack-against-it-targeted-a-limited-set-of-personal-and-business-information/a-80062660?maca=en-rss-en-world-4025-rdf",
   "https://abcnews.com/International/wireStory/schizophrenic-man-found-guilty-attempted-murders-14-people-138470756",
-  "https://www.theguardian.com/uk-news/2026/nov/26/anthony-williams-guilty-attempted-murder-lner-train"
+  "https://www.theguardian.com/uk-news/2026/nov/26/anthony-williams-guilty-attempted-murder-lner-train",
+  "https://kyivindependent.com/ukraine-war-latest-north-korea-halts-military-aid-to-russia-ukrainian-intelligence-says/",
+  "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html",
+  "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html",
+  "https://kyivindependent.com/ukraine-receives-remains-of-250-people-returns-22-russian-soldiers-remains-in-repatriation-2/"
  ],
  "recent_topics": [
   [
@@ -13804,19 +13805,45 @@
     "train"
    ],
    "d7835cf83d"
+  ],
+  [
+   "2026-11-26T19:17:15.777082+00:00",
+   [
+    "250",
+    "aid",
+    "belong",
+    "body",
+    "brazilian",
+    "claim",
+    "dup",
+    "fight",
+    "halt",
+    "hell",
+    "high",
+    "intelligenc",
+    "korea",
+    "lur",
+    "military",
+    "north",
+    "repatriat",
+    "russia",
+    "salary",
+    "soldier",
+    "som",
+    "ukrain",
+    "ukrainian",
+    "war"
+   ],
+   "8aaa9aec30"
   ]
  ],
- "last_draft_at": "2026-11-26T19:01:11.263769+00:00",
+ "last_draft_at": "2026-11-26T19:16:09.338552+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T19:00:43.687278+00:00",
  "run_log": [
-  "11-26 16:45:44 run start",
-  "11-26 16:47:23 listening 10 min",
-  "11-26 16:57:27 listening done",
-  "11-26 16:57:27 run end after 702 s",
   "11-26 17:00:44 run start",
   "11-26 17:02:40 listening 10 min",
   "11-26 17:12:18 listening done",
@@ -13852,12 +13879,15 @@
   "11-26 19:00:43 run start",
   "11-26 19:01:43 listening 10 min",
   "11-26 19:12:12 listening done",
-  "11-26 19:12:12 run end after 689 s"
+  "11-26 19:12:12 run end after 689 s",
+  "11-26 19:16:09 run start",
+  "11-26 19:17:31 listening 10 min",
+  "11-26 19:27:59 listening done",
+  "11-26 19:27:59 run end after 709 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Searching_for_drugs_-_Colombia_police_%2852416691912%29.jpg/1920px-Searching_for_drugs_-_Colombia_police_%2852416691912%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Yemeni_soldiers_from_the_1st_Armoured_Division.JPG/1920px-Yemeni_soldiers_from_the_1st_Armoured_Division.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Gadi_Eisenkot_2_%28cropped%29_3x4.jpg/1280px-Gadi_Eisenkot_2_%28cropped%29_3x4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/7/77/Chen_Jining_2019.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -13896,7 +13926,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Kuwait_City_Arabian_Gulf_Street_08.jpg/1920px-Kuwait_City_Arabian_Gulf_Street_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/AC_SO_Karlspreisverleihung_2026_14._Mai_Dom_Christine_Lagarde_und_Michael_Ziemons_II.jpg/1280px-AC_SO_Karlspreisverleihung_2026_14._Mai_Dom_Christine_Lagarde_und_Michael_Ziemons_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/7/7b/Hong_Kong_Skyline_%28108827031%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/7/7b/Hong_Kong_Skyline_%28108827031%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Kyiv_skyline_%2815688086793%29.jpg/1920px-Kyiv_skyline_%2815688086793%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -17199,21 +17230,6 @@
    "marriner s. eccles federal reserve board building"
   ],
   "checked": {
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/WikimediaServersOct07_1.JPG/1920px-WikimediaServersOct07_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|2e5ea95a": {
-    "s": 10,
-    "w": "computer servers",
-    "p": ""
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Saracen_personnel_carrier.jpg/1920px-Saracen_personnel_carrier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|eabfb205": {
-    "s": 0,
-    "w": "interior of military vehicle",
-    "p": "Photo shows the interior of an empty military vehicle, not military personnel."
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Beverley_Guildhall_Courtroom.jpg/1920px-Beverley_Guildhall_Courtroom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|eabfb205": {
-    "s": 0,
-    "w": "courtroom interior",
-    "p": "photo is a generic courtroom interior, missing the suspect or military personnel"
-   },
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Supreme_Court_of_the_United_Kingdom_Stairwell_2%2C_London%2C_UK_-_Diliff.jpg/1920px-Supreme_Court_of_the_United_Kingdom_Stairwell_2%2C_London%2C_UK_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|eabfb205": {
     "s": 0,
     "w": "ornate indoor staircase",
@@ -19698,6 +19714,21 @@
     "s": 0,
     "w": "Winston Churchill statue",
     "p": "Photo shows a statue, not police officers or the train attack."
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Stugna_01.jpg/1920px-Stugna_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|1fb39894": {
+    "s": 6,
+    "w": "missiles on display",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/61-220-0366_Sadky_UPA_Soldiers_Mass_Grave_RB.jpg/1920px-61-220-0366_Sadky_UPA_Soldiers_Mass_Grave_RB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|1fb39894": {
+    "s": 2,
+    "w": "memorial mound with stairs",
+    "p": "photo shows memorial instead of soldiers"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Kyiv_skyline_%2815688086793%29.jpg/1920px-Kyiv_skyline_%2815688086793%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|1fb39894": {
+    "s": 5,
+    "w": "Kyiv skyline at dawn",
+    "p": "shows a calm skyline instead of the specific action of the story"
    }
   }
  },
@@ -19709,10 +19740,10 @@
   "2026-11-23": 20,
   "2026-11-24": 23,
   "2026-11-25": 29,
-  "2026-11-26": 18
+  "2026-11-26": 19
  },
- "last_auto_at": "2026-11-26T18:48:00.614692+00:00",
- "last_post_at": "2026-11-26T18:48:07.916913+00:00",
+ "last_auto_at": "2026-11-26T19:17:16.060439+00:00",
+ "last_post_at": "2026-11-26T19:17:20.918490+00:00",
  "reels_count": {
   "2026-11-20": 3,
   "2026-11-21": 3,
