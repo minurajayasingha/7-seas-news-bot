@@ -9261,11 +9261,6 @@
   }
  },
  "seen_links": [
-  "https://abcnews.com/International/wireStory/ireland-faces-pressure-stop-sending-russia-ingredient-vital-138069912",
-  "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-  "https://abcnews.com/International/wireStory/indonesias-vice-president-resigns-eligibility-academic-credentials-questioned-138069107",
-  "https://www.nytimes.com/2026/11/12/world/asia/indonesia-gibran-vice-president-resign.html",
-  "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss",
   "https://www.foxnews.com/politics/florida-city-gop-backed-dei-law-blocks-st-patricks-parade-pride-event",
   "https://www.independent.co.uk/news/world/americas/delray-beach-st-patricks-day-pride-b3083607.html",
   "https://www.independent.co.uk/news/world/americas/brooklyn-building-collapse-pregnant-woman-b3083626.html",
@@ -11260,7 +11255,12 @@
   "https://www.newsweek.com/pentagon-denies-pete-hegseth-floated-wartime-law-to-pressure-nvidia-12770979",
   "https://www.independent.co.uk/news/world/americas/us-politics/pete-hegseth-jensen-huang-nvidia-b3092097.html",
   "https://thehill.com/homenews/administration/6244831-trump-thanksgiving-message-critics-gdp-somali-community/",
-  "https://www.newsweek.com/zohran-mamdani-and-trumps-very-different-economic-messages-on-thanksgiving-12771787"
+  "https://www.newsweek.com/zohran-mamdani-and-trumps-very-different-economic-messages-on-thanksgiving-12771787",
+  "https://www.upi.com/Top_News/US/2026/11/26/iowa-army-lead-detonation/7841795722702/",
+  "https://thehill.com/policy/energy-environment/6244772-lead-azide-airborne-epa-lee-zeldin/",
+  "https://www.washingtonexaminer.com/policy/energy-and-environment/4816248/lee-zeldin-epa-collected-post-detonation-samples-iowa/",
+  "https://www.independent.co.uk/news/world/americas/us-politics/vance-obama-iowa-lead-explosion-azide-b3092309.html",
+  "https://www.nbcnews.com/news/us-news/army-says-detonation-bomb-chemicals-iowa-success-rcna611434"
  ],
  "recent_topics": [
   [
@@ -13956,19 +13956,52 @@
     "zohran"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-26T20:15:56.917563+00:00",
+   [
+    "1000",
+    "airborn",
+    "announc",
+    "army",
+    "backlash",
+    "blam",
+    "blast",
+    "chemical",
+    "chief",
+    "collection",
+    "detect",
+    "detonation",
+    "epa",
+    "expect",
+    "fear",
+    "friday",
+    "iowa",
+    "lead",
+    "linger",
+    "mark",
+    "obama",
+    "post-detonation",
+    "resident",
+    "result",
+    "sampl",
+    "shredd",
+    "thanksgiv",
+    "toxic",
+    "try",
+    "vanc",
+    "zeldin"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-26T20:01:29.234224+00:00",
+ "last_draft_at": "2026-11-26T20:15:38.219511+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T20:00:50.097859+00:00",
  "run_log": [
-  "11-26 17:45:37 run start",
-  "11-26 17:46:18 listening 11 min",
-  "11-26 17:57:13 listening done",
-  "11-26 17:57:13 run end after 696 s",
   "11-26 18:01:03 run start",
   "11-26 18:01:56 listening 11 min",
   "11-26 18:12:50 listening done",
@@ -14004,7 +14037,11 @@
   "11-26 20:00:49 run start",
   "11-26 20:01:44 listening 11 min",
   "11-26 20:12:14 listening done",
-  "11-26 20:12:14 run end after 685 s"
+  "11-26 20:12:14 run end after 685 s",
+  "11-26 20:15:37 run start",
+  "11-26 20:15:56 listening 11 min",
+  "11-26 20:27:17 listening done",
+  "11-26 20:27:17 run end after 700 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
