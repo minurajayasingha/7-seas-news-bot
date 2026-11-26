@@ -8335,13 +8335,189 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122112056085548584_1654681466121912"
+  },
+  "eb6f642efd": {
+   "id": "eb6f642efd",
+   "headline": "Elon Musk pledges two SpaceX shares for every US child",
+   "summary": "SpaceX founder and CEO Elon Musk stated that every child in the United States will receive two shares in his company. The giveaway doubles a previous commitment made by Musk.",
+   "label": "ECONOMY",
+   "hook": "",
+   "key_points": [
+    "The pledge was announced in a post to X.",
+    "Musk stated one share is from the company and one personally.",
+    "The giveaway is estimated to be worth over $18 billion."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#SpaceX",
+    "#ElonMusk",
+    "#Economy"
+   ],
+   "sources": [
+    "Axios",
+    "UPI"
+   ],
+   "link": "https://www.upi.com/Top_News/US/2026/11/26/Elon-Musk-SpaceX-shares/9281795674997/",
+   "links": [
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/US/2026/11/26/Elon-Musk-SpaceX-shares/9281795674997/"
+    ],
+    [
+     "Axios",
+     "https://www.axios.com/2026/11/26/musk-spacex-shares-trump-accounts"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg/1280px-Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "Elon Musk portrait"
+     }
+    ],
+    "_loaded": 1
+   },
+   "img_post": {
+    "headline": "Elon Musk pledges two SpaceX shares for every US child",
+    "people": [
+     "Elon Musk"
+    ],
+    "image_query": "SpaceX headquarters building",
+    "image_queries": [
+     "SpaceX rocket launch",
+     "SpaceX starbase",
+     "SpaceX logo",
+     "corporate headquarters"
+    ],
+    "image_style": "person",
+    "location": "United States",
+    "nearby_city": "Washington, DC",
+    "event_query": "SpaceX stock pledge announcement",
+    "topic_photo": "stock market chart",
+    "label": "ECONOMY",
+    "action_subject": "",
+    "news_time": "2026-11-26T05:39:02+00:00"
+   },
+   "created_at": "2026-11-26T07:31:26.726041+00:00",
+   "news_time": "2026-11-26T05:39:02+00:00",
+   "news_latest": "2026-11-26T07:24:58+00:00",
+   "importance": 6,
+   "caption": "🚨 BREAKING: Elon Musk pledges two SpaceX shares for every US child\n\nSpaceX founder and CEO Elon Musk stated that every child in the United States will receive two shares in his company. The giveaway doubles a previous commitment made by Musk.\n\nWhat we know so far:\n• The pledge was announced in a post to X.\n• Musk stated one share is from the company and one personally.\n• The giveaway is estimated to be worth over $18 billion.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#SpaceX #ElonMusk #Economy #7SeasNews",
+   "photo_line": "📷 10/10 Elon Musk portrait",
+   "status": "posted",
+   "tg_message_id": 1014,
+   "tg_file_id": "AgACAgUAAxkDAAID9msH4FCdYuX41ud93bRvcQaMxsvrAAIYE2sbr_xBVEMcFfeEY0I6AQADAgADdwADPQQ",
+   "queued_at": "2026-11-26T07:31:29.074457+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-26T07:31:29.074497+00:00",
+   "post_label": "🤖 Auto-posting + Reel",
+   "fb_post_id": "1413030521900096_122112063243548584",
+   "posted_at": "2026-11-26T07:32:21.691088+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 26 · 2:32 AM New York · 1:02 PM Sri Lanka\n\n<b>Elon Musk pledges two SpaceX shares for every US child</b>\n<i>Axios, UPI</i>\n🟢 <b>Latest:</b> 12:54 PM Sri Lanka (7 min ago) · first reported 11:09 AM\n📷 10/10 Elon Musk portrait\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112063243548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 722,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112063243548584_1092641700492384",
+   "fb_story_id": "1480275080904894",
+   "fb_reel_id": "2142279499763780",
+   "reel_status": "live"
+  },
+  "e785d34655": {
+   "id": "e785d34655",
+   "headline": "General Staff reports Russian military losses reach 1,645,899 troops",
+   "summary": "According to the General Staff, Russia has lost 1,645,899 troops in Ukraine since Feb. 24, 2022. This total includes 2,319 casualties suffered by Russian forces over the past day. Meanwhile, a Russian counterpart to the US Starlink satellite system is currently under development.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Total includes 2,319 recent casualties",
+    "SpaceX Starlink countered Russian military",
+    "Rassvet under development"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Ukraine",
+    "#Russia",
+    "#Conflict"
+   ],
+   "sources": [
+    "DW",
+    "Kyiv Independent"
+   ],
+   "link": "https://kyivindependent.com/general-staff-russia-has-lost-1-645-899-troops-in-ukraine-since-feb-24-2022/",
+   "links": [
+    [
+     "Kyiv Independent",
+     "https://kyivindependent.com/general-staff-russia-has-lost-1-645-899-troops-in-ukraine-since-feb-24-2022/"
+    ],
+    [
+     "DW",
+     "https://www.dw.com/en/can-rassvet-russia-s-starlink-change-the-course-of-the-war-in-ukraine/a-80052579?maca=en-rss-en-world-4025-rdf"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Mother_Ukraine_blue_hour.jpg",
+      "credit": "florian meyer / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "Mother Ukraine monument in Kyiv"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "General Staff reports Russian military losses reach 1,645,899 troops",
+    "people": [],
+    "image_query": "Kyiv city",
+    "image_queries": [
+     "satellite system",
+     "military equipment",
+     "Ukraine landscape",
+     "communication tower"
+    ],
+    "image_style": "scene",
+    "location": "Kyiv, Ukraine",
+    "nearby_city": "Kyiv, Ukraine",
+    "event_query": "",
+    "topic_photo": "satellite dish",
+    "label": "CONFLICT",
+    "action_subject": "Ukrainian soldiers",
+    "news_time": "2026-11-26T05:45:00+00:00"
+   },
+   "created_at": "2026-11-26T07:32:19.408183+00:00",
+   "news_time": "2026-11-26T05:45:00+00:00",
+   "news_latest": "2026-11-26T07:13:53+00:00",
+   "importance": 8,
+   "caption": "General Staff reports Russian military losses reach 1,645,899 troops\n\nAccording to the General Staff, Russia has lost 1,645,899 troops in Ukraine since Feb. 24, 2022. This total includes 2,319 casualties suffered by Russian forces over the past day. Meanwhile, a Russian counterpart to the US Starlink satellite system is currently under development.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Ukraine #Russia #Conflict #7SeasNews",
+   "photo_line": "📷 10/10 Mother Ukraine monument in Kyiv",
+   "status": "posted",
+   "tg_message_id": 1015,
+   "tg_file_id": "AgACAgUAAxkDAAID92sH4IU0nHSX99LFPO3xNZN_r6PiAAIaE2sbr_xBVC_W8TbJ7xaDAQADAgADdwADPQQ",
+   "queued_at": "2026-11-26T07:32:21.330657+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_label": "🤖 Auto-posting",
+   "post_at": "2026-11-26T07:32:26.737520+00:00",
+   "fb_post_id": "1413030521900096_122112064557548584",
+   "posted_at": "2026-11-26T07:32:21.691088+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 26 · 2:33 AM New York · 1:03 PM Sri Lanka\n\n<b>General Staff reports Russian military losses reach 1,645,899 troops</b>\n<i>DW, Kyiv Independent</i>\n🟢 <b>Latest:</b> 12:43 PM Sri Lanka (19 min ago) · first reported 11:15 AM\n📷 10/10 Mother Ukraine monument in Kyiv\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112064557548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 724,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112064557548584_2685610685289604"
   }
  },
  "seen_links": [
-  "https://www.newsweek.com/chuck-schumer-senate-majority-leadership-democrats-12700175",
-  "https://www.independent.co.uk/news/world/americas/alexander-darchiev-dead-russia-ambassador-b3083359.html",
-  "https://kyivindependent.com/russian-ambassador-to-washington-dies-at-66/",
-  "https://www.aljazeera.com/news/2026/11/11/tens-of-thousands-join-polands-nationalist-independence-day-march?traffic_source=rss",
   "https://www.france24.com/en/tens-of-thousands-attend-polish-nationalist-march-days-afer-shootings",
   "https://www.independent.co.uk/news/world/europe/poland-independence-day-krakow-shooting-b3083141.html",
   "https://www.washingtonexaminer.com/news/campaigns/presidential/4800349/biden-call-debate-performance-not-consequential-mistake-didnt-disturb-me/",
@@ -10337,7 +10513,11 @@
   "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
   "https://www.washingtonexaminer.com/policy/infrastructure/4816086/ground-stop-miami-airport-fedex-plane-overshoots-runway/",
   "https://www.france24.com/en/europe/20261126-eu-leaders-face-showdown-over-ukraine-funding-as-divisions-deepen",
-  "https://abcnews.com/International/wireStory/eu-leaders-seek-bridge-differences-agree-budget-deal-138463077"
+  "https://abcnews.com/International/wireStory/eu-leaders-seek-bridge-differences-agree-budget-deal-138463077",
+  "https://www.upi.com/Top_News/US/2026/11/26/Elon-Musk-SpaceX-shares/9281795674997/",
+  "https://www.axios.com/2026/11/26/musk-spacex-shares-trump-accounts",
+  "https://kyivindependent.com/general-staff-russia-has-lost-1-645-899-troops-in-ukraine-since-feb-24-2022/",
+  "https://www.dw.com/en/can-rassvet-russia-s-starlink-change-the-course-of-the-war-in-ukraine/a-80052579?maca=en-rss-en-world-4025-rdf"
  ],
  "recent_topics": [
   [
@@ -12791,19 +12971,56 @@
     "ukrain"
    ],
    "e021d0e4ec"
+  ],
+  [
+   "2026-11-26T07:31:29.074328+00:00",
+   [
+    "18",
+    "america",
+    "billion",
+    "child",
+    "doubl",
+    "every",
+    "kid",
+    "mak",
+    "musk",
+    "pledg",
+    "shar",
+    "spacex",
+    "stock"
+   ],
+   "eb6f642efd"
+  ],
+  [
+   "2026-11-26T07:32:21.330498+00:00",
+   [
+    "1645899",
+    "24",
+    "can",
+    "chang",
+    "cours",
+    "feb",
+    "general",
+    "lost",
+    "rassvet",
+    "russia",
+    "sinc",
+    "staff",
+    "starlink",
+    "troop",
+    "ukrain",
+    "war"
+   ],
+   "e785d34655"
   ]
  ],
- "last_draft_at": "2026-11-26T07:15:53.842532+00:00",
+ "last_draft_at": "2026-11-26T07:30:42.849918+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T07:03:35.464401+00:00",
  "run_log": [
-  "11-26 05:08:56 listening done",
-  "11-26 05:08:56 run end after 687 s",
-  "11-26 05:09:59 run start",
-  "11-26 05:10:45 listening 11 min",
   "11-26 05:21:40 listening done",
   "11-26 05:21:40 run end after 701 s",
   "11-26 05:22:42 run start",
@@ -12839,13 +13056,15 @@
   "11-26 07:15:53 run start",
   "11-26 07:16:03 listening 11 min",
   "11-26 07:27:21 listening done",
-  "11-26 07:27:21 run end after 687 s"
+  "11-26 07:27:21 run end after 687 s",
+  "11-26 07:30:42 run start",
+  "11-26 07:33:28 listening 9 min",
+  "11-26 07:42:16 listening done",
+  "11-26 07:42:16 run end after 694 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_02.jpg/1920px-A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Nidal_Hasan%2C_2007.jpg/1280px-Nidal_Hasan%2C_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/ParastooAhmadi_%28cropped%29.jpg/1280px-ParastooAhmadi_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/US_Navy_070201-C-8227J-002_Master_Chief_Petty_Officer_of_the_Navy_%28MCPON%29_Joe_R._Campa_Jr._takes_the_wheel_of_a_41-foot_Coast_Guard_rescue_boat_as_Master_Chief_Petty_Officer_of_the_Coast_Guard_Charles.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/USS_Theodore_Roosevelt_operations_160322-N-DM308-040.jpg/1920px-USS_Theodore_Roosevelt_operations_160322-N-DM308-040.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -12883,7 +13102,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Skyline_of_San_Juan%2C_Puerto_Rico_%282016%29.jpg/1920px-Skyline_of_San_Juan%2C_Puerto_Rico_%282016%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/6/6e/Kim_Jong-un_April_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://live.staticflickr.com/8302/29096850880_5118b7fc91_b.jpg",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Belgian_Presidency_of_the_Council_of_the_European_Union_-_EU2024BE_240610_Lessons_learned_of_the_Belgian_Presidency_Egmont_Palace_JNZT_0003_%2853783023355%29.jpg/1920px-Belgian_Presidency_of_the_Council_of_the_European_Union_-_EU2024BE_240610_Lessons_learned_of_the_Belgian_Presidency_Egmont_Palace_JNZT_0003_%2853783023355%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Belgian_Presidency_of_the_Council_of_the_European_Union_-_EU2024BE_240610_Lessons_learned_of_the_Belgian_Presidency_Egmont_Palace_JNZT_0003_%2853783023355%29.jpg/1920px-Belgian_Presidency_of_the_Council_of_the_European_Union_-_EU2024BE_240610_Lessons_learned_of_the_Belgian_Presidency_Egmont_Palace_JNZT_0003_%2853783023355%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg/1280px-Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/c/c0/Mother_Ukraine_blue_hour.jpg"
   ],
   "pools": {
    "howard lutnick": {
@@ -13499,7 +13720,7 @@
     ]
    },
    "elon musk": {
-    "t": "2026-11-19T01:16:37.052732+00:00",
+    "t": "2026-11-26T07:31:15.184016+00:00",
     "photos": [
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Elon_Musk_-_54820081119_%283x4_cropped%2C_Rule_of_thirds%29.jpg/1280px-Elon_Musk_-_54820081119_%283x4_cropped%2C_Rule_of_thirds%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -13528,6 +13749,13 @@
       "only": true
      },
      {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Elon_Musk_Colorado_2022_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "(U.S. Air Force photo by Trevor cokley) / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Elon_Musk_%2854816836217%29_%28cropped_4%29.jpg/1280px-Elon_Musk_%2854816836217%29_%28cropped_4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)",
       "short": "WIKIMEDIA COMMONS",
@@ -13544,13 +13772,6 @@
      {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Elon_Musk_%2812271225556%29.jpg/1280px-Elon_Musk_%2812271225556%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "credit": "Tesla Owners Club Belgium / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false,
-      "only": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Elon_Musk_Colorado_2022.jpg/1280px-Elon_Musk_Colorado_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Trevor Cokley / Wikimedia Commons (Public domain)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": false,
       "only": true
@@ -13577,8 +13798,8 @@
       "only": true
      },
      {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Elon_Musk_at_TED_2017.jpeg/1280px-Elon_Musk_at_TED_2017.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Steve Jurvetson from Menlo Park, USA / Wikimedia Commons (CC BY 2.0)",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/2022_-_Conectividade_e_Prote%C3%A7%C3%A3o_da_Amaz%C3%B4nia_com_Elon_Musk_e_o_Presidente_da_Rep%C3%BAblica_do_Brasil_Jair_Messias_Bolsonaro_%28cropped%29.jpg/1280px-2022_-_Conectividade_e_Prote%C3%A7%C3%A3o_da_Amaz%C3%B4nia_com_Elon_Musk_e_o_Presidente_da_Rep%C3%BAblica_do_Brasil_Jair_Messias_Bolsonaro_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Ministério Das Comunicações / Wikimedia Commons (CC BY 2.0)",
       "short": "WIKIMEDIA COMMONS",
       "portrait": false,
       "only": true
@@ -16116,7 +16337,6 @@
    }
   },
   "recent_ideas": [
-   "us capitol building",
    "emergency services of that city",
    "parliament chamber",
    "courtroom",
@@ -16127,29 +16347,10 @@
    "courtroom",
    "judge gavel",
    "courtroom",
-   "european union flags"
+   "european union flags",
+   "mother ukraine"
   ],
   "checked": {
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Zohran_Mamdani_Congestion_Relief_One-Year_Anniversary_%28cropped%29.jpg/1280px-Zohran_Mamdani_Congestion_Relief_One-Year_Anniversary_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Zohran Mamdani": {
-    "s": 10,
-    "w": "Zohran Mamdani laughing",
-    "p": ""
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/FBI_Headquarters_-_J._Edgar_Hoover_Building_%2853840035941%29.jpg/1920px-FBI_Headquarters_-_J._Edgar_Hoover_Building_%2853840035941%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
-    "s": 0,
-    "w": "J. Edgar Hoover Building",
-    "p": "Location is in Washington D.C., not California"
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/California_State_Capitol_during_blue_hour.jpg/1920px-California_State_Capitol_during_blue_hour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
-    "s": 10,
-    "w": "California State Capitol dome",
-    "p": ""
-   },
-   "https://upload.wikimedia.org/wikipedia/commons/a/af/Boulevard_Riyadh_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
-    "s": 0,
-    "w": "cable car and lit buildings",
-    "p": "location mismatch, shows Qatar not Riyadh"
-   },
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Incense_souk_in_downtown_Riyadh_%2812754047044%29.jpg/1920px-Incense_souk_in_downtown_Riyadh_%2812754047044%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "s": 7,
     "w": "street market in Riyadh",
@@ -18629,6 +18830,26 @@
     "s": 8,
     "w": "EU conference meeting room",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/New_York_Stock_Exchange_August_2017_04.jpg/1920px-New_York_Stock_Exchange_August_2017_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|1957c2b6": {
+    "s": 6,
+    "w": "New York Stock Exchange",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg/1280px-Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Elon Musk": {
+    "s": 10,
+    "w": "Elon Musk portrait",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/61-220-0366_Sadky_UPA_Soldiers_Mass_Grave_RB.jpg/1920px-61-220-0366_Sadky_UPA_Soldiers_Mass_Grave_RB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|570b9eab": {
+    "s": 3,
+    "w": "war memorial on hill",
+    "p": "photo shows a memorial instead of soldiers"
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/c/c0/Mother_Ukraine_blue_hour.jpg|570b9eab": {
+    "s": 10,
+    "w": "Mother Ukraine monument in Kyiv",
+    "p": ""
    }
   }
  },
@@ -18640,18 +18861,18 @@
   "2026-11-23": 20,
   "2026-11-24": 23,
   "2026-11-25": 29,
-  "2026-11-26": 4
+  "2026-11-26": 6
  },
- "last_auto_at": "2026-11-26T07:04:57.024488+00:00",
- "last_post_at": "2026-11-26T07:05:03.798300+00:00",
+ "last_auto_at": "2026-11-26T07:32:21.691088+00:00",
+ "last_post_at": "2026-11-26T07:33:19.216523+00:00",
  "reels_count": {
-  "2026-11-19": 3,
   "2026-11-20": 3,
   "2026-11-21": 3,
   "2026-11-22": 1,
   "2026-11-23": 1,
   "2026-11-24": 3,
-  "2026-11-25": 3
+  "2026-11-25": 3,
+  "2026-11-26": 1
  },
  "roundup": {
   "2026-11-18": {
