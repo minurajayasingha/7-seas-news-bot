@@ -7963,11 +7963,95 @@
     "shares": 0
    },
    "stats_at": "2026-11-26T05:10:06.747536+00:00"
+  },
+  "6cd000eb5d": {
+   "id": "6cd000eb5d",
+   "headline": "Puerto Rico Supreme Court cancels Luma Energy power contract",
+   "summary": "Puerto Rico’s Supreme Court has narrowly canceled a major power contract with Luma Energy. The five-to-four ruling follows a contentious legal battle with the private power company, leaving many wondering what comes next.",
+   "label": "ECONOMY",
+   "hook": "What power company will take over operations in Puerto Rico?",
+   "key_points": [
+    "Court voted five to four to cancel the contract",
+    "Decision follows a contentious legal battle"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#PuertoRico",
+    "#LumaEnergy",
+    "#PowerContract"
+   ],
+   "sources": [
+    "ABC News",
+    "Al Jazeera"
+   ],
+   "link": "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss"
+    ],
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/puerto-ricos-supreme-court-cancels-key-power-contract-138448039"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Skyline_of_San_Juan%2C_Puerto_Rico_%282016%29.jpg/1920px-Skyline_of_San_Juan%2C_Puerto_Rico_%282016%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Moebiusuibeom-en / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 5,
+      "shows": "Puerto Rico skyline"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Puerto Rico Supreme Court cancels Luma Energy power contract",
+    "people": [],
+    "image_query": "Supreme Court building",
+    "image_queries": [
+     "power plant",
+     "electrical grid",
+     "courtroom",
+     "city skyline"
+    ],
+    "image_style": "scene",
+    "location": "Puerto Rico",
+    "nearby_city": "San Juan, Puerto Rico",
+    "event_query": "Puerto Rico Supreme Court",
+    "topic_photo": "judge gavel",
+    "label": "ECONOMY",
+    "action_subject": "courtroom",
+    "news_time": "2026-11-26T01:00:10+00:00"
+   },
+   "created_at": "2026-11-26T05:48:04.386405+00:00",
+   "news_time": "2026-11-26T01:00:10+00:00",
+   "news_latest": "2026-11-26T05:09:55+00:00",
+   "importance": 6,
+   "caption": "Puerto Rico Supreme Court cancels Luma Energy power contract\n\nPuerto Rico’s Supreme Court has narrowly canceled a major power contract with Luma Energy. The five-to-four ruling follows a contentious legal battle with the private power company, leaving many wondering what comes next.\n\n💬 What power company will take over operations in Puerto Rico?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#PuertoRico #LumaEnergy #PowerContract #7SeasNews",
+   "photo_line": "📷 5/10 Puerto Rico skyline",
+   "status": "posted",
+   "tg_message_id": 1010,
+   "tg_file_id": "AgACAgUAAxkDAAID8msHyBbyOmNb1AeVat2trAABoN09iQACLBNrG6_8OVQ2qb6Va6NnswEAAwIAA3cAAz0E",
+   "queued_at": "2026-11-26T05:48:07.136430+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-26T05:48:07.136469+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122112034557548584",
+   "posted_at": "2026-11-26T05:48:07.492761+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 26 · 12:48 AM New York · 11:18 AM Sri Lanka\n\n<b>Puerto Rico Supreme Court cancels Luma Energy power contract</b>\n<i>ABC News, Al Jazeera</i>\n🟢 <b>Latest:</b> 10:39 AM Sri Lanka (38 min ago) · first reported 6:30 AM\n📷 5/10 Puerto Rico skyline\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112034557548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 718,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112034557548584_2238917677504763"
   }
  },
  "seen_links": [
-  "https://www.france24.com/en/france/20261111-tehran-will-strike-us-bases-in-europe-if-used-to-attack-iran-security-chief-says",
-  "https://www.aljazeera.com/economy/2026/11/11/can-tehran-survive-a-zero-oil-budget-if-us-blockade-on-iran-persists?traffic_source=rss",
   "https://www.independent.co.uk/news/world/americas/us-politics/biden-cancer-second-term-2024-memoir-b3083336.html",
   "https://www.politico.com/news/2026/11/11/biden-2024-cancer-diagnosis-debate-performance-01160750",
   "https://www.independent.co.uk/news/world/americas/us-politics/trump-new-york-times-meltdown-b3083235.html",
@@ -9965,7 +10049,9 @@
   "https://thehill.com/regulation/court-battles/6244361-judge-denies-dnc-ad-challenge/",
   "https://www.cbsnews.com/news/judge-declines-long-term-ban-pro-trump-ads/",
   "https://www.aljazeera.com/news/2026/11/26/brazil-blasts-unacceptable-new-us-tariff-proposals?traffic_source=rss",
-  "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat"
+  "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+  "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss",
+  "https://abcnews.com/International/wireStory/puerto-ricos-supreme-court-cancels-key-power-contract-138448039"
  ],
  "recent_topics": [
   [
@@ -12341,19 +12427,33 @@
     "unacceptabl"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-26T05:48:07.136293+00:00",
+   [
+    "cancel",
+    "contract",
+    "court",
+    "key",
+    "major",
+    "many",
+    "next",
+    "power",
+    "puerto",
+    "rico",
+    "suprem",
+    "wonder"
+   ],
+   "6cd000eb5d"
   ]
  ],
- "last_draft_at": "2026-11-26T05:34:56.860901+00:00",
+ "last_draft_at": "2026-11-26T05:47:13.210703+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T05:10:06.747536+00:00",
  "run_log": [
-  "11-26 03:30:58 run start",
-  "11-26 03:31:30 listening 11 min",
-  "11-26 03:42:48 listening done",
-  "11-26 03:42:48 run end after 709 s",
   "11-26 03:46:05 run start",
   "11-26 03:46:07 listening 11 min",
   "11-26 03:57:52 listening done",
@@ -12389,12 +12489,15 @@
   "11-26 05:34:56 run start",
   "11-26 05:35:05 listening 11 min",
   "11-26 05:46:25 listening done",
-  "11-26 05:46:25 run end after 689 s"
+  "11-26 05:46:25 run end after 689 s",
+  "11-26 05:47:12 run start",
+  "11-26 05:48:21 listening 10 min",
+  "11-26 05:58:51 listening done",
+  "11-26 05:58:51 run end after 698 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/The_Clay_County_Courthouse_courtroom_in_2007.jpg/1920px-The_Clay_County_Courthouse_courtroom_in_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/20181208_JASDF_E-2_Hawkeye_landing_Naha_Air_Show_2018-21.jpg/1920px-20181208_JASDF_E-2_Hawkeye_landing_Naha_Air_Show_2018-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/USS_Lake_Erie_%28CG_70%29_missile_test.jpg/1920px-USS_Lake_Erie_%28CG_70%29_missile_test.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/1280px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -12433,7 +12536,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Boone_County_Courthouse_courtroom_front.jpg/1920px-Boone_County_Courthouse_courtroom_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg/1920px-Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Benjamin_Netanyahu%2C_February_2023_%28cropped%29%28b%29.jpg/1280px-Benjamin_Netanyahu%2C_February_2023_%28cropped%29%28b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/0/0a/Courtroom_at_the_United_States_Courthouse_in_Augusta%2C_GA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/0/0a/Courtroom_at_the_United_States_Courthouse_in_Augusta%2C_GA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Skyline_of_San_Juan%2C_Puerto_Rico_%282016%29.jpg/1920px-Skyline_of_San_Juan%2C_Puerto_Rico_%282016%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -18150,21 +18254,41 @@
     "s": 0,
     "w": "skyscrapers and a bridge",
     "p": "photo shows city skyscrapers instead of a court building"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Stained-glass_window_-_The_Courts%2C_Bristol_-_DSC_7655.jpg/1920px-Stained-glass_window_-_The_Courts%2C_Bristol_-_DSC_7655.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|44b72573": {
+    "s": 0,
+    "w": "stained glass window",
+    "p": "The photo shows a stained glass window, not a courtroom or anything related to t"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg/1920px-Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|44b72573": {
+    "s": 6,
+    "w": "judge gavel on rainbow flag",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Christopher_Columbus_monument_-_San_Juan%2C_Puerto_Rico_-_DSC07103.JPG/1920px-Christopher_Columbus_monument_-_San_Juan%2C_Puerto_Rico_-_DSC07103.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|44b72573": {
+    "s": 0,
+    "w": "Christopher Columbus statue in Puerto Ri",
+    "p": "statue instead of courtroom or energy contract action"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Skyline_of_San_Juan%2C_Puerto_Rico_%282016%29.jpg/1920px-Skyline_of_San_Juan%2C_Puerto_Rico_%282016%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|44b72573": {
+    "s": 5,
+    "w": "Puerto Rico skyline",
+    "p": "City skyline for court contract story"
    }
   }
  },
  "comment_perm_told": true,
  "auto_count": {
-  "2026-11-19": 30,
   "2026-11-20": 30,
   "2026-11-21": 17,
   "2026-11-22": 11,
   "2026-11-23": 20,
   "2026-11-24": 23,
-  "2026-11-25": 29
+  "2026-11-25": 29,
+  "2026-11-26": 1
  },
- "last_auto_at": "2026-11-26T03:31:15.465515+00:00",
- "last_post_at": "2026-11-26T03:31:20.650060+00:00",
+ "last_auto_at": "2026-11-26T05:48:07.492761+00:00",
+ "last_post_at": "2026-11-26T05:48:12.953204+00:00",
  "reels_count": {
   "2026-11-19": 3,
   "2026-11-20": 3,
