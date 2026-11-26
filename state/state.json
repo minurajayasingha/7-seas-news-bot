@@ -10626,26 +10626,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-23T08:16:19.863694+00:00",
-   [
-    "annual",
-    "bring",
-    "canada",
-    "carney",
-    "dinner",
-    "enlist",
-    "fak",
-    "gallery",
-    "impersonator",
-    "laugh",
-    "mark",
-    "press",
-    "stag",
-    "trump"
-   ],
-   "skipped"
-  ],
-  [
    "2026-11-23T10:24:09.825015+00:00",
    [
     "12",
@@ -13145,17 +13125,13 @@
    "a2e6fdd2be"
   ]
  ],
- "last_draft_at": "2026-11-26T08:01:22.719868+00:00",
+ "last_draft_at": "2026-11-26T08:15:36.887380+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T08:00:42.175995+00:00",
  "run_log": [
-  "11-26 05:46:25 listening done",
-  "11-26 05:46:25 run end after 689 s",
-  "11-26 05:47:12 run start",
-  "11-26 05:48:21 listening 10 min",
   "11-26 05:58:51 listening done",
   "11-26 05:58:51 run end after 698 s",
   "11-26 06:07:08 run start",
@@ -13191,7 +13167,11 @@
   "11-26 08:00:41 run start",
   "11-26 08:02:21 listening 10 min",
   "11-26 08:12:24 listening done",
-  "11-26 08:12:24 run end after 702 s"
+  "11-26 08:12:24 run end after 702 s",
+  "11-26 08:15:36 run start",
+  "11-26 08:16:09 listening 11 min",
+  "11-26 08:27:02 listening done",
+  "11-26 08:27:02 run end after 686 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -20302,7 +20282,7 @@
    }
   },
   "2026-11-25": {
-   "status": "asked",
+   "status": "building",
    "plan": {
     "parts": [
      {
@@ -20472,7 +20452,42 @@
    ],
    "asked_at": "2026-11-26T05:10:06.336056+00:00",
    "test": false,
-   "msg_id": 1009
+   "msg_id": 1009,
+   "approved_by": "auto",
+   "approved_at": "2026-11-26T08:15:36.393358+00:00",
+   "dispatch_at": "2026-11-26T08:15:36.393366+00:00",
+   "dispatch_tries": 1,
+   "headlines": [
+    "Yemeni government loses territory as Houthi militia advances",
+    "Ukraine intercepts Russian jet-powered drone with laser system",
+    "Ukraine says it strikes Russian military base in Nizhny Novgorod",
+    "US approves possible sale of F-16 equipment to Ukraine",
+    "Yemen Houthis claim attacks on Riyadh and Saudi refinery",
+    "Colombian forces free hostages after storming Cartagena supermarket",
+    "Eisenkot issues warnings over potential new strikes on Iran",
+    "Donald Trump raises tariffs on sixteen major economies",
+    "Federal judge blocks Donald Trump birthright citizenship order",
+    "Donald Trump and Gavin Newsom engage in political feud",
+    "Judge blocks Federal Communications Commission review of broadcast licenses",
+    "Dan Sullivan concedes Alaska Senate race to Mary Peltola",
+    "Judge halts order for Fulton County 2020 ballot copies",
+    "Maine Senator elect Troy Jackson endorses Chris Van Hollen for Senate leader",
+    "House Minority Leader criticizes Trump administration over Iowa detonation",
+    "Federal judge rules against Democrats on tax-funded ads",
+    "US administration rules out troops in Ukraine under post-war security guarantees",
+    "Powerful storm forces historic postponement of New York Thanksgiving Day Parade",
+    "Israeli judges recommend prosecutors drop Netanyahu corruption trial",
+    "FCC approves SpaceX plan for 1 million space data centers",
+    "Kilmar Abrego Garcia arrives in Spain after leaving United States",
+    "Melania Trump announces reunion of nine children amid Ukraine war",
+    "Israeli high court signals Netanyahu trial challenges as envoy urges Gaza plan",
+    "China investigates Politburo member and Shanghai party chief Chen Jining",
+    "Fuel tanker crash ignites highway fire in Cairo killing dozens",
+    "Pacifica Pier collapses as storms bring high tides to California",
+    "Duran Duran guitarist Andy Taylor dies aged 65",
+    "Israeli parliament advances October 7 inquiry and proposed bill",
+    "US billionaire and agency reach deal for Lukoil assets"
+   ]
   }
  },
  "run_once_done": [
