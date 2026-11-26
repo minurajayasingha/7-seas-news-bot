@@ -1,100 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "6a13b82949": {
-   "id": "6a13b82949",
-   "headline": "Indonesian factory fire kills three people and leaves 36 missing",
-   "summary": "Authorities report three deaths and 36 missing following a factory fire in Indonesia. Emergency crews search the charred building as investigations continue.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "At least 15 people were rescued from the site.",
-    "Four individuals were taken to hospital.",
-    "Indonesia's National Search and Rescue Agency posted video footage of crews."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Indonesia",
-    "#FactoryFire",
-    "#WorldNews"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "Euronews"
-   ],
-   "link": "https://www.euronews.com/2026/11/22/emergency-workers-recover-at-least-six-body-bags-after-indonesian-factory-fire",
-   "links": [
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/22/emergency-workers-recover-at-least-six-body-bags-after-indonesian-factory-fire"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/22/indonesia-factory-fire-kills-three-36-missing?traffic_source=rss"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Al_Khoziny_Islamic_boarding_school_collapsed_during_evacuation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "credit": "National Agency for Disaster Countermeasure / Wikimedia Commons (Public domain)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 10,
-      "shows": "rescuers at collapsed building"
-     }
-    ],
-    "file_photo": true
-   },
-   "img_post": {
-    "headline": "Indonesian factory fire kills three people and leaves 36 missing",
-    "people": [],
-    "image_query": "Indonesia city street",
-    "image_queries": [
-     "industrial building exterior",
-     "search and rescue team",
-     "fire station equipment",
-     "emergency response vehicle"
-    ],
-    "image_style": "incident",
-    "location": "Indonesia",
-    "nearby_city": "Jakarta, Indonesia",
-    "event_query": "Indonesian factory fire",
-    "topic_photo": "industrial warehouse",
-    "label": "WORLD",
-    "action_subject": "collapsed building rescue",
-    "news_time": "2026-11-22T07:46:35+00:00"
-   },
-   "created_at": "2026-11-22T13:16:59.148719+00:00",
-   "news_time": "2026-11-22T07:46:35+00:00",
-   "news_latest": "2026-11-22T12:22:47+00:00",
-   "importance": 8,
-   "caption": "Indonesian factory fire kills three people and leaves 36 missing\n\nAuthorities report three deaths and 36 missing following a factory fire in Indonesia. Emergency crews search the charred building as investigations continue.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Indonesia #FactoryFire #WorldNews #7SeasNews",
-   "photo_line": "📷 10/10 rescuers at collapsed building · FILE PHOTO",
-   "status": "posted",
-   "tg_message_id": 911,
-   "tg_file_id": "AgACAgUAAxkDAAIDj2sC602GXY9tXmImsBD0TTOihXSIAALFFGsboQ8ZVFHt-zC25PJkAQADAgADdwADPQQ",
-   "queued_at": "2026-11-22T13:17:01.512196+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-22T13:17:01.512230+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122109496653548584",
-   "posted_at": "2026-11-22T13:17:01.860058+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 22 · 8:17 AM New York · 6:47 PM Sri Lanka\n\n<b>Indonesian factory fire kills three people and leaves 36 missing</b>\n<i>Al Jazeera, Euronews</i>\n🟢 <b>Latest:</b> 5:52 PM Sri Lanka (54 min ago) · first reported 1:16 PM\n📷 10/10 rescuers at collapsed building · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122109496653548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 618,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122109496653548584_1177515055227596",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-25T12:46:00.778496+00:00"
-  },
   "d4bb76db92": {
    "id": "d4bb76db92",
    "headline": "Israeli settlers set fire to West Bank vehicles and homes",
@@ -13074,17 +12980,13 @@
    "ab6e2293f4"
   ]
  ],
- "last_draft_at": "2026-11-26T13:01:13.950580+00:00",
+ "last_draft_at": "2026-11-26T13:15:46.317506+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T13:00:48.208383+00:00",
  "run_log": [
-  "11-26 10:45:41 run start",
-  "11-26 10:46:01 listening 11 min",
-  "11-26 10:57:22 listening done",
-  "11-26 10:57:22 run end after 700 s",
   "11-26 11:01:02 run start",
   "11-26 11:03:19 listening 9 min",
   "11-26 11:12:32 listening done",
@@ -13120,7 +13022,11 @@
   "11-26 13:00:46 run start",
   "11-26 13:01:47 listening 10 min",
   "11-26 13:12:15 listening done",
-  "11-26 13:12:15 run end after 688 s"
+  "11-26 13:12:15 run end after 688 s",
+  "11-26 13:15:45 run start",
+  "11-26 13:15:54 listening 11 min",
+  "11-26 13:27:12 listening done",
+  "11-26 13:27:12 run end after 686 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
