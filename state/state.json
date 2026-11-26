@@ -10625,25 +10625,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-23T10:39:24.002105+00:00",
-   [
-    "airlin",
-    "airport",
-    "alaska",
-    "arrest",
-    "control",
-    "criminal",
-    "history",
-    "ice",
-    "lawyer",
-    "outcry",
-    "passenger",
-    "seattl",
-    "spark"
-   ],
-   "0424cd058e"
-  ],
-  [
    "2026-11-23T10:50:52.402298+00:00",
    [
     "back",
@@ -13143,17 +13124,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-26T10:15:35.223834+00:00",
+ "last_draft_at": "2026-11-26T10:30:43.390670+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T10:00:46.150926+00:00",
  "run_log": [
-  "11-26 08:00:41 run start",
-  "11-26 08:02:21 listening 10 min",
-  "11-26 08:12:24 listening done",
-  "11-26 08:12:24 run end after 702 s",
   "11-26 08:15:36 run start",
   "11-26 08:16:09 listening 11 min",
   "11-26 08:27:02 listening done",
@@ -13189,7 +13166,11 @@
   "11-26 10:15:34 run start",
   "11-26 10:15:44 listening 11 min",
   "11-26 10:27:03 listening done",
-  "11-26 10:27:03 run end after 688 s"
+  "11-26 10:27:03 run end after 688 s",
+  "11-26 10:30:42 run start",
+  "11-26 10:30:52 listening 11 min",
+  "11-26 10:42:13 listening done",
+  "11-26 10:42:13 run end after 690 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
