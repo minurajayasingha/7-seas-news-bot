@@ -8616,11 +8616,96 @@
     "shares": 0
    },
    "stats_at": "2026-11-26T12:00:46.321661+00:00"
+  },
+  "ab6e2293f4": {
+   "id": "ab6e2293f4",
+   "headline": "Kenyan court rules US-backed Ebola quarantine center violated constitution",
+   "summary": "Kenya's High Court has ruled that the government violated the constitution by allowing the construction of a U.S.-backed Ebola quarantine facility without public participation. The court also ordered a halt to further works at the quarantine facility until details of the deal with the U.S. are disclosed.",
+   "label": "WORLD",
+   "hook": "Should governments be required to disclose facility deals before construction begins?",
+   "key_points": [
+    "High Court issued the ruling in Kenya.",
+    "Facility involved a deal with the U.S.",
+    "Further works are halted until details are disclosed."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Kenya",
+    "#WorldNews",
+    "#Ebola"
+   ],
+   "sources": [
+    "ABC News",
+    "Al Jazeera"
+   ],
+   "link": "https://abcnews.com/International/wireStory/us-backed-ebola-quarantine-center-violated-constitution-kenyan-138465843",
+   "links": [
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/us-backed-ebola-quarantine-center-violated-constitution-kenyan-138465843"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/26/kenya-govt-violated-constitution-with-ebola-quarantine-site-court-says?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Buffalo_Nairobi_Skyline_Savannah_Kenya_May19_R1600769.jpg/1920px-Buffalo_Nairobi_Skyline_Savannah_Kenya_May19_R1600769.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "This Photo was taken by Timothy A. Gonsalves . Feel free to  / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 5,
+      "shows": "Nairobi skyline and African buffalo"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Kenyan court rules US-backed Ebola quarantine center violated constitution",
+    "people": [],
+    "image_query": "Supreme Court building",
+    "image_queries": [
+     "courtroom",
+     "judge gavel",
+     "hospital quarantine",
+     "government building"
+    ],
+    "image_style": "scene",
+    "location": "Kenya",
+    "nearby_city": "Nairobi, Kenya",
+    "event_query": "Kenya court building",
+    "topic_photo": "judge gavel",
+    "label": "WORLD",
+    "action_subject": "courtroom",
+    "news_time": "2026-11-26T10:20:05+00:00"
+   },
+   "created_at": "2026-11-26T12:46:43.622244+00:00",
+   "news_time": "2026-11-26T10:20:05+00:00",
+   "news_latest": "2026-11-26T12:31:13+00:00",
+   "importance": 6,
+   "caption": "Kenyan court rules US-backed Ebola quarantine center violated constitution\n\nKenya's High Court has ruled that the government violated the constitution by allowing the construction of a U.S.-backed Ebola quarantine facility without public participation. The court also ordered a halt to further works at the quarantine facility until details of the deal with the U.S. are disclosed.\n\n💬 Should governments be required to disclose facility deals before construction begins?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Kenya #WorldNews #Ebola #7SeasNews",
+   "photo_line": "📷 5/10 Nairobi skyline and African buffalo",
+   "status": "posted",
+   "tg_message_id": 1020,
+   "tg_file_id": "AgACAgUAAxkDAAID_GsIKjUYXS8hYklRqPrgdUx49HQ5AAK-GGsbiIVBVHzvFkz2A5FQAQADAgADdwADPQQ",
+   "queued_at": "2026-11-26T12:46:46.138169+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-26T12:46:46.138186+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122112189477548584",
+   "posted_at": "2026-11-26T12:46:46.469910+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 26 · 7:46 AM New York · 6:16 PM Sri Lanka\n\n<b>Kenyan court rules US-backed Ebola quarantine center violated constitution</b>\n<i>ABC News, Al Jazeera</i>\n🟢 <b>Latest:</b> 6:01 PM Sri Lanka (15 min ago) · first reported 3:50 PM\n📷 5/10 Nairobi skyline and African buffalo\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112189477548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 729,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112189477548584_2696449297535513"
   }
  },
  "seen_links": [
-  "https://www.upi.com/Top_News/World-News/2026/11/11/italy-northern-ireland-republic-scotland-email-bomb-threats-schools/9571794409682/",
-  "https://www.cbsnews.com/news/bomb-threat-schools-europe-italy-uk-ireland-hoaxes-hybrid-warfare-iran-russia/",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4800258/richard-ojeda-impeachment-cabinet-members/",
   "https://thehill.com/opinion/international/6212486-trump-iran-policy-pressure/",
   "https://www.newsweek.com/hegseths-group-warned-by-guard-at-arlingtons-tomb-of-unknown-soldier-12701900",
@@ -10618,7 +10703,9 @@
   "https://www.newsweek.com/map-shows-airports-hit-by-thanksgiving-delays-cancelations-for-travelers-12769912",
   "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
   "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
-  "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic"
+  "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
+  "https://abcnews.com/International/wireStory/us-backed-ebola-quarantine-center-violated-constitution-kenyan-138465843",
+  "https://www.aljazeera.com/news/2026/11/26/kenya-govt-violated-constitution-with-ebola-quarantine-site-court-says?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -12982,19 +13069,33 @@
     "sinc"
    ],
    "8f76b29b16"
+  ],
+  [
+   "2026-11-26T12:46:46.138037+00:00",
+   [
+    "center",
+    "constitution",
+    "court",
+    "ebola",
+    "govt",
+    "kenya",
+    "kenyan",
+    "quarantin",
+    "rul",
+    "sit",
+    "us-back",
+    "violat"
+   ],
+   "ab6e2293f4"
   ]
  ],
- "last_draft_at": "2026-11-26T12:30:45.777637+00:00",
+ "last_draft_at": "2026-11-26T12:45:43.573580+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T12:00:46.321661+00:00",
  "run_log": [
-  "11-26 10:15:34 run start",
-  "11-26 10:15:44 listening 11 min",
-  "11-26 10:27:03 listening done",
-  "11-26 10:27:03 run end after 688 s",
   "11-26 10:30:42 run start",
   "11-26 10:30:52 listening 11 min",
   "11-26 10:42:13 listening done",
@@ -13030,12 +13131,15 @@
   "11-26 12:30:45 run start",
   "11-26 12:30:55 listening 11 min",
   "11-26 12:42:13 listening done",
-  "11-26 12:42:13 run end after 688 s"
+  "11-26 12:42:13 run end after 688 s",
+  "11-26 12:45:43 run start",
+  "11-26 12:47:02 listening 10 min",
+  "11-26 12:57:31 listening done",
+  "11-26 12:57:31 run end after 708 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/USS_Theodore_Roosevelt_operations_160322-N-DM308-040.jpg/1920px-USS_Theodore_Roosevelt_operations_160322-N-DM308-040.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Canberra_skyline%2C_York_Park_conservation_site%2C_The_National_Circuit%2C_Barton%2C_ACT_IMGP9718.jpg/1920px-Canberra_skyline%2C_York_Park_conservation_site%2C_The_National_Circuit%2C_Barton%2C_ACT_IMGP9718.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Senator_Dan_Sullivan_official.jpg/1280px-Senator_Dan_Sullivan_official.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Rep._Mary_Peltola_headshot_%28cropped%29.jpg/1280px-Rep._Mary_Peltola_headshot_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -13074,7 +13178,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg/1280px-Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/c/c0/Mother_Ukraine_blue_hour.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/2/2d/Al_Khoziny_Islamic_boarding_school_collapsed_during_evacuation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Cenotaph%2C_Whitehall_London_UK_Sun_7th_June_2020.jpg/1920px-Cenotaph%2C_Whitehall_London_UK_Sun_7th_June_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Cenotaph%2C_Whitehall_London_UK_Sun_7th_June_2020.jpg/1920px-Cenotaph%2C_Whitehall_London_UK_Sun_7th_June_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Buffalo_Nairobi_Skyline_Savannah_Kenya_May19_R1600769.jpg/1920px-Buffalo_Nairobi_Skyline_Savannah_Kenya_May19_R1600769.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -16321,31 +16426,6 @@
    "whitehall london"
   ],
   "checked": {
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Istana_Negara_with_Kuala_Lumpur_skyline_in_the_background.jpg/1920px-Istana_Negara_with_Kuala_Lumpur_skyline_in_the_background.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|4ed095e3": {
-    "s": 6,
-    "w": "Kuala Lumpur skyline at night",
-    "p": ""
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Early_Voting_0135_%2830620206795%29.jpg/1920px-Early_Voting_0135_%2830620206795%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|a1b8824a": {
-    "s": 6,
-    "w": "early voting scene in US",
-    "p": ""
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Trillion_Peso_March_at_EDSA_Shrine_in_September_2025_16.jpg/1920px-Trillion_Peso_March_at_EDSA_Shrine_in_September_2025_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|71e10925": {
-    "s": 7,
-    "w": "large protest crowd",
-    "p": ""
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_Trump_official_portrait_%28cropped%29.jpg/1280px-Donald_Trump_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Donald Trump": {
-    "s": 10,
-    "w": "Donald Trump portrait smiling",
-    "p": ""
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Astrakhan_Stock_Exchange_Building_P5090963_2200.jpg/1920px-Astrakhan_Stock_Exchange_Building_P5090963_2200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|af0d13e4": {
-    "s": 0,
-    "w": "building and fountain",
-    "p": "Photo shows a building and fountain, not a stock exchange or economy-related sce"
-   },
    "https://upload.wikimedia.org/wikipedia/commons/6/67/Virginia_House_of_Delegates_chamber_2017.jpg|473b93e2": {
     "s": 6,
     "w": "Virginia House of Delegates chamber",
@@ -18820,6 +18900,31 @@
     "s": 10,
     "w": "The Cenotaph in Whitehall London",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Stained-glass_window_-_The_Courts%2C_Bristol_-_DSC_7655.jpg/1920px-Stained-glass_window_-_The_Courts%2C_Bristol_-_DSC_7655.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|7a8dd818": {
+    "s": 0,
+    "w": "stained glass window",
+    "p": "Photo shows a stained glass window instead of a courtroom or related legal scene"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Legal_Mansion_%2B_Court_Chambers%2C_2025_%2801%29.jpg/1920px-Legal_Mansion_%2B_Court_Chambers%2C_2025_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|7a8dd818": {
+    "s": 5,
+    "w": "street view of building",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg/1920px-Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|7a8dd818": {
+    "s": 6,
+    "w": "judge gavel on rainbow flag",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Hyrax_in_Kenya.jpg/1920px-Hyrax_in_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|7a8dd818": {
+    "s": 0,
+    "w": "rock hyrax on the ground",
+    "p": "shows an animal instead of a courtroom or legal context"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Buffalo_Nairobi_Skyline_Savannah_Kenya_May19_R1600769.jpg/1920px-Buffalo_Nairobi_Skyline_Savannah_Kenya_May19_R1600769.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|7a8dd818": {
+    "s": 5,
+    "w": "Nairobi skyline and African buffalo",
+    "p": "shows landscape instead of courtroom action"
    }
   }
  },
@@ -18831,10 +18936,10 @@
   "2026-11-23": 20,
   "2026-11-24": 23,
   "2026-11-25": 29,
-  "2026-11-26": 9
+  "2026-11-26": 10
  },
- "last_auto_at": "2026-11-26T11:03:04.717232+00:00",
- "last_post_at": "2026-11-26T11:03:10.464827+00:00",
+ "last_auto_at": "2026-11-26T12:46:46.469910+00:00",
+ "last_post_at": "2026-11-26T12:46:52.225252+00:00",
  "reels_count": {
   "2026-11-20": 3,
   "2026-11-21": 3,
