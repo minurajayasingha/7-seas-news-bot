@@ -9963,50 +9963,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-23T03:46:26.869040+00:00",
-   [
-    "attack",
-    "deal",
-    "dron",
-    "high",
-    "iran",
-    "iranian",
-    "last",
-    "midterm",
-    "missil",
-    "permanent",
-    "reach",
-    "surg",
-    "trump",
-    "unleash",
-    "want",
-    "yearlong"
-   ],
-   "5ce05721ba"
-  ],
-  [
-   "2026-11-23T03:46:59.316068+00:00",
-   [
-    "apparent",
-    "arena",
-    "chao",
-    "co-op",
-    "concert",
-    "crowd",
-    "don",
-    "evacuat",
-    "gas",
-    "incident",
-    "let",
-    "liv",
-    "manchester",
-    "substanc",
-    "tear",
-    "toliver"
-   ],
-   "38e98f092c"
-  ],
-  [
    "2026-11-23T04:46:02.905166+00:00",
    [
     "beyond",
@@ -12428,17 +12384,13 @@
    "2c907c668e"
   ]
  ],
- "last_draft_at": "2026-11-26T03:30:58.829478+00:00",
+ "last_draft_at": "2026-11-26T03:46:06.103941+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T03:00:46.171058+00:00",
  "run_log": [
-  "11-26 01:15:32 run start",
-  "11-26 01:15:52 listening 11 min",
-  "11-26 01:26:58 listening done",
-  "11-26 01:26:58 run end after 685 s",
   "11-26 01:31:03 run start",
   "11-26 01:31:34 listening 11 min",
   "11-26 01:42:52 listening done",
@@ -12474,7 +12426,11 @@
   "11-26 03:30:58 run start",
   "11-26 03:31:30 listening 11 min",
   "11-26 03:42:48 listening done",
-  "11-26 03:42:48 run end after 709 s"
+  "11-26 03:42:48 run end after 709 s",
+  "11-26 03:46:05 run start",
+  "11-26 03:46:07 listening 11 min",
+  "11-26 03:57:52 listening done",
+  "11-26 03:57:52 run end after 706 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
