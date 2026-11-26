@@ -8626,11 +8626,96 @@
     "shares": 0
    },
    "stats_at": "2026-11-26T09:00:54.949217+00:00"
+  },
+  "d884ab18e2": {
+   "id": "d884ab18e2",
+   "headline": "Explosion occurs at oil facility in Bangkok",
+   "summary": "An explosion occurred at an oil depot in Bangkok, sending a fireball and black smoke into the sky. Local authorities urged residents in the surrounding area to evacuate their homes.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "The incident occurred in eastern Bangkok.",
+    "Journalists reported a large fireball and thick black smoke."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Bangkok",
+    "#Thailand",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "France 24"
+   ],
+   "link": "https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok?traffic_source=rss"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/asia-pacific/20261126-huge-explosion-at-oil-depot-in-bangkok-sends-fireball-into-sky"
+    ]
+   ],
+   "bg": {
+    "type": "map",
+    "photos": [],
+    "location": "Bangkok, Thailand",
+    "lat": 13.7525,
+    "lon": 100.49416667,
+    "country": "Thailand",
+    "state": "",
+    "_loaded": 0
+   },
+   "img_post": {
+    "headline": "Explosion occurs at oil facility in Bangkok",
+    "people": [],
+    "image_query": "Bangkok skyline",
+    "image_queries": [
+     "Bangkok depot",
+     "Bangkok city",
+     "oil depot facility",
+     "emergency response Bangkok"
+    ],
+    "image_style": "incident",
+    "location": "Bangkok, Thailand",
+    "nearby_city": "Bangkok, Thailand",
+    "event_query": "Bangkok oil facility explosion",
+    "topic_photo": "oil refinery",
+    "label": "WORLD",
+    "action_subject": "smoke rising from explosion",
+    "news_time": "2026-11-26T08:27:20+00:00"
+   },
+   "created_at": "2026-11-26T09:16:40.700514+00:00",
+   "news_time": "2026-11-26T08:27:20+00:00",
+   "news_latest": "2026-11-26T08:49:20+00:00",
+   "importance": 7,
+   "caption": "🚨 BREAKING: Explosion occurs at oil facility in Bangkok\n\nAn explosion occurred at an oil depot in Bangkok, sending a fireball and black smoke into the sky. Local authorities urged residents in the surrounding area to evacuate their homes.\n\nWhat we know so far:\n• The incident occurred in eastern Bangkok.\n• Journalists reported a large fireball and thick black smoke.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Bangkok #Thailand #WorldNews #7SeasNews",
+   "photo_line": "📷 news map (no fitting photo)",
+   "status": "posted",
+   "tg_message_id": 1018,
+   "tg_file_id": "AgACAgUAAxkDAAID-msH-Pp7R5b_sdMVOLz1xyhoPTgRAALPE2sbiIVBVARbtDD6AtVaAQADAgADdwADPQQ",
+   "queued_at": "2026-11-26T09:16:42.447927+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-26T09:16:42.447947+00:00",
+   "post_label": "🤖 Auto-posting + Reel",
+   "fb_post_id": "1413030521900096_122112098745548584",
+   "posted_at": "2026-11-26T09:16:42.730113+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 26 · 4:16 AM New York · 2:46 PM Sri Lanka\n\n<b>Explosion occurs at oil facility in Bangkok</b>\n<i>Al Jazeera, France 24</i>\n🟢 <b>Latest:</b> 2:19 PM Sri Lanka (27 min ago) · first reported 1:57 PM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112098745548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 726,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112098745548584_1955968698716212",
+   "fb_story_id": "2547307339434669",
+   "fb_reel_id": "2361670171271373",
+   "reel_status": "live"
   }
  },
  "seen_links": [
-  "https://www.washingtonexaminer.com/news/campaigns/presidential/4800349/biden-call-debate-performance-not-consequential-mistake-didnt-disturb-me/",
-  "https://www.foxnews.com/politics/biden-ripped-totally-delusional-claim-debate-preceded-2024-exit",
   "https://thehill.com/homenews/media/6213650-biden-debate-performance-memoir/",
   "https://www.upi.com/Top_News/World-News/2026/11/11/lebanon-food-insecutity-worsens/9961794422050/",
   "https://www.aljazeera.com/news/2026/11/11/one-million-people-in-lebanon-facing-acute-food-insecurity-un-says?traffic_source=rss",
@@ -10628,7 +10713,9 @@
   "https://kyivindependent.com/general-staff-russia-has-lost-1-645-899-troops-in-ukraine-since-feb-24-2022/",
   "https://www.dw.com/en/can-rassvet-russia-s-starlink-change-the-course-of-the-war-in-ukraine/a-80052579?maca=en-rss-en-world-4025-rdf",
   "https://www.aljazeera.com/news/2026/11/26/at-least-13-dead-in-indonesia-gold-mine-flood-as-rescue-efforts-intensify?traffic_source=rss",
-  "https://www.euronews.com/2026/11/26/indonesia-rescuers-race-to-find-13-miners-trapped-in-flooded-illegal-gold-mine"
+  "https://www.euronews.com/2026/11/26/indonesia-rescuers-race-to-find-13-miners-trapped-in-flooded-illegal-gold-mine",
+  "https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok?traffic_source=rss",
+  "https://www.france24.com/en/asia-pacific/20261126-huge-explosion-at-oil-depot-in-bangkok-sends-fireball-into-sky"
  ],
  "recent_topics": [
   [
@@ -13129,19 +13216,32 @@
     "trapp"
    ],
    "a2e6fdd2be"
+  ],
+  [
+   "2026-11-26T09:16:42.447810+00:00",
+   [
+    "bangkok",
+    "depot",
+    "explosion",
+    "facility",
+    "fireball",
+    "hug",
+    "occur",
+    "oil",
+    "send",
+    "sky",
+    "thailand"
+   ],
+   "d884ab18e2"
   ]
  ],
- "last_draft_at": "2026-11-26T09:01:36.693690+00:00",
+ "last_draft_at": "2026-11-26T09:15:59.806140+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T09:00:54.949217+00:00",
  "run_log": [
-  "11-26 06:51:27 run start",
-  "11-26 06:51:46 listening 11 min",
-  "11-26 07:03:04 listening done",
-  "11-26 07:03:04 run end after 697 s",
   "11-26 07:03:34 run start",
   "11-26 07:05:13 listening 10 min",
   "11-26 07:15:18 listening done",
@@ -13177,7 +13277,11 @@
   "11-26 09:00:54 run start",
   "11-26 09:02:08 listening 10 min",
   "11-26 09:12:38 listening done",
-  "11-26 09:12:38 run end after 703 s"
+  "11-26 09:12:38 run end after 703 s",
+  "11-26 09:15:59 run start",
+  "11-26 09:17:20 listening 10 min",
+  "11-26 09:27:49 listening done",
+  "11-26 09:27:49 run end after 709 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -16468,41 +16572,6 @@
    "collapsed building rescue"
   ],
   "checked": {
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/The_port_of_Long_Beach_by_Don_Ramey_Logan.jpg/1920px-The_port_of_Long_Beach_by_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
-    "s": 10,
-    "w": "Port of Long Beach",
-    "p": ""
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Central_Marin_Police_Station%2C_250_Doherty_Dr%2C_Larkspur%2C_CA.jpg/1920px-Central_Marin_Police_Station%2C_250_Doherty_Dr%2C_Larkspur%2C_CA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
-    "s": 6,
-    "w": "Central Marin Police Station",
-    "p": "Generic police station stock photo, not related to Epstein"
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/James_Comer_official_photo_%28cropped%29.jpg/1280px-James_Comer_official_photo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: James Comer": {
-    "s": 10,
-    "w": "James Comer",
-    "p": ""
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Donald Trump": {
-    "s": 10,
-    "w": "Donald Trump smiling",
-    "p": ""
-   },
-   "https://upload.wikimedia.org/wikipedia/commons/9/91/Aerial_view_of_Manila%27s_city_center_area_%28Padre_Burgos_area%29_in_Ermita%2C_Manila.jpg|79cb12f2": {
-    "s": 9,
-    "w": "Manila city center aerial view",
-    "p": ""
-   },
-   "https://upload.wikimedia.org/wikipedia/commons/4/4c/Tokyo_Metropolitan_Government_Building_Morning2_cropped.jpg|d274fdf4": {
-    "s": 10,
-    "w": "Tokyo Metropolitan Government Building",
-    "p": ""
-   },
-   "https://upload.wikimedia.org/wikipedia/commons/5/59/United_States_Department_of_State_headquarters.jpg|8d5d50fe": {
-    "s": 10,
-    "w": "US Department of State building",
-    "p": ""
-   },
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/J-21_Jastreb_Aerotehni%C4%8Dki_institut_MF_BG_3.jpg/1920px-J-21_Jastreb_Aerotehni%C4%8Dki_institut_MF_BG_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|0bc81e7c": {
     "s": 8,
     "w": "jet monument",
@@ -18967,6 +19036,41 @@
     "s": 10,
     "w": "rescuers at collapsed building",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Royal_Thai_Police%2C_Isuzu_D-Max_patrol_car..jpg/1920px-Royal_Thai_Police%2C_Isuzu_D-Max_patrol_car..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|a5c24602": {
+    "s": 5,
+    "w": "Bangkok police pickup truck",
+    "p": "Shows a police truck instead of explosion or fire services"
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/3/35/2010_0515_rama_4_and_sathorn_33a.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled|a5c24602": {
+    "s": 0,
+    "w": "rescue workers with injured person",
+    "p": "shows specific casualties/bodies of a different event"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Tune_it_safe%2C_EMS_2023%2C_Essen_%28P1170003%29.jpg/1920px-Tune_it_safe%2C_EMS_2023%2C_Essen_%28P1170003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|a5c24602": {
+    "s": 0,
+    "w": "police van on display",
+    "p": "Wrong event and subject (exhibition car instead of oil facility explosion)."
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Bangkok_skyline_2018.jpg/1920px-Bangkok_skyline_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|a5c24602": {
+    "s": 4,
+    "w": "Bangkok skyline at dusk",
+    "p": "City skyline for an explosion story lacks the explosion action"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Bangkok_downtown_traffic.jpg/1920px-Bangkok_downtown_traffic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|a5c24602": {
+    "s": 3,
+    "w": "heavy traffic in Bangkok street",
+    "p": "shows traffic instead of oil facility explosion"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Monks_in_Street_-_Bangkok_-_Thailand_%2834712727055%29.jpg/1920px-Monks_in_Street_-_Bangkok_-_Thailand_%2834712727055%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|a5c24602": {
+    "s": 0,
+    "w": "buddhist monks walking in bangkok",
+    "p": "photo shows monks walking instead of an explosion at an oil facility"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Novotel_Bangkok_on_Siam_Square.jpg/1920px-Novotel_Bangkok_on_Siam_Square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|a5c24602": {
+    "s": 0,
+    "w": "hotel building sign",
+    "p": "photo shows hotel entrance instead of oil facility explosion"
    }
   }
  },
@@ -18978,10 +19082,10 @@
   "2026-11-23": 20,
   "2026-11-24": 23,
   "2026-11-25": 29,
-  "2026-11-26": 7
+  "2026-11-26": 8
  },
- "last_auto_at": "2026-11-26T08:02:07.291744+00:00",
- "last_post_at": "2026-11-26T08:02:12.507504+00:00",
+ "last_auto_at": "2026-11-26T09:16:42.730113+00:00",
+ "last_post_at": "2026-11-26T09:16:46.478691+00:00",
  "reels_count": {
   "2026-11-20": 3,
   "2026-11-21": 3,
@@ -18989,7 +19093,7 @@
   "2026-11-23": 1,
   "2026-11-24": 3,
   "2026-11-25": 3,
-  "2026-11-26": 1
+  "2026-11-26": 2
  },
  "roundup": {
   "2026-11-18": {
