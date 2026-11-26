@@ -7869,11 +7869,97 @@
     "shares": 0
    },
    "stats_at": "2026-11-26T03:00:46.171058+00:00"
+  },
+  "2c907c668e": {
+   "id": "2c907c668e",
+   "headline": "Federal judge rules against Democrats on tax-funded ads",
+   "summary": "A federal judge sided against the Democratic National Committee regarding taxpayer-funded advertisements promoting President Trump. The DNC previously argued that the ads would affect the outcome of the midterm election, while critics called the ads illegal propaganda.",
+   "label": "US POLITICS",
+   "hook": "Will these taxpayer-funded advertisements affect the midterm election outcome?",
+   "key_points": [
+    "The DNC previously argued the ads would affect the midterm election.",
+    "A temporary restraining order was previously issued in the case.",
+    "Critics called the ads illegal propaganda."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#TrumpAds",
+    "#FederalCourt"
+   ],
+   "sources": [
+    "CBS News",
+    "The Hill"
+   ],
+   "link": "https://thehill.com/regulation/court-battles/6244361-judge-denies-dnc-ad-challenge/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/regulation/court-battles/6244361-judge-denies-dnc-ad-challenge/"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/news/judge-declines-long-term-ban-pro-trump-ads/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Courtroom_at_the_United_States_Courthouse_in_Augusta%2C_GA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Carol M. Highsmith / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 7,
+      "shows": "courtroom interior"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "Federal judge rules against Democrats on tax-funded ads",
+    "people": [],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "Supreme Court building",
+     "voting booth",
+     "Democratic National Committee",
+     "courtroom"
+    ],
+    "image_style": "scene",
+    "location": "United States",
+    "nearby_city": "Washington, D.C.",
+    "event_query": "",
+    "topic_photo": "judge gavel",
+    "label": "US POLITICS",
+    "action_subject": "courtroom",
+    "news_time": "2026-11-26T01:07:04+00:00"
+   },
+   "created_at": "2026-11-26T03:31:13.362508+00:00",
+   "news_time": "2026-11-26T01:07:04+00:00",
+   "news_latest": "2026-11-26T03:09:54+00:00",
+   "importance": 6,
+   "caption": "Federal judge rules against Democrats on tax-funded ads\n\nA federal judge sided against the Democratic National Committee regarding taxpayer-funded advertisements promoting President Trump. The DNC previously argued that the ads would affect the outcome of the midterm election, while critics called the ads illegal propaganda.\n\n💬 Will these taxpayer-funded advertisements affect the midterm election outcome?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #TrumpAds #FederalCourt #7SeasNews",
+   "photo_line": "📷 7/10 courtroom interior · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 1008,
+   "tg_file_id": "AgACAgUAAxkDAAID8GsHqALm08BFu0JNTaic_fh9liNQAAL3Emsbr_w5VPYIONjNOkIrAQADAgADdwADPQQ",
+   "queued_at": "2026-11-26T03:31:15.171370+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-26T03:31:15.171387+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122111990769548584",
+   "posted_at": "2026-11-26T03:31:15.465515+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 25 · 10:31 PM New York · 9:01 AM Sri Lanka\n\n<b>Federal judge rules against Democrats on tax-funded ads</b>\n<i>CBS News, The Hill</i>\n🟢 <b>Latest:</b> 8:39 AM Sri Lanka (21 min ago) · first reported 6:37 AM\n📷 7/10 courtroom interior · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122111990769548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 717,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122111990769548584_2395339704573519"
   }
  },
  "seen_links": [
-  "https://www.nytimes.com/2026/11/11/us/politics/trump-democrats-congress-oversight-committee.html",
-  "https://www.washingtonpost.com/politics/2026/11/11/white-house-starts-aggressive-moves-block-investigations-by-congress/",
   "https://www.upi.com/Top_News/World-News/2026/11/11/latam-brazil-meta-fined-election-bias/5251794414112/",
   "https://www.dw.com/en/brazil-electoral-court-fines-meta-sees-no-deliberate-election-bias/a-79920780?maca=en-rss-en-world-4025-rdf",
   "https://www.france24.com/en/france/20261111-tehran-will-strike-us-bases-in-europe-if-used-to-attack-iran-security-chief-says",
@@ -9871,7 +9957,9 @@
   "https://thehill.com/regulation/court-battles/6244298-judge-blocks-fcc-from-early-renewal-of-abc-licenses/",
   "https://www.nbcnews.com/business/media/judge-blocks-fcc-review-abc-station-licenses-now-rcna601892",
   "https://www.aljazeera.com/video/newsfeed/2026/11/26/judges-recommend-prosecutors-end-corruption-case-against-netanyahu?traffic_source=rss",
-  "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html"
+  "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html",
+  "https://thehill.com/regulation/court-battles/6244361-judge-denies-dnc-ad-challenge/",
+  "https://www.cbsnews.com/news/judge-declines-long-term-ban-pro-trump-ads/"
  ],
  "recent_topics": [
   [
@@ -12321,19 +12409,32 @@
     "suggest"
    ],
    "66326824d0"
+  ],
+  [
+   "2026-11-26T03:31:15.171253+00:00",
+   [
+    "ads",
+    "ban",
+    "declin",
+    "democrat",
+    "issu",
+    "judg",
+    "long-term",
+    "pro-trump",
+    "sid",
+    "tax-fund",
+    "taxpayer-fund"
+   ],
+   "2c907c668e"
   ]
  ],
- "last_draft_at": "2026-11-26T03:15:38.868179+00:00",
+ "last_draft_at": "2026-11-26T03:30:58.829478+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T03:00:46.171058+00:00",
  "run_log": [
-  "11-26 01:00:51 run start",
-  "11-26 01:01:45 listening 11 min",
-  "11-26 01:12:28 listening done",
-  "11-26 01:12:28 run end after 696 s",
   "11-26 01:15:32 run start",
   "11-26 01:15:52 listening 11 min",
   "11-26 01:26:58 listening done",
@@ -12369,12 +12470,15 @@
   "11-26 03:15:38 run start",
   "11-26 03:16:11 listening 11 min",
   "11-26 03:27:05 listening done",
-  "11-26 03:27:05 run end after 687 s"
+  "11-26 03:27:05 run end after 687 s",
+  "11-26 03:30:58 run start",
+  "11-26 03:31:30 listening 11 min",
+  "11-26 03:42:48 listening done",
+  "11-26 03:42:48 run end after 709 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Special_Operations_Forces_Africa_conduct_medical_civic_action_program_with_Beninese_partners_%288795705%29.jpg/1920px-Special_Operations_Forces_Africa_conduct_medical_civic_action_program_with_Beninese_partners_%288795705%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/The_Clay_County_Courthouse_courtroom_in_2007.jpg/1920px-The_Clay_County_Courthouse_courtroom_in_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/20181208_JASDF_E-2_Hawkeye_landing_Naha_Air_Show_2018-21.jpg/1920px-20181208_JASDF_E-2_Hawkeye_landing_Naha_Air_Show_2018-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/USS_Lake_Erie_%28CG_70%29_missile_test.jpg/1920px-USS_Lake_Erie_%28CG_70%29_missile_test.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -12413,7 +12517,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Early_MiG_jets_at_Monino_%2810027023165%29.jpg/1920px-Early_MiG_jets_at_Monino_%2810027023165%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Boone_County_Courthouse_courtroom_front.jpg/1920px-Boone_County_Courthouse_courtroom_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg/1920px-Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Benjamin_Netanyahu%2C_February_2023_%28cropped%29%28b%29.jpg/1280px-Benjamin_Netanyahu%2C_February_2023_%28cropped%29%28b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Benjamin_Netanyahu%2C_February_2023_%28cropped%29%28b%29.jpg/1280px-Benjamin_Netanyahu%2C_February_2023_%28cropped%29%28b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/0/0a/Courtroom_at_the_United_States_Courthouse_in_Augusta%2C_GA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   ],
   "pools": {
    "howard lutnick": {
@@ -15647,7 +15752,6 @@
    }
   },
   "recent_ideas": [
-   "judge gavel",
    "new york stock exchange",
    "us capitol building",
    "emergency services of that city",
@@ -15658,7 +15762,8 @@
    "giant parade balloons",
    "fighter jets",
    "courtroom",
-   "judge gavel"
+   "judge gavel",
+   "courtroom"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -18115,6 +18220,21 @@
     "s": 10,
     "w": "Benjamin Netanyahu portrait",
     "p": ""
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/0/0a/Courtroom_at_the_United_States_Courthouse_in_Augusta%2C_GA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled|b0b8a0ee": {
+    "s": 7,
+    "w": "courtroom interior",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Stutsman_County_Courthouse_-_Courtroom_01.jpg/1920px-Stutsman_County_Courthouse_-_Courtroom_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|b0b8a0ee": {
+    "s": 7,
+    "w": "courtroom interior with benches",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Chicago_September_2016-14.jpg/1920px-Chicago_September_2016-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|b0b8a0ee": {
+    "s": 0,
+    "w": "skyscrapers and a bridge",
+    "p": "photo shows city skyscrapers instead of a court building"
    }
   }
  },
@@ -18126,10 +18246,10 @@
   "2026-11-22": 11,
   "2026-11-23": 20,
   "2026-11-24": 23,
-  "2026-11-25": 28
+  "2026-11-25": 29
  },
- "last_auto_at": "2026-11-26T02:31:55.016989+00:00",
- "last_post_at": "2026-11-26T02:32:12.802520+00:00",
+ "last_auto_at": "2026-11-26T03:31:15.465515+00:00",
+ "last_post_at": "2026-11-26T03:31:20.650060+00:00",
  "reels_count": {
   "2026-11-19": 3,
   "2026-11-20": 3,
