@@ -8989,13 +8989,77 @@
     "shares": 0
    },
    "stats_at": "2026-11-26T18:01:04.328613+00:00"
+  },
+  "7c2954f504": {
+   "id": "7c2954f504",
+   "headline": "FIFA confirms cyber attack resulted in stolen personal and business information",
+   "summary": "World football's governing body announced it suffered a criminal cyberattack. The security breach resulted in unauthorized access to personal and business information.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "FIFA announced the security breach on Thursday",
+    "The cyberattack targeted the organization and its president"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#FIFA",
+    "#CyberSecurity",
+    "#WorldNews"
+   ],
+   "sources": [
+    "DW",
+    "The Hill"
+   ],
+   "link": "https://thehill.com/policy/technology/6244786-fifa-cyberattack-personal-data/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/policy/technology/6244786-fifa-cyberattack-personal-data/"
+    ],
+    [
+     "DW",
+     "https://www.dw.com/en/fifa-says-a-cyberattack-against-it-targeted-a-limited-set-of-personal-and-business-information/a-80062660?maca=en-rss-en-world-4025-rdf"
+    ]
+   ],
+   "bg": {
+    "type": "incident",
+    "photos": [],
+    "location": ""
+   },
+   "img_post": {
+    "headline": "FIFA confirms cyber attack resulted in stolen personal and business information",
+    "people": [],
+    "image_query": "soccer headquarters building",
+    "image_queries": [
+     "soccer stadium",
+     "digital security",
+     "computer code",
+     "server room"
+    ],
+    "image_style": "incident",
+    "location": "",
+    "nearby_city": "",
+    "event_query": "FIFA cyber attack",
+    "topic_photo": "computer servers",
+    "label": "WORLD",
+    "action_subject": "computer servers",
+    "news_time": "2026-11-26T14:45:00+00:00"
+   },
+   "created_at": "2026-11-26T18:18:01.791967+00:00",
+   "news_time": "2026-11-26T14:45:00+00:00",
+   "news_latest": "2026-11-26T18:10:00+00:00",
+   "importance": 5,
+   "caption": "FIFA confirms cyber attack resulted in stolen personal and business information\n\nWorld football's governing body announced it suffered a criminal cyberattack. The security breach resulted in unauthorized access to personal and business information.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#FIFA #CyberSecurity #WorldNews #7SeasNews",
+   "photo_line": "📷 no fitting photo (brand design)",
+   "status": "pending",
+   "tg_message_id": 1031,
+   "tg_file_id": "AgACAgUAAxkDAAIEB2sId9tJmJh6jxRBiRCJundvZajrAAINEmsbiIVJVAYvudRhv1cCAQADAgADdwADPQQ",
+   "extra_msgs": [
+    1032
+   ]
   }
  },
  "seen_links": [
-  "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/",
-  "https://www.newsweek.com/jensen-huangs-nvidia-future-in-limbo-amid-reported-second-affair-12702480",
-  "https://thehill.com/homenews/senate/6215009-senator-cramer-calls-nvidia-ceo-resignation/",
-  "https://www.nbcnews.com/nightly-news/video/nyt-reports-nvidia-ceo-had-second-extramarital-relationship-273310789756",
   "https://www.aljazeera.com/news/2026/11/12/what-could-chinese-intelligence-have-learned-from-nvidia-ceos-affair?traffic_source=rss",
   "https://www.washingtonexaminer.com/policy/technology/4800920/nvidia-board-oust-ceo-jensen-huang/",
   "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss",
@@ -10991,7 +11055,11 @@
   "https://www.washingtonexaminer.com/news/white-house/4816241/trump-radical-far-left-happy-thanksgiving/",
   "https://thehill.com/homenews/media/6244597-donald-trump-new-york-times-criticism-thanksgiving/",
   "https://www.independent.co.uk/news/world/americas/weather-today-forecast-nyc-thanksgiving-macys-parade-b3092225.html",
-  "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech"
+  "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
+  "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years?traffic_source=rss",
+  "https://abcnews.com/International/wireStory/serbia-sets-presidential-election-dec-27-after-students-138465505",
+  "https://thehill.com/policy/technology/6244786-fifa-cyberattack-personal-data/",
+  "https://www.dw.com/en/fifa-says-a-cyberattack-against-it-targeted-a-limited-set-of-personal-and-business-information/a-80062660?maca=en-rss-en-world-4025-rdf"
  ],
  "recent_topics": [
   [
@@ -13627,19 +13695,32 @@
     "weather"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-26T18:18:04.037779+00:00",
+   [
+    "attack",
+    "business",
+    "cyber",
+    "cyberattack",
+    "fifa",
+    "information",
+    "limit",
+    "personal",
+    "set",
+    "stolen",
+    "target"
+   ],
+   "7c2954f504"
   ]
  ],
- "last_draft_at": "2026-11-26T18:01:37.357143+00:00",
+ "last_draft_at": "2026-11-26T18:15:38.644706+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T18:01:04.328613+00:00",
  "run_log": [
-  "11-26 15:46:13 run start",
-  "11-26 15:46:46 listening 11 min",
-  "11-26 15:57:40 listening done",
-  "11-26 15:57:40 run end after 686 s",
   "11-26 16:00:49 run start",
   "11-26 16:03:54 listening 8 min",
   "11-26 16:12:18 listening done",
@@ -13675,7 +13756,11 @@
   "11-26 18:01:03 run start",
   "11-26 18:01:56 listening 11 min",
   "11-26 18:12:50 listening done",
-  "11-26 18:12:50 run end after 706 s"
+  "11-26 18:12:50 run end after 706 s",
+  "11-26 18:15:38 run start",
+  "11-26 18:18:04 listening 9 min",
+  "11-26 18:27:18 listening done",
+  "11-26 18:27:18 run end after 700 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -17022,11 +17107,6 @@
    "marriner s. eccles federal reserve board building"
   ],
   "checked": {
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_02.jpg/1920px-A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|6bb5e648": {
-    "s": 7,
-    "w": "empty courtroom",
-    "p": ""
-   },
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/SW_Main_Building_Pano_Taliesin_West_Mar23_R16_07189-90_Pano.jpg/1920px-SW_Main_Building_Pano_Taliesin_West_Mar23_R16_07189-90_Pano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|6bb5e648": {
     "s": 0,
     "w": "Taliesin West building in Arizona",
@@ -19521,6 +19601,11 @@
     "s": 5,
     "w": "Hong Kong skyline at night",
     "p": "Shows a calm skyline instead of the specific memorial action"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Supermicro_AOC-IBH-001_DDR_InfiniBand_mezzanine_card_%28bottom%29.jpg/1920px-Supermicro_AOC-IBH-001_DDR_InfiniBand_mezzanine_card_%28bottom%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|bdd656c7": {
+    "s": 0,
+    "w": "circuit board",
+    "p": "close-up of a small object"
    }
   }
  },
