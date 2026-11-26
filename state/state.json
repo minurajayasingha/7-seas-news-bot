@@ -8615,11 +8615,94 @@
     "shares": 0
    },
    "stats_at": "2026-11-26T14:00:47.234456+00:00"
+  },
+  "87be1a7dc5": {
+   "id": "87be1a7dc5",
+   "headline": "Fighting in eastern Congo forces Ebola response workers to evacuate",
+   "summary": "Escalating fighting between rebels and the army in eastern Congo has forced Ebola response workers to evacuate affected areas. Health officials and humanitarian workers report that the violence is disrupting efforts to contain the deadly outbreak.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Congo's Ebola outbreak has infected over 11,700 people.",
+    "More than 5,700 people have died from the outbreak since May."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Congo",
+    "#Ebola",
+    "#WorldNews"
+   ],
+   "sources": [
+    "France 24",
+    "NPR"
+   ],
+   "link": "https://www.france24.com/en/video/20261126-fighting-in-eastern-congo-forces-ebola-workers-to-evacuate-disrupts-outbreak-response",
+   "links": [
+    [
+     "France 24",
+     "https://www.france24.com/en/video/20261126-fighting-in-eastern-congo-forces-ebola-workers-to-evacuate-disrupts-outbreak-response"
+    ],
+    [
+     "NPR",
+     "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders"
+    ]
+   ],
+   "bg": {
+    "type": "map",
+    "photos": [],
+    "location": "Democratic Republic of the Congo",
+    "lat": -4.07,
+    "lon": 21.740000000000002,
+    "country": "Dem. Rep. Congo",
+    "state": "",
+    "pin": false,
+    "fit": true
+   },
+   "img_post": {
+    "headline": "Fighting in eastern Congo forces Ebola response workers to evacuate",
+    "people": [],
+    "image_query": "Democratic Republic of Congo landscape",
+    "image_queries": [
+     "health clinic in Congo",
+     "medical workers in Africa",
+     "village in eastern Congo",
+     "hospital building"
+    ],
+    "image_style": "incident",
+    "location": "Democratic Republic of the Congo",
+    "nearby_city": "Kinshasa, Democratic Republic of the Congo",
+    "event_query": "Congo Ebola outbreak response",
+    "topic_photo": "hospital corridor",
+    "label": "CONFLICT",
+    "action_subject": "medical workers",
+    "news_time": "2026-11-26T13:47:09+00:00"
+   },
+   "created_at": "2026-11-26T14:46:20.020817+00:00",
+   "news_time": "2026-11-26T13:47:09+00:00",
+   "news_latest": "2026-11-26T14:20:13+00:00",
+   "importance": 7,
+   "caption": "Fighting in eastern Congo forces Ebola response workers to evacuate\n\nEscalating fighting between rebels and the army in eastern Congo has forced Ebola response workers to evacuate affected areas. Health officials and humanitarian workers report that the violence is disrupting efforts to contain the deadly outbreak.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Congo #Ebola #WorldNews #7SeasNews",
+   "photo_line": "📷 news map (no fitting photo)",
+   "status": "posted",
+   "tg_message_id": 1022,
+   "tg_file_id": "AgACAgUAAxkDAAID_msIRj0KzBoruMnateRVJxtYAp8yAAKqEWsbiIVJVFr4D-zqcTpyAQADAgADdwADPQQ",
+   "queued_at": "2026-11-26T14:46:21.906492+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-26T14:46:21.906515+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122112242679548584",
+   "posted_at": "2026-11-26T14:46:22.233078+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 26 · 9:46 AM New York · 8:16 PM Sri Lanka\n\n<b>Fighting in eastern Congo forces Ebola response workers to evacuate</b>\n<i>France 24, NPR</i>\n🟢 <b>Latest:</b> 7:50 PM Sri Lanka (26 min ago) · first reported 7:17 PM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112242679548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 731,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112242679548584_1195198809679496"
   }
  },
  "seen_links": [
-  "https://www.nbcnews.com/politics/congress/delaware-residents-lawsuit-congress-house-representation-rcna608829",
-  "https://www.cbsnews.com/news/hegseth-tomb-of-the-unknown-soldier-arlington-cemetery/",
   "https://www.nbcnews.com/politics/trump-administration/hegseth-reprimanded-arlington-cemetery-veterans-tomb-unknown-soldier-rcna608869",
   "https://thehill.com/policy/defense/6214248-pete-hegseth-decorum-army-sentinel-veterans-day-tomb-unknown-soldier/",
   "https://www.washingtonexaminer.com/news/house/4800597/thomas-massie-epstein-files-petition-vote/",
@@ -10617,7 +10700,9 @@
   "https://thehill.com/opinion/national-security/6240190-trump-colby-nato-security-strategy/",
   "https://kyivindependent.com/grandmaster-of-politics-who-wants-peace-jared-kushner-interview-reveals-how-trumps-envoy-sees-putin-2/",
   "https://www.independent.co.uk/news/world/europe/jared-kushner-ukraine-russia-war-trump-b3092082.html",
-  "https://www.independent.co.uk/news/world/europe/kushner-putin-witkoff-ukraine-war-b3091967.html"
+  "https://www.independent.co.uk/news/world/europe/kushner-putin-witkoff-ukraine-war-b3091967.html",
+  "https://www.france24.com/en/video/20261126-fighting-in-eastern-congo-forces-ebola-workers-to-evacuate-disrupts-outbreak-response",
+  "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders"
  ],
  "recent_topics": [
   [
@@ -13027,19 +13112,36 @@
     "want"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-26T14:46:21.906337+00:00",
+   [
+    "12000",
+    "cas",
+    "congo",
+    "disrupt",
+    "eastern",
+    "ebola",
+    "evacuat",
+    "fight",
+    "forc",
+    "outbreak",
+    "reach",
+    "responder",
+    "respons",
+    "som",
+    "worker"
+   ],
+   "87be1a7dc5"
   ]
  ],
- "last_draft_at": "2026-11-26T14:31:19.086652+00:00",
+ "last_draft_at": "2026-11-26T14:45:37.134805+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T14:00:47.234456+00:00",
  "run_log": [
-  "11-26 12:16:10 run start",
-  "11-26 12:16:13 listening 11 min",
-  "11-26 12:28:00 listening done",
-  "11-26 12:28:00 run end after 709 s",
   "11-26 12:30:45 run start",
   "11-26 12:30:55 listening 11 min",
   "11-26 12:42:13 listening done",
@@ -13075,7 +13177,11 @@
   "11-26 14:31:18 run start",
   "11-26 14:31:20 listening 11 min",
   "11-26 14:43:06 listening done",
-  "11-26 14:43:06 run end after 707 s"
+  "11-26 14:43:06 run end after 707 s",
+  "11-26 14:45:36 run start",
+  "11-26 14:46:39 listening 10 min",
+  "11-26 14:57:07 listening done",
+  "11-26 14:57:07 run end after 691 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -16366,16 +16472,6 @@
    "whitehall london"
   ],
   "checked": {
-   "https://upload.wikimedia.org/wikipedia/commons/6/67/Virginia_House_of_Delegates_chamber_2017.jpg|473b93e2": {
-    "s": 6,
-    "w": "Virginia House of Delegates chamber",
-    "p": "Shows a state legislative chamber instead of the US Senate"
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|c4c9b800": {
-    "s": 7,
-    "w": "Federal Reserve building exterior",
-    "p": ""
-   },
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/US_Navy_040221-N-4936C-032_Air_Traffic_Controller_1st_Class_Marcella_Klauser%2C_a_Facility_Watch_Supervisor_with_the_Air_Operations_Department%2C_communicates_with_an_aircraft_while_on_duty.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|7d09a2db": {
     "s": 9,
     "w": "air traffic controller at desk",
@@ -18865,6 +18961,16 @@
     "s": 5,
     "w": "Nairobi skyline and African buffalo",
     "p": "shows landscape instead of courtroom action"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Monument_to_medical_workers_of_Tatarstan_%282024-05-18%29_02.jpg/1920px-Monument_to_medical_workers_of_Tatarstan_%282024-05-18%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|3091af43": {
+    "s": 0,
+    "w": "monument in a square",
+    "p": "photo shows a monument instead of medical workers"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Downtown_Lubumbashi%2C_Democratic_Republic_of_the_Congo_-_20061130.jpg/1920px-Downtown_Lubumbashi%2C_Democratic_Republic_of_the_Congo_-_20061130.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|3091af43": {
+    "s": 4,
+    "w": "street view in DR Congo",
+    "p": "shows a calm downtown street instead of the Ebola response workers"
    }
   }
  },
@@ -18876,10 +18982,10 @@
   "2026-11-23": 20,
   "2026-11-24": 23,
   "2026-11-25": 29,
-  "2026-11-26": 10
+  "2026-11-26": 11
  },
- "last_auto_at": "2026-11-26T12:46:46.469910+00:00",
- "last_post_at": "2026-11-26T12:46:52.225252+00:00",
+ "last_auto_at": "2026-11-26T14:46:22.233078+00:00",
+ "last_post_at": "2026-11-26T14:46:27.442109+00:00",
  "reels_count": {
   "2026-11-20": 3,
   "2026-11-21": 3,
