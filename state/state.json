@@ -1,103 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "e3bce82e41": {
-   "id": "e3bce82e41",
-   "headline": "UN climate talks end without agreement over fossil fuels",
-   "summary": "The COP31 climate summit concluded in Turkey without a final agreement after talks collapsed. International governments failed to reach a consensus amid a dispute regarding fossil fuel regulation.",
-   "label": "DIPLOMACY",
-   "hook": "Can future climate summits overcome disagreements on fossil fuels?",
-   "key_points": [
-    "The summit ended on Sunday.",
-    "U.N. Secretary-General António Guterres expressed deep disappointment.",
-    "Delegates engaged in contentious debates."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#COP31",
-    "#ClimateChange",
-    "#UN"
-   ],
-   "sources": [
-    "CBS News",
-    "The Hill",
-    "UPI"
-   ],
-   "link": "https://thehill.com/policy/international/6235913-cop31-climate-talks-fail-consensus/",
-   "links": [
-    [
-     "The Hill",
-     "https://thehill.com/policy/international/6235913-cop31-climate-talks-fail-consensus/"
-    ],
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/World-News/2026/11/22/turkey-cop31-climate-talks/6281795357334/"
-    ],
-    [
-     "CBS News",
-     "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/"
-    ]
-   ],
-   "bg": {
-    "type": "map",
-    "photos": [],
-    "location": "Turkey",
-    "lat": 39.91666667,
-    "lon": 32.85,
-    "country": "Turkey",
-    "state": "",
-    "pin": false,
-    "fit": true
-   },
-   "img_post": {
-    "headline": "UN climate talks end without agreement over fossil fuels",
-    "people": [],
-    "image_query": "United Nations conference hall",
-    "image_queries": [
-     "climate protest flags",
-     "United Nations building",
-     "renewable energy panels",
-     "international flags display"
-    ],
-    "image_style": "scene",
-    "location": "Turkey",
-    "nearby_city": "Ankara, Turkey",
-    "event_query": "COP31 climate summit Turkey",
-    "topic_photo": "conference room",
-    "label": "DIPLOMACY",
-    "action_subject": "delegates at conference table",
-    "news_time": "2026-11-22T15:41:41+00:00"
-   },
-   "created_at": "2026-11-22T17:21:15.325068+00:00",
-   "news_time": "2026-11-22T15:41:41+00:00",
-   "news_latest": "2026-11-22T17:13:09+00:00",
-   "importance": 7,
-   "caption": "UN climate talks end without agreement over fossil fuels\n\nThe COP31 climate summit concluded in Turkey without a final agreement after talks collapsed. International governments failed to reach a consensus amid a dispute regarding fossil fuel regulation.\n\n💬 Can future climate summits overcome disagreements on fossil fuels?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#COP31 #ClimateChange #UN #7SeasNews",
-   "photo_line": "📷 news map (no fitting photo)",
-   "status": "posted",
-   "tg_message_id": 915,
-   "tg_file_id": "AgACAgUAAxkDAAIDk2sDJI3kDOb2k80iodcZHNvlzRm-AAJqFWsboQ8ZVPdM8Q9jdmbbAQADAgADdwADPQQ",
-   "queued_at": "2026-11-22T17:21:17.313872+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-22T17:21:17.313895+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122109687003548584",
-   "posted_at": "2026-11-22T17:21:17.652554+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 22 · 12:21 PM New York · 10:51 PM Sri Lanka\n\n<b>UN climate talks end without agreement over fossil fuels</b>\n<i>CBS News, The Hill, UPI</i>\n🟢 <b>Latest:</b> 10:43 PM Sri Lanka (8 min ago) · first reported 9:11 PM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122109687003548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 622,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122109687003548584_1136517292457541",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-25T16:46:09.141429+00:00"
-  },
   "53abef20f1": {
    "id": "53abef20f1",
    "headline": "Sen.-elect Abdul El-Sayed expresses openness to working with Trump administration",
@@ -9177,8 +9080,6 @@
   }
  },
  "seen_links": [
-  "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
-  "https://www.newsweek.com/ss-united-states-sinking-off-florida-coast-list-of-famous-passengers-12702113",
   "https://www.washingtonexaminer.com/news/senate/4801017/doj-blumenthal-ballroom-investigation-threat-trump/",
   "https://www.nbcnews.com/politics/trump-administration/us-attorney-demands-sen-richard-blumenthal-preserve-documents-inquiry-rcna608899",
   "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
@@ -11176,7 +11077,9 @@
   "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss",
   "https://www.france24.com/en/europe/20261126-spanish-economist-de-cos-succeed-lagarde-head-ecb",
   "https://www.euronews.com/video/2026/11/26/hong-kong-mourns-victims-of-deadly-wang-fuk-court-fire-one-year-on",
-  "https://abcnews.com/International/wireStory/hong-kong-marks-deadly-fire-anniversary-flowers-prayers-138463173"
+  "https://abcnews.com/International/wireStory/hong-kong-marks-deadly-fire-anniversary-flowers-prayers-138463173",
+  "https://thehill.com/homenews/analysis/6242015-iran-war-impact-election/",
+  "https://www.foxnews.com/politics/look-trumps-spend-thanksgiving-holiday-through-years"
  ],
  "recent_topics": [
   [
@@ -13751,19 +13654,30 @@
     "warn"
    ],
    "440e659059"
+  ],
+  [
+   "2026-11-26T17:15:47.512927+00:00",
+   [
+    "fac",
+    "holiday",
+    "look",
+    "president",
+    "question",
+    "spend",
+    "thanksgiv",
+    "through",
+    "trump"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-26T17:01:19.894663+00:00",
+ "last_draft_at": "2026-11-26T17:15:35.756352+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T17:00:45.196249+00:00",
  "run_log": [
-  "11-26 14:58:06 run start",
-  "11-26 14:58:39 listening 11 min",
-  "11-26 15:09:34 listening done",
-  "11-26 15:09:34 run end after 688 s",
   "11-26 15:10:02 run start",
   "11-26 15:10:13 listening 11 min",
   "11-26 15:21:31 listening done",
@@ -13799,7 +13713,11 @@
   "11-26 17:00:44 run start",
   "11-26 17:02:40 listening 10 min",
   "11-26 17:12:18 listening done",
-  "11-26 17:12:18 run end after 694 s"
+  "11-26 17:12:18 run end after 694 s",
+  "11-26 17:15:35 run start",
+  "11-26 17:15:47 listening 11 min",
+  "11-26 17:27:05 listening done",
+  "11-26 17:27:05 run end after 690 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
