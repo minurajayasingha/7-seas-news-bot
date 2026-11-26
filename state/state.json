@@ -1,106 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "3d97e0803e": {
-   "id": "3d97e0803e",
-   "headline": "South Korea Education Minister Choi Kyo Jin resigns over exam rules",
-   "summary": "South Korea’s education minister has resigned following public backlash over last-minute rules introduced to prevent AI-assisted cheating during the college entrance exam. Officials announced measures including phone bans, camera checks, and loud phone alerts ahead of the exams.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "Choi Kyo Jin admitted failing to prepare adequately for entrance exams.",
-    "Concerns rose after a national tax accountant exam near-perfect score.",
-    "New measures included inspections for cameras hidden in clothing."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#SouthKorea",
-    "#Education",
-    "#WorldNews"
-   ],
-   "sources": [
-    "BBC",
-    "New York Times",
-    "The Guardian"
-   ],
-   "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
-   "links": [
-    [
-     "BBC",
-     "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss"
-    ],
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Seoul_Skyline_Night_2018.jpg/1920px-Seoul_Skyline_Night_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "mauveine.kim / Wikimedia Commons (CC0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 6,
-      "shows": "Seoul skyline"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "South Korea Education Minister Choi Kyo Jin resigns over exam rules",
-    "people": [
-     "Choi Kyo-jin"
-    ],
-    "image_query": "Seoul government building",
-    "image_queries": [
-     "South Korea school",
-     "Seoul skyline",
-     "university campus",
-     "exam hall"
-    ],
-    "image_style": "person",
-    "location": "Seoul, South Korea",
-    "nearby_city": "Seoul, South Korea",
-    "event_query": "South Korea university entrance exam",
-    "topic_photo": "exam hall",
-    "label": "WORLD",
-    "action_subject": "college entrance exam",
-    "news_time": "2026-11-22T05:04:39+00:00"
-   },
-   "created_at": "2026-11-22T09:34:06.987644+00:00",
-   "news_time": "2026-11-22T05:04:39+00:00",
-   "news_latest": "2026-11-22T09:20:45+00:00",
-   "importance": 8,
-   "caption": "South Korea Education Minister Choi Kyo Jin resigns over exam rules\n\nSouth Korea’s education minister has resigned following public backlash over last-minute rules introduced to prevent AI-assisted cheating during the college entrance exam. Officials announced measures including phone bans, camera checks, and loud phone alerts ahead of the exams.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#SouthKorea #Education #WorldNews #7SeasNews",
-   "photo_line": "📷 6/10 Seoul skyline",
-   "status": "posted",
-   "tg_message_id": 908,
-   "tg_file_id": "AgACAgUAAxkDAAIDjGsCtxGSDOqsWO8fNRfCJgUL-IILAAIaEWsboQ8RVEQnmvMOAAGSZQEAAwIAA3cAAz0E",
-   "queued_at": "2026-11-22T09:34:09.554035+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-22T09:34:09.554056+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122109310635548584",
-   "posted_at": "2026-11-22T09:34:09.920128+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 22 · 4:34 AM New York · 3:04 PM Sri Lanka\n\n<b>South Korea Education Minister Choi Kyo Jin resigns over exam rules</b>\n<i>BBC, New York Times, The Guardian</i>\n🟢 <b>Latest:</b> 2:50 PM Sri Lanka (13 min ago) · first reported 10:34 AM\n📷 6/10 Seoul skyline\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122109310635548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 615,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122109310635548584_1122381107283947",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-25T08:45:33.893625+00:00"
-  },
   "51037c3d1d": {
    "id": "51037c3d1d",
    "headline": "President Trump shares goals for a permanent deal with Iran",
@@ -13235,17 +13135,13 @@
    "d884ab18e2"
   ]
  ],
- "last_draft_at": "2026-11-26T09:15:59.806140+00:00",
+ "last_draft_at": "2026-11-26T09:30:42.464021+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T09:00:54.949217+00:00",
  "run_log": [
-  "11-26 07:03:34 run start",
-  "11-26 07:05:13 listening 10 min",
-  "11-26 07:15:18 listening done",
-  "11-26 07:15:18 run end after 703 s",
   "11-26 07:15:53 run start",
   "11-26 07:16:03 listening 11 min",
   "11-26 07:27:21 listening done",
@@ -13281,7 +13177,11 @@
   "11-26 09:15:59 run start",
   "11-26 09:17:20 listening 10 min",
   "11-26 09:27:49 listening done",
-  "11-26 09:27:49 run end after 709 s"
+  "11-26 09:27:49 run end after 709 s",
+  "11-26 09:30:42 run start",
+  "11-26 09:31:15 listening 11 min",
+  "11-26 09:42:09 listening done",
+  "11-26 09:42:09 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
