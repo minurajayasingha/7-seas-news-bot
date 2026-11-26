@@ -1,70 +1,4 @@
 {
- "2026-11-16": {
-  "built_at": "2026-11-17T17:06:10.196214+00:00",
-  "test": false,
-  "parts": [
-   {
-    "name": "WAR & CONFLICT",
-    "of": 3,
-    "post_at": "2026-11-17T17:25:00+00:00",
-    "stories": 9,
-    "seconds": 44.6,
-    "fb": {
-     "id": "2201202817416642",
-     "state": "scheduled",
-     "caption": "Ukraine strikes oil refinery. US deploys third carrier.\n\nWAR & CONFLICT · Monday's top stories · Part 1/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#warnews #ukraine #7seasnews #news"
-    },
-    "yt": {
-     "id": "kTN7osGJsPE",
-     "state": "scheduled",
-     "url": "https://youtube.com/shorts/kTN7osGJsPE"
-    },
-    "tt": {
-     "state": "sent"
-    }
-   },
-   {
-    "name": "US NEWS",
-    "of": 3,
-    "post_at": "2026-11-17T17:55:00+00:00",
-    "stories": 12,
-    "seconds": 57.2,
-    "fb": {
-     "id": "2678690815981090",
-     "state": "scheduled",
-     "caption": "Miller and Rubio ally. California sues OpenAI.\n\nUS NEWS · Monday's top stories · Part 2/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#usnews #7seasnews #news"
-    },
-    "yt": {
-     "id": "LnpO2TW_dUg",
-     "state": "scheduled",
-     "url": "https://youtube.com/shorts/LnpO2TW_dUg"
-    },
-    "tt": {
-     "state": "sent"
-    }
-   },
-   {
-    "name": "WORLD NEWS",
-    "of": 3,
-    "post_at": "2026-11-17T18:25:00+00:00",
-    "stories": 10,
-    "seconds": 47.2,
-    "fb": {
-     "id": "2280374765865785",
-     "state": "scheduled",
-     "caption": "Seventeen killed in SA. Jordan bans Telegram.\n\nWORLD NEWS · Monday's top stories · Part 3/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#worldnews #7seasnews #news"
-    },
-    "yt": {
-     "id": "COICAcjoAkY",
-     "state": "scheduled",
-     "url": "https://youtube.com/shorts/COICAcjoAkY"
-    },
-    "tt": {
-     "state": "sent"
-    }
-   }
-  ]
- },
  "yttest": {
   "built_at": "2026-11-17T07:39:40.397156+00:00",
   "status": {
@@ -713,6 +647,93 @@
      "tt_status": "SEND_TO_USER_INBOX",
      "size": "1080x1350",
      "photos": 9
+    }
+   }
+  ]
+ },
+ "2026-11-25": {
+  "built_at": "2026-11-26T08:31:07.241386+00:00",
+  "test": false,
+  "parts": [
+   {
+    "name": "WAR & CONFLICT",
+    "of": 3,
+    "post_at": "2026-11-26T12:55:00+00:00",
+    "stories": 7,
+    "seconds": 34.8,
+    "fb": {
+     "id": "1478054934289579",
+     "state": "scheduled",
+     "caption": "Yemen loses territory. Ukraine intercepts jet drone.\n\nWAR & CONFLICT · Wednesday's top stories · Part 1/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#warnews #ukraine #7seasnews #news",
+     "thumb": "set"
+    },
+    "yt": {
+     "id": "BMFDia-S1ZQ",
+     "state": "scheduled",
+     "url": "https://youtube.com/shorts/BMFDia-S1ZQ",
+     "thumb": "set"
+    },
+    "tt": {
+     "state": "inbox",
+     "kind": "photos",
+     "publish_id": "p_inbox_url~v2.7712394068046923783",
+     "tt_status": "SEND_TO_USER_INBOX",
+     "size": "1080x1350",
+     "photos": 8
+    }
+   },
+   {
+    "name": "US NEWS",
+    "of": 3,
+    "post_at": "2026-11-26T14:55:00+00:00",
+    "stories": 10,
+    "seconds": 48.8,
+    "fb": {
+     "id": "4395399744056457",
+     "state": "scheduled",
+     "caption": "Trump raises tariffs. Judge blocks birthright order.\n\nUS NEWS · Wednesday's top stories · Part 2/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#usnews #economy #7seasnews #news",
+     "thumb": "set"
+    },
+    "yt": {
+     "id": "RDj3UMYNXlE",
+     "state": "scheduled",
+     "url": "https://youtube.com/shorts/RDj3UMYNXlE",
+     "thumb": "set"
+    },
+    "tt": {
+     "state": "inbox",
+     "kind": "photos",
+     "publish_id": "p_inbox_url~v2.7712394272955500562",
+     "tt_status": "SEND_TO_USER_INBOX",
+     "size": "1080x1350",
+     "photos": 11
+    }
+   },
+   {
+    "name": "WORLD NEWS",
+    "of": 3,
+    "post_at": "2026-11-26T16:55:00+00:00",
+    "stories": 12,
+    "seconds": 58.0,
+    "fb": {
+     "id": "1838302650691533",
+     "state": "scheduled",
+     "caption": "Storm postpones parade. Judges recommend drop.\n\nWORLD NEWS · Wednesday's top stories · Part 3/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#worldnews #7seasnews #news",
+     "thumb": "set"
+    },
+    "yt": {
+     "id": "UvKRlFIHb3M",
+     "state": "scheduled",
+     "url": "https://youtube.com/shorts/UvKRlFIHb3M",
+     "thumb": "set"
+    },
+    "tt": {
+     "state": "inbox",
+     "kind": "photos",
+     "publish_id": "p_inbox_url~v2.7712394326524921864",
+     "tt_status": "SEND_TO_USER_INBOX",
+     "size": "1080x1350",
+     "photos": 13
     }
    }
   ]
