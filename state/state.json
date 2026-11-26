@@ -9057,11 +9057,93 @@
    "extra_msgs": [
     1032
    ]
+  },
+  "d7835cf83d": {
+   "id": "d7835cf83d",
+   "headline": "Man found guilty of attempted murder of 14 people on train",
+   "summary": "Anthony Williams was found guilty of attempted murder following a 25-hour series of attacks. The incidents included the stabbing of 10 passengers on a London-bound train.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "The 33-year-old was convicted of 14 attempted murder charges.",
+    "The attacks took place over October 31 and November 1.",
+    "Ten individuals were assaulted on an LNER service from Doncaster."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#WorldNews",
+    "#London",
+    "#Court"
+   ],
+   "sources": [
+    "ABC News",
+    "The Guardian"
+   ],
+   "link": "https://abcnews.com/International/wireStory/schizophrenic-man-found-guilty-attempted-murders-14-people-138470756",
+   "links": [
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/schizophrenic-man-found-guilty-attempted-murders-14-people-138470756"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/uk-news/2026/nov/26/anthony-williams-guilty-attempted-murder-lner-train"
+    ]
+   ],
+   "bg": {
+    "type": "map",
+    "photos": [],
+    "location": "London, United Kingdom",
+    "lat": 51.50722222,
+    "lon": -0.1275,
+    "country": "United Kingdom",
+    "state": ""
+   },
+   "img_post": {
+    "headline": "Man found guilty of attempted murder of 14 people on train",
+    "people": [],
+    "image_query": "London train station",
+    "image_queries": [
+     "railway platform London",
+     "courtroom building",
+     "train interior",
+     "police investigation scene"
+    ],
+    "image_style": "incident",
+    "location": "London, United Kingdom",
+    "nearby_city": "London, United Kingdom",
+    "event_query": "London train stabbing attack",
+    "topic_photo": "train station",
+    "label": "WORLD",
+    "action_subject": "police officers at work",
+    "news_time": "2026-11-26T17:43:24+00:00"
+   },
+   "created_at": "2026-11-26T18:47:58.067023+00:00",
+   "news_time": "2026-11-26T17:43:24+00:00",
+   "news_latest": "2026-11-26T18:32:49+00:00",
+   "importance": 7,
+   "caption": "Man found guilty of attempted murder of 14 people on train\n\nAnthony Williams was found guilty of attempted murder following a 25-hour series of attacks. The incidents included the stabbing of 10 passengers on a London-bound train.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WorldNews #London #Court #7SeasNews",
+   "photo_line": "📷 news map (no fitting photo)",
+   "status": "posted",
+   "tg_message_id": 1033,
+   "tg_file_id": "AgACAgUAAxkDAAIECWsIft8qhC_9zBNnH0ksPT91shvfAAIWEmsbiIVJVNzC2J5AaOIBAQADAgADdwADPQQ",
+   "queued_at": "2026-11-26T18:48:00.225914+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-26T18:48:00.225944+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122112333969548584",
+   "posted_at": "2026-11-26T18:48:00.614692+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 26 · 1:48 PM New York · 12:18 AM Sri Lanka\n\n<b>Man found guilty of attempted murder of 14 people on train</b>\n<i>ABC News, The Guardian</i>\n🟢 <b>Latest:</b> 12:02 AM Sri Lanka (15 min ago) · first reported 11:13 PM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112333969548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 741,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112333969548584_1139764952192975"
   }
  },
  "seen_links": [
-  "https://www.aljazeera.com/news/2026/11/12/what-could-chinese-intelligence-have-learned-from-nvidia-ceos-affair?traffic_source=rss",
-  "https://www.washingtonexaminer.com/policy/technology/4800920/nvidia-board-oust-ceo-jensen-huang/",
   "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss",
   "https://abcnews.com/International/wireStory/missing-teen-found-alive-after-6-days-australian-138068466",
   "https://www.independent.co.uk/news/world/australasia/australia-victoria-bushland-teen-william-b3083555.html",
@@ -11059,7 +11141,9 @@
   "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years?traffic_source=rss",
   "https://abcnews.com/International/wireStory/serbia-sets-presidential-election-dec-27-after-students-138465505",
   "https://thehill.com/policy/technology/6244786-fifa-cyberattack-personal-data/",
-  "https://www.dw.com/en/fifa-says-a-cyberattack-against-it-targeted-a-limited-set-of-personal-and-business-information/a-80062660?maca=en-rss-en-world-4025-rdf"
+  "https://www.dw.com/en/fifa-says-a-cyberattack-against-it-targeted-a-limited-set-of-personal-and-business-information/a-80062660?maca=en-rss-en-world-4025-rdf",
+  "https://abcnews.com/International/wireStory/schizophrenic-man-found-guilty-attempted-murders-14-people-138470756",
+  "https://www.theguardian.com/uk-news/2026/nov/26/anthony-williams-guilty-attempted-murder-lner-train"
  ],
  "recent_topics": [
   [
@@ -13693,19 +13777,36 @@
     "target"
    ],
    "7c2954f504"
+  ],
+  [
+   "2026-11-26T18:48:00.225749+00:00",
+   [
+    "10",
+    "14",
+    "attempt",
+    "found",
+    "guilty",
+    "includ",
+    "london",
+    "london-bound",
+    "man",
+    "murder",
+    "passenger",
+    "peopl",
+    "schizophrenic",
+    "stabb",
+    "train"
+   ],
+   "d7835cf83d"
   ]
  ],
- "last_draft_at": "2026-11-26T18:31:05.434475+00:00",
+ "last_draft_at": "2026-11-26T18:45:32.637986+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T18:01:04.328613+00:00",
  "run_log": [
-  "11-26 16:15:37 run start",
-  "11-26 16:17:51 listening 9 min",
-  "11-26 16:27:05 listening done",
-  "11-26 16:27:05 run end after 687 s",
   "11-26 16:32:44 run start",
   "11-26 16:33:58 listening 10 min",
   "11-26 16:44:27 listening done",
@@ -13741,7 +13842,11 @@
   "11-26 18:31:05 run start",
   "11-26 18:31:06 listening 11 min",
   "11-26 18:42:49 listening done",
-  "11-26 18:42:49 run end after 704 s"
+  "11-26 18:42:49 run end after 704 s",
+  "11-26 18:45:32 run start",
+  "11-26 18:48:19 listening 9 min",
+  "11-26 18:57:07 listening done",
+  "11-26 18:57:07 run end after 695 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -17088,36 +17193,6 @@
    "marriner s. eccles federal reserve board building"
   ],
   "checked": {
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/SW_Main_Building_Pano_Taliesin_West_Mar23_R16_07189-90_Pano.jpg/1920px-SW_Main_Building_Pano_Taliesin_West_Mar23_R16_07189-90_Pano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|6bb5e648": {
-    "s": 0,
-    "w": "Taliesin West building in Arizona",
-    "p": "Photo shows a building in Arizona, not a court building in California."
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/COP31_-_Gavin_Newsom_04.jpg/1280px-COP31_-_Gavin_Newsom_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Gavin Newsom": {
-    "s": 7,
-    "w": "Gavin Newsom speaking",
-    "p": ""
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Portion_of_the_Government_Documents_collection_%2815004356619%29.jpg/1920px-Portion_of_the_Government_Documents_collection_%2815004356619%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|381ea2a3": {
-    "s": 3,
-    "w": "government documents filing cabinets",
-    "p": "Photo shows a library archive of government documents rather than Department of "
-   },
-   "https://upload.wikimedia.org/wikipedia/commons/d/da/Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg|381ea2a3": {
-    "s": 10,
-    "w": "Supreme Court building",
-    "p": ""
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Mitsubishi_L200_in_Bruneian_military_police_service.jpg/1920px-Mitsubishi_L200_in_Bruneian_military_police_service.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|22007386": {
-    "s": 0,
-    "w": "Malaysian military police vehicle",
-    "p": "wrong country"
-   },
-   "https://upload.wikimedia.org/wikipedia/commons/3/37/US_Capitol_Dome_High_Res_Jan_2006.jpg|7b566994": {
-    "s": 7,
-    "w": "US Capitol dome",
-    "p": ""
-   },
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/WikimediaServersOct07_1.JPG/1920px-WikimediaServersOct07_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|2e5ea95a": {
     "s": 10,
     "w": "computer servers",
@@ -19587,6 +19662,36 @@
     "s": 0,
     "w": "circuit board",
     "p": "close-up of a small object"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Hull_Fair_2023_Police_Officers_on_the_Stalls.jpg/1920px-Hull_Fair_2023_Police_Officers_on_the_Stalls.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|90ff30af": {
+    "s": 6,
+    "w": "police officers on duty",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Day_207_-_Whitehouse%2C_Flack%2C_Demuth_%26_Gough_%289402121440%29.jpg/1920px-Day_207_-_Whitehouse%2C_Flack%2C_Demuth_%26_Gough_%289402121440%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|90ff30af": {
+    "s": 0,
+    "w": "police officers holding awards",
+    "p": "specific different award ceremony event, not a police cordon or action related t"
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/d/df/Canary_Wharf_Skyline_2%2C_London_UK_-_Oct_2012.jpg|90ff30af": {
+    "s": 3,
+    "w": "London skyline at night",
+    "p": "shows calm city skyline instead of the story's action"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/City_of_London_skyline_from_London_City_Hall_-_Oct_2008.jpg/1920px-City_of_London_skyline_from_London_City_Hall_-_Oct_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|90ff30af": {
+    "s": 3,
+    "w": "London skyline",
+    "p": "shows city skyline instead of crime scene"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/London%2C_Kensington_High_Street_--_2016_--_4617.jpg/1920px-London%2C_Kensington_High_Street_--_2016_--_4617.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|90ff30af": {
+    "s": 0,
+    "w": "building facade with sign",
+    "p": "photo does not show police officers or attempted murder story"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/At_London_2025_486_-_Statue_of_Winston_Churchill%2C_Parliament_Square.jpg/1920px-At_London_2025_486_-_Statue_of_Winston_Churchill%2C_Parliament_Square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|90ff30af": {
+    "s": 0,
+    "w": "Winston Churchill statue",
+    "p": "Photo shows a statue, not police officers or the train attack."
    }
   }
  },
@@ -19598,10 +19703,10 @@
   "2026-11-23": 20,
   "2026-11-24": 23,
   "2026-11-25": 29,
-  "2026-11-26": 17
+  "2026-11-26": 18
  },
- "last_auto_at": "2026-11-26T17:02:27.752542+00:00",
- "last_post_at": "2026-11-26T17:02:32.194146+00:00",
+ "last_auto_at": "2026-11-26T18:48:00.614692+00:00",
+ "last_post_at": "2026-11-26T18:48:07.916913+00:00",
  "reels_count": {
   "2026-11-20": 3,
   "2026-11-21": 3,
