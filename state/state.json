@@ -7655,13 +7655,193 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122111965761548584_1698621961793455"
+  },
+  "ec1efea0e0": {
+   "id": "ec1efea0e0",
+   "headline": "Judge blocks Federal Communications Commission review of broadcast licenses",
+   "summary": "A federal judge granted a preliminary injunction stopping the Federal Communications Commission from conducting an early review of ABC station licenses. The media company secured the order after calling the review an attack on free speech by the administration.",
+   "label": "US POLITICS",
+   "hook": "Should courts be able to block federal agency reviews of broadcast licenses?",
+   "key_points": [
+    "U.S. District Judge Loren AliKhan issued the preliminary injunction.",
+    "The Walt Disney Co. secured the temporary restraining order."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#FCC",
+    "#ABC"
+   ],
+   "sources": [
+    "NBC News",
+    "The Hill"
+   ],
+   "link": "https://thehill.com/regulation/court-battles/6244298-judge-blocks-fcc-from-early-renewal-of-abc-licenses/",
+   "links": [
+    [
+     "The Hill",
+     "https://thehill.com/regulation/court-battles/6244298-judge-blocks-fcc-from-early-renewal-of-abc-licenses/"
+    ],
+    [
+     "NBC News",
+     "https://www.nbcnews.com/business/media/judge-blocks-fcc-review-abc-station-licenses-now-rcna601892"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Boone_County_Courthouse_courtroom_front.jpg/1920px-Boone_County_Courthouse_courtroom_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Brandonrush / Wikimedia Commons (CC0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "a courtroom interior"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "Judge blocks Federal Communications Commission review of broadcast licenses",
+    "people": [],
+    "image_query": "US District Court building",
+    "image_queries": [
+     "Federal Communications Commission building",
+     "television broadcast tower",
+     "courtroom gavel",
+     "US Capitol building"
+    ],
+    "image_style": "scene",
+    "location": "Washington, DC",
+    "nearby_city": "Washington, DC",
+    "event_query": "federal court building",
+    "topic_photo": "judge gavel",
+    "label": "US POLITICS",
+    "action_subject": "courtroom",
+    "news_time": "2026-11-26T00:45:11+00:00"
+   },
+   "created_at": "2026-11-26T02:31:29.710934+00:00",
+   "news_time": "2026-11-26T00:45:11+00:00",
+   "news_latest": "2026-11-26T02:01:56+00:00",
+   "importance": 6,
+   "caption": "Judge blocks Federal Communications Commission review of broadcast licenses\n\nA federal judge granted a preliminary injunction stopping the Federal Communications Commission from conducting an early review of ABC station licenses. The media company secured the order after calling the review an attack on free speech by the administration.\n\n💬 Should courts be able to block federal agency reviews of broadcast licenses?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #FCC #ABC #7SeasNews",
+   "photo_line": "📷 10/10 a courtroom interior · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 1006,
+   "tg_file_id": "AgACAgUAAxkDAAID7msHmgPvFUc9sNoMN-t7Lee6dZuOAALsEmsbr_w5VN0UApK-1NuyAQADAgADdwADPQQ",
+   "queued_at": "2026-11-26T02:31:31.626258+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-26T02:31:31.626298+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122111973975548584",
+   "posted_at": "2026-11-26T02:31:55.016989+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 25 · 9:31 PM New York · 8:01 AM Sri Lanka\n\n<b>Judge blocks Federal Communications Commission review of broadcast licenses</b>\n<i>NBC News, The Hill</i>\n🟢 <b>Latest:</b> 7:31 AM Sri Lanka (30 min ago) · first reported 6:15 AM\n📷 10/10 a courtroom interior · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122111973975548584\">Open on Facebook</a>\n\n⚠️ <i>Looks like an earlier post: “Federal judge blocks Donald Trump birthright citizenship order”. Tap 🗑 Delete if it's the same news.</i>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 715,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122111973975548584_2578698909308080"
+  },
+  "66326824d0": {
+   "id": "66326824d0",
+   "headline": "Israeli judges recommend prosecutors drop Netanyahu corruption trial",
+   "summary": "Israeli judges have suggested ending the long-running corruption trial against Prime Minister Benjamin Netanyahu. The reports state that judges ruled there is little prospect of a conviction.",
+   "label": "WORLD",
+   "hook": "Should prosecutors follow the recommendation of the judges in this case?",
+   "key_points": [
+    "Netanyahu faces accusations of bribery, fraud and breach of trust.",
+    "The prime minister denies all wrongdoing in the trial.",
+    "The case has divided the country."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Israel",
+    "#BenjaminNetanyahu",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "New York Times"
+   ],
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/judges-recommend-prosecutors-end-corruption-case-against-netanyahu?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/26/judges-recommend-prosecutors-end-corruption-case-against-netanyahu?traffic_source=rss"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg/1920px-Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Joe Gratz / Wikimedia Commons (CC0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "judge gavel"
+     }
+    ],
+    "file_photo": true,
+    "inset": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Benjamin_Netanyahu%2C_February_2023_%28cropped%29%28b%29.jpg/1280px-Benjamin_Netanyahu%2C_February_2023_%28cropped%29%28b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "credit": "Avi Ohayon / Wikimedia Commons (CC BY-SA 3.0)",
+     "short": "WIKIMEDIA COMMONS",
+     "score": 10,
+     "shows": "Benjamin Netanyahu portrait"
+    }
+   },
+   "img_post": {
+    "headline": "Israeli judges recommend prosecutors drop Netanyahu corruption trial",
+    "people": [
+     "Benjamin Netanyahu"
+    ],
+    "image_query": "Supreme Court building",
+    "image_queries": [
+     "Supreme Court building",
+     "courtroom",
+     "government building",
+     "law books"
+    ],
+    "image_style": "person",
+    "location": "Jerusalem, Israel",
+    "nearby_city": "Tel Aviv, Israel",
+    "event_query": "Netanyahu corruption trial",
+    "topic_photo": "judge gavel",
+    "label": "WORLD",
+    "action_subject": "courtroom",
+    "news_time": "2026-11-25T20:45:09+00:00"
+   },
+   "created_at": "2026-11-26T02:31:53.018309+00:00",
+   "news_time": "2026-11-25T20:45:09+00:00",
+   "news_latest": "2026-11-26T01:08:43+00:00",
+   "importance": 7,
+   "caption": "Israeli judges recommend prosecutors drop Netanyahu corruption trial\n\nIsraeli judges have suggested ending the long-running corruption trial against Prime Minister Benjamin Netanyahu. The reports state that judges ruled there is little prospect of a conviction.\n\n💬 Should prosecutors follow the recommendation of the judges in this case?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Israel #BenjaminNetanyahu #WorldNews #7SeasNews",
+   "photo_line": "📷 10/10 judge gavel · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 1007,
+   "tg_file_id": "AgACAgUAAxkDAAID72sHmhqEHLi9lMoHOl5tDci43YusAALtEmsbr_w5VN75R-CK8r1QAQADAgADdwADPQQ",
+   "queued_at": "2026-11-26T02:31:54.724762+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-26T02:31:54.724807+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122111974233548584",
+   "posted_at": "2026-11-26T02:31:55.016989+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 25 · 9:32 PM New York · 8:02 AM Sri Lanka\n\n<b>Israeli judges recommend prosecutors drop Netanyahu corruption trial</b>\n<i>Al Jazeera, New York Times</i>\n🟡 <b>Latest:</b> 6:38 AM Sri Lanka (1h 23m ago) · first reported 2:15 AM\n📷 10/10 judge gavel · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122111974233548584\">Open on Facebook</a>\n\n⚠️ <i>Looks like an earlier post: “Israeli high court signals Netanyahu trial challenges as envoy urges Gaza plan”. Tap 🗑 Delete if it's the same news.</i>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 716,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122111974233548584_1586460450174132"
   }
  },
  "seen_links": [
-  "https://www.nbcnews.com/video/watch-live-trump-attends-veterans-day-events-at-arlington-national-cemetery-273260613511",
-  "https://www.nytimes.com/2026/11/11/us/politics/trump-arlington-cemetery-arch.html",
-  "https://www.france24.com/en/europe/20261111-russia-bans-two-french-lawmakers-and-two-journalists-from-entry",
-  "https://www.aljazeera.com/news/2026/11/11/russia-bans-two-french-lawmakers-two-journalists-in-tit-for-tat-move?traffic_source=rss",
   "https://www.nytimes.com/2026/11/11/us/politics/trump-democrats-congress-oversight-committee.html",
   "https://www.washingtonpost.com/politics/2026/11/11/white-house-starts-aggressive-moves-block-investigations-by-congress/",
   "https://www.upi.com/Top_News/World-News/2026/11/11/latam-brazil-meta-fined-election-bias/5251794414112/",
@@ -9657,7 +9837,11 @@
   "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss",
   "https://www.independent.co.uk/news/world/europe/savasleyka-air-base-russia-ukraine-strike-b3091788.html",
   "https://www.newsweek.com/jared-kushner-draws-criticism-for-calling-putin-a-grandmaster-of-politics-12769372",
-  "https://thehill.com/policy/international/6244109-kushner-calls-putin-grandmaster/"
+  "https://thehill.com/policy/international/6244109-kushner-calls-putin-grandmaster/",
+  "https://thehill.com/regulation/court-battles/6244298-judge-blocks-fcc-from-early-renewal-of-abc-licenses/",
+  "https://www.nbcnews.com/business/media/judge-blocks-fcc-review-abc-station-licenses-now-rcna601892",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/26/judges-recommend-prosecutors-end-corruption-case-against-netanyahu?traffic_source=rss",
+  "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html"
  ],
  "recent_topics": [
   [
@@ -12074,19 +12258,48 @@
     "ukrain"
    ],
    "6cc600fdef"
+  ],
+  [
+   "2026-11-26T02:31:31.626103+00:00",
+   [
+    "abc",
+    "block",
+    "early",
+    "fcc",
+    "judg",
+    "licens",
+    "now",
+    "renewal",
+    "review",
+    "station"
+   ],
+   "ec1efea0e0"
+  ],
+  [
+   "2026-11-26T02:31:54.724627+00:00",
+   [
+    "cas",
+    "corruption",
+    "dropp",
+    "end",
+    "israel",
+    "judg",
+    "key",
+    "netanyahu",
+    "prosecutor",
+    "recommend",
+    "suggest"
+   ],
+   "66326824d0"
   ]
  ],
- "last_draft_at": "2026-11-26T02:15:35.970529+00:00",
+ "last_draft_at": "2026-11-26T02:30:45.320134+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T02:00:49.303673+00:00",
  "run_log": [
-  "11-26 00:00:47 run start",
-  "11-26 00:02:04 listening 10 min",
-  "11-26 00:12:32 listening done",
-  "11-26 00:12:32 run end after 705 s",
   "11-26 00:15:35 run start",
   "11-26 00:15:54 listening 11 min",
   "11-26 00:27:13 listening done",
@@ -12122,14 +12335,15 @@
   "11-26 02:15:35 run start",
   "11-26 02:16:20 listening 11 min",
   "11-26 02:27:15 listening done",
-  "11-26 02:27:15 run end after 700 s"
+  "11-26 02:27:15 run end after 700 s",
+  "11-26 02:30:45 run start",
+  "11-26 02:32:20 listening 10 min",
+  "11-26 02:42:23 listening done",
+  "11-26 02:42:23 run end after 698 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Byron_Donalds_%2854235434489%29.jpg/1280px-Byron_Donalds_%2854235434489%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Rudy_Giuliani_%2849276392081%29.jpg/1280px-Rudy_Giuliani_%2849276392081%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/WikimediaServersOct07_2.JPG/1920px-WikimediaServersOct07_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Special_Operations_Forces_Africa_conduct_medical_civic_action_program_with_Beninese_partners_%288795705%29.jpg/1920px-Special_Operations_Forces_Africa_conduct_medical_civic_action_program_with_Beninese_partners_%288795705%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/The_Clay_County_Courthouse_courtroom_in_2007.jpg/1920px-The_Clay_County_Courthouse_courtroom_in_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/20181208_JASDF_E-2_Hawkeye_landing_Naha_Air_Show_2018-21.jpg/1920px-20181208_JASDF_E-2_Hawkeye_landing_Naha_Air_Show_2018-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -12166,7 +12380,10 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Doors_Open_Milwaukee_2023_37_%28Federal_Building--courtroom_of_Hon._Lynn_Adelman%29.jpg/1920px-Doors_Open_Milwaukee_2023_37_%28Federal_Building--courtroom_of_Hon._Lynn_Adelman%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Bradford_Oil_Refinery%2C_Bradford%2C_Pennsylvania_-_20211108.jpg/1920px-Bradford_Oil_Refinery%2C_Bradford%2C_Pennsylvania_-_20211108.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/c/c3/A_more_compassionate_world_%285932115215%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Early_MiG_jets_at_Monino_%2810027023165%29.jpg/1920px-Early_MiG_jets_at_Monino_%2810027023165%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Early_MiG_jets_at_Monino_%2810027023165%29.jpg/1920px-Early_MiG_jets_at_Monino_%2810027023165%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Boone_County_Courthouse_courtroom_front.jpg/1920px-Boone_County_Courthouse_courtroom_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg/1920px-Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Benjamin_Netanyahu%2C_February_2023_%28cropped%29%28b%29.jpg/1280px-Benjamin_Netanyahu%2C_February_2023_%28cropped%29%28b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -15400,8 +15617,6 @@
    }
   },
   "recent_ideas": [
-   "soldiers",
-   "white house, washington",
    "judge gavel",
    "new york stock exchange",
    "us capitol building",
@@ -15411,7 +15626,9 @@
    "courtroom",
    "oil refinery",
    "giant parade balloons",
-   "fighter jets"
+   "fighter jets",
+   "courtroom",
+   "judge gavel"
   ],
   "checked": {
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg/1920px-Thurgood_Marshall_Federal_Judiciary_Building_1_Columbus_Circle_NE_Washington_%28DC%29_2016_%2830398337115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -17843,6 +18060,31 @@
     "s": 8,
     "w": "fighter jets on display",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Boone_County_Courthouse_courtroom_front.jpg/1920px-Boone_County_Courthouse_courtroom_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|33292cde": {
+    "s": 10,
+    "w": "a courtroom interior",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Stained-glass_window_-_The_Courts%2C_Bristol_-_DSC_7655.jpg/1920px-Stained-glass_window_-_The_Courts%2C_Bristol_-_DSC_7655.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|a05af30b": {
+    "s": 0,
+    "w": "stained glass window",
+    "p": "Photo shows a stained glass window instead of a courtroom."
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Holy_Land_2018_%282%29_P145_Jerusalem_Israel_supreme_court_building.jpg/1920px-Holy_Land_2018_%282%29_P145_Jerusalem_Israel_supreme_court_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|a05af30b": {
+    "s": 6,
+    "w": "Supreme Court building in Jerusalem",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg/1920px-Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|a05af30b": {
+    "s": 10,
+    "w": "judge gavel",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Benjamin_Netanyahu%2C_February_2023_%28cropped%29%28b%29.jpg/1280px-Benjamin_Netanyahu%2C_February_2023_%28cropped%29%28b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Benjamin Netanyahu": {
+    "s": 10,
+    "w": "Benjamin Netanyahu portrait",
+    "p": ""
    }
   }
  },
@@ -17854,10 +18096,10 @@
   "2026-11-22": 11,
   "2026-11-23": 20,
   "2026-11-24": 23,
-  "2026-11-25": 26
+  "2026-11-25": 28
  },
- "last_auto_at": "2026-11-26T02:03:24.341543+00:00",
- "last_post_at": "2026-11-26T02:04:04.235653+00:00",
+ "last_auto_at": "2026-11-26T02:31:55.016989+00:00",
+ "last_post_at": "2026-11-26T02:32:12.802520+00:00",
  "reels_count": {
   "2026-11-19": 3,
   "2026-11-20": 3,
