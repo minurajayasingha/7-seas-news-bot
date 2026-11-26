@@ -8618,9 +8618,6 @@
   }
  },
  "seen_links": [
-  "https://www.washingtonexaminer.com/opinion/4800541/pete-hegseth-does-not-deserve-impeachment/",
-  "https://www.theguardian.com/commentisfree/2026/nov/11/pete-hegseth-secretary-of-war-dopey-dangerous-midterms-impeachment",
-  "https://www.washingtonexaminer.com/news/justice/4800519/delaware-voters-court-add-second-house-seat/",
   "https://www.nbcnews.com/politics/congress/delaware-residents-lawsuit-congress-house-representation-rcna608829",
   "https://www.cbsnews.com/news/hegseth-tomb-of-the-unknown-soldier-arlington-cemetery/",
   "https://www.nbcnews.com/politics/trump-administration/hegseth-reprimanded-arlington-cemetery-veterans-tomb-unknown-soldier-rcna608869",
@@ -10617,7 +10614,10 @@
   "https://thehill.com/homenews/administration/6244532-trump-obama-cnn-army-iowa-lead-azide-detonation/",
   "https://www.independent.co.uk/news/world/americas/us-politics/trump-iowa-governor-army-detonation-lead-azide-b3091974.html",
   "https://www.independent.co.uk/news/world/europe/russia-ukraine-war-live-putin-drones-nuclear-weapons-casualties-b3091880.html",
-  "https://thehill.com/opinion/national-security/6240190-trump-colby-nato-security-strategy/"
+  "https://thehill.com/opinion/national-security/6240190-trump-colby-nato-security-strategy/",
+  "https://kyivindependent.com/grandmaster-of-politics-who-wants-peace-jared-kushner-interview-reveals-how-trumps-envoy-sees-putin-2/",
+  "https://www.independent.co.uk/news/world/europe/jared-kushner-ukraine-russia-war-trump-b3092082.html",
+  "https://www.independent.co.uk/news/world/europe/kushner-putin-witkoff-ukraine-war-b3091967.html"
  ],
  "recent_topics": [
   [
@@ -12995,19 +12995,47 @@
     "war"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-26T14:15:56.831971+00:00",
+   [
+    "accus",
+    "claim",
+    "envoy",
+    "europ",
+    "grandmaster",
+    "grateful",
+    "hasnt",
+    "interview",
+    "jar",
+    "kushner",
+    "nuk",
+    "peac",
+    "plan",
+    "politic",
+    "political",
+    "prais",
+    "putin",
+    "reveal",
+    "see",
+    "spokesman",
+    "stagger",
+    "thankful",
+    "trump",
+    "ukrain",
+    "used",
+    "want"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-26T14:01:25.702931+00:00",
+ "last_draft_at": "2026-11-26T14:15:36.466462+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T14:00:47.234456+00:00",
  "run_log": [
-  "11-26 11:46:48 run start",
-  "11-26 11:47:07 listening 11 min",
-  "11-26 11:58:26 listening done",
-  "11-26 11:58:26 run end after 698 s",
   "11-26 12:00:46 run start",
   "11-26 12:01:26 listening 11 min",
   "11-26 12:12:20 listening done",
@@ -13043,7 +13071,11 @@
   "11-26 14:00:46 run start",
   "11-26 14:02:00 listening 10 min",
   "11-26 14:12:30 listening done",
-  "11-26 14:12:30 run end after 703 s"
+  "11-26 14:12:30 run end after 703 s",
+  "11-26 14:15:36 run start",
+  "11-26 14:15:56 listening 11 min",
+  "11-26 14:27:15 listening done",
+  "11-26 14:27:15 run end after 699 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
