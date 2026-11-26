@@ -13125,17 +13125,13 @@
    "a2e6fdd2be"
   ]
  ],
- "last_draft_at": "2026-11-26T08:33:54.279160+00:00",
+ "last_draft_at": "2026-11-26T08:46:03.357589+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T08:00:42.175995+00:00",
  "run_log": [
-  "11-26 06:18:45 listening done",
-  "11-26 06:18:45 run end after 697 s",
-  "11-26 06:19:12 run start",
-  "11-26 06:19:22 listening 11 min",
   "11-26 06:30:41 listening done",
   "11-26 06:30:41 run end after 688 s",
   "11-26 06:41:24 run start",
@@ -13171,7 +13167,11 @@
   "11-26 08:33:54 run start",
   "11-26 08:33:55 listening 11 min",
   "11-26 08:45:38 listening done",
-  "11-26 08:45:38 run end after 704 s"
+  "11-26 08:45:38 run end after 704 s",
+  "11-26 08:46:02 run start",
+  "11-26 08:46:35 listening 11 min",
+  "11-26 08:57:29 listening done",
+  "11-26 08:57:29 run end after 686 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -20282,7 +20282,7 @@
    }
   },
   "2026-11-25": {
-   "status": "building",
+   "status": "built",
    "plan": {
     "parts": [
      {
@@ -20500,5 +20500,5 @@
   "roundup_preview:2026-11-16b",
   "roundup_real:2026-11-16b"
  ],
- "report_done": "2026-11-24"
+ "report_done": "2026-11-25"
 }
