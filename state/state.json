@@ -8883,13 +8883,189 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122112280791548584_1176273464980016"
+  },
+  "c833a0de21": {
+   "id": "c833a0de21",
+   "headline": "Trump demands investigation into federal economic data revisions",
+   "summary": "President Trump called for an investigation into government economic statistics after the Bureau of Economic Analysis revised third-quarter gross domestic product figures. The president alleged without evidence that the initial growth figures released before the midterm elections were deliberately understated.",
+   "label": "ECONOMY",
+   "hook": "Should the federal government investigate these GDP data revisions?",
+   "key_points": [
+    "The Bureau of Economic Analysis revised third-quarter GDP upward.",
+    "Revisions reflect more complete information over time.",
+    "The president posted his allegations on Truth Social."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#USPolitics",
+    "#Economy",
+    "#GDP"
+   ],
+   "sources": [
+    "Axios",
+    "The Hill"
+   ],
+   "link": "https://www.axios.com/2026/11/26/trump-gdp-investigation-economy-statistics",
+   "links": [
+    [
+     "Axios",
+     "https://www.axios.com/2026/11/26/trump-gdp-investigation-economy-statistics"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/homenews/administration/6244608-trump-revised-gdp-data-probe/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "AgnosticPreachersKid / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "Federal Reserve Board Building"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Trump demands investigation into federal economic data revisions",
+    "people": [
+     "Donald Trump"
+    ],
+    "image_query": "US Capitol building",
+    "image_queries": [
+     "federal statistical office",
+     "stock market board",
+     "economic chart",
+     "US Treasury building"
+    ],
+    "image_style": "person",
+    "location": "United States",
+    "nearby_city": "Washington, D.C.",
+    "event_query": "",
+    "topic_photo": "economic chart",
+    "label": "ECONOMY",
+    "action_subject": "",
+    "news_time": "2026-11-26T15:35:49+00:00"
+   },
+   "created_at": "2026-11-26T16:46:33.613091+00:00",
+   "news_time": "2026-11-26T15:35:49+00:00",
+   "news_latest": "2026-11-26T16:29:25+00:00",
+   "importance": 6,
+   "caption": "Trump demands investigation into federal economic data revisions\n\nPresident Trump called for an investigation into government economic statistics after the Bureau of Economic Analysis revised third-quarter gross domestic product figures. The president alleged without evidence that the initial growth figures released before the midterm elections were deliberately understated.\n\n💬 Should the federal government investigate these GDP data revisions?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Economy #GDP #7SeasNews",
+   "photo_line": "📷 10/10 Federal Reserve Board Building",
+   "status": "posted",
+   "tg_message_id": 1027,
+   "tg_file_id": "AgACAgUAAxkDAAIEA2sIYmvNm8QFGKK6txCt4ZWk0Eo-AALyEWsbiIVJVO4KWPl_JMmBAQADAgADdwADPQQ",
+   "queued_at": "2026-11-26T16:46:35.945342+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_label": "🤖 Auto-posting",
+   "post_at": "2026-11-26T16:46:56.422933+00:00",
+   "fb_post_id": "1413030521900096_122112284985548584",
+   "posted_at": "2026-11-26T16:46:51.291886+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 26 · 11:47 AM New York · 10:17 PM Sri Lanka\n\n<b>Trump demands investigation into federal economic data revisions</b>\n<i>Axios, The Hill</i>\n🟢 <b>Latest:</b> 9:59 PM Sri Lanka (17 min ago) · first reported 9:05 PM\n📷 10/10 Federal Reserve Board Building\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112284985548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 738,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112284985548584_3238556283002440"
+  },
+  "96ef845be4": {
+   "id": "96ef845be4",
+   "headline": "Pablo Hernandez de Cos to replace Christine Lagarde at European Central Bank",
+   "summary": "Pablo Hernandez de Cos is set to replace Christine Lagarde as the head of the European Central Bank. The nomination comes as the financial institution faces a cost of living crisis and an inflation resurgence driven by an Iran war.",
+   "label": "ECONOMY",
+   "hook": "",
+   "key_points": [
+    "Pablo Hernandez de Cos is a Spanish monetary economist.",
+    "Christine Lagarde is from France.",
+    "The European Central Bank is Europe's most powerful financial institution."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#EuropeanCentralBank",
+    "#Economy",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "France 24"
+   ],
+   "link": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/europe/20261126-spanish-economist-de-cos-succeed-lagarde-head-ecb"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/AC_SO_Karlspreisverleihung_2026_14._Mai_Dom_Christine_Lagarde_und_Michael_Ziemons_II.jpg/1280px-AC_SO_Karlspreisverleihung_2026_14._Mai_Dom_Christine_Lagarde_und_Michael_Ziemons_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Grunpfnul / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "Christine Lagarde shaking hands"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Pablo Hernandez de Cos to replace Christine Lagarde at European Central Bank",
+    "people": [
+     "Pablo Hernandez de Cos",
+     "Christine Lagarde"
+    ],
+    "image_query": "European Central Bank building",
+    "image_queries": [
+     "European Central Bank Frankfurt",
+     "Euro currency notes",
+     "financial district Frankfurt",
+     "European Union flags"
+    ],
+    "image_style": "person",
+    "location": "Frankfurt, Germany",
+    "nearby_city": "Frankfurt, Germany",
+    "event_query": "",
+    "topic_photo": "judge gavel",
+    "label": "ECONOMY",
+    "action_subject": "",
+    "news_time": "2026-11-26T15:55:45+00:00"
+   },
+   "created_at": "2026-11-26T16:46:49.098841+00:00",
+   "news_time": "2026-11-26T15:55:45+00:00",
+   "news_latest": "2026-11-26T16:20:54+00:00",
+   "importance": 9,
+   "caption": "🚨 BREAKING: Pablo Hernandez de Cos to replace Christine Lagarde at European Central Bank\n\nPablo Hernandez de Cos is set to replace Christine Lagarde as the head of the European Central Bank. The nomination comes as the financial institution faces a cost of living crisis and an inflation resurgence driven by an Iran war.\n\nWhat we know so far:\n• Pablo Hernandez de Cos is a Spanish monetary economist.\n• Christine Lagarde is from France.\n• The European Central Bank is Europe's most powerful financial institution.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#EuropeanCentralBank #Economy #WorldNews #7SeasNews",
+   "photo_line": "📷 10/10 Christine Lagarde shaking hands",
+   "status": "posted",
+   "tg_message_id": 1028,
+   "tg_file_id": "AgACAgUAAxkDAAIEBGsIYnogJrw1P2LGJnVKwE9xdcxYAALzEWsbiIVJVHteELbwvWHzAQADAgADdwADPQQ",
+   "queued_at": "2026-11-26T16:46:50.958480+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-26T16:46:50.958504+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122112284667548584",
+   "posted_at": "2026-11-26T16:46:51.291886+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 26 · 11:46 AM New York · 10:16 PM Sri Lanka\n\n<b>Pablo Hernandez de Cos to replace Christine Lagarde at European Central Bank</b>\n<i>Al Jazeera, France 24</i>\n🟢 <b>Latest:</b> 9:50 PM Sri Lanka (26 min ago) · first reported 9:25 PM\n📷 10/10 Christine Lagarde shaking hands\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112284667548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 737,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112284667548584_2162885014600506",
+   "fb_story_id": "1653615139582971"
   }
  },
  "seen_links": [
-  "https://www.washingtonexaminer.com/news/campaigns/presidential/4800778/wes-moore-set-release-book-repair/",
-  "https://www.washingtonpost.com/politics/2026/11/11/wes-moore-coy-about-2028-presidential-bid-writes-book-healing-nation/",
-  "https://www.washingtonexaminer.com/news/campaigns/congressional/4800670/this-house-republican-just-lost-reelection-he-plans-to-keep-doing-the-job-for-another-two-years-anyway/",
-  "https://www.washingtonpost.com/elections/2026/11/11/zero-house-democratic-incumbents-lost-republican-midterms/",
   "https://www.nytimes.com/2026/11/11/us/politics/trump-federal-judges-senate-republicans.html",
   "https://www.theguardian.com/us-news/2026/nov/11/democrats-trump-immigration-agenda",
   "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
@@ -10885,7 +11061,11 @@
   "https://www.independent.co.uk/news/world/americas/us-politics/haley-stevens-thanksgiving-post-democrat-b3092236.html",
   "https://www.dw.com/en/protests-in-iraqi-kurdistan-at-plans-for-government-in-baghdad-to-take-over-oil-border-crossings/a-80065994?maca=en-rss-en-world-4025-rdf",
   "https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss",
-  "https://www.aljazeera.com/news/2026/11/26/iraq-denies-reports-of-troop-movements-towards-kurdish-region?traffic_source=rss"
+  "https://www.aljazeera.com/news/2026/11/26/iraq-denies-reports-of-troop-movements-towards-kurdish-region?traffic_source=rss",
+  "https://www.axios.com/2026/11/26/trump-gdp-investigation-economy-statistics",
+  "https://thehill.com/homenews/administration/6244608-trump-revised-gdp-data-probe/",
+  "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss",
+  "https://www.france24.com/en/europe/20261126-spanish-economist-de-cos-succeed-lagarde-head-ecb"
  ],
  "recent_topics": [
   [
@@ -13403,19 +13583,50 @@
     "troop"
    ],
    "eecb98368d"
+  ],
+  [
+   "2026-11-26T16:46:35.945135+00:00",
+   [
+    "alleg",
+    "data",
+    "demand",
+    "error",
+    "gdp",
+    "investigation",
+    "preelection",
+    "prob",
+    "purposeful",
+    "revision",
+    "trump"
+   ],
+   "c833a0de21"
+  ],
+  [
+   "2026-11-26T16:46:50.958353+00:00",
+   [
+    "bank",
+    "becom",
+    "central",
+    "chief",
+    "cos",
+    "ecb",
+    "economist",
+    "european",
+    "head",
+    "lagard",
+    "spanish",
+    "succ"
+   ],
+   "96ef845be4"
   ]
  ],
- "last_draft_at": "2026-11-26T16:32:44.598538+00:00",
+ "last_draft_at": "2026-11-26T16:45:44.647585+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T16:00:50.265631+00:00",
  "run_log": [
-  "11-26 14:31:18 run start",
-  "11-26 14:31:20 listening 11 min",
-  "11-26 14:43:06 listening done",
-  "11-26 14:43:06 run end after 707 s",
   "11-26 14:45:36 run start",
   "11-26 14:46:39 listening 10 min",
   "11-26 14:57:07 listening done",
@@ -13451,13 +13662,15 @@
   "11-26 16:32:44 run start",
   "11-26 16:33:58 listening 10 min",
   "11-26 16:44:27 listening done",
-  "11-26 16:44:27 run end after 703 s"
+  "11-26 16:44:27 run end after 703 s",
+  "11-26 16:45:44 run start",
+  "11-26 16:47:23 listening 10 min",
+  "11-26 16:57:27 listening done",
+  "11-26 16:57:27 run end after 702 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Rep._Mary_Peltola_headshot_%28cropped%29.jpg/1280px-Rep._Mary_Peltola_headshot_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Cargo_ship_Lake_Victoria%2C_St._Johns_River.jpg/1920px-Cargo_ship_Lake_Victoria%2C_St._Johns_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Donald_Trump_RNC_July_2016.jpg/1280px-Donald_Trump_RNC_July_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Searching_for_drugs_-_Colombia_police_%2852416691912%29.jpg/1920px-Searching_for_drugs_-_Colombia_police_%2852416691912%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Yemeni_soldiers_from_the_1st_Armoured_Division.JPG/1920px-Yemeni_soldiers_from_the_1st_Armoured_Division.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -13495,7 +13708,9 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Cenotaph%2C_Whitehall_London_UK_Sun_7th_June_2020.jpg/1920px-Cenotaph%2C_Whitehall_London_UK_Sun_7th_June_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Buffalo_Nairobi_Skyline_Savannah_Kenya_May19_R1600769.jpg/1920px-Buffalo_Nairobi_Skyline_Savannah_Kenya_May19_R1600769.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/e/e7/Warsaw_skyline_%C5%9Awi%C4%99tokrzyski_Bridge.jpg",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Kuwait_City_Arabian_Gulf_Street_08.jpg/1920px-Kuwait_City_Arabian_Gulf_Street_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Kuwait_City_Arabian_Gulf_Street_08.jpg/1920px-Kuwait_City_Arabian_Gulf_Street_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/AC_SO_Karlspreisverleihung_2026_14._Mai_Dom_Christine_Lagarde_und_Michael_Ziemons_II.jpg/1280px-AC_SO_Karlspreisverleihung_2026_14._Mai_Dom_Christine_Lagarde_und_Michael_Ziemons_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -13929,40 +14144,6 @@
      }
     ],
     "v": 2
-   },
-   "jonathan kreiss-tomkins": {
-    "t": "2026-11-14T13:45:47.887417+00:00",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/JKTphoto_%28cropped%29.jpg/1280px-JKTphoto_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Unknown author Unknown author / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Jonathan_Kreiss-Tomkins_743.jpg/1280px-Jonathan_Kreiss-Tomkins_743.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gillfoto / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Jonathan_Kreiss-Tomkins_at_Alaska_Day_Parade.jpg/1280px-Jonathan_Kreiss-Tomkins_at_Alaska_Day_Parade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "James Brooks / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Jonathan_Kreiss-Tomkins_at_Alaska_Day_Parade_crop.jpg/1280px-Jonathan_Kreiss-Tomkins_at_Alaska_Day_Parade_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "James Brooks / Wikimedia Commons (CC BY 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Jonathan_Kreiss-Tomkins_743_2.jpg/1280px-Jonathan_Kreiss-Tomkins_743_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Jack Poulson / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     }
-    ]
    },
    "mark carney": {
     "t": "2026-11-14T15:16:29.562799+00:00",
@@ -16725,10 +16906,99 @@
      }
     ],
     "v": 2
+   },
+   "christine lagarde": {
+    "t": "2026-11-26T16:46:46.014324+00:00",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Christine_Lagarde%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "European Parliament from EU / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/%28Christine_Lagarde%29_New_ECB_Chief_Lagarde_to_address_plenary_for_first_time_%2849521491927%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "European Parliament from EU / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Christine_Lagarde_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "European Parliament from EU / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Zeina_Soufan_-_Christine_Lagarde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Alanwiks / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Christine_Lagarde_Complexo_Alem%C3%A3o-2015_05_21_7.jpg/1280px-Christine_Lagarde_Complexo_Alem%C3%A3o-2015_05_21_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Tomaz Silva/ABr / Wikimedia Commons (CC BY 3.0 br)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Christine_Lagarde_World_Economic_Forum_2013.jpg/1280px-Christine_Lagarde_World_Economic_Forum_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "World Economic Forum from Cologny, Switzerland / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Mario_Marcel_con_Christine_Lagarde.jpg/1280px-Mario_Marcel_con_Christine_Lagarde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Banco Central de Chile / Wikimedia Commons (CC0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/AC_SO_Karlspreisverleihung_2026_14._Mai_Dom_Christine_Lagarde_und_Michael_Ziemons_II.jpg/1280px-AC_SO_Karlspreisverleihung_2026_14._Mai_Dom_Christine_Lagarde_und_Michael_Ziemons_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Grunpfnul / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/AC_SO_Karlspreisverleihung_2026_14._Mai_Dom_Christine_Lagarde_I.jpg/1280px-AC_SO_Karlspreisverleihung_2026_14._Mai_Dom_Christine_Lagarde_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Grunpfnul / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/AC_SO_Karlspreisverleihung_2026_14._Mai_Dom_Christine_Lagarde_und_Michael_Ziemons_I.jpg/1280px-AC_SO_Karlspreisverleihung_2026_14._Mai_Dom_Christine_Lagarde_und_Michael_Ziemons_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Grunpfnul / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/AC_SO_Karlspreisverleihung_2026_14._Mai_Kr%C3%B6nungssaal_Christine_Lagarde_I.jpg/1280px-AC_SO_Karlspreisverleihung_2026_14._Mai_Kr%C3%B6nungssaal_Christine_Lagarde_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Grunpfnul / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Women_in_Economic_Decision-making_Christine_Lagarde_%288414041294%29.jpg/1280px-Women_in_Economic_Decision-making_Christine_Lagarde_%288414041294%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "World Economic Forum from Cologny, Switzerland / Wikimedia Commons (CC BY-SA 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     }
+    ],
+    "v": 2
    }
   },
   "recent_ideas": [
-   "courtroom",
    "courtroom",
    "oil refinery",
    "giant parade balloons",
@@ -16739,19 +17009,10 @@
    "european union flags",
    "mother ukraine",
    "collapsed building rescue",
-   "whitehall london"
+   "whitehall london",
+   "marriner s. eccles federal reserve board building"
   ],
   "checked": {
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Cabina_de_Control_para_tr%C3%A1fico_a%C3%A9reo_-_A742589.jpg/1920px-Cabina_de_Control_para_tr%C3%A1fico_a%C3%A9reo_-_A742589.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|fb18eed1": {
-    "s": 7,
-    "w": "air traffic control tower exhibit",
-    "p": ""
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Antelope_Air_Defense_System_Display_at_Tainan_Air_Froce_Base_Apron_20130810.jpg/1920px-Antelope_Air_Defense_System_Display_at_Tainan_Air_Froce_Base_Apron_20130810.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|c1256681": {
-    "s": 9,
-    "w": "air defense missile system truck",
-    "p": ""
-   },
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Chief_of_Defence_Staff_Visits_Barbuda_Radar_Facility_%282%29.jpg/1920px-Chief_of_Defence_Staff_Visits_Barbuda_Radar_Facility_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|70c48238": {
     "s": 8,
     "w": "soldiers inspecting a radar facility",
@@ -19241,6 +19502,16 @@
     "s": 0,
     "w": "person standing by painted wall",
     "p": "shows a person on a street instead of a protest crowd with flags"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|4189e84e": {
+    "s": 10,
+    "w": "Federal Reserve Board Building",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/AC_SO_Karlspreisverleihung_2026_14._Mai_Dom_Christine_Lagarde_und_Michael_Ziemons_II.jpg/1280px-AC_SO_Karlspreisverleihung_2026_14._Mai_Dom_Christine_Lagarde_und_Michael_Ziemons_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Christine Lagarde": {
+    "s": 10,
+    "w": "Christine Lagarde shaking hands",
+    "p": ""
    }
   }
  },
@@ -19252,10 +19523,10 @@
   "2026-11-23": 20,
   "2026-11-24": 23,
   "2026-11-25": 29,
-  "2026-11-26": 14
+  "2026-11-26": 16
  },
- "last_auto_at": "2026-11-26T16:33:39.898548+00:00",
- "last_post_at": "2026-11-26T16:33:43.729289+00:00",
+ "last_auto_at": "2026-11-26T16:46:51.291886+00:00",
+ "last_post_at": "2026-11-26T16:47:14.609413+00:00",
  "reels_count": {
   "2026-11-20": 3,
   "2026-11-21": 3,
