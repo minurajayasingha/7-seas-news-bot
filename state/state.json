@@ -9278,20 +9278,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-23T00:31:08.301324+00:00",
-   [
-    "11",
-    "84000",
-    "mamdani",
-    "proof",
-    "record",
-    "releas",
-    "seek",
-    "survivor"
-   ],
-   "253835a25b"
-  ],
-  [
    "2026-11-23T03:46:26.869040+00:00",
    [
     "attack",
@@ -11556,17 +11542,13 @@
    "7341fbff6e"
   ]
  ],
- "last_draft_at": "2026-11-26T00:15:36.388586+00:00",
+ "last_draft_at": "2026-11-26T00:30:48.158995+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-26T00:00:47.961004+00:00",
  "run_log": [
-  "11-25 22:15:51 run start",
-  "11-25 22:16:59 listening 10 min",
-  "11-25 22:27:29 listening done",
-  "11-25 22:27:29 run end after 697 s",
   "11-25 22:30:39 run start",
   "11-25 22:32:07 listening 10 min",
   "11-25 22:42:11 listening done",
@@ -11602,7 +11584,11 @@
   "11-26 00:15:35 run start",
   "11-26 00:15:54 listening 11 min",
   "11-26 00:27:13 listening done",
-  "11-26 00:27:13 run end after 697 s"
+  "11-26 00:27:13 run end after 697 s",
+  "11-26 00:30:47 run start",
+  "11-26 00:31:21 listening 11 min",
+  "11-26 00:42:16 listening done",
+  "11-26 00:42:16 run end after 688 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
