@@ -1,107 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "c6d37efc2f": {
-   "id": "c6d37efc2f",
-   "headline": "Appeals court revives Trump bid to move case",
-   "summary": "A federal appeals court ruled that a lower judge erred in finding that Donald Trump waited too long to raise an immunity defense. The decision revives the bid to move the hush money conviction into a federal venue.",
-   "label": "US POLITICS",
-   "hook": "Should the hush money conviction case be moved to a federal venue?",
-   "key_points": [
-    "The 2nd U.S. Circuit Court of Appeals issued the ruling.",
-    "A three-judge panel handled the case.",
-    "A lower court ruling had previously foreclosed the bid."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#DonaldTrump",
-    "#LegalNews"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "NBC News",
-    "Washington Examiner"
-   ],
-   "link": "https://www.nbcnews.com/politics/donald-trump/appeals-court-gives-another-chance-move-hush-money-case-federal-court-rcna610988",
-   "links": [
-    [
-     "NBC News",
-     "https://www.nbcnews.com/politics/donald-trump/appeals-court-gives-another-chance-move-hush-money-case-federal-court-rcna610988"
-    ],
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/news/justice/4813069/2nd-circuit-revives-trump-bid-move-hush-money-case-federal-court/"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/23/tajikistan-moves-to-leave-icc-amid-us-push-against-court?traffic_source=rss"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_01.jpg/1920px-A_courtroom_at_the_Cherokee_County_Courthouse_in_North_Carolina%2C_United_States_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Harrison Keely / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 10,
-      "shows": "empty courtroom"
-     }
-    ],
-    "file_photo": true
-   },
-   "img_post": {
-    "headline": "Appeals court revives Trump bid to move case",
-    "people": [
-     "Donald Trump"
-    ],
-    "image_query": "Supreme Court building",
-    "image_queries": [
-     "federal courthouse",
-     "courtroom",
-     "law books",
-     "US Capitol dome"
-    ],
-    "image_style": "scene",
-    "location": "New York, US",
-    "nearby_city": "New York, New York",
-    "event_query": "",
-    "topic_photo": "judge gavel",
-    "label": "US POLITICS",
-    "action_subject": "courtroom",
-    "news_time": "2026-11-23T17:36:17+00:00"
-   },
-   "created_at": "2026-11-23T23:31:49.318281+00:00",
-   "news_time": "2026-11-23T17:36:17+00:00",
-   "news_latest": "2026-11-23T23:09:32+00:00",
-   "importance": 7,
-   "caption": "Appeals court revives Trump bid to move case\n\nA federal appeals court ruled that a lower judge erred in finding that Donald Trump waited too long to raise an immunity defense. The decision revives the bid to move the hush money conviction into a federal venue.\n\n💬 Should the hush money conviction case be moved to a federal venue?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #DonaldTrump #LegalNews #7SeasNews",
-   "photo_line": "📷 10/10 empty courtroom · FILE PHOTO",
-   "status": "posted",
-   "tg_message_id": 942,
-   "tg_file_id": "AgACAgUAAxkDAAIDrmsEzOfVQKgJYZMzm3tmXtMCfmIBAALCEmsbSgcpVBN570AzI9aNAQADAgADdwADPQQ",
-   "queued_at": "2026-11-23T23:31:51.555691+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-23T23:31:51.555719+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122110632651548584",
-   "posted_at": "2026-11-23T23:32:05.116400+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 23 · 6:32 PM New York · 5:02 AM Sri Lanka\n\n<b>Appeals court revives Trump bid to move case</b>\n<i>Al Jazeera, NBC News, Washington Examiner</i>\n🟢 <b>Latest:</b> 4:39 AM Sri Lanka (22 min ago) · first reported 11:06 PM\n📷 10/10 empty courtroom · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122110632651548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 649,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122110632651548584_1704586637921134",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-26T23:00:44.421738+00:00"
-  },
   "d1d91f7b30": {
    "id": "d1d91f7b30",
    "headline": "Donald Trump criticizes California Governor Gavin Newsom over death sentences",
@@ -15520,17 +15419,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-27T23:16:41.543902+00:00",
+ "last_draft_at": "2026-11-27T23:30:48.859216+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T23:16:07.213452+00:00",
  "run_log": [
-  "11-27 21:01:01 run start",
-  "11-27 21:01:20 listening 11 min",
-  "11-27 21:12:40 listening done",
-  "11-27 21:12:40 run end after 699 s",
   "11-27 21:15:39 run start",
   "11-27 21:17:27 listening 10 min",
   "11-27 21:27:05 listening done",
@@ -15566,7 +15461,11 @@
   "11-27 23:16:06 run start",
   "11-27 23:16:43 listening 11 min",
   "11-27 23:27:38 listening done",
-  "11-27 23:27:38 run end after 692 s"
+  "11-27 23:27:38 run end after 692 s",
+  "11-27 23:30:48 run start",
+  "11-27 23:31:21 listening 11 min",
+  "11-27 23:42:16 listening done",
+  "11-27 23:42:16 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
