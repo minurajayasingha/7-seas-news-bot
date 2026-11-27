@@ -11576,45 +11576,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-24T07:34:24.328186+00:00",
-   [
-    "china",
-    "chines",
-    "country",
-    "death",
-    "foreign",
-    "official",
-    "sentenc",
-    "spy"
-   ],
-   "ce67c4c0f3"
-  ],
-  [
-   "2026-11-24T07:34:36.943950+00:00",
-   [
-    "australia",
-    "company",
-    "fin",
-    "forc",
-    "giant",
-    "global",
-    "green",
-    "harm",
-    "join",
-    "labor",
-    "law",
-    "media",
-    "multibillion-dollar",
-    "onlin",
-    "revenu",
-    "safety",
-    "social",
-    "tech",
-    "warn"
-   ],
-   "e0dfb34915"
-  ],
-  [
    "2026-11-24T08:36:55.536625+00:00",
    [
     "35",
@@ -14257,17 +14218,13 @@
    "346abff310"
   ]
  ],
- "last_draft_at": "2026-11-27T07:16:04.515519+00:00",
+ "last_draft_at": "2026-11-27T07:31:12.804270+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T07:15:36.051553+00:00",
  "run_log": [
-  "11-27 05:15:36 run start",
-  "11-27 05:16:35 listening 11 min",
-  "11-27 05:27:05 listening done",
-  "11-27 05:27:05 run end after 688 s",
   "11-27 05:27:42 run start",
   "11-27 05:28:15 listening 11 min",
   "11-27 05:39:09 listening done",
@@ -14303,7 +14260,11 @@
   "11-27 07:15:35 run start",
   "11-27 07:16:37 listening 10 min",
   "11-27 07:27:05 listening done",
-  "11-27 07:27:05 run end after 689 s"
+  "11-27 07:27:05 run end after 689 s",
+  "11-27 07:31:12 run start",
+  "11-27 07:31:13 listening 11 min",
+  "11-27 07:42:58 listening done",
+  "11-27 07:42:58 run end after 706 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
