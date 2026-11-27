@@ -10265,13 +10265,92 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122112864903548584_40702206349393103"
+  },
+  "6b38497d46": {
+   "id": "6b38497d46",
+   "headline": "Tanker carrying diesel capsizes in Mediterranean waters off Ibiza",
+   "summary": "A tanker carrying up to 7,000 tonnes of diesel capsized off the coast of Ibiza. Spanish authorities are working to contain damage to the Mediterranean waters, while the vessel's fuel tanks remain intact.",
+   "label": "WORLD",
+   "hook": "",
+   "key_points": [
+    "One person died in the incident.",
+    "The ship is scheduled to be towed away."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Ibiza",
+    "#Spain",
+    "#WorldNews"
+   ],
+   "sources": [
+    "BBC",
+    "France 24"
+   ],
+   "link": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
+   "links": [
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/video/20261127-spain-races-to-stop-oil-spill-after-ship-capsizes-off-ibiza"
+    ]
+   ],
+   "bg": {
+    "type": "map",
+    "photos": [],
+    "location": "Ibiza, Spain",
+    "lat": 38.90888889,
+    "lon": 1.43277778,
+    "country": "Spain",
+    "state": ""
+   },
+   "img_post": {
+    "headline": "Tanker carrying diesel capsizes in Mediterranean waters off Ibiza",
+    "people": [],
+    "image_query": "Ibiza coast",
+    "image_queries": [
+     "Mediterranean sea",
+     "cargo ship",
+     "Spanish coastline",
+     "ocean waters"
+    ],
+    "image_style": "incident",
+    "location": "Ibiza, Spain",
+    "nearby_city": "Madrid, Spain",
+    "event_query": "capsized tanker off Ibiza",
+    "topic_photo": "cargo ship",
+    "label": "WORLD",
+    "action_subject": "capsized tanker",
+    "news_time": "2026-11-27T17:35:36+00:00"
+   },
+   "created_at": "2026-11-27T20:46:12.962074+00:00",
+   "news_time": "2026-11-27T17:35:36+00:00",
+   "news_latest": "2026-11-27T20:34:45+00:00",
+   "importance": 7,
+   "caption": "Tanker carrying diesel capsizes in Mediterranean waters off Ibiza\n\nA tanker carrying up to 7,000 tonnes of diesel capsized off the coast of Ibiza. Spanish authorities are working to contain damage to the Mediterranean waters, while the vessel's fuel tanks remain intact.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Ibiza #Spain #WorldNews #7SeasNews",
+   "photo_line": "📷 news map (no fitting photo)",
+   "status": "posted",
+   "tg_message_id": 1068,
+   "tg_file_id": "AgACAgUAAxkDAAIELGsJ7BbX-O5r-EVdtFc5ExPQlErUAALHFmsbiIVRVKS1ZoUFO2PHAQADAgADdwADPQQ",
+   "queued_at": "2026-11-27T20:46:14.990616+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-27T20:46:14.990642+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122112870645548584",
+   "posted_at": "2026-11-27T20:46:15.313150+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 27 · 3:46 PM New York · 2:16 AM Sri Lanka\n\n<b>Tanker carrying diesel capsizes in Mediterranean waters off Ibiza</b>\n<i>BBC, France 24</i>\n🟢 <b>Latest:</b> 2:04 AM Sri Lanka (11 min ago) · first reported 11:05 PM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112870645548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 777,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112870645548584_1509811987879825"
   }
  },
  "seen_links": [
-  "https://www.washingtonpost.com/world/2026/11/12/us-managed-12-billion-venezuela-oil-revenue-state-department-says/",
-  "https://www.aljazeera.com/news/2026/11/12/us-releases-report-on-12bn-from-venezuelan-oil-mineral-resources?traffic_source=rss",
-  "https://www.washingtonexaminer.com/news/senate/4802181/thune-open-to-passing-party-line-350-billion-military-package-before-democrats-take-power/",
-  "https://www.nytimes.com/2026/11/12/us/politics/house-veterans-benefits-bill-funding.html",
   "https://www.newsweek.com/abdul-el-sayed-medicare-for-all-trump-appeal-update-12708101",
   "https://www.washingtonexaminer.com/policy/healthcare/4802112/abdul-el-sayed-teases-trumpcare-in-support-of-universal-healthcare/",
   "https://www.independent.co.uk/news/world/americas/donald-trump-jr-kalshi-adviser-role-exit-b3084220.html",
@@ -12267,98 +12346,13 @@
   "https://www.foxnews.com/politics/biden-book-sales-lag-way-behind-obama-clinton-memoirs-first-week",
   "https://www.independent.co.uk/news/world/americas/joe-biden-memoir-sales-obama-clinton-b3092987.html",
   "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition",
-  "https://www.upi.com/Top_News/World-News/2026/11/27/canada-parliament-hoekstra/7271795803871/"
+  "https://www.upi.com/Top_News/World-News/2026/11/27/canada-parliament-hoekstra/7271795803871/",
+  "https://www.upi.com/Top_News/US/2026/11/27/mass-lottery-ICE/5441795810689/",
+  "https://www.nbcnews.com/news/us-news/lottery-winner-arrested-ice-days-claiming-1-million-prize-rcna611555",
+  "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
+  "https://www.france24.com/en/video/20261127-spain-races-to-stop-oil-spill-after-ship-capsizes-off-ibiza"
  ],
  "recent_topics": [
-  [
-   "2026-11-24T20:50:42.772413+00:00",
-   [
-    "attack",
-    "becom",
-    "biden-appoint",
-    "block",
-    "cours",
-    "designer",
-    "east",
-    "extend",
-    "golf",
-    "hold",
-    "judg",
-    "potomac",
-    "renovation",
-    "trump",
-    "want"
-   ],
-   "skipped"
-  ],
-  [
-   "2026-11-24T20:50:52.680917+00:00",
-   [
-    "agency",
-    "breach",
-    "cia",
-    "cyberattack",
-    "information",
-    "intelligenc",
-    "som",
-    "spy",
-    "suffer",
-    "system",
-    "target",
-    "unclassifi"
-   ],
-   "7bddd59f3b"
-  ],
-  [
-   "2026-11-24T20:50:54.353196+00:00",
-   [
-    "cant",
-    "crisi",
-    "describ",
-    "detail",
-    "devil",
-    "diary",
-    "encounter",
-    "entry",
-    "eye",
-    "forget",
-    "franci",
-    "pop",
-    "privat",
-    "profound",
-    "reveal",
-    "spiritual",
-    "vision"
-   ],
-   "skipped"
-  ],
-  [
-   "2026-11-24T20:50:59.930588+00:00",
-   [
-    "act",
-    "army",
-    "controll",
-    "debacl",
-    "detonation",
-    "every",
-    "examination",
-    "facility",
-    "follow",
-    "health",
-    "iowa",
-    "lead",
-    "order",
-    "preferabl",
-    "public",
-    "safety",
-    "secretary",
-    "storag",
-    "such",
-    "thorough",
-    "weapon"
-   ],
-   "skipped"
-  ],
   [
    "2026-11-24T22:31:13.820567+00:00",
    [
@@ -15357,19 +15351,52 @@
     "reach"
    ],
    "0310bd7d5f"
+  ],
+  [
+   "2026-11-27T20:45:53.392982+00:00",
+   [
+    "arrest",
+    "claim",
+    "ice",
+    "lottery",
+    "man",
+    "mass",
+    "million",
+    "priz",
+    "win",
+    "winner"
+   ],
+   "skipped"
+  ],
+  [
+   "2026-11-27T20:46:14.990481+00:00",
+   [
+    "7000",
+    "away",
+    "capsiz",
+    "carry",
+    "diesel",
+    "ibiza",
+    "oil",
+    "rac",
+    "ship",
+    "spain",
+    "spill",
+    "stop",
+    "tanker",
+    "tonn",
+    "tow"
+   ],
+   "6b38497d46"
   ]
  ],
- "last_draft_at": "2026-11-27T20:30:42.535265+00:00",
+ "last_draft_at": "2026-11-27T20:45:42.726287+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T20:16:11.838717+00:00",
  "run_log": [
-  "11-27 18:15:43 run start",
-  "11-27 18:17:26 listening 10 min",
-  "11-27 18:27:30 listening done",
-  "11-27 18:27:30 run end after 707 s",
   "11-27 18:30:48 run start",
   "11-27 18:31:34 listening 11 min",
   "11-27 18:42:29 listening done",
@@ -15405,7 +15432,11 @@
   "11-27 20:30:42 run start",
   "11-27 20:31:44 listening 10 min",
   "11-27 20:42:12 listening done",
-  "11-27 20:42:12 run end after 690 s"
+  "11-27 20:42:12 run end after 690 s",
+  "11-27 20:45:42 run start",
+  "11-27 20:46:28 listening 11 min",
+  "11-27 20:57:23 listening done",
+  "11-27 20:57:23 run end after 700 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -18722,11 +18753,6 @@
    "parliament building"
   ],
   "checked": {
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Gaza_Street_bus_bombing3493.jpg/1920px-Gaza_Street_bus_bombing3493.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|1c291f1a": {
-    "s": 0,
-    "w": "street corner with traffic light",
-    "p": "Wrong location, shows a street intersection instead of Gaza."
-   },
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Trafalgar_Square_Gaza_Protest_%2853983568374%29.jpg/1920px-Trafalgar_Square_Gaza_Protest_%2853983568374%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|1c291f1a": {
     "s": 0,
     "w": "protest in London",
@@ -21221,6 +21247,11 @@
     "s": 0,
     "w": "three people standing outside",
     "p": "Pete Hoekstra is not the person on the left or center"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Madrid_-_Madrid_skyline_-_140314_195825.jpg/1920px-Madrid_-_Madrid_skyline_-_140314_195825.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|3a9b4bae": {
+    "s": 0,
+    "w": "Madrid skyline at night",
+    "p": "wrong city"
    }
   }
  },
@@ -21232,10 +21263,10 @@
   "2026-11-24": 23,
   "2026-11-25": 29,
   "2026-11-26": 28,
-  "2026-11-27": 19
+  "2026-11-27": 20
  },
- "last_auto_at": "2026-11-27T20:31:31.409576+00:00",
- "last_post_at": "2026-11-27T20:31:35.897164+00:00",
+ "last_auto_at": "2026-11-27T20:46:15.313150+00:00",
+ "last_post_at": "2026-11-27T20:46:19.336582+00:00",
  "reels_count": {
   "2026-11-21": 3,
   "2026-11-22": 1,
