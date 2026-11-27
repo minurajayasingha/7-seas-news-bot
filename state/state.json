@@ -1,99 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "0424cd058e": {
-   "id": "0424cd058e",
-   "headline": "ICE arrests father and daughter at Seattle airport",
-   "summary": "Masked immigration officers detained a father and daughter on an airport jet bridge in Seattle. Passengers filmed the incident, which has drawn criticism from the governor of Washington state.",
-   "label": "US POLITICS",
-   "hook": "Should federal immigration agents be permitted to conduct arrests on airport jet bridges?",
-   "key_points": [
-    "The father and daughter are seeking green cards after a marriage.",
-    "The Department of Homeland Security stated they overstayed their visas.",
-    "The lawyer reported they have no criminal history."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Seattle",
-    "#Immigration",
-    "#USPolitics"
-   ],
-   "sources": [
-    "France 24",
-    "Newsweek"
-   ],
-   "link": "https://www.france24.com/en/video/20261123-out-of-control-ice-arrests-at-seattle-airport-spark-outcry",
-   "links": [
-    [
-     "France 24",
-     "https://www.france24.com/en/video/20261123-out-of-control-ice-arrests-at-seattle-airport-spark-outcry"
-    ],
-    [
-     "Newsweek",
-     "https://www.newsweek.com/alaska-airlines-arrested-ice-criminal-history-us-citizen-green-card-lawyer-12755475"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Seattle-Tacoma_International_Airport%2C_Washington_%282014%29_-_01.JPG/1920px-Seattle-Tacoma_International_Airport%2C_Washington_%282014%29_-_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Another Believer / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 6,
-      "shows": "Seattle airport terminal interior"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "ICE arrests father and daughter at Seattle airport",
-    "people": [],
-    "image_query": "Seattle Tacoma International Airport",
-    "image_queries": [
-     "airport terminal",
-     "airplane jet bridge",
-     "airport security checkpoint",
-     "plane boarding gate"
-    ],
-    "image_style": "scene",
-    "location": "Seattle, United States",
-    "nearby_city": "Seattle, Washington",
-    "event_query": "Seattle airport immigration arrest",
-    "topic_photo": "airport terminal",
-    "label": "US POLITICS",
-    "action_subject": "airport passengers",
-    "news_time": "2026-11-23T10:30:34+00:00"
-   },
-   "created_at": "2026-11-23T10:39:21.325689+00:00",
-   "news_time": "2026-11-23T10:30:34+00:00",
-   "news_latest": "2026-11-23T10:34:43+00:00",
-   "importance": 6,
-   "caption": "ICE arrests father and daughter at Seattle airport\n\nMasked immigration officers detained a father and daughter on an airport jet bridge in Seattle. Passengers filmed the incident, which has drawn criticism from the governor of Washington state.\n\n💬 Should federal immigration agents be permitted to conduct arrests on airport jet bridges?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Seattle #Immigration #USPolitics #7SeasNews",
-   "photo_line": "📷 6/10 Seattle airport terminal interior",
-   "status": "posted",
-   "tg_message_id": 927,
-   "tg_file_id": "AgACAgUAAxkDAAIDn2sEF9tThCayiuyx5sZ8xYa5WmxrAAI_GGsbSgchVI31qsZYJixOAQADAgADdwADPQQ",
-   "queued_at": "2026-11-23T10:39:24.002226+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-23T10:39:24.002244+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122110124841548584",
-   "posted_at": "2026-11-23T10:39:24.503369+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 23 · 5:39 AM New York · 4:09 PM Sri Lanka\n\n<b>ICE arrests father and daughter at Seattle airport</b>\n<i>France 24, Newsweek</i>\n🟢 <b>Latest:</b> 4:04 PM Sri Lanka (4 min ago) · first reported 4:00 PM\n📷 6/10 Seattle airport terminal interior\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122110124841548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 633,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122110124841548584_1809562243674786",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-26T10:00:46.150926+00:00"
-  },
   "e2be825e0d": {
    "id": "e2be825e0d",
    "headline": "Donald Trump hosts crypto gala in Virginia",
@@ -14591,17 +14498,13 @@
    "facb4e50b2"
   ]
  ],
- "last_draft_at": "2026-11-27T10:16:28.734545+00:00",
+ "last_draft_at": "2026-11-27T10:30:41.083150+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T10:15:33.166331+00:00",
  "run_log": [
-  "11-27 08:01:04 run start",
-  "11-27 08:01:05 listening 11 min",
-  "11-27 08:12:52 listening done",
-  "11-27 08:12:52 run end after 708 s",
   "11-27 08:15:35 run start",
   "11-27 08:16:26 listening 11 min",
   "11-27 08:27:19 listening done",
@@ -14637,7 +14540,11 @@
   "11-27 10:15:32 run start",
   "11-27 10:17:20 listening 10 min",
   "11-27 10:26:58 listening done",
-  "11-27 10:26:58 run end after 685 s"
+  "11-27 10:26:58 run end after 685 s",
+  "11-27 10:30:40 run start",
+  "11-27 10:30:49 listening 11 min",
+  "11-27 10:42:08 listening done",
+  "11-27 10:42:08 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
