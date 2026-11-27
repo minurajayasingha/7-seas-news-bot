@@ -1,101 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "253835a25b": {
-   "id": "253835a25b",
-   "headline": "New York City releases 84,000 more 9/11 records",
-   "summary": "New York City released 84,000 more records regarding the September 11, 2001 terrorist attacks. According to reports, survivors are seeking documents to help establish their presence at Ground Zero.",
-   "label": "US POLITICS",
-   "hook": "",
-   "key_points": [
-    "Mayor Zohran Mamdani released the records Sunday.",
-    "A previous release showed city leaders lied about air quality.",
-    "Survivors are seeking documents to prove their Ground Zero presence."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#NewYorkCity",
-    "#September11",
-    "#USPolitics"
-   ],
-   "sources": [
-    "Newsweek",
-    "The Hill"
-   ],
-   "link": "https://www.newsweek.com/mamdani-releases-84000-more-9-11-records-as-survivors-seek-proof-12754721",
-   "links": [
-    [
-     "Newsweek",
-     "https://www.newsweek.com/mamdani-releases-84000-more-9-11-records-as-survivors-seek-proof-12754721"
-    ],
-    [
-     "The Hill",
-     "https://thehill.com/homenews/state-watch/6236426-zohran-mamdani-releases-new-911-records/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/New_York_City_Hall_exterior%2C_October_2016.jpg",
-      "credit": "MusikAnimal / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 10,
-      "shows": "New York City Hall"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "New York City releases 84,000 more 9/11 records",
-    "people": [
-     "Zohran Mamdani"
-    ],
-    "image_query": "New York City skyline",
-    "image_queries": [
-     "World Trade Center site",
-     "New York City hall",
-     "Manhattan street view",
-     "NYC government building"
-    ],
-    "image_style": "scene",
-    "location": "New York, United States",
-    "nearby_city": "New York, New York",
-    "event_query": "Ground Zero New York",
-    "topic_photo": "government archives",
-    "label": "US POLITICS",
-    "action_subject": "government documents",
-    "news_time": "2026-11-22T23:33:47+00:00"
-   },
-   "created_at": "2026-11-23T00:31:03.645887+00:00",
-   "news_time": "2026-11-22T23:33:47+00:00",
-   "news_latest": "2026-11-23T00:27:18+00:00",
-   "importance": 6,
-   "caption": "New York City releases 84,000 more 9/11 records\n\nNew York City released 84,000 more records regarding the September 11, 2001 terrorist attacks. According to reports, survivors are seeking documents to help establish their presence at Ground Zero.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#NewYorkCity #September11 #USPolitics #7SeasNews",
-   "photo_line": "📷 10/10 New York City Hall",
-   "status": "posted",
-   "tg_message_id": 918,
-   "tg_file_id": "AgACAgUAAxkDAAIDlmsDiUwDeYnWYxv9p_wRwyVYLen5AALaFWsboQ8ZVDJ0dxc26VbNAQADAgADdwADPQQ",
-   "queued_at": "2026-11-23T00:31:08.301419+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-23T00:31:08.301437+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122109846957548584",
-   "posted_at": "2026-11-23T00:31:08.605998+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 22 · 7:31 PM New York · 6:01 AM Sri Lanka\n\n<b>New York City releases 84,000 more 9/11 records</b>\n<i>Newsweek, The Hill</i>\n🟢 <b>Latest:</b> 5:57 AM Sri Lanka (3 min ago) · first reported 5:03 AM\n📷 10/10 New York City Hall\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122109846957548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 625,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122109846957548584_1002850105614595",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-26T00:00:47.961004+00:00"
-  },
   "5ce05721ba": {
    "id": "5ce05721ba",
    "headline": "Trump reports high levels of Iranian drone and missile attacks",
@@ -9561,13 +9466,97 @@
     "shares": 0
    },
    "stats_at": "2026-11-27T00:06:41.135358+00:00"
+  },
+  "58f49e9a0e": {
+   "id": "58f49e9a0e",
+   "headline": "Argentina bars central bank from printing money for government",
+   "summary": "Argentina's Congress has approved a law that prevents the central bank from printing money to cover government spending. Meanwhile, the Senate has advanced a proposal to suspend primary elections ahead of the 2027 presidential race.",
+   "label": "ECONOMY",
+   "hook": "Will these new financial restrictions strengthen the country's economy?",
+   "key_points": [
+    "The legislation targets government spending funding.",
+    "Senators advanced a proposal regarding primary elections.",
+    "Changes affect the 2027 presidential race context."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Argentina",
+    "#CentralBank",
+    "#Economy"
+   ],
+   "sources": [
+    "ABC News",
+    "Al Jazeera"
+   ],
+   "link": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss"
+    ],
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/argentina-bans-central-bank-printing-money-government-138472438"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Balotaje_Argentina_2015_04.jpg/1920px-Balotaje_Argentina_2015_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gastón Cuello / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "Argentine ballot box"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "Argentina bars central bank from printing money for government",
+    "people": [],
+    "image_query": "Argentine National Congress building",
+    "image_queries": [
+     "Central Bank of Argentina",
+     "Buenos Aires financial district",
+     "Argentine Senate chamber",
+     "Casa Rosada Buenos Aires"
+    ],
+    "image_style": "scene",
+    "location": "Buenos Aires, Argentina",
+    "nearby_city": "Buenos Aires, Argentina",
+    "event_query": "Argentina Congress vote",
+    "topic_photo": "central bank building",
+    "label": "ECONOMY",
+    "action_subject": "",
+    "news_time": "2026-11-26T23:22:26+00:00"
+   },
+   "created_at": "2026-11-27T00:30:59.312319+00:00",
+   "news_time": "2026-11-26T23:22:26+00:00",
+   "news_latest": "2026-11-27T00:11:16+00:00",
+   "importance": 7,
+   "caption": "Argentina bars central bank from printing money for government\n\nArgentina's Congress has approved a law that prevents the central bank from printing money to cover government spending. Meanwhile, the Senate has advanced a proposal to suspend primary elections ahead of the 2027 presidential race.\n\n💬 Will these new financial restrictions strengthen the country's economy?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Argentina #CentralBank #Economy #7SeasNews",
+   "photo_line": "📷 10/10 Argentine ballot box · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 1039,
+   "tg_file_id": "AgACAgUAAxkDAAIED2sIz0X8tDWBC2rkSWm51VkricjjAAJWEmsbiIVJVD0GgiKF5bNpAQADAgADdwADPQQ",
+   "queued_at": "2026-11-27T00:31:01.732336+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-27T00:31:01.732355+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122112423459548584",
+   "posted_at": "2026-11-27T00:31:03.031244+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 26 · 7:31 PM New York · 6:01 AM Sri Lanka\n\n<b>Argentina bars central bank from printing money for government</b>\n<i>ABC News, Al Jazeera</i>\n🟢 <b>Latest:</b> 5:41 AM Sri Lanka (19 min ago) · first reported 4:52 AM\n📷 10/10 Argentine ballot box · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112423459548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 747,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112423459548584_1810437033595394"
   }
  },
  "seen_links": [
-  "https://www.newsweek.com/ukraine-hit-by-new-systematic-starshield-restrictions-says-zelensky-12703360",
-  "https://www.france24.com/en/europe/20261112-new-systematic-restrictions-starshield-network-kill-more-ukrainians-zelensky-says",
-  "https://www.nbcnews.com/world/ukraine/ukraine-starshield-limits-russia-war-trump-musk-rcna608938",
-  "https://www.nytimes.com/2026/11/11/world/europe/ukraine-lima-electronic-warefare-gps.html",
   "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
   "https://www.euronews.com/2026/11/12/russian-officer-killed-by-car-bomb-in-st-petersburg-as-murder-investigation-begins",
   "https://www.newsweek.com/russian-soldiers-blown-up-by-car-bombs-12703309",
@@ -11563,7 +11552,11 @@
   "https://www.washingtonexaminer.com/policy/energy-and-environment/4816312/prince-georges-montgomery-counties-conserve-water-thanksgiving-storms/",
   "https://thehill.com/policy/energy-environment/6244928-thanksgiving-storm-flight-delays-power-outages/",
   "https://thehill.com/policy/international/6244966-sheinbaum-rebukes-dea-tip-line/",
-  "https://abcnews.com/International/wireStory/mexican-president-blasts-dea-tip-lines-accusing-fighting-138471560"
+  "https://abcnews.com/International/wireStory/mexican-president-blasts-dea-tip-lines-accusing-fighting-138471560",
+  "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
+  "https://abcnews.com/International/wireStory/argentina-bans-central-bank-printing-money-government-138472438",
+  "https://www.newsweek.com/trump-calls-gdp-fake-his-white-house-called-it-a-surge-in-october-12772108",
+  "https://www.washingtonexaminer.com/news/white-house/4816296/trump-investigation-commerce-department-gdp-figures/"
  ],
  "recent_topics": [
   [
@@ -14163,19 +14156,50 @@
     "tip"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-27T00:31:01.732219+00:00",
+   [
+    "argentina",
+    "ban",
+    "bank",
+    "bar",
+    "central",
+    "fund",
+    "government",
+    "money",
+    "print",
+    "spend"
+   ],
+   "58f49e9a0e"
+  ],
+  [
+   "2026-11-27T00:31:03.031234+00:00",
+   [
+    "call",
+    "commerc",
+    "department",
+    "fak",
+    "figur",
+    "gdp",
+    "hous",
+    "investigation",
+    "october",
+    "revis",
+    "surg",
+    "trump",
+    "whit"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-27T00:18:41.381025+00:00",
+ "last_draft_at": "2026-11-27T00:30:37.714578+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T00:06:41.135358+00:00",
  "run_log": [
-  "11-26 22:15:35 run start",
-  "11-26 22:15:45 listening 11 min",
-  "11-26 22:27:05 listening done",
-  "11-26 22:27:05 run end after 690 s",
   "11-26 22:30:37 run start",
   "11-26 22:30:57 listening 11 min",
   "11-26 22:42:15 listening done",
@@ -14211,12 +14235,15 @@
   "11-27 00:18:40 run start",
   "11-27 00:18:50 listening 11 min",
   "11-27 00:30:09 listening done",
-  "11-27 00:30:09 run end after 688 s"
+  "11-27 00:30:09 run end after 688 s",
+  "11-27 00:30:35 run start",
+  "11-27 00:31:21 listening 11 min",
+  "11-27 00:42:15 listening done",
+  "11-27 00:42:15 run end after 699 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/f/fd/Kilmar_%C3%81brego_Garc%C3%ADa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://upload.wikimedia.org/wikipedia/commons/8/82/Melania_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg/1920px-Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Benjamin_Netanyahu_October_22%2C_2024_%283x4_cropped%29.jpg/1280px-Benjamin_Netanyahu_October_22%2C_2024_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -14255,7 +14282,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/MAC01.jpg/1920px-MAC01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Donald_Trump_RNC_July_2016.jpg/1280px-Donald_Trump_RNC_July_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Gadi_Eisenkot_2_%28cropped%29.jpg/1280px-Gadi_Eisenkot_2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/a/a2/StrobeTalbott.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/a/a2/StrobeTalbott.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Balotaje_Argentina_2015_04.jpg/1920px-Balotaje_Argentina_2015_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -17462,7 +17490,6 @@
    }
   },
   "recent_ideas": [
-   "giant parade balloons",
    "fighter jets",
    "courtroom",
    "judge gavel",
@@ -17473,14 +17500,10 @@
    "whitehall london",
    "marriner s. eccles federal reserve board building",
    "pentagon press briefing",
-   "semiconductor microchips"
+   "semiconductor microchips",
+   "ballot box"
   ],
   "checked": {
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Red-cheeked_cordon-bleu_%28Uraeginthus_bengalus_bengalus%29_female.jpg/1920px-Red-cheeked_cordon-bleu_%28Uraeginthus_bengalus_bengalus%29_female.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|cdf4f101": {
-    "s": 0,
-    "w": "bird on the ground",
-    "p": "photo shows a bird instead of police officers or the story action"
-   },
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Lincs_%26_Notts_Air_Ambulance_Crew.jpg/1920px-Lincs_%26_Notts_Air_Ambulance_Crew.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|cdf4f101": {
     "s": 0,
     "w": "ambulance crew with helicopter",
@@ -19975,6 +19998,11 @@
     "s": 10,
     "w": "Strobe Talbott portrait",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Balotaje_Argentina_2015_04.jpg/1920px-Balotaje_Argentina_2015_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|daedcfca": {
+    "s": 10,
+    "w": "Argentine ballot box",
+    "p": ""
    }
   }
  },
@@ -19986,10 +20014,10 @@
   "2026-11-23": 20,
   "2026-11-24": 23,
   "2026-11-25": 29,
-  "2026-11-26": 23
+  "2026-11-26": 24
  },
- "last_auto_at": "2026-11-26T22:46:08.051922+00:00",
- "last_post_at": "2026-11-26T22:46:12.689253+00:00",
+ "last_auto_at": "2026-11-27T00:31:03.031244+00:00",
+ "last_post_at": "2026-11-27T00:31:10.895647+00:00",
  "reels_count": {
   "2026-11-20": 3,
   "2026-11-21": 3,
