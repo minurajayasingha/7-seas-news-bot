@@ -1,100 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "3ed909c38e": {
-   "id": "3ed909c38e",
-   "headline": "Democrats win large House majority after flipping North Carolina seat",
-   "summary": "Democrats have secured at least 258 seats in the midterms, outpacing Republicans who hold at least 173. Climate change talks at COP31 also concluded without reaching a deal after running past schedule.",
-   "label": "ELECTIONS",
-   "hook": "Will these midterms results change legislative priorities in the upcoming session?",
-   "key_points": [
-    "Democrats flipped 47 House seats in total.",
-    "COP31 climate change talks ran two days longer than expected.",
-    "The conference became the longest summit in history."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#Midterms",
-    "#Congress"
-   ],
-   "sources": [
-    "BBC",
-    "NPR"
-   ],
-   "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
-   "links": [
-    [
-     "BBC",
-     "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss"
-    ],
-    [
-     "NPR",
-     "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Example_voting_booth_from_USA_%28Connecticut%29.jpg/1920px-Example_voting_booth_from_USA_%28Connecticut%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Kenneth C. Zirkel / Wikimedia Commons (CC0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 10,
-      "shows": "vintage voting booth"
-     }
-    ],
-    "file_photo": true
-   },
-   "img_post": {
-    "headline": "Democrats win large House majority after flipping North Carolina seat",
-    "people": [],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "House of Representatives chamber",
-     "voting booth",
-     "Capitol Hill",
-     "ballot box"
-    ],
-    "image_style": "scene",
-    "location": "North Carolina, US",
-    "nearby_city": "Raleigh, North Carolina",
-    "event_query": "US midterm elections",
-    "topic_photo": "ballot box",
-    "label": "ELECTIONS",
-    "action_subject": "voting booth",
-    "news_time": "2026-11-23T12:42:03+00:00"
-   },
-   "created_at": "2026-11-23T13:06:07.844465+00:00",
-   "news_time": "2026-11-23T12:42:03+00:00",
-   "news_latest": "2026-11-23T13:02:05+00:00",
-   "importance": 8,
-   "caption": "Democrats win large House majority after flipping North Carolina seat\n\nDemocrats have secured at least 258 seats in the midterms, outpacing Republicans who hold at least 173. Climate change talks at COP31 also concluded without reaching a deal after running past schedule.\n\n💬 Will these midterms results change legislative priorities in the upcoming session?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Midterms #Congress #7SeasNews",
-   "photo_line": "📷 10/10 vintage voting booth · FILE PHOTO",
-   "status": "posted",
-   "tg_message_id": 936,
-   "tg_file_id": "AgACAgUAAxkDAAIDqGsEOkKJ951HEXWEWcBUwYnx5s0DAAKmGGsbSgchVFEeu8bhrfMJAQADAgADdwADPQQ",
-   "queued_at": "2026-11-23T13:06:10.274526+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-23T13:06:10.274566+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122110225413548584",
-   "posted_at": "2026-11-23T13:06:22.915925+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 23 · 8:06 AM New York · 6:36 PM Sri Lanka\n\n<b>Democrats win large House majority after flipping North Carolina seat</b>\n<i>BBC, NPR</i>\n🟢 <b>Latest:</b> 6:32 PM Sri Lanka (4 min ago) · first reported 6:12 PM\n📷 10/10 vintage voting booth · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122110225413548584\">Open on Facebook</a>\n\n⚠️ <i>Looks like an earlier post: “Democrats claim majorities in US House and Senate during midterms”. Tap 🗑 Delete if it's the same news.</i>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 642,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122110225413548584_1158340309908340",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-26T13:00:48.208383+00:00"
-  },
   "5543313b9a": {
    "id": "5543313b9a",
    "headline": "Two city buses and car crash in Columbus kills two",
@@ -14196,17 +14102,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-27T12:45:45.118151+00:00",
+ "last_draft_at": "2026-11-27T13:01:19.705914+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T12:15:34.447556+00:00",
  "run_log": [
-  "11-27 10:30:40 run start",
-  "11-27 10:30:49 listening 11 min",
-  "11-27 10:42:08 listening done",
-  "11-27 10:42:08 run end after 687 s",
   "11-27 10:45:32 run start",
   "11-27 10:45:52 listening 11 min",
   "11-27 10:57:11 listening done",
@@ -14242,7 +14144,11 @@
   "11-27 12:45:44 run start",
   "11-27 12:47:36 listening 10 min",
   "11-27 12:57:16 listening done",
-  "11-27 12:57:16 run end after 691 s"
+  "11-27 12:57:16 run end after 691 s",
+  "11-27 13:01:18 run start",
+  "11-27 13:01:20 listening 11 min",
+  "11-27 13:13:05 listening done",
+  "11-27 13:13:05 run end after 707 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -21528,7 +21434,11 @@
     "Eisenkot signs coalition deal with left-wing Democrats in Israel",
     "Argentina bars central bank from printing money for government",
     "Zelensky tells BBC US is too focused on Middle East"
-   ]
+   ],
+   "done": {
+    "tt1": true,
+    "log1": true
+   }
   }
  },
  "run_once_done": [
