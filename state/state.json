@@ -10174,11 +10174,100 @@
     "shares": 0
    },
    "stats_at": "2026-11-27T20:16:11.838717+00:00"
+  },
+  "0310bd7d5f": {
+   "id": "0310bd7d5f",
+   "headline": "Canadian parliament receives petition to expel US ambassador Pete Hoekstra",
+   "summary": "Nearly 290,000 Canadians signed a petition urging parliament to remove US Ambassador Pete Hoekstra. Elizabeth May presented the document to the House of Commons.",
+   "label": "DIPLOMACY",
+   "hook": "Should diplomats be removed following petitions from citizens?",
+   "key_points": [
+    "Elizabeth May presented the petition on Thursday.",
+    "Signatories accuse Hoekstra of diplomatic interference.",
+    "The petition began collecting signatures in July."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Canada",
+    "#USAmbassador",
+    "#Diplomacy"
+   ],
+   "sources": [
+    "The Guardian",
+    "UPI"
+   ],
+   "link": "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition",
+   "links": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition"
+    ],
+    [
+     "UPI",
+     "https://www.upi.com/Top_News/World-News/2026/11/27/canada-parliament-hoekstra/7271795803871/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Centre_Block%2C_Ottawa%2C_Southeast_view_20170422_1.jpg/1920px-Centre_Block%2C_Ottawa%2C_Southeast_view_20170422_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "DXR / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "Canadian parliament building in Ottawa"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "Canadian parliament receives petition to expel US ambassador Pete Hoekstra",
+    "people": [
+     "Pete Hoekstra",
+     "Elizabeth May"
+    ],
+    "image_query": "Canadian parliament building",
+    "image_queries": [
+     "Canadian House of Commons",
+     "Parliament Hill Ottawa",
+     "Canadian flag",
+     "Ottawa skyline"
+    ],
+    "image_style": "scene",
+    "location": "Ottawa, Canada",
+    "nearby_city": "Ottawa, Ontario",
+    "event_query": "House of Commons Ottawa",
+    "topic_photo": "government building",
+    "label": "DIPLOMACY",
+    "action_subject": "parliament building",
+    "news_time": "2026-11-27T18:32:50+00:00"
+   },
+   "created_at": "2026-11-27T20:31:29.134168+00:00",
+   "news_time": "2026-11-27T18:32:50+00:00",
+   "news_latest": "2026-11-27T20:19:04+00:00",
+   "importance": 6,
+   "caption": "Canadian parliament receives petition to expel US ambassador Pete Hoekstra\n\nNearly 290,000 Canadians signed a petition urging parliament to remove US Ambassador Pete Hoekstra. Elizabeth May presented the document to the House of Commons.\n\n💬 Should diplomats be removed following petitions from citizens?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Canada #USAmbassador #Diplomacy #7SeasNews",
+   "photo_line": "📷 10/10 Canadian parliament building in Ottawa · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 1067,
+   "tg_file_id": "AgACAgUAAxkDAAIEK2sJ6KID-uZXE5gjac6bdQbo3FriAALGFmsbiIVRVIrhuy_3vlHMAQADAgADdwADPQQ",
+   "queued_at": "2026-11-27T20:31:31.127047+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-27T20:31:31.127115+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122112864903548584",
+   "posted_at": "2026-11-27T20:31:31.409576+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 27 · 3:31 PM New York · 2:01 AM Sri Lanka\n\n<b>Canadian parliament receives petition to expel US ambassador Pete Hoekstra</b>\n<i>The Guardian, UPI</i>\n🟢 <b>Latest:</b> 1:49 AM Sri Lanka (12 min ago) · first reported 12:02 AM\n📷 10/10 Canadian parliament building in Ottawa · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112864903548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 776,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112864903548584_40702206349393103"
   }
  },
  "seen_links": [
-  "https://www.nbcnews.com/news/us-news/oklahoma-dismisses-murder-charge-former-death-row-inmate-richard-gloss-rcna609070",
-  "https://www.upi.com/Top_News/US/2026/11/12/oklahoma-executes-james-pavatt-2001-murder/9801794505837/",
   "https://www.washingtonpost.com/world/2026/11/12/us-managed-12-billion-venezuela-oil-revenue-state-department-says/",
   "https://www.aljazeera.com/news/2026/11/12/us-releases-report-on-12bn-from-venezuelan-oil-mineral-resources?traffic_source=rss",
   "https://www.washingtonexaminer.com/news/senate/4802181/thune-open-to-passing-party-line-350-billion-military-package-before-democrats-take-power/",
@@ -12176,7 +12265,9 @@
   "https://www.france24.com/en/europe/20261127-spain-far-right-vox-at-the-gates-can-women-bail-out-sanchez-once-again",
   "https://www.nytimes.com/2026/11/27/world/europe/santiago-abascal-vox-spain-far-right.html",
   "https://www.foxnews.com/politics/biden-book-sales-lag-way-behind-obama-clinton-memoirs-first-week",
-  "https://www.independent.co.uk/news/world/americas/joe-biden-memoir-sales-obama-clinton-b3092987.html"
+  "https://www.independent.co.uk/news/world/americas/joe-biden-memoir-sales-obama-clinton-b3092987.html",
+  "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition",
+  "https://www.upi.com/Top_News/World-News/2026/11/27/canada-parliament-hoekstra/7271795803871/"
  ],
  "recent_topics": [
   [
@@ -15248,19 +15339,33 @@
     "way"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-27T20:31:31.126844+00:00",
+   [
+    "abusiv",
+    "ambassador",
+    "campaign",
+    "canada",
+    "canadian",
+    "expel",
+    "insult",
+    "oust",
+    "parliament",
+    "petition",
+    "present",
+    "reach"
+   ],
+   "0310bd7d5f"
   ]
  ],
- "last_draft_at": "2026-11-27T20:16:48.528007+00:00",
+ "last_draft_at": "2026-11-27T20:30:42.535265+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T20:16:11.838717+00:00",
  "run_log": [
-  "11-27 18:00:44 run start",
-  "11-27 18:01:22 listening 11 min",
-  "11-27 18:12:17 listening done",
-  "11-27 18:12:17 run end after 693 s",
   "11-27 18:15:43 run start",
   "11-27 18:17:26 listening 10 min",
   "11-27 18:27:30 listening done",
@@ -15296,12 +15401,15 @@
   "11-27 20:16:11 run start",
   "11-27 20:16:49 listening 11 min",
   "11-27 20:27:44 listening done",
-  "11-27 20:27:44 run end after 693 s"
+  "11-27 20:27:44 run end after 693 s",
+  "11-27 20:30:42 run start",
+  "11-27 20:31:44 listening 10 min",
+  "11-27 20:42:12 listening done",
+  "11-27 20:42:12 run end after 690 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Belgian_Presidency_of_the_Council_of_the_European_Union_-_EU2024BE_240610_Lessons_learned_of_the_Belgian_Presidency_Egmont_Palace_JNZT_0003_%2853783023355%29.jpg/1920px-Belgian_Presidency_of_the_Council_of_the_European_Union_-_EU2024BE_240610_Lessons_learned_of_the_Belgian_Presidency_Egmont_Palace_JNZT_0003_%2853783023355%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg/1280px-Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/c/c0/Mother_Ukraine_blue_hour.jpg",
    "https://upload.wikimedia.org/wikipedia/commons/2/2d/Al_Khoziny_Islamic_boarding_school_collapsed_during_evacuation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -15340,7 +15448,8 @@
    "https://upload.wikimedia.org/wikipedia/commons/0/0b/Deb_Fischer%2C_official_portrait%2C_115th_Congress_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/%C4%B0ntrepid_aircraft_carrier.jpg/1920px-%C4%B0ntrepid_aircraft_carrier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Av._de_la_Republica%2C_Mexico_City_2020.jpg/1920px-Av._de_la_Republica%2C_Mexico_City_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Private_voting_booth_in_Madrid_.jpg/1920px-Private_voting_booth_in_Madrid_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Private_voting_booth_in_Madrid_.jpg/1920px-Private_voting_booth_in_Madrid_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Centre_Block%2C_Ottawa%2C_Southeast_view_20170422_1.jpg/1920px-Centre_Block%2C_Ottawa%2C_Southeast_view_20170422_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -15862,82 +15971,6 @@
      }
     ],
     "v": 2
-   },
-   "elizabeth warren": {
-    "t": "2026-11-15T21:31:22.443295+00:00",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Elizabeth_Warren_by_Gage_Skidmore.jpg/1280px-Elizabeth_Warren_by_Gage_Skidmore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS"
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Elizabeth_Warren_during_her_presidential_town_hall_at_the_Marquee_Theatre_in_Tempe%2C_Arizona_on_August_1%2C_2019_%2848520947136%29_%28cropped%29.jpg/1280px-Elizabeth_Warren_during_her_presidential_town_hall_at_the_Marquee_Theatre_in_Tempe%2C_Arizona_on_August_1%2C_2019_%2848520947136%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Elizabeth_Warren_speaking_at_UW-Madison_GOTV_rally_on_Oct._26%2C_2022_IMG_2515.jpg/1280px-Elizabeth_Warren_speaking_at_UW-Madison_GOTV_rally_on_Oct._26%2C_2022_IMG_2515.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "SecretName101 / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Elizabeth_Warren_during_her_presidential_town_hall_at_the_Marquee_Theatre_in_Tempe%2C_Arizona_on_August_1%2C_2019_%2848520956116%29.jpg/1280px-Elizabeth_Warren_during_her_presidential_town_hall_at_the_Marquee_Theatre_in_Tempe%2C_Arizona_on_August_1%2C_2019_%2848520956116%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Elizabeth_Warren_speaking_at_UW-Madison_GOTV_rally_on_Oct._26%2C_2022_IMG_2569.jpg/1280px-Elizabeth_Warren_speaking_at_UW-Madison_GOTV_rally_on_Oct._26%2C_2022_IMG_2569.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "SecretName101 / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Elizabeth_Warren_speaking_at_UW-Madison_GOTV_rally_on_Oct._26%2C_2022_IMG_2550.jpg/1280px-Elizabeth_Warren_speaking_at_UW-Madison_GOTV_rally_on_Oct._26%2C_2022_IMG_2550.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "SecretName101 / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Elizabeth_Warren_speaking_at_UW-Madison_GOTV_rally_on_Oct._26%2C_2022_IMG_2580.jpg/1280px-Elizabeth_Warren_speaking_at_UW-Madison_GOTV_rally_on_Oct._26%2C_2022_IMG_2580.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "SecretName101 / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Elizabeth_Warren_during_her_presidential_town_hall_at_the_Marquee_Theatre_in_Tempe%2C_Arizona_on_August_1%2C_2019_%2848521137077%29_%28cropped%29.jpg/1280px-Elizabeth_Warren_during_her_presidential_town_hall_at_the_Marquee_Theatre_in_Tempe%2C_Arizona_on_August_1%2C_2019_%2848521137077%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Elizabeth_Warren_%2848650574712%29.jpg/1280px-Elizabeth_Warren_%2848650574712%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Elizabeth_Warren_%2848650078133%29.jpg/1280px-Elizabeth_Warren_%2848650078133%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Elizabeth_Warren_during_her_presidential_town_hall_at_the_Marquee_Theatre_in_Tempe%2C_Arizona_on_August_1%2C_2019_%2848520965656%29.jpg/1280px-Elizabeth_Warren_during_her_presidential_town_hall_at_the_Marquee_Theatre_in_Tempe%2C_Arizona_on_August_1%2C_2019_%2848520965656%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Elizabeth_Warren_speaking_at_UW-Madison_GOTV_rally_on_Oct._26%2C_2022_IMG_2573.jpg/1280px-Elizabeth_Warren_speaking_at_UW-Madison_GOTV_rally_on_Oct._26%2C_2022_IMG_2573.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "SecretName101 / Wikimedia Commons (CC BY 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     }
-    ]
    },
    "miguel angel felix gallardo": {
     "t": "2026-11-16T02:16:02.427462+00:00",
@@ -18584,10 +18617,97 @@
      }
     ],
     "v": 2
+   },
+   "pete hoekstra": {
+    "t": "2026-11-27T20:31:19.945180+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/C._Piet_Hoekstra.jpg/1280px-C._Piet_Hoekstra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. State Department / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Official_Portrait_of_Ambassador_Pete_Hoekstra.jpg/1280px-Official_Portrait_of_Ambassador_Pete_Hoekstra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Department of State / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Pete_Hoekstra_official_photo.jpg/1280px-Pete_Hoekstra_official_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "United States Department of State / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Pete_Hoekstra%2C_GES_The_Hague_2019.jpg/1280px-Pete_Hoekstra%2C_GES_The_Hague_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Global Entrepreneurship Summit / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Ambassador_of_the_United_States_to_Canada_Pete_Hoekstra_welcomed_guests_to_Lornado_for_their_first_official_Fourth_of_July_Independencce_Day_celebration_on_July_4%2C_2025_-_47.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Embassy and Consulates in Canada / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Ambassador_of_the_United_States_to_Canada_Pete_Hoekstra_welcomed_guests_to_Lornado_for_their_first_official_Fourth_of_July_Independencce_Day_celebration_on_July_4%2C_2025_-_82.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Embassy and Consulates in Canada / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Ambassador_of_the_United_States_to_Canada_Pete_Hoekstra_welcomed_guests_to_Lornado_for_their_first_official_Fourth_of_July_Independencce_Day_celebration_on_July_4%2C_2025_-_173.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Embassy and Consulates in Canada / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Ambassador_of_the_United_States_to_Canada_Pete_Hoekstra_welcomed_guests_to_Lornado_for_their_first_official_Fourth_of_July_Independencce_Day_celebration_on_July_4%2C_2025_-_279.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Embassy and Consulates in Canada / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Ambassador_of_the_United_States_to_Canada_Pete_Hoekstra_welcomed_guests_to_Lornado_for_their_first_official_Fourth_of_July_Independencce_Day_celebration_on_July_4%2C_2025_-_44.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Embassy and Consulates in Canada / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Ambassador_of_the_United_States_to_Canada_Pete_Hoekstra_welcomed_guests_to_Lornado_for_their_first_official_Fourth_of_July_Independencce_Day_celebration_on_July_4%2C_2025_-_202.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Embassy and Consulates in Canada / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Ambassador_of_the_United_States_to_Canada_Pete_Hoekstra_welcomed_guests_to_Lornado_for_their_first_official_Fourth_of_July_Independencce_Day_celebration_on_July_4%2C_2025_-_86.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Embassy and Consulates in Canada / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Ambassador_of_the_United_States_to_Canada_Pete_Hoekstra_welcomed_guests_to_Lornado_for_their_first_official_Fourth_of_July_Independencce_Day_celebration_on_July_4%2C_2025_-_96.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U.S. Embassy and Consulates in Canada / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": false
+     }
+    ],
+    "v": 2
    }
   },
   "recent_ideas": [
-   "pyongyang buildings",
    "estonia",
    "european parliament building",
    "courtroom",
@@ -18598,34 +18718,10 @@
    "oil refinery",
    "aircraft carrier",
    "mexico city, mexico",
-   "voting booth"
+   "voting booth",
+   "parliament building"
   ],
   "checked": {
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg/1280px-Donald_Trump_at_Inaugural_parade_presidential_review_stand_01-20-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Donald Trump": {
-    "s": 0,
-    "w": "Donald Trump waving behind glass",
-    "p": "wrong event and location, headline mentions Marcos in Manila"
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Missile_strike_on_Kharkiv%2C_30_December_2023_04.jpg/1920px-Missile_strike_on_Kharkiv%2C_30_December_2023_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|115ec026": {
-    "s": 0,
-    "w": "people and emergency workers outdoors",
-    "p": "specific different event with victims, wrong context"
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Naval_Strike_Missile_%28NSM%29_3.jpg/1920px-Naval_Strike_Missile_%28NSM%29_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|115ec026": {
-    "s": 8,
-    "w": "missile model on display",
-    "p": ""
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Markwayne_Mullin_Official_Photo_%283x4%29_%28cropped%29.jpg/1280px-Markwayne_Mullin_Official_Photo_%283x4%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Markwayne Mullin": {
-    "s": 10,
-    "w": "Markwayne Mullin portrait",
-    "p": ""
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/US_Capitol_west_side_at_dusk.JPG/1920px-US_Capitol_west_side_at_dusk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|50bfa227": {
-    "s": 6,
-    "w": "US Capitol building",
-    "p": ""
-   },
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Gaza_Street_bus_bombing3493.jpg/1920px-Gaza_Street_bus_bombing3493.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|1c291f1a": {
     "s": 0,
     "w": "street corner with traffic light",
@@ -21100,6 +21196,31 @@
     "s": 10,
     "w": "voting booths",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Parliament_Hill%2C_Quebec_city%2C_Canada.jpg/1920px-Parliament_Hill%2C_Quebec_city%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|0e4def3d": {
+    "s": 0,
+    "w": "street scene with modern building",
+    "p": "shows an office building, not the parliament building"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Centre_Block%2C_Ottawa%2C_Southeast_view_20170422_1.jpg/1920px-Centre_Block%2C_Ottawa%2C_Southeast_view_20170422_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|0e4def3d": {
+    "s": 10,
+    "w": "Canadian parliament building in Ottawa",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Pete_Hoekstra%2C_GES_The_Hague_2019.jpg/1280px-Pete_Hoekstra%2C_GES_The_Hague_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Pete Hoekstra": {
+    "s": 0,
+    "w": "Pete Hoekstra speaking on stage",
+    "p": "photo does not show the correct person (shows someone else, not Pete Hoekstra)"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/C._Piet_Hoekstra.jpg/1280px-C._Piet_Hoekstra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Pete Hoekstra": {
+    "s": 0,
+    "w": "man wearing red tie",
+    "p": "wrong person (shown is Sonny Perdue, not Pete Hoekstra)"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Ambassador_of_the_United_States_to_Canada_Pete_Hoekstra_welcomed_guests_to_Lornado_for_their_first_official_Fourth_of_July_Independencce_Day_celebration_on_July_4%2C_2025_-_82.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Pete Hoekstra": {
+    "s": 0,
+    "w": "three people standing outside",
+    "p": "Pete Hoekstra is not the person on the left or center"
    }
   }
  },
@@ -21111,10 +21232,10 @@
   "2026-11-24": 23,
   "2026-11-25": 29,
   "2026-11-26": 28,
-  "2026-11-27": 18
+  "2026-11-27": 19
  },
- "last_auto_at": "2026-11-27T19:17:18.793638+00:00",
- "last_post_at": "2026-11-27T19:17:40.501605+00:00",
+ "last_auto_at": "2026-11-27T20:31:31.409576+00:00",
+ "last_post_at": "2026-11-27T20:31:35.897164+00:00",
  "reels_count": {
   "2026-11-21": 3,
   "2026-11-22": 1,
