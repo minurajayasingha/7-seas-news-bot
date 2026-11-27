@@ -9653,13 +9653,99 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122112604203548584_1192631166785713"
+  },
+  "ddef0c0929": {
+   "id": "ddef0c0929",
+   "headline": "Fighter jets scramble after drones enter Latvian and Estonian airspace",
+   "summary": "Military aircraft deployed following threats in Estonia and Latvia. Latvia's army warns that further incursions remain likely.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Latvia's army has not identified the origin of the drone.",
+    "Fighter jets were deployed after airspace alerts."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#NATO",
+    "#Latvia",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Euronews",
+    "Newsweek"
+   ],
+   "link": "https://www.euronews.com/2026/11/27/nato-jets-scrambled-after-drone-briefly-enters-latvian-airspace",
+   "links": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/27/nato-jets-scrambled-after-drone-briefly-enters-latvian-airspace"
+    ],
+    [
+     "Newsweek",
+     "https://www.newsweek.com/nato-states-sound-drone-alert-scramble-fighter-jets-12772849"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Gogojo_iela_and_Riga_skyline_from_Latvian_Academy_of_Sciences_Observation_deck.jpg/1920px-Gogojo_iela_and_Riga_skyline_from_Latvian_Academy_of_Sciences_Observation_deck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Tim Adams / Wikimedia Commons (CC BY 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 5,
+      "shows": "Riga cityscape and skyline"
+     }
+    ],
+    "_loaded": 1
+   },
+   "img_post": {
+    "headline": "Fighter jets scramble after drones enter Latvian and Estonian airspace",
+    "people": [],
+    "image_query": "Riga skyline",
+    "image_queries": [
+     "military air base",
+     "fighter jet on runway",
+     "radar screen",
+     "military control room"
+    ],
+    "image_style": "incident",
+    "location": "Riga, Latvia",
+    "nearby_city": "Riga, Latvia",
+    "event_query": "Latvia airspace drone incident",
+    "topic_photo": "radar screen",
+    "label": "CONFLICT",
+    "action_subject": "fighter jet",
+    "news_time": "2026-11-27T10:32:56+00:00"
+   },
+   "created_at": "2026-11-27T11:01:22.337315+00:00",
+   "news_time": "2026-11-27T10:32:56+00:00",
+   "news_latest": "2026-11-27T10:41:24+00:00",
+   "importance": 8,
+   "caption": "🚨 BREAKING: Fighter jets scramble after drones enter Latvian and Estonian airspace\n\nMilitary aircraft deployed following threats in Estonia and Latvia. Latvia's army warns that further incursions remain likely.\n\nWhat we know so far:\n• Latvia's army has not identified the origin of the drone.\n• Fighter jets were deployed after airspace alerts.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#NATO #Latvia #WorldNews #7SeasNews",
+   "photo_line": "📷 5/10 Riga cityscape and skyline",
+   "status": "posted",
+   "tg_message_id": 1051,
+   "tg_file_id": "AgACAgUAAxkDAAIEG2sJYwWFI-KSOzIVmbPbZOCT77CjAAJaFWsbiIVRVGIw4DKmNxEUAQADAgADdwADPQQ",
+   "queued_at": "2026-11-27T11:01:26.199810+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-27T11:01:26.199832+00:00",
+   "post_label": "🤖 Auto-posting + Reel",
+   "fb_post_id": "1413030521900096_122112620691548584",
+   "posted_at": "2026-11-27T11:01:26.548788+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 27 · 6:01 AM New York · 4:31 PM Sri Lanka\n\n<b>Fighter jets scramble after drones enter Latvian and Estonian airspace</b>\n<i>Euronews, Newsweek</i>\n🟢 <b>Latest:</b> 4:11 PM Sri Lanka (20 min ago) · first reported 4:02 PM\n📷 5/10 Riga cityscape and skyline\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112620691548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 757,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112620691548584_1112673548265370",
+   "fb_story_id": "1155200170425073",
+   "fb_reel_id": "1656655365925969",
+   "reel_status": "live"
   }
  },
  "seen_links": [
-  "https://www.dw.com/en/iran-exiled-journalists-still-repressed-by-regime/a-79929694?maca=en-rss-en-world-4025-rdf",
-  "https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html",
-  "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
-  "https://www.washingtonpost.com/politics/2026/11/12/trump-shuts-down-vance-iran-negotiating-efforts-says-no-deal-needed/",
   "https://www.newsweek.com/trump-tariffs-backfire-canada-damage-us-economy-12703582",
   "https://www.washingtonexaminer.com/policy/immigration/4801179/trump-threatens-tariffs-mexico-migrant-caravan/",
   "https://www.washingtonexaminer.com/news/white-house/4801242/trump-tells-vance-forget-iran-focus-corruption/",
@@ -11655,7 +11741,11 @@
   "https://www.aljazeera.com/sports/2026/11/27/french-bulgarian-presidents-slam-marseille-violence-five-fans-in-hospital?traffic_source=rss",
   "https://www.france24.com/en/tv-shows/sports/20261127-lyon-held-and-marseille-pushed-in-mixed-europa-league-night-for-french-clubs",
   "https://www.independent.co.uk/news/world/australasia/high-court-mushroom-killer-erin-patterson-appeal-b3092595.html",
-  "https://www.theguardian.com/australia-news/2026/nov/27/erin-patterson-launches-high-court-appeal-over-mushroom-convictions-ntwnfb"
+  "https://www.theguardian.com/australia-news/2026/nov/27/erin-patterson-launches-high-court-appeal-over-mushroom-convictions-ntwnfb",
+  "https://www.newsweek.com/epa-issues-lead-update-after-iowa-army-ammunition-plant-detonation-12772546",
+  "https://www.independent.co.uk/news/world/americas/army-iowa-lead-azide-detonation-b3092613.html",
+  "https://www.euronews.com/2026/11/27/nato-jets-scrambled-after-drone-briefly-enters-latvian-airspace",
+  "https://www.newsweek.com/nato-states-sound-drone-alert-scramble-fighter-jets-12772849"
  ],
  "recent_topics": [
   [
@@ -14401,19 +14491,58 @@
     "patterson"
    ],
    "facb4e50b2"
+  ],
+  [
+   "2026-11-27T11:00:56.108630+00:00",
+   [
+    "ammunition",
+    "army",
+    "await",
+    "blow",
+    "crucial",
+    "detonation",
+    "entir",
+    "epa",
+    "explosiv",
+    "iowa",
+    "issu",
+    "lab",
+    "lead",
+    "plant",
+    "resident",
+    "result",
+    "stockpil",
+    "unstabl",
+    "updat"
+   ],
+   "skipped"
+  ],
+  [
+   "2026-11-27T11:01:26.199652+00:00",
+   [
+    "airspac",
+    "alert",
+    "briefly",
+    "dron",
+    "enter",
+    "fighter",
+    "jet",
+    "latvian",
+    "nato",
+    "scrambl",
+    "sound",
+    "stat"
+   ],
+   "ddef0c0929"
   ]
  ],
- "last_draft_at": "2026-11-27T10:45:33.114850+00:00",
+ "last_draft_at": "2026-11-27T11:00:45.333383+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T10:15:33.166331+00:00",
  "run_log": [
-  "11-27 08:30:44 run start",
-  "11-27 08:30:54 listening 11 min",
-  "11-27 08:42:13 listening done",
-  "11-27 08:42:13 run end after 689 s",
   "11-27 08:45:34 run start",
   "11-27 08:46:32 listening 11 min",
   "11-27 08:57:00 listening done",
@@ -14449,12 +14578,15 @@
   "11-27 10:45:32 run start",
   "11-27 10:45:52 listening 11 min",
   "11-27 10:57:11 listening done",
-  "11-27 10:57:11 run end after 698 s"
+  "11-27 10:57:11 run end after 698 s",
+  "11-27 11:00:44 run start",
+  "11-27 11:02:14 listening 10 min",
+  "11-27 11:12:18 listening done",
+  "11-27 11:12:18 run end after 694 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Knesset_front_side_-_2022.jpg/1920px-Knesset_front_side_-_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Doors_Open_Milwaukee_2023_37_%28Federal_Building--courtroom_of_Hon._Lynn_Adelman%29.jpg/1920px-Doors_Open_Milwaukee_2023_37_%28Federal_Building--courtroom_of_Hon._Lynn_Adelman%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Bradford_Oil_Refinery%2C_Bradford%2C_Pennsylvania_-_20211108.jpg/1920px-Bradford_Oil_Refinery%2C_Bradford%2C_Pennsylvania_-_20211108.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/c/c3/A_more_compassionate_world_%285932115215%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -14493,7 +14625,8 @@
    "https://upload.wikimedia.org/wikipedia/commons/3/3e/North_Korea-Pyongyang-Buildings_and_passengers-01.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Columna_de_la_Victoria_de_la_Guerra_de_la_Independencia%2C_Tallinn%2C_Estonia%2C_2012-08-05%2C_DD_15.JPG/1920px-Columna_de_la_Victoria_de_la_Guerra_de_la_Independencia%2C_Tallinn%2C_Estonia%2C_2012-08-05%2C_DD_15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://live.staticflickr.com/7329/11055972456_5cf955fcec_b.jpg",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Brian_Walters_AM_SC_addressing_a_full_courtroom_in_Melbourne_Victoria_2019.jpg/1920px-Brian_Walters_AM_SC_addressing_a_full_courtroom_in_Melbourne_Victoria_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Brian_Walters_AM_SC_addressing_a_full_courtroom_in_Melbourne_Victoria_2019.jpg/1920px-Brian_Walters_AM_SC_addressing_a_full_courtroom_in_Melbourne_Victoria_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Gogojo_iela_and_Riga_skyline_from_Latvian_Academy_of_Sciences_Observation_deck.jpg/1920px-Gogojo_iela_and_Riga_skyline_from_Latvian_Academy_of_Sciences_Observation_deck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -17690,11 +17823,6 @@
    "courtroom"
   ],
   "checked": {
-   "https://upload.wikimedia.org/wikipedia/commons/1/1b/Donald_Trump_signs_an_Executive_Order_regarding_childhood_vaccines_in_the_Oval_Office%2C_Monday%2C_August_10%2C_2026_-_5_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled|person: Heidi Overton": {
-    "s": 10,
-    "w": "Heidi Overton",
-    "p": ""
-   },
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Jensen_huang_stanford_2026-04-09_034.jpg/1280px-Jensen_huang_stanford_2026-04-09_034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Jensen Huang": {
     "s": 7,
     "w": "Jensen Huang sitting",
@@ -20189,6 +20317,11 @@
     "s": 0,
     "w": "mushrooms in the dirt",
     "p": "close-up of mushrooms instead of Erin Patterson"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Gogojo_iela_and_Riga_skyline_from_Latvian_Academy_of_Sciences_Observation_deck.jpg/1920px-Gogojo_iela_and_Riga_skyline_from_Latvian_Academy_of_Sciences_Observation_deck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|280d2fc6": {
+    "s": 5,
+    "w": "Riga cityscape and skyline",
+    "p": "photo shows city skyline instead of fighter jets scrambling"
    }
   }
  },
@@ -20200,18 +20333,18 @@
   "2026-11-24": 23,
   "2026-11-25": 29,
   "2026-11-26": 28,
-  "2026-11-27": 5
+  "2026-11-27": 6
  },
- "last_auto_at": "2026-11-27T10:17:03.299320+00:00",
- "last_post_at": "2026-11-27T10:17:08.933998+00:00",
+ "last_auto_at": "2026-11-27T11:01:26.548788+00:00",
+ "last_post_at": "2026-11-27T11:01:33.323898+00:00",
  "reels_count": {
-  "2026-11-20": 3,
   "2026-11-21": 3,
   "2026-11-22": 1,
   "2026-11-23": 1,
   "2026-11-24": 3,
   "2026-11-25": 3,
-  "2026-11-26": 3
+  "2026-11-26": 3,
+  "2026-11-27": 1
  },
  "roundup": {
   "2026-11-19": {
