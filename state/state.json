@@ -14163,17 +14163,13 @@
    "76fcf7baa6"
   ]
  ],
- "last_draft_at": "2026-11-27T14:45:49.064716+00:00",
+ "last_draft_at": "2026-11-27T15:00:44.714051+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T14:16:12.198053+00:00",
  "run_log": [
-  "11-27 12:30:39 run start",
-  "11-27 12:31:16 listening 11 min",
-  "11-27 12:42:11 listening done",
-  "11-27 12:42:11 run end after 692 s",
   "11-27 12:45:44 run start",
   "11-27 12:47:36 listening 10 min",
   "11-27 12:57:16 listening done",
@@ -14209,7 +14205,11 @@
   "11-27 14:45:48 run start",
   "11-27 14:46:32 listening 11 min",
   "11-27 14:57:26 listening done",
-  "11-27 14:57:26 run end after 697 s"
+  "11-27 14:57:26 run end after 697 s",
+  "11-27 15:00:43 run start",
+  "11-27 15:01:16 listening 11 min",
+  "11-27 15:12:09 listening done",
+  "11-27 15:12:09 run end after 685 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -21498,7 +21498,9 @@
    ],
    "done": {
     "tt1": true,
-    "log1": true
+    "log1": true,
+    "tt2": true,
+    "log2": true
    }
   }
  },
