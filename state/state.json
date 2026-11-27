@@ -1,104 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "f1f7ae156b": {
-   "id": "f1f7ae156b",
-   "headline": "US adds Singaporean firm Megaspeed to trade blacklist",
-   "summary": "The Trump administration added Megaspeed to its trade blacklist, restricting the firm from buying advanced semiconductor chips. The decision followed reports linking the Singaporean company to a scandal surrounding Nvidia.",
-   "label": "ECONOMY",
-   "hook": "Should the US government restrict advanced semiconductor exports to firms linked to China?",
-   "key_points": [
-    "Officials sparred for weeks over the blacklist decision",
-    "Megaspeed is accused of funneling AI chips to China",
-    "A former executive had an affair with Nvidia CEO Jensen Huang"
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#Semiconductors",
-    "#Trade"
-   ],
-   "sources": [
-    "BBC",
-    "CBS News",
-    "New York Times"
-   ],
-   "link": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
-   "links": [
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html"
-    ],
-    [
-     "CBS News",
-     "https://www.cbsnews.com/news/megaspeed-trade-blacklist-nvidia-jensen-huang/"
-    ],
-    [
-     "BBC",
-     "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "AgnosticPreachersKid / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 7,
-      "shows": "Federal Reserve building in Washington"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "US adds Singaporean firm Megaspeed to trade blacklist",
-    "people": [],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "White House",
-     "Department of Commerce",
-     "microchip manufacturing",
-     "trading floor"
-    ],
-    "image_style": "scene",
-    "location": "Washington, United States",
-    "nearby_city": "Washington, D.C.",
-    "event_query": "",
-    "topic_photo": "computer microchips",
-    "label": "ECONOMY",
-    "action_subject": "microchips",
-    "news_time": "2026-11-23T22:15:26+00:00"
-   },
-   "created_at": "2026-11-23T22:33:07.028270+00:00",
-   "news_time": "2026-11-23T22:15:26+00:00",
-   "news_latest": "2026-11-23T22:18:30+00:00",
-   "importance": 7,
-   "caption": "US adds Singaporean firm Megaspeed to trade blacklist\n\nThe Trump administration added Megaspeed to its trade blacklist, restricting the firm from buying advanced semiconductor chips. The decision followed reports linking the Singaporean company to a scandal surrounding Nvidia.\n\n💬 Should the US government restrict advanced semiconductor exports to firms linked to China?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Semiconductors #Trade #7SeasNews",
-   "photo_line": "📷 7/10 Federal Reserve building in Washington",
-   "status": "posted",
-   "tg_message_id": 941,
-   "tg_file_id": "AgACAgUAAxkDAAIDrWsEvyVkA23ZxheU_3fvHZcO3FS_AAK-EmsbSgcpVKvlHyFnRLckAQADAgADdwADPQQ",
-   "queued_at": "2026-11-23T22:33:09.418232+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-23T22:33:09.418250+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122110615605548584",
-   "posted_at": "2026-11-23T22:33:23.193008+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 23 · 5:33 PM New York · 4:03 AM Sri Lanka\n\n<b>US adds Singaporean firm Megaspeed to trade blacklist</b>\n<i>BBC, CBS News, New York Times</i>\n🟢 <b>Latest:</b> 3:48 AM Sri Lanka (14 min ago) · first reported 3:45 AM\n📷 7/10 Federal Reserve building in Washington\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122110615605548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 648,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122110615605548584_3557578151078199",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-26T22:00:45.077518+00:00"
-  },
   "c6d37efc2f": {
    "id": "c6d37efc2f",
    "headline": "Appeals court revives Trump bid to move case",
@@ -12546,41 +12448,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-24T22:31:13.820567+00:00",
-   [
-    "confusion",
-    "dropp",
-    "fall",
-    "hepatiti",
-    "led",
-    "newborn",
-    "number",
-    "rat",
-    "rfk",
-    "sharply",
-    "study",
-    "vaccinat",
-    "vaccination"
-   ],
-   "2fb1450087"
-  ],
-  [
-   "2026-11-24T22:31:15.939767+00:00",
-   [
-    "attorney",
-    "california",
-    "comply",
-    "dodg",
-    "general",
-    "investigation",
-    "nvidia",
-    "other",
-    "question",
-    "way"
-   ],
-   "skipped"
-  ],
-  [
    "2026-11-24T23:01:11.911833+00:00",
    [
     "20",
@@ -15666,17 +15533,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-27T22:16:19.253553+00:00",
+ "last_draft_at": "2026-11-27T22:31:00.470027+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T22:15:35.971557+00:00",
  "run_log": [
-  "11-27 20:00:49 run start",
-  "11-27 20:00:59 listening 11 min",
-  "11-27 20:12:18 listening done",
-  "11-27 20:12:18 run end after 688 s",
   "11-27 20:16:11 run start",
   "11-27 20:16:49 listening 11 min",
   "11-27 20:27:44 listening done",
@@ -15712,7 +15575,11 @@
   "11-27 22:15:35 run start",
   "11-27 22:17:05 listening 10 min",
   "11-27 22:27:08 listening done",
-  "11-27 22:27:08 run end after 692 s"
+  "11-27 22:27:08 run end after 692 s",
+  "11-27 22:31:00 run start",
+  "11-27 22:31:01 listening 11 min",
+  "11-27 22:42:44 listening done",
+  "11-27 22:42:44 run end after 704 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
