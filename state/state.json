@@ -1,99 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "5543313b9a": {
-   "id": "5543313b9a",
-   "headline": "Two city buses and car crash in Columbus kills two",
-   "summary": "Police report that a crash involving two city buses and a car in Columbus, Ohio, has resulted in two deaths. At least nine people sustained injuries during the morning rush hour incident.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "A third vehicle struck one of the buses.",
-    "The collision occurred during the morning rush hour."
-   ],
-   "breaking": true,
-   "hashtags": [
-    "#Columbus",
-    "#Ohio",
-    "#News"
-   ],
-   "sources": [
-    "The Independent",
-    "UPI"
-   ],
-   "link": "https://www.upi.com/Top_News/US/2026/11/23/two-killed-in-columbus-crash/7141795463217/",
-   "links": [
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/US/2026/11/23/two-killed-in-columbus-crash/7141795463217/"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/ohio-columbus-b3090180.html"
-    ]
-   ],
-   "bg": {
-    "type": "map",
-    "photos": [],
-    "location": "Columbus, United States",
-    "lat": 39.96222222,
-    "lon": -83.00055556,
-    "country": "United States of America",
-    "state": "Ohio",
-    "_loaded": 0
-   },
-   "img_post": {
-    "headline": "Two city buses and car crash in Columbus kills two",
-    "people": [],
-    "image_query": "Columbus Ohio skyline",
-    "image_queries": [
-     "Ohio state capitol",
-     "city bus",
-     "emergency vehicles",
-     "urban street"
-    ],
-    "image_style": "incident",
-    "location": "Columbus, United States",
-    "nearby_city": "Columbus, Ohio",
-    "event_query": "Columbus bus crash",
-    "topic_photo": "city bus",
-    "label": "WORLD",
-    "action_subject": "transit buses in collision",
-    "news_time": "2026-11-23T18:56:00+00:00"
-   },
-   "created_at": "2026-11-23T20:07:13.819638+00:00",
-   "news_time": "2026-11-23T18:56:00+00:00",
-   "news_latest": "2026-11-23T19:59:44+00:00",
-   "importance": 7,
-   "caption": "🚨 BREAKING: Two city buses and car crash in Columbus kills two\n\nPolice report that a crash involving two city buses and a car in Columbus, Ohio, has resulted in two deaths. At least nine people sustained injuries during the morning rush hour incident.\n\nWhat we know so far:\n• A third vehicle struck one of the buses.\n• The collision occurred during the morning rush hour.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Columbus #Ohio #News #7SeasNews",
-   "photo_line": "📷 news map (no fitting photo)",
-   "status": "posted",
-   "tg_message_id": 939,
-   "tg_file_id": "AgACAgUAAxkDAAIDq2sEnPMCQEuv9xHla07MZXUW-_zyAAK2EmsbSgcpVKRn3TPnP-oMAQADAgADdwADPQQ",
-   "queued_at": "2026-11-23T20:07:15.705775+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-23T20:07:15.705795+00:00",
-   "post_label": "🤖 Auto-posting + Reel",
-   "fb_post_id": "1413030521900096_122110544529548584",
-   "posted_at": "2026-11-23T20:07:16.016323+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 23 · 3:07 PM New York · 1:37 AM Sri Lanka\n\n<b>Two city buses and car crash in Columbus kills two</b>\n<i>The Independent, UPI</i>\n🟢 <b>Latest:</b> 1:29 AM Sri Lanka (7 min ago) · first reported 12:26 AM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122110544529548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 645,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122110544529548584_1156888746793883",
-   "fb_story_id": "1907767360148412",
-   "fb_reel_id": "1442267747955031",
-   "reel_status": "live",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-26T20:00:50.097859+00:00"
-  },
   "db655a33fb": {
    "id": "db655a33fb",
    "headline": "Trump plans to attack Newsom during Department of Justice speech",
@@ -12261,33 +12168,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-24T20:01:55.880265+00:00",
-   [
-    "23",
-    "24",
-    "25",
-    "arm",
-    "bomb",
-    "build",
-    "car",
-    "central",
-    "city",
-    "colombia",
-    "colombian",
-    "destroy",
-    "detonat",
-    "explod",
-    "government",
-    "injur",
-    "least",
-    "offic",
-    "outsid",
-    "resurg",
-    "violenc"
-   ],
-   "11edec9e49"
-  ],
-  [
    "2026-11-24T20:50:42.772413+00:00",
    [
     "attack",
@@ -15358,17 +15238,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-27T19:45:32.858467+00:00",
+ "last_draft_at": "2026-11-27T20:00:49.832551+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T19:15:38.658406+00:00",
  "run_log": [
-  "11-27 17:30:51 run start",
-  "11-27 17:31:01 listening 11 min",
-  "11-27 17:42:22 listening done",
-  "11-27 17:42:22 run end after 690 s",
   "11-27 17:45:35 run start",
   "11-27 17:45:54 listening 11 min",
   "11-27 17:57:13 listening done",
@@ -15404,7 +15280,11 @@
   "11-27 19:45:32 run start",
   "11-27 19:46:06 listening 11 min",
   "11-27 19:56:59 listening done",
-  "11-27 19:56:59 run end after 687 s"
+  "11-27 19:56:59 run end after 687 s",
+  "11-27 20:00:49 run start",
+  "11-27 20:00:59 listening 11 min",
+  "11-27 20:12:18 listening done",
+  "11-27 20:12:18 run end after 688 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
