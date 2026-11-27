@@ -11283,49 +11283,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-24T14:31:55.231790+00:00",
-   [
-    "award",
-    "despit",
-    "disbarment",
-    "election",
-    "freedom",
-    "giuliani",
-    "lie",
-    "medal",
-    "present",
-    "presidential",
-    "rudy",
-    "trump"
-   ],
-   "f77b05fad3"
-  ],
-  [
-   "2026-11-24T14:33:26.898982+00:00",
-   [
-    "appeal",
-    "boy",
-    "charg",
-    "dead",
-    "death",
-    "follow",
-    "french",
-    "murder",
-    "nahel",
-    "officer",
-    "polic",
-    "reinstat",
-    "shoot",
-    "shot",
-    "stand",
-    "teen",
-    "teenag",
-    "teenager",
-    "trial"
-   ],
-   "64a11bad88"
-  ],
-  [
    "2026-11-24T17:16:15.374064+00:00",
    [
     "africa",
@@ -14098,17 +14055,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-27T14:16:47.322015+00:00",
+ "last_draft_at": "2026-11-27T14:30:44.008096+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T14:16:12.198053+00:00",
  "run_log": [
-  "11-27 12:00:55 run start",
-  "11-27 12:01:19 listening 11 min",
-  "11-27 12:12:39 listening done",
-  "11-27 12:12:39 run end after 704 s",
   "11-27 12:15:34 run start",
   "11-27 12:16:13 listening 11 min",
   "11-27 12:27:06 listening done",
@@ -14144,7 +14097,11 @@
   "11-27 14:16:11 run start",
   "11-27 14:16:48 listening 11 min",
   "11-27 14:27:44 listening done",
-  "11-27 14:27:44 run end after 693 s"
+  "11-27 14:27:44 run end after 693 s",
+  "11-27 14:30:43 run start",
+  "11-27 14:31:16 listening 11 min",
+  "11-27 14:42:12 listening done",
+  "11-27 14:42:12 run end after 688 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
