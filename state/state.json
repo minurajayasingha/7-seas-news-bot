@@ -1,100 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "f9d9325fa7": {
-   "id": "f9d9325fa7",
-   "headline": "Gen Z voters shift back toward Democratic Party in 2026",
-   "summary": "Gen Z voters swung back to the Democratic Party by 19 points in 2026, according to reports. Meanwhile, Democratic leaders in Congress face strategic decisions regarding potential shifts to the left for the 2028 elections.",
-   "label": "US POLITICS",
-   "hook": "Will Democratic leaders choose a centrist path or move further left for the 2028 elections?",
-   "key_points": [
-    "Gen Z voters swung back to the Democratic Party by 19 points.",
-    "Reports attribute the shift partly to the decline of Republican youth institutions.",
-    "Congressional Democrats face ideological decisions ahead of the 2028 elections."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#GenZ",
-    "#Elections"
-   ],
-   "sources": [
-    "Newsweek",
-    "Washington Examiner"
-   ],
-   "link": "https://www.washingtonexaminer.com/news/house/4809483/democrats-move-left-watch-13-issues/",
-   "links": [
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/news/house/4809483/democrats-move-left-watch-13-issues/"
-    ],
-    [
-     "Newsweek",
-     "https://www.newsweek.com/why-gen-z-moved-back-left-2026-12754054"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Voters_receive_ballots_at_a_polling_station_in_Washington_DC%2C_5_Nov._2024.jpg/1920px-Voters_receive_ballots_at_a_polling_station_in_Washington_DC%2C_5_Nov._2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "oscepa / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 10,
-      "shows": "voters at polling station"
-     }
-    ],
-    "file_photo": true
-   },
-   "img_post": {
-    "headline": "Gen Z voters shift back toward Democratic Party in 2026",
-    "people": [],
-    "image_query": "US Capitol building",
-    "image_queries": [
-     "Senate chamber",
-     "Capitol Hill",
-     "voting booth",
-     "campaign rally"
-    ],
-    "image_style": "person",
-    "location": "US",
-    "nearby_city": "Washington, DC",
-    "event_query": "",
-    "topic_photo": "ballot box",
-    "label": "US POLITICS",
-    "action_subject": "",
-    "news_time": "2026-11-23T10:00:00+00:00"
-   },
-   "created_at": "2026-11-23T12:00:55.860455+00:00",
-   "news_time": "2026-11-23T10:00:00+00:00",
-   "news_latest": "2026-11-23T12:00:00+00:00",
-   "importance": 7,
-   "caption": "Gen Z voters shift back toward Democratic Party in 2026\n\nGen Z voters swung back to the Democratic Party by 19 points in 2026, according to reports. Meanwhile, Democratic leaders in Congress face strategic decisions regarding potential shifts to the left for the 2028 elections.\n\n💬 Will Democratic leaders choose a centrist path or move further left for the 2028 elections?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #GenZ #Elections #7SeasNews",
-   "photo_line": "📷 10/10 voters at polling station · FILE PHOTO",
-   "status": "posted",
-   "tg_message_id": 933,
-   "tg_file_id": "AgACAgUAAxkDAAIDpWsEKvkrBy7tfB1QeykNiPeUHDF1AAKOGGsbSgchVF3FlkfCijx3AQADAgADdwADPQQ",
-   "queued_at": "2026-11-23T12:00:57.887159+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-23T12:00:57.887179+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122110180977548584",
-   "posted_at": "2026-11-23T12:00:58.197057+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 23 · 7:01 AM New York · 5:31 PM Sri Lanka\n\n<b>Gen Z voters shift back toward Democratic Party in 2026</b>\n<i>Newsweek, Washington Examiner</i>\n🟢 <b>Latest:</b> 5:30 PM Sri Lanka (1 min ago) · first reported 3:30 PM\n📷 10/10 voters at polling station · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122110180977548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 639,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122110180977548584_1525242719444114",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-26T12:00:46.321661+00:00"
-  },
   "796612a75a": {
    "id": "796612a75a",
    "headline": "Oxfam report says Israeli actions created toxic wasteland in Gaza",
@@ -9375,10 +9281,6 @@
   }
  },
  "seen_links": [
-  "https://thehill.com/homenews/administration/6215680-donald-trump-jd-vance-corruption-fraud-democratic-cities-states-iran-war/",
-  "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
-  "https://www.independent.co.uk/climate-change/greta-thunberg-cop31-climate-islands-turkey-b3083916.html",
-  "https://abcnews.com/International/wireStory/uk-names-climate-security-envoy-island-leaders-warn-138066951",
   "https://www.dw.com/en/uk-court-convicts-2-iranian-men-of-spying-on-journalists/a-79931583?maca=en-rss-en-world-4025-rdf",
   "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
   "https://www.aljazeera.com/news/2026/11/12/more-than-1800-italian-schools-targeted-by-new-hoax-bomb-alerts?traffic_source=rss",
@@ -11374,7 +11276,11 @@
   "https://www.newsweek.com/nato-states-sound-drone-alert-scramble-fighter-jets-12772849",
   "https://www.foxnews.com/politics/how-spot-real-black-friday-savings-holiday-season-amid-affordability-squeeze",
   "https://www.nbcnews.com/select/shopping/target-black-friday-deals-2026-rcna611469",
-  "https://www.nbcnews.com/select/shopping/walmart-black-friday-deals-2026-rcna611473"
+  "https://www.nbcnews.com/select/shopping/walmart-black-friday-deals-2026-rcna611473",
+  "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
+  "https://www.aljazeera.com/news/2026/11/27/borrowing-to-make-ends-meet-the-rising-cost-of-living-in-europe?traffic_source=rss",
+  "https://www.newsweek.com/us-secret-service-issues-cyber-warning-for-black-friday-12772715",
+  "https://www.aljazeera.com/economy/2026/11/27/us-shoppers-get-ready-for-black-friday-and-cyber-monday?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -14126,19 +14032,56 @@
     "worth"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-27T12:01:15.452132+00:00",
+   [
+    "borrow",
+    "confident",
+    "cost",
+    "despit",
+    "election",
+    "end",
+    "europ",
+    "liv",
+    "mak",
+    "meet",
+    "minister",
+    "pedro",
+    "poll",
+    "prim",
+    "ris",
+    "sanchez",
+    "spanish",
+    "victory"
+   ],
+   "skipped"
+  ],
+  [
+   "2026-11-27T12:01:19.418493+00:00",
+   [
+    "black",
+    "cyber",
+    "friday",
+    "get",
+    "issu",
+    "monday",
+    "ready",
+    "secret",
+    "servic",
+    "shopper",
+    "warn"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-27T11:45:35.370980+00:00",
+ "last_draft_at": "2026-11-27T12:00:55.830154+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T11:15:36.250155+00:00",
  "run_log": [
-  "11-27 09:31:01 run start",
-  "11-27 09:31:03 listening 11 min",
-  "11-27 09:42:48 listening done",
-  "11-27 09:42:48 run end after 706 s",
   "11-27 09:45:36 run start",
   "11-27 09:45:56 listening 11 min",
   "11-27 09:57:15 listening done",
@@ -14174,7 +14117,11 @@
   "11-27 11:45:34 run start",
   "11-27 11:45:54 listening 11 min",
   "11-27 11:57:13 listening done",
-  "11-27 11:57:13 run end after 698 s"
+  "11-27 11:57:13 run end after 698 s",
+  "11-27 12:00:55 run start",
+  "11-27 12:01:19 listening 11 min",
+  "11-27 12:12:39 listening done",
+  "11-27 12:12:39 run end after 704 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
