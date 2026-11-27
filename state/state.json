@@ -9570,11 +9570,96 @@
     "shares": 0
    },
    "stats_at": "2026-11-27T08:15:35.527058+00:00"
+  },
+  "c53d433abc": {
+   "id": "c53d433abc",
+   "headline": "North Korea closes Swiss diplomatic office in Pyongyang",
+   "summary": "North Korea has closed a Swiss diplomatic office in Pyongyang and expelled its head. Meanwhile, a school in Seoul catering to children of North Korean defectors faces opposition from neighbors, highlighting prejudice in the South.",
+   "label": "DIPLOMACY",
+   "hook": "Should schools for children of North Korean defectors face opposition from neighbors?",
+   "key_points": [
+    "Swiss diplomatic office shut down in Pyongyang",
+    "Head of the Swiss office expelled",
+    "Seoul school caters to defector children"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#NorthKorea",
+    "#SouthKorea",
+    "#Diplomacy"
+   ],
+   "sources": [
+    "ABC News",
+    "New York Times"
+   ],
+   "link": "https://abcnews.com/International/wireStory/north-korean-move-shut-swiss-diplomatic-office-138475957",
+   "links": [
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/north-korean-move-shut-swiss-diplomatic-office-138475957"
+    ],
+    [
+     "New York Times",
+     "https://www.nytimes.com/2026/11/27/world/asia/the-threat-to-a-sanctuary-for-children-of-north-korean-defectors.html"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/North_Korea-Pyongyang-Buildings_and_passengers-01.jpg",
+      "credit": "(Stephan) at Flickr / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 6,
+      "shows": "Pyongyang street and buildings"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "North Korea closes Swiss diplomatic office in Pyongyang",
+    "people": [],
+    "image_query": "Pyongyang cityscape",
+    "image_queries": [
+     "Seoul street",
+     "North Korea border",
+     "defector school Seoul",
+     "Pyongyang buildings"
+    ],
+    "image_style": "scene",
+    "location": "Pyongyang, North Korea",
+    "nearby_city": "Pyongyang, North Korea",
+    "event_query": "Pyongyang diplomatic office closure",
+    "topic_photo": "diplomatic building",
+    "label": "DIPLOMACY",
+    "action_subject": "diplomatic building",
+    "news_time": "2026-11-27T05:00:39+00:00"
+   },
+   "created_at": "2026-11-27T08:46:14.373341+00:00",
+   "news_time": "2026-11-27T05:00:39+00:00",
+   "news_latest": "2026-11-27T07:23:27+00:00",
+   "importance": 6,
+   "caption": "North Korea closes Swiss diplomatic office in Pyongyang\n\nNorth Korea has closed a Swiss diplomatic office in Pyongyang and expelled its head. Meanwhile, a school in Seoul catering to children of North Korean defectors faces opposition from neighbors, highlighting prejudice in the South.\n\n💬 Should schools for children of North Korean defectors face opposition from neighbors?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#NorthKorea #SouthKorea #Diplomacy #7SeasNews",
+   "photo_line": "📷 6/10 Pyongyang street and buildings",
+   "status": "posted",
+   "tg_message_id": 1047,
+   "tg_file_id": "AgACAgUAAxkDAAIEF2sJQ1h623CK8ZLCwqwEYwQa_JPtAAKWE2sbiIVRVGIcKfDLb-fsAQADAgADdwADPQQ",
+   "queued_at": "2026-11-27T08:46:16.374432+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-27T08:46:16.374476+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122112560847548584",
+   "posted_at": "2026-11-27T08:46:16.667774+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 27 · 3:46 AM New York · 2:16 PM Sri Lanka\n\n<b>North Korea closes Swiss diplomatic office in Pyongyang</b>\n<i>ABC News, New York Times</i>\n🟡 <b>Latest:</b> 12:53 PM Sri Lanka (1h 22m ago) · first reported 10:30 AM\n📷 6/10 Pyongyang street and buildings\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112560847548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 753,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112560847548584_1140676395499089"
   }
  },
  "seen_links": [
-  "https://news.sky.com/story/four-shot-in-washington-dc-within-walking-distance-of-white-house-13611509",
-  "https://www.independent.co.uk/news/world/americas/us-politics/trump-endorse-vance-rubio-cruz-2028-b3083857.html",
   "https://www.dw.com/en/china-s-xi-jinping-renews-calls-for-reunification-with-taiwan/a-79929738?maca=en-rss-en-world-4025-rdf",
   "https://www.aljazeera.com/news/2026/11/12/xi-jinping-says-taiwans-complete-reunification-with-china-will-happen?traffic_source=rss",
   "https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss",
@@ -11572,7 +11657,9 @@
   "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
   "https://abcnews.com/International/wireStory/main-issues-driving-spains-national-election-matter-europe-138476510",
   "https://www.newsweek.com/trump-pays-tribute-to-florida-police-detective-killed-on-thanksgiving-alan-smith-12772458",
-  "https://www.upi.com/Top_News/US/2026/11/27/Palm-Beach-officer-death/1381795759570/"
+  "https://www.upi.com/Top_News/US/2026/11/27/Palm-Beach-officer-death/1381795759570/",
+  "https://abcnews.com/International/wireStory/north-korean-move-shut-swiss-diplomatic-office-138475957",
+  "https://www.nytimes.com/2026/11/27/world/asia/the-threat-to-a-sanctuary-for-children-of-north-korean-defectors.html"
  ],
  "recent_topics": [
   [
@@ -14190,19 +14277,34 @@
     "wrong-way"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-27T08:46:16.374267+00:00",
+   [
+    "children",
+    "defector",
+    "diplomatic",
+    "down",
+    "know",
+    "korean",
+    "mov",
+    "north",
+    "offic",
+    "sanctuary",
+    "shut",
+    "swiss",
+    "threat"
+   ],
+   "c53d433abc"
   ]
  ],
- "last_draft_at": "2026-11-27T08:30:44.900546+00:00",
+ "last_draft_at": "2026-11-27T08:45:35.130797+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T08:15:35.527058+00:00",
  "run_log": [
-  "11-27 06:15:59 run start",
-  "11-27 06:16:49 listening 11 min",
-  "11-27 06:27:44 listening done",
-  "11-27 06:27:44 run end after 705 s",
   "11-27 06:30:40 run start",
   "11-27 06:30:50 listening 11 min",
   "11-27 06:42:09 listening done",
@@ -14238,12 +14340,15 @@
   "11-27 08:30:44 run start",
   "11-27 08:30:54 listening 11 min",
   "11-27 08:42:13 listening done",
-  "11-27 08:42:13 run end after 689 s"
+  "11-27 08:42:13 run end after 689 s",
+  "11-27 08:45:34 run start",
+  "11-27 08:46:32 listening 11 min",
+  "11-27 08:57:00 listening done",
+  "11-27 08:57:00 run end after 685 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Senate_President_Troy_Jackson.png/1280px-Senate_President_Troy_Jackson.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Chris_Van_Hollen_at_DNC_0616_%2827993609564%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0616_%2827993609564%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/US_Capitol_west_side_at_dusk.JPG/1920px-US_Capitol_west_side_at_dusk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Ambulance%2C_Cairo.JPG/1920px-Ambulance%2C_Cairo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -14282,7 +14387,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Beehive_%28New_Zealand_Parliament_Building%2C_Wellington_New_Zealand%29.jpg/1920px-Beehive_%28New_Zealand_Parliament_Building%2C_Wellington_New_Zealand%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Downtown_Miami_wide_photo_Don_Ramey_Logan.jpg/1920px-Downtown_Miami_wide_photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Workers_remove_downed_power_lines_along_Zimovia_Hwy.jpg/1920px-Workers_remove_downed_power_lines_along_Zimovia_Hwy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Voting_box_for_Senate_elections_in_Madrid.jpg/1920px-Voting_box_for_Senate_elections_in_Madrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Voting_box_for_Senate_elections_in_Madrid.jpg/1920px-Voting_box_for_Senate_elections_in_Madrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/3/3e/North_Korea-Pyongyang-Buildings_and_passengers-01.jpg"
   ],
   "pools": {
    "howard lutnick": {
@@ -17512,7 +17618,6 @@
    }
   },
   "recent_ideas": [
-   "european union flags",
    "mother ukraine",
    "collapsed building rescue",
    "whitehall london",
@@ -17523,19 +17628,10 @@
    "wellington parliament building",
    "downed power lines",
    "downed power lines",
-   "voting ballot box"
+   "voting ballot box",
+   "pyongyang buildings"
   ],
   "checked": {
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Downtown_Washington_DC_near_Treasury.jpg/1920px-Downtown_Washington_DC_near_Treasury.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|963d9a0e": {
-    "s": 0,
-    "w": "historic downtown buildings architecture",
-    "p": "photo shows unrelated architecture, not cybersecurity servers or FBI warning"
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Fort_Hood_emergency_responders_react_to_full-scale_forces_response_exercise_130515-A-ZU930-014.jpg/1920px-Fort_Hood_emergency_responders_react_to_full-scale_forces_response_exercise_130515-A-ZU930-014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|7edb2060": {
-    "s": 0,
-    "w": "firefighters carrying injured person",
-    "p": "not related to Washington dirty bomb threat"
-   },
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Tune_it_safe%2C_EMS_2023%2C_Essen_%28P1170003%29.jpg/1920px-Tune_it_safe%2C_EMS_2023%2C_Essen_%28P1170003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|7edb2060": {
     "s": 0,
     "w": "german police van",
@@ -20025,6 +20121,16 @@
     "s": 10,
     "w": "voting ballot box",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Diplomatic_Hotel_01.jpg/1920px-Diplomatic_Hotel_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|c737b2b1": {
+    "s": 0,
+    "w": "Diplomat Hotel building in Tanzania",
+    "p": "wrong country/building, this is in Tanzania not North Korea"
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/3/3e/North_Korea-Pyongyang-Buildings_and_passengers-01.jpg|c737b2b1": {
+    "s": 6,
+    "w": "Pyongyang street and buildings",
+    "p": ""
    }
   }
  },
@@ -20036,10 +20142,10 @@
   "2026-11-24": 23,
   "2026-11-25": 29,
   "2026-11-26": 28,
-  "2026-11-27": 1
+  "2026-11-27": 2
  },
- "last_auto_at": "2026-11-27T06:45:50.967335+00:00",
- "last_post_at": "2026-11-27T06:45:55.924402+00:00",
+ "last_auto_at": "2026-11-27T08:46:16.667774+00:00",
+ "last_post_at": "2026-11-27T08:46:22.458810+00:00",
  "reels_count": {
   "2026-11-20": 3,
   "2026-11-21": 3,
