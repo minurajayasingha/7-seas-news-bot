@@ -1,101 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "e2be825e0d": {
-   "id": "e2be825e0d",
-   "headline": "Donald Trump hosts crypto gala in Virginia",
-   "summary": "President Donald Trump hosted his third cryptocurrency gala at a Virginia golf club, rewarding top holders of his meme coin. Democrats accused the president of improperly profiting from his ventures, while Trump stated his support aims to boost US economic competitiveness.",
-   "label": "US POLITICS",
-   "hook": "Should the president be allowed to host events promoting his own cryptocurrency ventures?",
-   "key_points": [
-    "The dinner took place at the Trump National golf club in Sterling.",
-    "Supporters including Floyd Mayweather and Kevin O'Leary attended.",
-    "The meme coin hit a record low."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Trump",
-    "#Cryptocurrency",
-    "#USPolitics"
-   ],
-   "sources": [
-    "The Guardian",
-    "The Independent"
-   ],
-   "link": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
-   "links": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-meme-coin-dinner-b3089649.html"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Dearborn_Hills_Golf_Course_clubhouse_Michigan.JPG",
-      "credit": "Dwight Burdette / Wikimedia Commons (CC BY 3.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 10,
-      "shows": "golf course clubhouse exterior"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Donald Trump hosts crypto gala in Virginia",
-    "people": [
-     "Donald Trump"
-    ],
-    "image_query": "Trump National Golf Club",
-    "image_queries": [
-     "golf club in Virginia",
-     "cryptocurrency coin",
-     "Sterling Virginia",
-     "golf course clubhouse"
-    ],
-    "image_style": "scene",
-    "location": "Sterling, Virginia",
-    "nearby_city": "Richmond, Virginia",
-    "event_query": "Trump crypto gala Virginia",
-    "topic_photo": "cryptocurrency coin",
-    "label": "US POLITICS",
-    "action_subject": "cryptocurrency token",
-    "news_time": "2026-11-23T08:10:20+00:00"
-   },
-   "created_at": "2026-11-23T10:50:50.076028+00:00",
-   "news_time": "2026-11-23T08:10:20+00:00",
-   "news_latest": "2026-11-23T08:33:10+00:00",
-   "importance": 6,
-   "caption": "Donald Trump hosts crypto gala in Virginia\n\nPresident Donald Trump hosted his third cryptocurrency gala at a Virginia golf club, rewarding top holders of his meme coin. Democrats accused the president of improperly profiting from his ventures, while Trump stated his support aims to boost US economic competitiveness.\n\n💬 Should the president be allowed to host events promoting his own cryptocurrency ventures?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Trump #Cryptocurrency #USPolitics #7SeasNews",
-   "photo_line": "📷 10/10 golf course clubhouse exterior",
-   "status": "posted",
-   "tg_message_id": 928,
-   "tg_file_id": "AgACAgUAAxkDAAIDoGsEGoz1jqKvwVkKpuL7shn38M5IAAJMGGsbSgchVGjw6d-gLwPnAQADAgADdwADPQQ",
-   "queued_at": "2026-11-23T10:50:52.402458+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-23T10:50:52.402497+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122110131867548584",
-   "posted_at": "2026-11-23T10:50:52.714632+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 23 · 5:50 AM New York · 4:20 PM Sri Lanka\n\n<b>Donald Trump hosts crypto gala in Virginia</b>\n<i>The Guardian, The Independent</i>\n🟡 <b>Latest:</b> 2:03 PM Sri Lanka (2h 17m ago) · first reported 1:40 PM\n📷 10/10 golf course clubhouse exterior\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122110131867548584\">Open on Facebook</a>\n\n⚠️ <i>Looks like an earlier post: “Judge blocks Donald Trump proposed triumphal arch in Virginia”. Tap 🗑 Delete if it's the same news.</i>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 634,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122110131867548584_905166182617016",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-26T10:00:46.150926+00:00"
-  },
   "65d536118f": {
    "id": "65d536118f",
    "headline": "European schools receive wave of bomb threats via email",
@@ -14498,17 +14403,13 @@
    "facb4e50b2"
   ]
  ],
- "last_draft_at": "2026-11-27T10:30:41.083150+00:00",
+ "last_draft_at": "2026-11-27T10:45:33.114850+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T10:15:33.166331+00:00",
  "run_log": [
-  "11-27 08:15:35 run start",
-  "11-27 08:16:26 listening 11 min",
-  "11-27 08:27:19 listening done",
-  "11-27 08:27:19 run end after 703 s",
   "11-27 08:30:44 run start",
   "11-27 08:30:54 listening 11 min",
   "11-27 08:42:13 listening done",
@@ -14544,7 +14445,11 @@
   "11-27 10:30:40 run start",
   "11-27 10:30:49 listening 11 min",
   "11-27 10:42:08 listening done",
-  "11-27 10:42:08 run end after 687 s"
+  "11-27 10:42:08 run end after 687 s",
+  "11-27 10:45:32 run start",
+  "11-27 10:45:52 listening 11 min",
+  "11-27 10:57:11 listening done",
+  "11-27 10:57:11 run end after 698 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
