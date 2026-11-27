@@ -12448,25 +12448,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-24T23:01:11.911833+00:00",
-   [
-    "20",
-    "abrego",
-    "end",
-    "europ",
-    "garcia",
-    "kilmar",
-    "leav",
-    "legal",
-    "month",
-    "ordeal",
-    "sourc",
-    "today",
-    "voluntarily"
-   ],
-   "skipped"
-  ],
-  [
    "2026-11-24T23:16:01.831678+00:00",
    [
     "700000",
@@ -15533,17 +15514,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-27T22:45:36.714556+00:00",
+ "last_draft_at": "2026-11-27T23:00:46.307530+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T22:15:35.971557+00:00",
  "run_log": [
-  "11-27 20:30:42 run start",
-  "11-27 20:31:44 listening 10 min",
-  "11-27 20:42:12 listening done",
-  "11-27 20:42:12 run end after 690 s",
   "11-27 20:45:42 run start",
   "11-27 20:46:28 listening 11 min",
   "11-27 20:57:23 listening done",
@@ -15579,7 +15556,11 @@
   "11-27 22:45:36 run start",
   "11-27 22:45:46 listening 11 min",
   "11-27 22:57:05 listening done",
-  "11-27 22:57:05 run end after 689 s"
+  "11-27 22:57:05 run end after 689 s",
+  "11-27 23:00:46 run start",
+  "11-27 23:00:54 listening 11 min",
+  "11-27 23:12:13 listening done",
+  "11-27 23:12:13 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
