@@ -9667,12 +9667,101 @@
     "shares": 0
    },
    "stats_at": "2026-11-27T17:15:50.882273+00:00"
+  },
+  "4f350440cb": {
+   "id": "4f350440cb",
+   "headline": "Ukraine stops electricity exports and announces Hell-3 operation in Donetsk",
+   "summary": "Ukraine stopped electricity exports as Russian attacks strain the power grid. Meanwhile, the Azov unit announced the Hell-3 operation, reporting the destruction of a concealed Russian fuel depot in occupied Donetsk Oblast.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Electricity exports stopped to meet domestic needs.",
+    "The destroyed fuel depot was protected by camouflage.",
+    "Russian assaults met stout defence along the front."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Ukraine",
+    "#Russia",
+    "#Conflict"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "Kyiv Independent"
+   ],
+   "link": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory?traffic_source=rss"
+    ],
+    [
+     "Kyiv Independent",
+     "https://kyivindependent.com/ukraines-azov-announces-hell-3-operation-destroys-russian-fuel-depot-in-occupied-donetsk-oblast/"
+    ],
+    [
+     "Kyiv Independent",
+     "https://kyivindependent.com/ukraine-stops-electricity-exports-as-russian-attacks-strain-power-grid/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Firefighters_fighting_fire_action.jpg/1920px-Firefighters_fighting_fire_action.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Smith Elise, U.S. Fish and Wildlife Service / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 8,
+      "shows": "firefighters extinguishing fire"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "Ukraine stops electricity exports and announces Hell-3 operation in Donetsk",
+    "people": [],
+    "image_query": "Kyiv city",
+    "image_queries": [
+     "power station",
+     "electric grid",
+     "military operation",
+     "fuel storage"
+    ],
+    "image_style": "incident",
+    "location": "Donetsk, Ukraine",
+    "nearby_city": "Kyiv, Ukraine",
+    "event_query": "Donetsk fuel depot attack",
+    "topic_photo": "power grid",
+    "label": "CONFLICT",
+    "action_subject": "fuel depot fire",
+    "news_time": "2026-11-27T14:03:16+00:00"
+   },
+   "created_at": "2026-11-27T18:01:06.033735+00:00",
+   "news_time": "2026-11-27T14:03:16+00:00",
+   "news_latest": "2026-11-27T17:13:46+00:00",
+   "importance": 8,
+   "caption": "Ukraine stops electricity exports and announces Hell-3 operation in Donetsk\n\nUkraine stopped electricity exports as Russian attacks strain the power grid. Meanwhile, the Azov unit announced the Hell-3 operation, reporting the destruction of a concealed Russian fuel depot in occupied Donetsk Oblast.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Ukraine #Russia #Conflict #7SeasNews",
+   "photo_line": "📷 8/10 firefighters extinguishing fire · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 1061,
+   "tg_file_id": "AgACAgUAAxkDAAIEJWsJxWSWvpZhxGZWAVsk6ByueUKWAAK2FmsbiIVRVE4ch9ssrgzcAQADAgADdwADPQQ",
+   "queued_at": "2026-11-27T18:01:08.619686+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-27T18:01:08.619712+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122112787599548584",
+   "posted_at": "2026-11-27T18:01:08.985338+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 27 · 1:01 PM New York · 11:31 PM Sri Lanka\n\n<b>Ukraine stops electricity exports and announces Hell-3 operation in Donetsk</b>\n<i>Al Jazeera, Kyiv Independent</i>\n🟢 <b>Latest:</b> 10:43 PM Sri Lanka (47 min ago) · first reported 7:33 PM\n📷 8/10 firefighters extinguishing fire · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112787599548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 770,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112787599548584_1152717597148543"
   }
  },
  "seen_links": [
-  "https://abcnews.com/International/wireStory/military-helicopter-crashes-southern-turkey-killing-4-138085371",
-  "https://www.washingtonpost.com/politics/2026/11/12/say-cheese-new-congress-members-pose-class-photo/",
-  "https://thehill.com/opinion/congress-blog/6214735-advice-new-members-congress/",
   "https://www.upi.com/Top_News/US/2026/11/12/tech-microsoft-outlook/4961794513063/",
   "https://www.independent.co.uk/news/world/americas/microsoft-outlook-down-teams-anthropic-outage-b3084151.html",
   "https://www.newsweek.com/microsoft-outlook-down-not-working-incident-server-12707459",
@@ -11669,7 +11758,10 @@
   "https://www.france24.com/en/sport/20261127-turkey-summons-georgian-envoy-after-football-fans-pro-palestine-protest-sparks-clashes",
   "https://www.aljazeera.com/sports/2026/11/27/why-did-georgian-police-clash-with-turkish-football-fans-over-palestine?traffic_source=rss",
   "https://www.nbcnews.com/news/us-news/black-friday-shoppers-head-brick-mortar-stores-us-rcna611564",
-  "https://www.france24.com/en/video/20261127-black-friday-how-the-global-shopping-phenomenon-is-evolving-amid-the-cost-of-living-crisis"
+  "https://www.france24.com/en/video/20261127-black-friday-how-the-global-shopping-phenomenon-is-evolving-amid-the-cost-of-living-crisis",
+  "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory?traffic_source=rss",
+  "https://kyivindependent.com/ukraines-azov-announces-hell-3-operation-destroys-russian-fuel-depot-in-occupied-donetsk-oblast/",
+  "https://kyivindependent.com/ukraine-stops-electricity-exports-as-russian-attacks-strain-power-grid/"
  ],
  "recent_topics": [
   [
@@ -14604,19 +14696,51 @@
     "throughout"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-27T18:01:08.619533+00:00",
+   [
+    "announc",
+    "attack",
+    "azov",
+    "bear",
+    "casualty",
+    "caus",
+    "depot",
+    "destroy",
+    "donetsk",
+    "electricity",
+    "europ",
+    "event",
+    "export",
+    "fuel",
+    "grid",
+    "hail",
+    "hell",
+    "hybrid",
+    "mass",
+    "mount",
+    "oblast",
+    "occupi",
+    "operation",
+    "power",
+    "russian",
+    "stop",
+    "strain",
+    "trap",
+    "ukrain",
+    "warn"
+   ],
+   "4f350440cb"
   ]
  ],
- "last_draft_at": "2026-11-27T17:45:35.870020+00:00",
+ "last_draft_at": "2026-11-27T18:00:44.861143+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T17:15:50.882273+00:00",
  "run_log": [
-  "11-27 15:41:22 run start",
-  "11-27 15:41:32 listening 11 min",
-  "11-27 15:52:50 listening done",
-  "11-27 15:52:50 run end after 688 s",
   "11-27 15:53:24 run start",
   "11-27 15:55:00 listening 10 min",
   "11-27 16:05:03 listening done",
@@ -14652,12 +14776,15 @@
   "11-27 17:45:35 run start",
   "11-27 17:45:54 listening 11 min",
   "11-27 17:57:13 listening done",
-  "11-27 17:57:13 run end after 698 s"
+  "11-27 17:57:13 run end after 698 s",
+  "11-27 18:00:44 run start",
+  "11-27 18:01:22 listening 11 min",
+  "11-27 18:12:17 listening done",
+  "11-27 18:12:17 run end after 693 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Boone_County_Courthouse_courtroom_front.jpg/1920px-Boone_County_Courthouse_courtroom_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg/1920px-Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Benjamin_Netanyahu%2C_February_2023_%28cropped%29%28b%29.jpg/1280px-Benjamin_Netanyahu%2C_February_2023_%28cropped%29%28b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/0/0a/Courtroom_at_the_United_States_Courthouse_in_Augusta%2C_GA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -14696,7 +14823,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/WikimediaServersOct07_2.JPG/1920px-WikimediaServersOct07_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Federal_courtroom_in_Supreme_Court_of_Canada_Building.jpg/1920px-Federal_courtroom_in_Supreme_Court_of_Canada_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Oslo_Skyline%2C_drone.jpg/1920px-Oslo_Skyline%2C_drone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Kenya_High_Court.JPG/1920px-Kenya_High_Court.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Kenya_High_Court.JPG/1920px-Kenya_High_Court.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Firefighters_fighting_fire_action.jpg/1920px-Firefighters_fighting_fire_action.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -17931,7 +18059,6 @@
    }
   },
   "recent_ideas": [
-   "ballot box",
    "wellington parliament building",
    "downed power lines",
    "downed power lines",
@@ -17942,14 +18069,10 @@
    "courtroom",
    "computer servers",
    "courtroom",
-   "court building"
+   "court building",
+   "firefighters fighting fire"
   ],
   "checked": {
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Lemonnier_premetro_station_rails_tunnel_in_Brussels%2C_BE_%28DSCF5655%29.jpg/1920px-Lemonnier_premetro_station_rails_tunnel_in_Brussels%2C_BE_%28DSCF5655%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|d0f3634c": {
-    "s": 0,
-    "w": "underground subway tracks",
-    "p": "wrong topic and location"
-   },
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Tour_et_Taxis_-_Brussels_Skyline_%28cropped%29.jpg/1920px-Tour_et_Taxis_-_Brussels_Skyline_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|d0f3634c": {
     "s": 9,
     "w": "Brussels skyline",
@@ -20444,6 +20567,11 @@
     "s": 0,
     "w": "man leaning on car",
     "p": "not Paul Mackenzie"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Firefighters_fighting_fire_action.jpg/1920px-Firefighters_fighting_fire_action.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|16b2472d": {
+    "s": 8,
+    "w": "firefighters extinguishing fire",
+    "p": ""
    }
   }
  },
@@ -20455,10 +20583,10 @@
   "2026-11-24": 23,
   "2026-11-25": 29,
   "2026-11-26": 28,
-  "2026-11-27": 12
+  "2026-11-27": 13
  },
- "last_auto_at": "2026-11-27T16:18:51.825067+00:00",
- "last_post_at": "2026-11-27T16:18:55.796622+00:00",
+ "last_auto_at": "2026-11-27T18:01:08.985338+00:00",
+ "last_post_at": "2026-11-27T18:01:14.078362+00:00",
  "reels_count": {
   "2026-11-21": 3,
   "2026-11-22": 1,
