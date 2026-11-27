@@ -9560,12 +9560,102 @@
     "shares": 0
    },
    "stats_at": "2026-11-27T01:15:33.294226+00:00"
+  },
+  "6871f90662": {
+   "id": "6871f90662",
+   "headline": "Zelensky tells BBC US is too focused on Middle East",
+   "summary": "Ukrainian President Volodymyr Zelensky told the BBC that the US is too focused on the Middle East and is not pushing Russia hard enough. Zelensky also expressed frustration over American delivery delays for Patriot air defense interceptors and Starshield restrictions affecting Ukraine's drone defenses.",
+   "label": "DIPLOMACY",
+   "hook": "Should the US increase its focus on Ukraine's defense needs?",
+   "key_points": [
+    "Zelensky described Donald Trump's description of Vladimir Putin as a friend as strange.",
+    "Ukraine faces a severe shortage of missiles for ballistic attacks.",
+    "Putin should not be treated as a friend, according to Zelensky."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Ukraine",
+    "#US",
+    "#WorldNews"
+   ],
+   "sources": [
+    "BBC",
+    "Kyiv Independent"
+   ],
+   "link": "https://kyivindependent.com/starshield-restrictions-still-hampering-ukraines-drone-defenses-zelensky-tells-bbc/",
+   "links": [
+    [
+     "Kyiv Independent",
+     "https://kyivindependent.com/starshield-restrictions-still-hampering-ukraines-drone-defenses-zelensky-tells-bbc/"
+    ],
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss"
+    ]
+   ],
+   "bg": {
+    "type": "people",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Volodymyr_Zelensky_2019_presidential_inauguration_11.jpg/1280px-Volodymyr_Zelensky_2019_presidential_inauguration_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Mykhaylo Markiv / The Presidential Administration of Ukraine / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 7,
+      "shows": "Volodymyr Zelensky holding a cylinder"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Zelensky tells BBC US is too focused on Middle East",
+    "people": [
+     "Volodymyr Zelensky"
+    ],
+    "image_query": "Kyiv city",
+    "image_queries": [
+     "Ukrainian flag",
+     "government building",
+     "city street",
+     "parliament building"
+    ],
+    "image_style": "person",
+    "location": "Kyiv, Ukraine",
+    "nearby_city": "Kyiv, Ukraine",
+    "event_query": "",
+    "topic_photo": "microphone",
+    "label": "DIPLOMACY",
+    "action_subject": "",
+    "news_time": "2026-11-26T22:06:20+00:00"
+   },
+   "created_at": "2026-11-27T01:31:25.596779+00:00",
+   "news_time": "2026-11-26T22:06:20+00:00",
+   "news_latest": "2026-11-27T01:17:50+00:00",
+   "importance": 7,
+   "caption": "Zelensky tells BBC US is too focused on Middle East\n\nUkrainian President Volodymyr Zelensky told the BBC that the US is too focused on the Middle East and is not pushing Russia hard enough. Zelensky also expressed frustration over American delivery delays for Patriot air defense interceptors and Starshield restrictions affecting Ukraine's drone defenses.\n\n💬 Should the US increase its focus on Ukraine's defense needs?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Ukraine #US #WorldNews #7SeasNews",
+   "photo_line": "📷 7/10 Volodymyr Zelensky holding a cylinder",
+   "status": "posted",
+   "tg_message_id": 1040,
+   "tg_file_id": "AgACAgUAAxkDAAIEEGsI3XBXKGqpDRHqgej-6-60eu7DAAJoEmsbiIVJVElVJ5QVd091AQADAgADdwADPQQ",
+   "queued_at": "2026-11-27T01:31:28.452183+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-27T01:31:28.452209+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122112438267548584",
+   "posted_at": "2026-11-27T01:31:28.810609+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 26 · 8:31 PM New York · 7:01 AM Sri Lanka\n\n<b>Zelensky tells BBC US is too focused on Middle East</b>\n<i>BBC, Kyiv Independent</i>\n🟢 <b>Latest:</b> 6:47 AM Sri Lanka (13 min ago) · first reported 3:36 AM\n📷 7/10 Volodymyr Zelensky holding a cylinder\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112438267548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 748,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112438267548584_1155401310520220"
   }
  },
  "seen_links": [
-  "https://www.newsweek.com/russian-soldiers-blown-up-by-car-bombs-12703309",
-  "https://www.washingtonpost.com/politics/2026/11/12/new-congressman-blue-wave-2028-what-democrats-should-prioritize/",
-  "https://www.npr.org/2026/11/12/nx-s1-6029640/black-voter-turnout-congress-redistricting",
   "https://kyivindependent.com/tsikhanouskaya-says-belarus-must-be-included-in-russia-ukraine-peace-talks/",
   "https://www.npr.org/2026/11/12/nx-s1-6037526/former-u-s-ambassador-william-taylor-discusses-the-latest-russia-ukraine-talks",
   "https://www.dw.com/en/israel-targets-senior-hamas-member-in-gaza-hospital-strike/a-79927645?maca=en-rss-en-world-4025-rdf",
@@ -11562,7 +11652,10 @@
   "https://www.newsweek.com/trump-calls-gdp-fake-his-white-house-called-it-a-surge-in-october-12772108",
   "https://www.washingtonexaminer.com/news/white-house/4816296/trump-investigation-commerce-department-gdp-figures/",
   "https://www.cbsnews.com/news/trump-thanksgiving-commerce-department-gdp-investigation/",
-  "https://www.france24.com/en/tv-shows/truth-or-fake/20261126-is-spain-s-snap-election-being-rigged-debunking-viral-claims"
+  "https://www.france24.com/en/tv-shows/truth-or-fake/20261126-is-spain-s-snap-election-being-rigged-debunking-viral-claims",
+  "https://kyivindependent.com/starshield-restrictions-still-hampering-ukraines-drone-defenses-zelensky-tells-bbc/",
+  "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+  "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss"
  ],
  "recent_topics": [
   [
@@ -14199,19 +14292,44 @@
     "viral"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-27T01:31:28.452037+00:00",
+   [
+    "bbc",
+    "defens",
+    "dron",
+    "east",
+    "enough",
+    "focus",
+    "friendship",
+    "hamper",
+    "hard",
+    "interview",
+    "middl",
+    "push",
+    "question",
+    "restriction",
+    "russia",
+    "starshield",
+    "still",
+    "strang",
+    "tell",
+    "too",
+    "trump-putin",
+    "ukrain",
+    "zelensky"
+   ],
+   "6871f90662"
   ]
  ],
- "last_draft_at": "2026-11-27T01:16:03.490991+00:00",
+ "last_draft_at": "2026-11-27T01:31:14.011341+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T01:15:33.294226+00:00",
  "run_log": [
-  "11-26 23:15:58 run start",
-  "11-26 23:15:59 listening 11 min",
-  "11-26 23:27:45 listening done",
-  "11-26 23:27:45 run end after 707 s",
   "11-26 23:30:38 run start",
   "11-26 23:30:49 listening 11 min",
   "11-26 23:42:07 listening done",
@@ -14247,12 +14365,15 @@
   "11-27 01:15:32 run start",
   "11-27 01:16:35 listening 10 min",
   "11-27 01:27:03 listening done",
-  "11-27 01:27:03 run end after 690 s"
+  "11-27 01:27:03 run end after 690 s",
+  "11-27 01:31:13 run start",
+  "11-27 01:31:45 listening 11 min",
+  "11-27 01:42:39 listening done",
+  "11-27 01:42:39 run end after 686 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/8/82/Melania_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg/1920px-Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Benjamin_Netanyahu_October_22%2C_2024_%283x4_cropped%29.jpg/1280px-Benjamin_Netanyahu_October_22%2C_2024_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -14291,7 +14412,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Donald_Trump_RNC_July_2016.jpg/1280px-Donald_Trump_RNC_July_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Gadi_Eisenkot_2_%28cropped%29.jpg/1280px-Gadi_Eisenkot_2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/a/a2/StrobeTalbott.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Balotaje_Argentina_2015_04.jpg/1920px-Balotaje_Argentina_2015_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Balotaje_Argentina_2015_04.jpg/1920px-Balotaje_Argentina_2015_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Volodymyr_Zelensky_2019_presidential_inauguration_11.jpg/1280px-Volodymyr_Zelensky_2019_presidential_inauguration_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -14813,71 +14935,6 @@
      }
     ],
     "v": 2
-   },
-   "carmelle": {
-    "t": "2026-11-14T18:15:58.345828+00:00",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Carmelle_at_a_press_conference_for_the_2026_Eurovision_Song_Contest_in_Bangkok%2C_Thailand._06_%28cropped%29.jpg/1280px-Carmelle_at_a_press_conference_for_the_2026_Eurovision_Song_Contest_in_Bangkok%2C_Thailand._06_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Quejaytee / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Carmelle_at_a_press_conference_for_the_2026_Eurovision_Song_Contest_in_Bangkok%2C_Thailand._03.jpg/1280px-Carmelle_at_a_press_conference_for_the_2026_Eurovision_Song_Contest_in_Bangkok%2C_Thailand._03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Quejaytee / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Carmelle_at_a_press_conference_for_the_2026_Eurovision_Song_Contest_in_Bangkok%2C_Thailand._04.jpg/1280px-Carmelle_at_a_press_conference_for_the_2026_Eurovision_Song_Contest_in_Bangkok%2C_Thailand._04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Quejaytee / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Carmelle_at_a_press_conference_for_the_2026_Eurovision_Song_Contest_in_Bangkok%2C_Thailand._01.jpg/1280px-Carmelle_at_a_press_conference_for_the_2026_Eurovision_Song_Contest_in_Bangkok%2C_Thailand._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Quejaytee / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Carmelle_at_a_press_conference_for_the_2026_Eurovision_Song_Contest_in_Bangkok%2C_Thailand._07.jpg/1280px-Carmelle_at_a_press_conference_for_the_2026_Eurovision_Song_Contest_in_Bangkok%2C_Thailand._07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Quejaytee / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Carmelle_at_a_press_conference_for_the_2026_Eurovision_Song_Contest_in_Bangkok%2C_Thailand._02.jpg/1280px-Carmelle_at_a_press_conference_for_the_2026_Eurovision_Song_Contest_in_Bangkok%2C_Thailand._02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Quejaytee / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Carmelle_at_a_press_conference_for_the_2026_Eurovision_Song_Contest_in_Bangkok%2C_Thailand._05.jpg/1280px-Carmelle_at_a_press_conference_for_the_2026_Eurovision_Song_Contest_in_Bangkok%2C_Thailand._05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Quejaytee / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Carmelle_Vial_2.jpg/1280px-Carmelle_Vial_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Légend'R2026 / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": true
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Carmelle_at_a_press_conference_for_the_2026_Eurovision_Song_Contest_in_Bangkok%2C_Thailand._06.jpg/1280px-Carmelle_at_a_press_conference_for_the_2026_Eurovision_Song_Contest_in_Bangkok%2C_Thailand._06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Quejaytee / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Carmelle_at_a_press_conference_for_the_2026_Eurovision_Song_Contest_in_Bangkok%2C_Thailand._08.jpg/1280px-Carmelle_at_a_press_conference_for_the_2026_Eurovision_Song_Contest_in_Bangkok%2C_Thailand._08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Quejaytee / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "portrait": false
-     }
-    ]
    },
    "bowen yang": {
     "t": "2026-11-15T10:45:54.968025+00:00",
@@ -17495,6 +17552,94 @@
      }
     ],
     "v": 2
+   },
+   "volodymyr zelensky": {
+    "t": "2026-11-27T01:31:24.189546+00:00",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Volodymyr_Zelensky_2022_official_portrait_%28cropped%29.jpg/1280px-Volodymyr_Zelensky_2022_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Press Service of the President of Ukraine / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS"
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Volodymyr_Zelensky_Official_portrait.jpg/1280px-Volodymyr_Zelensky_Official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "http://www.president.gov.ua/ / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": true,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Volodymyr_Zelensky_2019_presidential_inauguration_11.jpg/1280px-Volodymyr_Zelensky_2019_presidential_inauguration_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Mykhaylo Markiv / The Presidential Administration of Ukraine / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Volodymyr_Zelensky_2019_presidential_inauguration_20.jpg/1280px-Volodymyr_Zelensky_2019_presidential_inauguration_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Mykhaylo Markiv / The Presidential Administration of Ukraine / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Volodymyr_Zelensky_2019_presidential_inauguration_51.jpg/1280px-Volodymyr_Zelensky_2019_presidential_inauguration_51.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Mykola Lazarenko / The Presidential Administration of Ukrain / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Volodymyr_Zelensky_leaving_10_Downing_Street_%282020-10-08%29_01.jpg/1280px-Volodymyr_Zelensky_leaving_10_Downing_Street_%282020-10-08%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Presidential Office of Ukraine / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Justin_Trudeau%2C_Volodymyr_Zelensky_%282022-05-08%29_05.jpg/1280px-Justin_Trudeau%2C_Volodymyr_Zelensky_%282022-05-08%29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "PRESIDENT OF UKRAINE VOLODYMYR ZELENSKYY Official website / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Volodymyr_Zelensky_2019_presidential_inauguration_22.jpg/1280px-Volodymyr_Zelensky_2019_presidential_inauguration_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Mykola Lazarenko / The Presidential Administration of Ukrain / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Justin_Trudeau%2C_Volodymyr_Zelensky_%282022-05-08%29_06.jpg/1280px-Justin_Trudeau%2C_Volodymyr_Zelensky_%282022-05-08%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "PRESIDENT OF UKRAINE VOLODYMYR ZELENSKYY Official website / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Volodymyr_Zelensky_2019_presidential_inauguration_15.jpg/1280px-Volodymyr_Zelensky_2019_presidential_inauguration_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Mykhaylo Markiv / The Presidential Administration of Ukraine / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Justin_Trudeau%2C_Volodymyr_Zelensky_%282022-05-08%29_36.jpg/1280px-Justin_Trudeau%2C_Volodymyr_Zelensky_%282022-05-08%29_36.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "PRESIDENT OF UKRAINE VOLODYMYR ZELENSKYY Official website / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Volodymyr_Zelensky_leaving_10_Downing_Street_%282020-10-08%29_03.jpg/1280px-Volodymyr_Zelensky_leaving_10_Downing_Street_%282020-10-08%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Presidential Office of Ukraine / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "portrait": false,
+      "only": true
+     }
+    ],
+    "v": 2
    }
   },
   "recent_ideas": [
@@ -17512,11 +17657,6 @@
    "ballot box"
   ],
   "checked": {
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Lincs_%26_Notts_Air_Ambulance_Crew.jpg/1920px-Lincs_%26_Notts_Air_Ambulance_Crew.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|cdf4f101": {
-    "s": 0,
-    "w": "ambulance crew with helicopter",
-    "p": "wrong context/event and location"
-   },
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/US_Army_soldier_welding_two_metal_pieces%2C_Fort_Gregg-Adams%2C_Virginia%2C_March_2025.jpg/1920px-US_Army_soldier_welding_two_metal_pieces%2C_Fort_Gregg-Adams%2C_Virginia%2C_March_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|55d35a9d": {
     "s": 0,
     "w": "a welder working",
@@ -20011,6 +20151,11 @@
     "s": 10,
     "w": "Argentine ballot box",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Volodymyr_Zelensky_2019_presidential_inauguration_11.jpg/1280px-Volodymyr_Zelensky_2019_presidential_inauguration_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Volodymyr Zelensky": {
+    "s": 7,
+    "w": "Volodymyr Zelensky holding a cylinder",
+    "p": ""
    }
   }
  },
@@ -20022,10 +20167,10 @@
   "2026-11-23": 20,
   "2026-11-24": 23,
   "2026-11-25": 29,
-  "2026-11-26": 24
+  "2026-11-26": 25
  },
- "last_auto_at": "2026-11-27T00:31:03.031244+00:00",
- "last_post_at": "2026-11-27T00:31:10.895647+00:00",
+ "last_auto_at": "2026-11-27T01:31:28.810609+00:00",
+ "last_post_at": "2026-11-27T01:31:34.596318+00:00",
  "reels_count": {
   "2026-11-20": 3,
   "2026-11-21": 3,
