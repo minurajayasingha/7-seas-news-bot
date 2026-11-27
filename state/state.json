@@ -12353,85 +12353,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-24T23:46:11.632074+00:00",
-   [
-    "abus",
-    "charg",
-    "child",
-    "father",
-    "indict",
-    "markl",
-    "material",
-    "meghan",
-    "possession",
-    "sex",
-    "sexual",
-    "thoma"
-   ],
-   "skipped"
-  ],
-  [
-   "2026-11-24T23:46:29.101100+00:00",
-   [
-    "acquitt",
-    "charg",
-    "china",
-    "chines",
-    "conspiracy",
-    "convict",
-    "emerg",
-    "federal",
-    "found",
-    "fraud",
-    "giant",
-    "guilty",
-    "huawei",
-    "includ",
-    "jury",
-    "nvidia",
-    "racketeer",
-    "rival",
-    "secret",
-    "steal",
-    "tech",
-    "trad",
-    "trial",
-    "york"
-   ],
-   "9bb180198b"
-  ],
-  [
-   "2026-11-24T23:46:35.184774+00:00",
-   [
-    "300",
-    "annual",
-    "ballroom",
-    "bird",
-    "boost",
-    "donation",
-    "feather",
-    "freedom",
-    "got",
-    "guard",
-    "hormuz",
-    "million",
-    "other",
-    "pardon",
-    "paus",
-    "project",
-    "protect",
-    "reveal",
-    "salut",
-    "strait",
-    "troop",
-    "trump",
-    "turkey",
-    "use",
-    "watch"
-   ],
-   "skipped"
-  ],
-  [
    "2026-11-25T00:16:06.151486+00:00",
    [
     "aircraft",
@@ -15419,17 +15340,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-27T23:30:48.859216+00:00",
+ "last_draft_at": "2026-11-27T23:42:43.933727+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T23:16:07.213452+00:00",
  "run_log": [
-  "11-27 21:15:39 run start",
-  "11-27 21:17:27 listening 10 min",
-  "11-27 21:27:05 listening done",
-  "11-27 21:27:05 run end after 686 s",
   "11-27 21:30:37 run start",
   "11-27 21:30:56 listening 11 min",
   "11-27 21:42:14 listening done",
@@ -15465,7 +15382,11 @@
   "11-27 23:30:48 run start",
   "11-27 23:31:21 listening 11 min",
   "11-27 23:42:16 listening done",
-  "11-27 23:42:16 run end after 687 s"
+  "11-27 23:42:16 run end after 687 s",
+  "11-27 23:42:43 run start",
+  "11-27 23:42:52 listening 11 min",
+  "11-27 23:54:10 listening done",
+  "11-27 23:54:10 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
