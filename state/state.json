@@ -9185,11 +9185,95 @@
     "shares": 0
    },
    "stats_at": "2026-11-27T12:15:34.447556+00:00"
+  },
+  "1b318fbf5e": {
+   "id": "1b318fbf5e",
+   "headline": "New study warns of Russian hybrid attacks across Europe",
+   "summary": "A new study reveals that sabotage operations across Europe increased by 16%. A report warns these attacks could cause a mass casualty event, with Germany and Poland remaining the most targeted states.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Sabotage operations across the continent jumped by 16%.",
+    "Germany and Poland remain the most targeted states.",
+    "Attacks fall short of strategic goals."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#WorldNews",
+    "#Europe",
+    "#Security"
+   ],
+   "sources": [
+    "Kyiv Independent",
+    "The Independent"
+   ],
+   "link": "https://kyivindependent.com/russian-sabotage-attacks-across-europe-fall-short-of-strategic-goals-threats-remain-report-says/",
+   "links": [
+    [
+     "Kyiv Independent",
+     "https://kyivindependent.com/russian-sabotage-attacks-across-europe-fall-short-of-strategic-goals-threats-remain-report-says/"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/europe/russia-hybrid-attacks-europe-mass-casualty-b3092617.html"
+    ]
+   ],
+   "bg": {
+    "type": "map",
+    "photos": [],
+    "location": "Europe",
+    "lat": 52,
+    "lon": 12,
+    "country": "",
+    "state": "",
+    "span": 40,
+    "pin": false
+   },
+   "img_post": {
+    "headline": "New study warns of Russian hybrid attacks across Europe",
+    "people": [],
+    "image_query": "European cities skyline",
+    "image_queries": [
+     "European Parliament building",
+     "Berlin city street",
+     "Warsaw city center",
+     "security report document"
+    ],
+    "image_style": "incident",
+    "location": "Europe",
+    "nearby_city": "Brussels, Belgium",
+    "event_query": "European security conference",
+    "topic_photo": "security documents",
+    "label": "CONFLICT",
+    "action_subject": "security personnel",
+    "news_time": "2026-11-27T09:50:05+00:00"
+   },
+   "created_at": "2026-11-27T12:31:00.052174+00:00",
+   "news_time": "2026-11-27T09:50:05+00:00",
+   "news_latest": "2026-11-27T12:17:34+00:00",
+   "importance": 7,
+   "caption": "New study warns of Russian hybrid attacks across Europe\n\nA new study reveals that sabotage operations across Europe increased by 16%. A report warns these attacks could cause a mass casualty event, with Germany and Poland remaining the most targeted states.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#WorldNews #Europe #Security #7SeasNews",
+   "photo_line": "📷 news map (no fitting photo)",
+   "status": "posted",
+   "tg_message_id": 1052,
+   "tg_file_id": "AgACAgUAAxkDAAIEHGsJeAX-nC7JTwv96JKHqh4jPvSyAAIRFmsbiIVRVCwxHG4mQVw5AQADAgADdwADPQQ",
+   "queued_at": "2026-11-27T12:31:02.141639+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-27T12:31:02.141666+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122112654093548584",
+   "posted_at": "2026-11-27T12:31:02.435664+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 27 · 7:31 AM New York · 6:01 PM Sri Lanka\n\n<b>New study warns of Russian hybrid attacks across Europe</b>\n<i>Kyiv Independent, The Independent</i>\n🟢 <b>Latest:</b> 5:47 PM Sri Lanka (13 min ago) · first reported 3:20 PM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112654093548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 759,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112654093548584_1751422099284756"
   }
  },
  "seen_links": [
-  "https://www.dw.com/en/uk-court-convicts-2-iranian-men-of-spying-on-journalists/a-79931583?maca=en-rss-en-world-4025-rdf",
-  "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
   "https://www.aljazeera.com/news/2026/11/12/more-than-1800-italian-schools-targeted-by-new-hoax-bomb-alerts?traffic_source=rss",
   "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
   "https://abcnews.com/Politics/wireStory/ice-reports-record-high-immigration-arrests-deportations-trumps-138083036",
@@ -11187,7 +11271,9 @@
   "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
   "https://www.aljazeera.com/news/2026/11/27/borrowing-to-make-ends-meet-the-rising-cost-of-living-in-europe?traffic_source=rss",
   "https://www.newsweek.com/us-secret-service-issues-cyber-warning-for-black-friday-12772715",
-  "https://www.aljazeera.com/economy/2026/11/27/us-shoppers-get-ready-for-black-friday-and-cyber-monday?traffic_source=rss"
+  "https://www.aljazeera.com/economy/2026/11/27/us-shoppers-get-ready-for-black-friday-and-cyber-monday?traffic_source=rss",
+  "https://kyivindependent.com/russian-sabotage-attacks-across-europe-fall-short-of-strategic-goals-threats-remain-report-says/",
+  "https://www.independent.co.uk/news/world/europe/russia-hybrid-attacks-europe-mass-casualty-b3092617.html"
  ],
  "recent_topics": [
   [
@@ -13960,19 +14046,38 @@
     "warn"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-27T12:31:02.141474+00:00",
+   [
+    "across",
+    "attack",
+    "casualty",
+    "caus",
+    "europ",
+    "event",
+    "fall",
+    "goal",
+    "hybrid",
+    "mass",
+    "remain",
+    "russian",
+    "sabotag",
+    "short",
+    "strategic",
+    "threat",
+    "warn"
+   ],
+   "1b318fbf5e"
   ]
  ],
- "last_draft_at": "2026-11-27T12:16:12.581168+00:00",
+ "last_draft_at": "2026-11-27T12:30:39.395668+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T12:15:34.447556+00:00",
  "run_log": [
-  "11-27 10:00:43 run start",
-  "11-27 10:01:29 listening 11 min",
-  "11-27 10:12:22 listening done",
-  "11-27 10:12:22 run end after 698 s",
   "11-27 10:15:32 run start",
   "11-27 10:17:20 listening 10 min",
   "11-27 10:26:58 listening done",
@@ -14008,7 +14113,11 @@
   "11-27 12:15:34 run start",
   "11-27 12:16:13 listening 11 min",
   "11-27 12:27:06 listening done",
-  "11-27 12:27:06 run end after 692 s"
+  "11-27 12:27:06 run end after 692 s",
+  "11-27 12:30:39 run start",
+  "11-27 12:31:16 listening 11 min",
+  "11-27 12:42:11 listening done",
+  "11-27 12:42:11 run end after 692 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -19759,10 +19868,10 @@
   "2026-11-24": 23,
   "2026-11-25": 29,
   "2026-11-26": 28,
-  "2026-11-27": 6
+  "2026-11-27": 7
  },
- "last_auto_at": "2026-11-27T11:01:26.548788+00:00",
- "last_post_at": "2026-11-27T11:01:33.323898+00:00",
+ "last_auto_at": "2026-11-27T12:31:02.435664+00:00",
+ "last_post_at": "2026-11-27T12:31:07.566387+00:00",
  "reels_count": {
   "2026-11-21": 3,
   "2026-11-22": 1,
