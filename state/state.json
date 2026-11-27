@@ -9466,8 +9466,6 @@
   }
  },
  "seen_links": [
-  "https://www.upi.com/Top_News/World-News/2026/11/12/latam-cuba-antigua-changes-cuba-vote-un/4231794503202/",
-  "https://www.independent.co.uk/news/world/americas/us-politics/rfk-samoa-trip-senators-investigation-lies-congress-b3084092.html",
   "https://www.theguardian.com/us-news/2026/nov/12/senate-investigation-rfk-jr-measles-samoa",
   "https://thehill.com/homenews/house/6216614-jensen-huang-congress-testimony/",
   "https://www.cbsnews.com/news/jensen-huang-nvidia-congress-testify/",
@@ -11465,7 +11463,9 @@
   "https://www.foxnews.com/politics/us-pilot-tells-trump-which-fighter-jet-worlds-greatest-thanksgiving-phone-call",
   "https://www.newsweek.com/trump-standout-exchanges-troops-thanksgiving-calls-12772889",
   "https://www.newsweek.com/canadas-supreme-court-upholds-muslim-headscarf-ban-12773683",
-  "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+  "https://www.cbsnews.com/video/trump-slams-foes-and-threatens-future-vetoes-in-thanksgiving-posts/",
+  "https://www.today.com/video/trump-weighs-in-on-veto-power-nvidia-iran-war-and-putin-274257989639"
  ],
  "recent_topics": [
   [
@@ -14295,19 +14295,35 @@
     "uphold"
    ],
    "a03fca97d0"
+  ],
+  [
+   "2026-11-27T15:29:54.062131+00:00",
+   [
+    "foe",
+    "futur",
+    "iran",
+    "nvidia",
+    "post",
+    "power",
+    "putin",
+    "slam",
+    "thanksgiv",
+    "threaten",
+    "trump",
+    "veto",
+    "war",
+    "weighs-in"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-27T15:16:21.215147+00:00",
+ "last_draft_at": "2026-11-27T15:29:16.440300+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T15:15:36.747308+00:00",
  "run_log": [
-  "11-27 13:01:18 run start",
-  "11-27 13:01:20 listening 11 min",
-  "11-27 13:13:05 listening done",
-  "11-27 13:13:05 run end after 707 s",
   "11-27 13:16:02 run start",
   "11-27 13:16:31 listening 11 min",
   "11-27 13:27:49 listening done",
@@ -14343,7 +14359,11 @@
   "11-27 15:15:36 run start",
   "11-27 15:17:38 listening 9 min",
   "11-27 15:27:17 listening done",
-  "11-27 15:27:17 run end after 700 s"
+  "11-27 15:27:17 run end after 700 s",
+  "11-27 15:29:16 run start",
+  "11-27 15:29:54 listening 11 min",
+  "11-27 15:40:48 listening done",
+  "11-27 15:40:48 run end after 692 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
