@@ -11761,22 +11761,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-24T09:51:41.387614+00:00",
-   [
-    "agre",
-    "aircraft",
-    "airspac",
-    "deploy",
-    "early-warn",
-    "enter",
-    "nato",
-    "poland",
-    "russia",
-    "send"
-   ],
-   "1f2a8fcdf2"
-  ],
-  [
    "2026-11-24T11:16:33.049475+00:00",
    [
     "bird",
@@ -14438,17 +14422,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-27T09:31:02.310624+00:00",
+ "last_draft_at": "2026-11-27T09:45:36.532698+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T09:15:37.870250+00:00",
  "run_log": [
-  "11-27 07:15:35 run start",
-  "11-27 07:16:37 listening 10 min",
-  "11-27 07:27:05 listening done",
-  "11-27 07:27:05 run end after 689 s",
   "11-27 07:31:12 run start",
   "11-27 07:31:13 listening 11 min",
   "11-27 07:42:58 listening done",
@@ -14484,7 +14464,11 @@
   "11-27 09:31:01 run start",
   "11-27 09:31:03 listening 11 min",
   "11-27 09:42:48 listening done",
-  "11-27 09:42:48 run end after 706 s"
+  "11-27 09:42:48 run end after 706 s",
+  "11-27 09:45:36 run start",
+  "11-27 09:45:56 listening 11 min",
+  "11-27 09:57:15 listening done",
+  "11-27 09:57:15 run end after 699 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
