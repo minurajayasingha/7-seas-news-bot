@@ -14234,17 +14234,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-27T07:45:35.777124+00:00",
+ "last_draft_at": "2026-11-27T08:01:05.036056+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T07:15:36.051553+00:00",
  "run_log": [
-  "11-27 05:39:39 run start",
-  "11-27 05:40:12 listening 11 min",
-  "11-27 05:51:08 listening done",
-  "11-27 05:51:08 run end after 689 s",
   "11-27 05:51:36 run start",
   "11-27 05:51:45 listening 11 min",
   "11-27 06:03:05 listening done",
@@ -14280,7 +14276,11 @@
   "11-27 07:45:35 run start",
   "11-27 07:45:45 listening 11 min",
   "11-27 07:57:04 listening done",
-  "11-27 07:57:04 run end after 689 s"
+  "11-27 07:57:04 run end after 689 s",
+  "11-27 08:01:04 run start",
+  "11-27 08:01:05 listening 11 min",
+  "11-27 08:12:52 listening done",
+  "11-27 08:12:52 run end after 708 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -21421,7 +21421,7 @@
    }
   },
   "2026-11-26": {
-   "status": "asked",
+   "status": "building",
    "plan": {
     "parts": [
      {
@@ -21581,7 +21581,39 @@
    ],
    "asked_at": "2026-11-27T05:00:52.296984+00:00",
    "test": false,
-   "msg_id": 1044
+   "msg_id": 1044,
+   "approved_by": "auto",
+   "approved_at": "2026-11-27T08:01:04.537219+00:00",
+   "dispatch_at": "2026-11-27T08:01:04.537225+00:00",
+   "dispatch_tries": 1,
+   "headlines": [
+    "General Staff reports Russian military losses reach 1,645,899 troops",
+    "Iranian drone attack in Kuwait kills two Italian workers",
+    "Poland creates border no-fly zone following drone incursions",
+    "Fighting in eastern Congo forces Ebola response workers to evacuate",
+    "Ukraine intelligence says North Korea halts military aid to Russia",
+    "Protesters gather in Iraqi Kurdistan over federal government control plans",
+    "East Coast storm leaves nearly 900000 without power on Thanksgiving",
+    "Trump demands investigation into federal economic data revisions",
+    "Trump to visit Arizona semiconductor manufacturer and faces committee revelations",
+    "Pentagon denies Pete Hegseth considered using wartime law for Nvidia",
+    "Former US Deputy Secretary of State Strobe Talbott dies at 80",
+    "Elon Musk pledges two SpaceX shares for every US child",
+    "Puerto Rico Supreme Court cancels Luma Energy power contract",
+    "Kim Jong Un vows to build more nuclear weapons",
+    "FedEx cargo plane skids off runway at Miami airport",
+    "European Union leaders meet in Brussels to discuss budget",
+    "Flooding kills at least 13 miners in Indonesia",
+    "Explosion occurs at oil facility in Bangkok",
+    "UK net migration falls to 77000 in year to June",
+    "Kenyan court rules US-backed Ebola quarantine center violated constitution",
+    "Pablo Hernandez de Cos to replace Christine Lagarde at European Central Bank",
+    "Hong Kong residents mark anniversary of Wang Fuk Court fire",
+    "Man found guilty of attempted murder of 14 people on train",
+    "Eisenkot signs coalition deal with left-wing Democrats in Israel",
+    "Argentina bars central bank from printing money for government",
+    "Zelensky tells BBC US is too focused on Middle East"
+   ]
   }
  },
  "run_once_done": [
