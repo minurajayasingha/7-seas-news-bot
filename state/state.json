@@ -1,100 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "72bdf50f2a": {
-   "id": "72bdf50f2a",
-   "headline": "Russian warship capsizes off Libya after suspected Ukrainian strike",
-   "summary": "A Russian corvette capsized at Benghazi Naval Base following suspected Ukrainian sea drone strikes, according to Libyan officials. Ten people were injured in the incident. Libya's government warned its territory must not become an arena for settling scores.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "The Russian corvette Merkury sank off Libya.",
-    "The incident took the war beyond the Black Sea.",
-    "Ten people sustained injuries during the strike."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#UkraineRussiaWar",
-    "#Libya",
-    "#WorldNews"
-   ],
-   "sources": [
-    "Fox News",
-    "The Independent"
-   ],
-   "link": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-libya-benghazi-warship-drone-attack-b3089568.html",
-   "links": [
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-libya-benghazi-warship-drone-attack-b3089568.html"
-    ],
-    [
-     "Fox News",
-     "https://www.foxnews.com/world/russian-warship-sinks-libya-suspected-ukrainian-strikes-take-war-beyond-black-sea"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/%C4%B0ntrepid_aircraft_carrier.jpg/1920px-%C4%B0ntrepid_aircraft_carrier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Aviation poseidon / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 7,
-      "shows": "aircraft carrier"
-     }
-    ],
-    "file_photo": true
-   },
-   "img_post": {
-    "headline": "Russian warship capsizes off Libya after suspected Ukrainian strike",
-    "people": [],
-    "image_query": "Benghazi Naval Base",
-    "image_queries": [
-     "Benghazi harbor",
-     "Libya coastline",
-     "Black Sea warship",
-     "naval base"
-    ],
-    "image_style": "incident",
-    "location": "Benghazi, Libya",
-    "nearby_city": "Tripoli, Libya",
-    "event_query": "Benghazi warship sinking",
-    "topic_photo": "cargo ship",
-    "label": "CONFLICT",
-    "action_subject": "warship",
-    "news_time": "2026-11-23T01:30:56+00:00"
-   },
-   "created_at": "2026-11-23T04:46:00.747891+00:00",
-   "news_time": "2026-11-23T01:30:56+00:00",
-   "news_latest": "2026-11-23T03:25:39+00:00",
-   "importance": 9,
-   "caption": "Russian warship capsizes off Libya after suspected Ukrainian strike\n\nA Russian corvette capsized at Benghazi Naval Base following suspected Ukrainian sea drone strikes, according to Libyan officials. Ten people were injured in the incident. Libya's government warned its territory must not become an arena for settling scores.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#UkraineRussiaWar #Libya #WorldNews #7SeasNews",
-   "photo_line": "📷 7/10 aircraft carrier · FILE PHOTO",
-   "status": "posted",
-   "tg_message_id": 921,
-   "tg_file_id": "AgACAgUAAxkDAAIDmWsDxQqydpyUEp06wRyvySBdjRznAAI0FmsboQ8ZVDpGcS9-KlJ6AQADAgADdwADPQQ",
-   "queued_at": "2026-11-23T04:46:02.905299+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-23T04:46:02.905322+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122109947451548584",
-   "posted_at": "2026-11-23T04:46:03.320398+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 22 · 11:46 PM New York · 10:16 AM Sri Lanka\n\n<b>Russian warship capsizes off Libya after suspected Ukrainian strike</b>\n<i>Fox News, The Independent</i>\n🟡 <b>Latest:</b> 8:55 AM Sri Lanka (1h 20m ago) · first reported 7:00 AM\n📷 7/10 aircraft carrier · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122109947451548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 629,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122109947451548584_1808978377036146",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-26T04:07:05.345147+00:00"
-  },
   "8a0995fa2d": {
    "id": "8a0995fa2d",
    "headline": "Army plans Iowa lead azide detonation despite court pause",
@@ -14422,17 +14328,13 @@
    "bfc2408e94"
   ]
  ],
- "last_draft_at": "2026-11-27T04:30:40.938375+00:00",
+ "last_draft_at": "2026-11-27T04:45:40.036007+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T04:15:38.457741+00:00",
  "run_log": [
-  "11-27 02:15:34 run start",
-  "11-27 02:16:23 listening 11 min",
-  "11-27 02:27:17 listening done",
-  "11-27 02:27:17 run end after 702 s",
   "11-27 02:30:41 run start",
   "11-27 02:31:15 listening 11 min",
   "11-27 02:42:08 listening done",
@@ -14468,7 +14370,11 @@
   "11-27 04:30:40 run start",
   "11-27 04:31:50 listening 10 min",
   "11-27 04:42:18 listening done",
-  "11-27 04:42:18 run end after 698 s"
+  "11-27 04:42:18 run end after 698 s",
+  "11-27 04:45:39 run start",
+  "11-27 04:45:49 listening 11 min",
+  "11-27 04:57:09 listening done",
+  "11-27 04:57:09 run end after 689 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
