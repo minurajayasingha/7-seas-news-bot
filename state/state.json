@@ -8862,12 +8862,11 @@
    "importance": 5,
    "caption": "FIFA confirms cyber attack resulted in stolen personal and business information\n\nWorld football's governing body announced it suffered a criminal cyberattack. The security breach resulted in unauthorized access to personal and business information.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#FIFA #CyberSecurity #WorldNews #7SeasNews",
    "photo_line": "📷 no fitting photo (brand design)",
-   "status": "pending",
+   "status": "expired",
    "tg_message_id": 1031,
    "tg_file_id": "AgACAgUAAxkDAAIEB2sId9tJmJh6jxRBiRCJundvZajrAAINEmsbiIVJVAYvudRhv1cCAQADAgADdwADPQQ",
-   "extra_msgs": [
-    1032
-   ]
+   "extra_msgs": [],
+   "cleared": true
   },
   "d7835cf83d": {
    "id": "d7835cf83d",
@@ -9653,11 +9652,98 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122112438267548584_1155401310520220"
+  },
+  "585b336a14": {
+   "id": "585b336a14",
+   "headline": "Final New Zealand election results show ruling coalition needs minor party support",
+   "summary": "Final results from New Zealand's general election show the incumbent right-wing coalition led by Prime Minister Christopher Luxon falls short of a parliamentary majority by one seat. The ruling bloc now requires support from a centrist newcomer party to remain in power and avoid a new election.",
+   "label": "ELECTIONS",
+   "hook": "",
+   "key_points": [
+    "Preliminary results previously indicated a slim two-seat majority.",
+    "The coalition includes the National party, New Zealand First, and Act parties."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#NewZealand",
+    "#NZElection",
+    "#WorldNews"
+   ],
+   "sources": [
+    "BBC",
+    "The Guardian"
+   ],
+   "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+   "links": [
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Beehive_%28New_Zealand_Parliament_Building%2C_Wellington_New_Zealand%29.jpg/1920px-Beehive_%28New_Zealand_Parliament_Building%2C_Wellington_New_Zealand%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "User: (WT-shared) ED01 at wts wikivoyage / Wikimedia Commons (Public domain)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "New Zealand parliament building"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Final New Zealand election results show ruling coalition needs minor party support",
+    "people": [
+     "Christopher Luxon"
+    ],
+    "image_query": "Wellington parliament building",
+    "image_queries": [
+     "New Zealand parliament building",
+     "voting booth",
+     "ballot box",
+     "parliament chamber"
+    ],
+    "image_style": "scene",
+    "location": "Wellington, New Zealand",
+    "nearby_city": "Auckland, New Zealand",
+    "event_query": "New Zealand parliament building",
+    "topic_photo": "ballot box",
+    "label": "ELECTIONS",
+    "action_subject": "",
+    "news_time": "2026-11-27T01:41:50+00:00"
+   },
+   "created_at": "2026-11-27T02:01:40.732692+00:00",
+   "news_time": "2026-11-27T01:41:50+00:00",
+   "news_latest": "2026-11-27T01:45:30+00:00",
+   "importance": 9,
+   "caption": "🚨 BREAKING: Final New Zealand election results show ruling coalition needs minor party support\n\nFinal results from New Zealand's general election show the incumbent right-wing coalition led by Prime Minister Christopher Luxon falls short of a parliamentary majority by one seat. The ruling bloc now requires support from a centrist newcomer party to remain in power and avoid a new election.\n\nWhat we know so far:\n• Preliminary results previously indicated a slim two-seat majority.\n• The coalition includes the National party, New Zealand First, and Act parties.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#NewZealand #NZElection #WorldNews #7SeasNews",
+   "photo_line": "📷 10/10 New Zealand parliament building",
+   "status": "posted",
+   "tg_message_id": 1041,
+   "tg_file_id": "AgACAgUAAxkDAAIEEWsI5Ie2cY40sCzP1Y1rWPmBQw7fAAJyEmsbiIVJVOqgVhr6v-c-AQADAgADdwADPQQ",
+   "queued_at": "2026-11-27T02:01:43.442817+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-27T02:01:43.442845+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122112444573548584",
+   "posted_at": "2026-11-27T02:01:43.773035+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 26 · 9:01 PM New York · 7:31 AM Sri Lanka\n\n<b>Final New Zealand election results show ruling coalition needs minor party support</b>\n<i>BBC, The Guardian</i>\n🟢 <b>Latest:</b> 7:15 AM Sri Lanka (16 min ago) · first reported 7:11 AM\n📷 10/10 New Zealand parliament building\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112444573548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 749,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112444573548584_4487353021518973",
+   "fb_story_id": "3378426555878374"
   }
  },
  "seen_links": [
-  "https://kyivindependent.com/tsikhanouskaya-says-belarus-must-be-included-in-russia-ukraine-peace-talks/",
-  "https://www.npr.org/2026/11/12/nx-s1-6037526/former-u-s-ambassador-william-taylor-discusses-the-latest-russia-ukraine-talks",
   "https://www.dw.com/en/israel-targets-senior-hamas-member-in-gaza-hospital-strike/a-79927645?maca=en-rss-en-world-4025-rdf",
   "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
   "https://www.aljazeera.com/news/2026/11/12/who-is-scott-colom-mississippis-first-black-senator-in-150-years?traffic_source=rss",
@@ -11655,7 +11741,9 @@
   "https://www.france24.com/en/tv-shows/truth-or-fake/20261126-is-spain-s-snap-election-being-rigged-debunking-viral-claims",
   "https://kyivindependent.com/starshield-restrictions-still-hampering-ukraines-drone-defenses-zelensky-tells-bbc/",
   "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-  "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
+  "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+  "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results"
  ],
  "recent_topics": [
   [
@@ -14321,19 +14409,37 @@
     "zelensky"
    ],
    "6871f90662"
+  ],
+  [
+   "2026-11-27T02:01:43.442678+00:00",
+   [
+    "coalition",
+    "election",
+    "fall",
+    "final",
+    "govern",
+    "majority",
+    "minor",
+    "need",
+    "parliamentary",
+    "party",
+    "result",
+    "rul",
+    "seat",
+    "short",
+    "show",
+    "zealand"
+   ],
+   "585b336a14"
   ]
  ],
- "last_draft_at": "2026-11-27T01:45:36.375008+00:00",
+ "last_draft_at": "2026-11-27T02:00:48.852407+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T01:15:33.294226+00:00",
  "run_log": [
-  "11-26 23:42:35 run start",
-  "11-26 23:42:36 listening 11 min",
-  "11-26 23:54:19 listening done",
-  "11-26 23:54:19 run end after 704 s",
   "11-26 23:54:45 run start",
   "11-26 23:55:18 listening 11 min",
   "11-27 00:06:13 listening done",
@@ -14369,12 +14475,15 @@
   "11-27 01:45:35 run start",
   "11-27 01:45:45 listening 11 min",
   "11-27 01:57:04 listening done",
-  "11-27 01:57:04 run end after 688 s"
+  "11-27 01:57:04 run end after 688 s",
+  "11-27 02:00:48 run start",
+  "11-27 02:02:04 listening 10 min",
+  "11-27 02:12:34 listening done",
+  "11-27 02:12:34 run end after 706 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg/1920px-Judge%27s_gavel_against_lgbt_rainbow_flag_%2851909331543%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Benjamin_Netanyahu_October_22%2C_2024_%283x4_cropped%29.jpg/1280px-Benjamin_Netanyahu_October_22%2C_2024_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/New_York_Stock_Exchange_building%2C_20231002_171816.jpg/1920px-New_York_Stock_Exchange_building%2C_20231002_171816.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -14413,7 +14522,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Gadi_Eisenkot_2_%28cropped%29.jpg/1280px-Gadi_Eisenkot_2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/a/a2/StrobeTalbott.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Balotaje_Argentina_2015_04.jpg/1920px-Balotaje_Argentina_2015_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Volodymyr_Zelensky_2019_presidential_inauguration_11.jpg/1280px-Volodymyr_Zelensky_2019_presidential_inauguration_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Volodymyr_Zelensky_2019_presidential_inauguration_11.jpg/1280px-Volodymyr_Zelensky_2019_presidential_inauguration_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Beehive_%28New_Zealand_Parliament_Building%2C_Wellington_New_Zealand%29.jpg/1920px-Beehive_%28New_Zealand_Parliament_Building%2C_Wellington_New_Zealand%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -17643,7 +17753,6 @@
    }
   },
   "recent_ideas": [
-   "fighter jets",
    "courtroom",
    "judge gavel",
    "courtroom",
@@ -17654,29 +17763,10 @@
    "marriner s. eccles federal reserve board building",
    "pentagon press briefing",
    "semiconductor microchips",
-   "ballot box"
+   "ballot box",
+   "wellington parliament building"
   ],
   "checked": {
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/US_Army_soldier_welding_two_metal_pieces%2C_Fort_Gregg-Adams%2C_Virginia%2C_March_2025.jpg/1920px-US_Army_soldier_welding_two_metal_pieces%2C_Fort_Gregg-Adams%2C_Virginia%2C_March_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|55d35a9d": {
-    "s": 0,
-    "w": "a welder working",
-    "p": "photo shows a welder instead of US Army soldiers"
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Soldiers_and_Sailors_Monument%2C_Boston_Common%2C_Boston%2C_Massachusetts_2.jpg/1920px-Soldiers_and_Sailors_Monument%2C_Boston_Common%2C_Boston%2C_Massachusetts_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|55d35a9d": {
-    "s": 2,
-    "w": "monument and statues",
-    "p": "photo shows a monument instead of soldiers"
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/SSG_Desiree_Palacios_makes_final_settings_on_her_camera_before_a_sortie_in_a_F-16D_Fighting_Falcon.jpg/1920px-SSG_Desiree_Palacios_makes_final_settings_on_her_camera_before_a_sortie_in_a_F-16D_Fighting_Falcon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|55d35a9d": {
-    "s": 8,
-    "w": "soldier in aircraft cockpit",
-    "p": ""
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Russian_heavy_transport_helicopter_Mil_Mi-6.jpg/1920px-Russian_heavy_transport_helicopter_Mil_Mi-6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|b78caeb8": {
-    "s": 0,
-    "w": "helicopters parked outdoors",
-    "p": "shows helicopters instead of a military transport aircraft plane crash"
-   },
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/C-119_Military_transport_aircraft_in_Kinmen_National_Park.JPG/1920px-C-119_Military_transport_aircraft_in_Kinmen_National_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|b78caeb8": {
     "s": 6,
     "w": "military transport aircraft on display",
@@ -20156,6 +20246,26 @@
     "s": 7,
     "w": "Volodymyr Zelensky holding a cylinder",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Courtroom%2C_Howick_Court_House.jpg/1920px-Courtroom%2C_Howick_Court_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|ce4fe3e9": {
+    "s": 0,
+    "w": "historic courtroom interior",
+    "p": "shows a courtroom instead of a parliament building"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Stained-glass_window_-_The_Courts%2C_Bristol_-_DSC_7655.jpg/1920px-Stained-glass_window_-_The_Courts%2C_Bristol_-_DSC_7655.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|ce4fe3e9": {
+    "s": 0,
+    "w": "stained glass window",
+    "p": "Photo shows a stained glass window instead of the New Zealand parliament buildin"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Highcourt_of_AP.jpg/1920px-Highcourt_of_AP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|ce4fe3e9": {
+    "s": 0,
+    "w": "courthouse building",
+    "p": "wrong country"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Beehive_%28New_Zealand_Parliament_Building%2C_Wellington_New_Zealand%29.jpg/1920px-Beehive_%28New_Zealand_Parliament_Building%2C_Wellington_New_Zealand%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|ce4fe3e9": {
+    "s": 10,
+    "w": "New Zealand parliament building",
+    "p": ""
    }
   }
  },
@@ -20167,10 +20277,10 @@
   "2026-11-23": 20,
   "2026-11-24": 23,
   "2026-11-25": 29,
-  "2026-11-26": 25
+  "2026-11-26": 26
  },
- "last_auto_at": "2026-11-27T01:31:28.810609+00:00",
- "last_post_at": "2026-11-27T01:31:34.596318+00:00",
+ "last_auto_at": "2026-11-27T02:01:43.773035+00:00",
+ "last_post_at": "2026-11-27T02:01:49.831417+00:00",
  "reels_count": {
   "2026-11-20": 3,
   "2026-11-21": 3,
