@@ -9463,13 +9463,100 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122112721815548584_3691961220999965"
+  },
+  "1b530eb88d": {
+   "id": "1b530eb88d",
+   "headline": "Norse Atlantic Airways files for bankruptcy and cancels flights",
+   "summary": "Norse Atlantic Airways has filed for bankruptcy and cancelled all future flights. The Norwegian airline reported that surging fuel costs caused by the Iran war ruined its finances.",
+   "label": "ECONOMY",
+   "hook": "",
+   "key_points": [
+    "Customers were told not to come to airports.",
+    "The low-cost airline had been struggling to turn a profit.",
+    "The collapse came after flights were put on hold."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#NorseAtlantic",
+    "#AviationNews",
+    "#BusinessNews"
+   ],
+   "sources": [
+    "DW",
+    "The Guardian"
+   ],
+   "link": "https://www.theguardian.com/business/2026/nov/27/norse-atlantic-airways-files-for-bankruptcy-cancels-all-future-flights",
+   "links": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/business/2026/nov/27/norse-atlantic-airways-files-for-bankruptcy-cancels-all-future-flights"
+    ],
+    [
+     "DW",
+     "https://www.dw.com/en/airline-norse-atlantic-files-for-bankruptcy-succumbing-to-aviation-fuel-costs/a-80076728?maca=en-rss-en-world-4025-rdf"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Oslo_Skyline%2C_drone.jpg/1920px-Oslo_Skyline%2C_drone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Sunderland Renaissance / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 6,
+      "shows": "Oslo skyline"
+     }
+    ],
+    "_loaded": 1
+   },
+   "img_post": {
+    "headline": "Norse Atlantic Airways files for bankruptcy and cancels flights",
+    "people": [],
+    "image_query": "airport terminal",
+    "image_queries": [
+     "commercial airplane",
+     "airport check-in desk",
+     "aviation fuel",
+     "airline headquarters"
+    ],
+    "image_style": "scene",
+    "location": "Norway",
+    "nearby_city": "Oslo, Norway",
+    "event_query": "Norse Atlantic Airways bankruptcy",
+    "topic_photo": "airport terminal",
+    "label": "ECONOMY",
+    "action_subject": "commercial airplane on tarmac",
+    "news_time": "2026-11-27T14:20:00+00:00"
+   },
+   "created_at": "2026-11-27T15:54:06.145882+00:00",
+   "news_time": "2026-11-27T14:20:00+00:00",
+   "news_latest": "2026-11-27T15:40:35+00:00",
+   "importance": 7,
+   "caption": "🚨 BREAKING: Norse Atlantic Airways files for bankruptcy and cancels flights\n\nNorse Atlantic Airways has filed for bankruptcy and cancelled all future flights. The Norwegian airline reported that surging fuel costs caused by the Iran war ruined its finances.\n\nWhat we know so far:\n• Customers were told not to come to airports.\n• The low-cost airline had been struggling to turn a profit.\n• The collapse came after flights were put on hold.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#NorseAtlantic #AviationNews #BusinessNews #7SeasNews",
+   "photo_line": "📷 6/10 Oslo skyline",
+   "status": "posted",
+   "tg_message_id": 1058,
+   "tg_file_id": "AgACAgUAAxkDAAIEImsJp5_OBp2aDJzTYLBcty_Wq7kxAAKTFmsbiIVRVItNo0qNrA4yAQADAgADdwADPQQ",
+   "queued_at": "2026-11-27T15:54:08.278113+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-27T15:54:08.278142+00:00",
+   "post_label": "🤖 Auto-posting + Reel",
+   "fb_post_id": "1413030521900096_122112744057548584",
+   "posted_at": "2026-11-27T15:54:08.591034+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 27 · 10:54 AM New York · 9:24 PM Sri Lanka\n\n<b>Norse Atlantic Airways files for bankruptcy and cancels flights</b>\n<i>DW, The Guardian</i>\n🟢 <b>Latest:</b> 9:10 PM Sri Lanka (13 min ago) · first reported 7:50 PM\n📷 6/10 Oslo skyline\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112744057548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 766,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112744057548584_1464138678428687",
+   "fb_story_id": "1806809600624557",
+   "fb_reel_id": "1667020988411131",
+   "reel_status": "live"
   }
  },
  "seen_links": [
-  "https://www.theguardian.com/us-news/2026/nov/12/senate-investigation-rfk-jr-measles-samoa",
-  "https://thehill.com/homenews/house/6216614-jensen-huang-congress-testimony/",
-  "https://www.cbsnews.com/news/jensen-huang-nvidia-congress-testify/",
-  "https://thehill.com/policy/healthcare/6216792-acs-updates-prostate-screening/",
   "https://www.newsweek.com/joe-biden-pushes-new-prostate-cancer-screening-advice-after-health-update-12707022",
   "https://www.independent.co.uk/news/health/prostate-cancer-testing-screening-guidelines-b3083888.html",
   "https://www.washingtonexaminer.com/news/white-house/4801678/unprecedented-for-treasury-secretary-to-leave-home-over-iranian-threat-joe-concha/",
@@ -11465,7 +11552,11 @@
   "https://www.newsweek.com/canadas-supreme-court-upholds-muslim-headscarf-ban-12773683",
   "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
   "https://www.cbsnews.com/video/trump-slams-foes-and-threatens-future-vetoes-in-thanksgiving-posts/",
-  "https://www.today.com/video/trump-weighs-in-on-veto-power-nvidia-iran-war-and-putin-274257989639"
+  "https://www.today.com/video/trump-weighs-in-on-veto-power-nvidia-iran-war-and-putin-274257989639",
+  "https://www.euronews.com/2026/11/27/by-putins-logic-russia-should-go-back-to-mongolia-belarus-lukashenka-says",
+  "https://www.newsweek.com/will-trumps-art-of-the-deal-with-putin-get-him-back-to-g20-12773364",
+  "https://www.theguardian.com/business/2026/nov/27/norse-atlantic-airways-files-for-bankruptcy-cancels-all-future-flights",
+  "https://www.dw.com/en/airline-norse-atlantic-files-for-bankruptcy-succumbing-to-aviation-fuel-costs/a-80076728?maca=en-rss-en-world-4025-rdf"
  ],
  "recent_topics": [
   [
@@ -14315,19 +14406,35 @@
     "weighs-in"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-27T15:54:08.277978+00:00",
+   [
+    "airlin",
+    "airway",
+    "all",
+    "atlantic",
+    "aviation",
+    "bankruptcy",
+    "cancel",
+    "cost",
+    "fil",
+    "flight",
+    "fuel",
+    "futur",
+    "nors",
+    "succumb"
+   ],
+   "1b530eb88d"
   ]
  ],
- "last_draft_at": "2026-11-27T15:41:22.742031+00:00",
+ "last_draft_at": "2026-11-27T15:53:24.676183+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T15:15:36.747308+00:00",
  "run_log": [
-  "11-27 13:30:39 run start",
-  "11-27 13:31:13 listening 11 min",
-  "11-27 13:42:06 listening done",
-  "11-27 13:42:06 run end after 687 s",
   "11-27 13:45:35 run start",
   "11-27 13:45:55 listening 11 min",
   "11-27 13:57:13 listening done",
@@ -14363,12 +14470,15 @@
   "11-27 15:41:22 run start",
   "11-27 15:41:32 listening 11 min",
   "11-27 15:52:50 listening done",
-  "11-27 15:52:50 run end after 688 s"
+  "11-27 15:52:50 run end after 688 s",
+  "11-27 15:53:24 run start",
+  "11-27 15:55:00 listening 10 min",
+  "11-27 16:05:03 listening done",
+  "11-27 16:05:03 run end after 699 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/c/c3/A_more_compassionate_world_%285932115215%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Early_MiG_jets_at_Monino_%2810027023165%29.jpg/1920px-Early_MiG_jets_at_Monino_%2810027023165%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Boone_County_Courthouse_courtroom_front.jpg/1920px-Boone_County_Courthouse_courtroom_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg/1920px-Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -14407,7 +14517,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Brian_Walters_AM_SC_addressing_a_full_courtroom_in_Melbourne_Victoria_2019.jpg/1920px-Brian_Walters_AM_SC_addressing_a_full_courtroom_in_Melbourne_Victoria_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Gogojo_iela_and_Riga_skyline_from_Latvian_Academy_of_Sciences_Observation_deck.jpg/1920px-Gogojo_iela_and_Riga_skyline_from_Latvian_Academy_of_Sciences_Observation_deck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/WikimediaServersOct07_2.JPG/1920px-WikimediaServersOct07_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Federal_courtroom_in_Supreme_Court_of_Canada_Building.jpg/1920px-Federal_courtroom_in_Supreme_Court_of_Canada_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Federal_courtroom_in_Supreme_Court_of_Canada_Building.jpg/1920px-Federal_courtroom_in_Supreme_Court_of_Canada_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Oslo_Skyline%2C_drone.jpg/1920px-Oslo_Skyline%2C_drone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -17604,16 +17715,6 @@
    "courtroom"
   ],
   "checked": {
-   "https://upload.wikimedia.org/wikipedia/commons/6/67/Virginia_House_of_Delegates_chamber_2017.jpg|ed4a6f18": {
-    "s": 7,
-    "w": "Virginia House of Delegates chamber",
-    "p": ""
-   },
-   "https://upload.wikimedia.org/wikipedia/commons/9/96/Dutch_courtroom_during_COVID-19_pandemic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled|ab74e930": {
-    "s": 10,
-    "w": "judges in courtroom",
-    "p": ""
-   },
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Sign-20260829_203518%2C_Isle_of_Skye%2C_Scotland.jpg/1920px-Sign-20260829_203518%2C_Isle_of_Skye%2C_Scotland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|fa368f79": {
     "s": 10,
     "w": "petrol station price display",
@@ -20103,6 +20204,16 @@
     "s": 10,
     "w": "Canadian courtroom",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Evening_at_Flakstadpollen_in_Flakstad%2C_Nordland%2C_Norway%2C_2017_April.jpg/1920px-Evening_at_Flakstadpollen_in_Flakstad%2C_Nordland%2C_Norway%2C_2017_April.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|95554b9b": {
+    "s": 3,
+    "w": "Norwegian mountain landscape and lake",
+    "p": "shows a landscape instead of the airline or flights"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Oslo_Skyline%2C_drone.jpg/1920px-Oslo_Skyline%2C_drone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|95554b9b": {
+    "s": 6,
+    "w": "Oslo skyline",
+    "p": "Generic city skyline for aviation bankruptcy story"
    }
   }
  },
@@ -20114,10 +20225,10 @@
   "2026-11-24": 23,
   "2026-11-25": 29,
   "2026-11-26": 28,
-  "2026-11-27": 10
+  "2026-11-27": 11
  },
- "last_auto_at": "2026-11-27T15:17:20.987207+00:00",
- "last_post_at": "2026-11-27T15:17:27.774384+00:00",
+ "last_auto_at": "2026-11-27T15:54:08.591034+00:00",
+ "last_post_at": "2026-11-27T15:54:12.804798+00:00",
  "reels_count": {
   "2026-11-21": 3,
   "2026-11-22": 1,
@@ -20125,7 +20236,7 @@
   "2026-11-24": 3,
   "2026-11-25": 3,
   "2026-11-26": 3,
-  "2026-11-27": 2
+  "2026-11-27": 3
  },
  "roundup": {
   "2026-11-19": {
