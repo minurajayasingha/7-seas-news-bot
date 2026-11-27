@@ -9755,11 +9755,96 @@
     "shares": 0
    },
    "stats_at": "2026-11-27T09:15:37.870250+00:00"
+  },
+  "e6bfd3a018": {
+   "id": "e6bfd3a018",
+   "headline": "France and Germany push for EU budget deal",
+   "summary": "France and Germany are pushing for the European Union to strike a budget deal by December 31. The effort aims to lock in financial aid for Ukraine as Europe faces upcoming elections.",
+   "label": "DIPLOMACY",
+   "hook": "Will EU member states reach a budget consensus before the year ends?",
+   "key_points": [
+    "Paris and Berlin held talks in Brussels on Thursday",
+    "Europe braces for a slew of tense elections in 2027",
+    "Far-right rise threatens Ukraine financial aid"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#EuropeanUnion",
+    "#France",
+    "#Germany"
+   ],
+   "sources": [
+    "France 24",
+    "NBC News"
+   ],
+   "link": "https://www.nbcnews.com/select/shopping/black-friday-2026-deals-under-50-rcna611475",
+   "links": [
+    [
+     "NBC News",
+     "https://www.nbcnews.com/select/shopping/black-friday-2026-deals-under-50-rcna611475"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/europe/20261127-france-and-germany-push-for-eu-budget-deal-by-year-end-as-far-right-rise-threatens-ukraine-aid"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://live.staticflickr.com/7329/11055972456_5cf955fcec_b.jpg",
+      "credit": "dungodung / Flickr (CC BY-SA 2.0)",
+      "short": "FLICKR",
+      "score": 10,
+      "shows": "European Parliament building in Brussels"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "France and Germany push for EU budget deal",
+    "people": [],
+    "image_query": "European Union headquarters building",
+    "image_queries": [
+     "European Parliament building",
+     "Berlin skyline",
+     "Paris skyline",
+     "EU flag"
+    ],
+    "image_style": "scene",
+    "location": "Brussels, Belgium",
+    "nearby_city": "Brussels, Belgium",
+    "event_query": "Brussels EU budget talks",
+    "topic_photo": "EU flag",
+    "label": "DIPLOMACY",
+    "action_subject": "European Union flags",
+    "news_time": "2026-11-27T08:17:02+00:00"
+   },
+   "created_at": "2026-11-27T10:01:13.765728+00:00",
+   "news_time": "2026-11-27T08:17:02+00:00",
+   "news_latest": "2026-11-27T08:59:38+00:00",
+   "importance": 7,
+   "caption": "France and Germany push for EU budget deal\n\nFrance and Germany are pushing for the European Union to strike a budget deal by December 31. The effort aims to lock in financial aid for Ukraine as Europe faces upcoming elections.\n\n💬 Will EU member states reach a budget consensus before the year ends?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#EuropeanUnion #France #Germany #7SeasNews",
+   "photo_line": "📷 10/10 European Parliament building in Brussels",
+   "status": "posted",
+   "tg_message_id": 1049,
+   "tg_file_id": "AgACAgUAAxkDAAIEGWsJVOtlgVD2NlAJXAABJ1wfHka3OAACyhNrG4iFUVRf3s8ZKYYDAQEAAwIAA3cAAz0E",
+   "queued_at": "2026-11-27T10:01:15.656027+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-27T10:01:15.656063+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122112597129548584",
+   "posted_at": "2026-11-27T10:01:15.953656+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 27 · 5:01 AM New York · 3:31 PM Sri Lanka\n\n<b>France and Germany push for EU budget deal</b>\n<i>France 24, NBC News</i>\n🟡 <b>Latest:</b> 2:29 PM Sri Lanka (1h 1m ago) · first reported 1:47 PM\n📷 10/10 European Parliament building in Brussels\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112597129548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 755,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112597129548584_4499003837081193"
   }
  },
  "seen_links": [
-  "https://www.newsweek.com/police-respond-to-active-shooting-in-washington-d-c-12704724",
-  "https://www.independent.co.uk/news/world/americas/us-politics/trump-rant-truth-social-mexico-caravans-b3083910.html",
   "https://www.foxnews.com/politics/trump-threatens-double-tariffs-mexico-migrant-caravans-not-stopped",
   "https://www.cbsnews.com/news/megaspeed-nvidia-china-ties/",
   "https://www.aljazeera.com/news/2026/11/12/china-says-us-fabricating-nvidia-spy-claims-to-justify-tech-blockade?traffic_source=rss",
@@ -11757,7 +11842,9 @@
   "https://www.euronews.com/video/2026/11/27/estonia-prepares-to-close-all-five-road-border-crossings-with-russia",
   "https://www.aljazeera.com/video/newsfeed/2026/11/27/estonia-closing-land-borders-with-russia-to-keep-out-spies?traffic_source=rss",
   "https://www.aljazeera.com/news/2026/11/27/south-korea-sends-rescued-fishermen-back-to-north?traffic_source=rss",
-  "https://abcnews.com/International/wireStory/south-korea-lets-north-korean-fisherman-resettle-south-138475962"
+  "https://abcnews.com/International/wireStory/south-korea-lets-north-korean-fisherman-resettle-south-138475962",
+  "https://www.nbcnews.com/select/shopping/black-friday-2026-deals-under-50-rcna611475",
+  "https://www.france24.com/en/europe/20261127-france-and-germany-push-for-eu-budget-deal-by-year-end-as-far-right-rise-threatens-ukraine-aid"
  ],
  "recent_topics": [
   [
@@ -14420,19 +14507,39 @@
     "threat"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-27T10:01:15.655878+00:00",
+   [
+    "31",
+    "50",
+    "aid",
+    "black",
+    "blow",
+    "budget",
+    "deal",
+    "far-right",
+    "franc",
+    "friday",
+    "germany",
+    "push",
+    "ris",
+    "threaten",
+    "ukrain",
+    "wont",
+    "year-end",
+    "your"
+   ],
+   "e6bfd3a018"
   ]
  ],
- "last_draft_at": "2026-11-27T09:45:36.532698+00:00",
+ "last_draft_at": "2026-11-27T10:00:44.206085+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T09:15:37.870250+00:00",
  "run_log": [
-  "11-27 07:31:12 run start",
-  "11-27 07:31:13 listening 11 min",
-  "11-27 07:42:58 listening done",
-  "11-27 07:42:58 run end after 706 s",
   "11-27 07:45:35 run start",
   "11-27 07:45:45 listening 11 min",
   "11-27 07:57:04 listening done",
@@ -14468,12 +14575,15 @@
   "11-27 09:45:36 run start",
   "11-27 09:45:56 listening 11 min",
   "11-27 09:57:15 listening done",
-  "11-27 09:57:15 run end after 699 s"
+  "11-27 09:57:15 run end after 699 s",
+  "11-27 10:00:43 run start",
+  "11-27 10:01:29 listening 11 min",
+  "11-27 10:12:22 listening done",
+  "11-27 10:12:22 run end after 698 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/US_Capitol_west_side_at_dusk.JPG/1920px-US_Capitol_west_side_at_dusk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Ambulance%2C_Cairo.JPG/1920px-Ambulance%2C_Cairo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Knesset_front_side_-_2022.jpg/1920px-Knesset_front_side_-_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Doors_Open_Milwaukee_2023_37_%28Federal_Building--courtroom_of_Hon._Lynn_Adelman%29.jpg/1920px-Doors_Open_Milwaukee_2023_37_%28Federal_Building--courtroom_of_Hon._Lynn_Adelman%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -14512,7 +14622,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Workers_remove_downed_power_lines_along_Zimovia_Hwy.jpg/1920px-Workers_remove_downed_power_lines_along_Zimovia_Hwy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Voting_box_for_Senate_elections_in_Madrid.jpg/1920px-Voting_box_for_Senate_elections_in_Madrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/3/3e/North_Korea-Pyongyang-Buildings_and_passengers-01.jpg",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Columna_de_la_Victoria_de_la_Guerra_de_la_Independencia%2C_Tallinn%2C_Estonia%2C_2012-08-05%2C_DD_15.JPG/1920px-Columna_de_la_Victoria_de_la_Guerra_de_la_Independencia%2C_Tallinn%2C_Estonia%2C_2012-08-05%2C_DD_15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Columna_de_la_Victoria_de_la_Guerra_de_la_Independencia%2C_Tallinn%2C_Estonia%2C_2012-08-05%2C_DD_15.JPG/1920px-Columna_de_la_Victoria_de_la_Guerra_de_la_Independencia%2C_Tallinn%2C_Estonia%2C_2012-08-05%2C_DD_15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://live.staticflickr.com/7329/11055972456_5cf955fcec_b.jpg"
   ],
   "pools": {
    "howard lutnick": {
@@ -17742,7 +17853,6 @@
    }
   },
   "recent_ideas": [
-   "collapsed building rescue",
    "whitehall london",
    "marriner s. eccles federal reserve board building",
    "pentagon press briefing",
@@ -17753,19 +17863,10 @@
    "downed power lines",
    "voting ballot box",
    "pyongyang buildings",
-   "estonia"
+   "estonia",
+   "european parliament building"
   ],
   "checked": {
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Extrication_glass_saw_1.jpg/1920px-Extrication_glass_saw_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|7edb2060": {
-    "s": 0,
-    "w": "firefighter working on car",
-    "p": "photo is about firefighters, story is about a bomb threat in Washington"
-   },
-   "https://upload.wikimedia.org/wikipedia/commons/4/4d/Washington_DC_Skyline.jpg|7edb2060": {
-    "s": 6,
-    "w": "Washington DC skyline",
-    "p": ""
-   },
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Constitution_of_the_9th_legislature_of_the_European_Parliament_%2848180139716%29.jpg/1920px-Constitution_of_the_9th_legislature_of_the_European_Parliament_%2848180139716%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|fe7da55c": {
     "s": 8,
     "w": "people carrying ballot boxes",
@@ -20255,6 +20356,16 @@
     "s": 5,
     "w": "Monument and church in Estonia",
     "p": "Shows a city landmark rather than a border checkpoint queue"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Palais_de_la_Nation_Bruxelles.jpg/1920px-Palais_de_la_Nation_Bruxelles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|c2d5b9c3": {
+    "s": 6,
+    "w": "Brussels building with EU flag",
+    "p": ""
+   },
+   "https://live.staticflickr.com/7329/11055972456_5cf955fcec_b.jpg|c2d5b9c3": {
+    "s": 10,
+    "w": "European Parliament building in Brussels",
+    "p": ""
    }
   }
  },
@@ -20266,10 +20377,10 @@
   "2026-11-24": 23,
   "2026-11-25": 29,
   "2026-11-26": 28,
-  "2026-11-27": 3
+  "2026-11-27": 4
  },
- "last_auto_at": "2026-11-27T09:01:37.702317+00:00",
- "last_post_at": "2026-11-27T09:01:42.301868+00:00",
+ "last_auto_at": "2026-11-27T10:01:15.953656+00:00",
+ "last_post_at": "2026-11-27T10:01:20.287827+00:00",
  "reels_count": {
   "2026-11-20": 3,
   "2026-11-21": 3,
