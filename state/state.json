@@ -11560,22 +11560,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-24T00:54:20.024218+00:00",
-   [
-    "700000",
-    "analysi",
-    "died",
-    "estimat",
-    "indicat",
-    "kill",
-    "russian",
-    "soldier",
-    "ukrain",
-    "war"
-   ],
-   "d2244b9c6e"
-  ],
-  [
    "2026-11-24T03:27:10.760888+00:00",
    [
     "back",
@@ -14193,17 +14177,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-27T00:30:37.714578+00:00",
+ "last_draft_at": "2026-11-27T00:45:35.430311+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T00:06:41.135358+00:00",
  "run_log": [
-  "11-26 22:30:37 run start",
-  "11-26 22:30:57 listening 11 min",
-  "11-26 22:42:15 listening done",
-  "11-26 22:42:15 run end after 697 s",
   "11-26 22:45:35 run start",
   "11-26 22:46:26 listening 11 min",
   "11-26 22:57:19 listening done",
@@ -14239,7 +14219,11 @@
   "11-27 00:30:35 run start",
   "11-27 00:31:21 listening 11 min",
   "11-27 00:42:15 listening done",
-  "11-27 00:42:15 run end after 699 s"
+  "11-27 00:42:15 run end after 699 s",
+  "11-27 00:45:35 run start",
+  "11-27 00:45:53 listening 11 min",
+  "11-27 00:57:13 listening done",
+  "11-27 00:57:13 run end after 698 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
