@@ -9664,8 +9664,6 @@
   }
  },
  "seen_links": [
-  "https://www.aljazeera.com/video/newsfeed/2026/11/12/suspect-turns-gun-on-himself-after-deadly-shooting-in-washington-dc?traffic_source=rss",
-  "https://www.newsweek.com/uss-george-h-w-bush-abraham-lincoln-deployment-comparison-12705042",
   "https://www.independent.co.uk/news/world/americas/navy-iran-mission-uss-george-hw-bush-trump-b3084030.html",
   "https://www.independent.co.uk/news/world/europe/turkey-military-helicopter-crash-samankoy-b3084116.html",
   "https://abcnews.com/International/wireStory/military-helicopter-crashes-southern-turkey-killing-4-138085371",
@@ -11663,7 +11661,9 @@
   "https://www.independent.co.uk/news/world/africa/paul-mackenzie-kenya-cult-leader-b3092866.html",
   "https://news.sky.com/story/kenyan-cult-leader-in-jail-for-191-murders-convicted-over-another-123-deaths-13617227",
   "https://abcnews.com/International/wireStory/zelenskyy-urges-us-pressure-putin-calling-trumps-friend-138478386",
-  "https://www.cbsnews.com/news/zelenskyy-trump-calling-putin-friend-like-hitler-viewed-friend-wwii/"
+  "https://www.cbsnews.com/news/zelenskyy-trump-calling-putin-friend-like-hitler-viewed-friend-wwii/",
+  "https://www.france24.com/en/sport/20261127-turkey-summons-georgian-envoy-after-football-fans-pro-palestine-protest-sparks-clashes",
+  "https://www.aljazeera.com/sports/2026/11/27/why-did-georgian-police-clash-with-turkish-football-fans-over-palestine?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -14578,19 +14578,35 @@
     "zelenskyy"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-27T16:45:45.190893+00:00",
+   [
+    "clash",
+    "did",
+    "envoy",
+    "fan",
+    "football",
+    "georgian",
+    "palestin",
+    "polic",
+    "pro-palestin",
+    "protest",
+    "spark",
+    "summon",
+    "turkey",
+    "turkish"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-27T16:30:45.040550+00:00",
+ "last_draft_at": "2026-11-27T16:45:34.713090+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T16:17:35.169440+00:00",
  "run_log": [
-  "11-27 14:30:43 run start",
-  "11-27 14:31:16 listening 11 min",
-  "11-27 14:42:12 listening done",
-  "11-27 14:42:12 run end after 688 s",
   "11-27 14:45:48 run start",
   "11-27 14:46:32 listening 11 min",
   "11-27 14:57:26 listening done",
@@ -14626,7 +14642,11 @@
   "11-27 16:30:44 run start",
   "11-27 16:30:54 listening 11 min",
   "11-27 16:42:13 listening done",
-  "11-27 16:42:13 run end after 688 s"
+  "11-27 16:42:13 run end after 688 s",
+  "11-27 16:45:34 run start",
+  "11-27 16:45:45 listening 11 min",
+  "11-27 16:57:03 listening done",
+  "11-27 16:57:03 run end after 688 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
