@@ -9753,13 +9753,104 @@
     "shares": 0
    },
    "stats_at": "2026-11-27T02:15:35.062360+00:00"
+  },
+  "7faf9fed02": {
+   "id": "7faf9fed02",
+   "headline": "Zelensky compares Trump and Putin relationship to Hitler",
+   "summary": "Ukrainian President Volodymyr Zelensky compared Donald Trump's relationship with Vladimir Putin to befriending Hitler in a BBC interview. Meanwhile, Trump stated he is open to Putin attending an upcoming G20 summit in Florida.",
+   "label": "WORLD",
+   "hook": "Should world leaders hold summits with Vladimir Putin?",
+   "key_points": [
+    "Zelensky called Trump's Putin friendship strange during peace talks.",
+    "Trump previously met with Putin and Xi Jinping.",
+    "Trump signed Florida disaster relief and shared a Thanksgiving preference."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Zelensky",
+    "#Trump",
+    "#Putin"
+   ],
+   "sources": [
+    "Newsweek",
+    "Washington Examiner"
+   ],
+   "link": "https://www.newsweek.com/zelensky-rips-trump-over-putin-embrace-compares-it-to-befriending-hitler-12772292",
+   "links": [
+    [
+     "Newsweek",
+     "https://www.newsweek.com/zelensky-rips-trump-over-putin-embrace-compares-it-to-befriending-hitler-12772292"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/world/4816353/trump-putin-g20-florida/"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/white-house/4816347/trum-florida-disaster-relief-thanksgiving/"
+    ],
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/news/white-house/4816348/trump-favorite-thanksgiving-day-dessert/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Downtown_Miami_wide_photo_Don_Ramey_Logan.jpg/1920px-Downtown_Miami_wide_photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Don Ramey Logan / Wikimedia Commons (CC BY 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 5,
+      "shows": "Miami downtown skyline"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Zelensky compares Trump and Putin relationship to Hitler",
+    "people": [],
+    "image_query": "White House",
+    "image_queries": [
+     "BBC studio",
+     "G20 summit",
+     "Kremlin building",
+     "US Capitol"
+    ],
+    "image_style": "person",
+    "location": "Miami, Florida, US",
+    "nearby_city": "Miami, Florida",
+    "event_query": "",
+    "topic_photo": "pumpkin pie",
+    "label": "WORLD",
+    "action_subject": "",
+    "news_time": "2026-11-27T01:06:54+00:00"
+   },
+   "created_at": "2026-11-27T02:46:47.901257+00:00",
+   "news_time": "2026-11-27T01:06:54+00:00",
+   "news_latest": "2026-11-27T02:42:37+00:00",
+   "importance": 7,
+   "caption": "Zelensky compares Trump and Putin relationship to Hitler\n\nUkrainian President Volodymyr Zelensky compared Donald Trump's relationship with Vladimir Putin to befriending Hitler in a BBC interview. Meanwhile, Trump stated he is open to Putin attending an upcoming G20 summit in Florida.\n\n💬 Should world leaders hold summits with Vladimir Putin?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Zelensky #Trump #Putin #7SeasNews",
+   "photo_line": "📷 5/10 Miami downtown skyline",
+   "status": "posted",
+   "tg_message_id": 1042,
+   "tg_file_id": "AgACAgUAAxkDAAIEEmsI7xpptuiS5GNCO3DwCrXyjEWdAAKbEmsbiIVJVAXdemB2rYadAQADAgADdwADPQQ",
+   "queued_at": "2026-11-27T02:46:50.528682+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-27T02:46:50.528711+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122112456837548584",
+   "posted_at": "2026-11-27T02:46:50.895261+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 26 · 9:46 PM New York · 8:16 AM Sri Lanka\n\n<b>Zelensky compares Trump and Putin relationship to Hitler</b>\n<i>Newsweek, Washington Examiner</i>\n🟢 <b>Latest:</b> 8:12 AM Sri Lanka (4 min ago) · first reported 6:36 AM\n📷 5/10 Miami downtown skyline\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112456837548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 750,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112456837548584_2360008251485434"
   }
  },
  "seen_links": [
-  "https://www.dw.com/en/israel-targets-senior-hamas-member-in-gaza-hospital-strike/a-79927645?maca=en-rss-en-world-4025-rdf",
-  "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
-  "https://www.aljazeera.com/news/2026/11/12/who-is-scott-colom-mississippis-first-black-senator-in-150-years?traffic_source=rss",
-  "https://www.france24.com/en/tv-shows/press-review/20261112-scott-colom-makes-history-in-mississippi-as-first-black-senator-in-more-than-140-years",
   "https://www.france24.com/en/video/20261112-european-leaders-gather-in-dublin-to-discuss-ukraine-s-security-and-their-own",
   "https://www.newsweek.com/europes-leaders-gather-after-weeks-of-bomb-threats-cyberattacks-12698209",
   "https://thehill.com/opinion/national-security/6213751-witkoff-kushner-outplayed-russia/",
@@ -11755,7 +11846,11 @@
   "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
   "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
   "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
-  "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results"
+  "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results",
+  "https://www.newsweek.com/zelensky-rips-trump-over-putin-embrace-compares-it-to-befriending-hitler-12772292",
+  "https://www.washingtonexaminer.com/news/world/4816353/trump-putin-g20-florida/",
+  "https://www.washingtonexaminer.com/news/white-house/4816347/trum-florida-disaster-relief-thanksgiving/",
+  "https://www.washingtonexaminer.com/news/white-house/4816348/trump-favorite-thanksgiving-day-dessert/"
  ],
  "recent_topics": [
   [
@@ -14443,19 +14538,43 @@
     "zealand"
    ],
    "585b336a14"
+  ],
+  [
+   "2026-11-27T02:46:50.528548+00:00",
+   [
+    "100",
+    "approv",
+    "attend",
+    "befriend",
+    "compar",
+    "dessert",
+    "disaster",
+    "embrac",
+    "favorit",
+    "florida",
+    "hitler",
+    "million",
+    "month",
+    "next",
+    "open",
+    "putin",
+    "relief",
+    "reveal",
+    "rip",
+    "thanksgiv",
+    "trump",
+    "zelensky"
+   ],
+   "7faf9fed02"
   ]
  ],
- "last_draft_at": "2026-11-27T02:30:41.640797+00:00",
+ "last_draft_at": "2026-11-27T02:45:38.504676+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T02:15:35.062360+00:00",
  "run_log": [
-  "11-27 00:18:40 run start",
-  "11-27 00:18:50 listening 11 min",
-  "11-27 00:30:09 listening done",
-  "11-27 00:30:09 run end after 688 s",
   "11-27 00:30:35 run start",
   "11-27 00:31:21 listening 11 min",
   "11-27 00:42:15 listening done",
@@ -14491,12 +14610,15 @@
   "11-27 02:30:41 run start",
   "11-27 02:31:15 listening 11 min",
   "11-27 02:42:08 listening done",
-  "11-27 02:42:08 run end after 687 s"
+  "11-27 02:42:08 run end after 687 s",
+  "11-27 02:45:37 run start",
+  "11-27 02:47:04 listening 10 min",
+  "11-27 02:57:08 listening done",
+  "11-27 02:57:08 run end after 690 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Benjamin_Netanyahu_October_22%2C_2024_%283x4_cropped%29.jpg/1280px-Benjamin_Netanyahu_October_22%2C_2024_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/New_York_Stock_Exchange_building%2C_20231002_171816.jpg/1920px-New_York_Stock_Exchange_building%2C_20231002_171816.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Senate_President_Troy_Jackson.png/1280px-Senate_President_Troy_Jackson.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -14535,7 +14657,8 @@
    "https://upload.wikimedia.org/wikipedia/commons/a/a2/StrobeTalbott.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Balotaje_Argentina_2015_04.jpg/1920px-Balotaje_Argentina_2015_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Volodymyr_Zelensky_2019_presidential_inauguration_11.jpg/1280px-Volodymyr_Zelensky_2019_presidential_inauguration_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Beehive_%28New_Zealand_Parliament_Building%2C_Wellington_New_Zealand%29.jpg/1920px-Beehive_%28New_Zealand_Parliament_Building%2C_Wellington_New_Zealand%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Beehive_%28New_Zealand_Parliament_Building%2C_Wellington_New_Zealand%29.jpg/1920px-Beehive_%28New_Zealand_Parliament_Building%2C_Wellington_New_Zealand%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Downtown_Miami_wide_photo_Don_Ramey_Logan.jpg/1920px-Downtown_Miami_wide_photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -17779,26 +17902,6 @@
    "wellington parliament building"
   ],
   "checked": {
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/C-119_Military_transport_aircraft_in_Kinmen_National_Park.JPG/1920px-C-119_Military_transport_aircraft_in_Kinmen_National_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|b78caeb8": {
-    "s": 6,
-    "w": "military transport aircraft on display",
-    "p": "generic file photo of a military transport aircraft"
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kemerovo_27-04-2019-_square.jpg/1920px-Kemerovo_27-04-2019-_square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|b78caeb8": {
-    "s": 0,
-    "w": "Kemerovo square statue building",
-    "p": "shows a city square and statue, unrelated to a plane crash"
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Almas_missile_launch_and_impact.jpg/1920px-Almas_missile_launch_and_impact.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|a101ea1e": {
-    "s": 10,
-    "w": "missile test launch",
-    "p": ""
-   },
-   "https://live.staticflickr.com/65535/51613087322_c8beacae74_b.jpg|963d9a0e": {
-    "s": 0,
-    "w": "United States post office building",
-    "p": "Photo of a post office, completely unrelated to cybersecurity or hackers."
-   },
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/United_States_Post_Office%2C_115_W_Pine_Street%2C_Hattiesburg%2C_MS.jpg/1920px-United_States_Post_Office%2C_115_W_Pine_Street%2C_Hattiesburg%2C_MS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|963d9a0e": {
     "s": 2,
     "w": "US post office building",
@@ -20278,6 +20381,26 @@
     "s": 10,
     "w": "New Zealand parliament building",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/The_east_garden_of_the_White_House_in_Washington%2C_D.C._2.jpg/1920px-The_east_garden_of_the_White_House_in_Washington%2C_D.C._2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|07cad866": {
+    "s": 0,
+    "w": "White House garden",
+    "p": "Photo of the White House does not relate to Zelensky comparing Trump and Putin t"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/North_View_of_Miami_and_Miami_River_from_1st_St_20160709_1.jpg/1920px-North_View_of_Miami_and_Miami_River_from_1st_St_20160709_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|07cad866": {
+    "s": 0,
+    "w": "Miami canal and bridge",
+    "p": "Unrelated photo for a story about Zelensky, Trump, and Putin."
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Miami_Skyline-02.jpg/1920px-Miami_Skyline-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|07cad866": {
+    "s": 0,
+    "w": "Miami skyline",
+    "p": "Unrelated topic: Zelensky/Trump/Putin story"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Downtown_Miami_wide_photo_Don_Ramey_Logan.jpg/1920px-Downtown_Miami_wide_photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|07cad866": {
+    "s": 5,
+    "w": "Miami downtown skyline",
+    "p": "City skyline for politics story"
    }
   }
  },
@@ -20289,10 +20412,10 @@
   "2026-11-23": 20,
   "2026-11-24": 23,
   "2026-11-25": 29,
-  "2026-11-26": 26
+  "2026-11-26": 27
  },
- "last_auto_at": "2026-11-27T02:01:43.773035+00:00",
- "last_post_at": "2026-11-27T02:01:49.831417+00:00",
+ "last_auto_at": "2026-11-27T02:46:50.895261+00:00",
+ "last_post_at": "2026-11-27T02:46:55.958894+00:00",
  "reels_count": {
   "2026-11-20": 3,
   "2026-11-21": 3,
