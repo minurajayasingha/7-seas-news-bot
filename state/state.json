@@ -9476,11 +9476,97 @@
     "shares": 0
    },
    "stats_at": "2026-11-27T06:16:00.289310+00:00"
+  },
+  "346abff310": {
+   "id": "346abff310",
+   "headline": "Spain holds national election to choose new government",
+   "summary": "Spain is holding a national election to choose a new government in a snap vote. The election could unseat Prime Minister Pedro Sánchez, with issues like high rents driving the campaign.",
+   "label": "ELECTIONS",
+   "hook": "Could high housing costs and rents change the outcome of the Spanish election?",
+   "key_points": [
+    "A Valencia couple was kept apart by high rents.",
+    "Prime Minister Pedro Sánchez faces the possibility of being unseated.",
+    "Voters across Spain go to the polls on Sunday."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#SpainElection",
+    "#WorldNews",
+    "#Europe"
+   ],
+   "sources": [
+    "ABC News",
+    "BBC"
+   ],
+   "link": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+   "links": [
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/main-issues-driving-spains-national-election-matter-europe-138476510"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Voting_box_for_Senate_elections_in_Madrid.jpg/1920px-Voting_box_for_Senate_elections_in_Madrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "LauraHale / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "voting ballot box"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "Spain holds national election to choose new government",
+    "people": [],
+    "image_query": "Valencia cityscape",
+    "image_queries": [
+     "Madrid street",
+     "voting booth",
+     "Spanish flag",
+     "polling station"
+    ],
+    "image_style": "scene",
+    "location": "Valencia, Spain",
+    "nearby_city": "Madrid, Spain",
+    "event_query": "Spain national election",
+    "topic_photo": "ballot box",
+    "label": "ELECTIONS",
+    "action_subject": "voting ballot box",
+    "news_time": "2026-11-27T05:10:38+00:00"
+   },
+   "created_at": "2026-11-27T06:45:48.818191+00:00",
+   "news_time": "2026-11-27T05:10:38+00:00",
+   "news_latest": "2026-11-27T06:09:31+00:00",
+   "importance": 7,
+   "caption": "Spain holds national election to choose new government\n\nSpain is holding a national election to choose a new government in a snap vote. The election could unseat Prime Minister Pedro Sánchez, with issues like high rents driving the campaign.\n\n💬 Could high housing costs and rents change the outcome of the Spanish election?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#SpainElection #WorldNews #Europe #7SeasNews",
+   "photo_line": "📷 10/10 voting ballot box · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 1045,
+   "tg_file_id": "AgACAgUAAxkDAAIEFWsJJx7uKc5ty5_m-Sk9Gw5EIyKaAAIyE2sbiIVJVDI66cfaVrbCAQADAgADdwADPQQ",
+   "queued_at": "2026-11-27T06:45:50.681140+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-27T06:45:50.681169+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122112529023548584",
+   "posted_at": "2026-11-27T06:45:50.967335+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 27 · 1:45 AM New York · 12:15 PM Sri Lanka\n\n<b>Spain holds national election to choose new government</b>\n<i>ABC News, BBC</i>\n🟢 <b>Latest:</b> 11:39 AM Sri Lanka (36 min ago) · first reported 10:40 AM\n📷 10/10 voting ballot box · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112529023548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 752,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112529023548584_1586996426479431"
   }
  },
  "seen_links": [
-  "https://abcnews.com/International/wireStory/spain-approves-housing-measures-after-huge-protests-duration-138074427",
-  "https://www.independent.co.uk/news/world/europe/spain-housing-protests-madrid-barcelona-b3083749.html",
   "https://abcnews.com/International/wireStory/london-court-finds-2-iranian-men-guilty-spying-138075096",
   "https://www.independent.co.uk/news/uk/crime/iranian-spies-mostafa-sepahvand-farhad-javadi-manesh-b3083860.html",
   "https://news.sky.com/story/four-shot-in-washington-dc-within-walking-distance-of-white-house-13611509",
@@ -11478,7 +11564,9 @@
   "https://www.washingtonexaminer.com/news/campaigns/presidential/4816378/cenk-uygur-ro-khanna-president-2028/",
   "https://www.politico.com/news/2026/11/26/cenk-uygur-goes-all-in-on-ro-khanna-for-2028-01184321",
   "https://www.washingtonexaminer.com/policy/energy-and-environment/4816392/nearly-900k-customers-without-power-thanksgiving-evening/",
-  "https://www.nbcnews.com/nightly-news/video/monster-east-coast-storm-leaves-hundreds-of-thousands-without-power-274244677776"
+  "https://www.nbcnews.com/nightly-news/video/monster-east-coast-storm-leaves-hundreds-of-thousands-without-power-274244677776",
+  "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+  "https://abcnews.com/International/wireStory/main-issues-driving-spains-national-election-matter-europe-138476510"
  ],
  "recent_topics": [
   [
@@ -14144,19 +14232,32 @@
     "without"
    ],
    "bfc2408e94"
+  ],
+  [
+   "2026-11-27T06:45:50.680975+00:00",
+   [
+    "decid",
+    "driv",
+    "election",
+    "europ",
+    "general",
+    "hous",
+    "issu",
+    "main",
+    "matter",
+    "national",
+    "spain"
+   ],
+   "346abff310"
   ]
  ],
- "last_draft_at": "2026-11-27T06:30:41.230537+00:00",
+ "last_draft_at": "2026-11-27T06:45:33.236525+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T06:16:00.289310+00:00",
  "run_log": [
-  "11-27 04:30:40 run start",
-  "11-27 04:31:50 listening 10 min",
-  "11-27 04:42:18 listening done",
-  "11-27 04:42:18 run end after 698 s",
   "11-27 04:45:39 run start",
   "11-27 04:45:49 listening 11 min",
   "11-27 04:57:09 listening done",
@@ -14192,12 +14293,15 @@
   "11-27 06:30:40 run start",
   "11-27 06:30:50 listening 11 min",
   "11-27 06:42:09 listening done",
-  "11-27 06:42:09 run end after 689 s"
+  "11-27 06:42:09 run end after 689 s",
+  "11-27 06:45:32 run start",
+  "11-27 06:46:06 listening 11 min",
+  "11-27 06:56:59 listening done",
+  "11-27 06:56:59 run end after 686 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/New_York_Stock_Exchange_building%2C_20231002_171816.jpg/1920px-New_York_Stock_Exchange_building%2C_20231002_171816.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Senate_President_Troy_Jackson.png/1280px-Senate_President_Troy_Jackson.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Chris_Van_Hollen_at_DNC_0616_%2827993609564%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0616_%2827993609564%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/US_Capitol_west_side_at_dusk.JPG/1920px-US_Capitol_west_side_at_dusk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -14236,7 +14340,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Volodymyr_Zelensky_2019_presidential_inauguration_11.jpg/1280px-Volodymyr_Zelensky_2019_presidential_inauguration_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Beehive_%28New_Zealand_Parliament_Building%2C_Wellington_New_Zealand%29.jpg/1920px-Beehive_%28New_Zealand_Parliament_Building%2C_Wellington_New_Zealand%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Downtown_Miami_wide_photo_Don_Ramey_Logan.jpg/1920px-Downtown_Miami_wide_photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Workers_remove_downed_power_lines_along_Zimovia_Hwy.jpg/1920px-Workers_remove_downed_power_lines_along_Zimovia_Hwy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Workers_remove_downed_power_lines_along_Zimovia_Hwy.jpg/1920px-Workers_remove_downed_power_lines_along_Zimovia_Hwy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Voting_box_for_Senate_elections_in_Madrid.jpg/1920px-Voting_box_for_Senate_elections_in_Madrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -17466,7 +17571,6 @@
    }
   },
   "recent_ideas": [
-   "courtroom",
    "european union flags",
    "mother ukraine",
    "collapsed building rescue",
@@ -17477,14 +17581,10 @@
    "ballot box",
    "wellington parliament building",
    "downed power lines",
-   "downed power lines"
+   "downed power lines",
+   "voting ballot box"
   ],
   "checked": {
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Washington_dc_skyline.jpg/1920px-Washington_dc_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|963d9a0e": {
-    "s": 3,
-    "w": "Washington skyline",
-    "p": "calm city skyline for cybersecurity story"
-   },
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Downtown_Washington_DC_near_Treasury.jpg/1920px-Downtown_Washington_DC_near_Treasury.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|963d9a0e": {
     "s": 0,
     "w": "historic downtown buildings architecture",
@@ -19979,21 +20079,26 @@
     "s": 10,
     "w": "workers clearing downed power lines",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Voting_box_for_Senate_elections_in_Madrid.jpg/1920px-Voting_box_for_Senate_elections_in_Madrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|cb6a8955": {
+    "s": 10,
+    "w": "voting ballot box",
+    "p": ""
    }
   }
  },
  "comment_perm_told": true,
  "auto_count": {
-  "2026-11-20": 30,
   "2026-11-21": 17,
   "2026-11-22": 11,
   "2026-11-23": 20,
   "2026-11-24": 23,
   "2026-11-25": 29,
-  "2026-11-26": 28
+  "2026-11-26": 28,
+  "2026-11-27": 1
  },
- "last_auto_at": "2026-11-27T04:31:32.833412+00:00",
- "last_post_at": "2026-11-27T04:31:39.395917+00:00",
+ "last_auto_at": "2026-11-27T06:45:50.967335+00:00",
+ "last_post_at": "2026-11-27T06:45:55.924402+00:00",
  "reels_count": {
   "2026-11-20": 3,
   "2026-11-21": 3,
