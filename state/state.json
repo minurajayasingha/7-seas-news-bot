@@ -11576,48 +11576,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-24T08:36:55.536625+00:00",
-   [
-    "35",
-    "accus",
-    "canada",
-    "credibl",
-    "defenc",
-    "defens",
-    "fail",
-    "fighter",
-    "jet",
-    "partner",
-    "pentagon",
-    "rebuk",
-    "review",
-    "sharply",
-    "spend"
-   ],
-   "33748771cf"
-  ],
-  [
-   "2026-11-24T08:37:17.715992+00:00",
-   [
-    "camp",
-    "children",
-    "diplomatic",
-    "korea",
-    "link",
-    "north",
-    "relation",
-    "review",
-    "sanction",
-    "shut",
-    "sit",
-    "swiss",
-    "switzerland",
-    "war",
-    "youth"
-   ],
-   "197eb37be8"
-  ],
-  [
    "2026-11-24T09:51:41.387614+00:00",
    [
     "agre",
@@ -14234,17 +14192,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-27T08:16:16.746790+00:00",
+ "last_draft_at": "2026-11-27T08:30:44.900546+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T08:15:35.527058+00:00",
  "run_log": [
-  "11-27 06:03:40 run start",
-  "11-27 06:04:00 listening 11 min",
-  "11-27 06:15:20 listening done",
-  "11-27 06:15:20 run end after 700 s",
   "11-27 06:15:59 run start",
   "11-27 06:16:49 listening 11 min",
   "11-27 06:27:44 listening done",
@@ -14280,7 +14234,11 @@
   "11-27 08:15:35 run start",
   "11-27 08:16:26 listening 11 min",
   "11-27 08:27:19 listening done",
-  "11-27 08:27:19 run end after 703 s"
+  "11-27 08:27:19 run end after 703 s",
+  "11-27 08:30:44 run start",
+  "11-27 08:30:54 listening 11 min",
+  "11-27 08:42:13 listening done",
+  "11-27 08:42:13 run end after 689 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -21421,7 +21379,7 @@
    }
   },
   "2026-11-26": {
-   "status": "building",
+   "status": "built",
    "plan": {
     "parts": [
      {
@@ -21626,5 +21584,5 @@
   "roundup_preview:2026-11-16b",
   "roundup_real:2026-11-16b"
  ],
- "report_done": "2026-11-25"
+ "report_done": "2026-11-26"
 }
