@@ -10353,12 +10353,97 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122112884889548584_1656976219214490"
+  },
+  "91dcc95368": {
+   "id": "91dcc95368",
+   "headline": "Hamas says chief son survives Israeli airstrike in Gaza",
+   "summary": "Hamas official Basem Naim stated that Khalil al-Hayya survived a dawn airstrike in Gaza. According to the Palestinian group, four of his other sons were previously killed by Israeli forces.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Airstrike occurred at dawn in Gaza",
+    "Four other sons previously killed by forces"
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#Gaza",
+    "#WorldNews",
+    "#Conflict"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "The Independent"
+   ],
+   "link": "https://www.independent.co.uk/news/world/middle-east/hamas-israel-military-strike-khalil-al-hayya-b3093052.html",
+   "links": [
+    [
+     "The Independent",
+     "https://www.independent.co.uk/news/world/middle-east/hamas-israel-military-strike-khalil-al-hayya-b3093052.html"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/27/israel-kills-four-in-gaza-as-hamas-chief-al-hayyas-son-survives-strike?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "map",
+    "photos": [],
+    "location": "Gaza",
+    "lat": 31.5,
+    "lon": 34.45,
+    "country": "Palestine",
+    "state": ""
+   },
+   "img_post": {
+    "headline": "Hamas says chief son survives Israeli airstrike in Gaza",
+    "people": [],
+    "image_query": "Gaza city skyline",
+    "image_queries": [
+     "Gaza Strip street",
+     "destroyed buildings Gaza",
+     "Gaza emergency vehicles",
+     "Gaza neighborhood"
+    ],
+    "image_style": "incident",
+    "location": "Gaza",
+    "nearby_city": "Gaza City",
+    "event_query": "Gaza airstrike aftermath",
+    "topic_photo": "hospital corridor",
+    "label": "CONFLICT",
+    "action_subject": "damaged buildings",
+    "news_time": "2026-11-27T19:53:25+00:00"
+   },
+   "created_at": "2026-11-27T21:46:21.647545+00:00",
+   "news_time": "2026-11-27T19:53:25+00:00",
+   "news_latest": "2026-11-27T21:31:31+00:00",
+   "importance": 8,
+   "caption": "🚨 BREAKING: Hamas says chief son survives Israeli airstrike in Gaza\n\nHamas official Basem Naim stated that Khalil al-Hayya survived a dawn airstrike in Gaza. According to the Palestinian group, four of his other sons were previously killed by Israeli forces.\n\nWhat we know so far:\n• Airstrike occurred at dawn in Gaza\n• Four other sons previously killed by forces\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Gaza #WorldNews #Conflict #7SeasNews",
+   "photo_line": "📷 news map (no fitting photo)",
+   "status": "posted",
+   "tg_message_id": 1070,
+   "tg_file_id": "AgACAgUAAxkDAAIELmsJ-i-9Gut-WeHQwjjDAsusva5_AAKbEmsbcIdQVAKDhj8-RyhJAQADAgADdwADPQQ",
+   "queued_at": "2026-11-27T21:46:23.598412+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-27T21:46:23.598432+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122112892479548584",
+   "posted_at": "2026-11-27T21:46:23.868411+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 27 · 4:46 PM New York · 3:16 AM Sri Lanka\n\n<b>Hamas says chief son survives Israeli airstrike in Gaza</b>\n<i>Al Jazeera, The Independent</i>\n🟢 <b>Latest:</b> 3:01 AM Sri Lanka (14 min ago) · first reported 1:23 AM\n📷 news map (no fitting photo)\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112892479548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 779,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112892479548584_1195837949791414",
+   "fb_story_id": "2690582114711255"
   }
  },
  "seen_links": [
-  "https://www.independent.co.uk/news/world/americas/donald-trump-jr-kalshi-adviser-role-exit-b3084220.html",
-  "https://www.nytimes.com/2026/11/12/us/politics/kalshi-donald-trump-jr.html",
-  "https://www.npr.org/2026/11/12/g-s1-151187/holscher-kansas-masterson-governor-midterms",
   "https://www.nbcnews.com/politics/2026-election/kansas-governor-cindy-holscher-democrat-election-win-masterson-rcna603370",
   "https://www.nbcnews.com/politics/justice-department/doj-no-investigations-words-democrats-todd-blanche-says-rcna609073",
   "https://www.washingtonexaminer.com/news/justice/4802158/no-ongoing-investigations-into-democrats-oversight-threats-blanche-says/",
@@ -12355,7 +12440,10 @@
   "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
   "https://www.france24.com/en/video/20261127-spain-races-to-stop-oil-spill-after-ship-capsizes-off-ibiza",
   "https://www.france24.com/en/europe/20261127-ukraine-submits-black-sea-ceasefire-offer-awaits-russian-response",
-  "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss"
+  "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
+  "https://www.independent.co.uk/news/world/middle-east/hamas-israel-military-strike-khalil-al-hayya-b3093052.html",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
+  "https://www.aljazeera.com/news/2026/11/27/israel-kills-four-in-gaza-as-hamas-chief-al-hayyas-son-survives-strike?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -15412,19 +15500,37 @@
     "ukrain"
    ],
    "ca7308b64f"
+  ],
+  [
+   "2026-11-27T21:46:23.598283+00:00",
+   [
+    "al-hayya",
+    "assassination",
+    "attempt",
+    "chief",
+    "escap",
+    "four",
+    "gaza",
+    "hama",
+    "israel",
+    "israeli",
+    "kill",
+    "last",
+    "military",
+    "son",
+    "strik",
+    "surviv"
+   ],
+   "91dcc95368"
   ]
  ],
- "last_draft_at": "2026-11-27T21:30:37.642783+00:00",
+ "last_draft_at": "2026-11-27T21:45:57.041965+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T21:15:39.905770+00:00",
  "run_log": [
-  "11-27 19:15:38 run start",
-  "11-27 19:17:52 listening 9 min",
-  "11-27 19:27:05 listening done",
-  "11-27 19:27:05 run end after 686 s",
   "11-27 19:31:05 run start",
   "11-27 19:31:16 listening 11 min",
   "11-27 19:42:36 listening done",
@@ -15460,7 +15566,11 @@
   "11-27 21:30:37 run start",
   "11-27 21:30:56 listening 11 min",
   "11-27 21:42:14 listening done",
-  "11-27 21:42:14 run end after 697 s"
+  "11-27 21:42:14 run end after 697 s",
+  "11-27 21:45:56 run start",
+  "11-27 21:46:39 listening 11 min",
+  "11-27 21:57:31 listening done",
+  "11-27 21:57:31 run end after 695 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -18777,26 +18887,6 @@
    "cargo ship"
   ],
   "checked": {
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Ron_Johnson_portrait_117th_Congress_%28crop%29.jpg/1280px-Ron_Johnson_portrait_117th_Congress_%28crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Ron Johnson": {
-    "s": 10,
-    "w": "Ron Johnson portrait",
-    "p": ""
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg/1920px-Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|b51370e6": {
-    "s": 8,
-    "w": "judge gavel",
-    "p": ""
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Officers%27_Club_--_2022_--_3126.jpg/1920px-San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Officers%27_Club_--_2022_--_3126.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|7a0fdfd7": {
-    "s": 0,
-    "w": "rusted electrical boxes",
-    "p": "Photo shows rusted electrical boxes instead of law enforcement officers at work."
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Officers%27_Club_--_2022_--_3124.jpg/1920px-San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Officers%27_Club_--_2022_--_3124.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|7a0fdfd7": {
-    "s": 0,
-    "w": "ruined building by water",
-    "p": "photo shows a ruined building instead of law enforcement officers at work"
-   },
    "https://upload.wikimedia.org/wikipedia/commons/d/d1/FBI_Building_in_Washington_D.C._-_J._Edgar_Hoover_Federal_Bureau_of_Investigation_Building_%2854271901364%29.jpg|7a0fdfd7": {
     "s": 6,
     "w": "J. Edgar Hoover FBI Building",
@@ -21276,6 +21366,26 @@
     "s": 7,
     "w": "cargo ship on river",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Tune_it_safe%2C_EMS_2023%2C_Essen_%28P1170003%29.jpg/1920px-Tune_it_safe%2C_EMS_2023%2C_Essen_%28P1170003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|4bc38386": {
+    "s": 0,
+    "w": "police electric van on display",
+    "p": "car, food, a beach or holiday snap, an old / black-and-white / archive scan, a t"
+   },
+   "https://upload.wikimedia.org/wikipedia/commons/d/d5/Gaza_skyline.jpg|4bc38386": {
+    "s": 3,
+    "w": "sunset landscape in Gaza",
+    "p": "shows a landscape instead of airstrike damage"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Gaza_Street_bus_bombing3494.jpg/1920px-Gaza_Street_bus_bombing3494.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|4bc38386": {
+    "s": 0,
+    "w": "memorial plaque and wreath",
+    "p": "wrong country or wrong city"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Trafalgar_Square_Gaza_Protest_%2853983687805%29.jpg/1920px-Trafalgar_Square_Gaza_Protest_%2853983687805%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|4bc38386": {
+    "s": 0,
+    "w": "protest in London streets",
+    "p": "wrong location, shows a protest in London instead of Gaza"
    }
   }
  },
@@ -21287,10 +21397,10 @@
   "2026-11-24": 23,
   "2026-11-25": 29,
   "2026-11-26": 28,
-  "2026-11-27": 21
+  "2026-11-27": 22
  },
- "last_auto_at": "2026-11-27T21:17:11.283684+00:00",
- "last_post_at": "2026-11-27T21:17:17.383491+00:00",
+ "last_auto_at": "2026-11-27T21:46:23.868411+00:00",
+ "last_post_at": "2026-11-27T21:46:27.831195+00:00",
  "reels_count": {
   "2026-11-21": 3,
   "2026-11-22": 1,
