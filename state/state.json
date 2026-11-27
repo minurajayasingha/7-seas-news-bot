@@ -1,101 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "db655a33fb": {
-   "id": "db655a33fb",
-   "headline": "Trump plans to attack Newsom during Department of Justice speech",
-   "summary": "Donald Trump plans to use an official Department of Justice speech to target California Governor Gavin Newsom. The planned remarks follow changes to California death row commutations.",
-   "label": "US POLITICS",
-   "hook": "Should officials use Department of Justice resources for political purposes?",
-   "key_points": [
-    "Newsom responded to criticisms over death row changes.",
-    "Washington Post reported the planned Department of Justice speech.",
-    "Newsom is considered a potential 2028 presidential contender."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#Newsom",
-    "#Trump"
-   ],
-   "sources": [
-    "Newsweek",
-    "Washington Post"
-   ],
-   "link": "https://www.newsweek.com/gavin-newsom-trump-california-death-row-commutations-12759172",
-   "links": [
-    [
-     "Newsweek",
-     "https://www.newsweek.com/gavin-newsom-trump-california-death-row-commutations-12759172"
-    ],
-    [
-     "Washington Post",
-     "https://www.washingtonpost.com/politics/2026/11/23/trump-use-doj-speech-attack-newsom-potential-2028-contender/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Sacramento%2C-California---State-Capitol_%28cropped%29.jpg",
-      "credit": "Andre m / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 6,
-      "shows": "California State Capitol building"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Trump plans to attack Newsom during Department of Justice speech",
-    "people": [
-     "Donald Trump"
-    ],
-    "image_query": "US Department of Justice building",
-    "image_queries": [
-     "California State Capitol",
-     "Department of Justice seal",
-     "White House",
-     "US Capitol building"
-    ],
-    "image_style": "person",
-    "location": "California, United States",
-    "nearby_city": "Sacramento, California",
-    "event_query": "",
-    "topic_photo": "judge gavel",
-    "label": "US POLITICS",
-    "action_subject": "",
-    "news_time": "2026-11-23T19:12:49+00:00"
-   },
-   "created_at": "2026-11-23T21:10:48.742693+00:00",
-   "news_time": "2026-11-23T19:12:49+00:00",
-   "news_latest": "2026-11-23T20:51:48+00:00",
-   "importance": 6,
-   "caption": "Trump plans to attack Newsom during Department of Justice speech\n\nDonald Trump plans to use an official Department of Justice speech to target California Governor Gavin Newsom. The planned remarks follow changes to California death row commutations.\n\n💬 Should officials use Department of Justice resources for political purposes?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #Newsom #Trump #7SeasNews",
-   "photo_line": "📷 6/10 California State Capitol building",
-   "status": "posted",
-   "tg_message_id": 940,
-   "tg_file_id": "AgACAgUAAxkDAAIDrGsEq9qSbg8CWUwmKc0kUQ3OnZ9VAAK7EmsbSgcpVEami1em2112AQADAgADdwADPQQ",
-   "queued_at": "2026-11-23T21:10:50.842742+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-23T21:10:50.842767+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122110587237548584",
-   "posted_at": "2026-11-23T21:10:51.119480+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 23 · 4:10 PM New York · 2:40 AM Sri Lanka\n\n<b>Trump plans to attack Newsom during Department of Justice speech</b>\n<i>Newsweek, Washington Post</i>\n🟢 <b>Latest:</b> 2:21 AM Sri Lanka (19 min ago) · first reported 12:42 AM\n📷 6/10 California State Capitol building\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122110587237548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 647,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122110587237548584_1432173802317921",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-26T21:00:50.582522+00:00"
-  },
   "f1f7ae156b": {
    "id": "f1f7ae156b",
    "headline": "US adds Singaporean firm Megaspeed to trade blacklist",
@@ -15390,17 +15295,13 @@
    "6b38497d46"
   ]
  ],
- "last_draft_at": "2026-11-27T20:45:42.726287+00:00",
+ "last_draft_at": "2026-11-27T21:01:01.539762+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T20:16:11.838717+00:00",
  "run_log": [
-  "11-27 18:30:48 run start",
-  "11-27 18:31:34 listening 11 min",
-  "11-27 18:42:29 listening done",
-  "11-27 18:42:29 run end after 700 s",
   "11-27 18:45:36 run start",
   "11-27 18:45:45 listening 11 min",
   "11-27 18:57:04 listening done",
@@ -15436,7 +15337,11 @@
   "11-27 20:45:42 run start",
   "11-27 20:46:28 listening 11 min",
   "11-27 20:57:23 listening done",
-  "11-27 20:57:23 run end after 700 s"
+  "11-27 20:57:23 run end after 700 s",
+  "11-27 21:01:01 run start",
+  "11-27 21:01:20 listening 11 min",
+  "11-27 21:12:40 listening done",
+  "11-27 21:12:40 run end after 699 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
