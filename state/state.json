@@ -9665,11 +9665,96 @@
     "shares": 0
    },
    "stats_at": "2026-11-27T04:15:38.457741+00:00"
+  },
+  "bfc2408e94": {
+   "id": "bfc2408e94",
+   "headline": "East Coast storm leaves nearly 900000 without power on Thanksgiving",
+   "summary": "A major storm brings heavy rain, strong winds, and coastal flooding to the Eastern Seaboard. Poweroutage.us reports that approximately 900,000 customers in the United States lost power by Thanksgiving evening.",
+   "label": "ECONOMY",
+   "hook": "",
+   "key_points": [
+    "Pennsylvania, Maryland, Virginia, New Jersey, and Washington, D.C. faced the worst outages.",
+    "Outages also affected Missouri, Connecticut, New York, North Carolina, and Delaware."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#EastCoastStorm",
+    "#PowerOutage",
+    "#Weather"
+   ],
+   "sources": [
+    "NBC News",
+    "Washington Examiner"
+   ],
+   "link": "https://www.washingtonexaminer.com/policy/energy-and-environment/4816392/nearly-900k-customers-without-power-thanksgiving-evening/",
+   "links": [
+    [
+     "Washington Examiner",
+     "https://www.washingtonexaminer.com/policy/energy-and-environment/4816392/nearly-900k-customers-without-power-thanksgiving-evening/"
+    ],
+    [
+     "NBC News",
+     "https://www.nbcnews.com/nightly-news/video/monster-east-coast-storm-leaves-hundreds-of-thousands-without-power-274244677776"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Workers_remove_downed_power_lines_along_Zimovia_Hwy.jpg/1920px-Workers_remove_downed_power_lines_along_Zimovia_Hwy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Alaska DOT&PF / Wikimedia Commons (CC BY 2.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "workers clearing downed power lines"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "East Coast storm leaves nearly 900000 without power on Thanksgiving",
+    "people": [],
+    "image_query": "East Coast shoreline",
+    "image_queries": [
+     "storm clouds",
+     "coastal flooding",
+     "downed power lines",
+     "heavy rain street"
+    ],
+    "image_style": "incident",
+    "location": "Eastern Seaboard, United States",
+    "nearby_city": "Washington, D.C.",
+    "event_query": "East Coast storm power outage",
+    "topic_photo": "heavy rain",
+    "label": "ECONOMY",
+    "action_subject": "downed power lines",
+    "news_time": "2026-11-27T00:06:55+00:00"
+   },
+   "created_at": "2026-11-27T04:31:29.427205+00:00",
+   "news_time": "2026-11-27T00:06:55+00:00",
+   "news_latest": "2026-11-27T04:19:05+00:00",
+   "importance": 7,
+   "caption": "East Coast storm leaves nearly 900000 without power on Thanksgiving\n\nA major storm brings heavy rain, strong winds, and coastal flooding to the Eastern Seaboard. Poweroutage.us reports that approximately 900,000 customers in the United States lost power by Thanksgiving evening.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#EastCoastStorm #PowerOutage #Weather #7SeasNews",
+   "photo_line": "📷 10/10 workers clearing downed power lines · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 1043,
+   "tg_file_id": "AgACAgUAAxkDAAIEE2sJB6QHWUOOSxDC1CEmma3z9K2YAALSEmsbiIVJVOTYsAedAAFh3wEAAwIAA3cAAz0E",
+   "queued_at": "2026-11-27T04:31:32.504368+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-27T04:31:32.504411+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122112488739548584",
+   "posted_at": "2026-11-27T04:31:32.833412+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 26 · 11:31 PM New York · 10:01 AM Sri Lanka\n\n<b>East Coast storm leaves nearly 900000 without power on Thanksgiving</b>\n<i>NBC News, Washington Examiner</i>\n🟢 <b>Latest:</b> 9:49 AM Sri Lanka (12 min ago) · first reported 5:36 AM\n📷 10/10 workers clearing downed power lines · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112488739548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 751,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112488739548584_2973651993001992"
   }
  },
  "seen_links": [
-  "https://thehill.com/opinion/national-security/6213751-witkoff-kushner-outplayed-russia/",
-  "https://www.washingtonexaminer.com/news/senate/4800633/el-sayed-trump-medicare-for-all-political-trap/",
   "https://abcnews.com/International/wireStory/spain-approves-housing-measures-after-huge-protests-duration-138074427",
   "https://www.independent.co.uk/news/world/europe/spain-housing-protests-madrid-barcelona-b3083749.html",
   "https://abcnews.com/International/wireStory/london-court-finds-2-iranian-men-guilty-spying-138075096",
@@ -11667,31 +11752,11 @@
   "https://www.washingtonexaminer.com/news/white-house/4816347/trum-florida-disaster-relief-thanksgiving/",
   "https://www.washingtonexaminer.com/news/white-house/4816348/trump-favorite-thanksgiving-day-dessert/",
   "https://www.washingtonexaminer.com/news/campaigns/presidential/4816378/cenk-uygur-ro-khanna-president-2028/",
-  "https://www.politico.com/news/2026/11/26/cenk-uygur-goes-all-in-on-ro-khanna-for-2028-01184321"
+  "https://www.politico.com/news/2026/11/26/cenk-uygur-goes-all-in-on-ro-khanna-for-2028-01184321",
+  "https://www.washingtonexaminer.com/policy/energy-and-environment/4816392/nearly-900k-customers-without-power-thanksgiving-evening/",
+  "https://www.nbcnews.com/nightly-news/video/monster-east-coast-storm-leaves-hundreds-of-thousands-without-power-274244677776"
  ],
  "recent_topics": [
-  [
-   "2026-11-24T04:31:58.423396+00:00",
-   [
-    "air",
-    "aircraft",
-    "approach",
-    "defens",
-    "flew",
-    "island",
-    "korea",
-    "military",
-    "resident",
-    "russian",
-    "several",
-    "shelter",
-    "south",
-    "tak",
-    "tell",
-    "zon"
-   ],
-   "d03c9347c8"
-  ],
   [
    "2026-11-24T07:34:24.328186+00:00",
    [
@@ -14335,19 +14400,35 @@
     "uygur"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-27T04:31:32.504182+00:00",
+   [
+    "900000",
+    "coast",
+    "customer",
+    "east",
+    "even",
+    "hundr",
+    "leav",
+    "monster",
+    "nearly",
+    "power",
+    "storm",
+    "thanksgiv",
+    "thousand",
+    "without"
+   ],
+   "bfc2408e94"
   ]
  ],
- "last_draft_at": "2026-11-27T04:16:21.103222+00:00",
+ "last_draft_at": "2026-11-27T04:30:40.938375+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T04:15:38.457741+00:00",
  "run_log": [
-  "11-27 02:00:48 run start",
-  "11-27 02:02:04 listening 10 min",
-  "11-27 02:12:34 listening done",
-  "11-27 02:12:34 run end after 706 s",
   "11-27 02:15:34 run start",
   "11-27 02:16:23 listening 11 min",
   "11-27 02:27:17 listening done",
@@ -14383,12 +14464,15 @@
   "11-27 04:15:37 run start",
   "11-27 04:16:41 listening 10 min",
   "11-27 04:27:10 listening done",
-  "11-27 04:27:10 run end after 693 s"
+  "11-27 04:27:10 run end after 693 s",
+  "11-27 04:30:40 run start",
+  "11-27 04:31:50 listening 10 min",
+  "11-27 04:42:18 listening done",
+  "11-27 04:42:18 run end after 698 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/New_York_Stock_Exchange_building%2C_20231002_171816.jpg/1920px-New_York_Stock_Exchange_building%2C_20231002_171816.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Senate_President_Troy_Jackson.png/1280px-Senate_President_Troy_Jackson.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Chris_Van_Hollen_at_DNC_0616_%2827993609564%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0616_%2827993609564%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -14427,7 +14511,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Balotaje_Argentina_2015_04.jpg/1920px-Balotaje_Argentina_2015_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Volodymyr_Zelensky_2019_presidential_inauguration_11.jpg/1280px-Volodymyr_Zelensky_2019_presidential_inauguration_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Beehive_%28New_Zealand_Parliament_Building%2C_Wellington_New_Zealand%29.jpg/1920px-Beehive_%28New_Zealand_Parliament_Building%2C_Wellington_New_Zealand%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Downtown_Miami_wide_photo_Don_Ramey_Logan.jpg/1920px-Downtown_Miami_wide_photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Downtown_Miami_wide_photo_Don_Ramey_Logan.jpg/1920px-Downtown_Miami_wide_photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Workers_remove_downed_power_lines_along_Zimovia_Hwy.jpg/1920px-Workers_remove_downed_power_lines_along_Zimovia_Hwy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -17658,8 +17743,6 @@
   },
   "recent_ideas": [
    "courtroom",
-   "judge gavel",
-   "courtroom",
    "european union flags",
    "mother ukraine",
    "collapsed building rescue",
@@ -17668,19 +17751,11 @@
    "pentagon press briefing",
    "semiconductor microchips",
    "ballot box",
-   "wellington parliament building"
+   "wellington parliament building",
+   "downed power lines",
+   "downed power lines"
   ],
   "checked": {
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/United_States_Post_Office%2C_115_W_Pine_Street%2C_Hattiesburg%2C_MS.jpg/1920px-United_States_Post_Office%2C_115_W_Pine_Street%2C_Hattiesburg%2C_MS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|963d9a0e": {
-    "s": 2,
-    "w": "US post office building",
-    "p": "photo does not show cybersecurity or AI topic"
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/United_States_Post_Office_-_Madison_Square_Station_%2851709397306%29.jpg/1920px-United_States_Post_Office_-_Madison_Square_Station_%2851709397306%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|963d9a0e": {
-    "s": 0,
-    "w": "United States post office building",
-    "p": "photo shows a post office building instead of cybersecurity servers"
-   },
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Washington_dc_skyline.jpg/1920px-Washington_dc_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|963d9a0e": {
     "s": 3,
     "w": "Washington skyline",
@@ -20170,6 +20245,16 @@
     "s": 5,
     "w": "Miami downtown skyline",
     "p": "City skyline for politics story"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Downed_power_lines_in_Issaquah%2C_Washington_6.jpg/1920px-Downed_power_lines_in_Issaquah%2C_Washington_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|4b3c3571": {
+    "s": 8,
+    "w": "downed power lines",
+    "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Workers_remove_downed_power_lines_along_Zimovia_Hwy.jpg/1920px-Workers_remove_downed_power_lines_along_Zimovia_Hwy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|4b3c3571": {
+    "s": 10,
+    "w": "workers clearing downed power lines",
+    "p": ""
    }
   }
  },
@@ -20181,10 +20266,10 @@
   "2026-11-23": 20,
   "2026-11-24": 23,
   "2026-11-25": 29,
-  "2026-11-26": 27
+  "2026-11-26": 28
  },
- "last_auto_at": "2026-11-27T02:46:50.895261+00:00",
- "last_post_at": "2026-11-27T02:46:55.958894+00:00",
+ "last_auto_at": "2026-11-27T04:31:32.833412+00:00",
+ "last_post_at": "2026-11-27T04:31:39.395917+00:00",
  "reels_count": {
   "2026-11-20": 3,
   "2026-11-21": 3,
