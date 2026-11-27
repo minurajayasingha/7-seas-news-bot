@@ -14328,17 +14328,13 @@
    "bfc2408e94"
   ]
  ],
- "last_draft_at": "2026-11-27T04:45:40.036007+00:00",
+ "last_draft_at": "2026-11-27T05:00:52.640090+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T04:15:38.457741+00:00",
  "run_log": [
-  "11-27 02:30:41 run start",
-  "11-27 02:31:15 listening 11 min",
-  "11-27 02:42:08 listening done",
-  "11-27 02:42:08 run end after 687 s",
   "11-27 02:45:37 run start",
   "11-27 02:47:04 listening 10 min",
   "11-27 02:57:08 listening done",
@@ -14374,7 +14370,11 @@
   "11-27 04:45:39 run start",
   "11-27 04:45:49 listening 11 min",
   "11-27 04:57:09 listening done",
-  "11-27 04:57:09 run end after 689 s"
+  "11-27 04:57:09 run end after 689 s",
+  "11-27 05:00:47 run start",
+  "11-27 05:01:02 listening 11 min",
+  "11-27 05:12:20 listening done",
+  "11-27 05:12:20 run end after 693 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -20186,189 +20186,6 @@
   "2026-11-26": 3
  },
  "roundup": {
-  "2026-11-18": {
-   "status": "built",
-   "plan": {
-    "parts": [
-     {
-      "name": "WAR & CONFLICT",
-      "tag": "#warnews",
-      "stories": [
-       9,
-       12,
-       21,
-       4
-      ],
-      "hook": "Ukraine strikes Russia. Israel acts in Gaza.",
-      "title": "Ukraine hits Russian oil and bridge; Israel launches Gaza operation",
-      "question": "How will international bodies react to the ICJ ruling and the latest strikes?",
-      "hashtags": [
-       "#ukraine",
-       "#gaza"
-      ],
-      "tags": [
-       "ukraine war",
-       "gaza operation",
-       "russia strikes",
-       "icj ruling",
-       "israeli military",
-       "crimean bridge"
-      ],
-      "of": 3
-     },
-     {
-      "name": "US NEWS",
-      "tag": "#usnews",
-      "stories": [
-       2,
-       1,
-       6,
-       3,
-       18,
-       17,
-       13,
-       10,
-       11,
-       14,
-       20
-      ],
-      "hook": "Peltola wins Alaska race. Nvidia chief testifies.",
-      "title": "Peltola wins Alaska Senate race; Nvidia chief to testify to Congress",
-      "question": "What impact will the Alaska Senate race outcome have on the balance of power?",
-      "hashtags": [
-       "#uselections",
-       "#congress"
-      ],
-      "tags": [
-       "us politics",
-       "mary peltola",
-       "jensen huang",
-       "house democrats",
-       "senate race",
-       "us congress"
-      ],
-      "of": 3
-     },
-     {
-      "name": "WORLD NEWS",
-      "tag": "#worldnews",
-      "stories": [
-       8,
-       19,
-       5,
-       7,
-       15,
-       16,
-       22
-      ],
-      "hook": "Trump meets Xi and Putin. Anthropic sets IPO.",
-      "title": "Trump meets Xi and Putin in China; Anthropic sets IPO at $83",
-      "question": "What will come out of the diplomatic meetings in China?",
-      "hashtags": [
-       "#diplomacy",
-       "#economy"
-      ],
-      "tags": [
-       "trump china",
-       "anthropic ipo",
-       "uk inflation",
-       "european commission",
-       "russian agent",
-       "haiti president"
-      ],
-      "of": 3
-     }
-    ],
-    "dropped": [],
-    "ids": [
-     "6e01c3a20f",
-     "51cc2eeb8d",
-     "58e1b97b70",
-     "a9cefeb130",
-     "4b1632ddd3",
-     "d2dd1e13d0",
-     "8524335802",
-     "eba19e7327",
-     "c69a55dc25",
-     "36b2013679",
-     "2614b6fa78",
-     "9ff5b14614",
-     "cf2a61bf1f",
-     "845734dc49",
-     "fd4500fa37",
-     "70abe257ca",
-     "d2e7742756",
-     "f83bd675e0",
-     "b5cb2f5ca4",
-     "4837317b49",
-     "9726d16929",
-     "68abf1524d"
-    ]
-   },
-   "heads": [
-    "Former Nvidia chief Jensen Huang agrees to testify to Congress",
-    "Democrat Mary Peltola wins Alaska Senate race",
-    "House Democrats investigate Howard Lutnick and Nvidia policies",
-    "US faces potential sanctions concerns over upcoming ICJ genocide ruling",
-    "UK inflation rises to 3.6 percent in October",
-    "House Democrats meet to nominate Hakeem Jeffries for speaker",
-    "European Commission proposes additional financial support to Ukraine",
-    "Trump arrives in China for meeting with Putin and Xi",
-    "Ukraine strikes two Russian oil refineries and Crimean Bridge",
-    "Markwayne Mullin testifies before House Homeland Security Committee",
-    "Marco Rubio says recent US tech outages lack nefarious links",
-    "Israeli military launches ground operation across Gaza cease-fire line",
-    "Sen Ron Johnson calls Social Security a Ponzi scheme",
-    "Senators block presidential nominees for court and science agency",
-    "US indicts alleged Russian agent for spying on defense firm",
-    "Florida pastor convicted in plot to kill Haitian president",
-    "White House rejects Democratic demands for Trump circle oversight",
-    "US Defence Secretary Pete Hegseth visits Caracas and announces military cooperation",
-    "Anthropic sets initial public offering price at 83 dollars a share",
-    "Department of Justice issues subpoenas in Alaska election investigation",
-    "Thousands rally in Haiti following Salvadoran troop deployment",
-    "Elbridge Colby criticizes Ukraine long range strikes at NATO"
-   ],
-   "asked_at": "2026-11-19T05:01:48.479793+00:00",
-   "test": false,
-   "msg_id": 813,
-   "approved_by": "auto",
-   "approved_at": "2026-11-19T08:13:04.506049+00:00",
-   "dispatch_at": "2026-11-19T08:13:04.506055+00:00",
-   "dispatch_tries": 1,
-   "headlines": [
-    "Ukraine strikes two Russian oil refineries and Crimean Bridge",
-    "Israeli military launches ground operation across Gaza cease-fire line",
-    "Thousands rally in Haiti following Salvadoran troop deployment",
-    "US faces potential sanctions concerns over upcoming ICJ genocide ruling",
-    "Democrat Mary Peltola wins Alaska Senate race",
-    "Former Nvidia chief Jensen Huang agrees to testify to Congress",
-    "House Democrats meet to nominate Hakeem Jeffries for speaker",
-    "House Democrats investigate Howard Lutnick and Nvidia policies",
-    "US Defence Secretary Pete Hegseth visits Caracas and announces military cooperation",
-    "White House rejects Democratic demands for Trump circle oversight",
-    "Sen Ron Johnson calls Social Security a Ponzi scheme",
-    "Markwayne Mullin testifies before House Homeland Security Committee",
-    "Marco Rubio says recent US tech outages lack nefarious links",
-    "Senators block presidential nominees for court and science agency",
-    "Department of Justice issues subpoenas in Alaska election investigation",
-    "Trump arrives in China for meeting with Putin and Xi",
-    "Anthropic sets initial public offering price at 83 dollars a share",
-    "UK inflation rises to 3.6 percent in October",
-    "European Commission proposes additional financial support to Ukraine",
-    "US indicts alleged Russian agent for spying on defense firm",
-    "Florida pastor convicted in plot to kill Haitian president",
-    "Elbridge Colby criticizes Ukraine long range strikes at NATO"
-   ],
-   "done": {
-    "tt1": true,
-    "log1": true,
-    "tt2": true,
-    "log2": true,
-    "tt3": true,
-    "log3": true
-   }
-  },
   "2026-11-19": {
    "status": "built",
    "plan": {
@@ -21696,6 +21513,169 @@
     "tt3": true,
     "log3": true
    }
+  },
+  "2026-11-26": {
+   "status": "asked",
+   "plan": {
+    "parts": [
+     {
+      "name": "WAR & CONFLICT",
+      "tag": "#warnews",
+      "stories": [
+       6,
+       13,
+       12,
+       11,
+       19,
+       14
+      ],
+      "hook": "Russian troop losses rise. Iran drone strike in Kuwait.",
+      "title": "Russian losses reach 1.6m and drone attack kills two in Kuwait",
+      "question": "What led to the drone attack in Kuwait?",
+      "hashtags": [
+       "#conflict",
+       "#security"
+      ],
+      "tags": [
+       "russian losses",
+       "kuwait attack",
+       "drone incursions",
+       "congo ebola",
+       "north korea aid",
+       "military news"
+      ],
+      "of": 3
+     },
+     {
+      "name": "US NEWS",
+      "tag": "#usnews",
+      "stories": [
+       28,
+       15,
+       21,
+       20,
+       23,
+       5
+      ],
+      "hook": "Storm cuts power to 900k. Trump demands data inquiry.",
+      "title": "East Coast storm leaves 900k without power and Trump demands data inqu",
+      "question": "How will the economic data investigation proceed?",
+      "hashtags": [
+       "#usnews",
+       "#economy"
+      ],
+      "tags": [
+       "east coast storm",
+       "economic data",
+       "trump arizona",
+       "pete hegseth",
+       "strobe talbott",
+       "spacex shares"
+      ],
+      "of": 3
+     },
+     {
+      "name": "WORLD NEWS",
+      "tag": "#worldnews",
+      "stories": [
+       1,
+       2,
+       3,
+       4,
+       7,
+       8,
+       9,
+       10,
+       16,
+       17,
+       18,
+       22,
+       24,
+       25
+      ],
+      "hook": "Puerto Rico voids Luma. Kim builds more nukes.",
+      "title": "Puerto Rico voids Luma contract and Kim Jong Un vows more nukes",
+      "question": "",
+      "hashtags": [
+       "#worldnews",
+       "#global"
+      ],
+      "tags": [
+       "puerto rico",
+       "kim jong un",
+       "miami plane",
+       "eu budget",
+       "indonesia floods",
+       "uk migration"
+      ],
+      "of": 3
+     }
+    ],
+    "dropped": [],
+    "ids": [
+     "6cd000eb5d",
+     "c0ade1d381",
+     "664d271787",
+     "e021d0e4ec",
+     "eb6f642efd",
+     "e785d34655",
+     "a2e6fdd2be",
+     "d884ab18e2",
+     "8f76b29b16",
+     "ab6e2293f4",
+     "87be1a7dc5",
+     "cabe3a95b4",
+     "609da5d9e7",
+     "eecb98368d",
+     "c833a0de21",
+     "96ef845be4",
+     "440e659059",
+     "d7835cf83d",
+     "8aaa9aec30",
+     "b62f454837",
+     "459cd30b3b",
+     "f4e048f16e",
+     "f4a8b8da97",
+     "58f49e9a0e",
+     "6871f90662",
+     "585b336a14",
+     "7faf9fed02",
+     "bfc2408e94"
+    ]
+   },
+   "heads": [
+    "Puerto Rico Supreme Court cancels Luma Energy power contract",
+    "Kim Jong Un vows to build more nuclear weapons",
+    "FedEx cargo plane skids off runway at Miami airport",
+    "European Union leaders meet in Brussels to discuss budget",
+    "Elon Musk pledges two SpaceX shares for every US child",
+    "General Staff reports Russian military losses reach 1,645,899 troops",
+    "Flooding kills at least 13 miners in Indonesia",
+    "Explosion occurs at oil facility in Bangkok",
+    "UK net migration falls to 77000 in year to June",
+    "Kenyan court rules US-backed Ebola quarantine center violated constitution",
+    "Fighting in eastern Congo forces Ebola response workers to evacuate",
+    "Poland creates border no-fly zone following drone incursions",
+    "Iranian drone attack in Kuwait kills two Italian workers",
+    "Protesters gather in Iraqi Kurdistan over federal government control plans",
+    "Trump demands investigation into federal economic data revisions",
+    "Pablo Hernandez de Cos to replace Christine Lagarde at European Central Bank",
+    "Hong Kong residents mark anniversary of Wang Fuk Court fire",
+    "Man found guilty of attempted murder of 14 people on train",
+    "Ukraine intelligence says North Korea halts military aid to Russia",
+    "Pentagon denies Pete Hegseth considered using wartime law for Nvidia",
+    "Trump to visit Arizona semiconductor manufacturer and faces committee revelations",
+    "Eisenkot signs coalition deal with left-wing Democrats in Israel",
+    "Former US Deputy Secretary of State Strobe Talbott dies at 80",
+    "Argentina bars central bank from printing money for government",
+    "Zelensky tells BBC US is too focused on Middle East",
+    "Final New Zealand election results show ruling coalition needs minor party support",
+    "Zelensky compares Trump and Putin relationship to Hitler",
+    "East Coast storm leaves nearly 900000 without power on Thanksgiving"
+   ],
+   "asked_at": "2026-11-27T05:00:52.296984+00:00",
+   "test": false,
+   "msg_id": 1044
   }
  },
  "run_once_done": [
