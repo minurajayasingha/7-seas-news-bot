@@ -9657,11 +9657,95 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122112560847548584_1140676395499089"
+  },
+  "381d297116": {
+   "id": "381d297116",
+   "headline": "Estonia prepares to close all five road border crossings with Russia",
+   "summary": "Long queues formed at Estonia's border with Russia as the country prepares to close all five road crossings by December 1. Security concerns prompted the decision, which officials said threatens to separate families and disrupt local businesses.",
+   "label": "WORLD",
+   "hook": "Will closing these border crossings effectively address security concerns?",
+   "key_points": [
+    "Border closures are scheduled for December 1",
+    "Decision was prompted by security concerns"
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Estonia",
+    "#Russia",
+    "#WorldNews"
+   ],
+   "sources": [
+    "Al Jazeera",
+    "Euronews"
+   ],
+   "link": "https://www.euronews.com/video/2026/11/27/estonia-prepares-to-close-all-five-road-border-crossings-with-russia",
+   "links": [
+    [
+     "Euronews",
+     "https://www.euronews.com/video/2026/11/27/estonia-prepares-to-close-all-five-road-border-crossings-with-russia"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/27/estonia-closing-land-borders-with-russia-to-keep-out-spies?traffic_source=rss"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Columna_de_la_Victoria_de_la_Guerra_de_la_Independencia%2C_Tallinn%2C_Estonia%2C_2012-08-05%2C_DD_15.JPG/1920px-Columna_de_la_Victoria_de_la_Guerra_de_la_Independencia%2C_Tallinn%2C_Estonia%2C_2012-08-05%2C_DD_15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Diego Delso / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 5,
+      "shows": "Monument and church in Estonia"
+     }
+    ]
+   },
+   "img_post": {
+    "headline": "Estonia prepares to close all five road border crossings with Russia",
+    "people": [],
+    "image_query": "Estonia Russia border crossing",
+    "image_queries": [
+     "border checkpoint road",
+     "border security fence",
+     "customs checkpoint",
+     "highway border crossing"
+    ],
+    "image_style": "scene",
+    "location": "Estonia",
+    "nearby_city": "Tallinn, Estonia",
+    "event_query": "Estonia Russia border closure",
+    "topic_photo": "border checkpoint",
+    "label": "WORLD",
+    "action_subject": "border checkpoint queue",
+    "news_time": "2026-11-27T04:46:15+00:00"
+   },
+   "created_at": "2026-11-27T09:01:34.672125+00:00",
+   "news_time": "2026-11-27T04:46:15+00:00",
+   "news_latest": "2026-11-27T08:57:16+00:00",
+   "importance": 7,
+   "caption": "Estonia prepares to close all five road border crossings with Russia\n\nLong queues formed at Estonia's border with Russia as the country prepares to close all five road crossings by December 1. Security concerns prompted the decision, which officials said threatens to separate families and disrupt local businesses.\n\n💬 Will closing these border crossings effectively address security concerns?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Estonia #Russia #WorldNews #7SeasNews",
+   "photo_line": "📷 5/10 Monument and church in Estonia",
+   "status": "posted",
+   "tg_message_id": 1048,
+   "tg_file_id": "AgACAgUAAxkDAAIEGGsJRvGD0gPHoeNBBggcr5X62xTxAAKwE2sbiIVRVDJJY0nZ8ozeAQADAgADdwADPQQ",
+   "queued_at": "2026-11-27T09:01:37.352304+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-27T09:01:37.352339+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122112566835548584",
+   "posted_at": "2026-11-27T09:01:37.702317+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 27 · 4:01 AM New York · 2:31 PM Sri Lanka\n\n<b>Estonia prepares to close all five road border crossings with Russia</b>\n<i>Al Jazeera, Euronews</i>\n🟢 <b>Latest:</b> 2:27 PM Sri Lanka (4 min ago) · first reported 10:16 AM\n📷 5/10 Monument and church in Estonia\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112566835548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 754,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112566835548584_1816996939564570"
   }
  },
  "seen_links": [
-  "https://www.dw.com/en/china-s-xi-jinping-renews-calls-for-reunification-with-taiwan/a-79929738?maca=en-rss-en-world-4025-rdf",
-  "https://www.aljazeera.com/news/2026/11/12/xi-jinping-says-taiwans-complete-reunification-with-china-will-happen?traffic_source=rss",
   "https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss",
   "https://www.independent.co.uk/news/world/americas/crime/active-shooter-dc-white-house-b3083907.html",
   "https://www.newsweek.com/police-respond-to-active-shooting-in-washington-d-c-12704724",
@@ -11659,7 +11743,9 @@
   "https://www.newsweek.com/trump-pays-tribute-to-florida-police-detective-killed-on-thanksgiving-alan-smith-12772458",
   "https://www.upi.com/Top_News/US/2026/11/27/Palm-Beach-officer-death/1381795759570/",
   "https://abcnews.com/International/wireStory/north-korean-move-shut-swiss-diplomatic-office-138475957",
-  "https://www.nytimes.com/2026/11/27/world/asia/the-threat-to-a-sanctuary-for-children-of-north-korean-defectors.html"
+  "https://www.nytimes.com/2026/11/27/world/asia/the-threat-to-a-sanctuary-for-children-of-north-korean-defectors.html",
+  "https://www.euronews.com/video/2026/11/27/estonia-prepares-to-close-all-five-road-border-crossings-with-russia",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/27/estonia-closing-land-borders-with-russia-to-keep-out-spies?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -14296,19 +14382,33 @@
     "threat"
    ],
    "c53d433abc"
+  ],
+  [
+   "2026-11-27T09:01:37.352152+00:00",
+   [
+    "all",
+    "border",
+    "clos",
+    "cross",
+    "estonia",
+    "fiv",
+    "keep",
+    "land",
+    "prepar",
+    "road",
+    "russia",
+    "spy"
+   ],
+   "381d297116"
   ]
  ],
- "last_draft_at": "2026-11-27T08:45:35.130797+00:00",
+ "last_draft_at": "2026-11-27T09:00:49.827909+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T08:15:35.527058+00:00",
  "run_log": [
-  "11-27 06:30:40 run start",
-  "11-27 06:30:50 listening 11 min",
-  "11-27 06:42:09 listening done",
-  "11-27 06:42:09 run end after 689 s",
   "11-27 06:45:32 run start",
   "11-27 06:46:06 listening 11 min",
   "11-27 06:56:59 listening done",
@@ -14344,12 +14444,15 @@
   "11-27 08:45:34 run start",
   "11-27 08:46:32 listening 11 min",
   "11-27 08:57:00 listening done",
-  "11-27 08:57:00 run end after 685 s"
+  "11-27 08:57:00 run end after 685 s",
+  "11-27 09:00:49 run start",
+  "11-27 09:01:51 listening 10 min",
+  "11-27 09:12:21 listening done",
+  "11-27 09:12:21 run end after 692 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Chris_Van_Hollen_at_DNC_0616_%2827993609564%29.jpg/1280px-Chris_Van_Hollen_at_DNC_0616_%2827993609564%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/US_Capitol_west_side_at_dusk.JPG/1920px-US_Capitol_west_side_at_dusk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Ambulance%2C_Cairo.JPG/1920px-Ambulance%2C_Cairo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Knesset_front_side_-_2022.jpg/1920px-Knesset_front_side_-_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -14388,7 +14491,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Downtown_Miami_wide_photo_Don_Ramey_Logan.jpg/1920px-Downtown_Miami_wide_photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Workers_remove_downed_power_lines_along_Zimovia_Hwy.jpg/1920px-Workers_remove_downed_power_lines_along_Zimovia_Hwy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Voting_box_for_Senate_elections_in_Madrid.jpg/1920px-Voting_box_for_Senate_elections_in_Madrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/3/3e/North_Korea-Pyongyang-Buildings_and_passengers-01.jpg"
+   "https://upload.wikimedia.org/wikipedia/commons/3/3e/North_Korea-Pyongyang-Buildings_and_passengers-01.jpg",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Columna_de_la_Victoria_de_la_Guerra_de_la_Independencia%2C_Tallinn%2C_Estonia%2C_2012-08-05%2C_DD_15.JPG/1920px-Columna_de_la_Victoria_de_la_Guerra_de_la_Independencia%2C_Tallinn%2C_Estonia%2C_2012-08-05%2C_DD_15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -17618,7 +17722,6 @@
    }
   },
   "recent_ideas": [
-   "mother ukraine",
    "collapsed building rescue",
    "whitehall london",
    "marriner s. eccles federal reserve board building",
@@ -17629,14 +17732,10 @@
    "downed power lines",
    "downed power lines",
    "voting ballot box",
-   "pyongyang buildings"
+   "pyongyang buildings",
+   "estonia"
   ],
   "checked": {
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Tune_it_safe%2C_EMS_2023%2C_Essen_%28P1170003%29.jpg/1920px-Tune_it_safe%2C_EMS_2023%2C_Essen_%28P1170003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|7edb2060": {
-    "s": 0,
-    "w": "german police van",
-    "p": "wrong country, european police car for us story"
-   },
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Extrication_glass_saw_1.jpg/1920px-Extrication_glass_saw_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|7edb2060": {
     "s": 0,
     "w": "firefighter working on car",
@@ -20131,6 +20230,11 @@
     "s": 6,
     "w": "Pyongyang street and buildings",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Columna_de_la_Victoria_de_la_Guerra_de_la_Independencia%2C_Tallinn%2C_Estonia%2C_2012-08-05%2C_DD_15.JPG/1920px-Columna_de_la_Victoria_de_la_Guerra_de_la_Independencia%2C_Tallinn%2C_Estonia%2C_2012-08-05%2C_DD_15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|47306c4a": {
+    "s": 5,
+    "w": "Monument and church in Estonia",
+    "p": "Shows a city landmark rather than a border checkpoint queue"
    }
   }
  },
@@ -20142,10 +20246,10 @@
   "2026-11-24": 23,
   "2026-11-25": 29,
   "2026-11-26": 28,
-  "2026-11-27": 2
+  "2026-11-27": 3
  },
- "last_auto_at": "2026-11-27T08:46:16.667774+00:00",
- "last_post_at": "2026-11-27T08:46:22.458810+00:00",
+ "last_auto_at": "2026-11-27T09:01:37.702317+00:00",
+ "last_post_at": "2026-11-27T09:01:42.301868+00:00",
  "reels_count": {
   "2026-11-20": 3,
   "2026-11-21": 3,
