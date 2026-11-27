@@ -9962,11 +9962,98 @@
    "cleared": true,
    "fb_comment_id": "122112800049548584_1929003111810903",
    "fb_story_id": "2389304008496125"
+  },
+  "5a1335743e": {
+   "id": "5a1335743e",
+   "headline": "US military disables commercial vessel near Iran",
+   "summary": "U.S. forces disabled a commercial vessel in the Gulf of Oman after it attempted to bypass the naval blockade of Iranian ports. According to CENTCOM, the bulk carrier departed from Bandar Abbas and ignored multiple warnings.",
+   "label": "CONFLICT",
+   "hook": "",
+   "key_points": [
+    "Centcom released video footage of the U.S. strike.",
+    "The incident occurred on Thanksgiving Day.",
+    "The vessel departed from the port city of Bandar Abbas."
+   ],
+   "breaking": true,
+   "hashtags": [
+    "#USMilitary",
+    "#Iran",
+    "#MiddleEast"
+   ],
+   "sources": [
+    "Fox News",
+    "The Hill"
+   ],
+   "link": "https://www.foxnews.com/world/us-military-disables-tanker-ship-attempting-slip-through-iran-blockade-thanksgiving-day",
+   "links": [
+    [
+     "Fox News",
+     "https://www.foxnews.com/world/us-military-disables-tanker-ship-attempting-slip-through-iran-blockade-thanksgiving-day"
+    ],
+    [
+     "The Hill",
+     "https://thehill.com/policy/defense/6245428-us-naval-blockade-iran-ship-disabled/"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/%C4%B0ntrepid_aircraft_carrier.jpg/1920px-%C4%B0ntrepid_aircraft_carrier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Aviation poseidon / Wikimedia Commons (CC BY-SA 4.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 7,
+      "shows": "aircraft carrier moored at pier"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "US military disables commercial vessel near Iran",
+    "people": [],
+    "image_query": "Gulf of Oman waters",
+    "image_queries": [
+     "commercial cargo ship",
+     "naval vessel at sea",
+     "ocean waters aerial view",
+     "port of Bandar Abbas"
+    ],
+    "image_style": "incident",
+    "location": "Gulf of Oman",
+    "nearby_city": "Muscat, Oman",
+    "event_query": "Gulf of Oman military strike",
+    "topic_photo": "cargo ship",
+    "label": "CONFLICT",
+    "action_subject": "warship",
+    "news_time": "2026-11-27T17:39:02+00:00"
+   },
+   "created_at": "2026-11-27T19:01:09.470821+00:00",
+   "news_time": "2026-11-27T17:39:02+00:00",
+   "news_latest": "2026-11-27T18:48:07+00:00",
+   "importance": 8,
+   "caption": "🚨 BREAKING: US military disables commercial vessel near Iran\n\nU.S. forces disabled a commercial vessel in the Gulf of Oman after it attempted to bypass the naval blockade of Iranian ports. According to CENTCOM, the bulk carrier departed from Bandar Abbas and ignored multiple warnings.\n\nWhat we know so far:\n• Centcom released video footage of the U.S. strike.\n• The incident occurred on Thanksgiving Day.\n• The vessel departed from the port city of Bandar Abbas.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USMilitary #Iran #MiddleEast #7SeasNews",
+   "photo_line": "📷 7/10 aircraft carrier moored at pier · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 1064,
+   "tg_file_id": "AgACAgUAAxkDAAIEKGsJ03fysH5jPOjcq6YvF-PMY6j4AALBFmsbiIVRVKMQtX5VM2_5AQADAgADdwADPQQ",
+   "queued_at": "2026-11-27T19:01:11.411245+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-27T19:01:11.411288+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122112824073548584",
+   "posted_at": "2026-11-27T19:01:11.695526+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 27 · 2:01 PM New York · 12:31 AM Sri Lanka\n\n<b>US military disables commercial vessel near Iran</b>\n<i>Fox News, The Hill</i>\n🟢 <b>Latest:</b> 12:18 AM Sri Lanka (13 min ago) · first reported 11:09 PM\n📷 7/10 aircraft carrier moored at pier · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112824073548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 773,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112824073548584_1833862574180182",
+   "fb_story_id": "1515944750352819"
   }
  },
  "seen_links": [
-  "https://www.newsweek.com/fetterman-schumer-jeffries-which-democrats-could-face-dsa-primaries-12706073",
-  "https://www.washingtonexaminer.com/news/crime/4801795/peta-deletes-post-logan-circle-shooting-foie-gras-controversy/",
   "https://www.washingtonexaminer.com/news/crime/4801898/logan-circle-shooter-identity-what-to-know/",
   "https://thehill.com/homenews/state-watch/6217017-dc-logan-circle-shooting-suspect/",
   "https://thehill.com/homenews/senate/6217057-congress-jensen-huang-nvidia-national-security/",
@@ -11964,7 +12051,9 @@
   "https://www.cbsnews.com/news/sen-deb-fischer-husband-bruce-suicide/",
   "https://www.foxnews.com/politics/gop-senator-shares-tragic-update-about-husbands-death",
   "https://www.theguardian.com/uk-news/2026/nov/27/police-believe-criminals-carried-out-robberies-during-don-toliver-manchester-gig-unknown-substance",
-  "https://www.independent.co.uk/news/uk/home-news/don-toliver-coop-live-unknown-substance-b3092896.html"
+  "https://www.independent.co.uk/news/uk/home-news/don-toliver-coop-live-unknown-substance-b3092896.html",
+  "https://www.foxnews.com/world/us-military-disables-tanker-ship-attempting-slip-through-iran-blockade-thanksgiving-day",
+  "https://thehill.com/policy/defense/6245428-us-naval-blockade-iran-ship-disabled/"
  ],
  "recent_topics": [
   [
@@ -14979,19 +15068,34 @@
     "unknown"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-27T19:01:11.411114+00:00",
+   [
+    "attempt",
+    "blockad",
+    "disabl",
+    "iran",
+    "military",
+    "naval",
+    "run",
+    "ship",
+    "slip",
+    "tanker",
+    "thanksgiv",
+    "through",
+    "vessel"
+   ],
+   "5a1335743e"
   ]
  ],
- "last_draft_at": "2026-11-27T18:45:36.857733+00:00",
+ "last_draft_at": "2026-11-27T19:00:46.537895+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T18:15:43.877743+00:00",
  "run_log": [
-  "11-27 16:30:44 run start",
-  "11-27 16:30:54 listening 11 min",
-  "11-27 16:42:13 listening done",
-  "11-27 16:42:13 run end after 688 s",
   "11-27 16:45:34 run start",
   "11-27 16:45:45 listening 11 min",
   "11-27 16:57:03 listening done",
@@ -15027,12 +15131,15 @@
   "11-27 18:45:36 run start",
   "11-27 18:45:45 listening 11 min",
   "11-27 18:57:04 listening done",
-  "11-27 18:57:04 run end after 687 s"
+  "11-27 18:57:04 run end after 687 s",
+  "11-27 19:00:46 run start",
+  "11-27 19:01:30 listening 11 min",
+  "11-27 19:12:23 listening done",
+  "11-27 19:12:23 run end after 697 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Skyline_of_San_Juan%2C_Puerto_Rico_%282016%29.jpg/1920px-Skyline_of_San_Juan%2C_Puerto_Rico_%282016%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/6/6e/Kim_Jong-un_April_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://live.staticflickr.com/8302/29096850880_5118b7fc91_b.jpg",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Belgian_Presidency_of_the_Council_of_the_European_Union_-_EU2024BE_240610_Lessons_learned_of_the_Belgian_Presidency_Egmont_Palace_JNZT_0003_%2853783023355%29.jpg/1920px-Belgian_Presidency_of_the_Council_of_the_European_Union_-_EU2024BE_240610_Lessons_learned_of_the_Belgian_Presidency_Egmont_Palace_JNZT_0003_%2853783023355%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -15071,7 +15178,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Firefighters_fighting_fire_action.jpg/1920px-Firefighters_fighting_fire_action.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/%D0%A0%D0%B0%D1%84%D0%B8%D0%BD%D0%B5%D1%80%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0%D1%84%D1%82%D0%B5_%D0%91%D1%80%D0%BE%D0%B4_%28Oil_refinery_Brod%2C_Republika_Srpska%29.jpg/1920px-%D0%A0%D0%B0%D1%84%D0%B8%D0%BD%D0%B5%D1%80%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0%D1%84%D1%82%D0%B5_%D0%91%D1%80%D0%BE%D0%B4_%28Oil_refinery_Brod%2C_Republika_Srpska%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg/1280px-January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://upload.wikimedia.org/wikipedia/commons/0/0b/Deb_Fischer%2C_official_portrait%2C_115th_Congress_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   "https://upload.wikimedia.org/wikipedia/commons/0/0b/Deb_Fischer%2C_official_portrait%2C_115th_Congress_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/%C4%B0ntrepid_aircraft_carrier.jpg/1920px-%C4%B0ntrepid_aircraft_carrier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -18319,7 +18427,6 @@
   },
   "recent_ideas": [
    "downed power lines",
-   "downed power lines",
    "voting ballot box",
    "pyongyang buildings",
    "estonia",
@@ -18329,14 +18436,10 @@
    "courtroom",
    "court building",
    "firefighters fighting fire",
-   "oil refinery"
+   "oil refinery",
+   "aircraft carrier"
   ],
   "checked": {
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Volksrepublik_China_Flagge-20101231-RM-132121.jpg/1920px-Volksrepublik_China_Flagge-20101231-RM-132121.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|68859bb7": {
-    "s": 0,
-    "w": "Chinese flag",
-    "p": "shows flag instead of leaders meeting"
-   },
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Skyline_of_China-ASEAN_Business_Center_in_Qingxiu_District.jpg/1920px-Skyline_of_China-ASEAN_Business_Center_in_Qingxiu_District.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|68859bb7": {
     "s": 5,
     "w": "China skyline",
@@ -20831,6 +20934,11 @@
     "s": 10,
     "w": "Senator Deb Fischer",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/%C4%B0ntrepid_aircraft_carrier.jpg/1920px-%C4%B0ntrepid_aircraft_carrier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|41fec45b": {
+    "s": 7,
+    "w": "aircraft carrier moored at pier",
+    "p": ""
    }
   }
  },
@@ -20842,10 +20950,10 @@
   "2026-11-24": 23,
   "2026-11-25": 29,
   "2026-11-26": 28,
-  "2026-11-27": 15
+  "2026-11-27": 16
  },
- "last_auto_at": "2026-11-27T18:31:12.484826+00:00",
- "last_post_at": "2026-11-27T18:31:17.226670+00:00",
+ "last_auto_at": "2026-11-27T19:01:11.695526+00:00",
+ "last_post_at": "2026-11-27T19:01:16.542467+00:00",
  "reels_count": {
   "2026-11-21": 3,
   "2026-11-22": 1,
