@@ -11598,26 +11598,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-25T10:47:10.251546+00:00",
-   [
-    "another",
-    "cling",
-    "eisenkot",
-    "iran",
-    "israel",
-    "netanyahu",
-    "oust",
-    "power",
-    "push",
-    "sharpen",
-    "strik",
-    "tak",
-    "war",
-    "warn"
-   ],
-   "ec1374253b"
-  ],
-  [
    "2026-11-25T11:16:46.586068+00:00",
    [
     "chen",
@@ -14365,17 +14345,13 @@
    "8feb438bba"
   ]
  ],
- "last_draft_at": "2026-11-28T10:30:41.753148+00:00",
+ "last_draft_at": "2026-11-28T10:46:15.772081+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-28T10:15:34.909817+00:00",
  "run_log": [
-  "11-28 08:15:33 run start",
-  "11-28 08:16:35 listening 10 min",
-  "11-28 08:27:04 listening done",
-  "11-28 08:27:04 run end after 690 s",
   "11-28 08:30:45 run start",
   "11-28 08:30:54 listening 11 min",
   "11-28 08:42:14 listening done",
@@ -14411,7 +14387,11 @@
   "11-28 10:30:41 run start",
   "11-28 10:31:01 listening 11 min",
   "11-28 10:42:19 listening done",
-  "11-28 10:42:19 run end after 698 s"
+  "11-28 10:42:19 run end after 698 s",
+  "11-28 10:46:15 run start",
+  "11-28 10:46:16 listening 11 min",
+  "11-28 10:58:02 listening done",
+  "11-28 10:58:02 run end after 706 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
