@@ -14711,17 +14711,13 @@
    "8feb438bba"
   ]
  ],
- "last_draft_at": "2026-11-28T07:45:30.252756+00:00",
+ "last_draft_at": "2026-11-28T08:00:41.179854+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-28T07:15:39.093975+00:00",
  "run_log": [
-  "11-28 05:35:55 run start",
-  "11-28 05:36:15 listening 11 min",
-  "11-28 05:47:34 listening done",
-  "11-28 05:47:34 run end after 698 s",
   "11-28 05:48:04 run start",
   "11-28 05:48:13 listening 11 min",
   "11-28 05:59:33 listening done",
@@ -14757,7 +14753,11 @@
   "11-28 07:45:29 run start",
   "11-28 07:45:39 listening 11 min",
   "11-28 07:56:58 listening done",
-  "11-28 07:56:58 run end after 688 s"
+  "11-28 07:56:58 run end after 688 s",
+  "11-28 08:00:40 run start",
+  "11-28 08:00:50 listening 11 min",
+  "11-28 08:12:11 listening done",
+  "11-28 08:12:11 run end after 690 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -21912,7 +21912,7 @@
    }
   },
   "2026-11-27": {
-   "status": "asked",
+   "status": "building",
    "plan": {
     "parts": [
      {
@@ -22066,7 +22066,36 @@
    ],
    "asked_at": "2026-11-28T05:00:01.942058+00:00",
    "test": false,
-   "msg_id": 1073
+   "msg_id": 1073,
+   "approved_by": "auto",
+   "approved_at": "2026-11-28T08:00:40.704154+00:00",
+   "dispatch_at": "2026-11-28T08:00:40.704159+00:00",
+   "dispatch_tries": 1,
+   "headlines": [
+    "Fighter jets scramble after drones enter Latvian and Estonian airspace",
+    "Ukraine stops electricity exports and announces Hell-3 operation in Donetsk",
+    "US military disables commercial vessel near Iran",
+    "Ukraine submits Black Sea ceasefire offer to international allies",
+    "New study warns of Russian hybrid attacks across Europe",
+    "Airstrike in southwestern Yemen kills eleven people",
+    "Hamas says chief son survives Israeli airstrike in Gaza",
+    "Hackers breach US Air Force cloud computing platform",
+    "Office announces death of Senator Deb Fischer husband Bruce",
+    "Trump officials schedule special meeting to speed redevelopment projects",
+    "Mexico files formal complaint to US over DEA tip line",
+    "Canadian parliament receives petition to expel US ambassador Pete Hoekstra",
+    "Spain holds snap elections as far right approaches government",
+    "Spain holds national election to choose new government",
+    "Estonia prepares to close all five road border crossings with Russia",
+    "Canada Supreme Court upholds Quebec religious symbols ban",
+    "Kenyan cult leader Paul Mackenzie convicted over 123 deaths",
+    "Taiwan votes in local elections for mayors and leaders",
+    "Trump supports Iraqi prime minister oil and weapons control",
+    "Tanker carrying diesel capsizes in Mediterranean waters off Ibiza",
+    "Norse Atlantic Airways files for bankruptcy and cancels flights",
+    "France and Germany push for EU budget deal",
+    "Erin Patterson files last ditch appeal in High Court"
+   ]
   }
  },
  "run_once_done": [
