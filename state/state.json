@@ -9687,11 +9687,96 @@
    "extra_msgs": [],
    "cleared": true,
    "fb_comment_id": "122113174821548584_2387380095330942"
+  },
+  "7f3a66d555": {
+   "id": "7f3a66d555",
+   "headline": "International tribunal rejects Argentina bid to stop Falkland Islands oil drilling",
+   "summary": "An international tribunal has rejected an attempt by Argentina to halt oil and gas drilling off the Falkland Islands. Buenos Aires sought to block the Sea Lion project as part of its territorial claim over the islands.",
+   "label": "WORLD",
+   "hook": "Should international tribunals have jurisdiction over disputed territories like the Falkland Islands?",
+   "key_points": [
+    "A joint venture between UK-Israeli companies plans to explore for oil.",
+    "The International Tribunal for the Law of the Sea issued the ruling."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#FalklandIslands",
+    "#Argentina",
+    "#WorldNews"
+   ],
+   "sources": [
+    "BBC",
+    "The Guardian"
+   ],
+   "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+   "links": [
+    [
+     "BBC",
+     "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/uk-news/2026/nov/28/argentina-oil-drilling-falkland-islands-international-tribunal"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Off_Shore_Drilling_Rig%2C_Santa_Barbara%2C_CA%2C_6_December%2C_2011.JPG/1920px-Off_Shore_Drilling_Rig%2C_Santa_Barbara%2C_CA%2C_6_December%2C_2011.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "TheConduqtor / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 10,
+      "shows": "offshore oil drilling rig"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "International tribunal rejects Argentina bid to stop Falkland Islands oil drilling",
+    "people": [],
+    "image_query": "Falkland Islands coast",
+    "image_queries": [
+     "ocean oil rig",
+     "offshore drilling platform",
+     "Port Stanley Falkland Islands",
+     "cargo ship at sea"
+    ],
+    "image_style": "scene",
+    "location": "Falkland Islands",
+    "nearby_city": "Stanley, Falkland Islands",
+    "event_query": "Sea Lion oil project drilling",
+    "topic_photo": "oil rig",
+    "label": "WORLD",
+    "action_subject": "offshore oil drilling rig",
+    "news_time": "2026-11-28T12:11:02+00:00"
+   },
+   "created_at": "2026-11-28T12:31:30.845343+00:00",
+   "news_time": "2026-11-28T12:11:02+00:00",
+   "news_latest": "2026-11-28T12:15:45+00:00",
+   "importance": 7,
+   "caption": "International tribunal rejects Argentina bid to stop Falkland Islands oil drilling\n\nAn international tribunal has rejected an attempt by Argentina to halt oil and gas drilling off the Falkland Islands. Buenos Aires sought to block the Sea Lion project as part of its territorial claim over the islands.\n\n💬 Should international tribunals have jurisdiction over disputed territories like the Falkland Islands?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#FalklandIslands #Argentina #WorldNews #7SeasNews",
+   "photo_line": "📷 10/10 offshore oil drilling rig · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 1078,
+   "tg_file_id": "AgACAgUAAxkDAAIENmsKyaWiG-IhINzpnqEEG5c5QwSJAALZFWsbcIdQVIamtOwGdL_DAQADAgADdwADPQQ",
+   "queued_at": "2026-11-28T12:31:33.658501+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-28T12:31:33.658523+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122113179075548584",
+   "posted_at": "2026-11-28T12:31:34.028615+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 28 · 7:31 AM New York · 6:01 PM Sri Lanka\n\n<b>International tribunal rejects Argentina bid to stop Falkland Islands oil drilling</b>\n<i>BBC, The Guardian</i>\n🟢 <b>Latest:</b> 5:45 PM Sri Lanka (15 min ago) · first reported 5:41 PM\n📷 10/10 offshore oil drilling rig · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122113179075548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 786,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122113179075548584_3117377401944847"
   }
  },
  "seen_links": [
-  "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate?traffic_source=rss",
-  "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
   "https://www.independent.co.uk/news/world/americas/nvidia-chinese-huawei-donald-trump-intel-b3084271.html",
   "https://www.independent.co.uk/news/world/africa/africa-miss-universe-trump-travel-ban-b3084345.html",
   "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
@@ -11689,7 +11774,9 @@
   "https://www.newsweek.com/canada-change-border-entry-rules-americans-12775451",
   "https://www.nytimes.com/2026/11/28/world/canada/us-border-haitian-families-third-safe-country.html",
   "https://www.theguardian.com/us-news/2026/nov/28/oligarchs-trump-allies-congress-scrutiny",
-  "https://www.washingtonexaminer.com/news/house/4815560/who-investigate-trump-next-congress-fight-back/"
+  "https://www.washingtonexaminer.com/news/house/4815560/who-investigate-trump-next-congress-fight-back/",
+  "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+  "https://www.theguardian.com/uk-news/2026/nov/28/argentina-oil-drilling-falkland-islands-international-tribunal"
  ],
  "recent_topics": [
   [
@@ -14407,19 +14494,32 @@
     "trump"
    ],
    "f111a86a58"
+  ],
+  [
+   "2026-11-28T12:31:33.658345+00:00",
+   [
+    "argentina",
+    "bid",
+    "block",
+    "drill",
+    "fail",
+    "falkland",
+    "island",
+    "oil",
+    "reject",
+    "stop",
+    "uk-l"
+   ],
+   "7f3a66d555"
   ]
  ],
- "last_draft_at": "2026-11-28T12:16:24.139228+00:00",
+ "last_draft_at": "2026-11-28T12:31:24.572968+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-28T12:15:37.550681+00:00",
  "run_log": [
-  "11-28 10:00:42 run start",
-  "11-28 10:00:51 listening 11 min",
-  "11-28 10:12:10 listening done",
-  "11-28 10:12:10 run end after 688 s",
   "11-28 10:15:34 run start",
   "11-28 10:17:03 listening 10 min",
   "11-28 10:27:06 listening done",
@@ -14455,12 +14555,15 @@
   "11-28 12:15:37 run start",
   "11-28 12:17:21 listening 10 min",
   "11-28 12:27:25 listening done",
-  "11-28 12:27:25 run end after 708 s"
+  "11-28 12:27:25 run end after 708 s",
+  "11-28 12:31:24 run start",
+  "11-28 12:31:47 listening 11 min",
+  "11-28 12:43:07 listening done",
+  "11-28 12:43:07 run end after 703 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/AC_SO_Karlspreisverleihung_2026_14._Mai_Dom_Christine_Lagarde_und_Michael_Ziemons_II.jpg/1280px-AC_SO_Karlspreisverleihung_2026_14._Mai_Dom_Christine_Lagarde_und_Michael_Ziemons_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/7/7b/Hong_Kong_Skyline_%28108827031%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Kyiv_skyline_%2815688086793%29.jpg/1920px-Kyiv_skyline_%2815688086793%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -14499,7 +14602,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/PNG_2012_Elections_%2810713747036%29.jpg/1920px-PNG_2012_Elections_%2810713747036%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/3/31/Jess_Wilson_0026_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Rainbow_Bridge_Canadian_Border_Crossing_%2837438587216%29.jpg/1920px-Rainbow_Bridge_Canadian_Border_Crossing_%2837438587216%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Voting_booth_at_the_Madison_Parish_Courthouse.jpg/1920px-Voting_booth_at_the_Madison_Parish_Courthouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Voting_booth_at_the_Madison_Parish_Courthouse.jpg/1920px-Voting_booth_at_the_Madison_Parish_Courthouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Off_Shore_Drilling_Rig%2C_Santa_Barbara%2C_CA%2C_6_December%2C_2011.JPG/1920px-Off_Shore_Drilling_Rig%2C_Santa_Barbara%2C_CA%2C_6_December%2C_2011.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -17766,7 +17870,6 @@
    }
   },
   "recent_ideas": [
-   "firefighters fighting fire",
    "oil refinery",
    "aircraft carrier",
    "mexico city, mexico",
@@ -17777,14 +17880,10 @@
    "ballot box",
    "voting booth",
    "canadian border crossing",
-   "voting booth, united states"
+   "voting booth, united states",
+   "offshore oil drilling rig"
   ],
   "checked": {
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Mitsubishi_L200_in_Bruneian_military_police_service.jpg/1920px-Mitsubishi_L200_in_Bruneian_military_police_service.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|f0ed2c30": {
-    "s": 0,
-    "w": "military police pickup truck",
-    "p": "Wrong country: photo shows a Malaysian military police vehicle (Polis Tentera), "
-   },
    "https://upload.wikimedia.org/wikipedia/commons/e/e3/Downtown_Port_au_Prince_after_earthquake.jpg|f0ed2c30": {
     "s": 0,
     "w": "earthquake damage in Port-au-Prince",
@@ -20279,6 +20378,11 @@
     "s": 6,
     "w": "voting booth, US",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Off_Shore_Drilling_Rig%2C_Santa_Barbara%2C_CA%2C_6_December%2C_2011.JPG/1920px-Off_Shore_Drilling_Rig%2C_Santa_Barbara%2C_CA%2C_6_December%2C_2011.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|7db14a46": {
+    "s": 10,
+    "w": "offshore oil drilling rig",
+    "p": ""
    }
   }
  },
@@ -20290,10 +20394,10 @@
   "2026-11-25": 29,
   "2026-11-26": 28,
   "2026-11-27": 24,
-  "2026-11-28": 3
+  "2026-11-28": 4
  },
- "last_auto_at": "2026-11-28T12:17:08.132179+00:00",
- "last_post_at": "2026-11-28T12:17:13.293733+00:00",
+ "last_auto_at": "2026-11-28T12:31:34.028615+00:00",
+ "last_post_at": "2026-11-28T12:31:38.731692+00:00",
  "reels_count": {
   "2026-11-22": 1,
   "2026-11-23": 1,
