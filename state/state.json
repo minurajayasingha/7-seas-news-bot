@@ -1,100 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "d03c9347c8": {
-   "id": "d03c9347c8",
-   "headline": "South Korea issues shelter order after Russian aircraft approach",
-   "summary": "South Korea ordered residents of Ulleungdo island to take shelter after several Russian military aircraft approached its air defense identification zone. The defense ministry announced plans to summon the Russian defense attaché to lodge a strong protest.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "Aircraft entered the air defence identification zone over Ulleungdo.",
-    "The military issued a pre-emptive alert anticipating a violation.",
-    "Russian planes flew over waters between the Korean Peninsula and Japan."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#SouthKorea",
-    "#Russia",
-    "#WorldNews"
-   ],
-   "sources": [
-    "ABC News",
-    "The Guardian"
-   ],
-   "link": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach",
-   "links": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach"
-    ],
-    [
-     "ABC News",
-     "https://abcnews.com/International/wireStory/south-korea-russian-aircraft-flew-air-defense-zone-138393128"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/20181208_Blue_Impulse_Kawasaki_T-4_landing_Naha_Air_Show_2018-2.jpg/1920px-20181208_Blue_Impulse_Kawasaki_T-4_landing_Naha_Air_Show_2018-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Balon Greyjoy / Wikimedia Commons (CC0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 8,
-      "shows": "military training aircraft"
-     }
-    ],
-    "file_photo": true
-   },
-   "img_post": {
-    "headline": "South Korea issues shelter order after Russian aircraft approach",
-    "people": [],
-    "image_query": "Ulleungdo island",
-    "image_queries": [
-     "South Korea coast",
-     "defense ministry building",
-     "radar screen",
-     "island coastline"
-    ],
-    "image_style": "scene",
-    "location": "Ulleungdo, South Korea",
-    "nearby_city": "Seoul, South Korea",
-    "event_query": "South Korea military aircraft approach",
-    "topic_photo": "radar screen",
-    "label": "WORLD",
-    "action_subject": "military aircraft",
-    "news_time": "2026-11-24T01:04:11+00:00"
-   },
-   "created_at": "2026-11-24T04:31:55.974597+00:00",
-   "news_time": "2026-11-24T01:04:11+00:00",
-   "news_latest": "2026-11-24T04:14:43+00:00",
-   "importance": 7,
-   "caption": "South Korea issues shelter order after Russian aircraft approach\n\nSouth Korea ordered residents of Ulleungdo island to take shelter after several Russian military aircraft approached its air defense identification zone. The defense ministry announced plans to summon the Russian defense attaché to lodge a strong protest.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#SouthKorea #Russia #WorldNews #7SeasNews",
-   "photo_line": "📷 8/10 military training aircraft · FILE PHOTO",
-   "status": "posted",
-   "tg_message_id": 946,
-   "tg_file_id": "AgACAgUAAxkDAAIDsmsFEz4REFxfkYsc8m8opwnDYz1nAAI5E2sbSgcpVHLY8JvNXZ9AAQADAgADdwADPQQ",
-   "queued_at": "2026-11-24T04:31:58.423560+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-24T04:31:58.423603+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122110732959548584",
-   "posted_at": "2026-11-24T04:31:58.764305+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 23 · 11:32 PM New York · 10:02 AM Sri Lanka\n\n<b>South Korea issues shelter order after Russian aircraft approach</b>\n<i>ABC News, The Guardian</i>\n🟢 <b>Latest:</b> 9:44 AM Sri Lanka (17 min ago) · first reported 6:34 AM\n📷 8/10 military training aircraft · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122110732959548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 653,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122110732959548584_1167846096188236",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-27T04:15:38.457741+00:00"
-  },
   "ce67c4c0f3": {
    "id": "ce67c4c0f3",
    "headline": "Chinese official sentenced to death for espionage",
@@ -15070,17 +14976,13 @@
    "8feb438bba"
   ]
  ],
- "last_draft_at": "2026-11-28T04:16:11.329315+00:00",
+ "last_draft_at": "2026-11-28T04:30:39.172129+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-28T04:15:37.816647+00:00",
  "run_log": [
-  "11-28 02:00:43 run start",
-  "11-28 02:00:52 listening 11 min",
-  "11-28 02:12:11 listening done",
-  "11-28 02:12:11 run end after 688 s",
   "11-28 02:15:34 run start",
   "11-28 02:16:26 listening 11 min",
   "11-28 02:27:20 listening done",
@@ -15116,7 +15018,11 @@
   "11-28 04:15:37 run start",
   "11-28 04:16:43 listening 10 min",
   "11-28 04:27:13 listening done",
-  "11-28 04:27:13 run end after 695 s"
+  "11-28 04:27:13 run end after 695 s",
+  "11-28 04:30:38 run start",
+  "11-28 04:30:48 listening 11 min",
+  "11-28 04:42:07 listening done",
+  "11-28 04:42:07 run end after 688 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
