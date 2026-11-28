@@ -11690,32 +11690,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-25T11:46:33.016572+00:00",
-   [
-    "750",
-    "arrest",
-    "child",
-    "detain",
-    "dhs",
-    "father",
-    "ice",
-    "implor",
-    "letter",
-    "lik",
-    "link",
-    "longer",
-    "man",
-    "pregnant",
-    "releas",
-    "sticker",
-    "threaten",
-    "trump",
-    "visit",
-    "women"
-   ],
-   "skipped"
-  ],
-  [
    "2026-11-25T12:01:53.785047+00:00",
    [
     "advantag",
@@ -14451,17 +14425,13 @@
    "70b49cf68f"
   ]
  ],
- "last_draft_at": "2026-11-28T11:31:08.212995+00:00",
+ "last_draft_at": "2026-11-28T11:45:37.515380+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-28T11:15:38.063281+00:00",
  "run_log": [
-  "11-28 09:15:50 run start",
-  "11-28 09:16:24 listening 11 min",
-  "11-28 09:27:17 listening done",
-  "11-28 09:27:17 run end after 687 s",
   "11-28 09:30:41 run start",
   "11-28 09:31:01 listening 11 min",
   "11-28 09:42:21 listening done",
@@ -14497,7 +14467,11 @@
   "11-28 11:31:07 run start",
   "11-28 11:31:38 listening 11 min",
   "11-28 11:42:33 listening done",
-  "11-28 11:42:33 run end after 686 s"
+  "11-28 11:42:33 run end after 686 s",
+  "11-28 11:45:37 run start",
+  "11-28 11:46:10 listening 11 min",
+  "11-28 11:57:04 listening done",
+  "11-28 11:57:04 run end after 686 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
