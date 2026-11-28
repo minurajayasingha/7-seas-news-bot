@@ -1,192 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "ce67c4c0f3": {
-   "id": "ce67c4c0f3",
-   "headline": "Chinese official sentenced to death for espionage",
-   "summary": "A government-linked publisher reports that a Chinese official has received a death sentence for spying. According to reports, the individual leaked national secrets to an unnamed foreign country in exchange for payments.",
-   "label": "WORLD",
-   "hook": "",
-   "key_points": [
-    "The convicted official was surnamed Ma.",
-    "Intelligence payments exceeded $150,000.",
-    "Recruitment occurred while working abroad."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#China",
-    "#WorldNews",
-    "#Espionage"
-   ],
-   "sources": [
-    "CBS News",
-    "The Guardian"
-   ],
-   "link": "https://www.cbsnews.com/news/china-spy-sentence-death-ma/",
-   "links": [
-    [
-     "CBS News",
-     "https://www.cbsnews.com/news/china-spy-sentence-death-ma/"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Beijing_city_subway_passage.jpg/1920px-Beijing_city_subway_passage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Nacaru / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 5,
-      "shows": "curved subway corridor in Beijing"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Chinese official sentenced to death for espionage",
-    "people": [],
-    "image_query": "Beijing city",
-    "image_queries": [
-     "courtroom",
-     "government building",
-     "Beijing skyline",
-     "law books"
-    ],
-    "image_style": "person",
-    "location": "China",
-    "nearby_city": "Beijing, China",
-    "event_query": "courtroom",
-    "topic_photo": "judge gavel",
-    "label": "WORLD",
-    "action_subject": "courtroom",
-    "news_time": "2026-11-24T02:37:36+00:00"
-   },
-   "created_at": "2026-11-24T07:34:22.474998+00:00",
-   "news_time": "2026-11-24T02:37:36+00:00",
-   "news_latest": "2026-11-24T07:15:30+00:00",
-   "importance": 6,
-   "caption": "Chinese official sentenced to death for espionage\n\nA government-linked publisher reports that a Chinese official has received a death sentence for spying. According to reports, the individual leaked national secrets to an unnamed foreign country in exchange for payments.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#China #WorldNews #Espionage #7SeasNews",
-   "photo_line": "📷 5/10 curved subway corridor in Beijing",
-   "status": "posted",
-   "tg_message_id": 948,
-   "tg_file_id": "AgACAgUAAxkDAAIDtGsFPgABmqw69herm8JeIRwJqdlwfgACjRNrG0oHKVRG95A2xLi1lgEAAwIAA3cAAz0E",
-   "queued_at": "2026-11-24T07:34:24.328302+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-24T07:34:24.328319+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122110831155548584",
-   "posted_at": "2026-11-24T07:34:37.238190+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 24 · 2:34 AM New York · 1:04 PM Sri Lanka\n\n<b>Chinese official sentenced to death for espionage</b>\n<i>CBS News, The Guardian</i>\n🟢 <b>Latest:</b> 12:45 PM Sri Lanka (19 min ago) · first reported 8:07 AM\n📷 5/10 curved subway corridor in Beijing\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122110831155548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 654,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122110831155548584_1133623549647455",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-27T07:15:36.051553+00:00"
-  },
-  "e0dfb34915": {
-   "id": "e0dfb34915",
-   "headline": "Australia passes new online safety laws targeting tech firms",
-   "summary": "Australia is introducing new digital duty of care laws expected to pass this week. The legislation could impose fines of up to five percent of global revenue on tech giants and allow individuals to sue big tech firms for online harm.",
-   "label": "WORLD",
-   "hook": "Should individuals have the right to sue social media companies for online harm?",
-   "key_points": [
-    "Laws include multibillion-dollar fines for online harm.",
-    "Australians can opt out of addictive algorithms from late 2027.",
-    "Labor and the Greens joined forces on the legislation."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Australia",
-    "#SocialMedia",
-    "#TechNews"
-   ],
-   "sources": [
-    "Al Jazeera",
-    "The Guardian"
-   ],
-   "link": "https://www.aljazeera.com/news/2026/11/24/australia-warns-tech-giants-of-multibillion-dollar-fines-for-online-harm?traffic_source=rss",
-   "links": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/24/australia-warns-tech-giants-of-multibillion-dollar-fines-for-online-harm?traffic_source=rss"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/technology/2026/nov/24/social-media-big-tech-fines-global-revenue-australia-digital-duty-care-laws"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Parliament_House_Canberra_Dusk_Panorama.jpg",
-      "credit": "JJ Harrison (https://www.jjharrison.com.au/) / Wikimedia Commons (CC BY-SA 3.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 10,
-      "shows": "Parliament House Canberra"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Australia passes new online safety laws targeting tech firms",
-    "people": [],
-    "image_query": "Parliament House Canberra",
-    "image_queries": [
-     "social media headquarters",
-     "smartphone app screen",
-     "Australian flag",
-     "digital technology office"
-    ],
-    "image_style": "scene",
-    "location": "Canberra, Australia",
-    "nearby_city": "Sydney, Australia",
-    "event_query": "Australian Parliament building",
-    "topic_photo": "smartphone screen",
-    "label": "WORLD",
-    "action_subject": "smartphone displaying social media app",
-    "news_time": "2026-11-24T04:03:16+00:00"
-   },
-   "created_at": "2026-11-24T07:34:35.082905+00:00",
-   "news_time": "2026-11-24T04:03:16+00:00",
-   "news_latest": "2026-11-24T07:02:52+00:00",
-   "importance": 7,
-   "caption": "Australia passes new online safety laws targeting tech firms\n\nAustralia is introducing new digital duty of care laws expected to pass this week. The legislation could impose fines of up to five percent of global revenue on tech giants and allow individuals to sue big tech firms for online harm.\n\n💬 Should individuals have the right to sue social media companies for online harm?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Australia #SocialMedia #TechNews #7SeasNews",
-   "photo_line": "📷 10/10 Parliament House Canberra",
-   "status": "posted",
-   "tg_message_id": 949,
-   "tg_file_id": "AgACAgUAAxkDAAIDtWsFPgymqXdpRoY31dXEdhAJU6qEAAKOE2sbSgcpVD7oEIKDsF3QAQADAgADdwADPQQ",
-   "queued_at": "2026-11-24T07:34:36.944084+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-24T07:34:36.944105+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122110831893548584",
-   "posted_at": "2026-11-24T07:34:37.238190+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 24 · 2:34 AM New York · 1:04 PM Sri Lanka\n\n<b>Australia passes new online safety laws targeting tech firms</b>\n<i>Al Jazeera, The Guardian</i>\n🟢 <b>Latest:</b> 12:32 PM Sri Lanka (32 min ago) · first reported 9:33 AM\n📷 10/10 Parliament House Canberra\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122110831893548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 655,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122110831893548584_1862267568536352",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-27T07:15:36.051553+00:00"
-  },
   "33748771cf": {
    "id": "33748771cf",
    "headline": "Pentagon accuses Canada of failing as a credible defence partner",
@@ -14897,17 +14711,13 @@
    "8feb438bba"
   ]
  ],
- "last_draft_at": "2026-11-28T07:16:16.859920+00:00",
+ "last_draft_at": "2026-11-28T07:30:51.392209+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-28T07:15:39.093975+00:00",
  "run_log": [
-  "11-28 05:11:58 run start",
-  "11-28 05:12:56 listening 11 min",
-  "11-28 05:23:24 listening done",
-  "11-28 05:23:24 run end after 686 s",
   "11-28 05:23:52 run start",
   "11-28 05:24:12 listening 11 min",
   "11-28 05:35:30 listening done",
@@ -14943,7 +14753,11 @@
   "11-28 07:15:38 run start",
   "11-28 07:16:26 listening 11 min",
   "11-28 07:27:21 listening done",
-  "11-28 07:27:21 run end after 702 s"
+  "11-28 07:27:21 run end after 702 s",
+  "11-28 07:30:50 run start",
+  "11-28 07:31:00 listening 11 min",
+  "11-28 07:42:20 listening done",
+  "11-28 07:42:20 run end after 689 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
