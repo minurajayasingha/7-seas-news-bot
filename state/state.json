@@ -10350,8 +10350,6 @@
   }
  },
  "seen_links": [
-  "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
-  "https://www.cbsnews.com/news/lutnick-nvidia-ai-chips-china/",
   "https://www.aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office?traffic_source=rss",
   "https://www.independent.co.uk/news/world/americas/us-politics/trump-cuba-military-force-iran-war-b3084238.html",
   "https://www.upi.com/Top_News/US/2026/11/12/Texas-executes-John-Allen-Rubio/6201794534694/",
@@ -12349,7 +12347,9 @@
   "https://www.theguardian.com/uk-news/2026/nov/27/catherine-princess-of-wales-heal-documentary-cancer",
   "https://www.nytimes.com/2026/11/27/world/europe/princess-catherine-kate-heal-cancer-documentary.html",
   "https://www.upi.com/Top_News/World-News/2026/11/27/canada-toronto-home-invasion/9621795820583/",
-  "https://thehill.com/policy/international/6245638-ontario-doug-ford-self-defense-toronto-home-invasions/"
+  "https://thehill.com/policy/international/6245638-ontario-doug-ford-self-defense-toronto-home-invasions/",
+  "https://www.newsweek.com/ai-politics/ted-cruz-blames-china-for-data-center-water-fears-youre-being-lied-to-12775022",
+  "https://www.npr.org/2026/11/27/nx-s1-6048749/with-abbott-out-what-does-the-future-look-like-for-data-centers-in-texas"
  ],
  "recent_topics": [
   [
@@ -15338,19 +15338,37 @@
     "want"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-27T23:55:08.504124+00:00",
+   [
+    "abbott",
+    "blam",
+    "center",
+    "china",
+    "cruz",
+    "data",
+    "doe",
+    "fear",
+    "futur",
+    "lied",
+    "lik",
+    "look",
+    "ted",
+    "texa",
+    "water",
+    "you'r"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-27T23:42:43.933727+00:00",
+ "last_draft_at": "2026-11-27T23:55:06.346696+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T23:16:07.213452+00:00",
  "run_log": [
-  "11-27 21:30:37 run start",
-  "11-27 21:30:56 listening 11 min",
-  "11-27 21:42:14 listening done",
-  "11-27 21:42:14 run end after 697 s",
   "11-27 21:45:56 run start",
   "11-27 21:46:39 listening 11 min",
   "11-27 21:57:31 listening done",
@@ -15386,7 +15404,11 @@
   "11-27 23:42:43 run start",
   "11-27 23:42:52 listening 11 min",
   "11-27 23:54:10 listening done",
-  "11-27 23:54:10 run end after 687 s"
+  "11-27 23:54:10 run end after 687 s",
+  "11-27 23:55:05 run start",
+  "11-27 23:55:08 listening 11 min",
+  "11-28 00:06:53 listening done",
+  "11-28 00:06:53 run end after 708 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
