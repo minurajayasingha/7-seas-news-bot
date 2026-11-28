@@ -1,99 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "d2244b9c6e": {
-   "id": "d2244b9c6e",
-   "headline": "Analysis estimates over 700,000 Russian soldiers killed in Ukraine war",
-   "summary": "An analysis estimates that more than 700,000 Russian soldiers have died in the war on Ukraine. Hacked government data underscores the human cost of the conflict, which has lasted nearly five years.",
-   "label": "CONFLICT",
-   "hook": "",
-   "key_points": [
-    "Russia invaded Ukraine nearly five years ago.",
-    "Hacked government data indicates the soldier deaths.",
-    "The analysis highlights the human cost of Vladimir V. Putin's war."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#Russia",
-    "#Ukraine",
-    "#WorldNews"
-   ],
-   "sources": [
-    "New York Times",
-    "UPI"
-   ],
-   "link": "https://www.upi.com/Top_News/World-News/2026/11/23/more-than-700000-soldiers-estimated-killed-in-ukraine-war/5711795475749/",
-   "links": [
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/World-News/2026/11/23/more-than-700000-soldiers-estimated-killed-in-ukraine-war/5711795475749/"
-    ],
-    [
-     "New York Times",
-     "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Aerial_view_on_Kruhla_Square%2C_Poltava%2C_Ukraine_3.jpg/1920px-Aerial_view_on_Kruhla_Square%2C_Poltava%2C_Ukraine_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Максим Бондаревский / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 5,
-      "shows": "aerial view of round square"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Analysis estimates over 700,000 Russian soldiers killed in Ukraine war",
-    "people": [],
-    "image_query": "Kyiv city",
-    "image_queries": [
-     "Kyiv streets",
-     "destroyed building",
-     "military vehicle",
-     "war memorial"
-    ],
-    "image_style": "incident",
-    "location": "Ukraine",
-    "nearby_city": "Kyiv, Ukraine",
-    "event_query": "Ukraine war destruction",
-    "topic_photo": "military helmet",
-    "label": "CONFLICT",
-    "action_subject": "Ukrainian soldiers",
-    "news_time": "2026-11-23T19:19:23+00:00"
-   },
-   "created_at": "2026-11-24T00:54:17.743663+00:00",
-   "news_time": "2026-11-23T19:19:23+00:00",
-   "news_latest": "2026-11-23T23:22:38+00:00",
-   "importance": 9,
-   "caption": "Analysis estimates over 700,000 Russian soldiers killed in Ukraine war\n\nAn analysis estimates that more than 700,000 Russian soldiers have died in the war on Ukraine. Hacked government data underscores the human cost of the conflict, which has lasted nearly five years.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Russia #Ukraine #WorldNews #7SeasNews",
-   "photo_line": "📷 5/10 aerial view of round square",
-   "status": "posted",
-   "tg_message_id": 944,
-   "tg_file_id": "AgACAgUAAxkDAAIDsGsE4DtpvkLTvIEU7EljhStyEmeAAALZEmsbSgcpVFJoLPXJpv9KAQADAgADdwADPQQ",
-   "queued_at": "2026-11-24T00:54:20.024341+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-24T00:54:20.024365+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122110658373548584",
-   "posted_at": "2026-11-24T00:54:20.328266+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 23 · 7:54 PM New York · 6:24 AM Sri Lanka\n\n<b>Analysis estimates over 700,000 Russian soldiers killed in Ukraine war</b>\n<i>New York Times, UPI</i>\n🟡 <b>Latest:</b> 4:52 AM Sri Lanka (1h 31m ago) · first reported 12:49 AM\n📷 5/10 aerial view of round square\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122110658373548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 651,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122110658373548584_1464276838435051",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-27T00:06:41.135358+00:00"
-  },
   "673f836078": {
    "id": "673f836078",
    "headline": "Federal court unseals records regarding search of Rep Ilhan Omar home",
@@ -10255,11 +10162,6 @@
   }
  },
  "seen_links": [
-  "https://www.aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office?traffic_source=rss",
-  "https://www.independent.co.uk/news/world/americas/us-politics/trump-cuba-military-force-iran-war-b3084238.html",
-  "https://www.upi.com/Top_News/US/2026/11/12/Texas-executes-John-Allen-Rubio/6201794534694/",
-  "https://www.newsweek.com/james-pavatt-john-rubio-executed-12708299",
-  "https://www.newsweek.com/zelensky-kushner-meeting-everything-we-know-about-prisoner-exchange-plans-12708455",
   "https://kyivindependent.com/zelensky-meets-with-trumps-envoys-in-dublin-after-their-summit-with-putin/",
   "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries",
   "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
@@ -12254,49 +12156,14 @@
   "https://www.upi.com/Top_News/World-News/2026/11/27/canada-toronto-home-invasion/9621795820583/",
   "https://thehill.com/policy/international/6245638-ontario-doug-ford-self-defense-toronto-home-invasions/",
   "https://www.newsweek.com/ai-politics/ted-cruz-blames-china-for-data-center-water-fears-youre-being-lied-to-12775022",
-  "https://www.npr.org/2026/11/27/nx-s1-6048749/with-abbott-out-what-does-the-future-look-like-for-data-centers-in-texas"
+  "https://www.npr.org/2026/11/27/nx-s1-6048749/with-abbott-out-what-does-the-future-look-like-for-data-centers-in-texas",
+  "https://www.washingtonexaminer.com/travel/4816749/american-airlines-planes-clip-wings-washington-national-airport/",
+  "https://www.upi.com/Top_News/US/2026/11/27/washington-dc-american-airlines-wing-clip/5001795825464/",
+  "https://www.foxnews.com/politics/mamdani-handed-95k-staff-raises-same-day-warned-12b-budget-deficit-report",
+  "https://www.nbcnews.com/news/us-news/zohran-mamdani-surgery-torn-achilles-successful-ll-make-full-recovery-rcna611501",
+  "https://www.washingtonexaminer.com/news/business/4816579/mamdani-black-friday-delivery-protection-act/"
  ],
  "recent_topics": [
-  [
-   "2026-11-25T00:46:38.902643+00:00",
-   [
-    "administration",
-    "bid",
-    "consider",
-    "end",
-    "hardliner",
-    "iran",
-    "iranian",
-    "leader",
-    "regim",
-    "sourc",
-    "target",
-    "trump",
-    "war",
-    "weigh"
-   ],
-   "fa5c76011c"
-  ],
-  [
-   "2026-11-25T00:46:40.428161+00:00",
-   [
-    "activity",
-    "arrest",
-    "break-in",
-    "country",
-    "custody",
-    "hom",
-    "kat",
-    "men",
-    "near",
-    "princ",
-    "princess",
-    "suspiciou",
-    "wal",
-    "william"
-   ],
-   "skipped"
-  ],
   [
    "2026-11-25T01:46:20.949471+00:00",
    [
@@ -15244,19 +15111,60 @@
     "you'r"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-28T00:46:19.294335+00:00",
+   [
+    "airlin",
+    "airport",
+    "american",
+    "another",
+    "clip",
+    "jetliner",
+    "national",
+    "plan",
+    "reagan",
+    "wing"
+   ],
+   "skipped"
+  ],
+  [
+   "2026-11-28T00:46:23.359574+00:00",
+   [
+    "achill",
+    "act",
+    "black",
+    "budget",
+    "deficit",
+    "delivery",
+    "friday",
+    "full",
+    "hand",
+    "mak",
+    "mamdani",
+    "promot",
+    "protection",
+    "rais",
+    "recovery",
+    "sam",
+    "staff",
+    "successful",
+    "surgery",
+    "torn",
+    "use",
+    "warn",
+    "zohran"
+   ],
+   "skipped"
   ]
  ],
- "last_draft_at": "2026-11-28T00:31:13.159647+00:00",
+ "last_draft_at": "2026-11-28T00:46:17.297161+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-28T00:19:20.053847+00:00",
  "run_log": [
-  "11-27 22:31:00 run start",
-  "11-27 22:31:01 listening 11 min",
-  "11-27 22:42:44 listening done",
-  "11-27 22:42:44 run end after 704 s",
   "11-27 22:45:36 run start",
   "11-27 22:45:46 listening 11 min",
   "11-27 22:57:05 listening done",
@@ -15292,7 +15200,11 @@
   "11-28 00:31:12 run start",
   "11-28 00:31:44 listening 11 min",
   "11-28 00:42:38 listening done",
-  "11-28 00:42:38 run end after 685 s"
+  "11-28 00:42:38 run end after 685 s",
+  "11-28 00:46:16 run start",
+  "11-28 00:46:23 listening 11 min",
+  "11-28 00:57:43 listening done",
+  "11-28 00:57:43 run end after 686 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
