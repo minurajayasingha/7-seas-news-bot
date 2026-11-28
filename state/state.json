@@ -1,98 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "1f2a8fcdf2": {
-   "id": "1f2a8fcdf2",
-   "headline": "NATO authorizes early-warning aircraft deployment to Poland",
-   "summary": "NATO has authorized the deployment of an early-warning aircraft to Poland following recent Russian missile activity in the region. Poland did not shoot down a drone due to concerns regarding civilian safety.",
-   "label": "DIPLOMACY",
-   "hook": "",
-   "key_points": [
-    "Russian cruise missiles entered Polish airspace late last week.",
-    "Concerns over civilian risk prevented the drone from being shot down."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#NATO",
-    "#Poland",
-    "#WorldNews"
-   ],
-   "sources": [
-    "The Independent",
-    "UPI"
-   ],
-   "link": "https://www.upi.com/Top_News/World-News/2026/11/24/belgium-NATO-warning-aircraft-Poland/4441795509101/",
-   "links": [
-    [
-     "UPI",
-     "https://www.upi.com/Top_News/World-News/2026/11/24/belgium-NATO-warning-aircraft-Poland/4441795509101/"
-    ],
-    [
-     "The Independent",
-     "https://www.independent.co.uk/news/world/europe/poland-russia-airspace-ukraine-drone-b3090416.html"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Warsaw_skyline_%288510344469%29.jpg",
-      "credit": "Guillaume Speurt from Vilnius, Lithuania / Wikimedia Commons (CC BY-SA 2.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 5,
-      "shows": "Warsaw skyline"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "NATO authorizes early-warning aircraft deployment to Poland",
-    "people": [],
-    "image_query": "Warsaw skyline",
-    "image_queries": [
-     "military air base",
-     "radar control room",
-     "military aircraft",
-     "defense ministry building"
-    ],
-    "image_style": "scene",
-    "location": "Poland",
-    "nearby_city": "Warsaw, Poland",
-    "event_query": "NATO aircraft deployment Poland",
-    "topic_photo": "military aircraft",
-    "label": "DIPLOMACY",
-    "action_subject": "early warning aircraft",
-    "news_time": "2026-11-24T08:41:51+00:00"
-   },
-   "created_at": "2026-11-24T09:51:39.270508+00:00",
-   "news_time": "2026-11-24T08:41:51+00:00",
-   "news_latest": "2026-11-24T09:38:44+00:00",
-   "importance": 8,
-   "caption": "NATO authorizes early-warning aircraft deployment to Poland\n\nNATO has authorized the deployment of an early-warning aircraft to Poland following recent Russian missile activity in the region. Poland did not shoot down a drone due to concerns regarding civilian safety.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#NATO #Poland #WorldNews #7SeasNews",
-   "photo_line": "📷 5/10 Warsaw skyline",
-   "status": "posted",
-   "tg_message_id": 953,
-   "tg_file_id": "AgACAgUAAxkDAAIDuWsFXi1LaMuRCO72KUvlVTorgjGiAALJE2sbSgcxVHItZP2C1KkRAQADAgADdwADPQQ",
-   "queued_at": "2026-11-24T09:51:41.387757+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-24T09:51:41.387790+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122110911249548584",
-   "posted_at": "2026-11-24T09:51:41.699337+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 24 · 4:51 AM New York · 3:21 PM Sri Lanka\n\n<b>NATO authorizes early-warning aircraft deployment to Poland</b>\n<i>The Independent, UPI</i>\n🟢 <b>Latest:</b> 3:08 PM Sri Lanka (13 min ago) · first reported 2:11 PM\n📷 5/10 Warsaw skyline\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122110911249548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 658,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122110911249548584_3000570747002940",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-27T09:15:37.870250+00:00"
-  },
   "034750cc4a": {
    "id": "034750cc4a",
    "headline": "Malaysia announces plans to repatriate 6,803 Myanmar nationals",
@@ -14476,17 +14384,13 @@
    "8feb438bba"
   ]
  ],
- "last_draft_at": "2026-11-28T09:30:42.283040+00:00",
+ "last_draft_at": "2026-11-28T09:45:35.804077+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-28T09:15:50.490005+00:00",
  "run_log": [
-  "11-28 07:15:38 run start",
-  "11-28 07:16:26 listening 11 min",
-  "11-28 07:27:21 listening done",
-  "11-28 07:27:21 run end after 702 s",
   "11-28 07:30:50 run start",
   "11-28 07:31:00 listening 11 min",
   "11-28 07:42:20 listening done",
@@ -14522,7 +14426,11 @@
   "11-28 09:30:41 run start",
   "11-28 09:31:01 listening 11 min",
   "11-28 09:42:21 listening done",
-  "11-28 09:42:21 run end after 699 s"
+  "11-28 09:42:21 run end after 699 s",
+  "11-28 09:45:35 run start",
+  "11-28 09:46:07 listening 11 min",
+  "11-28 09:57:01 listening done",
+  "11-28 09:57:01 run end after 686 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
