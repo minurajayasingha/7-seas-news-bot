@@ -12062,32 +12062,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-25T07:01:13.526224+00:00",
-   [
-    "afcon",
-    "africa",
-    "back",
-    "cas",
-    "celebrat",
-    "challeng",
-    "court",
-    "cup",
-    "fan",
-    "giv",
-    "given",
-    "legal",
-    "morocco",
-    "rul",
-    "senegal",
-    "sport",
-    "titl",
-    "verdict",
-    "victory",
-    "vow"
-   ],
-   "skipped"
-  ],
-  [
    "2026-11-25T08:18:17.052220+00:00",
    [
     "14",
@@ -14923,17 +14897,13 @@
    "8feb438bba"
   ]
  ],
- "last_draft_at": "2026-11-28T06:45:40.507653+00:00",
+ "last_draft_at": "2026-11-28T07:00:41.242558+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-28T06:15:31.265971+00:00",
  "run_log": [
-  "11-28 04:45:34 run start",
-  "11-28 04:45:53 listening 11 min",
-  "11-28 04:57:12 listening done",
-  "11-28 04:57:12 run end after 697 s",
   "11-28 04:59:59 run start",
   "11-28 05:00:11 listening 11 min",
   "11-28 05:11:32 listening done",
@@ -14969,7 +14939,11 @@
   "11-28 06:45:40 run start",
   "11-28 06:45:49 listening 11 min",
   "11-28 06:57:08 listening done",
-  "11-28 06:57:08 run end after 687 s"
+  "11-28 06:57:08 run end after 687 s",
+  "11-28 07:00:40 run start",
+  "11-28 07:00:49 listening 11 min",
+  "11-28 07:12:08 listening done",
+  "11-28 07:12:08 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
