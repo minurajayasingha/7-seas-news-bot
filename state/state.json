@@ -12156,23 +12156,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-25T03:57:26.841992+00:00",
-   [
-    "australia",
-    "big",
-    "blow",
-    "china",
-    "influenc",
-    "island",
-    "pacific",
-    "pact",
-    "security",
-    "solomon",
-    "such"
-   ],
-   "1b53b687e7"
-  ],
-  [
    "2026-11-25T05:01:18.608326+00:00",
    [
     "alaska",
@@ -15087,17 +15070,13 @@
    "8feb438bba"
   ]
  ],
- "last_draft_at": "2026-11-28T03:45:35.562869+00:00",
+ "last_draft_at": "2026-11-28T04:00:38.995304+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-28T03:16:15.178487+00:00",
  "run_log": [
-  "11-28 01:30:48 run start",
-  "11-28 01:31:21 listening 11 min",
-  "11-28 01:42:15 listening done",
-  "11-28 01:42:15 run end after 687 s",
   "11-28 01:45:34 run start",
   "11-28 01:45:44 listening 11 min",
   "11-28 01:57:04 listening done",
@@ -15133,7 +15112,11 @@
   "11-28 03:45:34 run start",
   "11-28 03:45:44 listening 11 min",
   "11-28 03:57:03 listening done",
-  "11-28 03:57:03 run end after 689 s"
+  "11-28 03:57:03 run end after 689 s",
+  "11-28 04:00:38 run start",
+  "11-28 04:00:48 listening 11 min",
+  "11-28 04:12:06 listening done",
+  "11-28 04:12:06 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
