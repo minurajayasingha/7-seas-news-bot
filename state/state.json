@@ -10159,11 +10159,97 @@
     "shares": 0
    },
    "stats_at": "2026-11-28T02:15:34.551948+00:00"
+  },
+  "8feb438bba": {
+   "id": "8feb438bba",
+   "headline": "Taiwan votes in local elections for mayors and leaders",
+   "summary": "Polls open across Taiwan for closely watched local elections. The vote includes a key mayoral race in Taipei that tests the governing Democratic Progressive Party.",
+   "label": "ELECTIONS",
+   "hook": "How will these local election results impact the governing Democratic Progressive Party?",
+   "key_points": [
+    "Taipei is a stronghold of the opposition Kuomintang.",
+    "Voters choose mayors and other leaders.",
+    "Polls are open across Taiwan."
+   ],
+   "breaking": false,
+   "hashtags": [
+    "#Taiwan",
+    "#TaiwanElections",
+    "#WorldNews"
+   ],
+   "sources": [
+    "ABC News",
+    "Al Jazeera"
+   ],
+   "link": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
+   "links": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss"
+    ],
+    [
+     "ABC News",
+     "https://abcnews.com/International/wireStory/taiwan-holds-elections-choose-mayors-local-leaders-138489345"
+    ]
+   ],
+   "bg": {
+    "type": "photo",
+    "photos": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Vote-case-9982.jpg/1920px-Vote-case-9982.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "PereslavlFoto / Wikimedia Commons (CC BY-SA 3.0)",
+      "short": "WIKIMEDIA COMMONS",
+      "score": 7,
+      "shows": "russian ballot box"
+     }
+    ],
+    "file_photo": true
+   },
+   "img_post": {
+    "headline": "Taiwan votes in local elections for mayors and leaders",
+    "people": [],
+    "image_query": "Taipei city skyline",
+    "image_queries": [
+     "polling station Taiwan",
+     "Taipei street scene",
+     "Taiwan ballot box",
+     "voting booth Taiwan"
+    ],
+    "image_style": "scene",
+    "location": "Taipei, Taiwan",
+    "nearby_city": "Taipei, Taiwan",
+    "event_query": "Taiwan local elections voting",
+    "topic_photo": "ballot box",
+    "label": "ELECTIONS",
+    "action_subject": "voters at polling station",
+    "news_time": "2026-11-28T00:18:40+00:00"
+   },
+   "created_at": "2026-11-28T02:31:04.975333+00:00",
+   "news_time": "2026-11-28T00:18:40+00:00",
+   "news_latest": "2026-11-28T02:05:27+00:00",
+   "importance": 7,
+   "caption": "Taiwan votes in local elections for mayors and leaders\n\nPolls open across Taiwan for closely watched local elections. The vote includes a key mayoral race in Taipei that tests the governing Democratic Progressive Party.\n\n💬 How will these local election results impact the governing Democratic Progressive Party?\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#Taiwan #TaiwanElections #WorldNews #7SeasNews",
+   "photo_line": "📷 7/10 russian ballot box · FILE PHOTO",
+   "status": "posted",
+   "tg_message_id": 1072,
+   "tg_file_id": "AgACAgUAAxkDAAIEMGsKPOogNMEil5l4Jhy1U-tPR5fgAAIRE2sbcIdQVGray415xJ4WAQADAgADdwADPQQ",
+   "queued_at": "2026-11-28T02:31:07.100415+00:00",
+   "post_now": true,
+   "auto": true,
+   "post_at": "2026-11-28T02:31:07.100441+00:00",
+   "post_label": "🤖 Auto-posting",
+   "fb_post_id": "1413030521900096_122112957693548584",
+   "posted_at": "2026-11-28T02:31:07.386347+00:00",
+   "log_text": "✅ <b>Published</b> · Nov 27 · 9:31 PM New York · 8:01 AM Sri Lanka\n\n<b>Taiwan votes in local elections for mayors and leaders</b>\n<i>ABC News, Al Jazeera</i>\n🟢 <b>Latest:</b> 7:35 AM Sri Lanka (25 min ago) · first reported 5:48 AM\n📷 7/10 russian ballot box · FILE PHOTO\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122112957693548584\">Open on Facebook</a>",
+   "log_chat": -1004367532135,
+   "log_msg_id": 781,
+   "log_photo": true,
+   "extra_msgs": [],
+   "cleared": true,
+   "fb_comment_id": "122112957693548584_1528972459102050"
   }
  },
  "seen_links": [
-  "https://kyivindependent.com/zelensky-meets-with-trumps-envoys-in-dublin-after-their-summit-with-putin/",
-  "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries",
   "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
   "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-ballistic-missile-moscow-kyiv-b3083543.html",
   "https://kyivindependent.com/mass-drone-attack-on-moscow-grounds-flights-at-regions-airports/",
@@ -12161,44 +12247,11 @@
   "https://www.upi.com/Top_News/US/2026/11/27/washington-dc-american-airlines-wing-clip/5001795825464/",
   "https://www.foxnews.com/politics/mamdani-handed-95k-staff-raises-same-day-warned-12b-budget-deficit-report",
   "https://www.nbcnews.com/news/us-news/zohran-mamdani-surgery-torn-achilles-successful-ll-make-full-recovery-rcna611501",
-  "https://www.washingtonexaminer.com/news/business/4816579/mamdani-black-friday-delivery-protection-act/"
+  "https://www.washingtonexaminer.com/news/business/4816579/mamdani-black-friday-delivery-protection-act/",
+  "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
+  "https://abcnews.com/International/wireStory/taiwan-holds-elections-choose-mayors-local-leaders-138489345"
  ],
  "recent_topics": [
-  [
-   "2026-11-25T02:31:23.720486+00:00",
-   [
-    "adult",
-    "coast",
-    "crash",
-    "guard",
-    "kid",
-    "miss",
-    "mississippi",
-    "plan",
-    "search"
-   ],
-   "f6259fd41d"
-  ],
-  [
-   "2026-11-25T02:31:44.413841+00:00",
-   [
-    "apocalyptic",
-    "blast",
-    "bomb",
-    "brac",
-    "controll",
-    "down",
-    "explosiv",
-    "fiv",
-    "hunker",
-    "iowa",
-    "iowan",
-    "only",
-    "stockpil",
-    "warn"
-   ],
-   "3323d654f6"
-  ],
   [
    "2026-11-25T03:57:26.841992+00:00",
    [
@@ -15110,19 +15163,34 @@
     "zohran"
    ],
    "skipped"
+  ],
+  [
+   "2026-11-28T02:31:07.100263+00:00",
+   [
+    "across",
+    "choos",
+    "closely",
+    "election",
+    "leader",
+    "local",
+    "mayor",
+    "open",
+    "other",
+    "poll",
+    "taiwan",
+    "vot",
+    "watch"
+   ],
+   "8feb438bba"
   ]
  ],
- "last_draft_at": "2026-11-28T02:16:07.130963+00:00",
+ "last_draft_at": "2026-11-28T02:30:41.290085+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-28T02:15:34.551948+00:00",
  "run_log": [
-  "11-28 00:07:23 run start",
-  "11-28 00:07:33 listening 11 min",
-  "11-28 00:18:52 listening done",
-  "11-28 00:18:52 run end after 688 s",
   "11-28 00:19:19 run start",
   "11-28 00:20:43 listening 10 min",
   "11-28 00:30:47 listening done",
@@ -15158,12 +15226,15 @@
   "11-28 02:15:34 run start",
   "11-28 02:16:26 listening 11 min",
   "11-28 02:27:20 listening done",
-  "11-28 02:27:20 run end after 706 s"
+  "11-28 02:27:20 run end after 706 s",
+  "11-28 02:30:40 run start",
+  "11-28 02:31:20 listening 11 min",
+  "11-28 02:42:13 listening done",
+  "11-28 02:42:13 run end after 692 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
   "recent": [
-   "https://upload.wikimedia.org/wikipedia/commons/2/2d/Al_Khoziny_Islamic_boarding_school_collapsed_during_evacuation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Cenotaph%2C_Whitehall_London_UK_Sun_7th_June_2020.jpg/1920px-Cenotaph%2C_Whitehall_London_UK_Sun_7th_June_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Buffalo_Nairobi_Skyline_Savannah_Kenya_May19_R1600769.jpg/1920px-Buffalo_Nairobi_Skyline_Savannah_Kenya_May19_R1600769.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/e/e7/Warsaw_skyline_%C5%9Awi%C4%99tokrzyski_Bridge.jpg",
@@ -15202,7 +15273,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Private_voting_booth_in_Madrid_.jpg/1920px-Private_voting_booth_in_Madrid_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Centre_Block%2C_Ottawa%2C_Southeast_view_20170422_1.jpg/1920px-Centre_Block%2C_Ottawa%2C_Southeast_view_20170422_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Speed_%28_Cargo_ship%29_MMSI_205332390.jpg/1920px-Speed_%28_Cargo_ship%29_MMSI_205332390.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://live.staticflickr.com/3640/3547624867_2601ab85a7_b.jpg"
+   "https://live.staticflickr.com/3640/3547624867_2601ab85a7_b.jpg",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Vote-case-9982.jpg/1920px-Vote-case-9982.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "pools": {
    "howard lutnick": {
@@ -18461,7 +18533,6 @@
    }
   },
   "recent_ideas": [
-   "courtroom",
    "computer servers",
    "courtroom",
    "court building",
@@ -18472,19 +18543,10 @@
    "voting booth",
    "parliament building",
    "cargo ship",
-   "capitol hill"
+   "capitol hill",
+   "ballot box"
   ],
   "checked": {
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/View_of_Oval_Office_in_2017.jpg/1920px-View_of_Oval_Office_in_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|7943f7ef": {
-    "s": 10,
-    "w": "Oval Office interior view",
-    "p": ""
-   },
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Woman_of_Bolivarian_Armed_Forces_in_a_presidential_meeting.jpg/1920px-Woman_of_Bolivarian_Armed_Forces_in_a_presidential_meeting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|c4a9ea22": {
-    "s": 8,
-    "w": "armed female soldier in uniform",
-    "p": ""
-   },
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Pete_Hegseth_%2852252449115%29.jpg/1280px-Pete_Hegseth_%2852252449115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|person: Pete Hegseth": {
     "s": 10,
     "w": "Pete Hegseth on stage",
@@ -20974,6 +21036,16 @@
     "s": 7,
     "w": "United States Capitol building exterior",
     "p": ""
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Shin_Kong_Minsheng_Square_Chairman_of_Building_Management_Committee_Election_Opening_Ballot_Box_20160306b.JPG/1920px-Shin_Kong_Minsheng_Square_Chairman_of_Building_Management_Committee_Election_Opening_Ballot_Box_20160306b.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|ca7bbbc0": {
+    "s": 3,
+    "w": "people gathered in outdoor courtyard",
+    "p": "does not clearly show ballot boxes or voting action"
+   },
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Vote-case-9982.jpg/1920px-Vote-case-9982.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail|ca7bbbc0": {
+    "s": 7,
+    "w": "russian ballot box",
+    "p": "shows russian ballot box instead of taiwanese"
    }
   }
  },
@@ -20985,10 +21057,10 @@
   "2026-11-24": 23,
   "2026-11-25": 29,
   "2026-11-26": 28,
-  "2026-11-27": 23
+  "2026-11-27": 24
  },
- "last_auto_at": "2026-11-27T22:16:50.426449+00:00",
- "last_post_at": "2026-11-27T22:16:54.576598+00:00",
+ "last_auto_at": "2026-11-28T02:31:07.386347+00:00",
+ "last_post_at": "2026-11-28T02:31:12.191838+00:00",
  "reels_count": {
   "2026-11-21": 3,
   "2026-11-22": 1,
