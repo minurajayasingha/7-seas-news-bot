@@ -11690,22 +11690,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-25T12:01:53.785047+00:00",
-   [
-    "advantag",
-    "can",
-    "escalat",
-    "feud",
-    "find",
-    "neither",
-    "newsom",
-    "political",
-    "quit",
-    "trump"
-   ],
-   "493c59d042"
-  ],
-  [
    "2026-11-25T12:17:01.888419+00:00",
    [
     "administration",
@@ -14425,17 +14409,13 @@
    "70b49cf68f"
   ]
  ],
- "last_draft_at": "2026-11-28T11:45:37.515380+00:00",
+ "last_draft_at": "2026-11-28T12:00:44.816816+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-28T11:15:38.063281+00:00",
  "run_log": [
-  "11-28 09:30:41 run start",
-  "11-28 09:31:01 listening 11 min",
-  "11-28 09:42:21 listening done",
-  "11-28 09:42:21 run end after 699 s",
   "11-28 09:45:35 run start",
   "11-28 09:46:07 listening 11 min",
   "11-28 09:57:01 listening done",
@@ -14471,7 +14451,11 @@
   "11-28 11:45:37 run start",
   "11-28 11:46:10 listening 11 min",
   "11-28 11:57:04 listening done",
-  "11-28 11:57:04 run end after 686 s"
+  "11-28 11:57:04 run end after 686 s",
+  "11-28 12:00:44 run start",
+  "11-28 12:00:54 listening 11 min",
+  "11-28 12:12:12 listening done",
+  "11-28 12:12:12 run end after 687 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
