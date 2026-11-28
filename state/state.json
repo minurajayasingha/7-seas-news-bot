@@ -12062,22 +12062,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-25T05:01:18.608326+00:00",
-   [
-    "alaska",
-    "cit",
-    "conced",
-    "dan",
-    "election",
-    "peltola",
-    "prob",
-    "rac",
-    "senat",
-    "sullivan"
-   ],
-   "9e6b4eb1ce"
-  ],
-  [
    "2026-11-25T05:16:07.838028+00:00",
    [
     "all",
@@ -14976,17 +14960,13 @@
    "8feb438bba"
   ]
  ],
- "last_draft_at": "2026-11-28T04:45:34.769391+00:00",
+ "last_draft_at": "2026-11-28T05:00:02.267610+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-28T04:15:37.816647+00:00",
  "run_log": [
-  "11-28 02:30:40 run start",
-  "11-28 02:31:20 listening 11 min",
-  "11-28 02:42:13 listening done",
-  "11-28 02:42:13 run end after 692 s",
   "11-28 02:45:40 run start",
   "11-28 02:45:50 listening 11 min",
   "11-28 02:57:10 listening done",
@@ -15022,7 +15002,11 @@
   "11-28 04:45:34 run start",
   "11-28 04:45:53 listening 11 min",
   "11-28 04:57:12 listening done",
-  "11-28 04:57:12 run end after 697 s"
+  "11-28 04:57:12 run end after 697 s",
+  "11-28 04:59:59 run start",
+  "11-28 05:00:11 listening 11 min",
+  "11-28 05:11:32 listening done",
+  "11-28 05:11:32 run end after 693 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
@@ -20863,224 +20847,6 @@
   "2026-11-27": 3
  },
  "roundup": {
-  "2026-11-19": {
-   "status": "built",
-   "plan": {
-    "parts": [
-     {
-      "name": "WAR & CONFLICT",
-      "tag": "#warnews",
-      "stories": [
-       3,
-       4,
-       15,
-       12,
-       1,
-       24
-      ],
-      "hook": "Crimean Bridge attacked. Saudi skyscraper hit.",
-      "title": "Crimean Bridge attacked again and Saudi skyscraper hit by Houthi strik",
-      "question": "Will the attacks on infrastructure escalate the conflict further?",
-      "hashtags": [
-       "#conflict",
-       "#security"
-      ],
-      "tags": [
-       "crimean bridge",
-       "saudi arabia",
-       "houthi attacks",
-       "ukraine conflict",
-       "middle east",
-       "security threats"
-      ],
-      "of": 3
-     },
-     {
-      "name": "US NEWS",
-      "tag": "#usnews",
-      "stories": [
-       7,
-       16,
-       17,
-       20,
-       21,
-       22,
-       25,
-       26,
-       29
-      ],
-      "hook": "Army plans Iowa blast. DOJ assigns inquiry.",
-      "title": "Army plans 5-ton chemical detonation in Iowa as Pentagon faces munitio",
-      "question": "How will the Pentagon address the reported munitions shortfall?",
-      "hashtags": [
-       "#uspolitics",
-       "#pentagon"
-      ],
-      "tags": [
-       "us politics",
-       "pentagon",
-       "department of justice",
-       "trump administration",
-       "senate",
-       "house republicans"
-      ],
-      "of": 3
-     },
-     {
-      "name": "WORLD NEWS",
-      "tag": "#worldnews",
-      "stories": [
-       8,
-       2,
-       5,
-       6,
-       9,
-       10,
-       11,
-       14,
-       18,
-       19,
-       23,
-       27,
-       28,
-       30
-      ],
-      "hook": "Historic three-way summit. North Korea expands.",
-      "title": "Trump, Xi and Putin hold historic summit as North Korea expands uraniu",
-      "question": "",
-      "hashtags": [
-       "#worldnews",
-       "#diplomacy"
-      ],
-      "tags": [
-       "world news",
-       "diplomacy",
-       "north korea",
-       "ukraine war",
-       "anthropic valuation",
-       "european leaders"
-      ],
-      "of": 3
-     }
-    ],
-    "dropped": [
-     {
-      "n": 13,
-      "why": "Minor political news item"
-     }
-    ],
-    "ids": [
-     "972d7dbe83",
-     "bc659a943d",
-     "8944b9bf2f",
-     "dab98dd23c",
-     "5ac6485bd7",
-     "2b9a45734f",
-     "dcd20f14d3",
-     "ec70ec531b",
-     "8d4538a5bc",
-     "83b3c49710",
-     "66e1b4360f",
-     "f88a3502ca",
-     "a5d8540347",
-     "25be5e34a5",
-     "7ab40838ae",
-     "94c3d50906",
-     "e9a904bba1",
-     "3f75a9b734",
-     "c492951e0f",
-     "47cd5f1547",
-     "cc8d78234c",
-     "90a29bc059",
-     "4607bb64dc",
-     "8a3271186d",
-     "003d5d2199",
-     "584d3e7253",
-     "bbcf186f1b",
-     "42a9728713",
-     "378b25a5bd",
-     "4ad22076bd"
-    ]
-   },
-   "heads": [
-    "IEA warns Middle East crisis and datacentres threaten energy security",
-    "UN nuclear watchdog says North Korea expands uranium enrichment facility",
-    "Crimean Bridge attacked again as traffic is suspended",
-    "Skyscraper damaged in Riyadh as Saudi Arabia reports Houthi attacks",
-    "European leaders meet in Berlin as Ukraine faces financing gap",
-    "Denmark parliament ratifies security deal involving Greenland and United States",
-    "Army plans to detonate 5 tons of chemicals in Iowa",
-    "Trump, Xi and Putin hold historic three-way summit",
-    "Migrant boat capsizes off Senegal coast leaving several missing",
-    "European Commission hit by AI assisted cyberattack",
-    "Somalia orders United Arab Emirates ambassador to leave the country",
-    "Dutch embassy compound hit by projectile during Kyiv attacks",
-    "Law firm does free work for Trump administration",
-    "Anthropic reaches one point five trillion dollar valuation in Nasdaq debut",
-    "Trump states Iran may be working on weapons",
-    "Department of Justice assigns prosecutor Bill Essayli to Mar-a-Lago raid inquiry",
-    "Trump CISA nominee Michael LoSapio questions Jan 6 attack",
-    "Four men convicted of sexual assault of British woman",
-    "Cincinnati Zoo announces death of Fiona the hippo",
-    "US appeals court halts order restoring Venezuelan deportation protections",
-    "President Trump posthumously pardons baseball player Pete Rose",
-    "Watchdog says Pentagon lacks plan to address munitions shortfall",
-    "Wetstone US Ventures acquires two ocean leases off American Samoa",
-    "Haitian security forces kill 34 suspected gang members in raid",
-    "House Republicans face leadership choices for Oversight Committee",
-    "White House national cyber director Sean Cairncross steps down",
-    "Senator Elissa Slotkin endorses Chris Van Hollen for Senate leadership",
-    "European leaders meet in Berlin for talks on ending Ukraine war",
-    "Senate passes bill to speed up energy and infrastructure projects",
-    "Justice Department drops appeal in Alaska Senate race"
-   ],
-   "asked_at": "2026-11-20T05:00:46.738034+00:00",
-   "test": false,
-   "msg_id": 848,
-   "approved_by": "owner",
-   "approved_at": "2026-11-20T08:00:50.967364+00:00",
-   "dispatch_at": "2026-11-20T08:00:50.967371+00:00",
-   "dispatch_tries": 1,
-   "headlines": [
-    "Crimean Bridge attacked again as traffic is suspended",
-    "Skyscraper damaged in Riyadh as Saudi Arabia reports Houthi attacks",
-    "Trump states Iran may be working on weapons",
-    "Dutch embassy compound hit by projectile during Kyiv attacks",
-    "IEA warns Middle East crisis and datacentres threaten energy security",
-    "Haitian security forces kill 34 suspected gang members in raid",
-    "Army plans to detonate 5 tons of chemicals in Iowa",
-    "Department of Justice assigns prosecutor Bill Essayli to Mar-a-Lago raid inquiry",
-    "Trump CISA nominee Michael LoSapio questions Jan 6 attack",
-    "US appeals court halts order restoring Venezuelan deportation protections",
-    "President Trump posthumously pardons baseball player Pete Rose",
-    "Watchdog says Pentagon lacks plan to address munitions shortfall",
-    "House Republicans face leadership choices for Oversight Committee",
-    "White House national cyber director Sean Cairncross steps down",
-    "Senate passes bill to speed up energy and infrastructure projects",
-    "Trump, Xi and Putin hold historic three-way summit",
-    "UN nuclear watchdog says North Korea expands uranium enrichment facility",
-    "European leaders meet in Berlin as Ukraine faces financing gap",
-    "Denmark parliament ratifies security deal involving Greenland and United States",
-    "Migrant boat capsizes off Senegal coast leaving several missing",
-    "European Commission hit by AI assisted cyberattack",
-    "Somalia orders United Arab Emirates ambassador to leave the country",
-    "Anthropic reaches one point five trillion dollar valuation in Nasdaq debut",
-    "Four men convicted of sexual assault of British woman",
-    "Cincinnati Zoo announces death of Fiona the hippo",
-    "Wetstone US Ventures acquires two ocean leases off American Samoa",
-    "Senator Elissa Slotkin endorses Chris Van Hollen for Senate leadership",
-    "European leaders meet in Berlin for talks on ending Ukraine war",
-    "Justice Department drops appeal in Alaska Senate race"
-   ],
-   "done": {
-    "tt1": true,
-    "log1": true,
-    "tt2": true,
-    "log2": true,
-    "tt3": true,
-    "log3": true
-   }
-  },
   "2026-11-20": {
    "status": "built",
    "plan": {
@@ -22393,6 +22159,163 @@
     "tt3": true,
     "log3": true
    }
+  },
+  "2026-11-27": {
+   "status": "asked",
+   "plan": {
+    "parts": [
+     {
+      "name": "WAR & CONFLICT",
+      "tag": "#warnews",
+      "stories": [
+       6,
+       13,
+       16,
+       21,
+       7,
+       8,
+       22
+      ],
+      "hook": "Drones breach NATO airspace. Airstrikes hit Yemen.",
+      "title": "Fighter jets scramble after drones enter Baltic airspace",
+      "question": "Will Black Sea ceasefire talks succeed?",
+      "hashtags": [
+       "#conflict",
+       "#ukraine"
+      ],
+      "tags": [
+       "ukraine war",
+       "middle east",
+       "nato airspace",
+       "yemen airstrike",
+       "military news",
+       "baltic drones"
+      ],
+      "of": 3
+     },
+     {
+      "name": "US NEWS",
+      "tag": "#usnews",
+      "stories": [
+       9,
+       15,
+       23,
+       17,
+       19
+      ],
+      "hook": "Hackers breach US cloud. Ambassador faces petition.",
+      "title": "Hackers breach US Air Force cloud computing platform",
+      "question": "How will the Air Force respond to the cloud breach?",
+      "hashtags": [
+       "#usnews",
+       "#politics"
+      ],
+      "tags": [
+       "us air force",
+       "us politics",
+       "cybersecurity",
+       "senator fischer",
+       "trump administration",
+       "petitions"
+      ],
+      "of": 3
+     },
+     {
+      "name": "WORLD NEWS",
+      "tag": "#worldnews",
+      "stories": [
+       18,
+       1,
+       3,
+       10,
+       12,
+       24,
+       14,
+       20,
+       11,
+       4,
+       5
+      ],
+      "hook": "Spain holds snap election. Estonia closes border.",
+      "title": "Spain holds snap elections as far right approaches government",
+      "question": "Can Spain form a stable government?",
+      "hashtags": [
+       "#worldnews",
+       "#elections"
+      ],
+      "tags": [
+       "spain election",
+       "estonia russia",
+       "taiwan vote",
+       "world news",
+       "european politics",
+       "global economy"
+      ],
+      "of": 3
+     }
+    ],
+    "dropped": [
+     {
+      "n": 2,
+      "why": "Minor diplomatic office closure."
+     }
+    ],
+    "ids": [
+     "346abff310",
+     "c53d433abc",
+     "381d297116",
+     "e6bfd3a018",
+     "facb4e50b2",
+     "ddef0c0929",
+     "1b318fbf5e",
+     "a1d836995a",
+     "76fcf7baa6",
+     "a03fca97d0",
+     "1b530eb88d",
+     "5ffdbf1d63",
+     "4f350440cb",
+     "8e2b743b2d",
+     "9c5f962794",
+     "5a1335743e",
+     "8131f4a51a",
+     "938ec2effc",
+     "0310bd7d5f",
+     "6b38497d46",
+     "ca7308b64f",
+     "91dcc95368",
+     "9af4beb3a0",
+     "8feb438bba"
+    ]
+   },
+   "heads": [
+    "Spain holds national election to choose new government",
+    "North Korea closes Swiss diplomatic office in Pyongyang",
+    "Estonia prepares to close all five road border crossings with Russia",
+    "France and Germany push for EU budget deal",
+    "Erin Patterson files last ditch appeal in High Court",
+    "Fighter jets scramble after drones enter Latvian and Estonian airspace",
+    "New study warns of Russian hybrid attacks across Europe",
+    "Airstrike in southwestern Yemen kills eleven people",
+    "Hackers breach US Air Force cloud computing platform",
+    "Canada Supreme Court upholds Quebec religious symbols ban",
+    "Norse Atlantic Airways files for bankruptcy and cancels flights",
+    "Kenyan cult leader Paul Mackenzie convicted over 123 deaths",
+    "Ukraine stops electricity exports and announces Hell-3 operation in Donetsk",
+    "Trump supports Iraqi prime minister oil and weapons control",
+    "Office announces death of Senator Deb Fischer husband Bruce",
+    "US military disables commercial vessel near Iran",
+    "Mexico files formal complaint to US over DEA tip line",
+    "Spain holds snap elections as far right approaches government",
+    "Canadian parliament receives petition to expel US ambassador Pete Hoekstra",
+    "Tanker carrying diesel capsizes in Mediterranean waters off Ibiza",
+    "Ukraine submits Black Sea ceasefire offer to international allies",
+    "Hamas says chief son survives Israeli airstrike in Gaza",
+    "Trump officials schedule special meeting to speed redevelopment projects",
+    "Taiwan votes in local elections for mayors and leaders"
+   ],
+   "asked_at": "2026-11-28T05:00:01.942058+00:00",
+   "test": false,
+   "msg_id": 1073
   }
  },
  "run_once_done": [
