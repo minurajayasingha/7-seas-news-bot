@@ -15,78 +15,6 @@
   "deleted": true,
   "parts": []
  },
- "2026-11-18": {
-  "built_at": "2026-11-19T08:32:32.473070+00:00",
-  "test": false,
-  "parts": [
-   {
-    "name": "WAR & CONFLICT",
-    "of": 3,
-    "post_at": "2026-11-19T12:55:00+00:00",
-    "stories": 4,
-    "seconds": 22.4,
-    "fb": {
-     "id": "1836479660891016",
-     "state": "scheduled",
-     "caption": "Ukraine strikes Russia. Israel acts in Gaza.\n\nWAR & CONFLICT · Wednesday's top stories · Part 1/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#warnews #ukraine #7seasnews #news",
-     "thumb": "set"
-    },
-    "yt": {
-     "id": "IjnfCPGTfzU",
-     "state": "scheduled",
-     "url": "https://youtube.com/shorts/IjnfCPGTfzU",
-     "thumb": "set"
-    },
-    "tt": {
-     "state": "sent"
-    }
-   },
-   {
-    "name": "US NEWS",
-    "of": 3,
-    "post_at": "2026-11-19T14:55:00+00:00",
-    "stories": 11,
-    "seconds": 53.1,
-    "fb": {
-     "id": "1138065128596057",
-     "state": "scheduled",
-     "caption": "Peltola wins Alaska race. Nvidia chief testifies.\n\nUS NEWS · Wednesday's top stories · Part 2/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#usnews #uselections #7seasnews #news",
-     "thumb": "set"
-    },
-    "yt": {
-     "id": "TRZTI6xV7eY",
-     "state": "scheduled",
-     "url": "https://youtube.com/shorts/TRZTI6xV7eY",
-     "thumb": "set"
-    },
-    "tt": {
-     "state": "sent"
-    }
-   },
-   {
-    "name": "WORLD NEWS",
-    "of": 3,
-    "post_at": "2026-11-19T16:55:00+00:00",
-    "stories": 7,
-    "seconds": 34.7,
-    "fb": {
-     "id": "2281882086090795",
-     "state": "scheduled",
-     "caption": "Trump meets Xi and Putin. Anthropic sets IPO.\n\nWORLD NEWS · Wednesday's top stories · Part 3/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#worldnews #diplomacy #7seasnews #news",
-     "thumb": "set"
-    },
-    "yt": {
-     "id": "0NZyRbzG58k",
-     "state": "scheduled",
-     "url": "https://youtube.com/shorts/0NZyRbzG58k",
-     "thumb": "set"
-    },
-    "tt": {
-     "state": "sent"
-    }
-   }
-  ]
- },
  "2026-11-19": {
   "built_at": "2026-11-20T08:16:02.117519+00:00",
   "test": false,
@@ -749,6 +677,93 @@
      "tt_status": "SEND_TO_USER_INBOX",
      "size": "1080x1350",
      "photos": 15
+    }
+   }
+  ]
+ },
+ "2026-11-27": {
+  "built_at": "2026-11-28T08:15:33.810080+00:00",
+  "test": false,
+  "parts": [
+   {
+    "name": "WAR & CONFLICT",
+    "of": 3,
+    "post_at": "2026-11-28T12:55:00+00:00",
+    "stories": 7,
+    "seconds": 34.9,
+    "fb": {
+     "id": "1862348208523668",
+     "state": "scheduled",
+     "caption": "Drones breach NATO airspace. Airstrikes hit Yemen.\n\nWAR & CONFLICT · Friday's top stories · Part 1/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#warnews #conflict #7seasnews #news",
+     "thumb": "set"
+    },
+    "yt": {
+     "id": "XzexkbpHzFk",
+     "state": "scheduled",
+     "url": "https://youtube.com/shorts/XzexkbpHzFk",
+     "thumb": "set"
+    },
+    "tt": {
+     "state": "inbox",
+     "kind": "photos",
+     "publish_id": "p_inbox_url~v2.7713132360967292946",
+     "tt_status": "SEND_TO_USER_INBOX",
+     "size": "1080x1350",
+     "photos": 8
+    }
+   },
+   {
+    "name": "US NEWS",
+    "of": 3,
+    "post_at": "2026-11-28T14:55:00+00:00",
+    "stories": 5,
+    "seconds": 24.4,
+    "fb": {
+     "id": "1768735054423014",
+     "state": "scheduled",
+     "caption": "Hackers breach US cloud. Ambassador faces petition.\n\nUS NEWS · Friday's top stories · Part 2/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#usnews #7seasnews #news",
+     "thumb": "set"
+    },
+    "yt": {
+     "id": "BTttHlTsWis",
+     "state": "scheduled",
+     "url": "https://youtube.com/shorts/BTttHlTsWis",
+     "thumb": "set"
+    },
+    "tt": {
+     "state": "inbox",
+     "kind": "photos",
+     "publish_id": "p_inbox_url~v2.7713132360967424018",
+     "tt_status": "SEND_TO_USER_INBOX",
+     "size": "1080x1350",
+     "photos": 6
+    }
+   },
+   {
+    "name": "WORLD NEWS",
+    "of": 3,
+    "post_at": "2026-11-28T16:55:00+00:00",
+    "stories": 11,
+    "seconds": 51.7,
+    "fb": {
+     "id": "2015821432448232",
+     "state": "scheduled",
+     "caption": "Spain holds snap election. Estonia closes border.\n\nWORLD NEWS · Friday's top stories · Part 3/3\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#worldnews #7seasnews #news",
+     "thumb": "set"
+    },
+    "yt": {
+     "id": "iXkS3Nhj6_s",
+     "state": "scheduled",
+     "url": "https://youtube.com/shorts/iXkS3Nhj6_s",
+     "thumb": "set"
+    },
+    "tt": {
+     "state": "inbox",
+     "kind": "photos",
+     "publish_id": "p_inbox_url~v2.7713132586079553537",
+     "tt_status": "SEND_TO_USER_INBOX",
+     "size": "1080x1350",
+     "photos": 12
     }
    }
   ]
