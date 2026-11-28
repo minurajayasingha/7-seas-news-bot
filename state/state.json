@@ -1,101 +1,6 @@
 {
  "tg_offset": 495893092,
  "drafts": {
-  "d1d91f7b30": {
-   "id": "d1d91f7b30",
-   "headline": "Donald Trump criticizes California Governor Gavin Newsom over death sentences",
-   "summary": "President Donald Trump criticized California Governor Gavin Newsom at the Department of Justice for commuting death sentences for more than 500 inmates. Trump also announced a $5,000 contribution to the granddaughter of a slain police officer whose killer received a commuted sentence.",
-   "label": "US POLITICS",
-   "hook": "",
-   "key_points": [
-    "President Trump spoke at the Department of Justice.",
-    "More than 500 inmates had their death sentences commuted.",
-    "The donation goes to the granddaughter of officer Jose Vega."
-   ],
-   "breaking": false,
-   "hashtags": [
-    "#USPolitics",
-    "#California",
-    "#DonaldTrump"
-   ],
-   "sources": [
-    "NBC News",
-    "Washington Examiner"
-   ],
-   "link": "https://www.nbcnews.com/video/president-trump-slams-calif-gov-newsom-for-commuting-death-sentences-for-more-than-500-inmates-274049093874",
-   "links": [
-    [
-     "NBC News",
-     "https://www.nbcnews.com/video/president-trump-slams-calif-gov-newsom-for-commuting-death-sentences-for-more-than-500-inmates-274049093874"
-    ],
-    [
-     "Washington Examiner",
-     "https://www.washingtonexaminer.com/news/white-house/4813113/trump-5k-granddaughter-slain-police-officer-newsom/"
-    ]
-   ],
-   "bg": {
-    "type": "photo",
-    "photos": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Blue_hour_front_view_of_California_State_Capitol_dllu_2018.jpg/1920px-Blue_hour_front_view_of_California_State_Capitol_dllu_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "credit": "Dllu / Wikimedia Commons (CC BY-SA 4.0)",
-      "short": "WIKIMEDIA COMMONS",
-      "score": 10,
-      "shows": "California State Capitol building"
-     }
-    ]
-   },
-   "img_post": {
-    "headline": "Donald Trump criticizes California Governor Gavin Newsom over death sentences",
-    "people": [
-     "Donald Trump"
-    ],
-    "image_query": "California State Capitol",
-    "image_queries": [
-     "Department of Justice building",
-     "California State Capitol",
-     "Palm Springs Police Department",
-     "White House"
-    ],
-    "image_style": "person",
-    "location": "California, US",
-    "nearby_city": "Los Angeles, California",
-    "event_query": "",
-    "topic_photo": "judge gavel",
-    "label": "US POLITICS",
-    "action_subject": "",
-    "news_time": "2026-11-23T22:56:28+00:00"
-   },
-   "created_at": "2026-11-24T00:17:31.616246+00:00",
-   "news_time": "2026-11-23T22:56:28+00:00",
-   "news_latest": "2026-11-23T23:58:44+00:00",
-   "importance": 7,
-   "caption": "Donald Trump criticizes California Governor Gavin Newsom over death sentences\n\nPresident Donald Trump criticized California Governor Gavin Newsom at the Department of Justice for commuting death sentences for more than 500 inmates. Trump also announced a $5,000 contribution to the granddaughter of a slain police officer whose killer received a commuted sentence.\n\n🔗 Source in the comments 👇\n\nFollow 7 Seas News for US & world news every day 🇺🇸🌍\n\n#USPolitics #California #DonaldTrump #7SeasNews",
-   "photo_line": "📷 10/10 California State Capitol building",
-   "status": "posted",
-   "tg_message_id": 943,
-   "tg_file_id": "AgACAgUAAxkDAAIDr2sE153x9yqjMSaTle1vcBRfQp7tAALHEmsbSgcpVKIoZNfEfZfvAQADAgADdwADPQQ",
-   "queued_at": "2026-11-24T00:17:33.978394+00:00",
-   "post_now": true,
-   "auto": true,
-   "post_at": "2026-11-24T00:17:33.978420+00:00",
-   "post_label": "🤖 Auto-posting",
-   "fb_post_id": "1413030521900096_122110645041548584",
-   "posted_at": "2026-11-24T00:17:39.733215+00:00",
-   "log_text": "✅ <b>Published</b> · Nov 23 · 7:17 PM New York · 5:47 AM Sri Lanka\n\n<b>Donald Trump criticizes California Governor Gavin Newsom over death sentences</b>\n<i>NBC News, Washington Examiner</i>\n🟢 <b>Latest:</b> 5:28 AM Sri Lanka (19 min ago) · first reported 4:26 AM\n📷 10/10 California State Capitol building\n\n🔗 <a href=\"https://www.facebook.com/1413030521900096_122110645041548584\">Open on Facebook</a>",
-   "log_chat": -1004367532135,
-   "log_msg_id": 650,
-   "log_photo": true,
-   "extra_msgs": [],
-   "cleared": true,
-   "fb_comment_id": "122110645041548584_904191442720652",
-   "stats": {
-    "likes": 0,
-    "comments": 1,
-    "shares": 0
-   },
-   "stats_at": "2026-11-27T00:06:41.135358+00:00"
-  },
   "d2244b9c6e": {
    "id": "d2244b9c6e",
    "headline": "Analysis estimates over 700,000 Russian soldiers killed in Ukraine war",
@@ -12353,27 +12258,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-25T00:16:06.151486+00:00",
-   [
-    "aircraft",
-    "claim",
-    "clash",
-    "congo",
-    "down",
-    "forc",
-    "government",
-    "group",
-    "heavy",
-    "military",
-    "miss",
-    "plan",
-    "rebel",
-    "retreat",
-    "shoot"
-   ],
-   "ffd99e9319"
-  ],
-  [
    "2026-11-25T00:46:38.902643+00:00",
    [
     "administration",
@@ -15362,17 +15246,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-27T23:55:06.346696+00:00",
+ "last_draft_at": "2026-11-28T00:07:23.669087+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-27T23:16:07.213452+00:00",
  "run_log": [
-  "11-27 21:45:56 run start",
-  "11-27 21:46:39 listening 11 min",
-  "11-27 21:57:31 listening done",
-  "11-27 21:57:31 run end after 695 s",
   "11-27 22:00:43 run start",
   "11-27 22:00:53 listening 11 min",
   "11-27 22:12:12 listening done",
@@ -15408,7 +15288,11 @@
   "11-27 23:55:05 run start",
   "11-27 23:55:08 listening 11 min",
   "11-28 00:06:53 listening done",
-  "11-28 00:06:53 run end after 708 s"
+  "11-28 00:06:53 run end after 708 s",
+  "11-28 00:07:23 run start",
+  "11-28 00:07:33 listening 11 min",
+  "11-28 00:18:52 listening done",
+  "11-28 00:18:52 run end after 688 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
