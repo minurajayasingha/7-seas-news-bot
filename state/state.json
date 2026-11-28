@@ -9595,8 +9595,6 @@
   }
  },
  "seen_links": [
-  "https://kyivindependent.com/mass-drone-attack-on-moscow-grounds-flights-at-regions-airports/",
-  "https://www.aljazeera.com/video/newsfeed/2026/11/13/talarico-appeals-to-trumps-legacy-in-bid-for-bipartisan-reforms?traffic_source=rss",
   "https://www.nbcnews.com/politics/2026-election/democrats-cant-wait-trump-produce-results-james-talarico-says-rcna609096",
   "https://www.upi.com/Top_News/World-News/2026/11/13/North-Korea-FBI-DOJ-cyber-hackers-video-Binance/5521794552076/",
   "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
@@ -11594,7 +11592,9 @@
   "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
   "https://abcnews.com/International/wireStory/taiwan-holds-elections-choose-mayors-local-leaders-138489345",
   "https://abcnews.com/International/wireStory/explosion-middle-school-eastern-afghanistan-kills-wounds-students-138493977",
-  "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss"
+  "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss",
+  "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss"
  ],
  "recent_topics": [
   [
@@ -14365,17 +14365,13 @@
    "8feb438bba"
   ]
  ],
- "last_draft_at": "2026-11-28T10:16:45.274938+00:00",
+ "last_draft_at": "2026-11-28T10:30:41.753148+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-28T10:15:34.909817+00:00",
  "run_log": [
-  "11-28 08:00:40 run start",
-  "11-28 08:00:50 listening 11 min",
-  "11-28 08:12:11 listening done",
-  "11-28 08:12:11 run end after 690 s",
   "11-28 08:15:33 run start",
   "11-28 08:16:35 listening 10 min",
   "11-28 08:27:04 listening done",
@@ -14411,7 +14407,11 @@
   "11-28 10:15:34 run start",
   "11-28 10:17:03 listening 10 min",
   "11-28 10:27:06 listening done",
-  "11-28 10:27:06 run end after 691 s"
+  "11-28 10:27:06 run end after 691 s",
+  "11-28 10:30:41 run start",
+  "11-28 10:31:01 listening 11 min",
+  "11-28 10:42:19 listening done",
+  "11-28 10:42:19 run end after 698 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
