@@ -12165,52 +12165,6 @@
  ],
  "recent_topics": [
   [
-   "2026-11-25T01:46:20.949471+00:00",
-   [
-    "barr",
-    "delay",
-    "execution",
-    "fir",
-    "fort",
-    "hasan",
-    "hood",
-    "legal",
-    "mak",
-    "mass",
-    "mov",
-    "nidal",
-    "pentagon",
-    "petition",
-    "shoot",
-    "shooter",
-    "squad",
-    "stop",
-    "survivor",
-    "witness"
-   ],
-   "7d1b5203fe"
-  ],
-  [
-   "2026-11-25T01:46:34.095719+00:00",
-   [
-    "74",
-    "ahmadi",
-    "concert",
-    "flog",
-    "iran",
-    "parastoo",
-    "perform",
-    "singer",
-    "slam",
-    "tim",
-    "veil",
-    "whip",
-    "without",
-    "youtub"
-   ],
-   "a5d555f155"
-  ],
-  [
    "2026-11-25T02:31:23.720486+00:00",
    [
     "adult",
@@ -15158,17 +15112,13 @@
    "skipped"
   ]
  ],
- "last_draft_at": "2026-11-28T01:30:48.769031+00:00",
+ "last_draft_at": "2026-11-28T01:45:35.053231+00:00",
  "last_slot": "2026-11-10T20:30:00-05:00",
  "commands_set": 11,
  "log_channel": -1004367532135,
  "tiktok_channel": -1004466914706,
  "last_stats_at": "2026-11-28T01:15:55.704493+00:00",
  "run_log": [
-  "11-27 23:30:48 run start",
-  "11-27 23:31:21 listening 11 min",
-  "11-27 23:42:16 listening done",
-  "11-27 23:42:16 run end after 687 s",
   "11-27 23:42:43 run start",
   "11-27 23:42:52 listening 11 min",
   "11-27 23:54:10 listening done",
@@ -15204,7 +15154,11 @@
   "11-28 01:30:48 run start",
   "11-28 01:31:21 listening 11 min",
   "11-28 01:42:15 listening done",
-  "11-28 01:42:15 run end after 687 s"
+  "11-28 01:42:15 run end after 687 s",
+  "11-28 01:45:34 run start",
+  "11-28 01:45:44 listening 11 min",
+  "11-28 01:57:04 listening done",
+  "11-28 01:57:04 run end after 689 s"
  ],
  "day_pack_done": "2026-11-16",
  "photo_memory": {
